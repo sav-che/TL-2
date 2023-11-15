@@ -26,8 +26,8 @@ AG 6(2): 581, 907; Backer p. 334; Barnhart 2: 398; BM 3: 1166; CSP 4: 76, 12: 45
 
 #### Composite works
 
-(1) Author of vols. 5-7 of Duhamel, *Traité arbr. arbust.* ed. 2, 1812-1819 ("Nouveau Duhamel"), see TL-2/1547. For a list of L's contributions to Duhamel's Traité des arbres fruitiers (ed. 2) see Bouchardat (1865), p. 164-166.
-(2) L. contributed many articles to the *Dict. sci. nat.* and the *Dict. sci. méd.* (vols. 20-60).
+- (1) Author of vols. 5-7 of Duhamel, *Traité arbr. arbust.* ed. 2, 1812-1819 ("Nouveau Duhamel"), see TL-2/1547. For a list of L's contributions to Duhamel's Traité des arbres fruitiers (ed. 2) see Bouchardat (1865), p. 164-166.
+- (2) L. contributed many articles to the *Dict. sci. nat.* and the *Dict. sci. méd.* (vols. 20-60).
 
 #### Handwriting
 

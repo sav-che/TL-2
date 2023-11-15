@@ -9,10 +9,11 @@ Spegazzini, Carlo Luigi (1858-1926), Italian-born Argentine botanist; trained at
 #### Herbarium and types
 
 [[Collection LP|LP]] and [[Collection LPS|LPS]]. – Further material at [[Collection B|B]] (mainly destr.), [[Collection BAB|BAB]], [[Collection BAE|BAE]], [[Collection BAF|BAF]], [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection CORD|CORD]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection IAC|IAC]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PAD|PAD]], [[Collection PUR|PUR]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection Z|Z]].
- *Exsiccatae*: (1) *Decades mycologicae italicae*, Conegliano, dec. 1-12 (nos. 1-120), 1879. Sets at [[Collection FH|FH]], [[Collection H|H]], [[Collection PAD|PAD]], [[Collection W|W]].
-(*2*)*Hongos sud-americanos*: decades mycologiae argentinae, dec. 1-5 (nos. 1-50). 20 Apr 1881. Sets at [[Collection BAF|BAF]], [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PAD|PAD]], [[Collection PUR|PUR]], [[Collection SI|SI]]. – See
+
+*Exsiccatae*: (1) *Decades mycologicae italicae*, Conegliano, dec. 1-12 (nos. 1-120), 1879. Sets at [[Collection FH|FH]], [[Collection H|H]], [[Collection PAD|PAD]], [[Collection W|W]].
+- (2) *Hongos sud-americanos*: decades mycologiae argentinae, dec. 1-5 (nos. 1-50). 20 Apr 1881. Sets at [[Collection BAF|BAF]], [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PAD|PAD]], [[Collection PUR|PUR]], [[Collection SI|SI]]. – See
 Stevenson 1971 (p. 399-400).
-(3) Contributed to C. Roumeguère, *Fungi selecti exsiccati* and to the *Erbario crittogamico italiano*.
+- (3) Contributed to C. Roumeguère, *Fungi selecti exsiccati* and to the *Erbario crittogamico italiano*.
 *Letters* to Thaxter at [[Collection FH|FH]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography

@@ -26,9 +26,9 @@ Barnhart 2: 90; Biol.-Dokum. 7: 85.543; BM 2: 740, 6: 412; CSP 15: 477; Desmond 
 
 #### Composite works
 
-(1) *Plant-geography upon a physiological basis*... 1903, which is the English transl. by William Rogers Fisher (1846-1910) of A.F.W. Schimper, *Pfl.-Geogr. Physiol. Grundl.*... 1898, was revised and edited by Groom & I.B. Balfour (1853-1922), see TL-2/5, nr. 10.670.
-(2) E. Warming, *Plantesamfund*... 1895, was "prepared for publication in English" by Groom & I.B. Balfour (1853-1922) and published as *Oecology of plants*... 1909, see TL-2/7, nr. 16.732.
-(3) Edited H.M. Ward, *Trees*... 1904-1909, vols. 4-5, see TL-2/7, nr. 16.682, where credit is given Groom for vol. 4 but not 5.
+- (1) *Plant-geography upon a physiological basis*... 1903, which is the English transl. by William Rogers Fisher (1846-1910) of A.F.W. Schimper, *Pfl.-Geogr. Physiol. Grundl.*... 1898, was revised and edited by Groom & I.B. Balfour (1853-1922), see TL-2/5, nr. 10.670.
+- (2) E. Warming, *Plantesamfund*... 1895, was "prepared for publication in English" by Groom & I.B. Balfour (1853-1922) and published as *Oecology of plants*... 1909, see TL-2/7, nr. 16.732.
+- (3) Edited H.M. Ward, *Trees*... 1904-1909, vols. 4-5, see TL-2/7, nr. 16.682, where credit is given Groom for vol. 4 but not 5.
 
 ### Publications
 

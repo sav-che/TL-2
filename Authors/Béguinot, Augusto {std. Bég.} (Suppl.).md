@@ -29,8 +29,8 @@ Barnhart 1: 154; BFM 3088; BJI 2: 9-10; BL 1: 42, 2: 628 (index); BM 6: 72; Boss
 
 #### Composite works
 
-(1) *Flora e vegetaziòne*, *in* Encicl. ital. sci. lett. arti 29: 729-736. 1933.
-(2) *Le crittogami cellulari* (Tallofiti e Briofite). Prefazione, *in* Brunelli, G. et al., ed., *La laguna di Venezia* 3: 77-81. 1938.
+- (1) *Flora e vegetaziòne*, *in* Encicl. ital. sci. lett. arti 29: 729-736. 1933.
+- (2) *Le crittogami cellulari* (Tallofiti e Briofite). Prefazione, *in* Brunelli, G. et al., ed., *La laguna di Venezia* 3: 77-81. 1938.
 
 ### Publications
 

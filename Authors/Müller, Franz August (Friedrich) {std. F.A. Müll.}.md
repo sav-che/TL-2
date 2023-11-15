@@ -8,7 +8,8 @@ Müller, Franz August \["Friedrich"\] (1798-1871), German pharmacist and plant c
 
 #### Herbarium and types
 
-[[Collection DR|DR]]; see IH for various sets of plants, especially from Sardinia (coll. 1827-1828). *Exsiccatae* (under "Friedrich Müller"): *Kryptogamen Sachsens undder angränzenden Gegenden*, cent. 1-11, 1830-1831; sets at [[Collection DR|DR]], [[Collection GLM|GLM]].
+[[Collection DR|DR]]; see IH for various sets of plants, especially from Sardinia (coll. 1827-1828).
+*Exsiccatae* (under "Friedrich Müller"): *Kryptogamen Sachsens undder angränzenden Gegenden*, cent. 1-11, 1830-1831; sets at [[Collection DR|DR]], [[Collection GLM|GLM]].
 
 #### Name
 

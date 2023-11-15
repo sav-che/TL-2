@@ -35,9 +35,9 @@ APN p. 197; Barnhart 1: 533; Bossert p. 124; GR p. 320; IH 2: 193; Kew 2: 249; R
 
 #### Composite works
 
-(1) *Végétation des flaques des Albères*... 1933 (see TL-2/Suppl. 5, nr.
+- (1) *Végétation des flaques des Albères*... 1933 (see TL-2/Suppl. 5, nr.
 29.265) was treated earlier under Feldmann's co-author, A. Davy de Virville.
-(2) Algae *in* A. Chevalier, *Cap Vert. Flore de l'Archipel*... 1935; see TL-2/Suppl. 4, nr.
+- (2) Algae *in* A. Chevalier, *Cap Vert. Flore de l'Archipel*... 1935; see TL-2/Suppl. 4, nr.
 25.858, where no mention is made of Feldmann whose contribution may be cited as Rev. Bot. Appl. Agric. Trop. 15: 1069-1071. 1935.
 
 ### Publications

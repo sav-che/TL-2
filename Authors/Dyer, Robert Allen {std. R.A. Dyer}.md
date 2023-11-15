@@ -32,9 +32,9 @@ Barnhart 1: 489; BL 1: 29, 92, 294; Hortus 3: 1192; IH 2: 132, 174; Kew 2: 158-1
 
 #### Outside our period
 
-(1) *Flora of Southern Africa* ed. R.A. Dyer, L.E. Codd & H.B. Rycroft, vol. 26. The first volume of a new series covering the Republic of South Africa, Basutoland, Swaziland and S.W. Africa, vii, 307 pp. – See Taxon 12: 302. 5 Nov 1963.
-(2) The *genera of Southern African flowering plants*... Vol. 1. Dicotyledons, Republic of South Africa... Department of agricultural technical services, Botanical Research Institute, Flora of Southern Africa, Pretoria 1975, vii, 756 p. – See Taxon 25: 749. 1 Jun 1976. Vol. 2, xxiv, 472 p., Taxon 26: 114. 9 Mar 1977.
-(3) Editor of *The flowering plants of South Africa* 25-36, see TL-2: no. 8132.
+- (1) *Flora of Southern Africa* ed. R.A. Dyer, L.E. Codd & H.B. Rycroft, vol. 26. The first volume of a new series covering the Republic of South Africa, Basutoland, Swaziland and S.W. Africa, vii, 307 pp. – See Taxon 12: 302. 5 Nov 1963.
+- (2) The *genera of Southern African flowering plants*... Vol. 1. Dicotyledons, Republic of South Africa... Department of agricultural technical services, Botanical Research Institute, Flora of Southern Africa, Pretoria 1975, vii, 756 p. – See Taxon 25: 749. 1 Jun 1976. Vol. 2, xxiv, 472 p., Taxon 26: 114. 9 Mar 1977.
+- (3) Editor of *The flowering plants of South Africa* 25-36, see TL-2: no. 8132.
 
 #### Eponymy
 

@@ -36,15 +36,16 @@ Barnhart 2: 167; BJ1 2: 74; BM 6: 459-460; BL 1: 237, 301; Bossert p. 173; CSP 1
 
 #### Composite works
 
-(1) Handel-Mazzetti, *Symbolae sinicae*, vol. 5, Hepaticae, *Marchantiales*, p. \[1\]-29. 1930 (TL-2/2364).
-(2) A. Geheeb, *Bryol. atl.* (1911), Herzog co-author and editor (TL-2/1983).
-(3) L. Radlkofer, *Sapindaceae*, 1933-1934, editor.
-(4) K. Müller, *Die Lebermoose Europas* 1956-1958, editor.
-(5) Geographie, *in* F. Verdoorn, *Man. Bryol.* 273-296. 1932.
+- (1) Handel-Mazzetti, *Symbolae sinicae*, vol. 5, Hepaticae, *Marchantiales*, p. \[1\]-29. 1930 (TL-2/2364).
+- (2) A. Geheeb, *Bryol. atl.* (1911), Herzog co-author and editor (TL-2/1983).
+- (3) L. Radlkofer, *Sapindaceae*, 1933-1934, editor.
+- (4) K. Müller, *Die Lebermoose Europas* 1956-1958, editor.
+- (5) Geographie, *in* F. Verdoorn, *Man. Bryol.* 273-296. 1932.
 
 #### Festschrift
 
-(1) Feddes Repertorium specierum novarum regni vegetabilis 58(1/3). 7 Jun 1955 (ed. W. Rothmaler); (2) Mitt. thüring. bot. Ges. 1(2/3): 1955 (ed. K. Meyer).
+- (1) Feddes Repertorium specierum novarum regni vegetabilis 58(1/3). 7 Jun 1955 (ed. W. Rothmaler);
+- (2) Mitt. thüring. bot. Ges. 1(2/3): 1955 (ed. K. Meyer).
 
 #### Eponymy (genera)
 

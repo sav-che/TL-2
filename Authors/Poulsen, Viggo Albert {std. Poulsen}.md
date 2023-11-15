@@ -29,8 +29,8 @@ Barnhart 3: 194; BJI 1: 46, 2: 139; BM 4: 1604; Bossert p. 316; CSP 11: 56, 17: 
 
 #### Composite works
 
-(1) EP, *Nat. Pflanzenfam., Cynocrambaceae*, in 3(1A): 120-124. Aug 1893.
-(2) Warming, E., *Symb. bras., Xyridaceae*, 40: 49-120\*. 2 Mai 1894.
+- (1) EP, *Nat. Pflanzenfam., Cynocrambaceae*, in 3(1A): 120-124. Aug 1893.
+- (2) Warming, E., *Symb. bras., Xyridaceae*, 40: 49-120\*. 2 Mai 1894.
 
 #### Handwriting
 

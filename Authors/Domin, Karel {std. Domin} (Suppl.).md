@@ -49,10 +49,10 @@ AG 6(1): 741; Barnhart 1: 463 (b. 4 Mar 1882, Kutná Hora, Kuttenberg); BFM p. 2
 
 #### Composite works
 
-(1) *Vegetationsbilder aus Java*, vorwiegend aus den Urwäldern der westjavanischen Vulkane, *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 11, Heft 5: 14 pages text, *pl. 25-30.* 1914.
-(2) K. Domin issued Acta botanica bohemica from vol. 1 (1922) – vol. 15/16 (1943-44).
-(3) K. Domin & Jos. Podpěra, see J. Podpěra, in TL-2/4: no. 8083, *Klíč*... *květ. Českoslov.* 1928 – See also D.G. Frodin, Guide standard floras world 1984, p. 585.
-(4) K. Domin & V. Krajina, *Flora Čechosl. exsicc. cent. 1*, Prag 1929, cent. 2: 1931, cent. III: 1931, 4: 1936.
+- (1) *Vegetationsbilder aus Java*, vorwiegend aus den Urwäldern der westjavanischen Vulkane, *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 11, Heft 5: 14 pages text, *pl. 25-30.* 1914.
+- (2) K. Domin issued Acta botanica bohemica from vol. 1 (1922) – vol. 15/16 (1943-44).
+- (3) K. Domin & Jos. Podpěra, see J. Podpěra, in TL-2/4: no. 8083, *Klíč*... *květ. Českoslov.* 1928 – See also D.G. Frodin, Guide standard floras world 1984, p. 585.
+- (4) K. Domin & V. Krajina, *Flora Čechosl. exsicc. cent. 1*, Prag 1929, cent. 2: 1931, cent. III: 1931, 4: 1936.
 
 ### Publications
 

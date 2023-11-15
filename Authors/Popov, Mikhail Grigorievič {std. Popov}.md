@@ -26,10 +26,10 @@ Hortus 3: 1201; IH 1 (ed. 6): 363, (ed. 7): 340, 2: (in press); Kew 4: 340-341; 
 
 #### Composite works
 
-(1) Contributed to Komarov, *Fl. URSS*: (*a*) *Papaveracae*, 7: 573-717. 8 Jul 1937.
+- (1) Contributed to Komarov, *Fl. URSS*: (*a*) *Papaveracae*, 7: 573-717. 8 Jul 1937.
 (*b*) *Leguminosae, Astralagus* (with others), 12: 1-873. 27 Sep 1946. (*e*) *Boraginaceae* p.p., 19: 565-691. 5 Feb 1953.
 (*d*) *Orobanchaceae-Mannag*., 23: 115-116. 12 Dec 1958.
-(2) *Flora srednej Sibiri* 1-2, 1957-1959, see Taxon 6: 241. 1957, 9: 30. 1960.
+- (2) *Flora srednej Sibiri* 1-2, 1957-1959, see Taxon 6: 241. 1957, 9: 30. 1960.
 
 #### Handwriting
 

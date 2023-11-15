@@ -20,7 +20,7 @@ Barnhart 2: 317; BJI 1: 33, 2: 94-95; CSP 10: 457; 16: 446-447; Hortus 3: 1197 (
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich* (TL-2/1713):
+- (1) Engler, *Pflanzenreich* (TL-2/1713):
 (a) *Scrophulariaceae*, Heft 28, *Publ*. 5 Apr 1907.
 (b) *Orchidaceae*, Coelogyninae, with E. Pfitzer, Heft 32, *Publ*. 26 Nov 1907. *Dendrobünae* I, Heft 45, *Publ*.: 15 Nov 1910.
 *Dendrobünae* II, heft 50, *Publ*.: 17 Oct 1911.
@@ -28,7 +28,7 @@ Barnhart 2: 317; BJI 1: 33, 2: 94-95; CSP 10: 457; 16: 446-447; Hortus 3: 1197 (
 *Oncidünae*, Heft 80, *Publ*.: 14 Mar 1922.
 *Pseudomonopodiales* Heft 83, *Publ*.: 6 Mar 1923.
 (c) *Cannaceae*, Heft 56, *Publ*.: 22 Oct 1912.
-(2) Continued H. G. Reichenbach, *Xenia orchidacea*.
+- (2) Continued H. G. Reichenbach, *Xenia orchidacea*.
 
 #### Eponymy
 

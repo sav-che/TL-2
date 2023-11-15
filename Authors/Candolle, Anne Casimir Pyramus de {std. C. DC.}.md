@@ -34,14 +34,14 @@ Candollea 28: 165-166. 1973.
 
 #### Composite works
 
-(1) DC., *Prodr*.:
+- (1) DC., *Prodr*.:
 (a) *Juglandaceae*, 16(2): 134-146 \[cf. also 684\]. Dec (sero) 1864.
 (b) *Myricaceae*, 16(2): 147-155 \[cf- also 6841\]. Dec (sero) 1864.
 (c) *Piperaceae*, 16(1): 235(65)-471. medio Nov 1869.
-(2) Martius, *Fl. bras*.: *Meliaceae*, 11(1): 165-228, *pl. 50-65.* 1 Feb 1878.
-(3) Durand et Pittier, *Primitiae florae costaricensis, Piperaceae, in* fasc. 1, 1891.
-(4) Candolle, *Monographiae* (also as editor): *Meliaceae*, 1: 399-752. Jun 1878.
-(5) Lecomte, *Flore Indochine; Saururaceae* 5(1): 59-62. Nov 1910; *Piperaceae* 5(1): 62-92. Nov 1910.
+- (2) Martius, *Fl. bras*.: *Meliaceae*, 11(1): 165-228, *pl. 50-65.* 1 Feb 1878.
+- (3) Durand et Pittier, *Primitiae florae costaricensis, Piperaceae, in* fasc. 1, 1891.
+- (4) Candolle, *Monographiae* (also as editor): *Meliaceae*, 1: 399-752. Jun 1878.
+- (5) Lecomte, *Flore Indochine; Saururaceae* 5(1): 59-62. Nov 1910; *Piperaceae* 5(1): 62-92. Nov 1910.
 
 #### Eponymy (genus)
 

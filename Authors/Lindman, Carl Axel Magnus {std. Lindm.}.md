@@ -25,8 +25,8 @@ Barnhart 2: 386 (d. 21 Jun 1928); BFM 1441, 1442; BJI 1: 37, 2: 106; BL 2: 477, 
 
 #### Composite works
 
-(1) For L's *Bilder ur Nordens flora* see under Palmstruch, *Sv. Bot.*
-(2) Published Th. Krok, *Bibl. bot. suec.* 1925, TL-2/3956.
+- (1) For L's *Bilder ur Nordens flora* see under Palmstruch, *Sv. Bot.*
+- (2) Published Th. Krok, *Bibl. bot. suec.* 1925, TL-2/3956.
 
 #### Eponymy
 

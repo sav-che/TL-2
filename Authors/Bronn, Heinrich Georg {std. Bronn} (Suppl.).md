@@ -38,8 +38,8 @@ ADB 3: 355; Andrews p. 243; Barnhart 1: 257 (b. 3 Mar 1800, d. 5 Jul 1862); BM 1
 
 #### Composite works
 
-(1) H.G. Bronn, *Gedrängte Anleitung zum Sammeln*, Zubereiten u. Verpacken von Thieren, Pflanzen und Mineralien für naturhistorische Museen, Heidelberg 1838, 96 p. – See e.g. Linnaea 12(Litt.): 132-133. Mar 1839 (by D.F.L. von Schlechtendal).
-(2) Hartung, Georg, *Die Azoren*, in ihrer äusseren Erscheinung und nach ihrer geognostischen Natur geschildert, mit Beschreibung der fossilen Reste von Professor H.G. Bronn. Nebst einem Atlas... Leipzig 1860, Verlag von W. Engelmann (Rev. by C. Bolle, Bonplandia 8: 212-213. 1860; H-l, Bot. Zeit. 18(20): 102. 18 Mai 1860).
+- (1) H.G. Bronn, *Gedrängte Anleitung zum Sammeln*, Zubereiten u. Verpacken von Thieren, Pflanzen und Mineralien für naturhistorische Museen, Heidelberg 1838, 96 p. – See e.g. Linnaea 12(Litt.): 132-133. Mar 1839 (by D.F.L. von Schlechtendal).
+- (2) Hartung, Georg, *Die Azoren*, in ihrer äusseren Erscheinung und nach ihrer geognostischen Natur geschildert, mit Beschreibung der fossilen Reste von Professor H.G. Bronn. Nebst einem Atlas... Leipzig 1860, Verlag von W. Engelmann (Rev. by C. Bolle, Bonplandia 8: 212-213. 1860; H-l, Bot. Zeit. 18(20): 102. 18 Mai 1860).
 
 ### Publications
 

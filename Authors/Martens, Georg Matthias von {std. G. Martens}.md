@@ -8,7 +8,8 @@ Martens, Georg Matthias von (1788-1872), German botanist; government official; s
 
 #### Herbarium and types
 
-[[Collection B|B]] (almost entirely destroyed). Duplicates: [[Collection C|C]], [[Collection FI|FI]], [[Collection FR|FR]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection STU|STU]]. *Exsiccatae*: see Rabenhorst (*Algae marinae siccatae*). Koster cites [[Collection LE|LE]] as location for types of algae.
+[[Collection B|B]] (almost entirely destroyed). Duplicates: [[Collection C|C]], [[Collection FI|FI]], [[Collection FR|FR]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection STU|STU]].
+*Exsiccatae*: see Rabenhorst (*Algae marinae siccatae*). Koster cites [[Collection LE|LE]] as location for types of algae.
 
 #### Bibliography and biography
 

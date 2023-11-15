@@ -181,14 +181,14 @@ Charles Boewe, Transylvania University, Lexington, Kentucky, U.S.A., plans to lo
 
 Call, R.E., Life writings Rafinesque, *pl*. opp. p. 48; Proc. Amer. philos. Soc 122(3): 167, fig. 8. 1978 (pre-1805 writing; Bartonia 28: *pl. 7.* 1957.
 
-#### Bibliotheca rafinesquiana
+#### Bibliotheca Rafinesquiana
 
 the literature on Rafinesque continues to grow and the bibliography of his own works still has occasional surprises in store for the Rafinesque connoisseurs. The main publications are the following:
-(1) Fitzpatrick, T.J., *Rafinesque*, a sketch of his life with bibliography, Des Moines, Iowa 1911, 241 p.; bibliography of 939 items with the secondary literature *Bibliotheca* on p. 223-239 (134 items).
-(2) Merrill, E.D., *A generally overlooked Rafinesque paper*, Proc. Amer. philos. Soc. 86: 72-90. 1942; additions to the Rafinesque bibliography and to the *Bibliotheca* (p. 76-77), 35 further titles.
-(3) Merrill, E.D., *Index rafinesquianus*, Jamaica Plain, 1949, 296 p.; additions to the bibliography of Rafinesque on p. 12-14, to the *Bibliotheca* on p. 14-17, 74 further titles. (4) Stuckey, R.L. and M.L. Roberts, *Additions to the Bibliotheca Rafinesquiana*, Taxon 23(2/3): 365-372. 1974; 127 additional titles to the *Bibliotheca*.
-(5) Boewe, C., *Fitzpatrick's Rafinesque*: a sketch of his life with bibliography revised and enlarged, Weston Massachusetts (M. & S. Press) 1982, 327 p.; a reprint of Fitzpatrick with additions to the bibliography on p. 238-260 (items 942-1001 plus reprints and translations and with additions to the Bibliotheca Rafinesquiana (sec. refs.) nos. 135-540. This is now the main bibliographical source for Rafinesque.
-(6) *This treatment* of Rafinesque contains a further number of additions, especially to the *Bibliotheca* in our sections BIOGRAPHY and BIBLIOGRAPHY and BIOFILE. \[*Note* on an almost non-botanical item: A second copy of the very rare pamphlet *The Mexicans in 1830*, FIT 579 (one copy seen by FIT in MO) is at G, p. \[1\]-10 (oct. in size, 6-mo in fold).
+- (1) Fitzpatrick, T.J., *Rafinesque*, a sketch of his life with bibliography, Des Moines, Iowa 1911, 241 p.; bibliography of 939 items with the secondary literature *Bibliotheca* on p. 223-239 (134 items).
+- (2) Merrill, E.D., *A generally overlooked Rafinesque paper*, Proc. Amer. philos. Soc. 86: 72-90. 1942; additions to the Rafinesque bibliography and to the *Bibliotheca* (p. 76-77), 35 further titles.
+- (3) Merrill, E.D., *Index rafinesquianus*, Jamaica Plain, 1949, 296 p.; additions to the bibliography of Rafinesque on p. 12-14, to the *Bibliotheca* on p. 14-17, 74 further titles. (4) Stuckey, R.L. and M.L. Roberts, *Additions to the Bibliotheca Rafinesquiana*, Taxon 23(2/3): 365-372. 1974; 127 additional titles to the *Bibliotheca*.
+- (5) Boewe, C., *Fitzpatrick's Rafinesque*: a sketch of his life with bibliography revised and enlarged, Weston Massachusetts (M. & S. Press) 1982, 327 p.; a reprint of Fitzpatrick with additions to the bibliography on p. 238-260 (items 942-1001 plus reprints and translations and with additions to the Bibliotheca Rafinesquiana (sec. refs.) nos. 135-540. This is now the main bibliographical source for Rafinesque.
+- (6) *This treatment* of Rafinesque contains a further number of additions, especially to the *Bibliotheca* in our sections BIOGRAPHY and BIBLIOGRAPHY and BIOFILE. \[*Note* on an almost non-botanical item: A second copy of the very rare pamphlet *The Mexicans in 1830*, FIT 579 (one copy seen by FIT in MO) is at G, p. \[1\]-10 (oct. in size, 6-mo in fold).
 
 ### Publications
 

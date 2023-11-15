@@ -48,8 +48,8 @@ Barnhart 1: 474 (b. 15 Feb 1798, Genève, d. 24 Nov 1885, Genève); BM 1: 483; B
 
 #### Composite works
 
-(1) Aug. P. de Candolle *Botanicon Gallicum*. seu Synopsis plantarum in *Flora Gallica* editio secunda ex herbariis et schedis Candollianis propriisque disgestum a J.E. Duby, &c. 1828-1830. – See BM 1: 483, PR ed. 1: 2747.
-(2) Moritzi, A., Syst. Verz., Solothurn 1845-1846, see TL-2/no. 6339.
+- (1) Aug. P. de Candolle *Botanicon Gallicum*. seu Synopsis plantarum in *Flora Gallica* editio secunda ex herbariis et schedis Candollianis propriisque disgestum a J.E. Duby, &c. 1828-1830. – See BM 1: 483, PR ed. 1: 2747.
+- (2) Moritzi, A., Syst. Verz., Solothurn 1845-1846, see TL-2/no. 6339.
 
 ### Publications
 

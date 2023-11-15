@@ -21,7 +21,7 @@ Roon p. 27; SBC p. 118; TL-2/3546.
 
 #### Outside our period
 
-(1) *Taxonomy of Indian Mosses*, New Delhi (Council of Scientific & Industrial Research) 1975, 40, 631 p., ill., map. *Copy*: MO. – Taxon 25: 506, 1976, A. Touw, Taxon 26: 455-456. 1977 (rev.).
+- (1) *Taxonomy of Indian Mosses*, New Delhi (Council of Scientific & Industrial Research) 1975, 40, 631 p., ill., map. *Copy*: MO. – Taxon 25: 506, 1976, A. Touw, Taxon 26: 455-456. 1977 (rev.).
 
 ### Publications
 

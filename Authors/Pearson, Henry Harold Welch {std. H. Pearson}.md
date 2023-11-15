@@ -39,9 +39,9 @@ BB p. 240; BJI 2: 132; BL 1: 29, 56, 237, 312; BM 4: 1537, 8: 993; Bossert p. 30
 
 #### Composite works
 
-(1) *Verbenaceae, in* Harvey & Sonder, *Fl. cap.* 5(1): 180-224. Jun 1902, 225-226. Mai 1910; *Welwitschiaceae, in* id. 5(2, suppl.):1-3. 1933; *Gnetaceae, in* id. 6(2): 328-333. Nov. 1917; *Thymelaeaceae, in* id. 6(1, 2): 212-255. Dec 1910.
-(2) Editor, *Annals of the Bolus Herbarium* 1-2(3), 1914-1917.
-(3) Pearson's *On the collections of dried plants obtained in South-West Africa* by the Percy Sladen Memorial Expeditions, 1908-1911, were published in *Ann. S. Afr. Mus.* 9: 1-19. 28 Feb 1911, 21-90. 30 Mai 1912, 129-192. 30 Oct 1913, 193-272. (Apr 1915, 355-418. 30 Jun 1917.
+- (1) *Verbenaceae, in* Harvey & Sonder, *Fl. cap.* 5(1): 180-224. Jun 1902, 225-226. Mai 1910; *Welwitschiaceae, in* id. 5(2, suppl.):1-3. 1933; *Gnetaceae, in* id. 6(2): 328-333. Nov. 1917; *Thymelaeaceae, in* id. 6(1, 2): 212-255. Dec 1910.
+- (2) Editor, *Annals of the Bolus Herbarium* 1-2(3), 1914-1917.
+- (3) Pearson's *On the collections of dried plants obtained in South-West Africa* by the Percy Sladen Memorial Expeditions, 1908-1911, were published in *Ann. S. Afr. Mus.* 9: 1-19. 28 Feb 1911, 21-90. 30 Mai 1912, 129-192. 30 Oct 1913, 193-272. (Apr 1915, 355-418. 30 Jun 1917.
 
 #### Dedication
 

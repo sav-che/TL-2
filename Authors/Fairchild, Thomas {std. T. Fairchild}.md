@@ -32,5 +32,6 @@ Barnhart 1: 524; BB p. 104; Blunt p. 134, ed. 2: 150; BM 2: 554; Bossert p. 121;
 
 #### Outside our period
 
-(1) *The city gardener*. Containing the most experienced method of cultivating and ordering such ever-greens, fruit-trees, flowering shrubs, flowers, exotick plants &c. as will be ornamental, and thrive best in the London gardens, London (T. Woodward, and J. Peele), 70 p., frontisp., 1 lf. of pl. (fold.) 1722. Duod. *Copies*: HH, K (n.v.), NY (n.v.). (2) Contributed to Philip Miller, *Cat. pl.*... 1730, see TL-2/3, nr. 6036.
+- (1) *The city gardener*. Containing the most experienced method of cultivating and ordering such ever-greens, fruit-trees, flowering shrubs, flowers, exotick plants &c. as will be ornamental, and thrive best in the London gardens, London (T. Woodward, and J. Peele), 70 p., frontisp., 1 lf. of pl. (fold.) 1722. Duod. *Copies*: HH, K (n.v.), NY (n.v.).
+- (2) Contributed to Philip Miller, *Cat. pl.*... 1730, see TL-2/3, nr. 6036.
 

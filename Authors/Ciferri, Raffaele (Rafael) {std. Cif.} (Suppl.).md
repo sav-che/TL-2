@@ -34,7 +34,7 @@ Ainsworth p. 280, 324; Barnhart 1: 348; BFM 2320, 3072; BL 2: 333, 336, 565; GR 
 #### Composite works
 
 (1-3), see TL-2/1: 504.
-(4) With P. Redaelli, *Bibliographia mycopathologica 1800-1940*, 1: A-K. 1957, 2: I-Z. 1958;
+- (4) With P. Redaelli, *Bibliographia mycopathologica 1800-1940*, 1: A-K. 1957, 2: I-Z. 1958;
 14.500 titles.
 
 ### Publications

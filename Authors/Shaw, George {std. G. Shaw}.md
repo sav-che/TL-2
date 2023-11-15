@@ -35,7 +35,7 @@ Barnhart 3: 266 (b. 10 Dec 1751, d. 22 Jul 1813); BM 4: 1911; Dawson p. 747; Des
 
 #### Composite works
 
-(1) With F.P. Nodder, *The naturalist's miscellany*, 24 vols., London \[1789-\] 1790-1813; see C.D. Sherborn, Ann. Mag. nat. Hist. ser. 6. 15: 375. 1895 (dates) and Lisney (1960) for a bibliographical description; general indexes, London 1813, 26 p. (mainly zoological) (IDC 2418).
-(2) With J.F. Miller, *Cimelia phys*. 1796, see TL-2/6033.
-(3) Descriptions to *pl. 16, 17, 18* in J. Sowerby, *Engl. bot.* 1791.
+- (1) With F.P. Nodder, *The naturalist's miscellany*, 24 vols., London \[1789-\] 1790-1813; see C.D. Sherborn, Ann. Mag. nat. Hist. ser. 6. 15: 375. 1895 (dates) and Lisney (1960) for a bibliographical description; general indexes, London 1813, 26 p. (mainly zoological) (IDC 2418).
+- (2) With J.F. Miller, *Cimelia phys*. 1796, see TL-2/6033.
+- (3) Descriptions to *pl. 16, 17, 18* in J. Sowerby, *Engl. bot.* 1791.
 

@@ -60,8 +60,8 @@ AG 1: 314; Backer p. 494; Barnhart 3: 152; BB p. 256; BM 4: 1698-1699; Bossert p
 
 #### Composite works
 
-(1) W.J. Hooker, *Fl. bor.-amer.*, 1833-1840, was based on collections made by J. Richardson, T. Drummond and D. Douglas.
-(2) For Richardson's numerous zoological publications see BM 4: 1698-1699 and the bibliographies by M.F. Curvey and R.E. Johnson (1969) and by M.A. Huntley et al. (1972).
+- (1) W.J. Hooker, *Fl. bor.-amer.*, 1833-1840, was based on collections made by J. Richardson, T. Drummond and D. Douglas.
+- (2) For Richardson's numerous zoological publications see BM 4: 1698-1699 and the bibliographies by M.F. Curvey and R.E. Johnson (1969) and by M.A. Huntley et al. (1972).
 
 ### Publications
 

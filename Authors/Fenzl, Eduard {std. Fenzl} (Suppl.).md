@@ -47,9 +47,9 @@ ADB 48: 520-521; AG 2(1): 359, 4: 339, 5(l): 544; APN p. 197; Backer p. 212; Bai
 
 #### Note
 
-(1) *Vers. Darstell. Alsin.*... 1833 (TL-2, nr. 1762), has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), 1987, 3 microfiches (72 fr.) (Plant taxonomic lit. microfiche coll., "1560D4-1562B1"). *Copy*: MO (n.v.).
-(2) *Pug. Pl. nov. Syr.*... 1842 (TL-2, nr. 1763), has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "1562B2-1562C5"). *Copy*: MO (n.v.).
-(3) Fenzl, *Diagnoses plantarum orientalium*... 1860, validates new species mentioned in P. de Tchihatcheff, *Asie min., Bot.*... 1860, see TL-2/6, nr. 13.852.
+- (1) *Vers. Darstell. Alsin.*... 1833 (TL-2, nr. 1762), has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), 1987, 3 microfiches (72 fr.) (Plant taxonomic lit. microfiche coll., "1560D4-1562B1"). *Copy*: MO (n.v.).
+- (2) *Pug. Pl. nov. Syr.*... 1842 (TL-2, nr. 1763), has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "1562B2-1562C5"). *Copy*: MO (n.v.).
+- (3) Fenzl, *Diagnoses plantarum orientalium*... 1860, validates new species mentioned in P. de Tchihatcheff, *Asie min., Bot.*... 1860, see TL-2/6, nr. 13.852.
 
 #### Composite works
 

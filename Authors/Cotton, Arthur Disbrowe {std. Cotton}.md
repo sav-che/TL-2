@@ -31,7 +31,7 @@ Ainsworth p. 237, 324; Barnhart 1: 386 (b. 15 Jan 1879, London); BL 1: 25; BM 6:
 
 #### Composite works
 
-(1) *Lichenes* (*Nachtrag*), *in* F. Sarasin and J. Roux, Nova Caledonia, B. Bot. 109. 1921.
+- (1) *Lichenes* (*Nachtrag*), *in* F. Sarasin and J. Roux, Nova Caledonia, B. Bot. 109. 1921.
 
 ### Publications
 

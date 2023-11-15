@@ -27,12 +27,12 @@ AG 2(2): 69, 12(3): 655; Backer p. 663; Barnhart 3: 435 (b. 7 Mar 1876, d. 11 Ju
 
 #### Composite works
 
-(1) Editor, A. Kerner, *Pfl*.-*Leben Donauländ*., ed. 2, reprint 1929 (Ergänzungen...), see TL-2/3591.
-(2) *Juncaceae, in* EP, *Nat. Pflanzenfam.*, ed. 2. 15a: 192-224. 1930.
-(3) *Soldanella, in* E. Hannig & H. Winkler, eds., *Die Pflanzenareale* ser. I. 1: maps 7-8. 1926.
-(4) *Erigeron, in* I. Dörfler, *Herbarium normale* nos. 4131-4134, Schedae p. 36-40. 1901; *Juncus Montelli* no. 4781, p. 260-262, *Soldanella villosa* no. 4935, p. 305-306.
-(5) *Uebersicht über die Arten und Hybriden der Gattung Soldanella*, in *Festschrift zu P. Ascherson's siebzigstem Geburtstage*, Berlin 1904, p. 500-508.
-(6) *Caryophyllaceae* (p. 391-395 and *Erigeron* and *Trimorpha* (420-422) *in* E. Zederbauer, Erg. nat. Reise Erdschias-Dagh. 2, Bot., *in* Ann. Nat. Hofmus. Wien 209. 1906 ("1905").
+- (1) Editor, A. Kerner, *Pfl*.-*Leben Donauländ*., ed. 2, reprint 1929 (Ergänzungen...), see TL-2/3591.
+- (2) *Juncaceae, in* EP, *Nat. Pflanzenfam.*, ed. 2. 15a: 192-224. 1930.
+- (3) *Soldanella, in* E. Hannig & H. Winkler, eds., *Die Pflanzenareale* ser. I. 1: maps 7-8. 1926.
+- (4) *Erigeron, in* I. Dörfler, *Herbarium normale* nos. 4131-4134, Schedae p. 36-40. 1901; *Juncus Montelli* no. 4781, p. 260-262, *Soldanella villosa* no. 4935, p. 305-306.
+- (5) *Uebersicht über die Arten und Hybriden der Gattung Soldanella*, in *Festschrift zu P. Ascherson's siebzigstem Geburtstage*, Berlin 1904, p. 500-508.
+- (6) *Caryophyllaceae* (p. 391-395 and *Erigeron* and *Trimorpha* (420-422) *in* E. Zederbauer, Erg. nat. Reise Erdschias-Dagh. 2, Bot., *in* Ann. Nat. Hofmus. Wien 209. 1906 ("1905").
 
 #### Eponymy
 

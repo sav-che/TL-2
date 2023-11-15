@@ -23,8 +23,8 @@ AG 12(2): 27; Backer p. 652; Barnhart 2: 121; BFM 814, 1566; BJI 2: 67; BM 6: 43
 
 #### Composite works
 
-(1) *Asclepiadaceae und Apocynaceae*, in R. v. Wettstein, *Ergebnisse der botanischen Expedition... nach Südbrasilien* vol. 1, Denkschr. Akad. Wiss. Wien 79(2): 377-388, preprints distributed 1910; vol. 79(2) was completed only in 1931.
-(2) Part 10, cent. 37-40, of R. v. Wettstein et al. *Schedae ad floram exsiccatam Austro-Hungaricum*, Wien, 1913, 132 p.
+- (1) *Asclepiadaceae und Apocynaceae*, in R. v. Wettstein, *Ergebnisse der botanischen Expedition... nach Südbrasilien* vol. 1, Denkschr. Akad. Wiss. Wien 79(2): 377-388, preprints distributed 1910; vol. 79(2) was completed only in 1931.
+- (2) Part 10, cent. 37-40, of R. v. Wettstein et al. *Schedae ad floram exsiccatam Austro-Hungaricum*, Wien, 1913, 132 p.
 
 #### Eponymy
 

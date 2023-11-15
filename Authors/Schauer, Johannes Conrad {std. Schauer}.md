@@ -31,12 +31,12 @@ ADB 30: 623-624 (E. Wunschman); Backer p. 515; Barnhart 3: 222 (b. 16 Feb 1813, 
 
 #### Composite works
 
-(1) *Verbenaceae, in* A.P. de Candolle, *Prodr*. 11: 522-700. 25 Nov 1847.
-(2) *Verbenaceae, in* Martius, *Fl. bras.* 9: 169-308, pl. 32-50. 1 Oct 1851.
-(3) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, see TL-2/4332; see below *Enum. pl. Preiss. Myrtac.*
-(4) Contributed *Aurantiaceae, Myrtaceae, Apocynaceae, Asclepiadeae, Bignoniaceae* and Monocotyledonae (excl. Glumaceis), *in* F.J.F. Meyen, *Observ. bot.* 1843, TL-2/5895.
-(5) Co-author M.J. Bluff, *Comp. fl. German.* ed. 2. 1836-1839, TL-2/559. – Notices in *Flora*: 18(2): 704. 28 Nov 1835 (first signature distributed with the issue of Flora as "Probebogen", hence p. 1-24 of vol. 1(1) publ. 28 Nov 1835 sic), 19(1) Lit. 4: 49-61. 7 Mai 1836 and 65-74. 28 Mai 1836 (anon. rev. of 1(1), publ. Jan 1836), 20(2): 670. 14 Nov 1836 (1(2) hence published by 1 Nov 1836), 21(2) Lit. 3: 42-52. 21 Nov 1838 (anon. rev. 1(2)), 23(2) Lit. 5: 72-83. 14 Jul 1840 (anon. rev. vol. 2).
-(6) Moquin-Tandon, H.B.A., *Pflanzen-Teratologie* 1842, translation by J.C. Schauer; for French original see TL-2/6286.
+- (1) *Verbenaceae, in* A.P. de Candolle, *Prodr*. 11: 522-700. 25 Nov 1847.
+- (2) *Verbenaceae, in* Martius, *Fl. bras.* 9: 169-308, pl. 32-50. 1 Oct 1851.
+- (3) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, see TL-2/4332; see below *Enum. pl. Preiss. Myrtac.*
+- (4) Contributed *Aurantiaceae, Myrtaceae, Apocynaceae, Asclepiadeae, Bignoniaceae* and Monocotyledonae (excl. Glumaceis), *in* F.J.F. Meyen, *Observ. bot.* 1843, TL-2/5895.
+- (5) Co-author M.J. Bluff, *Comp. fl. German.* ed. 2. 1836-1839, TL-2/559. – Notices in *Flora*: 18(2): 704. 28 Nov 1835 (first signature distributed with the issue of Flora as "Probebogen", hence p. 1-24 of vol. 1(1) publ. 28 Nov 1835 sic), 19(1) Lit. 4: 49-61. 7 Mai 1836 and 65-74. 28 Mai 1836 (anon. rev. of 1(1), publ. Jan 1836), 20(2): 670. 14 Nov 1836 (1(2) hence published by 1 Nov 1836), 21(2) Lit. 3: 42-52. 21 Nov 1838 (anon. rev. 1(2)), 23(2) Lit. 5: 72-83. 14 Jul 1840 (anon. rev. vol. 2).
+- (6) Moquin-Tandon, H.B.A., *Pflanzen-Teratologie* 1842, translation by J.C. Schauer; for French original see TL-2/6286.
 
 #### Note
 

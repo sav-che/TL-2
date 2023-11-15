@@ -24,7 +24,7 @@ Barnhart 1: 328 (b. 13 Aug 1889, Le Lonzac, Corrèze); Kew 1: 507; SBC p. 117.
 
 #### Composite works
 
-(1) G. Chalaud *in* F. Verdoorn, Manuel Bryol. 89-108. 1932, chapter iv: *Germination des spores et phase protonémique*.
+- (1) G. Chalaud *in* F. Verdoorn, Manuel Bryol. 89-108. 1932, chapter iv: *Germination des spores et phase protonémique*.
 
 ### Publications
 

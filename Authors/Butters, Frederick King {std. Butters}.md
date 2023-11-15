@@ -27,12 +27,12 @@ BL 1: 192 (b. 8 Feb 1878); CSP 13: 947; Ewan ed. 1: 176-177, ed. 2: 34; Hortus 3
 
 #### Composite works
 
-(1) Clements, F.E., C.O. Rosendahl and F.K. Butters, *Guide to the spring flowers of Minnesota*, see TL-2/ 9522.
-(2) Clements, F.E., C.O. Rosendahl and F.K. Butters, *Guide to the trees and shrubs of Minnesota*, see TL-2/9523.
-(3) Rosendahl, C.O. and F.K. Butters, *Guide to the ferns* and *fern allies of Minnesota*, see TL-2/9524.
-(4) Clements, F.E. et al., *Minnesota trees shrubs* 1912, see TL-2/9525, rev. by N.T., Torreya 13(1): 17-19. 8 Jan 1913, and F.G., Bull. Soc. bot. France 61 (1-4) (Bibl.): 139. 25 Apr 1944.
-(5) Rosendahl, C.O. and F.K. Butters *Trees and shrubs of Minnesota* 1928, see TL-2/9527, rev. by G.T. Hastings, Torreya 29(3): 73. 2 Jul 1929.
-(6) see also TL-2/4128.
+- (1) Clements, F.E., C.O. Rosendahl and F.K. Butters, *Guide to the spring flowers of Minnesota*, see TL-2/ 9522.
+- (2) Clements, F.E., C.O. Rosendahl and F.K. Butters, *Guide to the trees and shrubs of Minnesota*, see TL-2/9523.
+- (3) Rosendahl, C.O. and F.K. Butters, *Guide to the ferns* and *fern allies of Minnesota*, see TL-2/9524.
+- (4) Clements, F.E. et al., *Minnesota trees shrubs* 1912, see TL-2/9525, rev. by N.T., Torreya 13(1): 17-19. 8 Jan 1913, and F.G., Bull. Soc. bot. France 61 (1-4) (Bibl.): 139. 25 Apr 1944.
+- (5) Rosendahl, C.O. and F.K. Butters *Trees and shrubs of Minnesota* 1928, see TL-2/9527, rev. by G.T. Hastings, Torreya 29(3): 73. 2 Jul 1929.
+- (6) see also TL-2/4128.
 
 ### Publications
 

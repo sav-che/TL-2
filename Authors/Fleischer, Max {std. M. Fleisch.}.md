@@ -10,7 +10,8 @@ Fleischer, Max (1861-1930), German painter, bryologist and traveller.
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (original Bryophyte herbarium). – Duplicates and collections of phanerogams in many herbaria (see IH), e.g. [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BP|BP]], [[Collection E|E]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection U|U]], [[Collection WRSL|WRSL]]. The collections from Asia minor in IH should be attributed to F. Fleischer. *Exsiccatae*:
+[[Collection FH|FH]] (original Bryophyte herbarium). – Duplicates and collections of phanerogams in many herbaria (see IH), e.g. [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BP|BP]], [[Collection E|E]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection U|U]], [[Collection WRSL|WRSL]]. The collections from Asia minor in IH should be attributed to F. Fleischer.
+*Exsiccatae*:
 1. *Musci frondosi archipelagi indici exsiccati* (ser. i-xii, nos. 1-600, i-vi Batavia, vii-x, Berlin, xi 's-Gravenhage, xii Berlin, 1898-1933; fasc. xii ed. by J. O. Reimers, 1893-1961) (title varies), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]] (compl.), [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection U|U]], [[Collection W|W]].
 2. \[with Carl Friedrich Warnstorf (1837-1921)\] *Bryotheca europaea meridionalis* (cent. i-iv, nos. 1-400, Rouen 1896-1910), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]] (compl.), [[Collection H|H]], [[Collection K|K]], [[Collection M|M]], [[Collection PC|PC]], [[Collection U|U]], [[Collection W|W]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 199.

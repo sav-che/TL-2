@@ -38,13 +38,13 @@ ADB 33: 175 (E. Wunschmann); AG 3: 434; Barnhart 3: 248 (b. 16 Sep 1775, d. 2 Ma
 
 #### Composite works
 
-(1) Editor, J. Hedwig, *Species muscorum frondosorum* 1801, TL-2/2532.
-(2) *Musci, in* J.A. Schultes, *Reise Glockner* 2, 1804.
-(3) *Musci, in* C. Gaudichaud, *Voy. Uranie* 6: 223-230. 23 Feb 1828, TL-2/1968.
-(4) *Species muscorum i, in* C.L. Willdenow, Sp. pl. 5(2), sect. 1830, see under Willdenow.
-(5) Published L.D. von Schweinitz, *Syn. Jung. Carol.* (Schr. naturf. Ges. Leipzig 1: 20-132. 1822); see under Schweinitz.
-(6) *Anleitung zum Studium der Botanik, in* F.A. Heyne, Pfl.-Kalend. ed. 2, 1804, see TL-2/2736.
-(7) *Bryophyta, in* J. Richardson, *Bot. App.* 1823, see TL-2/9169.
+- (1) Editor, J. Hedwig, *Species muscorum frondosorum* 1801, TL-2/2532.
+- (2) *Musci, in* J.A. Schultes, *Reise Glockner* 2, 1804.
+- (3) *Musci, in* C. Gaudichaud, *Voy. Uranie* 6: 223-230. 23 Feb 1828, TL-2/1968.
+- (4) *Species muscorum i, in* C.L. Willdenow, Sp. pl. 5(2), sect. 1830, see under Willdenow.
+- (5) Published L.D. von Schweinitz, *Syn. Jung. Carol.* (Schr. naturf. Ges. Leipzig 1: 20-132. 1822); see under Schweinitz.
+- (6) *Anleitung zum Studium der Botanik, in* F.A. Heyne, Pfl.-Kalend. ed. 2, 1804, see TL-2/2736.
+- (7) *Bryophyta, in* J. Richardson, *Bot. App.* 1823, see TL-2/9169.
 
 #### Moussier
 

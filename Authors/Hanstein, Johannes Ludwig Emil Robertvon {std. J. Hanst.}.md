@@ -25,8 +25,8 @@ ADB 49: 768-770; Backer p. 652; Barnhart 2: 124; BM 2: 784; CSP 3: 172, 6: 681, 
 
 #### Composite works
 
-(1) Martius, *Fl. bras., Gesneriaceae*, 8(1): 341-424, *pl. 58-68.* 1 Dec 1864.
-(2) *Botanische Abhandlungen aus dem Gebiet der Morphologie und Physiologie*. Herausgegeben von J. Hanstein. Bd. 1-4, 1870-1882. Oct. †.
+- (1) Martius, *Fl. bras., Gesneriaceae*, 8(1): 341-424, *pl. 58-68.* 1 Dec 1864.
+- (2) *Botanische Abhandlungen aus dem Gebiet der Morphologie und Physiologie*. Herausgegeben von J. Hanstein. Bd. 1-4, 1870-1882. Oct. †.
 
 #### Eponymy
 

@@ -50,7 +50,7 @@ Des *Solanées*. Thèse présentée au concours d'agrégation (Section d'histoir
 **Notes**
 *Publ*.: 1869, p. \[i-iii\], \[1\]-770, \[771-772\]. *Copy*: BR. – The p. 619-694 are on mineralogy, 695-end are indexes.
 *Notes*: (1) A second edition was issued 1877 (n.v.), a third edition in 1885 (n.v.).
-(2) Tome premier \[Volume 1\] is dealing with zoology.
+- (2) Tome premier \[Volume 1\] is dealing with zoology.
 
 ##### n.25.120. Anatomie et physiologie végétales
 
@@ -61,7 +61,7 @@ Cours élémentaire de botanique I. *Anatomie et physiologie végétales*, palé
 **Notes**
 *Publ*.: 1885 (p. viii signed 20 Jul 1884), p. \[i\]-viii, \[1\]-315. *Copy*: BR.
 *Notes*: (1) A second edition was issued in 1895. *Copy*: BR.
-(2) This book (first and second edition) was also issued combined with the following publication.
+- (2) This book (first and second edition) was also issued combined with the following publication.
 
 ##### n.25.121. familles des plantes
 

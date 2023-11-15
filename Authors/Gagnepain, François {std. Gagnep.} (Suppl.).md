@@ -39,12 +39,12 @@ APN p. 215; Backer p. 226, 650; Barnhart 2: 23; BL 1: 122, 297, 2: 184, 200-201,
 
 #### Composite works
 
-(1) A major contributor to H. Lecomte, *Fl. Indo-Chine*... (see TL-2/2, nr. 4275) for which Davy de Virville (1954: 187) noted "Gagnepain en assuma la publication, rédigeant, à lui seul, 69 familles représentant 4.865 pages".
-(2) Co-author with A.E. Finet, *Contributions à la flore de l'Asie orientale*... 1905-1907, 2 vols., which reprints 11 articles published earlier in the Bull. Soc. Bot. France (1903-1904) and Mém. Soc. Bot. France (1905-1906).
-(3) Contributed to K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln*... Part 5, 1913 (TL-2/4, nr. 8726).
-(4) Contributed to C.S. Sargent (ed.), *Pl. wilson.*... 1913-1917, 3 vols. (TL-2/5, nr. 10.303).
-(5) Co-author with Aug. Chevalier, *Genre nouveau de Saxifragacées*... 1927 (TL-2/Suppl. 4, nr. 25.853).
-(6) Posthumously, with Jules E. Vidal (1914-x), contributed Sabiacées to *Flore du Cambodge, du Laos, et du Vietnam*... 1960; this flora being a continuation of the *Fl. Indo-Chine* (TL-2/2, nr. 4275).
+- (1) A major contributor to H. Lecomte, *Fl. Indo-Chine*... (see TL-2/2, nr. 4275) for which Davy de Virville (1954: 187) noted "Gagnepain en assuma la publication, rédigeant, à lui seul, 69 familles représentant 4.865 pages".
+- (2) Co-author with A.E. Finet, *Contributions à la flore de l'Asie orientale*... 1905-1907, 2 vols., which reprints 11 articles published earlier in the Bull. Soc. Bot. France (1903-1904) and Mém. Soc. Bot. France (1905-1906).
+- (3) Contributed to K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln*... Part 5, 1913 (TL-2/4, nr. 8726).
+- (4) Contributed to C.S. Sargent (ed.), *Pl. wilson.*... 1913-1917, 3 vols. (TL-2/5, nr. 10.303).
+- (5) Co-author with Aug. Chevalier, *Genre nouveau de Saxifragacées*... 1927 (TL-2/Suppl. 4, nr. 25.853).
+- (6) Posthumously, with Jules E. Vidal (1914-x), contributed Sabiacées to *Flore du Cambodge, du Laos, et du Vietnam*... 1960; this flora being a continuation of the *Fl. Indo-Chine* (TL-2/2, nr. 4275).
 
 #### Note
 

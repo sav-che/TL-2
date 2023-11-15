@@ -28,9 +28,13 @@ APN p. 241; Barnhart 2: 83 (as "Paul"); BFM p. 287 (index); Portr. 1: 64 (index)
 #### Outside our period
 
 Author of:
-(1) *Bestimmung der mitteleuropäischen Laubhölzer und Sträucher auf xylotomischer Grundlage*... 1945; *Holzanatomie der europäischen Laubhölzer und Sträucher* \[2. Ausg.\]... 1959; (2) *Xylotomische Bestimmung der heute lebenden Gymnospermen*... 1955; (3) *Identification of living gymnosperms on the basis of xylotomy*... 1955; (4) *Fossil gymnosperm woods in Hungary from the Permian to the Pliocene*... 1967; (5) *Einführung in die Paläoxylotomie*... 1968;
-(6) *Xylotomy of the living Cycads, with a description of their leaves and epidermis*... 1968 (see Stern, W.L., Taxon 22(2/3): 197-298. Mai 1973 (rev.)); and
-(7) *Tertiary angiosperm woods in Hungary* \[English transl. of: *Magyarországi kövült fák*.\] ... 1969.
+- (1) *Bestimmung der mitteleuropäischen Laubhölzer und Sträucher auf xylotomischer Grundlage*... 1945; *Holzanatomie der europäischen Laubhölzer und Sträucher* \[2. Ausg.\]... 1959;
+- (2) *Xylotomische Bestimmung der heute lebenden Gymnospermen*... 1955;
+- (3) *Identification of living gymnosperms on the basis of xylotomy*... 1955;
+- (4) *Fossil gymnosperm woods in Hungary from the Permian to the Pliocene*... 1967;
+- (5) *Einführung in die Paläoxylotomie*... 1968;
+- (6) *Xylotomy of the living Cycads, with a description of their leaves and epidermis*... 1968 (see Stern, W.L., Taxon 22(2/3): 197-298. Mai 1973 (rev.)); and
+- (7) *Tertiary angiosperm woods in Hungary* \[English transl. of: *Magyarországi kövült fák*.\] ... 1969.
 
 ### Publications
 

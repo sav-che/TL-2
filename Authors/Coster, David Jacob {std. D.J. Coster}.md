@@ -21,9 +21,9 @@ BM 1: 390, 3: 1149; JW 2: 108 (b. 12 Dec 1828, d. 21 Feb 1892); Kew 1: 627; PR 1
 
 #### Composite works
 
-(1) D.J. Coster published a Dutch version of M.J. Schleiden, *Die Pflanze* *und ihr Leben* 1848, in Leiden. *De plant en haar leven* ed. 1, 1854, see TL-2/10.806, and a second edition, same title "tweede druk" Leiden (D. Noothoven van Goor) 1873 (frontisp., p. \[i\]-viii, \[1\]-416, *pl. 1-5* (col. draw.)). *Copies* at L and U.
-(2) See also H.M. Willkomm, *Atlas voor de Plantkunde*... \[in Dutch by D.J. Coster\], see TL-2/17.855.
-(3) J.D. Coster "*Linnaeana*, in Nederland aanwezig". Tentoongesteld of 10 Januari 1828 in het Koninklijk Zoölogisch genootschap "Natura Artis Magistra" te Amsterdam, Amsterdam 1878. Oct. – Preface signed D.J. Coster, p. 58, 2. – See BM 3: 1149.
+- (1) D.J. Coster published a Dutch version of M.J. Schleiden, *Die Pflanze* *und ihr Leben* 1848, in Leiden. *De plant en haar leven* ed. 1, 1854, see TL-2/10.806, and a second edition, same title "tweede druk" Leiden (D. Noothoven van Goor) 1873 (frontisp., p. \[i\]-viii, \[1\]-416, *pl. 1-5* (col. draw.)). *Copies* at L and U.
+- (2) See also H.M. Willkomm, *Atlas voor de Plantkunde*... \[in Dutch by D.J. Coster\], see TL-2/17.855.
+- (3) J.D. Coster "*Linnaeana*, in Nederland aanwezig". Tentoongesteld of 10 Januari 1828 in het Koninklijk Zoölogisch genootschap "Natura Artis Magistra" te Amsterdam, Amsterdam 1878. Oct. – Preface signed D.J. Coster, p. 58, 2. – See BM 3: 1149.
 
 ### Publications
 

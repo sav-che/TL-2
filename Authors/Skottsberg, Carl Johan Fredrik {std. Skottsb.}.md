@@ -108,24 +108,24 @@ Barnhart 3: 285; BJI 2: 165-166; BL 1: 318 (index); BM 4: 1936-1937, 8: 1199; Bo
 
 #### Composite works
 
-(1) *Vegetationsbilder aus Feuerland, von den Falkland-Inseln und von Südgeorgien*. Jena 1906, \[10\] p., *12 pl., in* G. Karsten & H. Schenck, Vegetationsbilder ser. 4(3/4).
-(2) *Observations on the vegetation of the Antarctic Sea, in* J.R. Sernander et al., Botaniska studier tillägnade F.R. Kjellman den 4 November 1906, Uppsala 1906, p. 245-264, *pl. 7-9*, 1 map. (Rev.: E. Kuckuck, Bot. Zeit. 65: 40-42. 1 Feb 1907).
-(3) *Vegetationsbilder von den Juan Fernandez-Inseln*. Jena 1910, \[11\] p., *6 pl., in* G. Karsten & H. Schenck, Vegetationsbilder ser. 8(2).
-(4) Editor, *Botanische Ergebnisse der schwedischen Expedition nach Patagonien und dem Feuerlande* 1907-1909, 11 parts, 1910-1938 (see below).
-(5) *Über Viviparie bei Pernettya, in* Botaniska studier tillägnade Theodor Magnus Fries den 28 Oktober 1912, Uppsala 1912, Sv. Bot. Tidskr. 6(3): \[491\]-495.
-(6) *Botanical notes, in* G. Macloskie & P. Dusén, Revision of Flora Patagonica. Suppl. Princeton, N.J., Stuttgart 1914.
-(7) *Myzodendraceae, in* A. Engler, Pflanzenreich IV. 68 (Heft 62): \[i-ii\], \[1\]-16, \[17\]. 10 Nov 1914.
-(8) *Zur Morphologie und Systematik der Gattung Arjona Cav., in* Festschrift Rutger Sernander, 2 Nov 1916, Uppsala 1916, Sv. Bot. Tidskr. 10(3): \[520\]-528.
-(9) With J.H. Kylin, Z*ur Kenntniss der sub antarktischen und antarktischen Meeresalgen II. Rhodophyceen*. Stockholm 1919, Wiss. Erg. Schwed. Südpolar-Exp. 4(15). See TL-2/4063.
-(10) Editor, *The natural history of Juan Fernandez and Easter Island 1-3*, Uppsala 1920-1956 (see below).
-(11) *Remarks on Splachnidium rugosum* (L.) Grev., *in* Botaniska studier tillägnade Gustaf Lagerheim den 18 Oktober 1920, Uppsala 1920, Sv. Bot. Tidskr. 14(2/3): \[277\]-287.
-(12) Editor, *Acta Horti Got*(*h*)*oburgensis* (Meddelanden frán Göteborgs botaniska trädgård) 1-18, 1924-1950.
-(13) *Einige Bemerkungen über die alpinen Gefässpflanzen von Masafuera* (*Juan Fernandez-Inseln*), *in* Festschrift Carl Schröter, Zürich 1925, Veröff. Geobot. Inst. Rübel 3: \[87\]-96.
-(14) *Le peuplement des îles pacifiques du Chili, in* L. Berland et al., Contribution à l'étude du peuplement zoologique et botanique des îles du Pacifique. Paris 1934. Soc. biogéogr. 4: \[271\]-280. *Spanish translation*: La poblacion botanica y zoologica de las islas chilenas del Pacífico. Rev. chil. hist. geogr. 78: 139-153. Santiago de Chile 1935 (reprints pr. 1936. Imprenta Universitaria).
-(15) *Myzodendraceae, in* EP, Nat. Pflanzenfam., ed. 2. 16b: 92-97. 1935.
-(16) *The arboreous Nyctaginaceae of Hawaii, in* Botaniska studier tillägnade Professor Bergianus R.E. Fries. Uppsala, 11 Jul 1936, Sv. Bot. Tidskr. 30(3): \[506\]-527. 1936.
-(17) *Antarctic plants in Polynesia, in* T.H. Goodspeed, ed., Essays in geobotany in honor of William Setchell 291-312. 1936.
-(18) *Philydraceae, in* C.G.G.J. van Steenis, Flora malesiana, ser. I. 4(1): 5-7. 1948.
+- (1) *Vegetationsbilder aus Feuerland, von den Falkland-Inseln und von Südgeorgien*. Jena 1906, \[10\] p., *12 pl., in* G. Karsten & H. Schenck, Vegetationsbilder ser. 4(3/4).
+- (2) *Observations on the vegetation of the Antarctic Sea, in* J.R. Sernander et al., Botaniska studier tillägnade F.R. Kjellman den 4 November 1906, Uppsala 1906, p. 245-264, *pl. 7-9*, 1 map. (Rev.: E. Kuckuck, Bot. Zeit. 65: 40-42. 1 Feb 1907).
+- (3) *Vegetationsbilder von den Juan Fernandez-Inseln*. Jena 1910, \[11\] p., *6 pl., in* G. Karsten & H. Schenck, Vegetationsbilder ser. 8(2).
+- (4) Editor, *Botanische Ergebnisse der schwedischen Expedition nach Patagonien und dem Feuerlande* 1907-1909, 11 parts, 1910-1938 (see below).
+- (5) *Über Viviparie bei Pernettya, in* Botaniska studier tillägnade Theodor Magnus Fries den 28 Oktober 1912, Uppsala 1912, Sv. Bot. Tidskr. 6(3): \[491\]-495.
+- (6) *Botanical notes, in* G. Macloskie & P. Dusén, Revision of Flora Patagonica. Suppl. Princeton, N.J., Stuttgart 1914.
+- (7) *Myzodendraceae, in* A. Engler, Pflanzenreich IV. 68 (Heft 62): \[i-ii\], \[1\]-16, \[17\]. 10 Nov 1914.
+- (8) *Zur Morphologie und Systematik der Gattung Arjona Cav., in* Festschrift Rutger Sernander, 2 Nov 1916, Uppsala 1916, Sv. Bot. Tidskr. 10(3): \[520\]-528.
+- (9) With J.H. Kylin, Z*ur Kenntniss der sub antarktischen und antarktischen Meeresalgen II. Rhodophyceen*. Stockholm 1919, Wiss. Erg. Schwed. Südpolar-Exp. 4(15). See TL-2/4063.
+- (10) Editor, *The natural history of Juan Fernandez and Easter Island 1-3*, Uppsala 1920-1956 (see below).
+- (11) *Remarks on Splachnidium rugosum* (L.) Grev., *in* Botaniska studier tillägnade Gustaf Lagerheim den 18 Oktober 1920, Uppsala 1920, Sv. Bot. Tidskr. 14(2/3): \[277\]-287.
+- (12) Editor, *Acta Horti Got*(*h*)*oburgensis* (Meddelanden frán Göteborgs botaniska trädgård) 1-18, 1924-1950.
+- (13) *Einige Bemerkungen über die alpinen Gefässpflanzen von Masafuera* (*Juan Fernandez-Inseln*), *in* Festschrift Carl Schröter, Zürich 1925, Veröff. Geobot. Inst. Rübel 3: \[87\]-96.
+- (14) *Le peuplement des îles pacifiques du Chili, in* L. Berland et al., Contribution à l'étude du peuplement zoologique et botanique des îles du Pacifique. Paris 1934. Soc. biogéogr. 4: \[271\]-280. *Spanish translation*: La poblacion botanica y zoologica de las islas chilenas del Pacífico. Rev. chil. hist. geogr. 78: 139-153. Santiago de Chile 1935 (reprints pr. 1936. Imprenta Universitaria).
+- (15) *Myzodendraceae, in* EP, Nat. Pflanzenfam., ed. 2. 16b: 92-97. 1935.
+- (16) *The arboreous Nyctaginaceae of Hawaii, in* Botaniska studier tillägnade Professor Bergianus R.E. Fries. Uppsala, 11 Jul 1936, Sv. Bot. Tidskr. 30(3): \[506\]-527. 1936.
+- (17) *Antarctic plants in Polynesia, in* T.H. Goodspeed, ed., Essays in geobotany in honor of William Setchell 291-312. 1936.
+- (18) *Philydraceae, in* C.G.G.J. van Steenis, Flora malesiana, ser. I. 4(1): 5-7. 1948.
 
 #### Medallion
 
@@ -137,9 +137,10 @@ Taxon 13: 2. 1964; Phytologia 34: 29. 1976.
 
 #### Festschrift
 
-(1) Acta Horti Gotoburgensis 14, 1 Dec 1940 (dedic. and portr.). (2) Acta Phytogeographica Suecica 13, 1 Dec 1940, Växtgeografiska studier tillägnade Carl Skottsberg (dedic. and portr.).
-(3) Svensk Botanisk Tidskrift 34(4), 1 Dec 1940 (dedic. and portr.).
-(4) Josefson, E., ed., Opera selecta miscelleana, Gotoburgi 1960 (dedic).
+- (1) Acta Horti Gotoburgensis 14, 1 Dec 1940 (dedic. and portr.).
+- (2) Acta Phytogeographica Suecica 13, 1 Dec 1940, Växtgeografiska studier tillägnade Carl Skottsberg (dedic. and portr.).
+- (3) Svensk Botanisk Tidskrift 34(4), 1 Dec 1940 (dedic. and portr.).
+- (4) Josefson, E., ed., Opera selecta miscelleana, Gotoburgi 1960 (dedic).
 
 #### Dedications
 
@@ -370,48 +371,53 @@ Das Pflanzenreich Regni vegetabilis conspectus... IV. 68. *Myzodendraceae* mit 4
 |2	|(2-4)	|\[21\]-192	|145	|	|	|1954	|Feb 1954|
 |3	|(5)	|\[193\]-438, \[439\]	|	|	|1 (folded)	|1956	|20 Oct 1956|
 
-*1*(*1*): Skottsberg, C., *Notes on a visit to Easter Island*, p. \[1\]-20, frontisp. (map), 3 text-figs., *pl. 1-14* (reprints issued 22 Sep 1920 acc. to S.).
-2(2): Hagerman, T.H., *Beiträge zur Geologie der Juan Fernandez-Inseln*, p. \[21\]-36, 12 textfigs., p. 36: 24 Feb 1924 (reprints issued 25 Feb 1924 acc. to S.), reprinted 13 Apr 1954.
-(*3*): Quensel, P., *Additional comments on the geology of the Juan Fernandez Islands*, p. \[37\]-87, \[88 blank\], 33 textfigs. (reprints issued Sep 1952 acc. to S.).
-(*4*): Skottsberg, C., *A geographical sketch of the Juan Fernandez-Islands*, p. \[89\]-192, 100 textfigs. (reprints with title cover issued Feb 1954 acc. to S.).
-(5): Skottsberg, C., *Derivation of the flora and fauna of Juan Fernandez and Easter Island*, p. \[193\]-438 \[439\], 1 map (folded); p. 439: pr. 26 Oct 1956.
+- *1*(*1*): Skottsberg, C., *Notes on a visit to Easter Island*, p. \[1\]-20, frontisp. (map), 3 text-figs., *pl. 1-14* (reprints issued 22 Sep 1920 acc. to S.).
+- *2*(*2*): Hagerman, T.H., *Beiträge zur Geologie der Juan Fernandez-Inseln*, p. \[21\]-36, 12 textfigs., p. 36: 24 Feb 1924 (reprints issued 25 Feb 1924 acc. to S.), reprinted 13 Apr 1954.
+	- (*3*): Quensel, P., *Additional comments on the geology of the Juan Fernandez Islands*, p. \[37\]-87, \[88 blank\], 33 textfigs. (reprints issued Sep 1952 acc. to S.).
+	- (*4*): Skottsberg, C., *A geographical sketch of the Juan Fernandez-Islands*, p. \[89\]-192, 100 textfigs. (reprints with title cover issued Feb 1954 acc. to S.).
+- *3*(*5*): Skottsberg, C., *Derivation of the flora and fauna of Juan Fernandez and Easter Island*, p. \[193\]-438 \[439\], 1 map (folded); p. 439: pr. 26 Oct 1956.
+
 *2*: *Botany*. 1920-1953, p. \[i, t.p.-iii\], \[1\]-960, 259 textfigs., *pl. 1-116*, 1 map (col., folded).
 
 |part	|nr.	|pages	|textfig.	|*plates*	|map	|publ.	|issued|
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |1	|(1-3)	|\[1\]-58	|10	|1-5	|	|1920	|1921|
-|2	|4-7)	|\[59\]-240	|42	|6-20	|	|1922	|1922|
+|2	|(4-7)	|\[59\]-240	|42	|6-20	|	|1922	|1922|
 |3	|(8-12)	|\[241-448	|55	|21-27	|	|1924	|1 Apr 1924|
 |4	|(13-19)	|\[449\]-550	|58	|28-33	|	|1928	|1 Mar 1928|
 |5	|(20-27)	|\[551\]-762	|52	|34-54	|	|1943	|1943|
 |6	|(28-29)	|\[763\]-960	|42	|55-116	|1	|1953	|Sep 1953|
 
-*1*(*1*): Christensen, C. & C. Skottsberg, *The Pteridophyta of the Juan Fernandez Islands* (see also nr. 28: 763-767), p. \[1\]-46, 7 textfigs., *pl*. 7-5, (reprints issued 20 Oct 1920). (*2*): Christensen, C. & C. Skottsberg, *The ferns of Easter Island* (see also nr. 28: 767-769), p. \[47\]-53, \[54 blank\], 3 textfigs., (reprints issued 20 Oct 1920). (*3*): Fries, R.E., *Die Myxomyceten der Juan Fernandez-Inseln*, p. \[55\]-58, (reprints issued 20 Oct 1920).
-*2*(*4*): Fries, T.C.E., *Die Gasteromyceten der Juan Fernandez*- *und Osterinseln*, p. \[59\]-60, (reprints issued 1921).
-(5): Skottsberg, C., *The Phanerogams of Easter Island*, (see also nr. 28: 769-770), p. \[61\]-84, 2 textfigs., *pl. 6-9*, (reprints with title cover issued 21 Oct 1921).
-(6): Ström, K.M., *Freshwater Algae from Juan Fernandez and Easter Island*, p. \[85\]-93, \[94 blank\], 1 textfig., (reprints issued 18 Oct 1921).
-(7): Skottsberg, C., *The Phanerogams of the Juan Fernandez Islands*, (see also nr. 28: 770-792)) p. \[95\]-240, 39 textfigs., *pl. 10-19* (black and white), *pl. 20* (col., pr. by John & Kröstel, Leipzig), (reprints with title cover issued 22 Dec 1921).
-*3*(*8*): Brotherus, V.F., *Musci Insulae-Paschalis*, p. \[241\]-246, *pl. 21-23*, (reprints issued 1923).
-(*9*): Börgesen, F., *Marine Algae from Easter Island*, p. \[247\]-309, \[310 blank\], 50 textfigs., (reprints issued 21 Feb 1924).
-(*10*): Sjöstedt, L.G., *Ein neues Sargassum von der Osterinsel*, p. \[311\]-314, 5 textfigs., (reprints issued 21 Feb 1924).
-(*11*): Zahlbruckner, A., *Die Flechten der Juan Fernandez-Inseln*, p. \[315\]-408, *pl. 24-25* (col.), p. 408: pr. 7 Mar 1924, (reprints issued 14 Mar 1924).
-(*12*): Brotherus, V.F., *The Musei of the Juan Fernandez Islands*, p. \[409\]-448, *pl. 26-27*, p. 448: pr. 14 Mar 1924, (reprints issued 14 Mar 1924).
-*4*(*13*): Zahlbruckner, A., *Die Flechten der Osterinsel, nebst einem Nachtrag zu der Flechtenflora von Juan Fernandez*, p. \[449\]-460, p. 460: pr. 13 Feb 1926.
-(*14*): Boye Petersen, J., *Marine Cyanophyceae from Easter Island*, p. \[461\]-463, \[464 blank\], p. 463: pr. 13 Feb 1926.
-(*15*): Romell, L., *Basidiomycetes from Juan Fernandez*, collected by C. Skottsberg, p. \[465\]-471, \[472 blank\], 3 textfigs. p. 471: printed 31 Jul 1926.
-(*16*): Keissler, K., *Ascomyceten, Fungi imperfecti und Uredineen von Juan Fernandez* (contributions by H. Sydow and F. Petrak), p. \[473\]-486, p. 486: printed 16 Jun 1927 (reprints issued Jun 1927).
-(*17*): Skottsberg, C., *The vegetation of Easter Island*, p. \[487\]-502, *pl. 28-33*, p. 502: printed 27 Jun 1927.
-(*18*): Skottsberg, C., *Pollinationsbiologie und Samenverbreitung auf den Juan Fernandez-Inseln*, p. \[503\]-547, \[548 blank\], 54 textfigs. p. 547: printed 30 Jan 1928 (reprints issued 18 Feb 1928).
-(*19*): Keissler, K., *Nachtrag zur Pilzflora von Juan Fernandez* (contributions by V. Litschauer and L Weese), p. \[549\]-550, 1 textfig., p. 550: printed 18 Feb 1928 (reprints issued 18 Feb 1928).
-*5*(*20*): Evans, A.W., *The thallose Hepaticae of the Juan Fernandez Islands*, p. \[551\]-586, 6 textfigs., p. 586: printed 24 Nov 1930 (reprints issued same date).
-(*21*): Setchell, W.A., *The Codiums of the Juan Fernandez Islands*, p. \[587\]-600, *pl. 34-48*, p. 600: printed 10 Apr 1937. (reprints issued same date).
-(*22*): Levring, T., *Die Meeresalgen der Juan Fernandez-Inseln* (preface and contributions by C. Skottsberg), p. \[601\]-670, 30 textfigs., *pl. 49-53*, p. 670: printed 14 Dec 1941 (reprints with title cover issued same date).
-(*23*): Skottsberg, C., *Marine algal communities of the Juan Fernandez Islands, with remarks on the composition of the flora* (see also nr. 27), p. \[671\]-696, *pl. 54*, p. 696: printed 30 Dec 1941 (reprints with title cover issued same date).
-(*24*): Herzog, T., *Die foliosen Lebermoose der Juan Fernandez-Inseln und der Osterinsel*, p. \[697\]-752, 14 text figs., p. 752: printed 1 Dec 1942 (reprints with title cover issued same date).
-(*25*): T. Levring, *Die Corallinaceen der Juan Fernandez-Inseln*, p. \[753\]-757, \[758 blank\], 2 textfigs., p. 757: printed 19 Mai 1943 (reprints issued May 1943). (*26*): Levring, T., *Einige Corallinaceen von der Oster-Insel*, p. \[759\]-760, p. 760: printed Mai 1943 (reprints issued Mai 1943).
-(27): Skottsberg, C., *Additional remarks to* "*Marine Algal communities of the Juan Fernnadez Islands*" (nr. 23), p. \[761\]-762: printed 19 Mai 1943 (reprints issued Mai 1943).
-*6*(*28*): Skottsberg, C., *A supplement to the Pteridophytes and Phanerogams of Juan Fernandez and Easter Island* (nos. 1, 2, 5 and 7), p. \[763\]-792, *pl. 55-57*, p. 792: printed 2 Nov 1951 (reprints with title cover issued same date). (See also below).
-(29): Skottsberg, C., *The vegetation of the Juan Fernandez Islands*, p. \[793\]-960, 42 textfigs., *pl. 58-116*, 1 map (col., folded), corr. slip, p. 960: pr. 11 Feb 1953, (reprints issued same date).
+- *1*(*1*): Christensen, C. & C. Skottsberg, *The Pteridophyta of the Juan Fernandez Islands* (see also nr. 28: 763-767), p. \[1\]-46, 7 textfigs., *pl*. 7-5, (reprints issued 20 Oct 1920). 
+	- (*2*): Christensen, C. & C. Skottsberg, *The ferns of Easter Island* (see also nr. 28: 767-769), p. \[47\]-53, \[54 blank\], 3 textfigs., (reprints issued 20 Oct 1920). 
+	- (*3*): Fries, R.E., *Die Myxomyceten der Juan Fernandez-Inseln*, p. \[55\]-58, (reprints issued 20 Oct 1920).
+- *2*(*4*): Fries, T.C.E., *Die Gasteromyceten der Juan Fernandez*- *und Osterinseln*, p. \[59\]-60, (reprints issued 1921).
+	- (*5*): Skottsberg, C., *The Phanerogams of Easter Island*, (see also nr. 28: 769-770), p. \[61\]-84, 2 textfigs., *pl. 6-9*, (reprints with title cover issued 21 Oct 1921).
+	- (*6*): Ström, K.M., *Freshwater Algae from Juan Fernandez and Easter Island*, p. \[85\]-93, \[94 blank\], 1 textfig., (reprints issued 18 Oct 1921).
+	- (*7*): Skottsberg, C., *The Phanerogams of the Juan Fernandez Islands*, (see also nr. 28: 770-792)) p. \[95\]-240, 39 textfigs., *pl. 10-19* (black and white), *pl. 20* (col., pr. by John & Kröstel, Leipzig), (reprints with title cover issued 22 Dec 1921).
+- *3*(*8*): Brotherus, V.F., *Musci Insulae-Paschalis*, p. \[241\]-246, *pl. 21-23*, (reprints issued 1923).
+	- (*9*): Börgesen, F., *Marine Algae from Easter Island*, p. \[247\]-309, \[310 blank\], 50 textfigs., (reprints issued 21 Feb 1924).
+	- (*10*): Sjöstedt, L.G., *Ein neues Sargassum von der Osterinsel*, p. \[311\]-314, 5 textfigs., (reprints issued 21 Feb 1924).
+	- (*11*): Zahlbruckner, A., *Die Flechten der Juan Fernandez-Inseln*, p. \[315\]-408, *pl. 24-25* (col.), p. 408: pr. 7 Mar 1924, (reprints issued 14 Mar 1924).
+	- (*12*): Brotherus, V.F., *The Musei of the Juan Fernandez Islands*, p. \[409\]-448, *pl. 26-27*, p. 448: pr. 14 Mar 1924, (reprints issued 14 Mar 1924).
+- *4*(*13*): Zahlbruckner, A., *Die Flechten der Osterinsel, nebst einem Nachtrag zu der Flechtenflora von Juan Fernandez*, p. \[449\]-460, p. 460: pr. 13 Feb 1926.
+	- (*14*): Boye Petersen, J., *Marine Cyanophyceae from Easter Island*, p. \[461\]-463, \[464 blank\], p. 463: pr. 13 Feb 1926.
+	- (*15*): Romell, L., *Basidiomycetes from Juan Fernandez*, collected by C. Skottsberg, p. \[465\]-471, \[472 blank\], 3 textfigs. p. 471: printed 31 Jul 1926.
+	- (*16*): Keissler, K., *Ascomyceten, Fungi imperfecti und Uredineen von Juan Fernandez* (contributions by H. Sydow and F. Petrak), p. \[473\]-486, p. 486: printed 16 Jun 1927 (reprints issued Jun 1927).
+	- (*17*): Skottsberg, C., *The vegetation of Easter Island*, p. \[487\]-502, *pl. 28-33*, p. 502: printed 27 Jun 1927.
+	- (*18*): Skottsberg, C., *Pollinationsbiologie und Samenverbreitung auf den Juan Fernandez-Inseln*, p. \[503\]-547, \[548 blank\], 54 textfigs. p. 547: printed 30 Jan 1928 (reprints issued 18 Feb 1928).
+	- (*19*): Keissler, K., *Nachtrag zur Pilzflora von Juan Fernandez* (contributions by V. Litschauer and L Weese), p. \[549\]-550, 1 textfig., p. 550: printed 18 Feb 1928 (reprints issued 18 Feb 1928).
+- *5*(*20*): Evans, A.W., *The thallose Hepaticae of the Juan Fernandez Islands*, p. \[551\]-586, 6 textfigs., p. 586: printed 24 Nov 1930 (reprints issued same date).
+	- (*21*): Setchell, W.A., *The Codiums of the Juan Fernandez Islands*, p. \[587\]-600, *pl. 34-48*, p. 600: printed 10 Apr 1937. (reprints issued same date).
+	- (*22*): Levring, T., *Die Meeresalgen der Juan Fernandez-Inseln* (preface and contributions by C. Skottsberg), p. \[601\]-670, 30 textfigs., *pl. 49-53*, p. 670: printed 14 Dec 1941 (reprints with title cover issued same date).
+	- (*23*): Skottsberg, C., *Marine algal communities of the Juan Fernandez Islands, with remarks on the composition of the flora* (see also nr. 27), p. \[671\]-696, *pl. 54*, p. 696: printed 30 Dec 1941 (reprints with title cover issued same date).
+	- (*24*): Herzog, T., *Die foliosen Lebermoose der Juan Fernandez-Inseln und der Osterinsel*, p. \[697\]-752, 14 text figs., p. 752: printed 1 Dec 1942 (reprints with title cover issued same date).
+	- (*25*): T. Levring, *Die Corallinaceen der Juan Fernandez-Inseln*, p. \[753\]-757, \[758 blank\], 2 textfigs., p. 757: printed 19 Mai 1943 (reprints issued May 1943). 
+	- (*26*): Levring, T., *Einige Corallinaceen von der Oster-Insel*, p. \[759\]-760, p. 760: printed Mai 1943 (reprints issued Mai 1943).
+	- (*27*): Skottsberg, C., *Additional remarks to* "*Marine Algal communities of the Juan Fernnadez Islands*" (nr. 23), p. \[761\]-762: printed 19 Mai 1943 (reprints issued Mai 1943).
+- *6*(*28*): Skottsberg, C., *A supplement to the Pteridophytes and Phanerogams of Juan Fernandez and Easter Island* (nos. 1, 2, 5 and 7), p. \[763\]-792, *pl. 55-57*, p. 792: printed 2 Nov 1951 (reprints with title cover issued same date). (See also below).
+	- (*29*): Skottsberg, C., *The vegetation of the Juan Fernandez Islands*, p. \[793\]-960, 42 textfigs., *pl. 58-116*, 1 map (col., folded), corr. slip, p. 960: pr. 11 Feb 1953, (reprints issued same date).
+
 *3. Zoology*. 1921-1940, p. \[i, t.p.-iv\], \[1\]-688, 440 textfigs., *pl. 1-20*.
 *General accounts of the expedition 1916-1917*: Skottsberg, C., La expedición científica sueca a las Islas Esporádicas de Chile 1916-1917. Rev. Univ. nac. de Cordoba 4(8): no-115. 1917. *Till Robinson-on och varldens ände*... Stockholm (Albert Bonniers Förlag) 1918. 210 p., *20 pl*., 102 textfigs., 3 maps; Ymer 1924(3): \[301\]-304. 1924; Geogr. ann. 1924(3/4): \[209\]-212. 1924. *Copies*: GB, Peterson, U.
 *Ref*.: Santesson, R., Sv. Bot. Tidskr. 51: 573-575. 1957.

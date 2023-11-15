@@ -28,8 +28,8 @@ Barnhart 3: 183; BM 4: 1739; KR p. 603 (b. 30 Nov 1739, d. 4 Dec 1778); PR 5500,
 
 #### Composite works
 
-(1) Rothman received his Dr. phil. degree in 1761 on a dissertation written by Johan Gottschalk (1709-1785), professor of chemistry, Uppsala, *Dissertatio chemica de origine oleorum in vegetabilius*, 26 Mar 1761, 12 p.
-(2) Rothman's medical thesis, under Linnaeus, was written by himself: *De Raphania* dissertatio medica,... 27 Mai 1763, treated by us under Linnaeus (TL-2/4819). We follow Krok (p. 603) in attributing this thesis to the student and not to the master. – O. Almborn in litt. agrees with this after reading the thesis. "Linnaeus is referred to as "N.D. Praeses" which he would never have written himself. – It is a well-known fact that *De Raphania* launches a most remarkable (not to say peculiar) theory. "*Morbus spasmodicus*" (now known as ergotism) was believed to arise from poisonous seeds of Raphanus raphanistrum mixed with grains of cereals. These ideas were rejected by many contemporary physicians".
+- (1) Rothman received his Dr. phil. degree in 1761 on a dissertation written by Johan Gottschalk (1709-1785), professor of chemistry, Uppsala, *Dissertatio chemica de origine oleorum in vegetabilius*, 26 Mar 1761, 12 p.
+- (2) Rothman's medical thesis, under Linnaeus, was written by himself: *De Raphania* dissertatio medica,... 27 Mai 1763, treated by us under Linnaeus (TL-2/4819). We follow Krok (p. 603) in attributing this thesis to the student and not to the master. – O. Almborn in litt. agrees with this after reading the thesis. "Linnaeus is referred to as "N.D. Praeses" which he would never have written himself. – It is a well-known fact that *De Raphania* launches a most remarkable (not to say peculiar) theory. "*Morbus spasmodicus*" (now known as ergotism) was believed to arise from poisonous seeds of Raphanus raphanistrum mixed with grains of cereals. These ideas were rejected by many contemporary physicians".
 
 #### Eponymy
 

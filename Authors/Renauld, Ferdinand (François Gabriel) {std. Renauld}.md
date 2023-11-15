@@ -10,8 +10,8 @@ Renauld, Ferdinand \[François Gabriel\], (1837-1910), French soldier and botani
 
 [[Collection PC|PC]] (bryol. herb. and types, rd 1909); other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FH|FH]], [[Collection H|H]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]] (isotypes Amer. mat.), [[Collection US|US]] (id.), [[Collection W|W]].
 *Exsiccatae*: (1) *Musci Americae septentrionalis exsiccati*, 400 nos. 8 fasc. (1892-1908; with J. Cardot). Sets: [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]] (see e.g. Bull. Herb. Boiss. 4: 1-19, 476-478. 1896).
-(2) *Musci mascareno-madagascarienses*, 250 nos. (1892-1895). Sets: [[Collection B|B]], [[Collection FH|FH]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection W|W]].
-(3) *Musci europaei exsiccati*, 350 nos., 7 fasc., 1902?-1908. Sets: [[Collection BM|BM]], [[Collection FH|FH]], [[Collection PC|PC]]. 77 letters by Renauld to V.F. Brotherus at Helsinki Univ. Libr. (Koponen 1979), 14 letters to W.F. Farlow at [[Collection FH|FH]]. For Renauld's correspondence at [[Collection PC|PC]] (826 letters from 119 bryologists, botanists and friends) see Lamy (1981).
+- (2) *Musci mascareno-madagascarienses*, 250 nos. (1892-1895). Sets: [[Collection B|B]], [[Collection FH|FH]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection W|W]].
+- (3) *Musci europaei exsiccati*, 350 nos., 7 fasc., 1902?-1908. Sets: [[Collection BM|BM]], [[Collection FH|FH]], [[Collection PC|PC]]. 77 letters by Renauld to V.F. Brotherus at Helsinki Univ. Libr. (Koponen 1979), 14 letters to W.F. Farlow at [[Collection FH|FH]]. For Renauld's correspondence at [[Collection PC|PC]] (826 letters from 119 bryologists, botanists and friends) see Lamy (1981).
 
 #### Bibliography and biography
 
@@ -34,10 +34,10 @@ Barnhart 3: 144 (b. 18 Nov 1837, d. 6 Mai 1910); BL 1: 140, 314, 2: 149, 156, 70
 
 #### Composite works
 
-(1) With J. Cardot *in* A. Grandidier, *Hist. phys. Madagascar*, vol. 39, Mousses, 1898-1915, see TL-2/2109, (IDC 5936) and below no. 8995.
-(2) Co-author with E.M. J. Jeanbernat, *Guide bryol. Pyrénées* 1884-1885, TL-2/3320 (correction: *part 1* incl. Rev. bot. 3: 12-16. 1884, part 2 is a reprint of Rev. bot. 3: 305-338. 1885).
-(3) Co-author with T. Husnot of the genus *Hypnum* in *Museologia gallica* (TL-2/3154).
-(4) *Musci* with J. Cardot *in* Th. Durand & H. Pittier, *Primit. fl. costaric.* 1(2): 119-215 (pages Bull.) 1893 and 1(3): 53-80 (pages reprint). 1896.
+- (1) With J. Cardot *in* A. Grandidier, *Hist. phys. Madagascar*, vol. 39, Mousses, 1898-1915, see TL-2/2109, (IDC 5936) and below no. 8995.
+- (2) Co-author with E.M. J. Jeanbernat, *Guide bryol. Pyrénées* 1884-1885, TL-2/3320 (correction: *part 1* incl. Rev. bot. 3: 12-16. 1884, part 2 is a reprint of Rev. bot. 3: 305-338. 1885).
+- (3) Co-author with T. Husnot of the genus *Hypnum* in *Museologia gallica* (TL-2/3154).
+- (4) *Musci* with J. Cardot *in* Th. Durand & H. Pittier, *Primit. fl. costaric.* 1(2): 119-215 (pages Bull.) 1893 and 1(3): 53-80 (pages reprint). 1896.
 For further works published with others see nos. 32-57 of the Renauld bibliography by Thériot (1910).
 
 #### Eponymy

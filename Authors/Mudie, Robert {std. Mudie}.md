@@ -19,8 +19,8 @@ Barnhart 2: 522; BB p. 223; CSP 4: 502; Desmond p. 454; DNB 39: 263; Herder p. 2
 
 #### Composite works
 
-(1)*The florist's journal*(n.v.), see Loudon, J. C., Gardener's Mag. ser. 2. 6: 602-603. 1840, or nos. (monthly) 1-7, 168 p., 1840.
-(2) *The British naturalist*,or sketches of the more interesting productions of Britain... vols. 1-2 (all publ.), London 1830.
+- (1) *The florist's journal*(n.v.), see Loudon, J. C., Gardener's Mag. ser. 2. 6: 602-603. 1840, or nos. (monthly) 1-7, 168 p., 1840.
+- (2) *The British naturalist*,or sketches of the more interesting productions of Britain... vols. 1-2 (all publ.), London 1830.
 
 ### Publications
 

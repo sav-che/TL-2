@@ -8,7 +8,8 @@ Poetsch, \[Pötsch\], Ignaz Sigismund (1823-1884), Bohemian-born Austrian botani
 
 #### Herbarium and types
 
-Naturhist. Sammlungen des Obergymnasiums der Benediktiner at Seitenstetten; other material also in Stift Kremsmünster (pp. in Herbar Stieglitz). The herbarium of Schiedermayr at [[Collection LI|LI]] also contains Poetsch material (information Dr. F. Speta, Linz). Some lichens at [[Collection M|M]] and [[Collection WRSL|WRSL]]. *Exsiccatae*: *Cladoniae austriaceae*, fasc. 1-2, nos. 1-325, 1873. Sets at [[Collection L|L]], [[Collection W|W]]. – Letters an portrait at [[Collection G|G]].
+Naturhist. Sammlungen des Obergymnasiums der Benediktiner at Seitenstetten; other material also in Stift Kremsmünster (pp. in Herbar Stieglitz). The herbarium of Schiedermayr at [[Collection LI|LI]] also contains Poetsch material (information Dr. F. Speta, Linz). Some lichens at [[Collection M|M]] and [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Cladoniae austriaceae*, fasc. 1-2, nos. 1-325, 1873. Sets at [[Collection L|L]], [[Collection W|W]]. – Letters an portrait at [[Collection G|G]].
 
 #### Bibliography and biography
 

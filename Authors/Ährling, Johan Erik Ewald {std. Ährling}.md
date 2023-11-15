@@ -23,9 +23,9 @@ Jackson p. 121; KR p. 791 (b. 18 Sep 1837, d. 5 Apr 1888); SO p. 7 (no. 37).
 
 #### Composite works
 
-(1) Vita Caroli Linnaei, *in* C. v. Linnés Ungdomskr. (Ährling editor) 1: 53- 87. 1888, see KR p. 436, no. 23 and p. 791. no. 6.
-(2) Festen till C. v. Linnés minne, 1878, p. 65-106 (Linnés förkållande till sina lärjungar).
-(3) Edited Caroli Linnaei opera hactenus inedita. *Flora Dalekarlica*. Ad verba Linnaei, p. \[iv\], viii, 130; S0 249.
+- (1) Vita Caroli Linnaei, *in* C. v. Linnés Ungdomskr. (Ährling editor) 1: 53- 87. 1888, see KR p. 436, no. 23 and p. 791. no. 6.
+- (2) Festen till C. v. Linnés minne, 1878, p. 65-106 (Linnés förkållande till sina lärjungar).
+- (3) Edited Caroli Linnaei opera hactenus inedita. *Flora Dalekarlica*. Ad verba Linnaei, p. \[iv\], viii, 130; S0 249.
 
 ### Publications
 

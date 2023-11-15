@@ -45,11 +45,11 @@ ADB 6: 108-110; AG 3: 593, 7: 111; Andrews p. 259; Barnhart 1: 509; BL 1: 102, 1
 
 #### Composite works
 
-(1) Endlicher founded *Flora brasiliensis* in 1840 together with Martius and was co-editor of fasc. 1-9, 1840-1847.
-(2) See E. Poeppig: *Nova genera et species plantarum*, 3 vols., 1835-1845.
-(3) See H. Schott: *Melemata botanica*, Wien 1832.
-(4) See Th. Nees ab Esenbeck et al.: *Genera plantarum florae Germanicae*, I. *Gramineae. *Bonn 1843.
-(5) See Anton Hartinger: *Paradisus vindobonensis*. Wien 1844-1860.
+- (1) Endlicher founded *Flora brasiliensis* in 1840 together with Martius and was co-editor of fasc. 1-9, 1840-1847.
+- (2) See E. Poeppig: *Nova genera et species plantarum*, 3 vols., 1835-1845.
+- (3) See H. Schott: *Melemata botanica*, Wien 1832.
+- (4) See Th. Nees ab Esenbeck et al.: *Genera plantarum florae Germanicae*, I. *Gramineae. *Bonn 1843.
+- (5) See Anton Hartinger: *Paradisus vindobonensis*. Wien 1844-1860.
 
 #### Eponymy
 

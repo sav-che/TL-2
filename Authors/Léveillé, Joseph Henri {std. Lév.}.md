@@ -32,11 +32,11 @@ AG 6(1): 276; Ainsworth p. 344; Barnhart 2: 374; BM 3: 1101-1102; CSP 3: 988; Fr
 
 #### Composite works
 
-(1) *Observations médicales et enumération des plantes recueillies en Tauride*, par le docteur J. H. Léveillé, *in* A. N. de Demidoff, *Voyage dans la Russie méridionale et la Crimée*, 2: \[33\]-242. 1842 (also issued separately without imprint; copy MO). Also: *Catalogue des plantes phanérogames recueillies dans la chaine du Donetz* in vol. 4 \[1842?\].
-(2) *Champignons*, in Gaudichaud, C., Voy. *Bonite, Bot*. 2: 164-204. Oct-Nov 1846, Atlas *pl. 136-140.* after 1852.
-(3) *Fungi*, in Triana, J. & J. E. Planchon, *Prodr. fl. Novo-Gratens.* 2: 150-169. 1863 (Ann. Sci. nat. Bot. ser. 4. 20: 282-300. 1863).
-(4) Co-editor, *Dict. univ. hist. nat.*, see A. C. V. D. d'Orbigny.
-(5) *Fungi*, in A. Moritzi, *Syst. Verz.* 118-126. 1846.
+- (1) *Observations médicales et enumération des plantes recueillies en Tauride*, par le docteur J. H. Léveillé, *in* A. N. de Demidoff, *Voyage dans la Russie méridionale et la Crimée*, 2: \[33\]-242. 1842 (also issued separately without imprint; copy MO). Also: *Catalogue des plantes phanérogames recueillies dans la chaine du Donetz* in vol. 4 \[1842?\].
+- (2) *Champignons*, in Gaudichaud, C., Voy. *Bonite, Bot*. 2: 164-204. Oct-Nov 1846, Atlas *pl. 136-140.* after 1852.
+- (3) *Fungi*, in Triana, J. & J. E. Planchon, *Prodr. fl. Novo-Gratens.* 2: 150-169. 1863 (Ann. Sci. nat. Bot. ser. 4. 20: 282-300. 1863).
+- (4) Co-editor, *Dict. univ. hist. nat.*, see A. C. V. D. d'Orbigny.
+- (5) *Fungi*, in A. Moritzi, *Syst. Verz.* 118-126. 1846.
 
 #### Eponymy
 

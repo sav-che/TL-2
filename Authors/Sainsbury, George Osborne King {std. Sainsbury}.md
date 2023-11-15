@@ -8,7 +8,8 @@ Sainsbury, George Osborne King (1880-1957), New Zealand barrister, solicitor and
 
 #### Herbarium and types
 
-[[Collection WELT|WELT]] (18.350); further bryophytes (incl. exsicc.) at [[Collection AK|AK]], [[Collection BR|BR]], [[Collection CHR|CHR]], [[Collection COL|COL]], [[Collection FH|FH]], [[Collection H|H]] (Bryoph.), [[Collection LD|LD]], [[Collection MEL|MEL]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection WELC|WELC]]. *Exsiccatae*: *Musci exsiccati Novae-Zelandiae* fasc. 1, 1931 (nos. 1-50), see Sayre (1971).
+[[Collection WELT|WELT]] (18.350); further bryophytes (incl. exsicc.) at [[Collection AK|AK]], [[Collection BR|BR]], [[Collection CHR|CHR]], [[Collection COL|COL]], [[Collection FH|FH]], [[Collection H|H]] (Bryoph.), [[Collection LD|LD]], [[Collection MEL|MEL]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection WELC|WELC]].
+*Exsiccatae*: *Musci exsiccati Novae-Zelandiae* fasc. 1, 1931 (nos. 1-50), see Sayre (1971).
 
 #### Bibliography and biography
 

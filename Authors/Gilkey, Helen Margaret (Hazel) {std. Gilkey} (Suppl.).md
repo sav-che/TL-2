@@ -28,9 +28,10 @@ Amer. Men Sci. ed. 10: 1398; APN p. 227; Barnhart 2: 49; BL 1: 209, 297; Bossert
 
 #### Outside our period
 
-(1) *Northwestern American plants*... Oregon State Monogr. Stud. Bot. no. 9... 1945.
-(2) *Weeds of the Pacific Northwest*... \[Corvallis, Oregon\] (Oregon State College), xxix, 441 p.... 1957; revised by La Rea J. Dennis (1935-x) as *Gilkey's Weeds of the Pacific Northwest*... \[Corvallis, Oregon\] (Oregon State University), 382 p. 1980. (3) Co-author with Albert Newton Steward (1897-1959) & La Rea J. Dennis (1935-x), *Aquatic plants of the Pacific Northwest*... Oregon State Monogr. Stud. Bot. no.11... 1960.
-(4) First author with Patricia L. Packard (1927-x), *Winter twigs*: a wintertime key to deciduous trees and shrubs of northwestern *Oregon* and western *Washington*... Oregon State Monogr. Stud. Bot. no. 12... 1962; rev. ed.,... 2001.
+- (1) *Northwestern American plants*... Oregon State Monogr. Stud. Bot. no. 9... 1945.
+- (2) *Weeds of the Pacific Northwest*... \[Corvallis, Oregon\] (Oregon State College), xxix, 441 p.... 1957; revised by La Rea J. Dennis (1935-x) as *Gilkey's Weeds of the Pacific Northwest*... \[Corvallis, Oregon\] (Oregon State University), 382 p. 1980.
+- (3) Co-author with Albert Newton Steward (1897-1959) & La Rea J. Dennis (1935-x), *Aquatic plants of the Pacific Northwest*... Oregon State Monogr. Stud. Bot. no.11... 1960.
+- (4) First author with Patricia L. Packard (1927-x), *Winter twigs*: a wintertime key to deciduous trees and shrubs of northwestern *Oregon* and western *Washington*... Oregon State Monogr. Stud. Bot. no. 12... 1962; rev. ed.,... 2001.
 *Note*: La Rea J\[ohnston\]. Dennis (1935-x), asst. curator of the herb. at Oregon State Univ., later published as La Rea D\[ennis\]. Johnston.
 
 #### Composite works

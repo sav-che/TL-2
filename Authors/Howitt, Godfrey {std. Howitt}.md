@@ -8,7 +8,8 @@ Howitt, Godfrey (1800-1873), British physician (M. D. Edinburgh) at Leicester an
 
 #### Herbarium and types
 
-Melbourne University rd. H's entomological coll. and library. *Exsiccatae: Muscologia Nottinghamiensis*: or, a collection of mosses, found chiefly in the neighbourhood of Nottingham: arranged in fasciculi, with descriptions and occasional remarks. Fasc. 1-3, nos. 1-24, Nottingham (Bennett) 1883, issued together with William Valentine (x-1884). Set at [[Collection BM|BM]].
+Melbourne University rd. H's entomological coll. and library.
+*Exsiccatae*: Muscologia Nottinghamiensis*: or, a collection of mosses, found chiefly in the neighbourhood of Nottingham: arranged in fasciculi, with descriptions and occasional remarks. Fasc. 1-3, nos. 1-24, Nottingham (Bennett) 1883, issued together with William Valentine (x-1884). Set at [[Collection BM|BM]].
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(2): 216. 1971.
 
 #### Bibliography and biography

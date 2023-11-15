@@ -25,9 +25,9 @@ AG 3: 84; Backer p. 652; Barnhart 2: 144; BM 2: 805; Bossert p. 168; CSP 3: 240;
 
 #### Composite works
 
-(1), continued Guimpel, *Abbild. deut. Holzart*. 1815-1820, TL 2/2214.
-(2)descriptions in Guimpel, *Abbild. fremd. Holzart*. 1825, TL 2/2215.
-(3)With J. F. P. Dreves, Choix de plantes d'Europe, 5 vols. 1802.
+- (1), continued Guimpel, *Abbild. deut. Holzart*. 1815-1820, TL 2/2214.
+- (2) descriptions in Guimpel, *Abbild. fremd. Holzart*. 1825, TL 2/2215.
+- (3) With J. F. P. Dreves, Choix de plantes d'Europe, 5 vols. 1802.
 
 #### Eponymy
 

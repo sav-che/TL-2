@@ -23,11 +23,12 @@ BFM p. 281; GR p. 73; Kew 2: 164-165.
 
 #### Outside our period
 
-(1) *Unsere Pflanzenwelt* 110 p. (1948). 2nd ed. 256 p. (1967) as *Vertraute Pflanzenwelt*.
-(2) *Farne im Herzen Europas* 116 p. (1959), 2nd ed. 176 p. (1970).
-(3) Die *Orchideen der deutschen Heimat* (1954), 2nd ed. (1961), 3rd ed. 149 p. (1968). (4) *Gesteinflur, Vorbild unserer Steingärten* 152 p. (1963).
-(5) *Pflanzen am Mittelmeer* 276 p. (1965), 2nd ed. 310 p. (1975).
-(6) *Lilien und Lilienverwandte in den Floren Mittel- und Südeuropas* 203 p. (1972). (7) *Pflanzen unserer Feuchtgebiete und ihre Gefährdung* 236 p. (1979). – All issued in series Senckenberg-Bücher.
+- (1) *Unsere Pflanzenwelt* 110 p. (1948). 2nd ed. 256 p. (1967) as *Vertraute Pflanzenwelt*.
+- (2) *Farne im Herzen Europas* 116 p. (1959), 2nd ed. 176 p. (1970).
+- (3) Die *Orchideen der deutschen Heimat* (1954), 2nd ed. (1961), 3rd ed. 149 p. (1968).
+- (4) *Gesteinflur, Vorbild unserer Steingärten* 152 p. (1963).
+- (5) *Pflanzen am Mittelmeer* 276 p. (1965), 2nd ed. 310 p. (1975).
+- (6) *Lilien und Lilienverwandte in den Floren Mittel- und Südeuropas* 203 p. (1972). (7) *Pflanzen unserer Feuchtgebiete und ihre Gefährdung* 236 p. (1979). – All issued in series Senckenberg-Bücher.
 
 ### Publications
 

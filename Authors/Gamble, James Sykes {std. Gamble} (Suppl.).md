@@ -44,15 +44,15 @@ APN p. 217; Backer p. 650; Barnhart 2: 26; BB p. 118; BM 2: 637, 6: 355; Clokie 
 #### Note
 
 The following titles treated earlier can be amended as follows:
-(1) *Man. Ind. timb.*... ed. 2 (1881) (see TL-2/1, nr. 1935), add:
+- (1) *Man. Ind. timb.*... ed. 2 (1881) (see TL-2/1, nr. 1935), add:
 *Reprint* \[Ed. 2\]: 1972... Dehra Dun (Bishen Sing Mahendra Pal Singh). *Copy*: MO.
-(2) *Fl. Madras*... (see TL-2/1, nr. 1936), add:
+- (2) *Fl. Madras*... (see TL-2/1, nr. 1936), add:
 *Ed. 2* \[reprinted\]: \[1957 & 1967\]... Calcutta (Botanical Survey of India)... 3 vols. (but type reset so: vol. 1: \[i\]-lii, \[1\]-408, 2: \[409\]-942, 3: \[943\]-1389, map (fold.)). *Copies*: Nicolson \[1967\], NY (n.v.).
 
 #### Composite works
 
-(1) Pref. *in* Upendranatha N. Kanjilal (1859-1928), *Forest flora of the school circle, N.-W.P.*... 1901.
-(2) Collaborated with Sir G. King, *Mat. fl. Malay. Penins.* (King)... 26 parts, 1889-1936 (TL-2/2, nr. 3655, emend.), being co-author of fascicle nos. 14-21 and sole author of nos. 22-25. *Note*: (a) The title is incorrect in TL-2/2, nr. 3655. It should be *Materials for a flora of the Malayan Peninsula* and abbreviated *Mat. fl. Malay. Penins.* (King). Confusion is compounded by the running head of all pages: "Flora of the Malayan Peninsula". (b) The title is the same and easily confused with that of a contemporary work by Henry Nicholas Ridley (1855-1956), abbreviated *Mat. fl. Malay Penins.* \[the 3rd word not an abbreviation !\] (Ridley), see TL-2/4, nr. 9208. (c) *Flora of the Malayan Peninsula*... Delhi (Cosmo)... 1986... is a confusingly titled reprint of only nos. 16-17 of King & Gamble's work (the final part of the Rubiaceae to the Pedalinaceae). *Copy*: MO.
+- (1) Pref. *in* Upendranatha N. Kanjilal (1859-1928), *Forest flora of the school circle, N.-W.P.*... 1901.
+- (2) Collaborated with Sir G. King, *Mat. fl. Malay. Penins.* (King)... 26 parts, 1889-1936 (TL-2/2, nr. 3655, emend.), being co-author of fascicle nos. 14-21 and sole author of nos. 22-25. *Note*: (a) The title is incorrect in TL-2/2, nr. 3655. It should be *Materials for a flora of the Malayan Peninsula* and abbreviated *Mat. fl. Malay. Penins.* (King). Confusion is compounded by the running head of all pages: "Flora of the Malayan Peninsula". (b) The title is the same and easily confused with that of a contemporary work by Henry Nicholas Ridley (1855-1956), abbreviated *Mat. fl. Malay Penins.* \[the 3rd word not an abbreviation !\] (Ridley), see TL-2/4, nr. 9208. (c) *Flora of the Malayan Peninsula*... Delhi (Cosmo)... 1986... is a confusingly titled reprint of only nos. 16-17 of King & Gamble's work (the final part of the Rubiaceae to the Pedalinaceae). *Copy*: MO.
 
 ### Publications
 

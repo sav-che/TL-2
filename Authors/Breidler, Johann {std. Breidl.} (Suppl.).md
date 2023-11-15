@@ -27,8 +27,8 @@ Barnhart 1: 246; BM 1: 229; Bossert p. 51; CSP 13: 787; DTS 1: 33; IH 2: 95; Mor
 
 #### Composite works
 
-(1) J. Breidler and J.B. Förster published Jakob Juratzka, *Laubm.-Fl. Oesterr.-Ung.* 1882, see TL-2/3456.
-(2) *Musci*, *in* G. Beck, *Fl. Süd-Bosnien 1*, Ann, naturh. Hofmus. Wien 1: 271-325. 1886.
+- (1) J. Breidler and J.B. Förster published Jakob Juratzka, *Laubm.-Fl. Oesterr.-Ung.* 1882, see TL-2/3456.
+- (2) *Musci*, *in* G. Beck, *Fl. Süd-Bosnien 1*, Ann, naturh. Hofmus. Wien 1: 271-325. 1886.
 
 ### Publications
 

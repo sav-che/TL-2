@@ -28,8 +28,8 @@ Barnhart 1: 269 (b. 10 Aug 1862, Bergen, d. 20 Mai 1917, Rome); BM 1: 266; CSP 1
 
 #### Notes
 
-(1) Thesis for Ph.D. at Tübingen (with Pfeffer): *Über die Wurzelanschwellungen von Alnus und den Elaeagnaceen*, Leipzig 1886, 2, 26 p., *1 pl*., reprinted from Untersuchungen aus dem Botanischen Institut zu Tübingen 2, 1884-1886 (n.v.) (Nat. Nov. Apr (2) 1886), see also M. Büsgen, Bot. Zeit. 45: 153-154. 11 Mar 1887 (rev.).
-(2) Major publication (not seen by us): *De vigtigste Plantesygdomme* en populaer fremstelling af nytte-planternes sundhedslaera... Bergen 1887, p. viii, 265 p. Oct. (Nat. Nov. Aug (1) 1887).
+- (1) Thesis for Ph.D. at Tübingen (with Pfeffer): *Über die Wurzelanschwellungen von Alnus und den Elaeagnaceen*, Leipzig 1886, 2, 26 p., *1 pl*., reprinted from Untersuchungen aus dem Botanischen Institut zu Tübingen 2, 1884-1886 (n.v.) (Nat. Nov. Apr (2) 1886), see also M. Büsgen, Bot. Zeit. 45: 153-154. 11 Mar 1887 (rev.).
+- (2) Major publication (not seen by us): *De vigtigste Plantesygdomme* en populaer fremstelling af nytte-planternes sundhedslaera... Bergen 1887, p. viii, 265 p. Oct. (Nat. Nov. Aug (1) 1887).
 
 ### Publications
 

@@ -22,9 +22,9 @@ Barnhart 3: 247 (b. 24 Feb 1860, d. 24 Mar 1935); Biol.-Dokum. 16: 8442; BJI 2: 
 
 #### Composite works
 
-(1) Collaborator *Hedwigia* 1910-1935 ("Neue Literatur", indexes, personalia, exsiccatae).
-(2) Ascherson & Graebner, *Syn. mittelem. Fl.*, indexes vols. 5(1), 5(2), 12(1).
-(3) Indexes *Kryptogamenflora Brandenburg* 5a: 925-946. 1914, 5: 613-630. 30 Jun 1915.
+- (1) Collaborator *Hedwigia* 1910-1935 ("Neue Literatur", indexes, personalia, exsiccatae).
+- (2) Ascherson & Graebner, *Syn. mittelem. Fl.*, indexes vols. 5(1), 5(2), 12(1).
+- (3) Indexes *Kryptogamenflora Brandenburg* 5a: 925-946. 1914, 5: 613-630. 30 Jun 1915.
 
 ### Publications
 

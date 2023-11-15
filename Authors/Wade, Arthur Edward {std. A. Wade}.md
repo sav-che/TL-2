@@ -32,8 +32,8 @@ Barnhart 3: 446; BL 2: 314, 316, 319, 321, 322, 729; Clokie p. 260; GR p. 384, *
 
 #### Composite works
 
-(1): Co-author with H.A. Hyde, *Welsh ft. pl.* 1934, see TL-2/3174. *Ed. 1*, other copy: US; *Ed. 2*, revised by A.E. Wade, 1957, p. \[i\]-vi, \[vii-xi\], \[1\]-209, *pl. 1-4. Copy*: US.
-(2) Editor, J.H. Salter, *Fl. pl. Cardiganshire, Suppl*. 1952, TL-2/10147.
+- (1): Co-author with H.A. Hyde, *Welsh ft. pl.* 1934, see TL-2/3174. *Ed. 1*, other copy: US; *Ed. 2*, revised by A.E. Wade, 1957, p. \[i\]-vi, \[vii-xi\], \[1\]-209, *pl. 1-4. Copy*: US.
+- (2) Editor, J.H. Salter, *Fl. pl. Cardiganshire, Suppl*. 1952, TL-2/10147.
 
 #### Note
 

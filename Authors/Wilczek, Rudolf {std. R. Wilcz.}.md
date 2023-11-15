@@ -22,8 +22,8 @@ Bossert p. 436; Hortus 3: 1207; IH 1 (ed. 1): 15, (ed. 2): 30, (ed. 3): 34, (ed.
 
 #### Composite works
 
-(1) *Mchy zespolów lesnych pogórza cieszynskiego, in* A. Kozlowska et al., Biocenoza lasów pogórza cieszynskiego, Krakow 1936, p. 79-112.
-(2) Contributed to W. Robyns et al., ed., *Flore du Congo Belge et Ruanda-Urundi*, vols. 2-10, 1951-1956 (2) Laurac., Capparid., (3) Caesalpin. p.p., (4) Papilion.-Genisteae, (7) Oxalidac, Linac, Malpigh., Balsamin., (10) Tiliac.
+- (1) *Mchy zespolów lesnych pogórza cieszynskiego, in* A. Kozlowska et al., Biocenoza lasów pogórza cieszynskiego, Krakow 1936, p. 79-112.
+- (2) Contributed to W. Robyns et al., ed., *Flore du Congo Belge et Ruanda-Urundi*, vols. 2-10, 1951-1956 (2) Laurac., Capparid., (3) Caesalpin. p.p., (4) Papilion.-Genisteae, (7) Oxalidac, Linac, Malpigh., Balsamin., (10) Tiliac.
 
 ### Publications
 

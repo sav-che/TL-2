@@ -56,6 +56,6 @@ Aa 2: 1607-1609; AG 2(1): 74, 7: 475; Backer p. 91; Barnhart 1: 286 (d. 11 Sep 1
 
 #### Notes
 
-(1) N.L. Burman, *Prodromus florae capensis* is part of *Flora Indica*, TL-2/935.
-(2) *Felicis Valle*, medici taurinenses, *Flora corsicae* ex ipsius schedis collecta a Carolo Alliono, auctor ex scriptis Dr. Janssen, et publicum in usum communicata... Nova Acta Leopoldina 4(app.): 205-254. 1770. – Miscellanea taurinensia 2: 204-218, 1 pl. 1762.
+- (1) N.L. Burman, *Prodromus florae capensis* is part of *Flora Indica*, TL-2/935.
+- (2) *Felicis Valle*, medici taurinenses, *Flora corsicae* ex ipsius schedis collecta a Carolo Alliono, auctor ex scriptis Dr. Janssen, et publicum in usum communicata... Nova Acta Leopoldina 4(app.): 205-254. 1770. – Miscellanea taurinensia 2: 204-218, 1 pl. 1762.
 

@@ -29,10 +29,10 @@ Barnhart 3: 507; Biol.-Dokum. 10087-10089; BJI 2: 192; BM 8: 1445; CSP 19: 663; 
 
 #### Composite works
 
-(1) Founder with W.O.E. Ruhland, and co-editor of *Planta* vols. 1-34, 1925-1945.
-(2) *Entwicklungsmechanik oder Entwicklungsphysiologie der Pflanzen, in* Handw.-Buch Naturw. 3: 634-667. 1912.
-(3) *Fortpflanzung der Gewächse* 6. *Apogamie und Parthenogenesis, in* Handw.-Buch Naturw. 4: 265-276. 1913.
-(4) *Translation, Propfung, Propjbastarde, in* Handw.-Buch Naturw. 10: 18-29. 1913.
+- (1) Founder with W.O.E. Ruhland, and co-editor of *Planta* vols. 1-34, 1925-1945.
+- (2) *Entwicklungsmechanik oder Entwicklungsphysiologie der Pflanzen, in* Handw.-Buch Naturw. 3: 634-667. 1912.
+- (3) *Fortpflanzung der Gewächse* 6. *Apogamie und Parthenogenesis, in* Handw.-Buch Naturw. 4: 265-276. 1913.
+- (4) *Translation, Propfung, Propjbastarde, in* Handw.-Buch Naturw. 10: 18-29. 1913.
 
 #### Thesis
 

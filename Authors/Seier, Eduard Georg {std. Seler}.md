@@ -37,8 +37,8 @@ Barnhart 3: 258 (b. 5 Dec 1849, d. 23 Nov 1922); CSP 18: 681; Langman p. 693; TL
 
 #### Festschrift
 
-(1) Lehmann, Walter, ed., *Festschrift Eduard Seler*, Stuttgart 1922, viii, 654 p. (list of travels p. 1-2, portr., bibl. (257 nos.), p. 3-27).
-(2) Tomo especial de homenaje consagrado a horar la memoria del ilustre antropólogo Dr. Eduardo Seler, Méx. antig. 7: 1-558 (portr., evaluation, bibl.).
+- (1) Lehmann, Walter, ed., *Festschrift Eduard Seler*, Stuttgart 1922, viii, 654 p. (list of travels p. 1-2, portr., bibl. (257 nos.), p. 3-27).
+- (2) Tomo especial de homenaje consagrado a horar la memoria del ilustre antropólogo Dr. Eduardo Seler, Méx. antig. 7: 1-558 (portr., evaluation, bibl.).
 
 #### Note
 

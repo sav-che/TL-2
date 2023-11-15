@@ -10,7 +10,8 @@ Farlow, William Gilson (1844-1919), American botanist, professor of cryptogamic 
 
 #### Herbarium and types
 
-[[Collection FH|FH]]; duplicates from Farlow's herbarium were distributed in *Reliquae Farlowianae* to many herbaria. – Exsiccatae: *Algae exsiccatae americae borealis* (fasc. i-v, nos. 1-230, Boston 1877-1889), sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STR|STR]], [[Collection TCD|TCD]], [[Collection W|W]] (with Charles Lewis Anderson, 1827-1919 and Daniel Cady Eaton, 1834-1895).
+[[Collection FH|FH]]; duplicates from Farlow's herbarium were distributed in *Reliquae Farlowianae* to many herbaria.
+*Exsiccatae*: *Algae exsiccatae americae borealis* (fasc. i-v, nos. 1-230, Boston 1877-1889), sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STR|STR]], [[Collection TCD|TCD]], [[Collection W|W]] (with Charles Lewis Anderson, 1827-1919 and Daniel Cady Eaton, 1834-1895).
 *Ref*.: IH 2: 190.
 - Day, Rhodora 3: 242. 1901.
 - Sayre, Mem. New York Bot. Garden 19(1): 72-73. 1969.

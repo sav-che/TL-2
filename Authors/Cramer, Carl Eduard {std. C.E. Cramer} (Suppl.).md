@@ -35,9 +35,9 @@ Barnhart 1: 392 (b. 4 Mar 1831, Zürich, d. 24 Nov 1901, ib.); BJI 1: 12; BM 1: 
 
 #### Composite works
 
-(1) With C. Nägeli, *Pfl. physiol. Unters.*, see TL-2/6609.
-(2) In O. Heer, *Flora fossilis arctica* (TL-2/2546), Band 1, Specieller Theil, vol. 1, 1868, q.v.
-(3) In C. Keller, Das *Leben des Meeres*, Leipzig (C.H. Tauchnitz) 1895, xviii, 605 p., *16 pl*., has "Botanische Beiträge" in the text. – See E. Roth, Bot. Centralbl. 64(51): 413-415.18 Dec 1895.
+- (1) With C. Nägeli, *Pfl. physiol. Unters.*, see TL-2/6609.
+- (2) In O. Heer, *Flora fossilis arctica* (TL-2/2546), Band 1, Specieller Theil, vol. 1, 1868, q.v.
+- (3) In C. Keller, Das *Leben des Meeres*, Leipzig (C.H. Tauchnitz) 1895, xviii, 605 p., *16 pl*., has "Botanische Beiträge" in the text. – See E. Roth, Bot. Centralbl. 64(51): 413-415.18 Dec 1895.
 
 ### Publications
 

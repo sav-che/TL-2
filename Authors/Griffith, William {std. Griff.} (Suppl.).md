@@ -52,19 +52,19 @@ AG 2(2): 386; APN p. 242; Backer p. 244, 651; Baillon 2: 743; Barnhart 2: 86; BB
 #### Note
 
 As was noted by W.J. Hooker (London J. Bot. 7: 446-449. 1848), after Griffith's death in 1845 at age 35 his unpublished mss. were published by John M'Clelland (1805-1883, see TL-2/3: 214). Most of these posthumous papers (often criticized) were treated earlier (see TL-2/1, nrs. 2166-2170). In recent years, however, some of them have been reprinted and/ or issued in microform, viz.:
-(1) \[Posthumous papers bequeathed to the Honourable The East India Company...\] *J. trav.*... 1847-1848, see TL-2/1, nr. 2166 (*J. trav.*=vol. 1) and 2168 (*Itin. pl. Khasyah mts.*=vol. 2): \[*Reprint* of selections...\]: 1865, Eden, Sir Ashley, *Political missions to Bootan*... *with Dr. W. Griffith's Journal*... Calcutta (Printed at the Bengal Secretariat Office): 1 lf., xi, 137, xi, 206 p., map (fold., in pocket). *Copy*: LC (n.v.). *Reprinted*:... New Delhi (Munshiram Manoharlal Publishers), xi, 137, xi, 206 p., map. *Copy*: LC (n.v.). \[*Reprint* of Chapters XI, XII, and XIII\]: \[1974?\]... Griffith, Wm., *Bhutan*, 1837-1838... New Delhi (Skylark Printers): 197-312, *2 pl*. *Copy*: LC (n.v.). *Facsimile* ed.: 2001,... New Delhi (Munshiram Manoharlal Publishers), xxxii, 529 p. *Copy*: LC (n.v.).
-(2) \[Id....\] *Not. pl. asiat.*... 1847-1854 (TL-2/1, nr. 2167):
+- (1) \[Posthumous papers bequeathed to the Honourable The East India Company...\] *J. trav.*... 1847-1848, see TL-2/1, nr. 2166 (*J. trav.*=vol. 1) and 2168 (*Itin. pl. Khasyah mts.*=vol. 2): \[*Reprint* of selections...\]: 1865, Eden, Sir Ashley, *Political missions to Bootan*... *with Dr. W. Griffith's Journal*... Calcutta (Printed at the Bengal Secretariat Office): 1 lf., xi, 137, xi, 206 p., map (fold., in pocket). *Copy*: LC (n.v.). *Reprinted*:... New Delhi (Munshiram Manoharlal Publishers), xi, 137, xi, 206 p., map. *Copy*: LC (n.v.). \[*Reprint* of Chapters XI, XII, and XIII\]: \[1974?\]... Griffith, Wm., *Bhutan*, 1837-1838... New Delhi (Skylark Printers): 197-312, *2 pl*. *Copy*: LC (n.v.). *Facsimile* ed.: 2001,... New Delhi (Munshiram Manoharlal Publishers), xxxii, 529 p. *Copy*: LC (n.v.).
+- (2) \[Id....\] *Not. pl. asiat.*... 1847-1854 (TL-2/1, nr. 2167):
 *Microfiche*: Zug, Switzerland (Inter Documentation Company), \[19–\], 34 microfiches, 9×12 cm. *Copy*: LC (n.v.).
 *Reprint*: 1976,... Dehra Dun (M/S Bishen Singh Mahendra Pal Singh), 4 vols. *Copy*: US.
-(3) \[Id....\] *Ic. pl. asiat.*... 1847-1854, 4 vols. (TL-2/1, nr. 2169): Reprint: 1976,... Dehra Dun (M/S Bishen Singh Mahendra Pal Singh), 4 vols. *Copy*: US.
-(4) \[Id....\] *Palms Brit. E. Ind.*... 1850 (TL-2/1, nr. 2170) has been reprinted and now is available in microfiche:
+- (3) \[Id....\] *Ic. pl. asiat.*... 1847-1854, 4 vols. (TL-2/1, nr. 2169): Reprint: 1976,... Dehra Dun (M/S Bishen Singh Mahendra Pal Singh), 4 vols. *Copy*: US.
+- (4) \[Id....\] *Palms Brit. E. Ind.*... 1850 (TL-2/1, nr. 2170) has been reprinted and now is available in microfiche:
 *Reprint*: \[1977\],... Delhi (Periodical Experts Book Agency), p. \[i\]-xvi, \[1\]-182, \[xvii\]-xxviii, \[140\] lvs. of pl. *Copies*: LC (n.v.), MO (n.v.), US.
 *Microfiche*: \[s.l.\] (IDC), 1984, 9 microfiches. *Copy*: (n.v.). *N.B.*: The last line in TL-2/1, nr. 2170 should be corrected to read: "Griffith, Calcutta J. Nat. Hist. 5: 1-180 \[not 183\], 311-355, 445-491. 1845".
 
 #### Composite works
 
-(1) In 1843, Griffith reprinted W. Jack, *Descriptions of Malayan plants* ... 1820-1822 (TL-2/2, nr. 3216).
-(2) Griffith edited: (a) "The cryptogamous plants of Dr. Roxburgh..." 1844, which is part of W. Roxburgh, *Fl. ind. ed. 1832* (TL-2/4, nr. 9725); and
+- (1) In 1843, Griffith reprinted W. Jack, *Descriptions of Malayan plants* ... 1820-1822 (TL-2/2, nr. 3216).
+- (2) Griffith edited: (a) "The cryptogamous plants of Dr. Roxburgh..." 1844, which is part of W. Roxburgh, *Fl. ind. ed. 1832* (TL-2/4, nr. 9725); and
 (b) J.O. Voigt, *Hort. suburb. Calcutt.*... 1845 (TL-2/6, nr. 16.329).
 
 ### Publications

@@ -25,9 +25,9 @@ AG 4: 4091, 6(1): 89; Barnhart 3: 535 (b. 22 Sep 1832, d. 24 Apr 1912); Biol.-Do
 
 #### Composite works
 
-(1) With L. Beissner and E. Schelle, *Handb. Laubholzben.* 1903, TL-2/411. – See also F. Schwerin, Acht Beitr. Acer 1909, TL-2/11.529.
-(2) Collaborator, *Gartenflora* vols. 36-39, 1887-1890, see TL-2/8775.
-(3) Translated G. Engelmann's treatment of the *Abietaceae* in the *Botany of California*, in Forstliche Blätter, Jun 1882 (n.v.), see E. Köhne, Bot. Centralbl. 14: 42. 1883.
+- (1) With L. Beissner and E. Schelle, *Handb. Laubholzben.* 1903, TL-2/411. – See also F. Schwerin, Acht Beitr. Acer 1909, TL-2/11.529.
+- (2) Collaborator, *Gartenflora* vols. 36-39, 1887-1890, see TL-2/8775.
+- (3) Translated G. Engelmann's treatment of the *Abietaceae* in the *Botany of California*, in Forstliche Blätter, Jun 1882 (n.v.), see E. Köhne, Bot. Centralbl. 14: 42. 1883.
 
 #### Eponymy
 

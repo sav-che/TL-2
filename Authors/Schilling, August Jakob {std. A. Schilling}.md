@@ -20,8 +20,8 @@ Barnhart 3: 225 (b. 17 Apr 1865); Biol.-Dokum. 15: 8032; BM 8: 1150; CSP 18: 520
 
 #### Composite works
 
-(1) *Dinoflagellatae, in* A. Pascher, *Süssw.-Fl. Deutschl.* 3: 1-64. 1913 (Bot. Centralbl. 12 Aug 1913; Nat. Nov. Jun(1) 1913).
-(2) J.J. Dillenius, *sein Leben und Wirken, in* Virchow und von Holtzendorff, *Samml. gemeinverständl, wiss. Vortr.* ser. 3. 66: 601-632. 1889, see TL-2/1: 655.
+- (1) *Dinoflagellatae, in* A. Pascher, *Süssw.-Fl. Deutschl.* 3: 1-64. 1913 (Bot. Centralbl. 12 Aug 1913; Nat. Nov. Jun(1) 1913).
+- (2) J.J. Dillenius, *sein Leben und Wirken, in* Virchow und von Holtzendorff, *Samml. gemeinverständl, wiss. Vortr.* ser. 3. 66: 601-632. 1889, see TL-2/1: 655.
 
 #### Eponymy
 

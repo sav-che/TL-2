@@ -26,7 +26,7 @@ Barnhart 1: 359 (b. 27 Feb 1869, Painted Post, NY, d. 7 Mar 1950); BM 1: 360; Ew
 
 #### Composite works
 
-(1) The *Fern Bulletin*, a quarterly devoted to ferns, edited by W.N. Clute 5-20, 1897-1912, preceded by Linn. Fern Bull. 1-4, 1893-1895.
+- (1) The *Fern Bulletin*, a quarterly devoted to ferns, edited by W.N. Clute 5-20, 1897-1912, preceded by Linn. Fern Bull. 1-4, 1893-1895.
 
 ### Publications
 

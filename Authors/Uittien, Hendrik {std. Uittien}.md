@@ -25,7 +25,7 @@ Backer p. 603; Barnhart 3: 414 (d. 10 Aug 1944); BJI 2: 181; MW p. 507; SK 4: no
 
 #### Composite works
 
-(1) Contributed to A.A. Pulle, *Fl. Suriname*: (*a*) *Cyperaceae*, 1(1): 72-149. Mar 1934, add. 1: 492-505. Jan 1943.
+- (1) Contributed to A.A. Pulle, *Fl. Suriname*: (*a*) *Cyperaceae*, 1(1): 72-149. Mar 1934, add. 1: 492-505. Jan 1943.
 (b) *Thurniaceae*, 1(1): 188-190. Jan 1938.
 (c) *Rapateaceae*, 1(1): 191-196. Jan 1938.
 (d) *Commelinaceae*, 1(1): 197-212. Jan 1938.

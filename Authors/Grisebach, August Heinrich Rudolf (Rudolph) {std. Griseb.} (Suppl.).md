@@ -61,13 +61,13 @@ ADB 49: 551-554; AG 1: 344, 5(l): 453, 5(2): 280, 12(3): 648; APN p. 243; Backer
 
 #### Note
 
-(1) In TL-2/1 (nr. 2181), Part 2 of *Fl. Brit. W.I.* is misdated. It was issued Jun 1860, not Jun 1859.
-(2)The following titles are now available in microform or in electronic format:
+- (1) In TL-2/1 (nr. 2181), Part 2 of *Fl. Brit. W.I.* is misdated. It was issued Jun 1860, not Jun 1859.
+- (2) The following titles are now available in microform or in electronic format:
 (a) *Observ. Gent.*... 1836 (TL-2/1, nr. 2173):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "2117G4-2118C3"). *Copy*: MO (n.v.).
 (b) *Gen. sp. Gent.*... 1839 (TL-2/1, nr. 2174):
 *Microfiche*: (1) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "8268A1-8271F6"). *Copy*: MO (n.v.).
-(2) Zug, Switzerland (Inter-Documentation Co.), 1986?, 6 microfiches, 9×12 cm. *Copy*: HH (n.v.).
+- (2) Zug, Switzerland (Inter-Documentation Co.), 1986?, 6 microfiches, 9×12 cm. *Copy*: HH (n.v.).
 (c) *Grundr. syst. Bot.*... 1854 (TL-2/1, nr. 2177):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 3 microfiches (Plant taxonomic lit. microfiche coll., "2118C7-2120B7"). *Copy*: MO (n.v.).
 (d) *Syst. Bemerkungen*... 1854 (TL-2/1, nr. 2178):
@@ -76,7 +76,8 @@ ADB 49: 551-554; AG 1: 344, 5(l): 453, 5(2): 280, 12(3): 648; APN p. 243; Backer
 *Microfilm*: Cambridge, Mass. (Harvard College Library Imaging Services), 2001, 1 reel (35 mm). *Copy*: HH (n.v.).
 (f) *Fl. Brit. W.I.*... \[1859-\]1864 (TL-2/1, nr. 2181):
 *Microfiche*: \[Louisville, Kentucky\] (Lost Cause Press) \[1971\]. *Copy*: (n.v.). *Microfilm*:
-(1) Ann Arbor, Michigan (University Microfilms International), \[19–\], 1 reel (35 mm). *Copy*: (n.v.). (2) Wakefield, Yorkshire, United Kingdom (EP Group of Companies, Microform Division), \[19–\], 1 reel (35 mm). *Copy*: (n.v.).
+- (1) Ann Arbor, Michigan (University Microfilms International), \[19–\], 1 reel (35 mm). *Copy*: (n.v.).
+- (2) Wakefield, Yorkshire, United Kingdom (EP Group of Companies, Microform Division), \[19–\], 1 reel (35 mm). *Copy*: (n.v.).
 *Electronic version*: \[St. Louis (Missouri Botanical Garden)\]: Botanicus.
 (g) *Pl. wright.*... 1860-1862 (TL-2/1, nr. 2182):
 *Microfilm*: Cambridge, Mass. (Harvard College Library Imaging Services), 2001, 1 reel (35 mm). *Copy*: HH (n.v.).
@@ -95,12 +96,12 @@ ADB 49: 551-554; AG 1: 344, 5(l): 453, 5(2): 280, 12(3): 648; APN p. 243; Backer
 
 #### Composite works
 
-(1) Editor of the serial bibliography *Bericht über die Leistungen in der Pflanzengeographie*... 15 pts. (1840-1853), see Stearn (1965: 251-252) for details. – *Note*:
+- (1) Editor of the serial bibliography *Bericht über die Leistungen in der Pflanzengeographie*... 15 pts. (1840-1853), see Stearn (1965: 251-252) for details. – *Note*:
 (a) English translations for the years 1842-1845 are to be found in the Ray Society reports on botany for 1846 and 1849. (b) The serial was continued as *Geographisches Jahrbuch*.
-(2) Gentianaceae *in* F.J.F. Meyen, *Observ. bot.*... 1843 (TL-2/3, nr. 5895).
-(3) With J. Reinke, *Syst. Pilze*... 1873 (TL-2/3, nr. 7034), a German transl. of A.S. Örsted, *Løvsporepl*.... 1867 (TL-2/3, nr. 7029) that was published originally in Danish.
-(4) "Pflanzengeographie" *in* G.B. von Neumayer, *Anl. wiss. Beobacht. Reisen*... 1875 (TL-2/3, nr. 6761).
-(5) Malpighiaceae, Dioscoreaceae and Smilacaceae *in* E. Warming, *Symbolae*... part 21, 1876 (TL-2/7, nr. 16.709).
+- (2) Gentianaceae *in* F.J.F. Meyen, *Observ. bot.*... 1843 (TL-2/3, nr. 5895).
+- (3) With J. Reinke, *Syst. Pilze*... 1873 (TL-2/3, nr. 7034), a German transl. of A.S. Örsted, *Løvsporepl*.... 1867 (TL-2/3, nr. 7029) that was published originally in Danish.
+- (4) "Pflanzengeographie" *in* G.B. von Neumayer, *Anl. wiss. Beobacht. Reisen*... 1875 (TL-2/3, nr. 6761).
+- (5) Malpighiaceae, Dioscoreaceae and Smilacaceae *in* E. Warming, *Symbolae*... part 21, 1876 (TL-2/7, nr. 16.709).
 
 ### Publications
 

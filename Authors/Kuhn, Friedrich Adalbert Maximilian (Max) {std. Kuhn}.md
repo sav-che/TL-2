@@ -21,10 +21,10 @@ ADB 51: 421-422; Barnhart 2: 326; BJI 1: 35; BM 2: 1033; CSP 8: 133, 10: 133, 47
 
 #### Composite works
 
-(1) Martius, *Flora brasiliensis, Isoëtaceae, Marsiliaceae, Salviniaceae*, 1(2): 654-662, *pl. 78-82*. 1 Apr 1884.
-(2) C. C. von der Decken, Baron C. C. von der Decken's *Reisen in Ost-Afrika* in 1859-61, *Cryptogamae vasculares*, in vol.. 3, part 3, p. 7-71. 1879. \[Botanik von Ost-Afrika by P. Ascherson et al.\].
-(3) Engler, *Forschungsr. Gazelle, Fane*, p. \[1\]-20, *pl. i-iii*. 1889; see no. 1705.
-(4) *Filices, in* Miquel, Ann. Mus. bot. Lugd.-Bat. 4: 267-288. Nov 1869-Feb 1870, 289-300. Mar 1870.
+- (1) Martius, *Flora brasiliensis, Isoëtaceae, Marsiliaceae, Salviniaceae*, 1(2): 654-662, *pl. 78-82*. 1 Apr 1884.
+- (2) C. C. von der Decken, Baron C. C. von der Decken's *Reisen in Ost-Afrika* in 1859-61, *Cryptogamae vasculares*, in vol.. 3, part 3, p. 7-71. 1879. \[Botanik von Ost-Afrika by P. Ascherson et al.\].
+- (3) Engler, *Forschungsr. Gazelle, Fane*, p. \[1\]-20, *pl. i-iii*. 1889; see no. 1705.
+- (4) *Filices, in* Miquel, Ann. Mus. bot. Lugd.-Bat. 4: 267-288. Nov 1869-Feb 1870, 289-300. Mar 1870.
 
 #### Eponymy
 

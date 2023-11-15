@@ -51,7 +51,7 @@ P.A. Saccardo (Bull. Soc. bot. ital. 1906: 25-27. 1906) points out that the term
 *Publ*.: 20-28 Apr 1821 (BF 28 Apr 1821; Donk 1957; Petersen 1975), p. \[1\]-61, \[i\], \[1\]-632. *Copies*: BR, FH, G, HH, MICH, MO, NY, USDA; IDC 5082; for *plates* see *Bouquet* (1821) below.
 *Cryptogams*: see also L. de Brondeau, *Rec. pl. crypt. agen.* 1828-1830; TL-2/795; *Révision*": see J.O. Debeaux, *Rév. pl. phan. agen.* 1895, TL-2/1331.
 *Notes*: (*1*) See Saccardo, P.A., in Bull. Soc. bot. ital. 1906: 225-227 on Saint-Amans' statement on the origin of the word Phanerogamae; Saccardo states that the term stems from Saint-Amans.
-(2) For L.A. Chaubard's part in writing the *Fl. agen.* see Clos (1893).
+- (2) For L.A. Chaubard's part in writing the *Fl. agen.* see Clos (1893).
 *Ref*.: Clos, D., Bull. Soc. bot. France 40: 243-250. 1893.
 - Donk, M.A., Taxon 6: 253. 1957.
 - Petersen, R.H., Mycotaxon 1: 156. 1975.

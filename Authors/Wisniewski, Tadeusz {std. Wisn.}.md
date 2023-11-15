@@ -23,9 +23,9 @@ Futak-Domin p. 660; Hirsch p. 326; Quenstedt p. 464; SBC p. 135.
 
 #### Note
 
-(1) For Norbert Wisniewski (1927-1976), German-Polish herpetologist and botanist (orchidologist), see Gleditschia 6: 5-8. 1978; Jahresber. nat. Ver. Wuppertal 29: 161-162. 1977; Niederlaus. flor. Mitt. 8: 60-61. 1977; Mitt. Arbeitskr. heim. Orch. 7: 7-9. 1977; Naturschutzarbeit Berlin Brandenburg 12(3): 96. 1976.
-(2) For Piotr \[Peter\] Wisniewski (1881-1971), Polish botanist; director of the Botanical Garden and the Botanical Institute Stefan Batory at Wilna (1919-1939), professor of general botany at Lublin 1944-1960, see Wiad. Bot. 14(1): 65-67. 1970, 17(2): 75-77. 1973.
-(3) For the paleontologist and geologist Tadeusz Wisniowski (1875-1933), see Bull. Service géol. Pologne 8: 16-28. 1937.
+- (1) For Norbert Wisniewski (1927-1976), German-Polish herpetologist and botanist (orchidologist), see Gleditschia 6: 5-8. 1978; Jahresber. nat. Ver. Wuppertal 29: 161-162. 1977; Niederlaus. flor. Mitt. 8: 60-61. 1977; Mitt. Arbeitskr. heim. Orch. 7: 7-9. 1977; Naturschutzarbeit Berlin Brandenburg 12(3): 96. 1976.
+- (2) For Piotr \[Peter\] Wisniewski (1881-1971), Polish botanist; director of the Botanical Garden and the Botanical Institute Stefan Batory at Wilna (1919-1939), professor of general botany at Lublin 1944-1960, see Wiad. Bot. 14(1): 65-67. 1970, 17(2): 75-77. 1973.
+- (3) For the paleontologist and geologist Tadeusz Wisniowski (1875-1933), see Bull. Service géol. Pologne 8: 16-28. 1937.
 
 ### Publications
 

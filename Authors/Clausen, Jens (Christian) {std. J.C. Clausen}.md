@@ -105,7 +105,7 @@ Nogle nyere *Synspunkter vedrørende Evolutionslaeren*... \[Saertryk af Naturens
 **Notes**
 *Publ*.: 1931, p. \[62\]-66. *Copies*: B, FAS(B), L. – Reprinted and to be cited from Hereditas 15: 62-66. 1931.
 *Notes*: (1): *Genetic studies in Polemonium coeruleum* by C.E.H. Ostenfeld (1873-1931), see TL-2/3: 854-856 (a preliminary report), *in* Hereditas 4(1923).
-(2): *Genetic studies in Polemonium*. II, Experimental crosses... by id.
+- (2): *Genetic studies in Polemonium*. II, Experimental crosses... by id.
 
 ##### n.26.511. Viola canina
 

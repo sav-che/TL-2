@@ -9,7 +9,7 @@ Sillén, Olof Leopold (1813-1894), Swedish pharmacist and bryologist; pharmacist
 #### Herbarium and types
 
 [[Collection UPS|UPS]]. – Published two sets of exsiccatae (see KR p. 642): (1) *Musci Sveciae exsiccati* fasc. 7-8 (nos. 151-200), Gevaliae (A.P. Landin) 1878. Sets e.g. at [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection H|H]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]] (fasc. 1-4 by S.J. Lindgren, fasc. 5-6 by K.F. Thedenius).
-(2) *Musci frondosi Scandinaviae exsiccati*. Fasc. 1-2. Gevaliae. Fasc. 1, 1875 (distr. Feb 1879), nos. 1-300; fasc. 2, 1884 (distr. Jan 1886), nos. 301-506. Sets at [[Collection H|H]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. – See Sayre (1971).
+- (2) *Musci frondosi Scandinaviae exsiccati*. Fasc. 1-2. Gevaliae. Fasc. 1, 1875 (distr. Feb 1879), nos. 1-300; fasc. 2, 1884 (distr. Jan 1886), nos. 301-506. Sets at [[Collection H|H]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. – See Sayre (1971).
 
 #### Bibliography and biography
 

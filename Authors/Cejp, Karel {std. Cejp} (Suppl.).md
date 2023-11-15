@@ -34,12 +34,12 @@ Ainsworth p. 266, 333; Barnhart 1: 325; Bossert p. 68; Futak-Domin p. 132-133; K
 
 #### Outside our period
 
-(1) *Nidulariales in* Flora ČSR. B-I: *Gasteromycetes* p. 633-682, 819-872. 1958.
-(2) *Houby*, Prague 1957-1958, 902 p., 2 vols. – General textbook of the Fungi in Czech. (3) *Flora ČSR* B-2 *Oomycetes* part 1, *Saprolegniales-Lagenidiales*, Prague 1959, 475 p.
+- (1) *Nidulariales in* Flora ČSR. B-I: *Gasteromycetes* p. 633-682, 819-872. 1958.
+- (2) *Houby*, Prague 1957-1958, 902 p., 2 vols. – General textbook of the Fungi in Czech. (3) *Flora ČSR* B-2 *Oomycetes* part 1, *Saprolegniales-Lagenidiales*, Prague 1959, 475 p.
 
 #### Composite works
 
-(1) *Omphalia* (and *Delicatula*) *in* A. Pilát, *Atlas Champ. Eur.*, see TL-2/7935.
+- (1) *Omphalia* (and *Delicatula*) *in* A. Pilát, *Atlas Champ. Eur.*, see TL-2/7935.
 
 ### Publications
 

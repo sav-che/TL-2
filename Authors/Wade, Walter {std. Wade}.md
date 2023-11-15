@@ -32,8 +32,8 @@ Published: *Quercus or oaks*: from the French of \[A.\] Michaux "Histoire des ch
 
 #### Note
 
-(1) For a detailed bibliography of Wade's writings see E.C. Nelson (1981). For Wade's projected *Flora dublinensis* of which only a sample was printed and distributed to a small number of bookshops see Nelson (1980).
-(2) A *Catalogus plantarum rariorum in comitatu Gallovidiae, praecipue Cunnemara inventarum*:... was published by Wade in Trans. Dublin Soc. 2(2): \[103\]-127. 1802. No separate issue of this is known to E.C. Nelson.
+- (1) For a detailed bibliography of Wade's writings see E.C. Nelson (1981). For Wade's projected *Flora dublinensis* of which only a sample was printed and distributed to a small number of bookshops see Nelson (1980).
+- (2) A *Catalogus plantarum rariorum in comitatu Gallovidiae, praecipue Cunnemara inventarum*:... was published by Wade in Trans. Dublin Soc. 2(2): \[103\]-127. 1802. No separate issue of this is known to E.C. Nelson.
 
 #### Eponymy
 

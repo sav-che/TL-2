@@ -21,8 +21,8 @@ Barnhart 3: 206; IH 1 (ed. 7): 342; SIA 7097.
 
 #### Composite works
 
-(1) With Ralph W. Chaney, *The Goshen flora of west central Oregon* 1933 (Carn. Inst. Wash., Publ. 439).
-(2) With Clara J. Chapman, *Moss flora of the Willamette Valley, Oregon* 1941 (Oreg. Monogr., Stud. Bot. 4).
+- (1) With Ralph W. Chaney, *The Goshen flora of west central Oregon* 1933 (Carn. Inst. Wash., Publ. 439).
+- (2) With Clara J. Chapman, *Moss flora of the Willamette Valley, Oregon* 1941 (Oreg. Monogr., Stud. Bot. 4).
 
 #### Note
 

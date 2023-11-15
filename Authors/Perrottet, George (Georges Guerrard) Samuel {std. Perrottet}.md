@@ -44,8 +44,8 @@ Backer p. 436; Barnhart 3: 71; BL 1: 53, 312; BM 4: 1551; Clokie p. 223; CSP 4: 
 
 #### Composite works
 
-(1) with Guillaumin and Richard, A., *Florae senegambiae tentamen* (1830-1833), see TL-2/2211.
-(2) See Richard, A., for *Monographie des Orchidées recueillies dans les Nils-Gherries* (Indesorientales) par M. Perrottet,... Paris 1841, iii, 36 p., *12 pl*.
+- (1) with Guillaumin and Richard, A., *Florae senegambiae tentamen* (1830-1833), see TL-2/2211.
+- (2) See Richard, A., for *Monographie des Orchidées recueillies dans les Nils-Gherries* (Indesorientales) par M. Perrottet,... Paris 1841, iii, 36 p., *12 pl*.
 
 #### Eponymy
 

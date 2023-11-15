@@ -8,10 +8,11 @@ Norrlin, Johan Petter \[Peter\] (1842-1917), Finnish botanist; Dr. phil. Helsink
 
 #### Herbarium and types
 
-[[Collection H|H]]. – *Exsiccatae* (see Collander p. 644-645 and Sayre (1969)):
-(1) *Herbarium pilosellarum fenniae*, fasc. 1-2, nos. 1-200, 1884-1894, sets at [[Collection B|B]], [[Collection H|H]], [[Collection P|P]], [[Collection WRSL|WRSL]].
-(2) *Hieracia exsiccata*, fasc. 1-13, 1888-1912. Set at [[Collection H|H]].
-(3) With William Nylander (1822-1899), *Herbarium lichenum fenniae*, fasc. 1-9, nos. 1-450, 1875-1882, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection G|G]], [[Collection H|H]], [[Collection HSI|HSI]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MOD|MOD]], [[Collection MTMG|MTMG]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TUR|TUR]], [[Collection W|W]], [[Collection WU|WU]]. – Continued by K. Linkola (1888-1942) and Edvard Vainio (1858-1929), nos. 451-807, 1924, see under Vainio.
+[[Collection H|H]].
+*Exsiccatae* (see Collander p. 644-645 and Sayre (1969)):
+- (1) *Herbarium pilosellarum fenniae*, fasc. 1-2, nos. 1-200, 1884-1894, sets at [[Collection B|B]], [[Collection H|H]], [[Collection P|P]], [[Collection WRSL|WRSL]].
+- (2) *Hieracia exsiccata*, fasc. 1-13, 1888-1912. Set at [[Collection H|H]].
+- (3) With William Nylander (1822-1899), *Herbarium lichenum fenniae*, fasc. 1-9, nos. 1-450, 1875-1882, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection G|G]], [[Collection H|H]], [[Collection HSI|HSI]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MOD|MOD]], [[Collection MTMG|MTMG]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TUR|TUR]], [[Collection W|W]], [[Collection WU|WU]]. – Continued by K. Linkola (1888-1942) and Edvard Vainio (1858-1929), nos. 451-807, 1924, see under Vainio.
 Manuscripts: 134 letters to Nylander at [[Collection H|H]]; further mss. also at [[Collection H|H]].
 
 #### Bibliography and biography

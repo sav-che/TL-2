@@ -24,8 +24,8 @@ Barnhart 3: 446 ("Vul'f b. 25 Mai 1885, d. 21 Dec 1941); BFM 1475, 2202, 2958; B
 
 #### Composite works
 
-(1)Contributed *Fagaceae. Fagus* to V.L. Komarov, Fl. URSS 5: 354-359. 22 Jun 1936. TL-2/3857.
-(2) *Flora taurica* (Fl. Kryma) vols. 1 (1-3), 1927-1930; work completed after death of author: vols. 2-3, 1945-1969.
+- (1) Contributed *Fagaceae. Fagus* to V.L. Komarov, Fl. URSS 5: 354-359. 22 Jun 1936. TL-2/3857.
+- (2) *Flora taurica* (Fl. Kryma) vols. 1 (1-3), 1927-1930; work completed after death of author: vols. 2-3, 1945-1969.
 
 ### Publications
 

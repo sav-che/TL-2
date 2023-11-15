@@ -68,7 +68,7 @@ Earlier Gómez de la Maza was cited as co-author with J.I. Torralbas of *Flórul
 *Copy*: USDA. – Id. 23\[=ser. 2, 3\]: 41-71. 1894.
 \[*Pt. 3*\]: 31 Jan 1895 (in journal, p. \[267\] signed 6 Dec 1893), Orden II: Gamopétalas. Apéndices,... cover-t.p., p. \[267\]-302, \[alternate pagination, p. \[(99)\]-(131)\]. *Copies*: HH, NY, USDA. – Id. 23 \[=ser. 2, 3\]: 267-302. 1894 \[i.e. 1895\].
 *Note*: (1) Manitz (1999: 251) dated the third part as 31 Mar 1895, but certainly this is an error.
-(2) "Gómez de la Maza also published a similarly titled "*Catálogo* de *plantas cubanas*" in parts in the serial El Progresso Medico 8 (1896), which is described in Rehder (1: 337).
+- (2) "Gómez de la Maza also published a similarly titled "*Catálogo* de *plantas cubanas*" in parts in the serial El Progresso Medico 8 (1896), which is described in Rehder (1: 337).
 
 ##### n.36.785. Nociones
 

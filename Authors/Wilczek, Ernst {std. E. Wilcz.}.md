@@ -31,10 +31,10 @@ AG 5(3): 53, 12(2): 193; Barnhart 3: 494 (b. 22 Jan 1867); BFM 1114; BJI 2: 191;
 
 #### Composite works
 
-(1) Schinz & Keller, *Flore de Suisse*... Édition française revue par... E. Wilczek et Hans Schinz, Première partie... Lausanne 1909. – See TL-2/10.714.
-(2) With C.-H. Zahn (q.v.), *Hieracia helvetica nova*, Bull. Soc. Murithienne 42: 188-203. 1924.
-(3) With L. Vaccari (q.v.), *La vegetazione del versante meridionale delle alpi graie orientali*... 1909. Oct., TL-2/15.722.
-(4) With C. Schröter et al., *Prop. lois nom. bot.* 1904, TL-2/11.173.
+- (1) Schinz & Keller, *Flore de Suisse*... Édition française revue par... E. Wilczek et Hans Schinz, Première partie... Lausanne 1909. – See TL-2/10.714.
+- (2) With C.-H. Zahn (q.v.), *Hieracia helvetica nova*, Bull. Soc. Murithienne 42: 188-203. 1924.
+- (3) With L. Vaccari (q.v.), *La vegetazione del versante meridionale delle alpi graie orientali*... 1909. Oct., TL-2/15.722.
+- (4) With C. Schröter et al., *Prop. lois nom. bot.* 1904, TL-2/11.173.
 
 #### Eponymy
 

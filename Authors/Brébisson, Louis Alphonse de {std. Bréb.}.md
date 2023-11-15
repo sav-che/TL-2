@@ -10,7 +10,8 @@ Brébisson, Louis Alphonse de (1798-1872), French naturalist, archeologist and p
 
 #### Herbarium and types
 
-[[Collection CN|CN]]; diatoms at [[Collection PC|PC]] and [[Collection AWH|AWH]], some in herb. Kuetzing at [[Collection L|L]]. – Exsiccatae: *Mousses de la Normandie* (fasc. 1-8, nos. 1-200, Falaise 1826-1839) fully described by Margadant (MD p. 57-59) and Sayre (1971) and treated below.
+[[Collection CN|CN]]; diatoms at [[Collection PC|PC]] and [[Collection AWH|AWH]], some in herb. Kuetzing at [[Collection L|L]].
+*Exsiccatae*: *Mousses de la Normandie* (fasc. 1-8, nos. 1-200, Falaise 1826-1839) fully described by Margadant (MD p. 57-59) and Sayre (1971) and treated below.
 *Ref*.: IH 2: 94.
 - Anon., J. Bot. 14: 128. 1876 (Diatoms to be distributed through H. L. Smith).
 - Candolle, Phytographie 399-400. 1880.

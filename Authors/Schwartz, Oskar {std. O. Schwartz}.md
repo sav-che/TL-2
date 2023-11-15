@@ -20,8 +20,8 @@ BFM 1554; BJI 2: 161; Langman p. 688; MW p. 441; SK 4: cxlvi; TL-2/1711.
 
 #### Composite works
 
-(1) *Pontederiaceae, in* EP, *Nat. Pflanzenfam.* ed. 2. 150: 181-188. 1930. – See also Bot. Jahrb. 61 (Beibl. 139): 28-50. 1927 and *Pflanzenareale* 2: 13-14, maps 11-17. 1928.
-(2) *Die Pontederiaceen*, maps 11-17 *in* E. Hannig & H. Winkler, eds., *Die Pflanzenareale* ser.
+- (1) *Pontederiaceae, in* EP, *Nat. Pflanzenfam.* ed. 2. 150: 181-188. 1930. – See also Bot. Jahrb. 61 (Beibl. 139): 28-50. 1927 and *Pflanzenareale* 2: 13-14, maps 11-17. 1928.
+- (2) *Die Pontederiaceen*, maps 11-17 *in* E. Hannig & H. Winkler, eds., *Die Pflanzenareale* ser.
 2. 2.
 
 #### Thesis

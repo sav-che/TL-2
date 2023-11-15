@@ -27,11 +27,11 @@ Biol.-Dokum. 15: 7968; BJI 2: 153; BM 8: 1148; Christiansen p. 97, 105, 319; Hir
 
 #### Composite works
 
-(1) *Connaraceae, in* A. Engler, *Pflanzenreich* 103: 1-326. 31 Mai 1938 (family iv/127); reprint Lehre 1958, ISBN 3-7682-2103-2.
-(2) With G. Brandt, Ergänzungsband ii, to H.A. Köhler, *Med.-Pfl.*, 1913-1914, see TL-2/3806.
-(3) With H. Schinz and A. Thellung, *Beiträge zur Kenntniss der Flora von Kolumbien und Westindien, in* O. Fuhrmann & E. Mayor, *Voy. expl. Sci. Colombie*, Neuchatel 1914, p. 342-431; published separately Jul 1913; see A. Thellung, Bot. Centralbl. 125: 231-232. 3 Mar 1914; Nat. Nov. Aug(2) 1913 (from Mém. Soc. Sci. nat. Neuchatel, 1913).
-(4) Contributed to J. Mildbread, *Wiss. Erg. deut. Zentr.-Afr. Exped., Bot.* 1914, TL-2/6008.
-(5) *Connaraceae*, maps 6-7 *in* Hannig, E. & H. Winkler, *Pflanzenareale* ser. 2. Heft 1.
+- (1) *Connaraceae, in* A. Engler, *Pflanzenreich* 103: 1-326. 31 Mai 1938 (family iv/127); reprint Lehre 1958, ISBN 3-7682-2103-2.
+- (2) With G. Brandt, Ergänzungsband ii, to H.A. Köhler, *Med.-Pfl.*, 1913-1914, see TL-2/3806.
+- (3) With H. Schinz and A. Thellung, *Beiträge zur Kenntniss der Flora von Kolumbien und Westindien, in* O. Fuhrmann & E. Mayor, *Voy. expl. Sci. Colombie*, Neuchatel 1914, p. 342-431; published separately Jul 1913; see A. Thellung, Bot. Centralbl. 125: 231-232. 3 Mar 1914; Nat. Nov. Aug(2) 1913 (from Mém. Soc. Sci. nat. Neuchatel, 1913).
+- (4) Contributed to J. Mildbread, *Wiss. Erg. deut. Zentr.-Afr. Exped., Bot.* 1914, TL-2/6008.
+- (5) *Connaraceae*, maps 6-7 *in* Hannig, E. & H. Winkler, *Pflanzenareale* ser. 2. Heft 1.
 
 #### Handwriting
 

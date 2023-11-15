@@ -29,8 +29,8 @@ APN p. 207; Barnhart 1: 563 (as "Jean Paul"), BFM p. 283 (index); BL 2: 101, 110
 
 #### Outside our period
 
-(1) *Le livre des plantes médicinales et vénéneuses de France*... Paris (P. Lechevalier), 1947-1948, 3 vols.: vol. 1: Abricot à coloquinte... 447 p. 1947; vol. 2: Consoude à melon... 504 p. 1948; vol. 3: Menthe à zacinthe... 636 p. 1948. – Issued in series, Encyclopédie Biologique as vols. 25, 31-32. *Reprint*: 1999,... Luxembourg (Connaissance et mémoires européennes), 3 vols.
-(2) *Flore illustrée des Jardins et des Parcs*,... 1951-1952, 3 vols. and atlas: vol. 1: Fougères, gymnospermes et monocotylédones; vol. 2: Dicotylédones; vol. 3: Sympétales ou gamopétales; and Atlas. – Issued in series, Encyclopédie Biologique as vols. 38-40, 44.
+- (1) *Le livre des plantes médicinales et vénéneuses de France*... Paris (P. Lechevalier), 1947-1948, 3 vols.: vol. 1: Abricot à coloquinte... 447 p. 1947; vol. 2: Consoude à melon... 504 p. 1948; vol. 3: Menthe à zacinthe... 636 p. 1948. – Issued in series, Encyclopédie Biologique as vols. 25, 31-32. *Reprint*: 1999,... Luxembourg (Connaissance et mémoires européennes), 3 vols.
+- (2) *Flore illustrée des Jardins et des Parcs*,... 1951-1952, 3 vols. and atlas: vol. 1: Fougères, gymnospermes et monocotylédones; vol. 2: Dicotylédones; vol. 3: Sympétales ou gamopétales; and Atlas. – Issued in series, Encyclopédie Biologique as vols. 38-40, 44.
 
 #### Note
 

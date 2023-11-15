@@ -8,7 +8,8 @@ Nash, George Valentine (1864-1921), American botanist and horticulturist; at the
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (over 11.000); further material in many herbaria (large sets at [[Collection K|K]], [[Collection MICH|MICH]] and [[Collection US|US]]). – *Exsiccatae*: *Plants of Florida*, for details see e.g. Stevenson (1971). Sets at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]], [[Collection MTMG|MTMG]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection RSA|RSA]].
+[[Collection NY|NY]] (over 11.000); further material in many herbaria (large sets at [[Collection K|K]], [[Collection MICH|MICH]] and [[Collection US|US]]).
+*Exsiccatae*: *Plants of Florida*, for details see e.g. Stevenson (1971). Sets at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]], [[Collection MTMG|MTMG]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection RSA|RSA]].
 
 #### Bibliography and biography
 
@@ -31,8 +32,8 @@ Barnhart 2: 538; Blunt p. 257, 258; BM 3: 1393, 7: 895; Bossert p. 282; CSP 17: 
 
 #### Composite works
 
-(1) editor, with J. H. Barnhart, of *Addisonia* vol. 1 (1916)-6(1921).
-(2) NAF, *Podostemonaceae*, 22: 3-6. 22 May 1905, 535. 30 Dec 1918; *Butomaceae*17: 63-64. 30 Jun 1909; *Poaceae* (pars) 17: 77-98. 30 Jun 1909, *Tropaeolaceae* 25: 89-91. 3 Jun 1910, *Poaceae *(pars) 17: 99-196. 18 Sep 1912, 197-198. 20 Dec 1915.
+- (1) editor, with J. H. Barnhart, of *Addisonia* vol. 1 (1916)-6(1921).
+- (2) NAF, *Podostemonaceae*, 22: 3-6. 22 May 1905, 535. 30 Dec 1918; *Butomaceae*17: 63-64. 30 Jun 1909; *Poaceae* (pars) 17: 77-98. 30 Jun 1909, *Tropaeolaceae* 25: 89-91. 3 Jun 1910, *Poaceae *(pars) 17: 99-196. 18 Sep 1912, 197-198. 20 Dec 1915.
 
 #### Eponymy
 

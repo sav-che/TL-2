@@ -9,7 +9,7 @@ Magnier, Charles (*fl*. 1882), French librarian, botanist and plant collector at
 #### Herbarium and types
 
 Unknown. Main series of exsiccatae: (1) *Plantae galliae seplentrionalis et belgii*, fasc. 1-7, St. Quentin (1879-?). Sets see IH and Sayre.
-(2) *Flora selecta exsiccata*, fasc. 1-16, nos. 1-4137, St. Quentin, Paris, (1882-1897), id. For text see *Serinia fl. select.* (no. 5223). Letters (30) to Malinvaud at [[Collection P|P]].
+- (2) *Flora selecta exsiccata*, fasc. 1-16, nos. 1-4137, St. Quentin, Paris, (1882-1897), id. For text see *Serinia fl. select.* (no. 5223). Letters (30) to Malinvaud at [[Collection P|P]].
 
 #### Bibliography and biography
 

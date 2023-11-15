@@ -18,8 +18,8 @@ Barnhart 2: 343; BM 3: 1056; Bossert p. 227; DTS 1: 166; Frank 3(Anh.): 55; Jack
 
 #### Composite works
 
-(1) Schlechtendal, Langethal und Schenk, *Flora von Deutschland*, see under D. F. L. von Schlechtendal. Langethal edited vol. 7(Lief. 5)-vol. 22, 1847-1869, and also the Fünfte Auflage, 30 vols., ind., 1880-1888.
-(2) J. K. Zenker, D. F. L. von Schlechtendal, C. E. Langethal, *Flora von Thüringen*. Jena 1855, 6 parts, see under Zenker.
+- (1) Schlechtendal, Langethal und Schenk, *Flora von Deutschland*, see under D. F. L. von Schlechtendal. Langethal edited vol. 7(Lief. 5)-vol. 22, 1847-1869, and also the Fünfte Auflage, 30 vols., ind., 1880-1888.
+- (2) J. K. Zenker, D. F. L. von Schlechtendal, C. E. Langethal, *Flora von Thüringen*. Jena 1855, 6 parts, see under Zenker.
 
 ### Publications
 

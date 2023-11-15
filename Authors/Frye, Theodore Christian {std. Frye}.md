@@ -10,7 +10,8 @@ Frye, Theodore Christian (1869-1962), American cryptogamist.
 
 #### Herbarium and types
 
-[[Collection WTU|WTU]]. – Exsiccatae: *Moss exsiccati* (nos. 1-60, Seattle, Washington, 1942), set at [[Collection NY|NY]].
+[[Collection WTU|WTU]].
+*Exsiccatae*: *Moss exsiccati* (nos. 1-60, Seattle, Washington, 1942), set at [[Collection NY|NY]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 211.
 - Sayre, Mem. New York Bot. Gard. 19(2): 202. 1971.
 

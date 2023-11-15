@@ -35,8 +35,8 @@ Ferris completed for publication the M.A. thesis by Gilbert Thereon Benson (1896
 
 #### Outside our period
 
-(1) Ferris provided substantial technical support, which included contributing several family treatments, to LeRoy Abrams in the course of the publication of his *Ill. fl. Pacific States*... 1923-1960, 4 vols. (see TL-2/1, nr. 6). The last vol., however, was solely her work, viz.... Vol. 4. Bignoniaceae to Compositae... 1960.
-(2) Author of several semi-popular Calif. floras, incl.: (a) *Death Valley wildflowers*, Death Valley, Calif. (Death Valley Natural History Assoc.)... \[1962\]; Id.,... 1974; and 2nd revised ed., with Wesley E. Niles,... 1981; (b) *Native shrubs of San Francisco Bay Region*, Berkeley (Univ. Calif. Press)... 1968; and (c) *Flowers of the Point Reyes National Seashore*, Berkeley (Univ. Calif. Press)... 1970.
+- (1) Ferris provided substantial technical support, which included contributing several family treatments, to LeRoy Abrams in the course of the publication of his *Ill. fl. Pacific States*... 1923-1960, 4 vols. (see TL-2/1, nr. 6). The last vol., however, was solely her work, viz.... Vol. 4. Bignoniaceae to Compositae... 1960.
+- (2) Author of several semi-popular Calif. floras, incl.: (a) *Death Valley wildflowers*, Death Valley, Calif. (Death Valley Natural History Assoc.)... \[1962\]; Id.,... 1974; and 2nd revised ed., with Wesley E. Niles,... 1981; (b) *Native shrubs of San Francisco Bay Region*, Berkeley (Univ. Calif. Press)... 1968; and (c) *Flowers of the Point Reyes National Seashore*, Berkeley (Univ. Calif. Press)... 1970.
 
 ### Publications
 

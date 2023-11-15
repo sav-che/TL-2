@@ -8,7 +8,8 @@ Leighton, (Rev.) William Allport (1805-1889), British clergyman and botanist in 
 
 #### Herbarium and types
 
-[[Collection BM|BM]] and [[Collection K|K]]. – Exsiccatae: *Lichenes britannici exsiccati*, fasc. i-xiii, nos. 1-410, London 1851-1867, sets in many herbaria (see GR and IH); letters at [[Collection K|K]]. – Desmond mentions also lichens at the Essex Field Club.
+[[Collection BM|BM]] and [[Collection K|K]].
+*Exsiccatae*: *Lichenes britannici exsiccati*, fasc. i-xiii, nos. 1-410, London 1851-1867, sets in many herbaria (see GR and IH); letters at [[Collection K|K]]. – Desmond mentions also lichens at the Essex Field Club.
 *Ref*.: Ward, Essex Naturalist 29(3): 193. 1954.
 - Sayre, G., Mem. New York Bot. Gard. 19(1): 140. 1969.
 - Hawksworth, D. L., Mycol. handb. 184, 196. 1974 (fungi at BM); Prel. bibl. Brit. lichens 99. 1976 (lichens at BM).

@@ -10,7 +10,8 @@ Cooke, Mordecai Cubitt (1825-1914), British mycologist and algologist, at India 
 
 #### Herbarium and types
 
-[[Collection K|K]] (incl. drawings). *Exsiccatae.Fungi britannici exs.*, 2 series, see below under no. 1198.
+[[Collection K|K]] (incl. drawings).
+*Exsiccatae*.Fungi britannici exs.*, 2 series, see below under no. 1198.
 *Ref*.: IH 2: 137.
 
 #### Bibliography and biography
@@ -35,8 +36,8 @@ Barnhart 1: 37; BB p. 72; BM 1: 378-379, 6: 230: CSP 2: 40, 7: 425, 9: 564, 12: 
 
 #### Composite works
 
-(1) Mueller, *Fragm*., vol. 11, supplement p. 75-104, *Fungi australiani*, also Published separately. Melbourne 1883, 72 p., *4 pl*. (Nat. Nov. Dec 1883).
-(2) *Grevillea*, a monthly record of cryptogamic botany and its literature, edited by M. C. Cooke, vols. 1-20, 1872-1892.
+- (1) Mueller, *Fragm*., vol. 11, supplement p. 75-104, *Fungi australiani*, also Published separately. Melbourne 1883, 72 p., *4 pl*. (Nat. Nov. Dec 1883).
+- (2) *Grevillea*, a monthly record of cryptogamic botany and its literature, edited by M. C. Cooke, vols. 1-20, 1872-1892.
 
 #### Note
 

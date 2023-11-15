@@ -24,15 +24,15 @@ Biol.-Dokum. 18: 9509; BJI 2: 183; BL 1: 112, 121, 322; BM 2: 1016, 5: 2190; CSP
 
 #### Composite works
 
-(1) Co-author, for the botanical text, of S.H. Koorders, *Bijdr. boomsoort. Java*, see TL-2/3862; the *Atlas Baumart. Java* (TL-2/3867), illustrating the *Bijdragen*, was edited by Koorders. See also J.W. Moll, *Mikrogr. Holz.* 1906-1936, TL-2/6216.
-(2) *Balanophoraceae, in* C.E.A. Wichmann, ed., Nova Guinea 8(5): 919-921, *pl. 161.* Dec 1913.
-(3) *Zingiberaceae, in* id. 8(5): 923-988, *pl. 162-179.* Dec 1913.
-(4) *Rubiaceae, in* id. 8(3): 437-5129) *pl. 71-74.* 1911, 8(4): 755-775, *pl. 125-129.* 1912 (printed Mar 1912)(Nachträge, printed Mar 1912); 14(2): 229-274, *pl. 20-30.* Dec 1925 (Neue Nachträge; printed Dec 1925; preprint publ. Dec 1925; Vakbl. Biol. noted Jul 1926).
-(5) For a list of the treatments in *Icones bogorienses* see the bibliography by J.J. Smith (1930).
-(6) *Rubiaceae, in* H. Winkler, *Beiträge zur Flora und Pflanzengeographie von Borneo*, Bot. Jahrb. 44: 542-571. 1910, id. II, 48: 110-117. 1912.
-(7) *Rubiaceae, in* L.S. Gibbs, *A contribution to the phyto geography and flora of the Arfak Mountains* 180-182, 220-221. 1917.
-(8) *Zingiberaceae, in* E.D. Merrill, An interpretation of Rumphius's *Herbarium amboinense* 151-165. 1917.
-(9) *Die Rubiaceae von Papuasien, Cinchonoideae, in* Lauterbach, *Beiträge zur Flora von Papuasien*, Bot. Jahrb. 60: 1-104, 1926, id. *Coffeideae, in* id. 61: 31-163. 1927.
+- (1) Co-author, for the botanical text, of S.H. Koorders, *Bijdr. boomsoort. Java*, see TL-2/3862; the *Atlas Baumart. Java* (TL-2/3867), illustrating the *Bijdragen*, was edited by Koorders. See also J.W. Moll, *Mikrogr. Holz.* 1906-1936, TL-2/6216.
+- (2) *Balanophoraceae, in* C.E.A. Wichmann, ed., Nova Guinea 8(5): 919-921, *pl. 161.* Dec 1913.
+- (3) *Zingiberaceae, in* id. 8(5): 923-988, *pl. 162-179.* Dec 1913.
+- (4) *Rubiaceae, in* id. 8(3): 437-5129) *pl. 71-74.* 1911, 8(4): 755-775, *pl. 125-129.* 1912 (printed Mar 1912)(Nachträge, printed Mar 1912); 14(2): 229-274, *pl. 20-30.* Dec 1925 (Neue Nachträge; printed Dec 1925; preprint publ. Dec 1925; Vakbl. Biol. noted Jul 1926).
+- (5) For a list of the treatments in *Icones bogorienses* see the bibliography by J.J. Smith (1930).
+- (6) *Rubiaceae, in* H. Winkler, *Beiträge zur Flora und Pflanzengeographie von Borneo*, Bot. Jahrb. 44: 542-571. 1910, id. II, 48: 110-117. 1912.
+- (7) *Rubiaceae, in* L.S. Gibbs, *A contribution to the phyto geography and flora of the Arfak Mountains* 180-182, 220-221. 1917.
+- (8) *Zingiberaceae, in* E.D. Merrill, An interpretation of Rumphius's *Herbarium amboinense* 151-165. 1917.
+- (9) *Die Rubiaceae von Papuasien, Cinchonoideae, in* Lauterbach, *Beiträge zur Flora von Papuasien*, Bot. Jahrb. 60: 1-104, 1926, id. *Coffeideae, in* id. 61: 31-163. 1927.
 
 #### Note
 

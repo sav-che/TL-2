@@ -37,17 +37,17 @@ Backer p. 444-445; BFM no. 2430; BJI 1: 46, 2: 135-136; BL 1: 242, 313 ("Knuds")
 
 #### Composite works
 
-(1) Engler, A., *Pflanzenreich, Taxaceae*, 18(iv, 5): 1-124. 8 Dec 1903; *Plantaginaceae*, 102 (iv, 269): 1-466. 22 Jun 1937.
-(2) With C. Mez, *Gramineae, in* Perkins, J., *Fragm. fl. Philipp.* fasc. 2: 137-140, 145-150. 1904.
-(3) *Arthrostylidium, in* Urban, I., Symb. ant. 2: 336. 20 Oct 1900, 337-343. 1 Oct 1901; *Arundinella, Cenchrus, Aristida, Leptochloa, Phragmites, Eragrostis, in* id. 4: 80-106. 1903; *Gramineae, in* id. 5: 288-289. 1907, id. 6: 1-4. 1909; *Juniperus*, id. 7: 478-481. 15 Aug 1913.
-(4) *Gramineae, in* Engler, A., *Pflanzenw. Afrik.* 2(1): 114-192. 1908.
-(5) Editor, *Ergänzungsheft* 2, Nachtr. 3, zu Engler und Prantl, *Natürliche Pflanzenfam*. 1908, 379 p.; id., with K. Krause, 3, Nachtr. 4, 1915, 381 p.
-(6) *Angiospermen, in Handwörterbuch Naturwissenschaften* 1: 365-425. 1912 (ed. 2. 2: 60-121. 1932, revised by E. Janchen).
-(7) *Pflanzengeographie, in* Francé, *Das Leben der Pflanze* 6: 117-243. 1913.
-(8) *Die Algen*. Dritte Abteilung. *Die Meeresalgen, in* Lindau, G., *Kryptogamenflora für Anfänger* 4(3), 1916, vi, 29, 125 p., *11 pl*., see under Lindau. – Pilger also acted as editor of the *Kryptogamenflora* after Lindau's death in 1923.
-(9) EP, *Natürliche Pflanzenfamilien*, ed. 2, *Caryocaraceae*, 21: 90-93. 1925, *Bixaceae* 21: 313-315. 1925, *Cochlospermaceae*, 21: 316-320. 1925, *Cycadaceae*, 13: 44-81. 1926, *Ginkgoaceae*, 13: 98-108. 1926, *Coniferae* 13: 121-165, 199-402. 1926, *Mayacaceae*, 15a: 33-34. 1930; *Thurniaceae*, 15a: 58. 1930, *Rapateaceae*, 15a: 59-64. 1930; *Philydraceae*, 15a: 190-191. 1930; *Santalaceae*, 16b: 52-91, 339. 1936; *Gramineae, Panicoideae*, 14e: 1-208. 1941; *Gramineae* II, 14d: i-vi, 1-225. 1956.
-(10) with H. Melchior, *Gymnospermae, in Syll. Pfl. Fam.* ed. 12, 1: 312-344. 1954.
-(11) collaborator, G.W.J. Mildbraed, Wiss. Erg. deut. Zentr.-Afr. Exped., 2, *Botanik*, 1914, see TL-2/6008.
+- (1) Engler, A., *Pflanzenreich, Taxaceae*, 18(iv, 5): 1-124. 8 Dec 1903; *Plantaginaceae*, 102 (iv, 269): 1-466. 22 Jun 1937.
+- (2) With C. Mez, *Gramineae, in* Perkins, J., *Fragm. fl. Philipp.* fasc. 2: 137-140, 145-150. 1904.
+- (3) *Arthrostylidium, in* Urban, I., Symb. ant. 2: 336. 20 Oct 1900, 337-343. 1 Oct 1901; *Arundinella, Cenchrus, Aristida, Leptochloa, Phragmites, Eragrostis, in* id. 4: 80-106. 1903; *Gramineae, in* id. 5: 288-289. 1907, id. 6: 1-4. 1909; *Juniperus*, id. 7: 478-481. 15 Aug 1913.
+- (4) *Gramineae, in* Engler, A., *Pflanzenw. Afrik.* 2(1): 114-192. 1908.
+- (5) Editor, *Ergänzungsheft* 2, Nachtr. 3, zu Engler und Prantl, *Natürliche Pflanzenfam*. 1908, 379 p.; id., with K. Krause, 3, Nachtr. 4, 1915, 381 p.
+- (6) *Angiospermen, in Handwörterbuch Naturwissenschaften* 1: 365-425. 1912 (ed. 2. 2: 60-121. 1932, revised by E. Janchen).
+- (7) *Pflanzengeographie, in* Francé, *Das Leben der Pflanze* 6: 117-243. 1913.
+- (8) *Die Algen*. Dritte Abteilung. *Die Meeresalgen, in* Lindau, G., *Kryptogamenflora für Anfänger* 4(3), 1916, vi, 29, 125 p., *11 pl*., see under Lindau. – Pilger also acted as editor of the *Kryptogamenflora* after Lindau's death in 1923.
+- (9) EP, *Natürliche Pflanzenfamilien*, ed. 2, *Caryocaraceae*, 21: 90-93. 1925, *Bixaceae* 21: 313-315. 1925, *Cochlospermaceae*, 21: 316-320. 1925, *Cycadaceae*, 13: 44-81. 1926, *Ginkgoaceae*, 13: 98-108. 1926, *Coniferae* 13: 121-165, 199-402. 1926, *Mayacaceae*, 15a: 33-34. 1930; *Thurniaceae*, 15a: 58. 1930, *Rapateaceae*, 15a: 59-64. 1930; *Philydraceae*, 15a: 190-191. 1930; *Santalaceae*, 16b: 52-91, 339. 1936; *Gramineae, Panicoideae*, 14e: 1-208. 1941; *Gramineae* II, 14d: i-vi, 1-225. 1956.
+- (10) with H. Melchior, *Gymnospermae, in Syll. Pfl. Fam.* ed. 12, 1: 312-344. 1954.
+- (11) collaborator, G.W.J. Mildbraed, Wiss. Erg. deut. Zentr.-Afr. Exped., 2, *Botanik*, 1914, see TL-2/6008.
 
 #### Eponymy
 

@@ -32,9 +32,9 @@ Ainsworth p. 226, 319; APN p. 227; Barnhart 2: 49; BL 2: 102, 659; BM 2: 677; Bo
 
 #### Note
 
-(1) *Hyménomycètes*... (see TL-2/1, nr. 2018 (1)) is available in microfiche (IDC), but full details are wanting.
-(2) Some portion of *Champ. France hyménomyc.*... \[1874-\]1878 (TL-2/1, nr. 2019) is available in microfiche (IDC), but full details are wanting.
-(3) *Champ. France gastéromyc.*... 1891 (see TL-2/1, nr. 2021) is available in microfiche. *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "8202A6-8202G6"). *Copy*: MO (n.v.). *Note*: Unlike the original work, the microfiche lacks color.
+- (1) *Hyménomycètes*... (see TL-2/1, nr. 2018 (1)) is available in microfiche (IDC), but full details are wanting.
+- (2) Some portion of *Champ. France hyménomyc.*... \[1874-\]1878 (TL-2/1, nr. 2019) is available in microfiche (IDC), but full details are wanting.
+- (3) *Champ. France gastéromyc.*... 1891 (see TL-2/1, nr. 2021) is available in microfiche. *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "8202A6-8202G6"). *Copy*: MO (n.v.). *Note*: Unlike the original work, the microfiche lacks color.
 
 #### Composite works
 

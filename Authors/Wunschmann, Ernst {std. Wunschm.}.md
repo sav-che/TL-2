@@ -21,8 +21,8 @@ BJI 1: 64; BM 5: 2368; Herder p. 127; Jackson p. 109.
 
 #### Composite works
 
-(1) *Nepenthaceae, in* Engler & Prantl, Nat. Pflanzenfam. 3(2): 253-261. Mai 1891.
-(2) *Sarraceniaceae, in* id. 3(2): 244-252. Mai 1891.
+- (1) *Nepenthaceae, in* Engler & Prantl, Nat. Pflanzenfam. 3(2): 253-261. Mai 1891.
+- (2) *Sarraceniaceae, in* id. 3(2): 244-252. Mai 1891.
 
 #### Eponymy
 

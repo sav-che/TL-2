@@ -47,19 +47,19 @@ AG 2(1): 226, 5(1): 501, 673; APN p. 221; Backer p. 230, 651; Baillon 2: 679; Ba
 #### Note
 
 The following are now available in microfiche:
-(1) *Monogr. Lasiopétal.*... 1821 (TL-2/1, nr. 1977):
+- (1) *Monogr. Lasiopétal.*... 1821 (TL-2/1, nr. 1977):
 *Microfiche*: Zug, Switzerland (IDC), 1985, 1 microfiche. *Copy*: MO (n.v.).
-(2) *Erysim. nov.*... 1842 (TL-2/1. nr. 1978):
+- (2) *Erysim. nov.*... 1842 (TL-2/1. nr. 1978):
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "8192C4-8192D5"). *Copy*: MO (n.v.). (b) Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(3) *Eryng. nov.*... 1848 (TL-2/1. nr. 1979):
+- (3) *Eryng. nov.*... 1848 (TL-2/1. nr. 1979):
 *Microfiche* Zug, Switzerland (IDC), 1985, 1 microfiche. *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) One of a number of collaborators with:
+- (1) One of a number of collaborators with:
 (a) C. Gaudichaud-Beaupré, *Voy. Uranie*... 1826-\[1830\] (see TL-2/1, nr. 1968).
 (b) F. Schultz, *Fl. Gall. Germ. exs.*... 1836-1840 (TL-2/5, nr. 11.292).
-(2) Validated a number of species (as illus. with analysis) in M.C. Durieu de Maisonneuve, *Expl. Sci. Algérie*... 1846-1855\[-1869\] (TL-2/1, nr. 1598).
+- (2) Validated a number of species (as illus. with analysis) in M.C. Durieu de Maisonneuve, *Expl. Sci. Algérie*... 1846-1855\[-1869\] (TL-2/1, nr. 1598).
 
 ### Publications
 

@@ -28,11 +28,11 @@ Backer p. 418; Barnhart 3: 43; BJI 2: 129; BM 4: 1504, 8: 973; Bret. 1042, 1095;
 
 #### Composite works
 
-(1) *in* N.I. Kusnetzov, *Flora caucasica critica*:
+- (1) *in* N.I. Kusnetzov, *Flora caucasica critica*:
 (a) *Convolvulaceae*, 4(2): 1-32. 1912, 33-61. 1913.
 (b) *Polemoniaceae*, 4(2): 61-66. 1913.
 (c) *Cistaceae*, 3(9): 117-158. 1909.
-(2) Contributed to V.L. Komarov et al., *Flora URSS*, vols. 3, 7, 9, 13, 14.
+- (2) Contributed to V.L. Komarov et al., *Flora URSS*, vols. 3, 7, 9, 13, 14.
 
 #### Note
 

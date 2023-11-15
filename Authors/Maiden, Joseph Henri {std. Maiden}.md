@@ -44,16 +44,16 @@ Contributed the appendices iii and iv on *Eucalyptus* and *Acacia* to Ewart, A.J
 
 Rec. Auckland Inst. Mus. 13: 107, 108. 1976.
 
-#### Papers on history of australian botany
+#### Papers on history of Australian botany
 
-(1) *Records of Victorian botanists*, Victorian Naturalist 25(7): 101-117. 1908.
-(2) *Records of Australian botanists* (a) General, (b) New South Wales, J. Proc. R. Soc. N.S.W. 42: 60-132. 1908.
-(3) *Records of Queensland botanists*, Proc. Sect. D., Australas. Ass. Adv. Sci., Adelaide 1907: 373-383. 1909.
-(4) *Records of Tasmanian botanists*, Hobart 1909, Royal Society of Tasmania, p. 1-21. (5) *Records of Western Australian botanists* and Australian botanists, who have dealt with the flora of Western Australia. Perth 1909, p. 1-33, also J. W. Austral. nat. Hist. Soc. 1909. 5-27.
-(6) *Records of the earlier French botanists as regards Australian plants*, J. Proc. R. Soc. N.S.W. 44: 123-155, *pl. 3-13*. 1910.
-(7) *Records of Australian botanists, first supplement*, Proc. Australas. Ass. Adv. Sci. 13(section D): 224-243, *pl*. *20-21*. 1912.
-(8) *Records of Australian botanists, second supplement*, J. Proc. R. Soc. N.S.W. 55: 150-169, *pl*. *8-9. 1922.*
-(9) *A* *century of botanical endeavor in South Australia*, Rep. 11. Meeting Australas. Ass. Adv. Sci. Adelaide 1907, p. 158-180.
+- (1) *Records of Victorian botanists*, Victorian Naturalist 25(7): 101-117. 1908.
+- (2) *Records of Australian botanists* (a) General, (b) New South Wales, J. Proc. R. Soc. N.S.W. 42: 60-132. 1908.
+- (3) *Records of Queensland botanists*, Proc. Sect. D., Australas. Ass. Adv. Sci., Adelaide 1907: 373-383. 1909.
+- (4) *Records of Tasmanian botanists*, Hobart 1909, Royal Society of Tasmania, p. 1-21. (5) *Records of Western Australian botanists* and Australian botanists, who have dealt with the flora of Western Australia. Perth 1909, p. 1-33, also J. W. Austral. nat. Hist. Soc. 1909. 5-27.
+- (6) *Records of the earlier French botanists as regards Australian plants*, J. Proc. R. Soc. N.S.W. 44: 123-155, *pl. 3-13*. 1910.
+- (7) *Records of Australian botanists, first supplement*, Proc. Australas. Ass. Adv. Sci. 13(section D): 224-243, *pl*. *20-21*. 1912.
+- (8) *Records of Australian botanists, second supplement*, J. Proc. R. Soc. N.S.W. 55: 150-169, *pl*. *8-9. 1922.*
+- (9) *A century of botanical endeavor in South Australia*, Rep. 11. Meeting Australas. Ass. Adv. Sci. Adelaide 1907, p. 158-180.
 
 #### Eponymy
 

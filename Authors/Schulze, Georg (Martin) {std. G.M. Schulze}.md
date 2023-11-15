@@ -22,9 +22,9 @@ Barnhart 3: 246 (b. 14 Aug 1909); Biol.-Dokum. 16: 8411; Bossert p. 356; IH 1 (e
 
 #### Composite works
 
-(1) Exell, A.W. & F.A. Mendonca, *Conspectus florae angolensis* 2(2), *Balsaminaceae*, Lisboa 1956.
-(2) *Internationaler Code der Botanischen Nomenklatur* angenommen vom siebenten Internationalen Botanischen Kongress, Stockholm, Juli 1950... prepared by J. Lanjouw,... F.A. Stafleu,... Deutsche Fassung 1954. Gedruckt bei A.W. Hayn's Erben. Berlin SO 36, Jun 1954, p. \[1\]-184. *Copy*: FAS.
-(3) Co-editor specifically responsible for the German text of *International Code of Botanical Nomenclature* \[adopted... Paris 1954\] 1956, \[adopted... Montreal 1959\], 1961, \[adopted... Edinburgh 1964\] 1966, \[adopted... Seattle 1969\]. 1972.
+- (1) Exell, A.W. & F.A. Mendonca, *Conspectus florae angolensis* 2(2), *Balsaminaceae*, Lisboa 1956.
+- (2) *Internationaler Code der Botanischen Nomenklatur* angenommen vom siebenten Internationalen Botanischen Kongress, Stockholm, Juli 1950... prepared by J. Lanjouw,... F.A. Stafleu,... Deutsche Fassung 1954. Gedruckt bei A.W. Hayn's Erben. Berlin SO 36, Jun 1954, p. \[1\]-184. *Copy*: FAS.
+- (3) Co-editor specifically responsible for the German text of *International Code of Botanical Nomenclature* \[adopted... Paris 1954\] 1956, \[adopted... Montreal 1959\], 1961, \[adopted... Edinburgh 1964\] 1966, \[adopted... Seattle 1969\]. 1972.
 
 ### Publications
 

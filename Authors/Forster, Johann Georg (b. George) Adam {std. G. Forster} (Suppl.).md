@@ -124,8 +124,8 @@ ABD 7: 166-172, 172-181; Académie p. 194; ADB(2) 1: 403-404; AG 2(1): 188; APN 
 
 #### Note
 
-(1) G. Forster, *Pl. esc.*... 1786 (TL-2/1, nr. 1822) has been issued in microfiche (from the Berlin "edition"):
+- (1) G. Forster, *Pl. esc.*... 1786 (TL-2/1, nr. 1822) has been issued in microfiche (from the Berlin "edition"):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche. *Copy*: MO.
-(2) G. Forster, *Fasc. pl. magell.*... (TL-2/1, nr. 1824) was, according to the text, published "1787 after 18 Sep, date of presentation." One of us (DHN), however, noticed a publication (Bot. Not. 124: 82. 1971) in which the author, D.M. Moore, mentioned that the Comment. Soc. Reg. Götting. for 1787-1788, in which Forster's article appeared, was reviewed as a whole in Göttingische Anzeigen 1789(83) on p. 833, which, according to the late W.T. Stearn (pers. comm. to FAS), was issued on 23 Mai 1789. So, Forster's article was published shortly before 23 Mai 1789.
-(3) K, NY and WU have the "Herbarium Australe" 1797 (G. Forster's estate listing). This work has also been issued as an IDC microfiche \[19--\].
+- (2) G. Forster, *Fasc. pl. magell.*... (TL-2/1, nr. 1824) was, according to the text, published "1787 after 18 Sep, date of presentation." One of us (DHN), however, noticed a publication (Bot. Not. 124: 82. 1971) in which the author, D.M. Moore, mentioned that the Comment. Soc. Reg. Götting. for 1787-1788, in which Forster's article appeared, was reviewed as a whole in Göttingische Anzeigen 1789(83) on p. 833, which, according to the late W.T. Stearn (pers. comm. to FAS), was issued on 23 Mai 1789. So, Forster's article was published shortly before 23 Mai 1789.
+- (3) K, NY and WU have the "Herbarium Australe" 1797 (G. Forster's estate listing). This work has also been issued as an IDC microfiche \[19--\].
 

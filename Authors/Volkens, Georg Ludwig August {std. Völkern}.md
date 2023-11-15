@@ -33,12 +33,12 @@ Barnhart 3: 443 (b. 13 Jul 1855, d. 10 Jan 1917); Biol.-Dokum. 18: 9628-9629; BJ
 
 #### Composite works
 
-(1) *Chenopodiaceae, in* P. Dusén, *Gefässpfl. Magellansländ*. (Sv. Exp. Magellansländ.) 3(5)) 1900.
-(2) *Chenopodiaceae, in* EP, *Nat. Pflanzenfam.* 3. 1a: 36-48. Mar 1892, 49-91. Mar 1893.
-(3) *Basellaceae, in* id. 3. 1a: 124-128. Aug 1893.
-(4) With G.A. Schweinfurth, *Liste des plantes récoltées* par les princes Démètre et Nicolas Ghika-Comanesti dans leur voyage *au pays des Somalis*, Bucarest 1897, 19 p., see under Schweinfurth, TL-2/11.484.
-(5) *Ueber die Bestäubung einiger Loranthaceen und Proteaceen*. Ein Beitrag zur Ornithophilie. Festschr. Schwendener 1899, p. 251-270. *pl. 10.*
-(6) With A. Engler, *Die land– und forstwirtschaftlichen Versuchsstationen der deutschen Kolonien*, Congr. int. Agron. colon, trop. Bruxelles 20-23 Mai 1910, 16 p.
+- (1) *Chenopodiaceae, in* P. Dusén, *Gefässpfl. Magellansländ*. (Sv. Exp. Magellansländ.) 3(5)) 1900.
+- (2) *Chenopodiaceae, in* EP, *Nat. Pflanzenfam.* 3. 1a: 36-48. Mar 1892, 49-91. Mar 1893.
+- (3) *Basellaceae, in* id. 3. 1a: 124-128. Aug 1893.
+- (4) With G.A. Schweinfurth, *Liste des plantes récoltées* par les princes Démètre et Nicolas Ghika-Comanesti dans leur voyage *au pays des Somalis*, Bucarest 1897, 19 p., see under Schweinfurth, TL-2/11.484.
+- (5) *Ueber die Bestäubung einiger Loranthaceen und Proteaceen*. Ein Beitrag zur Ornithophilie. Festschr. Schwendener 1899, p. 251-270. *pl. 10.*
+- (6) With A. Engler, *Die land– und forstwirtschaftlichen Versuchsstationen der deutschen Kolonien*, Congr. int. Agron. colon, trop. Bruxelles 20-23 Mai 1910, 16 p.
 
 #### Eponymy
 
@@ -50,8 +50,8 @@ Barnhart 3: 443 (b. 13 Jul 1855, d. 10 Jan 1917); Biol.-Dokum. 18: 9628-9629; BJ
 
 #### Note
 
-(1) Published *Die Geschichte des Botanischen Vereins der Provinz Brandenburg, 1859-1909, in* Verh. Bot. Ver. Brandenburg 51: (1)-(86). 1909 and *Karl Schumann*. Ein Nachruf, in Ber. deut. bot. Ges. 22: (49)-(52). 1904 and Verh. Bot. Ver. Brandenburg 46: lix-lxii. 1904.
-(2) Published *Der Botanische Garten in Buitenzorg* und seine Bedeutung für den Plantagenbau auf Java und Sumatra. – Verh. deut. Kolonialkongress 1902: 182-193.
+- (1) Published *Die Geschichte des Botanischen Vereins der Provinz Brandenburg, 1859-1909, in* Verh. Bot. Ver. Brandenburg 51: (1)-(86). 1909 and *Karl Schumann*. Ein Nachruf, in Ber. deut. bot. Ges. 22: (49)-(52). 1904 and Verh. Bot. Ver. Brandenburg 46: lix-lxii. 1904.
+- (2) Published *Der Botanische Garten in Buitenzorg* und seine Bedeutung für den Plantagenbau auf Java und Sumatra. – Verh. deut. Kolonialkongress 1902: 182-193.
 
 ### Publications
 

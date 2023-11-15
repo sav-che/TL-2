@@ -23,8 +23,8 @@ Barnhart 1: 371 (d. at Pavia); BL 2: 366, 642; BM 1: 371, 6: 221; IH 2: 135; Kew
 
 #### Notes
 
-(1) on TL-2/1189, *Fl. com.* – PR ed. 1, mentioned *Flora comensis* \[sic\], plantas sponte in provincia crescentes atque illas, quae indigenatur nactae coluntur, exhibens, earumque proprietates et usus enumerans. Novi-Comi 1826. Oct. 10 p. (*Prospectus*). – See also Rehder 1: 426.
-(2) *Flora comense*, TL-2/1189, was mentioned by Junk 175. 1973 as reprint of 7 vols., 16-mo., n.v. (subscription only?).
+- (1) on TL-2/1189, *Fl. com.* – PR ed. 1, mentioned *Flora comensis* \[sic\], plantas sponte in provincia crescentes atque illas, quae indigenatur nactae coluntur, exhibens, earumque proprietates et usus enumerans. Novi-Comi 1826. Oct. 10 p. (*Prospectus*). – See also Rehder 1: 426.
+- (2) *Flora comense*, TL-2/1189, was mentioned by Junk 175. 1973 as reprint of 7 vols., 16-mo., n.v. (subscription only?).
 
 ### Publications
 

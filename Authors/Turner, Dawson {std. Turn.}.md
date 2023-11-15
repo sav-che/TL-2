@@ -56,8 +56,8 @@ Barnhart 3: 409; BB p. 306; BM 1: 203, 463, 5: 2153, 8: 1332; Bossert p. 409; Cl
 
 #### Composite works
 
-(1) Editor, R. Richardson, Extr. lit. sci. corr. 1835, see TL-2/9172.
-(2) With James Sowerby, *Catalogue of some of the more rare plants observed in a tour through the western counties of England*, Trans. Linn. Soc. 5: 234-241. 20-22 Feb 1800, see TL-2/12.491.
+- (1) Editor, R. Richardson, Extr. lit. sci. corr. 1835, see TL-2/9172.
+- (2) With James Sowerby, *Catalogue of some of the more rare plants observed in a tour through the western counties of England*, Trans. Linn. Soc. 5: 234-241. 20-22 Feb 1800, see TL-2/12.491.
 
 #### Note
 

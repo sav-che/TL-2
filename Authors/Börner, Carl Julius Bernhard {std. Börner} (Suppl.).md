@@ -34,7 +34,7 @@ Barnhart 1: 209 (b. 28 Mai 1880, Bremen); BM 6: 102; Hortus 3: 1189; NAF 28 B(2)
 
 #### Composite works
 
-(1) Börner contributed to P.C.M. Sorauer, *Handb. Pfl.-Krankh.* 5, 1928-1932, *Tierische Schädlinge an Nutzpflanzen*, see TL-2/12.459.
+- (1) Börner contributed to P.C.M. Sorauer, *Handb. Pfl.-Krankh.* 5, 1928-1932, *Tierische Schädlinge an Nutzpflanzen*, see TL-2/12.459.
 
 ### Publications
 

@@ -8,8 +8,9 @@ Krieger, Karl Wilhelm (1848-1921), German mycologist; educated in the seminary a
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: (1) *Fungi saxonici exsiccati*, fasc. 1-50, nos. 1-2500, Koenigstein a. E., 1885-1919; double set at [[Collection B|B]] (extant); for further sets see IH.
-(2) *Schädliche Pilze unserer Kulturgewächse*, fasc. 1-4, nos. 1-200, Koenigstein a. E., 1896-1908; for sets see IH.
+Unknown.
+*Exsiccatae*: (1) *Fungi saxonici exsiccati*, fasc. 1-50, nos. 1-2500, Koenigstein a. E., 1885-1919; double set at [[Collection B|B]] (extant); for further sets see IH.
+- (2) *Schädliche Pilze unserer Kulturgewächse*, fasc. 1-4, nos. 1-200, Koenigstein a. E., 1896-1908; for sets see IH.
 
 #### Bibliography and biography
 

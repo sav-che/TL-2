@@ -20,7 +20,7 @@ Barnhart 1: 345; BFM p. 278 ("74"); BJI 2: 52; Christiansen p. 313 \[index\]; TL
 
 #### Composite works
 
-(1) Christiansen, Werner and Willi Christiansen, eds., *Das botanische Schrifttum von Schleswig-Holstein*, Hamburg und Lübeck, Kiel 1932-1936, 323 p. – See details in BL 2: 52-53.
+- (1) Christiansen, Werner and Willi Christiansen, eds., *Das botanische Schrifttum von Schleswig-Holstein*, Hamburg und Lübeck, Kiel 1932-1936, 323 p. – See details in BL 2: 52-53.
 
 ### Publications
 

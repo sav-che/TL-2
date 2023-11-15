@@ -49,10 +49,10 @@ ADB 18: 715-720; AG 2(1): 366, 2(2): 150-151; Ainsworth p. 61, 70, 102, 300, 313
 
 #### Composite works
 
-(1) *Jahrbücher der Gewächskunde* herausgegeben von K. Sprengel, A. H. Schrader und H. F. Link. Vol. 1 (all published) Berlin und Leipzig (in G. C. Nauck's Buchhandlung), \[1818-\] 1820, in three independently paged parts. See under *Sprengel*.
-(2) Hoffmannsegg, J. C. v. und H. F. Link, *Flore portugaise* 1809-1840), TL-2/2911.
-(3) Willdenow, C. L., *Grundriss der Kräuterkunder*, eds. 6 & 7 by Link, see Willdenow.
-(4) Willdenow, C. L., *Sp. pl.*, vol. 6(1, 2) by H. F. Link, see Willdenow.
+- (1) *Jahrbücher der Gewächskunde* herausgegeben von K. Sprengel, A. H. Schrader und H. F. Link. Vol. 1 (all published) Berlin und Leipzig (in G. C. Nauck's Buchhandlung), \[1818-\] 1820, in three independently paged parts. See under *Sprengel*.
+- (2) Hoffmannsegg, J. C. v. und H. F. Link, *Flore portugaise* 1809-1840), TL-2/2911.
+- (3) Willdenow, C. L., *Grundriss der Kräuterkunder*, eds. 6 & 7 by Link, see Willdenow.
+- (4) Willdenow, C. L., *Sp. pl.*, vol. 6(1, 2) by H. F. Link, see Willdenow.
 
 #### Handwriting
 
@@ -234,8 +234,8 @@ Copies: BR, FI, MICH, MO, NY, U, US, USDA; IDC 5508.
 
 **Notes**
 1. *Erster Theil*: Jan-Aug 1829, p. \[ii\]-viii, \[1\]-864.
-*2. Zweiter Theil*: Jan-Aug 1829, p. \[ii-iii\], \[1\]-533.
-*3. Dritter Theil*: 1833, p. \[ii\]-xviii, \[1\]-536.
+2. *Zweiter Theil*: Jan-Aug 1829, p. \[ii-iii\], \[1\]-533.
+3. *Dritter Theil*: 1833, p. \[ii\]-xviii, \[1\]-536.
 *Copies*: B, BR, FI, M, NY, Regensburg (vols. 1-2), US; IDC 5244.
 *Alternative title*: The book was also issued as part of the sixth edition of C. L. Willdenow, *Grundriss der Kräuterkunde*, zweiter-vierter (praktischer) Theil. The first "Theil" of the Grundriss ed. 6, "Erster (theoretischer) Theil" was still attributed to Willdenow and simply edited by Link. The "practical" part, however, was transformed by him into the *Handbuch*. Most copies have the alternative t.p.'s \[ii\]; the US copy was issued without them and belongs therefore to the independent issue of the Handbuch.
 *Ref*.: Brizicky, G., Taxon 18: 651. 1969.

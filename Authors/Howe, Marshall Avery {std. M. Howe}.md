@@ -8,7 +8,9 @@ Howe, Marshall Avery (1867-1936), American botanist; specialist on hepatics, mar
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (32.000); duplicates see IH. *Exsiccatae*: (1) *North American Algae*, collected at San Juan, Porto Rico and the Great Rogged Islands, Bahamas: [[Collection B|B]], [[Collection BM|BM]], [[Collection K|K]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UC|UC]]. (2) *Herb. University of California. Hepaticae californiae* (ca. 1891-1896).
+[[Collection NY|NY]] (32.000); duplicates see IH.
+*Exsiccatae*: (1) *North American Algae*, collected at San Juan, Porto Rico and the Great Rogged Islands, Bahamas: [[Collection B|B]], [[Collection BM|BM]], [[Collection K|K]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UC|UC]].
+- (2) *Herb. University of California. Hepaticae californiae* (ca. 1891-1896).
 *Ref*.: Anon., Torreya 15: 270. 1915.
 - Sayre, Mem. New York Bot. Gard. 19(2): 215-216. 1971, 19(3): 345. 1975.
 
@@ -37,7 +39,8 @@ Andrews p. 280; Barnhart 2: 211; BM 2: 882, 6: 489; Bossert p. 184; CSP 15: 965;
 
 #### Composite works
 
-(1) Editor of *Torreya* vols. 1-8, 1901-1908, then of the *Bulletin of the Torrey Botanical Club* 1908-1936 (editor, later member editorial board). (2) *Ricciaceae*, in NAF 14(1): 9-27. 19 Jan 1923; *Sphaerocarpales*, ib. 14(1): 2-8. 19 Jan 1923 (with C. C. Haynes) (TL-2/781)."
+- (1) Editor of *Torreya* vols. 1-8, 1901-1908, then of the *Bulletin of the Torrey Botanical Club* 1908-1936 (editor, later member editorial board).
+- (2) *Ricciaceae*, in NAF 14(1): 9-27. 19 Jan 1923; *Sphaerocarpales*, ib. 14(1): 2-8. 19 Jan 1923 (with C. C. Haynes) (TL-2/781)."
 
 ### Publications
 

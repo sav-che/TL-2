@@ -10,7 +10,8 @@ Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatolo
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. Exsiccatae: *Cryptogamae formationum coloradensium* (centuries i-vi, nos. 1-615, 1905-1908). Sets at [[Collection ARIZ|ARIZ]], [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection FH|FH]], [[Collection KANU|KANU]], [[Collection ILL|ILL]], [[Collection DIN|DIN]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OXF|OXF]], [[Collection PUR|PUR]], [[Collection RM|RM]], [[Collection RSU|RSU]], [[Collection SCHN|SCHN]], [[Collection UC|UC]], [[Collection WSP|WSP]]. – Clements papers, photographs, field books etc. are in the Dept. of Archives, University of Wyoming.
+[[Collection NY|NY]].
+*Exsiccatae*: *Cryptogamae formationum coloradensium* (centuries i-vi, nos. 1-615, 1905-1908). Sets at [[Collection ARIZ|ARIZ]], [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection FH|FH]], [[Collection KANU|KANU]], [[Collection ILL|ILL]], [[Collection DIN|DIN]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OXF|OXF]], [[Collection PUR|PUR]], [[Collection RM|RM]], [[Collection RSU|RSU]], [[Collection SCHN|SCHN]], [[Collection UC|UC]], [[Collection WSP|WSP]]. – Clements papers, photographs, field books etc. are in the Dept. of Archives, University of Wyoming.
 *Ref*.: IH 1 (ed. 6): 189, 2: 130.
 - Sayre, Mem. New York Bot. Gard. 19(1): 10. 1969.
 - Stevenson, Beih. Nov. Hedwigia 36: 88-90. 1971.

@@ -11,10 +11,10 @@ Setchell, William Albert (1864-1943), American botanist (algologist), plant geog
 [[Collection UC|UC]]. – Correspondence and field notes also at [[Collection UC|UC]]. – Setchell built up the outstanding algological herbarium and library at [[Collection UC|UC]] in close cooperation with N.L. Gardner. – Other material (excl. of exsicc): [[Collection BISH|BISH]], [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GH|GH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]] (lich.), [[Collection MEL|MEL]], [[Collection MIN|MIN]], [[Collection US|US]], [[Collection YU|YU]].
 *Exsiccatae*: with Frank Shipley Collins (1848-1920) and Isaac Holden (1832-1903), *Phycotheca boreali-americana*, a collection of dried specimens of the algae of North America, fasc. 1-46, nos. 1-2300 (in all 200.000 specimens), fasc. A-E, nos. 1-125. Maiden Mass. 1895-1919. See Sayre (1969) for details, especially exact dates. An index (mimeographed) was published by Fahey & Doty, "An Alphabetical index to the Phycotheca boreali-americana", in 1955. – 80 copies issued. Sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection PC|PC]]. Contributed also to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae*. – *Letters* (198 cards etc.) to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]].
 *Information* on *and reviews* of the *Phycotheca*: (1)F.S. Collins, W.A. Setchell and I. Holden, Bull. Torrey bot. Club 21: 490. 1894, note dated Syracuse, N.Y. July 12, 1894; "The undersigned have made preparations for the issuing of sets of dried specimens of the North American Algae, both of the fresh and of the salt waters, for the aid of investigators... Contributions of sets of 80 specimens each are solicited".
-(2) Hedwigia 34: (67). 1895: ".. beabsichtigen eine Phycotheca Boreali-Americana herauszugeben. Jedes Fascikel wird 50 Arten enthalten und 5 Dollars kosten. Subscription... Frank S. Collins,..."
-(3) Bot. Gaz. 20(3): 126. Mar 1895 "... announce the issue... The fascicles will be issued this winter of which the first has already appeared... The edition is limited to eighty copies..."
-(4) Reviews of *fasc. 1* and *2* by Humphrey (Baltimore, MD), Bot. Centralbl. 63: 106-107. 1895, 64: 161-162. 1895.
-(5) Full listing of contents *fasc. 1-17* in Hedwigia 34: (35)-(36). 1895(1), 34: (99). 1895(2), 35: (30). 1896(3), 35: (91). 1896(4), 36: (74)-(75). 1897(5), 36: (99). 1897(6), 37: (27). 1898(7), 37: (83). 1898(8), 37: (198)-(199). 1898(9), 38: (111)-(112). 1899(11), 38: (240)-(241). 1899(12), 41: (48). 1902(17).
+- (2) Hedwigia 34: (67). 1895: ".. beabsichtigen eine Phycotheca Boreali-Americana herauszugeben. Jedes Fascikel wird 50 Arten enthalten und 5 Dollars kosten. Subscription... Frank S. Collins,..."
+- (3) Bot. Gaz. 20(3): 126. Mar 1895 "... announce the issue... The fascicles will be issued this winter of which the first has already appeared... The edition is limited to eighty copies..."
+- (4) Reviews of *fasc. 1* and *2* by Humphrey (Baltimore, MD), Bot. Centralbl. 63: 106-107. 1895, 64: 161-162. 1895.
+- (5) Full listing of contents *fasc. 1-17* in Hedwigia 34: (35)-(36). 1895(1), 34: (99). 1895(2), 35: (30). 1896(3), 35: (91). 1896(4), 36: (74)-(75). 1897(5), 36: (99). 1897(6), 37: (27). 1898(7), 37: (83). 1898(8), 37: (198)-(199). 1898(9), 38: (111)-(112). 1899(11), 38: (240)-(241). 1899(12), 41: (48). 1902(17).
 
 #### Bibliography and biography
 
@@ -48,8 +48,8 @@ Barnhart 3: 262 (b. 15 Apr 1864, d. 5 Apr 1943); BJI 1: 54, 2: 163; BL 1: 127, 1
 
 #### Composite works
 
-(1) Setchell's unpublished outline for his history of botany course was used by H.S. Reed in his *Short history of the plant sciences*, Waltham, Mass. 1942 (fide Ewan, D.S.B.).
-(2) Founder and editor of Univ. Calif. Publ. Bot., vol. 1, 1902-1903, editor through vol.
+- (1) Setchell's unpublished outline for his history of botany course was used by H.S. Reed in his *Short history of the plant sciences*, Waltham, Mass. 1942 (fide Ewan, D.S.B.).
+- (2) Founder and editor of Univ. Calif. Publ. Bot., vol. 1, 1902-1903, editor through vol.
 17. 1932-1934.
 
 #### Festschrift

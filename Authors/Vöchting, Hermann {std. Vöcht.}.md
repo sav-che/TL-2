@@ -31,9 +31,9 @@ Biol.-Dokum. 18: 9591; BJI 1: 60, 2: 184; BM 5: 2230; CSP 8: 1161, 11: 712, 19: 
 
 #### Composite works
 
-(1) Drawings, for N. Pringsheim, *Ueber dem Gang der morphologischen Differenzirung in der Sphacelarien-Reihe* 1873, TL-2/8336.
-(2) Co-editor *Gartenflora* vols. 36-39, 1887-1890.
-(3) *Die botanische Anstalt, in* Die unter der Regierung seiner Majestät des Königs Karl an der Universität Tübingen errichteten und erweiterten Institute... Tübingen (H. Laupp'sche Buchhandlung) 1889, cover-t.p., p. \[1\]-10. *Copy*: HH. – Composite volume n.v.
+- (1) Drawings, for N. Pringsheim, *Ueber dem Gang der morphologischen Differenzirung in der Sphacelarien-Reihe* 1873, TL-2/8336.
+- (2) Co-editor *Gartenflora* vols. 36-39, 1887-1890.
+- (3) *Die botanische Anstalt, in* Die unter der Regierung seiner Majestät des Königs Karl an der Universität Tübingen errichteten und erweiterten Institute... Tübingen (H. Laupp'sche Buchhandlung) 1889, cover-t.p., p. \[1\]-10. *Copy*: HH. – Composite volume n.v.
 
 ### Publications
 

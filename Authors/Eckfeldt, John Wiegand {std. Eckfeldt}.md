@@ -27,9 +27,9 @@ Barnhart 1: 176 (b. 29 Jan 1851, Philadelphia, Pa., d. 5 Oct 1933, Brookline, Pa
 
 #### Composite works
 
-(1) *Lichenes Eckfeldtiani* a cl. Dr. J.-W. Eckfeldt Philadelphiensi, praesertim in Mexico, lecti, quos enumerat Dr. Johannes Müller Arg., Bull. Herb. Boissier 2(2): 89-93 \[1-5\]. Feb 1894. – TL-2/no. 6471.
-(2) *Graphideae Eckfeldtianae* in Louisiana et Florida, Bull. Herb. Boissier 3(2): (1)-(10). Feb 1895. – TL-2/no. 6473.
-(3) J.W. Eckfeldt and W.W. Calkins, *The lichenflora of Florida*, see TL-2/suppl. 3: no.
+- (1) *Lichenes Eckfeldtiani* a cl. Dr. J.-W. Eckfeldt Philadelphiensi, praesertim in Mexico, lecti, quos enumerat Dr. Johannes Müller Arg., Bull. Herb. Boissier 2(2): 89-93 \[1-5\]. Feb 1894. – TL-2/no. 6471.
+- (2) *Graphideae Eckfeldtianae* in Louisiana et Florida, Bull. Herb. Boissier 3(2): (1)-(10). Feb 1895. – TL-2/no. 6473.
+- (3) J.W. Eckfeldt and W.W. Calkins, *The lichenflora of Florida*, see TL-2/suppl. 3: no.
 24.122.
 
 ### Publications

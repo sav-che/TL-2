@@ -10,7 +10,8 @@ Gray, Asa (1810-1888), American botanist at Harvard University.
 
 #### Herbarium, types and original manuscripts, archives, correspondence
 
-[[Collection GH|GH]]. – North American material distributed by Asa Gray is in many herbaria (see IH). *Exsiccatae*: North American Gramineae and Cyperaceae, see below (no. 2119).
+[[Collection GH|GH]]. – North American material distributed by Asa Gray is in many herbaria (see IH).
+*Exsiccatae*: North American Gramineae and Cyperaceae, see below (no. 2119).
 *Ref*.: IH 1 (ed. 6): 359, 2: 237.
 - Day, Rhodora 3: 243-244. 1901.
 - Urban, Gesch. Berlin-Dahlem 350. 1916.
@@ -88,15 +89,15 @@ AG 3: 13; Barnhart 2: 78; Bossert p. 151; BM 2: 709-711, 6: 393; Bretschneider 1
 
 #### Composite works
 
-(1) *United States Exploring Expedition* (Wilkes, q.v.) vol. 15. *Botany, Phanerogamia* part 1, 1854, atlas 1856. – *Phanerogamia* part 2, never printed, manuscript at GH.
-(2) Torrey and Gray, *Aflora of North America*, 2 vols. New York 1838-1843, see under Torrey.
-(3) Engelmann and Gray, *Plantae lindheimerianae* 1845-1850, see sub Engelmann and Gray.
-(4) Torrey, *Monograph of North-American Cyperaceae*: species of *Rhynchospora* by A. Gray.
-(5) Sullivant, *Musci alleghanienses*, 1846, descriptions partly by A. Gray, Columbus 1846, 87 p., rev. by Gray, Am. J. Sci. 51: 70-81. Jan 1846.
-(6) Lindley, *The theory of horticulture*, first American ed. with notes by A. J. Downing and A. Gray, New York 1841 (xi, 346 p.), ed. 2, 1852, 1859 (xv, 364 p.)
-(7) *Narrative of the Expedition of an American Squadron to the China Seas and Japan...* M. C. Perry, vol. 2, 1857, Qu., p. \[305\]-332, *pl. 30-31*, Account of the botanical specimens. "List of dried plants collected in Japan, by S. Wells Williams Esq., and James Morrow." \[mosses by Sullivant, algae by Harvey (rev. Hooker, Kew J. Bot. 9: 316-317. Oct 1857; see ME 3: 146-148)\].
-(8) Ives, J. C, *Report upon the Colorado River of the West* explored in 1857 and 1859... Washington 1861, part 4, dated 1860 but issued after 1 May 1861 (date rendered to Congress), "*Botany*, by professor Gray, Torrey, Thurber, and Dr. Engelmann, p. \[1\]-30. *Copy*: US (see ME 3: 271-273).
-(9) Trelease, W. and Asa Gray, *The botanical works of the late George Engelmann*, Cambridge, Mass., 1857, *see* under Engelmann.
+- (1) *United States Exploring Expedition* (Wilkes, q.v.) vol. 15. *Botany, Phanerogamia* part 1, 1854, atlas 1856. – *Phanerogamia* part 2, never printed, manuscript at GH.
+- (2) Torrey and Gray, *Aflora of North America*, 2 vols. New York 1838-1843, see under Torrey.
+- (3) Engelmann and Gray, *Plantae lindheimerianae* 1845-1850, see sub Engelmann and Gray.
+- (4) Torrey, *Monograph of North-American Cyperaceae*: species of *Rhynchospora* by A. Gray.
+- (5) Sullivant, *Musci alleghanienses*, 1846, descriptions partly by A. Gray, Columbus 1846, 87 p., rev. by Gray, Am. J. Sci. 51: 70-81. Jan 1846.
+- (6) Lindley, *The theory of horticulture*, first American ed. with notes by A. J. Downing and A. Gray, New York 1841 (xi, 346 p.), ed. 2, 1852, 1859 (xv, 364 p.)
+- (7) *Narrative of the Expedition of an American Squadron to the China Seas and Japan...* M. C. Perry, vol. 2, 1857, Qu., p. \[305\]-332, *pl. 30-31*, Account of the botanical specimens. "List of dried plants collected in Japan, by S. Wells Williams Esq., and James Morrow." \[mosses by Sullivant, algae by Harvey (rev. Hooker, Kew J. Bot. 9: 316-317. Oct 1857; see ME 3: 146-148)\].
+- (8) Ives, J. C, *Report upon the Colorado River of the West* explored in 1857 and 1859... Washington 1861, part 4, dated 1860 but issued after 1 May 1861 (date rendered to Congress), "*Botany*, by professor Gray, Torrey, Thurber, and Dr. Engelmann, p. \[1\]-30. *Copy*: US (see ME 3: 271-273).
+- (9) Trelease, W. and Asa Gray, *The botanical works of the late George Engelmann*, Cambridge, Mass., 1857, *see* under Engelmann.
 
 #### Eponymy (genera)
 

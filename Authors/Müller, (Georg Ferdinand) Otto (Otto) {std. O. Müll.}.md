@@ -23,8 +23,8 @@ Barnhart 2: 524; BFM 16, 1868, 1886; BJI 1: 42; BM 3: 1372; Bossert p. 277; CSP 
 
 #### Composite works
 
-(1) Mueller published Heft 62 of A. F. W. Schmidt, *Atlas der Diatomaceen-Kunde*(1904).
-(2) O. Müller was a member of the original committee set up to publish the *Krypt.-Fl. Mark Brandenb.*
+- (1) Mueller published Heft 62 of A. F. W. Schmidt, *Atlas der Diatomaceen-Kunde* (1904).
+- (2) O. Müller was a member of the original committee set up to publish the *Krypt.-Fl. Mark Brandenb.*
 
 ### Publications
 

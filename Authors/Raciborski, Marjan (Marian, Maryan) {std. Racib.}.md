@@ -8,7 +8,8 @@ Raciborski, Marjan \[Marian, Maryan\], (1863-1917), Polish botanist; Dr. phil. M
 
 #### Herbarium and types
 
-Collections (incl. exsiccatae) at [[Collection B|B]], [[Collection BO|BO]], [[Collection C|C]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection K|K]], [[Collection KRA|KRA]] (impt.), [[Collection KRAM|KRAM]], [[Collection L|L]], [[Collection LD|LD]], [[Collection NSW|NSW]], [[Collection P|P]], [[Collection PC|PC]], [[Collection S|S]], [[Collection US|US]], [[Collection W|W]], [[Collection ZT|ZT]]. – *Exsiccatae*:
+Collections (incl. exsiccatae) at [[Collection B|B]], [[Collection BO|BO]], [[Collection C|C]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection K|K]], [[Collection KRA|KRA]] (impt.), [[Collection KRAM|KRAM]], [[Collection L|L]], [[Collection LD|LD]], [[Collection NSW|NSW]], [[Collection P|P]], [[Collection PC|PC]], [[Collection S|S]], [[Collection US|US]], [[Collection W|W]], [[Collection ZT|ZT]].
+*Exsiccatae*:
 1. *Cryptogamae parasiticae in insula Java lectae exsiccatae*, fasc. 1-3, nos. 1-150, 1899-1900. Sets at [[Collection B|B]], [[Collection BO|BO]], [[Collection FH|FH]], [[Collection K|K]], [[Collection W|W]]. – See Sayre (1969). – Accompanying text: Paras. Alg. Pilz. Javas (1900), see below, TL-2/8470.
 2. *Mycotheca polonica*, fasc 1-4, nos. 1-200, 1909-1910, for accompanying text see below, no..... Sets at [[Collection B|B]], [[Collection C|C]], [[Collection FH|FH]], [[Collection PC|PC]], [[Collection W|W]].
 3. *Phycotheca polonica*, fasc. 1-3, nos. 1-150, 1910-1911. Sets at [[Collection C|C]], [[Collection FH|FH]], [[Collection LD|LD]], [[Collection NSW|NSW]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. – See Sayre (1969).

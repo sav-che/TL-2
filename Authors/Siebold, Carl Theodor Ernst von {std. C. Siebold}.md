@@ -36,6 +36,6 @@ ADB 34: 186-188. 1892; Barnhart 3: 275 (b. 16 Feb 1804, d. 7 Apr 1885); Biol.-Do
 
 #### Composite works
 
-(1) Collaborator, G. Münster, *Beitr. Petref.*-*Kunde* 1839-1846, see TL-2/6535.
-(2) With A. v. Kölliker founder and editor of *Zeitschrift für wissenschaftliche Zoologie*, vols. 1-41, Leipzig 1848-1885 (from vol. 25 on with Ernst Ehlers).
+- (1) Collaborator, G. Münster, *Beitr. Petref.*-*Kunde* 1839-1846, see TL-2/6535.
+- (2) With A. v. Kölliker founder and editor of *Zeitschrift für wissenschaftliche Zoologie*, vols. 1-41, Leipzig 1848-1885 (from vol. 25 on with Ernst Ehlers).
 

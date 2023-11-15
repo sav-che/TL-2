@@ -26,8 +26,8 @@ AG 4: 207; Barnhart 3: 447 (d. 23 Feb 1872); BM 5: 2245; Bossert p. 422; Herder 
 
 #### Note
 
-(1) Antoni Waga (1799-1890) published an alphabetical index of Polish plant names: Ukaziciel Polskich nazwisk na rodzaje królestwa roslinnego, Warsawa 1846 \[?\], p. \[i\]-xxx, \[1\]-336, added by J. Waga to his *Fl. polon. Phan.*, see below.
-(2) J. Waga published a Polish version (greatly enlarged and in many aspects almost an independent work) of Guillaume Louis Figuier (1819-1894), *Histoire des plantes*, Paris 1865 (xv, 531 p.). Polish: *Historja roslin*, 3 vols. 1871-1872, not seen by us; see J.R., Bot. Zeit. 30: 524-525. 12 Jul 1872 (rev.).
+- (1) Antoni Waga (1799-1890) published an alphabetical index of Polish plant names: Ukaziciel Polskich nazwisk na rodzaje królestwa roslinnego, Warsawa 1846 \[?\], p. \[i\]-xxx, \[1\]-336, added by J. Waga to his *Fl. polon. Phan.*, see below.
+- (2) J. Waga published a Polish version (greatly enlarged and in many aspects almost an independent work) of Guillaume Louis Figuier (1819-1894), *Histoire des plantes*, Paris 1865 (xv, 531 p.). Polish: *Historja roslin*, 3 vols. 1871-1872, not seen by us; see J.R., Bot. Zeit. 30: 524-525. 12 Jul 1872 (rev.).
 
 ### Publications
 

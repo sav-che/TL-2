@@ -23,8 +23,8 @@ Andrews p. 289-290; Backer p. 307; Barnhart 2: 318; BJI 1: 34; BM 2: 1024; CSP 1
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1, *Melastomataceae*, III. 7: 130-199: Aug 1893, 161-199: 24 Oct 1893 (TL-2/1710).
-(2), *Flechten*, in J. Wiesner, *Die Rohstoffe des Pflanzenreichs*, ed. 2, 1: 664. 1900.
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1, *Melastomataceae*, III. 7: 130-199: Aug 1893, 161-199: 24 Oct 1893 (TL-2/1710).
+- (2), *Flechten*, in J. Wiesner, *Die Rohstoffe des Pflanzenreichs*, ed. 2, 1: 664. 1900.
 
 #### Eponymy
 

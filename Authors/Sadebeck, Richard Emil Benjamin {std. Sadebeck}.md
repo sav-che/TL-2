@@ -26,7 +26,7 @@ Backer p. 660; Barnhart 3: 198 (b. 20 Mai 1839, d. 11 Feb 1905); Biol.-Dokum. 15
 
 #### Composite works
 
-(1) in Engler and Prantl, *Nat. Pflanzenfam.*: *Pteridophyta*, Einleitung, 1(4): 1-91. 1898.
+- (1) in Engler and Prantl, *Nat. Pflanzenfam.*: *Pteridophyta*, Einleitung, 1(4): 1-91. 1898.
 *Hymenophyllaceae*, 1(4): 91-113. 21 Jul 1899.
 *Marsiliaceae*, 1(4): 403-422. 17 Apr 1900, 799, 4 Jan 1902.
 *Salviniaceae*, 1(4): 383-384. 12 Mai 1900, 385-402. 17 Dec 1900.
@@ -34,7 +34,7 @@ Backer p. 660; Barnhart 3: 198 (b. 20 Mai 1839, d. 11 Feb 1905); Biol.-Dokum. 15
 *Hydropteridineae*, 1(4): 381-383. 12 Mai 1900.
 *Isoetaceae*, 1(4): 756-768. 17 Oct 1901, 768-779. 4 Jan 1902.
 *Selaginellaceae* (collaborating with G.H.E.W. Hieronymus, 1(4): 621-624. Jan 1901, 625-672. Sep 1901, 673-715. Nov 1901.
-(2) Collaborator, A. Schenk et al., *Handbuch der Botanik* 1: 1-326. 1879-1882 (*Die Gefässkryptogamen*); other contributions in vols. 3(1). 1884, 3(2). 1887, 4. 1890.
+- (2) Collaborator, A. Schenk et al., *Handbuch der Botanik* 1: 1-326. 1879-1882 (*Die Gefässkryptogamen*); other contributions in vols. 3(1). 1884, 3(2). 1887, 4. 1890.
 
 ### Publications
 

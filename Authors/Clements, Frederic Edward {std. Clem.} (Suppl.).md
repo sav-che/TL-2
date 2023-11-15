@@ -52,13 +52,13 @@ Ainsworth, Intr. p. 284, 324, 328; Barnhart 1: 357 (b. 16 Sep 1874, Lincoln, Neb
 
 #### Composite works
 
-(1) *Guide to the spring flowers of Minnesota* by F.E. Clements, C.O. Rosendahl and F.K. Butters, 1908, see TL-2/4: no. 9522.
-(2) *Guide to the trees and shrubs of Minnesota* by id., 1908, see TL-2/4: no. 9523.
-(3) *Minnesota trees and shrubs*, see TL-2/4: no. 9525.
-(4) *Guide to the autumn flowers of Minnesota*, see TL-2/4: no. 9526.
-(5) With H.M. Hall, *Phylogen. meth.* 1923, see TL-2/2: no. 2279.
-(6) With Roscoe Pound, *Phytogeogr. Nebraska* 1898, see TL-2/4: 367-368. – Review in Bot. Gaz. 25(5): 370-372. 16 Mai 1898, and Roth, E., Beih. Bot. Centralbl. 8(4/5): 345-348. 1899.
-(7) *The origin of the desert climax and climate*, by F.E. Clements *in* T.H. Goodspeed, ed., *Essays in Geobotany*, Berkeley, Calif. 1936, on p. 87-140.
+- (1) *Guide to the spring flowers of Minnesota* by F.E. Clements, C.O. Rosendahl and F.K. Butters, 1908, see TL-2/4: no. 9522.
+- (2) *Guide to the trees and shrubs of Minnesota* by id., 1908, see TL-2/4: no. 9523.
+- (3) *Minnesota trees and shrubs*, see TL-2/4: no. 9525.
+- (4) *Guide to the autumn flowers of Minnesota*, see TL-2/4: no. 9526.
+- (5) With H.M. Hall, *Phylogen. meth.* 1923, see TL-2/2: no. 2279.
+- (6) With Roscoe Pound, *Phytogeogr. Nebraska* 1898, see TL-2/4: 367-368. – Review in Bot. Gaz. 25(5): 370-372. 16 Mai 1898, and Roth, E., Beih. Bot. Centralbl. 8(4/5): 345-348. 1899.
+- (7) *The origin of the desert climax and climate*, by F.E. Clements *in* T.H. Goodspeed, ed., *Essays in Geobotany*, Berkeley, Calif. 1936, on p. 87-140.
 
 ### Publications
 

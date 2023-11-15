@@ -45,8 +45,8 @@ Backer p. 597; Barnhart 3: 401 (b. 26 Oct 1843, d. 16 Oct 1896); BB p. 305; BJI 
 
 #### Composite works
 
-(1) Editor, *Journal of Botany* 8-17, 1870-1879, see TL-2/11.610.
-(2) With Robert Bentley (1821-1893), *Medicinal plants* 1875-1880, 4 vols., see TL-2/431.
+- (1) Editor, *Journal of Botany* 8-17, 1870-1879, see TL-2/11.610.
+- (2) With Robert Bentley (1821-1893), *Medicinal plants* 1875-1880, 4 vols., see TL-2/431.
 
 #### Note
 

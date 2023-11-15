@@ -31,8 +31,8 @@ IH 1 (ed. 3): 29; Plesch p. 196; TL-2/1: 596.
 
 #### Composite works
 
-(1) P.J.L. Dangeard "directeur" of *Le Botaniste* sér. 33-sér. 53 (1947-1970).
-(2) *Sur le développement des spores chez quelques Porphyra*, *in* Trav. Cryptogam. dédiés à Louis Mangin, p. 85-96. Sep. 1931.
+- (1) P.J.L. Dangeard "directeur" of *Le Botaniste* sér. 33-sér. 53 (1947-1970).
+- (2) *Sur le développement des spores chez quelques Porphyra*, *in* Trav. Cryptogam. dédiés à Louis Mangin, p. 85-96. Sep. 1931.
 
 ### Publications
 

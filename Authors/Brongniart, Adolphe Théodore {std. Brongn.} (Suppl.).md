@@ -57,7 +57,7 @@ AG 6(2): 706; Ainsworth p. 28, 301; Andrews ed. 2, p. 242; Backer p. 84; Barnhar
 
 #### Composite works
 
-(1)-(5) see TL-2/1: 352-353.
+- (1)-(5) see TL-2/1: 352-353.
 
 #### Note
 

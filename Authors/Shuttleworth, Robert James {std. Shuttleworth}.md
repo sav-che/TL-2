@@ -36,7 +36,7 @@ AG 1: 272; Barnhart 3: 274 (b. Feb 1810, d. 19 Apr 1874); BB p. 275; Biol.-Dokum
 
 #### Composite works
 
-(1) Plants collected by Shuttleworth in S. France are described in E. Huet du Pavillon, *Cat. pl. Provence*, 1889, TL-2/3125, publ. Jan-Jun 1889 (Bot. Zeit. 26 Jul 1889).
+- (1) Plants collected by Shuttleworth in S. France are described in E. Huet du Pavillon, *Cat. pl. Provence*, 1889, TL-2/3125, publ. Jan-Jun 1889 (Bot. Zeit. 26 Jul 1889).
 
 #### Handwriting
 

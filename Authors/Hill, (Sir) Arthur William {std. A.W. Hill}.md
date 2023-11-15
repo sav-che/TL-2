@@ -28,16 +28,16 @@ Backer p. 652; Barnhart 2: 174; BJI 2: 76; BL 1: 54, 63, 301, 2: 190, 668; Blunt
 
 #### Composite works
 
-(1) Contributed to Harvey et Sonder, *Flora capensis* (TL-2/2448) : *Cytinaceae*, 5, 1(3): 485-487. 16 Jan 1912.
+- (1) Contributed to Harvey et Sonder, *Flora capensis* (TL-2/2448) : *Cytinaceae*, 5, 1(3): 485-487. 16 Jan 1912.
 *Gentianeae*, 4, 1(6): 1056-1121. Feb 1909 (with D. Prain).
 *Phytolaccaceae*, 5, 1(3): 454-459. 16 Jan 1912.
 *Podostemaceae*, 5, 1(3): 482-484. 16 Jan 1912.
 *Santalaceae*, 5, 2(1): 135-192. Apr 1915; 2(2): 193-212. Oct 1915.
 *Suppl*. 5, 2: \[i\]-vi, \[1\]-46. 28 Mar 1933.
-(2) Contributed to Oliver, *Flora of tropical Africa* (as editor): vol. 10(1), 21 Mai 1937 (Gramineae by C. E. Hubbard).
-(3) Edited *Hand-list of Herbaceous plants... Kew*, ed. 3, 1925.
-(4) Edited Nash, J., *Poisonous plants*... 1927.
-(5) Edited *Index kewensis*, Suppl. *6-10; Hooker's Icones plantarum* 1930-1941; *Botanical Magazine* 1934-1941; *Bull. misc. Inf. Kew* (q.q., as Director of Kew).
+- (2) Contributed to Oliver, *Flora of tropical Africa* (as editor): vol. 10(1), 21 Mai 1937 (Gramineae by C. E. Hubbard).
+- (3) Edited *Hand-list of Herbaceous plants... Kew*, ed. 3, 1925.
+- (4) Edited Nash, J., *Poisonous plants*... 1927.
+- (5) Edited *Index kewensis*, Suppl. *6-10; Hooker's Icones plantarum* 1930-1941; *Botanical Magazine* 1934-1941; *Bull. misc. Inf. Kew* (q.q., as Director of Kew).
 
 #### Note
 

@@ -37,7 +37,7 @@ AG 5(4): 17; Barnhart 2: 404; BB p. 193, BM 3: 1182-1183, 7: 747; Bossert p. 243
 
 #### Composite works
 
-(1) Edited *The Gardener's Magazine*, vols. 1-19, 1826-1843. (IDC 7357) (see Brothersson, R.P., Gard Chron. 1921: 246). (2) Edited *The magazine of natural history*, vols. 1-9, 1828-1836.
+- (1) Edited *The Gardener's Magazine*, vols. 1-19, 1826-1843. (IDC 7357) (see Brothersson, R.P., Gard Chron. 1921: 246). (2) Edited *The magazine of natural history*, vols. 1-9, 1828-1836.
 
 #### Eponymy
 

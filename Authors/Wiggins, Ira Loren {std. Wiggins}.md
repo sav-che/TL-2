@@ -34,9 +34,9 @@ Barnhart 3: 493; Bossert p. 435; GR p. 254; Hortus 3: 1207; IH I (ed. 1): 89, (e
 #### Note
 
 Outside our period:
-(1) With John Hunter Thomas, *A flora of the Alaskan arctic slope*, Toronto 1962, x, 425 p.
-(2) With Forrest Shreve, *Vegetation and flora of the Sonoran Desert*, Stanford, Calif. 1964, 2 vols., ISBN 0-8047-0163-6, x, 840 p., *37 pl*. (p. 189-840 const. vol. 2).
-(3) With Duncan M. Porter, *Flora of the Galápagos Islands*, Stanford 1971, xx, 998 p.
+- (1) With John Hunter Thomas, *A flora of the Alaskan arctic slope*, Toronto 1962, x, 425 p.
+- (2) With Forrest Shreve, *Vegetation and flora of the Sonoran Desert*, Stanford, Calif. 1964, 2 vols., ISBN 0-8047-0163-6, x, 840 p., *37 pl*. (p. 189-840 const. vol. 2).
+- (3) With Duncan M. Porter, *Flora of the Galápagos Islands*, Stanford 1971, xx, 998 p.
 
 ### Publications
 

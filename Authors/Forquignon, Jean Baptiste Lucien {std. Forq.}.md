@@ -23,8 +23,8 @@ APN p. 206; Barnhart 1: 558 (d. "16 Jun"); BM 2: 594; CSP 7: 690, 9: 902, 12: 24
 
 #### Composite works
 
-(1) Co-author with J.-A. Guillaud, *Catalogue champignons*... 1884.
-(2) Collaborator with A. Mougeot and R. Ferry, *Flore Vosges, Champ*.... 1887, see TL-2/3, nr. 6371.
+- (1) Co-author with J.-A. Guillaud, *Catalogue champignons*... 1884.
+- (2) Collaborator with A. Mougeot and R. Ferry, *Flore Vosges, Champ*.... 1887, see TL-2/3, nr. 6371.
 
 ### Publications
 

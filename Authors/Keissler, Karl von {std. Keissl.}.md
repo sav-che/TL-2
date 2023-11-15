@@ -8,7 +8,8 @@ Keissler, Karl von (1872-1965), Austrian lichenologist at Vienna; Dr. phil. Vien
 
 #### Herbarium and types
 
-[[Collection W|W]]. — Exsiccatae: *Kryptogamae exsiccatae a Museo Palatino Vindobonensi editae* cent. 28-32. Other material at [[Collection C|C]], [[Collection L|L]], [[Collection LD|LD]], [[Collection WU|WU]]. *Schedae* were published in the Annalen des Naturhistorischen Museums in Wien.
+[[Collection W|W]].
+*Exsiccatae*: *Kryptogamae exsiccatae a Museo Palatino Vindobonensi editae* cent. 28-32. Other material at [[Collection C|C]], [[Collection L|L]], [[Collection LD|LD]], [[Collection WU|WU]]. *Schedae* were published in the Annalen des Naturhistorischen Museums in Wien.
 
 #### Bibliography and biography
 
@@ -19,15 +20,15 @@ Ainsworth p. 182, 328; Barnhart 2: 277; Bossert p. 207; CSP 16: 224-225; DTS 1: 
 
 #### Composite works
 
-(1) Rabenhorst, *Kryptogamenflora*, ed. 2:
+- (1) Rabenhorst, *Kryptogamenflora*, ed. 2:
 (a) *Fungi*, 8: \[v\]-viii, \[1\]-712. 1930, for details see Rabenhorst (p. 1-240. Jan 1930; 241-272. Apr 1930).
 (b) *Moriolaceae*, 9(1,1): \[1\]-43. Feb 1933.
 (c) *Lichenes*, 9(1,2): \[v\]-viii, \[xi\], \[1\]-784, \[842\]-846. 1937-1938 (1-160. Nov 1936; 161-320. Jan 1937; 321-480. Mar 1937; 481-640. Jul 1937; 641-846. Mar 1938).
 (d) *Lichenes*, 9(2,2): 1-134. 1940 (Cyanophili: Pyrenopsidaceae, Ephebaceae, Collemaceae).
 (e) *Lichenes*, 9(5,4): \[v\]-viii, \[3\]-755. 1958-1960 (1-160. 1958, 161-320. 1959; 321-480. 1959; 481-640. 1960; 641-755. 1960).
-(2) Handel-Mazzetti, *Symbolae sinicae*, part ii, *Fungi*, by Karl Keissler and Heinrich Lohwag, 1937 (see e.g. J. Bot. Dec 1937) (TL-2/2364).
-(3) Wettstein, *Ergebnissc der botanischen Expedition* der kaiserlichen Akademie der Wissenschaften *nach Siidbrasilien 1901*. I. Band. (Pteridophyta und Antnophyta) ed. by R. v. Wettstein. *Lythraceae, Oenotheraceae, Thymelaeaceae, Oxalidaceae, Geraniaceae, Rhamnaceae*, Wien, 1908, reprint p. \[i\], \[1\]-8.
-(4) *Flechtenparasiten*, in Lynge, B., ed., Rep. sci. results Norw. Exp. Novaya Zemlya, Botany \[7\], p. \[1\]-5, \[6\], printed 20 Apr 1928. *Copy*: FH.
+- (2) Handel-Mazzetti, *Symbolae sinicae*, part ii, *Fungi*, by Karl Keissler and Heinrich Lohwag, 1937 (see e.g. J. Bot. Dec 1937) (TL-2/2364).
+- (3) Wettstein, *Ergebnissc der botanischen Expedition* der kaiserlichen Akademie der Wissenschaften *nach Siidbrasilien 1901*. I. Band. (Pteridophyta und Antnophyta) ed. by R. v. Wettstein. *Lythraceae, Oenotheraceae, Thymelaeaceae, Oxalidaceae, Geraniaceae, Rhamnaceae*, Wien, 1908, reprint p. \[i\], \[1\]-8.
+- (4) *Flechtenparasiten*, in Lynge, B., ed., Rep. sci. results Norw. Exp. Novaya Zemlya, Botany \[7\], p. \[1\]-5, \[6\], printed 20 Apr 1928. *Copy*: FH.
 
 #### Eponymy
 

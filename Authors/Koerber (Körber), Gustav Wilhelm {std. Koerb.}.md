@@ -8,7 +8,8 @@ Koerber (Körber), Gustav Wilhelm (1817-1885), German-Silesian lichenologist; fr
 
 #### Herbarium and types
 
-[[Collection L|L]]. – Other important collection (Nachlass Duft; constitutes the herbarium made by Koerber after he had sold his main herbarium to [[Collection L|L]] in 1881): [[Collection WRSL|WRSL]]; other material [[Collection BM|BM]], [[Collection HSI|HSI]], [[Collection MSTR|MSTR]]. Exsiccatae: *Lichenes selecti germanici*, fasc. 1-14, nos. 1-420, Breslau 1856/8-1873, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection O|O]], [[Collection NY|NY]], [[Collection S|S]]. See Sayre (1969) for further details.
+[[Collection L|L]]. – Other important collection (Nachlass Duft; constitutes the herbarium made by Koerber after he had sold his main herbarium to [[Collection L|L]] in 1881): [[Collection WRSL|WRSL]]; other material [[Collection BM|BM]], [[Collection HSI|HSI]], [[Collection MSTR|MSTR]].
+*Exsiccatae*: *Lichenes selecti germanici*, fasc. 1-14, nos. 1-420, Breslau 1856/8-1873, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection O|O]], [[Collection NY|NY]], [[Collection S|S]]. See Sayre (1969) for further details.
 *Ref*.: Anon., Flora 63: 274. 1880, Bot. Zeit. 38: 408. 1880 (herb. for sale), 39: 197. 1881 (bought by L); Bot. Jahrb. 7, Beibl. 13: 3. 1885 (herb. at WRSL).
 - Sayre, G., Mem. New York Bot. Gard. 19(1): 136-137. 1969.
 - Hawksworth, D. L., Mycol. Handb. 183. 1974.
@@ -27,8 +28,8 @@ Barnhart 2: 309; Bossert p. 217; CSP 3: 732 (2-7, 9-12, 14), 8: 111-112, 10: 445
 
 #### Composite works
 
-(1) Caflisch, J. F., *Uebersicht der Flora von Augsburg*, 1850, collaborator (see no. 943).
-(2) Discovered, with von Flotow, *Haematococrus pluvialis* in 1842 on the Hirschberg (Silesia). The senior author published this find in Nov. Act. Leopoldina 20: 411-606. 1843 ("Ueber *Haematococcus pluvialis*").
+- (1) Caflisch, J. F., *Uebersicht der Flora von Augsburg*, 1850, collaborator (see no. 943).
+- (2) Discovered, with von Flotow, *Haematococrus pluvialis* in 1842 on the Hirschberg (Silesia). The senior author published this find in Nov. Act. Leopoldina 20: 411-606. 1843 ("Ueber *Haematococcus pluvialis*").
 
 #### Eponymy
 

@@ -37,15 +37,15 @@ Barnhart 1: 315 (b. 15 Jan 1827, d. 18 Jan 1893); BB p. 59; BL 2: 275, 638; BM 1
 
 #### Composite works
 
-(1) L.C. Miall, *Fl. West Riding* 1862, Cryptogams by B. Carrington, TL-2/5950.
-(2) *British Hepaticae* by Carrington, *in* C.F. Hopkirk and H. Baswell, *The London Catalogue of British mosses*, ed. 2. 1881 (BM 1: 320).
+- (1) L.C. Miall, *Fl. West Riding* 1862, Cryptogams by B. Carrington, TL-2/5950.
+- (2) *British Hepaticae* by Carrington, *in* C.F. Hopkirk and H. Baswell, *The London Catalogue of British mosses*, ed. 2. 1881 (BM 1: 320).
 
 #### Notes
 
-(1) *Hepaticae in Robert Browns Florula discoana*, Trans. Bot. Soc. Edinburgh 9: 453-454. 1868.
-(2) *Dr. Grays arrangement of the Hepaticae*, id. 10: 305-309. 1870.
-(3) For data on *Hepaticae britannicae exsiccatae* fasc. 1-4, nos 1-209, Manchester 1878-1890, see G. Sayre, Mem. New York Bot. Gard. 19(2): 189. 1971.
-(4) Carrington published also *Notes on Cyperaceae*: No. 1 in Trans. Bot. Soc. Edinburgh 7: 259-262. 1863 and No. 2 ib. 7: 320-323. 1863.
+- (1) *Hepaticae in Robert Browns Florula discoana*, Trans. Bot. Soc. Edinburgh 9: 453-454. 1868.
+- (2) *Dr. Grays arrangement of the Hepaticae*, id. 10: 305-309. 1870.
+- (3) For data on *Hepaticae britannicae exsiccatae* fasc. 1-4, nos 1-209, Manchester 1878-1890, see G. Sayre, Mem. New York Bot. Gard. 19(2): 189. 1971.
+- (4) Carrington published also *Notes on Cyperaceae*: No. 1 in Trans. Bot. Soc. Edinburgh 7: 259-262. 1863 and No. 2 ib. 7: 320-323. 1863.
 
 ### Publications
 
@@ -82,7 +82,7 @@ Gleanings among the *Irish Cryptogams*... From the Transactions of the Botanical
 *Co-author*: William Henry Pearson (1849-1953), see TL-2/4: 132-134.
 *Cover*: \[1879\], p. \[i\] (cover for two papers in one reprint).
 *Publ*. (1): 1879 (read 10 Jul 1879), "*Discovery of Harpanthus Flotovianus in Scotland* by W.H. Pearson. Communicated by Dr. Carrington", p. \[443\]-447, *pl. 15.* – Reprinted and to be cited from Trans. Bot. Soc. Edinburgh 13: 443-447, *pl. 15.* 1879.
-(2): 1879 *Notes on New British Hepaticae*... by B. Carrington, p. 461-470, *pl. 17* (in text "*pl. 18*"). – Id. p. 461-470, *pl. 16-18.* *Copies*: B, G.
+- (2): 1879 *Notes on New British Hepaticae*... by B. Carrington, p. 461-470, *pl. 17* (in text "*pl. 18*"). – Id. p. 461-470, *pl. 16-18.* *Copies*: B, G.
 *Ref*.: J., Hedwigia 20(10): 158-159. 1881 (rev.).
 
 ##### n.24.872. Hepaticae

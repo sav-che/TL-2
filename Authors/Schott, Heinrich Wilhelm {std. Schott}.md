@@ -45,10 +45,10 @@ ADB 32: 399-404 (E. Wunschmann); AG 7: 117; Backer p. 519; Barnhart 3: 239 (b. 7
 
 #### Composite works
 
-(1) S.L. Endlicher et al., *Enum. pl*. 1837, TL-2/1678. – Riedel (1965, p. 211) notes "I could not find any description or determination by Schott, though he is mentioned as co-author".
-(2) Peyritsch, J., *Aroideae Maximilianae*... nach handschriftlichen Aufzeichnungen von H. Schott,... 1878, see under J. Peyritsch (see e.g. A. Engler, Bot. Zeit. 37: 853-856. 1879), TL-2/7808.
-(3) *Aroideae, in* F.A.W. Miquel, Ann. Mus. bot. Lugd.-Bot. 1: 122-128. 5 Nov 1863, 129-131. 17 Dec 1863, 278-286. 20 Oct 1864.
-(4) \[Aroideae of the Fiji islands\], see B.C. Seemann, *Fl. vitiens*. 1868, p. 283-287.
+- (1) S.L. Endlicher et al., *Enum. pl*. 1837, TL-2/1678. – Riedel (1965, p. 211) notes "I could not find any description or determination by Schott, though he is mentioned as co-author".
+- (2) Peyritsch, J., *Aroideae Maximilianae*... nach handschriftlichen Aufzeichnungen von H. Schott,... 1878, see under J. Peyritsch (see e.g. A. Engler, Bot. Zeit. 37: 853-856. 1879), TL-2/7808.
+- (3) *Aroideae, in* F.A.W. Miquel, Ann. Mus. bot. Lugd.-Bot. 1: 122-128. 5 Nov 1863, 129-131. 17 Dec 1863, 278-286. 20 Oct 1864.
+- (4) \[Aroideae of the Fiji islands\], see B.C. Seemann, *Fl. vitiens*. 1868, p. 283-287.
 
 #### Handwriting
 
@@ -56,12 +56,12 @@ Candollea 33: 175-176. 1978.
 
 #### Note
 
-(1) Schott's father, Heinrich Schott (1759-1819), born in Breslau (Silesia), was head gardener under J.F. von Jacquin of the University botanical garden Wien, 1802-1819; for biogr. refs. see e.g. Klásterský p. 167 and Th. Kotzschy, Verh. zool.-bot. Ver. Wien 7: 111-112. 1857.
-(2) Main bibliography: Riedl, H., Taxon 14: 212-213. 1965, 15: 44. 1966.
-(3) *Miscellanea botanica*, a facsimile ed. of various papers published in periodicals, was offered for subscription Sep 1972, by Akad. Druck-Verlagsanst., Graz.
-(4) *Illustrationes selectae Aracearum*, a volume of 60 col. plates reproduced from the originals in W, was offered for subscription ca. 1972 by Akad. Buch-Verlagsanst. Graz. The complee collection of drawings is now available on microfiche IDC 8801 (3300 drawings).
-(5) For the publication of new taxa by Schott in the *Wiener Zeitschrift für Kunst, Literatur*, *Theater und Mode* 1829-1830, see D.H. Nicolson, Taxon 31: 549-551. 1982 (set of journal at W). – Available on microfiche IDC 8866.
-(6) 45 journal publications on Araceae, as listed in Taxon 14: 211-213. 1965, are available on microfiche IDC 8862.
+- (1) Schott's father, Heinrich Schott (1759-1819), born in Breslau (Silesia), was head gardener under J.F. von Jacquin of the University botanical garden Wien, 1802-1819; for biogr. refs. see e.g. Klásterský p. 167 and Th. Kotzschy, Verh. zool.-bot. Ver. Wien 7: 111-112. 1857.
+- (2) Main bibliography: Riedl, H., Taxon 14: 212-213. 1965, 15: 44. 1966.
+- (3) *Miscellanea botanica*, a facsimile ed. of various papers published in periodicals, was offered for subscription Sep 1972, by Akad. Druck-Verlagsanst., Graz.
+- (4) *Illustrationes selectae Aracearum*, a volume of 60 col. plates reproduced from the originals in W, was offered for subscription ca. 1972 by Akad. Buch-Verlagsanst. Graz. The complee collection of drawings is now available on microfiche IDC 8801 (3300 drawings).
+- (5) For the publication of new taxa by Schott in the *Wiener Zeitschrift für Kunst, Literatur*, *Theater und Mode* 1829-1830, see D.H. Nicolson, Taxon 31: 549-551. 1982 (set of journal at W). – Available on microfiche IDC 8866.
+- (6) 45 journal publications on Araceae, as listed in Taxon 14: 211-213. 1965, are available on microfiche IDC 8862.
 
 ### Publications
 

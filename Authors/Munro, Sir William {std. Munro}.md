@@ -25,8 +25,8 @@ Backer p. 384; BB p. 224; BM 3: 1378; Bossert p. 278; Bret. p. 814; Clokie p. 21
 
 #### Composite works
 
-(1) *Gramineae, in* W. H. Harvey, *Gen. S. Afr. pl*. ed. 2. 427-458. 1868.
-(2) *Gramineae and Cyperaceae* in B. C. Seemann (q.v.), The botany of H. M. S. Herald, 1852-1857.
+- (1) *Gramineae, in* W. H. Harvey, *Gen. S. Afr. pl*. ed. 2. 427-458. 1868.
+- (2) *Gramineae and Cyperaceae* in B. C. Seemann (q.v.), The botany of H. M. S. Herald, 1852-1857.
 
 #### Eponymy
 

@@ -27,7 +27,8 @@ Bossert p. 372; Lenley p. 378; ME 2: 186; NI 3: 53.
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]], [[Collection IA|IA]], [[Collection NY|NY]]. – Further material in [[Collection MO|MO]], [[Collection US|US]]. *Exsiccatae*: *Central American fungi* 3 fasc., nos. 1-150. 1896. Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection IA|IA]], [[Collection NY|NY]]. – For details see Stevenson (1971).
+[[Collection BPI|BPI]], [[Collection IA|IA]], [[Collection NY|NY]]. – Further material in [[Collection MO|MO]], [[Collection US|US]].
+*Exsiccatae*: *Central American fungi* 3 fasc., nos. 1-150. 1896. Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection IA|IA]], [[Collection NY|NY]]. – For details see Stevenson (1971).
 
 #### Bibliography and biography
 

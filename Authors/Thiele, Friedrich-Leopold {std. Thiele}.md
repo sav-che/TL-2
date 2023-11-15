@@ -8,7 +8,8 @@ Thiele, Friedrich-Leopold (x-1841), German (prob. Prussian) botanist; assistant 
 
 #### Herbarium and types
 
-Unknown. – *Exsiccatae*: *Laub-Moose der Mittelmark*, 1832, 170 nos., see below. Set of specimens: [[Collection FH|FH]], but see also copies of text.
+Unknown.
+*Exsiccatae*: *Laub-Moose der Mittelmark*, 1832, 170 nos., see below. Set of specimens: [[Collection FH|FH]], but see also copies of text.
 
 #### Bibliography and biography
 

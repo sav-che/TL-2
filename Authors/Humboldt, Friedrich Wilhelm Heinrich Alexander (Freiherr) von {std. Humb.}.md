@@ -180,7 +180,7 @@ Alexandri de Humboldt et Amati Bonpland *Plantae aequinoctiales*, per regnum Mex
 **Notes**
 *Author of text* ("in ordinem digessit... "): Aimé Jacques Alexandre Bonpland (Goujaud) (1773-1858).
 *Other title-pages*: (1) "*Voyage de Humboldt et Bonpland*. Sixième partie, botanique. Plantes équinoxiales, recueillies au Mexique,... "
-(2) "*Plantes équinoxiales*, recueillies au Mexique,... "
+- (2) "*Plantes équinoxiales*, recueillies au Mexique,... "
 *Publ*.: in 17 parts, see below.
 *Vol*. 1808 (t.p.) \[i\*-ii\*\], portr. Mutis, \[iii\*-vii\*\]-vii (dated 1 Mar 1805), 1-234, *pl. 1a, 1b, 2a, 2b, 3-29, 30a, 30b, 31-65.*
 *Vol. 2*: 1809 (t.p.) \[i-vii\], \[1\]-191, *pl. 66-97, 98* \['*97*'\], *99-140*.
@@ -224,8 +224,8 @@ Alexandri de Humboldt et Amati Bonpland... *Monographia Melastomacearum*, contin
 **Notes**
 *Authors*: (Melast.), Aimé Jacques Alexandre Bonpland (Goujaud) (1773-1858) and Louis Claude Richard (1754-1821); (Rhexiae), id. and Auguste F. C. P. de Saint-Hilaire (1779-1853) and C. S. Kunth (1788-1850) (fasc. 20-24).
 *Other title-pages*: (1) *Voyage de Humboldt et Bonpland*. Sixième partie, Botanique. Monographie des Melastomacées. Melastomes. Paris (à la librairie-grecque-latine-allemande,...) 1816.
-(2) *Monographia melastomarum*. Auctore Amato Bonpland. Lutetia Parisiorum...
-(3) *Monographie des melastomacées* comprenant toutes les plantes de cet ordre recueillies jusqu'à ce jour, et notamment au Mexique,... Amazones; par Al. de Humboldt et A. Bonpland; mise en ordre par A. Bonpland-Melastomes. Paris...
+- (2) *Monographia melastomarum*. Auctore Amato Bonpland. Lutetia Parisiorum...
+- (3) *Monographie des melastomacées* comprenant toutes les plantes de cet ordre recueillies jusqu'à ce jour, et notamment au Mexique,... Amazones; par Al. de Humboldt et A. Bonpland; mise en ordre par A. Bonpland-Melastomes. Paris...
 *Melastomae*: \[i\*-xi\*\[, \[i\]-vi, \[1\]-142, \[1 p. table num., 1 p. tabl. alph.\], *pl. 1-60*, col. copper engr. by Poiteau and Turpin. Dates see below. *Copies*: MO(2), U, US.
 *Rhexiae*: "Alexandri... in provinciis Venezuelae et Novae... *Rhexiae*." Lutetiae Parisiorum \[apud Gide filium\] 1823. Fol., p. \[i\*-vii\*\], \[i\]-ii, \[1\]-158, \[2, index\], *pl. 1-60* coloured copper engr. by Turpin. Dates see below. *Copies*: MO, U, US.
 

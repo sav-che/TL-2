@@ -23,6 +23,6 @@ Andrews p. 275; Barnhart 2: 139; BB p. 142; BM 2: 801; CSP 3: 220-223, 7: 923-92
 
 #### Composite works
 
-(1) Editor of *The Natural History Review*, vols. 4-7, 1857-1860.
-(2) Edited *The Dublin Quarterly Journal of Science*, vols. 1-6, 1861-1866.
+- (1) Editor of *The Natural History Review*, vols. 4-7, 1857-1860.
+- (2) Edited *The Dublin Quarterly Journal of Science*, vols. 1-6, 1861-1866.
 

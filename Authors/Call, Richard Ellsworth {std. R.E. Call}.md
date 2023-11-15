@@ -22,7 +22,7 @@ Barnhart 1: 300 (b. 13 Mai 1856, Brooklyn, NY, d. 14 Mar 1917, New York City); B
 
 #### Composite works
 
-(1) The *life and writings of Rafinesque*, Louisville, Kentucky, 1895, xii, 227 p., see TL-2/4: 550 and no. 8548.
+- (1) The *life and writings of Rafinesque*, Louisville, Kentucky, 1895, xii, 227 p., see TL-2/4: 550 and no. 8548.
 
 ### Publications
 

@@ -34,9 +34,9 @@ Backer p. 260, 261; Barnhart 2: 155; BB p. 144; BJI 1: 26, 2: 73; BL 1: 34, 77, 
 
 #### Composite works
 
-(1) Forbes, F. B. and W. B. Hemsley, *Index florae sinensis*, see Forbes, no. 1814.
-(2) Hemsley was Bentham's "young but able assistant" in the preparation of the *Flora australiensis* until 1867 (TL-2/428).
-(3) Contributed to D. Oliver et al. *Flora of tropical Africa:
+- (1) Forbes, F. B. and W. B. Hemsley, *Index florae sinensis*, see Forbes, no. 1814.
+- (2) Hemsley was Bentham's "young but able assistant" in the preparation of the *Flora australiensis* until 1867 (TL-2/428).
+- (3) Contributed to D. Oliver et al. *Flora of tropical Africa:
 Balanophoreae*, 6, 1(3): 434-440. Oct 1911.
 *Campanulaceae*, 3: 463-482. 1877.
 *Rhamneae*, 1: 377-385. 1868.

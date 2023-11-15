@@ -24,7 +24,7 @@ APN p. 194; Blunt p. 163, ed. 2: 181; Frodin ed. 2: 809; IH 2: 190; Kew 2: 233; 
 
 #### Outside our period
 
-(1) Fang, W.-P., *Icones plantarum Omeiensium*... 1942-1946, 2 vols. (2) Fang, W.-P. (chief ed.), 1981-\[1983\]. Sichuan zhi wu zhi (*Fl. Sichuanica*); listed as editor of vols. 2 & 3 only. (Vol. 3 appeared posthumously in 1985).
+- (1) Fang, W.-P., *Icones plantarum Omeiensium*... 1942-1946, 2 vols. (2) Fang, W.-P. (chief ed.), 1981-\[1983\]. Sichuan zhi wu zhi (*Fl. Sichuanica*); listed as editor of vols. 2 & 3 only. (Vol. 3 appeared posthumously in 1985).
 
 ### Publications
 

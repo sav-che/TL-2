@@ -8,7 +8,8 @@ Howe, Reginald Heber, Jr. (1875-1932), American cryptogamist, high school teache
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (4000); further material at [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection S|S]]. *Exsiccatae: Lichenes novae angliae*. Determined and prepared by R. Heber Howe, Jr. Thoreau Museum of Natural History, dec. 1-7, nos. 1-70, Concord, Mass., 1911-1914. Sets at [[Collection CM|CM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection O|O]], and [[Collection WELC|WELC]]. – Hawksworth cites mycological material from [[Collection NY|NY]].
+[[Collection FH|FH]] (4000); further material at [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection S|S]].
+*Exsiccatae*: Lichenes novae angliae*. Determined and prepared by R. Heber Howe, Jr. Thoreau Museum of Natural History, dec. 1-7, nos. 1-70, Concord, Mass., 1911-1914. Sets at [[Collection CM|CM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection O|O]], and [[Collection WELC|WELC]]. – Hawksworth cites mycological material from [[Collection NY|NY]].
 *Ref*.: Sayre, Mem. New York Bot. Gard. 19(1): 135. 1969.
 - Hawksworth, D. L., Mycol. handb. 183. 1974.
 

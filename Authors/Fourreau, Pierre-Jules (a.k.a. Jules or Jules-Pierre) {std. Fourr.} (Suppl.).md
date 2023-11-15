@@ -31,7 +31,7 @@ AG 6(1): 368; APN p. 207 (as "Jules Pierre"); Backer p. 650; Barnhart 1: 563; BL
 #### Composite works
 
 Co-author with A. Jordan: (1) *Brev. pl. nov.*... 1866-1868 (see TL-2/2, nr. 3415), which can be amended as follows: *Electronic version*: Gallica.
-(2) (in part), *Ic. flor. Eur.*... 1866-1870 (see TL-2/2, nr. 3416). – *Note*: This publication was interrupted by Fourreau's death and over 30 years elapsed before Jordan finished the *Icones* in 1903. Fourreau evidently also was one of the illustrators. The earlier entry in TL-2 also can be amended as follows:
+- (2) (in part), *Ic. flor. Eur.*... 1866-1870 (see TL-2/2, nr. 3416). – *Note*: This publication was interrupted by Fourreau's death and over 30 years elapsed before Jordan finished the *Icones* in 1903. Fourreau evidently also was one of the illustrators. The earlier entry in TL-2 also can be amended as follows:
 *Microfiche*: Zug, Switzerland (Inter Documentation Company), \[19--\]. *Copy*: LC (n.v.).
 
 ### Publications

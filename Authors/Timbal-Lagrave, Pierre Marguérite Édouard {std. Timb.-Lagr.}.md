@@ -26,8 +26,8 @@ AG 2(1): 482, 6(2): 970, 7: 374, 12(2): 512; BL 2: 723-724 \[index\]; BM 5: 2116
 
 #### Composite works
 
-(1) With Ernest-Marie-Jules Jeanbernat (1835-1888), *Le massif du Lamenti*, 1879, see TL-2/3319.
-(2) Notes, A. Scheele, *Revue des Hieraciums d'Espagne et des Pyrénées*, 1884, 96 p. See A. Scheele, TL-2/4: 10.513.
+- (1) With Ernest-Marie-Jules Jeanbernat (1835-1888), *Le massif du Lamenti*, 1879, see TL-2/3319.
+- (2) Notes, A. Scheele, *Revue des Hieraciums d'Espagne et des Pyrénées*, 1884, 96 p. See A. Scheele, TL-2/4: 10.513.
 
 #### Handwriting
 

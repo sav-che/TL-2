@@ -8,7 +8,8 @@ Merrill, George Knox (1864-1927), American lichenologist, journalist and photogr
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (50.000). Exsiccatae: *Lichenes exsiccati*, fasc. 1-11, nos. 1-275 (1909-1913), ser. 2, fasc. 1-6, nos. 1-150, (1925-1927); for sets see IH, for dates etc. see Sayre and Stevenson.
+[[Collection FH|FH]] (50.000).
+*Exsiccatae*: *Lichenes exsiccati*, fasc. 1-11, nos. 1-275 (1909-1913), ser. 2, fasc. 1-6, nos. 1-150, (1925-1927); for sets see IH, for dates etc. see Sayre and Stevenson.
 
 #### Bibliography and biography
 

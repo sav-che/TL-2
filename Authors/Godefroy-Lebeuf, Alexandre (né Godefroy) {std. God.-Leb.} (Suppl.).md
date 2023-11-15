@@ -41,8 +41,8 @@ The etymology of *Godefroya* Gagnep. (1923) is not stated, but presumably commem
 
 #### Composite works
 
-(1) Founded with Comte François de Buysson and edited the popular journal *L'Orchidophile* (Argenteuil), vols. 1-13 (1881-1893) (see NI nr. 2361).
-(2) Contributed to the founding of *Le Jardin* (1887), which he edited until 1892.
+- (1) Founded with Comte François de Buysson and edited the popular journal *L'Orchidophile* (Argenteuil), vols. 1-13 (1881-1893) (see NI nr. 2361).
+- (2) Contributed to the founding of *Le Jardin* (1887), which he edited until 1892.
 
 ### Publications
 

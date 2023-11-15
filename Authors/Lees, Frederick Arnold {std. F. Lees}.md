@@ -24,10 +24,10 @@ Barnhart 2: 361; BB p. 185; BL 2: 252, 254, 275, 276, 277, 278, 279, 680; BM 3: 
 
 #### Composite works
 
-(1) Edited: *The London catalogue of British mosses*, ed. 2, 1881 (originally issued by C. P. Hobkirk and H. Goswell).
-(2) *Outline flora of Lincolnshire*, in W. White's *Directory for Lincolnshire*, Sheffield 1892, p. 37-63.
-(3) Founder and editor of *Botanical Record Club*: phanerogamic and cryptogamic (1873: founded as *Botanical Locality Record Club*, 1879 *Botanical Record Club*), reports edited by Lees 1873-1886 (six issues).
-(4)With James William Davis (1846-1893): *West Yorkshire*: an account of its geology... and botany, part 2, Physical geography and botanical topography. London 1878 (see BM 1: 428).
+- (1) Edited: *The London catalogue of British mosses*, ed. 2, 1881 (originally issued by C. P. Hobkirk and H. Goswell).
+- (2) *Outline flora of Lincolnshire*, in W. White's *Directory for Lincolnshire*, Sheffield 1892, p. 37-63.
+- (3) Founder and editor of *Botanical Record Club*: phanerogamic and cryptogamic (1873: founded as *Botanical Locality Record Club*, 1879 *Botanical Record Club*), reports edited by Lees 1873-1886 (six issues).
+- (4) With James William Davis (1846-1893): *West Yorkshire*: an account of its geology... and botany, part 2, Physical geography and botanical topography. London 1878 (see BM 1: 428).
 
 ### Publications
 

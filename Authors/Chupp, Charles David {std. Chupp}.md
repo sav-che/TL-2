@@ -22,7 +22,7 @@ Barnhart 1: 346 (b. 2 Jun 1886, Millersburgh, Indiana); IH 2: 127; Kew 1: 556; L
 
 #### Composite works
 
-(1) *Cercosporae*, *in* C.E. Chardón and R.A. Toro, *Mycological Explorations of Colombia*, J. Dept. Agric. Porto Rico 14(4): 195-369, *pl. 30-35.* 1930 (Mycologia 23(3): 243. 1931). – See C.E. Chardón in this supplement.
+- (1) *Cercosporae*, *in* C.E. Chardón and R.A. Toro, *Mycological Explorations of Colombia*, J. Dept. Agric. Porto Rico 14(4): 195-369, *pl. 30-35.* 1930 (Mycologia 23(3): 243. 1931). – See C.E. Chardón in this supplement.
 
 #### Outside our period
 

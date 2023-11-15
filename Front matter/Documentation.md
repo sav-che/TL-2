@@ -571,7 +571,6 @@ ___
 
 ### TODO
 
-- Finish linking of herbarium codes.
 - Fix publication titles in headers.
 - Mark up lists.
 - Establish internal links to authors and publications ("See TL-2/x ...")

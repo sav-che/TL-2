@@ -22,8 +22,8 @@ Barnhart 1: 271; CSP 7: 288, 9: 383, 13: 878-879; GR p. 579-580; Lipschitz 1: 28
 
 #### Notes
 
-(1) Bruttan published "Wissenschaftliche Resultate der zur Aufsuchung eines angekündigten Mammutkadavers von der Kais. Akademie der Wissenschaften an den Jenissei ausgesandten Expedition", Mém. Acad. Imp. Sci. St. Pétersburg ser. 7. 8(1): 131-133. 1872, with *Lichenes* apud Fr. Schmidt. The "Mammutkadaver" is still to be seen in St. Petersburg, however, we know nothing about the Lichens.
-(2) Follow-up of *Lich. Est- Liv- & Kurl.*, TL-2/856a:
+- (1) Bruttan published "Wissenschaftliche Resultate der zur Aufsuchung eines angekündigten Mammutkadavers von der Kais. Akademie der Wissenschaften an den Jenissei ausgesandten Expedition", Mém. Acad. Imp. Sci. St. Pétersburg ser. 7. 8(1): 131-133. 1872, with *Lichenes* apud Fr. Schmidt. The "Mammutkadaver" is still to be seen in St. Petersburg, however, we know nothing about the Lichens.
+- (2) Follow-up of *Lich. Est- Liv- & Kurl.*, TL-2/856a:
 (a) *Lichenen Est-, Liv- und Kurlands*, Correspondenzblatt des Naturforscher-Verein zu Riga 19: 1-?. 1872 (n.v.).
 (b) Nachtrag zu den *Lichenen...*, S.B. naturf. Ges. Univ. Dorpat 8(3): 444-449. 1889.
 

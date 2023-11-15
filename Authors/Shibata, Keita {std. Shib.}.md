@@ -27,9 +27,9 @@ Barnhart 3: 270 (b. 20 Sep 1878); Biol.-Dokum. 16: 8648; BJI 2: 164; Bossert p. 
 
 #### Composite works
 
-(1) With T. Makino, *Sasa* 1901, TL-2/5283.
-(2) Founder and first editor of *Acta phytochimica*.
-(3) With Y. Asahina, *Chemistry of lichen substances* 1954: facsimile ed. Vaals-Amsterdam 1971.
+- (1) With T. Makino, *Sasa* 1901, TL-2/5283.
+- (2) Founder and first editor of *Acta phytochimica*.
+- (3) With Y. Asahina, *Chemistry of lichen substances* 1954: facsimile ed. Vaals-Amsterdam 1971.
 
 #### Commemorative publication
 

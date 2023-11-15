@@ -43,9 +43,9 @@ ADB 47: 462-465; AG 1: 312; Andrews ed. 2, p. 245; Backer p. 107; Barnhart 1: 32
 
 #### Composite works
 
-(1) and (2) see TL-2/1: 464.
-(3) See TL-2/3738, *App. gen. sp. nov.* 1851, by Klotzsch et al.
-(4) See TL-2/6704, author of fasc. 27 (nos. 521-540) *in* Th. Nees, *Gen. fl. germ.* Bonnae 1853 (rev. J. Bot. Kew Gard. Misc. 6: 95. Mar 1854).
+- (1) and (2) see TL-2/1: 464.
+- (3) See TL-2/3738, *App. gen. sp. nov.* 1851, by Klotzsch et al.
+- (4) See TL-2/6704, author of fasc. 27 (nos. 521-540) *in* Th. Nees, *Gen. fl. germ.* Bonnae 1853 (rev. J. Bot. Kew Gard. Misc. 6: 95. Mar 1854).
 
 ### Publications
 

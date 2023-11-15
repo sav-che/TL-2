@@ -10,7 +10,8 @@ Durieu de Maisonneuve, Michel Charles (1796-1878), French botanist at Bordeaux.
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]]. — Exsiccatae: *Plantae selectae hispano-lusitanicae* (coll. 1835, ed. 1856) in many herbaria (e.g. [[Collection G|G]], [[Collection K|K]], [[Collection P|P]], [[Collection PC|PC]]). Other plants distributed in the "Herbier de la Commission scientifique de l'Algérie" (1840-1844).
+[[Collection P|P]], [[Collection PC|PC]].
+*Exsiccatae*: *Plantae selectae hispano-lusitanicae* (coll. 1835, ed. 1856) in many herbaria (e.g. [[Collection G|G]], [[Collection K|K]], [[Collection P|P]], [[Collection PC|PC]]). Other plants distributed in the "Herbier de la Commission scientifique de l'Algérie" (1840-1844).
 *Ref*.: IH 2: 173.
 - Magnier, Bull. Soc. bot. France 32(2): 48. 1885. \[sale duplicates\].
 

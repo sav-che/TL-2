@@ -10,7 +10,9 @@
 
 #### Herbarium and types
 
-[[Collection C|C]] (esp. *Rubus*), [[Collection DBN|DBN]]. – *Exsiccatae*: (1) Friderichsen & O.C.L. Gelert, *Rubi exsiccati Daniae et Slesvigiae* (I-II, Ribe, nos. 1-60, 1885-1887) (*Rubi Exs. Daniae Slesv.*): [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection GH|GH]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]]. (2): Id. (III, Horsens, nos. 61-101, 1888).
+[[Collection C|C]] (esp. *Rubus*), [[Collection DBN|DBN]].
+*Exsiccatae*: (1) Friderichsen & O.C.L. Gelert, *Rubi exsiccati Daniae et Slesvigiae* (I-II, Ribe, nos. 1-60, 1885-1887) (*Rubi Exs. Daniae Slesv.*): [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection GH|GH]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]].
+- (2): Id. (III, Horsens, nos. 61-101, 1888).
 
 #### Bibliography and biography
 

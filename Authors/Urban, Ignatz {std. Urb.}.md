@@ -43,7 +43,7 @@ AG 2(2): 91; Backer p. 605; Barnhart 3:, 417 (b. 7 Jan 1848, d. 7 Jan 1931); BJI
 
 #### Composite works
 
-(1) *Editor*, C.F.P. von Martius & A.W. Eichler, *Fl. bras.* fasc. 100-130, 1887-1906 (TL-2/5538). – Contributed in addition as author:
+- (1) *Editor*, C.F.P. von Martius & A.W. Eichler, *Fl. bras.* fasc. 100-130, 1887-1906 (TL-2/5538). – Contributed in addition as author:
 (a) *Humiriaceae* et *Lineae*, 12(2): 433-472. *pl. 92-101.* 1 Dec 1877.
 (b) *Umbelliferae*, 11(1): 261-354. *pl. 72-91.* 1 Dec 1879.
 (c) *Turneraceae*, 13(3): 85-170. *pl. 31-48.* 1 Aug 1883.
@@ -51,30 +51,32 @@ AG 2(2): 91; Backer p. 605; Barnhart 3:, 417 (b. 7 Jan 1848, d. 7 Jan 1931); BJI
 (e) *Loasaceae*, 13(3): 197-224. 15 Aug 1859.
 (f) *Vitae itineraque collectorum botanicorum*, notae collaboratorum biographicae, Florae brasiliensis ratio edendi chronologica, systema, index famliarum, 1(1): 1-268. 1 Apr 1906.
 (g) *See also*, Urban, *Martii Flora brasiliensis*, Verh. bot. Ver. Brandenburg 49: 1-6. 1907; earlier published Köln. Zeit., Beil. Sonntags-Ausg. 29 Apr 1906 (*copy*: FAS).
-(2) With A.W. Eichler & A. Garcke, *Jahrb. K. Bot. Gart. Bot. Mus. Berlin* 3-5, 1884-1889.
-(3) Editor and for a major part author of *Symbolae antillanae* 1-9, 1898-1928, see below.
-(4) Editor, with E. Koehne & F. Dietrich, *Verh. bot. Ver. Brandenburg* 26, 1885.
-(5) Editor, with P. Graebner, *Festschrift zur Feier des 70. Geburtstages des Herrn Prof. Dr. Paul Ascherson*, Leipzig 1904, 568 p.
-(6) *Der botanische Garten und das Botanische Museum, in* A. Guttstadt, *Die naturwissenschaftlichen und medizinischen Staatsanstalten Berlins*, Berlin 1886.
-(7) *Turneraceae et Umbelliferae, in* R. Chodat et E. Hassler, *Plantae hasslerianae*, Bull. Herb. Boiss. ser. 2. 3: 1114-1125. 1903.
-(8) *lieber einige Celastraceen-Gattungen, in* P. Graebner et I. Urban, ed., *Festschr. Ascherson* (see no. 5) 1904, p. \[48\]-58, also reprinted, cover-t.p., p. \[48\]-58, *copies*: FAS, NY.
-(9) Editor, *Plantae novae andinae* 1-6, 1906-1913, in part also author, see below.
-(10) *Turneraceae, in* E. Warming, *Symb. bot.* 32: 31-32. 8 Mai 1890.
-(11) *Kurze Geschichte der Entwicklung der Sammlungen, in* A. Engler et al., *Der Königliche botanische Garten und das Königlich botanische Museum in Berlin* 1909, p. \[11\]-30. Also reprinted with cover-t.p., p. \[11\]-30. *Copy*: NY.
-(12) *Der botanische Garten, in* Festschr. X. int. med. Kongr. Berlin 1890, p. 3-12, Das botanische Museum p. 13-20.
+- (2) With A.W. Eichler & A. Garcke, *Jahrb. K. Bot. Gart. Bot. Mus. Berlin* 3-5, 1884-1889.
+- (3) Editor and for a major part author of *Symbolae antillanae* 1-9, 1898-1928, see below.
+- (4) Editor, with E. Koehne & F. Dietrich, *Verh. bot. Ver. Brandenburg* 26, 1885.
+- (5) Editor, with P. Graebner, *Festschrift zur Feier des 70. Geburtstages des Herrn Prof. Dr. Paul Ascherson*, Leipzig 1904, 568 p.
+- (6) *Der botanische Garten und das Botanische Museum, in* A. Guttstadt, *Die naturwissenschaftlichen und medizinischen Staatsanstalten Berlins*, Berlin 1886.
+- (7) *Turneraceae et Umbelliferae, in* R. Chodat et E. Hassler, *Plantae hasslerianae*, Bull. Herb. Boiss. ser. 2. 3: 1114-1125. 1903.
+- (8) *lieber einige Celastraceen-Gattungen, in* P. Graebner et I. Urban, ed., *Festschr. Ascherson* (see no. 5) 1904, p. \[48\]-58, also reprinted, cover-t.p., p. \[48\]-58, *copies*: FAS, NY.
+- (9) Editor, *Plantae novae andinae* 1-6, 1906-1913, in part also author, see below.
+- (10) *Turneraceae, in* E. Warming, *Symb. bot.* 32: 31-32. 8 Mai 1890.
+- (11) *Kurze Geschichte der Entwicklung der Sammlungen, in* A. Engler et al., *Der Königliche botanische Garten und das Königlich botanische Museum in Berlin* 1909, p. \[11\]-30. Also reprinted with cover-t.p., p. \[11\]-30. *Copy*: NY.
+- (12) *Der botanische Garten, in* Festschr. X. int. med. Kongr. Berlin 1890, p. 3-12, Das botanische Museum p. 13-20.
 
-#### Obituaries and other biographical notices written by urban
+#### Obituaries and other biographical notices written by Urban
 
-(1) *George Engelmann*, Ber. deut. bot. Ges. 2(11): xii-xv. 1884.
-(2) *George Bentham*, ib. p. xvi-xxi. 1884.
-(3) *A.M. Eichleis* botanische Arbeiten, Bot. Centralbl. 32: 123-127. 1887; see also Urban, Kön. Bot. Gart. (1891).
-(4) *Sereno Watson*, Ber. deut. bot. Ges. 10: (33)-(35). 1892.
-(5) *Friedrich Sellow*, Bot. Jahrb. 17: 177-198. 1893.
-(6) *Georg Heinrich von Langsdorff* und *Ludwig Riedel*, ib. 18 (Beibl. 44): 6-21. 1894. (7) *Jacques Samuel Blanchet*, ib. 21 (Beibl. 52): 1-5. 1895.
-(8) *Carl August Ehrenberg*, ib. 24 (Beibl. 58): 1-13. 1897.
-(9) *Leopold Krug*, Ber. deut. bot. Ges. 16: (23)-(37). 1898.
-(10) *Paul Friedrich August Ascherson, in* Ascherson-Festschrift p. i-iii. 1904. (11) *Collectores, collaboratores, Fl. bras.* 1(1): 1-267. 1906.
-(12) *Plumier's* Leben und Schriften, 1920, see below.
+- (1) *George Engelmann*, Ber. deut. bot. Ges. 2(11): xii-xv. 1884.
+- (2) *George Bentham*, ib. p. xvi-xxi. 1884.
+- (3) *A.M. Eichleis* botanische Arbeiten, Bot. Centralbl. 32: 123-127. 1887; see also Urban, Kön. Bot. Gart. (1891).
+- (4) *Sereno Watson*, Ber. deut. bot. Ges. 10: (33)-(35). 1892.
+- (5) *Friedrich Sellow*, Bot. Jahrb. 17: 177-198. 1893.
+- (6) *Georg Heinrich von Langsdorff* und *Ludwig Riedel*, ib. 18 (Beibl. 44): 6-21. 1894. 
+- (7) *Jacques Samuel Blanchet*, ib. 21 (Beibl. 52): 1-5. 1895.
+- (8) *Carl August Ehrenberg*, ib. 24 (Beibl. 58): 1-13. 1897.
+- (9) *Leopold Krug*, Ber. deut. bot. Ges. 16: (23)-(37). 1898.
+- (10) *Paul Friedrich August Ascherson, in* Ascherson-Festschrift p. i-iii. 1904. 
+- (11) *Collectores, collaboratores, Fl. bras.* 1(1): 1-267. 1906.
+- (12) *Plumier's* Leben und Schriften, 1920, see below.
 
 #### Handwriting
 

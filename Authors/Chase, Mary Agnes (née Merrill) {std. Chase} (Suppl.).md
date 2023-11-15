@@ -30,16 +30,16 @@ Barnhart 1: 335 (b. 20 Apr 1869, d. 24 Sep 1963); BL 1: 290; Bossert p. 71; Ewan
 
 #### Composite works
 
-(1) With Charles Frederick Millspaugh, *Plantae Yucatanae*... Chicago, 1903-1904, fasc. 1-2, see TL-2/6072.
-(2) With Albert Spear Hitchcock, *Directions for preparing herbarium specimens of grasses*. U.S. Dept. Agr. Bur. Pl. ind. \[Circ.\] 442: 1-4. 1909 (n.v.).
-(3) With id., *N. Amer. Panicum*... Washington \[D.C.\], 22 Oct 1910, see TL-2/2803.
-(4) With id., *Paspalum*, Mexican grasses in the United States National Herbarium. Contr. U.S. Natl. Herb. 17: 226-240. Jul 1913.
-(5) With id., *Tropical North American species of Panicum*. Contr. U.S. Natl. Herb. 17: 459-539. 1915, see TL-2/2806. – Further copy seen: L. – *Ref*.: Trelease, Bot. Centralbl. 129(19): 500. 9 Nov 1915 (brief note).
-(6) With id., *Grasses of the West Indies*, id. 18(7): i-v, 261-471, vii-viii. 1912, see TL-2/2807. – *Ref*.: Trelease, Bot. Centralbl. 137(7): 109-110. 12 Feb 1918 (rev.).
-(7) *In* E.C. Leonard, *Fourteen new species of plants from Hispaniola*, J. Washington Acad. Sci. 17: 72-73. 1927. (Chase: *Calamagrostis leonardi* and *Leptochloa monticola*).
-(8) With Arthur W. Sampson (b. 27 Mar 1884), *Range grasses of California*, Univ. Calif. Exp. Sta. Bull. 430: 1-94. 1927.
-(9) \[Description of *Paspalum longum*\] *in* Ivan Murray Johnston, *Flora of the Revillagigedo Islands*, Proc. Calif. Acad. Sci. ser. 4. 20: 52-53. 1931.
-(10) \[Descriptions of *Paspalum redundans, P. galapageium* and *P. galapageium* var. *minoratum*\] *in* A.S. Hitchcock, *New species of grasses from the Galapagos* and the Revillagigedo Islands, Proc. Calif. Acad. Sci. ser. 4. 21: 297, 299, 300. 1935.
+- (1) With Charles Frederick Millspaugh, *Plantae Yucatanae*... Chicago, 1903-1904, fasc. 1-2, see TL-2/6072.
+- (2) With Albert Spear Hitchcock, *Directions for preparing herbarium specimens of grasses*. U.S. Dept. Agr. Bur. Pl. ind. \[Circ.\] 442: 1-4. 1909 (n.v.).
+- (3) With id., *N. Amer. Panicum*... Washington \[D.C.\], 22 Oct 1910, see TL-2/2803.
+- (4) With id., *Paspalum*, Mexican grasses in the United States National Herbarium. Contr. U.S. Natl. Herb. 17: 226-240. Jul 1913.
+- (5) With id., *Tropical North American species of Panicum*. Contr. U.S. Natl. Herb. 17: 459-539. 1915, see TL-2/2806. – Further copy seen: L. – *Ref*.: Trelease, Bot. Centralbl. 129(19): 500. 9 Nov 1915 (brief note).
+- (6) With id., *Grasses of the West Indies*, id. 18(7): i-v, 261-471, vii-viii. 1912, see TL-2/2807. – *Ref*.: Trelease, Bot. Centralbl. 137(7): 109-110. 12 Feb 1918 (rev.).
+- (7) *In* E.C. Leonard, *Fourteen new species of plants from Hispaniola*, J. Washington Acad. Sci. 17: 72-73. 1927. (Chase: *Calamagrostis leonardi* and *Leptochloa monticola*).
+- (8) With Arthur W. Sampson (b. 27 Mar 1884), *Range grasses of California*, Univ. Calif. Exp. Sta. Bull. 430: 1-94. 1927.
+- (9) \[Description of *Paspalum longum*\] *in* Ivan Murray Johnston, *Flora of the Revillagigedo Islands*, Proc. Calif. Acad. Sci. ser. 4. 20: 52-53. 1931.
+- (10) \[Descriptions of *Paspalum redundans, P. galapageium* and *P. galapageium* var. *minoratum*\] *in* A.S. Hitchcock, *New species of grasses from the Galapagos* and the Revillagigedo Islands, Proc. Calif. Acad. Sci. ser. 4. 21: 297, 299, 300. 1935.
 
 #### Outside our period
 

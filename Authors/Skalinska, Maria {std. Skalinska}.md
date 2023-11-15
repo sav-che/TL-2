@@ -23,7 +23,7 @@ Biol.-Dokum. 17: 8712; Futak-Domin p. 542; Hirsch 276-277.
 
 #### Composite works
 
-(1) Editor, *Act. biol. cracov., Bot*. 1-21, 1958-1977.
+- (1) Editor, *Act. biol. cracov., Bot*. 1-21, 1958-1977.
 
 #### Festschrift
 

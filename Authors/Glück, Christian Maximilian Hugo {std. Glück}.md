@@ -23,6 +23,6 @@ Andrews p. 268; Barnhart 2: 55; BFM p. 286 \[Index\]; BM 2: 684; BM 6: 379; Boss
 
 #### Composite works
 
-(1) Pascher, *Süsswasserflora, Pteridophyten* 15: \[v\]-xx, 21, *fig. 1-7.* 1936; *Phanerogamen* 15: 21-463, *figs*. 8-258. 1936.
-(2) Pascher, *Süsswasserflora* ed. 2. *Pteridophyten* 15: \[1\]-21, *figs. 1-7.* 1931; *Gymnospermae* 15: 21-22. 1931; *Monocotyledonae* 15: 22-170, *figs. 8-83.* 1931; *Dicotyledonae* 15: 170-463, *figs*. *84-258*. 1931.
+- (1) Pascher, *Süsswasserflora, Pteridophyten* 15: \[v\]-xx, 21, *fig. 1-7.* 1936; *Phanerogamen* 15: 21-463, *figs*. 8-258. 1936.
+- (2) Pascher, *Süsswasserflora* ed. 2. *Pteridophyten* 15: \[1\]-21, *figs. 1-7.* 1931; *Gymnospermae* 15: 21-22. 1931; *Monocotyledonae* 15: 22-170, *figs. 8-83.* 1931; *Dicotyledonae* 15: 170-463, *figs*. *84-258*. 1931.
 

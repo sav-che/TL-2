@@ -8,8 +8,9 @@ Zenker, Jonathan Carl (1799-1837), German (Sachsen) botanist; studied theology (
 
 #### Herbarium and types
 
-Unknown. – *Exsiccatae*: (1) (with D.N.F. Dietrich) *Musci thuringici*. Jena 1821-1825,4 fasc. Oct., 25 specimens per fascicle, nos. 1-100; fasc. 1: Aug-Nov 1821, 2: Jun-Nov 1822, 3: Jan-Jul 1823, 4: 1825 (81) p. 238. – Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection W|W]]. For further details see below.
-(2) *Herbarium florae germanicae*, with D.N.F. Dietrich, see TL-2/1: 651-652 and Zenker & Dietrich (1825).
+Unknown.
+*Exsiccatae*: (1) (with D.N.F. Dietrich) *Musci thuringici*. Jena 1821-1825,4 fasc. Oct., 25 specimens per fascicle, nos. 1-100; fasc. 1: Aug-Nov 1821, 2: Jun-Nov 1822, 3: Jan-Jul 1823, 4: 1825 (81) p. 238. – Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection W|W]]. For further details see below.
+- (2) *Herbarium florae germanicae*, with D.N.F. Dietrich, see TL-2/1: 651-652 and Zenker & Dietrich (1825).
 *Letters* at [[Collection G|G]], [[Collection HAL|HAL]] (to D.F.L. von Schlechtendal), [[Collection UPS|UPS]]-UB (1, to Brönner).
 
 #### Bibliography and biography

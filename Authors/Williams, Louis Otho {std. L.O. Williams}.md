@@ -27,9 +27,9 @@ Collaborator, A.C. Smith, *A collection of flowering plants from Mount Roraima*,
 #### Note
 
 Publications outside our period:
-(1) With P.H. Allen, *Orchids of Panama*, St. Louis 1980, viii, 590, xxvi p. (see Taxon 30: 723, 1981).
-(2) With P.C. Standley et al., *Flora of Guatemala*, in Fieldiana, Bot. vol. 24; 13 parts 1946-1977.
-(3) *The Orchidaceae of Mexico*, Ceiba 2(1-4). 20 Jan 1951, repr. 1965.
+- (1) With P.H. Allen, *Orchids of Panama*, St. Louis 1980, viii, 590, xxvi p. (see Taxon 30: 723, 1981).
+- (2) With P.C. Standley et al., *Flora of Guatemala*, in Fieldiana, Bot. vol. 24; 13 parts 1946-1977.
+- (3) *The Orchidaceae of Mexico*, Ceiba 2(1-4). 20 Jan 1951, repr. 1965.
 
 ### Publications
 

@@ -55,15 +55,15 @@ ADB 31: 351-353; AG 6(1): 523-524; Ainsworth p. 247, 347; Backer p. 517, 518; Ba
 
 #### Composite works
 
-(1) *Elaeagnaceae, in* de Candolle, Prodr. 14: 606-616. Nov (sero) 1857.
-(2) Editor, *Supplementum*, C.L. Willdenow, *Enum.pl. hort. berol.* 1813, see C.L. Willdenow.
-(3) Editor, *Linnaea* 1-35, 1826-1866, see below.
-(4) Main editor (with H. Mohl) *Botanische Zeitung* 1-24, 1843-1866.
-(5) Author of text, F. Guimpel & D.F.L. von Schlechtendal, *Abbild. Pharmac. Gew.*, 3 vols., 1828-1837, see TL-2/2216. – Other copy: USDA.
-(6) *Genus Cymbaria*, revisum et emendatum, *in* CG. Nees von Esenbeck, ed., *Horae phys. berol.* 105-116, *pl. 21.* 1820.
-(7) Editor and author of text of Heft 16-73, 1838-1846 of J.C. Zenker, *Flora von Thüringen*; with C.E. Langethal *of Heft 74-144*, 1847-1855; plates by *E. Schenk*, see under J.C. Zenker.
-(8) With L.A. von Chamisso, *De plantis in expeditione speculatoria Romanzoffiana observationes* ... 1826-1836, see TL-2/1082.
-(9) With L.A. von Chamisso, *Plantarum mexicanarum* a cel. viris Schiede et Deppe collectarum recensio brevis... see under Schiede.
+- (1) *Elaeagnaceae, in* de Candolle, Prodr. 14: 606-616. Nov (sero) 1857.
+- (2) Editor, *Supplementum*, C.L. Willdenow, *Enum.pl. hort. berol.* 1813, see C.L. Willdenow.
+- (3) Editor, *Linnaea* 1-35, 1826-1866, see below.
+- (4) Main editor (with H. Mohl) *Botanische Zeitung* 1-24, 1843-1866.
+- (5) Author of text, F. Guimpel & D.F.L. von Schlechtendal, *Abbild. Pharmac. Gew.*, 3 vols., 1828-1837, see TL-2/2216. – Other copy: USDA.
+- (6) *Genus Cymbaria*, revisum et emendatum, *in* CG. Nees von Esenbeck, ed., *Horae phys. berol.* 105-116, *pl. 21.* 1820.
+- (7) Editor and author of text of Heft 16-73, 1838-1846 of J.C. Zenker, *Flora von Thüringen*; with C.E. Langethal *of Heft 74-144*, 1847-1855; plates by *E. Schenk*, see under J.C. Zenker.
+- (8) With L.A. von Chamisso, *De plantis in expeditione speculatoria Romanzoffiana observationes* ... 1826-1836, see TL-2/1082.
+- (9) With L.A. von Chamisso, *Plantarum mexicanarum* a cel. viris Schiede et Deppe collectarum recensio brevis... see under Schiede.
 
 #### Handwriting
 

@@ -41,8 +41,8 @@ APN p. 234; Barnhart 2: 63; BM 2: 694, 6: 384; Bossert p. 147; Colmeiro 1: clxxv
 #### Composite works
 
 With R. Ciferri:
-(1) *Hong. paras. Dominic.*... 1925\[-1928\], which is treated under the latter mycologist, who was first author of nos. 1-3 and co-author of nos. 4-16 (see TL-2/Suppl. 4, nr. 26.426). *Note*: A note on this work found at FH: "In this version, González Fragoso is main author of Parts 1-3 and 16 with Ciferri as co-author; in Parts 4-15, Ciferri is main author and González Fragoso co-author. As later reprinted in Republica Dominica Estación Agronomica de Haina (Parts 1-5) and... de Moca (parts 6-16 and Icones 1-6), authorship is reversed".
-(2) *Iconogr. hong. paras.*... 1926, also treated under the latter mycologist, who was co-author of the entire work (see TL-2/Suppl. 4, nr. 26.427).
+- (1) *Hong. paras. Dominic.*... 1925\[-1928\], which is treated under the latter mycologist, who was first author of nos. 1-3 and co-author of nos. 4-16 (see TL-2/Suppl. 4, nr. 26.426). *Note*: A note on this work found at FH: "In this version, González Fragoso is main author of Parts 1-3 and 16 with Ciferri as co-author; in Parts 4-15, Ciferri is main author and González Fragoso co-author. As later reprinted in Republica Dominica Estación Agronomica de Haina (Parts 1-5) and... de Moca (parts 6-16 and Icones 1-6), authorship is reversed".
+- (2) *Iconogr. hong. paras.*... 1926, also treated under the latter mycologist, who was co-author of the entire work (see TL-2/Suppl. 4, nr. 26.427).
 
 ### Publications
 

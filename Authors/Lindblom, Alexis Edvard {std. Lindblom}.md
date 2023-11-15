@@ -21,9 +21,9 @@ AG 3: 828; Barnhart 2: 384; BL 2: 518, 683; BM 3: 1117; CSP 4: 27-28; Herder p. 
 
 #### Composite works
 
-(1). Published and edited *Botaniska Notiser*, 7 volumes, for the years 1839-1846.
-(2). Fries, E. M., *Novitiae florae Sueciae*, pars vii, 1823.
-(3). The index to Fries, E. M., *Syst. mycol.* is by A. E. Lindblom (*Index alphabeticus generum*, *specierum et synonymorum in... Fries systemate mycologico... enumeratorum*, Greifswald 1832, 203 p., see TL-2/1867 and note under W. G. Lasch and p. \[203\] of this index in which Fries acknowledges Lindblom's role.
+- (1). Published and edited *Botaniska Notiser*, 7 volumes, for the years 1839-1846.
+- (2). Fries, E. M., *Novitiae florae Sueciae*, pars vii, 1823.
+- (3). The index to Fries, E. M., *Syst. mycol.* is by A. E. Lindblom (*Index alphabeticus generum*, *specierum et synonymorum in... Fries systemate mycologico... enumeratorum*, Greifswald 1832, 203 p., see TL-2/1867 and note under W. G. Lasch and p. \[203\] of this index in which Fries acknowledges Lindblom's role.
 
 #### Eponymy
 

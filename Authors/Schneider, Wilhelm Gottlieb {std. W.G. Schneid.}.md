@@ -8,7 +8,8 @@ Schneider, Wilhelm Gottlieb (1814-1889), German (Silesian) mycologist and entomo
 
 #### Herbarium and types
 
-[[Collection WRSL|WRSL]]. – *Exsiccatae*: *Herbarium schlesischer Pilze*, fasc. 1-19, 1865-1887 (see LS 24073), sets at [[Collection B|B]] (1-17, extant), [[Collection FH|FH]] (1-2), [[Collection GOET|GOET]] (1-19), [[Collection HAL|HAL]] (1-18), [[Collection WRSL|WRSL]].
+[[Collection WRSL|WRSL]].
+*Exsiccatae*: *Herbarium schlesischer Pilze*, fasc. 1-19, 1865-1887 (see LS 24073), sets at [[Collection B|B]] (1-17, extant), [[Collection FH|FH]] (1-2), [[Collection GOET|GOET]] (1-19), [[Collection HAL|HAL]] (1-18), [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

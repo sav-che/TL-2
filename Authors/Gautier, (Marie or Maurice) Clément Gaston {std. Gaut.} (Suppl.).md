@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection DS|DS]] (through Herman Knoche), duplicates [[Collection BR|BR]], [[Collection CLF|CLF]], [[Collection F|F]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection P|P]]. The Gautier herb. at [[Collection DS|DS]] (126,000 sheets) contains the types of Gautier's new taxa published in his two floras, as well as the types of J.V. Martrin-Donos' *Florule du Tarn*. The *Hieracium* collection of Gautier was not included in the herb. as it came to [[Collection DS|DS]]. – *Exsiccatae*: Gautier, together with Casimir Arvet-Touvet, issued an *Hieraciotheca*.
+[[Collection DS|DS]] (through Herman Knoche), duplicates [[Collection BR|BR]], [[Collection CLF|CLF]], [[Collection F|F]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection P|P]]. The Gautier herb. at [[Collection DS|DS]] (126,000 sheets) contains the types of Gautier's new taxa published in his two floras, as well as the types of J.V. Martrin-Donos' *Florule du Tarn*. The *Hieracium* collection of Gautier was not included in the herb. as it came to [[Collection DS|DS]].
+*Exsiccatae*: Gautier, together with Casimir Arvet-Touvet, issued an *Hieraciotheca*.
 
 #### Bibliography and biography
 
@@ -41,8 +42,8 @@ AG 2(1): 525; APN p. 221; Barnhart 2: 34; BL 2: 124, 193, 658; BM 2: 645 (as "Ga
 #### Composite works
 
 Co-author with:
-(1) J.F. Freyn, *Plantes nouvelles de France*... 1881, see TL-2/Suppl. 7, nr. 35.527.
-(2) C. Arvet-Touvet, *Hieracium nouveaux*... 1894 (TL-2/Suppl. 1, nr. 19.552).
+- (1) J.F. Freyn, *Plantes nouvelles de France*... 1881, see TL-2/Suppl. 7, nr. 35.527.
+- (2) C. Arvet-Touvet, *Hieracium nouveaux*... 1894 (TL-2/Suppl. 1, nr. 19.552).
 
 ### Publications
 

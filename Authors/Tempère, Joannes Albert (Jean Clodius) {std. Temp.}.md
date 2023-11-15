@@ -10,10 +10,10 @@ Tempère, Joannes Albert \[Jean Clodius\] (1847-1926), French diatomologist.
 
 [[Collection AWH|AWH]]; other material (sometimes probably sets of preparations as listed below): [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection MT|MT]], [[Collection NMW|NMW]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection TALE|TALE]].
 *Preparations*: (*1*) *Diatomées du monde entier* (with H. Peragallo), 625 slides, 25 sets, 1889-1895, sets at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection PC|PC]], [[Collection PH|PH]].
-(2) *Diatomées de France* (with P. Petit), 400 slides, 1887-1900, set at [[Collection BM|BM]]. List of taxa: Pantocsek (1891).
-(3) *Genres des Diatomées*, 150 slides, 6 sets, 1888-1910, set at [[Collection BM|BM]].
-(4) *Champignons de France*, 250 slides, 10 sets, 1892-1893, set at [[Collection BM|BM]]. – With E. Dutertre. – See Herbarium 1: 161, 180.
-(5) *Les algues de France* en préparations microscopiques (with Dupray), set announced Bot. Zeit. 46: 128. 1888. (17 series of 12 preparations each; 204 sp.).
+- (2) *Diatomées de France* (with P. Petit), 400 slides, 1887-1900, set at [[Collection BM|BM]]. List of taxa: Pantocsek (1891).
+- (3) *Genres des Diatomées*, 150 slides, 6 sets, 1888-1910, set at [[Collection BM|BM]].
+- (4) *Champignons de France*, 250 slides, 10 sets, 1892-1893, set at [[Collection BM|BM]]. – With E. Dutertre. – See Herbarium 1: 161, 180.
+- (5) *Les algues de France* en préparations microscopiques (with Dupray), set announced Bot. Zeit. 46: 128. 1888. (17 series of 12 preparations each; 204 sp.).
 *Letters* to W.G. Farlow (6) at [[Collection FH|FH]].
 
 #### Bibliography and biography
@@ -33,9 +33,9 @@ Barnhart 3: 366 (b. Mai 1847, d. 12 Feb 1926); BM 5: 2082-2083, 8: 1293; CSP 19:
 
 #### Composite works
 
-(1) Editor, *Le Diatomiste*, vols. 1-2, 1890-1896 (facsimile ed. Locherm (Antiquariaat Junk)) 1974.
-(2) Editor, *Le Micrographe préparateur*, vols. 1-14, 1893-1906.
-(3) Editor, H. et M. Peragallo, *Diatom. mar. France 1897-1908*, TL-2/7664. Additional *copy* seen: B-S.
+- (1) Editor, *Le Diatomiste*, vols. 1-2, 1890-1896 (facsimile ed. Locherm (Antiquariaat Junk)) 1974.
+- (2) Editor, *Le Micrographe préparateur*, vols. 1-14, 1893-1906.
+- (3) Editor, H. et M. Peragallo, *Diatom. mar. France 1897-1908*, TL-2/7664. Additional *copy* seen: B-S.
 
 #### Eponymy
 

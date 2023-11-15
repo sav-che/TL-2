@@ -53,20 +53,21 @@ Amer. Men Sci. ed. 10: 1417; APN p. 229; Barnhart 2: 54; BFM p. 285 (index); BL 
 
 #### Outside our period
 
-(1) Responsible for *The new Britton and Brown illustrated flora*... 1952, 3 vols. (and subsequent printings through 1968), which is a revision of N.L. Britton & A. Brown, *Ill. fl. n. U.S.*... 1896-1898 (see TL-2/1, nr. 778). (2) Gleason & Arthur John Cronquist (1919-1992), *Manual of the vascular plants of northeastern United States and adjacent Canada*... 1963; Ed. 2,... 1991,... 7th printing... 2004. – *Note*: See also, Noel H\[erman\]. Holmgren, *Illustrated companion to Gleason and Cronquist's manual*... 1998; Reprinted with corr.... 2004.
-(3) Gleason & Arthur John Cronquist (1919-1992), *The natural geography of plants*... 1964.
+- (1) Responsible for *The new Britton and Brown illustrated flora*... 1952, 3 vols. (and subsequent printings through 1968), which is a revision of N.L. Britton & A. Brown, *Ill. fl. n. U.S.*... 1896-1898 (see TL-2/1, nr. 778).
+- (2) Gleason & Arthur John Cronquist (1919-1992), *Manual of the vascular plants of northeastern United States and adjacent Canada*... 1963; Ed. 2,... 1991,... 7th printing... 2004. – *Note*: See also, Noel H\[erman\]. Holmgren, *Illustrated companion to Gleason and Cronquist's manual*... 1998; Reprinted with corr.... 2004.
+- (3) Gleason & Arthur John Cronquist (1919-1992), *The natural geography of plants*... 1964.
 
 #### Composite works
 
-(1) Co-author with W.A. Kellerman & John Henry Schaffner (1866-1939), *Spring flora for beginners and amateurs*... Eds. 2 (1906) and 3 (1914), which were based on Kellerman, *Spring fl. Ohio*... 1895 (TL-2/2, nr. 3572).
-(2) Co-author with Charles Arthur Hart (1859-1918), "On the *biology* of the *sand areas* of *Illinois*", Bull. Illinois State Lab. Nat. Hist. 7(7): cover-t.p., map (frontisp.), t.p., p. \[i, contents\], 137-272 \[errata\], *pl. 8-23* (uncol. phot.). Jan 1907.
-(3) Co-author with Melville Thurston Cook (1869-1952), "*Ecological survey* of the *flora* of *Porto Rico*", J. Dept. Agric. Porto Rico 12(1-2): 139 p., *pl*., maps. 1928. – *Note*: This is a popularized version of "*Plant ecology* of *Porto Rico*", which appeared in the *Scientific survey of Porto Rico and the Virgin Islands* 7(1): 1-96, *pl. 1-20*, Id. 7(2): 97-173, *pl. 21-50* (1926 \[i.e. 1927\]). The plant taxonomic parts of the Scientific survey... were treated under N.L. Britton (see TL-2/1, nr. 788).
-(4) Author with A.C. Smith (1906-1999), *Plantae krukovianae*... 1933-1939 (see TL-2/5, nr. 12.164). – *Note*: Gleason was first author of parts 1 & 2, sole author of part 3 and Smith was sole author of parts 4-6.
-(5) Co-founder and editor with Harold Norman Moldenke (1909-1996) of the serial *Phytologia*, vol. 1-3(7) (Dec 1933-Dec 1950).
-(6) Melastomaceae *in* A.A. Pulle (ed.), *Fl. Suriname*... vol. 3(1): 178-281. Jun 1935 (see TL-2/4, nr. 8393).
-(7) Founder and asst. editor with Edmund Henry Fulling (1903-1975), *The Botanical Review*, vol. 1-3 (Jan 1935-Dec 1937).
-(8) One of several collaborators with A.C. Smith, *A collection of flowering plants from Mount Roraima*... 1940 (see TL-2/5, nr. 12.172).
-(9) Editor (or associate editor), at various times, of (a) *Addisonia*; (b) *Bulletin of the New York Botanical Garden*; (c) *Bulletin of the Torrey Botanical Club*; and (d) *Garden Journal of New York Botanical Garden* (precise details wanting).
+- (1) Co-author with W.A. Kellerman & John Henry Schaffner (1866-1939), *Spring flora for beginners and amateurs*... Eds. 2 (1906) and 3 (1914), which were based on Kellerman, *Spring fl. Ohio*... 1895 (TL-2/2, nr. 3572).
+- (2) Co-author with Charles Arthur Hart (1859-1918), "On the *biology* of the *sand areas* of *Illinois*", Bull. Illinois State Lab. Nat. Hist. 7(7): cover-t.p., map (frontisp.), t.p., p. \[i, contents\], 137-272 \[errata\], *pl. 8-23* (uncol. phot.). Jan 1907.
+- (3) Co-author with Melville Thurston Cook (1869-1952), "*Ecological survey* of the *flora* of *Porto Rico*", J. Dept. Agric. Porto Rico 12(1-2): 139 p., *pl*., maps. 1928. – *Note*: This is a popularized version of "*Plant ecology* of *Porto Rico*", which appeared in the *Scientific survey of Porto Rico and the Virgin Islands* 7(1): 1-96, *pl. 1-20*, Id. 7(2): 97-173, *pl. 21-50* (1926 \[i.e. 1927\]). The plant taxonomic parts of the Scientific survey... were treated under N.L. Britton (see TL-2/1, nr. 788).
+- (4) Author with A.C. Smith (1906-1999), *Plantae krukovianae*... 1933-1939 (see TL-2/5, nr. 12.164). – *Note*: Gleason was first author of parts 1 & 2, sole author of part 3 and Smith was sole author of parts 4-6.
+- (5) Co-founder and editor with Harold Norman Moldenke (1909-1996) of the serial *Phytologia*, vol. 1-3(7) (Dec 1933-Dec 1950).
+- (6) Melastomaceae *in* A.A. Pulle (ed.), *Fl. Suriname*... vol. 3(1): 178-281. Jun 1935 (see TL-2/4, nr. 8393).
+- (7) Founder and asst. editor with Edmund Henry Fulling (1903-1975), *The Botanical Review*, vol. 1-3 (Jan 1935-Dec 1937).
+- (8) One of several collaborators with A.C. Smith, *A collection of flowering plants from Mount Roraima*... 1940 (see TL-2/5, nr. 12.172).
+- (9) Editor (or associate editor), at various times, of (a) *Addisonia*; (b) *Bulletin of the New York Botanical Garden*; (c) *Bulletin of the Torrey Botanical Club*; and (d) *Garden Journal of New York Botanical Garden* (precise details wanting).
 
 ### Publications
 
@@ -344,8 +345,9 @@ The *relationships* of certain *myrmecophilous melastomes*... New York... 1931. 
 *Collector*: Tate, George Henry Hamilton (1894-1953), see TL-2/6: 175 and IH 2: 994.
 *Illus*: \[*pl. 17-21, 27-28, 30-31, 33* (fig. 1), *35* (fig. 2) & *39* (fig. 2) (uncol. phot.)\]: Tate, G.H.H.; and \[*pl. 44-45* (uncol. draw.)\]: Williams, Robert Statham (1859-1945), see TL-2/7: 323-325 and IH 2: 1163.
 *Publ*.: 21 Nov (date of publication & on p. 345), 11 Dec (date of publication & on p. 405) 22 Dec (on p. 465, date of publication 24 Dec (sic)), & 24 Dec 1931 (date of publication & on p. 517 in journal), cover-t.p., t.p., p. \[i-ii\], map (fold., col.), 277-514, *pl. 17-45. Copies*: HH, K (n.v.), NY(2) (n.v.), US(2). – Reprinted and to be cited from Bull. Torrey Bot. Club 58(5): map (col., fold.), p. 277-344, *pl. 17-26* (uncol. phot.) (21 Nov 1931), 58(6): 345-404, *pl. 27-33* (uncol. phot.) (11 Dec 1931), 58(7): 405-464, *pl. 34-37* (uncol. phot.) (22 Dec 1931), 58(8): 465-506, *pl. 38-39*, *41-43* (uncol. phot.), *40*, *44-45* (uncol. draw.) (24 Dec 1931), \[reprint only\]: 507-514 (1931). – *Collaborators*: O. Ames, J.H. Barnhart, S.F. Blake, N.L. Britton, M. Burret, C. Epling, J.M. Greenman, C.B. Hitchcock, E.P. Killip, K. Krause, E.C. Leonard, G.A. Malme, H.N. Moldenke, C.V. Morton, F.W. Pennell, B.L. Robinson, Ch. Schweinfurth, A.C. Smith, L.B. Smith, P.C. Standley, J.R. Swallen, G.H.H. Tate, W. Trelease, R.S. Williams, R.P. Wodehouse and R.E. Woodson, Jr.
-*Note*: (1) p. \[i-ii\] include "Contents", "Collaborators" and "Dates of publication", none of which appear in the journal. (2) "The index page 507-514, is separately printed in advance \[of the journal\] and here shows a different pagination from that in the Bulletin".
-(3) Several parts also were issued as separates, viz.:
+*Note*: (1) p. \[i-ii\] include "Contents", "Collaborators" and "Dates of publication", none of which appear in the journal.
+- (2) "The index page 507-514, is separately printed in advance \[of the journal\] and here shows a different pagination from that in the Bulletin".
+- (3) Several parts also were issued as separates, viz.:
 *Asclepiadaceae*..., by H.N. Moldenke: 24 Dec 1931 (cover-t.p.), cover-t.p., p. 455-461. 1931. *Copies*: HH (n.v.), US. – Reprinted and to be cited from Bull. Torrey Bot. Club 58(7): 455-461. 1931.
 *Compositae-Eupatorieae*..., by B.L. Robinson: 24 Dec 1931 (cover-t.p.), cover-t.p., p. \[482\]-485. 1931. *Cop*y: HH. – Id. 58(8): 482-485. 1931.
 *Ericaceae*..., by A.C. Smith: 24 Dec 1931 (on t.p.), t.p. \[recto of p. 436\], p. \[436\]-444, *pl. 36.* 1931. *Copies*: FAS, US. – Id. 58(7): 436-444, *pl. 36.* 1931. (See TL-2/5, nr. 12.161).

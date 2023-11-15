@@ -8,7 +8,8 @@ Okamura, Kintarô (1867-1935), Japanese algologist.
 
 #### Herbarium and types
 
-Algae at Imperial Fisheries Institute, Tokyo. Exsiccatae: *Algae Japonicae exsiccatae*, fasc. 1-2, nos. 1-100, 1899-1903, sets at [[Collection AHFH|AHFH]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection W|W]].
+Algae at Imperial Fisheries Institute, Tokyo.
+*Exsiccatae*: *Algae Japonicae exsiccatae*, fasc. 1-2, nos. 1-100, 1899-1903, sets at [[Collection AHFH|AHFH]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection W|W]].
 
 #### Bibliography and biography
 

@@ -23,6 +23,6 @@ Barnhart 2: 265; IH 2: 335; Kew 3: 205; Langman p. 68, 341, 403 (alph.); MW supp
 
 #### Composite works
 
-(1) Founder and editor of *Lloydia*, a quarterly journal of biological science, vols. 1-22, 1938-1959.
-(2) Editor of *The American Midland Naturalist* 1930-1947.
+- (1) Founder and editor of *Lloydia*, a quarterly journal of biological science, vols. 1-22, 1938-1959.
+- (2) Editor of *The American Midland Naturalist* 1930-1947.
 

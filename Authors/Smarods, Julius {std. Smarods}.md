@@ -8,7 +8,8 @@ Smarods, Julius (1884-?), Latvian phytopathologist and mycologist at the Institu
 
 #### Herbarium and types
 
-[[Collection RIG|RIG]]. – Exsiccatae: Latvijas senes, *Fungi latvici exsiccati* fasc. 1-22, 1931-1943 and other material at [[Collection B|B]] (extant), [[Collection BP|BP]], [[Collection E|E]], [[Collection FH|FH]], [[Collection HPP|HPP]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PR|PR]], [[Collection PRE|PRE]], [[Collection TRTC|TRTC]], [[Collection W|W]].
+[[Collection RIG|RIG]].
+*Exsiccatae*: Latvijas senes, *Fungi latvici exsiccati* fasc. 1-22, 1931-1943 and other material at [[Collection B|B]] (extant), [[Collection BP|BP]], [[Collection E|E]], [[Collection FH|FH]], [[Collection HPP|HPP]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PR|PR]], [[Collection PRE|PRE]], [[Collection TRTC|TRTC]], [[Collection W|W]].
 
 #### Bibliography and biography
 

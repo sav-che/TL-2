@@ -10,7 +10,8 @@ Friderichsen, Peter Kristian Nicolaj (1853-1932), Danish botanist active in Schl
 
 #### Herbarium and types
 
-[[Collection C|C]] (2000, incl. 1500 Rubi). Exsiccatae: *Rubi exsiccati Daniae et Slesvigiae* (fase. 1, Ribe 1885 (30 nos.), fasc. 2, Ribe 1887 (30 nos.), fasc. 3, Horsens 1888), with Otto Carl Leonor Gelert (1862-1899), sets: [[Collection A|A]], [[Collection C|C]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]].
+[[Collection C|C]] (2000, incl. 1500 Rubi).
+*Exsiccatae*: *Rubi exsiccati Daniae et Slesvigiae* (fase. 1, Ribe 1885 (30 nos.), fasc. 2, Ribe 1887 (30 nos.), fasc. 3, Horsens 1888), with Otto Carl Leonor Gelert (1862-1899), sets: [[Collection A|A]], [[Collection C|C]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]].
 *Ref*.: IH 2: 209.
 
 #### Bibliography and biography

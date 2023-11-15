@@ -30,11 +30,11 @@ Andrews p. 348; Backer p. 626; BJI 2: 192; Blankinship p. 9, 25; Bossert p. 437;
 
 #### Composite works
 
-(1) *Bryales*, North American Flora 15: 41-43. 14 Jun 1913 (with E.G. Britton); *Dicranaceae* 15: 77-158. 8 Aug 1913; *Leucobryaceae* 15: 159-166. 8 Aug 1913.
-(2) *Mosses of Peru, in* J.F. Macbride, Field Mus. Nat. Hist., Bot. Ser. 4(5): 125-139, *pl. 1-10*. 1927.
-(3) *Introductory note, in* H.H. Rusby, Bull. New York Bot. Gard. 6: 487-488. 1910 (to *New species from Bolivia*...).
-(4) *Musci, in* C.F. Millspaugh & L.W. Nuttall, *Flora of Santa Catalina Island*, Field Mus. nat. Hist., Bot. Ser. 5: 304-310, *pl. 12*. 1923, TL-2/6074.
-(5) *Musgos* (Musci), *in* P.C. Stanley & S. Caldéron, *Lista prel. pl. El Salvador* 18-19. San Salvador 1925, TL-2/12.778.
+- (1) *Bryales*, North American Flora 15: 41-43. 14 Jun 1913 (with E.G. Britton); *Dicranaceae* 15: 77-158. 8 Aug 1913; *Leucobryaceae* 15: 159-166. 8 Aug 1913.
+- (2) *Mosses of Peru, in* J.F. Macbride, Field Mus. Nat. Hist., Bot. Ser. 4(5): 125-139, *pl. 1-10*. 1927.
+- (3) *Introductory note, in* H.H. Rusby, Bull. New York Bot. Gard. 6: 487-488. 1910 (to *New species from Bolivia*...).
+- (4) *Musci, in* C.F. Millspaugh & L.W. Nuttall, *Flora of Santa Catalina Island*, Field Mus. nat. Hist., Bot. Ser. 5: 304-310, *pl. 12*. 1923, TL-2/6074.
+- (5) *Musgos* (Musci), *in* P.C. Stanley & S. Caldéron, *Lista prel. pl. El Salvador* 18-19. San Salvador 1925, TL-2/12.778.
 
 #### Eponymy
 

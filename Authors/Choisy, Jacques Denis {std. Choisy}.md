@@ -29,15 +29,15 @@ AG 7: 240; Barnhart 1: 343; BM 1: 346-347, 6: 205; CSP 1: 919; Jackson p. 532 \[
 
 #### Composite works
 
-(1) DC, *Prodr*.:
+- (1) DC, *Prodr*.:
 (a) *Convolvulaceae*, 9: 523-562, 565. 1 Jan 1845.
 (b) *Guttiferae*, 1: 557-564. med. Jan 1824.
 (c) *Hydroleaceae*, 10: 179-185, 588. 8 Apr 1846.
 (d) *Hypericineae*, 1: 541-556. med. Jan 1824.
 (e) *Nyctagineae*, 13(2): 425-458. 5 Mai 1849.
 (f) *Selaginaceae*, 12: 1-26, 686. 5 Nov 1848.
-(2) L. von Buch, *Physikalische Beschreibung der Canarischen Inseln*, Berlin 1825, p. 148-154, passim, various botanical entries (e.g. *Bethencourtia* Choisy).
-(3) Zollinger, *Systematisches Verzeichniss*, various families, p. 127-134, 136, 142-152. Zürich 1854. These entries were reprinted separately (with corrections and additions, as *Plantae javanicae*... Genève 1858 (see below).
+- (2) L. von Buch, *Physikalische Beschreibung der Canarischen Inseln*, Berlin 1825, p. 148-154, passim, various botanical entries (e.g. *Bethencourtia* Choisy).
+- (3) Zollinger, *Systematisches Verzeichniss*, various families, p. 127-134, 136, 142-152. Zürich 1854. These entries were reprinted separately (with corrections and additions, as *Plantae javanicae*... Genève 1858 (see below).
 
 #### Eponymy
 

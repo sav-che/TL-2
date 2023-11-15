@@ -32,12 +32,12 @@ Barnhart 1: 370 (b. 14 Nov 1837, Pernambuco, Brazil, d. 24 Jan 1902, Blackpool, 
 
 #### Composite works
 
-(1): *Diatomaceae* fide F. Welwitsch *in* W.P. Hiern, *Cat. Afr. plants* 2(2): 382-395. 1901 (see also TL-2/2747). – Review: E.S. Gepp née Barton, Bot. Centralbl. 90(43): 28 Oct 1902.
-(2) *Diatoms* in *Handbook of Natural History of Glasgow* (and the West of Scotland), Brit. Assoc. Adv. Sci. 1901: 31-48.
-(3) *Notes on the Atlantic Diatomaceae, in* George Murray, J. Bot. 41: 275-277. 1903.
-(4) On the *occurrence of endocysts in* the genus *Thalassiosira*... Trans. Micrsoc. Soc. 1896: 489-491.
-(5) *The etymology of plant names*... Trans. Hist. Soc. Lancs. Ches. 1876: 15-68; 1877: 43-80; 1878: 43-78.
-(6) *The limits of species in the Diatomaceae*... J. Roy. Microsc. Soc. 1897: 455-466.
+- (1): *Diatomaceae* fide F. Welwitsch *in* W.P. Hiern, *Cat. Afr. plants* 2(2): 382-395. 1901 (see also TL-2/2747). – Review: E.S. Gepp née Barton, Bot. Centralbl. 90(43): 28 Oct 1902.
+- (2) *Diatoms* in *Handbook of Natural History of Glasgow* (and the West of Scotland), Brit. Assoc. Adv. Sci. 1901: 31-48.
+- (3) *Notes on the Atlantic Diatomaceae, in* George Murray, J. Bot. 41: 275-277. 1903.
+- (4) On the *occurrence of endocysts in* the genus *Thalassiosira*... Trans. Micrsoc. Soc. 1896: 489-491.
+- (5) *The etymology of plant names*... Trans. Hist. Soc. Lancs. Ches. 1876: 15-68; 1877: 43-80; 1878: 43-78.
+- (6) *The limits of species in the Diatomaceae*... J. Roy. Microsc. Soc. 1897: 455-466.
 
 ### Publications
 

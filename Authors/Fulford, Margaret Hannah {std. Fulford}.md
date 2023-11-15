@@ -30,15 +30,15 @@ Margaret H. Fulford Bryophyte Herb. (CINC) and Library, Univ. of Cincinnati.
 
 #### Outside our period
 
-(1) *The genus Bazzania in Central and South America*, Waltham \[Mass.\] (Chronica Botanica Company). – Issued as Ann. Cryptog. Phytopathol. 3: xvi, 175 p. 1946. Suppls. were issued in Bull. Torrey Bot. Club 86. 1959.
-(2) *Manual of the leafy Hepaticae of Latin America*... 1963-1976. – Issued as Mem. New York Bot. Gard. 11(1-4). 1963-1976.
-(3) First author with A.J. Sharp, *The leafy Hepaticae of Mexico, one hundred and twenty-seven years after C.M. Gottsche*... Mem. New York Bot. Gard. 63: 86 p. 1990.
+- (1) *The genus Bazzania in Central and South America*, Waltham \[Mass.\] (Chronica Botanica Company). – Issued as Ann. Cryptog. Phytopathol. 3: xvi, 175 p. 1946. Suppls. were issued in Bull. Torrey Bot. Club 86. 1959.
+- (2) *Manual of the leafy Hepaticae of Latin America*... 1963-1976. – Issued as Mem. New York Bot. Gard. 11(1-4). 1963-1976.
+- (3) First author with A.J. Sharp, *The leafy Hepaticae of Mexico, one hundred and twenty-seven years after C.M. Gottsche*... Mem. New York Bot. Gard. 63: 86 p. 1990.
 
 #### Composite works
 
 Compiled and edited:
-(1) "Recent literature on mosses", nos. 1-86... Bryologist, vols. 35-73 (1932-1970).
-(2) "Recent literature on Hepatics", nos. 1-79... Bryologist, vols. 35-80 (1932-1978).
+- (1) "Recent literature on mosses", nos. 1-86... Bryologist, vols. 35-73 (1932-1970).
+- (2) "Recent literature on Hepatics", nos. 1-79... Bryologist, vols. 35-80 (1932-1978).
 
 ### Publications
 

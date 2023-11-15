@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]] (orig.). – *Exsiccatae*: See IH 2: 209 and TL-2/1: 878 (also contributed fasc. 13 to C. Stenhammer, *Lichenes Sueciae exsiccati*...).
+[[Collection UPS|UPS]] (orig.).
+*Exsiccatae*: See IH 2: 209 and TL-2/1: 878 (also contributed fasc. 13 to C. Stenhammer, *Lichenes Sueciae exsiccati*...).
 
 #### Bibliography and biography
 
@@ -84,52 +85,52 @@ On 7 Oct 1978, the Swedish Post issued a booklet of 6 stamps valued 1.15 kr. wit
 #### Note
 
 The following titles are now available in microform:
-(1) *Novit. fl. suec.*... 1814-1824, see TL-2/1, nr. 1862:
+- (1) *Novit. fl. suec.*... 1814-1824, see TL-2/1, nr. 1862:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches, (Plant taxonomic lit. microfiche coll., "1693B3-1694D6"). *Copy*: MO (n.v.).
-(2) *Observ. mycol.*... 1815, see TL-2/1, nr. 1863:
+- (2) *Observ. mycol.*... 1815, see TL-2/1, nr. 1863:
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches (Plant taxonomic lit. microfiche coll., "8159B5-8165F3"). *Copy*: MO (n.v.).
 (b) Tumba, Sweden (International Documentation Center AB), \[1964\], 10 microfiches, 8×13 cm. *Copy*: (n.v.).
-(3) *Fl. hall.*... 1819, see TL-2/1, nr. 1866:
+- (3) *Fl. hall.*... 1819, see TL-2/1, nr. 1866:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 3 microfiches, (Plant taxonomic lit. microfiche coll., "1694E4-1696D4"). *Copy*: MO (n.v.).
-(4) *Syst. mycol.*... 1821-1832, see TL-2/1, nr. 1867:
+- (4) *Syst. mycol.*... 1821-1832, see TL-2/1, nr. 1867:
 *Micro-opaque*: \[Washington, D.C.\] (Microcard Corp.) \[1950?\], 41 micro-opaques, 8×13 cm. *Copy*: (n.v.). *Microfiche*: Englewood, Colorado (Microcard Editions), \[19–\]. *Copy*:
 (n.v.). *Microfilm*: Washington, D.C. (United States Library of Congress), \[19–\], \[?\] reels (35 mm). *Copy*: (n.v.).
-(5) *Syst. orb. veg.*... 1825, see TL-2/1, nr. 1868:
+- (5) *Syst. orb. veg.*... 1825, see TL-2/1, nr. 1868:
 *Microfilm*: \[n.p.\] \[n.d.\], 1 reel (35 mm). *Copy*: UC-Berkeley (n.v.). *Microfiche*: Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(6) *Stirp. Agri femsion.*... \[reissue\] 1827, see TL-2/1, nr. 1869: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[s.d.\], (Plant taxonomic lit. microfiche coll., "1696D7-1697E7"). *Copy*: MO (n.v.).
-(7) *Elench. fung.*... 1828, see TL-2/1, nr. 1870:
+- (6) *Stirp. Agri femsion.*... \[reissue\] 1827, see TL-2/1, nr. 1869: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[s.d.\], (Plant taxonomic lit. microfiche coll., "1696D7-1697E7"). *Copy*: MO (n.v.).
+- (7) *Elench. fung.*... 1828, see TL-2/1, nr. 1870:
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches, (Plant taxonomic lit. microfiche coll., "8165G1-8169G7"). *Copy*: (n.v.). (b) New Canaan, Conn. (Readex Microprint), \[1988\], 11 microfiches, 11×15 cm (Landmarks II. Monographs). *Copy*: (n.v.).
-(8) *Novit. fl. suec. alt.*... 1828, see TL-2/1, nr. 1871:
+- (8) *Novit. fl. suec. alt.*... 1828, see TL-2/1, nr. 1871:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches, (Plant taxonomic lit. microfiche coll., "1697F4-1701A7"). *Copy*: MO (n.v.).
-(9) *Lichenogr. eur. reform.*... 1831, see TL-2/1, nr. 1872:
+- (9) *Lichenogr. eur. reform.*... 1831, see TL-2/1, nr. 1872:
 *Microfiche*: (a) Tumba, Sweden (International Documentation Centre), \[1980?\], 11 microfiches, 9×13 cm. *Copy*: (n.v.). (b) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches, (Plant taxonomic lit. microfiche coll., "1701B4-1707D1"). *Copy*: MO (n.v.). (c) Naples, Florida (NewsBank), \[2004\], 16 microfiches (Landmarks II). *Copy*: (n.v.).
-(10) *Fl. scan.*... 1835\[-1837\], see TL-2/1, nr. 1874:
+- (10) *Fl. scan.*... 1835\[-1837\], see TL-2/1, nr. 1874:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches, (Plant taxonomic lit. microfiche coll., "1707D5-1711G7"). *Copy*: MO (n.v.).
-(11) *Bot.-Antiq. Excurs.*... 1836, see TL-2/1, nr. 1876:
+- (11) *Bot.-Antiq. Excurs.*... 1836, see TL-2/1, nr. 1876:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche, (Plant taxonomic lit. microfiche coll., "8170A5-8170D7"). *Copy*: MO (n.v.).
-(12) *Gen. Hymenomyc.*... 1836, see TL-2/1, nr. 1877:
+- (12) *Gen. Hymenomyc.*... 1836, see TL-2/1, nr. 1877:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (11 fr.), (Plant taxonomic lit. microfiche coll., "1712A2-1712C1"). *Copy*: MO (n.v.).
-(13) *Anteckn. Sver. ätl. svamp.*...1836, see TL-2/1, nr. 1879:
+- (13) *Anteckn. Sver. ätl. svamp.*...1836, see TL-2/1, nr. 1879:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches, (Plant taxonomic lit. microfiche coll., "8170E4-8171D4"). *Copy*: MO (n.v.).
-(14) *Fung. guin.*... 1837, see TL-2/1, nr. 1881:
+- (14) *Fung. guin.*... 1837, see TL-2/1, nr. 1881:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (7 fr.), (Plant taxonomic lit. microfiche coll., "1712C2-1712D4"). *Copy*: MO (n.v.).
-(15) *Epicr. syst. mycol.*... 1836-1838, see TL-2/1, nr. 1882:
+- (15) *Epicr. syst. mycol.*... 1836-1838, see TL-2/1, nr. 1882:
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches, (Plant taxonomic lit. microfiche coll., "1712D4-1718G2"). *Copy*: (n.v.). (b) Wakefield (Yorks.), United Kingdom (EP Group of Companies, Microform Division), \[19–\]. *Copy*: (n.v.). *Microfilm*: Wakefield (Yorks.), United Kingdom (EP Group of Companies, Microform Division), \[19–\], 1 reel (35 mm). *Copy*: (n.v.).
-(16) *Summa veg. Scand.*... 1845, 1849, see TL-2/1, nr. 1883:
+- (16) *Summa veg. Scand.*... 1845, 1849, see TL-2/1, nr. 1883:
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 6 microfiches, (Plant taxonomic lit. microfiche coll., "1719A2-1724G6"). *Copy*: MO (n.v.).
 (b) New Canaan, Conn. (Readex Microprint), \[1988\], 10 microfiches, 11×15 cm (Landmarks II. Monographs). *Copy*: (n.v.).
-(17) *Hymenomyc. eur.*... 1874, see TL-2/1, nr. 1895:
+- (17) *Hymenomyc. eur.*... 1874, see TL-2/1, nr. 1895:
 *Microfiche*: Wakefield (Yorks.), United Kingdom (EP Group of Companies, Microform Division), \[19–\]. *Copy*: (n.v.).
 The following title has been reprinted:
-(18) *Fungi natalensis*... 1848 (see TL-2/1, nr. 1884): 1979,... Leiden (Boerhaave Press). *Copies*: LC (n.v.), NY (n.v.).
+- (18) *Fungi natalensis*... 1848 (see TL-2/1, nr. 1884): 1979,... Leiden (Boerhaave Press). *Copies*: LC (n.v.), NY (n.v.).
 The following electronic resource is available:
-(19) "Fungus plates painted under the supervision of Elias Fries..." i.e. a sample of the paintings of fungi initiated and supervised by Fries and published in either *Sver. ätl. gift. svamp.* (see TL-2/1, nr. 1893) or *Ic. Hymenomyc.* (see TL-2/1, nr. 1894).
+- (19) "Fungus plates painted under the supervision of Elias Fries..." i.e. a sample of the paintings of fungi initiated and supervised by Fries and published in either *Sver. ätl. gift. svamp.* (see TL-2/1, nr. 1893) or *Ic. Hymenomyc.* (see TL-2/1, nr. 1894).
 
 #### Composite works
 
-(1) Co-author with C.A. Agardh, *Disp. alg. suec.*... Pars 3, 15 Mai 1812 (see TL-2/1, nr. 36).
-(2) Assisted J.H. Wallman in editing the cryptogams in S. Liljeblad, *Utkast Sv. fl.*... ed. 3, 1816 (see TL-2/3, nr. 4528).
-(3) Contributed text to A. Afzelius, *Reliq. afzel.*... 1860 (see TL-2/1, nr. 34).
+- (1) Co-author with C.A. Agardh, *Disp. alg. suec.*... Pars 3, 15 Mai 1812 (see TL-2/1, nr. 36).
+- (2) Assisted J.H. Wallman in editing the cryptogams in S. Liljeblad, *Utkast Sv. fl.*... ed. 3, 1816 (see TL-2/3, nr. 4528).
+- (3) Contributed text to A. Afzelius, *Reliq. afzel.*... 1860 (see TL-2/1, nr. 34).
 
 ### Publications
 

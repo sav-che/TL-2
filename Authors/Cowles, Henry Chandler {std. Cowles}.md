@@ -30,7 +30,7 @@ Barnhart 1: 390 (b. 27 Feb 1869, Kensington, Conn., d. 12 Sep 1939, Chicago, III
 
 #### Composite works
 
-(1) with J.M. Coulter and C.R. Barnes, A *textbook of botany*... 1910-1911, see C.R. Barnes, TL-2, suppl. 1: 331 and J.M. Coulter TL-2, this suppl.
+- (1) with J.M. Coulter and C.R. Barnes, A *textbook of botany*... 1910-1911, see C.R. Barnes, TL-2, suppl. 1: 331 and J.M. Coulter TL-2, this suppl.
 
 ### Publications
 

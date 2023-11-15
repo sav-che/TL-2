@@ -45,18 +45,18 @@ ADB 43: 298-300; AG 6(2): 283-284; Ainsworth p. 93, 318; Backer p. 627, 664; Bar
 
 #### Composite works
 
-(1) Editor, ed. 3 (1869) and ed. 4 (1887) of *Naturgeschichte des Pflanzenreiches nach dem Linnéschen System* \[based on G.H. von Schubert *Lehrbuch der Naturgeschichte*...\], see TL-2/11.202.
-(2) Editor, F. Loscos, *Series inconfecta plantarum... Aragoniae* 1863, see TL-2/5011.
-(3) G. Kunze, *Chloris austro-hispanica* 1846 (TL-2/4042) is based on Wilkomm's collections. \[G. Kunze induced W. to make his first trip to Spain\].
-(4) Edited and amended E.A. Rossmässler, *Der Wald*, ed. 2, 1870-1871 and ed. 3, 1880-1881, see TL-2/9584.
-(5) Introduction and methodological essay to Aglaia von Enderes, *Frühlingsblumen* 1882, see ÖbZ 32: 174. 1882 (came out in 12 Lieferungen, all in 1882).
-(6) Collaborator, W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3 (by E. Hallier) 1890 \[-1895\], see TL-2/3804.
+- (1) Editor, ed. 3 (1869) and ed. 4 (1887) of *Naturgeschichte des Pflanzenreiches nach dem Linnéschen System* \[based on G.H. von Schubert *Lehrbuch der Naturgeschichte*...\], see TL-2/11.202.
+- (2) Editor, F. Loscos, *Series inconfecta plantarum... Aragoniae* 1863, see TL-2/5011.
+- (3) G. Kunze, *Chloris austro-hispanica* 1846 (TL-2/4042) is based on Wilkomm's collections. \[G. Kunze induced W. to make his first trip to Spain\].
+- (4) Edited and amended E.A. Rossmässler, *Der Wald*, ed. 2, 1870-1871 and ed. 3, 1880-1881, see TL-2/9584.
+- (5) Introduction and methodological essay to Aglaia von Enderes, *Frühlingsblumen* 1882, see ÖbZ 32: 174. 1882 (came out in 12 Lieferungen, all in 1882).
+- (6) Collaborator, W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3 (by E. Hallier) 1890 \[-1895\], see TL-2/3804.
 
 #### Eponymy
 
 *Willbleibia* Herter (1953); *Willkommia* Hackel (1888); *Willkommlangea* O. Kuntze (1891, also honors J.M.C. Lange, *q.v.*).
 
-#### Travel reports from spain
+#### Travel reports from Spain
 
 *Botanische Berichte aus Spanien*, Bot. Zeit. 2: 555-560, 721-725, 769-772, 817-824, 836-841. 1844, 3: 297-306, 313-319 \[no. 8 in series not issued\], 737-744, 753-765, 777-786. 1845, 4: 33-42, 49-60, 577-688, 625-629. 1846, see also Ann. nat. Hist. 15: 178-185, 417-419. 1845, 16: 113-122, 189-192, 248-252. 1845, 17: 115-119, 187-196, 263-270, 340-347, 420-429. 1846. – See also his *Die botanischen Gärten von Madrid und Valencia*, Flora 34(1): 129-135. 7 Mar 1851.
 
@@ -161,9 +161,9 @@ Candollea 34: 207-208. 1979; Webbia 32(1): 40. 1977.
 |	|19	|121-182	|149-168	|1862|
 
 *Notes*: (*1*) Alternative title on vol. 2 \[p. 2\]: *Cistinearum orbis veteris* descriptio monographica iconibus illustrata.
-(2) For dates see e.g. F.G. Wiltshear (1915, p. 370-371).
-(3) *Critiscism and anticriticism*: W.J. Hooker, Kew J. Bot. 5: 94-96. Mar 1853 (fasc. 1), 6: 352. Nov 1854 (fasc. 3-5), 7: 348-349. Nov 1855 (fasc. 6-9; H is disappointed; relatively few new items); Willkomm, M.J., Bot. Zeit. 13: 118-123. 16 Feb, 140-143. 23 Feb, 149-155, 2 Mar, 169-176. 9 Mar, 1855; B. Seemann, Bonplandia 3: 109-110. 1 Mai 1855, 3: 209-210. 1 Aug 1855; M.J. Willkomm, Bonplandia 3: 227-228. 1 Aug 1855.
-(4) *Reviews*: A. E. Fürnrohr, Flora 42: 186-190. 1859 (fasc. 1-15), B. Seemann, Bonplandia 3: 44-46. 15 Feb 1855; D.F.L. von Schlechtendal, Bot. Zeit. 10: 623-624. 3 Sep 1852 (announcement), 11: 488-490. 1853, 12: 67-68. 1854.
+- (2) For dates see e.g. F.G. Wiltshear (1915, p. 370-371).
+- (3) *Critiscism and anticriticism*: W.J. Hooker, Kew J. Bot. 5: 94-96. Mar 1853 (fasc. 1), 6: 352. Nov 1854 (fasc. 3-5), 7: 348-349. Nov 1855 (fasc. 6-9; H is disappointed; relatively few new items); Willkomm, M.J., Bot. Zeit. 13: 118-123. 16 Feb, 140-143. 23 Feb, 149-155, 2 Mar, 169-176. 9 Mar, 1855; B. Seemann, Bonplandia 3: 109-110. 1 Mai 1855, 3: 209-210. 1 Aug 1855; M.J. Willkomm, Bonplandia 3: 227-228. 1 Aug 1855.
+- (4) *Reviews*: A. E. Fürnrohr, Flora 42: 186-190. 1859 (fasc. 1-15), B. Seemann, Bonplandia 3: 44-46. 15 Feb 1855; D.F.L. von Schlechtendal, Bot. Zeit. 10: 623-624. 3 Sep 1852 (announcement), 11: 488-490. 1853, 12: 67-68. 1854.
 
 ##### n.17.847. Anleitung zum Studium der wissenschaftlichen Botanik
 

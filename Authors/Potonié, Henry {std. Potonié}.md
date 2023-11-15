@@ -37,7 +37,7 @@ AG 6(2): 913; Andrews p. 314; Barnhart 3: 103; BFM no. 13; BJI 1: 46, 2: 139; BM
 
 #### Composite works
 
-(1) Contributed to EP, *Die natürlichen Pflanzenfamilien*: *Fossile Filicales*, 1(4): 473-480. Aug 1900, 481-515. Nov 1900.
+- (1) Contributed to EP, *Die natürlichen Pflanzenfamilien*: *Fossile Filicales*, 1(4): 473-480. Aug 1900, 481-515. Nov 1900.
 *Sphenophyllaceae*, 1(4): 515-519. Nov 1900.
 *Fossile Equisetaceae*, 1(4): 548-551. Jan 1901.
 *Calamariaceae*, 1(4): 551-558. Jan 1901.
@@ -51,11 +51,11 @@ AG 6(2): 913; Andrews p. 314; Barnhart 3: 103; BFM no. 13; BJI 1: 46, 2: 139; BM
 *Lepidophyta*, 1(4): 779-780. 4 Jan 1902 (Bay), rather Feb 1902.
 *Cycadofilices*, 1(4): 780-798. 4 Jan 1902 (Bay), rather Feb 1902.
 *Bennettiaceae*, Nachtr. 2-4: 14-17 Jul 1897.
-(2) *Editor*: *Naturwissenschaftliche Wochenschrift*, 1-28, 1888-1913.
-(3) Contributed "Kultureinflüsse auf Sumpf und Moor" to F. Wahnschaffe et al., *Der Grunewald bei Berlin*, Jena 1907.
-(4) *Editor*: *Palaeobotanische Zeitschrift*, Bd. 1, Heft 1, †, 1912.
-(5) With W. Gothan, *Vegetationsbilder der Jetzt* – *und Vorzeit, pl. 1-8*, 1907-1922.
-(6) Collaborator, C.K. Schneider's *Illustriertes Handwörterbuch der Botanik*, ed. 2, 1917. See C.K. Schneider.
+- (2) *Editor*: *Naturwissenschaftliche Wochenschrift*, 1-28, 1888-1913.
+- (3) Contributed "Kultureinflüsse auf Sumpf und Moor" to F. Wahnschaffe et al., *Der Grunewald bei Berlin*, Jena 1907.
+- (4) *Editor*: *Palaeobotanische Zeitschrift*, Bd. 1, Heft 1, †, 1912.
+- (5) With W. Gothan, *Vegetationsbilder der Jetzt* – *und Vorzeit, pl. 1-8*, 1907-1922.
+- (6) Collaborator, C.K. Schneider's *Illustriertes Handwörterbuch der Botanik*, ed. 2, 1917. See C.K. Schneider.
 
 #### Eponymy
 

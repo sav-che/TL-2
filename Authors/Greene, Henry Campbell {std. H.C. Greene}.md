@@ -27,8 +27,8 @@ Greene Prairie (dedicated 8 Mai 1967), Univ. of Wisconsin Arboretum, Madison.
 
 #### Outside our period
 
-(1) Greene published at least thirty-three *Notes on Wisconsin parasitic fungi*... 1940-1968!, which appeared in various journals (e.g. Amer. Midl. Naturalist, Farlowia and Trans. Wisconsin Acad. Sci.). The series was a continuation of *Notes on parasitic fungi in Wisconsin* 1\[-20\] by John Jefferson Davis (1852-1937), see TL-2/Suppl. 5, nr. 29.244.
-(2) Greene, H.C. & J.T. Curtis, A *bibliography* of *Wisconsin vegetation*, Milwaukee Public Mus. Publ. Bot. 1: 1-84. 1955.
+- (1) Greene published at least thirty-three *Notes on Wisconsin parasitic fungi*... 1940-1968!, which appeared in various journals (e.g. Amer. Midl. Naturalist, Farlowia and Trans. Wisconsin Acad. Sci.). The series was a continuation of *Notes on parasitic fungi in Wisconsin* 1\[-20\] by John Jefferson Davis (1852-1937), see TL-2/Suppl. 5, nr. 29.244.
+- (2) Greene, H.C. & J.T. Curtis, A *bibliography* of *Wisconsin vegetation*, Milwaukee Public Mus. Publ. Bot. 1: 1-84. 1955.
 
 ### Publications
 

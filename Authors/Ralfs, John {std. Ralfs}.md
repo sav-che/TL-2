@@ -8,7 +8,8 @@ Ralfs, John (1807-1890), British botanist; studied medicine in Guy's Hospital, L
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (phanerogams at [[Collection K|K]]); other material at [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection SLBI|SLBI]]. – *Exsiccatae*: *British algae* (ca. 1830), nos. 1-40, sets at [[Collection FH|FH]], [[Collection PC|PC]]. – Manuscript flora of W. Cornwall and Scilly at Penzance library. Letters at [[Collection BM|BM]] and [[Collection K|K]].
+[[Collection BM|BM]] (phanerogams at [[Collection K|K]]); other material at [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection SLBI|SLBI]].
+*Exsiccatae*: *British algae* (ca. 1830), nos. 1-40, sets at [[Collection FH|FH]], [[Collection PC|PC]]. – Manuscript flora of W. Cornwall and Scilly at Penzance library. Letters at [[Collection BM|BM]] and [[Collection K|K]].
 
 #### Bibliography and biography
 

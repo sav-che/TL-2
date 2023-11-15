@@ -30,9 +30,9 @@ Barnhart 3: 294; BB p. 281; BM 4: 1948; Bossert p. 373; CSP 5: 729, 8: 972; Desm
 
 #### Composite works
 
-(1) *Filices*, Lycopodiaceae, Equisetaceae and Marsiliaceae *in* B.C. Seeman, *Bot. Voy. Herald* 1852-1857, q.v. (p. 44, 236-243, 244, 337-344, 425-431.
-(2) Contributed notes to C. Maron, *Fougères*, 1896, TL-25438.
-(3) *An enumeration of ferns cultivated in the Royal Gardens at Kew*, in December 1845; with characters and observations on some of the genera and species *in* Comp. Bot. Mag. 3(2): 7-39. 1846.
+- (1) *Filices*, Lycopodiaceae, Equisetaceae and Marsiliaceae *in* B.C. Seeman, *Bot. Voy. Herald* 1852-1857, q.v. (p. 44, 236-243, 244, 337-344, 425-431.
+- (2) Contributed notes to C. Maron, *Fougères*, 1896, TL-25438.
+- (3) *An enumeration of ferns cultivated in the Royal Gardens at Kew*, in December 1845; with characters and observations on some of the genera and species *in* Comp. Bot. Mag. 3(2): 7-39. 1846.
 
 ### Publications
 

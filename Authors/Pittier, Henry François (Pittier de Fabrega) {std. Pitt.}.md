@@ -47,8 +47,8 @@ Barnhart 3: 90; BJI 2: 136; BL 1: 146, 147, 260, 313, 2: 589, 703; BM 4: 1580; B
 
 #### Composite works
 
-(1) with Th. Durand, *Cat. fl. Vaud.*, 1882-1885, see TL-2/1590.
-(2) with T. Lasser, L. Schnee, Z. Luces de Febres and V. Badillo: *Catalogo de la flora venezolana*, 1: \[1\]-423. 1945, 2: \[1\]-577. Sep 1947. *Copies*: BR, US.
+- (1) with Th. Durand, *Cat. fl. Vaud.*, 1882-1885, see TL-2/1590.
+- (2) with T. Lasser, L. Schnee, Z. Luces de Febres and V. Badillo: *Catalogo de la flora venezolana*, 1: \[1\]-423. 1945, 2: \[1\]-577. Sep 1947. *Copies*: BR, US.
 
 #### Eponymy
 
@@ -93,11 +93,11 @@ Instituto fisico-geografico nacional. *Primitiae florae costaricensis* par H. Pi
 *Vol. 3*: edited by H. Pittier.
 *1*: Jan-Feb 1901 (Bot. Centralbl. 27 Mar 1901; Nat. Nov. Apr(1) 1901), p. \[1\]-62, \[1-7\]. *Copies*: BR, USDA. – Tome Ill-fascicule I. – Filices,... Rhizocarpaceae. Auctore H. Christ. San José de Costa Rica, A.C. 1901. Instituto de fisico-geografico nacional. Treatment continued from vol. 1(3), 1896, Filices by E. Bommer & H. Christ.
 *2*: In Bulletin Herb. Boissier; Filices ctd. by H. Christ.
-(1): 31 Aug 1904, p. \[1\]-16. Bull. ser. 2. 4: 936-951.
-(2): 30 Sep 1904, p. 17-33, ib. 4: 957-972.
-(3): 31 Oct 1904, p. 33-48, ib. 4: 1089-1104.
-(4): 30 Dec 1904, p. 49-63, ib. 5: 1-16.
-(5): 28 Feb 1905, p. \[65\]-77, ib. 5: 248-260.
+- (1): 31 Aug 1904, p. \[1\]-16. Bull. ser. 2. 4: 936-951.
+- (2): 30 Sep 1904, p. 17-33, ib. 4: 957-972.
+- (3): 31 Oct 1904, p. 33-48, ib. 4: 1089-1104.
+- (4): 30 Dec 1904, p. 49-63, ib. 5: 1-16.
+- (5): 28 Feb 1905, p. \[65\]-77, ib. 5: 248-260.
 *Vol. 2, folio edition*: 1907, p. \[77\]-223. – *Copy*: BR. – This folio issue, with the text in two columns, without imprint, was issued in San José, 1907, according to a statement in Bot. Jahrb. 41 (Lit.): 53. 1908. We do not know why the pagination starts with p. \[77\]. The contents of this seemingly unique issue are:
 *Polypetalae*, pars, J. D. Smith, p. \[81\]-150.
 *Piperaceae*, C. de Candolle, p. \[151\]-180.

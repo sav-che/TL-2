@@ -33,7 +33,7 @@ Backer p. 656; Barnhart 2: 389; BFM no. 2293, 2294; BJI 2: 107; BL 2: 512, 516, 
 
 W. T. Aiton, *Hort. kew.* 1: 403-405, 413, 414, 415-421, 460, 3: 473, 477-478. 1789; descriptions of new taxa by L. fil., listed by KR p. 464, based on a manuscript "Descriptiones Liliorum et Palmarum" at LINN.
 
-#### Dissertations defended under linnaeus f. but not written by him
+#### Dissertations defended under Linnaeus f. but not written by him
 
 1. Naezén, D. E., *Nova graminum genera*, 1779, TL-2/6620, STR 6862. 2. Lundmark, J. D., *De Lavandula*, 1780, TL-2/5107, STR 6049.
 3. Swartz, O., *Methodus muscorum illustrata*, 1781, STR 6052.

@@ -23,7 +23,7 @@ AG 2(2): 466; Backer p. 478; Barnhart 3: 118 (d. 22 Oct 1841); IH 1 (ed. 3): 119
 
 #### Composite works
 
-(1) A. Richard, *Tentamen florae Abyssinicae* 1847, q.v., is based on the collections made by R. Quartin-Dillon & A. Petit, 1838-1843. This is part 3, torn. 4-5 of *Voyage en Abyssinie*, exécuté pendant... 1839-1843, 6 vols., atlas, 1845-1851.
+- (1) A. Richard, *Tentamen florae Abyssinicae* 1847, q.v., is based on the collections made by R. Quartin-Dillon & A. Petit, 1838-1843. This is part 3, torn. 4-5 of *Voyage en Abyssinie*, exécuté pendant... 1839-1843, 6 vols., atlas, 1845-1851.
 
 #### Eponymy
 

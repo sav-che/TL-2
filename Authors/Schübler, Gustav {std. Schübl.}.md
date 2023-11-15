@@ -30,8 +30,8 @@ ADB 32: 639-640 (E. Wunschman); Barnhart 3: 243 (b. 15 Aug 1787, d. 8 Sep 1834);
 
 #### Composite works
 
-(1) With G. v. Martens, *Fl. Würtemberg* \[ed. 1\] 1834, see TL-2/5480. *Copies*: B-S, G, HH, M, NY. *Date of publication*: 20-21 Sep 1834 (Vers. deut. Naturf. 23 or 24 Sep 1834; Schwäbische Chronik 21 Sep ("soeben"), inf. S. Seybold; Hinrichs 19-25 Oct 1834). *Reviews*: Anon., Flora 18(1), Lit.-Ber. 1: 1-10. 21 Feb 1835. *Supplement*: see W. Lechler. *Suppl. Fl. Württemberg* 1844, TL-2/4270. – See also J. Holub, Folia geobot. phytotax. 18(3): 325-328. 1983 (some neglected subspecies names from Schübler and Martens).
-(2) *Überblick* (on p. 55) in Frid. Hartmann, *Systematische Übersicht der Versteinerungen Würtembergs*, mit vorzüglicher Rücksicht der in den Umgebungen von Boll sich findenden,... Tübingen (in Commission bei Heinrich Lanpp) 1830, p. \[i\]-vi, \[7\]-55, \[56, err.\]. *Copy*: NSUB.
+- (1) With G. v. Martens, *Fl. Würtemberg* \[ed. 1\] 1834, see TL-2/5480. *Copies*: B-S, G, HH, M, NY. *Date of publication*: 20-21 Sep 1834 (Vers. deut. Naturf. 23 or 24 Sep 1834; Schwäbische Chronik 21 Sep ("soeben"), inf. S. Seybold; Hinrichs 19-25 Oct 1834). *Reviews*: Anon., Flora 18(1), Lit.-Ber. 1: 1-10. 21 Feb 1835. *Supplement*: see W. Lechler. *Suppl. Fl. Württemberg* 1844, TL-2/4270. – See also J. Holub, Folia geobot. phytotax. 18(3): 325-328. 1983 (some neglected subspecies names from Schübler and Martens).
+- (2) *Überblick* (on p. 55) in Frid. Hartmann, *Systematische Übersicht der Versteinerungen Würtembergs*, mit vorzüglicher Rücksicht der in den Umgebungen von Boll sich findenden,... Tübingen (in Commission bei Heinrich Lanpp) 1830, p. \[i\]-vi, \[7\]-55, \[56, err.\]. *Copy*: NSUB.
 
 #### Eponymy
 

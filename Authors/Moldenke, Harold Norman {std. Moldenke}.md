@@ -23,10 +23,10 @@ Barnhart 2: 502; BFM 3209; BL 1: 198, 309; Bossert p. 271; GR p. 233; Hortus 3: 
 
 #### Composite works
 
-(1)NAF, *Eriocaulaceae* 19(1): 17-50. 27 Nov 1937.
-(2) *Phytologia*, vols. 1-x, 1933-x; founder, editor, owner.
-(3)*Flora of Suriname* (ed. A. A. Pulle), *Avicenniaceae*, 4(2): 322-325. Jul 1940.
-(4)*Flore de Madagascar* (ed. H. Humbert), *Verbénacées*, fam. 174, p. \[1\]-273, *Avicenniacées*, fam. 174 bis, p. \[1\]-5. Oct 1956.
+- (1) NAF, *Eriocaulaceae* 19(1): 17-50. 27 Nov 1937.
+- (2) *Phytologia*, vols. 1-x, 1933-x; founder, editor, owner.
+- (3) *Flora of Suriname* (ed. A. A. Pulle), *Avicenniaceae*, 4(2): 322-325. Jul 1940.
+- (4) *Flore de Madagascar* (ed. H. Humbert), *Verbénacées*, fam. 174, p. \[1\]-273, *Avicenniacées*, fam. 174 bis, p. \[1\]-5. Oct 1956.
 
 #### Eponymy
 

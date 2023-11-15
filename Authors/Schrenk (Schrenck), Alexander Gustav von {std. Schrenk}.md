@@ -31,7 +31,7 @@ ADB 32: 484-485 (L. v. Schroeder); AG 1: 201; Backer p. 520; Barnhart 3: 241 (b.
 
 #### Composite works
 
-(1) F.E.L. von Fischer & C.A. von Meyer, *Enumeratio plantarum novarum* a cl. Schrenk lectarum, 1841-1842, 2 parts, see TL-2/1787. Several of the taxa are attributed to Schrenk. Fischer and Meyer signed the preface but must have contributed significantly to the text (see also the preface itself) as is shown by other taxa which are attributed to themselves. *Copies*: B-S, BG, G, HH, KNAW, NY, US. *Review*: D.F.L. von Schlechtendal, Linnaea 16 (Litt.): 148-152. 1843.
+- (1) F.E.L. von Fischer & C.A. von Meyer, *Enumeratio plantarum novarum* a cl. Schrenk lectarum, 1841-1842, 2 parts, see TL-2/1787. Several of the taxa are attributed to Schrenk. Fischer and Meyer signed the preface but must have contributed significantly to the text (see also the preface itself) as is shown by other taxa which are attributed to themselves. *Copies*: B-S, BG, G, HH, KNAW, NY, US. *Review*: D.F.L. von Schlechtendal, Linnaea 16 (Litt.): 148-152. 1843.
 
 #### Handwriting
 

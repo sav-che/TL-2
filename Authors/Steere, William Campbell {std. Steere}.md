@@ -8,7 +8,8 @@ Steere, William Campbell (1907-x), American botanist; Dr. phil. Univ. Mich. 1932
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (from 1958), [[Collection NY|NY]]-DS (1950-1958), [[Collection MICH|MICH]] (to 1950). Other material at [[Collection ALA|ALA]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection GH|GH]], [[Collection H|H]], [[Collection K|K]], [[Collection LA|LA]], [[Collection LCU|LCU]], [[Collection MEDEL|MEDEL]], [[Collection MO|MO]], [[Collection NY|NY]] (before 1958), [[Collection NY|NY]], [[Collection PH|PH]], [[Collection QK|QK]], [[Collection S|S]], [[Collection US|US]]. *Exsiccatae*: Bryophyta arctica exsiccata, fasc, 1 (nos. 1-50), 1975-x (fasc. 1-2 with K.A. Holmen). Sets e.g. at [[Collection C|C]], [[Collection H|H]], [[Collection NY|NY]]. *Correspondence* at [[Collection NY|NY]]; other *letters* at [[Collection G|G]], [[Collection GH|GH]], [[Collection HU|HU]], SIA. *Field notes*: [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection US|US]] (Cinchona project).
+[[Collection NY|NY]] (from 1958), [[Collection NY|NY]]-DS (1950-1958), [[Collection MICH|MICH]] (to 1950). Other material at [[Collection ALA|ALA]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection GH|GH]], [[Collection H|H]], [[Collection K|K]], [[Collection LA|LA]], [[Collection LCU|LCU]], [[Collection MEDEL|MEDEL]], [[Collection MO|MO]], [[Collection NY|NY]] (before 1958), [[Collection NY|NY]], [[Collection PH|PH]], [[Collection QK|QK]], [[Collection S|S]], [[Collection US|US]].
+*Exsiccatae*: Bryophyta arctica exsiccata, fasc, 1 (nos. 1-50), 1975-x (fasc. 1-2 with K.A. Holmen). Sets e.g. at [[Collection C|C]], [[Collection H|H]], [[Collection NY|NY]]. *Correspondence* at [[Collection NY|NY]]; other *letters* at [[Collection G|G]], [[Collection GH|GH]], [[Collection HU|HU]], SIA. *Field notes*: [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection US|US]] (Cinchona project).
 
 #### Bibliography and biography
 
@@ -34,13 +35,13 @@ Andrews p. 335; Barnhart 3: 320 (b. 4 Nov 1907); BFM 3270; Bossert p. 381; IH 1 
 
 #### Composite works
 
-(1) Introduction to facsimile ed. of A. Jaeger and F.W. Sauerbeck, *Gen. sp. musc*. 1869-1880, TL-2/3263.
-(2) Editor, Michigan Academy of Science, Arts and Letters, 1936-1940.
-(3) Associate editor, *Annales bryologici*, 1938-1942.
-(4) Editor-in-chief, *The Bryologist* 1938-1954, associate editor 1960-1967.
-(5) Editor-in-chief, *American Journal of Botany*, 1853-1957.
-(6) Contributed to A.J. Grout, *Moss fl. N. Amer*.: *Erpodiaceae*, 2(2): 103-106, *pl. 44*. 1935 (see also Bryologist 37: 74-75, 96-101. 1934), *Calymperaceae*, 1(2): 129-134, *pl. 65-68*. 1937. *Didymodon, Barbuta*, 1(3): 173-191. *pl. 86-90*. 1938. *Tortula*, 1(4): 228-246, *pl. 103a, 111-118*. 1939.
-(7) *Musci*, in *Botany of the Canadian Eastern Arctic*, Natl. Mus. Canada, Bull. 97: 370-490. 1947.
+- (1) Introduction to facsimile ed. of A. Jaeger and F.W. Sauerbeck, *Gen. sp. musc*. 1869-1880, TL-2/3263.
+- (2) Editor, Michigan Academy of Science, Arts and Letters, 1936-1940.
+- (3) Associate editor, *Annales bryologici*, 1938-1942.
+- (4) Editor-in-chief, *The Bryologist* 1938-1954, associate editor 1960-1967.
+- (5) Editor-in-chief, *American Journal of Botany*, 1853-1957.
+- (6) Contributed to A.J. Grout, *Moss fl. N. Amer*.: *Erpodiaceae*, 2(2): 103-106, *pl. 44*. 1935 (see also Bryologist 37: 74-75, 96-101. 1934), *Calymperaceae*, 1(2): 129-134, *pl. 65-68*. 1937. *Didymodon, Barbuta*, 1(3): 173-191. *pl. 86-90*. 1938. *Tortula*, 1(4): 228-246, *pl. 103a, 111-118*. 1939.
+- (7) *Musci*, in *Botany of the Canadian Eastern Arctic*, Natl. Mus. Canada, Bull. 97: 370-490. 1947.
 
 #### Festschrift
 

@@ -30,11 +30,11 @@ AG 12(3): 168; BFM 618, 619; Biol. Dokum. 17: 8725-8726; BJI 2: 167; Bossert p. 
 
 #### Composite works
 
-(1) *in* EP, *Mat. Pflanzenfam., Olacaceae* 16b: 5-32, 339. 1935, *Opiliaceae* 16b: 33-41, 339. 1935.
-(2) *in* A.A. Pulle, *Fl. Suriname, Flacourtiaceae* 3(1): 282-303. Jun 1935 (with H. Uittien).
-(3) *Die Pflanzenwelt des Kaiserstuhls, in* R. Lais et al., *Der Kaiserstuhl* eine Naturgeschichte des Vulkangebirges am Oberrhein, Freiburg im Breisgau 1933, p. 158-267 \[complete volume: frontisp., p. \[i\]-xii, \[1\]-272. 1933\]. – Continuation and revision see below.
-(4) *Flacourtiaceae*, Flora neotropica, Monogr. 22, New York 1980. 499 p.
-(5) *Proteaceae, Ericaceae, Flacourtiaceae* (Asiat.), *in* E.R. Farr et al. *Index nominum genericorum*, 1979 (205 texts).
+- (1) *in* EP, *Mat. Pflanzenfam., Olacaceae* 16b: 5-32, 339. 1935, *Opiliaceae* 16b: 33-41, 339. 1935.
+- (2) *in* A.A. Pulle, *Fl. Suriname, Flacourtiaceae* 3(1): 282-303. Jun 1935 (with H. Uittien).
+- (3) *Die Pflanzenwelt des Kaiserstuhls, in* R. Lais et al., *Der Kaiserstuhl* eine Naturgeschichte des Vulkangebirges am Oberrhein, Freiburg im Breisgau 1933, p. 158-267 \[complete volume: frontisp., p. \[i\]-xii, \[1\]-272. 1933\]. – Continuation and revision see below.
+- (4) *Flacourtiaceae*, Flora neotropica, Monogr. 22, New York 1980. 499 p.
+- (5) *Proteaceae, Ericaceae, Flacourtiaceae* (Asiat.), *in* E.R. Farr et al. *Index nominum genericorum*, 1979 (205 texts).
 
 #### Note
 

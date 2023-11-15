@@ -29,9 +29,9 @@ Barnhart 2: 127; BM 2: 786, 6: 434; BL 2: 103, 123, 665; Bossert p. 163; CSP 7: 
 
 #### Composite works
 
-(1) *Algae, Fungi, in*: *Mission scientifique du Cap Horn* 1882-1883, vol. 5. 1889 (BM 2: 603) see below.
-(2) *Notes sur les collections cryptogamiques* (no. 15), *in* Bienaimé et al., *Voyage de "la Manche" à l'île Jan Moyen et au Spitzberg* (juillet-août 1892). Paris 1894. Oct. (BM 2: 925).
-(3) Contributed to Askenasy, *Forschungsreise Gazelle, Bot., Alg.*, 1888, see TL 2/202.
+- (1) *Algae, Fungi, in*: *Mission scientifique du Cap Horn* 1882-1883, vol. 5. 1889 (BM 2: 603) see below.
+- (2) *Notes sur les collections cryptogamiques* (no. 15), *in* Bienaimé et al., *Voyage de "la Manche" à l'île Jan Moyen et au Spitzberg* (juillet-août 1892). Paris 1894. Oct. (BM 2: 925).
+- (3) Contributed to Askenasy, *Forschungsreise Gazelle, Bot., Alg.*, 1888, see TL 2/202.
 
 #### Eponymy
 

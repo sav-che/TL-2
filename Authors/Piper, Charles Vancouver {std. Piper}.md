@@ -8,7 +8,8 @@ Piper, Charles Vancouver (1867-1926), American botanist; M.Sc. Univ. Washington 
 
 #### Herbarium and types
 
-Main collections and most types at [[Collection US|US]]; private herbarium at [[Collection WS|WS]] (acquired 1926); further material e.g. in [[Collection A|A]], [[Collection B|B]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection US|US]], [[Collection WCW|WCW]], [[Collection WS|WS]], [[Collection WSP|WSP]] (fungi), [[Collection WTU|WTU]]. Manuscripts, books, separates and notes at Washington State University Library (see NW p. 24-27). *Exsiccatae*: *Musci occidentali-americani* 1902, set at [[Collection NY|NY]]. – Letters at [[Collection G|G]], [[Collection PH|PH]].
+Main collections and most types at [[Collection US|US]]; private herbarium at [[Collection WS|WS]] (acquired 1926); further material e.g. in [[Collection A|A]], [[Collection B|B]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection US|US]], [[Collection WCW|WCW]], [[Collection WS|WS]], [[Collection WSP|WSP]] (fungi), [[Collection WTU|WTU]]. Manuscripts, books, separates and notes at Washington State University Library (see NW p. 24-27).
+*Exsiccatae*: *Musci occidentali-americani* 1902, set at [[Collection NY|NY]]. – Letters at [[Collection G|G]], [[Collection PH|PH]].
 
 #### \[Bibliography and biography\]
 

@@ -8,7 +8,8 @@ Koso-Poliansky, Boris Mikhailovich (1890-1957), Russian botanist.
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: *Herbarium florae rossicae* (1898-1922).
+Unknown.
+*Exsiccatae*: *Herbarium florae rossicae* (1898-1922).
 
 #### Bibliography and biography
 

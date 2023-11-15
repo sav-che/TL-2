@@ -22,8 +22,8 @@ Barnhart 1: 508 (b. 1891 \[sic\]); Bossert p. 116 (b. 18 Oct 1872 \[sic\]); Kew 
 
 #### Composite works
 
-(1) Report of the first scientific expedition to Manchoukuo, sect. 4, part 3, *Myxomycetes of Jehol*, see TL-2/no. 6627.
-(2) Nov. fl. jap., *Myxomycetes* (1942) by Y. Emoto, see TL-2/no. 6629.
+- (1) Report of the first scientific expedition to Manchoukuo, sect. 4, part 3, *Myxomycetes of Jehol*, see TL-2/no. 6627.
+- (2) Nov. fl. jap., *Myxomycetes* (1942) by Y. Emoto, see TL-2/no. 6629.
 
 ### Publications
 

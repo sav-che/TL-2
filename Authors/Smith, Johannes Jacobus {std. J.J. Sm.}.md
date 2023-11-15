@@ -35,11 +35,11 @@ Barnhart 3: 294 (err. "Joannes"; b. 29 Jun 1867, d. 14 Jan 1947); Biol.-Dokum. 1
 
 #### Composite works
 
-(1) Contributed to *Icones bogorienses*: for details see the bibliography by van Slooten (1937).
-(2) Contributed to S.H. Koorders and Th. Valeton, *Bijdr. booms. Java* 11: 1-30, 274-277. 1906 (*Taxotrophis, Streblus, Phyllochlamys, Artocarpus, Gymnartocarpus, Antiaris*), 12: 1-872. 1910, 13: 61-171. 1914 (*Violac, Morac, Hamamel., Clethr., Eric.*).
-(3) *Orchidaceae, in* L.S. Gibbs, Contr. phytogr. fl. Arfak Mts. 105-127, 203-206. 1917, *Epacridaceae*, id. p. 167-168, *Ericaceae*, p. 168-174.
-(4) *Orchidaceae, in* E.D. Merrill, Interpr. Rumph. Herb. amboin. 168-179. 1917.
-(5) Contributed to *Nova Guinea*. Résultat de l'expédition scientifique néerlandaise à la Nouvelle Guinée en 1907 sous les auspices du Dr. H.A. Lorentz:
+- (1) Contributed to *Icones bogorienses*: for details see the bibliography by van Slooten (1937).
+- (2) Contributed to S.H. Koorders and Th. Valeton, *Bijdr. booms. Java* 11: 1-30, 274-277. 1906 (*Taxotrophis, Streblus, Phyllochlamys, Artocarpus, Gymnartocarpus, Antiaris*), 12: 1-872. 1910, 13: 61-171. 1914 (*Violac, Morac, Hamamel., Clethr., Eric.*).
+- (3) *Orchidaceae, in* L.S. Gibbs, Contr. phytogr. fl. Arfak Mts. 105-127, 203-206. 1917, *Epacridaceae*, id. p. 167-168, *Ericaceae*, p. 168-174.
+- (4) *Orchidaceae, in* E.D. Merrill, Interpr. Rumph. Herb. amboin. 168-179. 1917.
+- (5) Contributed to *Nova Guinea*. Résultat de l'expédition scientifique néerlandaise à la Nouvelle Guinée en 1907 sous les auspices du Dr. H.A. Lorentz:
 *Die Orchideen von Niederländisch Neu-Guinea*, 8: 1-148, *pl. 1-46*. 1909. *Burmanniaceae*, 8: 193-196. *pl. 49*. 1909.
 *Corsiaceae*, 8: 197. 1909.
 *Stemonaceae*, 8: 198. 1909.

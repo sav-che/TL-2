@@ -37,10 +37,10 @@ Candollea 31: 153-154. 1976.
 
 #### Composite works
 
-(1) Edited *Flora danica* 1858-1880, vols. 16-17. (Heft 44 with Steenstrup; Hefte 45-51 and Suppl. 2, 3 by Lange alone; Suppl. 1 with F. M. Liebmann; see Oeder).
-(2) *Oversigt over Gronlands planter, in* H. Rink, *Gronland* 106-136. 1857 (see also Bull. Soc. bot. France 4: 831-835. 1858).
-(3) with H. M. Willkomm (q.v.): *Prodromus florae hispaniae*, 3 vols., 1861-1880.
-(4) for further publications with others see Christensen (1925).
+- (1) Edited *Flora danica* 1858-1880, vols. 16-17. (Heft 44 with Steenstrup; Hefte 45-51 and Suppl. 2, 3 by Lange alone; Suppl. 1 with F. M. Liebmann; see Oeder).
+- (2) *Oversigt over Gronlands planter, in* H. Rink, *Gronland* 106-136. 1857 (see also Bull. Soc. bot. France 4: 831-835. 1858).
+- (3) with H. M. Willkomm (q.v.): *Prodromus florae hispaniae*, 3 vols., 1861-1880.
+- (4) for further publications with others see Christensen (1925).
 
 #### Eponymy
 

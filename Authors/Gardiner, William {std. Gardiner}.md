@@ -8,7 +8,8 @@ Gardiner, William (1808-1852), Scottish umbrella-maker and amateur botanist.
 
 #### Herbarium and types
 
-[[Collection DEE|DEE]], also material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection GL|GL]], [[Collection GOD|GOD]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection OXF|OXF]], [[Collection SLBI|SLBI]], [[Collection TCD|TCD]], [[Collection TOR|TOR]]. Exsiccatae: *Twenty lessons on British mosses; first steps to a knowledge of that beautiful tribe of plants... illustrated with specimens* (46 pp., 18 specimens, Dundee 1846; *second series* 58 p., 25 specimens, Aug-Sep 1849, *third* enlarged edition 50 p., 38 specimens, fourth edition 51 p., 25 (or 33?) specimens 1852) (PR 3194), see Sayre for further details.
+[[Collection DEE|DEE]], also material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection GL|GL]], [[Collection GOD|GOD]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection OXF|OXF]], [[Collection SLBI|SLBI]], [[Collection TCD|TCD]], [[Collection TOR|TOR]].
+*Exsiccatae*: *Twenty lessons on British mosses; first steps to a knowledge of that beautiful tribe of plants... illustrated with specimens* (46 pp., 18 specimens, Dundee 1846; *second series* 58 p., 25 specimens, Aug-Sep 1849, *third* enlarged edition 50 p., 38 specimens, fourth edition 51 p., 25 (or 33?) specimens 1852) (PR 3194), see Sayre for further details.
 *Ref*.: IH 2: 217; Kent p. 55.
 - Urban, Gesch. Berlin-Dahlem 299. 1916.
 - Kent, British herbaria 55. 1953.

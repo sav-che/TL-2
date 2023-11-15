@@ -20,7 +20,7 @@ Barnhart 1: 207; BM 1: 183; CSP 1: 446, 7: 203 (7 papers); PR 879; Rehder 5(inde
 
 #### Note
 
-(1) See his *Etymologisch-botanische Nachlese* zu dem \[*Etym.-bot. Handw.-Buch*, see TL-2/18.137, author G.C. Wittstein\], *in* ÖBZ 4: 172-174, 181-183, 189-191, 198-199. 1854.
+- (1) See his *Etymologisch-botanische Nachlese* zu dem \[*Etym.-bot. Handw.-Buch*, see TL-2/18.137, author G.C. Wittstein\], *in* ÖBZ 4: 172-174, 181-183, 189-191, 198-199. 1854.
 
 ### Publications
 

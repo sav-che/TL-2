@@ -102,28 +102,33 @@ Bull. Jard. bot. État, Bruxelles, 27, 1957.
 
 **Notes**
 *Publ*.: in parallel series Pteridophytes, Bryophytes, Spermatophytes. *Copies*: BR, G, H, PH, U.
+
 *Ptéridophytes* par André Lawalrée (1921-x), 1950 (p. iv: Oct 1950, U rd. 30 Jan 1951), p. \[i\*, iii\*\], \[i\]-iv, (préface W. Robyns), \[1\]-194, \[195\], \[1, colo.\].
+
 *Bryophytes*:
-1(1): 1955 (t.p; BR rd. 9 Feb 1956), p. \[i\*, iii\*\], \[i\]-iv, (avant-propos, W. Robyns), \[1\]-131, \[1, colo.\]. Author: Constant Vanden Berghen (parts 1-3).
-(*2*): 1956, p. \[i, iii\], \[133\]-270, \[1, colo.\].
-(3): 1957 (BR rd. 10 Apr 1958), p. \[i, iii\], \[271\]-389. \[1, colo.\].
+- *1*(*1*): 1955 (t.p; BR rd. 9 Feb 1956), p. \[i\*, iii\*\], \[i\]-iv, (avant-propos, W. Robyns), \[1\]-131, \[1, colo.\]. Author: Constant Vanden Berghen (parts 1-3).
+	- (*2*): 1956, p. \[i, iii\], \[133\]-270, \[1, colo.\].
+	- (*3*): 1957 (BR rd. 10 Apr 1958), p. \[i, iii\], \[271\]-389. \[1, colo.\].
 *2*(*1*): 1959 (BR rd. 25 Feb 1960), p. \[i\*-vii\*\], \[1\]-111, \[1, colo.\]. *Authors*: Fernand Demaret et Émile Castagne.
-(*2*): 1961 (BR rd. 11 Jan 1962; U rd. 31 Jan 1962), p. \[i, iii\], \[123\]-231, \[1, colo.\].
-*Authors*: id.
-(*3*): 1964 (U rd. 4 Feb 1965), p. \[i, iii\], \[2331-397, \[1, colo.\]. *Authors*: id.
-*3*(*1*): 15 Feb 1968, p. \[i, iii\], \[1\]-112. *Authors*: Jean-Louis de Sloover & Fernand Demaret.
+	- (*2*): 1961 (BR rd. 11 Jan 1962; U rd. 31 Jan 1962), p. \[i, iii\], \[123\]-231, \[1, colo.\]. *Authors*: id.
+	- (*3*): 1964 (U rd. 4 Feb 1965), p. \[i, iii\], \[2331-397, \[1, colo.\]. *Authors*: id.
+- *3*(*1*): 15 Feb 1968, p. \[i, iii\], \[1\]-112. *Authors*: Jean-Louis de Sloover & Fernand Demaret.
+
 *Spermatophytes*:
-*1*(*1*): 1952 (BR rd. 1 Apr 1952), p. \[i, iii\*\], \[1\]-170 (preface Walter Robyns)\], \[1\]-170, \[1, colo.\]. *Author* (1-3): André Lawalrée.
-(*2*): 1953 (BR rd. 23 Mar 1953), p. \[i, iii\], \[170-349, \[1, colo.\]. (*3*): 1954 (BR rd. 18 Mar 1954), p. \[i, iii\], \[3513-505, \[1, colo.\].
-*2*(*1*): 1955 (BR rd. 12 Apr 1955), p. \[i\]-v, \[1\]-120. *Author* (1-3): André Lawalrée. (*2*): 1956 (BR rd. 10 Apr 1956), p. \[i, iii\], \[121\]-285.
-(*3*): 1957 (BR rd. 27 Mai 1957), p. \[i, iii\], \[287\]-490, \[1, colo.\].
-*3*(*1*): 1958 (BR rd. 12 Mai 1958), p. \[i-v\], \[1\]-152. *Authorship*: André Lawalrée (general fasc. 1-3), Joseph Legrain (*Rubus*).
-(*2*): 1959 (BR rd. 29 Mai 1959), p. \[i, iii\],\[153\]-306.
-(3): 1960 (BR rd. 30 Sep 1960), p. \[i, iii\], \[307\]-440.
-*4*(*1*): 1961 (BR rd. 10 Oct 1961), p. \[1\]-134. *Authorship*: André Lawalrée (in general), James Cullen (*Anthyllis*).
-(*2*): 1963 (BR rd. 19 Mar 1963), p. \[i, iii\], \[135\]-237.
-(*3*): 1964 (U rd. 24 Nov 1964); p. \[i, iii\], \[239\]-390.
-*5*(*1*): 1966 (BR rd. 19 Aug 1966), p. \[i-v\], \[1\]-208, \[1, colo.\]. *Author*: André Lawalrée.
+- *1*(*1*): 1952 (BR rd. 1 Apr 1952), p. \[i, iii\*\], \[1\]-170 (preface Walter Robyns)\], \[1\]-170, \[1, colo.\]. *Author* (1-3): André Lawalrée.
+	- (*2*): 1953 (BR rd. 23 Mar 1953), p. \[i, iii\], \[170-349, \[1, colo.\].
+	- (*3*): 1954 (BR rd. 18 Mar 1954), p. \[i, iii\], \[3513-505, \[1, colo.\].
+- *2*(*1*): 1955 (BR rd. 12 Apr 1955), p. \[i\]-v, \[1\]-120. *Author* (1-3): André Lawalrée.
+	- (*2*): 1956 (BR rd. 10 Apr 1956), p. \[i, iii\], \[121\]-285.
+	- (*3*): 1957 (BR rd. 27 Mai 1957), p. \[i, iii\], \[287\]-490, \[1, colo.\].
+- *3*(*1*): 1958 (BR rd. 12 Mai 1958), p. \[i-v\], \[1\]-152. *Authorship*: André Lawalrée (general fasc. 1-3), Joseph Legrain (*Rubus*).
+	- (*2*): 1959 (BR rd. 29 Mai 1959), p. \[i, iii\],\[153\]-306.
+	- (*3*): 1960 (BR rd. 30 Sep 1960), p. \[i, iii\], \[307\]-440.
+- *4*(*1*): 1961 (BR rd. 10 Oct 1961), p. \[1\]-134. *Authorship*: André Lawalrée (in general), James Cullen (*Anthyllis*).
+	- (*2*): 1963 (BR rd. 19 Mar 1963), p. \[i, iii\], \[135\]-237.
+	- (*3*): 1964 (U rd. 24 Nov 1964); p. \[i, iii\], \[239\]-390.
+- *5*(*1*): 1966 (BR rd. 19 Aug 1966), p. \[i-v\], \[1\]-208, \[1, colo.\]. *Author*: André Lawalrée.
+
 *Errata*: Bryophytes fasc. 1-2, loose, p. \[1-2\], fasc. 1-2-3, loose, 3 p. one-sided.
 *Ref*.: Robyns, W., Taxon 1: 37-38. 1952.
 

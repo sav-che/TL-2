@@ -30,5 +30,5 @@ AG 5(4): 33; Barnhart 1: 251; BB p. 45; BL 2: 235; BM 1: 235; Bossert p. 53; Clo
 
 #### Composite works
 
-(1) Contributed to H.C. Watson, *London cat. Brit. pl.* ed. 6. 1887.
+- (1) Contributed to H.C. Watson, *London cat. Brit. pl.* ed. 6. 1887.
 

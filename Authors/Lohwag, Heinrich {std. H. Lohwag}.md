@@ -19,8 +19,8 @@ Barnhart 2: 398; Bossert p. 242 (b. 10 Mai 1884, d. 22 Sep 1945); IH 2: 456; TL-
 
 #### Composite works
 
-(1) *Anatomie der Asco- und Basidiomyceten, in* Linsbauer, *Handbuch der* *Pflanzenanatomie*, Band 6, Abt. 2, Teilband 3c, 1941.
-(2) Collaborator, Hand.-Mazz., *Symb. sin.* 2, 1937.
+- (1) *Anatomie der Asco- und Basidiomyceten, in* Linsbauer, *Handbuch der* *Pflanzenanatomie*, Band 6, Abt. 2, Teilband 3c, 1941.
+- (2) Collaborator, Hand.-Mazz., *Symb. sin.* 2, 1937.
 
 #### Note
 

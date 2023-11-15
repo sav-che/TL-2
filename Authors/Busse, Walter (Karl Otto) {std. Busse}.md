@@ -28,14 +28,14 @@ Barnhart 1: 291 (b. Berlin 7 Dec 1865, d. Rome 15 Dec 1933); BJI 1: 8; BL 1: 57,
 
 #### Notes
 
-(1) *Über Gewürze I. Pfeffer*, Arb. Kais. Gesundheitsamt 9: 509-533, *2 pl*. 1894, II. *Muskatnüsse*, ib. 11: 390-410, *3 pl*. 1895, III. *Macis*, ib. 12: 628-660, *2 pl*. 1896, ib. 15: "2 Tafeln". 1898.
-(2) *Berichte über die Expedition nach den deutsch-ostafrikanischen Steppen*, Tropenpflanzer 4: 391-402, 579-598. 1900, 5: 20-32, 105-117, 299-317. 1901.
-(3) *Zur Frage der tropischen Versuchsstation in Usambara*... Tropenpflanzer 5: 270-272. 1901.
-(4) With E. Gilg, *Weitere Beiträge zur Kenntnis der Gattung Strychnos*... Bot. Jahrb. 36: 87-113. 1905.
-(5) *Bericht über die pflanzenpathologische Expedition nach Kamerun und Togo* 1904-1905, Beih. Tropenpfl. 7 (4/5): 163-283. 1906 (see below).
-(6) *Studienreisen* i. J. 1909 *nach Turkestan und Nordamerika*... Jahrb. deut. Landwirtsch. Ges. 25: 238-251. 1910.
-(7) *Gedenkblatt für Georg Schweinfurth*, Tropenpflanzer 28: 285-292. 1925.
-(8) Georg Schweinfurth. (Nachruf). Ber. deut. bot. Ges. 43 (Gen. Versamml.-Heft): 74-111. 1925.
+- (1) *Über Gewürze I. Pfeffer*, Arb. Kais. Gesundheitsamt 9: 509-533, *2 pl*. 1894, II. *Muskatnüsse*, ib. 11: 390-410, *3 pl*. 1895, III. *Macis*, ib. 12: 628-660, *2 pl*. 1896, ib. 15: "2 Tafeln". 1898.
+- (2) *Berichte über die Expedition nach den deutsch-ostafrikanischen Steppen*, Tropenpflanzer 4: 391-402, 579-598. 1900, 5: 20-32, 105-117, 299-317. 1901.
+- (3) *Zur Frage der tropischen Versuchsstation in Usambara*... Tropenpflanzer 5: 270-272. 1901.
+- (4) With E. Gilg, *Weitere Beiträge zur Kenntnis der Gattung Strychnos*... Bot. Jahrb. 36: 87-113. 1905.
+- (5) *Bericht über die pflanzenpathologische Expedition nach Kamerun und Togo* 1904-1905, Beih. Tropenpfl. 7 (4/5): 163-283. 1906 (see below).
+- (6) *Studienreisen* i. J. 1909 *nach Turkestan und Nordamerika*... Jahrb. deut. Landwirtsch. Ges. 25: 238-251. 1910.
+- (7) *Gedenkblatt für Georg Schweinfurth*, Tropenpflanzer 28: 285-292. 1925.
+- (8) Georg Schweinfurth. (Nachruf). Ber. deut. bot. Ges. 43 (Gen. Versamml.-Heft): 74-111. 1925.
 
 ### Publications
 

@@ -31,7 +31,7 @@ APN p. 244; Barnhart 2: 89; BL 2: 46, 323, 662; BM 2: 739; BN p. 175; Bossert p.
 
 #### Composite works
 
-(1) Co-author with J.S. Deichmann-Branth, *Grønlands Lichen-Flora*... 1888 (TL-2/Suppl. 3, nr. 22.575), which appears to be a preprint from a larger work by Johan Lange (1818-1898), viz. *Conspectus florae Groenlandicae*... 1880-1894 (TL-2/2, nr. 4185). The entry for TL-2/Suppl. 3, nr. 22.575 can be amended as follows since no copy of the preprint was cited earlier:
+- (1) Co-author with J.S. Deichmann-Branth, *Grønlands Lichen-Flora*... 1888 (TL-2/Suppl. 3, nr. 22.575), which appears to be a preprint from a larger work by Johan Lange (1818-1898), viz. *Conspectus florae Groenlandicae*... 1880-1894 (TL-2/2, nr. 4185). The entry for TL-2/Suppl. 3, nr. 22.575 can be amended as follows since no copy of the preprint was cited earlier:
 *First author*: Deichmann-Branth, Rev. Jakob Severin (1831-1917), treated in Suppl. 3: 21-22 and IH 2: 93 as "Branth", and in Suppl. 5: 164-165 and IH 2: 156 as "Deichmann-Branth"... "as this name often causes troubles".
 *Publ*.: 1888, cover-t.p., p. \[i\], \[449\]-513. *Copy*: G.
 

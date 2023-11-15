@@ -24,11 +24,11 @@ Barnhart 2: 136; BM 2: 796; LS 11496-11498; NI 811; PR 3836 (ed. 1: 4201); Steve
 #### Composite works
 
 Harzer contributed plates to:
-(1) H. G. L. Reichenbach, *Iconographia botanica* 1823-1832 (see NI 1602).
-(2) id., *Iconographia botanica exotica* 1827-1830 (see NI 1603).
-(3) id., *Icones florae germanicae et helveticae* 1837-x (see NI 1604).
-(4) id., *Illustratio Specierum Aconiti generis* 1823-1827 (see NI 1605).
-(5) H. B. Geinitz, *Charakteristik der Schichten und Petrefacten des Sächs.- böhm.- Kreidegebirges* 1839-1842 (*pl. 1-24*) (TL-2/1984).
+- (1) H. G. L. Reichenbach, *Iconographia botanica* 1823-1832 (see NI 1602).
+- (2) id., *Iconographia botanica exotica* 1827-1830 (see NI 1603).
+- (3) id., *Icones florae germanicae et helveticae* 1837-x (see NI 1604).
+- (4) id., *Illustratio Specierum Aconiti generis* 1823-1827 (see NI 1605).
+- (5) H. B. Geinitz, *Charakteristik der Schichten und Petrefacten des Sächs.- böhm.- Kreidegebirges* 1839-1842 (*pl. 1-24*) (TL-2/1984).
 
 ### Publications
 

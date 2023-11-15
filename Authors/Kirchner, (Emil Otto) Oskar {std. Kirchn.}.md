@@ -23,10 +23,10 @@ BL 2: 563; BM 2: 985; CSP 10: 402, 12: 386, 16: 288; De Toni 1: lxix, 2: lxix-lx
 
 #### Composite works
 
-(1) Cohn, *Krypt.-Fl. Schlesien, Algen*, 2(1): \[i\]-\[vii\], \[1\]-284. Sep-Oct 1878, see no. 1159.
-(2) EP, *Die natürlichen Pflanzenfamilien, Schizophyceae*, I, 1A: 45-92, publ.: Aug 1898 (TL-2/1710).
-(3) Started the *Lebensgeschichte der Blütenpflanzen Mitteleuropas*, with E. Loew and C. Schröter, later continued by W. Wangerin and C. Schröter, ultimately by Th. Schmucker, 1904-1942 (64 Lieferungen). Remained unfinished. See under Schröter. Lieferung 1 (p. 1-96, 97 figs., Stuttgart) came out Jan-Apr 1904 (rev. by Engler, Bot. Jahrb. 34(Lit.): 21. 1904). Kirchner co-authored parts 1-25, 1904-1925.
-(4) With C. Schröter, *Die Vegetation des Bodensees*, 2 vols. 1896, 1902. See under Schröter.
+- (1) Cohn, *Krypt.-Fl. Schlesien, Algen*, 2(1): \[i\]-\[vii\], \[1\]-284. Sep-Oct 1878, see no. 1159.
+- (2) EP, *Die natürlichen Pflanzenfamilien, Schizophyceae*, I, 1A: 45-92, publ.: Aug 1898 (TL-2/1710).
+- (3) Started the *Lebensgeschichte der Blütenpflanzen Mitteleuropas*, with E. Loew and C. Schröter, later continued by W. Wangerin and C. Schröter, ultimately by Th. Schmucker, 1904-1942 (64 Lieferungen). Remained unfinished. See under Schröter. Lieferung 1 (p. 1-96, 97 figs., Stuttgart) came out Jan-Apr 1904 (rev. by Engler, Bot. Jahrb. 34(Lit.): 21. 1904). Kirchner co-authored parts 1-25, 1904-1925.
+- (4) With C. Schröter, *Die Vegetation des Bodensees*, 2 vols. 1896, 1902. See under Schröter.
 
 #### Eponymy
 

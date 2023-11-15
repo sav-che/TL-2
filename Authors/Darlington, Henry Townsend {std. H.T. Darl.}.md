@@ -22,7 +22,8 @@ Barnhart 1: 419 (b. 23 Jun 1875, West Chester, Pa.); GR p. 212; IH 2: 152; Kew 2
 
 #### Outside our period
 
-(1) *Taxonomic and ecological work on the higher plants of Michigan*, Mich. State Coll. Agric. Exp. Sta. Techn. Bull. 201: 1-59, 2 portr., 1945. *Copy*: HH. (2) The *mosses of Michigan*... Bloomfield Hills, Mich. (Cranbrook Institute of Science) \[i-xi\], 1-212, *147 ill*. 1964. *Copies*: MO, U.
+- (1) *Taxonomic and ecological work on the higher plants of Michigan*, Mich. State Coll. Agric. Exp. Sta. Techn. Bull. 201: 1-59, 2 portr., 1945. *Copy*: HH.
+- (2) The *mosses of Michigan*... Bloomfield Hills, Mich. (Cranbrook Institute of Science) \[i-xi\], 1-212, *147 ill*. 1964. *Copies*: MO, U.
 
 ### Publications
 

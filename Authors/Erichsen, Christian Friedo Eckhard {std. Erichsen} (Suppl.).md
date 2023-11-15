@@ -31,12 +31,12 @@ Barnhart 1: 513; Christiansen p. 314 (index); GR p. 11; GR cat. p. 63; IH 2: 184
 
 #### Composite works
 
-(1) see TL-2/1: 798.
-(2) Die *Gattung Rubus*, *in* Schmeil und Fitschen, Flora von Deutschland, ed. 2, see TL-2: no.
+- (1) see TL-2/1: 798.
+- (2) Die *Gattung Rubus*, *in* Schmeil und Fitschen, Flora von Deutschland, ed. 2, see TL-2: no.
 10.844.
-(3) Die *Gattung Rubus*, in Christiansen, A. und W., Flora von Kiel, TL-2/suppl. 4: no. 26.352.
-(4) Die *Gattung Rubus*, *in* Petersen, Flora von Lübeck, TL-2: no. 7764.
-(5) Die *Flechten*, *in* Christiansen, Levsen, and Erichsen, Die Vegetation des Schutzgebietes Süderlügum in Schleswig-Holstein.
+- (3) Die *Gattung Rubus*, in Christiansen, A. und W., Flora von Kiel, TL-2/suppl. 4: no. 26.352.
+- (4) Die *Gattung Rubus*, *in* Petersen, Flora von Lübeck, TL-2: no. 7764.
+- (5) Die *Flechten*, *in* Christiansen, Levsen, and Erichsen, Die Vegetation des Schutzgebietes Süderlügum in Schleswig-Holstein.
 
 ### Publications
 

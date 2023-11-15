@@ -24,8 +24,8 @@ Barnhart 3: 103 (b. 7 Sep 1858); BJI 2: 47; BL 2: 238, 704; BM 4: 1603; CSP 11: 
 
 #### Composite works
 
-(1) Translated E. Warming, *Handbook of systematic botany* (1894).
-(2) *Botany, in* The Victoria history of the country of Durham: 35-81. 1905 (fide BL).
+- (1) Translated E. Warming, *Handbook of systematic botany* (1894).
+- (2) *Botany, in* The Victoria history of the country of Durham: 35-81. 1905 (fide BL).
 
 #### Note
 

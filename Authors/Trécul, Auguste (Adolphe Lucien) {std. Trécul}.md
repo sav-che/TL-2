@@ -30,8 +30,8 @@ Contributed to A.C.V.D. d'Orbigny, *Dict. univ. hist. nat*. 1840-1849, see TL-2/
 
 #### Note
 
-(1) For Trécul's publications on fermentation of beer, partly opposing L. Pasteur, see LS.
-(2) Trécul gave his address in 1884 to Morren (ed. 10, p. 55) as "hôtel de Londres, rue Linné 32" (cf. Jovet et Willmann, 1957, p. 85, note 2).
+- (1) For Trécul's publications on fermentation of beer, partly opposing L. Pasteur, see LS.
+- (2) Trécul gave his address in 1884 to Morren (ed. 10, p. 55) as "hôtel de Londres, rue Linné 32" (cf. Jovet et Willmann, 1957, p. 85, note 2).
 
 #### Eponymy
 

@@ -53,8 +53,8 @@ Ainsworth & Bisby's Dict. p. 190; APN p. 196; Backer p. 211; Baillon 2: 596; Bar
 
 #### Note
 
-(1) In 1830, Fée re-edited Linnaeus, *Syst. nat.*... 1735, see TL-2/3, nr. 4709 ("Editio prima reedita").
-(2) The following works by Fée are available in microfiche:
+- (1) In 1830, Fée re-edited Linnaeus, *Syst. nat.*... 1735, see TL-2/3, nr. 4709 ("Editio prima reedita").
+- (2) The following works by Fée are available in microfiche:
 (a) A version of *Fl. Virgile*... \[1822?\] (cf. TL-2/1, nr. 1751):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 3 microfiches (Plant taxonomic lit. microfiche coll., "8113B1-8115F1"). *Copy*: MO (n.v.).
 (b) *Essai crypt. Écorc.*... (1824-1837) (TL-2/1, nr. 1752):

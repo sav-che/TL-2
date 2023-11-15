@@ -21,11 +21,11 @@ Ainsworth p. 30; Andrews p. 274; Barnhart 2: 115; BFM 10, 15; BM 2: 775-776, 6: 
 
 #### Composite works
 
-(1) published ed. 5 of D. F. L. von Schlechtendal et al., *Flora von Deutschland*, 30 vols. and ind., 1880-1888.
-(2) W. D. J. Koch, *Taschenbuch der deutschen und schweizer Flora*, ed. 7 and 8, published and edited by Ernst Hallier, see under W. D. J. Koch. See TL2/3805.
-(3) W. D. J. Koch, *Synopsis der deutschen und schweizer Flora*, ed. 3, vols. 1-3, by E. Hallier, continued by R. Wohlfarth and A. Brand, 1890-1907; see under W.D.J. Koch, TL 2/3804.
-(4) *Zeitschrift für Parasitenkunde*, E. Hallier ed., vols. 1-4, 1869-1875.
-(5) Contributed to *Primit. fl. costaric.* (Th. Durand et H. Pittier); see TL 2/1592.
+- (1) published ed. 5 of D. F. L. von Schlechtendal et al., *Flora von Deutschland*, 30 vols. and ind., 1880-1888.
+- (2) W. D. J. Koch, *Taschenbuch der deutschen und schweizer Flora*, ed. 7 and 8, published and edited by Ernst Hallier, see under W. D. J. Koch. See TL2/3805.
+- (3) W. D. J. Koch, *Synopsis der deutschen und schweizer Flora*, ed. 3, vols. 1-3, by E. Hallier, continued by R. Wohlfarth and A. Brand, 1890-1907; see under W.D.J. Koch, TL 2/3804.
+- (4) *Zeitschrift für Parasitenkunde*, E. Hallier ed., vols. 1-4, 1869-1875.
+- (5) Contributed to *Primit. fl. costaric.* (Th. Durand et H. Pittier); see TL 2/1592.
 
 ### Publications
 

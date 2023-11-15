@@ -29,7 +29,7 @@ Barnhart 1: 305; BL 1: 125, 2: 207; BM 1: 306, 6: 176; Bossert p. 64; Hortus 3: 
 
 #### Composite works
 
-(1) See sub E.G. Camus for publications together with E.G. Camus.
+- (1) See sub E.G. Camus for publications together with E.G. Camus.
 
 #### Outside our period
 

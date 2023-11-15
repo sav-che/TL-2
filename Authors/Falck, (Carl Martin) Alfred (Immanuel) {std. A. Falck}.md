@@ -21,8 +21,8 @@ AG 12(1): 385; Barnhart 1: 525; BN p. 18, 172; CSP 7: 635; IH 2: 189; Jackson p.
 
 #### Composite works
 
-(1) *Anvisning till växternas insamling, preparering och undersökning med särskildt afseende pa kryptogamerna*... 1869, is Falck's Swedish transl. of this German work on Swedish cryptogams by Johann Nave (1831-1864).
-(2) Falck and C.F.O. Nordstedt re-established *Botaniska Notiser* in 1870 in Lund, after a short hiatus in its publication, and their first issue is dated 2 Jan 1871, one day before Falck's death.
+- (1) *Anvisning till växternas insamling, preparering och undersökning med särskildt afseende pa kryptogamerna*... 1869, is Falck's Swedish transl. of this German work on Swedish cryptogams by Johann Nave (1831-1864).
+- (2) Falck and C.F.O. Nordstedt re-established *Botaniska Notiser* in 1870 in Lund, after a short hiatus in its publication, and their first issue is dated 2 Jan 1871, one day before Falck's death.
 
 ### Publications
 

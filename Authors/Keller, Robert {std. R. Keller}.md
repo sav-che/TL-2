@@ -18,8 +18,8 @@ AG 6(1): 62; Andrews p. 283; Barnhart 2: 278; BFM 951, 1005, 1048; BJI 1: 30; BL
 
 #### Composite works
 
-(1) H. Schinz und R. Keller, *Flora der Schweiz*, see under Schinz.
-(2) Ascherson & Graebner, *Syn. mitteleur. Fl., Rosa* in 6: 32-80. 1900, 81-240. 1901, 241-384. 1902 (TL-2/200).
+- (1) H. Schinz und R. Keller, *Flora der Schweiz*, see under Schinz.
+- (2) Ascherson & Graebner, *Syn. mitteleur. Fl., Rosa* in 6: 32-80. 1900, 81-240. 1901, 241-384. 1902 (TL-2/200).
 
 ### Publications
 

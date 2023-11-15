@@ -14,7 +14,9 @@ Not to be confused with the geologist Carl Christian Gottsche (1855-1909).
 
 #### Herbarium and types
 
-Gottsche's original herb., mss. and drawings were at [[Collection B|B]]. "... wohl haben Asa Gray und Hooker versucht, es uns Deutschen zu entführen; dem patriotischen Manne war es ein Herzensbedürfniss, dass es in Deutschland blieb, und so verbindet sich mit dem Schmerz über seinem Heimgang, die Freude, dass uns dieser Schatz... erhalten geblieben ist" (*fide* Stephani). [[Collection BM|BM]] has "many authentic specimens of hepatics described by him, acquired with Herb. Hampe in 1881", [[Collection MANCH|MANCH]] has Bryoph., and other specimens are at [[Collection GH|GH]] and [[Collection GJO|GJO]]. Also of note are the *Icones jubularum*, tracings of drawings and hepatics by Gottsche and others, now at [[Collection FH|FH]] (see TL-2/6: 706). – *Exsiccatae*: (1) Co-author of fascs. 6-11 of J.B.W. Lindenberg, *Sp. Hepat.* (*Lindenberg*)... Bonn (\[1839-\]1846-1851) (see TL-2/3, nr. 4632). (2) Co-author of decades 23-66 of G.L. Rabenhorst, *Hepat. Eur., Leberm.*... Dresden (\[1855-\]1869-1879 (see TL-2/4: 463 sub "Exsiccatae: (9)")).
+Gottsche's original herb., mss. and drawings were at [[Collection B|B]]. "... wohl haben Asa Gray und Hooker versucht, es uns Deutschen zu entführen; dem patriotischen Manne war es ein Herzensbedürfniss, dass es in Deutschland blieb, und so verbindet sich mit dem Schmerz über seinem Heimgang, die Freude, dass uns dieser Schatz... erhalten geblieben ist" (*fide* Stephani). [[Collection BM|BM]] has "many authentic specimens of hepatics described by him, acquired with Herb. Hampe in 1881", [[Collection MANCH|MANCH]] has Bryoph., and other specimens are at [[Collection GH|GH]] and [[Collection GJO|GJO]]. Also of note are the *Icones jubularum*, tracings of drawings and hepatics by Gottsche and others, now at [[Collection FH|FH]] (see TL-2/6: 706).
+*Exsiccatae*: (1) Co-author of fascs. 6-11 of J.B.W. Lindenberg, *Sp. Hepat.* (*Lindenberg*)... Bonn (\[1839-\]1846-1851) (see TL-2/3, nr. 4632).
+- (2) Co-author of decades 23-66 of G.L. Rabenhorst, *Hepat. Eur., Leberm.*... Dresden (\[1855-\]1869-1879 (see TL-2/4: 463 sub "Exsiccatae: (9)")).
 
 #### Bibliography and biography
 
@@ -45,11 +47,11 @@ A retrospective review of Mexican Hepaticae based on *Die mexikanske Levermosser
 
 #### Composite works
 
-(1) One of many collaborators with F.J.F. Meyen, *Observ. bot.*... 1843 \[In German, *Beiträge zur Botanik*...\], which also is Theil 4 of *Reise um die Erde*..., see TL-2/3, nr. 5895.
-(2) "Hepaticae" *in* J. Triana & J.É. Planchon, *Prodromus florae novo-granatensis*... vol. 2\[5\], Apr 1864 (possibly published Jun-Oct 1864), see TL-2/6, nr. 15.140.
-(3) "Musci-Hepaticae" *in* F. von Mueller, *Fragm*.... fascs. \[70\]-74, 1872-1875, see TL-2/3, nr. 6397.
-(4) "Lebermoose" *in* F. Buchenau, *Reliquiæ Rutenbergianæ*... Part 5: 335-365, *pl. 21* (uncol. lith.), Apr 1882, see TL-2/4: 1008 and Suppl. 3, nr. 23.498.
-(5) Liths. *in* V.F. Schiffner, *Leberm., Forschungsr. Gazelle*... Mai 1890, see TL-2/1, nr. 1705(d) and 2/5, nr. 10.604.
+- (1) One of many collaborators with F.J.F. Meyen, *Observ. bot.*... 1843 \[In German, *Beiträge zur Botanik*...\], which also is Theil 4 of *Reise um die Erde*..., see TL-2/3, nr. 5895.
+- (2) "Hepaticae" *in* J. Triana & J.É. Planchon, *Prodromus florae novo-granatensis*... vol. 2\[5\], Apr 1864 (possibly published Jun-Oct 1864), see TL-2/6, nr. 15.140.
+- (3) "Musci-Hepaticae" *in* F. von Mueller, *Fragm*.... fascs. \[70\]-74, 1872-1875, see TL-2/3, nr. 6397.
+- (4) "Lebermoose" *in* F. Buchenau, *Reliquiæ Rutenbergianæ*... Part 5: 335-365, *pl. 21* (uncol. lith.), Apr 1882, see TL-2/4: 1008 and Suppl. 3, nr. 23.498.
+- (5) Liths. *in* V.F. Schiffner, *Leberm., Forschungsr. Gazelle*... Mai 1890, see TL-2/1, nr. 1705(d) and 2/5, nr. 10.604.
 
 ### Publications
 

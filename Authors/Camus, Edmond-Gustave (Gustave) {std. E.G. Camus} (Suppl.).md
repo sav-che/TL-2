@@ -30,11 +30,11 @@ Barnhart 1: 305 (d. 22 Aug 1915, Paris); BL 2: 637 \[index\]; BM 1: 306, 6: 176;
 
 #### Composite works
 
-(1): Co-author with G. Rouy, *Flore de France* (TL-2/9706), vol. 6 (Jun 1900) and vol. 7 (Nov 1901).
+- (1): Co-author with G. Rouy, *Flore de France* (TL-2/9706), vol. 6 (Jun 1900) and vol. 7 (Nov 1901).
 
 #### Note
 
-(1): E.G. Camus, *Monogr. Orchid.* 1908, TL-2/969. – Collaborator Paul Bergon dealt with the systematic botany, Mlle. A. Camus with the anatomy. Further copy seen: L. – 175 copies (numbered) issued.
+- (1): E.G. Camus, *Monogr. Orchid.* 1908, TL-2/969. – Collaborator Paul Bergon dealt with the systematic botany, Mlle. A. Camus with the anatomy. Further copy seen: L. – 175 copies (numbered) issued.
 
 ### Publications
 

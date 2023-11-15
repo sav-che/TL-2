@@ -33,9 +33,9 @@ Barnhart 3: 274 (b. 15 Apr 1874, d. 29 Sep 1954); Biol.-Dokum. 16: 8653; BJI 2: 
 
 #### Composite works
 
-(1) Founder and editor of *Genetics* 1-10, 1916-1925; on editorial board until 39, 1954.
-(2) With D.T. MacDougal (q.v.), Anna Murray Vail (1863-1955) and John Kunkel Small (1869-1938), *Mutants hybrids. Oenoth*. 1905, TL-2/5163.
-(3) With D.T. MacDougal (q.v.) and Anna Murray Vail (1863-1955), *Mutations variations Oenoth*. 1907, see TL-2/5164.
+- (1) Founder and editor of *Genetics* 1-10, 1916-1925; on editorial board until 39, 1954.
+- (2) With D.T. MacDougal (q.v.), Anna Murray Vail (1863-1955) and John Kunkel Small (1869-1938), *Mutants hybrids. Oenoth*. 1905, TL-2/5163.
+- (3) With D.T. MacDougal (q.v.) and Anna Murray Vail (1863-1955), *Mutations variations Oenoth*. 1907, see TL-2/5164.
 
 ### Publications
 

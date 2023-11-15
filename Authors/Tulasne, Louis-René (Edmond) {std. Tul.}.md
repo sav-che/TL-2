@@ -44,12 +44,12 @@ Ainsworth p. 348; Backer p. 662; Barnhart 3: 407 (b. 12 Sep 1815, d. 22 Sep 1885
 
 #### Composite works
 
-(1) Contributed to Martius, *Flora brasiliensis*: (*a*) *Podostemaceae* 4(1): 229-276, *pl. 73-76.* 1 Jan 1855.
+- (1) Contributed to Martius, *Flora brasiliensis*: (*a*) *Podostemaceae* 4(1): 229-276, *pl. 73-76.* 1 Jan 1855.
 (b) *Monimiaceae* 4(1): 289-328, *pl. 82-86.* 28 Feb 1857.
 (c) *Antidesmeae* 4(1): 329-336, *pl. 87-90.* 15 Feb 1861.
 (d) *Gnetaceae* 4(1): 397-408, *pl. 102-107.* 10 Jul 1863.
-(2) F. Hofmeister, *Vergl. Unters. Krypt.* 1851, partial French translation by L.R. Tulasne in Ann. Sci. nat., Bot. ser. 3. 18: 172-192, *pl. 8-9.* 1852, see TL-2/2921.
-(3) With A. de Saint-Hilaire, *Revue de la flore du Brésil méridional* 1842, see TL-2/10.052.
+- (2) F. Hofmeister, *Vergl. Unters. Krypt.* 1851, partial French translation by L.R. Tulasne in Ann. Sci. nat., Bot. ser. 3. 18: 172-192, *pl. 8-9.* 1852, see TL-2/2921.
+- (3) With A. de Saint-Hilaire, *Revue de la flore du Brésil méridional* 1842, see TL-2/10.052.
 
 #### Eponymy
 

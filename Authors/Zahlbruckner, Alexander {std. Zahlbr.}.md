@@ -10,7 +10,7 @@ Zahlbruckner, Alexander (1860-1938), Austrian (Hungarian-born) botanist (licheno
 
 [[Collection W|W]]. – Other material (often in exsicc): [[Collection A|A]], [[Collection BM|BM]], [[Collection DUKE|DUKE]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MSC|MSC]], [[Collection PAD|PAD]] (impt. set), [[Collection STE|STE]]-VB, [[Collection US|US]], [[Collection WU|WU]].
 *Exsiccatae*: (1) *Kryptogamae exsiccatae*, editae a Museo Palatino Vindobonensi, cent. 1-26, 1894-1922 (until 1899 with G. Beck). For Schedae see below 1894-1923. 20 sets issued. Sets at [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection C|C]], [[Collection COLO|COLO]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GJO|GJO]], [[Collection H|H]], [[Collection K|K]], [[Collection M|M]], [[Collection NY|NY]], [[Collection O|O]], [[Collection P|P]], [[Collection PC|PC]], [[Collection S|S]], [[Collection U|U]], [[Collection UC|UC]], [[Collection W|W]].
-(2) *Lichenes rariores exsiccati*, nos. 1-385. 1902-1936. Sets at [[Collection B|B]] (mainly destr.), [[Collection FH|FH]], [[Collection TUR|TUR]]-V, [[Collection W|W]], [[Collection WRSL|WRSL]].
+- (2) *Lichenes rariores exsiccati*, nos. 1-385. 1902-1936. Sets at [[Collection B|B]] (mainly destr.), [[Collection FH|FH]], [[Collection TUR|TUR]]-V, [[Collection W|W]], [[Collection WRSL|WRSL]].
 Nos. \[1-267 with labels only\] 1-20. Mai 1902; 21-40. Jun 1903; 41-60. Jul 1904; 61-80. Mai 1907; 101-120. Feb 1909; 121-140. Jun 1910; 141-165. 1911; 166-187. 1914; 188-207. 1921; 208-240. 1922; 241-267. 1927; \[issued with *Schedae* from 268 onward\] 268-288. Feb 1931; \[with K.M. Redinger from no. 289\] 289-311. 1933; 312-338. Feb 1935; 339-360 Jan 1935; 361-385. Mar 1936.
 *Letters* at [[Collection G|G]], [[Collection UPS|UPS]]-UB.
 
@@ -36,30 +36,30 @@ AG 5(2): 791; Ainsworth p. 336, 349; Barnhart 3: 536 (b. 31 Mai 1860, d. 8 Mai 1
 
 #### Composite works
 
-(1) Entries on *Lichenes, in* Just, Bot. Jahresber. 1884-1931 (publ. 1885-1939).
-(2) *Lichenes, in* G. Beck, *Flora von Südbosnien* pars 1, Nov-Dec 1886, in Ann. naturh. Hofmus. Wien 1(4): 303-307. 1886.
-(3) *Lichens, in* G. Beck & I. Szyszylowicz, *Plantae a*... Szyszylowicz *in itinere per Cernagorum* et in Albania adjacenti anno 1886 *lectae, in* Rozpr. i Spraw., Wydz. mat.-przyr. Akad. Umiet. Krakow. 19: 6-14. 1888.
-(4) *Lobeliaceae, in* O. Kuntze, *Revis. gen. pl.* 3: 185-189. 1893. (TL-2/4021).
-(5) *Die botanische Abteilung des k.k. Naturhistorischen Hofmuseums..., in* R. v. Wettstein, Bot. Anstalt. Wien, Österr. bot. Z. 1894, p. 55-70. (TL-2/17.345).
-(6) *Aufzählung der im Herbarium des k.k. Naturhistorischen Hofmuseums enthaltenen Pflanzensammlungen, in* id. 1894, p. 71-78.
-(7) *Campanulaceae, in* R.H. Chodat & É. Hassler, *Plantae Hasslerianae*, Bull. Herb. Boissier ser. 2. 3: 921-922. 1903. (TL-2/2475).
-(8) *Lichenes, Campanulaceae, Verbenaceae und Solanaceae, in* Therese Princessin von Bayern. Auf einer Reise in Westindien und Südamerika gesammelte Pflanzen, Beih. Bot. Centralbl. 13. 1903. (TL-2/14.098).
-(9) Collaborator, Th. Loesener, *Plantae Selerianae*, Bull. Herb. Boiss. 3(12): \[35\]-55 (609-629). Dec 1895. (TL-2/4935).
-(10) *Flechten* (Lichenes), *in* EP *Nat. Pflanzenfam.* 1(1\*): 49-249. 1903-1908 \[49-96. Oct 1903; 97-144. Mar 1905; 145-192. Aug 1906; 193-249 \[i-vi\]. Jan 1908\]. -*Lichenes* (Flechten), in id. ed. 2. 1926. (TL-2/1710).
-(11) *Flechten, in* C.K. Schneider, 111. Handw.-Buch Bot. ed. 1, 1905, ed. 2. 1917. (TL-2/10.943).
-(12) *Campanulaceae andinae, in* I. Urban, *Plantae andinae*..., Bot. Jahrb. 37(4): \[451\]-463. 24 Apr 1906. (TL-2/15.691).
-(13) With 5 other botanists editor of the *Verhandlungen des Internationalen botanischen Kongresses* in Wien 1905. Wien 1906.
-(14) *Die Flechten der Deutschen Südpolar-Expedition* 1901-1903, *in* Deut. Südpolar-Expedit. 1901-1903. 8: 19-55. *pl. 3-5.* 1906.
-(15) *Flechten, in* H. Mayer, *In den Hochlanden Ecuadors*, Berlin 1907, p. 514-516.
-(16) *Flechten des Neu-Guinea-Archipels*, der Hawaiischen Inseln und der Insel Ceylon, *in* K. Rechinger, *Botanische und Zoologische Ergebnisse* einer wissenschaftlichen *Forschungsreise nach den Samoa-Inseln*,... Denkschr. mat.-nat. Kl. k. Akad. Wiss. 88: 12-31. 1911. (TL-2/8726).
-(17) *Lichenes* apud H. Ross, *Contribution à la flore du Mexique*, Mem. Soc. ci. Ant. Alzato 32: 170-172. 1912.
-(18) With K. Rechinger, *Campanulinae* (Herzogs Bolivianische Pflanzen), Med. Rijks Herb. 1(19): 49-53. 1913.
-(19) *Lichenes, in A*. Ginzberger, Beitr. Naturgesch. Scoglien... Denkschr. k. Akad. Wiss. Wien, math.-naturw. Kl. 92: 301-322. 1915.
-(20) *Lichenes, in* J.F. Rock, Palmyra Island... Coll. Hawaii Publ. Bull. 14: 34-39. 19 Apr 1916, TL-2/9325.
-(21) *Lichenes, in* Schedae ad "Kryptogamas exsiccatas"... in C. Keissler, Ann. naturh. Mus. Wien 37: 206-210. 1924, 40: 142-145. 1926, 42: 60-66. 1928, 46: 213-218. 1932-1933.
-(22) Editor of the volumes for lichens Rabenh., *Krypt. Fl.* ed. 2, 8 and 9, Abt. 1, Teil 1 and 2, see TL-2/8450.
-(23) *Lichenes, in* H. Handel-Mazzetti, ed., *Symbolae sinicae* 3: \[i-iii\], \[1\]-254, *pl. I.* Dec 1930, see TL-2/2364.
-(24) *Afrikanische Flechten* (Lichenes), *in* A. Engler, *Beiträge zur Flora von Afrika* 52, in Bot. Jahrb. 60: 468-552. 1 Oct 1926. – Also reprinted, with reprint half-title. *Copies*: FH, Peterson.
+- (1) Entries on *Lichenes, in* Just, Bot. Jahresber. 1884-1931 (publ. 1885-1939).
+- (2) *Lichenes, in* G. Beck, *Flora von Südbosnien* pars 1, Nov-Dec 1886, in Ann. naturh. Hofmus. Wien 1(4): 303-307. 1886.
+- (3) *Lichens, in* G. Beck & I. Szyszylowicz, *Plantae a*... Szyszylowicz *in itinere per Cernagorum* et in Albania adjacenti anno 1886 *lectae, in* Rozpr. i Spraw., Wydz. mat.-przyr. Akad. Umiet. Krakow. 19: 6-14. 1888.
+- (4) *Lobeliaceae, in* O. Kuntze, *Revis. gen. pl.* 3: 185-189. 1893. (TL-2/4021).
+- (5) *Die botanische Abteilung des k.k. Naturhistorischen Hofmuseums..., in* R. v. Wettstein, Bot. Anstalt. Wien, Österr. bot. Z. 1894, p. 55-70. (TL-2/17.345).
+- (6) *Aufzählung der im Herbarium des k.k. Naturhistorischen Hofmuseums enthaltenen Pflanzensammlungen, in* id. 1894, p. 71-78.
+- (7) *Campanulaceae, in* R.H. Chodat & É. Hassler, *Plantae Hasslerianae*, Bull. Herb. Boissier ser. 2. 3: 921-922. 1903. (TL-2/2475).
+- (8) *Lichenes, Campanulaceae, Verbenaceae und Solanaceae, in* Therese Princessin von Bayern. Auf einer Reise in Westindien und Südamerika gesammelte Pflanzen, Beih. Bot. Centralbl. 13. 1903. (TL-2/14.098).
+- (9) Collaborator, Th. Loesener, *Plantae Selerianae*, Bull. Herb. Boiss. 3(12): \[35\]-55 (609-629). Dec 1895. (TL-2/4935).
+- (10) *Flechten* (Lichenes), *in* EP *Nat. Pflanzenfam.* 1(1\*): 49-249. 1903-1908 \[49-96. Oct 1903; 97-144. Mar 1905; 145-192. Aug 1906; 193-249 \[i-vi\]. Jan 1908\]. -*Lichenes* (Flechten), in id. ed. 2. 1926. (TL-2/1710).
+- (11) *Flechten, in* C.K. Schneider, 111. Handw.-Buch Bot. ed. 1, 1905, ed. 2. 1917. (TL-2/10.943).
+- (12) *Campanulaceae andinae, in* I. Urban, *Plantae andinae*..., Bot. Jahrb. 37(4): \[451\]-463. 24 Apr 1906. (TL-2/15.691).
+- (13) With 5 other botanists editor of the *Verhandlungen des Internationalen botanischen Kongresses* in Wien 1905. Wien 1906.
+- (14) *Die Flechten der Deutschen Südpolar-Expedition* 1901-1903, *in* Deut. Südpolar-Expedit. 1901-1903. 8: 19-55. *pl. 3-5.* 1906.
+- (15) *Flechten, in* H. Mayer, *In den Hochlanden Ecuadors*, Berlin 1907, p. 514-516.
+- (16) *Flechten des Neu-Guinea-Archipels*, der Hawaiischen Inseln und der Insel Ceylon, *in* K. Rechinger, *Botanische und Zoologische Ergebnisse* einer wissenschaftlichen *Forschungsreise nach den Samoa-Inseln*,... Denkschr. mat.-nat. Kl. k. Akad. Wiss. 88: 12-31. 1911. (TL-2/8726).
+- (17) *Lichenes* apud H. Ross, *Contribution à la flore du Mexique*, Mem. Soc. ci. Ant. Alzato 32: 170-172. 1912.
+- (18) With K. Rechinger, *Campanulinae* (Herzogs Bolivianische Pflanzen), Med. Rijks Herb. 1(19): 49-53. 1913.
+- (19) *Lichenes, in A*. Ginzberger, Beitr. Naturgesch. Scoglien... Denkschr. k. Akad. Wiss. Wien, math.-naturw. Kl. 92: 301-322. 1915.
+- (20) *Lichenes, in* J.F. Rock, Palmyra Island... Coll. Hawaii Publ. Bull. 14: 34-39. 19 Apr 1916, TL-2/9325.
+- (21) *Lichenes, in* Schedae ad "Kryptogamas exsiccatas"... in C. Keissler, Ann. naturh. Mus. Wien 37: 206-210. 1924, 40: 142-145. 1926, 42: 60-66. 1928, 46: 213-218. 1932-1933.
+- (22) Editor of the volumes for lichens Rabenh., *Krypt. Fl.* ed. 2, 8 and 9, Abt. 1, Teil 1 and 2, see TL-2/8450.
+- (23) *Lichenes, in* H. Handel-Mazzetti, ed., *Symbolae sinicae* 3: \[i-iii\], \[1\]-254, *pl. I.* Dec 1930, see TL-2/2364.
+- (24) *Afrikanische Flechten* (Lichenes), *in* A. Engler, *Beiträge zur Flora von Afrika* 52, in Bot. Jahrb. 60: 468-552. 1 Oct 1926. – Also reprinted, with reprint half-title. *Copies*: FH, Peterson.
 
 #### Eponymy
 

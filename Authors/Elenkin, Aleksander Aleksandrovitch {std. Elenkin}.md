@@ -10,7 +10,8 @@ Elenkin, Aleksander Aleksandrovitch (1873-1942), Russian botanist.
 
 #### Herbarium and types
 
-[[Collection LE|LE]]. – Exsiccatae: *Lichenes florae rossicae et regionum confinium orientalium* (fasc. i-iv, nos. 1-200, St. Petersburg 1901-1910), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MSTR|MSTR]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection LE|LE]].
+*Exsiccatae*: *Lichenes florae rossicae et regionum confinium orientalium* (fasc. i-iv, nos. 1-200, St. Petersburg 1901-1910), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MSTR|MSTR]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
 *Ref*.: IH 2: 180.
 - Urban, Gesch. Berlin-Dahlem 286. 1916.
 - Sayre, Mem. New York Bot. Gard. 19(1): 121-122. 1969.

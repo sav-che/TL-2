@@ -8,7 +8,8 @@ Poech, Josef \[Alois\] (1816-1846), Bohemian botanist, born at Snedovice (Wegst√
 
 #### Herbarium and types
 
-[[Collection PR|PR]] (main set), [[Collection REG|REG]] (see Flora 1846), and [[Collection W|W]] (musci; Austrian plants). *Exsiccatae*: *Musei bohemici*, nos. 1-100, Prag 1846 (see Sayre 1971).
+[[Collection PR|PR]] (main set), [[Collection REG|REG]] (see Flora 1846), and [[Collection W|W]] (musci; Austrian plants).
+*Exsiccatae*: *Musei bohemici*, nos. 1-100, Prag 1846 (see Sayre 1971).
 
 #### Bibliography and biography
 

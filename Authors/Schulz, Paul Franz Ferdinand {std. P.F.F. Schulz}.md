@@ -12,11 +12,11 @@ Unknown. – Schulz ran a "Tauschvermittlung für Herbarpflanzen" and published 
 
 #### Note
 
-(1) For the diatomologist Paul Schulz (*fl*. 1926-1935), see below under Schulz-Danzig.
+- (1) For the diatomologist Paul Schulz (*fl*. 1926-1935), see below under Schulz-Danzig.
 
 #### Note
 
-(2) \[Karl Friedrich\] Paul Schulz, b. 26 Nov 1858 in Berlin, is the author of *Das Markstrahlengewebe* und seine Beziehungen zu den leitenden Elementen des Holzes, Inaugural-Dissertation, Univ. Berlin 15 Nov 1882, p. \[1\]-28, *1 pl. Copy*: B.
+- (2) \[Karl Friedrich\] Paul Schulz, b. 26 Nov 1858 in Berlin, is the author of *Das Markstrahlengewebe* und seine Beziehungen zu den leitenden Elementen des Holzes, Inaugural-Dissertation, Univ. Berlin 15 Nov 1882, p. \[1\]-28, *1 pl. Copy*: B.
 
 #### Bibliography and biography
 

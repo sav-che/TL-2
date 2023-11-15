@@ -34,17 +34,17 @@ Ainsworth p. 297, 317; Ainsworth & Bisby's Dict. p. 218; APN p. 244; Barnhart 2:
 #### Note
 
 The following are now available in microfiche or electronic form:
-(1) *Brit. rust fungi*... 1913 (TL-2/1, nr. 2197):
+- (1) *Brit. rust fungi*... 1913 (TL-2/1, nr. 2197):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 6 microfiches (Plant taxonomic lit. microfiche coll., "2152E6-2157A2"). *Copy*: MO (n.v.).
-(2) *Brit. leaf-fung.*... 1935-1937, 2 vols. (TL-2/1, nr. 2198):
+- (2) *Brit. leaf-fung.*... 1935-1937, 2 vols. (TL-2/1, nr. 2198):
 *Electronic version*: Albert R. Mann Library, Cornell Univ., Ithaca, New York, Core Historical Literature of Agriculture (CHLA).
 
 #### Composite works
 
-(1) Co-author with J.E. Bagnall, "The fungi (Hymenomycetes and Gastromycetes)", p. 387-465 *in* J.E. Bagnall, *Fl. Warwickshire*... 1890 (TL-2/1, nr. 234).
-(2) Revised and enlarged Joseph W\[illiam\]. Oliver, *Elementary botany*... new \[i.e. 17th\] ed., \[1908\].
-(3) Translated into English, L.R. & Ch. Tulasne, *Select. fung. carpol.*... 1931, 3 vols. (see TL-2/6, nr. 15.315). – *Note*: The typescript for the transl. of vol. 1 is at NY (Archives).
-(4) "A systematic account and arrangement of the Pilobolidae" *in* A.H.R. Buller, *Research. fungi* 6... 1934 (see TL-2/Suppl. 3, nr. 23.619). Reprinted:... New York (Hafner Pub. Co.) 1958.
+- (1) Co-author with J.E. Bagnall, "The fungi (Hymenomycetes and Gastromycetes)", p. 387-465 *in* J.E. Bagnall, *Fl. Warwickshire*... 1890 (TL-2/1, nr. 234).
+- (2) Revised and enlarged Joseph W\[illiam\]. Oliver, *Elementary botany*... new \[i.e. 17th\] ed., \[1908\].
+- (3) Translated into English, L.R. & Ch. Tulasne, *Select. fung. carpol.*... 1931, 3 vols. (see TL-2/6, nr. 15.315). – *Note*: The typescript for the transl. of vol. 1 is at NY (Archives).
+- (4) "A systematic account and arrangement of the Pilobolidae" *in* A.H.R. Buller, *Research. fungi* 6... 1934 (see TL-2/Suppl. 3, nr. 23.619). Reprinted:... New York (Hafner Pub. Co.) 1958.
 
 ### Publications
 

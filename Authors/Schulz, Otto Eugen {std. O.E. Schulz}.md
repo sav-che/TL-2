@@ -26,7 +26,7 @@ Backer p. 658; Barnhart 3:246 (b. 31 Oct 1874, d. 17 Feb 1936); Biol.-Dokum. 16:
 
 #### Composite works
 
-(1) *In* I. Urban, *Symb. ant.*:
+- (1) *In* I. Urban, *Symb. ant.*:
 (a) *Cruciferae*, 3(3): 493-523. 1 Mai 1903.
 (b) *Smilax*, 5(1): 17-47. 20 Mai 1904.
 (c) *Erythroxylaceae*, 5(2): 188-211. 20 Mai 1907.
@@ -34,14 +34,14 @@ Backer p. 658; Barnhart 3:246 (b. 31 Oct 1874, d. 17 Feb 1936); Biol.-Dokum. 16:
 (e) *Solanaceae*, 6(1): 140-192. 15 Jul 1909, 6(2): 193-279. 15 Dec 1909.
 (f) *Begonia*, 7(1): 1-29. 15 Dec 1911.
 (*g*)*Beuria*, 7(1): 45-71. 15 Dec 1911.
-(2) *In* A. Engler, *Pflanzenreich* (all also reprinted Lehre 1958):
+- (2) *In* A. Engler, *Pflanzenreich* (all also reprinted Lehre 1958):
 (a) *Erythroxylaceae*, IV. 134 (Heft 29): 1-176. 13 Aug 1907.
 (b) *Cruciferae*, IV. 105, (Heft 70): 1-290. 30 Dec 1919, (Heft 84): 100 p., 20 Jun 1923, (Heft 86): 1-388. 22 Jul 1924, (Heft 89): 1-396. 25 Feb 1927 (see also O.E. Schulz, Bot. Jahrb. 59 (Lit.): 67-68. 1924).
-(3) *In* EP, *Pflanzenfam*. ed. 2:
+- (3) *In* EP, *Pflanzenfam*. ed. 2:
 (a) *Cruciferae*, 17b: \[227\]-658. 1936.
 (b) *Erythroxylaceae*, 19a: 130-143. 1931.
-(4) *In* Ascherson & Graebner, *Syn. Mitteleur. Fl., Cruciferae*, 5(4): 1-160. 1936.
-(5) *Erythroxylaceae, in* R. v. Wettstein, ed., *Erg. bot. Exped. k. Akad. Wiss. nach Südbrasilien* 1901, vol. 1, 3 p. (Denkschr. mat.-nat. Kl. k. Akad. Wiss. Wien 79(1): 273-275. 1908).
+- (4) *In* Ascherson & Graebner, *Syn. Mitteleur. Fl., Cruciferae*, 5(4): 1-160. 1936.
+- (5) *Erythroxylaceae, in* R. v. Wettstein, ed., *Erg. bot. Exped. k. Akad. Wiss. nach Südbrasilien* 1901, vol. 1, 3 p. (Denkschr. mat.-nat. Kl. k. Akad. Wiss. Wien 79(1): 273-275. 1908).
 
 #### Eponymy
 

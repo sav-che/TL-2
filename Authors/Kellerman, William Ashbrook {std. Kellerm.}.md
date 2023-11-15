@@ -8,10 +8,11 @@ Kellerman, William Ashbrook (1850-1908), American botanist and mycologist, studi
 
 #### Herbarium and types
 
-[[Collection OS|OS]]; further original material at [[Collection US|US]], [[Collection PUR|PUR]] and [[Collection F|F]]; material in many herbaria. *Exsiccatae*:
-(1) *Fungi selecti guatemalenses*, dec. 1-2, nos. 1-20, 1906-1907, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RMS|SOLH]], [[Collection UC|UC]].
-(2) *Ohio fungi*, fasc. 1-10, nos. 1-200, 1901-1905, sets see IH; texts in Ohio Naturalist.
-(3) *Kansas fungi*, fasc. 1-2, nos. 1-50, publ. 1 May and 1 Aug 1889, with Walter Tennyson F. Swingle (1871-1952), sets: [[Collection BPI|BPI]], [[Collection DAOM|DAOM]]. [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MSC|MSC]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection UT|UT]], [[Collection WIS|WIS]].
+[[Collection OS|OS]]; further original material at [[Collection US|US]], [[Collection PUR|PUR]] and [[Collection F|F]]; material in many herbaria.
+*Exsiccatae*:
+- (1) *Fungi selecti guatemalenses*, dec. 1-2, nos. 1-20, 1906-1907, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RMS|SOLH]], [[Collection UC|UC]].
+- (2) *Ohio fungi*, fasc. 1-10, nos. 1-200, 1901-1905, sets see IH; texts in Ohio Naturalist.
+- (3) *Kansas fungi*, fasc. 1-2, nos. 1-50, publ. 1 May and 1 Aug 1889, with Walter Tennyson F. Swingle (1871-1952), sets: [[Collection BPI|BPI]], [[Collection DAOM|DAOM]]. [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MSC|MSC]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection UT|UT]], [[Collection WIS|WIS]].
 *Ref*.: Anon., Torreya 9: 239. 1909.
 - Stevenson, J., Beih. Nova Hedwigia 36: 225-226. 1971.
 - Stuckey and Wentz, Ohio J. Sci. 74(1): 20-35. 1974 (lists types).
@@ -42,10 +43,11 @@ Ainsworth p. 277; Barnhart 2: 279; BL 1: 304 \[index\]; BM 2: 967; Bossert p. 20
 
 #### Composite works
 
-(1) Established in 1885 *The Journal of mycology*, (with J. B. Ellis and B. M. Everhart); editor 1885-1889, 1902-1908. *The Journal of mycology* was terminated with Kellerman's death and succeeded by *Mycologia* (first issue Feb 1909).
-(2) Contributed *Botany* (Catalogue of Ohio Plants) to *Geology of Ohio* (in Rep. Geol. Surv. Ohio) vol. 7, part 2: \[i\], \[56\]-406, by Kellerman and W. C. Werner (*copy*: USDA). \[William C. Werner (1851-1935); the letter C stands for W's father's name Conrad, not spelled out\]. The bibliography of this Catalogue (p. 58-79) was published again, updated to 1895, in Ann. Rep. Ohio Acad. Sci. 4: 5-18. 1896.
-(3) Editor of *Mycological Bulletin* 1903-1908; (4) Co-founder of the *Ohio Naturalist*, 1900.
-(5) With O. E. Jennings: *Flora of Cedar Point*, Ohio Naturalist 4: 186-190. 1904 (add.: ib. 6: 540, 544-545. 1906, 10: 61-63. 1910, 12: 473. 1912, 13: 78. 1913).
+- (1) Established in 1885 *The Journal of mycology*, (with J. B. Ellis and B. M. Everhart); editor 1885-1889, 1902-1908. *The Journal of mycology* was terminated with Kellerman's death and succeeded by *Mycologia* (first issue Feb 1909).
+- (2) Contributed *Botany* (Catalogue of Ohio Plants) to *Geology of Ohio* (in Rep. Geol. Surv. Ohio) vol. 7, part 2: \[i\], \[56\]-406, by Kellerman and W. C. Werner (*copy*: USDA). \[William C. Werner (1851-1935); the letter C stands for W's father's name Conrad, not spelled out\]. The bibliography of this Catalogue (p. 58-79) was published again, updated to 1895, in Ann. Rep. Ohio Acad. Sci. 4: 5-18. 1896.
+- (3) Editor of *Mycological Bulletin* 1903-1908;
+- (4) Co-founder of the *Ohio Naturalist*, 1900.
+- (5) With O. E. Jennings: *Flora of Cedar Point*, Ohio Naturalist 4: 186-190. 1904 (add.: ib. 6: 540, 544-545. 1906, 10: 61-63. 1910, 12: 473. 1912, 13: 78. 1913).
 
 #### Eponymy
 

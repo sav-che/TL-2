@@ -22,7 +22,7 @@ IH 2: 136; MW p. 83.
 
 #### Composite works
 
-(1) *Flagellata*, *in* H.C. Redeke, *Synopsis* van het Nederlansche Zoet-en Brakwaterplankton, Amsterdam. Hydrobiologische Club, publ. no. 2. 59-74. 1935.
+- (1) *Flagellata*, *in* H.C. Redeke, *Synopsis* van het Nederlansche Zoet-en Brakwaterplankton, Amsterdam. Hydrobiologische Club, publ. no. 2. 59-74. 1935.
 
 ### Publications
 

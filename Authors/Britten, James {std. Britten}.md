@@ -27,14 +27,14 @@ Barnhart 1: 253; BB p. 45-46; BFM 2317, 2348; BL 1: 40, 50, 106, 2: 215, 216, 22
 
 #### Composite works
 
-(1) *Journal of Botany*, editor 1880-1924, vols. 18-62.
-(2) With G. S. Boulger, A biographical index of deceased British and Irish botanists, J. Bot. 26-29. 1888-1891, consolidated, revised ed. 1893, second edition by H. D. Rendle 1931; see no. 772).
-(3) Oliver, *Flora of tropical Africa*, Crassulaceae 2: 385-401. 1871.
-(4) Coleman, *A sketch of the botany of Leicestershire and Rutlandshire*, revised edition (by J. Britten) 1876.
-(5) Turner, *The names of Herbes*, edited... by J. Britten. 1881.
-(6) Forbes, *A naturalist's wanderings in the Eastern Archipelago*, London 1885, *Appendix* vi. *Prodromus florae timorensis Polypetalae* by J. Britten.
-(7) Gregory, *The great Rift valley, Appendix* B, *catalogue of plants collected*, monopetalae et apetalae by J. Britten \[and A. B. Rendle\].
-(8) Prichard, *Through the heart of Patagonia*, London 1902, Appendix C \[lists of plants\].
+- (1) *Journal of Botany*, editor 1880-1924, vols. 18-62.
+- (2) With G. S. Boulger, A biographical index of deceased British and Irish botanists, J. Bot. 26-29. 1888-1891, consolidated, revised ed. 1893, second edition by H. D. Rendle 1931; see no. 772).
+- (3) Oliver, *Flora of tropical Africa*, Crassulaceae 2: 385-401. 1871.
+- (4) Coleman, *A sketch of the botany of Leicestershire and Rutlandshire*, revised edition (by J. Britten) 1876.
+- (5) Turner, *The names of Herbes*, edited... by J. Britten. 1881.
+- (6) Forbes, *A naturalist's wanderings in the Eastern Archipelago*, London 1885, *Appendix* vi. *Prodromus florae timorensis Polypetalae* by J. Britten.
+- (7) Gregory, *The great Rift valley, Appendix* B, *catalogue of plants collected*, monopetalae et apetalae by J. Britten \[and A. B. Rendle\].
+- (8) Prichard, *Through the heart of Patagonia*, London 1902, Appendix C \[lists of plants\].
 
 #### Eponymy
 

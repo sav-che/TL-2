@@ -23,7 +23,7 @@ Barnhart 2: 51; BM 2: 678; CSP 2: 891; MW suppl. p. 75; NI 712; PR 3338-3339; Tr
 
 #### Composite works
 
-(1) DC, *Prodr., Violarieae*: 1: 287-316. med. Jan 1824. (2) Goethe, *Metamorphose der Pfianzen*, first French translation (1829) with "précis historique et avant-propos du traducteur" (see Schmid, *Goethe u.d. Naturwiss.* 42-43. 1940).
+- (1) DC, *Prodr., Violarieae*: 1: 287-316. med. Jan 1824. (2) Goethe, *Metamorphose der Pfianzen*, first French translation (1829) with "précis historique et avant-propos du traducteur" (see Schmid, *Goethe u.d. Naturwiss.* 42-43. 1940).
 
 #### Eponymy
 

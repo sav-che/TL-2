@@ -27,13 +27,13 @@ Barnhart 3: 191 (b. 7 Aug 1878, d. 5 Jun 1960); BFM p. 313 (index); Biol.-Dokum.
 
 #### Composite works
 
-(1) *Eriocaulaceae, in* A. Engler, Pflanzenreich 13(4, 30): 1-294. 27 Mar 1903 (rev. K. Schumann, Bot. Centralbl. 93, 120-122. 1903.
-(2) *Eriocaulaceae, in* J. Perkins, Fragm. Fl. Philip. 139. 1904.
-(3) *Eriocaulaceae, in* I. Urban, Symb. ant. 1(3): 472-494. 15 Jan 1900.
-(4) *Eriocaulaceae, in* EP, Nat. Pflanzenfam. ed. 2. 15a: 39-57. 1930.
-(5) *Sphagnales, Andreales, Bryales* (gen.) in EP, Nat. Pflanzenfam. 10: 101-105, 126-128, 132-142. 1924.
-(6) *Ergebnisse der Biologie*, eds., K. v. Frisch... W. Ruhland, vol. 1, 1926.
-(7) Founder, with Hans Winkler, of *Planta*; editor vols. 1-51. 1925-1958.
+- (1) *Eriocaulaceae, in* A. Engler, Pflanzenreich 13(4, 30): 1-294. 27 Mar 1903 (rev. K. Schumann, Bot. Centralbl. 93, 120-122. 1903.
+- (2) *Eriocaulaceae, in* J. Perkins, Fragm. Fl. Philip. 139. 1904.
+- (3) *Eriocaulaceae, in* I. Urban, Symb. ant. 1(3): 472-494. 15 Jan 1900.
+- (4) *Eriocaulaceae, in* EP, Nat. Pflanzenfam. ed. 2. 15a: 39-57. 1930.
+- (5) *Sphagnales, Andreales, Bryales* (gen.) in EP, Nat. Pflanzenfam. 10: 101-105, 126-128, 132-142. 1924.
+- (6) *Ergebnisse der Biologie*, eds., K. v. Frisch... W. Ruhland, vol. 1, 1926.
+- (7) Founder, with Hans Winkler, of *Planta*; editor vols. 1-51. 1925-1958.
 
 #### Handwriting
 

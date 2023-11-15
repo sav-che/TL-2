@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection CN|CN]], diatoms at [[Collection MPU|MPU]], [[Collection PC|PC]] (8000), [[Collection AWH|AWH]] and [[Collection L|L]]. – See TL-2/1: 311. – Further material in [[Collection B|B]], [[Collection BP|BP]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NTM|NTM]], [[Collection OS|OS]], [[Collection PH|PH]], [[Collection TL|TL]], [[Collection TO|TO]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – *Exsiccatae*: *Mousses de la Normandie*, see MD p. 57-59 and TL-2/723.
+[[Collection CN|CN]], diatoms at [[Collection MPU|MPU]], [[Collection PC|PC]] (8000), [[Collection AWH|AWH]] and [[Collection L|L]]. – See TL-2/1: 311. – Further material in [[Collection B|B]], [[Collection BP|BP]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NTM|NTM]], [[Collection OS|OS]], [[Collection PH|PH]], [[Collection TL|TL]], [[Collection TO|TO]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Mousses de la Normandie*, see MD p. 57-59 and TL-2/723.
 
 #### Bibliography and biography
 

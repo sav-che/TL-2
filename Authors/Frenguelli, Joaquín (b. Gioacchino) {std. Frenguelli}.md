@@ -28,8 +28,8 @@ The fossil vertebrate *Frenguellisaurus* Fernando E. Novas (1986).
 
 #### Composite works
 
-(1) Editor: (a) *Anales del Museo de La Plata*, Nueva Serie, Sección B: *Paleontología*, *Paleobotánica*; and (b) *Revista del Museo de la Plata, Sección Zoología* (1937-1939, at least).
-(2) "Algae Bacillariales" (40 p., *2 pl.*) *in* E. Chiovenda, *Flora Somala, piante raccolte* nella penisola somala (1924) dalla *Missione Stefanini-Puccioni*, Roma (Sind. italiano arti grafiche) 1929.
+- (1) Editor: (a) *Anales del Museo de La Plata*, Nueva Serie, Sección B: *Paleontología*, *Paleobotánica*; and (b) *Revista del Museo de la Plata, Sección Zoología* (1937-1939, at least).
+- (2) "Algae Bacillariales" (40 p., *2 pl.*) *in* E. Chiovenda, *Flora Somala, piante raccolte* nella penisola somala (1924) dalla *Missione Stefanini-Puccioni*, Roma (Sind. italiano arti grafiche) 1929.
 
 ### Publications
 

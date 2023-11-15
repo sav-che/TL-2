@@ -27,8 +27,8 @@ Backer p. 536; Barnhart 3: 287; Biol.-Dokum. 17: 8727; BJI 2: 166; BL 1: 113, 31
 
 #### Composite works
 
-(1) With C.A. Backer, *Geill. handb. Jav. theeonkr*. 1924, see TL-2/223.
-(2) Chief-editor, *De tropische Natuur* 1929-1934.
+- (1) With C.A. Backer, *Geill. handb. Jav. theeonkr*. 1924, see TL-2/223.
+- (2) Chief-editor, *De tropische Natuur* 1929-1934.
 
 #### Handwriting
 

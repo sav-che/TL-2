@@ -26,7 +26,7 @@ Barnhart 1: 289 (b. 9 Apr 1859, Athens, Pa., d. 27 Apr 1939, Saratoga Springs N.
 
 #### Composite works
 
-(1) E.A. Burt, *Icones Farlowianiae*, illustrations of the larger fungi of the eastern north America by William Gilson Farlow. Cambridge 1929. – See TL-2/1742 (*in* 1: 814). \[Illustrations by W.G. Farlow, text by E.A. Burt\].
+- (1) E.A. Burt, *Icones Farlowianiae*, illustrations of the larger fungi of the eastern north America by William Gilson Farlow. Cambridge 1929. – See TL-2/1742 (*in* 1: 814). \[Illustrations by W.G. Farlow, text by E.A. Burt\].
 
 ### Publications
 

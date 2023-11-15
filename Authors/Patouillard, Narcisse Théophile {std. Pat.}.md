@@ -8,7 +8,8 @@ Patouillard, Narcisse Théophile (1854-1926), French mycologist; studied at the 
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (50.000 specimens; bought 1927); types in part also at [[Collection PC|PC]]; other material at [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BR|BR]], [[Collection CUP|CUP]], [[Collection PAD|PAD]], [[Collection PAV|PAV]]. See Pfister (1977) for an annotated index of fungi described by Patouillard and for notes on his private herbarium. [[Collection PC|PC]] has 3000 plates from Patouillard's note books (see Heim 1971; some plates publ. as suppl. to Rev. mycol.). Other plates of fungi used by P. are at [[Collection FH|FH]]. – *Exsiccatae*: with E. Doassans, *Champignons figurés et désechés* (with atlas) 2 vols., Paris 1880-1883. Contributed also to T. Vestergren, *Micromycetes rariores selecti. – Letters and portrait at [[Collection G|G]].*
+[[Collection FH|FH]] (50.000 specimens; bought 1927); types in part also at [[Collection PC|PC]]; other material at [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BR|BR]], [[Collection CUP|CUP]], [[Collection PAD|PAD]], [[Collection PAV|PAV]]. See Pfister (1977) for an annotated index of fungi described by Patouillard and for notes on his private herbarium. [[Collection PC|PC]] has 3000 plates from Patouillard's note books (see Heim 1971; some plates publ. as suppl. to Rev. mycol.). Other plates of fungi used by P. are at [[Collection FH|FH]].
+*Exsiccatae*: with E. Doassans, *Champignons figurés et désechés* (with atlas) 2 vols., Paris 1880-1883. Contributed also to T. Vestergren, *Micromycetes rariores selecti. – Letters and portrait at [[Collection G|G]].*
 
 #### Bibliography and biography
 
@@ -39,8 +40,8 @@ Ainsworth p. 74, 226, 266, 284, 320, 345; Barnhart 3: 54; BM 4: 1529; Bossert p.
 
 #### Composite works
 
-(1) with N.L. Lagerheim (q.v.) *Sirobasidium* (1892), TL-2/4112.
-(2) Duss, A., *Énum. champ. Guadeloupe* 1903, 94 p.,(all nomenclature by P.), TL-2/1604.
+- (1) with N.L. Lagerheim (q.v.) *Sirobasidium* (1892), TL-2/4112.
+- (2) Duss, A., *Énum. champ. Guadeloupe* 1903, 94 p.,(all nomenclature by P.), TL-2/1604.
 
 #### Index to fungi described by Patouillard
 

@@ -30,16 +30,16 @@ Barnhart 3: 505 (b. 21 Mai 1879, d. 6 Feb\[fix\] 1944); BL 1: 230, 231, 324; BM 
 #### Composite works
 
 *North American flora* (TL-2/781): (1) *Altingiaceae* (TL-2/781): 22(2): 189. 18 Dec 1905, 22(6): 558. 30 Dec 1918.
-(2) Id. *Basellaceae* 21(4): 337-339. 29 Dec 1932.
-(3) Id. *Batidaceae* 21(4): 255. 29 Dec 1932.
-(4) Id. *Meliaceae* 25(4): 263-296. 10 Mar 1924.
-(5) Id. *Petiveriaceae* 21(4): 257-266. 29 Dec 1932.
-(6) Id. *Portulaceae* 21(4): 280-290, 328-330. 29 Dec 1932.
-(7) Id. *Rutaceae* 25(3): 173-224. 6 Mai 1911.
-(8) Id. *Surianaceae* 25(3): 225. 6 Mai 1911.
-(9) Id. *Tetragoniaceae* 21(4): 267-277. 29 Dec 1932.
-(10) Id. *Typhaceae* 17(1): 3-4. 30 Jun 1909.
-(11) Co-author with N.L. Britton and W.R. Maxon, *Bot. Porto Rico* 1923-1930, see TL-2/788.
+- (2) Id. *Basellaceae* 21(4): 337-339. 29 Dec 1932.
+- (3) Id. *Batidaceae* 21(4): 255. 29 Dec 1932.
+- (4) Id. *Meliaceae* 25(4): 263-296. 10 Mar 1924.
+- (5) Id. *Petiveriaceae* 21(4): 257-266. 29 Dec 1932.
+- (6) Id. *Portulaceae* 21(4): 280-290, 328-330. 29 Dec 1932.
+- (7) Id. *Rutaceae* 25(3): 173-224. 6 Mai 1911.
+- (8) Id. *Surianaceae* 25(3): 225. 6 Mai 1911.
+- (9) Id. *Tetragoniaceae* 21(4): 267-277. 29 Dec 1932.
+- (10) Id. *Typhaceae* 17(1): 3-4. 30 Jun 1909.
+- (11) Co-author with N.L. Britton and W.R. Maxon, *Bot. Porto Rico* 1923-1930, see TL-2/788.
 
 ### Publications
 

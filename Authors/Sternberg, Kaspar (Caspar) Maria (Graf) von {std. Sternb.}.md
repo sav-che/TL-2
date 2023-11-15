@@ -54,8 +54,8 @@ AG 5(2): 436, 651, 6(1): 303, 12(2): 244; Andrews p. 84 (ed. 1), 335 (ed. 2); Ba
 
 #### Composite works
 
-(1) Contributed to J. Sturm, *Deutschl. Fl*. Abt. 1, Heft 33 (1812; Saxifraga), Heft 35: (1813, Saxifraga), Heft 40: (1817; 1 fl. plant), Heft 41: (1821, 1 fl. pl.).
-(2) *Asclepiadeae*, recensitae a Roberto Brown. Ex idiomate anglico transtulit... \[C.B. Presi\]. Edidit Casparus Comes Sternberg, Praha 1819, see TL-2/826.
+- (1) Contributed to J. Sturm, *Deutschl. Fl*. Abt. 1, Heft 33 (1812; Saxifraga), Heft 35: (1813, Saxifraga), Heft 40: (1817; 1 fl. plant), Heft 41: (1821, 1 fl. pl.).
+- (2) *Asclepiadeae*, recensitae a Roberto Brown. Ex idiomate anglico transtulit... \[C.B. Presi\]. Edidit Casparus Comes Sternberg, Praha 1819, see TL-2/826.
 
 #### Handwriting
 

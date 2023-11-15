@@ -30,7 +30,7 @@ Herder published a continuation of Trautvetter's *Florae rossicae fontes* (TR) a
 
 #### Composite works
 
-(1) Eduard Regel und F. von Herder, *Enumeratio plantarum in regionibus Ciset Transiliensibus a cl. Semenovio anno 1857 collectarum* (1864-1870), see under Regel.
+- (1) Eduard Regel und F. von Herder, *Enumeratio plantarum in regionibus Ciset Transiliensibus a cl. Semenovio anno 1857 collectarum* (1864-1870), see under Regel.
 
 #### Handwriting
 

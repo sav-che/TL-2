@@ -42,10 +42,10 @@ AG 6(1): 828; Andrews p. 321; Barnhart 3: 520; BFM 1170, 1171, 2129, 2607; Biol.
 
 #### Composite works
 
-(1) With J. Jäggi, *Fortschritte in der Systematik und Floristik der Schweizerflora* (Gefässpfl.), Ber. Schweiz. bot. Ges. 2: 82-102. 1892, 3: 121-128. 1893.
-(2) With M. Rikli, *Vom Mittelmeer zum Nordrand der Sahara*, Zürich 1912, see under Rikli, TL-2/9232.
-(3) With M. Rikli & A. Tansley, *Vegetationsbilder aus Algerien, in* Schenk & Karsten, Vegetationsbilder 10(2/3). 1912.
-(4) Introduction to *Alpenblumen* sechsunddreissig Farbtafeln nach der Natur von Paul A. Robert, Bern (Iris Verlag) 1938, p. \[1\]-19, *pl. 1-36* (col.). *Copy*: G.
+- (1) With J. Jäggi, *Fortschritte in der Systematik und Floristik der Schweizerflora* (Gefässpfl.), Ber. Schweiz. bot. Ges. 2: 82-102. 1892, 3: 121-128. 1893.
+- (2) With M. Rikli, *Vom Mittelmeer zum Nordrand der Sahara*, Zürich 1912, see under Rikli, TL-2/9232.
+- (3) With M. Rikli & A. Tansley, *Vegetationsbilder aus Algerien, in* Schenk & Karsten, Vegetationsbilder 10(2/3). 1912.
+- (4) Introduction to *Alpenblumen* sechsunddreissig Farbtafeln nach der Natur von Paul A. Robert, Bern (Iris Verlag) 1938, p. \[1\]-19, *pl. 1-36* (col.). *Copy*: G.
 
 #### Festschrift
 
@@ -53,8 +53,8 @@ Veröff. Geobot. Inst. Rübel Zürich, Heft 3, 1925: *Festschrift Carl Schröter
 
 #### Note
 
-(1) Ludwig Schröter (b. 23 Aug 1861, d. 18 Jan 1929), botanical artist, was a brother of C.J. Schröter. He provided the drawings for several of S.'s early publications; especially well-known are the plates of the *Taschenbuch des Alpen-Wanderers* (see below).
-(2) *Main bibliography*: E. Rübel, Carl Schröter 1855-1939, Zürich 1940, p. 57-74.
+- (1) Ludwig Schröter (b. 23 Aug 1861, d. 18 Jan 1929), botanical artist, was a brother of C.J. Schröter. He provided the drawings for several of S.'s early publications; especially well-known are the plates of the *Taschenbuch des Alpen-Wanderers* (see below).
+- (2) *Main bibliography*: E. Rübel, Carl Schröter 1855-1939, Zürich 1940, p. 57-74.
 
 #### Eponymy
 

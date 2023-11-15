@@ -23,5 +23,5 @@ BB p. 247; Blunt p. 4, 208, 211-212, *pl. 37*; BM 4: 1596 (drawings); Desmond p.
 
 #### Composite works
 
-(1) Curtis, S., *Monogr. Camellia* 1819, TL-2/1283, (2) *Beauties Flora* 1820, TL2/1284.
+- (1) Curtis, S., *Monogr. Camellia* 1819, TL-2/1283, (2) *Beauties Flora* 1820, TL2/1284.
 

@@ -25,10 +25,10 @@ APN p. 234; Barnhart 2: 64; BFM p. 286 (index); BL 1: 22, 298, 2: 237-238, 660; 
 
 #### Outside our period
 
-(1) *The geography of the flowering plants*, London, New York (Longmans, Green)... 1947; \[1st Amer. imprint?\],... 1952; ed. 2... 1953; ed. 2, "new impression by photolithography"... New York (John Wiley)... 1961; ed. 3... 1964; Id., Amer. imprint... 1965; ed. 3 (Amer.),... 1970; ed. 4... 1974.
-(2) *A geographical handbook of the Dorset flora*... Including a chapter on the soils of Dorset by K.L. Robinson... Dorset (Published for the author by the Dorset Natural History and Archaeological Society) 1948.
-(3) *Features of evolution in the flowering plants*, London, New York (Longmans, Green)... 1956;...; Id. \[reissue?\]... 1962; "Corrected republication of the work originally published ... in 1956", New York (Dover Publications)... 1974; \[ed. 1, reprinted\], "with a new preface by the author"... New York (Dover Publications \[etc.\])... 1976.
-(4) *The philosophy of evolution*, Wimborne, Dorset (Dovecote Press)... 1981. (5) *A concise flora of Dorset*, Dorchester (Dorset Natural History and Archaeological Society)... 1984.
+- (1) *The geography of the flowering plants*, London, New York (Longmans, Green)... 1947; \[1st Amer. imprint?\],... 1952; ed. 2... 1953; ed. 2, "new impression by photolithography"... New York (John Wiley)... 1961; ed. 3... 1964; Id., Amer. imprint... 1965; ed. 3 (Amer.),... 1970; ed. 4... 1974.
+- (2) *A geographical handbook of the Dorset flora*... Including a chapter on the soils of Dorset by K.L. Robinson... Dorset (Published for the author by the Dorset Natural History and Archaeological Society) 1948.
+- (3) *Features of evolution in the flowering plants*, London, New York (Longmans, Green)... 1956;...; Id. \[reissue?\]... 1962; "Corrected republication of the work originally published ... in 1956", New York (Dover Publications)... 1974; \[ed. 1, reprinted\], "with a new preface by the author"... New York (Dover Publications \[etc.\])... 1976.
+- (4) *The philosophy of evolution*, Wimborne, Dorset (Dovecote Press)... 1981. (5) *A concise flora of Dorset*, Dorchester (Dorset Natural History and Archaeological Society)... 1984.
 
 #### Composite works
 

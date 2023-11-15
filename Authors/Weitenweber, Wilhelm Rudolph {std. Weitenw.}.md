@@ -22,10 +22,10 @@ ADB 41: 622-623 (Pagel); Barnhart 3: 474 (b. 1 Oct 1804, d. 1 Apr 1870); BM 5: 2
 
 #### Composite works
 
-(1) Editor, *Beiträge zur gesammten Natur- und Heilwissenschafi*, 5 vols. of 2-3 Hefte each 1836-1840 and of *Neue Beiträge*... 2 vols. of 6 Hefte each 1841-1842. – For botanical contributions see Futak-Domin.
-(2) *Denkschrift über Aug. Jos. Corda's Leben* und literarisches Wirken, *in* Abh. k. böhm. Ges. Wiss. ser. 5. 7 (Hist.): 57-94. 1851-1852.
-(3) Editor vols. 3-19, 1853-1869 of *Lotos*, Zeitschrift fur Naturwissenschaften, Prague.
-(4) *Denkschrift über die Gebrüder Joh. Swat. und Carl Bor. Presl*, Prag 1854, p. \[1\]-27. *Copy: *NSUB. – Abh. k. böhm. Ges. wiss. ser. 2. 8(2): 1-27. 1854.
+- (1) Editor, *Beiträge zur gesammten Natur- und Heilwissenschafi*, 5 vols. of 2-3 Hefte each 1836-1840 and of *Neue Beiträge*... 2 vols. of 6 Hefte each 1841-1842. – For botanical contributions see Futak-Domin.
+- (2) *Denkschrift über Aug. Jos. Corda's Leben* und literarisches Wirken, *in* Abh. k. böhm. Ges. Wiss. ser. 5. 7 (Hist.): 57-94. 1851-1852.
+- (3) Editor vols. 3-19, 1853-1869 of *Lotos*, Zeitschrift fur Naturwissenschaften, Prague.
+- (4) *Denkschrift über die Gebrüder Joh. Swat. und Carl Bor. Presl*, Prag 1854, p. \[1\]-27. *Copy: *NSUB. – Abh. k. böhm. Ges. wiss. ser. 2. 8(2): 1-27. 1854.
 
 #### Eponymy
 

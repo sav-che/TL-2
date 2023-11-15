@@ -33,9 +33,9 @@ Barnhart 1: 376 (b. 28 Mai 1867); BL 1: 230, 291; Hortus 3: 1190; IH 2: 137; Kew
 
 #### Composite works
 
-(1) With Lucien Marcus Underwood: *A Century of illustrative fungi*, see TL-2/6: 587, 21 pages, with 100 exsiccatae, Syracuse, N.Y., 1889, see e.g. Bot. Centralbl. 41(3/4): 66. 22 Jan 1890.
-(2) Idem, see TL-2/6: 587, *Hepaticae americanae*, decades 1-20,1887-1899, nos. 1-200, q.v.
-(3) *Inventory No. 2 of foreign seeds and plants imported by O.F. Cook* by the section of seed and plant introduction, nos. 1101-1900, USDA, Oct., 194 p.
+- (1) With Lucien Marcus Underwood: *A Century of illustrative fungi*, see TL-2/6: 587, 21 pages, with 100 exsiccatae, Syracuse, N.Y., 1889, see e.g. Bot. Centralbl. 41(3/4): 66. 22 Jan 1890.
+- (2) Idem, see TL-2/6: 587, *Hepaticae americanae*, decades 1-20,1887-1899, nos. 1-200, q.v.
+- (3) *Inventory No. 2 of foreign seeds and plants imported by O.F. Cook* by the section of seed and plant introduction, nos. 1101-1900, USDA, Oct., 194 p.
 
 ### Publications
 

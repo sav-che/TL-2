@@ -22,9 +22,9 @@ Barnhart 1: 421 (b. 12 Dec 1909, Coldwater, Ohio); BL 1: 220, 292; Ewan ed. 1: 1
 
 #### Outside our period
 
-(1) *Vegetational zonation* in the *Rocky Mountains*... Bot. Rev. 9: 325-393. 1942. *Copy*: HH.
-(2) *Plants and environment*, a textbook of plant autecology, New York, 1947, p. xiii, 424, frontisp. Oct. – Ed. 2: p. xi, 422 p. 1959, second printing, June 1962. – Ed. 3: 1974, p. ix, 422 p.
-(3) *Plant geography* with special reference to North America, New York (Academic Press) 1978. Oct., p. vi, 338. (*Copy*: MO).
+- (1) *Vegetational zonation* in the *Rocky Mountains*... Bot. Rev. 9: 325-393. 1942. *Copy*: HH.
+- (2) *Plants and environment*, a textbook of plant autecology, New York, 1947, p. xiii, 424, frontisp. Oct. – Ed. 2: p. xi, 422 p. 1959, second printing, June 1962. – Ed. 3: 1974, p. ix, 422 p.
+- (3) *Plant geography* with special reference to North America, New York (Academic Press) 1978. Oct., p. vi, 338. (*Copy*: MO).
 
 ### Publications
 

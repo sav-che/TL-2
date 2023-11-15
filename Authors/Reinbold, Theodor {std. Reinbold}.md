@@ -26,10 +26,10 @@ Barnhart 3: 141 (d. 29 Mar 1918); Biol.-Dokum. 14: 7396; BM 4: 1672, 6: 264, 8: 
 
 #### Composite works
 
-(1) Contributed *Phaeophyceae* and *Dictyotales* of East Africa, in A. Engler, *Die Pflanzenwelt Ost-Afrikas* (Deutsch Ost-Afrika vol. 5C), TL-2/1708.
-(2) *Die Meeresalgen der Deutschen Südpolar-Expedition* 1901-1903, *in* K. v. Drygalski, ed., Deutsche Südpolar-Expedition, viii Botanik, p. 177-202. 1908 (Bot. Centralbl. 27 Oct 1908).
-(3) *Meeresalgen, in* K. Rechinger, *Bot. zool. Erg. Forschungsreise Sam\[fix\]ains.* 1: 200-208. 1907.
-(4) *Meeresalgen, in* F. Reinecke, *Die Flora der Samoa-Inseln* 23: 266-275. 15 Sep 1896.
+- (1) Contributed *Phaeophyceae* and *Dictyotales* of East Africa, in A. Engler, *Die Pflanzenwelt Ost-Afrikas* (Deutsch Ost-Afrika vol. 5C), TL-2/1708.
+- (2) *Die Meeresalgen der Deutschen Südpolar-Expedition* 1901-1903, *in* K. v. Drygalski, ed., Deutsche Südpolar-Expedition, viii Botanik, p. 177-202. 1908 (Bot. Centralbl. 27 Oct 1908).
+- (3) *Meeresalgen, in* K. Rechinger, *Bot. zool. Erg. Forschungsreise Sam\[fix\]ains.* 1: 200-208. 1907.
+- (4) *Meeresalgen, in* F. Reinecke, *Die Flora der Samoa-Inseln* 23: 266-275. 15 Sep 1896.
 
 ### Publications
 

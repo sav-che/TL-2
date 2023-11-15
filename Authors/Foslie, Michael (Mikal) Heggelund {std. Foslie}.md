@@ -10,7 +10,8 @@ Foslie, Michael (Mikal) Heggelund (1855-1909), Norwegian algologist.
 
 #### Herbarium and types
 
-[[Collection TRH|TRH]] – Exsiccatae: *Lithothamnia selecta exsiccata*, edited by Olav Gjaerevoll (nos. 1-32, Trondheim, Jun 1950) sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection NY|NY]], [[Collection LD|LD]], [[Collection TRH|TRH]], [[Collection UPS|UPS]].
+[[Collection TRH|TRH]]
+*Exsiccatae*: *Lithothamnia selecta exsiccata*, edited by Olav Gjaerevoll (nos. 1-32, Trondheim, Jun 1950) sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection NY|NY]], [[Collection LD|LD]], [[Collection TRH|TRH]], [[Collection UPS|UPS]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 204.
 - Koster, Taxon 18: 552. 1969.
 

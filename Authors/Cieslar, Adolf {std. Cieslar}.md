@@ -21,7 +21,7 @@ Barnhart 1: 348 (d. Jul 1934, Wien); DTS 3: xli, 6(4): 130; Futak-Domin p. 133; 
 
 #### Composite works
 
-(1) See TL-2/11.978, E.E. Silva Tarouca, *Freiland-Nadelgehölze* 1913; ed. 2. 1923, A. Cieslar co-author.
+- (1) See TL-2/11.978, E.E. Silva Tarouca, *Freiland-Nadelgehölze* 1913; ed. 2. 1923, A. Cieslar co-author.
 
 ### Publications
 

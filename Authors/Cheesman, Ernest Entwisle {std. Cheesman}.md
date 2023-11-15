@@ -20,7 +20,7 @@ Barnhart 1: 338; Bl 1: 261, 290; Hortus 3: 1190; IH 2: 124; Kew 1: 524.
 
 #### Composite works
 
-(1) See treatment of a number of families in the *Flora of Trinidad and Tobago* (TL-2/17.773, sub R.Q. Williams) by Cheesman.
+- (1) See treatment of a number of families in the *Flora of Trinidad and Tobago* (TL-2/17.773, sub R.Q. Williams) by Cheesman.
 
 ### Publications
 

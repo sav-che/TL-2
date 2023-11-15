@@ -60,9 +60,9 @@ Ainsworth p. 52, 54, 246; Backer p. 531; Barnhart 3: 269 (b. 30 Mar 1659, d. 12 
 
 #### Composite works
 
-(1) Edited P. Hermann, *Parad. bot.* 1698 (TL-2/2687) and provided it with a preface.
-(2) Appendix, to J. Ray, *Syn. meth.* 1689, p. 237-239, and *Stirp. eur. Syll.* 398-400. 1694.
-(3) See P. Hermann, *Schola bot*. 1689, TL-2/2685. – The author "S.W.A." is commonly supposed to have been W. Sherard, see e.g. B.D. Jackson (1874), p. 136-137 for further details.
+- (1) Edited P. Hermann, *Parad. bot.* 1698 (TL-2/2687) and provided it with a preface.
+- (2) Appendix, to J. Ray, *Syn. meth.* 1689, p. 237-239, and *Stirp. eur. Syll.* 398-400. 1694.
+- (3) See P. Hermann, *Schola bot*. 1689, TL-2/2685. – The author "S.W.A." is commonly supposed to have been W. Sherard, see e.g. B.D. Jackson (1874), p. 136-137 for further details.
 
 #### Handwriting
 

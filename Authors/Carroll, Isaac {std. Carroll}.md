@@ -10,7 +10,8 @@ Carroll, Isaac (1828-1880), Irish lichenologist.
 
 #### Herbarium and types
 
-University College Cork, many duplicates at [[Collection BM|BM]], [[Collection DBN|DBN]] and [[Collection K|K]]. Exsiccatae: *Lichenes hibernici exsiccati* (1 fasc, nos. 1-40) Cork 1859. – Sets at [[Collection BM|BM]] and [[Collection UPS|UPS]]. A note in the Journal of botany for Nov 1874 states that Carroll's cryptogamic herbarium "has been acquired by the British Museum."
+University College Cork, many duplicates at [[Collection BM|BM]], [[Collection DBN|DBN]] and [[Collection K|K]].
+*Exsiccatae*: *Lichenes hibernici exsiccati* (1 fasc, nos. 1-40) Cork 1859. – Sets at [[Collection BM|BM]] and [[Collection UPS|UPS]]. A note in the Journal of botany for Nov 1874 states that Carroll's cryptogamic herbarium "has been acquired by the British Museum."
 *Ref*.: IH 2: 117.
 - Anon., J. Bot. 12: 352. 1874.
 - Anon., Hist. coll. BMNH 33, 138. 1904.

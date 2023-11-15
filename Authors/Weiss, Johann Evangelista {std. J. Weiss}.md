@@ -8,7 +8,8 @@ Weiss, Johann Evangelista (1850-1918), German (Bavarian) high school teacher and
 
 #### Herbarium and types
 
-Westfalen material at [[Collection GOET|GOET]]. – *Exsiccatae*: *Herbarium pathologicum* Lief. 1-8, nos. 1-200, 1916-1921, from Lief. 5, 1919 continued by R. Staritz. Set at [[Collection SI|SI]]. *Herbarium pathologicum der landwirtschaftlichen Kulturgewächse und Gemüsepflanzen* Lief. 1, nos. 1-25, 1918.
+Westfalen material at [[Collection GOET|GOET]].
+*Exsiccatae*: *Herbarium pathologicum* Lief. 1-8, nos. 1-200, 1916-1921, from Lief. 5, 1919 continued by R. Staritz. Set at [[Collection SI|SI]]. *Herbarium pathologicum der landwirtschaftlichen Kulturgewächse und Gemüsepflanzen* Lief. 1, nos. 1-25, 1918.
 *Id*. der *Obstgehölze* und *Beerensträucher*, Lief. 1, nos. 1-25. 1918. *Id*. der *Zierpflanzen, Park- und Alleebäume*, Lief. 1, nos. 1-25. 1918. *Letter* to K. Keck at [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography

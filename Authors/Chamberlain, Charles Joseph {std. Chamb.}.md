@@ -23,9 +23,9 @@ Barnhart 1: 328; BFM 2264; BJI 2: 26; DSB 3: 87-188 (by Gloria Robinson, source 
 
 #### Note
 
-(1) For *Morphology of Spermatophytes* 1901-1902 see sub J.M. Coulter.
-(2) Davis Bradley, M., R.A. Harper, Ch. J. Chamberlain and B.D. Mottier, Symposium *Nuclear phenomena of sexual reproduction in Thallophytes and Spermatophytes*, Bot. Soc. Amer., Publ. 45. 1910.
-(3) For *Morphology of the Angiosperms* 1903, see sub J.M. Coulter.
+- (1) For *Morphology of Spermatophytes* 1901-1902 see sub J.M. Coulter.
+- (2) Davis Bradley, M., R.A. Harper, Ch. J. Chamberlain and B.D. Mottier, Symposium *Nuclear phenomena of sexual reproduction in Thallophytes and Spermatophytes*, Bot. Soc. Amer., Publ. 45. 1910.
+- (3) For *Morphology of the Angiosperms* 1903, see sub J.M. Coulter.
 
 ### Publications
 

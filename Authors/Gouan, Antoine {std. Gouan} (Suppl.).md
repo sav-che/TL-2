@@ -44,19 +44,19 @@ AG 2(1): 563; APN p. 237; Backer p. 240, 651; Baillon 2: 725-726; Barnhart 2: 69
 #### Note
 
 The following are now available in microform:
-(1) *Hortus monsp*.... (1762) (TL-2/1, nr. 2099):
+- (1) *Hortus monsp*.... (1762) (TL-2/1, nr. 2099):
 (a) *Microfiche*: Leiden (IDC), \[19–?\], 11 microfiches. *Copy*: (n.v.). (b) *Microfilm*: St. Louis, Missouri (Pius XII Memorial Library, Saint Louis Univ.), \[s.d.\], 1 reel (35 mm) (Microfilms of rare and out-of-print books: list 81, reel 12, no. 1). *Copy*: (n.v.). (c) *Microfilm*: London (British Museum), 1986, 1 reel (305 fr.). *Copy*: (n.v.).
-(2) *Fl. monsp.*... 1765 (TL-2/1, nr. 2100):
+- (2) *Fl. monsp.*... 1765 (TL-2/1, nr. 2100):
 (a) *Microfiche*: (IDC), \[19–?\], 10 microfiches (Reprod. de l'éd. de, Lugdini: B. Duplain, 1765). *Copy*: (n.v.). (b) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches (Plant taxonomic lit. microfiche coll., "8237C5-8243B2"). *Copy*: MO (n.v.). (c) *Micro-opaque*: New York (Readex Microprint), 1968, 6 cards, 23×15 cm (Landmarks of science). *Copy*: (n.v.).
-(3) *Ill. observ. bot.*... 1773 (TL-2/1, nr. 2101):
+- (3) *Ill. observ. bot.*... 1773 (TL-2/1, nr. 2101):
 (a) *Microfiche*: IDC, \[19–?\], 4 microfiches (Reprod. de l'éd. de, Tiguri: Orell, 1773). *Copy*: (n.v.). (b) *Micro-opaque*: New York (Readex Microprint), 1974, 2 cards, 23×15 cm (Landmarks of science). *Copy*: (n.v.). (c) *Microfilm*: London (British Library), 1986, 1 reel (64 fr., 35 mm). *Copy*: (n.v.).
-(4) *Expl. syst. bot.*... 1773 (TL-2/1, nr. 2102):
+- (4) *Expl. syst. bot.*... 1773 (TL-2/1, nr. 2102):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[s.d.\],? microfiches (Plant taxonomic lit. microfiche coll., "2028G4-2029E7"). *Copy*: MO (n.v.).
-(5) *Herbor. Montpellier*... 1796 (TL-2/1, nr. 2103):
+- (5) *Herbor. Montpellier*... 1796 (TL-2/1, nr. 2103):
 (a) *Microfilm*: London (British Library), 1987, 1 reel (183 fr., 35 mm). *Copy*: (n.v.). (b) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "2029F3-2032F2"). *Copy*: MO (n.v.). – *Note*: (1) Following p. 244, four pages, each assigned \*245, provide an addition to p. 50. The unassigned p. \[245\] is the beginning of the Index generum. (2) Work supplements *Fl. monsp.*... 1765.
 The following is also available in transl.:
-(6) *Expl. syst. bot.*... 1773 (TL-2/1, nr. 2102): Spanish transl. \[by Antonio Paláu y Verdéra\]: 1788,... *Explicacion del sistéma botánico del caballero Cárlos Linneo*, para que sirva de introduccion al estudio de la botánica... clxxviii p., *1 pl*.... Published in: Linné, Carl von, Parte práctica de botánica... vol. 8, p. \[i\]-cxxv, Madrid (En la Imprenta Real). *Copy*: BM (n.v.). The following is available in an electronic form:
-(7) *Fl. monsp.*... 1765 (TL-2/1, nr. 2100): Gallica.
+- (6) *Expl. syst. bot.*... 1773 (TL-2/1, nr. 2102): Spanish transl. \[by Antonio Paláu y Verdéra\]: 1788,... *Explicacion del sistéma botánico del caballero Cárlos Linneo*, para que sirva de introduccion al estudio de la botánica... clxxviii p., *1 pl*.... Published in: Linné, Carl von, Parte práctica de botánica... vol. 8, p. \[i\]-cxxv, Madrid (En la Imprenta Real). *Copy*: BM (n.v.). The following is available in an electronic form:
+- (7) *Fl. monsp.*... 1765 (TL-2/1, nr. 2100): Gallica.
 
 ### Publications
 

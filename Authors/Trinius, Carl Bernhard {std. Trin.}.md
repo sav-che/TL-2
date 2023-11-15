@@ -38,8 +38,8 @@ ADB 38: 619-621; AG 2(1): 546; Backer p. 597; Barnhart 3: 401 (b. 7 Mar 1778, d.
 
 #### Composite works
 
-(1) With J. Liboschitz, *Fl. St. Petersburg* 1811-1818, TL-2/4499.
-(2) Senior author, with F.J. Ruprecht of *Sp. gram. stipac*. 1842, TL-2/9794.
+- (1) With J. Liboschitz, *Fl. St. Petersburg* 1811-1818, TL-2/4499.
+- (2) Senior author, with F.J. Ruprecht of *Sp. gram. stipac*. 1842, TL-2/9794.
 
 #### Handwriting
 

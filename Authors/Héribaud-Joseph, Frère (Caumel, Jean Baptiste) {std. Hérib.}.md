@@ -8,7 +8,8 @@ Héribaud-Joseph, Frère (Caumel, Jean Baptiste) (1841-1918), French clergyman a
 
 #### Herbarium and types
 
-[[Collection CLF|CLF]]; further material at [[Collection BM|BM]] (mosses, fide Sayre (1978) and diatoms, orig. fide Fryxell), [[Collection K|K]], [[Collection L|L]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PH|PH]] (diat.), [[Collection S|S]] (diat.), [[Collection WRSL|WRSL]]. – Exsiccatae: *Collections des cryptogames de l'Amérique du Sud*, nos. 1-100, 1912. No set known, see Sayre (1969).
+[[Collection CLF|CLF]]; further material at [[Collection BM|BM]] (mosses, fide Sayre (1978) and diatoms, orig. fide Fryxell), [[Collection K|K]], [[Collection L|L]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PH|PH]] (diat.), [[Collection S|S]] (diat.), [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Collections des cryptogames de l'Amérique du Sud*, nos. 1-100, 1912. No set known, see Sayre (1969).
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(1): 28. 1968; Bryologist 80: 509. 1978.
 - Fryxell, G., Beih. Nova Hedwigia 35: 361. 1975.
 

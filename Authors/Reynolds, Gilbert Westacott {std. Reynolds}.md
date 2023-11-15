@@ -36,6 +36,6 @@ Bossert p. 330 (d. 7 Apr 1967); Hortus 3: 1202; IH 1 (ed. 7): (in press), 2: (in
 #### Note
 
 Reynolds' two standard works on African *Aloe* fall outside our period:
-(1) *The Aloes of South Africa*, Johannesburg, South Africa, xxiv 520 p., 77 col. pl., published December 1950 (private comm. by author), see also Taxon 1: 30. 1951.
-(2) *The Aloes of tropical Africa and Madagascar*, Mbabane, Swaziland, xxii, 537 p., *106 col. pl.* 1966; see Taxon 16: 59, 206. 1967.
+- (1) *The Aloes of South Africa*, Johannesburg, South Africa, xxiv 520 p., 77 col. pl., published December 1950 (private comm. by author), see also Taxon 1: 30. 1951.
+- (2) *The Aloes of tropical Africa and Madagascar*, Mbabane, Swaziland, xxii, 537 p., *106 col. pl.* 1966; see Taxon 16: 59, 206. 1967.
 

@@ -23,8 +23,8 @@ Barnhart 1: 288; BL 2: 258, 259; Clokie p. 142; Desmond p. 109 (main source, d. 
 
 #### Notes
 
-(1) Burrell, W.H., *A supplementary* list of Norfolk mosses, liverworts and mycetozoa, Trans. Norfolk and Norwich nat. Soc. 9: 99-107. 1910. – (n.v.), see LS 31778a.
-(2) id., The *Fauna and Flora* of Florden Common, Trans. Norfolk and Norwich nat. Soc. 9: 170-186, map, 1911. – (n.v.), see BL 2: 259.
+- (1) Burrell, W.H., *A supplementary* list of Norfolk mosses, liverworts and mycetozoa, Trans. Norfolk and Norwich nat. Soc. 9: 99-107. 1910. – (n.v.), see LS 31778a.
+- (2) id., The *Fauna and Flora* of Florden Common, Trans. Norfolk and Norwich nat. Soc. 9: 170-186, map, 1911. – (n.v.), see BL 2: 259.
 
 ### Publications
 

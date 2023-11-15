@@ -47,12 +47,12 @@ AG 3: 249, 12(3): 516; Barnhart 1: 318 (b. 27 Jun 1830, Chandernagor, India, d. 
 
 #### Composite works
 
-(1) \[see TL-2/1: 461\] F. Parlatore, TL-2/7362, *Flora italiana*, several parts written by Caruel, q.v. – See also Bot. Zeit. 44(19): 341-342. 1886, Bot. Centralbl. 29(1): 10-11. 1887 (vol. 6(3a)).
+- (1) \[see TL-2/1: 461\] F. Parlatore, TL-2/7362, *Flora italiana*, several parts written by Caruel, q.v. – See also Bot. Zeit. 44(19): 341-342. 1886, Bot. Centralbl. 29(1): 10-11. 1887 (vol. 6(3a)).
 (2-3) see TL-2/1: 461.
-(4) A. Pokorny, *Storia illustrata del regno vegetabile* 1896, Italian translation by T. Caruel of *Illustrierte Naturgeschichte des Pflanzenreiches*, see TL-2/4: 325-326.
-(5) *Prodr. fl. tosc.*, fasc. 3 \[see TL-2/1034\]: p. 305-592, rev. by Fournier, Bull. Soc. bot. France 10(Bibl.): 529. Apr 1864.
-(6) *Apiaceae*, *in* F. Parlatore, *Fl. Ital.* 8: 179-560. Mar, 561-566. Oct 1889.
-(7) See also TL-2/1: 124 (no. 314).
+- (4) A. Pokorny, *Storia illustrata del regno vegetabile* 1896, Italian translation by T. Caruel of *Illustrierte Naturgeschichte des Pflanzenreiches*, see TL-2/4: 325-326.
+- (5) *Prodr. fl. tosc.*, fasc. 3 \[see TL-2/1034\]: p. 305-592, rev. by Fournier, Bull. Soc. bot. France 10(Bibl.): 529. Apr 1864.
+- (6) *Apiaceae*, *in* F. Parlatore, *Fl. Ital.* 8: 179-560. Mar, 561-566. Oct 1889.
+- (7) See also TL-2/1: 124 (no. 314).
 
 ### Publications
 

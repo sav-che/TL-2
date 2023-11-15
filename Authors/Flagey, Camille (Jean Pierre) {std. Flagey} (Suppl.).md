@@ -10,7 +10,10 @@
 
 #### Herbarium and types
 
-Algeria: [[Collection AL|AL]]; France or Algeria: [[Collection LILLE|LILLE]], [[Collection NCY|NCY]]. – *Exsiccatae* (see also TL-2/1: 842): (1) *Lichenes* de *Franche-Comté* et de quelques localités environnantes ... (fasc. i-ix, nos. 1-450, 1882-1888) (Flagey, Lich. Franche-Comté), complete sets at [[Collection FH|FH]], [[Collection PC|PC]]. (2) *Lichenes Algerienses exsiccati*... (Azéba, Algeria, fasc. i-iii, nos. 1-307, 1891-1895) (Flagey, *Lich. Alger.*): [[Collection AL|AL]], [[Collection DUKE|DUKE]], [[Collection FH|FH]], [[Collection G|G]], [[Collection M|M]] (herb. Arnold), [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
+Algeria: [[Collection AL|AL]]; France or Algeria: [[Collection LILLE|LILLE]], [[Collection NCY|NCY]].
+*Exsiccatae* (see also TL-2/1: 842): 
+- (1) *Lichenes* de *Franche-Comté* et de quelques localités environnantes ... (fasc. i-ix, nos. 1-450, 1882-1888) (Flagey, Lich. Franche-Comté), complete sets at [[Collection FH|FH]], [[Collection PC|PC]].
+- (2) *Lichenes Algerienses exsiccati*... (Azéba, Algeria, fasc. i-iii, nos. 1-307, 1891-1895) (Flagey, *Lich. Alger.*): [[Collection AL|AL]], [[Collection DUKE|DUKE]], [[Collection FH|FH]], [[Collection G|G]], [[Collection M|M]] (herb. Arnold), [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
 
 #### Bibliography and biography
 
@@ -29,8 +32,8 @@ APN p. 202; Barnhart 1: 548; BL 2: 149, 156, 653; BM 2: 581, 6: 327; BN p. 173; 
 
 #### Composite works
 
-(1) Co-author of the text accompanying exsiccatae of Part 5 of "*Flora Sequaniae exsiccata*..." by J. Paillot et al., see TL-2/4, nr. 7191.
-(2) Co-author of a suppl. to F. Renauld, *Cat. rais. pl. Haute-Saône*... 1883, see TL-2/4, nr. 8984.
+- (1) Co-author of the text accompanying exsiccatae of Part 5 of "*Flora Sequaniae exsiccata*..." by J. Paillot et al., see TL-2/4, nr. 7191.
+- (2) Co-author of a suppl. to F. Renauld, *Cat. rais. pl. Haute-Saône*... 1883, see TL-2/4, nr. 8984.
 
 #### Note
 

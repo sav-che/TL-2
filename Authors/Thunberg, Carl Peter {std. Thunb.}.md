@@ -247,9 +247,9 @@ AG 1: 196; Backer p. 584; Barnhart 3: 382 (b. 11 Nov 1743, d. 8 Aug 1828); BM 5:
 
 #### Composite works
 
-(1) See C.J. Hartman, *Gen. gram.* 1819, TL-2/2425. – *Copies*: B-S, G(2), LD, NY(2), USDA.
-(2) See below *Krameria* (1822), also by Hartman, but not treated by us in our second volume.
-(3) See E.G. Melén, *Erythr. svec.* 1826, TL-2/5814. – *Copies*: FI, G, LD, NY.
+- (1) See C.J. Hartman, *Gen. gram.* 1819, TL-2/2425. – *Copies*: B-S, G(2), LD, NY(2), USDA.
+- (2) See below *Krameria* (1822), also by Hartman, but not treated by us in our second volume.
+- (3) See E.G. Melén, *Erythr. svec.* 1826, TL-2/5814. – *Copies*: FI, G, LD, NY.
 
 #### Handwriting
 

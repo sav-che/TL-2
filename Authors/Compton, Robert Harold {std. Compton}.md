@@ -34,9 +34,9 @@ Barnhart 1: 371; BJI 2: 30; BL 1: 28, 119, 291; Bossert p. 81; Hortus 3: 1190; I
 
 #### Outside our period
 
-(1): R.H. Compton, *An annotated check list of the Flora of Swaziland*, Suppl. vol. vi of J. S. Afr. Bot., Mbabane, Swaziland 1966, 191 p., 2 maps. – See Taxon 15: 331. 11 Nov 1966.
-(2) Rice, E.G. and R.H. Compton, *Wild flowers of the Cape of Good Hope*, Kirstenbosch 1951, pp. 24, vi, with 250 col. plates. Qu.
-(3) Editor of Journal of South African Botany 1(1935)-19(1953).
+- (1): R.H. Compton, *An annotated check list of the Flora of Swaziland*, Suppl. vol. vi of J. S. Afr. Bot., Mbabane, Swaziland 1966, 191 p., 2 maps. – See Taxon 15: 331. 11 Nov 1966.
+- (2) Rice, E.G. and R.H. Compton, *Wild flowers of the Cape of Good Hope*, Kirstenbosch 1951, pp. 24, vi, with 250 col. plates. Qu.
+- (3) Editor of Journal of South African Botany 1(1935)-19(1953).
 
 #### Eponymy
 

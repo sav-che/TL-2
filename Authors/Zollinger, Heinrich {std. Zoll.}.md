@@ -36,7 +36,7 @@ ADB 45: 419-423; AG 6(2): 56; Backer p. 635-636; Barnhart 3: 543 (b. 22 Mar 1818
 #### Composite works
 
 (I) See A. Moritzi, *Syst. Verz.* 1845-1846, TL-2/6339, a list of the plants collected by Z. in Java 1842-1844; not to be confused with Zollinger's own *Syst. Verz.* 1854, below.
-(2) Review of J.C. Hasskarl, *Cat. pl. Bogor.* in Nat. Geneesk. Arch. Neerl. Ind. 1: 303-319. 1844.
+- (2) Review of J.C. Hasskarl, *Cat. pl. Bogor.* in Nat. Geneesk. Arch. Neerl. Ind. 1: 303-319. 1844.
 
 #### Eponymy
 

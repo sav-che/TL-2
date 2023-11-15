@@ -39,7 +39,9 @@ Barnhart 2: 491; BB p. 215; Blunt p. 150, 151; BM 3: 1313-1314; Dawson p. 391, 4
 |9	|49-54	|1784|
 |10	|55-60	|1785(3)|
 
-(1) Plate *1* dated 10 Mar 1776; (2) plate *36* dated 16 Mai 1782; (3) known as yet only from the *Cimelia Physica*. (see below). For details see Britten (1913, 1918) and Sherborn and Iredale (1921). The original title may have been "Various subjects of natural history, wherein are delineated birds, animals and many curious plants..." fide BM (3: 1313).
+- (1) Plate *1* dated 10 Mar 1776; 
+- (2) plate *36* dated 16 Mai 1782; 
+- (3) known as yet only from the *Cimelia Physica*. (see below). For details see Britten (1913, 1918) and Sherborn and Iredale (1921). The original title may have been "Various subjects of natural history, wherein are delineated birds, animals and many curious plants..." fide BM (3: 1313).
 
 ##### n.6033. Cimelia physica
 

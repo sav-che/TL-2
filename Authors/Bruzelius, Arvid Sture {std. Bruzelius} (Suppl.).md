@@ -23,6 +23,6 @@ Barnhart 1: 271; BM 1: 270; Kew 1: 405; KR p. 107 (b. 8 Mar 1799, d. 28 Jan 1865
 
 #### Notes
 
-(1) *Aphorismi botanici 12*, 1823 was written by C.A. Agardh but defended by B.
-(2) For his *Observ. Charae* see TL-2/857.
+- (1) *Aphorismi botanici 12*, 1823 was written by C.A. Agardh but defended by B.
+- (2) For his *Observ. Charae* see TL-2/857.
 

@@ -77,8 +77,8 @@ AG 1: 201, 2(1): 22, 4: 266, 5(1): 716, 7: 258; Backer p. 536; Barnhart 3: 293; 
 
 #### Composite works
 
-(1) Smith contributed 3045 botanical articles and biographies of botanists to Rees' *Cyclopaedia* (see above under Abraham Rees (1802-1820)), after the letter C; most entries are marked "S.").
-(2) See under J. Sibthorp for *Florae graecae prodromus* (1806-1813) and *Flora graeca* (1806-1840) of which the major part of the text was provided by J.E. Smith.
+- (1) Smith contributed 3045 botanical articles and biographies of botanists to Rees' *Cyclopaedia* (see above under Abraham Rees (1802-1820)), after the letter C; most entries are marked "S.").
+- (2) See under J. Sibthorp for *Florae graecae prodromus* (1806-1813) and *Flora graeca* (1806-1840) of which the major part of the text was provided by J.E. Smith.
 
 #### Eponymy
 

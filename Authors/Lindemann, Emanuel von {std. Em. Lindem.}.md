@@ -66,8 +66,8 @@ The living plants were at first brought to Luxemburg; later to Linden's nurserie
 
 #### Composite works
 
-(1), *Orchidaceae lindenianae*, 1846 see J. Lindley.
-(2). *L'Illustration horticole*, vols. 17-43, 1870-1896.
+- (1), *Orchidaceae lindenianae*, 1846 see J. Lindley.
+- (2). *L'Illustration horticole*, vols. 17-43, 1870-1896.
 
 #### Memorial publication
 

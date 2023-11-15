@@ -43,5 +43,5 @@ De *looistoffen*. Botanisch-chemische monographie der tanniden. Bewerkt in het L
 *Copies*: BR, KIT, L, U. – Issued as Bull. Kol. Mus. Haarlem no. 35.
 *2*: (*Chemie, Analyse, Economie*) Apr 1908 (date on p. \[1\]), p. \[1\]-241. *Copies*: B, BR, KIT, L, U. – Issued as id. no. 39.
 *Note*: (1) The copy KIT has introductory pages \[i\*-iv\*\], bound with parts I and II. (dated 15 Jul 1908 on p. \[iv\*\].
-(2) A german translation: *Die Gerbstoffe*. Botanisch-chemische Monographie der Tanniden ... Berlin (Gebrüder Borntraeger) 1913. Oct. exists, p. \[1\]-636, see ÖBZ, 1 Feb 1914. *Copy*: L.
+- (2) A german translation: *Die Gerbstoffe*. Botanisch-chemische Monographie der Tanniden ... Berlin (Gebrüder Borntraeger) 1913. Oct. exists, p. \[1\]-636, see ÖBZ, 1 Feb 1914. *Copy*: L.
 

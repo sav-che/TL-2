@@ -24,9 +24,9 @@ Barnhart 2: 118; BB p. 136; BM 1: 274, 2: 778, 6: 153; Clokie p. 176-177; CSP 1:
 
 #### Composite works
 
-(1) Sowerby, J. and J. E. Smith, *English botany*, mosses.
-(2) Don, D., *Prodr. fl. nepal.* 1825 (TL-2/1, no. 1497) is based on plants collected by H. and by Wallich.
-(3) Hamilton, Fr., *A commentary on the Hortus malabaricus*, Trans. Linn. Soc. 13(2): 474-560. 3-19 Dec 1822; 14(2): 171-312. 15 N0V 1825; 15(1): 78-152. 9 Feb 1827; 17: 147-252. 25 Mai 1837 (IDC 8308). (See Mabberley 1977).
+- (1) Sowerby, J. and J. E. Smith, *English botany*, mosses.
+- (2) Don, D., *Prodr. fl. nepal.* 1825 (TL-2/1, no. 1497) is based on plants collected by H. and by Wallich.
+- (3) Hamilton, Fr., *A commentary on the Hortus malabaricus*, Trans. Linn. Soc. 13(2): 474-560. 3-19 Dec 1822; 14(2): 171-312. 15 N0V 1825; 15(1): 78-152. 9 Feb 1827; 17: 147-252. 25 Mai 1837 (IDC 8308). (See Mabberley 1977).
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Flagey, Camille (1837-1898), French botanist and civil engineer.
 
 #### Herbarium and types
 
-Unknown ([[Collection AL|AL]], [[Collection PC|PC]]?) – Exsiccatae:
+Unknown ([[Collection AL|AL]], [[Collection PC|PC]]?)
+*Exsiccatae*:
 1.*Lichenes algerienses exsiccati* (fasc. i-iii, nos. 1-307, Azéba, Algeria 1891-1895), sets at [[Collection AL|AL]], [[Collection DUKE|DUKE]], [[Collection FH|FH]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
 2.*Lichens de Franche-Comté et de quelques localités environnantes* (fasc. i-ix, nos. 1-450, 1882-1888), complete sets at [[Collection FH|FH]], [[Collection PC|PC]].
 *Ref*.: IH 2: 199.

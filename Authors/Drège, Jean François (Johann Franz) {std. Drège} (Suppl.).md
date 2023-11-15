@@ -57,9 +57,9 @@ AG 2(2): 420; Barnhart 1: 471; BM 1: 478; Bossert p. 107; Clokie p. 158; CSP 2: 
 
 #### Composite works
 
-(1) E.H.F. Meyer (1791-1858) and Jean François Drège, see TL-2/no. 5925 and BM 1: 470.
-(2) C.F. Meisner, *Synopsis thymelaearum* \[etc.\] Linnaea 14(5): 385-502. Feb 1841 ("Inprimis a cl. J.J. \[sic\] Drège lectarum").
-(3) Kunze, H., *Pl. acot. afr. austral.* 1836. Oct, TL-2/no. 4038.
+- (1) E.H.F. Meyer (1791-1858) and Jean François Drège, see TL-2/no. 5925 and BM 1: 470.
+- (2) C.F. Meisner, *Synopsis thymelaearum* \[etc.\] Linnaea 14(5): 385-502. Feb 1841 ("Inprimis a cl. J.J. \[sic\] Drège lectarum").
+- (3) Kunze, H., *Pl. acot. afr. austral.* 1836. Oct, TL-2/no. 4038.
 
 ### Publications
 

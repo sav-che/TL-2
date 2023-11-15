@@ -21,10 +21,10 @@ APN p. 241; Barnhart 2: 80; Bossert p. 151; Desmond ed. 2: 647 (as "Sprague"); F
 
 #### Composite works
 
-(1) Miss Green & T.A. Sprague (1877-1958) compiled suppls. 7, 8 and 9 (1929-1938) of the *Index Kew*., the last suppl. also acknowledging \[Veronica\] Mabel Irene Skan (1902-x) & Sabine Wilson (x-1959). Miss Green (then Mrs. T.A. Sprague), Skan & Wilson compiled suppl. 10... 1947, see TL-2/2, nr. 3218.
-(2) Nomenclature proposals by Miss Green were included in T.A. Sprague, *Nom. Prop. Brit. Bot.*... 1929, see TL-2/5, nr. 12.651.
-(3) Miss Green revised the English transl. by Sir Arthur Hort (1864-1935) of *The "Critica botanica" of Linnaeus*... 1938, see TL-2/3, nr. 4718.
-(4) Mrs. T.A. Sprague took the minutes of the Nomenclature Sessions at the Stockholm Congr. (1950), the basis of the 1952 report by Joseph Lanjouw (1902-1984).
+- (1) Miss Green & T.A. Sprague (1877-1958) compiled suppls. 7, 8 and 9 (1929-1938) of the *Index Kew*., the last suppl. also acknowledging \[Veronica\] Mabel Irene Skan (1902-x) & Sabine Wilson (x-1959). Miss Green (then Mrs. T.A. Sprague), Skan & Wilson compiled suppl. 10... 1947, see TL-2/2, nr. 3218.
+- (2) Nomenclature proposals by Miss Green were included in T.A. Sprague, *Nom. Prop. Brit. Bot.*... 1929, see TL-2/5, nr. 12.651.
+- (3) Miss Green revised the English transl. by Sir Arthur Hort (1864-1935) of *The "Critica botanica" of Linnaeus*... 1938, see TL-2/3, nr. 4718.
+- (4) Mrs. T.A. Sprague took the minutes of the Nomenclature Sessions at the Stockholm Congr. (1950), the basis of the 1952 report by Joseph Lanjouw (1902-1984).
 
 ### Publications
 

@@ -24,9 +24,9 @@ Barnhart 1: 538; Biol.-Dokum. 6: 66.499-66.508; BM 6: 323; Tucker 1: 246, 3: 106
 #### Composite works
 
 Contributed the following to G. Karsten & H. Schenck, *Vegetationsbilder*:
-(1) *Der nördliche Schwartzwald*... ser. 7, Heft 3, 10 p. text, *pl. 13-18* (uncol. phot.) 1910;
-(2) *Die schwäbische Alb*... ser. 8, Heft 3, 8 p. text, *pl. 13-18* (uncol. phot.) 1911; and
-(3) *Variationen mitteleuropäischer Waldbäum*... ser. 9, Heft 8, 9 p. text, *pl. 43-48* (uncol. phot.) 1912.
+- (1) *Der nördliche Schwartzwald*... ser. 7, Heft 3, 10 p. text, *pl. 13-18* (uncol. phot.) 1910;
+- (2) *Die schwäbische Alb*... ser. 8, Heft 3, 8 p. text, *pl. 13-18* (uncol. phot.) 1911; and
+- (3) *Variationen mitteleuropäischer Waldbäum*... ser. 9, Heft 8, 9 p. text, *pl. 43-48* (uncol. phot.) 1912.
 
 ### Publications
 

@@ -8,7 +8,8 @@ Hamberg, Knut Herman Rudolf (1873-1920), Swedish insurance inspector and botanis
 
 #### Herbarium and types
 
-Unknown; some Scandinavian cryptogams at [[Collection C|C]]. Exsiccatae: *Kryptogam-herbarium*. Innehållande 100 arter kryptogamer, fördelade på 35 arter mossor, 10 arter alger, 25 arter lavar och 30 arter svampar. Stockholm (Gullberg & Hallbergs boktr.) 1895, sets at [[Collection LD|LD]], [[Collection H|H]], [[Collection O|O]], [[Collection S|S]], [[Collection S|S]]-PA, and [[Collection UPS|UPS]].
+Unknown; some Scandinavian cryptogams at [[Collection C|C]].
+*Exsiccatae*: *Kryptogam-herbarium*. Innehållande 100 arter kryptogamer, fördelade på 35 arter mossor, 10 arter alger, 25 arter lavar och 30 arter svampar. Stockholm (Gullberg & Hallbergs boktr.) 1895, sets at [[Collection LD|LD]], [[Collection H|H]], [[Collection O|O]], [[Collection S|S]], [[Collection S|S]]-PA, and [[Collection UPS|UPS]].
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19: 27-28. 1969.
 
 #### Bibliography and biography

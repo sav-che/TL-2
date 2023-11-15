@@ -25,7 +25,7 @@ Barnhart 3: 1915; Biol.-Dokum. 16: 8651; BM 4: 1915-1916, 8: 1187; DBN 1922-1930
 
 #### Composite works
 
-(1) Editor, with Sydney Frederick Harmer, of *The Cambridge natural history*, 10 vols., 1895-1909; reissue 1936; reprint 1958-1959.
-()2) Editor and founder of *Parasitology* 1(1908)-x.
-(3) Co-editor with John Edward Marr (1857-?) of *Handbook to the natural history of Cambridgeshire*, 1904 (preface Jun 1904), p. \[i\]-vi, \[viii\], 1-260, 2 maps; *The flora of the Cambridge district* by A. Wallis on p. 209-237.
+- (1) Editor, with Sydney Frederick Harmer, of *The Cambridge natural history*, 10 vols., 1895-1909; reissue 1936; reprint 1958-1959.
+- (2) Editor and founder of *Parasitology* 1(1908)-x.
+- (3) Co-editor with John Edward Marr (1857-?) of *Handbook to the natural history of Cambridgeshire*, 1904 (preface Jun 1904), p. \[i\]-vi, \[viii\], 1-260, 2 maps; *The flora of the Cambridge district* by A. Wallis on p. 209-237.
 

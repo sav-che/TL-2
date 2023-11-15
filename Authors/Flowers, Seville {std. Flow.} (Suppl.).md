@@ -32,15 +32,16 @@ Amer. Men Sci. ed. 9, 2: 357; APN p. 204; Barnhart 1: 552; Blunt ed. 2: 301; Bos
 
 #### Outside our period
 
-(1) *Ferns of Utah*, Bull. Univ. Utah, Biol., ser. 4(6): 1-87. 1944. (2) Woodbury, A\[ngus\]., M\[unn\]. (1886-1964), S\[tephen\]. D\[avid\]. Durrant (1902-x) & S. Flowers, (a) *Survey* of *vegetation* in the *Glen Canyon Reservoir Basin*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 36 \[Glen Canyon ser. no. 5\]: vi, 56 p. 1959.
+- (1) *Ferns of Utah*, Bull. Univ. Utah, Biol., ser. 4(6): 1-87. 1944. (2) Woodbury, A\[ngus\]., M\[unn\]. (1886-1964), S\[tephen\]. D\[avid\]. Durrant (1902-x) & S. Flowers, (a) *Survey* of *vegetation* in the *Glen Canyon Reservoir Basin*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 36 \[Glen Canyon ser. no. 5\]: vi, 56 p. 1959.
 (b) A *survey* of *vegetation* in the *Flaming Gorge Reservoir Basin*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 45 \[Upper Colorado ser. no. 2\]: vii, 121 p. 1960.
 (c)... C.E. Dibble (ed.) & C.C. Stout (assoc. ed.), A *survey* of *vegetation* in the *Navajo Reservoir Basin*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 51 \[Upper Colorado ser. no. 4\]: vii, 99 p. 1961.
-(d) A *survey* of *vegetation* in the *Curecanti Reservoir basins*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no.56 \[Upper Colorado ser. no. 6\]: p. viii, 98 p. 1962. (3) Flowers, S. et al.... A.M. Woodbury (biological ed.), *Ecological studies* of the *flora* and *fauna* of *Flaming Gorge Reservoir Basin*, Utah and Wyoming, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 48 \[Upper Colorado ser. no. 3\]: viii, 243 p. 1960.
-(4) *The Hepaticae of Utah*, Bull. Univ. Utah, Biol., ser. 12(2): 1-89, *pl. 1-18.* 30 Mai 1961.
+(d) A *survey* of *vegetation* in the *Curecanti Reservoir basins*, Univ. of Utah, Dept. of Anthropology, Anthropological papers no.56 \[Upper Colorado ser. no. 6\]: p. viii, 98 p. 1962.
+- (3) Flowers, S. et al.... A.M. Woodbury (biological ed.), *Ecological studies* of the *flora* and *fauna* of *Flaming Gorge Reservoir Basin*, Utah and Wyoming, Univ. of Utah, Dept. of Anthropology, Anthropological papers no. 48 \[Upper Colorado ser. no. 3\]: viii, 243 p. 1960.
+- (4) *The Hepaticae of Utah*, Bull. Univ. Utah, Biol., ser. 12(2): 1-89, *pl. 1-18.* 30 Mai 1961.
 
 #### Composite works
 
-(1) Bartramiaceae *in* A.J. Grout, *Moss fl. N. Amer.* 2(3): 152-180, *pl. 67-70.* Dec 1935, see TL-2/1, nr. 2195. – *Note*: Flowers spent one summer with Grout in Newfane, Vermont and also drew the plates for this treatment.
+- (1) Bartramiaceae *in* A.J. Grout, *Moss fl. N. Amer.* 2(3): 152-180, *pl. 67-70.* Dec 1935, see TL-2/1, nr. 2195. – *Note*: Flowers spent one summer with Grout in Newfane, Vermont and also drew the plates for this treatment.
 
 ### Publications
 

@@ -33,23 +33,23 @@ AG 1, ed. 2: 2, 3: 836, 5(3): 88; APN p. 238; Backer p. 241, 651; Barnhart 2: 72
 
 #### Note
 
-(1) There are two reviews each of the two editions of *Heide Norddeutschl*.... (TL-2/1, nr. 2105), viz. ed. 1 (1901): (a) Solms, H., Bot. Zeitung, 2. Abt. 60 (Abt. II, 8): 116-118. 16 Apr 1902, and (b) Gürke, M., Bot. Jahrb. Syst. 31(Lit.): 21-22. 29 Aug 1902. (rev.); and ed. 2 (1925): (aa) Krause, K., Beibl. Hedwigia 65(3): 107. 15 Oct 1925, and (bb) Mattfeld, J., Bot. Jahrb. Syst. 60(Lit.): 66-67. 1 Apr 1926. Additionally, ed. 2 was reprinted in 1976 in Vaduz (Gantner Verlag).
-(2) *Taschenb. Pflanzenbest.*... 1911 (TL-2/1, nr. 2106) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "2037F3-2040C5"). *Copy*: MO (n.v.).
+- (1) There are two reviews each of the two editions of *Heide Norddeutschl*.... (TL-2/1, nr. 2105), viz. ed. 1 (1901): (a) Solms, H., Bot. Zeitung, 2. Abt. 60 (Abt. II, 8): 116-118. 16 Apr 1902, and (b) Gürke, M., Bot. Jahrb. Syst. 31(Lit.): 21-22. 29 Aug 1902. (rev.); and ed. 2 (1925): (aa) Krause, K., Beibl. Hedwigia 65(3): 107. 15 Oct 1925, and (bb) Mattfeld, J., Bot. Jahrb. Syst. 60(Lit.): 66-67. 1 Apr 1926. Additionally, ed. 2 was reprinted in 1976 in Vaduz (Gantner Verlag).
+- (2) *Taschenb. Pflanzenbest.*... 1911 (TL-2/1, nr. 2106) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "2037F3-2040C5"). *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) Co-author with P. Ascherson, *Beiträge zur Kenntnis der norddeutschen Flora*... 1893 (TL-2/Suppl. 1, nr. 19.621).
-(2) One of many signatories of A. Engler, *Nomenclaturregeln Berlin*... 1897 (TL-2/Suppl. 6, nr. 33.035).
-(3) Editor, *Lehrbuch der ökologischen Pflanzengeographie*... eds. 2, 1902, 3, 1914, and 4, 1933, which is the German transl. of E. Warming, *Plantesamfund*... (TL-2/7, nr. 16.732).
-(4) Co-author with I. Urban, *Festschrift zur Feier des siebzigsten Geburtstages des Herrn Professor Dr. Paul Ascherson (4. Juni 1904) verfasst von Freunden und Schülern*... 1904 (TL-2/Suppl. 1: 187).
-(5) Contributed to J.R. Perkins, *Fragm. fl. Philipp.*... 1904-1905 (TL-2/4, nr. 7684).
-(6) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1904-1938 (TL-2/5, nr.
+- (1) Co-author with P. Ascherson, *Beiträge zur Kenntnis der norddeutschen Flora*... 1893 (TL-2/Suppl. 1, nr. 19.621).
+- (2) One of many signatories of A. Engler, *Nomenclaturregeln Berlin*... 1897 (TL-2/Suppl. 6, nr. 33.035).
+- (3) Editor, *Lehrbuch der ökologischen Pflanzengeographie*... eds. 2, 1902, 3, 1914, and 4, 1933, which is the German transl. of E. Warming, *Plantesamfund*... (TL-2/7, nr. 16.732).
+- (4) Co-author with I. Urban, *Festschrift zur Feier des siebzigsten Geburtstages des Herrn Professor Dr. Paul Ascherson (4. Juni 1904) verfasst von Freunden und Schülern*... 1904 (TL-2/Suppl. 1: 187).
+- (5) Contributed to J.R. Perkins, *Fragm. fl. Philipp.*... 1904-1905 (TL-2/4, nr. 7684).
+- (6) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1904-1938 (TL-2/5, nr.
 11.174).
-(7) "Caprifoliaceae" *in* I. Urban, *Plantae novae andinae*... 1906 (TL-2/6, nr. 15.691).
-(8) "Die Flora des Grunewaldes" *in* F. Wahnschaffe et al., *Der Grunewald bei Berlin*... 1907 (TL-2/7, nr. 16.529).
-(9) One of several authors of K. Peters, *Führ. Bot. Gart.*... ed. 2, 1919 (TL-2/4, nr. 7758).
-(10) One of the editors of *Angewandte Botanik*... (1919-1926).
-(11) Co-editor of P.C.M. Sorauer, *Handb. Pfl.-Krankh.*... eds. 4, 1921, and 5, 1924 (TL-2/5, nr. 12.459).
+- (7) "Caprifoliaceae" *in* I. Urban, *Plantae novae andinae*... 1906 (TL-2/6, nr. 15.691).
+- (8) "Die Flora des Grunewaldes" *in* F. Wahnschaffe et al., *Der Grunewald bei Berlin*... 1907 (TL-2/7, nr. 16.529).
+- (9) One of several authors of K. Peters, *Führ. Bot. Gart.*... ed. 2, 1919 (TL-2/4, nr. 7758).
+- (10) One of the editors of *Angewandte Botanik*... (1919-1926).
+- (11) Co-editor of P.C.M. Sorauer, *Handb. Pfl.-Krankh.*... eds. 4, 1921, and 5, 1924 (TL-2/5, nr. 12.459).
 
 ### Publications
 

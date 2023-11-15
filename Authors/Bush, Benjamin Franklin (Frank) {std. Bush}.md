@@ -25,9 +25,9 @@ Barnhart 1: 290 (b. 21 Jan 1858, Columbus, Ind., d.14 Feb 1937, Independence, Mo
 
 #### Composite works
 
-(1) *Notes on the botany of some southern swamps*... *in* Garden and Forest 10: 514-516. 1897.
-(2) Co-author with K.K. Mackenzie, *Man. fl. Jackson County*, Kansas City, Mo., TL-2/5187 (brief descriptions of 1141 species), publ. Jul-Aug 1902. – *Ref*.: W. Trelease, Bot. Centralbl. 90(41): 428-429. 15 Oct 1902.
-(3) *Notes on trees and shrubs of Missouri*, Amer. Midl. Naturalist 10: 133-158. 1926, supplementary notes on 97 species to Tracy's flora, 1886, see TL-2/14.828. – See BL 1: 193.
+- (1) *Notes on the botany of some southern swamps*... *in* Garden and Forest 10: 514-516. 1897.
+- (2) Co-author with K.K. Mackenzie, *Man. fl. Jackson County*, Kansas City, Mo., TL-2/5187 (brief descriptions of 1141 species), publ. Jul-Aug 1902. – *Ref*.: W. Trelease, Bot. Centralbl. 90(41): 428-429. 15 Oct 1902.
+- (3) *Notes on trees and shrubs of Missouri*, Amer. Midl. Naturalist 10: 133-158. 1926, supplementary notes on 97 species to Tracy's flora, 1886, see TL-2/14.828. – See BL 1: 193.
 
 ### Publications
 

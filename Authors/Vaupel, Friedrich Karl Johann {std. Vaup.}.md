@@ -27,14 +27,14 @@ Barnhart 3: 428 (b. 23 Mai 1876, d. 4 Mai 1927); Biol.-Dokum. 18: 9521; BJI 2: 1
 
 #### Composite works
 
-(1) Founder and editor, *Zeitschrift für Sukkulentenkunde*, Berlin, vols. 1-3, 1923-1928.
-(2) With K. Schumann and R.A.L.M. Guerke, *Blühende Kakteen*, see under K. Schumann (contribution 1900-1921).
-(3) *Cactaceae* in EP, *Nat. Pflanzenfam.* ed. 2: 21: 594-561. Dec 1925.
-(4) *Cactaceae* in EP *Nat. Pflanzenfam.* ed. I. Nachtr. 4: 1914.
-(5) Entries on *Cactaceae, in* Graebner & Lange, *Ill. Gartenbaulexikon* ed. 4. vol. I. 1925.
-(6) With M. Gürke, *Borraginaceae, in* J. Mildbread, ed., *Wiss. Ergebn. deut. Zentr*.-*Afr. Exp.* 1907-1908, 2: 279-281. 1911.
-(7) *Borraginaceae, in* R. Pilger, *Plantae Uleanae* novae vel minus cognitae, Notizbl. Berlin-Dahlem 6(56): 181-187. 15 Mai, 1914.
-(8) Editor, *Monatschrift für Kakteenkunde* 21-30. 1911-1920.
+- (1) Founder and editor, *Zeitschrift für Sukkulentenkunde*, Berlin, vols. 1-3, 1923-1928.
+- (2) With K. Schumann and R.A.L.M. Guerke, *Blühende Kakteen*, see under K. Schumann (contribution 1900-1921).
+- (3) *Cactaceae* in EP, *Nat. Pflanzenfam.* ed. 2: 21: 594-561. Dec 1925.
+- (4) *Cactaceae* in EP *Nat. Pflanzenfam.* ed. I. Nachtr. 4: 1914.
+- (5) Entries on *Cactaceae, in* Graebner & Lange, *Ill. Gartenbaulexikon* ed. 4. vol. I. 1925.
+- (6) With M. Gürke, *Borraginaceae, in* J. Mildbread, ed., *Wiss. Ergebn. deut. Zentr*.-*Afr. Exp.* 1907-1908, 2: 279-281. 1911.
+- (7) *Borraginaceae, in* R. Pilger, *Plantae Uleanae* novae vel minus cognitae, Notizbl. Berlin-Dahlem 6(56): 181-187. 15 Mai, 1914.
+- (8) Editor, *Monatschrift für Kakteenkunde* 21-30. 1911-1920.
 
 #### Eponymy
 

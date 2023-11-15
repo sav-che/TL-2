@@ -43,12 +43,12 @@ Backer p. 121; Barnhart 1: 345 (b. 16 Jan 1872, d. 24 Nov 1942); BFM 2319; BJI 2
 
 #### Composite works
 
-(1) "Christensen, C.," *Landbrugets Kulturplanter*. Kjøbenhavn 1891. Oct, 182 p., fide Nat. Nov. Nov (2) 1891. – Christensen C.A.F.?, not listed by Christensen himself (n.v.), ed. 2, 136 p. Kjøbenhavn 1893. Oct (Nat. Nov. Apr (2) 1893).
-(2) Christensen C., *Filinacées* \[Filices novae\] *in* H. Léveillé, *Catalogue des plantes de Yun-Nan*, Bull. Acad. intern. Géogr. Bot. 25: 98-112. 1916, see TL-2/4467, see also F. Matouschek, Bot. Centralbl. 138(11): 172-173. 10 Sep 1918.
-(3) Christensen, C., *Register til flora Aegyptiaco* og Herbarium Forsskalii, København 1917, mss.; on IDC 2205, see TL-2/1: 855.
-(4) Christensen, C., *Den Botaniske Have i Kjöbenhavn*, Kjöbenhavn 1919. Oct., 16 p. fide Nat. Nov. Sep (1,2). 1919. – (n.v.). Christensen C.A.F. no. 52 in Danske Bot. Litt. 1912-1939.
-(5) Christensen, C., *Filicinae*, *in* F. Verdoorn, *Manual of Pteridology*, chapter xx, p. 522-550. 1938, see TL-2/6: 16.041.
-(6) Tardieu-Blot, M.-L. and C. Christensen, *Pteridophyta*, *in* H. Lecomte, Fl. Gen. Indochine 7(2): 1-144, *pl. 1-17.* Dec 1939.
+- (1) "Christensen, C.," *Landbrugets Kulturplanter*. Kjøbenhavn 1891. Oct, 182 p., fide Nat. Nov. Nov (2) 1891. – Christensen C.A.F.?, not listed by Christensen himself (n.v.), ed. 2, 136 p. Kjøbenhavn 1893. Oct (Nat. Nov. Apr (2) 1893).
+- (2) Christensen C., *Filinacées* \[Filices novae\] *in* H. Léveillé, *Catalogue des plantes de Yun-Nan*, Bull. Acad. intern. Géogr. Bot. 25: 98-112. 1916, see TL-2/4467, see also F. Matouschek, Bot. Centralbl. 138(11): 172-173. 10 Sep 1918.
+- (3) Christensen, C., *Register til flora Aegyptiaco* og Herbarium Forsskalii, København 1917, mss.; on IDC 2205, see TL-2/1: 855.
+- (4) Christensen, C., *Den Botaniske Have i Kjöbenhavn*, Kjöbenhavn 1919. Oct., 16 p. fide Nat. Nov. Sep (1,2). 1919. – (n.v.). Christensen C.A.F. no. 52 in Danske Bot. Litt. 1912-1939.
+- (5) Christensen, C., *Filicinae*, *in* F. Verdoorn, *Manual of Pteridology*, chapter xx, p. 522-550. 1938, see TL-2/6: 16.041.
+- (6) Tardieu-Blot, M.-L. and C. Christensen, *Pteridophyta*, *in* H. Lecomte, Fl. Gen. Indochine 7(2): 1-144, *pl. 1-17.* Dec 1939.
 
 ### Publications
 

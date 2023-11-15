@@ -33,7 +33,7 @@ Andrews ed. 2, p. 242: Barnhart 1: 253; BL 1: 203; Bossert p. 53; CSP 12: 391 (K
 #### Composite works
 
 (I) *Mosses, in* N. L. Britton, *Flora of Bermuda* 430-448, fig. 470-494. 28 Feb 1918.
-(2) *Andreales* (p. 33), *Archidiaceae* (p. 45-46), *Bruchiaceae* (p. 47-54), *Bryoxiphiaceae* (p. 69-70), *Seligeriaceae* (p. 71-75), *Andreaceae* (p. 35-39), *Bryales* (general, with R. S. Williams, p. 41-43) *in* NAF 15(1): 41-43. 14 Jun 1913.
+- (2) *Andreales* (p. 33), *Archidiaceae* (p. 45-46), *Bruchiaceae* (p. 47-54), *Bryoxiphiaceae* (p. 69-70), *Seligeriaceae* (p. 71-75), *Andreaceae* (p. 35-39), *Bryales* (general, with R. S. Williams, p. 41-43) *in* NAF 15(1): 41-43. 14 Jun 1913.
 
 #### Eponymy
 

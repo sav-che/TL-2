@@ -27,8 +27,8 @@ Backer p. 652; Barnhart 2: 146; BL 1: 97, 229, 251, 300; BM 2: 807-808; CSP 7: 9
 
 #### Composite works
 
-(1) *Annales de l'institut botanico-géologique colonial* (afterwards Institut Colonial) *de Marseille*, publiées sous la direction de... E. Heckel, vol. 1-9, 1893-1902, later *Annales du Musée colonial de Marseille*. vols. 10-23. 1903-1916.
-(2) *Revue des Sciences naturelles*, publié sous la direction de... E. Heckel, vol. 1, 1872/73.
+- (1) *Annales de l'institut botanico-géologique colonial* (afterwards Institut Colonial) *de Marseille*, publiées sous la direction de... E. Heckel, vol. 1-9, 1893-1902, later *Annales du Musée colonial de Marseille*. vols. 10-23. 1903-1916.
+- (2) *Revue des Sciences naturelles*, publié sous la direction de... E. Heckel, vol. 1, 1872/73.
 
 #### Eponymy
 

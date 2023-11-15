@@ -8,7 +8,8 @@ Podpera, Josef (1878-1954), Czechoslovak (Bohemian) botanist; studied at the Cha
 
 #### Herbarium and types
 
-[[Collection BRNM|BRNM]]; important material also at [[Collection BRNU|BRNU]] and [[Collection PR|PR]]; other material at [[Collection BP|BP]], [[Collection C|C]], [[Collection CERN|CERN]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MZ|MZ]], [[Collection NI|NI]], [[Collection OLM|OLM]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]]; Siberian bryoph. at [[Collection TK|TK]]). – *Exsiccatae*: *Bryophyta exsiccata reipublicae cechosloveniae*, see Sayre (1971). – *Flora exsiccata reipublicae Bohemicae Slovenicae*, 1925-1938, *cent. 1-13* (sets ann. ÖbZ 75-88, 1926-1939). – Contributed to Petrak, *Flora bohemiae et moraviae exsicc*. ser. 2. – Letters and portrait at [[Collection G|G]].
+[[Collection BRNM|BRNM]]; important material also at [[Collection BRNU|BRNU]] and [[Collection PR|PR]]; other material at [[Collection BP|BP]], [[Collection C|C]], [[Collection CERN|CERN]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MZ|MZ]], [[Collection NI|NI]], [[Collection OLM|OLM]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]]; Siberian bryoph. at [[Collection TK|TK]]).
+*Exsiccatae*: *Bryophyta exsiccata reipublicae cechosloveniae*, see Sayre (1971). – *Flora exsiccata reipublicae Bohemicae Slovenicae*, 1925-1938, *cent. 1-13* (sets ann. ÖbZ 75-88, 1926-1939). – Contributed to Petrak, *Flora bohemiae et moraviae exsicc*. ser. 2. – Letters and portrait at [[Collection G|G]].
 
 #### Bibliography and biography
 

@@ -40,9 +40,9 @@ AG 6(2): 205; Backer p. 374; Barnhart 2: 496; BM 3: 1321; Bossert p.268;CSP 4:40
 
 #### Composite works
 
-(1) Duhamel du Monceau, H. L. *Traité arbr. arbust.*, ed. 2, in part author of vols. 1-4. See TL-2/1547.
-(2) Cuvier, F., *Dict. Sci. nat.*, author of several botanical articles; see TL-2/1293.
-(3) Lamarck, J. B. et B. Mirbel, *Hist. nat. vég.*, Paris an xi-1803, 15 vols., see TL-2/4140. – Italian translation (not mentioned under no. 4140): *Storia naturale dei vegetabili* classificata per famiglie, con la citazione delle classe e dello ordine di Linèe,... da G. B. Lamarck... e da B. Mirbel... recata in lingua italiana e corredata di note e aggiunte da D. A. Farini... Livorno (Fratelli Vignozzi e Nipote) 1841. *Copy*: FI (vols. 1(1-2), 2(1-3), 3(1-3), all 1841, with 84 col. pl.
+- (1) Duhamel du Monceau, H. L. *Traité arbr. arbust.*, ed. 2, in part author of vols. 1-4. See TL-2/1547.
+- (2) Cuvier, F., *Dict. Sci. nat.*, author of several botanical articles; see TL-2/1293.
+- (3) Lamarck, J. B. et B. Mirbel, *Hist. nat. vég.*, Paris an xi-1803, 15 vols., see TL-2/4140. – Italian translation (not mentioned under no. 4140): *Storia naturale dei vegetabili* classificata per famiglie, con la citazione delle classe e dello ordine di Linèe,... da G. B. Lamarck... e da B. Mirbel... recata in lingua italiana e corredata di note e aggiunte da D. A. Farini... Livorno (Fratelli Vignozzi e Nipote) 1841. *Copy*: FI (vols. 1(1-2), 2(1-3), 3(1-3), all 1841, with 84 col. pl.
 
 #### Eponymy
 

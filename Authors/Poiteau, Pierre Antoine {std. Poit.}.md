@@ -41,10 +41,10 @@ Backer p. 659; Barnhart 3: 95; Blunt p. 180, 181, 219; BM 4: 1591-1592; CSP 4: 9
 
 #### Composite works
 
-(1) Duhamel du Monceau, H.L., *Traité arbr. fruit.* éd. 2, 1806-1835, 6 vols, see TL-2/1548.
-(2) Editor, *Revue horticole* sér. 1-4, 1832-1856.
-(3) With A. Risso, (q.v.): *Hist. nat. Orangers* 1818-1820, ed. 2. 1872.
-(4) Illustrated J.L.A. Loiseleur-Deslongchamps, *Fl.-gén. France* 1828 \[1829\], see TL-2/4959.
+- (1) Duhamel du Monceau, H.L., *Traité arbr. fruit.* éd. 2, 1806-1835, 6 vols, see TL-2/1548.
+- (2) Editor, *Revue horticole* sér. 1-4, 1832-1856.
+- (3) With A. Risso, (q.v.): *Hist. nat. Orangers* 1818-1820, ed. 2. 1872.
+- (4) Illustrated J.L.A. Loiseleur-Deslongchamps, *Fl.-gén. France* 1828 \[1829\], see TL-2/4959.
 
 ### Publications
 

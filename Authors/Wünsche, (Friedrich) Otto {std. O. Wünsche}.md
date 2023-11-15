@@ -27,10 +27,10 @@ Barnhart 3: 525 (b. 19 Mar 1839, d. 6 Jan 1905); BFM 486; Biol.-Dokum. 19: 10197
 
 #### Composite works
 
-(1) Published and revised E. Schmidlin, *Anleit. Bot.* eds. 3-4, 1882-1904, see TL-2/10.870.
-(2) Edited H.O. Lenz, *Nutz. schädl. Schwämme* eds. 6 and 7, 1879 and 1890, see TL-2/4398.
-(3) H. Heukels, *Schoolfl. Nederl.* 1883, TL-2/2725, was based on O. Wünsche, *Schulfl. Deutschl.* 1877.
-(4) H. Vogel, *Flora von Thüringen*... Im Anschluss an die "Schulflora von Deutschland" von Dr. O. Wünsche bearbeitet 1875.
+- (1) Published and revised E. Schmidlin, *Anleit. Bot.* eds. 3-4, 1882-1904, see TL-2/10.870.
+- (2) Edited H.O. Lenz, *Nutz. schädl. Schwämme* eds. 6 and 7, 1879 and 1890, see TL-2/4398.
+- (3) H. Heukels, *Schoolfl. Nederl.* 1883, TL-2/2725, was based on O. Wünsche, *Schulfl. Deutschl.* 1877.
+- (4) H. Vogel, *Flora von Thüringen*... Im Anschluss an die "Schulflora von Deutschland" von Dr. O. Wünsche bearbeitet 1875.
 
 ### Publications
 

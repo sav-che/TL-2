@@ -46,16 +46,16 @@ Ainsworth p. 230; Andrews p. 339; Backer p. 187, 582; Barnhart 1: 489 (sub Dyer)
 
 #### Composite works
 
-(1) Founder, and during his directorship q.q. editor, of *Bull. misc. Inf., Kew* (Kew Bulletin) 1887-1905 (18 vols.).
-(2) Editor, \[Curtis's\] *Botanical Magazine* 1905-1906; TL-2/1290.
-(3) Assisted A.W. Bennett with the translation of J. v. Sachs, *Lehrb. Bot.* as *Text-book of botany*, ed. 1, 1875, see TL-2/9954.
-(4) Editor, W.J. Hooker, *Icon. pl. pl. 2401-2800*, see TL-2/3006.
-(5) Editor, B.D. Jackson, *Index kewensis*, suppl. 2(1, 2), 1904, 1905; TL-2/3218.
-(6) Contributed to J.D. Hooker, *Fl. Brit. Ind.* 1(2): 246-258. Jan 1874 (*Portulaceae, Tamariscineae, Elatineae, Hypericineae*,), 279-317 (*Ternstroemiaceae, Dipterocarpaceae*). Jan 1874, 5(15): 655-658. (*Cycadaceae*). Dec 1888; TL-2/2981.
-(7) Thiselton-Dyer revived the *Flora capensis*, started by Harvey and Sonder (TL-2/2448), but interrupted 1865. W.T.T. took responsibility for the *Flora* from 1891 onwards and under his editorial guidance vols. 4-7 appeared between 1895 and 1925; the supplement to 5(2), by A.W. Hill, came out in 1933 (see Bull. misc. Inf. Kew 1933: 367-368). W.T.T. contributed no treatments of his own.
-(8) Editor, D. Oliver, *Fl. trop. Afr.* vols. 4-6(1), 1902-1913. W.T.T. contributed addenda to 4(1), 4(2) and 5; see TL-2/7055.
-(9) Co-author with Henry Trimen (senior author). *Fl. Middlesex* 1869, see under H. Trimen.
-(10) *Introduction*, to W.J. Bean, *The Royal Botanic Gardens, Kew*, historical and descriptive, 1908.
+- (1) Founder, and during his directorship q.q. editor, of *Bull. misc. Inf., Kew* (Kew Bulletin) 1887-1905 (18 vols.).
+- (2) Editor, \[Curtis's\] *Botanical Magazine* 1905-1906; TL-2/1290.
+- (3) Assisted A.W. Bennett with the translation of J. v. Sachs, *Lehrb. Bot.* as *Text-book of botany*, ed. 1, 1875, see TL-2/9954.
+- (4) Editor, W.J. Hooker, *Icon. pl. pl. 2401-2800*, see TL-2/3006.
+- (5) Editor, B.D. Jackson, *Index kewensis*, suppl. 2(1, 2), 1904, 1905; TL-2/3218.
+- (6) Contributed to J.D. Hooker, *Fl. Brit. Ind.* 1(2): 246-258. Jan 1874 (*Portulaceae, Tamariscineae, Elatineae, Hypericineae*,), 279-317 (*Ternstroemiaceae, Dipterocarpaceae*). Jan 1874, 5(15): 655-658. (*Cycadaceae*). Dec 1888; TL-2/2981.
+- (7) Thiselton-Dyer revived the *Flora capensis*, started by Harvey and Sonder (TL-2/2448), but interrupted 1865. W.T.T. took responsibility for the *Flora* from 1891 onwards and under his editorial guidance vols. 4-7 appeared between 1895 and 1925; the supplement to 5(2), by A.W. Hill, came out in 1933 (see Bull. misc. Inf. Kew 1933: 367-368). W.T.T. contributed no treatments of his own.
+- (8) Editor, D. Oliver, *Fl. trop. Afr.* vols. 4-6(1), 1902-1913. W.T.T. contributed addenda to 4(1), 4(2) and 5; see TL-2/7055.
+- (9) Co-author with Henry Trimen (senior author). *Fl. Middlesex* 1869, see under H. Trimen.
+- (10) *Introduction*, to W.J. Bean, *The Royal Botanic Gardens, Kew*, historical and descriptive, 1908.
 
 #### Name
 
@@ -63,9 +63,9 @@ Thiselton-Dyer was frequently called (and addressed) "Dyer" and is occasionally 
 
 #### Note
 
-(1) Thiselton-Dyer's view of the importance of "Kew" was expressed by him to M. Grant Duff (Notes from a diary 1881-1886, 2: 21) on 1 March 1885: "I often think, and have no doubt often said, that we at Kew feel individually the weight of the Empire as a whole, more even than they do in Downing Street". (J. Bot. 41: 61. 1903).
-(2) Harriet Ann Thiselton-Dyer (1854-1945), eldest daughter of J.D. Hooker married W.T.T. in 1877, two years after his appointment as assistant director of Kew. Lady Thiselton-Dyer was a botanical artist who contributed ca. 90 drawings to the *Botanical Magazine* between 1878 and 1906 (mostly 1878, 1879). Her work on the Magazine was continued by her cousin, Matilda Smith.
-(3) W.T.T.'s brother the Rev. Thomas Firminger Thiselton-Dyer (b. 1848) published *The folk-lore of plants*, London (Chatto & Windus) 1889, American issue New York (D. Appleton and Companion) 1889, publ. Mar-Apr 1889, p. \[i-vii\], \[1\]-328 (*copies*: HH, MO, NY) (reissued 1894), critically reviewed by J. Britten, J. Bot. 27: 122-124. 1889 (note by Britten ib. 30: 224. 1892: "The latter gentleman \[T.F.T.\] is well known as an indefatigable rather than a competent compiler..." – The book was reissued in facsimile 1968 by Singing Tree Press, Detroit, Mich., U.S.A.; *copy*: NY. – Also: *English folklore*, London (Hardwicke & Bogue) 1878, p. \[i\]-viii, \[1\]-290. *Copy*: HH.
+- (1) Thiselton-Dyer's view of the importance of "Kew" was expressed by him to M. Grant Duff (Notes from a diary 1881-1886, 2: 21) on 1 March 1885: "I often think, and have no doubt often said, that we at Kew feel individually the weight of the Empire as a whole, more even than they do in Downing Street". (J. Bot. 41: 61. 1903).
+- (2) Harriet Ann Thiselton-Dyer (1854-1945), eldest daughter of J.D. Hooker married W.T.T. in 1877, two years after his appointment as assistant director of Kew. Lady Thiselton-Dyer was a botanical artist who contributed ca. 90 drawings to the *Botanical Magazine* between 1878 and 1906 (mostly 1878, 1879). Her work on the Magazine was continued by her cousin, Matilda Smith.
+- (3) W.T.T.'s brother the Rev. Thomas Firminger Thiselton-Dyer (b. 1848) published *The folk-lore of plants*, London (Chatto & Windus) 1889, American issue New York (D. Appleton and Companion) 1889, publ. Mar-Apr 1889, p. \[i-vii\], \[1\]-328 (*copies*: HH, MO, NY) (reissued 1894), critically reviewed by J. Britten, J. Bot. 27: 122-124. 1889 (note by Britten ib. 30: 224. 1892: "The latter gentleman \[T.F.T.\] is well known as an indefatigable rather than a competent compiler..." – The book was reissued in facsimile 1968 by Singing Tree Press, Detroit, Mich., U.S.A.; *copy*: NY. – Also: *English folklore*, London (Hardwicke & Bogue) 1878, p. \[i\]-viii, \[1\]-290. *Copy*: HH.
 
 #### Eponymy
 

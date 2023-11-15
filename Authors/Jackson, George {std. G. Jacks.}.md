@@ -18,8 +18,8 @@ AG 6(2): 206; BB p. 164; CSP 3: 509; Desmond p. 339; Hortus 3: 1196 ("G.Jacks.",
 
 #### Composite works
 
-(1) Edward Daniel Clarke (1769-1822), *Travels in various countries of Europe..., plants identified by Jackson and A. B. Lambert, in 1: 738-747. 1810, 2: xvii. 1812.
-(2) Continued Andrews' Botanists' Repository* from vol. 7 (see Britten, J. Bot. 54: 242-243. 1916) (TL-2/135).
+- (1) Edward Daniel Clarke (1769-1822), *Travels in various countries of Europe..., plants identified by Jackson and A. B. Lambert, in 1: 738-747. 1810, 2: xvii. 1812.
+- (2) Continued Andrews' Botanists' Repository* from vol. 7 (see Britten, J. Bot. 54: 242-243. 1916) (TL-2/135).
 
 #### Eponymy
 

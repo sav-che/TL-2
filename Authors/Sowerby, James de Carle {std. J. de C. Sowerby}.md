@@ -29,17 +29,17 @@ Barnhart 3: 305 (d. 26 Aug 1871); BB p. 284; BL 2: 224, 719; BM 5: 1983-1984; Bo
 #### Composite works
 
 For a detailed list of publications to which J. de C. Sowerby contributed see Cleevely (1974). The following list of the main botanical works in which S. participated is mainly based on this account.
-(1) Turner, D., *Muscologiae Hibernicae spicilegium*, 1804, see Cleevely p. 493 for the possible involvement (as an engraver) of S. in this work.
-(2) Sibthorp, J. and J.E. Smith *Flora graeca* 1806-1840, TL-2/11.935. S. prepared engravings from original drawings made by his father, James Sowerby, q.v.
-(3) Loudon, J.C., *Encycl. pl.* 1829, TL-2/5026. – Drawings by S.
-(4) Smith, J.E. & J. Sowerby, *English botany, Supplement*, 1831-1863, TL-2/12.221. S. editor of vols. 1-3; see Cleevely (1974) p. 495 for further details.
-(5) Id., *English botany*, ed. 2, 1832-1846, TL-2/12.221. Vols. 1 and 2 edited by S.
-(6) Berkeley, M.J., *Glean. Brit. alg.*, 1832-1833, TL-2/459a. Plates engraved by S. from drawings by M.J. Berkeley.
-(7) Halstead, C.A., *The little botanist*, 1835, illustrations drawn and engraved by S.
-(8) Murchison, R.I., *The Silurian system* 1839; text on fossil shells and all but 6 plates by S.
-(9) Bowerbank, J.S., *A history of the fossil fruits and seeds of the London Clay*, 1840. *Plates* by S.
-(10) *Magazine of natural History*, 1829-1840, numerous notes and other small contributions.
-(11) *Annals natural History* and *Annals Magazine natural History*, 1840-1841, many *plates* illustrating papers by other authors engraved or drawn and engraved by S.; these papers are all listed by Cleevely (1974).
+- (1) Turner, D., *Muscologiae Hibernicae spicilegium*, 1804, see Cleevely p. 493 for the possible involvement (as an engraver) of S. in this work.
+- (2) Sibthorp, J. and J.E. Smith *Flora graeca* 1806-1840, TL-2/11.935. S. prepared engravings from original drawings made by his father, James Sowerby, q.v.
+- (3) Loudon, J.C., *Encycl. pl.* 1829, TL-2/5026. – Drawings by S.
+- (4) Smith, J.E. & J. Sowerby, *English botany, Supplement*, 1831-1863, TL-2/12.221. S. editor of vols. 1-3; see Cleevely (1974) p. 495 for further details.
+- (5) Id., *English botany*, ed. 2, 1832-1846, TL-2/12.221. Vols. 1 and 2 edited by S.
+- (6) Berkeley, M.J., *Glean. Brit. alg.*, 1832-1833, TL-2/459a. Plates engraved by S. from drawings by M.J. Berkeley.
+- (7) Halstead, C.A., *The little botanist*, 1835, illustrations drawn and engraved by S.
+- (8) Murchison, R.I., *The Silurian system* 1839; text on fossil shells and all but 6 plates by S.
+- (9) Bowerbank, J.S., *A history of the fossil fruits and seeds of the London Clay*, 1840. *Plates* by S.
+- (10) *Magazine of natural History*, 1829-1840, numerous notes and other small contributions.
+- (11) *Annals natural History* and *Annals Magazine natural History*, 1840-1841, many *plates* illustrating papers by other authors engraved or drawn and engraved by S.; these papers are all listed by Cleevely (1974).
 
 #### Handwriting
 

@@ -27,8 +27,8 @@ Barnhart 3: 100; BFM no. 2662; BJI 2: 138; BM 4: 1598; DTS 6(4): 186; Hirsch p. 
 
 #### Composite works
 
-(1) Collaborator, C.K. Schneider, *Illustriertes Handwörterbuch der Botanik*, Leipzig 1905, see Schneider.
-(2) *Methodik der Blütenbiologie, in* Abderhaldens Handb. biol. Arbeitsmeth. 11(1, 4): 395-514. 1922 \[Lief. 81\] (see Engler, A., Bot. Jahrb. 58 (lit.): 49-50. 1923.
+- (1) Collaborator, C.K. Schneider, *Illustriertes Handwörterbuch der Botanik*, Leipzig 1905, see Schneider.
+- (2) *Methodik der Blütenbiologie, in* Abderhaldens Handb. biol. Arbeitsmeth. 11(1, 4): 395-514. 1922 \[Lief. 81\] (see Engler, A., Bot. Jahrb. 58 (lit.): 49-50. 1923.
 
 ### Publications
 

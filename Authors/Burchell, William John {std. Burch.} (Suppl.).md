@@ -74,5 +74,5 @@ AG 3: 60; Barnhart 1: 282; BB p. 54; BM 1: 287; Bossert p. 59; Clokie p. 141-142
 
 #### Note
 
-(1) Herbarium, letters and mss. at Kew, including a *Catalogus geographicus plantarum Africae australis extratropicae* (repr. McKay, J. S. Afr. Bot. 7. 1941.
+- (1) Herbarium, letters and mss. at Kew, including a *Catalogus geographicus plantarum Africae australis extratropicae* (repr. McKay, J. S. Afr. Bot. 7. 1941.
 

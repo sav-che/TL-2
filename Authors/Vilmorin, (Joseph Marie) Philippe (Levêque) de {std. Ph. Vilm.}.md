@@ -26,7 +26,7 @@ Barnhart 3: 438 (b. 1872, d. 30 Jun 1917); BJI 2: 184; BM 8: 1371; Hortus 3: 120
 #### Composite works
 
 Published *Cat. pommes de terre* ed. 3, see H. de Vilmorin, *Essai Cat. pommes de terre.*
-(2) Editor, Comptes rendus et rapports ive Conférence internationale de génétique, Paris 1911, Paris (Masson & Cie...) 1913, x, 571 p, *10 pl*.
+- (2) Editor, Comptes rendus et rapports ive Conférence internationale de génétique, Paris 1911, Paris (Masson & Cie...) 1913, x, 571 p, *10 pl*.
 
 ### Publications
 

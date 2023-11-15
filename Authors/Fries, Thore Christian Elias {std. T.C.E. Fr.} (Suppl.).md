@@ -38,20 +38,20 @@ APN p. 211; Barnhart 2: 11; BL 1: 40, 296, 2: 79, 532, 656; Biol.-Dokum. 6: 73.7
 
 #### Composite works
 
-(1) Contributed "Die Gasteromyceten der Juan Feranandez- und Osterinseln" to C. Skottsberg, *Nat. hist. Juan Fernandez*... 2(4): \[59\]-60. 1921, see TL-2/5, nr.
+- (1) Contributed "Die Gasteromyceten der Juan Feranandez- und Osterinseln" to C. Skottsberg, *Nat. hist. Juan Fernandez*... 2(4): \[59\]-60. 1921, see TL-2/5, nr.
 12.073.
 Co-author with G.E. Du Rietz, and others:
-(2) *Nomenklatur Pflanzengeographie*... 1918, see TL-2/Suppl. 6, nr. 32.082.
-(3) *Konstitution Pflanzengesellschaften*... 1920, see TL-2/Suppl. 6, nr. 32.084.
-(4) *Genmäle*... 1921, see TL-2/Suppl. 6, nr. 32.087.
+- (2) *Nomenklatur Pflanzengeographie*... 1918, see TL-2/Suppl. 6, nr. 32.082.
+- (3) *Konstitution Pflanzengesellschaften*... 1920, see TL-2/Suppl. 6, nr. 32.084.
+- (4) *Genmäle*... 1921, see TL-2/Suppl. 6, nr. 32.087.
 Co-author with his brother R.E. Fries:
-(5) *Die Riesen-Senecionen Afrikanischen Hochgebirge*... 1922, see above (nr. 35.614).
-(6) *Riesen-Lobelien Afrikas*... (1925), see above (nr. 35.615).
+- (5) *Die Riesen-Senecionen Afrikanischen Hochgebirge*... 1922, see above (nr. 35.614).
+- (6) *Riesen-Lobelien Afrikas*... (1925), see above (nr. 35.615).
 Co-author with C.G. Alm:
-(7) *Monogr. Blaeria*... 1924, see TL-2/Suppl. 1, nr. 19.077.
-(8) *Bot. Exkurs. Torne Lappmark*... 1925, see TL-2/Suppl. 1, nr. 19.078.
-(9) *Trop. Erica*... 1927, see TL-2/Suppl. 1, nr. 19.079.
-(10) *Philippia, Mitrastylus, Ericinella*... 1927, see TL-2/Suppl. 1, nr. 19.080.
+- (7) *Monogr. Blaeria*... 1924, see TL-2/Suppl. 1, nr. 19.077.
+- (8) *Bot. Exkurs. Torne Lappmark*... 1925, see TL-2/Suppl. 1, nr. 19.078.
+- (9) *Trop. Erica*... 1927, see TL-2/Suppl. 1, nr. 19.079.
+- (10) *Philippia, Mitrastylus, Ericinella*... 1927, see TL-2/Suppl. 1, nr. 19.080.
 
 ### Publications
 

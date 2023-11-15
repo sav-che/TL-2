@@ -24,9 +24,9 @@ Barnhart 1: 297 (b. 19 Jun 1902, Madison, Indiana); BFM 1612, 1635; BL 1: 215; I
 
 #### Outside our period
 
-(1) *Foundations of plant geography*, New York 1944 (p. i-xiv, 1-556), facsimile ed., New York 1971, see Taxon 21: 196. 25 Feb 1972, and Bot. Jahrb. 93(Lit.): 42-43. 1973.
-(2) *Logic and memory in Linnaeus's system of taxonomy*, Proc. Linn. Soc. London 169: 144-162. 1958.
-(3) *Deductive and inductive methods* in post-linnaean taxonomy, ib. 170(2): 185-217. 1959.
+- (1) *Foundations of plant geography*, New York 1944 (p. i-xiv, 1-556), facsimile ed., New York 1971, see Taxon 21: 196. 25 Feb 1972, and Bot. Jahrb. 93(Lit.): 42-43. 1973.
+- (2) *Logic and memory in Linnaeus's system of taxonomy*, Proc. Linn. Soc. London 169: 144-162. 1958.
+- (3) *Deductive and inductive methods* in post-linnaean taxonomy, ib. 170(2): 185-217. 1959.
 
 ### Publications
 

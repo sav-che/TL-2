@@ -42,15 +42,15 @@ AG 2(2): 268, 4: 305, 5(4): 219, 6(1): 149, 12(1): 78, 16(1): 149; Backer p. 516
 
 #### Composite works
 
-(1) *Amarantaceae, in* EP, Nat. Pflanzenfam. 3(1 A): 91-96. Mar 1893, 97-118. Aug 1893, Erg.-Heft 1: 20. 1900; ed. 2. 16c: 7-85, 585-586. 1934.
-(2) With Th.A. Durand, *Études fl. Congo*, 1896, see TL-2/1594. *Copies*: FI, L, U. – (Bot. Centralbl. 11 Mar 1897; Nat. Nov. Apr 1897; reviews: F. Buchenau, Bot. Zeit. 55: 90-91. 16 Mar 1897, H. Harms, Bot. Zeit. 70: 161-162. 28 Apr 1897).
-(3) With Th.A. Durand, *Consp. fl. afr.* 1895-1898, see TL-2/1593. *Copies*: FI, MO, U, US. – *Reviews*: J. Britten, J. Bot. 33: 87-91. Mar 1895 (vol. 5), A. Franchet, J. Bot. Morot, 9, suppl. 4: xxi-xxii. 16 Apr 1895 (vol. 5). – *Prospectus*: 2 p. text plus specimen page \[17\], undated \[1895\], at G. "Le conspectus aura 6 volumes et formera un ouvrage de plus de 3000 pages", it was to contain information on 20.000 species and 80.000 synonyms. Volume 5, Monocots, to be published first in view of the lack of a recent treatment. Number of copies to be printed to be fixed in accordance with the number of subcriptions.
-(4) Editor, Mitt. Bot. Mus. Univ. Zürich 1-128. 1893-1928.
-(5) Editor, Neue Denkschr. Schweiz. naturf. Ges. 40(2), 1906 – 64, 1927.
-(6) Editor, Ber. Schweiz. bot. Ges. 19-29, 1910-1920.
-(7) Editor, Neujahrsbl. naturf. Ges. Zürich 113-130, 1911-1927.
-(8) Editor, Viertel\].-Schr. naturf. Ges. Zürich 57-73. 1912-1928.
-(9) Editor, with A. Guillaumin, *Botanik*, vol. 1, nos. 1-3, 1914-1921 of F. Sarasin & J. Roux, *Nova Caledonia*. Schinz contributed: (a) *Equisetales und Triuridaceae* von Neu-Caledonien, p. \[57\]-59. (b) With Ed. Hackel, *Gramineae von JVeu-Caledonien* und den Loyalty-Inseln, p. \[67\]-74. – *Botanik* as a whole p. 1-85 (1914), 87-170 (1920), 171-311 (1921).
+- (1) *Amarantaceae, in* EP, Nat. Pflanzenfam. 3(1 A): 91-96. Mar 1893, 97-118. Aug 1893, Erg.-Heft 1: 20. 1900; ed. 2. 16c: 7-85, 585-586. 1934.
+- (2) With Th.A. Durand, *Études fl. Congo*, 1896, see TL-2/1594. *Copies*: FI, L, U. – (Bot. Centralbl. 11 Mar 1897; Nat. Nov. Apr 1897; reviews: F. Buchenau, Bot. Zeit. 55: 90-91. 16 Mar 1897, H. Harms, Bot. Zeit. 70: 161-162. 28 Apr 1897).
+- (3) With Th.A. Durand, *Consp. fl. afr.* 1895-1898, see TL-2/1593. *Copies*: FI, MO, U, US. – *Reviews*: J. Britten, J. Bot. 33: 87-91. Mar 1895 (vol. 5), A. Franchet, J. Bot. Morot, 9, suppl. 4: xxi-xxii. 16 Apr 1895 (vol. 5). – *Prospectus*: 2 p. text plus specimen page \[17\], undated \[1895\], at G. "Le conspectus aura 6 volumes et formera un ouvrage de plus de 3000 pages", it was to contain information on 20.000 species and 80.000 synonyms. Volume 5, Monocots, to be published first in view of the lack of a recent treatment. Number of copies to be printed to be fixed in accordance with the number of subcriptions.
+- (4) Editor, Mitt. Bot. Mus. Univ. Zürich 1-128. 1893-1928.
+- (5) Editor, Neue Denkschr. Schweiz. naturf. Ges. 40(2), 1906 – 64, 1927.
+- (6) Editor, Ber. Schweiz. bot. Ges. 19-29, 1910-1920.
+- (7) Editor, Neujahrsbl. naturf. Ges. Zürich 113-130, 1911-1927.
+- (8) Editor, Viertel\].-Schr. naturf. Ges. Zürich 57-73. 1912-1928.
+- (9) Editor, with A. Guillaumin, *Botanik*, vol. 1, nos. 1-3, 1914-1921 of F. Sarasin & J. Roux, *Nova Caledonia*. Schinz contributed: (a) *Equisetales und Triuridaceae* von Neu-Caledonien, p. \[57\]-59. (b) With Ed. Hackel, *Gramineae von JVeu-Caledonien* und den Loyalty-Inseln, p. \[67\]-74. – *Botanik* as a whole p. 1-85 (1914), 87-170 (1920), 171-311 (1921).
 
 #### Nomenclature
 

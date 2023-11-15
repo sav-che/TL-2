@@ -23,8 +23,8 @@ APN p. 224; Barnhart 2: 42; BL 2: 102, 658; Hortus 3: 1193; Kew 2: 399-400; Lang
 
 #### Composite works
 
-(1) One of many collaborators with D. Bois, *Dict. hort.*... 1893-1899, see TL-2/1, nr. 602 and Suppl. 2, nr. 21.859 (the same work assigned different nos. and abbreviations in TL-2!).
-(2) Evidently also co-author with D. Bois, *Tableau synoptique d'Orchidées cultivées*... 1902, see TL-2/Suppl. 2, nr. 21.863, where Gérôme's contribution was not given credit.
+- (1) One of many collaborators with D. Bois, *Dict. hort.*... 1893-1899, see TL-2/1, nr. 602 and Suppl. 2, nr. 21.859 (the same work assigned different nos. and abbreviations in TL-2!).
+- (2) Evidently also co-author with D. Bois, *Tableau synoptique d'Orchidées cultivées*... 1902, see TL-2/Suppl. 2, nr. 21.863, where Gérôme's contribution was not given credit.
 
 ### Publications
 

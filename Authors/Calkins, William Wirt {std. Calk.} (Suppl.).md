@@ -34,7 +34,7 @@ Barnhart 1: 300 (b. 29 Mai 1842, Farm Ridge, Ill., d. 9 Jul 1914, Berwyn, Cook C
 
 #### Composite works
 
-(1) J. Mueller Arg., *Graphideae Eckfeldtianae*, Bull. Herb. Boissier 3(2): 41-50. 1895, see TL-2/6473, publication used Calkins material.
+- (1) J. Mueller Arg., *Graphideae Eckfeldtianae*, Bull. Herb. Boissier 3(2): 41-50. 1895, see TL-2/6473, publication used Calkins material.
 
 ### Publications
 

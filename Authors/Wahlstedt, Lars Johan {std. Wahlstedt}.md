@@ -10,9 +10,9 @@ Wahlstedt, Lars Johan (1836-1917), Swedish botanist and lecturer; studied at Lun
 
 [[Collection LD|LD]]; further material (incl. exsicc.) at [[Collection AK|AK]], [[Collection B|B]] (mainly destr.), [[Collection BR|BR]], [[Collection G|G]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection GR|GR]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection W|W]], [[Collection WRSL|WRSL]]. –
 *Exsiccatae*: (1) With C.F.O. Nordstedt, *Characeae scandinavicae exsiccatae* fasc. 1-3, nos. 1-120, 1871-1874, see under Nordstedt.
-(2) With L.M. Neuman and S.S. Murbeck, *Violae Sueciae exsiccatae*, fasc. 1-2, 1886, 1893, nos. 1-60, see under Neuman.
-(3) With E.F.A.W. Migula and P. Sydow, *Characeae exsiccatae* fasc. 1-6, nos. 1-150, 1892-1901, see under Migula.
-(4) With Bengt Jönsson (1849-1911), *Urval af svenska fodergräs*, Lund 1884 (2 p., 32 plants) and *Urval af svenska foderbaljväxter*, Lund 1886 (2 p., 32 plants).
+- (2) With L.M. Neuman and S.S. Murbeck, *Violae Sueciae exsiccatae*, fasc. 1-2, 1886, 1893, nos. 1-60, see under Neuman.
+- (3) With E.F.A.W. Migula and P. Sydow, *Characeae exsiccatae* fasc. 1-6, nos. 1-150, 1892-1901, see under Migula.
+- (4) With Bengt Jönsson (1849-1911), *Urval af svenska fodergräs*, Lund 1884 (2 p., 32 plants) and *Urval af svenska foderbaljväxter*, Lund 1886 (2 p., 32 plants).
 
 #### Bibliography and biography
 

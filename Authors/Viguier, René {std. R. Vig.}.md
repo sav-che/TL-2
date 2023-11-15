@@ -27,8 +27,8 @@ Andrews p. 343; Barnhart 3: 436 (b. 19 Mai 1880, d. 17 Jan 1931); BJI 2: 184; BL
 
 #### Composite works
 
-(1) Founder and editor, with H. Perrier de la Bâthie and Henri Chermezon of *Archives de botanique, Bulletin mensuel*, Caen, vols. 1-4, 1927-1930.
-(2) *Araliaceae, in* H. Lecomte, *Flore gén. Indochine* 2(9): 1158-1182. Aug 1923.
+- (1) Founder and editor, with H. Perrier de la Bâthie and Henri Chermezon of *Archives de botanique, Bulletin mensuel*, Caen, vols. 1-4, 1927-1930.
+- (2) *Araliaceae, in* H. Lecomte, *Flore gén. Indochine* 2(9): 1158-1182. Aug 1923.
 
 #### Eponymy
 

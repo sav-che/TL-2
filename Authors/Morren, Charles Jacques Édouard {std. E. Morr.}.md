@@ -33,9 +33,9 @@ Ainsworth p. 155; Backer p. 381; Barnhart 2: 515; BL 2: 33, 693; BM 3: 1353-1354
 
 #### Composite works
 
-(1) *La Belgique horticole*, co-editor 5-7 with C. F. A. Morren; editor vols. 8-34, 1855-1884.
-(2)*Annales d'Horticulture belge et étrangère*, editor, vols. 15-24, 1865-1874.
-(3)*Annales de Botanique et d'Horticulture*, editor, vols. 25-34, 1875-1884.
+- (1) *La Belgique horticole*, co-editor 5-7 with C. F. A. Morren; editor vols. 8-34, 1855-1884.
+- (2) *Annales d'Horticulture belge et étrangère*, editor, vols. 15-24, 1865-1874.
+- (3) *Annales de Botanique et d'Horticulture*, editor, vols. 25-34, 1875-1884.
 
 ### Publications
 

@@ -56,9 +56,9 @@ AG 2(2): 384; Andrews p. 265; APN p. 205; Baillon 2: 630; Barnhart 1: 556; BB p.
 
 #### Composite works
 
-(1) Co-author with T. Spratt, *Trav. Lycia*... 1847, see TL-2/5, nr.
+- (1) Co-author with T. Spratt, *Trav. Lycia*... 1847, see TL-2/5, nr.
 12.664; see also Rehbock (1979, nr. 4).
-(2) "Zoology and botany" (p. 80-92) *in* R.G. Latham & E. Forbes, *The Natural History Department of the Crystal Palace described*... 1854 \[=Part 3. The Palace and park...\]; see Rehbock (1979, nr. 8).
+- (2) "Zoology and botany" (p. 80-92) *in* R.G. Latham & E. Forbes, *The Natural History Department of the Crystal Palace described*... 1854 \[=Part 3. The Palace and park...\]; see Rehbock (1979, nr. 8).
 
 ### Publications
 

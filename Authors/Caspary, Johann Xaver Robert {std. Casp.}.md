@@ -30,8 +30,8 @@ ADB; AG 1: 312; Andrews ed. 2, p. 245; Barnhart 1: 320; BB 2: 235; BM 1: 323, 6:
 
 #### Composite works
 
-(1) *EP* ed. 1: *Nymphaeaceae*, 3(2): 1-12. 17 Jan 1888, suppl. by Engler, *Nachtr*. 2-4: 157. 1897 and Ergänzungsheft 1: 22. 1900.
-(2) Martius, *Fl. bras.: Nymphaeaceae*, 4(2): 129-184, *pl. 28-38.* 1 Jun 1878.
+- (1) *EP* ed. 1: *Nymphaeaceae*, 3(2): 1-12. 17 Jan 1888, suppl. by Engler, *Nachtr*. 2-4: 157. 1897 and Ergänzungsheft 1: 22. 1900.
+- (2) Martius, *Fl. bras.: Nymphaeaceae*, 4(2): 129-184, *pl. 28-38.* 1 Jun 1878.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Dahlstedt, Gustav Adolf Hugo (1856-1934), Swedish botanist specialized in *Hiera
 
 #### Herbarium and types
 
-[[Collection S|S]]. – Exsiccatae:
+[[Collection S|S]].
+*Exsiccatae*:
 1. *Herbarium Hieraciorum scandinaviae* (cent. i-xxiv, 1892-1911), ten sets issued: [[Collection B|B]], [[Collection BM|BM]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection P|P]], [[Collection S|S]].
 2. *Hieracia exsiccata* (fasc, i-iv, 100 nos., 1889-1891, Linköping, Stockholm), sets at: [[Collection BM|BM]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection LD|LD]], [[Collection S|S]].
 3. *Taraxaca scandinavica exsiccata* (fasc. i-iv, 50, 50, 54 and 55 nos., 1911-1914, Jönköping), 30 sets issued: [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection S|S]], [[Collection W|W]].

@@ -25,8 +25,8 @@ Barnhart 3: 361; BB p. 296; BL 2: 261, 722; BM 5: 2076; Bret. p. 531; CSP 8: 106
 
 #### Composite works
 
-(1) *Flora of Alnwick, in* G. Tate, *The history* of the borough, castle and barony *of Alnwick*, 2: 418-435. 1868-1869.
-(2) Contributed to A.G. More, *Suppl. fl. vect*. 1871, see TL-2/6291.
+- (1) *Flora of Alnwick, in* G. Tate, *The history* of the borough, castle and barony *of Alnwick*, 2: 418-435. 1868-1869.
+- (2) Contributed to A.G. More, *Suppl. fl. vect*. 1871, see TL-2/6291.
 
 ### Publications
 

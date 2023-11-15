@@ -26,8 +26,8 @@ Bossert p. 423; IH 1 (ed. 1): 102, (ed. 2): 126, (ed. 3): 162; (ed. 4): 180, (ed
 
 #### Composite works
 
-(1) Co-author with E.D. Merrill, *Bibl. East Asiat. bot.* 1938, TL-2/5871 and of its *Supplement 1*, 1960. *Reviews*: Airy Shaw, H.K., Bull. misc. Inf. Kew 1938: 310-311, J.H. Barnhart, J. New York Botanical Garden 39: 139. 1938, W.T. Stearn, J. Soc. Bibl. nat. Hist. 1(7): 194. 1939. – *Reviews supplement*: F. Markgraf, Bot. Jahrb. 82(1)(Lit.): I. 1963, Anon., Taxon 10: 150. 1961, C.G.G.J. van Steenis, Fl. males. Bull. 839. 1961. \[Bibliography referred to in TL-2 as MW and MW suppl.\].
-(2) With H.B. Collins and A.H. Clark, *The Aleutian Islands*: their people and natural history, Washington 5 Feb 1945, iv, 131 p., *21 pl*.
+- (1) Co-author with E.D. Merrill, *Bibl. East Asiat. bot.* 1938, TL-2/5871 and of its *Supplement 1*, 1960. *Reviews*: Airy Shaw, H.K., Bull. misc. Inf. Kew 1938: 310-311, J.H. Barnhart, J. New York Botanical Garden 39: 139. 1938, W.T. Stearn, J. Soc. Bibl. nat. Hist. 1(7): 194. 1939. – *Reviews supplement*: F. Markgraf, Bot. Jahrb. 82(1)(Lit.): I. 1963, Anon., Taxon 10: 150. 1961, C.G.G.J. van Steenis, Fl. males. Bull. 839. 1961. \[Bibliography referred to in TL-2 as MW and MW suppl.\].
+- (2) With H.B. Collins and A.H. Clark, *The Aleutian Islands*: their people and natural history, Washington 5 Feb 1945, iv, 131 p., *21 pl*.
 
 #### Note
 

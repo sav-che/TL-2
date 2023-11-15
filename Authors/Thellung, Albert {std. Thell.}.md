@@ -33,17 +33,17 @@ AG 4: 304-305, 5(1): 74, 5(4): 57; Backer p. 656, 662; Barnhart 3: 371 (b. 12 Ma
 
 #### Composite works
 
-(1) Collaborator G. Hegi, *Ill. fl. Mitt. Eur.* ed. 1, *Cruciferae*, 4(1): 51-96. Jul 1913, 94\[sic\]-144. Dec 1914, 145-192. 3 Feb 1916, 193-195. Apr 1918; *Umbelliferae* 5(2). 1925-1926; TL-2/2571.
-(2) Co-author with O. Nägeli, *Fl. Zürich* vol. 1, 1905. TL-2/6619.
-(3) *Nomenclator Garsaultianus*, Bull. Herb. Boissier ser. 2. 8: 713-714. 30 Sep, 778-793. 31 Oct, 901-913. 30 Nov 1908, see also under F.A.P. de Garsault, TL-2/1: 918-919. – Critical review: J. Britten & A.B. Rendle, J. Bot. 47: 322. 1909.
-(4) Collaborator, Schinz und Keller, *Fl. Schweiz*, ed. 2, parts 1-2, 1905, see TL-2/10.714.
-(5) Collaborator, Schinz et Wilczek, *Fl. Suisse* ed. franç., 1, 1909, see TL-2/10.714.
-(6) Collaborator, Schinz und Keller, *Fl. Schweiz* ed. 3, 1, 1909, see TL-2/10.714, also ed.
+- (1) Collaborator G. Hegi, *Ill. fl. Mitt. Eur.* ed. 1, *Cruciferae*, 4(1): 51-96. Jul 1913, 94\[sic\]-144. Dec 1914, 145-192. 3 Feb 1916, 193-195. Apr 1918; *Umbelliferae* 5(2). 1925-1926; TL-2/2571.
+- (2) Co-author with O. Nägeli, *Fl. Zürich* vol. 1, 1905. TL-2/6619.
+- (3) *Nomenclator Garsaultianus*, Bull. Herb. Boissier ser. 2. 8: 713-714. 30 Sep, 778-793. 31 Oct, 901-913. 30 Nov 1908, see also under F.A.P. de Garsault, TL-2/1: 918-919. – Critical review: J. Britten & A.B. Rendle, J. Bot. 47: 322. 1909.
+- (4) Collaborator, Schinz und Keller, *Fl. Schweiz*, ed. 2, parts 1-2, 1905, see TL-2/10.714.
+- (5) Collaborator, Schinz et Wilczek, *Fl. Suisse* ed. franç., 1, 1909, see TL-2/10.714.
+- (6) Collaborator, Schinz und Keller, *Fl. Schweiz* ed. 3, 1, 1909, see TL-2/10.714, also ed.
 3. 2. 1914 and ed. 4. I. 1923.
-(7) *Nachträge* zu O. Kirchner und J. Eichler, *Exkurs.-Fl. Württemberg* 1900 (TL-2/3667), *in* Allg. bot. Z. 17: 34-35. 1911.
-(8) *Cruciferae, in* H. Schinz, Beitr. Kenntn. afr. Fl. 24, Vierteljahrsschr. naturf. Ges. Zürich 56: 257-261. 23 Dec 1911 (as reprint); *Compositae* ib. p. 267-268. 1911; *Amaranthus in* id. 25, ib. 57(3): 535-537. 23 ("30") Nov 1912, *Scrophulariaceae* ib. p. 559-561; TL-2/10.710.
-(9) With G. Schellenberg and H. Schinz, *Beiträge zur Kenntniss der Flora von Kolumbien und Westindien*... *in* O. Fuhrmann & E. Mayor, Voy. expl. Sci. Colombie, Mém. Soc. neuchât. Sci. nat. 5: 342-431. Jul 1913 (date of reprint); abstract in Repert. Sp. nov. 12: 426-432. 25 Sep 1913.
-(10) *Amarantus, in* Ascherson & Graebner, *Syn. mittelem. Fl.* 5, 1914, see below (no.
+- (7) *Nachträge* zu O. Kirchner und J. Eichler, *Exkurs.-Fl. Württemberg* 1900 (TL-2/3667), *in* Allg. bot. Z. 17: 34-35. 1911.
+- (8) *Cruciferae, in* H. Schinz, Beitr. Kenntn. afr. Fl. 24, Vierteljahrsschr. naturf. Ges. Zürich 56: 257-261. 23 Dec 1911 (as reprint); *Compositae* ib. p. 267-268. 1911; *Amaranthus in* id. 25, ib. 57(3): 535-537. 23 ("30") Nov 1912, *Scrophulariaceae* ib. p. 559-561; TL-2/10.710.
+- (9) With G. Schellenberg and H. Schinz, *Beiträge zur Kenntniss der Flora von Kolumbien und Westindien*... *in* O. Fuhrmann & E. Mayor, Voy. expl. Sci. Colombie, Mém. Soc. neuchât. Sci. nat. 5: 342-431. Jul 1913 (date of reprint); abstract in Repert. Sp. nov. 12: 426-432. 25 Sep 1913.
+- (10) *Amarantus, in* Ascherson & Graebner, *Syn. mittelem. Fl.* 5, 1914, see below (no.
 14.070); *Euphorbia* sect. *Anisophyllum*, ib. 7(92): 422-479. 27 Feb 1917; *Eriochloa*, ib. ed. 2. 7: 102-105. 15 Mar 1920; *Chloris*, ib. p. 155-160; TL-2/200.
 
 #### Eponymy

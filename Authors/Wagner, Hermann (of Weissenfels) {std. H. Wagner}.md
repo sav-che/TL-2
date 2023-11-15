@@ -9,11 +9,11 @@ Wagner, Hermann (of Weissenfels) (1824-1879), German (Saxonian) high school teac
 #### Herbarium and types
 
 Most holdings of herbaria consist of sets or partial sets of his series of exsiccatae. Our information is incomplete.
-(1) *Cryptogamen-Herbarium*, Bielefeld 1852-1862, fasc. 1-9, 25 specimens per fascicle (1-5: 1852-1854; ser. 2. 6-10. 1854-1862); Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BUC|BUC]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection H|H]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection S|S]]. – For accompanying text see *Führ. Crypt*. below. See Sayre (1969).
-(2) *Gras-Herbarium*, Lief. 1-8, nos. 1-201, Bielefeld 1855. A third edition is mentioned in the periodical literature 1880-1884 (10 Lief.).
-(3) *Phanerogamen-Herbarium*, Lief. 1-8, nos. 1-200. 1857-1858.
-(4) *Arznei- und Giftgewächse*, Lief. 1-5, nos. 1-125.
-(5) *Alpenstrauss*, enthaltend die schönsten Gewächse der Alpen. Bielefeld, s.d., 50 specimens.
+- (1) *Cryptogamen-Herbarium*, Bielefeld 1852-1862, fasc. 1-9, 25 specimens per fascicle (1-5: 1852-1854; ser. 2. 6-10. 1854-1862); Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BUC|BUC]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection H|H]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection S|S]]. – For accompanying text see *Führ. Crypt*. below. See Sayre (1969).
+- (2) *Gras-Herbarium*, Lief. 1-8, nos. 1-201, Bielefeld 1855. A third edition is mentioned in the periodical literature 1880-1884 (10 Lief.).
+- (3) *Phanerogamen-Herbarium*, Lief. 1-8, nos. 1-200. 1857-1858.
+- (4) *Arznei- und Giftgewächse*, Lief. 1-5, nos. 1-125.
+- (5) *Alpenstrauss*, enthaltend die schönsten Gewächse der Alpen. Bielefeld, s.d., 50 specimens.
 
 #### Bibliography and biography
 

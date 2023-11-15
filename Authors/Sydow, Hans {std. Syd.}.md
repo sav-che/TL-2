@@ -42,7 +42,7 @@ Sydow, Hans (1879-1946), German (Berlin) amateur mycologist; son of Paul Sydow; 
 |69-72	|3401-3600	|Oct 1942|
 
 *Sets* at [[Collection B|B]] (extant), [[Collection BAS|BAS]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection HBG|HBG]], [[Collection IA|IA]], [[Collection K|K]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PRC|PRC]], [[Collection PRE|PRE]], [[Collection PREM|PREM]], [[Collection S|S]], [[Collection TLA|TLA]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]].
-(2) *Fungi exotici exsiccati*, fasc. 1-25, nos. 1-1250, 1912-1943; with accompanying schedae in Annales mycologici ([AM):
+- (2) *Fungi exotici exsiccati*, fasc. 1-25, nos. 1-1250, 1912-1943; with accompanying schedae in Annales mycologici (AM):
 
 |Fasc.	|nos.	|dates	|schedae in A.M.|
 |---|---|---|---|
@@ -79,12 +79,12 @@ Ainsworth p. 230, 347; Biol.-Dokum. 17: 9135; BJI 2: 175; BM 5: 2065, 8: 1280; B
 
 #### Composite works
 
-(1) Founder and editor of the *Annales mycologici* 1903-1948, vols. 1-42.
-(2) H. Sydow published many papers and books together with his father P. Sydow. Their joint publications (84 nos.) are all listed by Petrak (1948).
-(3) With P. Sydow and E.J. Butler: *Fungi Indiae orientalis*, parts 1-5 in Annales mycologici 4: 424-445. 31 Oct 1906, 5: 485-515. 31 Dec 1907, 9: 372-421. 10 Aug 1911, 10: 243-280. 10 Jun 1912, 4: 117-120. 28 Mai 1916.
-(4) With F. Petrak, *Gatt. Pyrenomyc*. 1927, see TL-2/7785 (IDC 746 (240-246)).
-(5) For further papers published with F. Theissen, F. Petrak, E. Werdermann, W. McRae, J.H. Mitten, R.N. Tandon and Sultan Ahmad, see Petrak (1948, p. 24-25).
-(6) With P. Sydow, *Contribution à l'étude des champignons parasites de Colombie, in* O. Fuhrman & E. Mayor, *Voy. expl. Sci. Colombie*, Mém. Soc. neuch. Sci. nat. 51: \[432\]-441. 1912.
+- (1) Founder and editor of the *Annales mycologici* 1903-1948, vols. 1-42.
+- (2) H. Sydow published many papers and books together with his father P. Sydow. Their joint publications (84 nos.) are all listed by Petrak (1948).
+- (3) With P. Sydow and E.J. Butler: *Fungi Indiae orientalis*, parts 1-5 in Annales mycologici 4: 424-445. 31 Oct 1906, 5: 485-515. 31 Dec 1907, 9: 372-421. 10 Aug 1911, 10: 243-280. 10 Jun 1912, 4: 117-120. 28 Mai 1916.
+- (4) With F. Petrak, *Gatt. Pyrenomyc*. 1927, see TL-2/7785 (IDC 746 (240-246)).
+- (5) For further papers published with F. Theissen, F. Petrak, E. Werdermann, W. McRae, J.H. Mitten, R.N. Tandon and Sultan Ahmad, see Petrak (1948, p. 24-25).
+- (6) With P. Sydow, *Contribution à l'étude des champignons parasites de Colombie, in* O. Fuhrman & E. Mayor, *Voy. expl. Sci. Colombie*, Mém. Soc. neuch. Sci. nat. 51: \[432\]-441. 1912.
 
 #### Handwriting
 

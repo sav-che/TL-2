@@ -37,8 +37,8 @@ Additional information on *Fl. Jamaica*... 1910-1936, 5 vols. (TL-2/1, nr. 1745)
 
 #### Composite works
 
-(1) Apetalae (p. 497-523) *in* "Prodomus \[sic\] floræ timorensis", which was published in H.O. Forbes, *Naturalist's wanderings E. Archipel.*... 1885; see nr. 35.055 below.
-(2) Editor: (a) *Bulletin of the Botanical Department* (Kingston, Jamaica) (Apr 1887-1902), incl. the entire second series, vols. 1-9 (1894-1902); and (b) *Bulletin of the Department of Agriculture, Jamaica*, vols. 1-6 (Jan 1903-Feb/Mar 1908); a continuation of the preceding journal and for which a suppl. was issued Sep 1907.
+- (1) Apetalae (p. 497-523) *in* "Prodomus \[sic\] floræ timorensis", which was published in H.O. Forbes, *Naturalist's wanderings E. Archipel.*... 1885; see nr. 35.055 below.
+- (2) Editor: (a) *Bulletin of the Botanical Department* (Kingston, Jamaica) (Apr 1887-1902), incl. the entire second series, vols. 1-9 (1894-1902); and (b) *Bulletin of the Department of Agriculture, Jamaica*, vols. 1-6 (Jan 1903-Feb/Mar 1908); a continuation of the preceding journal and for which a suppl. was issued Sep 1907.
 
 ### Publications
 

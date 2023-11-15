@@ -25,8 +25,8 @@ Backer p. 663; BL 2: 425, 727; Bossert p. 418; IH 1 (ed. 1): 3, (ed. 2): 16, (ed
 
 #### Composite works
 
-(1) *Orchidaceae*, in *Flora neerlandica* 1(5), Amsterdam 1958, 127 p.
-(2) Editor, *Orchideeën* 1949-1977.
+- (1) *Orchidaceae*, in *Flora neerlandica* 1(5), Amsterdam 1958, 127 p.
+- (2) Editor, *Orchideeën* 1949-1977.
 
 #### Eponymy
 

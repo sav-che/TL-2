@@ -31,8 +31,8 @@ Barnhart 3: 345 (b. 16 Oct 1792, d. 29 Mar 1847); Biol.-Dokum. 17: 9116; Christi
 
 #### Note
 
-(1) Suhr's nationality was Danish; he was a soldier in the Danish army, obtained his military training in Rendsburg (Holstein) and Copenhagen and was born and died on Danish territory.
-(2) Suhr's main publications were all in journals: his *Beiträge zur Algenkunde* appeared *in* Flora 19: 337-350, *pl. 3-4.* 14 Jun 1836, 22: 65-75. 7 Feb 1839, 23: 257-265. 7 Mai, 273-282. 14 Mai, 289-304. 21 Mai 1840; *in* Ann. Sci. nat., Bot. ser. 2. 7: 171-176. 1837 and *in* Nova Acta Leop. 18 (suppl. 1): 273-288, *pl. 1-3.* 1841 (IDC 6216), probably publ. late 1841 (Soc. géol. France rd 10-24 Jan 1842; rev. Flora 7 Apr 1842). – For further papers see e.g. CSP.
+- (1) Suhr's nationality was Danish; he was a soldier in the Danish army, obtained his military training in Rendsburg (Holstein) and Copenhagen and was born and died on Danish territory.
+- (2) Suhr's main publications were all in journals: his *Beiträge zur Algenkunde* appeared *in* Flora 19: 337-350, *pl. 3-4.* 14 Jun 1836, 22: 65-75. 7 Feb 1839, 23: 257-265. 7 Mai, 273-282. 14 Mai, 289-304. 21 Mai 1840; *in* Ann. Sci. nat., Bot. ser. 2. 7: 171-176. 1837 and *in* Nova Acta Leop. 18 (suppl. 1): 273-288, *pl. 1-3.* 1841 (IDC 6216), probably publ. late 1841 (Soc. géol. France rd 10-24 Jan 1842; rev. Flora 7 Apr 1842). – For further papers see e.g. CSP.
 
 #### Eponymy
 

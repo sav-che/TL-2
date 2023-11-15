@@ -38,8 +38,8 @@ Barnhart 1: 521; BL 1: 22, 295; Bossert p. 20; Hortus 3: 1192; IF suppl. 4: 321;
 
 #### Composite works
 
-(1) *Botanical collecting on the islands of the Gulf of Guinea*, *in* C.R. ive Réunion plénière de l'AEFTAT: 95-102. 1962.
-(2) *Combretaceae* in *Index nominum genericorum plantarum* 1979, 53 entries.
+- (1) *Botanical collecting on the islands of the Gulf of Guinea*, *in* C.R. ive Réunion plénière de l'AEFTAT: 95-102. 1962.
+- (2) *Combretaceae* in *Index nominum genericorum plantarum* 1979, 53 entries.
 
 #### Outside our period
 

@@ -31,14 +31,14 @@ AG 2(1): 380, 5(3): 51; Backer p. 250; Barnhart 2: 106; BJI 1: 24, 2: 65; BM 2: 
 
 #### Composite works
 
-(1) *Monographia Andropogonearum, in* Alph. de Candolle, *Monogr. pl. 6*: 1-716. *pl. 1-2.* Apr 1889 (Nat. Nov. Jul 1889) (TL 2/978).
-(2) *Gramineae* (echtz Gräser), *in* E.P 2.2:. 1-97, 126 (p. 1-48 Jul 1887, 49-96 Nov, p. 97 and 126, Jan 1888), Nachtr. 2-4(1): 39-47. Jul 1897, 2: 3-7. 8 Oct 1900 (TL 2/1710).
-(3) with F. Pax, *in* EP, *Die natürlichen Pflanzenfamilien, Cyperaceae und Gramineae*, reprint Dec 1887, Leipzig (Engelmann) 130 p., *1 pl*., 426 figs.
-(4) *Gramineae brasilienses* V, *in* Martius, *Flora brasiliensis*, fasc. 90, 1 Jul 1883, vol. 2(3): 245-326. *pl. 59-74.* (see also under J. C. Döll).
-(5) *Gramineae gesammelt auf der Forschungsreise der Gazelle* \[Berlin 1890\], 11 p., 4 pl., see Engler, no. 1705; see also Bot. Jahrb. 6: 233-248. 1885.
-(6) See Durand et Pittier, *Primit. fl. costaric.*, TL 2/1592.
-(7) Contributed to H. W. Reichardt, *Flora der Insel Jan Mayen*, 21 p., in vol. 3 (7a) of *Die internationale Polarforschung* 1882-1883, Wien, 1886; see under Reichardt.
-(8) *Gramineae*, with J. Ch. Doell, *in* Warming, E., *Symb*. nos. 37-38, publ. 3 Mai 1892.
+- (1) *Monographia Andropogonearum, in* Alph. de Candolle, *Monogr. pl. 6*: 1-716. *pl. 1-2.* Apr 1889 (Nat. Nov. Jul 1889) (TL 2/978).
+- (2) *Gramineae* (echtz Gräser), *in* E.P 2.2:. 1-97, 126 (p. 1-48 Jul 1887, 49-96 Nov, p. 97 and 126, Jan 1888), Nachtr. 2-4(1): 39-47. Jul 1897, 2: 3-7. 8 Oct 1900 (TL 2/1710).
+- (3) with F. Pax, *in* EP, *Die natürlichen Pflanzenfamilien, Cyperaceae und Gramineae*, reprint Dec 1887, Leipzig (Engelmann) 130 p., *1 pl*., 426 figs.
+- (4) *Gramineae brasilienses* V, *in* Martius, *Flora brasiliensis*, fasc. 90, 1 Jul 1883, vol. 2(3): 245-326. *pl. 59-74.* (see also under J. C. Döll).
+- (5) *Gramineae gesammelt auf der Forschungsreise der Gazelle* \[Berlin 1890\], 11 p., 4 pl., see Engler, no. 1705; see also Bot. Jahrb. 6: 233-248. 1885.
+- (6) See Durand et Pittier, *Primit. fl. costaric.*, TL 2/1592.
+- (7) Contributed to H. W. Reichardt, *Flora der Insel Jan Mayen*, 21 p., in vol. 3 (7a) of *Die internationale Polarforschung* 1882-1883, Wien, 1886; see under Reichardt.
+- (8) *Gramineae*, with J. Ch. Doell, *in* Warming, E., *Symb*. nos. 37-38, publ. 3 Mai 1892.
 
 #### Eponymy
 

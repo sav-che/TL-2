@@ -41,14 +41,14 @@ Backer p. 660; Barnhart 3: 192; BJI 2: 150; BL 1: 238, 316; BM 4: 1768; Bossert 
 
 #### Composite works
 
-(1) With Thomas Morong et al., *List Pter. Sperm. N.E. North America* 1893-1894, see TL2-6342.
-(2) *Phyllonomaceae, in* NAF 22(2): 191. 18 Dec 1905.
+- (1) With Thomas Morong et al., *List Pter. Sperm. N.E. North America* 1893-1894, see TL2-6342.
+- (2) *Phyllonomaceae, in* NAF 22(2): 191. 18 Dec 1905.
 
 #### Note
 
-(1) William Sanford Rusby (b. 1852), brother of H.H. Rusby, collected widely in the United States from 1873 until 1883 or later. His main collections went to Parke, Davis & Co., the herbarium of which is now at MICH (inf. H.H. Rusby to J.H. Barnhart, see Barnhart 2: 192).
-(2) Henry H. Rusby collected for Parke, Davis & Co., Detroit in South America (search for cocaine), in Bolivia and Para and Terr. Rondonia (Brazil) 1885-1886. The first set of these collections went to Parke, Davis & Co., and is now at MICH. A second visit to Bolivia and Brazil took place on 1921-1922 (on the Mulford Biological Expedition); the first set of this trip is at NY. – Rusby travelled in the Orinoco valley and other parts of Venezuela in 1893 and 1896; in Mexico 1908-1910, Columbia 1917.
-(3) See under P.D. Knieskern for Rusby's role in securing the Knieskern herbarium.
+- (1) William Sanford Rusby (b. 1852), brother of H.H. Rusby, collected widely in the United States from 1873 until 1883 or later. His main collections went to Parke, Davis & Co., the herbarium of which is now at MICH (inf. H.H. Rusby to J.H. Barnhart, see Barnhart 2: 192).
+- (2) Henry H. Rusby collected for Parke, Davis & Co., Detroit in South America (search for cocaine), in Bolivia and Para and Terr. Rondonia (Brazil) 1885-1886. The first set of these collections went to Parke, Davis & Co., and is now at MICH. A second visit to Bolivia and Brazil took place on 1921-1922 (on the Mulford Biological Expedition); the first set of this trip is at NY. – Rusby travelled in the Orinoco valley and other parts of Venezuela in 1893 and 1896; in Mexico 1908-1910, Columbia 1917.
+- (3) See under P.D. Knieskern for Rusby's role in securing the Knieskern herbarium.
 
 #### Eponymy
 

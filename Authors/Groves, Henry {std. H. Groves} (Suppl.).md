@@ -14,7 +14,8 @@ Older brother of James Groves (1858-1933) (see below), with whom he published.
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (orig.), duplicates [[Collection E|E]], [[Collection EBH|EBH]], [[Collection GL|GL]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SLBI|SLBI]], etc. – *Exsiccatae* (with his brother James Groves): *Characeae Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]].
+[[Collection BM|BM]] (orig.), duplicates [[Collection E|E]], [[Collection EBH|EBH]], [[Collection GL|GL]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SLBI|SLBI]], etc.
+*Exsiccatae* (with his brother James Groves): *Characeae Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]].
 
 #### Bibliography and biography
 
@@ -36,8 +37,8 @@ APN p. 244; Backer p. 651; Barnhart 2: 92; BB p. 133; BL 2: 268, 662; BM 6: 413;
 
 #### Composite works
 
-(1) Editor, with his brother James, of C.C. Babington, *Man. Brit. bot.*, ed. 9. 1904 (see TL-2/1, nr. 216).
-(2) Characeae, with his brother James, *in* I. Urban, *Symb. antill.*... vol. 7(1), 15 Dec 1911 (see TL-2/6, nr. 15.687).
+- (1) Editor, with his brother James, of C.C. Babington, *Man. Brit. bot.*, ed. 9. 1904 (see TL-2/1, nr. 216).
+- (2) Characeae, with his brother James, *in* I. Urban, *Symb. antill.*... vol. 7(1), 15 Dec 1911 (see TL-2/6, nr. 15.687).
 
 ### Publications
 

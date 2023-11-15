@@ -27,9 +27,9 @@ Barnhart 3: 157 (b. 23 Sep 1868); BFM no. 986, 1110, 1690; Biol.-Dokum. 14: 7544
 
 #### Composite works
 
-(1) With G. Schröter (q.v.): *Botanische Exkursionen im Bedretto, Formazza*-, *und Bosco-Tal*, Zürich 1904.
-(2) *Marokko, in* G. Karsten & H. Schenck, *Vegetationsbilder*, 24. Reihe, Heft 4/5, *pl 19-30*, Jena 1934 (also: *Spanien* in 5. Reihe, Heft 6, *6 pl*. Jena 1907, n.v.).
-(3) O. Nägeli, *Fl. Zürich*, 1905-1912, TL-2/6619; bibliography and Pteridophyta by Rikli.
+- (1) With G. Schröter (q.v.): *Botanische Exkursionen im Bedretto, Formazza*-, *und Bosco-Tal*, Zürich 1904.
+- (2) *Marokko, in* G. Karsten & H. Schenck, *Vegetationsbilder*, 24. Reihe, Heft 4/5, *pl 19-30*, Jena 1934 (also: *Spanien* in 5. Reihe, Heft 6, *6 pl*. Jena 1907, n.v.).
+- (3) O. Nägeli, *Fl. Zürich*, 1905-1912, TL-2/6619; bibliography and Pteridophyta by Rikli.
 
 #### Eponymy
 

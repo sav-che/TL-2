@@ -21,9 +21,9 @@ BL 2: 434, 706; Biol.-Dokum. 14: 7343; BM 4: 1660, 8: 1055-1056; CSP 18: 88; Hir
 
 #### Composite works
 
-(1) Editor of *Flora and fauna der Zuiderzee*. Monographie van een brakwatergebied, Den Helder 1922, publ 1923, p. \[i\]-viii, \[1\]-460. Botany, by A.C.J. van Goor, on p. 47-123. *Copies*: BR, HH, MO, PH, USDA. – Supplement 1936, viii, 176, 82 p. *Copies*: id.
-(2) With Julie L. Hoek, *Fl. Helder* 1901, TL-2/2868.
-(3) With G.M. de Lint and A.C.J. van Goor, *Prodromus eener flora en fauna van het Nederlandsche Zoet – en Brakwaterplankton*, overgedrukt uit: Verhandelingen en rapporten uitgegeven door de Rijksinstituten voor Visscherijonderzoek. Deel I. Afl. 2: 95-137. 1922 (reprinted with special cover and orig. pag., copy: U).
+- (1) Editor of *Flora and fauna der Zuiderzee*. Monographie van een brakwatergebied, Den Helder 1922, publ 1923, p. \[i\]-viii, \[1\]-460. Botany, by A.C.J. van Goor, on p. 47-123. *Copies*: BR, HH, MO, PH, USDA. – Supplement 1936, viii, 176, 82 p. *Copies*: id.
+- (2) With Julie L. Hoek, *Fl. Helder* 1901, TL-2/2868.
+- (3) With G.M. de Lint and A.C.J. van Goor, *Prodromus eener flora en fauna van het Nederlandsche Zoet – en Brakwaterplankton*, overgedrukt uit: Verhandelingen en rapporten uitgegeven door de Rijksinstituten voor Visscherijonderzoek. Deel I. Afl. 2: 95-137. 1922 (reprinted with special cover and orig. pag., copy: U).
 
 #### Festschrift
 

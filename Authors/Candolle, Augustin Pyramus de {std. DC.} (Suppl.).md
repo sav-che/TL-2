@@ -11,8 +11,8 @@
 #### Herbarium and types
 
 [[Collection G|G]], [[Collection G|G]]-DC (Prodromus herb.). – Further material at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection DBN|DBN]], [[Collection FI|FI]], [[Collection H|H]] (herb. Steven, 600 specimens of 1818-1820), [[Collection LE|LE]], [[Collection M|M]], [[Collection MP|MP]], [[Collection MPU|MPU]], [[Collection P|P]], ([[Collection PC|PC]], [[Collection P|P]]-JU, [[Collection P|P]]-LA), [[Collection PH|PH]], [[Collection PR|PR]].
-(1) *Prodromus* herbarium on microfiche IDC 2562.
-(2) A.P. de Candolle acquired duplicates of Musci directly from Hedwig, see sub Hedwig, Herbarium and Types.
+- (1) *Prodromus* herbarium on microfiche IDC 2562.
+- (2) A.P. de Candolle acquired duplicates of Musci directly from Hedwig, see sub Hedwig, Herbarium and Types.
 
 #### Bibliography and biography
 
@@ -20,8 +20,8 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Backer p. 100; Barnhart 1: 306; BJI 2
 
 #### Notes
 
-(1) In the treatment of the publications of A.P. de Candolle (as an experiment) we have inserted a number of publications in journal issues even when we have seen no reprint. (using Tucker 1, 1914. – All publ. listed by Tucker are at HH).
-(2) Review by Antonio Bertoloni on A.P. de Candolle, *Revue de la famille des Cactées* 1829, TL-2/1010, in an unidentified reprint, p. 207-256, \[1830 ?\], copy at MO. We have not found the original Italian journal.
+- (1) In the treatment of the publications of A.P. de Candolle (as an experiment) we have inserted a number of publications in journal issues even when we have seen no reprint. (using Tucker 1, 1914. – All publ. listed by Tucker are at HH).
+- (2) Review by Antonio Bertoloni on A.P. de Candolle, *Revue de la famille des Cactées* 1829, TL-2/1010, in an unidentified reprint, p. 207-256, \[1830 ?\], copy at MO. We have not found the original Italian journal.
 
 #### Biofile
 
@@ -161,11 +161,11 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Backer p. 100; Barnhart 1: 306; BJI 2
 
 #### Composite works
 
-(1) L'Herbier de Gaspard Bauhin, déterminé par A.P. de Candolle... L'Herbier Boissier 1904, published by Casimir de Candolle, q.v.
-(2) Collaborator with Lamarck, see TL-2/4136, *Encyclopédie méthodique Botanique*.
-(3) A.P. de Candolle acquired the herbarium of L'Héritier (see TL-2/3: 1) containing ca. 8000 species. This was the basis of A.P. de C.'s private herbarium.
-(4) See Delessert, J.P.B., *Icones selectae plantarum*, TL-2/1301 for A.P. de Candolle's important participation. – See e.g. D.F.L. von Schlechtendal, Bot. Zeit. 5(11): 187-188. 17 Mar 1847.
-(5) See H.W. Buek, *Genera, species et synonyma Candolleana* 1840-1874, TL-2/899.
+- (1) L'Herbier de Gaspard Bauhin, déterminé par A.P. de Candolle... L'Herbier Boissier 1904, published by Casimir de Candolle, q.v.
+- (2) Collaborator with Lamarck, see TL-2/4136, *Encyclopédie méthodique Botanique*.
+- (3) A.P. de Candolle acquired the herbarium of L'Héritier (see TL-2/3: 1) containing ca. 8000 species. This was the basis of A.P. de C.'s private herbarium.
+- (4) See Delessert, J.P.B., *Icones selectae plantarum*, TL-2/1301 for A.P. de Candolle's important participation. – See e.g. D.F.L. von Schlechtendal, Bot. Zeit. 5(11): 187-188. 17 Mar 1847.
+- (5) See H.W. Buek, *Genera, species et synonyma Candolleana* 1840-1874, TL-2/899.
 
 ### Publications
 

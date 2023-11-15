@@ -8,7 +8,8 @@ Holmes, Edward Morell (1843-1930), British pharmaceutical botanist and algologis
 
 #### Herbarium and types
 
-[[Collection PHA|PHA]] (British phanerogams), [[Collection NMW|NMW]] (hepatics), [[Collection BIRM|BIRM]] (algae), [[Collection NOT|NOT]] (lichens). Other lichens at [[Collection BM|BM]] and [[Collection DOR|DOR]]; other cryptogams at [[Collection CGE|CGE]]. Exsiccatae: *Algae britannicae rariores exsiccatae* (fasc. 1-12, ed. 1883-1910, nos. 1-312, partly with E.A.L. Batters) sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection TCD|TCD]] (see Sayre 1969). Letters at [[Collection K|K]] and [[Collection LINN|LINN]].
+[[Collection PHA|PHA]] (British phanerogams), [[Collection NMW|NMW]] (hepatics), [[Collection BIRM|BIRM]] (algae), [[Collection NOT|NOT]] (lichens). Other lichens at [[Collection BM|BM]] and [[Collection DOR|DOR]]; other cryptogams at [[Collection CGE|CGE]].
+*Exsiccatae*: *Algae britannicae rariores exsiccatae* (fasc. 1-12, ed. 1883-1910, nos. 1-312, partly with E.A.L. Batters) sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection TCD|TCD]] (see Sayre 1969). Letters at [[Collection K|K]] and [[Collection LINN|LINN]].
 *Ref*.: Britten, J., J. Bot. 45: 79-80. 1907 (description of H's algae herbarium, now at BIRM).
 - Kent, D. H., Brit. herb. 60. 1957.
 - Sayre, G., Mem New York Bot. Gard. 19: 80-81. 1969.

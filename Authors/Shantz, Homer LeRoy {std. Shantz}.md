@@ -30,7 +30,7 @@ Barnhart 3: 265 (b. 24 Jan 1876, d. 23 Jun 1958); BL 1: 17, 318; BM 4: 1904, 8: 
 
 #### Composite works
 
-(1) *Plant communities in Utah and Nevada*, in I. Tidestrom, Fl. Utah Nevada 15-23. 1925.
+- (1) *Plant communities in Utah and Nevada*, in I. Tidestrom, Fl. Utah Nevada 15-23. 1925.
 
 #### Eponymy
 

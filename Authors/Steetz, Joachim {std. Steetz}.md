@@ -24,11 +24,11 @@ Barnhart 3: 320 (b. 12 Nov 1804, d. 24 Mar 1862); Biol.-Dokum. 17: 8881; BM 5: 2
 
 #### Composite works
 
-(1) *Trigonopterum* Steetz ex N.J. Andersson, K. Vet. Acad. Handl. 1853: 183. ca. 7 Sep 1854.
-(2) Contributed to W. Peters, *Naturw. Reise Mossambique* 1862-1864. TL-2/7759.
-(3) Contributed to Ri. Schomburgk, *Vers. Fauna Fl. Brit*.-*Guiana* 1848. TL-2/11.016.
-(4) *Büttneriaceae, in* J.G.C. Lehmann, *Pl. Preiss*. 2: 316-335. 1848. TL-2/4332.
-(5) *Genus novum*... denuo exposuit Joachim Steetz. *Fleischeria... in* J.G.C. Lehmann, Pl. Preiss. 2: \[365\]-367. 2-5 Aug 1848 (see TL-2/4332), reprinted s.l.n.d. with pagination \[50\]-52, *copy*: HH.
+- (1) *Trigonopterum* Steetz ex N.J. Andersson, K. Vet. Acad. Handl. 1853: 183. ca. 7 Sep 1854.
+- (2) Contributed to W. Peters, *Naturw. Reise Mossambique* 1862-1864. TL-2/7759.
+- (3) Contributed to Ri. Schomburgk, *Vers. Fauna Fl. Brit*.-*Guiana* 1848. TL-2/11.016.
+- (4) *Büttneriaceae, in* J.G.C. Lehmann, *Pl. Preiss*. 2: 316-335. 1848. TL-2/4332.
+- (5) *Genus novum*... denuo exposuit Joachim Steetz. *Fleischeria... in* J.G.C. Lehmann, Pl. Preiss. 2: \[365\]-367. 2-5 Aug 1848 (see TL-2/4332), reprinted s.l.n.d. with pagination \[50\]-52, *copy*: HH.
 
 #### Eponymy
 

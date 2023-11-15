@@ -8,10 +8,11 @@ Lechler, Wilibald (1814-1856), German pharmacist, botanist and explorer; studied
 
 #### Herbarium and types
 
-[[Collection MB|MB]]. – Further material at [[Collection E|E]], [[Collection G|G]], [[Collection GFW|GFW]], [[Collection H|H]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destroyed), [[Collection P|P]], [[Collection TCD|TCD]], [[Collection TUB|TUB]], [[Collection W|W]], [[Collection Z|Z]]. *Exsiccatae*: (1) *Plantae chilenses* (col. 1850-1853), sets see IH.
-(2) *Plantae insularum maclovianarum* 1853, ed. R. F. Hohenacker, plants from the Falkland Islands (Iles Malouines, after the French town St. Malo, classical name Maclovium), sets see IH.
+[[Collection MB|MB]]. – Further material at [[Collection E|E]], [[Collection G|G]], [[Collection GFW|GFW]], [[Collection H|H]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destroyed), [[Collection P|P]], [[Collection TCD|TCD]], [[Collection TUB|TUB]], [[Collection W|W]], [[Collection Z|Z]].
+*Exsiccatae*: (1) *Plantae chilenses* (col. 1850-1853), sets see IH.
+- (2) *Plantae insularum maclovianarum* 1853, ed. R. F. Hohenacker, plants from the Falkland Islands (Iles Malouines, after the French town St. Malo, classical name Maclovium), sets see IH.
 ('3) *Plantae magellanicae* (col. 1850-1853), sets see IH.
-(4) *Plantae peruvianae*, ed. R. F. Hohenacker (col. 1850-1853), sets see IH.
+- (4) *Plantae peruvianae*, ed. R. F. Hohenacker (col. 1850-1853), sets see IH.
 *Ref*.: Schlechtendal, D. F. L. v., Bot. Zeit. 16: 19. 1858, Bull. Soc. bot. France 4: 848. 1858.
 - Candolle, A. de, Phytographie 426. 1880.
 - Sayre, Mem. New York Bot. Gard. 19(1): 32-33. 1969, 19(3): 356-357. 1975.

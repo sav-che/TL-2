@@ -29,8 +29,8 @@ ADB 40: 769-770; AG 2(1): 730; Backer p. 663; Barnhart 3: 455 (b. 26 Dec 1816, d
 
 #### Composite works
 
-(1) Translation, *Über die geometrische Anordnung der Blätter und der Blüthenstande* von L. und A. Bravais, Breslau 1839 (originally published in Ann. Sci. nat., Bot. with additional material; for further details see Cat. gén. livr. impr. Bibl. natl. 217: 729-730. 1973). – Also W.G. Walpers, *Verzeichniss der in meiner Übersetzung der Bravais' schen Arbeit über Blatt- und Blüthenstellung befindlichen Irrthümer*, Berlin 1840 (n.v.).
-(2) *Cruciferas, Capparideas, Calycereas* et *Compositas*, quas Meyenius in orbis circumnavigatione collegit enumerat novasque describit G. Walpers, *in* F.J.F. Meyen, *Observ. bot.* Dec 1843, TL-2/5895, Nova Acta Leop. 17(2) \[19(1)\], 247-296. Also repaginated p. \[1\]-48 as part of a large reprint p. \[1\]-247 \[*copy*: G\] corresponding with p. 249-495 of the Meyen publication, in which Meyen also treated Dicotyledoneae Thalamiflorae on p. 297-424.
+- (1) Translation, *Über die geometrische Anordnung der Blätter und der Blüthenstande* von L. und A. Bravais, Breslau 1839 (originally published in Ann. Sci. nat., Bot. with additional material; for further details see Cat. gén. livr. impr. Bibl. natl. 217: 729-730. 1973). – Also W.G. Walpers, *Verzeichniss der in meiner Übersetzung der Bravais' schen Arbeit über Blatt- und Blüthenstellung befindlichen Irrthümer*, Berlin 1840 (n.v.).
+- (2) *Cruciferas, Capparideas, Calycereas* et *Compositas*, quas Meyenius in orbis circumnavigatione collegit enumerat novasque describit G. Walpers, *in* F.J.F. Meyen, *Observ. bot.* Dec 1843, TL-2/5895, Nova Acta Leop. 17(2) \[19(1)\], 247-296. Also repaginated p. \[1\]-48 as part of a large reprint p. \[1\]-247 \[*copy*: G\] corresponding with p. 249-495 of the Meyen publication, in which Meyen also treated Dicotyledoneae Thalamiflorae on p. 297-424.
 
 #### Eponymy
 

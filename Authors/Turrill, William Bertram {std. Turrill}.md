@@ -31,25 +31,25 @@ Barnhart 3: 410 (b. 14 Jun 1890); BFM 3271; Biol.-Dokum. 18: 9420; BJI 2: 180; B
 
 #### Composite works
 
-(1) *Cyperaceae, in* A.H. Wolley-Dod, *A flora of Gibraltar* (J. Bot., London 52, suppl.:) 109-110. 1914.
-(2) *Centrolepidaceae* and (with O. Stapf) *Cyperaceae, in* L.S. Gibbs, *Fl. Mt. Kinabalu*, J. Linn. Soc., Bot. 42: 172-185.
-(3) *Onosma, in* N. Stoianoff and B. Stefanoff, *Flore de Bulgarie*, Annu. Arch. Agric. Bulg. 5: 914-916. 1924.
-(4) *Cyperaceae*, with R.N. Parker, *in* Duthie, *Fl. Upper Gang. Pl*. 3(3): 320-371. 1929.
-(5) *Ranunculaceae*, with E. Milne Redhead, in *Fl. trop. East Africa* (ed. Turrill), 1952.
-(6) *Oleaceae, in* id., 1952.
-(7) With E.M. Marsden-Jones, *British Knapweeds*, a study in synthetic taxonomy, London 1954, 201 p., *27 pl*.
-(8) With id., *The Bladder Campions*, London 1957, ix, 378 p. *55 pl*.
-(9) Editor, *Vistas in Botany*, vols. 1-4, 1959-1964.
-(10) Editor, with E. Milne-Redhead, *Fl. trop. East Africa* 1952-1961 (see Taxon 1: 63. 1952).
+- (1) *Cyperaceae, in* A.H. Wolley-Dod, *A flora of Gibraltar* (J. Bot., London 52, suppl.:) 109-110. 1914.
+- (2) *Centrolepidaceae* and (with O. Stapf) *Cyperaceae, in* L.S. Gibbs, *Fl. Mt. Kinabalu*, J. Linn. Soc., Bot. 42: 172-185.
+- (3) *Onosma, in* N. Stoianoff and B. Stefanoff, *Flore de Bulgarie*, Annu. Arch. Agric. Bulg. 5: 914-916. 1924.
+- (4) *Cyperaceae*, with R.N. Parker, *in* Duthie, *Fl. Upper Gang. Pl*. 3(3): 320-371. 1929.
+- (5) *Ranunculaceae*, with E. Milne Redhead, in *Fl. trop. East Africa* (ed. Turrill), 1952.
+- (6) *Oleaceae, in* id., 1952.
+- (7) With E.M. Marsden-Jones, *British Knapweeds*, a study in synthetic taxonomy, London 1954, 201 p., *27 pl*.
+- (8) With id., *The Bladder Campions*, London 1957, ix, 378 p. *55 pl*.
+- (9) Editor, *Vistas in Botany*, vols. 1-4, 1959-1964.
+- (10) Editor, with E. Milne-Redhead, *Fl. trop. East Africa* 1952-1961 (see Taxon 1: 63. 1952).
 
 #### Note
 
 Major works published after our closing date:
-(1) *British plant life*, London 1948, xvii, 315 p., *24 pl*.
-(2) *Pioneer plant geography*. The phytogeographical researches of Sir Joseph Dalton Hooker, The Hague 1953, xii, 267 p., *21 pl*.
-(3) *The Royal Botanic Gardens Kew*, past and present, London 1959, 256 p., map, *16 pl*.
-(4) *Joseph Dalton Hooker, botanist, explorer and administrator*, London 1963, xi, 228 p. – British men of science.
-(5) With J.R. Sealy, *Studies in the genus Fritillaria*, Hooker's Icones plantarum 39(1, 2), 1980, iv, 280 p.
+- (1) *British plant life*, London 1948, xvii, 315 p., *24 pl*.
+- (2) *Pioneer plant geography*. The phytogeographical researches of Sir Joseph Dalton Hooker, The Hague 1953, xii, 267 p., *21 pl*.
+- (3) *The Royal Botanic Gardens Kew*, past and present, London 1959, 256 p., map, *16 pl*.
+- (4) *Joseph Dalton Hooker, botanist, explorer and administrator*, London 1963, xi, 228 p. – British men of science.
+- (5) With J.R. Sealy, *Studies in the genus Fritillaria*, Hooker's Icones plantarum 39(1, 2), 1980, iv, 280 p.
 
 #### Eponymy
 

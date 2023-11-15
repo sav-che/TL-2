@@ -21,8 +21,8 @@ Barnhart 1: 279; BM 1: 284; Kew 1: 416; PR 1349, ed. 1: 1540; Rehder 2: 506.
 
 #### Notes
 
-(1) J.G. Bujack, *Naturgeschichte der höheren Thiere* mit besonderer Berücksichtigung der Fauna Prussica, Königsberg 1837, p. xx, 427, *2 pl*.
-(2) J.G. Bujack, *Die geographische Verbreitung des Weinstocks* mit Rücksicht auf den Weinbau in Preussen während der Herrschaft des deutschen Ordens, Vortr. Geb. Naturw. Oekon. 1: 33-58. 1834 (fide Rehder).
+- (1) J.G. Bujack, *Naturgeschichte der höheren Thiere* mit besonderer Berücksichtigung der Fauna Prussica, Königsberg 1837, p. xx, 427, *2 pl*.
+- (2) J.G. Bujack, *Die geographische Verbreitung des Weinstocks* mit Rücksicht auf den Weinbau in Preussen während der Herrschaft des deutschen Ordens, Vortr. Geb. Naturw. Oekon. 1: 33-58. 1834 (fide Rehder).
 
 ### Publications
 

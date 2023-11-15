@@ -33,8 +33,8 @@ APN p. 242; Backer p. 244; Barnhart 2: 84; BL 1: 251, 298; BM 2: 733, 6: 409; BN
 #### Composite works
 
 Edited:
-(1) *Rumphius Gedenkboek*: *1702-1902*... 1902 (TL-2/4: 986-989); and
-(2) *Nieuw plantk. woordenb. Ned.-Indië*... ed. 1, 1909 (see TL-2/4, nr. 8391 and Suppl. 4, nr. 26.618), a posthumous publication by Frederik Sigismund Alexander de Clercq (1842-1906) that was also republished by A.A. Pulle in 1927.
+- (1) *Rumphius Gedenkboek*: *1702-1902*... 1902 (TL-2/4: 986-989); and
+- (2) *Nieuw plantk. woordenb. Ned.-Indië*... ed. 1, 1909 (see TL-2/4, nr. 8391 and Suppl. 4, nr. 26.618), a posthumous publication by Frederik Sigismund Alexander de Clercq (1842-1906) that was also republished by A.A. Pulle in 1927.
 
 ### Publications
 

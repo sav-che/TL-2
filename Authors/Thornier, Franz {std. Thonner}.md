@@ -25,8 +25,8 @@ Barnhart 3: 379; BFM 2307; BJI 2: 177; BL 1: 17, 321; BM 5: 2101, 8: 1304; Rehde
 
 #### Composite works
 
-(1) E.A.J. De Wildeman & Th. Durand, *Plantae thonnerianae congolenses*, ou énumération des plantes récoltées en 1896 par Fr. Thonner dans le district des Bangalas. Bruxelles (Schepens & Cie.) 1900, p. \[i\]-xx, \[1\]-49, *23 pl*. with text, \[51-53, index\]. *Copies*: BR, M, NSUB, USDA. – *Introduction* by Thonner. – See Wagner, Bot. Centralbl. 87: 177-182. 1901 (extensive extract).
-(2) E.AJ. De Wildeman, *Études sur la flore des districts des Bangala et de l'Ubangi* (Congo Belge). *Plantae Thonnerianae congolenses ii*., Bruxelles (Misch & Thron) Jul 1911, p. \[i\]-xvii, map, p. \[1\]-465, \[1, err.\], *pl. 1-20* with text. *Copies*: BR.
+- (1) E.A.J. De Wildeman & Th. Durand, *Plantae thonnerianae congolenses*, ou énumération des plantes récoltées en 1896 par Fr. Thonner dans le district des Bangalas. Bruxelles (Schepens & Cie.) 1900, p. \[i\]-xx, \[1\]-49, *23 pl*. with text, \[51-53, index\]. *Copies*: BR, M, NSUB, USDA. – *Introduction* by Thonner. – See Wagner, Bot. Centralbl. 87: 177-182. 1901 (extensive extract).
+- (2) E.AJ. De Wildeman, *Études sur la flore des districts des Bangala et de l'Ubangi* (Congo Belge). *Plantae Thonnerianae congolenses ii*., Bruxelles (Misch & Thron) Jul 1911, p. \[i\]-xvii, map, p. \[1\]-465, \[1, err.\], *pl. 1-20* with text. *Copies*: BR.
 
 #### Handwriting
 

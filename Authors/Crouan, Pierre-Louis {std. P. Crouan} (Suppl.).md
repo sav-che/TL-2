@@ -33,8 +33,8 @@ Barnhart 1: 399 (b. 27 Apr 1789, Brest, d. 19 Nov 1871, Brest); BL 2: 148, 644; 
 
 #### Note
 
-(1): Crouan, P.L. and H.M. Crouan, TL-2/1280, also on IDC microfiche B-63/2.
-(2): Both Crouans have new species in C. Roumeguère xiv, *Centurie d'Algues des eaux* *douces et submarines de France*.
+- (1): Crouan, P.L. and H.M. Crouan, TL-2/1280, also on IDC microfiche B-63/2.
+- (2): Both Crouans have new species in C. Roumeguère xiv, *Centurie d'Algues des eaux* *douces et submarines de France*.
 
 ### Publications
 

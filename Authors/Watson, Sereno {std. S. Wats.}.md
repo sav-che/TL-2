@@ -44,10 +44,10 @@ Barnhart 3: 465; BJI 1: 62; BL 2: 86, 152, 153, 160, 161; BM 1: 711, 5: 2273, 8:
 
 #### Composite works
 
-(1) With J.T. Rothrock, *Cat. pl.* 1874, see TL-2/9657, Watson author of text on p. 5-19. *Copies*: G, HH, NY, PH, US(2), USDA.
-(2) With J.T. Rothrock et al., *Rep. U.S. geogr. surv., Wheeler* 1878 (publ. Jun-Aug 1879), see TL-2/9658.
-(3) With A.Gray and B.L. Robinson, *Syn. fl. N. Amer.* 1(1). 1895, see TL-2/2132.
-(4) Co-author A. Gray, *Manual* ed. 6. 1890, see TL-2/2124.
+- (1) With J.T. Rothrock, *Cat. pl.* 1874, see TL-2/9657, Watson author of text on p. 5-19. *Copies*: G, HH, NY, PH, US(2), USDA.
+- (2) With J.T. Rothrock et al., *Rep. U.S. geogr. surv., Wheeler* 1878 (publ. Jun-Aug 1879), see TL-2/9658.
+- (3) With A.Gray and B.L. Robinson, *Syn. fl. N. Amer.* 1(1). 1895, see TL-2/2132.
+- (4) Co-author A. Gray, *Manual* ed. 6. 1890, see TL-2/2124.
 
 #### Handwriting
 
@@ -123,7 +123,7 @@ United States geological exploration of the 40th parallel. Clarence King, U.S. G
 *Copies*: BR, G, HH, K, MO, NY, US.
 *Ed. 2 of vol. 1*: 1880 (issued simultaneously with vol. 2; minor corrections; major additions in vol. 2), p. \[i\]-xx, \[1\]-628. *Copies*: BR, MO.
 *Note* (1) Referred to in other papers as *Botany of California*.
-(2) J.W. Landon informs us that preprints of the contributions by Michael Schuck Bebb (2: 82-90) were available on 10 Jul 1879; id. by G. Engelmann (2: 93-99, 104-107) on 1 Oct 1879.
+- (2) J.W. Landon informs us that preprints of the contributions by Michael Schuck Bebb (2: 82-90) were available on 10 Jul 1879; id. by G. Engelmann (2: 93-99, 104-107) on 1 Oct 1879.
 
 ##### n.16.816. Bibliographical index to North American botany
 

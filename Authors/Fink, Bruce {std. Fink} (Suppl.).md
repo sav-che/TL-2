@@ -47,8 +47,8 @@ Additional information on *Lich. fl. U.S.*... 1935 (TL-2/1, nr. 1780): *Co-autho
 
 #### Composite works
 
-(1) "Lichenes" *in* E.L. Greene et al., *Pl. baker.* 1(1): 37-38 (1901) were "Determined by Prof. Bruce Fink" (see also TL-2/1, nr. 2142).
-(2) Assoc. ed. (1909-?), *Mycologia*, from the inception of the journal.
+- (1) "Lichenes" *in* E.L. Greene et al., *Pl. baker.* 1(1): 37-38 (1901) were "Determined by Prof. Bruce Fink" (see also TL-2/1, nr. 2142).
+- (2) Assoc. ed. (1909-?), *Mycologia*, from the inception of the journal.
 
 ### Publications
 

@@ -28,10 +28,10 @@ Backer p. 660; Barnhart 3: 223 (b. 1 Aug 1799, d. 24 Sep 1861); Biol.-Dokum. 15:
 
 #### Composite works
 
-(1) Co-editor with C. Lemaire & L. Van Houtte of *Flore des serres et des jardins de l'Europe*, 1845-1855, vols. 1-10.
-(2) Editor, *Journal d'horticulture pratique*, vols. 1-5, 1843-1848.
-(3) J. Schleiden, *La plante et sa vie*, 1859, translated by M. Scheidweiler and P. Royer, see under Schleiden.
-(4) Editor, "*L'Horticulteur belge*, journal des jardiniers et des amateurs;..." vol. 4. 1837.
+- (1) Co-editor with C. Lemaire & L. Van Houtte of *Flore des serres et des jardins de l'Europe*, 1845-1855, vols. 1-10.
+- (2) Editor, *Journal d'horticulture pratique*, vols. 1-5, 1843-1848.
+- (3) J. Schleiden, *La plante et sa vie*, 1859, translated by M. Scheidweiler and P. Royer, see under Schleiden.
+- (4) Editor, "*L'Horticulteur belge*, journal des jardiniers et des amateurs;..." vol. 4. 1837.
 
 #### Eponymy
 

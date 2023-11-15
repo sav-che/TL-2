@@ -8,7 +8,8 @@ Gravet, Pierre Joseph Frédéric (1827-1907), Belgian bryologist.
 
 #### Herbarium and types
 
-[[Collection BR|BR]]. – Exsiccatae:
+[[Collection BR|BR]].
+*Exsiccatae*:
 1. *Sphagnotheca belgica, herbier des sphaignes de Belgique* (fasc. 1, nos. 1-70, Louette-Saint-Pierre 1876), sets at [[Collection BR|BR]], [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
 2. *Bryotheca belgica, herbier des mousses de Belgique*. (Musci: fasc. i-viii, nos. 1-383, Louette-Saint-Pierre, 1873-1875; Hepaticae \[not seen by Sayre\] nos. 1-100, 1872-1875) sets of musci at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PC|PC]]. (Flora 57: 79).
 See Delogne for *Les mousses de l'Arderme*, 4 fasc.

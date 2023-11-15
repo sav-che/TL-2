@@ -10,8 +10,9 @@ Fellman, Nils Isak (1841-1919), Finnish magistrate and botanist.
 
 #### Herbarium and types
 
-[[Collection H|H]]. — Exsiccatae: (1) *Lichenes arctici collecti aestate 1863 in Lapponia orientali* (with W. Nylander) (nos. 1-224, Helsingfors 1865), sets at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection K|K]], [[Collection NY|NY]].
-(2) *Plantae arcticae exsiccatae, in Lapponia orientali collectae* (fasc. i-iv, nos. 1-370, Helsingfors 1864), sets at [[Collection LE|LE]], [[Collection P|P]].
+[[Collection H|H]].
+*Exsiccatae*: (1) *Lichenes arctici collecti aestate 1863 in Lapponia orientali* (with W. Nylander) (nos. 1-224, Helsingfors 1865), sets at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection K|K]], [[Collection NY|NY]].
+- (2) *Plantae arcticae exsiccatae, in Lapponia orientali collectae* (fasc. i-iv, nos. 1-370, Helsingfors 1864), sets at [[Collection LE|LE]], [[Collection P|P]].
 *Ref*.: IH 2: 193; Saelan p. 575.
 - Fellmann, Bull. Soc. bot. France 10: 495-502. 1863 (letter to Nylander on Lapland trip).
 - Stizenberger, Hedwigia 4: 127-128. 1865.

@@ -49,11 +49,11 @@ AG 2(2): 61, 4: 569; Ainsworth p. 62, 313; Backer p. 494; Barnhart 3: 151 (b. 4 
 
 #### Composite works
 
-(1) For Richard's share in the compilation of A. Michaux, *Flora boreali-americana* 1803, see TL-2/5958. See also Vitt and Horton (1981) for further notes on Richard's rôle in compiling the bryophyte part.
-(2) Edited ed. 4 of J.B.F. Bulliard, *Dict. élém. bot.*, 1798, see TL-2/910, see below *Dict. élém. bot.* 1798.
-(3) Contributed several descriptions of species of Melastomataceae and Rhexiae to Humboldt, A. & A. Bonpland, Monogr. Melast., TL-2/3142.
-(4) Contributed to *Nouv. Dict. Hist. nat.* ed. 2, 1816-1817.
-(5) *A botanical dictionary*, being a translation from the French of Louis-Claude Richard, ... with additions from Martyn, Smith, Milne, Wildenow \[sic\], Acharius, &c. New Haven (printed by Nathan Whiting) 1816. Duod. (in sixes), p. \[i\]-vi, \[7\]-14, sign. b10-o12. *Copy*: HH. – By Amos Eaton (1776-1842), see TL-2/1615 (in this entry we did not note the existence of this 1816 edition).
+- (1) For Richard's share in the compilation of A. Michaux, *Flora boreali-americana* 1803, see TL-2/5958. See also Vitt and Horton (1981) for further notes on Richard's rôle in compiling the bryophyte part.
+- (2) Edited ed. 4 of J.B.F. Bulliard, *Dict. élém. bot.*, 1798, see TL-2/910, see below *Dict. élém. bot.* 1798.
+- (3) Contributed several descriptions of species of Melastomataceae and Rhexiae to Humboldt, A. & A. Bonpland, Monogr. Melast., TL-2/3142.
+- (4) Contributed to *Nouv. Dict. Hist. nat.* ed. 2, 1816-1817.
+- (5) *A botanical dictionary*, being a translation from the French of Louis-Claude Richard, ... with additions from Martyn, Smith, Milne, Wildenow \[sic\], Acharius, &c. New Haven (printed by Nathan Whiting) 1816. Duod. (in sixes), p. \[i\]-vi, \[7\]-14, sign. b10-o12. *Copy*: HH. – By Amos Eaton (1776-1842), see TL-2/1615 (in this entry we did not note the existence of this 1816 edition).
 
 #### Eponymy
 

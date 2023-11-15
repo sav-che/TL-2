@@ -8,7 +8,8 @@ Toepffer, Adolph (1853-1931), German (Prussian/Brandenburg) botanist; originally
 
 #### Herbarium and types
 
-[[Collection M|M]] (especially Salix 1890-1925); other material at [[Collection E|E]] (Germany), [[Collection W|W]] (Germany) – and [[Collection Z|Z]] (Australia). – *Exsiccatae*: *Salicetum exsiccatum* fasc. 1-15, nos. 1-772, 1906-1929. Sets at [[Collection A|A]], [[Collection BM|BM]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection M|M]], [[Collection MANCH|MANCH]]. For text see below. – An early herbarium was offered for sale in 1886 (Flora 69: 80. 1886). Toepffer offered herbarium specimens for sale as early as 1882 (Bot. Zeit. 40: 144. 1882). These included H.F.A. von Eggers, *Fl. ind. occ. exsicc.* nos. 1-1600, 1881-1885; see under Eggers (TL-2/1: 726). – *Letters* at [[Collection G|G]], [[Collection GH|GH]], [[Collection UPS|UPS]]-UB.
+[[Collection M|M]] (especially Salix 1890-1925); other material at [[Collection E|E]] (Germany), [[Collection W|W]] (Germany) – and [[Collection Z|Z]] (Australia).
+*Exsiccatae*: *Salicetum exsiccatum* fasc. 1-15, nos. 1-772, 1906-1929. Sets at [[Collection A|A]], [[Collection BM|BM]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection M|M]], [[Collection MANCH|MANCH]]. For text see below. – An early herbarium was offered for sale in 1886 (Flora 69: 80. 1886). Toepffer offered herbarium specimens for sale as early as 1882 (Bot. Zeit. 40: 144. 1882). These included H.F.A. von Eggers, *Fl. ind. occ. exsicc.* nos. 1-1600, 1881-1885; see under Eggers (TL-2/1: 726). – *Letters* at [[Collection G|G]], [[Collection GH|GH]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 

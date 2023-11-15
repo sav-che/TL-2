@@ -44,12 +44,12 @@ Barnhart 1: 452 (b. 23 Nov 1812, Aberdeen, d. 15 Jul 1882, ib.); BB p. 90; BL 2:
 
 #### Composite works
 
-(1) Dr. *Dickie*, gave *Notes on the Algae* in Peter Cormack (1822-1900), Journal of a voyage in Baffin's Bay and Barrow Straits, in... 1850-1851... in search of the missing crews of H.M. Ships Erebus and Terror: with... observations on the natural history ... London 1852, Vol. 2, appendix *Botany*, *Notes on the Algae* by Dr. Dickie. – See BM 5: 2052.
-(2) Sir Edward Augustus Inglefield (1820-1894), A *summer search* \[in 1852 in the Isabel\] for Sir J. Franklin; with a peep into the *Polar Basin*... With short notices by Prof. *Dickie* (p. 133-144), on the *Botany*,... London, p. \[i\]-xxi, \[1\]-232, *4 pl*. (col.), 1 map. 1853. *Copies*: BM, HH. – See BM 2: 906.
-(3) H.W. Feilden (ed.), *Narrative of a voyage* to the *Polar Sea* during 1875-76 in H.M. Ships "Alert" and "Discovery", ed. 2, vol. 2, no 14 Botany, G. Dickie dealt with the *Algae* and *Diatomaceae*. *Copy*: BM. – See BM 2: 562.
-(4) *Freshwater Algae* in Robert Brown, *Florula Discoana*... Trans. Bot. Soc. Edinburgh 9: 462-464. 1868.
-(5) *Freshwater Algae* in Manual of the natural history, geology and physics of Greenland 782 pp., London.
-(6) *Marine Algae* in Philos. Trans. Roy. Soc. London 168 (extra volume): 53-62, 415-419. 1879.
+- (1) Dr. *Dickie*, gave *Notes on the Algae* in Peter Cormack (1822-1900), Journal of a voyage in Baffin's Bay and Barrow Straits, in... 1850-1851... in search of the missing crews of H.M. Ships Erebus and Terror: with... observations on the natural history ... London 1852, Vol. 2, appendix *Botany*, *Notes on the Algae* by Dr. Dickie. – See BM 5: 2052.
+- (2) Sir Edward Augustus Inglefield (1820-1894), A *summer search* \[in 1852 in the Isabel\] for Sir J. Franklin; with a peep into the *Polar Basin*... With short notices by Prof. *Dickie* (p. 133-144), on the *Botany*,... London, p. \[i\]-xxi, \[1\]-232, *4 pl*. (col.), 1 map. 1853. *Copies*: BM, HH. – See BM 2: 906.
+- (3) H.W. Feilden (ed.), *Narrative of a voyage* to the *Polar Sea* during 1875-76 in H.M. Ships "Alert" and "Discovery", ed. 2, vol. 2, no 14 Botany, G. Dickie dealt with the *Algae* and *Diatomaceae*. *Copy*: BM. – See BM 2: 562.
+- (4) *Freshwater Algae* in Robert Brown, *Florula Discoana*... Trans. Bot. Soc. Edinburgh 9: 462-464. 1868.
+- (5) *Freshwater Algae* in Manual of the natural history, geology and physics of Greenland 782 pp., London.
+- (6) *Marine Algae* in Philos. Trans. Roy. Soc. London 168 (extra volume): 53-62, 415-419. 1879.
 
 ### Publications
 

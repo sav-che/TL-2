@@ -28,6 +28,6 @@ Russell, Patrick (1727-1805), British (Scottish) physician and naturalist; MD Ed
 
 #### Composite works
 
-(1) Editor, W. Roxburgh, *Pl. Coromandel* 1795-1819 (see preface).
-(2) Editor, A. Russell, *Nat. Hist. Aleppo*, ed. 2, 1794. q.v.
+- (1) Editor, W. Roxburgh, *Pl. Coromandel* 1795-1819 (see preface).
+- (2) Editor, A. Russell, *Nat. Hist. Aleppo*, ed. 2, 1794. q.v.
 

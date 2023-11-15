@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection PAV|PAV]] (orig.; 30,000), duplicates [[Collection GJO|GJO]], [[Collection K|K]], [[Collection M|M]], [[Collection RO|RO]]. – *Exsiccatae*: see TL-2/1: 916.
+[[Collection PAV|PAV]] (orig.; 30,000), duplicates [[Collection GJO|GJO]], [[Collection K|K]], [[Collection M|M]], [[Collection RO|RO]].
+*Exsiccatae*: see TL-2/1: 916.
 
 #### Bibliography and biography
 
@@ -36,12 +37,12 @@ APN p. 219; Barnhart 2: 31; BM 2: 641, 6: 357; BN p. 174; Bossert p. 140; CSP 7:
 #### Note
 
 The following are now available in microform:
-(1) *Enum. musc. Austria inf.*... Jan-Mar 1840 (TL-2/1, nr. 1952), i.e. trade edition of his thesis: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche, (Plant taxonomic lit. microfiche coll., "1872C4-1872G4"). *Copy*: HH (n.v.).
-(2) *Bryol. austr. excurs.*... 1840 (TL-2/1, nr. 1953):
+- (1) *Enum. musc. Austria inf.*... Jan-Mar 1840 (TL-2/1, nr. 1952), i.e. trade edition of his thesis: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche, (Plant taxonomic lit. microfiche coll., "1872C4-1872G4"). *Copy*: HH (n.v.).
+- (2) *Bryol. austr. excurs.*... 1840 (TL-2/1, nr. 1953):
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches, (Plant taxonomic lit. microfiche coll., "8180B4-8181B5"). *Copy*: MO (n.v.).
 (b) Naples, Florida (NewsBank), \[2005\], 3 microfiches, (Landmarks II). *Copy*: (n.v.).
 (c) Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(3) *Oct. lich. gen.*... 1868 (TL-2/1, nr. 1957):
+- (3) *Oct. lich. gen.*... 1868 (TL-2/1, nr. 1957):
 *Microfiche*: Zug, Switzerland (Inter-Documentation Co.), 1985, 1 microfiche, (Taxonomic literature; 1957). *Copy*: US.
 
 #### Composite works

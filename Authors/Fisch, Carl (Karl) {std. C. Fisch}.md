@@ -16,8 +16,8 @@ APN p. 201; Barnhart 1: 542; Biol.-Dokum. 6: 67.452-67.458; BM 2: 574; CSP 9: 86
 
 #### Composite works
 
-(1) First author, *Fl. Rostock*... 1879 (see TL-2/2, nr. 3917), which was treated earlier under his co-author E.H.L. Krause.
-(2) Co-author with M. Reess, *Untersuchungen über Bau und Lebensgeschichte der Hirschtrüffel, Elaphomyces*... 1887, see TL-2/4, nr. 8767.
+- (1) First author, *Fl. Rostock*... 1879 (see TL-2/2, nr. 3917), which was treated earlier under his co-author E.H.L. Krause.
+- (2) Co-author with M. Reess, *Untersuchungen über Bau und Lebensgeschichte der Hirschtrüffel, Elaphomyces*... 1887, see TL-2/4, nr. 8767.
 
 ### Publications
 

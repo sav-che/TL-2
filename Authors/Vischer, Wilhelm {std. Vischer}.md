@@ -29,7 +29,7 @@ Barnhart 3: 440 (b. 5 Jan 1890); BFM 3185; Biol.-Dokum. 18: 9586; BJI 2: 184; BL
 
 #### Composite works
 
-(1) *Heterokonten* von Prof. Dr. A. Pascher mit einem Beitrag (*Kultur der Heterokonten*) von... W. Vischer 1937-1939, issued as L. Rabenhorst, *Krypt*.-*Fl*. ed. 2. 11: 190-202. 1937. – See TL-2/7424, 8450.
+- (1) *Heterokonten* von Prof. Dr. A. Pascher mit einem Beitrag (*Kultur der Heterokonten*) von... W. Vischer 1937-1939, issued as L. Rabenhorst, *Krypt*.-*Fl*. ed. 2. 11: 190-202. 1937. – See TL-2/7424, 8450.
 
 #### Eponymy
 

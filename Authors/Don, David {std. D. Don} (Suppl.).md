@@ -37,8 +37,8 @@ AG 4: 789, 5(1): 804, 6(1): 344; Barnhart 1: 463 (b. 21 Dec 1799, Doo Hillock, F
 
 #### Composite works
 
-(1) David Don *in* A.B. Lambert, *Descr. Pinus*, TL-2/no. 4145 (author of Vol. 2).
-(2) David Don *in* R. Sweet, Brit. Fl. Gard. 2, *pl. 315.* 1835, *Calliopsis drummondii*.
+- (1) David Don *in* A.B. Lambert, *Descr. Pinus*, TL-2/no. 4145 (author of Vol. 2).
+- (2) David Don *in* R. Sweet, Brit. Fl. Gard. 2, *pl. 315.* 1835, *Calliopsis drummondii*.
 
 ### Publications
 

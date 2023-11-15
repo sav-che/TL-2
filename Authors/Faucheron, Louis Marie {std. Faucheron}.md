@@ -20,8 +20,8 @@ CSP 14: 931; Hirsch p. 80; LS 32.211, 33.169.
 
 #### Composite works
 
-(1) Published several botany textbooks for students at the secondary level.
-(2) Scientific editor, *Les Amis des Roses, Journal de la Société française des Rosiéristes* (Lyon), 1911-?.
+- (1) Published several botany textbooks for students at the secondary level.
+- (2) Scientific editor, *Les Amis des Roses, Journal de la Société française des Rosiéristes* (Lyon), 1911-?.
 
 ### Publications
 

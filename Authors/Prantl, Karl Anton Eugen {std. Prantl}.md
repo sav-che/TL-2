@@ -52,10 +52,10 @@ with A. Engler, *Die natürlichen Pflanzenfamilien*, co-editor 1887-1893, author
 *Berberidaceae*, 3(2): 70-77. 21 Mai 1888 (id.), 274. Mai 1891.
 *Menispermaceae*, 3(2): 78-91. 21 Mai 1888 (id.), 275-276. Mai 1891. *Calycanthaceae*, 3(2): 92-94. 21 Mai 1888 (id.).
 *Papaveraceae*, 3(2): 130-144. Mar 1889, 145. Mar 1891 (with Jacob Kündig). *Cruciferae*, 3(2): 145-192. Mar 1891, 193-206. Mar 1891 (rev. Taubert, P.H.W., Bot. Centralbl. 49: 48-50. 1892).
-(2) *Die internationale Polarforschung* 1882-1883. *Die deutschen Expeditionen*, Band II, ed. G. Neumeyer; *Filices* by K. Prantl p. 328, 1890.
-(3) Editor *Hedwigia* vols. 26-31. 1887-1893.
-(4) Editor: *Arbeiten aus dem k. botanischen Garten zu Breslau.* Band 1, Heft 1, 1892. † see below *Syst. Farne.*
-(5) Edited eds. 3 and 4 of Seubert's *Excursionsflora für das Grossherzogthum Baden*, 1880, 1885, Stuttgart (Eugen Ulmer), see Seubert (ed. 3, rev. Bot. Zeit. 38: 676-677. 1 Oct 1880).
+- (2) *Die internationale Polarforschung* 1882-1883. *Die deutschen Expeditionen*, Band II, ed. G. Neumeyer; *Filices* by K. Prantl p. 328, 1890.
+- (3) Editor *Hedwigia* vols. 26-31. 1887-1893.
+- (4) Editor: *Arbeiten aus dem k. botanischen Garten zu Breslau.* Band 1, Heft 1, 1892. † see below *Syst. Farne.*
+- (5) Edited eds. 3 and 4 of Seubert's *Excursionsflora für das Grossherzogthum Baden*, 1880, 1885, Stuttgart (Eugen Ulmer), see Seubert (ed. 3, rev. Bot. Zeit. 38: 676-677. 1 Oct 1880).
 
 #### Handwriting
 

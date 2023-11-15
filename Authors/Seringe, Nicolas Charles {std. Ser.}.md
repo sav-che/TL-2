@@ -10,15 +10,15 @@ Seringe, Nicolas Charles (1776-1858), French botanist; studied medicine at the F
 
 [[Collection LY|LY]] (ca. 17.000). – The types of Seringe's work for the *Prodromus* of de Candolle are at [[Collection G|G]]. – Other material, including various series of *exsiccatae* at [[Collection AWH|AWH]], [[Collection B|B]] (mainly destr.), [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection MO|MO]], [[Collection NEU|NEU]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection RAB|RAB]], [[Collection S|S]], [[Collection SI|SI]], [[Collection TL|TL]], [[Collection TO|TO]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
 *Exsiccatae*: (1) *Saules de la Suisse*, 88 nos., 1805-1814 sets at [[Collection BR|BR]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection GH|GH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection NEU|NEU]], [[Collection P|P]], [[Collection S|S]], [[Collection TL|TL]], [[Collection TO|TO]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – For text see below.
-(2) *Herbarium helveticum*, nos. 1-612, sets a [[Collection FH|FH]], [[Collection W|W]].
-(3) *Décades des roses desséchées*, Bern, 1(1-10) Jan 1807, 2(11-20), 3(21-30) Feb 1808, 4(31-40), 5(41-50). 1818. – For commentary see *Mél. bot.* 1: 1-63. Jul 1818 (below). Sets at [[Collection BR|BR]], [[Collection G|G]], [[Collection NEU|NEU]], [[Collection TO|TO]].
-(4) *Dryadeae*, Agrimoniaceae et Ulmariae exsiccatae, Bern, 1823, 2 decades. – For commentary see below *Dryadeae* (1823). Sets at [[Collection BR|BR]], [[Collection G|G]].
-(5) *Mousses helvétiques* Bern, 1804-1809, 10 dec., nos. 1-100. Not seen by us but see Sayre 1971 for dates and further information (sets at [[Collection BM|BM]], [[Collection G|G]], [[Collection TO|TO]]). – J. Collins saw a set with the title *Collection des Mousses de la Suisse*, Bern 1809, 10 dec., accompanied by 2 p. text. (in litt.).
-(6) *Herbier portatif des Alpes*, Bern 1809-1813, 5 cent. Set: [[Collection G|G]]. – See below for text.
-(7) *Plantes de France*, Bern 1810, see below for text. Set at [[Collection G|G]].
-(8) *Collection des Graminées, Cyperacées et Joncées de la Suisse*, Bern 1816, 2 cent., see below for text. Set at [[Collection G|G]].
-(9) *Exemplaires desséchés de la révision inédite du genre Salix*, Genève 1824 (text at [[Collection M|M]], see below).
-(10) *Souvenir de la Suisse* ou collection de plantes choisies des Alpes (n.v.). *Letters* to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]], [[Collection GH|GH]].
+- (2) *Herbarium helveticum*, nos. 1-612, sets a [[Collection FH|FH]], [[Collection W|W]].
+- (3) *Décades des roses desséchées*, Bern, 1(1-10) Jan 1807, 2(11-20), 3(21-30) Feb 1808, 4(31-40), 5(41-50). 1818. – For commentary see *Mél. bot.* 1: 1-63. Jul 1818 (below). Sets at [[Collection BR|BR]], [[Collection G|G]], [[Collection NEU|NEU]], [[Collection TO|TO]].
+- (4) *Dryadeae*, Agrimoniaceae et Ulmariae exsiccatae, Bern, 1823, 2 decades. – For commentary see below *Dryadeae* (1823). Sets at [[Collection BR|BR]], [[Collection G|G]].
+- (5) *Mousses helvétiques* Bern, 1804-1809, 10 dec., nos. 1-100. Not seen by us but see Sayre 1971 for dates and further information (sets at [[Collection BM|BM]], [[Collection G|G]], [[Collection TO|TO]]). – J. Collins saw a set with the title *Collection des Mousses de la Suisse*, Bern 1809, 10 dec., accompanied by 2 p. text. (in litt.).
+- (6) *Herbier portatif des Alpes*, Bern 1809-1813, 5 cent. Set: [[Collection G|G]]. – See below for text.
+- (7) *Plantes de France*, Bern 1810, see below for text. Set at [[Collection G|G]].
+- (8) *Collection des Graminées, Cyperacées et Joncées de la Suisse*, Bern 1816, 2 cent., see below for text. Set at [[Collection G|G]].
+- (9) *Exemplaires desséchés de la révision inédite du genre Salix*, Genève 1824 (text at [[Collection M|M]], see below).
+- (10) *Souvenir de la Suisse* ou collection de plantes choisies des Alpes (n.v.). *Letters* to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]], [[Collection GH|GH]].
 
 #### Bibliography and biography
 
@@ -48,16 +48,16 @@ AG 6(1): 186; Backer p. 529; Barnhart 3: 260 (b. 3 Dec 1776, d. 29 Sep 1858); BM
 
 #### Composite works
 
-(1) In A.P. de Candolle, *Prodromus*:
+- (1) In A.P. de Candolle, *Prodromus*:
 *Caryophylleae*, 1: 351-367, 385-422. med. Jan 1824.
 *Cucurbitaceae*, 3: 297-320. med. Mar 1828.
 *Leguminosae*, 2: 171-215, 354-380. med. Nov 1825.
 *Onagrariae* (*Epilobium, Gaura, Oenothera*), 3: 40-52. med. Mar 1828. *Ranunculaceae* (*Aconitum*), 1: 56-64. med. Jan 1824.
 *Rosaceae*, 2: 530-625. med. Nov 1825.
 *Saxifragaceae* (*Weinmannia, Hydrangea, Saxifraga, Leptarrhena, Chrysosplenium, Mitella, Tiarella, Heuchera*) 4: 8-51. Sep (sero) 1830.
-(2) *Rétablissement du genre Scorodonia de Moench* and *Mémoire sur le fruit et l'embryon des Labiées*, in A. Hamilton, *Esq. monogr. Scutellaria* 1832, TL-2/2338.
-(3) Collaborator, G. Roffavier, *Suppl. fl. Lyonn.* 1835, see TL-2/9432.
-(4) *Verzeichniss der Pflanzen welche auf der Scheideck, der Wengernalp*, und in den Thälern von Lauterbrunnen, Grindelwald und Hasli gefunden werden, *in* F.N. Koenig, *Reise in die Alpen* 1814 (n.v.).
+- (2) *Rétablissement du genre Scorodonia de Moench* and *Mémoire sur le fruit et l'embryon des Labiées*, in A. Hamilton, *Esq. monogr. Scutellaria* 1832, TL-2/2338.
+- (3) Collaborator, G. Roffavier, *Suppl. fl. Lyonn.* 1835, see TL-2/9432.
+- (4) *Verzeichniss der Pflanzen welche auf der Scheideck, der Wengernalp*, und in den Thälern von Lauterbrunnen, Grindelwald und Hasli gefunden werden, *in* F.N. Koenig, *Reise in die Alpen* 1814 (n.v.).
 
 #### Note
 

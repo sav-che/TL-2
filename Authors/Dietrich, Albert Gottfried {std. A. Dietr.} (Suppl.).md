@@ -30,8 +30,8 @@ Barnhart 1: 454; BM 1: 460 (9 items); IH 1(ed. 6): 357; Jackson p. 302, 309; Kew
 
 #### Composite works
 
-(1) *Allgemeine Gartenzeitung*... Herausgegeben von... A. Dietrich, Jahrg. i-xxiv, 1833-1856. *Copies*: BM.
-(2) *Encyclopädie der Pflanzen*, 7. Heft: Abbildungen von mehr als 30.000 Pflanzenarten... Abdruck von Encyclopädie der Pflanzen 7. Heft, 1882 (see Bot. Zeit. 10: 704. 1 October).
+- (1) *Allgemeine Gartenzeitung*... Herausgegeben von... A. Dietrich, Jahrg. i-xxiv, 1833-1856. *Copies*: BM.
+- (2) *Encyclopädie der Pflanzen*, 7. Heft: Abbildungen von mehr als 30.000 Pflanzenarten... Abdruck von Encyclopädie der Pflanzen 7. Heft, 1882 (see Bot. Zeit. 10: 704. 1 October).
 
 ### Publications
 

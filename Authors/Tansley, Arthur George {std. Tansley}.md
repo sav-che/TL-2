@@ -32,12 +32,12 @@ Barnhart 3: 360 (b. 15 Aug 1871); BJI 2: 176; BL 2: 114, 224, 257, 271, 721-722;
 
 #### Composite works
 
-(1) Founder and editor of *New Phytologist* 1902-1931.
-(2) Editor *J. Ecology* 1917-1937.
-(3) Editor, *Types of British Vegetation*, by members of the Central Committee for the survey and study of British Vegetation, Cambridge. 1911, xx, 416 pl., chart, *36 pl*. – See below.
-(4) \[*Gamophyceae*... *Conjugatae*\] *in* A. Kerner, Nat. Hist. pl. 2. 1895, see TL2/3600.
-(5) *Riviera vegetation, in* H.S. Thompson, Flowering plants of the Riviera 1914, p. 1-9.
-(6) With F.F. Blackman, *A revison of the classification of the green algae*, New Phytol. 1:17-24, 47-48, 67-72, 89-96, 114-120, 133-144, 163-168, 189-192, 213-220, 238-244. 1902, reprint 64 p. London 1903.
+- (1) Founder and editor of *New Phytologist* 1902-1931.
+- (2) Editor *J. Ecology* 1917-1937.
+- (3) Editor, *Types of British Vegetation*, by members of the Central Committee for the survey and study of British Vegetation, Cambridge. 1911, xx, 416 pl., chart, *36 pl*. – See below.
+- (4) \[*Gamophyceae*... *Conjugatae*\] *in* A. Kerner, Nat. Hist. pl. 2. 1895, see TL2/3600.
+- (5) *Riviera vegetation, in* H.S. Thompson, Flowering plants of the Riviera 1914, p. 1-9.
+- (6) With F.F. Blackman, *A revison of the classification of the green algae*, New Phytol. 1:17-24, 47-48, 67-72, 89-96, 114-120, 133-144, 163-168, 189-192, 213-220, 238-244. 1902, reprint 64 p. London 1903.
 
 ### Publications
 

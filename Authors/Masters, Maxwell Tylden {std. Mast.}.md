@@ -37,16 +37,16 @@ Backer p. 357; BB p. 210; BFM 2421; BJI 1: 39, 2: 113; BM 3: 1264-1265; Bossert 
 
 #### Composite works
 
-(1) Martius, *Fl. bras*.:
+- (1) Martius, *Fl. bras*.:
 a. *Aristolochiaceae*, 13(1): 529-628, *pl 106-128* (fasc. 57): 1 Mar 1872.
 b. *Passifloraceae*, 4(2): 77-114, *pl. 17-26* (fasc. 66): 1 Feb 1875.
-(2) *Gardeners Chronicle*, editor 1865-1907.
-(3) Oliver, *Fl. trop, afr., Malvaceae*, 1: 175-214. 1868; *Sterculiaceae* 1: 214-239. 1868; *Tiliaceae *1: 240-268. 1868; *Samydaceae* 2: 492-500. 1871; *Loaseae* 2: 500-501. 1871; *Turneraceae* 2: 501-503. 1871; *Passifloreae* 2: 503-520. 1871.
-(4) Hooker, J. D., *Fl. Brit. India, Malvaceae. Sterculiaceae, Tiliaceae*, 1: 317-409. Jan 1874; *Olacineae* 1(3): 572-598. Feb 1895; *Passifloreae* 2(6): 598-603. Mai 1879.
-(5) Harvey and Sonder, *Fl. cap., Resliaceae* 7(1): 59-149. Dec 1897.
-(6) Alph. de Candolle, *Monogr., Resliaceae* in 1: 218-398. Jun 1878.
-(7) Ravenscroft, E. J., *Lawson's Pinelum*, text parts 38-52.
-(8) Warming, E., *Symb. fl. bras.*, part 28, *Aristolochiaceae*, p. 279-280. 10 Mai 1880.
+- (2) *Gardeners Chronicle*, editor 1865-1907.
+- (3) Oliver, *Fl. trop, afr., Malvaceae*, 1: 175-214. 1868; *Sterculiaceae* 1: 214-239. 1868; *Tiliaceae *1: 240-268. 1868; *Samydaceae* 2: 492-500. 1871; *Loaseae* 2: 500-501. 1871; *Turneraceae* 2: 501-503. 1871; *Passifloreae* 2: 503-520. 1871.
+- (4) Hooker, J. D., *Fl. Brit. India, Malvaceae. Sterculiaceae, Tiliaceae*, 1: 317-409. Jan 1874; *Olacineae* 1(3): 572-598. Feb 1895; *Passifloreae* 2(6): 598-603. Mai 1879.
+- (5) Harvey and Sonder, *Fl. cap., Resliaceae* 7(1): 59-149. Dec 1897.
+- (6) Alph. de Candolle, *Monogr., Resliaceae* in 1: 218-398. Jun 1878.
+- (7) Ravenscroft, E. J., *Lawson's Pinelum*, text parts 38-52.
+- (8) Warming, E., *Symb. fl. bras.*, part 28, *Aristolochiaceae*, p. 279-280. 10 Mai 1880.
 
 #### Handwriting
 

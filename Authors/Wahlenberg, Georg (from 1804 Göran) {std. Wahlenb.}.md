@@ -54,12 +54,12 @@ AG 2(2): 512; Barnhart 3: 619; BL 2: 479, 549, 729; BM 5: 2249-2250, 8: 1383; Bo
 
 #### Composite works
 
-(1) Editor of J.W. Palmstruch, *Svensk botanik* 9(4-12), 1823-1825, 1826-1829 and 11(1-3), 1830, TL-2/7247.
-(2) Pehr Conrad Afzelius (1817-1850), author *Novitiae florae Gotlandicae P.I.* 1844, diss., p. \[1\]-16, defended under Wahlenberg.
-(3) Carl Andersson (1818-1846), author, *Observationes stirpium circa Christinehamn provenientium*, 1842, diss. p. \[1\]-10, defended under Wahlenberg.
-(4) Magnus Huss (1807-1890), author, *Om möjligheten att, enligt vegetabiliernes naturliga analogier, a priori bestämma deras egenskaper* och verkningar på menskliga organismen, 1834, diss. part 1, p. \[1\]-16, \[17-18\], defended under Wahlenberg.
-(5) Carl Josua Wretholm (1802-1866), author, as (4) part 2, 1834, p. \[1\]-19-31 \[33-34\], defended under Wahlenberg.
-(6) Carl Fredrik Säve (1812-1876), *Syn. fl. Gothl* see TL-2/9983, defended under Wahlenberg as praeses.
+- (1) Editor of J.W. Palmstruch, *Svensk botanik* 9(4-12), 1823-1825, 1826-1829 and 11(1-3), 1830, TL-2/7247.
+- (2) Pehr Conrad Afzelius (1817-1850), author *Novitiae florae Gotlandicae P.I.* 1844, diss., p. \[1\]-16, defended under Wahlenberg.
+- (3) Carl Andersson (1818-1846), author, *Observationes stirpium circa Christinehamn provenientium*, 1842, diss. p. \[1\]-10, defended under Wahlenberg.
+- (4) Magnus Huss (1807-1890), author, *Om möjligheten att, enligt vegetabiliernes naturliga analogier, a priori bestämma deras egenskaper* och verkningar på menskliga organismen, 1834, diss. part 1, p. \[1\]-16, \[17-18\], defended under Wahlenberg.
+- (5) Carl Josua Wretholm (1802-1866), author, as (4) part 2, 1834, p. \[1\]-19-31 \[33-34\], defended under Wahlenberg.
+- (6) Carl Fredrik Säve (1812-1876), *Syn. fl. Gothl* see TL-2/9983, defended under Wahlenberg as praeses.
 
 #### Commemorative medal
 

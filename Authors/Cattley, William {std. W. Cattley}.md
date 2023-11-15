@@ -26,7 +26,7 @@ ADB 3: 912; Backer p. 109-110; Barnhart 1: 323; BB p. 61; Bret. p. 187, 255; Fra
 
 #### Composite works
 
-(1) C.H.B. Ker, *Icon. indo-asiat. pl. Cattley*, London 1818, Fol., see TL-2/2: no. 3583.
+- (1) C.H.B. Ker, *Icon. indo-asiat. pl. Cattley*, London 1818, Fol., see TL-2/2: no. 3583.
 
 #### Eponymy
 

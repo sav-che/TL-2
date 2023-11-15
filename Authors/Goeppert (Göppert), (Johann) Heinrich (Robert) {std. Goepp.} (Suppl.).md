@@ -63,22 +63,22 @@ Festschrift dem Geheimen Medicinalrath Prof. Dr. Göppert zu seinem fünfzigjäh
 #### Note
 
 The following titles are now available in microform:
-(1) *Die Fossilen Farrnkräuter*... 1836, see TL-2/1, nr. 2068 (as *Syst. filic. foss.*): *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches (Plant taxonomic lit. microfiche coll., "8229B5-8235E2"). *Copy*: MO (n.v.).
-(2) *Monograph. foss. Conif.*... 1850, see TL-2/1, nr. 2074:
+- (1) *Die Fossilen Farrnkräuter*... 1836, see TL-2/1, nr. 2068 (as *Syst. filic. foss.*): *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches (Plant taxonomic lit. microfiche coll., "8229B5-8235E2"). *Copy*: MO (n.v.).
+- (2) *Monograph. foss. Conif.*... 1850, see TL-2/1, nr. 2074:
 (a) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 6 microfiches (Plant taxonomic lit. microfiche coll., "1996E7-2001E6"). *Copy*: MO (n.v.).
 (b) *Microfilm*: Palo Alto, Calif. (Bay Microfilm), 1991, 1 reel (35 mm, low reduction). *Copy*: (n.v.).
-(3) *Tert. Fl. Schossnitz*... 1855, see TL-2/1, nr. 2078 \[where "Schlesien" (sic) should be replaced by "Silesien"\]:
+- (3) *Tert. Fl. Schossnitz*... 1855, see TL-2/1, nr. 2078 \[where "Schlesien" (sic) should be replaced by "Silesien"\]:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 3 microfiches (Plant taxonomic lit. microfiche coll., "2001F4-2003A1"). *Copy*: MO (n.v.).
-(4) *Fl. Bernsteins*... 1883-1886, see TL-2/1, nr. 2080:
+- (4) *Fl. Bernsteins*... 1883-1886, see TL-2/1, nr. 2080:
 *Microfiche*: (a) Tumba, Sweden (International Documentation Centre), \[196-?\], 11 microfiches, 9×12 cm. (b) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches (Plant taxonomic lit. microfiche coll., "2003A5-2005C4 (text); 12989A1-12990A11 (plates)"). *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) One of many collaborators with G. Münster, *Beitr. Petref.-Kunde* ... 1839-1846, see TL-2/3, nr. 6535.
-(2) *Index palaeontol*.... 1848-1849, see TL-2/1, nr. 807.
-(3) Co-author with C.C. Beinert, *Abh. Steinkohl. Ablager.*... 1850, see TL-2/Suppl. 2:
+- (1) One of many collaborators with G. Münster, *Beitr. Petref.-Kunde* ... 1839-1846, see TL-2/3, nr. 6535.
+- (2) *Index palaeontol*.... 1848-1849, see TL-2/1, nr. 807.
+- (3) Co-author with C.C. Beinert, *Abh. Steinkohl. Ablager.*... 1850, see TL-2/Suppl. 2:
 20.795.
-(4) Co-editor of *Gartenflora*... vols. 4-5 (1855-1856, at least), see TL-2/4, nr. 8775.
+- (4) Co-editor of *Gartenflora*... vols. 4-5 (1855-1856, at least), see TL-2/4, nr. 8775.
 
 ### Publications
 

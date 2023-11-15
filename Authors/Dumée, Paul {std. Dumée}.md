@@ -22,8 +22,8 @@ Barnhart 1: 480 (b. 14 Jun 1849, d. Apr 1930); CSP 14: 720; IH 2: 171; LS 7446-7
 
 #### Composite works
 
-(1) Collaborator of C. Roumeguère, *Fungi selecti gallici exsicati* 70 and 71, see TL-2/4: 934 (Bot. Centralbl. 67(28): 42. Jul 1896 and 68(48): 285. 24 Nov 1896).
-(2) Periodical "Amateur de Champignons" edited by Paul Dumée.
+- (1) Collaborator of C. Roumeguère, *Fungi selecti gallici exsicati* 70 and 71, see TL-2/4: 934 (Bot. Centralbl. 67(28): 42. Jul 1896 and 68(48): 285. 24 Nov 1896).
+- (2) Periodical "Amateur de Champignons" edited by Paul Dumée.
 
 ### Publications
 

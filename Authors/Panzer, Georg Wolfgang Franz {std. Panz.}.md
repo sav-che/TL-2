@@ -42,7 +42,8 @@ ADB 25: 134; Backer p. 421; Barnhart 3: 47; BM 4: 1510; Bossert p. 300; Clokie p
 
 #### Composite works
 
-(1) see G.F.; Christmann, *Vollst. Pflanzensyst.* 1777-1788, 14 vols., TL-2/1130, Panzer author of vols. 8-14.(2) Johann Martyns *Abbildung und Beschreibung seltener Gewächse*: neu übersetzt... von G.W.F. Panzer, 1797, TL-2/5563.
+- (1) see G.F.; Christmann, *Vollst. Pflanzensyst.* 1777-1788, 14 vols., TL-2/1130, Panzer author of vols. 8-14.
+- (2) Johann Martyns *Abbildung und Beschreibung seltener Gewächse*: neu übersetzt... von G.W.F. Panzer, 1797, TL-2/5563.
 
 #### Name
 

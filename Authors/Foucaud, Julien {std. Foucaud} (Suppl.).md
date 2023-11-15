@@ -36,10 +36,10 @@ AG 6(2): 826; APN p. 207; Barnhart 1: 562; BL 2: 655(index); BM 2: 599; CSP 12: 
 
 #### Composite works
 
-(1) Co-author with P.A. David & V. Pierre, *Cat. pl. vasc. Char.-Inf.*... 1878, see TL-2/Suppl. 5, nr. 29.177.
-(2) Edited J. Lloyd, *Fl. Ouest France*... ed. 4, 1886 (see TL.-2/3, nr. 4904), and augmented it with "des plantes de la Gironde, des Landes et du littoral des Basses-Pyrénées".
-(3) Co-author with G. Rouy, *Fl. France*... 1893-1913, vols. 1-3, see TL-2/4, nr. 9706.
-(4) First (not co-) author with E. Simon, *Trois semaines d'herborisations en Corse*... 1898, see TL-2/5, nr. 12.012, where the title was treated earlier under Simon.
+- (1) Co-author with P.A. David & V. Pierre, *Cat. pl. vasc. Char.-Inf.*... 1878, see TL-2/Suppl. 5, nr. 29.177.
+- (2) Edited J. Lloyd, *Fl. Ouest France*... ed. 4, 1886 (see TL.-2/3, nr. 4904), and augmented it with "des plantes de la Gironde, des Landes et du littoral des Basses-Pyrénées".
+- (3) Co-author with G. Rouy, *Fl. France*... 1893-1913, vols. 1-3, see TL-2/4, nr. 9706.
+- (4) First (not co-) author with E. Simon, *Trois semaines d'herborisations en Corse*... 1898, see TL-2/5, nr. 12.012, where the title was treated earlier under Simon.
 
 ### Publications
 

@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection BREM|BREM]], additonal material in [[Collection NMW|NMW]]; the types for his contributions to EP, *Nat. Pflanzenfam.* are mostly at [[Collection K|K]]. – *Exsiccatae*: *Rubi selecti, distributi a Dr. W.O. Focke*... Bremen (1869-1872, nos. 1-82): [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection DR|DR]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]].
+[[Collection BREM|BREM]], additonal material in [[Collection NMW|NMW]]; the types for his contributions to EP, *Nat. Pflanzenfam.* are mostly at [[Collection K|K]].
+*Exsiccatae*: *Rubi selecti, distributi a Dr. W.O. Focke*... Bremen (1869-1872, nos. 1-82): [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection DR|DR]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]].
 *Ref*.: Weber, H.E., Die Gattung *Rubus* L. im nordwestlichen Europa, Lehre: 495. 1972 \[nos. and dates for the exsiccatae\].
 
 #### Bibliography and biography
@@ -43,12 +44,12 @@ In Apr 1914, the first part of the 23rd volume of Abh. Naturwiss. Vereine Bremen
 
 #### Composite works
 
-(1) Co-author with J.C.H. Dreier & J.F. Kollmeier, *Fl. Bremensis*... 1855, see TL-2/Suppl. 6, nr. 31.518, and of the *Nachtr. Fl. Bremensis*... 1866, see Id., nr. 31.519.
-(2) Co-author with F.G.P. Buchenau of the "Gefässpflanzen" *in* F.G.P. Buchenau, *Zweite deut. Nordpolarf.*... 1873, see TL-2/1, nr. 866.
-(3) *Rubus in*: (a) H. Potonié, *Ill. Fl.*... 1885, see TL-2/4, nr. 8211 and nr. 34.907 below;
+- (1) Co-author with J.C.H. Dreier & J.F. Kollmeier, *Fl. Bremensis*... 1855, see TL-2/Suppl. 6, nr. 31.518, and of the *Nachtr. Fl. Bremensis*... 1866, see Id., nr. 31.519.
+- (2) Co-author with F.G.P. Buchenau of the "Gefässpflanzen" *in* F.G.P. Buchenau, *Zweite deut. Nordpolarf.*... 1873, see TL-2/1, nr. 866.
+- (3) *Rubus in*: (a) H. Potonié, *Ill. Fl.*... 1885, see TL-2/4, nr. 8211 and nr. 34.907 below;
 (b) H.G. Hallier, "Die *botanischen Ergebnisse* der *Elbert'schen Sunda-Expedition* des Frankfurter Vereins für Geographie und Statistik..." in Med. Rijks Herb. Leiden 14: 39-49. 31 Dec 1912; and
 (c) C.S. Sargent (ed.), *Pl. wilson.*... 1(1): 48-56. 31 Jul 1911, see TL-2/5, nr. 10.303.
-(4) Co-author with A.D.E. Elmer, *New sp. Rubus*...1913, see TL-2/Suppl. 6, nr. 32.805.
+- (4) Co-author with A.D.E. Elmer, *New sp. Rubus*...1913, see TL-2/Suppl. 6, nr. 32.805.
 
 ### Publications
 

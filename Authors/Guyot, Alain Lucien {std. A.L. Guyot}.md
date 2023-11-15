@@ -20,9 +20,10 @@ APN p. 250; BL 2: 123, 663; Kew 2: 538; LS suppl. 10.385-10.415; MW suppl. p. 82
 
 #### Outside our period
 
-(1) *Origine des plantes cultivées*,... Paris (Presses universitaires de France) 1942; Ed. 2,... (© 1948) 1949; Ed. 3,... 1964.
-(2) *Catalogue raisonné des micromycètes de Tunisie*... 1952.
-(3) A.L. Guyot & Georges Jean Louis Malençon, *Urédinées du Maroc*, Trav. Inst. Sci. Chérifien, Sér. Bot., 11: \[i\]-v, 1-184, *pl. 1-4.* 17 Mai 1957; Id., 28: \[i\]-vii, \[1\]-161, *pl. 1-5.* 12 Jun 1963. (4) *Histoire des plantes cultivées*... Paris (A. Colin) 1963.
+- (1) *Origine des plantes cultivées*,... Paris (Presses universitaires de France) 1942; Ed. 2,... (© 1948) 1949; Ed. 3,... 1964.
+- (2) *Catalogue raisonné des micromycètes de Tunisie*... 1952.
+- (3) A.L. Guyot & Georges Jean Louis Malençon, *Urédinées du Maroc*, Trav. Inst. Sci. Chérifien, Sér. Bot., 11: \[i\]-v, 1-184, *pl. 1-4.* 17 Mai 1957; Id., 28: \[i\]-vii, \[1\]-161, *pl. 1-5.* 12 Jun 1963.
+- (4) *Histoire des plantes cultivées*... Paris (A. Colin) 1963.
 
 #### Composite works
 

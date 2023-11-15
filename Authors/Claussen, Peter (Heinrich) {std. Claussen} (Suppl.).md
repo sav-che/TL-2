@@ -27,7 +27,7 @@ Ainsworth p. 138, 325; Barnhart 1: 355; BJI 2: 29; BM 6: 212; LS 5210, 5210a, 32
 
 #### Composite works
 
-(1) See TL-2/1: 509 (Nat. Pflanzenfam., Basidiomyc., 1929).
+- (1) See TL-2/1: 509 (Nat. Pflanzenfam., Basidiomyc., 1929).
 
 #### Eponymy
 
@@ -51,8 +51,7 @@ Ainsworth p. 138, 325; Barnhart 1: 355; BJI 2: 29; BM 6: 212; LS 5210, 5210a, 32
 
 **Notes**
 *Publ*.: 30 Apr 1907 (in journal; copy L rd. 13 Jul 1907), cover-t.p., p. \[i, identif.\], \[(11)\]-(38).
-*Copies*: B, L. – Reprinted and to be cited from Ber. deut. bot. Ges. 24(Schlussheft):
-(11)-(38). 1907.
+*Copies*: B, L. – Reprinted and to be cited from Ber. deut. bot. Ges. 24(Schlussheft): (11)-(38). 1907.
 
 ##### n.26.530. Kernverhältnisse von Pyronema confluens
 

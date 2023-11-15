@@ -28,10 +28,10 @@ AG 4: 287, 6(1): 383; Barnhart 1: 290; BM 1: 189; Clokie p. 142; CSP 13: 938; DT
 
 #### Composite works
 
-(1) See E.P. Boissier, *Flora orientalis*, Supplementum editore R. Buser 1888. – *Rev*.: J.F. Freyn, Bot. Centralbl. 40(49): 330-331. 3 Dec 1889.
-(2) \[Review by R. Buser on:\] *Lexicon generum phanerogamarum*... Otto Kuntze... 1904, *in *Bull. Herb. Boissier ser. 2. 4(12): \[1360\]. 5 Dec 1904. – See T.E. von Post, TL-2/4: 353-354, no. 8194, second issue.
-(3) Das Areal der *A*.\[*lchemilla*\] *alpina* sensu latiori, *in* C. Schröter, Das Pflanzenleben der Alpen 442-444. 1908.
-(4) *Alchemilla* L. e.a., in J. Briquet, Prodr. Fl. Corse 2(1): 199-206. 1913.
+- (1) See E.P. Boissier, *Flora orientalis*, Supplementum editore R. Buser 1888. – *Rev*.: J.F. Freyn, Bot. Centralbl. 40(49): 330-331. 3 Dec 1889.
+- (2) \[Review by R. Buser on:\] *Lexicon generum phanerogamarum*... Otto Kuntze... 1904, *in *Bull. Herb. Boissier ser. 2. 4(12): \[1360\]. 5 Dec 1904. – See T.E. von Post, TL-2/4: 353-354, no. 8194, second issue.
+- (3) Das Areal der *A*.\[*lchemilla*\] *alpina* sensu latiori, *in* C. Schröter, Das Pflanzenleben der Alpen 442-444. 1908.
+- (4) *Alchemilla* L. e.a., in J. Briquet, Prodr. Fl. Corse 2(1): 199-206. 1913.
 
 ### Publications
 

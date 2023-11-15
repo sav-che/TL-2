@@ -8,7 +8,8 @@ Flotow, Julius Christian Gottlieb Ulrich Gustav Georg Adam Ernst Friedrich von (
 
 #### Herbarium and types
 
-[[Collection B|B]] (destroyed), other material [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection STR|STR]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]]. – Exsiccatae: *Lichenes exsiccati* (cent. i-v, nos. 1-448(-500), 1829-?), sets at [[Collection B|B]] (destroyed), [[Collection G|G]], [[Collection GRO|GRO]], [[Collection L|L]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]]. *Deutsche Lichenen*, in ed., [[Collection B|B]] (destroyed), [[Collection UPS|UPS]] (n. 1-95).
+[[Collection B|B]] (destroyed), other material [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection STR|STR]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Lichenes exsiccati* (cent. i-v, nos. 1-448(-500), 1829-?), sets at [[Collection B|B]] (destroyed), [[Collection G|G]], [[Collection GRO|GRO]], [[Collection L|L]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]]. *Deutsche Lichenen*, in ed., [[Collection B|B]] (destroyed), [[Collection UPS|UPS]] (n. 1-95).
 *Ref*.: GR p. 13; IH 2: 201.
 - Anon., Bot. Zeit. 15: 504, 520. 1857.
 - Candolle, Phytographie 412. 1880.

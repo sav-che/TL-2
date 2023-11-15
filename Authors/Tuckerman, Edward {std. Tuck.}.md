@@ -8,8 +8,9 @@ Tuckerman, Edward (1817-1886), American botanist, B.A. Union Coll. 1837; LL.D. H
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (lichens), phanerogams at [[Collection MASS|MASS]] and [[Collection UPS|UPS]]. – Other material in [[Collection BM|BM]] (Potamogeton; phan.), [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DWC|DWC]], [[Collection E|E]], [[Collection FI|FI]], [[Collection GRA|GRA]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection KIEL|KIEL]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MSC|MSC]], [[Collection NHA|NHA]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WECO|WECO]], [[Collection WELC|WELC]]. – *Letters* at [[Collection FH|FH]] (numerous), [[Collection G|G]], [[Collection GH|GH]](125), [[Collection H|H]]-UB (53, to W. Nylander), [[Collection HAL|HAL]], [[Collection MASS|MASS]], [[Collection NY|NY]], [[Collection US|US]]. *Original drawings* at [[Collection FH|FH]]. – *Lichenological library* left to Amherst College. – *Exsiccatae*: (1) *Lichenes Americae septentrionalis exsiccati*, nos. 1-150, fasc. 1-6, 1847-1854 (details see Sayre, 1969). – Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection L|L]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection US|US]].
-(2) Caroli Wright, *Lichenes insulae Cubae* curante E. Tuckerman, nos. 1-246, Boston 1864. Sets at [[Collection FH|FH]], [[Collection NY|NY]] and [[Collection UPS|UPS]] (details see Sayre 1969 and see entry under Ch. Wright).
+[[Collection FH|FH]] (lichens), phanerogams at [[Collection MASS|MASS]] and [[Collection UPS|UPS]]. – Other material in [[Collection BM|BM]] (Potamogeton; phan.), [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DWC|DWC]], [[Collection E|E]], [[Collection FI|FI]], [[Collection GRA|GRA]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection KIEL|KIEL]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MSC|MSC]], [[Collection NHA|NHA]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WECO|WECO]], [[Collection WELC|WELC]]. – *Letters* at [[Collection FH|FH]] (numerous), [[Collection G|G]], [[Collection GH|GH]](125), [[Collection H|H]]-UB (53, to W. Nylander), [[Collection HAL|HAL]], [[Collection MASS|MASS]], [[Collection NY|NY]], [[Collection US|US]]. *Original drawings* at [[Collection FH|FH]]. – *Lichenological library* left to Amherst College.
+*Exsiccatae*: (1) *Lichenes Americae septentrionalis exsiccati*, nos. 1-150, fasc. 1-6, 1847-1854 (details see Sayre, 1969). – Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection L|L]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection US|US]].
+- (2) Caroli Wright, *Lichenes insulae Cubae* curante E. Tuckerman, nos. 1-246, Boston 1864. Sets at [[Collection FH|FH]], [[Collection NY|NY]] and [[Collection UPS|UPS]] (details see Sayre 1969 and see entry under Ch. Wright).
 
 #### Bibliography and biography
 
@@ -45,15 +46,15 @@ Barnhart 3: 407 (b. 7 Dec 1817, d. 15 Mar 1886); Biol.-Dokum. 18: 9410; BL 1: 18
 
 #### Composite works
 
-(1) *Lichens, in* Th.G. Lea, *Cat. pl. Cincinnati* 1849, see TL-2/4260 (p. 44-48; *Coll. lichenol. pap*. 1: 246-251. 1964).
-(2) *Lichenes*, in *U.S. Expl. Exped.*, Charles Wilkes 17: 113-152, *pl. 1-2.* 1862 (*Coll. lichenol. pap*. 1: 300-339. 1964). See also Pfister (1985) for publication of manuscripts. – See under Wilkes.
-(3) *Lichens, in* J.T. Rothrock et al., *Rep. U.S. geogr. surv. Wheeler* 1879. See TL-2/9658.
-(4) *Enumeratio lichenum* a D. Prof. Agassiz ad Lacum superiorem, anno 1848, lectorum, *in* L. Agassiz, *Lake superior*, Boston 1850, p. 170-174 (*Coll. lichenol. pap*. 1: 252-256. 1964).
-(5) *Lichenes, in* H.L. Abbot, Rept. Expt. Railr. Sacramento Valley to the Columbia River, \[Pacific railroad reports 6(2): 94. 1855 \[i.e. Mar 1858\] (*Coll. lichenol. pap*. 1: 257-258. 1964).
-(6) *Lichenes, in* S. Watson, *U.S. Geol. Expl. 40th Par., Botany* p. 412-513. 1871 (*Coll. lichenol. pap*. 1: 460-462. 1964).
-(7) *Lichenes, in* F.V. Hayden, *Prel. Rep. U.S. Geol. Surv. Montana* p. 498. 1871 \[1872\], (*Coll. lichenol. pap*. 1: 463-464. 1964).
-(*8*) *Lichenes, in* G.M. Wheeler, *Rep. U.S. Geogr. Surv. 100th Merid. b, Botany*: 350-351. 1878 (*Coll. lichenol. pap*. 1: 501-503. 1964).
-(9) See F.L. Sargent, *Key N. Amer. sp. Cladonia* 1893, 1893. TL-2/10.305, based on Tuckerman, Syn. N. Amer. Lich.
+- (1) *Lichens, in* Th.G. Lea, *Cat. pl. Cincinnati* 1849, see TL-2/4260 (p. 44-48; *Coll. lichenol. pap*. 1: 246-251. 1964).
+- (2) *Lichenes*, in *U.S. Expl. Exped.*, Charles Wilkes 17: 113-152, *pl. 1-2.* 1862 (*Coll. lichenol. pap*. 1: 300-339. 1964). See also Pfister (1985) for publication of manuscripts. – See under Wilkes.
+- (3) *Lichens, in* J.T. Rothrock et al., *Rep. U.S. geogr. surv. Wheeler* 1879. See TL-2/9658.
+- (4) *Enumeratio lichenum* a D. Prof. Agassiz ad Lacum superiorem, anno 1848, lectorum, *in* L. Agassiz, *Lake superior*, Boston 1850, p. 170-174 (*Coll. lichenol. pap*. 1: 252-256. 1964).
+- (5) *Lichenes, in* H.L. Abbot, Rept. Expt. Railr. Sacramento Valley to the Columbia River, \[Pacific railroad reports 6(2): 94. 1855 \[i.e. Mar 1858\] (*Coll. lichenol. pap*. 1: 257-258. 1964).
+- (6) *Lichenes, in* S. Watson, *U.S. Geol. Expl. 40th Par., Botany* p. 412-513. 1871 (*Coll. lichenol. pap*. 1: 460-462. 1964).
+- (7) *Lichenes, in* F.V. Hayden, *Prel. Rep. U.S. Geol. Surv. Montana* p. 498. 1871 \[1872\], (*Coll. lichenol. pap*. 1: 463-464. 1964).
+- (8) *Lichenes, in* G.M. Wheeler, *Rep. U.S. Geogr. Surv. 100th Merid. b, Botany*: 350-351. 1878 (*Coll. lichenol. pap*. 1: 501-503. 1964).
+- (9) See F.L. Sargent, *Key N. Amer. sp. Cladonia* 1893, 1893. TL-2/10.305, based on Tuckerman, Syn. N. Amer. Lich.
 
 #### Handwriting
 

@@ -27,9 +27,9 @@ AG 4: 30; Backer p. 661; Barnhart 3: 321 (b. 23 Mar 1847, d. 28 Feb 1899); Biol.
 
 #### Composite works
 
-(1) Co-editor, Gartenflora 31-39. 1882-1890.
-(2) Contributed to G.B. Neumayer, Int. Polarforsch., Deut. Exped. 1890, TL-2/6760.
-(3) With Ch. Jauch, *Flora artefacta*, series 1-12, ca. 1884-1891, 120 models to be used in botanical teaching.
+- (1) Co-editor, Gartenflora 31-39. 1882-1890.
+- (2) Contributed to G.B. Neumayer, Int. Polarforsch., Deut. Exped. 1890, TL-2/6760.
+- (3) With Ch. Jauch, *Flora artefacta*, series 1-12, ca. 1884-1891, 120 models to be used in botanical teaching.
 
 #### Eponymy
 

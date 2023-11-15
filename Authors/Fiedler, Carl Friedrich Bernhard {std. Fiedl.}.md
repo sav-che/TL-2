@@ -8,7 +8,8 @@ Fiedler, Carl Friedrich Bernhard (1807-1869), German botanist, regional physicia
 
 #### Herbarium and types
 
-Some material at [[Collection ROST|ROST]]. Exsiccatae: 1.*Beiträge zur Mecklenburgischen pllzflora* (fasc. 1-3, nos. 1-163). Set at [[Collection FH|FH]]. – (fasc. 3 publ. Apr-Mai 1851, fide Bot. Zeit. 9: 422. 1851).
+Some material at [[Collection ROST|ROST]].
+*Exsiccatae*: 1.*Beiträge zur Mecklenburgischen pllzflora* (fasc. 1-3, nos. 1-163). Set at [[Collection FH|FH]]. – (fasc. 3 publ. Apr-Mai 1851, fide Bot. Zeit. 9: 422. 1851).
 2.*Musci frondosi exsiccati* (fasc. i-iii, nos. 1-150, Berlin, Schwerin 18442-1846. (in [[Collection B|B]] as *Musci megapolitani*, fide Urban).
 3.*Klotzschii herbarium vivum mycologium*, ed. Rabenhorst, ed. 1 and 2, many contributions by Fiedler.
 *Ref*.: IH 2: 196.

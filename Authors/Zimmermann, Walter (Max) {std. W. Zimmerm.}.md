@@ -29,15 +29,15 @@ Barnhart 3: 541 (b. 9 Mai 1892); BFM 2259, 2309, 2310a; Biol.-Dokum. 19: 10329-1
 
 #### Composite works
 
-(1) Contributed to G. Hegi, *Ill. Fl. Mitt.-Eur.* ed. 2.3(3), see TL-2(2571).
-(2) *Phylogenie, in* F. Verdoorn, *Man. bryol.* 433-464. 1932. (TL-2/16.031).
-(3) Contributed to F. Verdoorn, ed., *Man. Pteridol.* 1938 (see index). (TL-2/16.041).
-(4) Co-editor, *Handbuch der Pflanzenanatomie*, Encyclopaedia of plant anatomy, 1934-x.
+- (1) Contributed to G. Hegi, *Ill. Fl. Mitt.-Eur.* ed. 2.3(3), see TL-2(2571).
+- (2) *Phylogenie, in* F. Verdoorn, *Man. bryol.* 433-464. 1932. (TL-2/16.031).
+- (3) Contributed to F. Verdoorn, ed., *Man. Pteridol.* 1938 (see index). (TL-2/16.041).
+- (4) Co-editor, *Handbuch der Pflanzenanatomie*, Encyclopaedia of plant anatomy, 1934-x.
 
 #### Note
 
-(1) Outside our period e.g. *Geschichte der Pflanzen*, Stuttgart 1949, xi, 111 p.; ed. 2. 1969; *Evolution und Naturphilosophie*, Berlin 1969, 313 p.
-(2) Walther Zimmermann (1890-1945), German (Baden) botanist, published on the variability of German orchids.
+- (1) Outside our period e.g. *Geschichte der Pflanzen*, Stuttgart 1949, xi, 111 p.; ed. 2. 1969; *Evolution und Naturphilosophie*, Berlin 1969, 313 p.
+- (2) Walther Zimmermann (1890-1945), German (Baden) botanist, published on the variability of German orchids.
 
 #### Eponymy
 

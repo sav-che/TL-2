@@ -10,7 +10,8 @@ Carrington, Benjamin (1827-1893), British physician and bryologist.
 
 #### Herbarium and types
 
-[[Collection MANCH|MANCH]]. – Exsiccatae: with William Henry Pearson (1849-1923): *Hepaticae britannicae exsiccatae* (fasc. 1-4, nos. 1-290), Manchester 1878-1890. Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection PRE|PRE]].
+[[Collection MANCH|MANCH]].
+*Exsiccatae*: with William Henry Pearson (1849-1923): *Hepaticae britannicae exsiccatae* (fasc. 1-4, nos. 1-290), Manchester 1878-1890. Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection PRE|PRE]].
 *Ref*.: IH 2: 117.
 - Kent, Brit. herbaria 47. 1953.
 - Clokie, Account herbaria Oxford 143. 1964.

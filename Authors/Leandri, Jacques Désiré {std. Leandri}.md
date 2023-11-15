@@ -18,8 +18,8 @@ Barnhart 2: 254; Bossert p. 230; Hortus 3: 1198 ("Leandri"); IH 2: 419; Kew 3: 3
 
 #### Composite works
 
-(1) Lecomte, *Fl. gén. Indochine, Ceratophyllaceae*, 5(10): 1052-1053. Apr 1931. *Gnetaceae* 5(10): 1054-1062. Apr 1931; *Cycadaceae* 5(10): 1085-1092. Apr 1931.
-(2) several contributions to Humbert, *Fl. Madagascar*, e.g. *Urticacées*, 107 p., 1965, Thyméléacées, 39 p., 1950 and Euphorbiacées 1, 209 p., 1958.
+- (1) Lecomte, *Fl. gén. Indochine, Ceratophyllaceae*, 5(10): 1052-1053. Apr 1931. *Gnetaceae* 5(10): 1054-1062. Apr 1931; *Cycadaceae* 5(10): 1085-1092. Apr 1931.
+- (2) several contributions to Humbert, *Fl. Madagascar*, e.g. *Urticacées*, 107 p., 1965, Thyméléacées, 39 p., 1950 and Euphorbiacées 1, 209 p., 1958.
 
 #### Eponymy
 

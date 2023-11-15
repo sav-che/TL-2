@@ -40,12 +40,12 @@ Backer p. 481; Barnhart 3: 123; Biol.-Dokum. 14: 7283-7284; BJI 1: 47, 2: 142; B
 
 #### Composite works
 
-(1) *Sapindaceae*, in E.P., *Nat. Pflanzenfam.* 3(5): 277-320. 2 Apr 1895, 321-366. 7 Mai 1895, 460-462, *Nachtr*. 2-4: 227-229. Oct 1897 (with E. Gilg).
-(2) *Sapindaceae*, in Engler, *Pflanzenreich* IV. 165 (Heft 98a-h), p. 1-1539, 8 Dec 1831 – 27 Feb 1934 (for precise dates see TL-2/1: 793); edited (after Radlkofer's death) by Th. Herzog. The former, at the age 97, had not been in a hurry to finish the manuscript, according to Herzog because he was convinced that he would live until 100).
-(3) *Sapindaceae*, in Martius, *Fl. bras.* 13(3): 225-658. *pl. 58-123.* 1892-1900 (fasc. 103, 1 Jul 1892; 122: 1 Sep 1897, 124: 1 Apr 1900).
-(4) With O. Sendtner (q.v.) and W. Gümbel, *Die Vegetations- Verhältnisse des Bayerischen Waldes*, München 1860.
-(5) *Sapindaceae*, in I. Urban, *Symb. ant.* 9(1): 75-76. 1 Jan 1923.
-(6) *Sapindaceae*, in E. Warming, *Symbolae* 37: 240-245. 21 Apr 1891.
+- (1) *Sapindaceae*, in E.P., *Nat. Pflanzenfam.* 3(5): 277-320. 2 Apr 1895, 321-366. 7 Mai 1895, 460-462, *Nachtr*. 2-4: 227-229. Oct 1897 (with E. Gilg).
+- (2) *Sapindaceae*, in Engler, *Pflanzenreich* IV. 165 (Heft 98a-h), p. 1-1539, 8 Dec 1831 – 27 Feb 1934 (for precise dates see TL-2/1: 793); edited (after Radlkofer's death) by Th. Herzog. The former, at the age 97, had not been in a hurry to finish the manuscript, according to Herzog because he was convinced that he would live until 100).
+- (3) *Sapindaceae*, in Martius, *Fl. bras.* 13(3): 225-658. *pl. 58-123.* 1892-1900 (fasc. 103, 1 Jul 1892; 122: 1 Sep 1897, 124: 1 Apr 1900).
+- (4) With O. Sendtner (q.v.) and W. Gümbel, *Die Vegetations- Verhältnisse des Bayerischen Waldes*, München 1860.
+- (5) *Sapindaceae*, in I. Urban, *Symb. ant.* 9(1): 75-76. 1 Jan 1923.
+- (6) *Sapindaceae*, in E. Warming, *Symbolae* 37: 240-245. 21 Apr 1891.
 
 #### Handwriting
 

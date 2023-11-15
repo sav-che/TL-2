@@ -47,9 +47,9 @@ Backer p. 462; Barnhart 3: 106; BJI 2: 139; BL 2: 704 (many refs.); BM 4: 1569, 
 
 #### Composite works
 
-(1) Co-editor, *Irish Naturalist* 1-33, 1892-1924.
-(2) Contributed flowering plants, vascular cryptogams and charophytes to the second edition of S.A. Stewart & T.M. Corry, *A flora of the North-East of Ireland*, 1938, lix, 472 p. (rev. A. J. Wilmott, J. Bot. 77: 93-94. Mai 1939. Praeger wrote the chapters on flowering plants, vascular cryptogams and charophytes). – See S.A. Stewart.
-(3) *Clare Island Survey* part 10, Phanerogamia and Pteridophyta, p. 1-112, *pl. 1-6*, reprinted with special cover from Proc. R. Irish Acad. 31(10): 1-112. 29 Nov 1911. (Scott. bot. Rev. 1912(1): 56. Jan 1912).
+- (1) Co-editor, *Irish Naturalist* 1-33, 1892-1924.
+- (2) Contributed flowering plants, vascular cryptogams and charophytes to the second edition of S.A. Stewart & T.M. Corry, *A flora of the North-East of Ireland*, 1938, lix, 472 p. (rev. A. J. Wilmott, J. Bot. 77: 93-94. Mai 1939. Praeger wrote the chapters on flowering plants, vascular cryptogams and charophytes). – See S.A. Stewart.
+- (3) *Clare Island Survey* part 10, Phanerogamia and Pteridophyta, p. 1-112, *pl. 1-6*, reprinted with special cover from Proc. R. Irish Acad. 31(10): 1-112. 29 Nov 1911. (Scott. bot. Rev. 1912(1): 56. Jan 1912).
 
 #### Handwriting
 

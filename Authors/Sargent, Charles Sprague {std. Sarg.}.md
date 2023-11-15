@@ -60,13 +60,13 @@ AG 6(2): 110; Backer p. 512; Barnhart 3: 211 (b. 24 Apr 1841, d. 23 Mar 1927); B
 
 #### Composite works
 
-(1) *Garden and Forest*, 10 vols., 1888-1897, editor (Sargent contributed 367 articles).
-(2) Editor, *Asa Gray, scientific papers*, 2 vols. 1889.
-(3) A. Rehder, *Bradley bibliography*, 5 vols. 1911-1918, compiled under the direction of C.S. Sargent.
-(4) Editor, *Bulletin of popular Information*, Arnold Arb., Jamaica Plain, vols. 1-12, 1915-1926.
-(5) Editor, *Journal of the Arnold Arboretum* vols. 1-8(1), 1919-1927.
-(6) Editor, E.J. Palmer, *Synopsis of North American Crataegi*, 1925, see TL-2/4: 30.
-(7) Introduction to Ernest H. Wilson, A naturalist in Western China, 1913.
+- (1) *Garden and Forest*, 10 vols., 1888-1897, editor (Sargent contributed 367 articles).
+- (2) Editor, *Asa Gray, scientific papers*, 2 vols. 1889.
+- (3) A. Rehder, *Bradley bibliography*, 5 vols. 1911-1918, compiled under the direction of C.S. Sargent.
+- (4) Editor, *Bulletin of popular Information*, Arnold Arb., Jamaica Plain, vols. 1-12, 1915-1926.
+- (5) Editor, *Journal of the Arnold Arboretum* vols. 1-8(1), 1919-1927.
+- (6) Editor, E.J. Palmer, *Synopsis of North American Crataegi*, 1925, see TL-2/4: 30.
+- (7) Introduction to Ernest H. Wilson, A naturalist in Western China, 1913.
 
 #### Handwriting
 

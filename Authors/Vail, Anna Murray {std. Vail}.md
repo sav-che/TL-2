@@ -23,13 +23,13 @@ Barnhart 3: 419 (b. 7 Jan 1863); BL 1: 219, 322; BM 5: 2187; CSP 19: 275; GR p. 
 
 #### Composite works
 
-(1) *An enumeration of the plants collected by... T. Morong* in Paraguay, 1888-1890. By T. Morong and N.L. Britton, with the assistance of Miss A.M. Vail, *in* Ann. N.Y. Acad. Sci. 7: 1893, see TL-2/6340.
-(2) With D.T. MacDougal et al., *Mutants hybrids Oenoth*. 1905, see TL-2/5163.
-(3) With D.T. MacDougal and G.H. Shull, *Mutations variations Oenoth*. 1907, see TL-2/5164.
-(4) With J.K. Small (senior author), *Report of the botanical exploration of southwestern Virginia* during the season of 1892, Mem. Torrey bot. Club 4: 93-201, *pl. 75-82.* 18 Nov 1893-17 Apr 1894.
-(5) *Dolicholus* and *Pitcheria, in* J.K. Small, *Fl. s.e. U.S.* 1903.
-(6) With P.A. Rydberg, Z*ygophyllaceae*, N. Amer. Fl. 25: 103-116. 3 Jun 1910.
-(7) *Notes on the spring flora of South-Western Virginia*, Mem. Torrey bot. Club 2(2): 27-53, *pl. 3-4.* 23 Dec 1890, with annotations by N.L. Britton and a list of mosses by E.G. Britton.
+- (1) *An enumeration of the plants collected by... T. Morong* in Paraguay, 1888-1890. By T. Morong and N.L. Britton, with the assistance of Miss A.M. Vail, *in* Ann. N.Y. Acad. Sci. 7: 1893, see TL-2/6340.
+- (2) With D.T. MacDougal et al., *Mutants hybrids Oenoth*. 1905, see TL-2/5163.
+- (3) With D.T. MacDougal and G.H. Shull, *Mutations variations Oenoth*. 1907, see TL-2/5164.
+- (4) With J.K. Small (senior author), *Report of the botanical exploration of southwestern Virginia* during the season of 1892, Mem. Torrey bot. Club 4: 93-201, *pl. 75-82.* 18 Nov 1893-17 Apr 1894.
+- (5) *Dolicholus* and *Pitcheria, in* J.K. Small, *Fl. s.e. U.S.* 1903.
+- (6) With P.A. Rydberg, Z*ygophyllaceae*, N. Amer. Fl. 25: 103-116. 3 Jun 1910.
+- (7) *Notes on the spring flora of South-Western Virginia*, Mem. Torrey bot. Club 2(2): 27-53, *pl. 3-4.* 23 Dec 1890, with annotations by N.L. Britton and a list of mosses by E.G. Britton.
 
 #### Eponymy
 

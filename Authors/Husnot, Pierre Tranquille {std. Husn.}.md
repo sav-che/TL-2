@@ -10,11 +10,11 @@ Husnot, Pierre Tranquille (1840-1929), French bryologist and agrostologist.
 
 The French herbarium is at [[Collection NCY|NCY]]. The location of the first set of Husnot's Central American collections is unknown, the plants are in numerous herbaria, especially [[Collection P|P]] and [[Collection PC|PC]]. The bryophytes are at [[Collection PC|PC]] (formerly at [[Collection CN|CN]]).
 *Exsiccatae*:
-(1) *Genera muscorum europaeorum exsiccata*, nos. 1-107. Caen 1874, publ. 20 Sep 1874, sets at [[Collection NY|NY]], [[Collection PC|PC]].
-(2) *Hepaticae galliae*, herbier des hépatiques de France. Fasc. 1-9, nos. 1-231. Caen (T. Husnot) 1870-1901, fascicles undated, published 1: 1870, 2: 1872, 3/4: 1875, 5: 10 Jan 1881, 6: 1883, 7: Oct 1883, 8: 1890, 9: 13 Jun 1901 (Sayre). Links up with *Hepaticologia gallica*, see no. 3151. Sets at: [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection CU|CU]], [[Collection G|G]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection S|S]].
-(3) *Musci galliae*, herbier des mousses de France. Fasc. 1-19, nos. 1-959. Caen (T. Husnot) 1870-1907, for precise dates see Sayre (1971), linked up with *Muscologia gallica*, see no. 3154. Sets at: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection CU|CU]], [[Collection FH|FH]], [[Collection G|G]], [[Collection I|I]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]].
-(4) *Plantes des Antilles*, coll. 1868, issued probably 1870, inch *Mousses des Antilles*, récoltées par Husnot et déterminées par Gottsche, 40 sp., *Hépatiques des Antilles*, récoltées par Husnot et determinées par Gottsche, 40 sp., *Fougères des Antilles*, 70 sp.
-(5) *Lichens des Canaries*, nos. 1-37. 1924.
+- (1) *Genera muscorum europaeorum exsiccata*, nos. 1-107. Caen 1874, publ. 20 Sep 1874, sets at [[Collection NY|NY]], [[Collection PC|PC]].
+- (2) *Hepaticae galliae*, herbier des hépatiques de France. Fasc. 1-9, nos. 1-231. Caen (T. Husnot) 1870-1901, fascicles undated, published 1: 1870, 2: 1872, 3/4: 1875, 5: 10 Jan 1881, 6: 1883, 7: Oct 1883, 8: 1890, 9: 13 Jun 1901 (Sayre). Links up with *Hepaticologia gallica*, see no. 3151. Sets at: [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection CU|CU]], [[Collection G|G]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection S|S]].
+- (3) *Musci galliae*, herbier des mousses de France. Fasc. 1-19, nos. 1-959. Caen (T. Husnot) 1870-1907, for precise dates see Sayre (1971), linked up with *Muscologia gallica*, see no. 3154. Sets at: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection CU|CU]], [[Collection FH|FH]], [[Collection G|G]], [[Collection I|I]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]].
+- (4) *Plantes des Antilles*, coll. 1868, issued probably 1870, inch *Mousses des Antilles*, récoltées par Husnot et déterminées par Gottsche, 40 sp., *Hépatiques des Antilles*, récoltées par Husnot et determinées par Gottsche, 40 sp., *Fougères des Antilles*, 70 sp.
+- (5) *Lichens des Canaries*, nos. 1-37. 1924.
 *Ref*.: Theriot, Rev. bryol. ser. 2. 4: 89, 143. 1931, 5: 229. 1932.
 - Sayre, Mem. New York Bot. Gard. 19(1): 28-29, 135. 1969, 19(2): 217-220. 1971; Bryologist 80: 510. 1977 (1978).
 
@@ -36,8 +36,8 @@ Barnhart 2: 222; BM 2: 895, 6: 496; Bossert p. 187; Clokie p. 188; CSP 7: 1041, 
 
 #### Composite works
 
-(1) Editor of the *Revue bryologique*, vols. 1-53, 1874-1926 (see 53(3). 1926 for a note introducing his successor P. Allorge).
-(2) See Roussel, M., *Énumération des champignons récoltés par M. T. Husnot* aux Antilles françaises en 1868. Paris (J. B. Baillière et fils...), p. \[1\]-60, *pl. I.* 1870, *Copy*: FH. – Bull. Soc. Linn. Norm. ser. 2. 4: 217 ff
+- (1) Editor of the *Revue bryologique*, vols. 1-53, 1874-1926 (see 53(3). 1926 for a note introducing his successor P. Allorge).
+- (2) See Roussel, M., *Énumération des champignons récoltés par M. T. Husnot* aux Antilles françaises en 1868. Paris (J. B. Baillière et fils...), p. \[1\]-60, *pl. I.* 1870, *Copy*: FH. – Bull. Soc. Linn. Norm. ser. 2. 4: 217 ff
 
 #### Memorial volume
 

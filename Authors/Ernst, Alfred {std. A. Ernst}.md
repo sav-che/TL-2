@@ -29,8 +29,8 @@ Barnhart 1: 514; BM 6: 307; Bossert p. 118; IH 2: 185; Kew 2: 205-206; NAF ser. 
 
 #### Composite works
 
-(1) *Die Besiedlung vulkanischen Bodens auf Java und Sumatra*, *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 7, Heft 1 and 2: 30 p. text, *pl. 1-12.* 1910.
-(2) *Festschrift* zur Eröffnung des neuen Instituts für allgemeine *Botanik* an der Universität *Zürich*... Jena (Gustav Fischer) 1914. Oct. p. v, *23 pl*. *Copy*: U.
+- (1) *Die Besiedlung vulkanischen Bodens auf Java und Sumatra*, *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 7, Heft 1 and 2: 30 p. text, *pl. 1-12.* 1910.
+- (2) *Festschrift* zur Eröffnung des neuen Instituts für allgemeine *Botanik* an der Universität *Zürich*... Jena (Gustav Fischer) 1914. Oct. p. v, *23 pl*. *Copy*: U.
 
 ### Publications
 

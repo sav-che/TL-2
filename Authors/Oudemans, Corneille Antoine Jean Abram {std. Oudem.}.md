@@ -8,7 +8,8 @@ Oudemans, Corneille Antoine Jean Abram (1825-1906), Dutch physician and botanist
 
 #### Herbarium and types
 
-[[Collection GRO|GRO]]; fungi on permanent loan to [[Collection L|L]] from 1969. *Exsiccatae*:
+[[Collection GRO|GRO]]; fungi on permanent loan to [[Collection L|L]] from 1969.
+*Exsiccatae*:
 (a) *Herbarium Nederlandsche planten*, fasc. 1-27, nos. 1-1350, 1867-1896; sets at [[Collection BR|BR]], [[Collection GRO|GRO]], [[Collection L|L]], [[Collection LG|LG]], [[Collection U|U]] (see Oudemans 1871) (14 sets distr. of nos. 1-12 by 1871).
 (b) *Fungi neerlandici exsiccati*, cent. 1-3, nos. 1-300, 1875-1879, sets at [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection GRO|GRO]], [[Collection K|K]], [[Collection L|L]], [[Collection LG|LG]], [[Collection PAD|PAD]], [[Collection U|U]], [[Collection WRSL|WRSL]]. – Accompanied by printed matter: "Fungi neerlandici exsiccati a C. A. J. A. Oudemans collecti Centuria \[in ink: i, ii, iii\]. Amstelodami 1875 \[2: in ink: 1877; 3 id.: 1879), *1*: \[i\], \[1\]-4, *2*: \[i\], \[1\]-4, 3: \[i\], \[1\]-4. *Copy*: [[Collection BR|BR]].
 

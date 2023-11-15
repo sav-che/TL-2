@@ -24,8 +24,8 @@ Andrews p. 266; Barnhart 2: 30; Bossert p. 140; LS 9610; MW p. 135, suppl. p. 74
 
 #### Composite works
 
-(1) *Myxophyceae, in* Scientific survey of Porto Rico and the Virgin Islands 8(2): \[i\], 209-311, *pl. 1-2.* 22 Nov 1932.
-(2) Setchell and Gardner, *The marine algae of the Pacific Coast of North America* (1919-1925), and *Algae of Northwestern America* (1903).
+- (1) *Myxophyceae, in* Scientific survey of Porto Rico and the Virgin Islands 8(2): \[i\], 209-311, *pl. 1-2.* 22 Nov 1932.
+- (2) Setchell and Gardner, *The marine algae of the Pacific Coast of North America* (1919-1925), and *Algae of Northwestern America* (1903).
 
 #### Eponymy
 

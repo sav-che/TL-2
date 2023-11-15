@@ -26,10 +26,10 @@ AG 4: 490; Barnhart 3: 246 (b. 19 Aug 1802, d. 5 Feb 1892); Biol.-Dokum. 6: 8420
 
 #### Composite works
 
-(1) See TL-2/3485, K. Kalchbrenner et S. Schulzer, *Icon. select.* *Hymenomyc. Hung.* 1873-1877 which was based on the manuscript "Systematische Aufzählung..." mentioned above. See Tortic (1970) p. 95 for the part of Schulzer in this undertaking. Schulzer should at any rate be considered co-author. – Other *copies*: BR, MO, NY.
-(2) A. Kanitz, *Noch einmal über Josef von Lerchenfeld* und dessen botanischen Nachlass... mit mycologischen Bemerkungen von Stephan Schulzer von Müggenburg...
+- (1) See TL-2/3485, K. Kalchbrenner et S. Schulzer, *Icon. select.* *Hymenomyc. Hung.* 1873-1877 which was based on the manuscript "Systematische Aufzählung..." mentioned above. See Tortic (1970) p. 95 for the part of Schulzer in this undertaking. Schulzer should at any rate be considered co-author. – Other *copies*: BR, MO, NY.
+- (2) A. Kanitz, *Noch einmal über Josef von Lerchenfeld* und dessen botanischen Nachlass... mit mycologischen Bemerkungen von Stephan Schulzer von Müggenburg...
 Hermannstadt (gedruckt in der Buchdruckerei der v. Closius'schen Erbin) 1884, p. \[1\]-46, *pl. 1-2. Copy*: G. – Reprinted from Verh. Mitt. siebenb. Ver. Naturw. Hermannstadt 34, 1884; mycology on p. 25-42, *pl. 1-2.* – Further to a paper by F. Schur, ib. 4: 88-96. 1853.
-(3) For the numerous short papers entitled *Mykologisches* published in Österr bot. Z. and Flora and for *Mykologische Beiträge* 1-6, published in Verh. zool. bot. Ges. Wien see the bibliography by Tortic (1970).
+- (3) For the numerous short papers entitled *Mykologisches* published in Österr bot. Z. and Flora and for *Mykologische Beiträge* 1-6, published in Verh. zool. bot. Ges. Wien see the bibliography by Tortic (1970).
 
 #### Eponymy
 

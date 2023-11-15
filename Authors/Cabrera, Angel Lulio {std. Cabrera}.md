@@ -31,10 +31,10 @@ Not to be confused with his father, Angel Cabrera, 1879-1960 (zoologist and pala
 
 #### Outside our period
 
-(1): *Manual de la flora de los Alrededores de Buenos Aires*, 590 p., 1953. – Review by N. Y. Sandwith, Kew. Bull. 1953(4): 546. 2 Jan 1954.
-(2) *Neocabreria* (Compos.) 1972, commemorative name, see ING 2: 1159. 1979. (3) *Flora de la Provincia de Buenos Aires* VI. *Compuestas* by A.L. Cabrera, XIV, 443 p., 143 pl. Buenos Aires 1963, see also Taxon 13: 297. 13 Nov 1964. – The series *Fl. Prov. Buenos Aires* was edited by Cabrera.
-(4) *Revisión del género Mutisia* (Compositae), by A.L. Cabrera, 227 p., map, Opera Lilloana no. XIII, Tucuman, Argentinia 1965, see Taxon 15: 331. 1966.
-(5) *Biogeográfica de America latina* por Angel L. Cabrera y Abraham Willink. Washington 1973, vi, 120 p.
+- (1): *Manual de la flora de los Alrededores de Buenos Aires*, 590 p., 1953. – Review by N. Y. Sandwith, Kew. Bull. 1953(4): 546. 2 Jan 1954.
+- (2) *Neocabreria* (Compos.) 1972, commemorative name, see ING 2: 1159. 1979. (3) *Flora de la Provincia de Buenos Aires* VI. *Compuestas* by A.L. Cabrera, XIV, 443 p., 143 pl. Buenos Aires 1963, see also Taxon 13: 297. 13 Nov 1964. – The series *Fl. Prov. Buenos Aires* was edited by Cabrera.
+- (4) *Revisión del género Mutisia* (Compositae), by A.L. Cabrera, 227 p., map, Opera Lilloana no. XIII, Tucuman, Argentinia 1965, see Taxon 15: 331. 1966.
+- (5) *Biogeográfica de America latina* por Angel L. Cabrera y Abraham Willink. Washington 1973, vi, 120 p.
 
 #### Dedication
 

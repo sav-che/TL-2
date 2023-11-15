@@ -60,10 +60,10 @@ ADB 10: 515-516 (incomplete); AG 5(1): 436: Backer p. 250; Barnhart 2: 107; BM 2
 
 #### Composite works
 
-(1) *Botanische Beobachtungen* im Riesengebirge, *in* Jirasek, *Beobachtungen*. Dresden 1791 (ante Sep) p. 31-159. *See Jirasek*. (TL2/3354).
-(2) *Observations botanicae* in Bohemia, Austria, Styria, Carinthia, Tyroli, Hungariae factae, *in* Jacquin, *Collectanea Austriaca* 2(1), 1788. (TL2/3253).
-(3) *Reliquiae haenkeanae, see* C.B. Presl.
-(4) On the southern affluents of the River Amazonas. *F. Geol. Soc.* 5: 90-98. 1835 (translation from a 1799 mss).
+- (1) *Botanische Beobachtungen* im Riesengebirge, *in* Jirasek, *Beobachtungen*. Dresden 1791 (ante Sep) p. 31-159. *See Jirasek*. (TL2/3354).
+- (2) *Observations botanicae* in Bohemia, Austria, Styria, Carinthia, Tyroli, Hungariae factae, *in* Jacquin, *Collectanea Austriaca* 2(1), 1788. (TL2/3253).
+- (3) *Reliquiae haenkeanae, see* C.B. Presl.
+- (4) On the southern affluents of the River Amazonas. *F. Geol. Soc.* 5: 90-98. 1835 (translation from a 1799 mss).
 
 #### Note
 

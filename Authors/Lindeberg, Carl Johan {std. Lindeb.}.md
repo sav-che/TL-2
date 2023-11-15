@@ -8,7 +8,9 @@ Lindeberg, Carl Johan (1815-1900), Swedish botanist and high school teacher at G
 
 #### Herbarium and types
 
-[[Collection GB|GB]] (acquired 1899). Exsiccatae: (1) *Hieracia scandinavica exsiccata*, fasc. 1-3, nos. 1-150, Göteborg 1868-1878; sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection GFW|GFW]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection O|O]], [[Collection P|P]], [[Collection S|S]], [[Collection WRSL|WRSL]], for further details see KR p. 409, no. 24. (2) *Herbarium ruborum scandinaviae*, fasc. 1-2, nos. 1-52, Göteborg 1882-1885; sets at [[Collection C|C]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]]; for further details see KR p. 409, no. 25.
+[[Collection GB|GB]] (acquired 1899).
+*Exsiccatae*: (1) *Hieracia scandinavica exsiccata*, fasc. 1-3, nos. 1-150, Göteborg 1868-1878; sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection GFW|GFW]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection O|O]], [[Collection P|P]], [[Collection S|S]], [[Collection WRSL|WRSL]], for further details see KR p. 409, no. 24.
+- (2) *Herbarium ruborum scandinaviae*, fasc. 1-2, nos. 1-52, Göteborg 1882-1885; sets at [[Collection C|C]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]]; for further details see KR p. 409, no. 25.
 
 #### Bibliography and biography
 

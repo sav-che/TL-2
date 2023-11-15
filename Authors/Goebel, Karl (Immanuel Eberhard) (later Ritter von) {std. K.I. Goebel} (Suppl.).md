@@ -74,8 +74,8 @@ APN p. 231; Barnhart 2: 58 (as "Eberhard"); BFM p. 286 (index); Biol.-Dokum. 7: 
 
 #### Note
 
-(1) One of several collaborators with J.A. Schenk, *Handb. Bot.*... vols. 2-4, 1881-1890, see TL-2/5, nr. 10.561.
-(2) *Organography of plants*... 1900-1905, 2 vols., the I.B. Balfour transl. of *Organogr. Pfl.* ... ed. 1, is now available in microform:
+- (1) One of several collaborators with J.A. Schenk, *Handb. Bot.*... vols. 2-4, 1881-1890, see TL-2/5, nr. 10.561.
+- (2) *Organography of plants*... 1900-1905, 2 vols., the I.B. Balfour transl. of *Organogr. Pfl.* ... ed. 1, is now available in microform:
 *Microfilm*: Columbus, Ohio (Ohio State Univ. Libraries), 1991, 1 reel (35 mm). *Copy*:
 (n.v.). *Microfiche*: Naples, Florida (NewsBank), \[1999\], 21 microfiches (Landmarks II). *Copy*: (n.v.).
 

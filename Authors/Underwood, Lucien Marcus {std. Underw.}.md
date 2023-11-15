@@ -10,8 +10,8 @@ Underwood, Lucien Marcus (1853-1907), American botanist; Dr. phil. Syracuse Univ
 
 [[Collection NY|NY]]. – Other material at [[Collection ALU|ALU]], [[Collection BM|BM]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection LIV|LIV]], [[Collection LIVU|LIVU]], [[Collection MAINE|MAINE]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection OS|OS]], [[Collection P|P]], [[Collection PH|PH]], [[Collection TENN|TENN]], [[Collection US|US]] (Jamaica 447, Puerto Rico 1003) [[Collection YU|YU]]. – *Manuscripts* and *letters*: [[Collection NY|NY]]; other letters at [[Collection FH|FH]], [[Collection G|G]], [[Collection GH|GH]]. (Manuscript *A list of the Anthocerotaceae* 20 Apr 1907, 7 p. typescript, is at [[Collection NY|NY]]).
 *Exsiccatae* (1): *Indiana flora, parasitic fungi*, series 1, nos. 1-100. Dec 1894. Greencastle, Indiana. Sets: [[Collection BPI|BPI]], [[Collection DPU|DPU]], [[Collection F|F]], [[Collection FH|FH]], [[Collection MSC|MSC]], [[Collection NCU|NCU]], [[Collection NY|NY]], [[Collection PUR|PUR]] (20 sets issued) (see Stevenson 1971 and Underwood, Proc. Indiana Acad. Sci. 1893: 16. 1894: 144-156. 1895).
-(2) With Orator Fuller Cook (1867-1949), *A century of illustrative fungi*, octavo volume (21 page intr. text, 100 specimens mounted 2-3 per page); cent. 1, nos. 1-100, Sep 1889, Syracuse, New York. Sets at [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PAC|PAC]], [[Collection TRTC|TRTC]], [[Collection WELC|WELC]] (see Stevenson 1971, J.E. Humphrey and P. Sydow (1891). Text issued separately as *Generic synopses of the Basidiomycetes and Myxomycetes* (1889).
-(3) With Orator Fuller Cook (1867-1949), *Hepaticae americanae*, decades 1-20, 1887-1899, nos. 1-200. Sets at: [[Collection B|B]] (mainly destr.), [[Collection CM|CM]], [[Collection FH|FH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection WELC|WELC]]. – For dates see Barnhart (1908), nos. 25, 31, 35, 37, 42, 48, 49, 65, 93, 121) and Sayre (1971).
+- (2) With Orator Fuller Cook (1867-1949), *A century of illustrative fungi*, octavo volume (21 page intr. text, 100 specimens mounted 2-3 per page); cent. 1, nos. 1-100, Sep 1889, Syracuse, New York. Sets at [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PAC|PAC]], [[Collection TRTC|TRTC]], [[Collection WELC|WELC]] (see Stevenson 1971, J.E. Humphrey and P. Sydow (1891). Text issued separately as *Generic synopses of the Basidiomycetes and Myxomycetes* (1889).
+- (3) With Orator Fuller Cook (1867-1949), *Hepaticae americanae*, decades 1-20, 1887-1899, nos. 1-200. Sets at: [[Collection B|B]] (mainly destr.), [[Collection CM|CM]], [[Collection FH|FH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection WELC|WELC]]. – For dates see Barnhart (1908), nos. 25, 31, 35, 37, 42, 48, 49, 65, 93, 121) and Sayre (1971).
 
 #### Bibliography and biography
 
@@ -55,22 +55,22 @@ Backer p. 662; Barnhart 3: 416 (b. 26 Oct 1853, d. 10 Nov 1907); BJI 1: 59; BL 1
 
 #### Composite works
 
-(1) Originator, with N.L. Britton, of the *North American Flora*, associate editor for the first five parts.
-(2) Editor, *Bull. Torrey bot. Club* 16-24. Jan 1889-Dec 1897.
-(3) Editor, *Memoirs Torrey bot. Club* 6 (p.p.) and 7-12, 1898-1902.
-(4) *Hepaticae, in* A. Gray, *Manual*, ed. 6. 702-732, *pl. 22-25.* 1890.
-(5) *Pteridophyta, in* J.M. Coulter, *Botany of western Texas*, Contr. U.S. natl. Herb. 2: 557-568. 10 Mai 1894.
-(6) With Franklin Sumner Earle, *Treatment of some fungous diseases*, Bull. Alabama Agr. Expt. Sta. 69(4): 243-272. Feb 1896.
-(7) *Pteridophyta, in* N.L. Britton and A. Brown, Ill. fl. n. U.S. 1: 1-48. Aug 1896.
-(8) \[Entries on botany of ferns *Acrostichum-Dryopteris*\] in L.H. Bailey & W. Miller, Cycl. Amer. Hort. 1, 14 Feb 1900 (for detailed list see Barnhart no. 132), *id. Gleichenia-Mohria*, in 2, 18 Jul 1900 (Barnhart 135), *id. Nephrodum-Pteris*, in 3, 23 Apr 1901 (Barnhart 143), *id. Schizaea-Woodwardia*, in 4, 26 Feb 1902 (Barnhart 154).
-(9) *Pteridophyta, in* N.L. Britton, *Man. fl. n. states* 1901, p. 1-29, 1901, see TL-2/779. – Also in ed. 2, 1905.
-(10) *Fungi, edible and poisonous, in* A.H. Buck, *Reference handbook of the medical sciences* ed. 2. 4: 275-286. 1902.
-(11) *Ferns and fern-allies*, in *Encyclopedia americana* 7: \[308-312\]. \[1904\].
-(12) *Flowerless plants or cryptogams, in* W. Miller, *A synopsis of the vegetable kingdom* p. 77-80, *in* L.H. Bailey & W. Miller, *Cycl. Amer. hort*. ed. 4. 1, 27 Mar 1906.
-(13) *Pteridophyta, in* P.A. Rydberg, *Fl. Colorado* 1906 (TL-2/9861), p. 1-6.
-(14) *Pteridophyta, in* Th. Morong, H.H. Rusby et al., *List of Pteridophyta and Spermatophyta* growing without cultivation in Northeastern North America, Mem. Torrey bot. Club 5: 9-17. 4 Dec 1893. – See TL-2/6342.
-(15) NAF, with R.C. Benedict, *Pteridophyta* 16(1). I. 6 Nov 1909, *Ophioglossales* 16(1): 1. 6 Nov 1909 and *Ophioglossaceae* 16(1): 3-13. 6 Nov 1909; *Marattiales* and *Marattiaceae*, 16(1): 15-23. 6 Nov 1909; with W.R. Maxon *Filicales*, 16(1): 25. 6 Nov 1909.
-(16) Identification of *Hepaticae, in* E.L. Rand and J.H. Redfield, *Flora of Mount Desert Island, Maine*, Cambridge 1894, TL-2/8623.
+- (1) Originator, with N.L. Britton, of the *North American Flora*, associate editor for the first five parts.
+- (2) Editor, *Bull. Torrey bot. Club* 16-24. Jan 1889-Dec 1897.
+- (3) Editor, *Memoirs Torrey bot. Club* 6 (p.p.) and 7-12, 1898-1902.
+- (4) *Hepaticae, in* A. Gray, *Manual*, ed. 6. 702-732, *pl. 22-25.* 1890.
+- (5) *Pteridophyta, in* J.M. Coulter, *Botany of western Texas*, Contr. U.S. natl. Herb. 2: 557-568. 10 Mai 1894.
+- (6) With Franklin Sumner Earle, *Treatment of some fungous diseases*, Bull. Alabama Agr. Expt. Sta. 69(4): 243-272. Feb 1896.
+- (7) *Pteridophyta, in* N.L. Britton and A. Brown, Ill. fl. n. U.S. 1: 1-48. Aug 1896.
+- (8) \[Entries on botany of ferns *Acrostichum-Dryopteris*\] in L.H. Bailey & W. Miller, Cycl. Amer. Hort. 1, 14 Feb 1900 (for detailed list see Barnhart no. 132), *id. Gleichenia-Mohria*, in 2, 18 Jul 1900 (Barnhart 135), *id. Nephrodum-Pteris*, in 3, 23 Apr 1901 (Barnhart 143), *id. Schizaea-Woodwardia*, in 4, 26 Feb 1902 (Barnhart 154).
+- (9) *Pteridophyta, in* N.L. Britton, *Man. fl. n. states* 1901, p. 1-29, 1901, see TL-2/779. – Also in ed. 2, 1905.
+- (10) *Fungi, edible and poisonous, in* A.H. Buck, *Reference handbook of the medical sciences* ed. 2. 4: 275-286. 1902.
+- (11) *Ferns and fern-allies*, in *Encyclopedia americana* 7: \[308-312\]. \[1904\].
+- (12) *Flowerless plants or cryptogams, in* W. Miller, *A synopsis of the vegetable kingdom* p. 77-80, *in* L.H. Bailey & W. Miller, *Cycl. Amer. hort*. ed. 4. 1, 27 Mar 1906.
+- (13) *Pteridophyta, in* P.A. Rydberg, *Fl. Colorado* 1906 (TL-2/9861), p. 1-6.
+- (14) *Pteridophyta, in* Th. Morong, H.H. Rusby et al., *List of Pteridophyta and Spermatophyta* growing without cultivation in Northeastern North America, Mem. Torrey bot. Club 5: 9-17. 4 Dec 1893. – See TL-2/6342.
+- (15) NAF, with R.C. Benedict, *Pteridophyta* 16(1). I. 6 Nov 1909, *Ophioglossales* 16(1): 1. 6 Nov 1909 and *Ophioglossaceae* 16(1): 3-13. 6 Nov 1909; *Marattiales* and *Marattiaceae*, 16(1): 15-23. 6 Nov 1909; with W.R. Maxon *Filicales*, 16(1): 25. 6 Nov 1909.
+- (16) Identification of *Hepaticae, in* E.L. Rand and J.H. Redfield, *Flora of Mount Desert Island, Maine*, Cambridge 1894, TL-2/8623.
 
 #### Main bibliography
 

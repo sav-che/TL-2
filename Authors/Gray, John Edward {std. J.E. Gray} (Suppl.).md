@@ -46,9 +46,9 @@ ADB(2) 1: 470; APN p. 240; Baillon 2: 739; Barnhart 2: 78; BB p. 129; BM 2: 712-
 
 #### Composite works
 
-(1) Scientific editor, *The Annals and Magazine of Natural History, including Zoology, Botany and Geology*, Vol. 1 (ser. 3)-Vol. 15 (ser. 4) (1858-1875).
-(2) Scientific editor of Wm. Smith, *List Brit. Diat.*... 1859 (see TL-2/5, nr. 12.306, where no mention is made of Gray's role).
-(3) Editor of R.A. Salisbury, *Gen. pl.*... 1866 (TL-2/5, nr. 10.122).
+- (1) Scientific editor, *The Annals and Magazine of Natural History, including Zoology, Botany and Geology*, Vol. 1 (ser. 3)-Vol. 15 (ser. 4) (1858-1875).
+- (2) Scientific editor of Wm. Smith, *List Brit. Diat.*... 1859 (see TL-2/5, nr. 12.306, where no mention is made of Gray's role).
+- (3) Editor of R.A. Salisbury, *Gen. pl.*... 1866 (TL-2/5, nr. 10.122).
 
 ### Publications
 

@@ -10,7 +10,8 @@ Floerke, Heinrich Gustav (1764-1835), German lichenologist, professor of botany 
 
 #### Herbarium and types
 
-[[Collection B|B]] (first lichen herbarium, until 1816, originally at [[Collection ROST|ROST]], later at [[Collection B|B]], now destroyed), later collections [[Collection ROST|ROST]] (still extant), other material at [[Collection GOET|GOET]], [[Collection FH|FH]] and [[Collection LE|LE]]. – *Exsiccatae*:
+[[Collection B|B]] (first lichen herbarium, until 1816, originally at [[Collection ROST|ROST]], later at [[Collection B|B]], now destroyed), later collections [[Collection ROST|ROST]] (still extant), other material at [[Collection GOET|GOET]], [[Collection FH|FH]] and [[Collection LE|LE]].
+*Exsiccatae*:
 1. *Cladoniarum exemplaria exsiccata, commentationem novam illustrantia* (facs. i-iii, nos. 1-60, Rostock 1829), sets at [[Collection B|B]] (destroyed) and [[Collection L|L]].
 2. *Deutsche Lichenen* (fasc. i-x, nos. 1-200, 43 p. text, fasc. 1-3 Berlin 1815, 4-10 Rostock 1819-1821), sets at [[Collection B|B]] (destroyed), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection G|G]], [[Collection HAL|HAL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection NEU|NEU]], [[Collection O|O]], [[Collection S|S]], [[Collection UPS|UPS]].
 *Ref*.: GR p. 12; IDC 460 (Deut. Lich. fasc. 1-3, text); IH 1 (ed. 6): 358, 2: 200; PR 2941-2942.

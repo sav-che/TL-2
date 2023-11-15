@@ -28,9 +28,9 @@ Barnhart 3: 51; BL 1: 253, 312; BM 4: 1524; CSP 12: 558, 17: 714; IH 2: (in pres
 #### Note
 
 See Hassler (1908) and Malme (1909) on Parodi's plagiarisms. They demonstrate that D. Parodi acquired herbarium specimens and manuscript notes of Eberhard Munck af Rosenschöld (1811-1868) after the latter had been murdered in Paraguay. The main conclusions are:
-(1) that the *Plantas usuales* del Paraguay were copied from C.F.P. von Martius, *Syst. mat. med. bras.* (TL-2/5541) and *Pflanzennamen in der Tupisprache* (TL-2/5548), supplemented in the second edition by material taken from Hieronymus, *Pl. diaph. fl. argent.* 1882 (TL-2/2751).
-(2) that the *Contribuciones* are copies of the notes left by Munck with the abbreviated name of the latter ("Ros.") changed to Parodi.
-(3) that Domingo Parodi "était dépourvu des connaissances botaniques les plus élémentaires".
+- (1) that the *Plantas usuales* del Paraguay were copied from C.F.P. von Martius, *Syst. mat. med. bras.* (TL-2/5541) and *Pflanzennamen in der Tupisprache* (TL-2/5548), supplemented in the second edition by material taken from Hieronymus, *Pl. diaph. fl. argent.* 1882 (TL-2/2751).
+- (2) that the *Contribuciones* are copies of the notes left by Munck with the abbreviated name of the latter ("Ros.") changed to Parodi.
+- (3) that Domingo Parodi "était dépourvu des connaissances botaniques les plus élémentaires".
 The plants at BAF and K are probably all collections made by Munck. – Parodi, in Anal. Soc. Ci. Argentina 4: 81. 1877 states that "Everardo Munk... desapareció... durante veinte años... y quedando ignorada hasta su tumba!" The anonymous author of D. Parodi's obituary in the Anal. Soc. Ci. Argent. (1890) states that Parodi "ha dejudo obra que no morirá" and of "su espíritu recto y sereno..." "Tan cierto es que la honorabilidad y el saber se sobreponen à todas las acciones humanas!"
 
 ### Publications

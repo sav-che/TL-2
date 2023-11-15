@@ -73,18 +73,18 @@ ADB 43: 252-254 (C. König), AG 2(1): 628, 722, 3: 293, 4: 571, 5(2): 79; Ainswo
 
 #### Composite works
 
-(1) Editor, J.D. Leers, *Flora herbornensis*, ed. 2. Berlin 1789. TL-2/4293:
-(2) Editor and in part author, C. Linnaeus, *Philosophia botanica* ed. 3. Berlin 1790, TL-2/4760. – Contains so many changes that it should be attributed to Willdenow, see below, TL-2/17.654.
-(3) Editor, G.A. Honckeny, *Synopsis plantarum Germaniae*, 2 vols., Berlin 1792-1793. TL-2/2962.
-(4) Editor, J. de Loureiro, *Flora cochinchinensis* ed. 2. Berlin 1793. TL-2/5038.
-(5) Editor, translator and author of notes, J. Bolton, *Geschichte der merckwürdigsten Pilze* 1-3, 1795-1799. See TL-2/624.
-(6) Preface to Johann Heinrich Sack, *Deutschlands wilden Gewächse* I. Theils. I. Bd. Berlin 1804, reprinted Bot. Zeit., Regensb. 3(13): 193-198. 1804.
-(7) Editor, F. Walter, *Verzeichniss der auf den Friedländischen Giitern cultivirten Gewächse*, nebst einem Beitrag zur Flora der Mittelmark 1804. PR 9977.
-(8) Preface to J.F. Rebentisch, *Prodromus florae neomarchicae*... Berlin 1804, TL-2/8718, see also Bot. Zeit. (Regensburg) 4(7): 97-108. 1805; H.A. Schrader, Neu. J. Bot. 1(1): 143-149. 1806.
-(9) *In* K.D.E. Koenig, *Tracts relative to botany*, remarks of... C.L. Willdenow, to H.E. Muhlenberg, *Observations to the genus Juglans*, see TL-2/3826.
-(10) Preface to F.G. Hayne, *Termini botanici*, Berlin 1799-1812, TL-2/2507.
-(11) Co-author (initial parts), F. Guimpel et al., *Abbildung der deutschen Holzarten*, Berlin 1810-1820. TL-2/2214.
-(12) Co-author, with G.H.E. Muhlenberg, *Über die nordamerikanische Weiden*, Ges. naturf. Freunde, Berlin, Neue Schr. 4(14): 233-242. 1803. TL-2/6538.
+- (1) Editor, J.D. Leers, *Flora herbornensis*, ed. 2. Berlin 1789. TL-2/4293:
+- (2) Editor and in part author, C. Linnaeus, *Philosophia botanica* ed. 3. Berlin 1790, TL-2/4760. – Contains so many changes that it should be attributed to Willdenow, see below, TL-2/17.654.
+- (3) Editor, G.A. Honckeny, *Synopsis plantarum Germaniae*, 2 vols., Berlin 1792-1793. TL-2/2962.
+- (4) Editor, J. de Loureiro, *Flora cochinchinensis* ed. 2. Berlin 1793. TL-2/5038.
+- (5) Editor, translator and author of notes, J. Bolton, *Geschichte der merckwürdigsten Pilze* 1-3, 1795-1799. See TL-2/624.
+- (6) Preface to Johann Heinrich Sack, *Deutschlands wilden Gewächse* I. Theils. I. Bd. Berlin 1804, reprinted Bot. Zeit., Regensb. 3(13): 193-198. 1804.
+- (7) Editor, F. Walter, *Verzeichniss der auf den Friedländischen Giitern cultivirten Gewächse*, nebst einem Beitrag zur Flora der Mittelmark 1804. PR 9977.
+- (8) Preface to J.F. Rebentisch, *Prodromus florae neomarchicae*... Berlin 1804, TL-2/8718, see also Bot. Zeit. (Regensburg) 4(7): 97-108. 1805; H.A. Schrader, Neu. J. Bot. 1(1): 143-149. 1806.
+- (9) *In* K.D.E. Koenig, *Tracts relative to botany*, remarks of... C.L. Willdenow, to H.E. Muhlenberg, *Observations to the genus Juglans*, see TL-2/3826.
+- (10) Preface to F.G. Hayne, *Termini botanici*, Berlin 1799-1812, TL-2/2507.
+- (11) Co-author (initial parts), F. Guimpel et al., *Abbildung der deutschen Holzarten*, Berlin 1810-1820. TL-2/2214.
+- (12) Co-author, with G.H.E. Muhlenberg, *Über die nordamerikanische Weiden*, Ges. naturf. Freunde, Berlin, Neue Schr. 4(14): 233-242. 1803. TL-2/6538.
 
 #### Note
 

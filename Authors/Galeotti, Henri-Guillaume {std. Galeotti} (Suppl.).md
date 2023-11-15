@@ -42,12 +42,12 @@ APN p. 216; Barnhart 2: 24; BM 2: 635; Clokie p. 169; CSP 2: 758-759; Ewan Pap. 
 
 #### Composite works
 
-(1) Co-author with M. Martens:
+- (1) Co-author with M. Martens:
 (a) *Mém. foug. Mexique*... 1842, see TL-2/3 no. 5486.
 (b) *Notice sur les plantes des familles des Vacciniées*... 1842, see TL-2/3, nr. 5487, where it is noted that this title is actually the first part of *Enum. pl. Galeotti*... (i.e. TL-2/3, nr. 5488);
 (c) *Enum. pl. Galeotti*... 1842-1845, see TL-2/3, nr. 5488.
 (d) *Enumeratio Graminearum et Cyperacearum*... *collectarum*... 1842, which is the third part of *Enum*. *pl. Galeotti*... (i.e. TL-2/3, nr. 5488); the first and third parts being the only ones issued with different titles (i.e. without *Enumeratio synoptica plantarum*...). *Copy*: BM.
-(2) Co-author with Achille Richard, *Monographie des Orchidées mexicaines*... 1844 (TL-2/4, nr. 9149).
-(3) Scientific editor of the 10th-14th years of *Journal d'horticulture pratique de la Belgique* ... (1853-1857).
-(4) Editor of the first 2 vols. of *L'Horticulteur practique; revue de l'horticulture française et étrangère*... Paris (1857-1858).
+- (2) Co-author with Achille Richard, *Monographie des Orchidées mexicaines*... 1844 (TL-2/4, nr. 9149).
+- (3) Scientific editor of the 10th-14th years of *Journal d'horticulture pratique de la Belgique* ... (1853-1857).
+- (4) Editor of the first 2 vols. of *L'Horticulteur practique; revue de l'horticulture française et étrangère*... Paris (1857-1858).
 

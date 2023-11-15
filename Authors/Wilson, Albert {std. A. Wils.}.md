@@ -26,8 +26,8 @@ BL 2: 732-733 \[index\]; BM 5: 2332, 8: 1440; Clokie p. 265-266; CSP 19: 645; Da
 
 #### Composite works
 
-(1) With J.A. Wheldon, *The flora of West Lancashire* 1907, see under J.A. Wheldon, TL-2/17.415.
-(2) With J.A. Wheldon, *The lichens of Perthshire* 1915, see under J.A. Wheldon, TL-2/17.418.
+- (1) With J.A. Wheldon, *The flora of West Lancashire* 1907, see under J.A. Wheldon, TL-2/17.415.
+- (2) With J.A. Wheldon, *The lichens of Perthshire* 1915, see under J.A. Wheldon, TL-2/17.418.
 
 ### Publications
 

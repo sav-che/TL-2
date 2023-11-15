@@ -10,7 +10,8 @@ Cretzoiu, Paul (1909-1946), Roumanian botanist and conservator of forests.
 
 #### Herbarium and types
 
-[[Collection BUC|BUC]]; lichenes and fungi at [[Collection BUCA|BUCA]] (fide Grummann, Hawksworth.) *Exsiccatae*: *Lichenes Romaniae exsiccati, a laboratorio botanico scholae polytechnicae Bucuresti editae*. Collaboratores O. Klement, M. Badea (Dec. 1-10, nos. 1-100) Bucureşti 1936-1940/41. Copies at [[Collection CERN|CERN]], [[Collection FH|FH]], [[Collection GZU|GZU]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]].
+[[Collection BUC|BUC]]; lichenes and fungi at [[Collection BUCA|BUCA]] (fide Grummann, Hawksworth.)
+*Exsiccatae*: *Lichenes Romaniae exsiccati, a laboratorio botanico scholae polytechnicae Bucuresti editae*. Collaboratores O. Klement, M. Badea (Dec. 1-10, nos. 1-100) Bucureşti 1936-1940/41. Copies at [[Collection CERN|CERN]], [[Collection FH|FH]], [[Collection GZU|GZU]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]].
 *Ref*.: GR 779; IH 1 (ed. 6): 357, 2: 144.
 - Sayre, Mem. New York Bot. Gard. 19(1): 118. 1969.
 

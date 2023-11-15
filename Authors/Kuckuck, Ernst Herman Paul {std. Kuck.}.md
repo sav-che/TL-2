@@ -23,8 +23,8 @@ Barnhart 2: 324; BJI 2: 98; BM 2: 1031; CSP 16: 492; De Toni 4: xxxiv; IH 2: 392
 
 #### Composite works
 
-(1) W. Nienburg, editor; Kuckuck, P., *Fragmente einer Monographie der Phaeosporeen*, Wiss. Meeresunters. ser. 2. Abt. Helgoland 17(4): 1-93. 1929 (rev. O. C. Schmidt, Bot. Jahrb. 64(Lit.): 6-8. 1931). For a further continuation of the posthumous publication of Kuckuck's studies on *Ectocarpus* and allied genera, see the "*Ectocarpaceen-Studien*" listed below under the 1891 *Beiträge* (3964).
-(2) With J. F. Reinke and F. Schütt, *Atlas deutscher Meeresalgen*; see under Reinke.
+- (1) W. Nienburg, editor; Kuckuck, P., *Fragmente einer Monographie der Phaeosporeen*, Wiss. Meeresunters. ser. 2. Abt. Helgoland 17(4): 1-93. 1929 (rev. O. C. Schmidt, Bot. Jahrb. 64(Lit.): 6-8. 1931). For a further continuation of the posthumous publication of Kuckuck's studies on *Ectocarpus* and allied genera, see the "*Ectocarpaceen-Studien*" listed below under the 1891 *Beiträge* (3964).
+- (2) With J. F. Reinke and F. Schütt, *Atlas deutscher Meeresalgen*; see under Reinke.
 
 #### Eponymy
 

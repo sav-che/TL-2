@@ -33,8 +33,8 @@ Backer p. 499 (epon.); Barnhart 3: 179; Biol.-Dokum. 15: 7653-7654; BM 8: 1093; 
 
 #### Composite works
 
-(1) *Contribution à l'étude des Ptéridophytes de Colombie*... *in* O. Fuhrman & Eug. Mayor, Voy. expl. sci. Colombie, Neuchâtel 1912, p. \[33\]-56, *pl. 2-6.* (Mém. Soc. neuchât. Sci. nat. 5).
-(2) *Filicales, in* Rosenstock, E. et al., Meded. Rijk's Herb. Leiden 19, 1913 (Th. Herzog's Bolivianische Pflanzen).
+- (1) *Contribution à l'étude des Ptéridophytes de Colombie*... *in* O. Fuhrman & Eug. Mayor, Voy. expl. sci. Colombie, Neuchâtel 1912, p. \[33\]-56, *pl. 2-6.* (Mém. Soc. neuchât. Sci. nat. 5).
+- (2) *Filicales, in* Rosenstock, E. et al., Meded. Rijk's Herb. Leiden 19, 1913 (Th. Herzog's Bolivianische Pflanzen).
 
 #### Eponymy
 

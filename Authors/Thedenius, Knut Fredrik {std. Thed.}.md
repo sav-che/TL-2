@@ -8,7 +8,8 @@ Thedenius, Knut Fredrik (1814-1894), Swedish botanist, entomologist, pharmacist 
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]] (general and Swedish herb.), [[Collection S|S]] (Södermanland and Uppland herb; through C.G.H. Thedenius). – Other material at [[Collection C|C]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MW|MW]], [[Collection TO|TO]], [[Collection WRSL|WRSL]]. – *Exsiccatae*: *Musci Sveciae exsiccati* fasc. 5-6 (nos. 101-150), for details see S.J. Lindgren, TL-2/3: 48. Sets at [[Collection B|B]] (destr.), [[Collection LD|LD]], [[Collection S|S]], [[Collection WRSL|WRSL]]. – *Letters* (30) in S.O. Lindberg's correspondence in [[Collection H|H]]-UB; other letters at [[Collection G|G]].
+[[Collection UPS|UPS]] (general and Swedish herb.), [[Collection S|S]] (Södermanland and Uppland herb; through C.G.H. Thedenius). – Other material at [[Collection C|C]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MW|MW]], [[Collection TO|TO]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Musci Sveciae exsiccati* fasc. 5-6 (nos. 101-150), for details see S.J. Lindgren, TL-2/3: 48. Sets at [[Collection B|B]] (destr.), [[Collection LD|LD]], [[Collection S|S]], [[Collection WRSL|WRSL]]. – *Letters* (30) in S.O. Lindberg's correspondence in [[Collection H|H]]-UB; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -30,8 +31,8 @@ Barnhart 3: 370 (b. 12 Nov 1814, d. 4 Mar 1894); BL 2: 524, 545, 547, 723; BM 5:
 
 #### Composite works
 
-(1) Editor, *Botaniska Notiser* 1852-1856 ("Nya Botaniska Notiser") (also 1850(5-6; 7 p.p. with C.F. Nyman) and 1851 (10-12)).
-(2) For *Svensk skol-botanik* 1852, a text based in part on a text by N.J. Andersson, see KR p. 700-701, no. 4.
+- (1) Editor, *Botaniska Notiser* 1852-1856 ("Nya Botaniska Notiser") (also 1850(5-6; 7 p.p. with C.F. Nyman) and 1851 (10-12)).
+- (2) For *Svensk skol-botanik* 1852, a text based in part on a text by N.J. Andersson, see KR p. 700-701, no. 4.
 
 #### Note
 

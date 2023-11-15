@@ -35,7 +35,7 @@ APN p. 207; Backer p. 221, 650; Baillon 2: 639; Barnhart 1: 563; BJI 1: 19; BL 2
 #### Note
 
 *Mexic. pl.*... 1872, 1886, 2 vols. (TL-2/1, nr. 1835) is now avaliable in microfilm: *Microfilm*: (1) \[Washington, D.C.?\] \[U.S.D.A?\] \[1947?\], 1 reel (35 mm, neg.). *Copy*: (n.v.).
-(2) Austin, Texas (Univ. of Texas Library), 1961, \[?\] reels, (35 mm, neg.). *Copy*: (n.v.). *Electronic Version*: \[St. Louis (Missouri Botanical Garden)\]: Botanicus.
+- (2) Austin, Texas (Univ. of Texas Library), 1961, \[?\] reels, (35 mm, neg.). *Copy*: (n.v.). *Electronic Version*: \[St. Louis (Missouri Botanical Garden)\]: Botanicus.
 
 #### Composite works
 

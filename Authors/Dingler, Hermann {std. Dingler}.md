@@ -215,7 +215,7 @@ Versuch einer *Erklärung* gewisser Erscheinungen in der *Ausbildung* und *Verbr
 **Notes**
 *Publ*.: Jan-Mar 1907 (Allg. Bot. Z. 15 Apr 1907), p. \[1\]-38. *Copies*: B, BR, G, HH, L. – Reprinted and to be cited from Mitt. naturw. Ver. Aschaffenburg 6: 1-38. 1907.
 *Note*: (1) See M. Möbius, Ber. deut. bot. Ges. 54(2): (138) Generalvers. 24 Apr 1907. – See also Tucker 1: 204.
-(2) Text by H. Dingler *in* Allg. Bot. Z. 13: 103-104. 15 Jun 1907.
+- (2) Text by H. Dingler *in* Allg. Bot. Z. 13: 103-104. 15 Jun 1907.
 *Ref*.: Diels, L., Bot. Jahrb. 40(Lit): 60. 24 Jan 1908.
 
 ##### n.30.709. Neuere Beobachtungen

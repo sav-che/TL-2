@@ -8,7 +8,8 @@ Peter, \[Gustav\] Albert (1853-1937), German (Prussian) botanist; Dr. phil. Kön
 
 #### Herbarium and types
 
-[[Collection GOET|GOET]]; collections from Africa 1913-1918, 1925-1926, however, at [[Collection B|B]] (extant); other material at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CORD|CORD]], [[Collection E|E]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection S|S]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]]. *Exsiccatae*: *Hieracia Naegelianae exsiccatae*, with C. von Naegeli, cent., nos. 1-400, München 1884-1886 (sets e.g. at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection CGE|CGE]], [[Collection CORD|CORD]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]], [[Collection S|S]], [[Collection W|W]]; sets 1-3 publ. Sep 1884), set 1 published Oct 1884; for a description see Bot. Centralbl. 19: 185. 1884 and Bot. Zeit. 42: 527-528. 1884 (1-3) and 44: 660-661. 1886 (cent. 4). This series contains e.g. material supplied by G. J. Mendel. – Some letters at [[Collection G|G]].
+[[Collection GOET|GOET]]; collections from Africa 1913-1918, 1925-1926, however, at [[Collection B|B]] (extant); other material at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CORD|CORD]], [[Collection E|E]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection S|S]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Hieracia Naegelianae exsiccatae*, with C. von Naegeli, cent., nos. 1-400, München 1884-1886 (sets e.g. at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection CGE|CGE]], [[Collection CORD|CORD]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]], [[Collection S|S]], [[Collection W|W]]; sets 1-3 publ. Sep 1884), set 1 published Oct 1884; for a description see Bot. Centralbl. 19: 185. 1884 and Bot. Zeit. 42: 527-528. 1884 (1-3) and 44: 660-661. 1886 (cent. 4). This series contains e.g. material supplied by G. J. Mendel. – Some letters at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -33,13 +34,13 @@ AG 12(1); 153; Barnhart 3: 72; BFM no. 392; BJI 2: 45; BL 1: 57, 312; BM 4: 1553
 
 #### Composite works
 
-(1) C. von Naegeli und A. Peter, *Die Hieracien Mittel-Europas* (1885), see von Naegeli.
-(2) *Hieracium, in* Potonié, Ill. Fl. N. Mitt. Deutschl. ed. 3, p. 449-465. 1887 (Bot. Centralbl. 18-22 Apr., reprint).
-(3) EP, *Die natürlichen Pflanzenfamilien*, ed. 1: (a) *Convolvulaceae*, in 4(3A): 1-40. Dec 1891; Nachtr. p. 375-377. Dec 1897.
+- (1) C. von Naegeli und A. Peter, *Die Hieracien Mittel-Europas* (1885), see von Naegeli.
+- (2) *Hieracium, in* Potonié, Ill. Fl. N. Mitt. Deutschl. ed. 3, p. 449-465. 1887 (Bot. Centralbl. 18-22 Apr., reprint).
+- (3) EP, *Die natürlichen Pflanzenfamilien*, ed. 1: (a) *Convolvulaceae*, in 4(3A): 1-40. Dec 1891; Nachtr. p. 375-377. Dec 1897.
 (b) *Polemoniaceae*, in 4(3A): 41-48. Dec 1891, 49-53. Jun 1893; p. 377. Dec 1897.
 (c) *Hydrophyllaceae*, in 4(3A): 54-71. Jun 1893; Nachtr. p. 377. Dec 1897.
 (d) *Hieracium*, in 4(5): 375-387. 22 Mai 1894.
-(4) Editor, *Botanische Zeitung* 67-68, 1909-1910.
+- (4) Editor, *Botanische Zeitung* 67-68, 1909-1910.
 
 #### Eponymy
 

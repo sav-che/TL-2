@@ -27,7 +27,7 @@ Barnhart 1: 280 (b. 8 Oct 1906, Grimsby, Lincolnshire); BL 1: 61; Hortus 3: 1189
 
 #### Composite works
 
-(1) Outside our period: *Flora of Southern Africa*, Bibliography of South African botany (up to 1951), edited by O.A. Leistner, Pretoria iii, 194 p. 1978, ISBN 0-621-04713-0, see Taxon 28: 651-652. 1979.
+- (1) Outside our period: *Flora of Southern Africa*, Bibliography of South African botany (up to 1951), edited by O.A. Leistner, Pretoria iii, 194 p. 1978, ISBN 0-621-04713-0, see Taxon 28: 651-652. 1979.
 
 ### Publications
 

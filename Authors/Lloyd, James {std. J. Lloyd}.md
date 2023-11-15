@@ -8,7 +8,8 @@ Lloyd, James (1810-1896), British-born botanist educated and living at Thouaré 
 
 #### Herbarium and types
 
-[[Collection NTM|NTM]]. Exsiccatae: *Algues de l'Ouest de la France, fasc*. i-xix, nos. 1-380, 1847-1868, sets at [[Collection AUT|AUT]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection PC|PC]] (Sayredid not see fascicle 19, nos. 361-380; the IH data do not show conclusively that this fascicle was indeed published). Algae at [[Collection BR|BR]] (fide Newton 1952). 30 Letters to Malinvaud at [[Collection P|P]].
+[[Collection NTM|NTM]].
+*Exsiccatae*: *Algues de l'Ouest de la France, fasc*. i-xix, nos. 1-380, 1847-1868, sets at [[Collection AUT|AUT]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection PC|PC]] (Sayredid not see fascicle 19, nos. 361-380; the IH data do not show conclusively that this fascicle was indeed published). Algae at [[Collection BR|BR]] (fide Newton 1952). 30 Letters to Malinvaud at [[Collection P|P]].
 
 #### Bibliography and biography
 

@@ -20,6 +20,6 @@ Barnhart 1: 495; BM 2: 505; Kew 2: 167; KR p. 152; Rehder 5(index): 250; TL-2/6:
 
 #### Composite works
 
-(1) *Hort. upsal. pl. cult. init. saec.* Quarum partem quartum... p.p. Petrus Adolphus Edgren, etc.... see TL-2/6 sub C.P. Thunberg, no. 14.421.
-(2) *Piper nigr*.... see TL-2/6 sub C.P. Thunberg, no. 14.429.
+- (1) *Hort. upsal. pl. cult. init. saec.* Quarum partem quartum... p.p. Petrus Adolphus Edgren, etc.... see TL-2/6 sub C.P. Thunberg, no. 14.421.
+- (2) *Piper nigr*.... see TL-2/6 sub C.P. Thunberg, no. 14.429.
 

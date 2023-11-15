@@ -60,10 +60,10 @@ AG 3: 594; Backer p. 568; Barnhart 3: 351; BM 5: 2056; Bossert p. 390; Bret. p. 
 
 #### Composite works
 
-(1) Swartz provided the text for Johan August Pfeiffer, ed., *Magasin för blomster-älskare* och idkare af trädgårds-skötsel, Häft 1-12. Stockholm (... C. Delén) 1803-1809, Qu., *36 pl*. with text. – See KR p. 573 and Junk, Cat. 214 (1979), no. 242 and p. 76.
-(2) *On the genera of Orchideae in* C.D.E. Koenig, ed., *Tracts bot*. 1805 (TL-2/3826) \[translation of *Afhandling om Orchidernes slägter*, Sv. Vet.-Akad. Handl. 1800: 115-138 and chart\], and *Genera and species of the natural order of the Orchideae, in* id. \[translation of *Orchidernes slägter och arter upställde*, ib. 1800: 202-254, *pl. 3*\]. (See KR p. 679, no. 679). – Latin version: *Genera et species Orchidearum, in* Schrader, Neu. J. Bot. 1(1): 1-108, *pl. 1*. Jun 1805. – See below (1805).
-(3) Liljeblad, S., *Ulkast Sv. fl*. (TL-2/4528), ed. 3, 1816, was edited by J.H. Wallman, with the assistance for the cryptogams by i.a. O. Swartz.
-(4) Text for *Svensk botanik*, vols. 5-8 (nos. 1-6), 1805-1819, see under J.W. Palmstruch, TL-2/7247.
+- (1) Swartz provided the text for Johan August Pfeiffer, ed., *Magasin för blomster-älskare* och idkare af trädgårds-skötsel, Häft 1-12. Stockholm (... C. Delén) 1803-1809, Qu., *36 pl*. with text. – See KR p. 573 and Junk, Cat. 214 (1979), no. 242 and p. 76.
+- (2) *On the genera of Orchideae in* C.D.E. Koenig, ed., *Tracts bot*. 1805 (TL-2/3826) \[translation of *Afhandling om Orchidernes slägter*, Sv. Vet.-Akad. Handl. 1800: 115-138 and chart\], and *Genera and species of the natural order of the Orchideae, in* id. \[translation of *Orchidernes slägter och arter upställde*, ib. 1800: 202-254, *pl. 3*\]. (See KR p. 679, no. 679). – Latin version: *Genera et species Orchidearum, in* Schrader, Neu. J. Bot. 1(1): 1-108, *pl. 1*. Jun 1805. – See below (1805).
+- (3) Liljeblad, S., *Ulkast Sv. fl*. (TL-2/4528), ed. 3, 1816, was edited by J.H. Wallman, with the assistance for the cryptogams by i.a. O. Swartz.
+- (4) Text for *Svensk botanik*, vols. 5-8 (nos. 1-6), 1805-1819, see under J.W. Palmstruch, TL-2/7247.
 
 #### Name
 

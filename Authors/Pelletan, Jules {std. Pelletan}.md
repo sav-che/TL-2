@@ -20,8 +20,8 @@ Barnhart 3: 64; BM 4: 1539; CSP 17: 769-770; De Toni 1: xcvi, 2: xci-xcii (bibl.
 
 #### Composite works
 
-(1) *Journal de Micrographie* 1-6(5), Mai 1877-Mai 1892.
-(2) editor of Habirshaw, *Cat. diatomées*, Paris 1879 (n.v.). We have not been able to find this book, announced by Nat. Nov. 1879. However, Habirshaw's *Bibliographie des diatomées* was published by Pelletan in J. Micrographie 3(1): 368-370, 410-414, 453-455, 497-500. 1879, 4: 40-42, 98-104, 1880, 5: 146-148. 1881 (285 nos.). This *Bibliographie* is almost certainly identical with the "Cat. diatomées". (Correction and addition to TL-2/2228 *French ed.*).
+- (1) *Journal de Micrographie* 1-6(5), Mai 1877-Mai 1892.
+- (2) editor of Habirshaw, *Cat. diatomées*, Paris 1879 (n.v.). We have not been able to find this book, announced by Nat. Nov. 1879. However, Habirshaw's *Bibliographie des diatomées* was published by Pelletan in J. Micrographie 3(1): 368-370, 410-414, 453-455, 497-500. 1879, 4: 40-42, 98-104, 1880, 5: 146-148. 1881 (285 nos.). This *Bibliographie* is almost certainly identical with the "Cat. diatomées". (Correction and addition to TL-2/2228 *French ed.*).
 
 ### Publications
 

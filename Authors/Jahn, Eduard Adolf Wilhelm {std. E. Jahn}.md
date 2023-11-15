@@ -21,7 +21,7 @@ Barnhart 2: 243; BM 2: 921; Bossert p. 194; CSP 16: 60; DTS3: xliv;GRp. 22, cat 
 #### Composite works
 
 (I) EP, *Die natwiichen Pflanzenfamilien*, ed. 2. *Bemerkungen* 2: \[1\]. 1928; *Myxomycetes* 2: \[304\]-339. 1928 (TL 2/1911).
-(2) *Kryptogamenflora Brandenburg, Myxobacteriales* 5(1): \[187\]-192. 27Dec 1909,5(2): 193-208. 20 Apr 1911.
+- (2) *Kryptogamenflora Brandenburg, Myxobacteriales* 5(1): \[187\]-192. 27Dec 1909,5(2): 193-208. 20 Apr 1911.
 
 #### Eponymy
 

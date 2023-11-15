@@ -33,18 +33,18 @@ Barnhart 3: 320 (b. 31 Oct 1901); BFM 2303; Biol.-Dokum. 17: 8881; BJI 2: 170; B
 
 #### Composite works
 
-(1) Editor, *Bulletin du Jardin botanique de Buitenzorg*, ser. 3, 11-18. 1931-1950, in part with D.F. van Slooten and M.A. Donk.
-(2) Co-editor. *De tropische natuur* 24-30. 1935-1941.
-(3) Editor. C.A. Backer and O. Posthumus, *Varenflora voor Java*. 1939, TL-2/228.
-(4) Editor, *Natuurwetenschappelijk Tijdschrift voor Nederlands-Indië*, 101-102. 1941-1946.
-(5) Editor, *Flora malesiana Bulletin* 1-26. 1947-1973.
-(6) Editor, *Reinwardtia* 1-5. 1950-1961, in part with M.A. Donk and A. Dilmy.
-(7) Editor. *Annual Report. Foundation Flora malesiana* 1-7. 1951-1961.
-(8) Editor, *Pacific plant areas*, 1-2. 1963-1966.
-(9) Editor, C.A. Backer & R.C. Bakhuizen van den Brink Jr., *Flora of Java* 1-3. 1963-1968. TL-2/230.
-(10) Editor, *Blumea* 11-19. 1961-1971.
-(11) Editor, C.A. Backer, *Atlas Suikerrietonkruiden* pl. 481-747. 1973, cf. TL-2/225.
-(12) Editor and in part author, *Flora malesiana* 1950-x.
+- (1) Editor, *Bulletin du Jardin botanique de Buitenzorg*, ser. 3, 11-18. 1931-1950, in part with D.F. van Slooten and M.A. Donk.
+- (2) Co-editor. *De tropische natuur* 24-30. 1935-1941.
+- (3) Editor. C.A. Backer and O. Posthumus, *Varenflora voor Java*. 1939, TL-2/228.
+- (4) Editor, *Natuurwetenschappelijk Tijdschrift voor Nederlands-Indië*, 101-102. 1941-1946.
+- (5) Editor, *Flora malesiana Bulletin* 1-26. 1947-1973.
+- (6) Editor, *Reinwardtia* 1-5. 1950-1961, in part with M.A. Donk and A. Dilmy.
+- (7) Editor. *Annual Report. Foundation Flora malesiana* 1-7. 1951-1961.
+- (8) Editor, *Pacific plant areas*, 1-2. 1963-1966.
+- (9) Editor, C.A. Backer & R.C. Bakhuizen van den Brink Jr., *Flora of Java* 1-3. 1963-1968. TL-2/230.
+- (10) Editor, *Blumea* 11-19. 1961-1971.
+- (11) Editor, C.A. Backer, *Atlas Suikerrietonkruiden* pl. 481-747. 1973, cf. TL-2/225.
+- (12) Editor and in part author, *Flora malesiana* 1950-x.
 
 #### Note
 

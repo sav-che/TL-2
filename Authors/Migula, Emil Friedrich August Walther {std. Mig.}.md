@@ -8,8 +8,9 @@ Migula, Emil Friedrich August Walther (1863-1938), German botanist; Dr. phil. Br
 
 #### Herbarium and types
 
-[[Collection JE|JE]] (Algae, lichenes). Exsiccatae: (1) *Kryptogamae* (*Cryptogamae*) *Germaniae, Austriae et Helvetiae exsiccatae* fasc. 1-62, 1500 nos., 1902-1933, details see GR, IH and Sayre (1969).
-(2) *Characeae exsiccatae* fasc. 1-6, nos. 1-150, 1892-1901. Co-authors, P. Sydow (1851-1925), L. J. Wahlstedt (1836-1917), details see IH and Sayre (1969).
+[[Collection JE|JE]] (Algae, lichenes).
+*Exsiccatae*: (1) *Kryptogamae* (*Cryptogamae*) *Germaniae, Austriae et Helvetiae exsiccatae* fasc. 1-62, 1500 nos., 1902-1933, details see GR, IH and Sayre (1969).
+- (2) *Characeae exsiccatae* fasc. 1-6, nos. 1-150, 1892-1901. Co-authors, P. Sydow (1851-1925), L. J. Wahlstedt (1836-1917), details see IH and Sayre (1969).
 
 #### Bibliography and biography
 
@@ -26,9 +27,9 @@ Barnhart 2: 488; BJI 1:40, 2: 117; BM 3: 1309-1310, 7: 840; CSP 17: 237; De Toni
 
 #### Composite works
 
-(1) *Die Algen. – Die Flagellaten, in* O. Zacharias, *Die Tier- und Pflanzenwelt des Süsswassers*, vol. 1, nos. 2, 5. 1891.
-(2) *Schizomycetes*, *in* EP, *Die natürlichen Pflanzenfamilien* 1 (1a): 2-41. Feb 1896.
-(3) *Pascher, Süsswasserflora Deutschl., Österr. Schweiz, Charophyta*, 11: \[207\]-243, fig. i-xiv, 1925.
+- (1) *Die Algen. – Die Flagellaten, in* O. Zacharias, *Die Tier- und Pflanzenwelt des Süsswassers*, vol. 1, nos. 2, 5. 1891.
+- (2) *Schizomycetes*, *in* EP, *Die natürlichen Pflanzenfamilien* 1 (1a): 2-41. Feb 1896.
+- (3) *Pascher, Süsswasserflora Deutschl., Österr. Schweiz, Charophyta*, 11: \[207\]-243, fig. i-xiv, 1925.
 
 ### Publications
 

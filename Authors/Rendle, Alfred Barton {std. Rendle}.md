@@ -36,23 +36,23 @@ Backer p. 659; Barnhart 3: 144 (b. 19 Jan 1865, d. 11 Jan 1938); BFM no. 2317, 2
 
 #### Composite works
 
-(1) Editor *Journal of Botany*, vols. 63-75, 76 p.p. 1924-1938.
-(2) *List of Apetalae and Monocotyledons from East Africa, in* J.W. Gregory, The Great Rift Valley, App. B. 1896.
-(3) *Naiadaceae, in* A. Engler, Pflanzenreich iv, 12 (Heft 7): 1-21. 17 Dec 1901 (see also Trans. Linn. Soc. ser. 2. Bot. 5: 379-444. *pl. 39-42.* 1899.
-(4) With J. Britten, *List of plants* \[*from Patagonia*\], *in* H.H. Prichard, *Through the heart of Patagonia*, App. C., London 1902.
-(5) With W. Fawcett, *Fl. Jamaica* 1910-1936, 5 vols., see TL-2/1745.
-(6) Editor of J. Britten and G.E.S. Boulger, *Biogr. ind. Brit. Irish Bot.* ed. 2, 1931, see TL-2/772 (rev. J. Soc. Bibl. nat. Hist. 1(5): 138. Mai 1938).
-(7) Contributions to D. Oliver, *Fl. trop. Afr.*:
+- (1) Editor *Journal of Botany*, vols. 63-75, 76 p.p. 1924-1938.
+- (2) *List of Apetalae and Monocotyledons from East Africa, in* J.W. Gregory, The Great Rift Valley, App. B. 1896.
+- (3) *Naiadaceae, in* A. Engler, Pflanzenreich iv, 12 (Heft 7): 1-21. 17 Dec 1901 (see also Trans. Linn. Soc. ser. 2. Bot. 5: 379-444. *pl. 39-42.* 1899.
+- (4) With J. Britten, *List of plants* \[*from Patagonia*\], *in* H.H. Prichard, *Through the heart of Patagonia*, App. C., London 1902.
+- (5) With W. Fawcett, *Fl. Jamaica* 1910-1936, 5 vols., see TL-2/1745.
+- (6) Editor of J. Britten and G.E.S. Boulger, *Biogr. ind. Brit. Irish Bot.* ed. 2, 1931, see TL-2/772 (rev. J. Soc. Bibl. nat. Hist. 1(5): 138. Mai 1938).
+- (7) Contributions to D. Oliver, *Fl. trop. Afr.*:
 (a) With J.G. Baker, *Convolvulaceae*, 4(2) (1): 62-192. Dec 1905.
 (b) *Ulmaceae*, 6(2)(1): 1-11. Mar 1916.
 (c) *Barbeyaceae*, 6(2)(1): 14-15. Mar 1916.
 (d) *Cannabinaceae*, 6(2) (1): 16-17. Mar 1916.
 (e) *Urticaceae*, 6(2)(2): 240-306. Nov 1917.
 (f) With J. Hutchinson, *Moraceae*, 6(2)(1): 17-192. Mar 1916, 2(2): 193-240. Nov 1917.
-(8) Botanical editor, *Encyclopaedia brittanica* ed. 11, 1910-1911.
-(9) In W.P. Hiern, *Cat. afr. pl.* (TL-2/2747) vol. 2(1), *Monocotyledons and Gymnosperms*, 30 Mai 1899.
-(10) *Apetalae, Monocotyledons & Gymnosperms, in* C.W. Andrews et al., *A monograph of Christmas Island*, London 1900.
-(11) *Gramineae, tribus Bambuseae, in* C.S. Sargent, *Pl. Wilson.* 1(4). 1914.
+- (8) Botanical editor, *Encyclopaedia brittanica* ed. 11, 1910-1911.
+- (9) In W.P. Hiern, *Cat. afr. pl.* (TL-2/2747) vol. 2(1), *Monocotyledons and Gymnosperms*, 30 Mai 1899.
+- (10) *Apetalae, Monocotyledons & Gymnosperms, in* C.W. Andrews et al., *A monograph of Christmas Island*, London 1900.
+- (11) *Gramineae, tribus Bambuseae, in* C.S. Sargent, *Pl. Wilson.* 1(4). 1914.
 
 #### Eponymy
 

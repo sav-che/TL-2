@@ -27,11 +27,11 @@ Barnhart 1: 415 (b. 8 Jan 1860, Apolda, Thüringen, d. 15 Nov 1920, Karlsruh nr.
 
 #### Composite works
 
-(1) *Pflanzen-Teratologie*. translated by U. Dammer, *Vegetable teratology*, see TL-2/5664.
-(2) *Gartenbau-Bibliothek*, herausgegeben von U. Dammer Band I-XX, 1899. Berlin. – Important numbers in TL-2/on the other authors.
-(3) *Plantae Selerianae* edited by Th. Loesener, Bull. Herb. Boissier 3(12): 609-629, some notes by U. Dammer et al.
-(4) *Solanaceae* von U. Dammer, *in* R. Pilger, Plantae Uleanae... cognitae, Notizbl. kön. bot. Gard. Mus. Berl.-Dahlem 6(56): 187-188. 15 Mar 1914.
-(5) *Palmae* von U. Dammer, *in* R. Pilger: Plantae Uleanae... cognitae, id. 6(59): 261-268. 30 Jan 1915.
+- (1) *Pflanzen-Teratologie*. translated by U. Dammer, *Vegetable teratology*, see TL-2/5664.
+- (2) *Gartenbau-Bibliothek*, herausgegeben von U. Dammer Band I-XX, 1899. Berlin. – Important numbers in TL-2/on the other authors.
+- (3) *Plantae Selerianae* edited by Th. Loesener, Bull. Herb. Boissier 3(12): 609-629, some notes by U. Dammer et al.
+- (4) *Solanaceae* von U. Dammer, *in* R. Pilger, Plantae Uleanae... cognitae, Notizbl. kön. bot. Gard. Mus. Berl.-Dahlem 6(56): 187-188. 15 Mar 1914.
+- (5) *Palmae* von U. Dammer, *in* R. Pilger: Plantae Uleanae... cognitae, id. 6(59): 261-268. 30 Jan 1915.
 
 #### Eponymy
 

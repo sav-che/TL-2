@@ -25,8 +25,8 @@ Backer p. 664; BB p. 327; BM 5: 2326, 8: 1436; Desmond p. 661 (b. 2 Mar 1824, d.
 
 #### Composite works
 
-(1) Co-editor, Th. Moore et al., *The orchid album*, vols. 1-9, 1881-1891 (TL-2/6282).
-(2) *Notes on culture, in* R. Warner, *Select Orchidaceous plants*, London 1862-1865, TL-2/16.742.
+- (1) Co-editor, Th. Moore et al., *The orchid album*, vols. 1-9, 1881-1891 (TL-2/6282).
+- (2) *Notes on culture, in* R. Warner, *Select Orchidaceous plants*, London 1862-1865, TL-2/16.742.
 
 ### Publications
 

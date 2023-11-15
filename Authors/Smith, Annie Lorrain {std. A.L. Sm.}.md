@@ -36,11 +36,11 @@ Ainsworth p. 96, 251, 308, 326; Barnhart 3: 289 (b. 23 Oct 1854, d. 7 Sep 1937);
 
 #### Composite works
 
-(1) *Fungi, in* W.P. Hiern, Cat. afr. pl. 2(2): 464-478. Mar 1901 (coll. F. Welwitsch). – See TL-2/2747, see also J. Bot. 36: 177-180. 1898.
-(2) *Lichenes, in* R.L. Praeger, Biol. Survey Clare Island, Proc. R. Irish Acad. 31, sect. 1, 14: 1-14. 1911 (*Rev*.: Scot. bot. Rev. 1(3): 190-191. Jul 1912).
-(3) With J.M. Crombie, *Monogr. lich. Britain* 2, Feb-Apr 1911. See TL-2/1278. Ed. 2, 2 vols. 1918-1928 is by A.L. Smith. "The 1911 second volume to Crombie's *Monograph*, although appearing under her name, is now known to have been almost entirely the work of Crombie and not of Smith..." (Hawksworth & Seaward 1977, p. 26). – *Copies*: of ed. 1, vol. 2 at BR, G, FH, PH, USDA; review: H.T. Reader, J. Bot. 49: 170-172. Mai 1911, J. Ramsbottom, Mycol. Centralbl. 1: 378-379. 1912.
-(4) With A.B. Rendle et al., *Motion nom. alg*., 1909, TL-2/9067.
-(5) Descriptions, *in* M. Wrigley, *Studies of trees and flowers*, London 1911.
+- (1) *Fungi, in* W.P. Hiern, Cat. afr. pl. 2(2): 464-478. Mar 1901 (coll. F. Welwitsch). – See TL-2/2747, see also J. Bot. 36: 177-180. 1898.
+- (2) *Lichenes, in* R.L. Praeger, Biol. Survey Clare Island, Proc. R. Irish Acad. 31, sect. 1, 14: 1-14. 1911 (*Rev*.: Scot. bot. Rev. 1(3): 190-191. Jul 1912).
+- (3) With J.M. Crombie, *Monogr. lich. Britain* 2, Feb-Apr 1911. See TL-2/1278. Ed. 2, 2 vols. 1918-1928 is by A.L. Smith. "The 1911 second volume to Crombie's *Monograph*, although appearing under her name, is now known to have been almost entirely the work of Crombie and not of Smith..." (Hawksworth & Seaward 1977, p. 26). – *Copies*: of ed. 1, vol. 2 at BR, G, FH, PH, USDA; review: H.T. Reader, J. Bot. 49: 170-172. Mai 1911, J. Ramsbottom, Mycol. Centralbl. 1: 378-379. 1912.
+- (4) With A.B. Rendle et al., *Motion nom. alg*., 1909, TL-2/9067.
+- (5) Descriptions, *in* M. Wrigley, *Studies of trees and flowers*, London 1911.
 
 ### Publications
 

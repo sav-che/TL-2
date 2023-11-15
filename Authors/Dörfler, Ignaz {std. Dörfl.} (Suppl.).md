@@ -29,10 +29,10 @@ AG 5(2): 502, 12(3): 51; Barnhart 1: 461 (b. 19 Jun 1866, Wien); BFM no. 907; BM
 
 #### Composite works
 
-(1) See Fasc. 10, *Sched. fl. exs. austro-hung.*, Kerner von M., H., TL-2/no. 3598, fasc. 10 has Dörfler material.
-(2) Editor of "*Dörfleria*". Internationale Zeitschrift für Förderung praktischer Interessen der Botaniker und der Botanik, Bibliograpie der nicht selbständig erscheinenden botanischen Arbeiten und botanisches Offertenblatt. I. Jahrg., Nummer 1. 15 Mai 1909. *Copies*: G, NY. -No more issues known to us.
-(3) See TL-2/1: 1495: *Botaniker-Adressbuch*. *eds 1-3*, 1896-1909; *ed. 2*: 1902, p. \[i\]-x, \[1\]-356. Wien 1902; J. Bot. 40: 122-123. Mar 1902 (rev.); *ed. 3*: 1909, p. \[i\]-viii, \[1\]-478, \[1\]-296. Wien 1909; Hedwigia 48(4)(Beibl.): (144)-(145). 1919 (rev.).
-(4) *Botaniker-Porträts*: Lfgg.: 1-2: 20 portraits with biol. notices, 1906.
+- (1) See Fasc. 10, *Sched. fl. exs. austro-hung.*, Kerner von M., H., TL-2/no. 3598, fasc. 10 has Dörfler material.
+- (2) Editor of "*Dörfleria*". Internationale Zeitschrift für Förderung praktischer Interessen der Botaniker und der Botanik, Bibliograpie der nicht selbständig erscheinenden botanischen Arbeiten und botanisches Offertenblatt. I. Jahrg., Nummer 1. 15 Mai 1909. *Copies*: G, NY. -No more issues known to us.
+- (3) See TL-2/1: 1495: *Botaniker-Adressbuch*. *eds 1-3*, 1896-1909; *ed. 2*: 1902, p. \[i\]-x, \[1\]-356. Wien 1902; J. Bot. 40: 122-123. Mar 1902 (rev.); *ed. 3*: 1909, p. \[i\]-viii, \[1\]-478, \[1\]-296. Wien 1909; Hedwigia 48(4)(Beibl.): (144)-(145). 1919 (rev.).
+- (4) *Botaniker-Porträts*: Lfgg.: 1-2: 20 portraits with biol. notices, 1906.
 
 ### Publications
 

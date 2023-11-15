@@ -8,7 +8,8 @@ Fagerström, Lars Fjalar (1914-2001), Finnish (mother-tongue Swedish) botanist, 
 
 #### Herbarium and types
 
-[[Collection H|H]] (orig., over 40,000 phanerogams, lich., other fungi, bryoph., alg.), duplicates [[Collection E|E]], [[Collection LE|LE]], [[Collection OULU|OULU]], [[Collection TUR|TUR]], [[Collection UPS|UPS]] and many other herbaria; the specimens mainly from Finland (esp. Karelia australis), Russia (Karelian Republic, Leningrad Region) and Sweden. – *Exsiccatae*: Palmgren, Alvar (1880-1960) & L. Fagerström, *Caricis extensae exsiccatae a Museo Botanico Universitatis Helsingiensis distributae*... Helsinki... Nos. 1-150 (s.d., 1971 or earlier).
+[[Collection H|H]] (orig., over 40,000 phanerogams, lich., other fungi, bryoph., alg.), duplicates [[Collection E|E]], [[Collection LE|LE]], [[Collection OULU|OULU]], [[Collection TUR|TUR]], [[Collection UPS|UPS]] and many other herbaria; the specimens mainly from Finland (esp. Karelia australis), Russia (Karelian Republic, Leningrad Region) and Sweden.
+*Exsiccatae*: Palmgren, Alvar (1880-1960) & L. Fagerström, *Caricis extensae exsiccatae a Museo Botanico Universitatis Helsingiensis distributae*... Helsinki... Nos. 1-150 (s.d., 1971 or earlier).
 
 #### Bibliography and biography
 

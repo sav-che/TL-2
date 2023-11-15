@@ -25,9 +25,9 @@ Barnhart 3: 290 (b. 25 Apr 1877); BL 1: 177, 318; Bossert p. 372; Ewan ed. 1: 30
 
 #### Composite works
 
-(1) *Lupinus, in* W.L. Jepson, Man. fl. pl. California 516-533. 1925.
-(2) *Lupinus, in* H. St. John, Fl. s.e. Washington 225-230. 1937, TL-2/10.064.
-(3) *Lupinus, in* L. Abrams, Ill. fl. Pacif. St. 2: 483-519. 1944, see below, *A taxonomic study of the Pacific States species of Lupinus* 1927 (1944).
+- (1) *Lupinus, in* W.L. Jepson, Man. fl. pl. California 516-533. 1925.
+- (2) *Lupinus, in* H. St. John, Fl. s.e. Washington 225-230. 1937, TL-2/10.064.
+- (3) *Lupinus, in* L. Abrams, Ill. fl. Pacif. St. 2: 483-519. 1944, see below, *A taxonomic study of the Pacific States species of Lupinus* 1927 (1944).
 
 ### Publications
 

@@ -39,5 +39,5 @@ Barnhart 3: 467; BB p. 320; BL 2: 245, 730; BM 1: 363, 5: 2276; CSP 6: 287, 8: 1
 *Supplement 2* up to June, 1859: 1859 (p. 2: 2 Jun 1859), p. \[1\]-23. *Copy*: NY.
 *Further additions*:J.Bot. 10: 182-184. Jun 1872, reprint of a list published by R.H. Webb in the Hertfordshire Mercury.
 *Note* (1): see also A.R. Pryor, Fl. Hertfordshire 1887, TL-2/8372.
-(2) Preliminary publ.: R.H. Webb & W.H. Coleman, *A report of the progress made in the investigation of the flora of Hertfordshire* Oct., 14 p. \[Hertford 1843\]. n.v. (*copy*: BM).
+- (2) Preliminary publ.: R.H. Webb & W.H. Coleman, *A report of the progress made in the investigation of the flora of Hertfordshire* Oct., 14 p. \[Hertford 1843\]. n.v. (*copy*: BM).
 

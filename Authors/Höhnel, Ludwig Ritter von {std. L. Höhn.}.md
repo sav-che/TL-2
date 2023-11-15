@@ -44,7 +44,7 @@ BM 2: 853, 6: 471; Kew 3: 7; NDB 9: 320-321; Rehder 5: 397; Urban-Berl. p. 302, 
 
 *Leader of expedition*; Graf Samuel Teleki (1845-1916).
 *Authors of botanical chapters*; (1) Georg August Schweinfurth (1836-1925), Phan., p. 852-868.
-(2) Karl August Friedrich Wilhelm Müller (1818-1899), Musci, p. 868-870.
-(3) Franx Stephani (1842-1927), Hepaticae, p. 870.
-(4) Jean Müller Arg. (1828-1896), Lichenes, p. 871-872.
+- (2) Karl August Friedrich Wilhelm Müller (1818-1899), Musci, p. 868-870.
+- (3) Franx Stephani (1842-1927), Hepaticae, p. 870.
+- (4) Jean Müller Arg. (1828-1896), Lichenes, p. 871-872.
 

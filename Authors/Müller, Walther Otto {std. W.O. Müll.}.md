@@ -9,9 +9,9 @@ Müller, Walther Otto (1833-1887), German gardener and cryptogamist at Gera (Th�
 #### Herbarium and types
 
 Unknown; exsiccatae:
-(1) *Cryptogamen-Herbarium der Thüringischen Staaten*, ser. 1-5, 1868-1869 (see BSbF 16(bibl.): 144. 1869), set at [[Collection E|E]].
-(2) *Album der Cryptogamen-Welt*, ser. 1, 10 sheets, 1877.
-(3) *Die Cladoniaceen von Norddeutschland*, nos. 1-50, Gera 1869 (see BSbF 16(bibl.): 240. 1870), set at [[Collection BM|BM]].
+- (1) *Cryptogamen-Herbarium der Thüringischen Staaten*, ser. 1-5, 1868-1869 (see BSbF 16(bibl.): 144. 1869), set at [[Collection E|E]].
+- (2) *Album der Cryptogamen-Welt*, ser. 1, 10 sheets, 1877.
+- (3) *Die Cladoniaceen von Norddeutschland*, nos. 1-50, Gera 1869 (see BSbF 16(bibl.): 240. 1870), set at [[Collection BM|BM]].
 
 #### Bibliography and biography
 
@@ -23,8 +23,8 @@ Barnhart 2: 525; BM 3: 1373; GF p. 117; GR p. 117; Herder p. 259; 1H 2: 569; Jac
 
 #### Composite works
 
-(1)Edited O. W. Thomé, *Flora von Deutschland*1886-1889, 4 vols.
-(2) With R. Schmidt (q.v.) *Flora von Gera*,1857.
+- (1) Edited O. W. Thomé, *Flora von Deutschland*1886-1889, 4 vols.
+- (2) With R. Schmidt (q.v.) *Flora von Gera*,1857.
 
 ### Publications
 

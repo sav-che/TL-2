@@ -49,8 +49,8 @@ AG 3: 584-585; Backer p. 540; Barnhart 3: 307 (b. 27 Feb 1748, d. 9 Aug 1820); B
 
 #### Composite works
 
-(1) See Linnaeus, C., *Iter in Chinam* 1768, TL-2/4836; sole author A. Sparrman fide KR p. 662, no. 1.
-(2) Contributed to G. Forster, Decas pl. nov., Nova Acta Soc. Sci. Upsala 3: 178, 181-183, 184. 1780.
+- (1) See Linnaeus, C., *Iter in Chinam* 1768, TL-2/4836; sole author A. Sparrman fide KR p. 662, no. 1.
+- (2) Contributed to G. Forster, Decas pl. nov., Nova Acta Soc. Sci. Upsala 3: 178, 181-183, 184. 1780.
 
 #### Handwriting
 

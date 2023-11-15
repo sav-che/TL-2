@@ -53,9 +53,9 @@ Ainsworth p. 341; Andrews ed. 2: 249; Barnhart 1: 380; BM 1: 383, 5: 2043; Bosse
 
 #### Composite works
 
-(1) See TL-2/1: 546.
-(2) See J. Sturm, *Deutschi, fl*., TL-2/13. 335, for many references.
-(3) *Skizzen* zur vergleichenden *Phytotomie* vor- und jetztweltlicher *Pflanzen-Stämme, in* K.R. von Sternberg, in *Vers. Fl. Vorwelt* (TL-2/13.022), see TL-2/5: 902.
+- (1) See TL-2/1: 546.
+- (2) See J. Sturm, *Deutschi, fl*., TL-2/13. 335, for many references.
+- (3) *Skizzen* zur vergleichenden *Phytotomie* vor- und jetztweltlicher *Pflanzen-Stämme, in* K.R. von Sternberg, in *Vers. Fl. Vorwelt* (TL-2/13.022), see TL-2/5: 902.
 
 ### Publications
 

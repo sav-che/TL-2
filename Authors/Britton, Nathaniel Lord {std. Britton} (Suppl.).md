@@ -65,15 +65,15 @@ Andrews p. 242; Barnhart 1: 253; BFM 1586; BL 1: 288 (index), 2: 1586; BM 1: 251
 
 #### Composite works
 
-(1), (2), see TL-2/1: 332.
-(3) Editor, *Bulletin of the Torrey Botanical Club* 16-24, Jan 1889-Dec 1897.
-(4) Junior author with Thomas Morong, with the assistance of Miss Anna Murray Vail, *An enumeration of the plants collected by Dr. Thomas Morong* in Paraguay 1888-1890, see TL-2/6340.
-(5) Introductory note in C.E. Newhall, *Trees n.e. Amer.* 1890, TL-2/6772.
-(6) J.C. Arthur, N.L. Britton, F.E. Clements, F.S. Earle, A.W. Evans and others, Propositions relatives à l'amendement et au complément des Règles internationales de la Nomenclature botanique, adoptées par le Congrès international de Botanique de Vienne en 1905..., p. 1-9. \[New York 1910\]. – See TL2/suppl. 2: no. 19.529.
+- (1), (2), see TL-2/1: 332.
+- (3) Editor, *Bulletin of the Torrey Botanical Club* 16-24, Jan 1889-Dec 1897.
+- (4) Junior author with Thomas Morong, with the assistance of Miss Anna Murray Vail, *An enumeration of the plants collected by Dr. Thomas Morong* in Paraguay 1888-1890, see TL-2/6340.
+- (5) Introductory note in C.E. Newhall, *Trees n.e. Amer.* 1890, TL-2/6772.
+- (6) J.C. Arthur, N.L. Britton, F.E. Clements, F.S. Earle, A.W. Evans and others, Propositions relatives à l'amendement et au complément des Règles internationales de la Nomenclature botanique, adoptées par le Congrès international de Botanique de Vienne en 1905..., p. 1-9. \[New York 1910\]. – See TL2/suppl. 2: no. 19.529.
 
 #### Note
 
-(1) Anon., *Revised names of plants of New Jersey*, extracted from Britton's State Catalogue, reprinted from the Druggists' Bulletin, July 1890, cover-t.p., p. \[1\]-23. *Copy*: BKL. – See TL-2/776 (*Cat. pl. New Jersey*).
+- (1) Anon., *Revised names of plants of New Jersey*, extracted from Britton's State Catalogue, reprinted from the Druggists' Bulletin, July 1890, cover-t.p., p. \[1\]-23. *Copy*: BKL. – See TL-2/776 (*Cat. pl. New Jersey*).
 
 ### Publications
 

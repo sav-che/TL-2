@@ -52,15 +52,15 @@ AG 6(2): 154; Andrews p. 303-304; Backer p. 374; Barnhart 2: 495; BL 1: 106, 129
 #### Composite works
 
 (for a complete bibliography see Stafleu, Wentia 16: 1-95. 1966):
-(1) Hall, H. C. v., *Fl. belg. sept.*, vol. 2(1), *Equisetaceae* etc., p i-xvi, 1-227, indexes. With Michael Dassen (1809-1852). See TL-2/2284.
+- (1) Hall, H. C. v., *Fl. belg. sept.*, vol. 2(1), *Equisetaceae* etc., p i-xvi, 1-227, indexes. With Michael Dassen (1809-1852). See TL-2/2284.
 Vol. 2(2), *preface* and *Algae*, p. i-xii, 353-477. See no. (2) Miquel, F. A. W., Mulder, G. J. and Wenckebach, editors, *Bulletin des sciences physiques et naturelles en Néerlande*, Leiden, années 1838, 1839, 1841, see SM no. 24.
-(3) Kops, J., *Fl. batava*, fasc. 118-125, Amsterdam 1838, edited and partly authored by Miquel, see SM 47 and TL-2/3874.
-(4) Meyen, F. J. M., Obs. bot., *Piperaceae*, p. 483-495. 1843, see TL-2/5895.
-(5) Lehmann, J. G. C., *Pl. Preiss.*, various contr., see SM no. 95 and TL-2/4332.
-(6) *Flore des Serres et des jardins de l'Europe*, co-editor vols. 2-10, 1846-1855. See under Van Houtte.
-(7) *Tijdschrift voor de wis- en natuurkundige wetenschappen*, Amsterdam 1848-1852, vols. 1-5, co-editor.
-(8) Hooker, W. J., *Niger fl., Ficus*, p. 520-552. 1849 (SM 130).
-(9) Martius, C. F. P. von, *Fl. bras.*
+- (3) Kops, J., *Fl. batava*, fasc. 118-125, Amsterdam 1838, edited and partly authored by Miquel, see SM 47 and TL-2/3874.
+- (4) Meyen, F. J. M., Obs. bot., *Piperaceae*, p. 483-495. 1843, see TL-2/5895.
+- (5) Lehmann, J. G. C., *Pl. Preiss.*, various contr., see SM no. 95 and TL-2/4332.
+- (6) *Flore des Serres et des jardins de l'Europe*, co-editor vols. 2-10, 1846-1855. See under Van Houtte.
+- (7) *Tijdschrift voor de wis- en natuurkundige wetenschappen*, Amsterdam 1848-1852, vols. 1-5, co-editor.
+- (8) Hooker, W. J., *Niger fl., Ficus*, p. 520-552. 1849 (SM 130).
+- (9) Martius, C. F. P. von, *Fl. bras.*
 a. *Chlorantaceae* et *Piperaceae*, 4(1): 1-76, *pl. 1-24.* 15 Aug 1852.
 b. *Urticinae*, 4(1): 77-218, *pl. 25-70.* 1 Dec 1853.
 c. *Mantissa piperacearum*, 4(1): 219-222. 1 Dec 1853.
@@ -68,11 +68,11 @@ d. *Ebenaceae*, 7: 1-10, *pl. 1-3.* 15 Mar 1856.
 e. *Symplocaceae*, 7: 21-36, *pl. 8-14.* 15 Mar 1856.
 f. *Primulaceae* et *Myrsinaceae*, 10: 257-324, *pl. 23-59.* 15 Mar 1856.
 g. *Sapotaceae*, 7: 36-118, *pl. 15-47.* 15 Jan 1863 (with Martius and Eiehler).
-(10) Seemann, B., *Bot. Herald, Artocarpeae*, p. 195-197. Feb 1854. *Piperaceae*, p. 198-200. Jul 1854, see SM 161.
-(11) Zollinger, H., *Syst. Verz.*, most *Monochlamydeae*, p. 80-119. Nov 1854-Jan 1855 (see SM 165).
-(12) Vriese, W. H. de, *Plantae Indiae batavae orientalis*, fase. 2, p. 81-160. 3 Oct 1857 (various families).
-(13) Candolle, *Prodr., Casuarineae*, 16(2): 332-344. med. Jul 1868.
-(14) Siebold et Zucearini, *Fl. jap.*, vol. 2, final editing of p. 45-89 by Miquel.
+- (10) Seemann, B., *Bot. Herald, Artocarpeae*, p. 195-197. Feb 1854. *Piperaceae*, p. 198-200. Jul 1854, see SM 161.
+- (11) Zollinger, H., *Syst. Verz.*, most *Monochlamydeae*, p. 80-119. Nov 1854-Jan 1855 (see SM 165).
+- (12) Vriese, W. H. de, *Plantae Indiae batavae orientalis*, fase. 2, p. 81-160. 3 Oct 1857 (various families).
+- (13) Candolle, *Prodr., Casuarineae*, 16(2): 332-344. med. Jul 1868.
+- (14) Siebold et Zucearini, *Fl. jap.*, vol. 2, final editing of p. 45-89 by Miquel.
 
 #### Handwriting
 

@@ -8,7 +8,8 @@ Garrett, Albert Osbun (1870-1948), American high-school teacher and amateur myco
 
 #### Herbarium and types
 
-[[Collection UT|UT]] – Exsiccatae: *Fungi utahenses* (fasc. 1-10, nos. 1-250, Salt Lake City 1904-1918) sets at [[Collection B|B]], [[Collection BPI|BPI]], [[Collection BUT|BUT]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEB|NEB]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection OSC|OSC]], [[Collection PUR|PUR]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection RMS|SOLH]], [[Collection UT|UT]], [[Collection WIS|WIS]], [[Collection WSP|WSP]].
+[[Collection UT|UT]]
+*Exsiccatae*: *Fungi utahenses* (fasc. 1-10, nos. 1-250, Salt Lake City 1904-1918) sets at [[Collection B|B]], [[Collection BPI|BPI]], [[Collection BUT|BUT]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEB|NEB]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection OSC|OSC]], [[Collection PUR|PUR]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection RMS|SOLH]], [[Collection UT|UT]], [[Collection WIS|WIS]], [[Collection WSP|WSP]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 218.
 - Barnhart, NAF 7(15): 1065. 1940 (dates *Fungi utahenses*).
 - Stevenson, Beih. Nova Hedwigia 36: 169-172. 1971.

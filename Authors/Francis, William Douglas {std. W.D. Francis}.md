@@ -31,10 +31,10 @@ APN p. 208; Barnhart 2: 2; BL 1: 68, 69, 296; Bossert p. 132; Frodin ed. 2: 431;
 #### Composite works
 
 Co-author with C.T. White of:
-(1) Parts 1-4 of *Contribution*\[*s*\] *to the Queensland Flora*... 1921-1929 (see TL-2/7, nr.
+- (1) Parts 1-4 of *Contribution*\[*s*\] *to the Queensland Flora*... 1921-1929 (see TL-2/7, nr.
 17.448); and for a continuation of this title in a different serial see TL-2/Suppl. 1, nr. 19.911, note.
-(2) A series of articles entitled *Queensland Rain-forest Trees*, which appeared in the Queensland Agricultural Journal (1921-1929) and included pictures of tree habit and details that were precusory to the book *Australian rain-forest trees*... 1929, see nr. 35.383 below.
-(3) *Plants collected in the mandated territory of New Guinea*... 1928, see TL-2/7, nr.
+- (2) A series of articles entitled *Queensland Rain-forest Trees*, which appeared in the Queensland Agricultural Journal (1921-1929) and included pictures of tree habit and details that were precusory to the book *Australian rain-forest trees*... 1929, see nr. 35.383 below.
+- (3) *Plants collected in the mandated territory of New Guinea*... 1928, see TL-2/7, nr.
 17.452.
 
 ### Publications

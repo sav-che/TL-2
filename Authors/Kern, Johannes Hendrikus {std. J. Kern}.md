@@ -23,6 +23,6 @@ BL 2: 425, 674; Bossert p. 209; IH 2: 353-354; Kew 3: 238-239; MW suppl. p. 157;
 
 #### Composite works
 
-(1) Backer, C.A. and R.C. Bakhuizen van den Brink Jr., *Flora of Java*, *Cyperaceae*, 3: 451-495. 1968 (TL-2/230).
-(2) *Flora neerlandica*, vol. 1 (3), *Cyperaceae* (*Carex*), with Th.J. Reichgelt, Amsterdam 1954, 133 p.
+- (1) Backer, C.A. and R.C. Bakhuizen van den Brink Jr., *Flora of Java*, *Cyperaceae*, 3: 451-495. 1968 (TL-2/230).
+- (2) *Flora neerlandica*, vol. 1 (3), *Cyperaceae* (*Carex*), with Th.J. Reichgelt, Amsterdam 1954, 133 p.
 

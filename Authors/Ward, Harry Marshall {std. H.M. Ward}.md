@@ -38,9 +38,9 @@ Ainsworth p. 159, 284, 321, 348; Barnhart 3: 458; BB p. 315-316; BJI 1: 61; BM 5
 
 #### Composite-works
 
-(1) Editor, Th. Laslett, *Timber and timber trees* ed. 2. 1894.
-(2) Translator J. Sachs, *Lectures on the physiology of plants* 1887, see TL-2/9958 and J. Bot. 25: 376. Dec 1887.
-(3) Revised and edited: R. Hartig, *Textbook of the diseases of trees* 1894.
+- (1) Editor, Th. Laslett, *Timber and timber trees* ed. 2. 1894.
+- (2) Translator J. Sachs, *Lectures on the physiology of plants* 1887, see TL-2/9958 and J. Bot. 25: 376. Dec 1887.
+- (3) Revised and edited: R. Hartig, *Textbook of the diseases of trees* 1894.
 
 #### Eponymy
 

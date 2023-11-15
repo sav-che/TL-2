@@ -23,13 +23,13 @@ Barnhart 3:311 (b. 5 Sep 1811, d. 15 Mar 1895); BM 5: 1993; Bossert p. 378; Morr
 
 #### Composite works
 
-(1) Illustrated A. Gray, *Gen. Amer. bor.*, 1848-1849, TL-2/2125.
-(2) Illustrated A. Gray, *Manual* ed. 2, 1856 and following, TL-2/2124.
-(3) Artist, A. Gray, *Pl. forest trees N. Amer.* 1891, TL-2/2133 (J. Bot. Oct 1891).
-(4) Illustrated A. Gray, *Pl. wright*, 1852-1853, TL-2/2127.
-(5) Illustrated A. Gray, *U.S. Expl. Exp., Atlas phan.*, 1856, 1857, TL-2/2130.
-(6) Text illustrations, A. Gray, *First lessons* 1857 and subsequent editions, TL-2/2131.
-(7) Plates (10) in A.B. Hervey, Wayflowers and ferns, Troy (Nims and Knight) 1887, 10 pl. with text. *Copies*: MO, PH.
+- (1) Illustrated A. Gray, *Gen. Amer. bor.*, 1848-1849, TL-2/2125.
+- (2) Illustrated A. Gray, *Manual* ed. 2, 1856 and following, TL-2/2124.
+- (3) Artist, A. Gray, *Pl. forest trees N. Amer.* 1891, TL-2/2133 (J. Bot. Oct 1891).
+- (4) Illustrated A. Gray, *Pl. wright*, 1852-1853, TL-2/2127.
+- (5) Illustrated A. Gray, *U.S. Expl. Exp., Atlas phan.*, 1856, 1857, TL-2/2130.
+- (6) Text illustrations, A. Gray, *First lessons* 1857 and subsequent editions, TL-2/2131.
+- (7) Plates (10) in A.B. Hervey, Wayflowers and ferns, Troy (Nims and Knight) 1887, 10 pl. with text. *Copies*: MO, PH.
 
 #### Eponymy
 

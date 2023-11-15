@@ -33,8 +33,8 @@ For eponyms based on the name Fitzpatrick, cf. infra, sub Harry Morton Fitzpatri
 
 #### Composite works
 
-(1) Perhaps Fitzpatrick's most enduring contribution to botany is *Rafinesque*... 1911 (see TL-2/4, nr. 8549 and p. 551, 554-555). Also to be noted is Charles Boewe, *Mantissa*: *a supplement to Fitzpatrick's Rafinesque*, Providence, Rhode Island (M & S Press) 2001.
-(2) Editor, *The Iowa Naturalist* (1904-1917), which consisted of but three volumes.
+- (1) Perhaps Fitzpatrick's most enduring contribution to botany is *Rafinesque*... 1911 (see TL-2/4, nr. 8549 and p. 551, 554-555). Also to be noted is Charles Boewe, *Mantissa*: *a supplement to Fitzpatrick's Rafinesque*, Providence, Rhode Island (M & S Press) 2001.
+- (2) Editor, *The Iowa Naturalist* (1904-1917), which consisted of but three volumes.
 
 ### Publications
 

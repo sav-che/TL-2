@@ -10,7 +10,8 @@ Cleve, Per Theodor (1840-1905), Swedish algologist.
 
 #### Herbarium and types
 
-(Cleve) [[Collection S|S]] (Diatoms, orig.), duplicates [[Collection B|B]], [[Collection DMNH|DMNH]], [[Collection K|K]], [[Collection PH|PH]], [[Collection W|W]]. Wornardt states that the Cleve and Möller types are at [[Collection PC|PC]]; Koster locates the Cleve and Möller diatom types at [[Collection AWH|AWH]] and [[Collection PC|PC]]. – *Exsiccatae: Diatoms* (parts i-vi, nos. 1-324), Uppsala 1837-1882, sets at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
+(Cleve) [[Collection S|S]] (Diatoms, orig.), duplicates [[Collection B|B]], [[Collection DMNH|DMNH]], [[Collection K|K]], [[Collection PH|PH]], [[Collection W|W]]. Wornardt states that the Cleve and Möller types are at [[Collection PC|PC]]; Koster locates the Cleve and Möller diatom types at [[Collection AWH|AWH]] and [[Collection PC|PC]].
+*Exsiccatae*: Diatoms* (parts i-vi, nos. 1-324), Uppsala 1837-1882, sets at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
 *Co-author* of exsiccatae: Johann Diedrich Möller (1844-1907), a technician who did not Publish any botanical papers (KR p. 518).
 *Ref*.: IH 1 (ed. 6): 357, 2: 130; KR p. 129.
 - Sayre, Mem. New York Bot. Gard. 19(1): 64-65. 1969.

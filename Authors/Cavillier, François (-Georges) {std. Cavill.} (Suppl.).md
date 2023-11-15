@@ -26,13 +26,13 @@ AG 6(1): 415, 12(3): 358; Barnhart 1: 324; BFM see no. 966; BJI 2: 26; BL 2: 117
 
 #### Composite works
 
-(1) In É. Burnat, *Fl. Alpes marit.* 5(1): 1-95. 1913, see TL-2/1: 418.
-(2) With J. Briquet, id. 5(2): 96-376. 1915, 6(1): 1-169. 1916, 6(2): 170-345. 1917, 7: 1-311. 1931, see TL-2/1: 418.
-(3) With J. Briquet, *Notes sur quelques phanérogames de l'Oberland bernois*, Annu. Cons. Jard. bot. Genève 20: 222-261. 1918.
-(4) *Notice biographique sur Émile Burnat*, Bull. Murith. 41: 104-111, portr. 1921.
-(5) With J. Briquet, *Émile Burnat*. Autobiographie publiés avec une étude sur le botaniste... Genève 1922, vii, 185 p., *1 portr.
+- (1) In É. Burnat, *Fl. Alpes marit.* 5(1): 1-95. 1913, see TL-2/1: 418.
+- (2) With J. Briquet, id. 5(2): 96-376. 1915, 6(1): 1-169. 1916, 6(2): 170-345. 1917, 7: 1-311. 1931, see TL-2/1: 418.
+- (3) With J. Briquet, *Notes sur quelques phanérogames de l'Oberland bernois*, Annu. Cons. Jard. bot. Genève 20: 222-261. 1918.
+- (4) *Notice biographique sur Émile Burnat*, Bull. Murith. 41: 104-111, portr. 1921.
+- (5) With J. Briquet, *Émile Burnat*. Autobiographie publiés avec une étude sur le botaniste... Genève 1922, vii, 185 p., *1 portr.
 *(6) *Liste des publications scientifiques de J. Briquet* (q.v.), Act. Soc. helv. Sci. nat. 113-sess. Thoune: 482-493. 1932.
-(7) For further biographical and bibliographical articles on É. Burnat, C.-J. Pitard, John Briquet, George Kohler, Alfred Saint-Yves, see Candollea 14: 275-276. 1953.
+- (7) For further biographical and bibliographical articles on É. Burnat, C.-J. Pitard, John Briquet, George Kohler, Alfred Saint-Yves, see Candollea 14: 275-276. 1953.
 
 ### Publications
 

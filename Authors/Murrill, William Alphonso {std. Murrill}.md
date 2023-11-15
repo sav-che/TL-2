@@ -27,10 +27,10 @@ Barnhart 2: 532; BJI 2: 121; BL 1: 173, 219, 310; BM 3: 1383-1384, 7: 888; Bosse
 
 #### Composite works
 
-(1) Editor of *Mycologia* 1909-1924.
-(2) Editor of *Journal New York Bot. Garden* 1906-1908.
-(3) NAF, *Polyporaceae*, in 9(1): 1-72. 19 Dec 1907, 9(2): 73-131. 12 Mar 1908; *Boletaceae*, in 9(3): 133-161. 3 Feb 1910; *Agaricaceae*, in 9(3): 163-172. 3 Feb 1910, 9(4): 237-249, 286-296, 30 Apr 1915, 9(5): 297-374. 7 Jun 1916, 9(6): 375-426. 10 Oct 1916, 10(1): 1-76. 28 Jul 1914, 10(2): 77-144. 26 Apr 1917, 10(3): 145-226. 25 Jun 1917, 10(4): 227. 29 Nov 1924.
-(4) *Autobasidiomycetes, in* N. L. Britton, *The Bahama flora* 637-645. 26 Jun 1920.
+- (1) Editor of *Mycologia* 1909-1924.
+- (2) Editor of *Journal New York Bot. Garden* 1906-1908.
+- (3) NAF, *Polyporaceae*, in 9(1): 1-72. 19 Dec 1907, 9(2): 73-131. 12 Mar 1908; *Boletaceae*, in 9(3): 133-161. 3 Feb 1910; *Agaricaceae*, in 9(3): 163-172. 3 Feb 1910, 9(4): 237-249, 286-296, 30 Apr 1915, 9(5): 297-374. 7 Jun 1916, 9(6): 375-426. 10 Oct 1916, 10(1): 1-76. 28 Jul 1914, 10(2): 77-144. 26 Apr 1917, 10(3): 145-226. 25 Jun 1917, 10(4): 227. 29 Nov 1924.
+- (4) *Autobasidiomycetes, in* N. L. Britton, *The Bahama flora* 637-645. 26 Jun 1920.
 
 ### Publications
 

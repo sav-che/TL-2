@@ -21,8 +21,8 @@ Barnhart 2: 413; BJI 1: 38; BM 3: 1195, 7: 760; Bossert p. 245; CSP 10: 658, 16:
 
 #### Composite works
 
-(1)Collaborator, C.J. Hartman, *Handb. Skand. fl*. ed. 12, 1889, see TL-2/2426.
-(2): with F. R. Kjellman, *Fanerogamer frän Novaja Semlja*, Wajgatsch och Chabarova,... in Vega-Expeditionens Vetenskapliga Arbetcn, Stockholm 1882, p. 299-317, *pl. 6-7*, and *Phanerogamen von Nowaja-Semlja*,... *in* Wiss. Erg. Vega-Exp. Leipzig, 1882-1883, P. 140-156, *pl. 2-3*. See also KR p. 352, nos. 40 (a) and (b).
+- (1) Collaborator, C.J. Hartman, *Handb. Skand. fl*. ed. 12, 1889, see TL-2/2426.
+- (2): with F. R. Kjellman, *Fanerogamer frän Novaja Semlja*, Wajgatsch och Chabarova,... in Vega-Expeditionens Vetenskapliga Arbetcn, Stockholm 1882, p. 299-317, *pl. 6-7*, and *Phanerogamen von Nowaja-Semlja*,... *in* Wiss. Erg. Vega-Exp. Leipzig, 1882-1883, P. 140-156, *pl. 2-3*. See also KR p. 352, nos. 40 (a) and (b).
 
 ### Publications
 

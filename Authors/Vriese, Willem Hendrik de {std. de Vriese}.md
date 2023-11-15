@@ -31,14 +31,14 @@ Aa 19: 454; Backer p. 170; Barnhart 3: 445 (b. 11 Aug 1806, d. 23 Jan 1862); BM 
 
 #### Composite works
 
-(1) Editor, with J. v.d. Hoeven, *Tijdschr. nat. geschied.* 1834-1845, 12 vols., see TL-2/2871.
-(2) Preface to K.S. Kunth's *Handboek der botanie* 1836, see TL-2/4001.
-(3) Co-author with G. Bentham, W.J. Hooker & J. Lindley, of *A systematical list of the principal plants, in* T.L. Mitchell, *J. exped. trop. Australia* 1848, TL-2/6132.
-(4) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1847, TL-2/4332.
-(5) Co-founder and co-editor, *Nederlandsch kruidkundig Archief* 1846-1861, vols. 1-5(2).
-(6) Co-author and in part co-editor, F.A.W. Miquel, *Pl. jungh.* 1853-1855, TL-2/6107.
-(7) Editor and author of biography (p. 1-98, 223-266): *Reis naar het oostelijk gedeelte van den Indischen Archipel* in het jaar 1821; door C.G.C. Reinwardt. Uit zijne nagelaten aanteekeningen opgesteld, met een levensbericht en bijlagen vermeerderd; door W.H. de Vriese... Amsterdam (Frederik Muller) 1858; editing completed by J. Pijnappel.
-(8) Editor, with P.F. von Siebold, *Annales d'horticulture et de botanique*, Leiden 1857-1860, 3 vols., see P.F. von Siebold.
+- (1) Editor, with J. v.d. Hoeven, *Tijdschr. nat. geschied.* 1834-1845, 12 vols., see TL-2/2871.
+- (2) Preface to K.S. Kunth's *Handboek der botanie* 1836, see TL-2/4001.
+- (3) Co-author with G. Bentham, W.J. Hooker & J. Lindley, of *A systematical list of the principal plants, in* T.L. Mitchell, *J. exped. trop. Australia* 1848, TL-2/6132.
+- (4) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1847, TL-2/4332.
+- (5) Co-founder and co-editor, *Nederlandsch kruidkundig Archief* 1846-1861, vols. 1-5(2).
+- (6) Co-author and in part co-editor, F.A.W. Miquel, *Pl. jungh.* 1853-1855, TL-2/6107.
+- (7) Editor and author of biography (p. 1-98, 223-266): *Reis naar het oostelijk gedeelte van den Indischen Archipel* in het jaar 1821; door C.G.C. Reinwardt. Uit zijne nagelaten aanteekeningen opgesteld, met een levensbericht en bijlagen vermeerderd; door W.H. de Vriese... Amsterdam (Frederik Muller) 1858; editing completed by J. Pijnappel.
+- (8) Editor, with P.F. von Siebold, *Annales d'horticulture et de botanique*, Leiden 1857-1860, 3 vols., see P.F. von Siebold.
 
 #### Eponymy
 

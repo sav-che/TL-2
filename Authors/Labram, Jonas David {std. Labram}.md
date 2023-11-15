@@ -22,8 +22,8 @@ Barnhart 2: 331; BM 3: 1040; NI 1118-1119; PR (alph.) (ed. 1: 5483-5484); Rehder
 
 #### Composite works
 
-(1) Drew the illustrations for J. Hegetschweiler, *Die Giftpflanzen der Schweiz* (see no. 2564).
-(2) For a complete list of Labram's works see Geiger, 1946, cited above.
+- (1) Drew the illustrations for J. Hegetschweiler, *Die Giftpflanzen der Schweiz* (see no. 2564).
+- (2) For a complete list of Labram's works see Geiger, 1946, cited above.
 
 #### Eponymy
 

@@ -27,7 +27,7 @@ Backer p. 343; Barnhart 2: 424; BJI 1: 38; BM 7: 772; Bossert p. 247; CSP 10: 67
 #### Composite works
 
 Engler, *Pflanzenreich*:
-(1) *Nepenthaceae*, IV. 111 (Heft 36): 1-92. *fig. 1-19*. 20 Oct 1908 (rev. W. Wangerin, Bot. Centralbl. 113: 501-503. 1910.
-(2) *Sarraceniaceae*, IV. 110 (Heft 34): 1-39. *fig. 1-11*. 8 Mai 1908.
-(3) *Cephalotaceae*, IV. 116 (Heft 47): 1-15. *fig. 1-4*. 14 Feb 1911.
+- (1) *Nepenthaceae*, IV. 111 (Heft 36): 1-92. *fig. 1-19*. 20 Oct 1908 (rev. W. Wangerin, Bot. Centralbl. 113: 501-503. 1910.
+- (2) *Sarraceniaceae*, IV. 110 (Heft 34): 1-39. *fig. 1-11*. 8 Mai 1908.
+- (3) *Cephalotaceae*, IV. 116 (Heft 47): 1-15. *fig. 1-4*. 14 Feb 1911.
 

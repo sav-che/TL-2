@@ -31,9 +31,9 @@ Collaborator with J.E. Lange, *Fl. agaric. danic.* (TL-2/4178).
 
 #### Note
 
-(1) N.F. Buchwald replied to an IAPT request for "Roon p. 22": Have you made any plant collections...: "Yes! (sic), Denmark, Island 1923-1955" (dated 19 Sep 1956).
-(2) Outside our period: N.F. Buchwald, *Sclerotiniaceae Daniae*. En floristisk-systematisk Oversigt over de i Danmark fundne Knoldbaegersvampe. I. Ciboria, Rutstroemia, Myriosclerotinia g.n. og Sclerotinia, Friesia 3: 235-330. 1947; and: *Studies in the Sclerotiniaceae I*. Taxonomy of the Sclerotiniaceae, D. kgl. Vet.- og Landbohøjskole, København. Aarsskrift 1949: 75-191. 1949.
-(3) *Sclerotinia* Fuckel (1870), nom. cons. (see Int. Code Bot. Nom. 1988, p. 144) was based on N.F. Buchwald and Paul Neergaard, Friesia 10(1-2): 96-99. 1973 and Taxon 25(1): 199-200. 1976.
+- (1) N.F. Buchwald replied to an IAPT request for "Roon p. 22": Have you made any plant collections...: "Yes! (sic), Denmark, Island 1923-1955" (dated 19 Sep 1956).
+- (2) Outside our period: N.F. Buchwald, *Sclerotiniaceae Daniae*. En floristisk-systematisk Oversigt over de i Danmark fundne Knoldbaegersvampe. I. Ciboria, Rutstroemia, Myriosclerotinia g.n. og Sclerotinia, Friesia 3: 235-330. 1947; and: *Studies in the Sclerotiniaceae I*. Taxonomy of the Sclerotiniaceae, D. kgl. Vet.- og Landbohøjskole, København. Aarsskrift 1949: 75-191. 1949.
+- (3) *Sclerotinia* Fuckel (1870), nom. cons. (see Int. Code Bot. Nom. 1988, p. 144) was based on N.F. Buchwald and Paul Neergaard, Friesia 10(1-2): 96-99. 1973 and Taxon 25(1): 199-200. 1976.
 
 ### Publications
 

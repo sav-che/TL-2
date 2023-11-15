@@ -60,9 +60,9 @@ AG 2(1): 278, 5(2): 32; Backer p. 607; Barnhart 3: 419 (b. 10 Oct 1749, d. 24 No
 
 #### Composite works
 
-(1) Co-author, with G.C. Oeder, *Fl. dan.*, vols. 6-7, fasc. 16-21, *pl. 901-1260*, see TL-2/7001.
-(2) Co-author, with A.B. Lambert, *Descr. Cinchona* 1797, TL-2/4144 (see Vahl, *Om Slægten Cinchona* og dens Arter, Skr. Nat. Selsk. 1(1): 1-25, *4 pl*. 1790 (Christensen 9a-c) and 6: 23-83. 1818 (see Christensen 26), *Vom Geschlechte Cinchona*, Schr. naturf. Ges. Kopenhagen 1(1): 1-23. 1793.
-(3) *Plante-Slaegter* beskrevne of Hr. Oberst-Lieutenant von Rohr, med tilføiede Anmærkninger af Hr. Professor Vahl, Skr. Nat. Selsk. 2(1): 205-221. 1792, see J.P.B. von Rohr, TL-2/4: 864-865 and D.H. Nicolson, Taxon 489-494. 1981.
+- (1) Co-author, with G.C. Oeder, *Fl. dan.*, vols. 6-7, fasc. 16-21, *pl. 901-1260*, see TL-2/7001.
+- (2) Co-author, with A.B. Lambert, *Descr. Cinchona* 1797, TL-2/4144 (see Vahl, *Om Slægten Cinchona* og dens Arter, Skr. Nat. Selsk. 1(1): 1-25, *4 pl*. 1790 (Christensen 9a-c) and 6: 23-83. 1818 (see Christensen 26), *Vom Geschlechte Cinchona*, Schr. naturf. Ges. Kopenhagen 1(1): 1-23. 1793.
+- (3) *Plante-Slaegter* beskrevne of Hr. Oberst-Lieutenant von Rohr, med tilføiede Anmærkninger af Hr. Professor Vahl, Skr. Nat. Selsk. 2(1): 205-221. 1792, see J.P.B. von Rohr, TL-2/4: 864-865 and D.H. Nicolson, Taxon 489-494. 1981.
 
 #### Handwriting
 

@@ -42,18 +42,18 @@ Andrews p. 242; Barnhart 1: 253; BL 1: 203; Bossert p. 53; CSP 12: 391 (Knight),
 
 #### Composite works
 
-(1), (2), see TL-2/1: 332.
-(3) *Mosses*, *in* N.L. Britton, *Fl. Bermuda* 430-448. 28 Feb 1918.
-(4) *Andreaeales*, *in* N. Amer. Fl. 15: 33. 14 Jun 1913.
-(5) *Andreaeaceae*, id. 15: 35-39. 14 Jun 1913, with Julia Titus Emerson (1877-1962).
-(6) *Bryales*, id. 15: 41-43. 14 Jun 1913, with Robert Statham Williams (1859-1945).
-(7) *Archidiaceae*, id. 15: 45-46. 14 Jun 1913.
-(8) *Bruchiaceae*, id. 15: 47-54. 14 Jun 1913.
-(9) *Ditrichaceae*, id. 15: 55-67. 14 Jun 1913.
-(10) *Bryoxiphiaceae*, id. 15: 69-70. 14 Jun 1913.
-(11) *Seligeriaceae*, id. 15: 71-75. 14 Jun 1913.
-(12) *Wild flowers*, their appeal and conservation, *in* L.H. Bailey (1858-1954), Standard Cycl. Hort. 3513-3514. 28 Mar 1917, see TL-2/1: 94-96 and suppl. 1: 265-268.
-(13) *Mosses*, *in* N.L. Britton and C.F. Millspaugh, *The Bahama Flora* 477-500. 26 Jun 1920.
+- (1), (2), see TL-2/1: 332.
+- (3) *Mosses*, *in* N.L. Britton, *Fl. Bermuda* 430-448. 28 Feb 1918.
+- (4) *Andreaeales*, *in* N. Amer. Fl. 15: 33. 14 Jun 1913.
+- (5) *Andreaeaceae*, id. 15: 35-39. 14 Jun 1913, with Julia Titus Emerson (1877-1962).
+- (6) *Bryales*, id. 15: 41-43. 14 Jun 1913, with Robert Statham Williams (1859-1945).
+- (7) *Archidiaceae*, id. 15: 45-46. 14 Jun 1913.
+- (8) *Bruchiaceae*, id. 15: 47-54. 14 Jun 1913.
+- (9) *Ditrichaceae*, id. 15: 55-67. 14 Jun 1913.
+- (10) *Bryoxiphiaceae*, id. 15: 69-70. 14 Jun 1913.
+- (11) *Seligeriaceae*, id. 15: 71-75. 14 Jun 1913.
+- (12) *Wild flowers*, their appeal and conservation, *in* L.H. Bailey (1858-1954), Standard Cycl. Hort. 3513-3514. 28 Mar 1917, see TL-2/1: 94-96 and suppl. 1: 265-268.
+- (13) *Mosses*, *in* N.L. Britton and C.F. Millspaugh, *The Bahama Flora* 477-500. 26 Jun 1920.
 
 #### Note
 

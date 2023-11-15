@@ -8,7 +8,8 @@ Kitton, Frederic (1827-1895), British diatomist and microscopist.
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – *Exsiccatae*: *Norfolk diatoms*, see i-iv, nos. 1-100, 1885 (but see Sayre). Sets at [[Collection BM|BM]] and [[Collection FH|FH]].
+[[Collection BM|BM]].
+*Exsiccatae*: *Norfolk diatoms*, see i-iv, nos. 1-100, 1885 (but see Sayre). Sets at [[Collection BM|BM]] and [[Collection FH|FH]].
 *Ref*.: Kitton, Trans. Norfolk Norwich Nat. Soc. 3: 754-770. 1884.
 - Newton, Phycol. Bull. 1: 17. 1952.
 - Koster, Taxon 18: 554. 1969.

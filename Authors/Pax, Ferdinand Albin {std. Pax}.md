@@ -8,7 +8,8 @@ Pax, Ferdinand Albin (1858-1942), German botanist (born in Bohemia); Dr. phil. B
 
 #### Herbarium and types
 
-Many types of Pax's work for the Engler publications were in the pre-1943 collections of [[Collection B|B]]; other types are at [[Collection WRSL|WRSL]]; relatively large sets of material collected by Pax himself are at [[Collection BP|BP]] and [[Collection WRSL|WRSL]]; other material at [[Collection CR|CR]], [[Collection KIEL|KIEL]], [[Collection L|L]], and [[Collection PR|PR]]. – *Exsiccatae*: with G.H.E.W. Hieronymus : *Herbarium cecidiologicum*, 1892-1907, see Hieronymus. – Letters and portrait at [[Collection G|G]].
+Many types of Pax's work for the Engler publications were in the pre-1943 collections of [[Collection B|B]]; other types are at [[Collection WRSL|WRSL]]; relatively large sets of material collected by Pax himself are at [[Collection BP|BP]] and [[Collection WRSL|WRSL]]; other material at [[Collection CR|CR]], [[Collection KIEL|KIEL]], [[Collection L|L]], and [[Collection PR|PR]].
+*Exsiccatae*: with G.H.E.W. Hieronymus : *Herbarium cecidiologicum*, 1892-1907, see Hieronymus. – Letters and portrait at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -31,7 +32,7 @@ AG 4: 247, 5(1): 624, 7: 408, 12(1): 202, 12(3): 231; Backer p. 429; BFM nos. 26
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfam*.: *Aceraceae*, 3(5): 263-272. Mai 1893. *Aizoaceae*, 3(1.B): 33-48. Apr 1889, 49-51. Mai 1889.
+- (1) EP, *Die natürlichen Pflanzenfam*.: *Aceraceae*, 3(5): 263-272. Mai 1893. *Aizoaceae*, 3(1.B): 33-48. Apr 1889, 49-51. Mai 1889.
 *Amaryllidaceae*, 2(5): 97-124. Sep 1887.
 *Buxaceae*, 3(5): 130-135. Jun 1892.
 *Callitrichaceae*, 3(5): 120-123. Jun 1891.
@@ -60,11 +61,11 @@ AG 4: 247, 5(1): 624, 7: 408, 12(1): 202, 12(3): 231; Backer p. 429; BFM nos. 26
 *Velloziaceae*, 2(5): 125-127. Sep 1887.
 "Die Gramineen und Cyperaceen" by Hackel und Pax, were also issued as a reprint, 130 p., Leipzig 1887, (Nat. Nov. Jan (2) 1888), n.v., probably simultaneously with vol.
 2.2. Jan 1888.
-(2) Engler, A., *Pflanzenreich*:
+- (2) Engler, A., *Pflanzenreich*:
 *Aceraceae*, iv, 163 (Heft 8): 1-89. 7 Jan 1902. (rev.: K. Schumann, Bot. Jahrb. 90: 14-15. 1902.
 *Euphorbiaceae*, iv, 147, in 10 Hefte 1910-1924, see under Engler, no. 1713. *Primulaceae*, (with R. Knuth), iv, 237 (Heft 22): 1-386. 14 Nov 1905. (Rev.: C. Mez, Bot. Centralbl. 10: 299-301. 1906).
-(3) Durand, Th. & H. Pittier, *Primit. fl. costaric.*, contr. *Euphorbiaceae* to vol. 2(5), see TL-2(1592).
-(4) EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
+- (3) Durand, Th. & H. Pittier, *Primit. fl. costaric.*, contr. *Euphorbiaceae* to vol. 2(5), see TL-2(1592).
+- (4) EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
 *Aizoaceae*, 16c: \[179\]-233, 587. Jan-Apr 1934.
 *Amaryllidaceae*, with K. Hoffmann, 15a: 391-430. Apr 1930.
 *Bretschneideraceae*, 17b: \[699\]-700. 1936.
@@ -78,9 +79,9 @@ AG 4: 247, 5(1): 624, 7: 408, 12(1): 202, 12(3): 231; Backer p. 429; BFM nos. 26
 *Portulacaceae*, with K. Hoffmann, 16c: \[234\]-262, 587. Jan-Apr 1934. *Taccaceae*, 15a: 434-437. Apr 1930.
 *Tovariaceae*, with K. Hoffmann, 17b: \[224\]-226. 1936.
 *Velloziaceae*, 15a: 431-434. Apr 1930.
-(5) *Prantl's Lehrbuch der Botanik* herausgegeben und neu bearbeitet von Dr. Ferdinand Pax, *eds. 9-14*, 1894-1916. See under Prantl.
-(6) with H. Winkler, *Vegetationsbilder aus den Südkarpathen, in* G. Karsten und H. Schenck, Vegetationsbilder, 15. Reihe, Heft 8. *Taf. 43-48*, Jena 1924 (6 pl. and 13 p. text).
-(7) collaborator, J. Mildbraed, *Wiss. Erg. Deut. Zentral-Afrika-Exp.* 1907-1908, Band 2, *Botanik*, 1914, see TL-2/6008.
+- (5) *Prantl's Lehrbuch der Botanik* herausgegeben und neu bearbeitet von Dr. Ferdinand Pax, *eds. 9-14*, 1894-1916. See under Prantl.
+- (6) with H. Winkler, *Vegetationsbilder aus den Südkarpathen, in* G. Karsten und H. Schenck, Vegetationsbilder, 15. Reihe, Heft 8. *Taf. 43-48*, Jena 1924 (6 pl. and 13 p. text).
+- (7) collaborator, J. Mildbraed, *Wiss. Erg. Deut. Zentral-Afrika-Exp.* 1907-1908, Band 2, *Botanik*, 1914, see TL-2/6008.
 
 #### Handwriting
 

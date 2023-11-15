@@ -10,7 +10,8 @@ De Notaris, Giuseppe (1805-1877), Italian botanist.
 
 #### Herbarium and types
 
-Cryptogams: [[Collection GE|GE]], [[Collection RO|RO]], [[Collection PAD|PAD]], [[Collection TO|TO]]. Phanerogams: [[Collection GE|GE]]. – Exsiccatae: De Notaris contributed to the *Erbario crittogamico Italiano*, fasc. 1-30, nos. 1-1500, series 2, fasc. 1-30, nos. 1-1500, Genova, Milano 1858-1885 ([[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]], [[Collection STR|STR]]), for details see Sayre (1969).
+Cryptogams: [[Collection GE|GE]], [[Collection RO|RO]], [[Collection PAD|PAD]], [[Collection TO|TO]]. Phanerogams: [[Collection GE|GE]].
+*Exsiccatae*: De Notaris contributed to the *Erbario crittogamico Italiano*, fasc. 1-30, nos. 1-1500, series 2, fasc. 1-30, nos. 1-1500, Genova, Milano 1858-1885 ([[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]], [[Collection STR|STR]]), for details see Sayre (1969).
 *Ref*.: Saccardo 2: 41.
 - Harant et al., Rev. bryol. lichénol. 89: 720-724. 1966 (sets at MPU).
 - Koster, Taxon 18: 551. 1969.

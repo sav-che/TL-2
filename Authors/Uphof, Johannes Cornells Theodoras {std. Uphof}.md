@@ -26,19 +26,19 @@ Barnhart 3: 417 (b. 11 Jun 1886); BFM 2542, 2667, 2956; BJI 2: 182; Bossert p. 4
 
 #### Composite works
 
-(1) Contributed to EP, *Nat. Pflanzenfam.* ed. 2:
+- (1) Contributed to EP, *Nat. Pflanzenfam.* ed. 2:
 (a) *Sarraceniaceae* 17b: \[704\]-727. 1936; also reprinted Leipzig, cover, p. \[1\]-24. *Copies*: NY, US.
 (b) *Cyrillaceae* 20b: \[1\]-12. 1942.
 (c) *Myristicaceae* 17aII: \[177\]-220. 1959.
 (d) *Eupomatiaceae* 17aII: \[173\]-176. 1959.
-(2) *Vegetationsbilder*, ed. G. Karsten & H. Schenk:
+- (2) *Vegetationsbilder*, ed. G. Karsten & H. Schenk:
 (a) *Die Waldflora im Staate Washington*, ser. 13, Heft 7, *pl. 37-42*, w.t. 1920.
 (b) *Vegetationsbilder aus dem Staate Michigan*, ser. 13. Heft 7, *pl. 43-48*, w.t. 1921.
 (c) *Vegetationsbilder aus Kalifornien*, ser. 14, Heft 7, *pl. 37-42* w.t. 1922.
 (d) *Vegetationsbilder aus Florida*, ser. 15, Heft 3/4, *pl. 13-24* w.t. 1923.
 (e) *Vegetationsbilder von Cuba*, ser. 18, Heft 5. 1928, 11 p., *6 pl*. (*f*) *Vegetationsbilder aus den östlichen Staaten Nordamerikas*, ser. 20, Heft 5/6, 1929.
 (g) *Die Vegetations der Niederlande*, ser. 22, Heft 7, 1932.
-(3) *Sarraceniaceae, pl. 1-3, in* E. Hannig & H. Winkler, *Pflanzenareale* ser. 3, Heft 1, 1931.
+- (3) *Sarraceniaceae, pl. 1-3, in* E. Hannig & H. Winkler, *Pflanzenareale* ser. 3, Heft 1, 1931.
 
 #### Note
 

@@ -8,7 +8,8 @@ Korshinsky \[Koržinskij\], Sergei Iwanowitsch (1861-1900), Russian botanist; Dr
 
 #### Herbarium and types
 
-[[Collection LE|LE]]. – Exsiccatae: (a) *Herbarium florae rossicae*, nos. 1-200, 1898; sets at [[Collection B|B]] and [[Collection LE|LE]]; (b) *Plantae gubernii kasanensis*, (irregular), sets at [[Collection B|B]], [[Collection C|C]] and [[Collection LE|LE]].
+[[Collection LE|LE]].
+*Exsiccatae*: (a) *Herbarium florae rossicae*, nos. 1-200, 1898; sets at [[Collection B|B]] and [[Collection LE|LE]]; (b) *Plantae gubernii kasanensis*, (irregular), sets at [[Collection B|B]], [[Collection C|C]] and [[Collection LE|LE]].
 
 #### Bibliography and biography
 

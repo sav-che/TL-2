@@ -21,8 +21,8 @@ Barnhart 2: 424; BB p. 199; BL 2: 294, 686; BM 3: 1209-1210, 7: 772; CSP 4: 159,
 
 #### Composite works
 
-(1) translated A. Richard, *Éléments de botaniqu*e (1831).
-(2) *An introduction to physiological and systematical botany*. By Sir James Edward Smith... a new edition, with additions, by William MacGillivray,... London 1836, see under J. E. Smith.
+- (1) translated A. Richard, *Éléments de botaniqu*e (1831).
+- (2) *An introduction to physiological and systematical botany*. By Sir James Edward Smith... a new edition, with additions, by William MacGillivray,... London 1836, see under J. E. Smith.
 
 ### Publications
 

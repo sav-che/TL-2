@@ -36,19 +36,19 @@ AG 1: 88, 4: 586, 5(2): 250; Andrews p. 343; Backer p. 617; Barnhart 1: 449 (b. 
 
 #### Composite works
 
-(1) Translated N.J. von Jacquin, *Anl. Pfl.–Kenntn*. see TL-2/3252.
-(2) Co-author A.B. Massalongo, *Fl. terr. Novale* 1856, TL-2/5613.
-(3) Co-author, P.A. Saccardo, *Cat. piante vasc. Veneto* 1869, TL-2/9884.
-(4) *Semina horti Patavini*, anno mdcccxl. \[mdcccxli\] collecta... Diagnoses of new taxa in seed lists for 1840 and 1841 by de Visiani reprinted in *Linnaea* 15 (Lit.): 101-103. 1841-1842 and 16 (Litt.): 112-114. 1842-1843. – *Also* "suppl. 1843 au 1844": Linnaea 18(4): 511-512. Jun 1845.
-(5) With P.A. Saccardo, *Catalogo delle piante vascolari del Veneto* 1869. TL-2/9884; *Supplemento generale* by Pio Bolzon, Atti r. Ist. Venet. Sci. ser. 7. 9: 431-509. 1898.
+- (1) Translated N.J. von Jacquin, *Anl. Pfl.–Kenntn*. see TL-2/3252.
+- (2) Co-author A.B. Massalongo, *Fl. terr. Novale* 1856, TL-2/5613.
+- (3) Co-author, P.A. Saccardo, *Cat. piante vasc. Veneto* 1869, TL-2/9884.
+- (4) *Semina horti Patavini*, anno mdcccxl. \[mdcccxli\] collecta... Diagnoses of new taxa in seed lists for 1840 and 1841 by de Visiani reprinted in *Linnaea* 15 (Lit.): 101-103. 1841-1842 and 16 (Litt.): 112-114. 1842-1843. – *Also* "suppl. 1843 au 1844": Linnaea 18(4): 511-512. Jun 1845.
+- (5) With P.A. Saccardo, *Catalogo delle piante vascolari del Veneto* 1869. TL-2/9884; *Supplemento generale* by Pio Bolzon, Atti r. Ist. Venet. Sci. ser. 7. 9: 431-509. 1898.
 
 #### Composite works
 
-(1) Translated N.J. von Jacquin, *Anl. Pfl.–Kenntn*. see TL-2/3252.
-(2) Co-author A.B. Massalongo, *Fl. terr. Novale* 1856, TL-2/5613.
-(3) Co-author, P.A. Saccardo, *Cat. piante vasc. Veneto* 1869, TL-2/9884.
-(4) *Semina horti Patavini*, anno mdcccxl. \[mdcccxli\] collecta... Diagnoses of new taxa in seed lists for 1840 and 1841 by de Visiani reprinted in *Linnaea* 15 (Lit.): 101-103. 1841-1842 and 16 (Lit.): 112-114. 1842-1843. – *Also* "suppl. 1843 au 1844": Linnaea 18(4): 511-512. Jun 1845.
-(5) With P.A. Saccardo, *Catalogo delle piante vascolari del Veneto* 1869. TL-2/9884; *Supplemento generale* by Pio Bolzon, Atti r. Ist. Venet. Sci. ser. 7. 9: 431-509. 1898.
+- (1) Translated N.J. von Jacquin, *Anl. Pfl.–Kenntn*. see TL-2/3252.
+- (2) Co-author A.B. Massalongo, *Fl. terr. Novale* 1856, TL-2/5613.
+- (3) Co-author, P.A. Saccardo, *Cat. piante vasc. Veneto* 1869, TL-2/9884.
+- (4) *Semina horti Patavini*, anno mdcccxl. \[mdcccxli\] collecta... Diagnoses of new taxa in seed lists for 1840 and 1841 by de Visiani reprinted in *Linnaea* 15 (Lit.): 101-103. 1841-1842 and 16 (Lit.): 112-114. 1842-1843. – *Also* "suppl. 1843 au 1844": Linnaea 18(4): 511-512. Jun 1845.
+- (5) With P.A. Saccardo, *Catalogo delle piante vascolari del Veneto* 1869. TL-2/9884; *Supplemento generale* by Pio Bolzon, Atti r. Ist. Venet. Sci. ser. 7. 9: 431-509. 1898.
 
 #### Eponymy
 

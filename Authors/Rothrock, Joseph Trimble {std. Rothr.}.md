@@ -16,8 +16,8 @@ Backer p. 660; Barnhart 3: 183; BJI 1: 49; BL 1: 130, 316; BM 4: 1739, 5: 2174 (
 
 #### Composite works
 
-(1) *Contr. nat. hist. Alaska*, ed. L.M. Turner, p. 61-65. 1886, list of plants by J.T. Rothrock (Arctic ser. publ. Signal Service, U.S. Army no. 2), based on Rothrock's *Sketch of the Flora of Alaska*, Ann. Rep. Smiths. Inst. 1867: 433-463. 1872 (but published by 3 Mar 1870, see Flora 53: 63. 1870).
-(2) *List of*, and notes upon, the *lichens* collected by Dr. T.H. Bean *in Alaska* and the adjacent region in 1880, Proc. U.S. natl. Mus. 7(1): 1-9. 3 Jun 1884; identifications by Henrey Willey (1824-1907).
+- (1) *Contr. nat. hist. Alaska*, ed. L.M. Turner, p. 61-65. 1886, list of plants by J.T. Rothrock (Arctic ser. publ. Signal Service, U.S. Army no. 2), based on Rothrock's *Sketch of the Flora of Alaska*, Ann. Rep. Smiths. Inst. 1867: 433-463. 1872 (but published by 3 Mar 1870, see Flora 53: 63. 1870).
+- (2) *List of*, and notes upon, the *lichens* collected by Dr. T.H. Bean *in Alaska* and the adjacent region in 1880, Proc. U.S. natl. Mus. 7(1): 1-9. 3 Jun 1884; identifications by Henrey Willey (1824-1907).
 
 #### Biofile
 

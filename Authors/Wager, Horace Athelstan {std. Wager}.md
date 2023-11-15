@@ -26,8 +26,8 @@ Lenley p. 426; SBC p. 134.
 
 #### Note
 
-(1) H.A. Wager's son, Vincent Athelstan Wager (b. 1904) published on phytopathology and mycology, see E. Doidge, Bothalia 5: 1027. 1950. Herbarium material at PRE.
-(2) Harold William Taylor Wager (1882-1929), lecturer in botany, Yorkshire College of see Desmond p. 632, and A.C.S., Proc. R. Soc. B. 106: xix-xxii. 1930.
+- (1) H.A. Wager's son, Vincent Athelstan Wager (b. 1904) published on phytopathology and mycology, see E. Doidge, Bothalia 5: 1027. 1950. Herbarium material at PRE.
+- (2) Harold William Taylor Wager (1882-1929), lecturer in botany, Yorkshire College of see Desmond p. 632, and A.C.S., Proc. R. Soc. B. 106: xix-xxii. 1930.
 
 ### Publications
 

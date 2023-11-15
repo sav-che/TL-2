@@ -42,13 +42,13 @@ Backer p. 100 (Candollina); Barnhart 1: 306; BJI 1: 9; BM 1: 309-310, 6: 179-180
 
 #### Composite works
 
-(1) *Piperaceae*, in Warming, *Symbolae*, see TL-2/11. 709. 1873.
-(2) *Piperaceae* in Martius, *Fl. bras.* fasc. 75: 50-65. 1878.
-(3) *Meliaceae*, in Warming, *Symbolae*, see TL-2/16. 708. 1883.
-(4) C. de Candolle supported O. Kuntze, *Exposé Congr. nomencl.* \[1900\], see TL-2/4030.
-(5) *Piper itatiaianum* P. Dusén, Ark. Bot. 8(9): 5-6. 1909.
-(6) *Piperaceae* in H. Lecomte, Fl. Indo-China 5(1): 62-92, ill. 8-9, pl. II-b. Nov 1910, see TL-2/4275.
-(7) *Piperaceae* in F. Sarasin and J. Roux, *Nova Caledonia* B: 131-142. 1914/21.
+- (1) *Piperaceae*, in Warming, *Symbolae*, see TL-2/11. 709. 1873.
+- (2) *Piperaceae* in Martius, *Fl. bras.* fasc. 75: 50-65. 1878.
+- (3) *Meliaceae*, in Warming, *Symbolae*, see TL-2/16. 708. 1883.
+- (4) C. de Candolle supported O. Kuntze, *Exposé Congr. nomencl.* \[1900\], see TL-2/4030.
+- (5) *Piper itatiaianum* P. Dusén, Ark. Bot. 8(9): 5-6. 1909.
+- (6) *Piperaceae* in H. Lecomte, Fl. Indo-China 5(1): 62-92, ill. 8-9, pl. II-b. Nov 1910, see TL-2/4275.
+- (7) *Piperaceae* in F. Sarasin and J. Roux, *Nova Caledonia* B: 131-142. 1914/21.
 
 ### Publications
 

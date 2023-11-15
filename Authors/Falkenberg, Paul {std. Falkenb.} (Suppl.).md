@@ -27,8 +27,8 @@ APN p. 193; Barnhart 1: 525 (as "Falkenburg"); BJI 1: 18; BM 2: 555, 6: 313; CSP
 
 #### Composite works
 
-(1) One of many collaborators with A. Schenk, *Handb. Bot.*... 1879-1890, see TL-2/5, nr. 10.561.
-(2) Co-author with F.K.J. Schmitz, *Rhodomelaceae*... Apr 1897 *in* EP, *Nat. Pflanzenfam.*, see TL-2/5: 263 (and TL-2/1, nr. 1710).
+- (1) One of many collaborators with A. Schenk, *Handb. Bot.*... 1879-1890, see TL-2/5, nr. 10.561.
+- (2) Co-author with F.K.J. Schmitz, *Rhodomelaceae*... Apr 1897 *in* EP, *Nat. Pflanzenfam.*, see TL-2/5: 263 (and TL-2/1, nr. 1710).
 
 ### Publications
 

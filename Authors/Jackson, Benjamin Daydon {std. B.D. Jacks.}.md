@@ -26,7 +26,7 @@ Ainsworth, G. C. p. 279, 318; Barnhart 2: 238; BB p. 163-164; BFM 3262, 3285; BL
 
 #### Composite works
 
-(1) Translated: Fries, *Life of Linnaeus* (1923); (2) *A catalogue of plants cultivated in the garden of John Gerard* in 1596/99. London 1874, 64p. (see also H. Trimen J. Bot. 14: 316-317. 1876); (3) Edited A. R. Pryor, *Aflora of Hertfordshire*, London 1887, lviii. 588 p. (BL 2: 245).
+- (1) Translated: Fries, *Life of Linnaeus* (1923); (2) *A catalogue of plants cultivated in the garden of John Gerard* in 1596/99. London 1874, 64p. (see also H. Trimen J. Bot. 14: 316-317. 1876); (3) Edited A. R. Pryor, *Aflora of Hertfordshire*, London 1887, lviii. 588 p. (BL 2: 245).
 
 #### Eponymy
 

@@ -65,20 +65,20 @@ ADB 23: 368-376; AG 2(1): 113-114, 2(2): 458; Ainsworth p. 345 \[index\]; Backer
 
 #### Composite works
 
-(1)*Syst. Uebers. Pfl., in* Wied, M., *Reise Nord-America* 2: 229-454. 1841.
-(2) *Acanthaceae*, in D.C., *Prod*., 11: 46-521, 720-732. 25 Nov 1847. Crit. rev. G. Bentham, in W. J. Hooker, J. Bot. Kew Gard. Misc. 9: 75-78. 1857.
-(3) Editor of Robert Brown, *Vermischte botanische Schriften*, Nürnberg 1825-1835, TL-2/833.
-(4) Editor of *Nova Acta Leopoldina* 1818-1858.
-(5) *Cyperaceae* and *Gramineae*, *in* Meyen, F. J. F., Obs. bot. 53-124, 135-208. 1843.
-(6) *Cyperaceae*, in Mart. *Fl. bras.* 2(1): 1-212, *pl. 1-30.* 1 Apr 1842, *Acanthaceae*, ib. 9: 1-164, *pl*. *1-31*. 1 Jun 1847.
-(7) Editor of Junghuhn, F., *Reis. Java*, 1845, TL-2/3451.
-(8) *Hepaticae, in* Mart., *Fl. bras.* 1: 295-390. 1833.
-(9) *Rubi germanici*, 1822-1827, with A. Weihe, q.v.
-(10) *Hepaticae javanicae*, 1824, by C. G. R. Reinwardt (q.v.), C. L. Blume and C. G. Nees von Esenbeck.
-(11) Preface to J. C. Fuhlrott, *Juss. & D. C. Pfl.-Syst.* 1829, TL-2/1917.
-(12) Gottsche, C. M., J. B. G. Lindenberg et C. G. Nees von Esenbeck, *Syn. hepat.* 1841 \[-1847\], TL-2/2097.
-(13) *Hepaticae, in* Mart., *Fl. bras. enum. pl. 1*(1): 295-390. Mai-Dec 1833; *Agrostologia brasiliensis, in* id. 2(1), Mar-Jun 1829. TL-2/5528.
-(14) *Restiaceae-Gramineae*, *in* C. Lehmann, Pl. Preiss. 2: 56-108. 26-28 Nov 1846 (reprint s.l.n.d. p. \[1\]-53. *Copy*: FI.
+- (1) *Syst. Uebers. Pfl., in* Wied, M., *Reise Nord-America* 2: 229-454. 1841.
+- (2) *Acanthaceae*, in D.C., *Prod*., 11: 46-521, 720-732. 25 Nov 1847. Crit. rev. G. Bentham, in W. J. Hooker, J. Bot. Kew Gard. Misc. 9: 75-78. 1857.
+- (3) Editor of Robert Brown, *Vermischte botanische Schriften*, Nürnberg 1825-1835, TL-2/833.
+- (4) Editor of *Nova Acta Leopoldina* 1818-1858.
+- (5) *Cyperaceae* and *Gramineae*, *in* Meyen, F. J. F., Obs. bot. 53-124, 135-208. 1843.
+- (6) *Cyperaceae*, in Mart. *Fl. bras.* 2(1): 1-212, *pl. 1-30.* 1 Apr 1842, *Acanthaceae*, ib. 9: 1-164, *pl*. *1-31*. 1 Jun 1847.
+- (7) Editor of Junghuhn, F., *Reis. Java*, 1845, TL-2/3451.
+- (8) *Hepaticae, in* Mart., *Fl. bras.* 1: 295-390. 1833.
+- (9) *Rubi germanici*, 1822-1827, with A. Weihe, q.v.
+- (10) *Hepaticae javanicae*, 1824, by C. G. R. Reinwardt (q.v.), C. L. Blume and C. G. Nees von Esenbeck.
+- (11) Preface to J. C. Fuhlrott, *Juss. & D. C. Pfl.-Syst.* 1829, TL-2/1917.
+- (12) Gottsche, C. M., J. B. G. Lindenberg et C. G. Nees von Esenbeck, *Syn. hepat.* 1841 \[-1847\], TL-2/2097.
+- (13) *Hepaticae, in* Mart., *Fl. bras. enum. pl. 1*(1): 295-390. Mai-Dec 1833; *Agrostologia brasiliensis, in* id. 2(1), Mar-Jun 1829. TL-2/5528.
+- (14) *Restiaceae-Gramineae*, *in* C. Lehmann, Pl. Preiss. 2: 56-108. 26-28 Nov 1846 (reprint s.l.n.d. p. \[1\]-53. *Copy*: FI.
 
 #### Handwriting
 

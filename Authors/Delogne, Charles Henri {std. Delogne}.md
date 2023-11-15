@@ -10,7 +10,8 @@ Delogne, Charles Henri (1834-1901), Belgian algologist.
 
 #### Herbarium and types
 
-unknown; collections at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection LG|LG]], [[Collection PC|PC]], [[Collection W|W]]. *Exsiccatae*: 1. *Diatomées de Belgique* (fasc. 1-4, nos. 1-100), Bruxelles 1880-1881, sets at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection LG|LG]], [[Collection W|W]].
+unknown; collections at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection LG|LG]], [[Collection PC|PC]], [[Collection W|W]].
+*Exsiccatae*: 1. *Diatomées de Belgique* (fasc. 1-4, nos. 1-100), Bruxelles 1880-1881, sets at [[Collection AWH|AWH]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection LG|LG]], [[Collection W|W]].
 2. with Pierre Joseph Frédéric Gravet (1827-1907): *Les hépatiques de l'Ardenne* (fasc. i-vi, nos. 1-60) Gent 1868-1870. Sets [[Collection BM|BM]], [[Collection FH|FH]], [[Collection LG|LG]], [[Collection PC|PC]].
 3. with same: *Les mousses de l'Ardenne* (fasc. i-v, nos. 1-250) Gent 1868-1872. Sets [[Collection FH|FH]], [[Collection LG|LG]], [[Collection PC|PC]].
 *Ref*.: IH 2: 158.

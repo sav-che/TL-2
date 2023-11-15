@@ -31,8 +31,8 @@ Backer p. 587; Barnhart 3: 386 (b. 22 Jun 1878); BFM p. 321 \[index\]; Biol.-Dok
 
 #### Composite works
 
-(1) With Jakob Eriksson (1848-1931), *Über das vegetative Leben* der Getreiderostpilze 1-4, Handl. Sv. Vet.-Akad. N.F. 37(6), 1904, 38(3). 1904, 39(5). 1905. Abstract: Bot. Centralbl. 24: 417-423. 1904. – See KR p. 175. – IDC 542 (D 97-98, 107-108, 127-128).
-(2) Collaborator, C.K. Schneider, *Ill. Handw.–Buch Bot*. ed. 2. 1917, TL-2/10.943.
+- (1) With Jakob Eriksson (1848-1931), *Über das vegetative Leben* der Getreiderostpilze 1-4, Handl. Sv. Vet.-Akad. N.F. 37(6), 1904, 38(3). 1904, 39(5). 1905. Abstract: Bot. Centralbl. 24: 417-423. 1904. – See KR p. 175. – IDC 542 (D 97-98, 107-108, 127-128).
+- (2) Collaborator, C.K. Schneider, *Ill. Handw.–Buch Bot*. ed. 2. 1917, TL-2/10.943.
 
 #### Note
 

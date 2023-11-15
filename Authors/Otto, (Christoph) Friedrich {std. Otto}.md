@@ -25,12 +25,12 @@ BM 3: 1485; DU 185; Frank 3(Anh.): 73; Hortus 3: 1201 ("Otto"); Kew 4: 202; Las�
 
 #### Composite works
 
-(1) Link, J. H. F., Klotzsch, F. et Otto, C. F., *Icones plantarum rariorum horti regii bol. berol.*1841-1844, see under Link.
-(2) Pfeiffer, L. und F. Otto, *Abbildung und Beschreibung blühender Cacteen*. I. Band, Cassel 1843, see under Pfeiffer.
-(3) *In*C. G. Nees, *Horae phys. berol.*27-38. 1820 (*Plantae rariores*...).
-(4) with Albert Dietrich, editor of *Allgemeine Gartenzeitung*, Berlin, vols. 1-24, 1833-1856. (IDC 7362).
-(5) Link, J. H. F. et Otto, C. F., *Icones plantarum selectarum horti regii berolinensis*, 1820-1828, see under Link.
-(6) Link, J. H. F. et Otto, C. F., *Icones plantarum rariorum horti regii botanici berolinensis*, 1828-1831, see under Link.
+- (1) Link, J. H. F., Klotzsch, F. et Otto, C. F., *Icones plantarum rariorum horti regii bol. berol.*1841-1844, see under Link.
+- (2) Pfeiffer, L. und F. Otto, *Abbildung und Beschreibung blühender Cacteen*. I. Band, Cassel 1843, see under Pfeiffer.
+- (3) *In*C. G. Nees, *Horae phys. berol.*27-38. 1820 (*Plantae rariores*...).
+- (4) with Albert Dietrich, editor of *Allgemeine Gartenzeitung*, Berlin, vols. 1-24, 1833-1856. (IDC 7362).
+- (5) Link, J. H. F. et Otto, C. F., *Icones plantarum selectarum horti regii berolinensis*, 1820-1828, see under Link.
+- (6) Link, J. H. F. et Otto, C. F., *Icones plantarum rariorum horti regii botanici berolinensis*, 1828-1831, see under Link.
 
 #### Handwriting
 

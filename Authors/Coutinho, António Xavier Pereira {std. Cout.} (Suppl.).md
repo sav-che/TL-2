@@ -18,8 +18,8 @@ Barnhart 1: 388, 3: 68 \[sub Pereira C.\] (b. 1851, d. 27 Mar 1939); BFM 1515; B
 
 #### Note
 
-(1): TL-2/1258, Coutinho, *Notas fl*. *Porugal* has also a livraison no.*6*: 1926, cover-t.p., p. \[1\]-15. *Copy*: B. – See below.
-(2): A supplement to TL-2/1259, *Fl. Portugal* (ed. 1) was published in Bol. Soc. Brot. ser. 2. 10: 43-194. 1935.
+- (1): TL-2/1258, Coutinho, *Notas fl*. *Porugal* has also a livraison no.*6*: 1926, cover-t.p., p. \[1\]-15. *Copy*: B. – See below.
+- (2): A supplement to TL-2/1259, *Fl. Portugal* (ed. 1) was published in Bol. Soc. Brot. ser. 2. 10: 43-194. 1935.
 
 #### Biofile
 

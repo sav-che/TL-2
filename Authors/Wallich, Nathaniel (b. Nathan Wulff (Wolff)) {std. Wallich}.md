@@ -9,7 +9,7 @@ Wallich, Nathaniel (b. Nathan Wulff \["Wolff"\] (1786-1854), Danish physician an
 #### Herbarium and types
 
 [[Collection K|K]] ([[Collection K|K]]-W) (available on IDC 7394 incl. catalogue); further material at [[Collection A|A]], [[Collection AWH|AWH]], [[Collection B|B]] (partly destr.), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CAL|CAL]], [[Collection DBN|DBN]], [[Collection DD|DD]], [[Collection DPU|DPU]], [[Collection DS|DS]] ([[Collection CAS|CAS]]), [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GJO|GJO]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection H|H]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LINN|LINN]] (in J.E. Smith herb.), [[Collection LIV|LIV]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection PR|PR]], [[Collection ROST|ROST]], [[Collection S|S]], [[Collection SING|SING]], [[Collection TCD|TCD]], [[Collection TO|TO]], [[Collection TU|TU]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection WU|WU]]. – Kew has the main set of the Wallich collections ([[Collection K|K]]-W). His types are also mainly at Kew. Wallich collected extensively and made many duplicates; the *numbered* specimens were distributed from London (after 1826) under the auspices of the East India Company. Wallich's main set was incorporated in the herbarium of the East India Company which came to [[Collection LINN|LINN]] in 1832, and which was transferred to [[Collection K|K]] in 1913. The numerous duplicates are in many herbaria, often accompanied by new names without descriptions. These names will also be found in the lithographed "Numerical list".
-(2) D. Don's *Prodromus* (1825) was based on Wallich specimens sent to Lambert in 1818 and 1819 (see W.T. Stearn *in* H. Hara et al., Enum. fl. pl. Nepal 1: 8. 1978). Part of this Nepal set is at [[Collection BM|BM]] and other parts are at [[Collection CGE|CGE]], [[Collection FI|FI]] and [[Collection PR|PR]] as well as perhaps in various other herbaria. Prain's remark in Ann. Bot. Gard. Calcutta 8: 328. 1898, that Wallich's Nepal plants in Lambert's herbarium were destroyed as unsaleable can therefore not be entirely correct (Miller, Taxon 19: 545. 1970; inf. G. Seidenfaden).
+- (2) D. Don's *Prodromus* (1825) was based on Wallich specimens sent to Lambert in 1818 and 1819 (see W.T. Stearn *in* H. Hara et al., Enum. fl. pl. Nepal 1: 8. 1978). Part of this Nepal set is at [[Collection BM|BM]] and other parts are at [[Collection CGE|CGE]], [[Collection FI|FI]] and [[Collection PR|PR]] as well as perhaps in various other herbaria. Prain's remark in Ann. Bot. Gard. Calcutta 8: 328. 1898, that Wallich's Nepal plants in Lambert's herbarium were destroyed as unsaleable can therefore not be entirely correct (Miller, Taxon 19: 545. 1970; inf. G. Seidenfaden).
 *Correspondence*: partly at [[Collection K|K]], further letters at [[Collection G|G]], [[Collection UPS|UPS]]. For further mss. material see Bridson et al. (1980).
 
 #### Bibliography and biography
@@ -63,10 +63,10 @@ AG 1: 185; Backer p. 620; Barnhart 3: 454 (b. 28 Jan 1786, d. 28 Apr 1854); BB p
 
 #### Composite works
 
-(1) Translated F. Liebmann, *Mexic. Begon.* 1852, TL-2/4516.
-(2) Translated E.W. Martius, *Erinnerungen* 1847 (part concerning J.C.D. Schreber) see TL-2/5554.
-(3) *Notes* signed N.W. in W. Roxburgh, *Fl. ind.* 1820-1824, see TL-2/9724.
-(4) *Notes* id. in W. Roxburgh, *Epitome florae indicae, in* K. Sprengel, Neue Entdeck. 3: 66-156. 1822.
+- (1) Translated F. Liebmann, *Mexic. Begon.* 1852, TL-2/4516.
+- (2) Translated E.W. Martius, *Erinnerungen* 1847 (part concerning J.C.D. Schreber) see TL-2/5554.
+- (3) *Notes* signed N.W. in W. Roxburgh, *Fl. ind.* 1820-1824, see TL-2/9724.
+- (4) *Notes* id. in W. Roxburgh, *Epitome florae indicae, in* K. Sprengel, Neue Entdeck. 3: 66-156. 1822.
 
 #### Handwriting
 
@@ -156,11 +156,11 @@ Candollea 34: 193-194. 1979; Webbia 32(1): 40. 1977.
 |	|12	|41-117viii	|276-300	|15 Aug 1832|
 
 *Collaborators*: (1) George Bentham, *Synopsis of the genera and species of Indian Labiatae*, in 1: 28-31. 6 Apr 1830, 1: 58-62. 15 Jul 1830, 63-68. 1 Sep 1830, 2: 12-19. 20 Dec 1830.
-(2) C.G. Nees von Esenbeck, *Laurinae Indiae orientalis, in* 2: 58-76. 6 Sep 1831, 3: 30-32. 20 Mar 1832.
-(3) C.F.P. von Martius, *Eriocauleae et Xyrideae Indiae orientalis* 3: 27-30. 20 Mar 1832.
-(4) C.F. Meisner, *Synopsis Polygonearum*, 3: 53-65. 15 Aug 1832.
-(5) C.G. Nees von Esenbeck, *Acanthaceae Indiae orientalis*, 3: 70-117. 15 Aug 1832.
-(6) See also 3: vi. 1832.
+- (2) C.G. Nees von Esenbeck, *Laurinae Indiae orientalis, in* 2: 58-76. 6 Sep 1831, 3: 30-32. 20 Mar 1832.
+- (3) C.F.P. von Martius, *Eriocauleae et Xyrideae Indiae orientalis* 3: 27-30. 20 Mar 1832.
+- (4) C.F. Meisner, *Synopsis Polygonearum*, 3: 53-65. 15 Aug 1832.
+- (5) C.G. Nees von Esenbeck, *Acanthaceae Indiae orientalis*, 3: 70-117. 15 Aug 1832.
+- (6) See also 3: vi. 1832.
 The above dates are based on various sources consulted by Stearn supplemented by data obtained by Mr John Collins (in litt.) from a copy in its original covers. The latter regards the dates as "probable". The plates are lithographs, coloured by hand, from drawings by several artists.
 *Facsimile ed*.: 1979-1980. Today & Tomorrow's, New Delhi. *Copy*: B.
 *Ref*.: Reichenbach, H.G.L., Flora 14(2), Lit.-Ber. 12: 171-180. 1831, id. 13: 193-202. 1831 (rev.).

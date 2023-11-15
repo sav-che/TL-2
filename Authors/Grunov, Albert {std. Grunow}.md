@@ -36,9 +36,9 @@ Barnhart 2: 94; BM 2: 744, 6: 414; CSP 3: 53, 7: 859, 10: 78, 12: 295, 15: 498; 
 
 #### Composite works
 
-(1) Fenzl, *Reise... Novara*, vol. 1, *Sporenpflanzen*. Heft 1, *Algae* 1868. See sub Fenzl (PR 3619).
-(2) Schneider, *Naturw. Beitr. Kankasus-länder.* 1878: *Algen* und *Diatomaceen* aus dem kaspischen Meere.
-(3) Schmidt, *Atlas der Diatomaceenkunde*, Hefte 37-53, 1890-1896.
+- (1) Fenzl, *Reise... Novara*, vol. 1, *Sporenpflanzen*. Heft 1, *Algae* 1868. See sub Fenzl (PR 3619).
+- (2) Schneider, *Naturw. Beitr. Kankasus-länder.* 1878: *Algen* und *Diatomaceen* aus dem kaspischen Meere.
+- (3) Schmidt, *Atlas der Diatomaceenkunde*, Hefte 37-53, 1890-1896.
 *Note*: for the many publications in which Grunow participated see Forti, *Alberto Grunow* 1915, p. 34-40.
 
 #### Eponymy

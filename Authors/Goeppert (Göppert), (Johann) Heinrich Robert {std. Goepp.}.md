@@ -49,10 +49,10 @@ ADB, AG 4: 252; Andrews p. 268-270; Barnhart 2: 58; BM 2: 689-690, 6: 382; CSP 2
 
 #### Composite works
 
-(1) Germar, *Lehrbuch der Mineralogie*, ed. 2, Halle 1837, p. 424-453: *Übersicht der bis jetzt bekannten Gattungen der fossilen Pflanzen*.
-(2) Wimmer, *Flora von Schlesien*, ed. 2, vol. 2, Breslau 1844: p. 157-225: *Uebersicht der fossilen Flora von Schlesien*.
-(3) Tchihatcheff, *Voyage scientifique Altai oriental*, Paris 1845: p. 379-390, *t. 25-35*: *Végétaux fossiles*, publ. Jan-Jun 1845 (rd by Flora Jun 1845, rev. Bot. Zeit. 10 Oct 1845).
-(4) Middendorff, *Siberische Reise, Fossile Hölzer* also as reprint, rd Mar 1849 by Regensburg (Flora 32: 224. 1849).
+- (1) Germar, *Lehrbuch der Mineralogie*, ed. 2, Halle 1837, p. 424-453: *Übersicht der bis jetzt bekannten Gattungen der fossilen Pflanzen*.
+- (2) Wimmer, *Flora von Schlesien*, ed. 2, vol. 2, Breslau 1844: p. 157-225: *Uebersicht der fossilen Flora von Schlesien*.
+- (3) Tchihatcheff, *Voyage scientifique Altai oriental*, Paris 1845: p. 379-390, *t. 25-35*: *Végétaux fossiles*, publ. Jan-Jun 1845 (rd by Flora Jun 1845, rev. Bot. Zeit. 10 Oct 1845).
+- (4) Middendorff, *Siberische Reise, Fossile Hölzer* also as reprint, rd Mar 1849 by Regensburg (Flora 32: 224. 1849).
 
 #### Eponymy
 

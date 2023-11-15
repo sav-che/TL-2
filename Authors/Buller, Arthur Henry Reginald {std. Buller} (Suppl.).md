@@ -36,9 +36,9 @@ Ainsworth, see index; Barnhart 1: 280 (b. 19 Aug 1874, Birmingham, Engl., d. 3 J
 
 #### Notes
 
-(1) Thesis: *Die Wirkung von Bakterien auf tote Zellen*, Dissertation. Leipzig 1899.
-(2) See also G.R. Bisby, A.H. Buller and J. Dearness, *The fungi of Manitoba*, London 1929, viii, 194 p., 8 maps. – E.M.W., Kew Bull. 1930(2): 90-91. 26 Feb 1930 (rev.). – TL-2/527.
-(3) *Honorary degrees*: LLD Univ. Manitoba 1924, LLD Univ. Saskatchewan 1928, LLD Univ. Calcutta 1938.
+- (1) Thesis: *Die Wirkung von Bakterien auf tote Zellen*, Dissertation. Leipzig 1899.
+- (2) See also G.R. Bisby, A.H. Buller and J. Dearness, *The fungi of Manitoba*, London 1929, viii, 194 p., 8 maps. – E.M.W., Kew Bull. 1930(2): 90-91. 26 Feb 1930 (rev.). – TL-2/527.
+- (3) *Honorary degrees*: LLD Univ. Manitoba 1924, LLD Univ. Saskatchewan 1928, LLD Univ. Calcutta 1938.
 
 ### Publications
 

@@ -14,7 +14,9 @@ Son of Rev. Jacob Esaiaksenpoika Fellman (1795-1875) (see above).
 
 #### Herbarium and types
 
-Lapland: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LZ|LZ]], [[Collection P|P]]. – *Exsiccatae*: (1) *Plantae arcticæ exsiccatæ, in Lapponia orientali collectae*... I-IV, Helsingfors (Helsinki), nos. 1-370 (1864): [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection NY|NY]]. (2) *Lichenes arctici collecti aestate 1863 in Lapponia Orientali*... Helsingfors (Helsinki), nos. 1-224 (1865): [[Collection BM|BM]].
+Lapland: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LZ|LZ]], [[Collection P|P]].
+*Exsiccatae*: (1) *Plantae arcticæ exsiccatæ, in Lapponia orientali collectae*... I-IV, Helsingfors (Helsinki), nos. 1-370 (1864): [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection NY|NY]].
+- (2) *Lichenes arctici collecti aestate 1863 in Lapponia Orientali*... Helsingfors (Helsinki), nos. 1-224 (1865): [[Collection BM|BM]].
 
 #### Bibliography and biography
 

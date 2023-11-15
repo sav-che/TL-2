@@ -38,19 +38,23 @@ Backer p. 579; Barnhart 3: 365 (d. 22 Jun 1882); BL 1: 108, 321; BM 1: 164, 5: 2
 
 We use the spelling Teijsmann following the note by van Steenis and van Steenis-Kruseman (Fl. males. ser. I. 5: cccxxvi. 1958, based on a statement by A.J.G.H. Kostermans) that Teijsmann himself always spelled his name with Dutch "ij" rather than with "y". We can confirm this on the basis of Teijsmann's numerous letters to F.A.W. Miquel, at Utrecht, in which Teijsmann consistently signs himself this way. The publishers of his papers were often less consistent; the spelling Teysmann occurs frequently, e.g. in some of his numerous papers published in the "Natuurkundig Tijdschrift voor Nederlandsch-Indië; not as frequently though as "Teijsmann".
 
-#### Travel reports (see also sk 1
+#### Travel reports 
 
-521-526. 1950):
-(1) *Uitreksel uit een dagverhaal eener reis door Midden- Java*, Nat. Tijdschr. Ned. Indië 8: \[195\]-294. 1855 (the trip took place in 1853 rather than 1854 as stated on p. 195). (2) *Uitreksel uit het dagverhaal eener reis door Oost- Java*, Karimon Java en Bali Baleling, ib. 11: \[111\]-206. 1856.
-(3) *Dagverhaal eener botanische reis over de westkust van Sumatra*, ib. 14: 249-376. 1857; *Botanische Reise durch das westliche Sumatra*, Bonplandia 6: 176-187. 1 Jun, 202-212. 15 Jun, 253-263. 15 Jul, 278-287. 1 Aug 1858, with notes by J.K. Hasskarl.
-(4) *Botanische reis over Banka*... see below, no. 13.869. (1859).
-(5) *Verslag* van den honorair-inspecteur van kultures J.E. Teysmann, *over de* door Z.Ed. in 1860 gedane *reize in de Molukken*, Nat. Tijdschr. Ned.-Ind. 23: \[290\]-369. 1861. – *Reise nach den Molukken* (transl. J.K. Hasskarl), Bonplandia 10: 111-139. 1 Mai 1862. – French transl. J. Bot. néerl. 1: 297-344. 1861.
-(6) *Aanteekeningen uit het dagboek mijner reis over Bangka*, van Juni 1869 tot en met Januari 1870,... Nat. Tijdschr. Ned.-Indië 32: \[31\]-100. 1873.
-(7) *Verslag eener botanische reis naar Bangka*, Riouw en Liengga van 10 Mei tot en met 9 December 1872, ib. 34: \[225\]-296. 1874; see also Tijdschr. Nijverh. Landb. Ned. Ind. 16: 248-269. 1871 for a report on a trip to Bangka Aug 1870-Apr 1871.
-(8) *Verslag eener botanische reis over Timor* en de daaronder ressorteerende eilanden Samauw, Alor, Solor, Floris en Soemba, Nat. Tijdschr. Ned.-Ind. 34: 348-517. 1874. (9) *Verslag eener botanische reis naar de Westkust van Borneo* van 3 Julij 1874 t/m 18 Januarij 1875, ib. 35: 271-386. 1875, reprinted 1875, p. \[1\]-114 (*copy*: HH). (10) *Bekort verslag eener dienstreis naar Billiton*, de Karimata-eilanden en Landak ter Westkust van Borneo van 5 Mei t/m 17 October 1875,... ib. 36: 210-293. 1876.
-(11) *Bekort verslag eener botanische dienstreis naar de Molukken*, van 12 Mei t/m 29 November 1876,... ib. 37: 75-148. 1877.
-(12) *Bekort verslag eener botanische dienstreis naar* het gouvernement van *Celebes* en onderhoorigheden, van 12 Juni t/m 29 December 1877, see below, no. 13.874 (preprint 1878). (13) *Verslag eener reis naar Nieuw Guinea*. Ib. 40: 193-282. 1881; *Extrait d'un récit d'un voyage à la Nouvelle Guinée*, Ann. Jard. Buitenz. 1: 61-95. 1876; see SK 1 for further publications on this trip.
-(14) *Verslag eener reis naar Siam*, in het gevolg van den gouvernements kommissaris A. Loudon, Nat. Tijdschr. Ned. Ind. 25: 149-209. 1863.
+(see also SK 1: 521-526. 1950):
+- (1) *Uitreksel uit een dagverhaal eener reis door Midden- Java*, Nat. Tijdschr. Ned. Indië 8: \[195\]-294. 1855 (the trip took place in 1853 rather than 1854 as stated on p. 195).
+- (2) *Uitreksel uit het dagverhaal eener reis door Oost- Java*, Karimon Java en Bali Baleling, ib. 11: \[111\]-206. 1856.
+- (3) *Dagverhaal eener botanische reis over de westkust van Sumatra*, ib. 14: 249-376. 1857; *Botanische Reise durch das westliche Sumatra*, Bonplandia 6: 176-187. 1 Jun, 202-212. 15 Jun, 253-263. 15 Jul, 278-287. 1 Aug 1858, with notes by J.K. Hasskarl.
+- (4) *Botanische reis over Banka*... see below, no. 13.869. (1859).
+- (5) *Verslag* van den honorair-inspecteur van kultures J.E. Teysmann, *over de* door Z.Ed. in 1860 gedane *reize in de Molukken*, Nat. Tijdschr. Ned.-Ind. 23: \[290\]-369. 1861. – *Reise nach den Molukken* (transl. J.K. Hasskarl), Bonplandia 10: 111-139. 1 Mai 1862. – French transl. J. Bot. néerl. 1: 297-344. 1861.
+- (6) *Aanteekeningen uit het dagboek mijner reis over Bangka*, van Juni 1869 tot en met Januari 1870,... Nat. Tijdschr. Ned.-Indië 32: \[31\]-100. 1873.
+- (7) *Verslag eener botanische reis naar Bangka*, Riouw en Liengga van 10 Mei tot en met 9 December 1872, ib. 34: \[225\]-296. 1874; see also Tijdschr. Nijverh. Landb. Ned. Ind. 16: 248-269. 1871 for a report on a trip to Bangka Aug 1870-Apr 1871.
+- (8) *Verslag eener botanische reis over Timor* en de daaronder ressorteerende eilanden Samauw, Alor, Solor, Floris en Soemba, Nat. Tijdschr. Ned.-Ind. 34: 348-517. 1874.
+- (9) *Verslag eener botanische reis naar de Westkust van Borneo* van 3 Julij 1874 t/m 18 Januarij 1875, ib. 35: 271-386. 1875, reprinted 1875, p. \[1\]-114 (*copy*: HH).
+- (10) *Bekort verslag eener dienstreis naar Billiton*, de Karimata-eilanden en Landak ter Westkust van Borneo van 5 Mei t/m 17 October 1875,... ib. 36: 210-293. 1876.
+- (11) *Bekort verslag eener botanische dienstreis naar de Molukken*, van 12 Mei t/m 29 November 1876,... ib. 37: 75-148. 1877.
+- (12) *Bekort verslag eener botanische dienstreis naar* het gouvernement van *Celebes* en onderhoorigheden, van 12 Juni t/m 29 December 1877, see below, no. 13.874 (preprint 1878).
+- (13) *Verslag eener reis naar Nieuw Guinea*. Ib. 40: 193-282. 1881; *Extrait d'un récit d'un voyage à la Nouvelle Guinée*, Ann. Jard. Buitenz. 1: 61-95. 1876; see SK 1 for further publications on this trip.
+- (14) *Verslag eener reis naar Siam*, in het gevolg van den gouvernements kommissaris A. Loudon, Nat. Tijdschr. Ned. Ind. 25: 149-209. 1863.
 
 #### Handwriting
 

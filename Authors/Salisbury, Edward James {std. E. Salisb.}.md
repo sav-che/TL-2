@@ -31,8 +31,8 @@ Barnhart 3: 202; BFM no. 2159; BJI 2: 151; BL 2: 227, 245, 246, 256, 260, 712; B
 
 #### Composite works
 
-(1) Editor (as director of Kew) W.J. Hooker, *Icones plantarum* pl. 3401-3500.
-(2) With A.W. Hill, editor (id.), *Index kewensis* suppl. 10, 1947; \[alone\] suppl. 11, 1953.
+- (1) Editor (as director of Kew) W.J. Hooker, *Icones plantarum* pl. 3401-3500.
+- (2) With A.W. Hill, editor (id.), *Index kewensis* suppl. 10, 1947; \[alone\] suppl. 11, 1953.
 
 ### Publications
 

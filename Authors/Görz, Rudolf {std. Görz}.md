@@ -8,7 +8,10 @@ Görz, Rudolf (1879-1935), German salicologist, born 19 Nov 1879 in Rathanow, mi
 
 #### Herbarium and types
 
-Turkey: [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection GH|GH]], [[Collection LE|LE]], [[Collection MU|MU]], [[Collection NY|NY]]. – *Exsiccatae*: (1) *Fl. Germaniae Borealis*: [[Collection GB|GB]], [[Collection L|L]]; (2) *Salicaceae Asiaticae* (3 fascs.): [[Collection B|B]], [[Collection GB|GB]], [[Collection S|S]]. (3) *Salices Brandenburgenses Exsiccatae* (2 centuries, nos. 1-200): [[Collection B|B]], [[Collection GB|GB]], [[Collection M|M]], [[Collection S|S]].
+Turkey: [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection GH|GH]], [[Collection LE|LE]], [[Collection MU|MU]], [[Collection NY|NY]].
+*Exsiccatae*: (1) *Fl. Germaniae Borealis*: [[Collection GB|GB]], [[Collection L|L]];
+- (2) *Salicaceae Asiaticae* (3 fascs.): [[Collection B|B]], [[Collection GB|GB]], [[Collection S|S]].
+- (3) *Salices Brandenburgenses Exsiccatae* (2 centuries, nos. 1-200): [[Collection B|B]], [[Collection GB|GB]], [[Collection M|M]], [[Collection S|S]].
 
 #### Bibliography and biography
 

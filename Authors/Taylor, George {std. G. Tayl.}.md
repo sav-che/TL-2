@@ -34,8 +34,8 @@ Barnhart 3: 363 (b. 15 Feb 1904); BFM 3037; BJI 2: 176; BL 2: 224, 301, 722; BM 
 
 #### Composite works
 
-(1) Editor, as director of Kew, of W.J. Hooker, *Icones plantarum pl. 3501-3700*, see TL-2/3006.
-(2) Editor, id. of B.D. Jackson, *Index kewensis*, suppl. 12-14, 1959-1970, see TL-2/3218.
+- (1) Editor, as director of Kew, of W.J. Hooker, *Icones plantarum pl. 3501-3700*, see TL-2/3006.
+- (2) Editor, id. of B.D. Jackson, *Index kewensis*, suppl. 12-14, 1959-1970, see TL-2/3218.
 
 #### Eponymy
 

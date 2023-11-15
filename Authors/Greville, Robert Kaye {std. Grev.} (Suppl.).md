@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection E|E]] (incl. illus.); in addition [[Collection B|B]] (alg.), [[Collection BM|BM]] (incl. diatom types, purchased 1866), [[Collection FH|FH]], [[Collection GL|GL]] (transfered to [[Collection E|E]]), [[Collection K|K]], [[Collection NME|NME]] \[[[Collection NMW|NMW]]?\], [[Collection PH|PH]], [[Collection WAR|WAR]], [[Collection YRK|YRK]]. – *Exsiccatae*: *Algae britannicae, dried specimens of*... *algae*... (fasc. i, nos. 1-24. 1824, fasc. ii(?) nos.? 1833), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MASS|MASS]]. – Papers in Edinburgh Univ. Library (Special Collections Division); corr. in many collections, incl. [[Collection K|K]], Natural History Museum (London) (incl. corr. with George Arnott), [[Collection NY|NY]] (e.g. William Wilson (1800-1869) and John Torrey papers), [[Collection P|P]], etc. Also corr. with C. Darwin.
+[[Collection E|E]] (incl. illus.); in addition [[Collection B|B]] (alg.), [[Collection BM|BM]] (incl. diatom types, purchased 1866), [[Collection FH|FH]], [[Collection GL|GL]] (transfered to [[Collection E|E]]), [[Collection K|K]], [[Collection NME|NME]] \[[[Collection NMW|NMW]]?\], [[Collection PH|PH]], [[Collection WAR|WAR]], [[Collection YRK|YRK]].
+*Exsiccatae*: *Algae britannicae, dried specimens of*... *algae*... (fasc. i, nos. 1-24. 1824, fasc. ii(?) nos.? 1833), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MASS|MASS]]. – Papers in Edinburgh Univ. Library (Special Collections Division); corr. in many collections, incl. [[Collection K|K]], Natural History Museum (London) (incl. corr. with George Arnott), [[Collection NY|NY]] (e.g. William Wilson (1800-1869) and John Torrey papers), [[Collection P|P]], etc. Also corr. with C. Darwin.
 
 #### Bibliography and biography
 
@@ -50,32 +51,32 @@ AG 4: 629-630; Ainsworth p. 71, 227, 313; Ainsworth & Bisby's Dict. ed. 6: 249; 
 #### Note
 
 Microforms (or previously uncited microform versions) are available of:
-(1) *Tent. meth. musc.*... 1822-1826 (TL-2/1, nr. 2159):
+- (1) *Tent. meth. musc.*... 1822-1826 (TL-2/1, nr. 2159):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 3 microfiches, (Plant taxonomic lit. microfiche coll., "12361F6-12363B5"). *Copy*: MO (n.v.).
-(2) *Scott. crypt. fl.*... \[1822-\]1823-1828 (TL-2/1, nr. 2160):
+- (2) *Scott. crypt. fl.*... \[1822-\]1823-1828 (TL-2/1, nr. 2160):
 *Microfilm*: London (British Library), 1985, 2 reels (811 fr., 35 mm). *Copy*: (n.v.).
-(3) *Fl. edin.*... 1824 (TL-2/1, nr. 2161):
+- (3) *Fl. edin.*... 1824 (TL-2/1, nr. 2161):
 (a) *Microfiche*: Wakefield, Yorks., United Kingdom (EP Group of Companies, Microform Division), \[19–\]. *Copy*: (n.v.). (b) *Microfiche*: Zug, Switzerland (Inter Documentation Co. AG)/New York, New York (distributed by Clearwater Pub. Co.), \[198-?\], 9 microfiches, 9×13 cm. *Copy*: (n.v.). (c) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 7 microfiches, (Plant taxonomic lit. microfiche coll., "12363C4-12369A6"). *Copy*: MO (n.v.).
-(4) *Alg. brit.*... 1830 (TL-2/1, nr. 2162):
+- (4) *Alg. brit.*... 1830 (TL-2/1, nr. 2162):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches, (Plant taxonomic lit. microfiche coll., "8264C5-8267G4"). *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) Greville was co-author with W.J. Hooker of:
+- (1) Greville was co-author with W.J. Hooker of:
 (a) *Sketch of the characters of the species of mosses belonging to the genera Orthotrichum* ... 1824;
 (b) *On the genus Tortula, of the order Musci*... 1824;
 (c) *Hookeria*... 1825 (TL-2/2, nr. 2995);
 (d) *Calymperes*... 1825 (TL-2/2, nr. 2996); and
 (e) *Icon. filic.*... \[1827-\](1831)\[-1832\] (TL-2/2, nr. 3002).
-(2) In addition to illustrating his own works, Greville contributed plates to:
+- (2) In addition to illustrating his own works, Greville contributed plates to:
 (a) Wm. Curtis \[et. seq.\], *Bot. Mag.*... 1824-1834 (see TL-2/1, nr. 1290);
 (b) W.J. Hooker, *Fl. bor.-amer.*... \[1829\] 1833-1840, (TL-2/2, nr. 3003);
 (c) W.J. Hooker, *Bot. misc.*... 1830-1833 (TL-2/2, nr. 2999);
 (d) H.D. Roger, *Geol. Pennsylvania*... 1858 (TL-2/4, nr. 9435);
 (e) E.J. Ravenscroft, *Pinet. brit.*... \[1863-\]1884, 3 vols. (TL-2/4, nr. 8685); and
 (f) \[According to Desmond, ed. 2\] J. Sowerby & J.E. Smith, *Engl. bot.*... Suppl. vol. 1 (1831, *pl. 2666*), Id. Suppl. vol. 2 (1834, *pl. 2717*), see TL-2/5, nr. 12.221.
-(3) Greville assisted in arranging the "Cryptogamia" for J.C. Loudon, *Hort. brit.*... ed. 1, 1830 (A.T. Whittemore, pers. comm.); Id., ed. 2,... 1832; Id., New Edition \[i.e. ed. 3\]... 1839, see TL-2/3, nr. 5027; and *Suppl. Hort. brit.*... 1850, see TL-2/3, nr. 5033.
-(4) Greville contributed to the following works by Hugh Murray (1779-1846) et al.:
+- (3) Greville assisted in arranging the "Cryptogamia" for J.C. Loudon, *Hort. brit.*... ed. 1, 1830 (A.T. Whittemore, pers. comm.); Id., ed. 2,... 1832; Id., New Edition \[i.e. ed. 3\]... 1839, see TL-2/3, nr. 5027; and *Suppl. Hort. brit.*... 1850, see TL-2/3, nr. 5033.
+- (4) Greville contributed to the following works by Hugh Murray (1779-1846) et al.:
 (a) *Historical and descriptive account of British India*... 1832; and
 (b) *An historical and descriptive account of British America*... 1839.
 

@@ -28,8 +28,8 @@ AG 4: 26, 27, 12(1): 262, 12(3): 393; APN p. 210; Backer p. 223, 650; Barnhart 2
 
 #### Composite works
 
-(1) Contributed Ranunculaceae, at least, to F. Buchenau, *Reliquiae rutenbergianae*... 1880-1889, see TL-2/4: 1008.
-(2) Contributed *Hieracium* (p. 336-354) to J. Velenovsky, *Fl. Bulg.*... 1891, see TL-2/6, nr.
+- (1) Contributed Ranunculaceae, at least, to F. Buchenau, *Reliquiae rutenbergianae*... 1880-1889, see TL-2/4: 1008.
+- (2) Contributed *Hieracium* (p. 336-354) to J. Velenovsky, *Fl. Bulg.*... 1891, see TL-2/6, nr.
 15.982, where Freyn is not mentioned.
 
 ### Publications

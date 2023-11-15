@@ -10,7 +10,8 @@ Groves, James (1858-1933), British algologist and palaeontologist, brother of He
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Exsiccatae (see also under Henry Groves): *British and Irish Charophyta* (with George Russell Bullock-Webster, 1858-1934) (fasc. i-ii, nos. 1-42, 1924), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection OXF|OXF]].
+[[Collection BM|BM]].
+*Exsiccatae* (see also under Henry Groves): *British and Irish Charophyta* (with George Russell Bullock-Webster, 1858-1934) (fasc. i-ii, nos. 1-42, 1924), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection OXF|OXF]].
 *Ref*.: IH 2: 243; Kent p. 58.
 - Clokie, Account herbaria Oxford 175. 1964.
 - Koster, Taxon 18: 553. 1969.

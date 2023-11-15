@@ -21,9 +21,9 @@ Barnhart 1: 443; BFM 280; BM 1: 441; CSP 14: 560; NDB 3: 603; Rehder 5(index): 2
 
 #### Composite works
 
-(1) *Pflanzen-Atlas* nach dem Linné'schen System, *ed 5*: 1918, "umgearbeitet von Eberhard Dennert (1861-1942)", see Carl Hoffmann, TL-2/2: no. 2875.
-(2) *Bot. Atlas DC. Pfl.-Syst.*, TL-2/2: no. 2876, ed. 3, Jan 1911, newly edited by Dennert.
-(3) Dennert finished and issued A. Wigand's study: Nelumbium speciosum W., see TL-2/7: no. 17.562.
+- (1) *Pflanzen-Atlas* nach dem Linné'schen System, *ed 5*: 1918, "umgearbeitet von Eberhard Dennert (1861-1942)", see Carl Hoffmann, TL-2/2: no. 2875.
+- (2) *Bot. Atlas DC. Pfl.-Syst.*, TL-2/2: no. 2876, ed. 3, Jan 1911, newly edited by Dennert.
+- (3) Dennert finished and issued A. Wigand's study: Nelumbium speciosum W., see TL-2/7: no. 17.562.
 
 ### Publications
 

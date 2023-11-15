@@ -29,12 +29,12 @@ Backer p. 662; Barnhart 3: 362 (b. 12 Aug 1862, d. 1 Jan 1897); BFM 254, 255; Bi
 
 #### Composite works
 
-(1) Contributed a note on his trip to Marmarica to G. Schweinfurth and P. Ascherson, *Primitiae florae Marmaricae*, Bull. Herb. Boissier 1: 445-449. Sep 1893, see TL-2/11.480.
-(2) Contributed *Leguminosae* to Th. Loesener, *Plantae Selerianae* 1894-1895, see TL-2/4935.
-(3) Contributed to W.D.J. Koch, *Syn. deut. Schweiz. Fl*. ed. 3 (ed. E. Halber) 1890-1895, see TL-2/3804.
-(4) Entries on *Leguminosae* in A. Engler, *Pflanzenw. Ost-Afrikas* B: 105-125. Jul 1895, C: 193-224. Jul 1893; *Sapindaceae* in C: 249-252. Jul 1895; *Melastomataceae* in C: 265-269. Aug 1895, see TL-2/1708.
-(5) EP, *Nat. Pflanzenfam., Leguminosae* 3(3): 70-388. Aug 1891. 22 Mai 1894, see TL-2/1: 767; *Violaceae* (with K.F. Reiche) 3(6). 14 Mai 1895.
-(6) Collaborator, H. Potonié, *Ill. Fl*. ed. 4, 1889, TL-2/8215.
+- (1) Contributed a note on his trip to Marmarica to G. Schweinfurth and P. Ascherson, *Primitiae florae Marmaricae*, Bull. Herb. Boissier 1: 445-449. Sep 1893, see TL-2/11.480.
+- (2) Contributed *Leguminosae* to Th. Loesener, *Plantae Selerianae* 1894-1895, see TL-2/4935.
+- (3) Contributed to W.D.J. Koch, *Syn. deut. Schweiz. Fl*. ed. 3 (ed. E. Halber) 1890-1895, see TL-2/3804.
+- (4) Entries on *Leguminosae* in A. Engler, *Pflanzenw. Ost-Afrikas* B: 105-125. Jul 1895, C: 193-224. Jul 1893; *Sapindaceae* in C: 249-252. Jul 1895; *Melastomataceae* in C: 265-269. Aug 1895, see TL-2/1708.
+- (5) EP, *Nat. Pflanzenfam., Leguminosae* 3(3): 70-388. Aug 1891. 22 Mai 1894, see TL-2/1: 767; *Violaceae* (with K.F. Reiche) 3(6). 14 Mai 1895.
+- (6) Collaborator, H. Potonié, *Ill. Fl*. ed. 4, 1889, TL-2/8215.
 
 #### Eponymy
 

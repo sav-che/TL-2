@@ -24,8 +24,8 @@ Kew 1: 602; LS 5529-5530, 32.208.
 
 #### General publications
 
-(1) *Evolution today*... (Putnam), London 1886, p. ix, 342. Oct. (2) *The living world*. Whence it came and whither it is drifting (Putnam) London 1891, p. v, 195. Oct.
-(3) *The method of evolution*... (Putnam) London 1900, p. ix, 408. Oct.
+- (1) *Evolution today*... (Putnam), London 1886, p. ix, 342. Oct. (2) *The living world*. Whence it came and whither it is drifting (Putnam) London 1891, p. v, 195. Oct.
+- (3) *The method of evolution*... (Putnam) London 1900, p. ix, 408. Oct.
 
 ### Publications
 

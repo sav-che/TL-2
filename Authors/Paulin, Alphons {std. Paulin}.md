@@ -8,7 +8,8 @@ Paulin, Alphons (1853-1942), Austrian botanist in Slovenia; director of the bota
 
 #### Herbarium and types
 
-[[Collection GJO|GJO]]; further material at [[Collection BM|BM]], [[Collection E|E]], [[Collection GB|GB]], [[Collection GZU|GZU]], [[Collection LE|LE]]. *Exsiccatae*: *Flora exsiccata Carniolica*, nos. 1-1000, 1901-1907, see below under *Beitr. Veg. Verh. Krains* and Allg. bot. Z. 7: 143. 1901. – See Wraber (1966) for contents and history and continuation of the series of exsiccatae, with critical notes on centuries 19 and 20.
+[[Collection GJO|GJO]]; further material at [[Collection BM|BM]], [[Collection E|E]], [[Collection GB|GB]], [[Collection GZU|GZU]], [[Collection LE|LE]].
+*Exsiccatae*: *Flora exsiccata Carniolica*, nos. 1-1000, 1901-1907, see below under *Beitr. Veg. Verh. Krains* and Allg. bot. Z. 7: 143. 1901. – See Wraber (1966) for contents and history and continuation of the series of exsiccatae, with critical notes on centuries 19 and 20.
 
 #### Bibliography and biography
 

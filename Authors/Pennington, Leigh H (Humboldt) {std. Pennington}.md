@@ -22,8 +22,8 @@ Barnhart 3: 66; Hirsch p. 228; IH 2: (in press); Kelly p. 173; LS 37799-37800, s
 
 #### Composite works
 
-(1) *Marasmius, in Fl. N. Amer.* 9(4): 250-286. 30 Apr 1915.
-(2) *Coprinus, in* Kauffman, *Agaric. Michigan* 1919, see TL-2/3548.
+- (1) *Marasmius, in Fl. N. Amer.* 9(4): 250-286. 30 Apr 1915.
+- (2) *Coprinus, in* Kauffman, *Agaric. Michigan* 1919, see TL-2/3548.
 
 #### Name
 

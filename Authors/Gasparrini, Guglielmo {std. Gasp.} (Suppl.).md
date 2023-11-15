@@ -32,9 +32,9 @@ AG 3: 106; APN p. 220; Backer p. 229, 651; Baillon 2: 675; Barnhart 2: 32; BM 2:
 #### Note
 
 The following are now available in microform:
-(1) *Descr. nuov. gen. Leg.*... 1836 (TL-2/1, nr. 1962):
+- (1) *Descr. nuov. gen. Leg.*... 1836 (TL-2/1, nr. 1962):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche, (Plant taxonomic lit. microfiche coll., "1873A1-1873A6"). *Copy*: MO (n.v.).
-(2) *Nov. gen. Fic.*... 1844 (TL-2/1, nr. 1963):
+- (2) *Nov. gen. Fic.*... 1844 (TL-2/1, nr. 1963):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche, (Plant taxonomic lit. microfiche coll., "1873B2-1873B7"). *Copy*: MO (n.v.).
 
 ### Publications

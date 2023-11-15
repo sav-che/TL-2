@@ -63,15 +63,15 @@ AG 6(1): 482; Ainsworth p. 156; Andrews p. 296; Backer p. 330; Barnhart 2: 386; 
 
 #### Composite works
 
-(1). J. Donn, *Hortu cantabrigiensis*, ed. 10(1823), 11 (1826), 12 (1831), 13 (1845).
-(2)Edited *Edwards's Botanical Register*, vol. 16-23, 1829-1847, but contributed most of the articles from vol. 11 (1825) on (W. T. Stearn).
-(3). *Illustrations of orchidaceous plants*, see F. A. Bauer.
-(4). *Flora graeca*, see J. Sibthorp.
-(5). *Gardeners Chronicle*, co-editor 1841-1865.
-(6). *The ferns of Great Britain* (editor), see J. Moore.
-(7). *Pomological Magazine*, editor vols. 1-3, 1828-1839.
-(8). see Ravenscroft, E. J. for L's contribution to "*Lawson's Pinetum*" (parts 1-3).
-(9). *Exotic flora*, see W.J. Hooker, no. 2993.
+- (1). J. Donn, *Hortu cantabrigiensis*, ed. 10(1823), 11 (1826), 12 (1831), 13 (1845).
+- (2). Edited *Edwards's Botanical Register*, vol. 16-23, 1829-1847, but contributed most of the articles from vol. 11 (1825) on (W. T. Stearn).
+- (3). *Illustrations of orchidaceous plants*, see F. A. Bauer.
+- (4). *Flora graeca*, see J. Sibthorp.
+- (5). *Gardeners Chronicle*, co-editor 1841-1865.
+- (6). *The ferns of Great Britain* (editor), see J. Moore.
+- (7). *Pomological Magazine*, editor vols. 1-3, 1828-1839.
+- (8). see Ravenscroft, E. J. for L's contribution to "*Lawson's Pinetum*" (parts 1-3).
+- (9). *Exotic flora*, see W.J. Hooker, no. 2993.
 
 #### Handwriting
 

@@ -23,10 +23,10 @@ Barnhart 2: 233; BL 1: 103, 302; Bossert p. 190; Hortus 3: 1196 ("Irmsch."); Kew
 
 #### Composite works
 
-(1) EP, *Die naturlichen Pflanzenfamilien* ed. 2. *Begoniaceae* 21: 548-588. Dec 1925 (TL-2/1711).
-(2) Engler, *Pflanzenreich*, with A. Engler, *Saxifraga*, Hefte 67: 1-451. 26 Sep 1916, 69: 449-709. 6 Jun 1919 (TL-2/1713).
-(3) *Beitrdge zur Laubmoosflora von Columbien, in* O. Fuhrmann et E. Mayor, *Voy. expl. sci. Colombie*, Neuchatel, 1914, p. 11-116 (Mém. Soc. neuch. Sci. nat. 5, 1914).
-(4) *Beitrdge zur Kenntniss der Flora von Borneo*, ed. Irmscher, Mitt. Inst. allg. Bot. 7: \[i-ii\], \[1\]-308, \[309-310\]. 15 Jul 1927.
+- (1) EP, *Die naturlichen Pflanzenfamilien* ed. 2. *Begoniaceae* 21: 548-588. Dec 1925 (TL-2/1711).
+- (2) Engler, *Pflanzenreich*, with A. Engler, *Saxifraga*, Hefte 67: 1-451. 26 Sep 1916, 69: 449-709. 6 Jun 1919 (TL-2/1713).
+- (3) *Beitrdge zur Laubmoosflora von Columbien, in* O. Fuhrmann et E. Mayor, *Voy. expl. sci. Colombie*, Neuchatel, 1914, p. 11-116 (Mém. Soc. neuch. Sci. nat. 5, 1914).
+- (4) *Beitrdge zur Kenntniss der Flora von Borneo*, ed. Irmscher, Mitt. Inst. allg. Bot. 7: \[i-ii\], \[1\]-308, \[309-310\]. 15 Jul 1927.
 
 ### Publications
 

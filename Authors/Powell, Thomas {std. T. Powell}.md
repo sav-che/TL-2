@@ -8,7 +8,8 @@ Powell, Thomas (1809-1887), British missionary and naturalist; at Upolu, Samoa 1
 
 #### Herbarium and types
 
-[[Collection K|K]] (main set); other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection MICH|MICH]], [[Collection NA|NA]]. – *Exsiccatae*: *Mosses of Samoa*, ca. 1867, nos. 1-140, set at [[Collection FH|FH]] (see Sayre 1971).
+[[Collection K|K]] (main set); other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection MICH|MICH]], [[Collection NA|NA]].
+*Exsiccatae*: *Mosses of Samoa*, ca. 1867, nos. 1-140, set at [[Collection FH|FH]] (see Sayre 1971).
 
 #### Bibliography and biography
 

@@ -10,7 +10,8 @@ Griffiths, David (1867-1935), British born American horticulturist and mycologis
 
 #### Herbarium and types
 
-[[Collection US|US]], [[Collection BPI|BPI]]. – Exsiccatae: *West American Fungi* (cent. i-iv, nos. 1-400, Takoma Park, D.C. 1-100. 1901; 101-400. 1902), sets at [[Collection ARIZ|ARIZ]], [[Collection B|B]], [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MASS|MASS]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection NEB|NEB]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OSC|OSC]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection WIS|WIS]].
+[[Collection US|US]], [[Collection BPI|BPI]].
+*Exsiccatae*: *West American Fungi* (cent. i-iv, nos. 1-400, Takoma Park, D.C. 1-100. 1901; 101-400. 1902), sets at [[Collection ARIZ|ARIZ]], [[Collection B|B]], [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MASS|MASS]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection NEB|NEB]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OSC|OSC]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection WIS|WIS]].
 *Ref*.: IH 1 (ed. 6): 359, 2: 240.
 - Barnhart, NAF 9(6): 437. 1916.
 - Urban, Gesch. Berlin-Dahlem 276, 351. 1916.

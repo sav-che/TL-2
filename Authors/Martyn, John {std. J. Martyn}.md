@@ -38,7 +38,7 @@ Ainsworth p. 234, 311, 345; Backer p. 357; Barnhart 2: 456; BB p. 208; Blunt p. 
 
 #### Composite works
 
-(1) The compleat herbal: or, the botanical institutions of Mr. Tournefort... 1719-1730.
+- (1) The compleat herbal: or, the botanical institutions of Mr. Tournefort... 1719-1730.
 
 #### Eponymy
 

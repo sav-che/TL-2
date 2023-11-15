@@ -8,7 +8,8 @@ Gelert, Otto Carl \[Christian, Kristian\] Leonor \[Laurtis, Lauritz\] (1862-1899
 
 #### Herbarium and types
 
-[[Collection A|A]], [[Collection C|C]] (esp. *Rubus*), [[Collection DBN|DBN]], [[Collection K|K]], [[Collection LD|LD]], [[Collection LY|LY]], [[Collection MANCH|MANCH]]. – *Exsiccatae*: see Friderichsen, \[Peter\] Kristian \[Nikolaj\] (1853-1932).
+[[Collection A|A]], [[Collection C|C]] (esp. *Rubus*), [[Collection DBN|DBN]], [[Collection K|K]], [[Collection LD|LD]], [[Collection LY|LY]], [[Collection MANCH|MANCH]].
+*Exsiccatae*: see Friderichsen, \[Peter\] Kristian \[Nikolaj\] (1853-1932).
 
 #### Bibliography and biography
 
@@ -26,8 +27,8 @@ APN p. 222; Barnhart 2: 37 (as "Otto Kristian Lauritz Gelert"); BL 1: 155, 297, 
 
 #### Composite works
 
-(1) The pref. (p. iii-iv) of Part I of C.H. Ostenfeld, *Fl. arct.*... 1902 (TL-2/3, nr. 7129) credits half the work to O. Gelert who began working on it in 1896.
-(2) A number of papers on *Rubus* were co-authored with \[Peter\] Kristian \[Nikolaj\] Friderichsen (1853-1932).
+- (1) The pref. (p. iii-iv) of Part I of C.H. Ostenfeld, *Fl. arct.*... 1902 (TL-2/3, nr. 7129) credits half the work to O. Gelert who began working on it in 1896.
+- (2) A number of papers on *Rubus* were co-authored with \[Peter\] Kristian \[Nikolaj\] Friderichsen (1853-1932).
 
 ### Publications
 

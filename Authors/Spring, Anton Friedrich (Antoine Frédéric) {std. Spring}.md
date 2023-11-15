@@ -31,10 +31,10 @@ Backer p. 545; Barnhart 3: 312 (b. 8 Apr 1814, d. 17 Jan 1872); BM 5: 1995; Boss
 
 #### Composite works
 
-(1) *Lycopodineae, in* C.F.P. v. Martius, *Fl. bras.* 1(2): 105-134, *pl. 3-8.* 1840 (fasc. 1).
-(2) *Lycopodineae, in* F.A.W. Miquel et al., Pl. Jungh. 1851-1857.
-(3) *Lycopodiaceae novae, in* H.F. Van Heurck, Obs. bot. 1: 28-30. 1 Jun 1870.
-(4) *Cryptogamae vasculares. Lycopodineae, in* C. Gaudichaud-Beaupré, Voy. Bonite, Bot. 2:\[315\]-344. Oct-Nov 1846, see TL-2/1969.
+- (1) *Lycopodineae, in* C.F.P. v. Martius, *Fl. bras.* 1(2): 105-134, *pl. 3-8.* 1840 (fasc. 1).
+- (2) *Lycopodineae, in* F.A.W. Miquel et al., Pl. Jungh. 1851-1857.
+- (3) *Lycopodiaceae novae, in* H.F. Van Heurck, Obs. bot. 1: 28-30. 1 Jun 1870.
+- (4) *Cryptogamae vasculares. Lycopodineae, in* C. Gaudichaud-Beaupré, Voy. Bonite, Bot. 2:\[315\]-344. Oct-Nov 1846, see TL-2/1969.
 
 #### Handwriting
 
@@ -61,7 +61,7 @@ Lejeunia 109: fig. 2 (facing p. 3). 1983.
 *première partie*: 1842 (Flora 28 Dec 1842; Mém. 15: 1-110. 1842).
 *Seconde partie*: 1849 (PV 18 Feb 1850; Mém. 24: 1-358. 1849).
 *Preliminary publications*: (1) 1841, 1843, "*Enumeratio Lycopodinearum*, quas in ejusdem plantarum ordinis monographia mox edenda descripsit A. Spring", Bull. Acad. Sci. Belg. 8: 511-523. 1841, 10: 225-235. 1843; reprint p. 1-35. *Copies*: HH, NSUB; IDC 7265.
-(2) *Beiträge zur Kenntniss der Lycopodien*, Flora 21: 145-158. 14 Mar, 161-175, 177-191. 21 Mar, 193-205. 7 Apr, 209-224. 14 Apr 1838. – Extract: Ann. Sci. nat. Bot. ser. 2. 11: 218-237. Apr 1839.
+- (2) *Beiträge zur Kenntniss der Lycopodien*, Flora 21: 145-158. 14 Mar, 161-175, 177-191. 21 Mar, 193-205. 7 Apr, 209-224. 14 Apr 1838. – Extract: Ann. Sci. nat. Bot. ser. 2. 11: 218-237. Apr 1839.
 
 ##### n.12.706. Des champignons qui se développent dans les oeufs de poule
 

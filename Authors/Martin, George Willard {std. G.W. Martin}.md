@@ -27,8 +27,8 @@ Ainsworth p. 345; Barnhart 2: 454; Bossert p. 255; GR p. 230; Hawksworth p. 184;
 
 #### Composite works
 
-(1) With T. H. Macbride: *The myxomycetes*, New York 1934; with C. J. Alexopoulous; *The myxomycetes* 1969.
-(2) NAF, *Myxomycetes*, 1(1): 1-151. 29 Apr 1949.
+- (1) With T. H. Macbride: *The myxomycetes*, New York 1934; with C. J. Alexopoulous; *The myxomycetes* 1969.
+- (2) NAF, *Myxomycetes*, 1(1): 1-151. 29 Apr 1949.
 
 #### Eponymy
 

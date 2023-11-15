@@ -8,7 +8,8 @@ Hitchcock, Albert Spear (né Jennings) (1865-1935), American botanist, leading a
 
 #### Herbarium and types
 
-[[Collection US|US]] (grass herbarium), older collections partly at [[Collection MO|MO]] (e.g. Bahamas 1890) and [[Collection NY|NY]]. Duplicates from his many collecting trips in many herbaria (see IH). Exsiccatae: *American grasses* (cent. 1-10, 1914-1929) at [[Collection BM|BM]], [[Collection C|C]], [[Collection K|K]], [[Collection L|L]], [[Collection P|P]], [[Collection US|US]], [[Collection W|W]]. Sets of 1000 dried specimens entitled *Flora of Kansas*, Manhattan, Kansas, (25 sets) were announced by Nat. Nov. Aug(2) 1897. (*Flora of Kansas*, a series of maps... Manhattan 1899, was a set of 20 plates with 1298 maps and 3 p. text; Nat. Nov. Sep(1) 1899).
+[[Collection US|US]] (grass herbarium), older collections partly at [[Collection MO|MO]] (e.g. Bahamas 1890) and [[Collection NY|NY]]. Duplicates from his many collecting trips in many herbaria (see IH).
+*Exsiccatae*: *American grasses* (cent. 1-10, 1914-1929) at [[Collection BM|BM]], [[Collection C|C]], [[Collection K|K]], [[Collection L|L]], [[Collection P|P]], [[Collection US|US]], [[Collection W|W]]. Sets of 1000 dried specimens entitled *Flora of Kansas*, Manhattan, Kansas, (25 sets) were announced by Nat. Nov. Aug(2) 1897. (*Flora of Kansas*, a series of maps... Manhattan 1899, was a set of 20 plates with 1298 maps and 3 p. text; Nat. Nov. Sep(1) 1899).
 
 #### Bibliography and biography
 
@@ -46,10 +47,10 @@ Hitchcock died on 16 Dec 1935, on board the SS. City of Norfolk, on his return v
 
 #### Composite works
 
-(1) *Gramineae*, in Jepson, A flora of California 82-189. 30 Apr 1912 (TL-2/3341).
-(2) *Gramineae, in* A. Gray, *Manual*, ed. 7. 1908 (TL-2/2124).
-(3) Gramineae, *in* Urban, Symb. ant. 7: 166-170. 15 Jun 1912.
-(4) *Poaceae, in* NAF 17(3): 198-288. 20 Dec 1915; 17(4): 289-354. 14 Aug 1931; 17(5): 355-418. 17 Mai 1935; 17(6): 419-482. 5 Sep 1935; 17(7): 483-542. 31 Mar 1937; 17(8): 543-568. 14 Jul 1939 (TL-2/781).
+- (1) *Gramineae*, in Jepson, A flora of California 82-189. 30 Apr 1912 (TL-2/3341).
+- (2) *Gramineae, in* A. Gray, *Manual*, ed. 7. 1908 (TL-2/2124).
+- (3) Gramineae, *in* Urban, Symb. ant. 7: 166-170. 15 Jun 1912.
+- (4) *Poaceae, in* NAF 17(3): 198-288. 20 Dec 1915; 17(4): 289-354. 14 Aug 1931; 17(5): 355-418. 17 Mai 1935; 17(6): 419-482. 5 Sep 1935; 17(7): 483-542. 31 Mar 1937; 17(8): 543-568. 14 Jul 1939 (TL-2/781).
 
 #### Eponymy
 

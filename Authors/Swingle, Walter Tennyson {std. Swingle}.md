@@ -8,7 +8,8 @@ Swingle, Walter Tennyson (1871-1952), American botanist; M.Sc. State Agr. Coll. 
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]] (fungi), [[Collection KSU|KSU]], [[Collection NY|NY]], [[Collection US|US]]. – *Exsiccatae*, with W.A. Kellerman: *Kansas fungi*, fasc. 1-2, nos. 1-50. 1889, see under Kellerman and IH 2: 350. – *Letters* to W.G. Farlow at [[Collection FH|FH]].
+[[Collection BPI|BPI]] (fungi), [[Collection KSU|KSU]], [[Collection NY|NY]], [[Collection US|US]].
+*Exsiccatae*, with W.A. Kellerman: *Kansas fungi*, fasc. 1-2, nos. 1-50. 1889, see under Kellerman and IH 2: 350. – *Letters* to W.G. Farlow at [[Collection FH|FH]].
 
 #### Bibliography and biography
 

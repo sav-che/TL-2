@@ -22,7 +22,7 @@ Les *sphaignes de Bretagne*... Introduction, Tableau dichotomique pour l'étude 
 *Publ*.: 31 Mar, 31 Dec 1896 (date of printing on p. 1 and 25), cover-t.p., p. \[i, iii\], \[1\]-83.
 *Copy*: B. – Preprinted from Bull. Soc. Sci. nat. Ouest France 6(1): 31-55. 31 Mar, 6(4): 247-305. 31 Dec 1896.
 *Note*: (1) Anon. note written on copy B: "Imprimé en 1896. Distribué en décembre 1903" (sic). – CSP mentioned this in "1896"; it may be presumed that a few copies were distributed in 1897.
-(2) This publication should be continued but was never finished.
+- (2) This publication should be continued but was never finished.
 *Ref*.: Anon., Rev. bryol. 23(6): 110. 1896 (rev. of first part).
 
 ##### n.23.673. Sphagnum nouveaux

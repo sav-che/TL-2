@@ -59,7 +59,7 @@ On the *Movements* and *Habits* of *Climbing Plants*... Journal of the Linnean S
 *Ed. 2*: 1875 \[London (John Murray)\], p. \[i\]-viii, \[1\]-208. *Copies*: B, G, U.
 *Note*: (1) French translation by R. Gordon, Les *mouvements* et les *habitudes* des *plantes grimpantes*, Paris (C. Reinwald et Cie.) 1877, p. \[i\]-viii, \[1\]-270, \[271\]. *Copies*: BR, G.
 *Ed. 2*: 1890, same pages. *Copies*: BR, G.
-(2) German translation by J. Victor Carus, Die *Bewegungen* und *Lebensweise* der *kletternden Pflanzen*, Stuttgart (E. Schweizerbart'sche Verlagsbuchhandlung...) 1876, p. \[i\]-viii, \[1\]-160. *Copy*: B.
+- (2) German translation by J. Victor Carus, Die *Bewegungen* und *Lebensweise* der *kletternden Pflanzen*, Stuttgart (E. Schweizerbart'sche Verlagsbuchhandlung...) 1876, p. \[i\]-viii, \[1\]-160. *Copy*: B.
 *Ed. 2*: 1899, same pages. *Copy*: B.
 
 ##### n.29.068. fécondation Orchidées
@@ -81,8 +81,8 @@ De la *fécondation* des *Orchidées* par les insectes et des bons résultats du
 **Notes**
 *Publ*.: 1875, p. \[i\]-x, \[1\]-462. *Copies*: B, G, U.
 *Note*: (1) For other editions see F. Darwin, below.
-(2) French translation by Ed. Barbier, *Les plantes insectivores*, Paris (Reinwald & Cie....) 1877, p. \[i\]-xxiii, \[1\]-540. *Copy*: G.
-(3) German translation by J. Victor Carus, *Insectenfressende Pflanzen*, Stuttgart (Nägele...) 1876, p. \[i\]-viii, \[1\]-412. *Copies*: B, U.
+- (2) French translation by Ed. Barbier, *Les plantes insectivores*, Paris (Reinwald & Cie....) 1877, p. \[i\]-xxiii, \[1\]-540. *Copy*: G.
+- (3) German translation by J. Victor Carus, *Insectenfressende Pflanzen*, Stuttgart (Nägele...) 1876, p. \[i\]-viii, \[1\]-412. *Copies*: B, U.
 *Ed. 2*: 1899, same pages. *Copies*: B, U.
 
 ##### n.29.070. different forms of flowers of the same species

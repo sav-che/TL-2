@@ -8,7 +8,8 @@ Zillig, Hermann (1893-1952), German (Franconian) botanist and phytopathologist; 
 
 #### Herbarium and types
 
-Unknown. – *Exsiccatae*: *Ustilagineen Europas*, Lief. 1-14, nos. 1-140, Trier 1925-1935. Sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection UPS|UPS]], [[Collection W|W]]. – Nos. 1-40 mentioned in Hedwigia 11 Jun 1925, 41-70. 11 Jan 1926, 71-100. Mai 1927, 101-120, rd. [[Collection FH|FH]] Jun 1932, 121-140. 25 Jan 1935 (Hedwigia). See D.H. Pfister (1985). – A series *Ustilagineae of North America* was never issued (see Stevenson 1971, p. 528).
+Unknown.
+*Exsiccatae*: *Ustilagineen Europas*, Lief. 1-14, nos. 1-140, Trier 1925-1935. Sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection UPS|UPS]], [[Collection W|W]]. – Nos. 1-40 mentioned in Hedwigia 11 Jun 1925, 41-70. 11 Jan 1926, 71-100. Mai 1927, 101-120, rd. [[Collection FH|FH]] Jun 1932, 121-140. 25 Jan 1935 (Hedwigia). See D.H. Pfister (1985). – A series *Ustilagineae of North America* was never issued (see Stevenson 1971, p. 528).
 
 #### Bibliography and biography
 

@@ -8,7 +8,8 @@ Henriques, Julio Augusto (1838-1928), Portuguese botanist, ultimately professor 
 
 #### Herbarium and types
 
-[[Collection COI|COI]]; other material [[Collection B|B]], [[Collection BM|BM]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LISI|LISI]], [[Collection LY|LY]], [[Collection MPU|MPU]], [[Collection W|W]]. – Exsiccatae: *Flora lusitanica exsiccata* (col. 1880-1911, cent. i-xix) at [[Collection B|B]], [[Collection L|L]], [[Collection W|W]].
+[[Collection COI|COI]]; other material [[Collection B|B]], [[Collection BM|BM]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LISI|LISI]], [[Collection LY|LY]], [[Collection MPU|MPU]], [[Collection W|W]].
+*Exsiccatae*: *Flora lusitanica exsiccata* (col. 1880-1911, cent. i-xix) at [[Collection B|B]], [[Collection L|L]], [[Collection W|W]].
 
 #### Bibliography and biography
 

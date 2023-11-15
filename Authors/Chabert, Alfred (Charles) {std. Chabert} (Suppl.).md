@@ -37,7 +37,7 @@ Burdet, H.M., Candollea 28: 439-440. 1973.
 
 #### Note
 
-(1) See TL-2/12.451, A. Songeon et A. Chabert, *Herbarisations* aux *environs de Chambéry* 1896, mss. presented 12 Mar 1896. – Bot. Centralbl. 28 Apr 1897.
+- (1) See TL-2/12.451, A. Songeon et A. Chabert, *Herbarisations* aux *environs de Chambéry* 1896, mss. presented 12 Mar 1896. – Bot. Centralbl. 28 Apr 1897.
 
 ### Publications
 

@@ -20,9 +20,9 @@ BM 4: 1762; Herder p. 7, 88, 358, 365, 368; Hortus 3: 1203; Kew 4: 546; Langman 
 
 #### Composite works
 
-(1) Published the second edition of Carl Friedrich Förster, *Handbuch der Cacteenkunde* 1884-1886, see TL-2/1812, p. \[i\]-xv, \[1\]-1029. *Copies*: MO, NSW, USDA(2).
-(2) Editor, with Groenland, of *Vilmorins illustrierte Blumengärtnerei* 1872-1875, see under Vilmorin, ed. 2, edited by Rümpler, 1879.
-(3) Editor, *Illustriertes Gartenbau-Lexikon, e*ds. 1 and 2, 1882, 1890 (ed. 3, 1901 edited by L. Wittmack).
+- (1) Published the second edition of Carl Friedrich Förster, *Handbuch der Cacteenkunde* 1884-1886, see TL-2/1812, p. \[i\]-xv, \[1\]-1029. *Copies*: MO, NSW, USDA(2).
+- (2) Editor, with Groenland, of *Vilmorins illustrierte Blumengärtnerei* 1872-1875, see under Vilmorin, ed. 2, edited by Rümpler, 1879.
+- (3) Editor, *Illustriertes Gartenbau-Lexikon, e*ds. 1 and 2, 1882, 1890 (ed. 3, 1901 edited by L. Wittmack).
 
 ### Publications
 

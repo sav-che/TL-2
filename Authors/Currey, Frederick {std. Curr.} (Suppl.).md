@@ -26,11 +26,11 @@ Barnhart 1: 405; BB p. 80 (b. Norwood); BL 2: 247, 644; BM 1: 407; CSP 2: 108, 7
 
 #### Composite works
 
-(1) English translation of H. Schacht, *Microscope and its application* to vegetable anatomy and physiology 1855 (2nd. ed.).
-(2) Editor of The Natural History Review ser. 2, 1-5, 1861-1865.
-(3) English translation by Frederick Currey of W.F.B. Hofmeister: *On the germination*, development and fructification of the *higher cryptogamia*, London 1862, see TL-2/2: 250-251.
-(4) Charles David Badham, *Treat. escul. fung. England* ed. 2, 1863, see TL-2/231, edited by Frederick Currey... London 1863.
-(5) Friedrich Welwitsch and Frederick Currey, *Fungi Angolenses*, 1868, see TL-2/17.113.
+- (1) English translation of H. Schacht, *Microscope and its application* to vegetable anatomy and physiology 1855 (2nd. ed.).
+- (2) Editor of The Natural History Review ser. 2, 1-5, 1861-1865.
+- (3) English translation by Frederick Currey of W.F.B. Hofmeister: *On the germination*, development and fructification of the *higher cryptogamia*, London 1862, see TL-2/2: 250-251.
+- (4) Charles David Badham, *Treat. escul. fung. England* ed. 2, 1863, see TL-2/231, edited by Frederick Currey... London 1863.
+- (5) Friedrich Welwitsch and Frederick Currey, *Fungi Angolenses*, 1868, see TL-2/17.113.
 
 ### Publications
 

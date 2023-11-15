@@ -24,12 +24,12 @@ Barnhart 2: 157; BB p. 145; BM 2: 822; Bossert p. 171; CSP 3: 275-276, 12: 324, 
 
 #### Composite works
 
-(1) *The Botanical Gazette*, edited by A. Henfrey, vols. 1-3, 1849-1851.
-(2) *Annals and magazine of natural History* ser. 3. vols. 1-4. 1858. 1859.
-(3) G. W. Francis, *An analysis of the british ferns* and their allies... *Fifth edition*. With engravings. Revised and enlarged by Arthur Henfrey... London (Simpkin, Marshall and Co....) 1855. Oct., engr. t.p., p. \[1\]-viii, \[1\]-92, *pl. 1-9* (uncol. liths.). *Copy*: MO. – Ed. 1: 1837, ed. 2: 1842, ed. 3: 1847, ed. 4(?), all by Francis.
-(4) *Reports and papers on Botany* \[Mohl, Nägeli, Link, Grisebach\]. London 1849, viii, 514 p., Ray Society, see R. Curle, Ray Soc. bibl. hist. 85. 1954.
-(5) See A. Braun, *Betracht. Erschein. Verjung. Natur* (TL 2/712), English translation by H.
-(6) With W. P. Ayres, The florists' guide, 1850.
+- (1) *The Botanical Gazette*, edited by A. Henfrey, vols. 1-3, 1849-1851.
+- (2) *Annals and magazine of natural History* ser. 3. vols. 1-4. 1858. 1859.
+- (3) G. W. Francis, *An analysis of the british ferns* and their allies... *Fifth edition*. With engravings. Revised and enlarged by Arthur Henfrey... London (Simpkin, Marshall and Co....) 1855. Oct., engr. t.p., p. \[1\]-viii, \[1\]-92, *pl. 1-9* (uncol. liths.). *Copy*: MO. – Ed. 1: 1837, ed. 2: 1842, ed. 3: 1847, ed. 4(?), all by Francis.
+- (4) *Reports and papers on Botany* \[Mohl, Nägeli, Link, Grisebach\]. London 1849, viii, 514 p., Ray Society, see R. Curle, Ray Soc. bibl. hist. 85. 1954.
+- (5) See A. Braun, *Betracht. Erschein. Verjung. Natur* (TL 2/712), English translation by H.
+- (6) With W. P. Ayres, The florists' guide, 1850.
 
 #### Eponymy
 

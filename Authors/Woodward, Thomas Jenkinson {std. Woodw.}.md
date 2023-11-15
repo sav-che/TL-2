@@ -28,11 +28,11 @@ Backer p. 629; Barnhart 3: 518; BB p. 335; BM 2: 695, 5: 2360; CSP 6: 438; Dawso
 
 #### Composite works
 
-(1) Contributed to P. Miller, *The gardener's and botanist's dictionary... *Corrected and newly arranged... by T. Martyn, 1807. (TL-2/6046).
-(2) Contributed to J.E. Smith, *Engl. bot.* see TL-2/12.221.
-(3) Contributed to W. Withering, *Bot. arr. Brit. pl.* ed. 2. 1787. (TL-2/18.079).
-(4) With Samuel Goodenough (1743-1827), *Observations on the British Fuci*, with particular descriptions of each species, Trans. Linn. Soc. 3: 84-235, *4 pl*. 25 Mai 1797.
-(5) *An account of a new plant, of the order of Fungi, in* Phil. Trans. Roy. Soc. London 74(2): 423-427. 1784.
+- (1) Contributed to P. Miller, *The gardener's and botanist's dictionary... *Corrected and newly arranged... by T. Martyn, 1807. (TL-2/6046).
+- (2) Contributed to J.E. Smith, *Engl. bot.* see TL-2/12.221.
+- (3) Contributed to W. Withering, *Bot. arr. Brit. pl.* ed. 2. 1787. (TL-2/18.079).
+- (4) With Samuel Goodenough (1743-1827), *Observations on the British Fuci*, with particular descriptions of each species, Trans. Linn. Soc. 3: 84-235, *4 pl*. 25 Mai 1797.
+- (5) *An account of a new plant, of the order of Fungi, in* Phil. Trans. Roy. Soc. London 74(2): 423-427. 1784.
 
 #### Eponymy
 

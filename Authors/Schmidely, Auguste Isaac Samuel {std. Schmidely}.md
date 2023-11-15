@@ -8,8 +8,9 @@ Schmidely, Auguste Isaac Samuel (1838-1918), Swiss bank employee at Genève, act
 
 #### Herbarium and types
 
-[[Collection G|G]] (rd 1913, 22527 nos.); other material in [[Collection A|A]], [[Collection BR|BR]], [[Collection C|C]]. – *Exsiccatae*: (*1*) *Rubi selecti*, 1886, with handwritten, numbered labels.
-(2) With R. Buser, ed. C. Baenitz, *Herbarium Alchemillarum normale*, 1894; printed, numbered labels.
+[[Collection G|G]] (rd 1913, 22527 nos.); other material in [[Collection A|A]], [[Collection BR|BR]], [[Collection C|C]].
+*Exsiccatae*: (*1*) *Rubi selecti*, 1886, with handwritten, numbered labels.
+- (2) With R. Buser, ed. C. Baenitz, *Herbarium Alchemillarum normale*, 1894; printed, numbered labels.
 *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography

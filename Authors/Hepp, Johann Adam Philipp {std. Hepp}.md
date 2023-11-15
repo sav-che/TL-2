@@ -8,9 +8,10 @@ Hepp, Johann Adam Philipp (1797-1867), German physician, lichenologist and polit
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (2406 lich., 770 bryoph., 1640 algae). Algae also at [[Collection G|G]]. *Exsiccatae*:
-(1) *Die Flechten Europas* in getrockneten mikroskopisch untersuchten Exemplaren mit Beschreibung und Abbildung ihrer Sporen. Vols. 1-16, fasc. 1-32, nos. 1-962. Zürich (Meyer und Zeller), 1853-1867, vols. 13-16 published by Jean Müller Argoviensis (1826-1896). Sets in many herbaria, e.g. [[Collection B|B]], [[Collection BRN|BRN]], [[Collection BM|BM]], [[Collection CM|CM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STR|STR]], [[Collection UPS|UPS]]. Text issued separately as *Abbildungen und Beschreibungen der Sporen*... see no. 2663. A continuation of Schaerer, *Lichenes helvetici exsiccati*.
-(2) *Systematische Sammlung* der von Dr. Hepp im Kanton Zürich selbstaufgefundenen Flechten, nebst ihrer mikroskopisch untersuchten Sporen, geordnet nach Schaerer's Enumeratio critica lichen, eur. fasc. 1, *pl. 1-18*, nos. 1-250. Zürich 1849-1852. Sets at [[Collection B|B]], [[Collection HAL|HAL]].
+[[Collection BM|BM]] (2406 lich., 770 bryoph., 1640 algae). Algae also at [[Collection G|G]].
+*Exsiccatae*:
+- (1) *Die Flechten Europas* in getrockneten mikroskopisch untersuchten Exemplaren mit Beschreibung und Abbildung ihrer Sporen. Vols. 1-16, fasc. 1-32, nos. 1-962. Zürich (Meyer und Zeller), 1853-1867, vols. 13-16 published by Jean Müller Argoviensis (1826-1896). Sets in many herbaria, e.g. [[Collection B|B]], [[Collection BRN|BRN]], [[Collection BM|BM]], [[Collection CM|CM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STR|STR]], [[Collection UPS|UPS]]. Text issued separately as *Abbildungen und Beschreibungen der Sporen*... see no. 2663. A continuation of Schaerer, *Lichenes helvetici exsiccati*.
+- (2) *Systematische Sammlung* der von Dr. Hepp im Kanton Zürich selbstaufgefundenen Flechten, nebst ihrer mikroskopisch untersuchten Sporen, geordnet nach Schaerer's Enumeratio critica lichen, eur. fasc. 1, *pl. 1-18*, nos. 1-250. Zürich 1849-1852. Sets at [[Collection B|B]], [[Collection HAL|HAL]].
 *Ref*.: LS 12087 (dates, numbers of (1)).
 - Nylander, Bull. Soc. bot. France 1: 257-259, 319-320. 1854.
 - Fournier, Bull. Soc. bot. France 14(bibl.): 144. 1867 (sale herb.).

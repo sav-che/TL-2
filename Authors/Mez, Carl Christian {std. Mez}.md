@@ -26,14 +26,14 @@ AG 4: 749; Ainsworth p. 94, 324; Backer p. 369; Barnhart 2: 484; BJI 1: 40, 2: 1
 
 #### Composite works
 
-(1)Martius, *Fl. bras., Bromeliaceae* 3(3): 173-285, *pl. 51-62.* 1 Nov 1891, 281-430, pl. 63-80. 15 Mai 1892, 425-634, pl. 81-114. 1 Feb 1894. Also issued separately.
-(2) Candolle, *Monogr. phan., Bromeliaceae*, 9: i-lxxxvii, 1-990. Jan 1896.
-(3) Engler, *Pflanzenreich*, (a) *Myrsinaceae* iv. 236: 1-437. 6 Mai 1902. (b) *Theophraslaceae*, iv. 236a: 1-48. 19 Mai 1903; also issued independently Jun 1903. (c) *Bromeliaceae*, iv. 32: 1-160, 17 Nov 1934, 161-320. 12 Feb 1935; 321-480. 28 Mai 1935, 481-667. 10 Oct 1935.
-(4) *Botanisches Archiv*, editor, vols. 1-39, 1922-1939; *Botanisches Echo*, 1 vol., 1925/27.
-(5) Perkins, J., Fragmenta florae Philippinae, fasc. 2, 1904, *Gramineae*.
-(6) Urban, I., *Symbolae antillanae*, (a) *Theophrastaceae in* 2: 389-433. 1 Oct 1901; (b) *Myrsinaceae*, in 2: 389-433. 1 Oct 1901; (c) *Lauraceae el Bromeliaceae, in* 2: 251-256. 20 Oct 1900.
-(7) Warming, E., *Symb.fl. bras., Lauraceae*, 6: 129-140. Aug 1870 (with C. F. Meisner).
-(8) Founder and editor of *Botanisches Archiv*, Königsberg (vol. 1, 1922 – 39, 1938).
+- (1) Martius, *Fl. bras., Bromeliaceae* 3(3): 173-285, *pl. 51-62.* 1 Nov 1891, 281-430, pl. 63-80. 15 Mai 1892, 425-634, pl. 81-114. 1 Feb 1894. Also issued separately.
+- (2) Candolle, *Monogr. phan., Bromeliaceae*, 9: i-lxxxvii, 1-990. Jan 1896.
+- (3) Engler, *Pflanzenreich*, (a) *Myrsinaceae* iv. 236: 1-437. 6 Mai 1902. (b) *Theophraslaceae*, iv. 236a: 1-48. 19 Mai 1903; also issued independently Jun 1903. (c) *Bromeliaceae*, iv. 32: 1-160, 17 Nov 1934, 161-320. 12 Feb 1935; 321-480. 28 Mai 1935, 481-667. 10 Oct 1935.
+- (4) *Botanisches Archiv*, editor, vols. 1-39, 1922-1939; *Botanisches Echo*, 1 vol., 1925/27.
+- (5) Perkins, J., Fragmenta florae Philippinae, fasc. 2, 1904, *Gramineae*.
+- (6) Urban, I., *Symbolae antillanae*, (a) *Theophrastaceae in* 2: 389-433. 1 Oct 1901; (b) *Myrsinaceae*, in 2: 389-433. 1 Oct 1901; (c) *Lauraceae el Bromeliaceae, in* 2: 251-256. 20 Oct 1900.
+- (7) Warming, E., *Symb.fl. bras., Lauraceae*, 6: 129-140. Aug 1870 (with C. F. Meisner).
+- (8) Founder and editor of *Botanisches Archiv*, Königsberg (vol. 1, 1922 – 39, 1938).
 
 #### Handwriting
 

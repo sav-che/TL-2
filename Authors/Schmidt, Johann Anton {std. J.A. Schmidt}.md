@@ -27,13 +27,13 @@ AG 2(1): 8; Backer p. 518; Barnhart 3: 232 (b. 6 Mai 1823, d. 21 Jan 1905); BFM 
 
 #### Composite works
 
-(1) In C.F.P. von Martius, *Fl. bras.*: *Labiatae*, 8(1): 65-204. *pl. 14-38.* 24 Jul 1858.
+- (1) In C.F.P. von Martius, *Fl. bras.*: *Labiatae*, 8(1): 65-204. *pl. 14-38.* 24 Jul 1858.
 *Scrophulariaceae*, 8(1): 229-340, *pl. 39-57.* 15 Jan 1862.
 *Phytolaccaceae* et *Nyctaginaceae* 14(2): 325-376, *pl. 73-88.* 1 Mai 1872. *Plumbagineae* et *Plantagineae* 6(4): 161-176, *pl. 46-47.* 1 Dec 1878.
-(2) In E. Warming, *Symbolae*:
+- (2) In E. Warming, *Symbolae*:
 *Labiatae* 2: 38-52. 11 Oct 1869.
 *Scrophulariaceae* 2: 52-58. 11 Oct 1869.
-(3) Edited and amended G.W. Bischoff, *Wörterb. beschr. Bot.* ed. 2, 1857, see TL-2/535.
+- (3) Edited and amended G.W. Bischoff, *Wörterb. beschr. Bot.* ed. 2, 1857, see TL-2/535.
 
 #### Eponymy
 

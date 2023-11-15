@@ -30,8 +30,8 @@ AG 5(1): 347, 12(3): 476; Backer p. 619; Barnhart 3: 446 (b. 5 Dec 1882, d. 1 Se
 
 #### Composite works
 
-(1) Editor and in part author of H. Heukels, *Geill. Schoolfl. Nederl.* eds. 11-12, 1934, 1942, see TL-2/2727.
-(2) Co-author with H. Heukels, but in fact virtually sole author of H. Heukels and W.H. Wachter, *Bekn. Schoolfl. Nederl.* eds. 1-5. 1932-1946, see TL-2/2733.
+- (1) Editor and in part author of H. Heukels, *Geill. Schoolfl. Nederl.* eds. 11-12, 1934, 1942, see TL-2/2727.
+- (2) Co-author with H. Heukels, but in fact virtually sole author of H. Heukels and W.H. Wachter, *Bekn. Schoolfl. Nederl.* eds. 1-5. 1932-1946, see TL-2/2733.
 
 ### Publications
 

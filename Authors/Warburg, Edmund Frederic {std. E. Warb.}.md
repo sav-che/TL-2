@@ -29,14 +29,14 @@ BFM 1422-1424; BL 1: 87, 323, 2: 216, 217, 730; Bossert p. 425; Clokie p. 261; D
 
 #### Composite works
 
-(1) With E.R. Clapham and T.G. Tutin, *Flora British Isles*, 1952 (ed. 2, 1962; rev. Kew Bull. 17(3): 471-472. 1964) and *Excursion flora of the British Isles* 1959 (ed. 2, 1968), rev. Kew Bull. 23: 521-522. 1969).
-(2) Editor, *Census Catalogue of British mosses*, 1963.
-(3) Editor, *Watsonia* 1949-1960.
+- (1) With E.R. Clapham and T.G. Tutin, *Flora British Isles*, 1952 (ed. 2, 1962; rev. Kew Bull. 17(3): 471-472. 1964) and *Excursion flora of the British Isles* 1959 (ed. 2, 1968), rev. Kew Bull. 23: 521-522. 1969).
+- (2) Editor, *Census Catalogue of British mosses*, 1963.
+- (3) Editor, *Watsonia* 1949-1960.
 
 #### Note
 
-(1) E.F. Warburg's father, Oscar Emmanuel Warburg (1876-1937) was an amateur floristic botanist, interested in Quercus, Cistus and Sorbus. He published with his son e.g. *Preliminary study of genus Cistus*, J.R. Hort. Soc. 1930: 1-52. See Desmond p. 639.
-(2) Warburg's nickname "Heff" \[also "Hep"\] was derived from the Winnie the Pooh character Heffalump, outstanding because of his appetite; the nickname was acquired at one of the Sunday tea parties given by Gilbert Carter at the Cambridge botanical garden.
+- (1) E.F. Warburg's father, Oscar Emmanuel Warburg (1876-1937) was an amateur floristic botanist, interested in Quercus, Cistus and Sorbus. He published with his son e.g. *Preliminary study of genus Cistus*, J.R. Hort. Soc. 1930: 1-52. See Desmond p. 639.
+- (2) Warburg's nickname "Heff" \[also "Hep"\] was derived from the Winnie the Pooh character Heffalump, outstanding because of his appetite; the nickname was acquired at one of the Sunday tea parties given by Gilbert Carter at the Cambridge botanical garden.
 
 #### Eponymy
 

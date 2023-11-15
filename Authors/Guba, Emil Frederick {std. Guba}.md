@@ -8,7 +8,8 @@ Guba, Emil Frederick (1897-1999), American mycologist and plant pathologist, bor
 
 #### Herbarium and types
 
-Nantucket (Fungi): [[Collection MASS|MASS]], duplicates [[Collection BPI|BPI]], [[Collection ILL|ILL]], [[Collection NMMA|NMMA]]. – *Exsiccatae*: *Plants of Nantucket County, Mass*. (*Pl. Nantucket*) (Cent. 1-3, nos. 1-300, 1937-1942; viz. Cent. 1, nos. 1-100. 1937, Cent. 2: 101-200. 1939 and Cent. 3: 201-300. 1942). Sets: [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection PC|PC]].
+Nantucket (Fungi): [[Collection MASS|MASS]], duplicates [[Collection BPI|BPI]], [[Collection ILL|ILL]], [[Collection NMMA|NMMA]].
+*Exsiccatae*: *Plants of Nantucket County, Mass*. (*Pl. Nantucket*) (Cent. 1-3, nos. 1-300, 1937-1942; viz. Cent. 1, nos. 1-100. 1937, Cent. 2: 101-200. 1939 and Cent. 3: 201-300. 1942). Sets: [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection PC|PC]].
 
 #### Bibliography and biography
 
@@ -24,8 +25,8 @@ Amer. Men Sci. 8: 978; APN p. 246; Barnhart 2: 95; Ewan Pap. p. 84; Hirsch p. 10
 
 #### Outside our period
 
-(1) *Monograph* of *Monochaetia* and *Pestalotia*, Cambridge, Mass. (Harvard Univ. Press) 1961.
-(2) *Wild mushrooms – food and poison*... Waltham, Mass. (Published by the author) 1970; ed. 2,... Kingston, Mass. (Pilgrim Publishers) 1977.
+- (1) *Monograph* of *Monochaetia* and *Pestalotia*, Cambridge, Mass. (Harvard Univ. Press) 1961.
+- (2) *Wild mushrooms – food and poison*... Waltham, Mass. (Published by the author) 1970; ed. 2,... Kingston, Mass. (Pilgrim Publishers) 1977.
 
 ### Publications
 

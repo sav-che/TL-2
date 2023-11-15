@@ -37,9 +37,9 @@ ADB 37: 20-21 (E. Wunschmann); AG 2(1): 118; Ainsworth p. 71, 116; Backer p. 554
 
 #### Composite works
 
-(1) With D.H. Hoppe, *Caricologia germanica* 1826, see TL-2/3038.
-(2) With C.G. Nees von Esenbeck and Christian Friedrich Hornschuch, *Bryologia germanica* 1823-1831, see TL-2/6682 and MD p. 188-189.
-(3) For a detailed list of Sturm's copper engravings in works by others see Flora 32: 152-155. 1849. Major contributions were 20 plates to A.G. Roth, *Cat. bot., 18 pl.* to O. Swartz, *Lich. amer.*, 46 plates to C.G. Nees von Esenbeck, *Syst. Pilz. Schwämm.* and 126 plates to C. v. Sternberg, *Fl. Vorwelt.*
+- (1) With D.H. Hoppe, *Caricologia germanica* 1826, see TL-2/3038.
+- (2) With C.G. Nees von Esenbeck and Christian Friedrich Hornschuch, *Bryologia germanica* 1823-1831, see TL-2/6682 and MD p. 188-189.
+- (3) For a detailed list of Sturm's copper engravings in works by others see Flora 32: 152-155. 1849. Major contributions were 20 plates to A.G. Roth, *Cat. bot., 18 pl.* to O. Swartz, *Lich. amer.*, 46 plates to C.G. Nees von Esenbeck, *Syst. Pilz. Schwämm.* and 126 plates to C. v. Sternberg, *Fl. Vorwelt.*
 
 #### Note
 

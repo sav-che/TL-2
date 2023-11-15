@@ -22,14 +22,13 @@ Barnhart 3: 343 (b. 19 Jul 1808, d. 7 Jan 1865); Biol.-Dokum. 17: 9103; BM 5: 20
 
 #### Composite works
 
-(1) Continued Jacob Sturm's *Deutschlands Flora*, Abth. 1, Heft 93-96 and Abth. 3, Heft 31-36.
-(2) *Ophioglossaceae, Marattiaceae, Osmundaceae, Schizaeaceae, Gleicheniaceae, Hymenophylleae*, in *Flora brasiliensis* 1(2): 137-302, *pl. 9-19* (fasc. 23). 15 Jul 1859.
+- (1) Continued Jacob Sturm's *Deutschlands Flora*, Abth. 1, Heft 93-96 and Abth. 3, Heft 31-36.
+- (2) *Ophioglossaceae, Marattiaceae, Osmundaceae, Schizaeaceae, Gleicheniaceae, Hymenophylleae*, in *Flora brasiliensis* 1(2): 137-302, *pl. 9-19* (fasc. 23). 15 Jul 1859.
 
 #### Note
 
-(1) J.W. Sturm left an unpublished and unfinished *Nomenclator filicum* of which some proof sheets had been printed (not seen by us), see e.g. Bonplandia 3: 37-38. 15 Feb 1855, W.J. Hooker, J. Bot. Kew Gard. Misc. 7: 60-62. 1855 (with reproduction of a sample entry) and Bot. Zeit. 12: 873-876. 1854 and 13: 360. 1855.
-(2) Sturm published a paper on "*Nymphaea semiaperta* Klinggräff, eine für Bayern neue Pflanze, bei Nürnberg aufgefunden" in Abh. nat. Ges., Nürnberg 1: 143-149, \[150\], *pl.
-3.* 1858, reprinted 7 p. Nürnberg s.d. (reprint n.v.).
+- (1) J.W. Sturm left an unpublished and unfinished *Nomenclator filicum* of which some proof sheets had been printed (not seen by us), see e.g. Bonplandia 3: 37-38. 15 Feb 1855, W.J. Hooker, J. Bot. Kew Gard. Misc. 7: 60-62. 1855 (with reproduction of a sample entry) and Bot. Zeit. 12: 873-876. 1854 and 13: 360. 1855.
+- (2) Sturm published a paper on "*Nymphaea semiaperta* Klinggräff, eine für Bayern neue Pflanze, bei Nürnberg aufgefunden" in Abh. nat. Ges., Nürnberg 1: 143-149, \[150\], *pl. 3.* 1858, reprinted 7 p. Nürnberg s.d. (reprint n.v.).
 
 ### Publications
 

@@ -36,10 +36,10 @@ Barnhart 3: 482; BFM 2308; BL 2: 189; Bossert p. 433; GR p. 462; Hirsch p. 321; 
 
 #### Composite works
 
-(1) Editor, *Fortschritte der Botanik*, vols. 1-11, 1931 (1932)-1944.
-(2) Editor, R. Wettstein, *Handbuch der systematischen Botanik* ed. 4. 1935; see under R. Wettstein (q.v. also for a Spanish translation).
-(3) Editor, C. Correns, *Nicht mendelnde Vererbung*, Handb. Vererb.-Wiss. 2H, 1937, ii, 139 p.
-(4) Editor, *Zeitschrift für induktive Abstammungs- und Vererbungslehre*, associate ed. 1922-1931, member editorial board 1932-1943.
+- (1) Editor, *Fortschritte der Botanik*, vols. 1-11, 1931 (1932)-1944.
+- (2) Editor, R. Wettstein, *Handbuch der systematischen Botanik* ed. 4. 1935; see under R. Wettstein (q.v. also for a Spanish translation).
+- (3) Editor, C. Correns, *Nicht mendelnde Vererbung*, Handb. Vererb.-Wiss. 2H, 1937, ii, 139 p.
+- (4) Editor, *Zeitschrift für induktive Abstammungs- und Vererbungslehre*, associate ed. 1922-1931, member editorial board 1932-1943.
 NOTE: We have no information on Friedrich Wetstein from Maur, Zürich, who defended a dissertation under H. Schinz and A. Ernst at the University of Zürich in 1905 (*Entwicklung der Beiwurzeln einiger dikotylene Sumpf- und Wasserpflanzen*).
 
 ### Publications

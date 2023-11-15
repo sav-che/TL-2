@@ -27,9 +27,9 @@ AG 6(1): 619 (b. 2 Jan 1829, d. 26 Apr 1889); Barnhart 3: 112; BM 4: 1618; CSP 1
 
 #### Composite works
 
-(1) *in Flora brasiliensis*:
+- (1) *in Flora brasiliensis*:
 *Gentianaceae*, 6(1): 197-246, *pl. 55-66.* 1 Dec 1865. *Loganiaceae*, 6(1): 249-290, *pl. 67-82.* 1 Aug 1868. *Cuscutaceae*, 7: 371-390, *pl. 125-128.* 1 Mar 1871. *Oxalidaceae, Geraniaceae, Vivianiaceae*, 12(2): 473-528, *pl. 102-118.* 1 Dec 1877.
-(2) *in* E. Warming, *Symb. fl. Bras. centr*.:
+- (2) *in* E. Warming, *Symb. fl. Bras. centr*.:
 *Gentianaceae*, 2: 33-38. 11 Oct 1869.
 *Loganiaceae*, 2: 28-33\*. 11 Oct 1869.
 *Cuscutaceae*, 9: 316-318. 11 Apr 1871.

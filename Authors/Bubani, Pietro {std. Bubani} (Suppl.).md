@@ -28,9 +28,9 @@ AG 2(2): 269; Barnhart 1: 272 (b. 1 Oct 1806, Bagnacavallo, Romagna, d. 12 Aug 1
 
 #### Notes
 
-(1) TL-2/860, *Flora virgiliana*, facsimile ed., Koenigstein 1974.
-(2) TL-2/861, *Flora Pyrenaea*. – Further reference: St.-Lager, J.B., Ann. Soc. bot. Lyon 23(not.): 11-15. 1898.
-(3): *Dunalia*, edita anno 1878, 100 p., Oct. (Systematic and floristic remarks on the Pyrenean flora, named after Michel Félix Dunal (1789-1856), French botanist at Montpellier, see TL-2/1: 700-701. – Rev.: N.L., Bot. Zeit. 37: 176. 1879.
+- (1) TL-2/860, *Flora virgiliana*, facsimile ed., Koenigstein 1974.
+- (2) TL-2/861, *Flora Pyrenaea*. – Further reference: St.-Lager, J.B., Ann. Soc. bot. Lyon 23(not.): 11-15. 1898.
+- (3): *Dunalia*, edita anno 1878, 100 p., Oct. (Systematic and floristic remarks on the Pyrenean flora, named after Michel Félix Dunal (1789-1856), French botanist at Montpellier, see TL-2/1: 700-701. – Rev.: N.L., Bot. Zeit. 37: 176. 1879.
 
 ### Publications
 

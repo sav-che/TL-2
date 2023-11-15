@@ -26,8 +26,8 @@ Backer p. 582 (detailed biogr. sketch); Barnhart 3: 373 (b. 25 Jul 1863); BFM 14
 
 #### Composite works
 
-(1) With E. Heimans, *Geillustreerde flora van Nederland* 1899 (see TL-2/2: 137-138).
-(2) Founder (1895) and longtime editor of *De Levende Natuur*.
+- (1) With E. Heimans, *Geillustreerde flora van Nederland* 1899 (see TL-2/2: 137-138).
+- (2) Founder (1895) and longtime editor of *De Levende Natuur*.
 
 #### Festschrift
 

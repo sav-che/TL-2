@@ -29,9 +29,9 @@ Barnhart 1: 401 (b. 2 Feb 1852, d. 3 Nov 1920, Roma, son-in-law of De Notaris); 
 
 #### Composite works
 
-(1) G. Cuboni and V. Mancini, *Syn. mycol. Venet.* 1886, see TL-2/5335. – See also Hedwigia 26(2): 64. Mar-Apr 1887.
-(2) With V. Mancini, *in* P.A. Saccardo, *Syll. fungorum* 5-6, 1887-1888, q.v. (see also BM 1: 404).
-(3) Cuboni, G., *Scritti scelti*. A cura d. G.B. Traverso, xxx, 240 p., *plates*. 1924.
+- (1) G. Cuboni and V. Mancini, *Syn. mycol. Venet.* 1886, see TL-2/5335. – See also Hedwigia 26(2): 64. Mar-Apr 1887.
+- (2) With V. Mancini, *in* P.A. Saccardo, *Syll. fungorum* 5-6, 1887-1888, q.v. (see also BM 1: 404).
+- (3) Cuboni, G., *Scritti scelti*. A cura d. G.B. Traverso, xxx, 240 p., *plates*. 1924.
 
 ### Publications
 

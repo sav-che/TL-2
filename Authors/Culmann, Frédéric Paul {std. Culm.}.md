@@ -29,7 +29,7 @@ Barnhart 1: 402 (b. 23 Feb 1860, Zürich, d. 27 Nov 1936, Paris); IH 2: 146; Kew
 
 #### Composite works
 
-(1) Jules Amann with P.F. Culmann *in* Ch. Meylan, *Fl. mouss. Suisse*, see TL-2/5940. – Ref.: Max Fleischer, Hedwigia 61(1)(Beibl.): (34)-(35). 30 Aug 1919 (rev.).
+- (1) Jules Amann with P.F. Culmann *in* Ch. Meylan, *Fl. mouss. Suisse*, see TL-2/5940. – Ref.: Max Fleischer, Hedwigia 61(1)(Beibl.): (34)-(35). 30 Aug 1919 (rev.).
 
 ### Publications
 

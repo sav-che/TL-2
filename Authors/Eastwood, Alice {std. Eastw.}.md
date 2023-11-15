@@ -10,7 +10,8 @@ Eastwood, Alice (1859-1953), American botanist mainly working on the flora of Ca
 
 #### Herbarium and types
 
-[[Collection CAS|CAS]], older collections [[Collection COLO|COLO]]. – Exsiccatae: *Plants of California, Flora of the country adjacent to Santa Barbara.*
+[[Collection CAS|CAS]], older collections [[Collection COLO|COLO]].
+*Exsiccatae*: *Plants of California, Flora of the country adjacent to Santa Barbara.*
 *Ref*.: IH I.(ed. 6): 358, 2: 175.
 
 #### Bibliography and biography

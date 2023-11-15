@@ -29,8 +29,8 @@ Barnhart 3: 175 (b. 13 Aug 1871); Biol.-Dokum. 15: 7636; Bossert p. 337; DTS 6(4
 
 #### Composite works
 
-(1) *Thymus, in* Prodr. fl. penins. Balcan., Rep. Sp. nov. Beih. 30(2): 337-382. 15 Oct 1930 (TL-2/2504); also reprinted with special t.p. and new title: *Die Thymus-Arten der Balkan-Halbinsel* (species balcaniae generis Thymi), Dahlem bei Berlin (Fabeckstr. 49 \[address of F. Fedde\]) 1930, p. \[i\], 317-382. *Copy*: H.
-(2) *Thymus*, in Grossheim *Fl. kawkasa* 3: 343-347. 1932.
+- (1) *Thymus, in* Prodr. fl. penins. Balcan., Rep. Sp. nov. Beih. 30(2): 337-382. 15 Oct 1930 (TL-2/2504); also reprinted with special t.p. and new title: *Die Thymus-Arten der Balkan-Halbinsel* (species balcaniae generis Thymi), Dahlem bei Berlin (Fabeckstr. 49 \[address of F. Fedde\]) 1930, p. \[i\], 317-382. *Copy*: H.
+- (2) *Thymus*, in Grossheim *Fl. kawkasa* 3: 343-347. 1932.
 
 ### Publications
 

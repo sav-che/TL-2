@@ -8,7 +8,8 @@ Roberge, Michel Robert (x-1864), French (Normandy) mycologist; teacher at severa
 
 #### Herbarium and types
 
-[[Collection CN|CN]] (now at [[Collection PC|PC]]?); other material at [[Collection AHFH|AHFH]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]]-NYL (lich.), [[Collection NTM|NTM]], [[Collection NYS|NYS]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection UPS|UPS]]. *Exsiccatae*: *Algues de la Normandie*, fasc. 1-8, nos. 1-200, 1826-1838, with F.J. Chauvin, q.v. See also below for a prospectus.
+[[Collection CN|CN]] (now at [[Collection PC|PC]]?); other material at [[Collection AHFH|AHFH]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]]-NYL (lich.), [[Collection NTM|NTM]], [[Collection NYS|NYS]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection UPS|UPS]].
+*Exsiccatae*: *Algues de la Normandie*, fasc. 1-8, nos. 1-200, 1826-1838, with F.J. Chauvin, q.v. See also below for a prospectus.
 
 #### Bibliography and biography
 

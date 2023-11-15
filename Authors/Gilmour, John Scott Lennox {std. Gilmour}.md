@@ -32,8 +32,8 @@ APN p. 228; Barnhart 2: 51; BL 2: 296, 659; Bossert p. 145; Desmond ed. 2: 280; 
 
 #### Composite works
 
-(1) Co-author with W.T. Stearn, *Schedae ad Herbarium florae cantbrigiensis*... 1932 (TL-2/5, nr. 12.836).
-(2) Co-editor *International Code of Nomenclature for cultivated plants*... ed. 1958 (see TL-2/5, nr. 12.841).
+- (1) Co-author with W.T. Stearn, *Schedae ad Herbarium florae cantbrigiensis*... 1932 (TL-2/5, nr. 12.836).
+- (2) Co-editor *International Code of Nomenclature for cultivated plants*... ed. 1958 (see TL-2/5, nr. 12.841).
 
 ### Publications
 

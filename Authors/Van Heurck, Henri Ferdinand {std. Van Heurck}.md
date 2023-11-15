@@ -8,8 +8,9 @@ Van Heurck, Henri Ferdinand (1838-1909), Belgian botanist, microscopist and indu
 
 #### Herbarium and types
 
-[[Collection AWH|AWH]]; diatoms types mainly at [[Collection AWH|AWH]], but also at [[Collection B|B]] (mainly lost) and in the *Types du Synopsis*, see below. Van Heurck herbarium material (distributed by him) in [[Collection BR|BR]], [[Collection MANCH|MANCH]], [[Collection OS|OS]]. The core of the Van Heurck herbarium is the F.W. Sieber-Carl Reichenbach herbarium, acquired by him in 1867; for details see e.g. Martinis (1870), Frison (1963, p. 38-41) and Verleyen (1942). – *Exsiccatae*: (*1*) *Types du Synopsis des Diatomées de Belgique*, nos. 1-550, 1882-1885 (text determ., notes diagn. by A. Grunov). Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection FH|FH]], [[Collection PH|PH]], [[Collection W|W]].
-(2) *Herbier des plantes rares ou critiques de Belgique* (with Arthur Martinis), 1866-1870, fasc. 1-8 (50 nos./fasc). Sets at [[Collection BR|BR]], [[Collection LG|LG]], [[Collection OXF|OXF]]. – See notice Bot. Zeit. 24: 324. 1866. – *Letters* at [[Collection G|G]].
+[[Collection AWH|AWH]]; diatoms types mainly at [[Collection AWH|AWH]], but also at [[Collection B|B]] (mainly lost) and in the *Types du Synopsis*, see below. Van Heurck herbarium material (distributed by him) in [[Collection BR|BR]], [[Collection MANCH|MANCH]], [[Collection OS|OS]]. The core of the Van Heurck herbarium is the F.W. Sieber-Carl Reichenbach herbarium, acquired by him in 1867; for details see e.g. Martinis (1870), Frison (1963, p. 38-41) and Verleyen (1942).
+*Exsiccatae*: (*1*) *Types du Synopsis des Diatomées de Belgique*, nos. 1-550, 1882-1885 (text determ., notes diagn. by A. Grunov). Sets at [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection FH|FH]], [[Collection PH|PH]], [[Collection W|W]].
+- (2) *Herbier des plantes rares ou critiques de Belgique* (with Arthur Martinis), 1866-1870, fasc. 1-8 (50 nos./fasc). Sets at [[Collection BR|BR]], [[Collection LG|LG]], [[Collection OXF|OXF]]. – See notice Bot. Zeit. 24: 324. 1866. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

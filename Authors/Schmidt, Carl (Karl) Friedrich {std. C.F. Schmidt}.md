@@ -23,8 +23,8 @@ Barnhart 3: 232; BM 1: 139, 4: 1845; Herder p. 365; NI 2: 267 (index); PR 646, 4
 
 #### Note
 
-(1) We have no information on Carl Schmidt "aus Rauden in Ober-Schlesien" who took a dr. phil. degree at Freiburg i.B. in 1888 on a thesis: "*Vergleichende Untersuchungen über die Behaarung der Labiaten und Boragineen*, Rybnik (Druck von Aug. Schoen's Nachf. M. Bartels) 1888. Oct, p. \[1\]-68, *1 pl*. (uncol. lith.), \[69, Feb 1888\], \[71\]. *Copies*: M, NSUB, USDA.
-(2) The same holds for Carl Schmidt aus Brandenburg a/H., author of a dissertation defended 6 Jul 1891 at Berlin (Dr. phil.), *Ueber den Blattbau einiger xenophilen Liliifloren*, p. \[1\]-34 \[35, 36\], *pl. 1-2. Copy*: G. – Preprinted (pp.) from Bot. Centralbl. 47: 1-6. 2 Jul 1891, 33-42. 25 Jul 1891, 97-107. 5 Aug 1891, 164-170. 12 Aug 1891.
+- (1) We have no information on Carl Schmidt "aus Rauden in Ober-Schlesien" who took a dr. phil. degree at Freiburg i.B. in 1888 on a thesis: "*Vergleichende Untersuchungen über die Behaarung der Labiaten und Boragineen*, Rybnik (Druck von Aug. Schoen's Nachf. M. Bartels) 1888. Oct, p. \[1\]-68, *1 pl*. (uncol. lith.), \[69, Feb 1888\], \[71\]. *Copies*: M, NSUB, USDA.
+- (2) The same holds for Carl Schmidt aus Brandenburg a/H., author of a dissertation defended 6 Jul 1891 at Berlin (Dr. phil.), *Ueber den Blattbau einiger xenophilen Liliifloren*, p. \[1\]-34 \[35, 36\], *pl. 1-2. Copy*: G. – Preprinted (pp.) from Bot. Centralbl. 47: 1-6. 2 Jul 1891, 33-42. 25 Jul 1891, 97-107. 5 Aug 1891, 164-170. 12 Aug 1891.
 
 ### Publications
 

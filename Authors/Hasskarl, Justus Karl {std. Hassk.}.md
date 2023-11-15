@@ -26,7 +26,7 @@ Backer p. 255-256; Barnhart 2: 137; BM 2: 798; BL 1: 112, 300; Bossert p. 167; C
 
 #### Composite works
 
-(1) In Miquel, *Plantae junghuhnianae*, p. 123-155, Polygalaceae – Commelinaceae; see Hasskarl's "Verslag" in Nat. Tijdschr. Ned. Ind. 8: 461-551. 1855.
+- (1) In Miquel, *Plantae junghuhnianae*, p. 123-155, Polygalaceae – Commelinaceae; see Hasskarl's "Verslag" in Nat. Tijdschr. Ned. Ind. 8: 461-551. 1855.
 
 #### Handwriting
 

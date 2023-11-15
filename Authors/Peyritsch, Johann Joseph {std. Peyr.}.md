@@ -33,10 +33,10 @@ AG 6(1): 861; Ainsworth p. 237, 346; Barnhart 3: 77; Blunt p. 248; BM 4: 1560; B
 
 #### Composite works
 
-(1) Editor, with Theodor Kotschy, q.v., of *Plantae tinneanae*, 1867, see TL-2/3894.
-(2) Co-author, with H. Wawra, q.v., of *Sertum benguelense*, 1860, (see TL-1/1389).
-(3) *Erythroxylaceae, in* Warming, E., *Symb. bras.* 27: 156-157. 10 Mai 1883 (date Fox Maule).
-(4) Martius, *Fl. bras.*:
+- (1) Editor, with Theodor Kotschy, q.v., of *Plantae tinneanae*, 1867, see TL-2/3894.
+- (2) Co-author, with H. Wawra, q.v., of *Sertum benguelense*, 1860, (see TL-1/1389).
+- (3) *Erythroxylaceae, in* Warming, E., *Symb. bras.* 27: 156-157. 10 Mai 1883 (date Fox Maule).
+- (4) Martius, *Fl. bras.*:
 (a) *Hippocrateaceae*, 11(1): 125-164, *pl. 42-49.* 1 Feb 1878 (fasc. 75).
 (b) *Erythroxylaceae*, 12(1): 125-180, *pl. 23-32.* 1 Dec 1878 (fasc. 81).
 

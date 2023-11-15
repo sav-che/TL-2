@@ -23,8 +23,8 @@ with Albert Spear Hitchcock (1865-1935), *Third record on Kansas weeds*, Exp. St
 
 #### Note
 
-(1): Not to be confused with Jesse Baker Norton (x-1938), who studied also at Kansas State University, but who was later employed (ca. 1901-02) by USDA and by the Pedigreed Seed Company in Hartsville, S.C. (see Barkley (1965)).
-(2). The greater part of the treatment of J. B. S. Norton was kindly provided by J. L. Reveal.
+- (1): Not to be confused with Jesse Baker Norton (x-1938), who studied also at Kansas State University, but who was later employed (ca. 1901-02) by USDA and by the Pedigreed Seed Company in Hartsville, S.C. (see Barkley (1965)).
+- (2). The greater part of the treatment of J. B. S. Norton was kindly provided by J. L. Reveal.
 
 ### Publications
 

@@ -39,16 +39,16 @@ Ainsworth p. 61; Backer p. 568; Barnhart 3: 348 (b. 28 Dec 1832, d. 12 Jul 1898)
 
 #### Composite works
 
-(1) Co-editor *Nederlands kruidkundig archief* 4(3)-12(4), 1857-1898.
-(2) Published part 3 of F.A.W. Miquel, *Ill. fl. Archip. Ind.*, 1871, TL-2/6125.
-(3) Contributed to A.L. van Hasselt, *Bijdr. Fl. Midd. Sumatra* 1884, TL-2/2460, see below *Rafflesia Hasseltii* (1880).
-(4) Editor, *Catalogue des Broméliacées* cultivées au Jardin botanique de l'Université à Leide. (2e édition, revue et augmentée). Ier janvier 1894. Leide, Imprimerie de A.W. Sijthoff, p. \[i-iv\], \[1\]-68. *Copy*: M.
+- (1) Co-editor *Nederlands kruidkundig archief* 4(3)-12(4), 1857-1898.
+- (2) Published part 3 of F.A.W. Miquel, *Ill. fl. Archip. Ind.*, 1871, TL-2/6125.
+- (3) Contributed to A.L. van Hasselt, *Bijdr. Fl. Midd. Sumatra* 1884, TL-2/2460, see below *Rafflesia Hasseltii* (1880).
+- (4) Editor, *Catalogue des Broméliacées* cultivées au Jardin botanique de l'Université à Leide. (2e édition, revue et augmentée). Ier janvier 1894. Leide, Imprimerie de A.W. Sijthoff, p. \[i-iv\], \[1\]-68. *Copy*: M.
 
 #### Note
 
-(1) Among Suringar's students at Leiden were Martinus Willem Beijerinck (1851-1931), Jacob Gijsbert Boerlage (1849-1950), Jacob van Breda de Haan (1866-1917), William Burck (1848-1910), Melchior Treub (1851-1910), Hugo de Vries (1848-1935).
-(2) Suringar married Sara Valckenier in 1862; their son Jan added his mother's name to that of his father's: Jan Valckenier Suringar (1864-1932), also a botanist, treated by us under Valckenier.
-(3) No bibliography of Suringar's numerous publications is known to us; for this reason our treatment of Suringar is somewhat more extensive than usual in TL-2. CSP lists the majority of S.'s publications in journals.
+- (1) Among Suringar's students at Leiden were Martinus Willem Beijerinck (1851-1931), Jacob Gijsbert Boerlage (1849-1950), Jacob van Breda de Haan (1866-1917), William Burck (1848-1910), Melchior Treub (1851-1910), Hugo de Vries (1848-1935).
+- (2) Suringar married Sara Valckenier in 1862; their son Jan added his mother's name to that of his father's: Jan Valckenier Suringar (1864-1932), also a botanist, treated by us under Valckenier.
+- (3) No bibliography of Suringar's numerous publications is known to us; for this reason our treatment of Suringar is somewhat more extensive than usual in TL-2. CSP lists the majority of S.'s publications in journals.
 
 #### Eponymy
 

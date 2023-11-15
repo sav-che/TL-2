@@ -8,7 +8,8 @@ Perini, Carlo (1817-1883), Italian physician and botanist; Dr. med. Padua; pract
 
 #### Herbarium and types
 
-sets of Veneto-trentine plants with those of his brother Agostino in [[Collection FI|FI]]; other material at [[Collection BASSA|BASSA]], [[Collection BR|BR]], [[Collection PAD|PAD]] and [[Collection PI|PI]]. *Exsiccatae*: *Flora tridentina exsiccata* \[1854\], 300 specimens, n.v., for details see DTS 1: 222.
+sets of Veneto-trentine plants with those of his brother Agostino in [[Collection FI|FI]]; other material at [[Collection BASSA|BASSA]], [[Collection BR|BR]], [[Collection PAD|PAD]] and [[Collection PI|PI]].
+*Exsiccatae*: *Flora tridentina exsiccata* \[1854\], 300 specimens, n.v., for details see DTS 1: 222.
 
 #### Bibliography and biography
 

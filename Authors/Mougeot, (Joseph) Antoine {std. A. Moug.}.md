@@ -8,7 +8,8 @@ Mougeot, (Joseph) Antoine (1815-1889), French physician and botanist at Bruyère
 
 #### Herbarium and types
 
-[[Collection MPU|MPU]]. – Exsiccatae: with C. A. Manoury, C. Roumeguère and Lucien Dupray, *Algues de France*, cent. 1-13, 15, nos. 1-1300, 1401-1500, 1883-1893. Titles: *Algues de France*(1-8), *Algues des eaux douces de France*(9-12), *Algues des eaux douces*(13), *Algues françaises*(15). See Sayre (1969) and IH. (set at [[Collection B|B]] extant). See also under J.B. Mougeot. 193 Letters by A. Mougeot to W. Nylander are at [[Collection H|H]]-UB.
+[[Collection MPU|MPU]].
+*Exsiccatae*: with C. A. Manoury, C. Roumeguère and Lucien Dupray, *Algues de France*, cent. 1-13, 15, nos. 1-1300, 1401-1500, 1883-1893. Titles: *Algues de France*(1-8), *Algues des eaux douces de France*(9-12), *Algues des eaux douces*(13), *Algues françaises*(15). See Sayre (1969) and IH. (set at [[Collection B|B]] extant). See also under J.B. Mougeot. 193 Letters by A. Mougeot to W. Nylander are at [[Collection H|H]]-UB.
 
 #### Bibliography and biography
 

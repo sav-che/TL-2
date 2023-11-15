@@ -60,13 +60,13 @@ AG 5(2): 169, 12(2): 654; Ainsworth p. 21, 154, 314; Andrews p. 341-342; Backer 
 
 #### Composite works
 
-(1) *De palmis fossilibus, in* C.F.P. v. Martius, *Hist. nat. palm*. 1(8). 19 Sep 1845 (TL-2/5520).
-(2) With C.G.T. Kotschy, *Ins. Cypern* 1865 (TL-2/3891), Unger senior author.
-(3) Collaborator, G.G. Münster, *Beitr. Petref*.-*Kunde* 1839-1847 (TL-2/6535).
-(4) Co-author, C.G.F. von Hochstetter, *Paläontol. Neu-Seeland* 1865 (TL-2/2838), chapter i, *Fossile Pflanzenreste*. – Reise... Novara, Geol. 1(2).- Reprinted s.l.n.d. p. \[1\]-13, *pl-1-5* \[Wien 1865\].
-(5) Co-author, S.L. Endlicher, *Grundz. Bot*. 3-6 Mai 1843 (Hinrichs), see TL-2/1686 (rev. S-H., Flora 26: 689-704. 7 Nov 1843; H. Mohl, Bot. Zeit. 1: 792-796, 811-818. 17-24 Nov 1843).
-(6) *Flore tertiaire moyenne, in* P. de Tchihatcheff, *Asie mineure*, 4, Paléontologie, 1866.
-(7) Contributed to G.F. v. Schreiner, *Grätz, ein naturhistorisch-statistisch-typographisches Gemälde*, Grätz 1843. Oct.
+- (1) *De palmis fossilibus, in* C.F.P. v. Martius, *Hist. nat. palm*. 1(8). 19 Sep 1845 (TL-2/5520).
+- (2) With C.G.T. Kotschy, *Ins. Cypern* 1865 (TL-2/3891), Unger senior author.
+- (3) Collaborator, G.G. Münster, *Beitr. Petref*.-*Kunde* 1839-1847 (TL-2/6535).
+- (4) Co-author, C.G.F. von Hochstetter, *Paläontol. Neu-Seeland* 1865 (TL-2/2838), chapter i, *Fossile Pflanzenreste*. – Reise... Novara, Geol. 1(2).- Reprinted s.l.n.d. p. \[1\]-13, *pl-1-5* \[Wien 1865\].
+- (5) Co-author, S.L. Endlicher, *Grundz. Bot*. 3-6 Mai 1843 (Hinrichs), see TL-2/1686 (rev. S-H., Flora 26: 689-704. 7 Nov 1843; H. Mohl, Bot. Zeit. 1: 792-796, 811-818. 17-24 Nov 1843).
+- (6) *Flore tertiaire moyenne, in* P. de Tchihatcheff, *Asie mineure*, 4, Paléontologie, 1866.
+- (7) Contributed to G.F. v. Schreiner, *Grätz, ein naturhistorisch-statistisch-typographisches Gemälde*, Grätz 1843. Oct.
 
 #### Eponymy
 

@@ -10,7 +10,9 @@ Garovaglio, Santo (1805-1882), Italian cryptogamic botanist, professor of botany
 
 #### Herbarium and types
 
-[[Collection PAV|PAV]], dupl. e.g. [[Collection RO|RO]]. – Exsiccatae: 1. *Lichenes exsiccati Longobardiae in ordinem systematicum dispositi* (dec. i-viii, nos. 1-80, Pavia 1864-1867). No set known, for references see Sayre.
+[[Collection PAV|PAV]], dupl. e.g. [[Collection RO|RO]].
+*Exsiccatae*: 
+1. *Lichenes exsiccati Longobardiae in ordinem systematicum dispositi* (dec. i-viii, nos. 1-80, Pavia 1864-1867). No set known, for references see Sayre.
 2. *Lichenes provinciae Comensis* (*Novocomensis*) *et Vallis-Tellinae*, (ed. 1, dec. i-xxiv, nos. 1-240, Milano 1836-1844; ed. 2, dec. i-xlv, nos. 1-450, Milano 1846-1849), also known as *Lichenotheca italica*, sets reported to be at [[Collection BM|BM]], [[Collection CN|CN]], [[Collection FI|FI]], [[Collection L|L]], [[Collection PAV|PAV]] and other herbaria ([[Collection B|B]]?) but data lacking.
 3. *Muschi* \[*disseccati*\] *dell' Austria inferiore* (dec. i-vi, Milano 1836), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection PAV|PAV]]. (Flora 26: 617. 620).
 *Ref*.: IH 2: 217.

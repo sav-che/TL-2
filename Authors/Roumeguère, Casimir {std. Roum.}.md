@@ -10,11 +10,11 @@ Roumeguère, Casimir (1828-1892), French cryptogamist and conchologist; founder 
 
 [[Collection BR|BR]], [[Collection PC|PC]]; other material at [[Collection AUT|AUT]], [[Collection CLF|CLF]], [[Collection G|G]], [[Collection H|H]], [[Collection IASI|IASI]], [[Collection MPU|MPU]], [[Collection MI|MI]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection W|W]].
 *Exsiccatae*: (1) for *Algues de France*, see under A. Mougeot. For century xiv see Rev. mycol. 1893: 81. For *Reliquiae brébisonianae* see Sayre, G., Mem. New York Bot. Gard. 19(1): 98. 1969.
-(2) for *Stirpes cryptogamae vogeso-rhenanae* (fasc. 16 by Roumeguère) see under J.B. Mougeot.
-(3) *Bryologie de l'Aude*, also as *Mousses du département de l'Aude*, 11 fasc., 1870, nos. 1-276. See Sayre, G., Mem. New York Bot. Gard. 19(2): 240-248. 1971. Set at [[Collection PC|PC]].
-(4) *Fungi selecti gallici exsiccati*, cent. 1-74, 1879-1898. For details, including a list of published references see J. Stevenson, Beih. Nova Hedw. 36: 347-367. 1971 (dec. 1-41 as *Fungi gallici exsiccati*). *Sets* at: [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection CLF|CLF]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection I|I]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PI|PI]], [[Collection RUTPP|RUTPP]], [[Collection U|U]], [[Collection UMO|UMO]], [[Collection VC|VC]].
+- (2) for *Stirpes cryptogamae vogeso-rhenanae* (fasc. 16 by Roumeguère) see under J.B. Mougeot.
+- (3) *Bryologie de l'Aude*, also as *Mousses du département de l'Aude*, 11 fasc., 1870, nos. 1-276. See Sayre, G., Mem. New York Bot. Gard. 19(2): 240-248. 1971. Set at [[Collection PC|PC]].
+- (4) *Fungi selecti gallici exsiccati*, cent. 1-74, 1879-1898. For details, including a list of published references see J. Stevenson, Beih. Nova Hedw. 36: 347-367. 1971 (dec. 1-41 as *Fungi gallici exsiccati*). *Sets* at: [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection CLF|CLF]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection I|I]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PI|PI]], [[Collection RUTPP|RUTPP]], [[Collection U|U]], [[Collection UMO|UMO]], [[Collection VC|VC]].
 A selection of 400 specimens from the *Fungi gallici exsiccati* was published 1884-1887, as *Champignons qui envahissent les végetaux cultivés* by the "Bureaux de la Revue mycologique, ... Toulouse". Set at [[Collection BR|BR]]. – A further selection was published 1895 as *Genera fungorum exsiccata* (200 specimens).
-(5) *Lichenes gallici exsiccati*, cent. 1-6, 1880-1884:
+- (5) *Lichenes gallici exsiccati*, cent. 1-6, 1880-1884:
 1: 1879, notes Rev. mycol. 2: 31. 1880; Bot. Centralbl. 1/2: 157-158. 1880.
 2: 1880, Rev. mycol. 2: 159, 197. 1880; Bot. Centralbl. 3/4: 1407-1408. 1880.
 3: 1881, Rev. mycol. 3: 32-33. 1881; Bot. Centralbl. 7: 249-250. 1881.
@@ -48,8 +48,8 @@ Ainsworth p. 277, 319, 320; Barnhart 3: 184 (b. 15 Aug 1828, d. 29 Feb 1892); BM
 
 #### Composite works
 
-(1) founder and editor of the first mycological journal *Revue mycologique, 1*(1879)-13(1891).
-(2) see A. Mougeot, *Algues* 1887, TL-2/6372.
+- (1) founder and editor of the first mycological journal *Revue mycologique, 1*(1879)-13(1891).
+- (2) see A. Mougeot, *Algues* 1887, TL-2/6372.
 
 #### Handwriting
 

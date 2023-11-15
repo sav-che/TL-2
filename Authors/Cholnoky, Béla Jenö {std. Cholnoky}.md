@@ -25,12 +25,12 @@ Barnhart 1: 343; Roon p. 26.
 
 #### Note
 
-(1): Editor *Diatomaceae* 1, Beitr. Nova Hedwigia 21, 270 p. *17 pl*. 1966, 2 id. 1970, 1110 p.
+- (1): Editor *Diatomaceae* 1, Beitr. Nova Hedwigia 21, 270 p. *17 pl*. 1966, 2 id. 1970, 1110 p.
 
 #### Outside our period
 
-(1) *Die Ökologie der Diatomeen in Binnengewässern*, Lehre, J. Cramer, 1968, 699 p., *69 pl*., 59 h.t. pl. – See Taxon 18: 332. 3 Jun 1969. (2) *Beiträge zur Kenntnis der Diatomeenflora von Natal*, 1960, 128 p., *9 pl*., ex Nova Hedwigia II.
-(3) Mss. left by the author to be published by Cramer 1974: *Die Diatomeenflora Afrikas*, 1974, actually published?
+- (1) *Die Ökologie der Diatomeen in Binnengewässern*, Lehre, J. Cramer, 1968, 699 p., *69 pl*., 59 h.t. pl. – See Taxon 18: 332. 3 Jun 1969. (2) *Beiträge zur Kenntnis der Diatomeenflora von Natal*, 1960, 128 p., *9 pl*., ex Nova Hedwigia II.
+- (3) Mss. left by the author to be published by Cramer 1974: *Die Diatomeenflora Afrikas*, 1974, actually published?
 
 ### Publications
 

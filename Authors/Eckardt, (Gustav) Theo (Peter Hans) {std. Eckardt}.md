@@ -31,12 +31,12 @@ BFM 281; Bossert p. 112; GR p. 73; Kew 2: 165-166; Rehder 3: 680; Roon p. 36.
 
 #### Composite works
 
-(1) Eckardt, T., *Zweijahresbericht* über den Botanischen Garten und das Botanische Museum *Berlin-Dahlem* für die Jahre 1967 und 1968, Willdenowia 6(2): 371-392. 22 Oct 1971.
-(2) Id.... 1969 und 1970, Willdenowia 7(3): 565-591. 8 Nov 1972.
-(3) Id.... 1971 und 1972, Willdenowia 7(3): 667-695. 31 Dec 1975.
-(4) *Dreijahresbericht*... id.... 1973, 1974 und 1975 Willdenowia 8(1): 159-199. 25 Aug 1977.
-(5) Eckardt, T., Kurze *Geschichte* der Gebäude des "*Botanischen Museums*" 1971. 3p.
-(6) Eckardt, T. and O. Rohweder, eds. of Bot. Jahrb. 86 being "*Festband Friedrich Markgraf*, Zur Vollendung des 70. Lebensjahres am 1. Februar 1967".
+- (1) Eckardt, T., *Zweijahresbericht* über den Botanischen Garten und das Botanische Museum *Berlin-Dahlem* für die Jahre 1967 und 1968, Willdenowia 6(2): 371-392. 22 Oct 1971.
+- (2) Id.... 1969 und 1970, Willdenowia 7(3): 565-591. 8 Nov 1972.
+- (3) Id.... 1971 und 1972, Willdenowia 7(3): 667-695. 31 Dec 1975.
+- (4) *Dreijahresbericht*... id.... 1973, 1974 und 1975 Willdenowia 8(1): 159-199. 25 Aug 1977.
+- (5) Eckardt, T., Kurze *Geschichte* der Gebäude des "*Botanischen Museums*" 1971. 3p.
+- (6) Eckardt, T. and O. Rohweder, eds. of Bot. Jahrb. 86 being "*Festband Friedrich Markgraf*, Zur Vollendung des 70. Lebensjahres am 1. Februar 1967".
 *Note*: Bot. Jahrb. 96(1-4).1975 edited by F. Markgraf is named "Festband Theo Eckardt. Zur Vollendung des 65. Lebensjahres am 16 Oktober 1975".
 
 ### Publications

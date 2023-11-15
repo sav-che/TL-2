@@ -26,8 +26,8 @@ AG 3: 895; Barnhart 3: 410; BM 5: 2155; CSP 6: 73; DU 312 (details on plates); F
 
 #### Composite works
 
-(1) Collaborator, F. Cuvier, *Dict. sci. nat*. ed. 2. 1816-1845, see TL-2/1293.
-(2) Collaborator, N.A. Desvaux, *J. Bot. appl*. 1813-1814, see TL-2/1410.
+- (1) Collaborator, F. Cuvier, *Dict. sci. nat*. ed. 2. 1816-1845, see TL-2/1293.
+- (2) Collaborator, N.A. Desvaux, *J. Bot. appl*. 1813-1814, see TL-2/1410.
 
 #### Eponymy
 

@@ -28,7 +28,8 @@ Ainsworth p. 306, 308, 330; Ainsworth & Bisby's Dict. p. 193; Amer. Men Sci. ed.
 
 #### Outside our period
 
-(1) A bibliographical study of the *Icones pictæ specierum rariorum fungorum* of Chistiaan Hendrik Persoon, Lancaster, Penn. (Lancaster Press, Inc.) 1944. (2) Co-author with William Winfield Ray (1909-x), *Some common edible and poisonous mushrooms*, Cornell Extension Bull. 386: 1-16. 1946. *Copy*: (n.v.); Id. \[reprint?\]... 1955. *Copy*: (n.v.); Id. \[Reprinted\]... Cornell Extension Bull. 386: 16 p. (incl. cover). Jan 1963. *Copy*: NY. Evidently based on W.W. Ray, *Some mushrooms, edible and poisonous*, Ithaca, New York (Cornell Univ.) 1939.
+- (1) A bibliographical study of the *Icones pictæ specierum rariorum fungorum* of Chistiaan Hendrik Persoon, Lancaster, Penn. (Lancaster Press, Inc.) 1944.
+- (2) Co-author with William Winfield Ray (1909-x), *Some common edible and poisonous mushrooms*, Cornell Extension Bull. 386: 1-16. 1946. *Copy*: (n.v.); Id. \[reprint?\]... 1955. *Copy*: (n.v.); Id. \[Reprinted\]... Cornell Extension Bull. 386: 16 p. (incl. cover). Jan 1963. *Copy*: NY. Evidently based on W.W. Ray, *Some mushrooms, edible and poisonous*, Ithaca, New York (Cornell Univ.) 1939.
 
 #### Note
 

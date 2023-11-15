@@ -39,14 +39,14 @@ Barnhart 3: 36; BJI 2: 127-128; BL 1: 77, 136, 155, 156, 227, 311, 2: 47, 48, 54
 
 #### Composite works
 
-(1) Contributed to E. Warming, *Botany of the Faeröes*:
+- (1) Contributed to E. Warming, *Botany of the Faeröes*:
 (a) Geography and topography e.a. 1: 6-119. 15 Feb 1901.
 (b) Phytoplankton, 2: 558-612. 25 Feb 1903.
 (c) Additions and corrections of the list of the Phanerogamae, 3: 835-863. 13 Nov 1907.
 (d) The land-vegetation of the Faeröes, 3: 867-1026. 3 Feb 1908 (rev. A. Bennett, J. Bot. 46: 131-134. Apr 1908).
-(2) Editor of Danish ed. of C. A. M. Lindman, *Bilder ur Nordens flora*, 3 vols., 1901-1907, see under Lindman.
-(3) Sven Hedin, *Southern Tibet* 6(3), *Botany*: 27-100. 1922, A list of flowering plants from Inner Asia by C. H. Ostenfeld and O. Paulsen.
-(4) Co-author, L. Marret et al., *Icones florae alpinae plantarum* 1911-1924, see sub Marret.
+- (2) Editor of Danish ed. of C. A. M. Lindman, *Bilder ur Nordens flora*, 3 vols., 1901-1907, see under Lindman.
+- (3) Sven Hedin, *Southern Tibet* 6(3), *Botany*: 27-100. 1922, A list of flowering plants from Inner Asia by C. H. Ostenfeld and O. Paulsen.
+- (4) Co-author, L. Marret et al., *Icones florae alpinae plantarum* 1911-1924, see sub Marret.
 
 #### Eponymy
 

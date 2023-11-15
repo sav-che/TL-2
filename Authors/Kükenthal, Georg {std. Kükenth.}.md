@@ -28,8 +28,8 @@ AG 2(2): 73, 12(3): 201; Barnhart 2: 325; BFM 871; BJI 1: 35, 2: 98; Bossert p. 
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Cyperaceae*, Heft 38, *publ*.: 18 Mai 1909; 101(1), *publ*.: 26 Nov 1935; 101 (2), *publ*.: 18 Feb 1936; 101 (3), *publ*.: 28 Apr 1936; 101(4), *publ*.: 24 Nov 1936 (TL-2/1713).
-(2) With A. Brückner, F. Ruppert, A. Siegel and H. Schack, *Zwischen Main und Werra*, Flora der Gefässpflanzen von Coburg und Umgegend, Coburg 1925, see under H. Schack.
+- (1) Engler, *Pflanzenreich, Cyperaceae*, Heft 38, *publ*.: 18 Mai 1909; 101(1), *publ*.: 26 Nov 1935; 101 (2), *publ*.: 18 Feb 1936; 101 (3), *publ*.: 28 Apr 1936; 101(4), *publ*.: 24 Nov 1936 (TL-2/1713).
+- (2) With A. Brückner, F. Ruppert, A. Siegel and H. Schack, *Zwischen Main und Werra*, Flora der Gefässpflanzen von Coburg und Umgegend, Coburg 1925, see under H. Schack.
 
 #### Handwriting
 

@@ -10,7 +10,7 @@ Witte, \[Bror Otto\] Hernfrid (1877-1945), Swedish agricultural botanist; Dr. ph
 
 [[Collection GB|GB]]; further material in [[Collection C|C]].
 *Exsiccatae*: (*1*) *Vallväxtherbarium*, Svalöv, ed. 1 (1909), ed. 2 (1910), 35 species (see KR p. 770, no. 23).
-(2) *Viktigare svenska vallväxter*, Svalöv 1909, nos. 1-35, set at [[Collection GB|GB]]; ed. 2, 1910.
+- (2) *Viktigare svenska vallväxter*, Svalöv 1909, nos. 1-35, set at [[Collection GB|GB]]; ed. 2, 1910.
 
 #### Bibliography and biography
 

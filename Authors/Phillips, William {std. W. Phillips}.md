@@ -8,7 +8,8 @@ Phillips, William (1822-1905), British botanist, mycologist and antiquary at Shr
 
 #### Herbarium and types
 
-acquired by BM (with drawings of fungi), now at [[Collection K|K]]. – Duplicates in [[Collection B|B]], [[Collection BP|BP]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection NYS|NYS]], [[Collection PAD|PAD]], [[Collection S|S]], [[Collection W|W]]. *Exsiccatae*: *Elvellacei britannici*, fasc. 1-4, nos. 1-201, 1874-1881, sets in above-mentioned herbaria. Phillips contributed specimens to M.C. Cooke, *Fungi britannici* and to Plowright, *Sphaeriacei britannici*, q.v.
+acquired by BM (with drawings of fungi), now at [[Collection K|K]]. – Duplicates in [[Collection B|B]], [[Collection BP|BP]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection NYS|NYS]], [[Collection PAD|PAD]], [[Collection S|S]], [[Collection W|W]].
+*Exsiccatae*: *Elvellacei britannici*, fasc. 1-4, nos. 1-201, 1874-1881, sets in above-mentioned herbaria. Phillips contributed specimens to M.C. Cooke, *Fungi britannici* and to Plowright, *Sphaeriacei britannici*, q.v.
 
 #### Bibliography and biography
 

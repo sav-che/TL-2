@@ -9,7 +9,8 @@ Nordstedt, Carl Fredrik Otto \["Otto"\] (1838-1924), Swedish phycologist of inde
 #### Herbarium and types
 
 [[Collection LD|LD]]; important collections also at [[Collection S|S]]; further material at [[Collection B|B]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection H|H]] (Bryoph.), [[Collection L|L]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection MW|MW]], [[Collection PI|PI]], [[Collection S|S]], [[Collection WELT|WELT]], [[Collection WRSL|WRSL]]. –
-*Exsiccatae*: (1) with Lars Johan Wahlstedt (1836-1917): *Characeae scandinaviae exisiccatae* fasc. 1-3, nos. 1-120, 1871-1874, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection W|W]]. (Bot. Not. 1871: 37, 1872: 29, 1874: 42; see Sayre 1969). (2) with Wittrock, V. B., (q.v.) and G. Lagerheim, *Algae aquae dulcis exsiccatae*, fasc. 1-35, 1877-1903.
+*Exsiccatae*: (1) with Lars Johan Wahlstedt (1836-1917): *Characeae scandinaviae exisiccatae* fasc. 1-3, nos. 1-120, 1871-1874, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection W|W]]. (Bot. Not. 1871: 37, 1872: 29, 1874: 42; see Sayre 1969).
+- (2) with Wittrock, V. B., (q.v.) and G. Lagerheim, *Algae aquae dulcis exsiccatae*, fasc. 1-35, 1877-1903.
 
 #### Bibliography and biography
 
@@ -41,11 +42,11 @@ BL 2: 513, 553, 696; BM 3: 1446, 7: 936; Bossert p. 289; Cesati, saggio p. 56-57
 
 #### Composite works
 
-(1)Editor *Botaniska Notiser* 1871-1921 (Heft 6).
-(2) *Desmidiaceae*, in E. Warming, *Symb. fl*.*bras*. 5: 195-234, *pl. 2-4*. 1 Jun 1870.
-(3) *Characeae, in* Oeder, *Fl. danic*. 17 (fasc. 49): 12-14, *pl. 2927-2930* (see under Oeder).
-(4) Editor, A. Braun, *Fragm. monogr. Charac*. 1882, TL-2/717 (Nordstedt added certain entries; these are marked by brackets; the *Clavis synoptica Characearum* is also by N. – "Autoreferat" Nordstedt, Bot. Centralbl. 13: 41-46. 1883.
-(5) Collaborator, E. Askenasy, *Algen, in* A. Engler, *Forschungsr. Gazelle*, Sep 1888, p. \[1\]-58 (Conjugatae, Characeae), see TL-2/1705; (extensive review by Ludwig (Greiz), Bot. Centralbl. 37: 112-121. 1889, first announcement 35: 377. 17-21 Sep 1888).
+- (1) Editor *Botaniska Notiser* 1871-1921 (Heft 6).
+- (2) *Desmidiaceae*, in E. Warming, *Symb. fl*.*bras*. 5: 195-234, *pl. 2-4*. 1 Jun 1870.
+- (3) *Characeae, in* Oeder, *Fl. danic*. 17 (fasc. 49): 12-14, *pl. 2927-2930* (see under Oeder).
+- (4) Editor, A. Braun, *Fragm. monogr. Charac*. 1882, TL-2/717 (Nordstedt added certain entries; these are marked by brackets; the *Clavis synoptica Characearum* is also by N. – "Autoreferat" Nordstedt, Bot. Centralbl. 13: 41-46. 1883.
+- (5) Collaborator, E. Askenasy, *Algen, in* A. Engler, *Forschungsr. Gazelle*, Sep 1888, p. \[1\]-58 (Conjugatae, Characeae), see TL-2/1705; (extensive review by Ludwig (Greiz), Bot. Centralbl. 37: 112-121. 1889, first announcement 35: 377. 17-21 Sep 1888).
 
 #### Memorial issue
 

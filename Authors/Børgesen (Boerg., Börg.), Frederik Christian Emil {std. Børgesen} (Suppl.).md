@@ -45,12 +45,12 @@ Barnhart 1: 209; BJI 1: 6, 2: 15-16 (list of reviews of numerous publ. by B.); B
 
 #### Composite works
 
-(1) *Marine algae*, *in* C.E.H. Ostenfeld (see TL-2/3: 854-856), *Plants from Beata Islands*, Dansk bot. Ark. 4(7): 14-35. 1929.
-(2) Sur *Platysiphonia* nov. gen. et sur les organes mâles et femelles du *Platysiphonia miniata* (Ag.) comb. nov., *in* Recueil de Travaux cryptogamiques dédiés à Louis Mangin 21-29. 1931.
-(3) *Marine algae from Easter Island*, *in* C. Skottsberg, see TL-2/5: 12.073.
-(4) *Algenvegetationsbilder* von den Küsten der Faröer, *in* Karsten and Schenck, ser. 4. *6 pl*., 4 p. text, Jena 1906. − Christensen no. 29.
-(5) *Die Naturverhältnisse auf den dänischen westindischen Inseln*, by F.P. Uldall & F. Børgensen, \[in A. Lütken,\] *Vore vestindiske Øer. Nord og Syd* 1898, p. 144-195. *Review*: M. Pedersen, Bot. Centralbl. 79(29): 101-102. 5 Jul 1899.
-(6) *Algues d'eau douce (sauf les Diatomées)*, *in* C.E.H. Ostenfeld, *Contribution à la flore de l'île Jan Mayen*, Bot. Tidsskr. 21: 22-23. 1897.
+- (1) *Marine algae*, *in* C.E.H. Ostenfeld (see TL-2/3: 854-856), *Plants from Beata Islands*, Dansk bot. Ark. 4(7): 14-35. 1929.
+- (2) Sur *Platysiphonia* nov. gen. et sur les organes mâles et femelles du *Platysiphonia miniata* (Ag.) comb. nov., *in* Recueil de Travaux cryptogamiques dédiés à Louis Mangin 21-29. 1931.
+- (3) *Marine algae from Easter Island*, *in* C. Skottsberg, see TL-2/5: 12.073.
+- (4) *Algenvegetationsbilder* von den Küsten der Faröer, *in* Karsten and Schenck, ser. 4. *6 pl*., 4 p. text, Jena 1906. − Christensen no. 29.
+- (5) *Die Naturverhältnisse auf den dänischen westindischen Inseln*, by F.P. Uldall & F. Børgensen, \[in A. Lütken,\] *Vore vestindiske Øer. Nord og Syd* 1898, p. 144-195. *Review*: M. Pedersen, Bot. Centralbl. 79(29): 101-102. 5 Jul 1899.
+- (6) *Algues d'eau douce (sauf les Diatomées)*, *in* C.E.H. Ostenfeld, *Contribution à la flore de l'île Jan Mayen*, Bot. Tidsskr. 21: 22-23. 1897.
 
 #### Note
 
@@ -437,18 +437,18 @@ The *algal vegetation of the lagoons in the Danish West Indies*... \[Saertryk af
 *Part 1*: Jun-Jul 1913 (p. 158: printed 18 Jun 1913; Nat. Nov. Jul (2) 1913), p. \[1\]-158, \[159-160\], map. − Reprinted from Dansk bot. Ark. 1(4). 1913. − *Chlorophyceae*.
 *Part 2*: Oct 1914 (p. 66: printed 6 Oct 1914; Nat. Nov. Feb (1,2) 1915), p. \[1\]-66 (separate issue 159-222) and \[1-2\] index specierum. − Id. 2(2). 1914. − *Phaeophyceae*.
 *Part 3*: 1915-1920. − *Rhodophyceae*. With addenda to Chlorophyceae, Phaeophyceae and Rhodophyceae.
-(1): 1-80. 12 Nov 1915. − Id. 3(1a). Jan 1915 (in journal).
-(2): 81-144. 5 Oct 1916. − Id. 3(1b). Oct 1916 (in journal).
-(3): 145-240. 17 Oct 1917. − Id. 3(1c). Oct 1917 (in journal).
-(4): 241-304. 4 Nov 1918. − Id. 3(1d). Nov 1918 (in journal).
-(5): 305-368. 29 Nov 1919. − Id. 3(1e). Nov 1919 (in journal).
-(6): 369-504. 23 Oct 1920. − Id. 3(1f). Oct 1920 (in journal).
+- (1): 1-80. 12 Nov 1915. − Id. 3(1a). Jan 1915 (in journal).
+- (2): 81-144. 5 Oct 1916. − Id. 3(1b). Oct 1916 (in journal).
+- (3): 145-240. 17 Oct 1917. − Id. 3(1c). Oct 1917 (in journal).
+- (4): 241-304. 4 Nov 1918. − Id. 3(1d). Nov 1918 (in journal).
+- (5): 305-368. 29 Nov 1919. − Id. 3(1e). Nov 1919 (in journal).
+- (6): 369-504. 23 Oct 1920. − Id. 3(1f). Oct 1920 (in journal).
 IDC *microfiche*: 5516/2 (parts 1, 2).
 *Consolidated reprint* 1985, Koeltz Scientific Books, Königstein. *Copy*: FAS(B). − ISBN 3-87429-253-3, see Taxon 35: 628-629. 1986.
 *Note*: The three ways in which this work was published:
-(1) in the Dansk bot. Ark. 1915-1920, see above.
-(2) as reprints with independent general title-page, see TL-2/588-589. − *Copies*: G, L, MO, NY.
-(3) as a reprint in a single volume of the papers as published in Dansk bot. Ark.
+- (1) in the Dansk bot. Ark. 1915-1920, see above.
+- (2) as reprints with independent general title-page, see TL-2/588-589. − *Copies*: G, L, MO, NY.
+- (3) as a reprint in a single volume of the papers as published in Dansk bot. Ark.
 *Authorship*: A few groups were dealt with by other authors:
 *Part 3(2)*, *Rhizophyllidaceae* and *Squamariaceae* by Mme. A. Weber-van-Bosse on p. 128-146.
 *Part 3(3)*, *Melobesiae* by Mme. Paul Lemoine on p. 147-182.

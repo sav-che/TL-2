@@ -23,8 +23,9 @@ Bossert p. 99; Kew 2: 53; NAF ser. 2(9): 122; Roon p. 33; SBC p. 118; TL-2/4: no
 
 #### Outside our period
 
-(1) Fernand Demaret and Émile Castagne, Flore générale de Belgique, *Bryophytes* Vol. 2(1, 2, 3). 1959, 1961, and 1964, 397 p. – See TL-2/4: 9314. (2) Jean-Louis de Sloover and Fernand Demaret, id., *Bryophytes* Vol. 3(1, 2). 1968 and 1993, 262 p. – See TL-2: 9314.
-(3) L. Delvosalle, F. Demaret, J. Lambinon and A. Lawalrée, *Plantes rares*, disparues ou menacées de disparition *en Belgique*: l'appauvrissement de la flore indigène, 1969, 129 p., maps and phot.
+- (1) Fernand Demaret and Émile Castagne, Flore générale de Belgique, *Bryophytes* Vol. 2(1, 2, 3). 1959, 1961, and 1964, 397 p. – See TL-2/4: 9314.
+- (2) Jean-Louis de Sloover and Fernand Demaret, id., *Bryophytes* Vol. 3(1, 2). 1968 and 1993, 262 p. – See TL-2: 9314.
+- (3) L. Delvosalle, F. Demaret, J. Lambinon and A. Lawalrée, *Plantes rares*, disparues ou menacées de disparition *en Belgique*: l'appauvrissement de la flore indigène, 1969, 129 p., maps and phot.
 
 ### Publications
 

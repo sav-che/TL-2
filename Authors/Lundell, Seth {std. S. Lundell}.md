@@ -8,7 +8,8 @@ Lundell, Seth (1892-1966), Swedish mycologist.
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]]. – Exsiccatae (with J. A. Nannfeldt): *Fungi exsiccati suecici praesertim upsalienses*, fasc. 1-30, nos. 1-1500; 1934-1947. For Schedae see below.
+[[Collection UPS|UPS]].
+*Exsiccatae* (with J. A. Nannfeldt): *Fungi exsiccati suecici praesertim upsalienses*, fasc. 1-30, nos. 1-1500; 1934-1947. For Schedae see below.
 
 #### Bibliography and biography
 

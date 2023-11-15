@@ -29,9 +29,9 @@ Barnhart 1: 321; BL 1: 232; Hortus 3: 1190; IH 2: 118, 667; Kew 1: 493-494; Roon
 
 #### Notes
 
-(1) List of publications by A. Castellanos on Cactaceae: "*Recopilación de sus publicationes sobre Cactáceas*. Editado por el Círculo de Coleccionistas de Cactus y Crasas de la República Argentina... Buenos Aires, distr. by Librart xxii, 385 p., ill., maps. 1972. *Copy*: MO.
-(2) Outside our period: *Cactaceas* (Buenos Aires, Librart) 1972, xxiv, 385 p. – Reprints from various journals.
-(3) Outside our period (with R.H. Capurro): *Catalogo de los generos de las plantas vasculares de la Flora argentina. Pteridophyta*, Lilloa 13: 289-309. 1947. Reprint copy (p. \[i\], 289-309) in U.
+- (1) List of publications by A. Castellanos on Cactaceae: "*Recopilación de sus publicationes sobre Cactáceas*. Editado por el Círculo de Coleccionistas de Cactus y Crasas de la República Argentina... Buenos Aires, distr. by Librart xxii, 385 p., ill., maps. 1972. *Copy*: MO.
+- (2) Outside our period: *Cactaceas* (Buenos Aires, Librart) 1972, xxiv, 385 p. – Reprints from various journals.
+- (3) Outside our period (with R.H. Capurro): *Catalogo de los generos de las plantas vasculares de la Flora argentina. Pteridophyta*, Lilloa 13: 289-309. 1947. Reprint copy (p. \[i\], 289-309) in U.
 
 ### Publications
 

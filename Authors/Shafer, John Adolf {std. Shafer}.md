@@ -29,7 +29,7 @@ Barnhart 3: 264 (b. 23 Feb 1863, d. 1 Feb 1918); BL 1: 158, 212, 318; BM 8: 1181
 
 #### Composite works
 
-(1) With N.L. Britton, *N. Amer. trees*, 1908, see TL-2/783. – Copies with "American Nature Series" imprint are at MICH, MO, NY, PH, USDA. (IDC 7515).
+- (1) With N.L. Britton, *N. Amer. trees*, 1908, see TL-2/783. – Copies with "American Nature Series" imprint are at MICH, MO, NY, PH, USDA. (IDC 7515).
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Greville, Robert Kaye (1794-1866), British botanist at Edinburgh.
 
 #### Herbarium and types
 
-[[Collection E|E]]. — Exsiccatae: *Algae britannicae, dried specimens of... algae... *(fasc. i, nos. 1-24. 1824, fasc. 2(?) nos. ? 1833), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MASS|MASS]]. – Diatoms at [[Collection BM|BM]], fide Flora (50: 285), [[Collection BB|BB]] and Wornardt, other algae at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]] and [[Collection GL|GL]].
+[[Collection E|E]].
+*Exsiccatae*: *Algae britannicae, dried specimens of... algae... *(fasc. i, nos. 1-24. 1824, fasc. 2(?) nos. ? 1833), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MASS|MASS]]. – Diatoms at [[Collection BM|BM]], fide Flora (50: 285), [[Collection BB|BB]] and Wornardt, other algae at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]] and [[Collection GL|GL]].
 *Ref*.: IH 1 (ed. 6): 359, 2: 239.
 - Urban, Gesch. Berlin-Dahlem 264, 276, 300. 1916.
 - Dickinson, Phycol. Bull. 2: 12. 1952.

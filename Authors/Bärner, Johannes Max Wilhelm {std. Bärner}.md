@@ -21,11 +21,11 @@ Barnhart 1: 102; BFM 2905; BL 2: 9; Kew 1: 117; LS suppl. 3600.
 
 #### Composite works
 
-(1) *Bibliographie der Pflanzenschutzliteratur* 22 vols. 1921 (for the years 1914-1945), J. Bärner major compiler, see H. Melchior, Bot. Jahrb. 76(Lit.): 46-47. Aug 1955.
+- (1) *Bibliographie der Pflanzenschutzliteratur* 22 vols. 1921 (for the years 1914-1945), J. Bärner major compiler, see H. Melchior, Bot. Jahrb. 76(Lit.): 46-47. Aug 1955.
 
 #### Outside our period
 
-(1) With J.F. Mueller, *Die Nutzhölzer der Welt*, 3 vols., Neudamm 1942-1943; facsimile reprint Weinheim (J. Cramer) 1962, see Taxon 12: 171. 1963. − Bärner was senior author.
+- (1) With J.F. Mueller, *Die Nutzhölzer der Welt*, 3 vols., Neudamm 1942-1943; facsimile reprint Weinheim (J. Cramer) 1962, see Taxon 12: 171. 1963. − Bärner was senior author.
 
 ### Publications
 

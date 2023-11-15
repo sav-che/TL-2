@@ -24,7 +24,7 @@ Barnhart, 2: 318; BFM 364, 3031; BJI 1: 34; BM 2: 1024; Bossert p. 219; CSP 8: 1
 #### Composite works
 
 (i) For a list of the 57 dissertations and other scientific papers published under Kraus' guidance see Ber. deut. bot. Ges. 33: (92)-(95). 1915.
-(2) Contributed to A. Schenk, *Handb. Bot.* 1, 1879.
+- (2) Contributed to A. Schenk, *Handb. Bot.* 1, 1879.
 
 ### Publications
 

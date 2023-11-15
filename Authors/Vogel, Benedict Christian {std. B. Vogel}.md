@@ -24,8 +24,8 @@ Barnhart 3: 441 (b. 24 Apr 1745, d. 8 Jun 1825); BM 5: 2231; Bossert p. 420; DU 
 
 #### Composite works
 
-(1) Editor, dec. 8-10 of C.J. Trew, *Plantae selectae* quarum imagines ... pinxit Georgius Dionysius Ehret,... collegit et publico usui dicavit D. Christophorus Jacobus Trew... 1771-1773, see under C.J. Trew.
-(2) Editor and in part author of C.J. Trew, *Plantae rariores*,... D. Christophorus Jacobus Trew,... ulterius expendit et maxima ex parte descripsit D. Benedictus Christophorus Vogel,... 3 parts, 1779-1795, see under C.J. Trew.
+- (1) Editor, dec. 8-10 of C.J. Trew, *Plantae selectae* quarum imagines ... pinxit Georgius Dionysius Ehret,... collegit et publico usui dicavit D. Christophorus Jacobus Trew... 1771-1773, see under C.J. Trew.
+- (2) Editor and in part author of C.J. Trew, *Plantae rariores*,... D. Christophorus Jacobus Trew,... ulterius expendit et maxima ex parte descripsit D. Benedictus Christophorus Vogel,... 3 parts, 1779-1795, see under C.J. Trew.
 
 #### Eponymy
 

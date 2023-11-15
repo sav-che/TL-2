@@ -38,10 +38,10 @@ AG 6(2): 706; Andrews ed. 2, p. 242; Barnhart 1: 256; BM 1: 254-255, 6: 143; Bos
 #### Composite works
 
 (I) *Annales des Sciences naturelles*, edited for botany by Brongniart \[et al.\] ser. 1-sel. 6, vol. 3, Paris 1824-1876.
-(2) Cuvier et A. T. Brongniart, *Description géologique des environs de Paris*, 1822, Description des végétaux fossiles by Ad. Br.; further editions 1822, 1825, 1835.
-(3) Bory de Saint-Vincent, *Dictionnaire classique d'histoire naturelle*, Paris 1823-1831, Brongniart collaborator.
-(4) Orbigny, *Dictionnaire universel d'histoire naturelle*, Paris 1839-1845, 16 vols., Brongniart collaborator. (ed. 2, 1849, reissue 1861).
-(5) Cuvier et al., *Dictionnaire des sciences naturelles*, Paris 1804-1830, 61 vols., Brongniart collaborator.
+- (2) Cuvier et A. T. Brongniart, *Description géologique des environs de Paris*, 1822, Description des végétaux fossiles by Ad. Br.; further editions 1822, 1825, 1835.
+- (3) Bory de Saint-Vincent, *Dictionnaire classique d'histoire naturelle*, Paris 1823-1831, Brongniart collaborator.
+- (4) Orbigny, *Dictionnaire universel d'histoire naturelle*, Paris 1839-1845, 16 vols., Brongniart collaborator. (ed. 2, 1849, reissue 1861).
+- (5) Cuvier et al., *Dictionnaire des sciences naturelles*, Paris 1804-1830, 61 vols., Brongniart collaborator.
 
 #### Eponymy
 

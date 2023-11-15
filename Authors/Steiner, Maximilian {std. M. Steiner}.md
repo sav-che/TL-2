@@ -8,7 +8,8 @@ Steiner, Maximilian (1904-x), Austrian botanist (lichenologist and physiologist)
 
 #### Herbarium and types
 
-Lichens at [[Collection LD|LD]] and [[Collection M|M]]. *Exsiccatae*: with J. Poelt, *Lichenes Alpium et regionum confinum* nos. 161-260. 1963-1967.
+Lichens at [[Collection LD|LD]] and [[Collection M|M]].
+*Exsiccatae*: with J. Poelt, *Lichenes Alpium et regionum confinum* nos. 161-260. 1963-1967.
 
 #### Bibliography and biography
 

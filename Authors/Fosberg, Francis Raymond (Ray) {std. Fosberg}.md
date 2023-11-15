@@ -53,9 +53,13 @@ Amer. Men Sci. ed. 12: 1904; APN p. 206; Barnhart 1: 561; BL 1: 110, 125, 126, 2
 
 #### Outside our period
 
-(1) Founder and, with the assistance for many years of Marie-Hélène Sachet (1922-1986), editor, *Atoll Research Bulletin* from nr. 1-389 (10 Sep 1951-Jan 1993); a Fosberg commemorative issue (nos. 390-396) appeared posthumously in Feb 1994. (2) Fosberg and M.-H. Sachet, *Manual for tropical herbaria*... 1965. (3) Co-editor with Meliyasena Dhammadasa Dassanayake (1921-x), *Revised handbook to the flora of Ceylon*... (1973-x); 7 vols. appearing in Fosberg's lifetime. The flora was conceived as a revision of H. Trimen, *Handb. fl. Ceylon*... 1893-1931, see TL-2/6, nr. 15.157. (4) Fosberg, M.-H. et al., *Flora of Micronesia*... (1975-x); 5 vols. of which were published while Fosberg was alive but the flora is now unlikely to be completed in the same format. (5) Psilotaceae and Rubiaceae (118 entries total) *in* Ellen R. Farr et al. (eds.), *Index nominum genericorum plantarum*... 1979.
-(6) Fosberg and Stephan Andrew Renvoize (1944-x), The *flora of Aldabra* and neighboring islands... 1980.
-(7) Posthumously co-authored with Dan Henry Nicolson (1933-x), *The Forsters and the botany of the Second Cook Expedition* (*1772-1775*)... 2004. Earlier, Fosberg alone published a precursor (posthumously) in Allertonia 7: 41-86. 1993.
+- (1) Founder and, with the assistance for many years of Marie-Hélène Sachet (1922-1986), editor, *Atoll Research Bulletin* from nr. 1-389 (10 Sep 1951-Jan 1993); a Fosberg commemorative issue (nos. 390-396) appeared posthumously in Feb 1994.
+- (2) Fosberg and M.-H. Sachet, *Manual for tropical herbaria*... 1965.
+- (3) Co-editor with Meliyasena Dhammadasa Dassanayake (1921-x), *Revised handbook to the flora of Ceylon*... (1973-x); 7 vols. appearing in Fosberg's lifetime. The flora was conceived as a revision of H. Trimen, *Handb. fl. Ceylon*... 1893-1931, see TL-2/6, nr. 15.157.
+- (4) Fosberg, M.-H. et al., *Flora of Micronesia*... (1975-x); 5 vols. of which were published while Fosberg was alive but the flora is now unlikely to be completed in the same format.
+- (5) Psilotaceae and Rubiaceae (118 entries total) *in* Ellen R. Farr et al. (eds.), *Index nominum genericorum plantarum*... 1979.
+- (6) Fosberg and Stephan Andrew Renvoize (1944-x), The *flora of Aldabra* and neighboring islands... 1980.
+- (7) Posthumously co-authored with Dan Henry Nicolson (1933-x), *The Forsters and the botany of the Second Cook Expedition* (*1772-1775*)... 2004. Earlier, Fosberg alone published a precursor (posthumously) in Allertonia 7: 41-86. 1993.
 
 #### Composite works
 

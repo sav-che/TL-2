@@ -8,7 +8,8 @@ Van Haesendonck, \[Gérard\] Constant (1810-1881), Belgian physician and botanis
 
 #### Herbarium and types
 
-[[Collection BR|BR]]. – Further material at [[Collection LG|LG]]. *Exsiccatae*: *Herbier médical belge*, 4 fasc. (200 nos.). 1863. Sets at [[Collection BR|BR]] and [[Collection LG|LG]]. Some further material in Thielens & de Vos, Kickxia belgica, e.g. [[Collection BR|BR]], [[Collection GOET|GOET]] and in [[Collection AWH|AWH]].
+[[Collection BR|BR]]. – Further material at [[Collection LG|LG]].
+*Exsiccatae*: *Herbier médical belge*, 4 fasc. (200 nos.). 1863. Sets at [[Collection BR|BR]] and [[Collection LG|LG]]. Some further material in Thielens & de Vos, Kickxia belgica, e.g. [[Collection BR|BR]], [[Collection GOET|GOET]] and in [[Collection AWH|AWH]].
 
 #### Bibliography and biography
 

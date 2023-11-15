@@ -50,14 +50,14 @@ ADB 3: 464-475; Barnhart 1: 273; BM 1: 273-274; CSP 1: 687-691, 6: 610, 7: 289, 
 
 #### Composite works
 
-(1) *Plantarum Canariensium*, in *Novae physicae berolinenses* (TL-2/6680) by C.G.D. Nees, p. 111-116, *pl. 22-26* (Pl. canar.) 1820. – See also TL-2/863 (authorship: Nees).
+- (1) *Plantarum Canariensium*, in *Novae physicae berolinenses* (TL-2/6680) by C.G.D. Nees, p. 111-116, *pl. 22-26* (Pl. canar.) 1820. – See also TL-2/863 (authorship: Nees).
 
 #### Notes
 
-(1) *L. von Buch's gesammelte Schriften.* Herausgegeben von J. Ewald, J. Roth und H. Eck (and afterwards W. Dames), 4 vols. 1867-1885. Oct.
-(2) C.L. von Buch, *Reise durch Norwegen und Lappland*, Berlin 1810. Oct., 2 vols., \[1:\] (1), x, 486, 2 maps, \[2:\] (1), 406, (2), 3 maps. Berlin (bei G.C. Nauck) 1810, see KR p. 109.
-(3) \[French version of (2)\], C.L. von Buch, *Voyage en Norvège et en Laponie*, fait dans les années 1806, 1807, 1808 par M. Léopold de Buch, traduit de l'allemand, par J.B.B. Eyriés ... Paris (Gide fils) 1816, 2 vols., \[1:\] xxiv, 472, (2) 2 maps, \[2:\] (4), 455.
-(4) *Addition and correction to TL-2/863*: The french translation mentioned only concerns the botanical part and is titled: (part 1) "*Coup d'oeil sur la Flore des îles Canaries*", paged \[1\]-28, (part 2) "*Catalogue des plantes spontanées qui ont été jusqu'ici trouvées dans les îles Canaries*", paged 29-56. *Copy*: U.
+- (1) *L. von Buch's gesammelte Schriften.* Herausgegeben von J. Ewald, J. Roth und H. Eck (and afterwards W. Dames), 4 vols. 1867-1885. Oct.
+- (2) C.L. von Buch, *Reise durch Norwegen und Lappland*, Berlin 1810. Oct., 2 vols., \[1:\] (1), x, 486, 2 maps, \[2:\] (1), 406, (2), 3 maps. Berlin (bei G.C. Nauck) 1810, see KR p. 109.
+- (3) \[French version of (2)\], C.L. von Buch, *Voyage en Norvège et en Laponie*, fait dans les années 1806, 1807, 1808 par M. Léopold de Buch, traduit de l'allemand, par J.B.B. Eyriés ... Paris (Gide fils) 1816, 2 vols., \[1:\] xxiv, 472, (2) 2 maps, \[2:\] (4), 455.
+- (4) *Addition and correction to TL-2/863*: The french translation mentioned only concerns the botanical part and is titled: (part 1) "*Coup d'oeil sur la Flore des îles Canaries*", paged \[1\]-28, (part 2) "*Catalogue des plantes spontanées qui ont été jusqu'ici trouvées dans les îles Canaries*", paged 29-56. *Copy*: U.
 
 ### Publications
 

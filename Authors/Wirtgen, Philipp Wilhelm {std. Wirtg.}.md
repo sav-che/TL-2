@@ -10,15 +10,15 @@ Wirtgen, Philipp Wilhelm (1806-1870), German (Prussian/Rheinland) teacher and bo
 
 General herbarium at [[Collection E|E]]; Rheinland herb. and critical plants at [[Collection MSTR|MSTR]]. – Further material in [[Collection A|A]], [[Collection AWH|AWH]], [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FR|FR]], [[Collection GE|GE]], [[Collection JE|JE]], [[Collection LAU|LAU]], [[Collection LG|LG]], [[Collection LZ|LZ]] (destr.), [[Collection OXF|OXF]], [[Collection REG|REG]], [[Collection W|W]].
 *Exsiccatae*: (1) *Herbarium Ruborum rhenanorum*, 200 nos. 1854-1856, ed. 2. 1859, ed. 3. 1870. – Sets at [[Collection GOET|GOET]], [[Collection LG|LG]], [[Collection NCY|NCY]], [[Collection P|P]], [[Collection W|W]].
-(2) *Herbarium Mentharum rhenanarum*, 1-68, 1854-1856; Erläuterungen 16 p., 1855. Ed. 2. 1861, nos. 1-75. Ed. 3. 1862-1864, nos. 1-105. – Sets of various eds. at [[Collection E|E]], [[Collection GOET|GOET]], [[Collection GFW|GFW]], [[Collection K|K]], [[Collection LG|LG]], [[Collection NCY|NCY]], [[Collection P|P]].
-(3) *Herbarium plantarum selectarum, criticarum, hybridarumque florae rhenanae*, ca. 1200 nos. 1842-X. – Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection GFW|GFW]], [[Collection HAL|HAL]], [[Collection HEID|HEID]], [[Collection M|M]]. A new edition was issued by H. Andres 1928-1933.
-(4) *Ökonomisch-technische Pflanzen*, 400 nos.
-(5) *Forst und Holzgewächse*, 200 nos.
-(6) *Schulherbarium*, 400 nos.
-(7) *Giftpflanzen*, 31 nos.
-(8) *Herbarium der seltern oder weniger bekannten Pflanzen Deutschlands der Flora des Mittel- und Niederheins* (1847), with Michael Bach (1808-1878).
-(9) *Herbarium der deutschen Arzneipflanzen* und ihren wichtigsten Verwechslungen, 330 nos.
-(10) *Herbarium der rhein. Verbasken* und ihrer Hybriden, nos. 1-12, ann. Flora 14 Nov 1853, nos. 1-18 by 1856. – Sets at [[Collection P|P]], [[Collection W|W]]. – *Letters* at [[Collection G|G]], [[Collection HAL|HAL]], [[Collection U|U]], [[Collection UPS|UPS]]-UB.
+- (2) *Herbarium Mentharum rhenanarum*, 1-68, 1854-1856; Erläuterungen 16 p., 1855. Ed. 2. 1861, nos. 1-75. Ed. 3. 1862-1864, nos. 1-105. – Sets of various eds. at [[Collection E|E]], [[Collection GOET|GOET]], [[Collection GFW|GFW]], [[Collection K|K]], [[Collection LG|LG]], [[Collection NCY|NCY]], [[Collection P|P]].
+- (3) *Herbarium plantarum selectarum, criticarum, hybridarumque florae rhenanae*, ca. 1200 nos. 1842-X. – Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection GFW|GFW]], [[Collection HAL|HAL]], [[Collection HEID|HEID]], [[Collection M|M]]. A new edition was issued by H. Andres 1928-1933.
+- (4) *Ökonomisch-technische Pflanzen*, 400 nos.
+- (5) *Forst und Holzgewächse*, 200 nos.
+- (6) *Schulherbarium*, 400 nos.
+- (7) *Giftpflanzen*, 31 nos.
+- (8) *Herbarium der seltern oder weniger bekannten Pflanzen Deutschlands der Flora des Mittel- und Niederheins* (1847), with Michael Bach (1808-1878).
+- (9) *Herbarium der deutschen Arzneipflanzen* und ihren wichtigsten Verwechslungen, 330 nos.
+- (10) *Herbarium der rhein. Verbasken* und ihrer Hybriden, nos. 1-12, ann. Flora 14 Nov 1853, nos. 1-18 by 1856. – Sets at [[Collection P|P]], [[Collection W|W]]. – *Letters* at [[Collection G|G]], [[Collection HAL|HAL]], [[Collection U|U]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 

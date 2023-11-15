@@ -8,7 +8,9 @@ Malme \[until 1891: Andersson\], Gustaf Oskar Andersson (1864-1937), Swedish bot
 
 #### Herbarium and types
 
-[[Collection S|S]]. – Exsiccatae: (1) *Lichenes austroamericani ex herbaria Regnelliano* fasc. 1-13, nos. 1-325 (fase. 1, 1924) \[continued by Rolf Santesson (1916-x), fasc. 14-19, nos. 326-475.\] Sets see IH; (2) *Lichenes suecici exsiccati*, fasc. 1-40, nos. 1-1000, 1897-1926. Sets see IH. (total number of sets: 22).
+[[Collection S|S]].
+*Exsiccatae*: (1) *Lichenes austroamericani ex herbaria Regnelliano* fasc. 1-13, nos. 1-325 (fase. 1, 1924) \[continued by Rolf Santesson (1916-x), fasc. 14-19, nos. 326-475.\] Sets see IH;
+- (2) *Lichenes suecici exsiccati*, fasc. 1-40, nos. 1-1000, 1897-1926. Sets see IH. (total number of sets: 22).
 
 #### Bibliography and biography
 
@@ -29,9 +31,9 @@ AG 12(2): 472; Barnhart 2: 440 (d. 5 Mar 1937); BJI 2: 110; BL 1: 242, 307, 2: 6
 
 #### Composite works
 
-(1)EP, *Nat. Pflanzenfam.* ed. 2, *Xyridaceae*, 15a: 35-38. Apr 1930.
-(2) NAF, *Xyridaceae*, 19(1): 3-15. 27 Nov 1937.
-(3) Lecomte, *Fl. gén. Indochine, Xyridaceae* 6(6): 832-840. Nov 1934; *Xyridaceae* 6(7): 841. Jun 1937.
+- (1) EP, *Nat. Pflanzenfam.* ed. 2, *Xyridaceae*, 15a: 35-38. Apr 1930.
+- (2) NAF, *Xyridaceae*, 19(1): 3-15. 27 Nov 1937.
+- (3) Lecomte, *Fl. gén. Indochine, Xyridaceae* 6(6): 832-840. Nov 1934; *Xyridaceae* 6(7): 841. Jun 1937.
 
 #### Festschrift
 

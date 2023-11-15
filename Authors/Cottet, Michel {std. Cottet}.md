@@ -31,6 +31,6 @@ Contribution à l'étude de la flore Suisse. *Guide* du *botaniste* dans le *Can
 *Co-author*: François Castella (b. 1850), "Chanoine-curé de Romont".
 *Publ*.: Sep-Oct 1891 (Nat. Nov. Dec (1) 1891, Bot. Zeit. 29 Dec 1892, Bot. Centralbl. 9 Jan 1892), p. \[i\]-lxii, \[1\]-358, \[359J-376. *Copies*: B, BM, HH, L, Lloyd Library, NY.
 *Note* (1): p. \[359\]-376: "appendix C.R. Annuel".
-(2) *Quelques considérations* sur les motifs qui ont déterminé la publication du *Guide du* *Botaniste* dans le canton de Fribourg, Ber. Schweiz, bot. Ges. 2: 22-25. 1892.
+- (2) *Quelques considérations* sur les motifs qui ont déterminé la publication du *Guide du* *Botaniste* dans le canton de Fribourg, Ber. Schweiz, bot. Ges. 2: 22-25. 1892.
 *Ref*.: Fischer, Ed., Bot. Zeit. 50(48): 796. 2 Dec 1892 (rev.).
 

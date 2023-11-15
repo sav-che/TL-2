@@ -56,11 +56,11 @@ ADB 32: 465-466 (E. Wunschman); AG 2(2): 32; Ainsworth p. 255, 347; Backer p. 52
 
 #### Composite works
 
-(1) Editor, C. Linnaeus, *Amoen. acad. Schreb. ed.*, 1787-1790, TL-2/4754.
-(2) Editor, P. Osbeck, *Reise Ostindien* 1765, TL-2/7122.
-(3) With J. Sturm and D.H. Hoppe, *Trifolium*, Die Kleearten Deutschlands, *in* J. Sturm, Deutschl. Fl. Abt. 1, 15: \[i-xv\], *16 pl*. with text, Dec 1804, id. 16: *16 pl*. with text, 1804. – Schreber also contributed to Abt. I. 26: 1808 (one species).
-(4) Translation of C. Linnaeus, *Reisen durch Oeland und Gothland*,... Halle (gedruckt und verlegt Johann Jacob Curt) 1764, 32, 364, 24 p., 2 maps, *pl. 1-3*, SO 207. – Original ed.: *Öland. Gothl. Resa* 1745, see TL-2/4737, SO 202.
-(5) Translation of C. Linnaeus, *Reisen durch Westgothland*,... 1765.
+- (1) Editor, C. Linnaeus, *Amoen. acad. Schreb. ed.*, 1787-1790, TL-2/4754.
+- (2) Editor, P. Osbeck, *Reise Ostindien* 1765, TL-2/7122.
+- (3) With J. Sturm and D.H. Hoppe, *Trifolium*, Die Kleearten Deutschlands, *in* J. Sturm, Deutschl. Fl. Abt. 1, 15: \[i-xv\], *16 pl*. with text, Dec 1804, id. 16: *16 pl*. with text, 1804. – Schreber also contributed to Abt. I. 26: 1808 (one species).
+- (4) Translation of C. Linnaeus, *Reisen durch Oeland und Gothland*,... Halle (gedruckt und verlegt Johann Jacob Curt) 1764, 32, 364, 24 p., 2 maps, *pl. 1-3*, SO 207. – Original ed.: *Öland. Gothl. Resa* 1745, see TL-2/4737, SO 202.
+- (5) Translation of C. Linnaeus, *Reisen durch Westgothland*,... 1765.
 
 #### Thesis
 

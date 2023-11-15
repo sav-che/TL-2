@@ -8,7 +8,8 @@ Orphanides, Theodoros Georgios (1817-1886), Greek botanist and poet; studied in 
 
 #### Herbarium and types
 
-[[Collection ATHU|ATHU]]; also material at [[Collection ACA|ACA]] and [[Collection HUTH|HUTH]] and a large set at [[Collection WU|WU]]. – Exsiccatae: *Flora graeca exsiccata*, cent. 1-8, 1853-1862, sets in many herbaria. See Heldreich (1877) for a catalogue of O's Leguminosae.
+[[Collection ATHU|ATHU]]; also material at [[Collection ACA|ACA]] and [[Collection HUTH|HUTH]] and a large set at [[Collection WU|WU]].
+*Exsiccatae*: *Flora graeca exsiccata*, cent. 1-8, 1853-1862, sets in many herbaria. See Heldreich (1877) for a catalogue of O's Leguminosae.
 
 #### Bibliography and biography
 

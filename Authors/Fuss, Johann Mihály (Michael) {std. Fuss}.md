@@ -8,7 +8,8 @@ Fuss, Johann Mihály (Michael) (1814-1883), Transsylvanian botanist, originally 
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Herbarium normale transsilvanicum* (six sets issued, cent, i-xi, nos. 1-1 100, 1862-1872), set at [[Collection BP|BP]] (also at [[Collection CL|CL]], [[Collection LE|LE]] and [[Collection WRSL|WRSL]]?). Fuss also contributed to the *Flora exsiccata austro-hungarica*.
+Unknown.
+*Exsiccatae*: *Herbarium normale transsilvanicum* (six sets issued, cent, i-xi, nos. 1-1 100, 1862-1872), set at [[Collection BP|BP]] (also at [[Collection CL|CL]], [[Collection LE|LE]] and [[Collection WRSL|WRSL]]?). Fuss also contributed to the *Flora exsiccata austro-hungarica*.
 *Ref*.: IH 2: 213.
 - Candolle, Phytographie 414. 1880.
 - Sayre, Mem. New York Bot. Gard. 19(1): 27. 1969.

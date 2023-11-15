@@ -8,7 +8,8 @@ Takeda, Hisayoshi (1883-1972), Japanese botanist; graduated from Engineering Dep
 
 #### Herbarium and types
 
-Further material in [[Collection E|E]], [[Collection K|K]]. – *Exsiccatae plantae yezoenses*, fasc. 1 (nos. 1-25) 1909. – *Letters* at [[Collection G|G]].
+Further material in [[Collection E|E]], [[Collection K|K]].
+*Exsiccatae* plantae yezoenses*, fasc. 1 (nos. 1-25) 1909. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

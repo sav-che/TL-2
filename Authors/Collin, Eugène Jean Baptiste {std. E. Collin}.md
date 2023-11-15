@@ -20,7 +20,7 @@ Barnhart 1: 368 (b. 22 Jun 1845, d. 22 Dec 1919); BM 1: 366; Kew 1: 589; Rehder 
 
 #### Composite works
 
-(1) See TL-2/4: 284 (no. 8003), *Drogues simpl. veg.* 1894-95, co-author with G. Planchon.
+- (1) See TL-2/4: 284 (no. 8003), *Drogues simpl. veg.* 1894-95, co-author with G. Planchon.
 
 ### Publications
 

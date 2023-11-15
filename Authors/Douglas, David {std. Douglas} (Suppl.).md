@@ -92,8 +92,8 @@ AG 1: 189, 4: 534; Barnhart 1: 467; BB p. 94; BM 1: 474, 6: 277; Bossert p. 106;
 
 #### Composite works
 
-(1) Douglas David *in* Hooker, Bot. Mag.: 55: *pl. 2832.* 1 Jun 1828 (*Oenothera lindleyii*), 55: *pl. 2873.* Dec 1828 (*O. viminea*), 56: *pl. 2889.* Feb 1829 (*O. decumbens*).
-(2) Douglas, David *in* Lindley, John: 13: *pl. 1119.* 1 Jan 1828 (*O. quadrivulnera*), 19: *pl. 1575.* 1 Apr 1833 (*Clarkia elegans*).
+- (1) Douglas David *in* Hooker, Bot. Mag.: 55: *pl. 2832.* 1 Jun 1828 (*Oenothera lindleyii*), 55: *pl. 2873.* Dec 1828 (*O. viminea*), 56: *pl. 2889.* Feb 1829 (*O. decumbens*).
+- (2) Douglas, David *in* Lindley, John: 13: *pl. 1119.* 1 Jan 1828 (*O. quadrivulnera*), 19: *pl. 1575.* 1 Apr 1833 (*Clarkia elegans*).
 
 #### Note
 

@@ -28,11 +28,11 @@ Andrews p. 287; Barnhart 2: 304; BJI 1: 32, 2: 91;BL 1: 132, 172, 304; BM 2: 999
 
 #### Composite works
 
-(1) Fossil plants from Kukak Bay, *in Harriman Alaska Expedition* 4: \[147\]-162, pl. 22-32. 1904.
-(2) Fossil plants, *in* T. W. Stanton and J. B. Thatcher, *Geology and palaeontology of the Judith River Beds*, Washington 1905, p. 129-174, *pl. 14-19.*
-(3) *A report on the fossil plants of the Payette formation* in Waldemar Lindgren. The mining districts of the Idaho basin, 721-736, *pl. 99-102.*
-(4) Ward, L. F., *Guide to the flora of Washington*, editor of ed. 2.
-(5) Editor and founder (Sep 1902) of *The Plant World*, 1897-1904.
+- (1) Fossil plants from Kukak Bay, *in Harriman Alaska Expedition* 4: \[147\]-162, pl. 22-32. 1904.
+- (2) Fossil plants, *in* T. W. Stanton and J. B. Thatcher, *Geology and palaeontology of the Judith River Beds*, Washington 1905, p. 129-174, *pl. 14-19.*
+- (3) *A report on the fossil plants of the Payette formation* in Waldemar Lindgren. The mining districts of the Idaho basin, 721-736, *pl. 99-102.*
+- (4) Ward, L. F., *Guide to the flora of Washington*, editor of ed. 2.
+- (5) Editor and founder (Sep 1902) of *The Plant World*, 1897-1904.
 
 #### Eponymy
 

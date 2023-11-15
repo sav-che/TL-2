@@ -30,15 +30,15 @@ Backer p. 658; Barnhart 3: 74; BJI 2: 45; BL 2: 49, 56, 702; BM 4: 1556; Bossert
 
 #### Composite works
 
-(1) *in* Warming, *Symbolae*: *Marantaceae*, 33: 328-336. 1889 (publ. 8 Mai 1890, fide Fox Maule), Z*ingiberaceae*, 33: 327. 1889 (8 Mai 1890), *Cannaceae*, 33: 328. 1889 (8 Mai 1890), *Musaceae* 33: 327. 1889 (8 Mai 1890).
-(2) E.P., *Die natürlichen Pflanzenfamilien*, ed. 1:
+- (1) *in* Warming, *Symbolae*: *Marantaceae*, 33: 328-336. 1889 (publ. 8 Mai 1890, fide Fox Maule), Z*ingiberaceae*, 33: 327. 1889 (8 Mai 1890), *Cannaceae*, 33: 328. 1889 (8 Mai 1890), *Musaceae* 33: 327. 1889 (8 Mai 1890).
+- (2) E.P., *Die natürlichen Pflanzenfamilien*, ed. 1:
 (a) *Cannaceae*, 2(6): 30-32. Oct 1888.
 (b) *Halorrhagidaceae*, 3(7): 226-237. 21 Nov 1893.
 (c) *Musaceae*, 2(6): 1-10. Oct 1888.
 (d) *Trigoniaceae*, 3(4): 309-311. Jul 1896.
 (e) *Vochysiaceae*, 3(4): 312-319. Jul 1896.
 (f) *Zingiberaceae*, 2(6): 10-30. Oct 1888.
-(3) Martius, *Flora brasiliensis*:
+- (3) Martius, *Flora brasiliensis*:
 (a) *Cannaceae* 3(3) (fasc. 107): 63-80. 1 Jan 1890.
 (b) *Marantaceae*, 3(3): (fasc. 107): 81-172. 1 Jan 1890.
 (c) *Musaceae*, 3(3) (fasc. 107): 1-29. 1 Jan 1890.

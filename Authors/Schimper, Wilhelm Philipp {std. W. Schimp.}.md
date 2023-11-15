@@ -62,18 +62,18 @@ ADB 31: 277-279 (v. Gümbel); Andrews p. 327; Barnhart 3: 227 (b. 8 Jan 1808, d.
 
 #### Composite works
 
-(1) J.B. Mougeot, C. Nestler et W.P. Schimper, *Index alphabeticus*... 1843, see TL-2/6373.
-(2) *Mousses, in* L. Leresche et E. Levier, Deux excurs. bot. 1881; TL-2/4407, reprinted s.l.n.d. p. \[i\], \[1\]-14. *Copy*: G.
-(3) Editor and for a major part author of P. Bruch, W.P. Schimper et W.T. von Gümbel, *Bryol. eur.* 1836-1855, 6 vols. TL-2/844 (q.v. for full details). Other *copies* seen by us: BR, NY, USDA. – For a reply by W.P. Schimper to Karl Müller's criticism of the first 20 fascicles see Bot. Zeit. 2: 121-125, 134-139. 1844. – For details on preliminary fascicles as reported by Sayre (1982) see below.
-(4) *Palaeophytologie, in* K.A. Zittel, Handbuch der Palaeontologie vol. 2, Lief. 1, p. 1-152. 1879 (first use of term Bryophyta in the modern sense, fide R.M. Schuster, Hep. Anthoc. N. Amer. 1: 95. 1966.).
+- (1) J.B. Mougeot, C. Nestler et W.P. Schimper, *Index alphabeticus*... 1843, see TL-2/6373.
+- (2) *Mousses, in* L. Leresche et E. Levier, Deux excurs. bot. 1881; TL-2/4407, reprinted s.l.n.d. p. \[i\], \[1\]-14. *Copy*: G.
+- (3) Editor and for a major part author of P. Bruch, W.P. Schimper et W.T. von Gümbel, *Bryol. eur.* 1836-1855, 6 vols. TL-2/844 (q.v. for full details). Other *copies* seen by us: BR, NY, USDA. – For a reply by W.P. Schimper to Karl Müller's criticism of the first 20 fascicles see Bot. Zeit. 2: 121-125, 134-139. 1844. – For details on preliminary fascicles as reported by Sayre (1982) see below.
+- (4) *Palaeophytologie, in* K.A. Zittel, Handbuch der Palaeontologie vol. 2, Lief. 1, p. 1-152. 1879 (first use of term Bryophyta in the modern sense, fide R.M. Schuster, Hep. Anthoc. N. Amer. 1: 95. 1966.).
 
 #### Note
 
 G. Sayre (1982) provides the following details of four preliminary versions of parts of P. Bruch, W.P. Schimper & W.T. von Gümbel, *Bryol. eur.* 1836-1855, 6 vols. TL-2/844 (for full details see Sayre).:
-(1) *Fragmens de la bryologie d'Europe*... Buxbaumiacées. AA. p. \[1\]-7, *pl. 1-2.* Phascacées. BB. pages \[1\]-5, Tab. i, ii. CC. Comparaison entre les Phascum alternifolium, Phascum palustre et Phascum subulatum. Pages \[1\]-4. Tab. A. Mémoires de la Société du Museum d'Histoire naturelle de Strasbourg. Tome second. Paris... 1835, Publ. 5 Oct 1835.
-(2) *Die Laubmoose Europa's in Monographien*, bearbeitet von Bruch und W.P. Schimper. Erste Lieferung. Buxbaumiaceae. Pages \[1\]-6, Tab. i, ii. Erste Lieferung. Phascaceae. Archidium. pages \[1\], 2; Tab. i. Bruchia. pages \[1\], 2. Tab. ii. Voitia. pages \[1\], 2. Tab. ii. Phascum. Pages \[1\]-23. Tab. i-vii. \[Strasbourg: Gedruckt bei F.G. Levrault\], publ. 1835. – See Flora 19(2), Litt. 8: 113-114. 1836. (*Copy*: FH).
-(3) *Bryologie d'Europe*, publiée en monographies, par Bruch et W.P. Schimper. Première livraison. – No. I. Phascum. Pages \[1\]-23. Tab. i-vii. No. 2. Buxbaumiaceae. Buxbaumia. pages \[1\]-4. Tab. i, ii. Diphyscium. Pages \[1\]-3. Tab. ii. Paris. Chez J. Albert Merklein... 1836, publ. 25 Apr 1836.
-(4) *Bryologia europaea* seu genera muscorum europaeorum monographice illustrata auctoribus Bruch et W.P. Schimper. Fasciculus i. Cum tabula xi. Stuttgartiae. E. Schweizerbart. 1837, publ. Apr 1837.
+- (1) *Fragmens de la bryologie d'Europe*... Buxbaumiacées. AA. p. \[1\]-7, *pl. 1-2.* Phascacées. BB. pages \[1\]-5, Tab. i, ii. CC. Comparaison entre les Phascum alternifolium, Phascum palustre et Phascum subulatum. Pages \[1\]-4. Tab. A. Mémoires de la Société du Museum d'Histoire naturelle de Strasbourg. Tome second. Paris... 1835, Publ. 5 Oct 1835.
+- (2) *Die Laubmoose Europa's in Monographien*, bearbeitet von Bruch und W.P. Schimper. Erste Lieferung. Buxbaumiaceae. Pages \[1\]-6, Tab. i, ii. Erste Lieferung. Phascaceae. Archidium. pages \[1\], 2; Tab. i. Bruchia. pages \[1\], 2. Tab. ii. Voitia. pages \[1\], 2. Tab. ii. Phascum. Pages \[1\]-23. Tab. i-vii. \[Strasbourg: Gedruckt bei F.G. Levrault\], publ. 1835. – See Flora 19(2), Litt. 8: 113-114. 1836. (*Copy*: FH).
+- (3) *Bryologie d'Europe*, publiée en monographies, par Bruch et W.P. Schimper. Première livraison. – No. I. Phascum. Pages \[1\]-23. Tab. i-vii. No. 2. Buxbaumiaceae. Buxbaumia. pages \[1\]-4. Tab. i, ii. Diphyscium. Pages \[1\]-3. Tab. ii. Paris. Chez J. Albert Merklein... 1836, publ. 25 Apr 1836.
+- (4) *Bryologia europaea* seu genera muscorum europaeorum monographice illustrata auctoribus Bruch et W.P. Schimper. Fasciculus i. Cum tabula xi. Stuttgartiae. E. Schweizerbart. 1837, publ. Apr 1837.
 
 #### Handwriting
 

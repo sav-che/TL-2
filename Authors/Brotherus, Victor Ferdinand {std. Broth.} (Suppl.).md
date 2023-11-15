@@ -43,16 +43,16 @@ Barnhart 1: 259; BL 2: 62, 96; BM 1: 258, 6: 145-146; Bossert p. 54; Clokie p. 1
 
 #### Composite works
 
-(1), (2) see TL-2/1: 360.
-(3) *Bryophyta*, *in* N.E. Brown et al., Report on two botanical collections... at Mount Roraima in British Guiana, Trans. Linn. Soc. Bot. ser. 2. 6: 88-100. 1900.
-(4) *Musci*, *in* G. Raddle and A. Walker, Collectae, Petropoli 1888, p. 562-568. – Saelan no.
+- (1), (2) see TL-2/1: 360.
+- (3) *Bryophyta*, *in* N.E. Brown et al., Report on two botanical collections... at Mount Roraima in British Guiana, Trans. Linn. Soc. Bot. ser. 2. 6: 88-100. 1900.
+- (4) *Musci*, *in* G. Raddle and A. Walker, Collectae, Petropoli 1888, p. 562-568. – Saelan no.
 18. – The chapter on musci was also reprinted with the t.p. of the Radde and Walker publ., followed by p. \[ii, verso of t.p., identif.\], \[1\]-7. *Copy*: B.
-(5) *Musci lapponicae kolaënsis*... Helsingforsiae 1890, see under Anders Thiodolf Saelan, TL-2/9981. – Brotherus senior author. *Copies*: B, FI, H, L, U.
-(6) *Bryales*, *in* Johs. Schmidt, *Flora of Koh Chang*, see TL-2/10.891, Bot. Tidsskr. 24(2): 115-125. Aug 1901, also in reprint with three other authors: C.B. Clarke et al., Bryales on p. \[61\]-71. 1901 (*Copy*: B). – Collander et al. no. 64.
-(7) Die *Laubmoose* der Deutschen Südpolar-Expedition 1901-1903 von Dr. V.F. Brotherus ... *in* Erich von Drygalski, *Deutsche Südpolar-Expedition* 1901-1903, 8(Bot.), Heft 1, no. 4, p. 83-96, *pl. 7-8* (uncol.). Berlin (Druck und Verlag von Georg Reimer) 1906. Oct. – Collander no. 78.
-(8) *Die Laubmoose der Insel Lombok*, *in* H. Hallier, *Bot. Erg. Elbert'schen Sunda-Exp. I*, Med. Rijks Herb. Leiden 14: 15-30. 1912.
-(9) *Musci*, *in* J. Brunnthaler, *Ergeb. Bot. Forschungsreise Deut.-O. Afrika*, Denkschr. math.-wiss. Kl. Kais. Akad. Wiss. Wien 88: 734-743. 1913, also in reprint of the Brunnthaler paper p. 24-33. *Copy*: B.
-(10) *Les mousses*, J. Cardot and V.F. Brotherus, *in Botanische Ergebnisse der schwedischen Expedition nach Patagonien* und dem Feuerlande 1907-1909. – See sub J. Cardot. – Collander: J. Cardot no. 1, q.v. – Review by John H. Holzinger, Bryologist 27(4). 66-67. 19 Sep 1924.
+- (5) *Musci lapponicae kolaënsis*... Helsingforsiae 1890, see under Anders Thiodolf Saelan, TL-2/9981. – Brotherus senior author. *Copies*: B, FI, H, L, U.
+- (6) *Bryales*, *in* Johs. Schmidt, *Flora of Koh Chang*, see TL-2/10.891, Bot. Tidsskr. 24(2): 115-125. Aug 1901, also in reprint with three other authors: C.B. Clarke et al., Bryales on p. \[61\]-71. 1901 (*Copy*: B). – Collander et al. no. 64.
+- (7) Die *Laubmoose* der Deutschen Südpolar-Expedition 1901-1903 von Dr. V.F. Brotherus ... *in* Erich von Drygalski, *Deutsche Südpolar-Expedition* 1901-1903, 8(Bot.), Heft 1, no. 4, p. 83-96, *pl. 7-8* (uncol.). Berlin (Druck und Verlag von Georg Reimer) 1906. Oct. – Collander no. 78.
+- (8) *Die Laubmoose der Insel Lombok*, *in* H. Hallier, *Bot. Erg. Elbert'schen Sunda-Exp. I*, Med. Rijks Herb. Leiden 14: 15-30. 1912.
+- (9) *Musci*, *in* J. Brunnthaler, *Ergeb. Bot. Forschungsreise Deut.-O. Afrika*, Denkschr. math.-wiss. Kl. Kais. Akad. Wiss. Wien 88: 734-743. 1913, also in reprint of the Brunnthaler paper p. 24-33. *Copy*: B.
+- (10) *Les mousses*, J. Cardot and V.F. Brotherus, *in Botanische Ergebnisse der schwedischen Expedition nach Patagonien* und dem Feuerlande 1907-1909. – See sub J. Cardot. – Collander: J. Cardot no. 1, q.v. – Review by John H. Holzinger, Bryologist 27(4). 66-67. 19 Sep 1924.
 
 ### Publications
 

@@ -10,11 +10,11 @@ Tausch, Ignaz Friedrich (1793-1848), Bohemian botanist; studied philosophy, natu
 
 [[Collection PR|PR]] (Czech herb.), [[Collection PRC|PRC]]; further material [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection PH|PH]], [[Collection REG|REG]], [[Collection W|W]] (p.p. series of exsicc). – The Hortus Canalius was mainly based on plants from the garden of count Joseph Malabaila von Canal (1745-1826). This garden was at the time a center of botanical activity at which courses in botany were taught by such men as F.W. Schmidt (1791-1796), J.C. Mikan (1796-1801), Joh. Nowodworsky (1801-1811), J.E. Pohl (1811-1815), I.F. Tausch (1815-1826).
 *Exsiccatae*(*1*) *Herbarium florae Bohemiae universale*. Sets at [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection LE|LE]], [[Collection PRC|PRC]], [[Collection W|W]] (Tausch, Flora 16(1): 281-286. 1833 discusses material in cent. 1, 1832; for a catalogue see J. Ott, *Cat. fl. Böhm*. 1851, TL-2/7137; see also Herbarium 15: 132. 1910, 2050 nos.).
-(2) *Dendrotheca bohemica* (see Tausch, Flora 17(2), Intell.-Bl. 2: 17-18. 1834, complete with 212 species. Set at [[Collection W|W]].
-(3) *Dendrotheca exoto-bohemica* (see I.F. Tausch, Flora 21: 713-724, 729-740, 745-755. 1838. (Herbarium 6: 47. 1908 mentions 4 Lief., 308 species; Tausch, Flora 17(2), Intell.-Bl. 2: 18-20. 1834 lists contents Lief. 1-3, 1833-1834; 21(1) Intell.-Bl. 11-12. 1838 on fasc. 5; Flora 28: 254-255. 1845 on fasc. 6).
-(4) *Agrostotheca bohemica* (see Herbarium 15: 132. 1910, 256 species; Tausch, Flora 16(1) Intell.-Bl. 1: 2. 1833, 17(2) Intell.-Bl. 2: 20-21. 1834, complete with 256 nos.
-(5) *Plantae selectae florae bohemicae* (see Flora 16(1) Intell.-Bl. 1: 2. 1833 (fasc. 2 publ.), 16(1): 128. 1833 (lists cont.), 17(2): 444-447. 1834; Tausch, Flora 17(2), Intell.-Bl. 2: 21-22. 1834, 3 fasc. publ.; lists contents fasc. 3; Flora 14 Mar 1839: fasc. 4).
-(6) *Collectio Hieraciorum et Salicum sudetorum* (see Herbarium 15: 132. 1910: 60 species). *Letters* at [[Collection G|G]], [[Collection UPS|UPS]]-UB.
+- (2) *Dendrotheca bohemica* (see Tausch, Flora 17(2), Intell.-Bl. 2: 17-18. 1834, complete with 212 species. Set at [[Collection W|W]].
+- (3) *Dendrotheca exoto-bohemica* (see I.F. Tausch, Flora 21: 713-724, 729-740, 745-755. 1838. (Herbarium 6: 47. 1908 mentions 4 Lief., 308 species; Tausch, Flora 17(2), Intell.-Bl. 2: 18-20. 1834 lists contents Lief. 1-3, 1833-1834; 21(1) Intell.-Bl. 11-12. 1838 on fasc. 5; Flora 28: 254-255. 1845 on fasc. 6).
+- (4) *Agrostotheca bohemica* (see Herbarium 15: 132. 1910, 256 species; Tausch, Flora 16(1) Intell.-Bl. 1: 2. 1833, 17(2) Intell.-Bl. 2: 20-21. 1834, complete with 256 nos.
+- (5) *Plantae selectae florae bohemicae* (see Flora 16(1) Intell.-Bl. 1: 2. 1833 (fasc. 2 publ.), 16(1): 128. 1833 (lists cont.), 17(2): 444-447. 1834; Tausch, Flora 17(2), Intell.-Bl. 2: 21-22. 1834, 3 fasc. publ.; lists contents fasc. 3; Flora 14 Mar 1839: fasc. 4).
+- (6) *Collectio Hieraciorum et Salicum sudetorum* (see Herbarium 15: 132. 1910: 60 species). *Letters* at [[Collection G|G]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 
@@ -37,8 +37,8 @@ AG 1: 34-35, 4: 274, 5(1): 686; Backer p. 662; Barnhart 3: 362; Biol.-Dokum. 17:
 
 #### Composite works
 
-(1) See J. Ott, *Cat. Fl. Böhm*. 1851, see TL-2/7137. *Copies*: FI, G. – Published before 8 Mai 1851 (ÖbW).
-(2) See J. Ott, *Fundorte Fl. Böhm*. ed. 1, 1851 (*copies*: FI, G), ed. 2, 1859 (*copy*: NY), see TL-2/7138.
+- (1) See J. Ott, *Cat. Fl. Böhm*. 1851, see TL-2/7137. *Copies*: FI, G. – Published before 8 Mai 1851 (ÖbW).
+- (2) See J. Ott, *Fundorte Fl. Böhm*. ed. 1, 1851 (*copies*: FI, G), ed. 2, 1859 (*copy*: NY), see TL-2/7138.
 
 #### Eponymy
 

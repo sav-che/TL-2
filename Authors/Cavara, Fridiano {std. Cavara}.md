@@ -10,7 +10,8 @@ Cavara, Fridiano (1857-1929), Italian mycologist, director of the Napoli botanic
 
 #### Herbarium and types
 
-[[Collection NAP|NAP]]; fungi at [[Collection PAD|PAD]] (fide Hawksworth). Exsiccatae: *Fungi Longobardiae exsiccati, fasc. 1*, nos. 1-250, 1891-1895, complete sets e.g. at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection W|W]]; for fasc. 6-7 ( = ser. 2) see *G. Pollacci.*
+[[Collection NAP|NAP]]; fungi at [[Collection PAD|PAD]] (fide Hawksworth).
+*Exsiccatae*: *Fungi Longobardiae exsiccati, fasc. 1*, nos. 1-250, 1891-1895, complete sets e.g. at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection W|W]]; for fasc. 6-7 ( = ser. 2) see *G. Pollacci.*
 *Ref*.: IH 2: 119.
 - Hawksworth, Mycologist's handb. 181. 1974.
 

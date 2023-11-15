@@ -26,9 +26,9 @@ Barnhart 3: 506 (17 Dec 1839, d. 3 Mai 1914); BM 5: 2336, 8: 1443-1444; ME 1: 24
 
 #### Composite works
 
-(1) *Catalogue of phanerogamous and acrogenous plants* found growing *in the lower peninsula of Michigan* and the islands at the head of Lake Huron, *in* Alexander Winchell, Rep. State Geol. Surv. Michigan 1861(3): \[243\]-330.
-(2) *List of trees and shrubs, in* W. Ludlow, Rept. reconn. Black Hills Dakota 1875, 67-73.
-(3) Main founder and editor of the *American Geologist* 1888-1905.
+- (1) *Catalogue of phanerogamous and acrogenous plants* found growing *in the lower peninsula of Michigan* and the islands at the head of Lake Huron, *in* Alexander Winchell, Rep. State Geol. Surv. Michigan 1861(3): \[243\]-330.
+- (2) *List of trees and shrubs, in* W. Ludlow, Rept. reconn. Black Hills Dakota 1875, 67-73.
+- (3) Main founder and editor of the *American Geologist* 1888-1905.
 
 #### Eponymy
 

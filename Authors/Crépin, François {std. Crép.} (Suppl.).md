@@ -63,9 +63,9 @@ AG 6(1): 56, 186; Andrews ed. 2, p. 249; Barnhart 1: 395 (b. 30 Oct 1830, Rochef
 
 #### Notes
 
-(1) Review by Crépin of F. Hegelmaier," *Monographie der Gattung Callitriche*" (see TL-2/2558), *in* Bull. Soc. roy. bot. Belg. 4(1): 55-60. 1865, reprinted p. \[1\]-6. *Copy*: B.
-(2) Id. of Ch. Grenier, *Flore de la Chaîne jurassique*, première partie (see TL-2/2156), *in* Bull. Soc. roy. bot. Belg. 4(2): 155-164. 1865, reprinted p. \[1\]-11. *Copy*: B.
-(4) Préface et annotations for Pons and Abbé Coste, *Herbarium Rosarum* fasc. 1-5, 1895-1900. – See Coste.
+- (1) Review by Crépin of F. Hegelmaier," *Monographie der Gattung Callitriche*" (see TL-2/2558), *in* Bull. Soc. roy. bot. Belg. 4(1): 55-60. 1865, reprinted p. \[1\]-6. *Copy*: B.
+- (2) Id. of Ch. Grenier, *Flore de la Chaîne jurassique*, première partie (see TL-2/2156), *in* Bull. Soc. roy. bot. Belg. 4(2): 155-164. 1865, reprinted p. \[1\]-11. *Copy*: B.
+- (3) Préface et annotations for Pons and Abbé Coste, *Herbarium Rosarum* fasc. 1-5, 1895-1900. – See Coste.
 
 ### Publications
 

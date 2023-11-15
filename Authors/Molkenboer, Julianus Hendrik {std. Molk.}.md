@@ -28,10 +28,10 @@ Backer p. 377; Barnhart 2: 503; BL 2: 440, 692; BM 3: 1334; Bossert p. 271; CSP 
 
 #### Composite works
 
-(1)*Nederlands kruidkundig Archief*, vols. 1-2, 3(1-2). 1846-1854, editor.
-(2) Miquel, F. A. W., *Plantae Junghuhnianae, Umbelliferae-Loranthaceae*.
-(3) Bosch, R. B. v., *Prodromus florae batavae*, editor of vol. 2(1), see Tl-2/679.
-(4) See F. Dozy, TL-2/1509-1512. *Note*: Dozy & Molkenboer, *Musc. frond. archip. ind.*, no. 1509, was published 5-10 Aug 1844 fide Ned. Staatscourant 17 Aug 1844.
+- (1) *Nederlands kruidkundig Archief*, vols. 1-2, 3(1-2). 1846-1854, editor.
+- (2) Miquel, F. A. W., *Plantae Junghuhnianae, Umbelliferae-Loranthaceae*.
+- (3) Bosch, R. B. v., *Prodromus florae batavae*, editor of vol. 2(1), see Tl-2/679.
+- (4) See F. Dozy, TL-2/1509-1512. *Note*: Dozy & Molkenboer, *Musc. frond. archip. ind.*, no. 1509, was published 5-10 Aug 1844 fide Ned. Staatscourant 17 Aug 1844.
 
 #### Eponymy
 

@@ -16,7 +16,7 @@ Barnhart 1: 305 (b. 1870, Mytilene); CSP 14: 44; Kew 1: 468; Tucker 1: 134.
 
 #### Note
 
-(1): *Flore de l'île de Lesbos*. Bull. Soc. bot. France 44: 140-144, 145-162, 369-373, 449-462, 897, 45: 108-115, 181-192. 1898 (plants collected by C.A. and P.C. Candargy).
+- (1): *Flore de l'île de Lesbos*. Bull. Soc. bot. France 44: 140-144, 145-162, 369-373, 449-462, 897, 45: 108-115, 181-192. 1898 (plants collected by C.A. and P.C. Candargy).
 
 ### Publications
 

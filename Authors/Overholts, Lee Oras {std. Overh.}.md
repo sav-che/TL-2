@@ -26,8 +26,8 @@ Barnhart 3: 38; Bossert p. 296; Hawksworth p. 185; Hirsch p. 222; IH 2: (in pres
 
 #### Composite works
 
-(1) *Pholiota, Hypodendrum in*NAF 10(4): 261-276. 29 Nov 1924, 10(5): 277-281. 21 Nov 1932 (see also his *Monograph of the genus Pholiota*,Ann. Missouri bot. Gard. 14: 87-210, *pl. 8-24.* Apr 1927.
-(2) *Hymenomycetes*,*in*C. E. Chardon and R. A. Toro, Mycological explorations of Venezuela 304-316. Oct 1934 (Monogr. Univ. Puerto Rico B 2).
+- (1) *Pholiota, Hypodendrum in*NAF 10(4): 261-276. 29 Nov 1924, 10(5): 277-281. 21 Nov 1932 (see also his *Monograph of the genus Pholiota*,Ann. Missouri bot. Gard. 14: 87-210, *pl. 8-24.* Apr 1927.
+- (2) *Hymenomycetes*,*in*C. E. Chardon and R. A. Toro, Mycological explorations of Venezuela 304-316. Oct 1934 (Monogr. Univ. Puerto Rico B 2).
 
 #### Note
 

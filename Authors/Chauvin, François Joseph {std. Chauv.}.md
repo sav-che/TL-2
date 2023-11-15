@@ -8,7 +8,8 @@ Chauvin, François Joseph (1797-1859), French algologist.
 
 #### Herbarium and types
 
-[[Collection CN|CN]]. – *Exsiccatae.Algues de la Normandie*, recueillies et publiées, la partie des Articulées par M. Roberge \[Michel Robert Roberge x-1864\], et la partie des Inarticulées par F. J. Chauvin (Fasc. 1-8, nos. 1-200) Caen 1826-1838. Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection CN|CN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection L|L]], [[Collection LG|LG]], [[Collection NEU|NEU]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection TL|TL]]. *Reliquiae chauvinianae* were distributed around 1860 (Flora 43: 190-192. 1860, Bot. Zeit. 18: 109-111. 1860); they included parts of the Algues de la Normandie.
+[[Collection CN|CN]].
+*Exsiccatae*. *Algues de la Normandie*, recueillies et publiées, la partie des Articulées par M. Roberge \[Michel Robert Roberge x-1864\], et la partie des Inarticulées par F. J. Chauvin (Fasc. 1-8, nos. 1-200) Caen 1826-1838. Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection CN|CN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection L|L]], [[Collection LG|LG]], [[Collection NEU|NEU]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection TL|TL]]. *Reliquiae chauvinianae* were distributed around 1860 (Flora 43: 190-192. 1860, Bot. Zeit. 18: 109-111. 1860); they included parts of the Algues de la Normandie.
 *Ref*.: IH 1 (ed. 6): 357, 2: 123.
 - Anon., Flora 42: 256. 1859.
 - Frémy, "Les algues de Normandie" de Chauvin, revision critique. Caen 1925 (see under Frémy).

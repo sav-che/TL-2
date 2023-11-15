@@ -12,9 +12,9 @@ Ruprecht, Franz Josef (1814-1870) Austro-Bohemian botanist; studied medicine in 
 
 #### Note
 
-(1) According to Maximowicz (1871) in his biography of Ruprecht, R.'s father was a supply officer in the Austrian army, stationed at Praha, who moved around with the army during the Napoleonic years. Ruprecht was born in Freiburg in Breisgau 1 Nov 1814 and moved around with the family until the end of the war. Ruprecht Sr. then moved back to Praha and Franz Josef grew up and went to school in that city. – Ruprecht married the Baltic-German (Riga) Caroline Meinshausen (1847), sister of C.A. Meyer's wife. Ruprecht acquired Russian nationality after his marriage. Klášterský et al. (1970) state that Ruprecht was born at Praha.
-(2) In some of his publications Ruprecht calls himself "Frans Joseph", in Russian he is also called "Franz Joseph Ivanovich".
-(3) While still in Praha Ruprecht collected for Opiz and H.L. Reichenbach and worked on *Tentamen agro stographia universalis* (1838). Through Trinius he was appointed curator of the botanical collections of the St. Petersburg academy in 1839. In the following years Ruprecht travelled widely all over the territory of what is now the Soviet Union and published critical regional floras, e.g. the *Flora ingrica*. Ruprecht became an associate member of the St. Petersburg Academy in 1848, extraordinary member in 1853 and "ordinarius" in 1857. From 1851-1855 he was assistant director of the Imperial Botanic Garden, in 1855 he succeeded C.A. Meyer as director of the Botanical Museum of the Academy, a position which he held until his death. Ruprecht's scientific achievements cover a broad field: regional floras, phycology, phytogeography, geography and soil science (has made an extensive study for instance of the Tschornosjom).
+- (1) According to Maximowicz (1871) in his biography of Ruprecht, R.'s father was a supply officer in the Austrian army, stationed at Praha, who moved around with the army during the Napoleonic years. Ruprecht was born in Freiburg in Breisgau 1 Nov 1814 and moved around with the family until the end of the war. Ruprecht Sr. then moved back to Praha and Franz Josef grew up and went to school in that city. – Ruprecht married the Baltic-German (Riga) Caroline Meinshausen (1847), sister of C.A. Meyer's wife. Ruprecht acquired Russian nationality after his marriage. Klášterský et al. (1970) state that Ruprecht was born at Praha.
+- (2) In some of his publications Ruprecht calls himself "Frans Joseph", in Russian he is also called "Franz Joseph Ivanovich".
+- (3) While still in Praha Ruprecht collected for Opiz and H.L. Reichenbach and worked on *Tentamen agro stographia universalis* (1838). Through Trinius he was appointed curator of the botanical collections of the St. Petersburg academy in 1839. In the following years Ruprecht travelled widely all over the territory of what is now the Soviet Union and published critical regional floras, e.g. the *Flora ingrica*. Ruprecht became an associate member of the St. Petersburg Academy in 1848, extraordinary member in 1853 and "ordinarius" in 1857. From 1851-1855 he was assistant director of the Imperial Botanic Garden, in 1855 he succeeded C.A. Meyer as director of the Botanical Museum of the Academy, a position which he held until his death. Ruprecht's scientific achievements cover a broad field: regional floras, phycology, phytogeography, geography and soil science (has made an extensive study for instance of the Tschornosjom).
 
 #### Bibliography and biography
 
@@ -48,8 +48,8 @@ ADB 29: 748-753; AG 2(1): 263; Andrews p. 322; Backer p. 504 (epon.); Barnhart 3
 
 #### Composite works
 
-(1) A. Postels & F.J. Ruprecht, *Illustrationes algarum*, Petropoli 1840, see under Postels.
-(2) with F. Osten-Saken, *Sert. tianschan.* 1869, TL-2/7128.
+- (1) A. Postels & F.J. Ruprecht, *Illustrationes algarum*, Petropoli 1840, see under Postels.
+- (2) with F. Osten-Saken, *Sert. tianschan.* 1869, TL-2/7128.
 
 #### Handwriting
 

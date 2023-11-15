@@ -24,8 +24,8 @@ AG 1: 385; Barnhart 1: 299 (b. 9 Sep 1821, Faenza, d. 2 Jun 1884, Faenza); BL 2:
 
 #### Composite works
 
-(1) *Primulaceae*, *in* T. Caruel, *Flora italiana* 8(3).
-(2) See O. Mattirolo, *I funghi ipogei italiani*... Torino 1903. – Author used material collected by Caldesi, see TL-2/5698.
+- (1) *Primulaceae*, *in* T. Caruel, *Flora italiana* 8(3).
+- (2) See O. Mattirolo, *I funghi ipogei italiani*... Torino 1903. – Author used material collected by Caldesi, see TL-2/5698.
 
 ### Publications
 

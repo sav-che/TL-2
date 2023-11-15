@@ -27,8 +27,8 @@ Backer p. 425; Barnhart 3: 51; BM 4: 1524; Bossert p. 301; CSP 4: 762-763, 12: 5
 
 #### Composite works
 
-(1) Co-editor of *Annales de Chimie et de Physique* 33-88, 1799-1813.
-(2) Contributed to Déterville, *Nouv. dict. hist. nat.*, ed. 1, 1802-1804, ed. 2, 1816-1819.
+- (1) Co-editor of *Annales de Chimie et de Physique* 33-88, 1799-1813.
+- (2) Contributed to Déterville, *Nouv. dict. hist. nat.*, ed. 1, 1802-1804, ed. 2, 1816-1819.
 
 #### Postage stamps
 

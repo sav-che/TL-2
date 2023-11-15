@@ -24,8 +24,8 @@ AG 2(2): 71; Backer p. 304; Barnhart 2: 302; BM 2: 997; Bossert p. 214; CSP 16: 
 
 #### Composite works
 
-(1) *Allgemeine botanische Zeitschrift*, editor, 1895-1927, vols. 1-33. – Published very regularly every month from 1895-1913. The journal is a rich source of information for European floristics with extensive biographical and bibliographical notices, data on series of exsiccatae, etc. The journal appeared "pünktlich am 15. jeden Monats" and for some time played the role played previously by *Flora*.
-(2) *Carex*, in Seubert & Klein, *Excursions flora für das Grossherzogthum Baden*, Stuttgart, ed. 5, 1891, and ed. 6, 1905.
+- (1) *Allgemeine botanische Zeitschrift*, editor, 1895-1927, vols. 1-33. – Published very regularly every month from 1895-1913. The journal is a rich source of information for European floristics with extensive biographical and bibliographical notices, data on series of exsiccatae, etc. The journal appeared "pünktlich am 15. jeden Monats" and for some time played the role played previously by *Flora*.
+- (2) *Carex*, in Seubert & Klein, *Excursions flora für das Grossherzogthum Baden*, Stuttgart, ed. 5, 1891, and ed. 6, 1905.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection TRH|TRH]] (orig., 3880 collections, incl. 428 types), also alg. at [[Collection BRSL|BRSL]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]] (calcaerous alg.), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection O|O]], [[Collection PC|PC]], [[Collection USNC|USNC]]. – *Exsiccatae*: Foslie, M.H. & Olav Gjaerevoll (1916-1993), *Libothamnia selecta exsiccata*, Vitenskapsselskapets Museum Trondheim, nos. 1-32, 1950) (*Lithothamnia Sel. Exs.*): [[Collection BM|BM]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]]. *Note*: The exsiccata are only numbered in the accompanying index. – Mss. materials (esp. corr.) in the Gunnerus Library, Museum of Natural History and Archaeology, Trondheim; also some corr. in [[Collection PC|PC]].
+[[Collection TRH|TRH]] (orig., 3880 collections, incl. 428 types), also alg. at [[Collection BRSL|BRSL]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]] (calcaerous alg.), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection O|O]], [[Collection PC|PC]], [[Collection USNC|USNC]].
+*Exsiccatae*: Foslie, M.H. & Olav Gjaerevoll (1916-1993), *Libothamnia selecta exsiccata*, Vitenskapsselskapets Museum Trondheim, nos. 1-32, 1950) (*Lithothamnia Sel. Exs.*): [[Collection BM|BM]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]]. *Note*: The exsiccata are only numbered in the accompanying index. – Mss. materials (esp. corr.) in the Gunnerus Library, Museum of Natural History and Archaeology, Trondheim; also some corr. in [[Collection PC|PC]].
 
 #### Bibliography and biography
 
@@ -43,15 +44,15 @@ APN p. 206; Barnhart 1: 561; Biol.-Dokum. 6: 70.584-70.587; BJI 1: 19; BM 2: 598
 
 #### Composite works
 
-(1) Contributed material for *Algae aquae dulcis exsiccatae*... 1877-1903, see TL-2/7: 407, where no mention is made of Foslie.
-(2) Published "Ueber eine neue Laminaria (*Laminaria Schinzii*) aus *Westafrika*" *in* H. Schinz *Beiträge zur Kenntniss der Afrikanischen Flora*... no. 1, 1893, see TL-2/5, nr.
+- (1) Contributed material for *Algae aquae dulcis exsiccatae*... 1877-1903, see TL-2/7: 407, where no mention is made of Foslie.
+- (2) Published "Ueber eine neue Laminaria (*Laminaria Schinzii*) aus *Westafrika*" *in* H. Schinz *Beiträge zur Kenntniss der Afrikanischen Flora*... no. 1, 1893, see TL-2/5, nr.
 10.710.
-(3) *Libothamnion* species (p. 9-14) *in* L.K. Rosenvigne, *Deux. mém. alg. mar. Groenland*... 1898, see TL-2/4, nr. 9543, where no mention is made of Foslie.
-(4) "Corallinaceae" *in* J. Schmidt, *Flora of Koh Chang*... 1901, see TL-2/5, nr. 10.891.
-(5) "Co-author" with A.A. Weber-van Bosse, *Corallinac. Siboga-Exped.*... 1904, see TL-2/7, nr. 16.193; one of the three parts contributed solely by Foslie and the other two by Weber-van Bosse.
-(6) "Corallinaceae" *in* K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln*... 1907, see TL-2/4, nr. 8726(1).
-(7) *Goniolithon*, *Lithophyllum* and *Lithothamnion* (p. 578-579) *in* T. Reinbold, *Meeresalg. deut. Tiefsee-Exped.*... 1907, see TL-2/4, nr. 8912, where no mention is made of Foslie.
-(8) Posthumously published "IV. *Calcareous Algæ*" (p. 91) *in* William Speirs Bruce & R.N. Rudmose Brown (eds.), *Report* on the *scientific results* of the *voyage* of *S.Y.* "*Scotia*" during the years 1902, 1903, and 1904, under the leadership of William S. Bruce...Volume III. – *Botany*, Edinburgh (The Scottish Oceanographical Laboratory)... 1912, which was extracted from Algologiske Notiser \[I\]... 1904 \[1905?\] (see nr. 35.205 below).
+- (3) *Libothamnion* species (p. 9-14) *in* L.K. Rosenvigne, *Deux. mém. alg. mar. Groenland*... 1898, see TL-2/4, nr. 9543, where no mention is made of Foslie.
+- (4) "Corallinaceae" *in* J. Schmidt, *Flora of Koh Chang*... 1901, see TL-2/5, nr. 10.891.
+- (5) "Co-author" with A.A. Weber-van Bosse, *Corallinac. Siboga-Exped.*... 1904, see TL-2/7, nr. 16.193; one of the three parts contributed solely by Foslie and the other two by Weber-van Bosse.
+- (6) "Corallinaceae" *in* K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln*... 1907, see TL-2/4, nr. 8726(1).
+- (7) *Goniolithon*, *Lithophyllum* and *Lithothamnion* (p. 578-579) *in* T. Reinbold, *Meeresalg. deut. Tiefsee-Exped.*... 1907, see TL-2/4, nr. 8912, where no mention is made of Foslie.
+- (8) Posthumously published "IV. *Calcareous Algæ*" (p. 91) *in* William Speirs Bruce & R.N. Rudmose Brown (eds.), *Report* on the *scientific results* of the *voyage* of *S.Y.* "*Scotia*" during the years 1902, 1903, and 1904, under the leadership of William S. Bruce...Volume III. – *Botany*, Edinburgh (The Scottish Oceanographical Laboratory)... 1912, which was extracted from Algologiske Notiser \[I\]... 1904 \[1905?\] (see nr. 35.205 below).
 
 ### Publications
 

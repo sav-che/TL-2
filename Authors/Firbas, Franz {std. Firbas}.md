@@ -23,9 +23,9 @@ Barnhart 1: 542; BFM p. 283 (index); Biol.-Dokum. 6: 67.403-67.433; Bossert p. 1
 
 #### Composite works
 
-(1) Author of seed plants ("Samenpflanzen") and plant geography ("Pflanzengeographie") *in* E.A. Strasburger, *Lehrb. Bot.*, eds. 20-29, 1939-1967, see TL-2/6, nr. 13.237.
-(2) "Referent" for systematic botany and plant geography, *Fortschritte der Botanik*, vols. 11-23 (1944-1961).
-(3) Co-editor, *Flora*, vols. 139-154 (1952-1964).
+- (1) Author of seed plants ("Samenpflanzen") and plant geography ("Pflanzengeographie") *in* E.A. Strasburger, *Lehrb. Bot.*, eds. 20-29, 1939-1967, see TL-2/6, nr. 13.237.
+- (2) "Referent" for systematic botany and plant geography, *Fortschritte der Botanik*, vols. 11-23 (1944-1961).
+- (3) Co-editor, *Flora*, vols. 139-154 (1952-1964).
 
 #### Festschrift
 

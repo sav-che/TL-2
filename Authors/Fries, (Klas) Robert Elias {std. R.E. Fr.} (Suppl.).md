@@ -46,9 +46,9 @@ Ainsworth p. 259, 260; APN p. 211; Barnhart 2: 11; Biol.-Dokum. 6: 73.698-73.723
 
 #### Outside our period
 
-(1) Determined Anonaceae for R.-H. Chodat & E. Hassler, *Pl. Hassl.* ... 1904 (see TL-2/2, nr. 2475).
-(2) First author with his younger brother T.C.E. Fries, *Phytogeographical researches on Mt. Kenya and Mt. Aberdare, British East Africa*... 1948.
-(3) A short *history* of *botany* in *Sweden*... \[with contributions by Karl Vilhelm Ossian Dahlgren (1888-x) et al.\], 162 p., 2 maps (fold. col.) 1950, which was prepared for the Seventh Intl. Bot. Congr., held in Stockholm in 1950.
+- (1) Determined Anonaceae for R.-H. Chodat & E. Hassler, *Pl. Hassl.* ... 1904 (see TL-2/2, nr. 2475).
+- (2) First author with his younger brother T.C.E. Fries, *Phytogeographical researches on Mt. Kenya and Mt. Aberdare, British East Africa*... 1948.
+- (3) A short *history* of *botany* in *Sweden*... \[with contributions by Karl Vilhelm Ossian Dahlgren (1888-x) et al.\], 162 p., 2 maps (fold. col.) 1950, which was prepared for the Seventh Intl. Bot. Congr., held in Stockholm in 1950.
 
 #### Note
 
@@ -56,8 +56,8 @@ In 1924, Fries assumed co-editorship with his younger brother T.C.E. Fries of a 
 
 #### Composite works
 
-(1) Edited and published V.B. Wittrock, *Anteckningar om Nordiska namn*... *Stellaria media*... 1918, see TL-2/7, nr. 18.136.
-(2) Contributed Annonaceae to A.A. Pulle, *Fl. Suriname* 2(2): 341-383. 1940 (see TL-2/4, nr. 8393). *Copies* \[of reprint\]: G, US.
+- (1) Edited and published V.B. Wittrock, *Anteckningar om Nordiska namn*... *Stellaria media*... 1918, see TL-2/7, nr. 18.136.
+- (2) Contributed Annonaceae to A.A. Pulle, *Fl. Suriname* 2(2): 341-383. 1940 (see TL-2/4, nr. 8393). *Copies* \[of reprint\]: G, US.
 
 ### Publications
 

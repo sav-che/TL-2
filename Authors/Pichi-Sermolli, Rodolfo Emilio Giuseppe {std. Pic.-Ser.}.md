@@ -25,8 +25,8 @@ BFM no. 1405, 2319; BL 2: 338, 401, 703; Bossert p. 310 (b. 24 Feb 1912); GR p. 
 
 #### Composite works
 
-(1) with A. Messeri et al., *Bulletino bibliografico della Botanica italiana* 7(1932)-9(3)(1938).
-(2) *Index filicum, supplementum quartum*, Jan 1965, see TL-2/1128.
+- (1) with A. Messeri et al., *Bulletino bibliografico della Botanica italiana* 7(1932)-9(3)(1938).
+- (2) *Index filicum, supplementum quartum*, Jan 1965, see TL-2/1128.
 
 ### Publications
 

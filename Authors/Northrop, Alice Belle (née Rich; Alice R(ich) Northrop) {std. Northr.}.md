@@ -8,7 +8,8 @@ Northrop, Alice Belle (née Rich; Alice R(ich) Northrop) (1864-1922), American b
 
 #### Herbarium and types
 
-[[Collection F|F]]; other material in [[Collection A|A]], [[Collection B|B]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection US|US]]. – Exsiccatae: *Bahama plants* (1890), sets at [[Collection B|B]], [[Collection G|G]].
+[[Collection F|F]]; other material in [[Collection A|A]], [[Collection B|B]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection US|US]].
+*Exsiccatae*: *Bahama plants* (1890), sets at [[Collection B|B]], [[Collection G|G]].
 
 #### Bibliography and biography
 

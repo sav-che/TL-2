@@ -23,8 +23,8 @@ Biol.-Dokum. 18: 9291; BL 2: 177; BM 5: 2116; Christiansen p. 320 \[index\]; CSP
 
 #### Composite works
 
-(1) Contributed to L. Loeske, *Laubm. Eur.* 1914, TL-2/4941.
-(2) Editor, E. Zacharias, Beobachtungen an Lebermoosen 1928, q.v.
+- (1) Contributed to L. Loeske, *Laubm. Eur.* 1914, TL-2/4941.
+- (2) Editor, E. Zacharias, Beobachtungen an Lebermoosen 1928, q.v.
 
 #### Note
 

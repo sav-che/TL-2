@@ -30,8 +30,8 @@ Backer p. 353; Barnhart 2: 444 (b. 17 Jan 1901, d. 30 Nov 1960); BFM 11, 2295, 2
 #### Note
 
 : (1) Mansfeld's probably most significant publication was published after our closing date: *Vorläufiges Verzeichniss landwirtschaftlich oder gärtnerisch kultivierter Pflanzenarten* (mit Ausschluss von Zierpflanzen), die Kulturpflanze, Beiheft 2, Berlin (Akademie-Verlag) 1959, v, 659 p.; facsimile reproduction (printing errors corrected) Berlin (id.) 1962. For an extensive review see e.g. Buchheim, G., Bot. Jahrb. 80(3) (Lit.) 27-29. 1961.
-(2) Mansfeld prepared a new edition of Garcke, *Fl. N. Mitt.-Deutschland* (TL-2/1949) of which the manuscript was destroyed in the night of 1/2 March 1943 by war action on Berlin-Dahlem.
-(3) *Thesis*: Vorarb. Monogr. Ligustrum, Bot. Jahrb. 69 (Beibl. 132): 19-75. 1924.
+- (2) Mansfeld prepared a new edition of Garcke, *Fl. N. Mitt.-Deutschland* (TL-2/1949) of which the manuscript was destroyed in the night of 1/2 March 1943 by war action on Berlin-Dahlem.
+- (3) *Thesis*: Vorarb. Monogr. Ligustrum, Bot. Jahrb. 69 (Beibl. 132): 19-75. 1924.
 
 ### Publications
 

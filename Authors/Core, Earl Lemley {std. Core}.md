@@ -40,7 +40,8 @@ Barnhart 1: 380 (b. 20 Jan 1902, Core, W. Va.); BFM p. 279; BL 1: (13), 221; IH 
 
 #### Outside our period
 
-(1) *Flora of West Virginia* part *1*: 1-274. 1952, *2*: 275-570. 1953 (with P.D. Strausbaugh), *3*: 571-860. 1958 (id.), *4*: 861-1075. 1964 (id.), *5*: i-xxxi. 1964 (id.). (2) *Woody plants in winter*... (the Boxwood Press), Pittsburgh p. viii, 218, 1959.
+- (1) *Flora of West Virginia* part *1*: 1-274. 1952, *2*: 275-570. 1953 (with P.D. Strausbaugh), *3*: 571-860. 1958 (id.), *4*: 861-1075. 1964 (id.), *5*: i-xxxi. 1964 (id.).
+- (2) *Woody plants in winter*... (the Boxwood Press), Pittsburgh p. viii, 218, 1959.
 
 ### Publications
 

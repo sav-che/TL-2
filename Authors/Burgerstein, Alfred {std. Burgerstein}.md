@@ -26,10 +26,10 @@ Barnhart 1: 283 (b. 18 Jul 1850, Wien, d. 11 Nov 1929, Wien); BJI 2: 22; CSP 9: 
 
 #### Composite works
 
-(1) *Leitfaden der Botanik*, ed. 1, Wien, 1882; ed. 2. ib. 8, 162 p.1889; ed. 3, n.v.; ed. 4, Wien 183 p. 1904.
-(2) *Verzeichniss jener botanischen Abhandlungen* welche *in* den *Programmen* (Jahresberichten) er *österreichischen Mittelschulen* in den Jahren 1850-1855 veröffentlicht wurden, *in *ÖBZ 36(3): 94-97. Mar 1886, and 36(5): 165-167. Mai 1886. – Important list of botanical independent publications in school programs.
-(3) *Die k.k. Gartenbau-Gesellschaft in Wien 1837-1907*, Wien 1907, vii, 128 p., 1 col. "plan", 6 ill.
-(4) *Anatomische Untersuchungen Samoanischer Hölzer*, *in* K. Rechinger, Denkschr. Akad. Wiss. Wien 84: 456-514. 1908, reprint 2: 72-130.
+- (1) *Leitfaden der Botanik*, ed. 1, Wien, 1882; ed. 2. ib. 8, 162 p.1889; ed. 3, n.v.; ed. 4, Wien 183 p. 1904.
+- (2) *Verzeichniss jener botanischen Abhandlungen* welche *in* den *Programmen* (Jahresberichten) er *österreichischen Mittelschulen* in den Jahren 1850-1855 veröffentlicht wurden, *in *ÖBZ 36(3): 94-97. Mar 1886, and 36(5): 165-167. Mai 1886. – Important list of botanical independent publications in school programs.
+- (3) *Die k.k. Gartenbau-Gesellschaft in Wien 1837-1907*, Wien 1907, vii, 128 p., 1 col. "plan", 6 ill.
+- (4) *Anatomische Untersuchungen Samoanischer Hölzer*, *in* K. Rechinger, Denkschr. Akad. Wiss. Wien 84: 456-514. 1908, reprint 2: 72-130.
 
 ### Publications
 

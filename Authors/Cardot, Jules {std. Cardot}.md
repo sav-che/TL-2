@@ -10,7 +10,8 @@ Cardot, Jules (1860-1934), French bryologist.
 
 #### Herbarium and types
 
-[[Collection PC|PC]]. Exsiccatae: Renauld et Cardot, *Musci Americae septentrionalis exsiccati* (nos. 1-400) and *Musci Europaei exsiccati* (nos. 1-300), see under Renauld. Correspondence with E. G. Britton at [[Collection NY|NY]].
+[[Collection PC|PC]].
+*Exsiccatae*: Renauld et Cardot, *Musci Americae septentrionalis exsiccati* (nos. 1-400) and *Musci Europaei exsiccati* (nos. 1-300), see under Renauld. Correspondence with E. G. Britton at [[Collection NY|NY]].
 *Ref*.: IH 2: 115.
 - Anon., Bot. Gaz. 21: 381. 1896 (on types of Amer. sp.)
 - Anon., Bryologist 13: 125-128. 1910 (in bibl. Renauld).
@@ -30,10 +31,10 @@ Barnhart 1: 309; BL 1: 140, 2: 181; BM 1: 315, 6: 183; CSP 12: 611, 18: 133-134;
 
 #### Composite works
 
-(1) Lecomte, *Flore Indochine.Rosaceae* 2(5): 613-680. Jun 1916.
-(2) F. Renauld et J. Cardot, *Histoire naturelle des mousses*. Paris 1898-1913 *in* vol. 39 of Grandidier, *Hist. phys. nat. polit. Madagascar.*
-(3) Delamare et al., *Flora miquelonensis*, 1888 (co-author).
-(4) Pierrot, *Liste des plantes vasculaires...* Montmédy (Jun 1882). For a list of Cardot's participation in papers by others see Rev. bryol. lichén. ser. 2. 8: 12-13. 1935.
+- (1) Lecomte, *Flore Indochine.Rosaceae* 2(5): 613-680. Jun 1916.
+- (2) F. Renauld et J. Cardot, *Histoire naturelle des mousses*. Paris 1898-1913 *in* vol. 39 of Grandidier, *Hist. phys. nat. polit. Madagascar.*
+- (3) Delamare et al., *Flora miquelonensis*, 1888 (co-author).
+- (4) Pierrot, *Liste des plantes vasculaires...* Montmédy (Jun 1882). For a list of Cardot's participation in papers by others see Rev. bryol. lichén. ser. 2. 8: 12-13. 1935.
 
 #### Eponymy
 

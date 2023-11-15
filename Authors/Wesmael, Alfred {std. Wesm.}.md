@@ -23,7 +23,7 @@ Backer p. 664; Barnhart 3: 479 (b. 11 Feb 1832, d. 9 Nov 1905); BJI 1: 63; BL 2:
 #### Composite works
 
 (I) *Salicineae* (*Populus*), *in* A.P. & Alph. de Candolle, *Prodr*. 16(2): 323-331, med. Jul 1868.
-(2) With H.F. Van Heurck, *Prodrome de la flore de Brabant* 1861, see Van Heurck. (TL-2/15.910).
+- (2) With H.F. Van Heurck, *Prodrome de la flore de Brabant* 1861, see Van Heurck. (TL-2/15.910).
 
 ### Publications
 

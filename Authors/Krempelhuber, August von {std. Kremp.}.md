@@ -20,8 +20,8 @@ AG 12(2): 636; Ainsworth p. 300; Barnhart 2: 321; BM 2: 1027; CSP 3: 752, 8: 125
 
 #### Composite works
 
-(1) Mueller, F. J. H. v., *Fragmenta phytographiae Australiae*, suppl., part 5: *Lichenes australiani* (1880).
-(2) Fenzl, E., *Reise Novara* (no. 1764), Heft 2, *Lichenes*, also issued as a reprint with t.p. of complete volume: \[i\], \[105\]-129, *pl. 12-19*, p. *231-261* (index). *Copy*: L. – *Publ*.: 1870.
+- (1) Mueller, F. J. H. v., *Fragmenta phytographiae Australiae*, suppl., part 5: *Lichenes australiani* (1880).
+- (2) Fenzl, E., *Reise Novara* (no. 1764), Heft 2, *Lichenes*, also issued as a reprint with t.p. of complete volume: \[i\], \[105\]-129, *pl. 12-19*, p. *231-261* (index). *Copy*: L. – *Publ*.: 1870.
 
 #### Eponymy
 

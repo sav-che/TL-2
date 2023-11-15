@@ -36,13 +36,13 @@ Gates Lab., Univ. of Michigan Biol. Station, Douglas Lake, Michigan.
 
 #### Outside our period
 
-(1) *Weeds in Kansas*... Topeka (Kansas State Board of Agriculture) 1941.
-(2) *Field manual of plant ecology*... New York (McGraw-Hill Book Co.) 1949.
+- (1) *Weeds in Kansas*... Topeka (Kansas State Board of Agriculture) 1941.
+- (2) *Field manual of plant ecology*... New York (McGraw-Hill Book Co.) 1949.
 
 #### Composite works
 
-(1) Contributed pt. 2, "Handbook of Kansas Trees" (p. 148-372) to *Trees in Kansas*... (Topeka) (B.P. Walker, state printer) 1928, which also included contributions by Albert Dickens (1867-x), Charles Anderson Scott (1875-1930) and Margaret E\[velyn\]. Whittemore (1897-1983).
-(2) Editor, *Transactions of the Kansas Academy of Science*.
+- (1) Contributed pt. 2, "Handbook of Kansas Trees" (p. 148-372) to *Trees in Kansas*... (Topeka) (B.P. Walker, state printer) 1928, which also included contributions by Albert Dickens (1867-x), Charles Anderson Scott (1875-1930) and Margaret E\[velyn\]. Whittemore (1897-1983).
+- (2) Editor, *Transactions of the Kansas Academy of Science*.
 *Note*: It is worth noting that he published, usually annually (in Trans. Kansas Acad. Sci. from 1923-1952), "Kansas Botanical Notes" (see nr. 36.113).
 
 ### Publications
@@ -252,7 +252,7 @@ Recent *migrational trends* in the distribution of *weeds* in *Kansas*... Kansas
 **Notes**
 *Publ*.: 1940, p. \[i\], \[1\]-266. *Copies*: K, LC (n.v.), U, US. – Issued as Contr. no. 31, Dept. of Botany, Kansas State College.
 *Note*: (1) Title on p. \[1\], *Annotated list of the plants of Kansas*: Ferns and flowering plants.
-(2) Running title, Kansas State College Bulletin. The flora of Kansas.
+- (2) Running title, Kansas State College Bulletin. The flora of Kansas.
 *Ref*.: Fosberg, F.R., Amer. Midland Naturalist 24(2): 503-504. Sep 1940 (rev.).
 
 ##### n.36.123. Winter twigs

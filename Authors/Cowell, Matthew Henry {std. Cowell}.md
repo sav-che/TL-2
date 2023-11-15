@@ -20,7 +20,7 @@ Backer p. 145; Barnhart 1: 390; BB p. 75; BL 2: 247, 643; BM 1: 396; Desmond p. 
 
 #### Composite works
 
-(1) A *series of botanical labels* for the herbarium, vii, 327 p., 1841, Faversham 1841 (n.v.), published by W. Pamplin, edited by M.H. Cowell but issued by James E. Smith (BM 4: 1947). – See also Rehder 1: 399.
+- (1) A *series of botanical labels* for the herbarium, vii, 327 p., 1841, Faversham 1841 (n.v.), published by W. Pamplin, edited by M.H. Cowell but issued by James E. Smith (BM 4: 1947). – See also Rehder 1: 399.
 
 ### Publications
 

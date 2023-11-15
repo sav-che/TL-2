@@ -58,18 +58,18 @@ ADB 53: 272-276 (G. Dilling); Backer p. 486; Barnhart 3: 140; Biol.-Dokum. 14: 7
 
 #### Composite works
 
-(1) Editor and in part author of H.G.L. Reichenbach, *Icon. fl. germ. helv.*, vols. 13-19(1), 20-22(1). Author of:
+- (1) Editor and in part author of H.G.L. Reichenbach, *Icon. fl. germ. helv.*, vols. 13-19(1), 20-22(1). Author of:
 *Orchidaceae*, 13/14: 1-194, *pl*. (*1*)*353-170*(*522*). 1851. *Compositae*, 15: 1-*106, pl. 732-891.* 1853, 16: 1-86, *pl. 892.* 1854, 19: 1-102, *pl. 1352-1577.* 1860.
 *Gentianaceae* through *Rubiaceae*, 17: 1-103, *pl. 1042-1201.* 1854/5. *Labiatae* through *Polygalaceae*, 18: 1-92, *pl. 1202-1351.* 1858. *Campan., Lobel. cucurb.*, 19: 102-123, *pl. 1578-1621.* 1860. *Solanaceae* through *Lentibulariaceae* 20: 1-114, *pl. 1622-1826.* 1862. *Umbelliferae*, 21: 1-108, *pl. 1842-2051.* 1863-1867.
 *Leguminosae*, 22: 1-104, *pl. 1-220.* 1867-1886.
-(2) With E. Warming, *Orchidaceae in Symbolae* 29: 351-368. 24 Nov 1884, 30: 86-99. 10 Mai 1886.
-(3) *Orchidaceae, in* B.C. Seemann, Fl. vitiens. 1865-1873.
-(4) *Orchidaceae, in* B.C. Seemann, Bot. Herald 214-215. 1854, 417-419. 1857.
-(5) *Orchidaceae, in* vols. 1-2 of W.W. Saunders, *Refugium botanicum*, London 1869-1882; see under W.W. Saunders.
-(6) *Orchidaceae, in* Walpers, Ann. 6: 1861-1864.
-(7) Weekly articles on Orchids in Gard. Chron. 1865-1889. For a list, alphabetical by genera, see CSP 12: 605-609, contr. after 1885: CSP 18: 105.
-(8) Co-editor: *Pescatorea*. See J.E. Planchon, TL-2/4622.
-(9) For *Reichenbachia* 1888-1894 see under F. Sander.
+- (2) With E. Warming, *Orchidaceae in Symbolae* 29: 351-368. 24 Nov 1884, 30: 86-99. 10 Mai 1886.
+- (3) *Orchidaceae, in* B.C. Seemann, Fl. vitiens. 1865-1873.
+- (4) *Orchidaceae, in* B.C. Seemann, Bot. Herald 214-215. 1854, 417-419. 1857.
+- (5) *Orchidaceae, in* vols. 1-2 of W.W. Saunders, *Refugium botanicum*, London 1869-1882; see under W.W. Saunders.
+- (6) *Orchidaceae, in* Walpers, Ann. 6: 1861-1864.
+- (7) Weekly articles on Orchids in Gard. Chron. 1865-1889. For a list, alphabetical by genera, see CSP 12: 605-609, contr. after 1885: CSP 18: 105.
+- (8) Co-editor: *Pescatorea*. See J.E. Planchon, TL-2/4622.
+- (9) For *Reichenbachia* 1888-1894 see under F. Sander.
 
 #### Handwriting
 

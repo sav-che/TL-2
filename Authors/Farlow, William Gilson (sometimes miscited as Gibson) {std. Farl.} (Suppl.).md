@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (orig.), duplicates [[Collection B|B]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HCIO|HCIO]], [[Collection HMAS|HMAS]], [[Collection IA|IA]], [[Collection IAC|IAC]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SPWH|SPWH]], [[Collection TRTC|TRTC]], [[Collection W|W]]. Posthumously, specimens were distributed as *Reliquiæ Farlowianae*. – *Exsiccatae* (with Charles Lewis Anderson, 1827-1919 & Daniel Cady Eaton, 1834-1895): *Algæ Exsiccatæ Americæ Borealis*... Fasc. I. Nos. 1-50, 1877; II. Nos. 51-100, Apr 1878; III. Nos. 101-130, 1879; IV. Nos. 131-180, Jun 1881; V. Nos. 181-230, Jul 1889; see also TL-2/1: 813 for distribution of sets. – Papers and other archival materials in [[Collection FH|FH]], incl. materials that Andrew Denny Rodgers III accumulated for a projected (but not completed) book-length biography.
+[[Collection FH|FH]] (orig.), duplicates [[Collection B|B]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HCIO|HCIO]], [[Collection HMAS|HMAS]], [[Collection IA|IA]], [[Collection IAC|IAC]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SPWH|SPWH]], [[Collection TRTC|TRTC]], [[Collection W|W]]. Posthumously, specimens were distributed as *Reliquiæ Farlowianae*.
+*Exsiccatae* (with Charles Lewis Anderson, 1827-1919 & Daniel Cady Eaton, 1834-1895): *Algæ Exsiccatæ Americæ Borealis*... Fasc. I. Nos. 1-50, 1877; II. Nos. 51-100, Apr 1878; III. Nos. 101-130, 1879; IV. Nos. 131-180, Jun 1881; V. Nos. 181-230, Jul 1889; see also TL-2/1: 813 for distribution of sets. – Papers and other archival materials in [[Collection FH|FH]], incl. materials that Andrew Denny Rodgers III accumulated for a projected (but not completed) book-length biography.
 
 #### Bibliography and biography
 
@@ -67,12 +68,12 @@ Académie p. 183; Ainsworth p. 283; Ainsworth & Bisby's Dict. p. 190; Amer. Men 
 
 #### Composite works
 
-(1) Determined the "Algæ"... p. 30-31 *in* Jerome Henry Kidder (ed.), *Contributions* to the *natural history* of *Kerguelen Island*, made in connection with the United States Transit-of-Venus Expedition, 1874-75. II... Washington, D.C. (Government Printing Office) 1876.
-(2) Co-editor, *Annals of Botany*, vols. 1-20 (1887-1906).
+- (1) Determined the "Algæ"... p. 30-31 *in* Jerome Henry Kidder (ed.), *Contributions* to the *natural history* of *Kerguelen Island*, made in connection with the United States Transit-of-Venus Expedition, 1874-75. II... Washington, D.C. (Government Printing Office) 1876.
+- (2) Co-editor, *Annals of Botany*, vols. 1-20 (1887-1906).
 
 #### Note
 
-(1) *Bibl. index N. Amer. fung.*... \[Washington\] (The Carnegie Institution of Washington) 1905. Oct.... was treated earlier (TL-2/1, nr. 1739). The entry can be amended as follows:
+- (1) *Bibl. index N. Amer. fung.*... \[Washington\] (The Carnegie Institution of Washington) 1905. Oct.... was treated earlier (TL-2/1, nr. 1739). The entry can be amended as follows:
 *Vol. 1, Pt. 1* ("Abrothallus to Badhamia"): 1 Sep 1905,... p. \[i\]-xxxv, 1-132. *Copies*: K (n.v.), LC (n.v.), NY, US. – In series, Publ. Carnegie Inst. Wash. no. 8.
 *Ref*.: W.T\[release?\]., Amer. Naturalist 40(470): 146. Feb 1906 (rev.).
 - Barnhart, NAF 7(15): 1063. 1940.

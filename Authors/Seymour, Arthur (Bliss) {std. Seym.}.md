@@ -10,7 +10,7 @@ Seymour, Arthur \[Bliss\] (1859-1933), American botanist; MS Univ. Illinois 1886
 
 [[Collection ILL|ILL]], [[Collection WIS|WIS]] (in herb. F.C. Seymour). – Further material at [[Collection BPI|BPI]], [[Collection CAS|CAS]], [[Collection CS|CS]], [[Collection CUP|CUP]], [[Collection DAO|DAO]], [[Collection DUKE|DUKE]], [[Collection FH|FH]], [[Collection GH|GH]], [[Collection IA|IA]], [[Collection ILL|ILL]], [[Collection ILLS|ILLS]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MISSA|MISSA]], [[Collection MO|MO]], [[Collection NCU|NCU]], [[Collection PH|PH]], [[Collection SD|SD]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
 *Exsiccatae*: (1) see J. Stevenson (1971) p. 372-383, especially for the major series, issued with Franklin Sumner Earle (1856-1929), *Economic fungi*, fasc. 1-11, nos. 1-550, 1 Jan 1890-7 Jun 1899 with suppl. A-C (12, 31, 150 nos.) 5 Apr 1898-12 Jun 1903. – Sets at [[Collection ARIZ|ARIZ]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GA|GA]], [[Collection IA|IA]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KANU|KANU]], [[Collection KSC|KSC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection MSC|MSC]], [[Collection MTMG|MTMG]], [[Collection MU|MU]], [[Collection NCU|NCU]], [[Collection NDA|NDA]], [[Collection NEB|NEB]], [[Collection NHES|NHES]], [[Collection NYS|NYS]], [[Collection OC|OC]], [[Collection PUR|PUR]], [[Collection RM|RM]], [[Collection RSA|RSA]], [[Collection SCHN|SCHN]], [[Collection SDC|SDC]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection UMO|UMO]], [[Collection USC|USC]], [[Collection UT|UT]], [[Collection WIS|WIS]], [[Collection WSP|WSP]]. For text and dates see below.
-(2) For *Lichenes boreali-americani*, with Clara Eaton Cummings (1855-1906) and Thomas Albert Williams (1865-1900), see C.E. Cummings: TL-2/1: 571 and Sayre (1969) p. 120.(3) Seymour contributed also to C. Roumeguère (q.v.) *Fungi selecti exsiccati*. *Letters* at [[Collection G|G]].
+- (2) For *Lichenes boreali-americani*, with Clara Eaton Cummings (1855-1906) and Thomas Albert Williams (1865-1900), see C.E. Cummings: TL-2/1: 571 and Sayre (1969) p. 120.(3) Seymour contributed also to C. Roumeguère (q.v.) *Fungi selecti exsiccati*. *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -30,8 +30,8 @@ Ainsworth p. 282, 328, 347; Barnhart 3: 263 (b. 3 Jan 1839, d. 30 Mar 1933); Bla
 
 #### Composite works
 
-(1) With W.G. Farlow, *Prov. host-index fung. U.S.* 1888-1891, see TL-2/1741.
-(2) W.G. Farlow, *Bibliographical index of North American Fungi*, 1(1), 1905, Abrothallus-Badhamia, work done mainly by Seymour.
+- (1) With W.G. Farlow, *Prov. host-index fung. U.S.* 1888-1891, see TL-2/1741.
+- (2) W.G. Farlow, *Bibliographical index of North American Fungi*, 1(1), 1905, Abrothallus-Badhamia, work done mainly by Seymour.
 
 #### Eponymy
 

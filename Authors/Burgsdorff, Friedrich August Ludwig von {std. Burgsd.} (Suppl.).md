@@ -27,7 +27,7 @@ ADB 3: 613; Barnhart 1: 284; BM 1: 288; Bossert p. 59; Dryander 3: 208, 419, 619
 
 #### Note
 
-(1) In journal: *Ueber die in den Waldungen der Kurmark Brandenburg* befindlichen einheimischen und in etlichen Gegenden eingebrachten fremden *Holzarten*, Beob. Entd. Naturk. Ges. naturf. Freunde Berlin (= Schriften Ges. naturf. Freunde Berlin) 1: 236-266 (n.v.), fide Dryander 3: 208.
+- (1) In journal: *Ueber die in den Waldungen der Kurmark Brandenburg* befindlichen einheimischen und in etlichen Gegenden eingebrachten fremden *Holzarten*, Beob. Entd. Naturk. Ges. naturf. Freunde Berlin (= Schriften Ges. naturf. Freunde Berlin) 1: 236-266 (n.v.), fide Dryander 3: 208.
 
 ### Publications
 
@@ -53,5 +53,5 @@ Friedrich August Ludwig von Burgsdorf. Königlich Preussischen Forstrathes der M
 *2*: Jan-Aug 1787, p. \[1\]-271.
 *Copy*: HH. – Information by John W. London.
 *Note* (1) Pritzel lists *ed. 2*, Berlin 1790-1791, 2 vols.; *1*: 234 p., *3 pl*., *2*: 280 p., and *ed. 3 *Marbug 1802, 2 vols.
-(2) PR mentions a Russian translation, Petropolis 1801, 2 vols. Qu.
+- (2) PR mentions a Russian translation, Petropolis 1801, 2 vols. Qu.
 

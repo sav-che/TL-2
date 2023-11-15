@@ -37,7 +37,7 @@ AG 3: 400; Backer p. 90; Barnhart 1: 282; BB p. 54; BM 1: 287; Clokie p. 141; CS
 
 #### Note
 
-(1) *Horticulture* by F.W. Burbidge, London (E. Stanford) 1877, 288 p.
+- (1) *Horticulture* by F.W. Burbidge, London (E. Stanford) 1877, 288 p.
 
 ### Publications
 

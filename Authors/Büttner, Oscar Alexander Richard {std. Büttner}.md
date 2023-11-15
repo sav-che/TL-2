@@ -23,7 +23,7 @@ CSP 13: 903-904; Kew 1: 413; Rehder 1: 491, 492; Urban-Berl. p. 163, 180, 263, 2
 
 #### Composite works
 
-(1) *Einige Ergebnisse meiner Reise in Westafrika* in den Jahren 1884-1886, *in*: *Die Congo-Expedition*, Afr. Ges. Deut. Mitth. 5(2-12): 168-271. 1886-1889.
+- (1) *Einige Ergebnisse meiner Reise in Westafrika* in den Jahren 1884-1886, *in*: *Die Congo-Expedition*, Afr. Ges. Deut. Mitth. 5(2-12): 168-271. 1886-1889.
 
 ### Publications
 

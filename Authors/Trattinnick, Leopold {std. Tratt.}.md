@@ -33,9 +33,9 @@ ADB 38: 498-499; Ainsworth p. 65, 312, 313, 348; Backer p. 662; Barnhart 3: 398 
 
 #### Composite works
 
-(1) F. von Portenschlag-Ledermayer, *Enum. pl. Dalmatia* 1824, TL-2/8179, text written by Trattinnick.
-(2) Schmidt, F., *Oesterr. allg. Baumz*. vol. 4(2), 1839, by Trattinnick, see TL-2/10876.
-(3) Seltnere Beispiele aus dem Pflanzenreiche... *in* F.W. Schmidt, *Samml. phys*.-*ökon. Aufs. 1*: \[202\]-222. 1795, TL-2/10.883.
+- (1) F. von Portenschlag-Ledermayer, *Enum. pl. Dalmatia* 1824, TL-2/8179, text written by Trattinnick.
+- (2) Schmidt, F., *Oesterr. allg. Baumz*. vol. 4(2), 1839, by Trattinnick, see TL-2/10876.
+- (3) Seltnere Beispiele aus dem Pflanzenreiche... *in* F.W. Schmidt, *Samml. phys*.-*ökon. Aufs. 1*: \[202\]-222. 1795, TL-2/10.883.
 
 #### Eponymy
 

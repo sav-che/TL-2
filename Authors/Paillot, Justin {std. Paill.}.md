@@ -8,8 +8,9 @@ Paillot, Justin (1829-1891), French botanist; high school teacher at Nans; from 
 
 #### Herbarium and types
 
-Acquired by the botanical laboratory of the Faculty of Sciences ces, Besançon, through A. Magnin, see Bornet, 1893. Other material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection G|G]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]]. – *Exsiccatae*: (1) *Flora Sequaniae exsiccata ou herbier de la Flore du Franche-Comté*, see below. Sets at [[Collection BR|BR]], [[Collection W|W]].
-(2) *Flora cryptogama Sequaniae exsiccata*, fasc. 1-7, nos. 1-328, 1873-1897. Sets at [[Collection G|G]], [[Collection PC|PC]], [[Collection STR|STR]], (see Sayre 1969).
+Acquired by the botanical laboratory of the Faculty of Sciences ces, Besançon, through A. Magnin, see Bornet, 1893. Other material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection G|G]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]].
+*Exsiccatae*: (1) *Flora Sequaniae exsiccata ou herbier de la Flore du Franche-Comté*, see below. Sets at [[Collection BR|BR]], [[Collection W|W]].
+- (2) *Flora cryptogama Sequaniae exsiccata*, fasc. 1-7, nos. 1-328, 1873-1897. Sets at [[Collection G|G]], [[Collection PC|PC]], [[Collection STR|STR]], (see Sayre 1969).
 Some letters at [[Collection G|G]].
 
 #### Bibliography and biography

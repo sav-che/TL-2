@@ -8,7 +8,8 @@ Fischer, Georg (1844-1941), German botanist who studied aquatic flowering plants
 
 #### Herbarium and types
 
-[[Collection MANCH|MANCH]]. – *Exsiccatae*: *Potamogetones Bavarici exsiccati* (1901-1902).
+[[Collection MANCH|MANCH]].
+*Exsiccatae*: *Potamogetones Bavarici exsiccati* (1901-1902).
 
 #### Bibliography and biography
 

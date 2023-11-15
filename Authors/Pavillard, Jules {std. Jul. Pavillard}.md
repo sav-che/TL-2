@@ -26,8 +26,8 @@ Barnhart 3: 57; BJI 2: 131; BL 2: 164, 700; BM 4: 1533, 8: 990; Kelly p. 170; Ke
 
 #### Composite works
 
-(1) *Les diatomées planctoniques* dans l'Atlantique subtropical, *in* Travaux cryptogamiques dédiés à Louis Mangin. Paris, 1931, p. 289.
-(2) *Bacillariales*. Report on the Danish oceanographical expeditions 1908-1910 to the Mediterranean and adjacent seas, 2, biol. J. 4, 72 p.
+- (1) *Les diatomées planctoniques* dans l'Atlantique subtropical, *in* Travaux cryptogamiques dédiés à Louis Mangin. Paris, 1931, p. 289.
+- (2) *Bacillariales*. Report on the Danish oceanographical expeditions 1908-1910 to the Mediterranean and adjacent seas, 2, biol. J. 4, 72 p.
 
 #### Eponymy
 

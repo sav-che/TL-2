@@ -10,7 +10,8 @@ Calkins, Col. William Wirt (1842-1914), American amateur mycologist and lichenol
 
 #### Herbarium and types
 
-Material in a number of herbaria (mainly [[Collection BPI|BPI]], [[Collection NY|NY]], [[Collection US|US]]), mostly his fungus exsiccatae or lichens. *Exsiccatae*: *Florida fungi* (1888), at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]], [[Collection KSC|KSC]], [[Collection MSC|MSC]], [[Collection NDA|NDA]], [[Collection NY|NY]].
+Material in a number of herbaria (mainly [[Collection BPI|BPI]], [[Collection NY|NY]], [[Collection US|US]]), mostly his fungus exsiccatae or lichens.
+*Exsiccatae*: *Florida fungi* (1888), at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]], [[Collection KSC|KSC]], [[Collection MSC|MSC]], [[Collection NDA|NDA]], [[Collection NY|NY]].
 *Ref*.: IH 2: 112.
 - Stevenson, Beih. Nova Hedwigia 36: 76-77. 1971.
 - Hawksworth, Mycologist's handb. 181. 1974.

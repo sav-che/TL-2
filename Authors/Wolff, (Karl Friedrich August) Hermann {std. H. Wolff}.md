@@ -25,12 +25,12 @@ Barnhart 3: 514 (b. 22 Jun 1866, d. 21 Apr 1929); BJI 2: 194; BM 5: 2349; Langma
 
 #### Composite works
 
-(1) *Brockenflora, in* E. Kampe \[pseudonym for H. Wolff\], F. Schwarze & E. Prediger, *Flora und Fauna von Harzburg*, 1887. See TL-2/3498 sub E. Kampe.
-(2) *Umbelliferae, in* A. Engler, *Pflanzenreich* IV-228, Heft 43, Apioideae, 2 Aug 1910, cont. Heft 90, 29 Apr 1927. Heft 61, Saniculoideae, 16 Dec 1913. TL-2/1713.
-(3) *Umbelliferae, in* G.W.J. Mildbraed, *Wiss. Erg. deut. Zentr.-Afr. Exped. Bot.* 6: 593-601. Aug 1913. TL-2/6008. – Also reprinted with original pagination s.l.n.d., *copy*: B.
-(4) *Umbelliferae, in* Aloysius Sodiro, S.J., *Plantae ecuadorienses* 5, *in* Bot. Jahrb. 40, Beibl. 91: \[48\]-50. 2 Aug 1907.
-(5) *Umbelliferae austro-americanae, in* I. Urban, *Plantae novae andinae* imprimis Weberbauerianae 111, Bot. Jahrb. 40(3): 281-306. 24 Jan 1908. TL-2/15.691.
-(6) *Umbelliferae, in* H. Smith, *Plantae sinenses* a dre. H. Smith annis 1921-1922 lectae, Medd. Göteb. bot. Trädgård. 2: \[289\]-328. \[shortly after\] 28 Mai 1926 (date of printing).
+- (1) *Brockenflora, in* E. Kampe \[pseudonym for H. Wolff\], F. Schwarze & E. Prediger, *Flora und Fauna von Harzburg*, 1887. See TL-2/3498 sub E. Kampe.
+- (2) *Umbelliferae, in* A. Engler, *Pflanzenreich* IV-228, Heft 43, Apioideae, 2 Aug 1910, cont. Heft 90, 29 Apr 1927. Heft 61, Saniculoideae, 16 Dec 1913. TL-2/1713.
+- (3) *Umbelliferae, in* G.W.J. Mildbraed, *Wiss. Erg. deut. Zentr.-Afr. Exped. Bot.* 6: 593-601. Aug 1913. TL-2/6008. – Also reprinted with original pagination s.l.n.d., *copy*: B.
+- (4) *Umbelliferae, in* Aloysius Sodiro, S.J., *Plantae ecuadorienses* 5, *in* Bot. Jahrb. 40, Beibl. 91: \[48\]-50. 2 Aug 1907.
+- (5) *Umbelliferae austro-americanae, in* I. Urban, *Plantae novae andinae* imprimis Weberbauerianae 111, Bot. Jahrb. 40(3): 281-306. 24 Jan 1908. TL-2/15.691.
+- (6) *Umbelliferae, in* H. Smith, *Plantae sinenses* a dre. H. Smith annis 1921-1922 lectae, Medd. Göteb. bot. Trädgård. 2: \[289\]-328. \[shortly after\] 28 Mai 1926 (date of printing).
 
 ### Publications
 

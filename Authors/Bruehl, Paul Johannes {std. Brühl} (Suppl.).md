@@ -24,8 +24,8 @@ Barnhart 1: 267 (b. 25 Feb 1855, Weifa, Sachsen); BJI 1: 7; BM 1: 264, 981; Desm
 
 #### Composite works
 
-(1) Paul Brühl and G. King, *A century of new and rare Indian plants*... Calcutta (Printed at the Bengal Secretariat Press), London (Sold by B. Quaritch,...) 1896. Fol. (*Cent. Ind. Pl.*). – See TL-2/3659 sub G. King. B's part occupies p. 71-114 (*Ranunculaceae*). The remaining portion of the volume is by G. King (except descr. and fig. of *Milula spicata* – NI 256). – Reprinted 1971.
-(2) P. Brühl, *De Ranunculaceis Indicis disputationes*... J. Asiat. Soc. Bengal 61(2), no. 3, 1892, 55 p., *4 pl*.
+- (1) Paul Brühl and G. King, *A century of new and rare Indian plants*... Calcutta (Printed at the Bengal Secretariat Press), London (Sold by B. Quaritch,...) 1896. Fol. (*Cent. Ind. Pl.*). – See TL-2/3659 sub G. King. B's part occupies p. 71-114 (*Ranunculaceae*). The remaining portion of the volume is by G. King (except descr. and fig. of *Milula spicata* – NI 256). – Reprinted 1971.
+- (2) P. Brühl, *De Ranunculaceis Indicis disputationes*... J. Asiat. Soc. Bengal 61(2), no. 3, 1892, 55 p., *4 pl*.
 
 ### Publications
 

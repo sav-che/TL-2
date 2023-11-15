@@ -8,7 +8,8 @@ Zohary, (né Schein) Michael (1898-1983), Polish (Galicia)-born Israeli botanist
 
 #### Herbarium and types
 
-[[Collection HUJ|HUJ]]. – Further material in [[Collection BM|BM]], [[Collection C|C]], [[Collection CAIM|CAIM]], [[Collection GB|GB]], [[Collection GH|GH]]. – *Exsiccatae*: (with N. Feinbrun) *Flora exsiccata Palestinae. – Letters* at [[Collection G|G]].
+[[Collection HUJ|HUJ]]. – Further material in [[Collection BM|BM]], [[Collection C|C]], [[Collection CAIM|CAIM]], [[Collection GB|GB]], [[Collection GH|GH]].
+*Exsiccatae*: (with N. Feinbrun) *Flora exsiccata Palestinae. – Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

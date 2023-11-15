@@ -29,8 +29,8 @@ Ainsworth p. 299; Barnhart 2: 47; Kelly p. 89 (as "J.E. Gulbert"); LS suppl. 957
 
 #### Composite works
 
-(1) In 1940-1941, Gilbert published a suppl. (vol. 27, fascs. 1-3) to G. Bresadola et al., *Icon. mycol.*... 1927-1960 (TL-2/1, nr. 745); vol. 27(1) has a frontisp. portr. of Gilbert.
-(2) At NY is an empty cover "E.J. Gilbert, '*Notules sur les Amanites*'", described as "Extraits des Bulletin Mycologique, Bulletin de la Société Linnéenne du Lyon, Riviera Scientifique, et Édition Privée – 1924-1941". The "Table des Notules" lists 30 titles and one Supplément.
+- (1) In 1940-1941, Gilbert published a suppl. (vol. 27, fascs. 1-3) to G. Bresadola et al., *Icon. mycol.*... 1927-1960 (TL-2/1, nr. 745); vol. 27(1) has a frontisp. portr. of Gilbert.
+- (2) At NY is an empty cover "E.J. Gilbert, '*Notules sur les Amanites*'", described as "Extraits des Bulletin Mycologique, Bulletin de la Société Linnéenne du Lyon, Riviera Scientifique, et Édition Privée – 1924-1941". The "Table des Notules" lists 30 titles and one Supplément.
 
 ### Publications
 

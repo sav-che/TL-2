@@ -27,7 +27,7 @@ Barnhart 1:377(d. Jun 1928, Leiden); IH2: 137; JW 1:441, 2: 188, 4: 382; Kew 1: 
 
 #### Composite works
 
-(1) J.S. Meulenhoff and Catharina Cool, *Lijst hoogere zwammen* 1918, see TL-2/3: 436.
+- (1) J.S. Meulenhoff and Catharina Cool, *Lijst hoogere zwammen* 1918, see TL-2/3: 436.
 
 #### Note
 

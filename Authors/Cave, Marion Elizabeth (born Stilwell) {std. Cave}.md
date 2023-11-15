@@ -30,7 +30,7 @@ With E.B. Babcock, *A study of intra- and interspecific relations of Crepis foet
 
 #### Notes
 
-(1) Outside our period: *Chromosomes of the California Liliaceae*, Berkeley 9 Apr 1970, see Taxon 19(6): 939. 1970.
-(2) id., with L. Constance, *Chromosome numbers in the Hydrophyllaceae* 1, Univ. Calif. Publ. Bot. 18(9): 205-216. 1942; 2. id. 18(13): 293-298. 1944; 3. id. 18(20): 449-465. 1947.
-(3) Editor of *Index to plant chromosome numbers* for 1956-1964, in issues 1957-1965, 828 p.
+- (1) Outside our period: *Chromosomes of the California Liliaceae*, Berkeley 9 Apr 1970, see Taxon 19(6): 939. 1970.
+- (2) id., with L. Constance, *Chromosome numbers in the Hydrophyllaceae* 1, Univ. Calif. Publ. Bot. 18(9): 205-216. 1942; 2. id. 18(13): 293-298. 1944; 3. id. 18(20): 449-465. 1947.
+- (3) Editor of *Index to plant chromosome numbers* for 1956-1964, in issues 1957-1965, 828 p.
 

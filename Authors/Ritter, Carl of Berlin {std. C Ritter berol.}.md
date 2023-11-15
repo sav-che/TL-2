@@ -29,8 +29,8 @@ Barnhart 3: 160 (b. 7 Aug 1779, d. 28 Sep 1859); BM 4: 1708; CSP 5: 216; GR p. 1
 
 #### Note
 
-(1) Many botanical details in his *Die Erdkunde*, 1817-1859, 19 vols., see BM 4: 1708 and Plott (1963).
-(2) Not to be confused with Karl (Carl) Ritter (*fl*. 1836) of Dresden, later Vienna, imperial gardener, ultimately garden director in Hungary, who visited the West Indies and published a *Naturhistorische Reise nach der West-indischen Insel Hayti*, Stuttgart 1836, (206 p., copy: MO), see I. Urban, Symb. ant. 1: 138-139. 1898, 3: 113-114. 1902; plants at W. See below.
+- (1) Many botanical details in his *Die Erdkunde*, 1817-1859, 19 vols., see BM 4: 1708 and Plott (1963).
+- (2) Not to be confused with Karl (Carl) Ritter (*fl*. 1836) of Dresden, later Vienna, imperial gardener, ultimately garden director in Hungary, who visited the West Indies and published a *Naturhistorische Reise nach der West-indischen Insel Hayti*, Stuttgart 1836, (206 p., copy: MO), see I. Urban, Symb. ant. 1: 138-139. 1898, 3: 113-114. 1902; plants at W. See below.
 
 #### Commemorative publication
 

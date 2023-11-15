@@ -8,8 +8,9 @@ Savicz \[-Ljubitzkaja\], Lydia Ivanovna (1886-1982), Russian botanist (bryologis
 
 #### Herbarium and types
 
-[[Collection LE|LE]]; other material at [[Collection FH|FH]], [[Collection H|H]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]]. *Exsiccatae*: (*1*) *Bryotheca rossica*, edidit hortus botanicus principalis U.S.S.R., Leningrad. Dec. 1-4, 1926-1928; sets e.g. at [[Collection FH|FH]], [[Collection LE|LE]].
-(2) *Hepaticae et musci URSS exsiccati*, dec. 1-19, nos. 1-190, 1957-1962. Sets at [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]]. (See Sayre 1971).
+[[Collection LE|LE]]; other material at [[Collection FH|FH]], [[Collection H|H]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
+*Exsiccatae*: (*1*) *Bryotheca rossica*, edidit hortus botanicus principalis U.S.S.R., Leningrad. Dec. 1-4, 1926-1928; sets e.g. at [[Collection FH|FH]], [[Collection LE|LE]].
+- (2) *Hepaticae et musci URSS exsiccati*, dec. 1-19, nos. 1-190, 1957-1962. Sets at [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]]. (See Sayre 1971).
 
 #### Bibliography and biography
 

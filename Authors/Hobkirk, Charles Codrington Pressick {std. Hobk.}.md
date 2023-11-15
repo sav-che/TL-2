@@ -20,9 +20,9 @@ Barnhart 2: 184; BB p. 150; BL 2: 277, 668; CSP 3: 370, 7: 992, 10: 242, 12: 336
 
 #### Composite works
 
-(1) Anonymous editor of *The Naturalist* 1864-1867; editor with George T. Porritt 1872-1884.
-(2) *The London catalogue of British mosses*. Compiled for the Botanical Record Club by C. P. Hobkirk and H. Boswell, Welwyn, 1877, 11 p. (for ed. 2 see F. A. Lees).
-(3) Hobkirk also Published "pure literature" under the pseudonym H. P. Carlton.
+- (1) Anonymous editor of *The Naturalist* 1864-1867; editor with George T. Porritt 1872-1884.
+- (2) *The London catalogue of British mosses*. Compiled for the Botanical Record Club by C. P. Hobkirk and H. Boswell, Welwyn, 1877, 11 p. (for ed. 2 see F. A. Lees).
+- (3) Hobkirk also Published "pure literature" under the pseudonym H. P. Carlton.
 
 #### Handwriting
 

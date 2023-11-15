@@ -10,7 +10,8 @@ Coemans, Abbé Henri Eugène Lucien Gaëtan (1825-1871), Belgian clergyman and b
 
 #### Herbarium and types
 
-Mainly at [[Collection BR|BR]]. Fossil material at Musée Hist. nat. Bruxelles. Exsiccatae: *Cladoniae belgicae exsiccatae* (cent. 1-2, nos. 1-200). Gent 1863-1866: [[Collection B|B]], [[Collection BR|BR]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
+Mainly at [[Collection BR|BR]]. Fossil material at Musée Hist. nat. Bruxelles.
+*Exsiccatae*: *Cladoniae belgicae exsiccatae* (cent. 1-2, nos. 1-200). Gent 1863-1866: [[Collection B|B]], [[Collection BR|BR]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]].
 *Ref*.: IH 2: 132.
 - Anon., Hedwigia 3: 21-22. Feb 1864, Flora 47 (Repert. 1): 12. 10 Jun 1864.
 - Stizenberger, Flora 47: 42-45. 1864.

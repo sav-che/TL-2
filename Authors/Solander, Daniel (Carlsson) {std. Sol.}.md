@@ -82,14 +82,14 @@ AG 6(1): 297; Barnhart 3: 300 (b. 12 Feb 1733, d. 13 Mai 1782); BB p. 282; BM 5:
 
 #### Composite works
 
-(1) Editor, C. Linnaeus, *Elementa botanica*, \[Upsaliae 1756\], 4 p. (SO 540), repr. *in* C. Linnaeus, *Syst. nat.* ed. 10. 2: 825-827. 1759 and in subsequent editions of *Syst. nat.* and *Syst. veg.*
-(2) *Carex capitata* Sol., *in* C. Linnaeus, *Syst. nat.* ed. 10. 2: 1261. 1759.
-(3) *Plantae, in* C.J Phipps, *A voyage towards the North Pole*... 1794, p. 200-204.
-(4) Co-author, J. Ellis, *Nat. hist. Zooph. 1786*, see TL-2/1663 (IDC 2244).
-(5) Many data taken from Solander manuscripts were used by J. Dryander in W. Aiton, *Hort. kew.* eds. 1 and 2, see KR p. 656-657, no. 13.
-(6) Contributions to J. Gaertner, *Fruct. sem.pl.* 1788-1791 (TL-2/1925), p. 112, 113, 124, 170-172, 174, 186, 283.
-(7) See also J. Banks & D. Solander, *Ill. Austral. pl. Cook's voy.* 1900-1905, TL-2/295.
-(8) Further contributions by Solander to works by others, or entries based on Solander manuscripts are listed in great detail by KR p. 656-660, q.v.
+- (1) Editor, C. Linnaeus, *Elementa botanica*, \[Upsaliae 1756\], 4 p. (SO 540), repr. *in* C. Linnaeus, *Syst. nat.* ed. 10. 2: 825-827. 1759 and in subsequent editions of *Syst. nat.* and *Syst. veg.*
+- (2) *Carex capitata* Sol., *in* C. Linnaeus, *Syst. nat.* ed. 10. 2: 1261. 1759.
+- (3) *Plantae, in* C.J Phipps, *A voyage towards the North Pole*... 1794, p. 200-204.
+- (4) Co-author, J. Ellis, *Nat. hist. Zooph. 1786*, see TL-2/1663 (IDC 2244).
+- (5) Many data taken from Solander manuscripts were used by J. Dryander in W. Aiton, *Hort. kew.* eds. 1 and 2, see KR p. 656-657, no. 13.
+- (6) Contributions to J. Gaertner, *Fruct. sem.pl.* 1788-1791 (TL-2/1925), p. 112, 113, 124, 170-172, 174, 186, 283.
+- (7) See also J. Banks & D. Solander, *Ill. Austral. pl. Cook's voy.* 1900-1905, TL-2/295.
+- (8) Further contributions by Solander to works by others, or entries based on Solander manuscripts are listed in great detail by KR p. 656-660, q.v.
 
 #### Eponymy
 
@@ -101,8 +101,8 @@ Bull. Brit. Mus. nat. Hist., Bot. 6(1): 29-34, 71-85. 1978; J.E. Smith, Sel. cor
 
 #### Note
 
-(1) Main biography: R.A. Rauschenberg, Daniel Carl Solander, naturalist on the Endeavour, Trans. Amer. philos. Soc. ser. 2. 58(8): 1968 (extensive lists of primary and secondary sources, manuscripts and letters).
-(2) Monument: at Botany Bay near Sydney.
+- (1) Main biography: R.A. Rauschenberg, Daniel Carl Solander, naturalist on the Endeavour, Trans. Amer. philos. Soc. ser. 2. 58(8): 1968 (extensive lists of primary and secondary sources, manuscripts and letters).
+- (2) Monument: at Botany Bay near Sydney.
 
 #### Postage stamps
 

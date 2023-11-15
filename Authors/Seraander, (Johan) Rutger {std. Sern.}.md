@@ -34,9 +34,9 @@ Barnhart 3: 261 (b. 2 Nov 1866); BFM 2684-2685; BJI 1: 54, 2: 163; BL 2: 534, 71
 
 #### Composite works
 
-(1) *Sveriges växtvärld i forntid och nutid, in* J.F. Nyström, ed., Sveriges rike 1(2): col. 1-108. 1899-1900, see KR p. 636, no. 26.
-(2) With N. Svedelius and C.O. Norén editor of *Botaniska studier*. Tillägnade F.R. Kjellman den 4 November 1906, Uppsala 1906, 287 p., *1 pl*., 1 portr., map (18 papers by various authors honoring F.R. Kjellman on his 60th birthday), paper no. 14 by Sernander. *Ueber postflorale Nektarien*.
-(3) With E.J.L. von Post, *Pfl*.-*physiogn. Stud. Torfm.* 1910, see TL-2/8189.
+- (1) *Sveriges växtvärld i forntid och nutid, in* J.F. Nyström, ed., Sveriges rike 1(2): col. 1-108. 1899-1900, see KR p. 636, no. 26.
+- (2) With N. Svedelius and C.O. Norén editor of *Botaniska studier*. Tillägnade F.R. Kjellman den 4 November 1906, Uppsala 1906, 287 p., *1 pl*., 1 portr., map (18 papers by various authors honoring F.R. Kjellman on his 60th birthday), paper no. 14 by Sernander. *Ueber postflorale Nektarien*.
+- (3) With E.J.L. von Post, *Pfl*.-*physiogn. Stud. Torfm.* 1910, see TL-2/8189.
 
 #### Festschrift
 

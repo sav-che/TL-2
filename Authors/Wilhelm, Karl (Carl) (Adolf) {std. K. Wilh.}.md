@@ -22,8 +22,8 @@ Barnhart 3: 496 ("Carl Adolf); Biol.-Dokum. 19: 10047-10048; BM 5: 2322; CSP 12:
 
 #### Composite works
 
-(1) With Gustav Hempel (1842-1904), *Bäume Sträuch. Wald.* 1889-1900, TL-2/2624.
-(2) *Der innere Bau des Holzes* und die wichtigsten Nutzhölzer, nach äusseren Merkmalen geordnet; reprinted from P. Krais, ed., *Gewerbliche Materialenkunde*, I. *Die Hölzer*, Stuttgart, 1910.
+- (1) With Gustav Hempel (1842-1904), *Bäume Sträuch. Wald.* 1889-1900, TL-2/2624.
+- (2) *Der innere Bau des Holzes* und die wichtigsten Nutzhölzer, nach äusseren Merkmalen geordnet; reprinted from P. Krais, ed., *Gewerbliche Materialenkunde*, I. *Die Hölzer*, Stuttgart, 1910.
 
 ### Publications
 

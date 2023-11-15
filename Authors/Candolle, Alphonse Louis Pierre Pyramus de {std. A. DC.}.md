@@ -51,7 +51,7 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Barnhart 1: 306; BL 2: 6; BM 1: 308-3
 
 #### Composite works
 
-(1) Candolle, A. P., *Prodromus*: editor from vol. 8 onward and author of:
+- (1) Candolle, A. P., *Prodromus*: editor from vol. 8 onward and author of:
 *Aegicereae*, 8: 141-143. med. Mar 1844.
 *Ancistrocladeae*, 16(2): 601-603, med. Jul 1868.
 *Apocynaceae*, 8: 317-489, 675-677, med. Mar 1844.
@@ -92,10 +92,10 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Barnhart 1: 306; BL 2: 6; BM 1: 308-3
 *Stilbaceae*, 12: 604-608. 5 Nov 1848.
 *Styracaceae*, 8: 244-272, 673-674. med. Mar 1844.
 *Theophrastaceae*, 8: 144-153, 670. med. Mar 1844.
-(2)Martius, *Fl. bras*.:
+- (2) Martius, *Fl. bras*.:
 *Begoniaceae*, 4(1): 337-388. *pl. 91-101.* 15 Feb 1861.
 *Santalaceae, Myristicaceae*, 5(1): 101-122. *pl. 37-44.* 30 Jul 1865.
-(3)Candolle, A. P., *Notices sur les plantes* rares cultivées dans le jardin botanique de Genève, parts 5-6 with A. P. de Candolle, 7-10 by Alph. de Candolle alone.
+- (3) Candolle, A. P., *Notices sur les plantes* rares cultivées dans le jardin botanique de Genève, parts 5-6 with A. P. de Candolle, 7-10 by Alph. de Candolle alone.
 
 #### Eponymy (genus)
 

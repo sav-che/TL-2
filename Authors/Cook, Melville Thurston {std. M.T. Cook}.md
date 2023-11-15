@@ -28,7 +28,7 @@ Barnhart 1: 376 (b. 20 Sep 1869, Coffeen, III., d. 11 Aug 1952, Washington, D.C.
 
 #### Composite works
 
-(1) See H.A. Gleason and M. T. Cook *in* Hollick, *Palaeobot. Porto Rico*, TL-2/2: no. 2941.
+- (1) See H.A. Gleason and M. T. Cook *in* Hollick, *Palaeobot. Porto Rico*, TL-2/2: no. 2941.
 
 ### Publications
 

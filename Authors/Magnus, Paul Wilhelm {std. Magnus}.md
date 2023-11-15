@@ -31,7 +31,7 @@ AG 6(1): 656; Ainsworth p. 102-103, 283, 323; Andrews p. 299; Backer p. 348; Bar
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien, Najadaceae*, in 2(1): 214-218. 22 Feb 1889; suppl. Nachtr. 2-4: 37. Jul 1897.
+- (1) EP, *Die natürlichen Pflanzenfamilien, Najadaceae*, in 2(1): 214-218. 22 Feb 1889; suppl. Nachtr. 2-4: 37. Jul 1897.
 
 #### Note
 

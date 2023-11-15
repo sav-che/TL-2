@@ -52,14 +52,14 @@ Backer p. 448; Barnhart 3: 90; BB p. 245 (b. 21 Mar 1823, d. 1 Apr 1888); BJI 1:
 
 #### Composite works
 
-(1) Co-editor, *Flore des Serres*, 1849-1881.
-(2) Co-author, *Prelud. fl. columb.* 1853, with J.J. Linden, TL-2/4621.
-(3) Co-editor, *Pescatorea*, 1854-1860, see J.J. Linden, TL-2/4622.
-(4) Co-author, *Centralamer. Lobeliac.* 1857, with A.S. Örsted, see TL-2/7018.
-(5) Co-author, *Pl. columb.* 1863, with J.J. Linden, TL-2/4625.
-(6) Triana, J. & J.E. Planchon, *Prodromus florae nova-granatensis* 2 vols., 1862-1873, see under Triana. Planchon was co-author of vol. 1, *Phanerogamia*.
-(7) DC, *Prodr., Ulmaceae* 17: 151-210. 16 Oct 1873 (see also his *Sur les Ulmacées*, Ann. Sci. nat. Bot. ser. 3. 10: 244-341. 1848).
-(8) Alph. & C. de Candolle, *Monographiae phanerogamarum, 5*(*2*) (*Ampelideae*): \[i-v\], \[305\]-654, \[655\]. Oct. 1887 (rev. Freyn, Bot. Centralbl. 36: 204-206. 1888).
+- (1) Co-editor, *Flore des Serres*, 1849-1881.
+- (2) Co-author, *Prelud. fl. columb.* 1853, with J.J. Linden, TL-2/4621.
+- (3) Co-editor, *Pescatorea*, 1854-1860, see J.J. Linden, TL-2/4622.
+- (4) Co-author, *Centralamer. Lobeliac.* 1857, with A.S. Örsted, see TL-2/7018.
+- (5) Co-author, *Pl. columb.* 1863, with J.J. Linden, TL-2/4625.
+- (6) Triana, J. & J.E. Planchon, *Prodromus florae nova-granatensis* 2 vols., 1862-1873, see under Triana. Planchon was co-author of vol. 1, *Phanerogamia*.
+- (7) DC, *Prodr., Ulmaceae* 17: 151-210. 16 Oct 1873 (see also his *Sur les Ulmacées*, Ann. Sci. nat. Bot. ser. 3. 10: 244-341. 1848).
+- (8) Alph. & C. de Candolle, *Monographiae phanerogamarum, 5*(*2*) (*Ampelideae*): \[i-v\], \[305\]-654, \[655\]. Oct. 1887 (rev. Freyn, Bot. Centralbl. 36: 204-206. 1888).
 
 #### Handwriting
 

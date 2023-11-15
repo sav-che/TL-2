@@ -43,10 +43,10 @@ Backer p. 610; Barnhart 3: 427 (b. 23 Feb 1822, d. 4 Mar 1893); BJI 1: 60; BL 1:
 
 #### Composite works
 
-(1) Editor, *The American Entomologist and Botanist* 2, 1870.
-(2) Contributed to J.T. Rothrock, *Cat. Pl.* 1874, TL-2/9657 and *Rep. U.S. Geogr. surv. Wheeler* 1879, TL-2/9658.
-(3) Co-author, G.C. Neal, *Invest. Grass. Texas* 1887, TL-2/6664.
-(4) Collaborator, H.N. Patterson, *Numb. checkl. N. Amer. pl.* 1892, TL-2/7507.
+- (1) Editor, *The American Entomologist and Botanist* 2, 1870.
+- (2) Contributed to J.T. Rothrock, *Cat. Pl.* 1874, TL-2/9657 and *Rep. U.S. Geogr. surv. Wheeler* 1879, TL-2/9658.
+- (3) Co-author, G.C. Neal, *Invest. Grass. Texas* 1887, TL-2/6664.
+- (4) Collaborator, H.N. Patterson, *Numb. checkl. N. Amer. pl.* 1892, TL-2/7507.
 
 #### Eponymy
 

@@ -39,8 +39,8 @@ Ainsworth p. 348 \[index\]; Backer p. 663; Barnhart 3: 425 (b. 19 Apr 1839, d. 2
 
 #### Composite works
 
-(1) Editor, *Ann. Sci. nat. Bot.* ser. 6. 13 (1882). – Ser. 9, 18(5-6) (1913).
-(2) Translated and annotated J. Sachs, *Lehrb. bot*. (*Traité bot.*) 1874, see TL-2/9954.
+- (1) Editor, *Ann. Sci. nat. Bot.* ser. 6. 13 (1882). – Ser. 9, 18(5-6) (1913).
+- (2) Translated and annotated J. Sachs, *Lehrb. bot*. (*Traité bot.*) 1874, see TL-2/9954.
 
 #### Name
 

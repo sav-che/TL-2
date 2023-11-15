@@ -20,8 +20,8 @@ NI 1354, 1947; see also 1: 195, 211; PR 10140, ed. 1: 6184; Rehder 1: 85.
 
 #### Composite works
 
-(1) Artist, G.F.W. Meyer, *Fl. Hannover* 1842-1854, TL-2/5935.
-(2) Artist *Plantae selectae vivis coloribus depictae* (see Helm 1965).
+- (1) Artist, G.F.W. Meyer, *Fl. Hannover* 1842-1854, TL-2/5935.
+- (2) Artist *Plantae selectae vivis coloribus depictae* (see Helm 1965).
 
 ### Publications
 

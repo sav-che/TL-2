@@ -39,8 +39,8 @@ Barnhart 1: 458 (b. 20 Apr 1861, Wickham Bishops, Essex, d. 9 Mai 1941, Northamp
 
 #### Composite works
 
-(1) *Lichenes* (Lichens), in The *Victoria* history of the Counties of England, Northamptonshire \[H.A. Doubleday Extrait ed.\] 1: 84. Westminster (Constable).
-(2) *Classification of Mosses*, by H.N. Dixon in F. Verdoorn, Manual of Bryology 397-412. 1932.
+- (1) *Lichenes* (Lichens), in The *Victoria* history of the Counties of England, Northamptonshire \[H.A. Doubleday Extrait ed.\] 1: 84. Westminster (Constable).
+- (2) *Classification of Mosses*, by H.N. Dixon in F. Verdoorn, Manual of Bryology 397-412. 1932.
 
 ### Publications
 

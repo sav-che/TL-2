@@ -12,8 +12,8 @@ Unknown.
 
 #### Note
 
-(1) see H. Scholler 1952/53 for first names; Carl Nikolaus Joseph Schreibers (possibly his son) edited *C. Linnaei Epistolae*, 1841 (with S. Endlicher) (Hinrichs 19-25 Dec 1841).
-(2) Schreibers' wife Isabella was the daughter of J.F. von Jacquin and edited the second volume of the latter's *Ecl. pl. rar.*, TL-2/3236.
+- (1) see H. Scholler 1952/53 for first names; Carl Nikolaus Joseph Schreibers (possibly his son) edited *C. Linnaei Epistolae*, 1841 (with S. Endlicher) (Hinrichs 19-25 Dec 1841).
+- (2) Schreibers' wife Isabella was the daughter of J.F. von Jacquin and edited the second volume of the latter's *Ecl. pl. rar.*, TL-2/3236.
 
 #### Bibliography and biography
 

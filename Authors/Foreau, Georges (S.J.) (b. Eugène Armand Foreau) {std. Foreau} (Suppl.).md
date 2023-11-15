@@ -10,7 +10,9 @@
 
 #### Herbarium and types
 
-India (esp. cryptogams): [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]] (r. 1923-1933), [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection RHT|RHT]]. – *Exsiccatae*: (1) *Musci Madurenses Indiae Meridionalis Exsiccati* (fascs. i-iii, nos. 1-75, Madura, India, 1912-1913, det. J. Cardot) (*Musci Madur. Ind. Merid. Exsicc.*), sets at [[Collection FH|FH]], [[Collection M|M]], [[Collection PC|PC]]. See Demaret (1961) and Sayre (1971) for details of the identifications by J. Cardot and R.A.L. Potier de la Varde. (2) *Palni Hill Mosses* (nos. 1-150), set at [[Collection M|M]].
+India (esp. cryptogams): [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]] (r. 1923-1933), [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection RHT|RHT]].
+*Exsiccatae*: (1) *Musci Madurenses Indiae Meridionalis Exsiccati* (fascs. i-iii, nos. 1-75, Madura, India, 1912-1913, det. J. Cardot) (*Musci Madur. Ind. Merid. Exsicc.*), sets at [[Collection FH|FH]], [[Collection M|M]], [[Collection PC|PC]]. See Demaret (1961) and Sayre (1971) for details of the identifications by J. Cardot and R.A.L. Potier de la Varde.
+- (2) *Palni Hill Mosses* (nos. 1-150), set at [[Collection M|M]].
 
 #### Bibliography and biography
 

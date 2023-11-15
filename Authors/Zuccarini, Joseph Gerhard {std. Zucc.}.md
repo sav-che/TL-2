@@ -28,10 +28,10 @@ ADB 45: 472-474; Backer p. 636; Barnhart 3: 544 (b. 10 Aug 1797, d. 18 Feb 1848)
 
 #### Composite works
 
-(1) Collaborator, C.F.P. von Martius, *Nov. gen. sp. pl.* vol. 1, 1823-1826, see TL-2/5519.
-(2) With P.F. von Siebold, *Fl. Jap.*, see TL-2/11.949.
-(3) Co-author, with P.F. von Siebold, *Plantarum genera nova* 1843, see TL-2/11.952.
-(4) Co-author, with P.F. von Siebold, *Familiae japonicae familiae naturales*, 1845-1846, TL-2/11.956.
+- (1) Collaborator, C.F.P. von Martius, *Nov. gen. sp. pl.* vol. 1, 1823-1826, see TL-2/5519.
+- (2) With P.F. von Siebold, *Fl. Jap.*, see TL-2/11.949.
+- (3) Co-author, with P.F. von Siebold, *Plantarum genera nova* 1843, see TL-2/11.952.
+- (4) Co-author, with P.F. von Siebold, *Familiae japonicae familiae naturales*, 1845-1846, TL-2/11.956.
 
 #### Handwriting
 

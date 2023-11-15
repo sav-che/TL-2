@@ -8,7 +8,8 @@ Müller, Heinrich Ludwig Hermann \["Hermann Müller von Lippstadt"\] (1829-1883)
 
 #### Herbarium and types
 
-[[Collection MSTR|MSTR]]; further material at [[Collection B|B]], [[Collection E|E]], [[Collection FH|FH]] (1000), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PC|PC]]. Exsiccatae: *Weslfalens Laubmoose* fasc. 1-7, nos. 1-420, 421-450, 1863-1867, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection WRSL|WRSL]]. (See Sayre 1971). Issued also *Musci europaei exsiccati*, geordnet nach Lorentz (probably an irregular set; see e.g. Bot. Zeit. 41: 136. 1883).
+[[Collection MSTR|MSTR]]; further material at [[Collection B|B]], [[Collection E|E]], [[Collection FH|FH]] (1000), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PC|PC]].
+*Exsiccatae*: *Weslfalens Laubmoose* fasc. 1-7, nos. 1-420, 421-450, 1863-1867, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection WRSL|WRSL]]. (See Sayre 1971). Issued also *Musci europaei exsiccati*, geordnet nach Lorentz (probably an irregular set; see e.g. Bot. Zeit. 41: 136. 1883).
 
 #### Bibliography and biography
 

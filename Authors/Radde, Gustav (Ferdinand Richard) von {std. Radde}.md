@@ -53,9 +53,9 @@ AG 3: 561; Barnhart 3: 122 (b. 15/27 Nov 1831, d. 2/15 Mar 1903); BJI 1: 47; BM 
 
 #### Composite works
 
-(1) For *Reisen in den Süden von Ost-Siberien* see F. Herder, TL-2/2671 (for vols. 3 and 4), and E. Regel (for vol. 1); vol. 2 was never issued.
-(2) For *Plantae Raddeaneae monopetalae* see F. Herder, TL-2/2671.
-(3) For *Nachträge zu den Plantae Raddeaneae* see J.H. Schultes (1880).
+- (1) For *Reisen in den Süden von Ost-Siberien* see F. Herder, TL-2/2671 (for vols. 3 and 4), and E. Regel (for vol. 1); vol. 2 was never issued.
+- (2) For *Plantae Raddeaneae monopetalae* see F. Herder, TL-2/2671.
+- (3) For *Nachträge zu den Plantae Raddeaneae* see J.H. Schultes (1880).
 
 #### Eponymy
 

@@ -40,9 +40,9 @@ Ainsworth p. 97, 300, 341; Barnhart 1: 397 (b. 20 Apr 1830, Aberdeen, Scotland, 
 
 #### Composite works
 
-(1) Addition to TL-2/1277, *Lichenes britannici*, London 1870: IDC microfiche no. E-571/2.
-(2) *Lichenes, in* B. Seemann, *Flora Vitiensis* (TL-2/11.613), part 10: 419-421. Feb 1873. *Copy*: BM.
-(3): J.M. Crombie translated "*Nylander on the Algo-Lichen Hypothesis* and on the nutrition of Lichens, etc.," Grevillea 22: 145-152. Apr 1875 (in fact on H.A. Weddell, TL-2/16.956, 16.958).
+- (1) Addition to TL-2/1277, *Lichenes britannici*, London 1870: IDC microfiche no. E-571/2.
+- (2) *Lichenes, in* B. Seemann, *Flora Vitiensis* (TL-2/11.613), part 10: 419-421. Feb 1873. *Copy*: BM.
+- (3) J.M. Crombie translated "*Nylander on the Algo-Lichen Hypothesis* and on the nutrition of Lichens, etc.," Grevillea 22: 145-152. Apr 1875 (in fact on H.A. Weddell, TL-2/16.956, 16.958).
 
 ### Publications
 

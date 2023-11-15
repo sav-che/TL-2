@@ -33,7 +33,7 @@ AG 12(2): 273; Backer p. 91; Barnhart 1: 290; BM 1: 292, BM 2: 951 (sub Junghuhn
 
 #### Composite works
 
-(1) Co-author of F.A.W. Miquel, *Plantae junghuhnianae*, see TL-2/3: 514 (no. 6107). – See below.
+- (1) Co-author of F.A.W. Miquel, *Plantae junghuhnianae*, see TL-2/3: 514 (no. 6107). – See below.
 
 ### Publications
 

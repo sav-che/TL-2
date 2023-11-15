@@ -25,7 +25,7 @@ BJI 2: 176; BL 1: 125, 320; Bossert p. 394; Hortus 3: 1205; IF suppl. 3: 218, su
 
 #### Composite works
 
-(1) Contributed to H. Lecomte, ed., *Fl. Indo-Chine*: *Dipterocarpaceae*, 1 (suppl.) 3: 334-360. Mar 1943.
+- (1) Contributed to H. Lecomte, ed., *Fl. Indo-Chine*: *Dipterocarpaceae*, 1 (suppl.) 3: 334-360. Mar 1943.
 *Linaceae*, 1 (suppl.) 4: 501-504. Dec 1945.
 *Erythroxylaceae*, 1 (suppl.) 4: 504-506. Dec 1945.
 *Zygophyllaceae*, 1 (suppl.) 4: 544-547. Dec 1945.
@@ -36,15 +36,15 @@ BJI 2: 176; BL 1: 125, 320; Bossert p. 394; Hortus 3: 1205; IF suppl. 3: 218, su
 *Siphonodontaceae*, 1 (suppl.) 7: 824. Dec 1948.
 *Rhamnaceae*, 1 (suppl.) 7: 825-844. Dec 1948.
 *Pteridophyta*, 7(2) 6: 1-144. Dec 1939, 7(2) 7: 145-288. Jun 1940, 7(2) 8: 289-432. Jun 1941. 7(2) 9: 433-544. Aug 1941 (with C. Christensen).
-(2) General editor, *Flore du Cambodge*, du Laos et du Viet-Nam (supplément à la Flore générale de l'Indochine...), 1960-x. Contributed *Anacardiacées* (no. 2, 1962), *Hamamelidaceae, Haloragaceae* (no. 4, 1965), *Umbelliferae, Aizoaceae, Molluginaceae* (no. 5, 1967), *Nyssaceae, Cornaceae, Alangiaceae* (no. 8, 1968).
+- (2) General editor, *Flore du Cambodge*, du Laos et du Viet-Nam (supplément à la Flore générale de l'Indochine...), 1960-x. Contributed *Anacardiacées* (no. 2, 1962), *Hamamelidaceae, Haloragaceae* (no. 4, 1965), *Umbelliferae, Aizoaceae, Molluginaceae* (no. 5, 1967), *Nyssaceae, Cornaceae, Alangiaceae* (no. 8, 1968).
 
 #### Note
 
-(1) Outside our period e.g. *Les ptéridophytes de l'Afrique intertropicale française*, 1, 1953, 243 p., 2, 1957 (in Mém. Inst. franç. Afr. noire).
+- (1) Outside our period e.g. *Les ptéridophytes de l'Afrique intertropicale française*, 1, 1953, 243 p., 2, 1957 (in Mém. Inst. franç. Afr. noire).
 
 #### Note
 
-(2) Ambroise Tardieu (1788-1841) was a French engraver; see e.g. NI p. 271 (index). – Maurice Tardieu (x-1910) was a floristic botanist at Paris.
+- (2) Ambroise Tardieu (1788-1841) was a French engraver; see e.g. NI p. 271 (index). – Maurice Tardieu (x-1910) was a floristic botanist at Paris.
 
 #### Eponymy
 

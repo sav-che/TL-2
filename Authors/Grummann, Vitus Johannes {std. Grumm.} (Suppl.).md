@@ -24,10 +24,10 @@ Ainsworth p. 308, 337; APN p. 245; Barnhart 2: 94; Biol.-Dokum. 7: 87.737-87.743
 
 #### Outside our period
 
-(1) *Morphologische, anatomische und entwicklungsgeschichtliche Studien* über *Bildungsabweichungen* bei *Flechten*: unter kritischer Einbeziehung der bisherigen Literatur... Gräfenhainichen (Druck von A. Heine G.m.b.H.) 1941; his doctoral thesis. Also issued as... Dahlem bei Berlin (Im Selbstverlag) 1941.
-(2) Co-author with Johannes Hillmann (1881-1943), *Flechten*... Berlin (Gebrüder Borntraeger) 1957.
-(3) *Catalogus lichenum Germaniae*; ein systematisch-floristischer Katalog der Flechten Deutschlands... Stuttgart (G. Fischer) 1963.
-(4) *Biographisch-bibiographisches Handbuch der Lichenologie* \[von\] V. Grummann: Nach dem Tode des Verfassers für die Herausgabe durchgesehen von O\[scar\]. Klement... Lehre (J. Cramer), ix, 839 p., *41 pl*. (facsims., portrs.) 1974. – *Note*: This is a standard reference for TL-2, abbreviated as "GR".
+- (1) *Morphologische, anatomische und entwicklungsgeschichtliche Studien* über *Bildungsabweichungen* bei *Flechten*: unter kritischer Einbeziehung der bisherigen Literatur... Gräfenhainichen (Druck von A. Heine G.m.b.H.) 1941; his doctoral thesis. Also issued as... Dahlem bei Berlin (Im Selbstverlag) 1941.
+- (2) Co-author with Johannes Hillmann (1881-1943), *Flechten*... Berlin (Gebrüder Borntraeger) 1957.
+- (3) *Catalogus lichenum Germaniae*; ein systematisch-floristischer Katalog der Flechten Deutschlands... Stuttgart (G. Fischer) 1963.
+- (4) *Biographisch-bibiographisches Handbuch der Lichenologie* \[von\] V. Grummann: Nach dem Tode des Verfassers für die Herausgabe durchgesehen von O\[scar\]. Klement... Lehre (J. Cramer), ix, 839 p., *41 pl*. (facsims., portrs.) 1974. – *Note*: This is a standard reference for TL-2, abbreviated as "GR".
 
 ### Publications
 

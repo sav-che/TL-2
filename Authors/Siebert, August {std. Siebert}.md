@@ -21,8 +21,8 @@ Barnhart 3: 275 (b. 1 Apr 1854, d. 1 Mai 1923); Hortus 3: 1204; Rehder 5: 798; T
 
 #### Composite works
 
-(1) *Vilmorin*"'*s Blumengärtnerei* Beschreibung, Kultur und Verwendung des gesamten Pflanzenmaterials für deutsche Gärten. Dritte neubearbeitete Auflage unter Mitwirkung von A. Siebert... herausgegeben von A. Voss... Berlin (Verlagsbuchhandlung Paul Parey...) 2 vols. 1894-1896. – Actual author A. Voss, q.v. for further treatment. See also TL-1/1365.
-(2) Collaborator, E. Regel, *Gartenflora* vols. 36-39, see TL-2/8775.
+- (1) *Vilmorin*"'*s Blumengärtnerei* Beschreibung, Kultur und Verwendung des gesamten Pflanzenmaterials für deutsche Gärten. Dritte neubearbeitete Auflage unter Mitwirkung von A. Siebert... herausgegeben von A. Voss... Berlin (Verlagsbuchhandlung Paul Parey...) 2 vols. 1894-1896. – Actual author A. Voss, q.v. for further treatment. See also TL-1/1365.
+- (2) Collaborator, E. Regel, *Gartenflora* vols. 36-39, see TL-2/8775.
 
 ### Publications
 

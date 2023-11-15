@@ -23,8 +23,8 @@ Barnhart 3: 237; BL 1: 155, 317, 2: 460, 715; BM 8: 1160; GR p. 481, pl. \[39\],
 
 #### Composite works
 
-(1) With B.A. Lynge, *Lich. N.E. Greenland* 1932. TL-2/5129.
-(2) With E. Dahl and B.A. Lynge (q.v.), *Lich. S.E. Greenland, Scholander* 1937, TL-2/5131.
+- (1) With B.A. Lynge, *Lich. N.E. Greenland* 1932. TL-2/5129.
+- (2) With E. Dahl and B.A. Lynge (q.v.), *Lich. S.E. Greenland, Scholander* 1937, TL-2/5131.
 
 #### Festschrift
 

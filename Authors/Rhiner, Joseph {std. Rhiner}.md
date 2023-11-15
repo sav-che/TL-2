@@ -29,8 +29,8 @@ Barnhart 3: 149; BFM no. 993; BL 2: 564, 581, 708; BM 4: 1694; DTS 1: 245, xxiii
 **Notes**
 *Publ*.: 1866 (p. vi: 4 Jun 1866), p. \[i\]-viii, \[1\]-104. *Copy*: G.
 *Nachträge*: (1)*in Prodr. Waldst. Gefässpfl.* 1870, p. 197-200, see below.
-(2) *in Tabell. Fl. schweiz.-Kant.* 1869, p. 200-211.
-(3) Jahresber. St. Gallen naturf. Ges. 1893/94: 208-214. 1895.
+- (2) *in Tabell. Fl. schweiz.-Kant.* 1869, p. 200-211.
+- (3) Jahresber. St. Gallen naturf. Ges. 1893/94: 208-214. 1895.
 
 ##### n.9128. Abrisse zur tabellarischen Flora der Schweizer Kantone
 

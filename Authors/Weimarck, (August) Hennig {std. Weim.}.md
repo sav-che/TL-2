@@ -168,9 +168,9 @@ Outside our period e.g. *Skånes Flora*, xxiv, 721 p., Lund Mai 1963; reissued a
 **Notes**
 *Publ*.: 16 Dec 1940, cover-t.p., p. \[399\]-402. *Copies*: B, FAS, LD. – Reprinted and to be cited from Bot. Not. 1940: \[399\]-402. – Medd. Lunds Bot. Mus. 51.
 *See also*: (1) *Further notes on the genus Cliffortia* 1946, cover-t.p., p. \[407\]-420. *Copies*: FAS, LD. – Reprinted from Bot. Not. 1946(4): \[407\]-420. 20 Dec 1946. – Medd. Lunds Bot. Mus. 80.
-(2) *The genus Cliffortia*, a taxonomical survey, Bot. Not. 1948(2): \[167\]–203. *pl. 3-10.* 26 Jun 1948. – Also repr., Medd. Lunds Bot. Mus. 90.
-(3) *Two new Cliffortia species from the Cape Province*, 1953, cover-t.p., p. \[78\]-80. *Copies*: FAS, LD. – Reprinted and to be cited from Bot. Not. 1953: \[78\]-80. 31 Mar 1953. – Medd. Lunds Bot. Mus. 102.
-(4) *Four new Cliffortia species*, 1959, cover-t.p., p. \[73\]-79. *Copies*: FAS, LD. – Id. 112(1): \[73\]-79. 26 Mar 1959. – Medd. Lunds Bot. Mus. 132.
+- (2) *The genus Cliffortia*, a taxonomical survey, Bot. Not. 1948(2): \[167\]–203. *pl. 3-10.* 26 Jun 1948. – Also repr., Medd. Lunds Bot. Mus. 90.
+- (3) *Two new Cliffortia species from the Cape Province*, 1953, cover-t.p., p. \[78\]-80. *Copies*: FAS, LD. – Reprinted and to be cited from Bot. Not. 1953: \[78\]-80. 31 Mar 1953. – Medd. Lunds Bot. Mus. 102.
+- (4) *Four new Cliffortia species*, 1959, cover-t.p., p. \[73\]-79. *Copies*: FAS, LD. – Id. 112(1): \[73\]-79. 26 Mar 1959. – Medd. Lunds Bot. Mus. 132.
 
 ##### n.17.016. A revision of the genus Nivenia
 

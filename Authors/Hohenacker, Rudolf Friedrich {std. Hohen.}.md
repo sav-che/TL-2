@@ -10,7 +10,7 @@ Hohenacker, Rudolf Friedrich (1798-1874), German missionary (1822-1830), physici
 
 See IH. – Hohenacker was associated with the *Esslinger Reiseverein* (Unio itineraria) between 1829 and 1842. From 1843 onward Hohenacker issued independently series of exsiccatae containing plants collected by himself and by others. The collections which remained after his death were dispersed by sale, first by B. Wartmann, later by K. Keck.
 *Exsiccatae*: (1) *Algae marinae exsiccatae* (siccatae) (fasc. 1-12, nos. 1-600, 1852-1862), [[Collection B|B]], [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection STR|STR]], [[Collection UPS|UPS]], [[Collection W|W]].
-(2) *Herbarium normale plantarum officinalium et mercatorium* (fasc. 1-5, 1850-1872). *1*: 1850, see Bot. Zeit. 8: 422-424 (rev. Bischoff).
+- (2) *Herbarium normale plantarum officinalium et mercatorium* (fasc. 1-5, 1850-1872). *1*: 1850, see Bot. Zeit. 8: 422-424 (rev. Bischoff).
 *2*: Jan 1856, see B.Z. 14: 133-135. 22 Feb 1856, Flora 7 Feb 1856.
 *3*: Sep 1859, see B.Z. 17: 320, 359-360. 1859.
 *4*: Aug 1869, see B.Z. 27: 582-584. 27 Aug 1869.

@@ -24,10 +24,10 @@ Barnhart 3: 178 (24 Sep 1810, d. 11 Feb 1902); Urban-Berl. p. 312.
 
 #### Composite works
 
-(1) *Flora danica pl. 2618, 2639, 2741, 2747.*
-(2) Contributed to T. Jensen, *Bryol. danic.* 1856 (TL-2/3338).
-(3) Contributed to J.M.C. Lange, *Haandb. Danske fl.* ed. 1, 1851 (TL-2/4179).
-(4) Contributed to P.A.C. Heiberg, *Krit. Overs. Danske Diatom.* 1863, (TL-2/2572).
+- (1) *Flora danica pl. 2618, 2639, 2741, 2747.*
+- (2) Contributed to T. Jensen, *Bryol. danic.* 1856 (TL-2/3338).
+- (3) Contributed to J.M.C. Lange, *Haandb. Danske fl.* ed. 1, 1851 (TL-2/4179).
+- (4) Contributed to P.A.C. Heiberg, *Krit. Overs. Danske Diatom.* 1863, (TL-2/2572).
 
 #### Eponymy
 

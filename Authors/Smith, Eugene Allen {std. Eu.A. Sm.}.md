@@ -26,6 +26,6 @@ Barnhart 3: 291 (b. 27 Oct 1841, d. 7 Sep 1927); BM 4: 1944-1945, 8: 1204; DAB 9
 
 #### Composite works
 
-(1) See under C.T. Mohr for *Plant life of Alabama* 1901, TL-2/6193.
-(2) E.A. Smith collected the plants for C.T. Mohr, *Prelim. list pl. Alabama* 1880, TL-2/6190. – Reviewed Bull. Torrey bot. Club 7(6): 69. Jun 1880.
+- (1) See under C.T. Mohr for *Plant life of Alabama* 1901, TL-2/6193.
+- (2) E.A. Smith collected the plants for C.T. Mohr, *Prelim. list pl. Alabama* 1880, TL-2/6190. – Reviewed Bull. Torrey bot. Club 7(6): 69. Jun 1880.
 

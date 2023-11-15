@@ -10,7 +10,8 @@ Burlingham, Gertrude Simmons (1872-1952), American high-school teacher in Brookl
 
 #### Herbarium and types
 
-material at [[Collection BPI|BPI]] and [[Collection NY|NY]]. – Exsiccatae: *The Lactariae of North America* (face, i, ii, nos. 1-50, New York 1910), sets at [[Collection BPI|BPI]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection UC|UC]], [[Collection VT|VT]]. – "The series cannot be recognized as a standard exsiccati" (Stevenson).
+material at [[Collection BPI|BPI]] and [[Collection NY|NY]].
+*Exsiccatae*: *The Lactariae of North America* (face, i, ii, nos. 1-50, New York 1910), sets at [[Collection BPI|BPI]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection UC|UC]], [[Collection VT|VT]]. – "The series cannot be recognized as a standard exsiccati" (Stevenson).
 *Ref*.: IH 2: 108.
 - Stevenson, Beih. Nova Hedwigia 36: 68-69. 1971.
 

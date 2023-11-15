@@ -42,6 +42,6 @@ Backer p. 498 (epon.); Barnhart 3: 173 (b. 1725, d. 9 Aug 1793); Dryander 3: 290
 
 #### Note
 
-(1) *Doliocarpus*. En ört af nytt genus från America, Sv. Vet.-Akad. Handl. 1756: 256-261, *pl. 9* was translated into German as *Doliocarpus*. Eine neue Gattung Pflanzen aus America, Abh. Schwed.-Akad. Wiss. 18: 246-250. *pl*. o. 1757. See KR p. 592.
-(2) See KR p. 592, nos. 3 and 4 on the descriptions of taxa by Rolander used by C.F. Rottbøl, Descr. plant. quarund. Surinam., *in* Acta lit. Univ. Hafn. 1778: 270, 271, 274, 277, 278, 279, 280, 281 and in Obs. Soc. med. Havn. coll. 2: 248, 251, 258. 1775.
+- (1) *Doliocarpus*. En ört af nytt genus från America, Sv. Vet.-Akad. Handl. 1756: 256-261, *pl. 9* was translated into German as *Doliocarpus*. Eine neue Gattung Pflanzen aus America, Abh. Schwed.-Akad. Wiss. 18: 246-250. *pl*. o. 1757. See KR p. 592.
+- (2) See KR p. 592, nos. 3 and 4 on the descriptions of taxa by Rolander used by C.F. Rottbøl, Descr. plant. quarund. Surinam., *in* Acta lit. Univ. Hafn. 1778: 270, 271, 274, 277, 278, 279, 280, 281 and in Obs. Soc. med. Havn. coll. 2: 248, 251, 258. 1775.
 

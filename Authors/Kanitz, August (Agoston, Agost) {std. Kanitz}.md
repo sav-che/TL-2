@@ -27,14 +27,14 @@ AG 1: 254; Backer p. 298; Barnhart 2: 270; BM 2: 957; Bossert p. 204; CSP 3: 606
 
 #### Composite works
 
-(1) With P. Ascherson: *Catalogus Cormophytorum et Anthophytorum Serbiae*. Claudiopoli (Cluj) 1877 (TL-2/197).
-(2) Editor and founder of *Magyar Növénytani Lapok* (1-6), (1877-1892).
-(3) With S. Schulzer von Müggenburg (q.v.) and J. A. Knapp, *Die bisher bekannten Pflanzen Slavoniens*. Wien 1866, p. \[1\]-172 (see Bot. Zeit. 24: 233. 27 Jul 1866).
-(4) Martius, *Flora brasiliensis*:
+- (1) With P. Ascherson: *Catalogus Cormophytorum et Anthophytorum Serbiae*. Claudiopoli (Cluj) 1877 (TL-2/197).
+- (2) Editor and founder of *Magyar Növénytani Lapok* (1-6), (1877-1892).
+- (3) With S. Schulzer von Müggenburg (q.v.) and J. A. Knapp, *Die bisher bekannten Pflanzen Slavoniens*. Wien 1866, p. \[1\]-172 (see Bot. Zeit. 24: 233. 27 Jul 1866).
+- (4) Martius, *Flora brasiliensis*:
 (a) *Lobeliaceae*, 6(4): 129-158, *pl. 39-45.* 1 Dec 1878.
 (b) *Haloragaceae*, 13(2): 373-382, *pl. 68-69.* 1 Mai 1882.
 (c) *Campanulaceae*, 6(4): 177-188, *pl. 48-49.* 1 Jun 1885.
-(5) Warming, E., *Symbolae, Haloragidaceae*, part 35, p. 165, publ. 21 Apr 1891; *Lobeliaceae*, part 38, p. 46, publ. 3 Mai 1892.
+- (5) Warming, E., *Symbolae, Haloragidaceae*, part 35, p. 165, publ. 21 Apr 1891; *Lobeliaceae*, part 38, p. 46, publ. 3 Mai 1892.
 
 ### Publications
 

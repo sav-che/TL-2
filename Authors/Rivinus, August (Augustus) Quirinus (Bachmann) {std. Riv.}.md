@@ -41,7 +41,7 @@ ADB 28: 708 (Pagel); AG 3: 680, 5(1): 383; Barnhart 3: 161 (b. 9 Dec 1652, d. 30
 - Wittrock, V.B., Acta Horti Berg. 3(2): 140. 1903, 3(3): xix, 149-150, *pl. 19.* 1905 (portr.).
 - Zaunick, R., *in* facs. ed. *Bibl. rivin.*, Amsterdam 1966, p. \[iii\*-vii\*\] (b. 9 Dec 1652, d. 30 Dec 1723; many details).
 
-#### General key to rivinus' works
+#### General key to Rivinus' works
 
 E. Huth, *Clavis riviniana*, Frankfurt a.O. 1891 (Nat. Nov. Apr(1) 1891), i, 28 p.; see TL-2/3169.
 

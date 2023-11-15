@@ -10,7 +10,8 @@ Fristedt, Robert Fredric \[Fredrik\] (1832-1893), Swedish pharmacologist and bot
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]]. – Exsiccatae: *Sveriges pharmaceutiska växter* (fase, i-viii, 1863-1872) sets at [[Collection GB|GB]], [[Collection S|S]], [[Collection UPS|UPS]].
+[[Collection UPS|UPS]].
+*Exsiccatae*: *Sveriges pharmaceutiska växter* (fase, i-viii, 1863-1872) sets at [[Collection GB|GB]], [[Collection S|S]], [[Collection UPS|UPS]].
 *Ref*.: IH 2: 210, KR p. 231 (no. 13).
 - Sayre, Mem. New York Bot. Gard. 19(1): 24-25. 1969.
 

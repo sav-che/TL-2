@@ -8,7 +8,8 @@ Traverso, Giovanni Battista (1878-1955), Italian mycologist and phytopathologist
 
 #### Herbarium and types
 
-[[Collection PAD|PAD]] and [[Collection PAV|PAV]]; other material at [[Collection MIPV|MIPV]], [[Collection MOD|MOD]], [[Collection ROPV|ROPV]]. – *Exsiccatae*: *Fungi italici exsiccati* (seu Mycothecae Italicae series altera) fasc. 1, nos. 1-50. 1913 (1914?). – *Letters* to W.G. Farlow at [[Collection FH|FH]].
+[[Collection PAD|PAD]] and [[Collection PAV|PAV]]; other material at [[Collection MIPV|MIPV]], [[Collection MOD|MOD]], [[Collection ROPV|ROPV]].
+*Exsiccatae*: *Fungi italici exsiccati* (seu Mycothecae Italicae series altera) fasc. 1, nos. 1-50. 1913 (1914?). – *Letters* to W.G. Farlow at [[Collection FH|FH]].
 
 #### Note
 
@@ -26,10 +27,10 @@ AG 12(2): 671; Barnhart 3: 399 (b. 25 Oct 1878); BL 2: 338, 370, 394, 416, 724; 
 
 #### Composite works
 
-(1) With P.A. Saccardo, *Micromiceti italiani* 1904, see TL-2/9936.
-(2) With P.A. Saccardo, *La flora delle vette di Feltre* 1905, see TL-2/9939.
-(3) *Bibliotheca micologica, in* P.A. & D. Saccardo, *Syll. fung. 17*, 1905, see TL-2/9898.
-(4) *Index iconum fungorum, in* P.A. Saccardo, *Syll. fung*. 19/20, 1910-1911, see TL-2/9894.
+- (1) With P.A. Saccardo, *Micromiceti italiani* 1904, see TL-2/9936.
+- (2) With P.A. Saccardo, *La flora delle vette di Feltre* 1905, see TL-2/9939.
+- (3) *Bibliotheca micologica, in* P.A. & D. Saccardo, *Syll. fung. 17*, 1905, see TL-2/9898.
+- (4) *Index iconum fungorum, in* P.A. Saccardo, *Syll. fung*. 19/20, 1910-1911, see TL-2/9894.
 
 #### Eponymy
 

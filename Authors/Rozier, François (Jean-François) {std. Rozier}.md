@@ -31,8 +31,8 @@ Backer p. 660; Barnhart 3: 187 (b. 23 Jan 1734, d. 29 Sep 1793); BM 4: 1758, 175
 
 #### Composite works
 
-(1) collaborated with M.A.L.C. de Latourette in the *Démonst. élém. bot.* (éd. 1, 1766 through ed. 4, 1796), see TL-2/4229.
-(2) founder and editor of the *Journal de Physique*. 1771-1780.
+- (1) collaborated with M.A.L.C. de Latourette in the *Démonst. élém. bot.* (éd. 1, 1766 through ed. 4, 1796), see TL-2/4229.
+- (2) founder and editor of the *Journal de Physique*. 1771-1780.
 
 ### Publications
 

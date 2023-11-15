@@ -8,7 +8,8 @@ Palmgren, Alvar (1880-1960), Finnish botanist; Dr. phil. Helsinki 1914; lecturer
 
 #### Herbarium and types
 
-[[Collection H|H]] (much *Carex* & *Hieracium*), other material at [[Collection C|C]], [[Collection GB|GB]], [[Collection LD|LD]], [[Collection NY|NY]] and [[Collection S|S]]. – *Exsiccatae*: *Carices fulvellae Fries*, nos. 1-60, 1910. Sets at [[Collection B|B]], [[Collection C|C]], [[Collection H|H]] and [[Collection LD|LD]] (total number of sets prepared: 9), for an index see Medd. Soc. Fauna Fl. fenn. 44: 219-222. 1918, Sv. bot. Tidskr. 12: 407-409. 1918, Luonnon Ystävä 22: 69-70. 1918. – Some letters at [[Collection G|G]].
+[[Collection H|H]] (much *Carex* & *Hieracium*), other material at [[Collection C|C]], [[Collection GB|GB]], [[Collection LD|LD]], [[Collection NY|NY]] and [[Collection S|S]].
+*Exsiccatae*: *Carices fulvellae Fries*, nos. 1-60, 1910. Sets at [[Collection B|B]], [[Collection C|C]], [[Collection H|H]] and [[Collection LD|LD]] (total number of sets prepared: 9), for an index see Medd. Soc. Fauna Fl. fenn. 44: 219-222. 1918, Sv. bot. Tidskr. 12: 407-409. 1918, Luonnon Ystävä 22: 69-70. 1918. – Some letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

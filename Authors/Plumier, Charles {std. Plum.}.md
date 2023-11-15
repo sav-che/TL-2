@@ -59,7 +59,7 @@ AG 1: 100; Backer p. 452-453; Barnhart 3: 93; Blunt p. 128, 263; BM 4: 1587; Bos
 - Woodward, B.B., *in* Murray, G., Hist. coll. BM(NH) 1: 28, 45. 1904 (312 orig. drawings).
 - Wright, J., Garden, London, 105(2): 76-77. 1979 (portr.).
 
-#### General commentary and key to plumier's taxa
+#### General commentary and key to Plumier's taxa
 
 Urban, I., Rep. Spec. nov. Beih. 5: 1-196. 1920 (Plumiers Leben und Schriften nebst einem Schlüssel zu seinen Blütenpflanzen). Urban based his work on his studies of 1657 of the original drawings, mentioned above, namely those in the mss *Botanicon americanum* (8 vols., 1219 pl.), *Botanographia americana* (3 vols., 248 pl.) and *Antillarum insularum natur. icones* (1 vol., 190 pl.). – See also Fournier, Voyages et découvertes des missionaires naturalistes français 1: 58-59. 1932. PR 7213-7217.
 

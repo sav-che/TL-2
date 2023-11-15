@@ -39,9 +39,9 @@ Barnhart 1: 450 (b. 15 Oct 1866, Brussels); BL 1: 324 (index), 2: 31, 647; BM 5:
 
 #### Composite works
 
-(1) O. Warburg and Ém. De Wildeman, *Les Ficus* de la flore de l'État indépendant du Congo, see TL-2/no. 16.666.
-(2) *Notes pour l'histoire de la botanique et de l'horticulture en Belgique*... Mém. Acad. roy. Belg. Cl. Sci. Collect. 25: 1-832, *2 pl*. 1950 – See BL 2: 31.
-(3) *Actes du IIIme Congrès International de Botanique Bruxelles 1910* publiés au nom de la commission d'organisation du congres (ed. by É. De Wildeman). Vol. 1: Comptes-rendus des séances... 373 p. 1912, Vol. 2: Conférences et mémoires... 236 p., 1912. – *Copy*: BR.
+- (1) O. Warburg and Ém. De Wildeman, *Les Ficus* de la flore de l'État indépendant du Congo, see TL-2/no. 16.666.
+- (2) *Notes pour l'histoire de la botanique et de l'horticulture en Belgique*... Mém. Acad. roy. Belg. Cl. Sci. Collect. 25: 1-832, *2 pl*. 1950 – See BL 2: 31.
+- (3) *Actes du IIIme Congrès International de Botanique Bruxelles 1910* publiés au nom de la commission d'organisation du congres (ed. by É. De Wildeman). Vol. 1: Comptes-rendus des séances... 373 p. 1912, Vol. 2: Conférences et mémoires... 236 p., 1912. – *Copy*: BR.
 
 ### Publications
 

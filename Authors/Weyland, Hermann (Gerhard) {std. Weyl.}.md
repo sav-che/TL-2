@@ -29,8 +29,8 @@ Andrews p. 347-348; Barnhart 3: 482; BFM 2186; Biol.-Dokum. 19: 9989-9990; GR p.
 
 #### Composite works
 
-(1) With R. Kräusel, *Die Flora des böhmischen Mitteldevons* 1933, TL-2/3906.
-(2) With W. Gothan, *Lehrbuch der Paläobotanik* 1953, eds. 2 and 3, revised by Weyland, 1964, 1972.
+- (1) With R. Kräusel, *Die Flora des böhmischen Mitteldevons* 1933, TL-2/3906.
+- (2) With W. Gothan, *Lehrbuch der Paläobotanik* 1953, eds. 2 and 3, revised by Weyland, 1964, 1972.
 
 #### Festschrift
 

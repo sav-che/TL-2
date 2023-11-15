@@ -28,9 +28,9 @@ Barnhart 1: 207; BFM 1581; BL 1: 155, 2: 45, 52, 56, 57, 475; GR p. 681; IH 2: 8
 
 #### Outside our period
 
-(1) *Grønlands flora* by T.W. Böcher, K. Holmen and K. Jakobsen, 314 p., *57 pl*. Copenhagen 1957; English version: *The flora of Greenland*, 312 p., *2 col. pl.*, map. 1968; see review A. Löve, Taxon 17: 431. Aug 1968.
-(2) *Botanical studies of the Atuel Valley Area*, Mendoza Province, Argentina, issued as Dansk Bot. Ark. 22(1): 7-115. 1963; *part II*: id. 22(2): 123-184. 1968. − Co-authors: J.P. Herting (1,2), and K. Rahn (1).
-(3) *Anatomical studies in xerophyte apophyllous plants*, Kongl. Danske Vid. Selsk. Biol. Skr. 16(3): 1-44. 1968.
+- (1) *Grønlands flora* by T.W. Böcher, K. Holmen and K. Jakobsen, 314 p., *57 pl*. Copenhagen 1957; English version: *The flora of Greenland*, 312 p., *2 col. pl.*, map. 1968; see review A. Löve, Taxon 17: 431. Aug 1968.
+- (2) *Botanical studies of the Atuel Valley Area*, Mendoza Province, Argentina, issued as Dansk Bot. Ark. 22(1): 7-115. 1963; *part II*: id. 22(2): 123-184. 1968. − Co-authors: J.P. Herting (1,2), and K. Rahn (1).
+- (3) *Anatomical studies in xerophyte apophyllous plants*, Kongl. Danske Vid. Selsk. Biol. Skr. 16(3): 1-44. 1968.
 
 ### Publications
 

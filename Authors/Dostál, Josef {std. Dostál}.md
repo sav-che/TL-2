@@ -24,10 +24,11 @@ Barnhart 1: 466 (b. 20 Dec 1903, Praha); BFM p. 281; Bossert p. 106; Futak-Domin
 
 #### Outside our period
 
-(1) *Květena ČSR*, an illustrated flora of Czechoslovakia, \[i\]-lxiv, \[1\]-2269, *71 pl*., Prague 1950 (preface 1-64. 1950, 1-800. 1948, 801-1388. 1949, 1489-2269. 1950. – See Taxon 1: 98. 1952.
-(2) *Morfologie* a *základy fylogenese rostlin*, Učební texty vysokých škol. 365 p., 72 tab., 1952. (3) *Klič k* úplné *květeně ČSR* \[Key to the complete flora of Czechoslovakia\]. Ed. Československá Akadémie Věd, Praha 1954, 1183 p. – See Taxon 5: 147. 30 Jul 1956.
-(4) *Botanická Nomenklatura*, Výroj rostlinného junéna a výklad. Mezinárodnich pravidel botanické nomenklatury, Nakladatelstvi Česk. Akad. věd, Praha 1957, 269 p. – See Taxon 7: 117. 1958.
-(5) *Soustavná botanika* se základy fylogenese 1. Učební texty vysokých škol 189 p., 51 tab. 1965.
+- (1) *Květena ČSR*, an illustrated flora of Czechoslovakia, \[i\]-lxiv, \[1\]-2269, *71 pl*., Prague 1950 (preface 1-64. 1950, 1-800. 1948, 801-1388. 1949, 1489-2269. 1950. – See Taxon 1: 98. 1952.
+- (2) *Morfologie* a *základy fylogenese rostlin*, Učební texty vysokých škol. 365 p., 72 tab., 1952.
+- (3) *Klič k* úplné *květeně ČSR* \[Key to the complete flora of Czechoslovakia\]. Ed. Československá Akadémie Věd, Praha 1954, 1183 p. – See Taxon 5: 147. 30 Jul 1956.
+- (4) *Botanická Nomenklatura*, Výroj rostlinného junéna a výklad. Mezinárodnich pravidel botanické nomenklatury, Nakladatelstvi Česk. Akad. věd, Praha 1957, 269 p. – See Taxon 7: 117. 1958.
+- (5) *Soustavná botanika* se základy fylogenese 1. Učební texty vysokých škol 189 p., 51 tab. 1965.
 
 ### Publications
 

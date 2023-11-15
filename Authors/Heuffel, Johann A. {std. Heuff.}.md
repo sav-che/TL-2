@@ -8,7 +8,8 @@ Heuffel, Johann A. (1800-1857), Hungarian physician and botanist; "Comitats-Phys
 
 #### Herbarium and types
 
-[[Collection BP|BP]] (through Haynald); other material [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection OXF|OXF]]. *Exsiccatae*, with C. M. Wierzbicki, *Plantarum rariorum Hungariae et Transsylvaniae*, fasc. 1-10 (see Flora 1835, 1836).
+[[Collection BP|BP]] (through Haynald); other material [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection OXF|OXF]].
+*Exsiccatae*, with C. M. Wierzbicki, *Plantarum rariorum Hungariae et Transsylvaniae*, fasc. 1-10 (see Flora 1835, 1836).
 *Ref*.: Anon., Flora 18(1) Int. Bl. 28-32, 38-42. 1835, 19(1) Int. Bl. 11-17. 1836.
 
 #### Bibliography and biography

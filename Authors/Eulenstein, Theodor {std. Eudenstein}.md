@@ -8,7 +8,8 @@ Eulenstein, Theodor (x-1875), German diatomologist.
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: *Diatomacearum species typicae* (1 cent., nos. 1-100, Stuttgart 1867, ed. 2, nos. 1-100, Dresden 1869), sets at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection LE|LE]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
+Unknown.
+*Exsiccatae*: *Diatomacearum species typicae* (1 cent., nos. 1-100, Stuttgart 1867, ed. 2, nos. 1-100, Dresden 1869), sets at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection LE|LE]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
 *Ref*.: IH 2: 186.
 - Candolle, Phytographie 411. 1880.
 - Sayre, Mem. New York Bot. Gard. 19(1): 72. 1969.

@@ -23,8 +23,8 @@ ADB 22: 111-115; Barnhart 2: 503; BM 3: 1334, 7: 856; CSP 4: 434-435, 8: 424; DT
 
 #### Composite works
 
-(1)Franz von Paula Schrank & K. E. Moll, *Naturhistorische Briefe über Oestreich*, 2 vols., Salzburg 1785, see under Schrank.
-(2) Editor of Annalen \[subseq. Ephemeriden and Neue Jahrbücher\] der Berg- und Hüttenkunde 21 vols., 1797-1812.
+- (1) Franz von Paula Schrank & K. E. Moll, *Naturhistorische Briefe über Oestreich*, 2 vols., Salzburg 1785, see under Schrank.
+- (2) Editor of Annalen \[subseq. Ephemeriden and Neue Jahrbücher\] der Berg- und Hüttenkunde 21 vols., 1797-1812.
 
 #### Eponymy
 

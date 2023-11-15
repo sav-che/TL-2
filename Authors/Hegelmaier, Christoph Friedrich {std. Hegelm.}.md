@@ -8,7 +8,8 @@ Hegelmaier, Christoph Friedrich (1833-1906), German physician and botanist; Dr. 
 
 #### Herbarium and types
 
-Unknown; material at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection L|L]], [[Collection LY|LY]]. – *Exsiccatae*: *Iter gallohispanicum* (1875).
+Unknown; material at [[Collection B|B]], [[Collection BR|BR]], [[Collection C|C]], [[Collection L|L]], [[Collection LY|LY]].
+*Exsiccatae*: *Iter gallohispanicum* (1875).
 
 #### Bibliography and biography
 

@@ -30,6 +30,6 @@ Barnhart 1: 316 (b. 19 Apr 1808, Philadelphia, Pa., d. 30 Dec 1876, id.); CSP 1:
 
 #### Notes
 
-(1) TL-2/1032, note by J.A. Mears: PH has the Carson's copy with the date 1846, probably a first set of proofs.
-(2) Letter to Torrey, 11 Mar 1864, 4 p., at NY.
+- (1) TL-2/1032, note by J.A. Mears: PH has the Carson's copy with the date 1846, probably a first set of proofs.
+- (2) Letter to Torrey, 11 Mar 1864, 4 p., at NY.
 

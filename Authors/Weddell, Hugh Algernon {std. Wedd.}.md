@@ -36,13 +36,13 @@ AG 3: 686; Backer p. 622; Barnhart 3: 470 (b. 22 Jun 1819, d. 22 Jul 1877); BB p
 
 #### Composite works
 
-(1) Co-author E. Cosson et J. Germain \[de Saint-Pierre\], *Introd. fl. anal. Paris* 1842, TL-2/1238 (*copies*: BR, NY; rev. D.F.L. von Schlechtendal, Bot. Zeit. 2: 361-363. 1844).
-(2) Contributed to E. Cosson et J. Germain de Saint Pierre, *Fl. descr. anal. Paris* 1845, TL-2/1240.
-(3) Translated A. de Candolle, *Laws of botanical nomenclature*, 1860 from the French, see TL-2/976.
-(4) *Urticaceae, in* de Candolle, *Prodr*. 16(1): 32-235(64). Nov 1869, TL-2/999.
-(5) *Podostemaceae*, ib. 17: 39-89, 300-301. 16 Oct 1873, TL-2/999.
-(6) *Urticaceae, in* E. Warming, *Symbolae* 15: 48-51. 10 Apr 1874, TL-2/16.709.
-(7) *Voyage dans le sud de la Bolivie*, Exp. Amer. Sud. F. de Castelnau, Histoire du Voyage, vol. 6, p. \[v\]-vii, \[5\]-432. *Copies*: LC, NSUB.
+- (1) Co-author E. Cosson et J. Germain \[de Saint-Pierre\], *Introd. fl. anal. Paris* 1842, TL-2/1238 (*copies*: BR, NY; rev. D.F.L. von Schlechtendal, Bot. Zeit. 2: 361-363. 1844).
+- (2) Contributed to E. Cosson et J. Germain de Saint Pierre, *Fl. descr. anal. Paris* 1845, TL-2/1240.
+- (3) Translated A. de Candolle, *Laws of botanical nomenclature*, 1860 from the French, see TL-2/976.
+- (4) *Urticaceae, in* de Candolle, *Prodr*. 16(1): 32-235(64). Nov 1869, TL-2/999.
+- (5) *Podostemaceae*, ib. 17: 39-89, 300-301. 16 Oct 1873, TL-2/999.
+- (6) *Urticaceae, in* E. Warming, *Symbolae* 15: 48-51. 10 Apr 1874, TL-2/16.709.
+- (7) *Voyage dans le sud de la Bolivie*, Exp. Amer. Sud. F. de Castelnau, Histoire du Voyage, vol. 6, p. \[v\]-vii, \[5\]-432. *Copies*: LC, NSUB.
 
 #### Eponymy
 

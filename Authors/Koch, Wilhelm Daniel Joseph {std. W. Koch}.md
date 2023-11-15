@@ -29,9 +29,9 @@ ADB 16: 402-403; AG 1: 322, 5(1): 615, 12(1): 297; Backer p. 305;Barnhart 2: 306
 
 #### Composite works
 
-(1) Contributed to J. Sturm, *Deutschlands Flora*, I. Abtheilung, text for Hefte 63, 64, 66, 67, 68, 70, 72, 73, 74, 75-76, 79-80, 83-84, 87-88, 89-90, 91-92.
-(2) Contributed to Reichenbach, *Plantae criticae*, vol. 2, *pl. 174*, fide Helm (Festschrift Nissen p. 366).
-(3) J. C. Röhlings *Deutschlands Flora*. Nach einem veränderten und erweiterten Plane bearbeitet von Franz Carl Mertens,... und Wilhelm Daniel Joseph Koch,... Frankfurt am Main, 5 vols. 1823-1839, see under Röhling.
+- (1) Contributed to J. Sturm, *Deutschlands Flora*, I. Abtheilung, text for Hefte 63, 64, 66, 67, 68, 70, 72, 73, 74, 75-76, 79-80, 83-84, 87-88, 89-90, 91-92.
+- (2) Contributed to Reichenbach, *Plantae criticae*, vol. 2, *pl. 174*, fide Helm (Festschrift Nissen p. 366).
+- (3) J. C. Röhlings *Deutschlands Flora*. Nach einem veränderten und erweiterten Plane bearbeitet von Franz Carl Mertens,... und Wilhelm Daniel Joseph Koch,... Frankfurt am Main, 5 vols. 1823-1839, see under Röhling.
 
 #### Handwriting
 

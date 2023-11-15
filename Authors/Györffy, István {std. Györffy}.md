@@ -10,7 +10,8 @@ Györffy, Istvan (1880-1959), Transsylvanian bryologist.
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: (with Márton Péterfi (1875-1922): *Bryotheca regni Hungariae exsiccata, edita a sectione botanica Musei nationalis Transsilvanici* (nos. 1-50, Kolozsvár 1916). Also: *Flora hungarica exsicc.
+Unknown.
+*Exsiccatae*: (with Márton Péterfi (1875-1922): *Bryotheca regni Hungariae exsiccata, edita a sectione botanica Musei nationalis Transsilvanici* (nos. 1-50, Kolozsvár 1916). Also: *Flora hungarica exsicc.
 Ref*.: IH 2: 247. Hedge and Lamond, Index coll. Edinburgh 87. 1970. Sayre, Mem. New York Bot. Gard. 19(2): 208-209. 1971.
 
 #### Bibliography and biography

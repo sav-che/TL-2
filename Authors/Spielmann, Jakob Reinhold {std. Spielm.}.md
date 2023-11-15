@@ -37,12 +37,12 @@ ADB 35: 171-173; Barnhart 3: 310 (b. 31 Mar 1722, d. 9 Sep 1783); BM 5: 1991; Bo
 
 #### Note
 
-(1) For a list of dissertations defended under J.R. Spielmann see PR ed. 1, nos. 9805-9811.
-(2) For extensive biographical references on S.'s biological, chemical and pharmaceutical work see Poggendorff (1971).
+- (1) For a list of dissertations defended under J.R. Spielmann see PR ed. 1, nos. 9805-9811.
+- (2) For extensive biographical references on S.'s biological, chemical and pharmaceutical work see Poggendorff (1971).
 
 #### Composite works
 
-(1) See J. Herrmann, *Cardamom. hist*. 1762. TL-2/2696, other copies: B-S, G.
+- (1) See J. Herrmann, *Cardamom. hist*. 1762. TL-2/2696, other copies: B-S, G.
 
 #### Eponymy
 

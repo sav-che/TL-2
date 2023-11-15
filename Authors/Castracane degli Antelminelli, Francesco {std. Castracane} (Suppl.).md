@@ -32,7 +32,7 @@ Barnhart 1: 322 (b. 19 Jul 1817, Fano, d. 27 Mar 1899, Roma); BM 1: 326; Bossert
 
 #### Note
 
-(1) W.B. Hemsley, *Rep. Voy. Challenger, Diatomaceae* 1886-(1887) by F. Castracane, see TL-2/1056 and 2628.
+- (1) W.B. Hemsley, *Rep. Voy. Challenger, Diatomaceae* 1886-(1887) by F. Castracane, see TL-2/1056 and 2628.
 
 ### Publications
 

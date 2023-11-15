@@ -32,8 +32,8 @@ APN p. 231 (d. "1929"); Barnhart 2: 59; Biol.-Dokum. 7: 83.045-83.055; BM 2: 691
 
 #### Composite works
 
-(1) Translated into German F. von Mueller, *Select pl*.... 1872 (TL-2/3, nr. 6406).
-(2) Edited the serial *Hamburger Garten- und Blumenzeitung*..., Jahrg. 40-46 (?-1890).
+- (1) Translated into German F. von Mueller, *Select pl*.... 1872 (TL-2/3, nr. 6406).
+- (2) Edited the serial *Hamburger Garten- und Blumenzeitung*..., Jahrg. 40-46 (?-1890).
 
 ### Publications
 

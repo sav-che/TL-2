@@ -60,18 +60,18 @@ G. Kraus, *Der botanische Garten der Universität Halle* 2: 1-87. 1894 (botanica
 
 #### Composite works
 
-(1) Contributed preface and notes to George Santi, "*Naturhistorische Reise* durch einen Theil von Toscana. Aus dem Italienischen übersetzt von Gerasimus Constantini von Gregorini", Halle (bey Johann Jakob Gebauer) 1797. *Copy*: LZ (Univ. libr.).
-(2) Preface to Anton Krocker (1774-1863), *De plantarum epidermide*, Halae 1800.
-(3) *Theophrast's Naturgeschichte der Gewächse*. Übersetzt und erläutert von K. Sprengel. Altona (bey Johann Friedrich Hammerich) 1822, 2 parts, 1: \[i-viii\], \[1\]-358 and \[i, iii\], \[1\]-427. Facsimile ed. Darmstadt (Wissenschaftliche Buchgesellschaft) 1971 (with \[i\*-iv\*\] and \[i\*-iv\*\], extra preface matter). – See E.H.F. Meyer, Gesch. Bot. 1: 187-188. 1854 ("sehr flüchtig und sehr frei", quality dubious).
-(4) *Memoria O. Swartzii, in* O. Swartz, *Adnotationes botanicae* 1829. – See also his biography of Swartz *in* Nova Acta Leop. 10: xxxiv-xli. 1821.
-(5) August Babel, *De graminum fabrica et oeconomia*. Halae 1804 was written by K. Sprengel.
-(6) Translated B. Bergius, *Tal om Läckerheter*, 1785, as *Über die Leckereyen*... mit Anmerkungen von Joh. Reinh. Forster und Kurt Sprengel. Halle (im Buchhandlung des Waisenhauses) 1792, Oct., 1: \[i-xvi\], \[1\]-382, \[383-384\], 2: \[i-xvi\], \[1\]-330. *Copy*: NSUB.
-(7) Pedanii Dioscorides Anazarbei *de materia medica*... commentario illustravit Curtius Sprengel. Lipsiae 1829-1830, 2 vols., see E.H.F. Meyer, Gesch. Bot. 2: 112. 1855 (positive judgement), (vol. 1 sent to A.P. de Candolle on 15 Jun 1829; vol 2 on 7 Aug 1830).
-(8) Encontre, Daniel, *Additions à la Flore biblique de Sprengel*, Montpellier 1811.
-(9) Biography of C. Linnaeus *in* Biogr. Darstell. merkw. Menschen, Halle, 7: 207-256. 1808; R. Boyle *in* 7: 469-490. 1808; A. v. Haller 8: 33-70. 1809; B. v. Verulam 8: 71-104. 1809.
-(10) *Epitome florae indicae* conscriptae a W. Roxburgh, editae a W. Carey, cum notis N. Wallich et C. Sprengel, *in Neue Entdeck*. 3: 66-156. 1822.
-(11) Preface to F.G. Dietrich, *Vollst. Lex. Gärtn.* 1802-1810, see TL-2/1466.
-(12) Translated Karl Peter Thunbergs,... *Reisen in Afrika und Asien*, vorzüglich in Japan ... mit Anmerkungen begleitet von Johann Reinhold Forster,... Berlin (in der Vossischen Buchhandlung) 1792, viii, 230 p.
+- (1) Contributed preface and notes to George Santi, "*Naturhistorische Reise* durch einen Theil von Toscana. Aus dem Italienischen übersetzt von Gerasimus Constantini von Gregorini", Halle (bey Johann Jakob Gebauer) 1797. *Copy*: LZ (Univ. libr.).
+- (2) Preface to Anton Krocker (1774-1863), *De plantarum epidermide*, Halae 1800.
+- (3) *Theophrast's Naturgeschichte der Gewächse*. Übersetzt und erläutert von K. Sprengel. Altona (bey Johann Friedrich Hammerich) 1822, 2 parts, 1: \[i-viii\], \[1\]-358 and \[i, iii\], \[1\]-427. Facsimile ed. Darmstadt (Wissenschaftliche Buchgesellschaft) 1971 (with \[i\*-iv\*\] and \[i\*-iv\*\], extra preface matter). – See E.H.F. Meyer, Gesch. Bot. 1: 187-188. 1854 ("sehr flüchtig und sehr frei", quality dubious).
+- (4) *Memoria O. Swartzii, in* O. Swartz, *Adnotationes botanicae* 1829. – See also his biography of Swartz *in* Nova Acta Leop. 10: xxxiv-xli. 1821.
+- (5) August Babel, *De graminum fabrica et oeconomia*. Halae 1804 was written by K. Sprengel.
+- (6) Translated B. Bergius, *Tal om Läckerheter*, 1785, as *Über die Leckereyen*... mit Anmerkungen von Joh. Reinh. Forster und Kurt Sprengel. Halle (im Buchhandlung des Waisenhauses) 1792, Oct., 1: \[i-xvi\], \[1\]-382, \[383-384\], 2: \[i-xvi\], \[1\]-330. *Copy*: NSUB.
+- (7) Pedanii Dioscorides Anazarbei *de materia medica*... commentario illustravit Curtius Sprengel. Lipsiae 1829-1830, 2 vols., see E.H.F. Meyer, Gesch. Bot. 2: 112. 1855 (positive judgement), (vol. 1 sent to A.P. de Candolle on 15 Jun 1829; vol 2 on 7 Aug 1830).
+- (8) Encontre, Daniel, *Additions à la Flore biblique de Sprengel*, Montpellier 1811.
+- (9) Biography of C. Linnaeus *in* Biogr. Darstell. merkw. Menschen, Halle, 7: 207-256. 1808; R. Boyle *in* 7: 469-490. 1808; A. v. Haller 8: 33-70. 1809; B. v. Verulam 8: 71-104. 1809.
+- (10) *Epitome florae indicae* conscriptae a W. Roxburgh, editae a W. Carey, cum notis N. Wallich et C. Sprengel, *in Neue Entdeck*. 3: 66-156. 1822.
+- (11) Preface to F.G. Dietrich, *Vollst. Lex. Gärtn.* 1802-1810, see TL-2/1466.
+- (12) Translated Karl Peter Thunbergs,... *Reisen in Afrika und Asien*, vorzüglich in Japan ... mit Anmerkungen begleitet von Johann Reinhold Forster,... Berlin (in der Vossischen Buchhandlung) 1792, viii, 230 p.
 
 #### Handwriting
 
@@ -83,10 +83,10 @@ Candollea 33: 403-404. 1978.
 
 #### Note
 
-(1) Kurt Sprengel was the son of the Berlin teacher, theologian and natural scientist Joachim Friedrich Sprengel whose half-brother was Christian Konrad Sprengel (1750-1816). They were sons of Ernst Victor Sprengel (1686-1759) from different marriages (15 children in all, C.K. Sprengel being the youngest). Anton Sprengel (1803-1851) was a son of Kurt Sprengel; another son, Wilhelm Sprengel (1792-1828), defended a botanical dissertation of which the text was provided by the promotor (his father) and provided illustrations for various publications of K. Sprengel.
-(2) Joachim Friedrich Sprengel, Kurt Sprengel's father, wrote a *Vorstellung der Kräuterkunde in Gedächtnisstafeln*, Greifswald 1754. Qu. (n.v.).
-(3) Karl (Carl) Sprengel (1787 or 1787-1859), director of the agricultural college at Regenswalde, Pommerania (d. late Apr 1859), wrote "*Meine Erfahrungen im Gebiete der allgemeinen und speziellen Pflanzen-Cultur*, 2 vols., Leipzig (Baumgärtner) 1847-1850, 1: 1847, p. \[i\]-xii, \[1\]-345, \[346\], 2: 1850, p. \[i\]-xii, \[1\]-348. *Copy*: USDA.
-(4) For a planned *Vollständige Geschichte der Farrenkräuter* see Sprengel in H.A. Schrader, J. Bot. 1801(1): 425-431. This was to be a fully illustrated monograph of the Pteridophyta from "Equisetum to Isoetes". The book was too expensive in war-time and was never realized (G. Kraus 2: 48. 1894).
+- (1) Kurt Sprengel was the son of the Berlin teacher, theologian and natural scientist Joachim Friedrich Sprengel whose half-brother was Christian Konrad Sprengel (1750-1816). They were sons of Ernst Victor Sprengel (1686-1759) from different marriages (15 children in all, C.K. Sprengel being the youngest). Anton Sprengel (1803-1851) was a son of Kurt Sprengel; another son, Wilhelm Sprengel (1792-1828), defended a botanical dissertation of which the text was provided by the promotor (his father) and provided illustrations for various publications of K. Sprengel.
+- (2) Joachim Friedrich Sprengel, Kurt Sprengel's father, wrote a *Vorstellung der Kräuterkunde in Gedächtnisstafeln*, Greifswald 1754. Qu. (n.v.).
+- (3) Karl (Carl) Sprengel (1787 or 1787-1859), director of the agricultural college at Regenswalde, Pommerania (d. late Apr 1859), wrote "*Meine Erfahrungen im Gebiete der allgemeinen und speziellen Pflanzen-Cultur*, 2 vols., Leipzig (Baumgärtner) 1847-1850, 1: 1847, p. \[i\]-xii, \[1\]-345, \[346\], 2: 1850, p. \[i\]-xii, \[1\]-348. *Copy*: USDA.
+- (4) For a planned *Vollständige Geschichte der Farrenkräuter* see Sprengel in H.A. Schrader, J. Bot. 1801(1): 425-431. This was to be a fully illustrated monograph of the Pteridophyta from "Equisetum to Isoetes". The book was too expensive in war-time and was never realized (G. Kraus 2: 48. 1894).
 
 #### Handwriting
 
@@ -251,13 +251,13 @@ Curtii Sprengel... *Dissertatio de Germanis*, rei herbariae patribus. \[Denkschr
 **Notes**
 *Publ*.: 1813, p. \[2\]-42, *1 pl*. (uncol. copp. "Sprengel"). *Copies*: B-S, G, HH, KNAW, M, MO, NY, PH, USDA; IDC 5166. – Issued in Neue Schr. naturf. Ges. Halle 2(1): 3-42. 1813; copies with pagination \[3\]-42, lack the journal t.p. \[2\].
 *Other Sprengel publications on Umbelliferae*:
-(1) *In Umbellijerarum genera quaedam animadversiones*, Comm. Soc. R. Sci. Gott. rec. 2: 1-8, *1 pl*. 1813.
-(2) *Umbellijerarum genera quaedam melius definita*, Mag. Ges. naturf. Fr. Berlin 6: 255-261. 1814.
-(3) *Genera nonnulla plantarum ex Umbellatarum ordine*, Verh. bot. Maatsch. Wet. Haarlem 7: 121-132, *pl*. 5. 1814. – 29 genera.
-(4) *In Umbelliferas nonnullas animadversiones*, Mem. Soc. natural. Moscou 5: 3-13. 1817.
-(5) *Species Umbelliferarum minus cognitae illustratae*, Halle 1818, see below.
-(6) *Symbolae criticae ad synonymiam Umbellijerarum*, Denkschr. k. bayr. bot. Ges. Regensburg 1: 75-103. 1815, 2: 49-54. 1818.
-(7) *Umbelliferae, in* Roemer et Schuhes, Syst. veg. 6: 315-628. Aug-Dec 1820. – Sprengel refers to this contribution in a letter to A.P. de Candolle of 15 Mai 1820 as his "Synopsis Umbelliferarum" which will be sent as soon as it is ready.
+- (1) *In Umbellijerarum genera quaedam animadversiones*, Comm. Soc. R. Sci. Gott. rec. 2: 1-8, *1 pl*. 1813.
+- (2) *Umbellijerarum genera quaedam melius definita*, Mag. Ges. naturf. Fr. Berlin 6: 255-261. 1814.
+- (3) *Genera nonnulla plantarum ex Umbellatarum ordine*, Verh. bot. Maatsch. Wet. Haarlem 7: 121-132, *pl*. 5. 1814. – 29 genera.
+- (4) *In Umbelliferas nonnullas animadversiones*, Mem. Soc. natural. Moscou 5: 3-13. 1817.
+- (5) *Species Umbelliferarum minus cognitae illustratae*, Halle 1818, see below.
+- (6) *Symbolae criticae ad synonymiam Umbellijerarum*, Denkschr. k. bayr. bot. Ges. Regensburg 1: 75-103. 1815, 2: 49-54. 1818.
+- (7) *Umbelliferae, in* Roemer et Schuhes, Syst. veg. 6: 315-628. Aug-Dec 1820. – Sprengel refers to this contribution in a letter to A.P. de Candolle of 15 Mai 1820 as his "Synopsis Umbelliferarum" which will be sent as soon as it is ready.
 
 ##### n.12.686. Plantarum minus cognitarum pugillus
 

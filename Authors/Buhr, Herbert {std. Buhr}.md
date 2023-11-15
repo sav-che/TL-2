@@ -21,8 +21,8 @@ Barnhart 1: 279; GR p. 68 (b. 22 Dec 1902, d. 20 Mai 1968); Kew 1: 415.
 
 #### Outside our period
 
-(1) *Bestimmungstabellen der Gallen* (Zoo- und Phytocecidien) an Pflanzen Mittel- und Nordeuropas, Bd. 1 Pflanzengattungen A-M, Gallennummern 1-4388, Jena (Gustav Fischer) 1964. – Bd. II Pflanzengattungen N-Z, Gallennummern 4389-7666. – Id. 1965.
-(2) *Rostpilze aus Mecklenburg* und anderen Gebieten (*in* A.L. Guyot et al., Uredineana 5) 1958, 125 p.
+- (1) *Bestimmungstabellen der Gallen* (Zoo- und Phytocecidien) an Pflanzen Mittel- und Nordeuropas, Bd. 1 Pflanzengattungen A-M, Gallennummern 1-4388, Jena (Gustav Fischer) 1964. – Bd. II Pflanzengattungen N-Z, Gallennummern 4389-7666. – Id. 1965.
+- (2) *Rostpilze aus Mecklenburg* und anderen Gebieten (*in* A.L. Guyot et al., Uredineana 5) 1958, 125 p.
 
 ### Publications
 

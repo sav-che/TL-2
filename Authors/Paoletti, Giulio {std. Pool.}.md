@@ -21,11 +21,11 @@ Barnhart 3: 47; BFM see no. 1512; BL 2: 333, 334, 408, I 699; BM 4: 1510; CSP 17
 
 #### Composite works
 
-(1) Contributed *Tuberaceae, Elaphomycetaceae, Onygenaceae, Edogonaceae* to P.A. Saccardo, *Sylloge fungorum* 8, 1889.
-(2) With A. Fiori, q.v., *Iconographia florae italicae* 1895-1904, TL-2/1781.
-(3) With A. Fiori, q.v., *Flora analitica d'Italia*, vols. 1-4, 1896-1908, TL-2/1782.
-(4) With P.A. Saccardo, *Mycetes malacenses*, 1888.
-(5) With G.B. de Toni & G.S Bullo, *Alcune notizie sul Lago d'Arquà-Petrarca*, Atti r. Ist. Ven. ser. 2. 3: 1-65, *pl*. 5. 1892, journal pagination (1149)-1213. Also issued separately.
+- (1) Contributed *Tuberaceae, Elaphomycetaceae, Onygenaceae, Edogonaceae* to P.A. Saccardo, *Sylloge fungorum* 8, 1889.
+- (2) With A. Fiori, q.v., *Iconographia florae italicae* 1895-1904, TL-2/1781.
+- (3) With A. Fiori, q.v., *Flora analitica d'Italia*, vols. 1-4, 1896-1908, TL-2/1782.
+- (4) With P.A. Saccardo, *Mycetes malacenses*, 1888.
+- (5) With G.B. de Toni & G.S Bullo, *Alcune notizie sul Lago d'Arquà-Petrarca*, Atti r. Ist. Ven. ser. 2. 3: 1-65, *pl*. 5. 1892, journal pagination (1149)-1213. Also issued separately.
 
 ### Publications
 

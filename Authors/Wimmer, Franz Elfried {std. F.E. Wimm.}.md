@@ -24,9 +24,9 @@ Barnhart 3: 505 (b. 1881, d. 2 Mai 1961); Biol.-Dokum. 19: 10074; Bossert p. 439
 
 #### Composite works
 
-(1)Collaborator H. Handel-Mazzetti, *Symb. sin.* 1929-1937, see TL-2/2364, *Lobeliaceae* in 7: 1081-1084. 1936.
-(2) Id., H. Handel-Mazzetti, *Plantae novae sinenses* 1920-1926: *Lobelia, in* Anz. Akad. Wiss. Wien, Math. Naturw. Kl. 61: 109-112. 1924.
-(3) *Campanulaceae-Lobelioideae, in A*. Engler ed. (ctd. by L. Diels), *Das Pflanzenreich* (TL-2/1713). Part 1, Heft 106 (iv. 276b). 25 Mai 1943 (repr. 1950), *part 2*, Heft 107 (iv. 276b). 30 Dec 1953, *Supplementum* et *Campanulaceae-Cyphioideae*, Heft 108 (iv. 276c). 15 Mar 1968 (general ed. H. Stubbe, volume editor S. Danert). The copy at BR has a loose prospectus of \[4\] p. as well as a loose sheet, \[1\] p. by the editors on the continuation of the "Pflanzenreich" *Vorarbeiten*, see Ann. Naturh. Mus. Wien 56: \[317\]-374. Aug 1948.
+- (1) Collaborator H. Handel-Mazzetti, *Symb. sin.* 1929-1937, see TL-2/2364, *Lobeliaceae* in 7: 1081-1084. 1936.
+- (2) Id., H. Handel-Mazzetti, *Plantae novae sinenses* 1920-1926: *Lobelia, in* Anz. Akad. Wiss. Wien, Math. Naturw. Kl. 61: 109-112. 1924.
+- (3) *Campanulaceae-Lobelioideae, in A*. Engler ed. (ctd. by L. Diels), *Das Pflanzenreich* (TL-2/1713). Part 1, Heft 106 (iv. 276b). 25 Mai 1943 (repr. 1950), *part 2*, Heft 107 (iv. 276b). 30 Dec 1953, *Supplementum* et *Campanulaceae-Cyphioideae*, Heft 108 (iv. 276c). 15 Mar 1968 (general ed. H. Stubbe, volume editor S. Danert). The copy at BR has a loose prospectus of \[4\] p. as well as a loose sheet, \[1\] p. by the editors on the continuation of the "Pflanzenreich" *Vorarbeiten*, see Ann. Naturh. Mus. Wien 56: \[317\]-374. Aug 1948.
 
 #### Eponymy
 

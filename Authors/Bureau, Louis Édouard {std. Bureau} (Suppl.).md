@@ -35,11 +35,11 @@ Andrews p. 243; Backer p. 90; Barnhart 1: 283 (b. 20 Mai 1830, Nantes, d. 14 Dec
 
 #### Composite works and biogr., coll. etc.
 
-(1)-(3) see TL-2/1: 411. (3, addition:) Harms, H., Bot. Centralbl. 68(42): 84-86. 15 Mai 1906 on *Bignoniaceae* in *Fl. bras. *(4) *Bignoniaceae*, Symb. Fl. Bras. centr. 15: 52-54. 18 Apr 1874; 40: 96-118. 2 Mai 1894.
-(5) *Dictionnaire de Botanique* par H.E. Baillon avec la collaboration de... E. Bureau... 1876-1891, contributions in vols. 1-4, see TL-2/1: 100.
-(6) *Les collections de botanique fossile du Muséum d'Histoire naturelle*, Paris 1893, 26 p. (from Vol. commém. centenaire fond. Mus. Hist. nat.).
-(7) *État actuel des études sur la végétation des colonies françaises* et des pays de protectorat français, C.R. Acad. Sci. Paris 120: 245-247. 1895.
-(8) *Étude biographique sur* le botaniste *Pierre-Antoine Poiteau* \[(1766-1854), see TL-2/4: 323-324\], Nouv. Arch. Mus. ser. 3. 9: 1-94. 1897 (portr., bibl., main biography), cover (identif.), reprint p. \[1\]-94. *Copy*: L.
+- (1)-(3) see TL-2/1: 411. (3, addition:) Harms, H., Bot. Centralbl. 68(42): 84-86. 15 Mai 1906 on *Bignoniaceae* in *Fl. bras. *(4) *Bignoniaceae*, Symb. Fl. Bras. centr. 15: 52-54. 18 Apr 1874; 40: 96-118. 2 Mai 1894.
+- (5) *Dictionnaire de Botanique* par H.E. Baillon avec la collaboration de... E. Bureau... 1876-1891, contributions in vols. 1-4, see TL-2/1: 100.
+- (6) *Les collections de botanique fossile du Muséum d'Histoire naturelle*, Paris 1893, 26 p. (from Vol. commém. centenaire fond. Mus. Hist. nat.).
+- (7) *État actuel des études sur la végétation des colonies françaises* et des pays de protectorat français, C.R. Acad. Sci. Paris 120: 245-247. 1895.
+- (8) *Étude biographique sur* le botaniste *Pierre-Antoine Poiteau* \[(1766-1854), see TL-2/4: 323-324\], Nouv. Arch. Mus. ser. 3. 9: 1-94. 1897 (portr., bibl., main biography), cover (identif.), reprint p. \[1\]-94. *Copy*: L.
 
 ### Publications
 

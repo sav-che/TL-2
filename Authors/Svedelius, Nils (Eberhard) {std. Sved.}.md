@@ -8,7 +8,8 @@ Svedelius, Nils \[Eberhard\] (1873-1960), Swedish botanist (algologist); Dr. phi
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]]; other material at [[Collection C|C]], [[Collection E|E]], [[Collection NY|NY]]. – *Exsiccatae*: contributed to S. Lundell and J.A. Nannfeldt: *Fungi exsiccati suecici praesertim upsalienses*, fasc. 1-30, nos. 1-1500, 1934-1947, for Schedae see TL-2/5105. – *Letters* at [[Collection G|G]].
+[[Collection UPS|UPS]]; other material at [[Collection C|C]], [[Collection E|E]], [[Collection NY|NY]].
+*Exsiccatae*: contributed to S. Lundell and J.A. Nannfeldt: *Fungi exsiccati suecici praesertim upsalienses*, fasc. 1-30, nos. 1-1500, 1934-1947, for Schedae see TL-2/5105. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -32,12 +33,12 @@ Barnhart 3: 350 (b. 5 Aug 1873, d. 2 Aug 1960); Biol.-Dokum. 17: 9129; BJI 2: 17
 
 #### Composite works
 
-(1) With F.R. Kjellman, *Phaeophyceae* und *Dictyotales, in* EP, Nat. Pflanzenfam.... Nachtr. I(2): 137-188. Jun 1910 (see TL-/1710).
-(2) *Rhodophyceae, in* id. Nachtr. I(2): 189-192. Jun 1910, 193-276. Jul 1911. – Also as independent reprint with cover-t.p. Leipzig (Wilhelm Engelman) 1911, with original pagination. *Copy*: US.
-(3) Most entries relating to algae in K. Linsbauer, ed., C.K. Schneiders *Illustriertes Handwörterbuch der Botanik* ed. 2, 1917 (entries signed Sv.).
-(4) Co-editor (with J.R. Sernander and C.O. Norén) of *Botaniska Studier*. Tillägnade F.R. Kjellman... 1906.
-(5) Co-editor (with E. Melin) of *Symbolae botanicae upsalienses* 1932-1942.
-(6) Editor, H.O. Juel, *Burser hort. sicc*. 1036, TL-2/3431.
+- (1) With F.R. Kjellman, *Phaeophyceae* und *Dictyotales, in* EP, Nat. Pflanzenfam.... Nachtr. I(2): 137-188. Jun 1910 (see TL-/1710).
+- (2) *Rhodophyceae, in* id. Nachtr. I(2): 189-192. Jun 1910, 193-276. Jul 1911. – Also as independent reprint with cover-t.p. Leipzig (Wilhelm Engelman) 1911, with original pagination. *Copy*: US.
+- (3) Most entries relating to algae in K. Linsbauer, ed., C.K. Schneiders *Illustriertes Handwörterbuch der Botanik* ed. 2, 1917 (entries signed Sv.).
+- (4) Co-editor (with J.R. Sernander and C.O. Norén) of *Botaniska Studier*. Tillägnade F.R. Kjellman... 1906.
+- (5) Co-editor (with E. Melin) of *Symbolae botanicae upsalienses* 1932-1942.
+- (6) Editor, H.O. Juel, *Burser hort. sicc*. 1036, TL-2/3431.
 
 #### Note
 

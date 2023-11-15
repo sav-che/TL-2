@@ -20,7 +20,7 @@ Barnhart 2: 168; BM 6: 460; IH 2: 273; Kew 2: 670; SBC p. 122 ("Hessel.").
 
 #### Composite works
 
-(1) Mosses from northeast Greenland 1910(1911), *in* Danmark-Ekspeditionen til Grønlands Nordostkyst 1906-1908, vol. 3(8); Medd. Grønland 43(8).
-(2) *The bryophyta of Iceland, in* Rosenvinge, L. K. and E. Warming, *The botany of Iceland* 1 (2, 4): 395-677. 1918 (see e.g. LeRoy Andrews, Bryologist 22(1): 4-5. 20 Feb 1919).
-(3) See BM 6: 460 for Danmarks Geol. Unders. 25, 1910.
+- (1) Mosses from northeast Greenland 1910(1911), *in* Danmark-Ekspeditionen til Grønlands Nordostkyst 1906-1908, vol. 3(8); Medd. Grønland 43(8).
+- (2) *The bryophyta of Iceland, in* Rosenvinge, L. K. and E. Warming, *The botany of Iceland* 1 (2, 4): 395-677. 1918 (see e.g. LeRoy Andrews, Bryologist 22(1): 4-5. 20 Feb 1919).
+- (3) See BM 6: 460 for Danmarks Geol. Unders. 25, 1910.
 

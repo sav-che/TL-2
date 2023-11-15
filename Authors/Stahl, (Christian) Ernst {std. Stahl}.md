@@ -37,8 +37,8 @@ Ainsworth p. 98, 210, 319, 347; Barnhart 3: 314 (b. 21 Jun 1848, d. 3 Dec 1919);
 
 #### Composite works
 
-(1) *Die Schutzmittel der Flechten gegen Tierfrass* in Festschrift zum siebzigsten Geburtstage von Ernst Haeckel, Jena 1904, p. 355-376.
-(2) *Mexikanischen Kakteen, Agaven*- *und Bromeliaceen Vegetation* and *Mexikanische Nadelhölzer und Xerophyten* in G. Karsten & H. Schenk, Vegetationsbildern, 1(8): 1903; 2(3/4): *pl. 13-24.* 1904.
+- (1) *Die Schutzmittel der Flechten gegen Tierfrass* in Festschrift zum siebzigsten Geburtstage von Ernst Haeckel, Jena 1904, p. 355-376.
+- (2) *Mexikanischen Kakteen, Agaven*- *und Bromeliaceen Vegetation* and *Mexikanische Nadelhölzer und Xerophyten* in G. Karsten & H. Schenk, Vegetationsbildern, 1(8): 1903; 2(3/4): *pl. 13-24.* 1904.
 
 #### Note
 

@@ -8,7 +8,8 @@ Redinger, Karl Martin (1907-1940), Austrian lichenologist; Dr. phil. Wien 1931; 
 
 #### Herbarium and types
 
-Lichens at [[Collection B|B]] (extant), [[Collection W|W]] and [[Collection WU|WU]], some musci at [[Collection B|B]]. *Exsiccatae*: with A. Zahlbruckner, *Lichenes rariores exsiccati* nos. 281-385.
+Lichens at [[Collection B|B]] (extant), [[Collection W|W]] and [[Collection WU|WU]], some musci at [[Collection B|B]].
+*Exsiccatae*: with A. Zahlbruckner, *Lichenes rariores exsiccati* nos. 281-385.
 
 #### Bibliography and biography
 

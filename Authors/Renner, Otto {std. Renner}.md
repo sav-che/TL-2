@@ -34,9 +34,9 @@ Barnhart 3: 144 (b. 25 Apr 1883); Biol.-Dokum. 14: 7451-7454 (bibl.); BJI 2: 145
 
 #### Composite works
 
-(1) Editor of *Flora* vols. 127-138. 1933-1944.
-(2) Editor of *Planta*, vols. 35-45. 1948-1956.
-(3) Co-editor (with E. Gäumann), *Fortschritte der Botanik*, vols. 12-17. 1949-1955.
+- (1) Editor of *Flora* vols. 127-138. 1933-1944.
+- (2) Editor of *Planta*, vols. 35-45. 1948-1956.
+- (3) Co-editor (with E. Gäumann), *Fortschritte der Botanik*, vols. 12-17. 1949-1955.
 
 #### Festschrift
 

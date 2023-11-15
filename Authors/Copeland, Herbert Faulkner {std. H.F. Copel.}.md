@@ -21,7 +21,7 @@ Ainsworth p. 33, 34, 333; Barnhart 1: 378 (b. 21 Mai 1902, Chicago, III.); Ewan,
 
 #### Outside our period
 
-(1) *The Classification of lower organisms*. Palo Alto p. \[i\]-x, \[1\]-302, frontisp. 1956.
+- (1) *The Classification of lower organisms*. Palo Alto p. \[i\]-x, \[1\]-302, frontisp. 1956.
 
 ### Publications
 

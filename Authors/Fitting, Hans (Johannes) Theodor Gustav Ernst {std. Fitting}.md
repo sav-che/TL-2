@@ -31,9 +31,9 @@ Barnhart 1: 547; BFM p. 283 (index); Biol.-Dokum. 6: 68.864-68.885; BL 1: 19, 29
 
 #### Composite works
 
-(1) First author with A.\[A.H.\] Schulz & E. Wüst, *Nachtr*. to C. Garcke, *Fl. Halle* (see TL-2/1, nr. 1948), *in* Verh. Bot. Ver. Brandenburg 41: 118-165. 1899, Id. 43: 34-53. 1901; and *Beitr. Kenntn. Fl. Halle in* Z. Naturw., Halle, 76: 110-116. 1903, Id. 78: 166-171. 1906, Id. 79: 267-271. 1907.
-(2) Responsible for the chapters on morphology ("Einleitung und Morphologie") *in* E.A. Strasburger, *Lehrb. Bot.*..., eds. 12-26, 1913-1954; see TL-2/6, nr. 13.237. In addition, *Strasburger's text-book of botany* (1930), the 6th English ed. (transl. from the 17th German ed. by William Henry Lang (1874-x)), was "re-written by Dr. Hans Fitting...."
-(3) Editor, *Jahrbücher für wissenschaftliche Botanik*, Bd. 60-91 (1920-1944).
+- (1) First author with A.\[A.H.\] Schulz & E. Wüst, *Nachtr*. to C. Garcke, *Fl. Halle* (see TL-2/1, nr. 1948), *in* Verh. Bot. Ver. Brandenburg 41: 118-165. 1899, Id. 43: 34-53. 1901; and *Beitr. Kenntn. Fl. Halle in* Z. Naturw., Halle, 76: 110-116. 1903, Id. 78: 166-171. 1906, Id. 79: 267-271. 1907.
+- (2) Responsible for the chapters on morphology ("Einleitung und Morphologie") *in* E.A. Strasburger, *Lehrb. Bot.*..., eds. 12-26, 1913-1954; see TL-2/6, nr. 13.237. In addition, *Strasburger's text-book of botany* (1930), the 6th English ed. (transl. from the 17th German ed. by William Henry Lang (1874-x)), was "re-written by Dr. Hans Fitting...."
+- (3) Editor, *Jahrbücher für wissenschaftliche Botanik*, Bd. 60-91 (1920-1944).
 
 ### Publications
 

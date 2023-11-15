@@ -40,13 +40,13 @@ AG 3: 601-602 (footnote); Backer p. 126; Barnhart 1: 352 (b. 17 Jun 1832, Andove
 
 #### Composite works
 
-(1)-(5) see TL-2/1: 507.
-(6) For numerous publications in the works of others see TL-2/vols. 1-7, indexes.
-(7) *Acanthaceae*, *in* W.T. Thiselton-Dyer, Fl. Cap. 5(1): 1-92. 1901.
-(8) *Gesneriaceae*, *in* id. 4(2): 437-447. 1904.
-(9) *Flora indica* (by W. Roxburgh, TL-2/9725): Preface by C.B. Clarke of a reprint from Roxburgh, *Fl. indica*, Carey ed. of 1832, publ. 1874 in Calcutta.
-(10) *Cyperaceae, in* I. Urban, Symb. antill. 2(1): 8-160. 15 Jan 1900, 2(2): 161-162. 20 Oct 1906, see TL-2/6: 613.
-(11) *Cyperaceae*, *in* H. Schinz, ed., Beitr. Kenntn. Afr. Flora, Bull. Herb. Boissier ser. 2. 4: 995-996. 30 Sep 1904.
+- (1)-(5) see TL-2/1: 507.
+- (6) For numerous publications in the works of others see TL-2/vols. 1-7, indexes.
+- (7) *Acanthaceae*, *in* W.T. Thiselton-Dyer, Fl. Cap. 5(1): 1-92. 1901.
+- (8) *Gesneriaceae*, *in* id. 4(2): 437-447. 1904.
+- (9) *Flora indica* (by W. Roxburgh, TL-2/9725): Preface by C.B. Clarke of a reprint from Roxburgh, *Fl. indica*, Carey ed. of 1832, publ. 1874 in Calcutta.
+- (10) *Cyperaceae, in* I. Urban, Symb. antill. 2(1): 8-160. 15 Jan 1900, 2(2): 161-162. 20 Oct 1906, see TL-2/6: 613.
+- (11) *Cyperaceae*, *in* H. Schinz, ed., Beitr. Kenntn. Afr. Flora, Bull. Herb. Boissier ser. 2. 4: 995-996. 30 Sep 1904.
 
 #### Handwriting
 

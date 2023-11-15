@@ -25,7 +25,7 @@ Barnhart 1: 390; Hortus 3: 1191; Kew 1: 636; NI suppl. p. 28 (no. 418n); Plesch 
 
 #### Composite works
 
-(1) The *New Flora and Sylva*, edited by E.H.M. Cox, vols. 1-12, 1929-1940. – Plesch p. 347-348.
+- (1) The *New Flora and Sylva*, edited by E.H.M. Cox, vols. 1-12, 1929-1940. – Plesch p. 347-348.
 
 #### Outside our period
 

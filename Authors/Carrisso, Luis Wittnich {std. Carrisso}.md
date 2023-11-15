@@ -27,7 +27,7 @@ Barnhart 1: 315 (b. 14 Feb 1886, Figueira da Foz, d. 14 Jun 1937, Mossamedes, An
 
 #### Composite works
 
-(1) Founder of *Conspectus florae angolensis*, see A. W. Exell, *Consp. fl. angol.* 1937-1970, see TL-2/1: 808, no. 1734, preface vol. 1, p. \[ix\]-xii, Coimbra, Janeiro de 1937. – See BL 1: 22.
+- (1) Founder of *Conspectus florae angolensis*, see A. W. Exell, *Consp. fl. angol.* 1937-1970, see TL-2/1: 808, no. 1734, preface vol. 1, p. \[ix\]-xii, Coimbra, Janeiro de 1937. – See BL 1: 22.
 
 ### Publications
 

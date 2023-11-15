@@ -26,7 +26,7 @@ Barnhart 1: 305 (b. 30 Apr 1852, Cholet, Maine-et- Loire, d. Jun 1922, Paris); B
 
 #### Composite works
 
-(1) with Émile Bureau 1896, Les *sphaignes de Bretagne*... 1896, see TL-2 this suppl.
+- (1) with Émile Bureau 1896, Les *sphaignes de Bretagne*... 1896, see TL-2 this suppl.
 
 ### Publications
 

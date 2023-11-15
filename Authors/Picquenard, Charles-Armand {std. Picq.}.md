@@ -8,7 +8,8 @@ Picquenard, Charles-Armand (1872-1940), French botanist; Dr. med. Paris 1900; pu
 
 #### Herbarium and types
 
-[[Collection REN|REN]]. – *Exsiccatae*: *Lichens du Finistère* (30 nos., 1904), sets at [[Collection DUKE|DUKE]], [[Collection M|M]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection PC|PC]] (see Lynge 1919). – Letters at [[Collection G|G]].
+[[Collection REN|REN]].
+*Exsiccatae*: *Lichens du Finistère* (30 nos., 1904), sets at [[Collection DUKE|DUKE]], [[Collection M|M]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection PC|PC]] (see Lynge 1919). – Letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

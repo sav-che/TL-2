@@ -8,7 +8,8 @@ Heldreich, Theodor von (1822-1902), German-born botanist; in Greece from 1843-18
 
 #### Herbarium and types
 
-[[Collection B|B]]. – *Exsiccatae*: Heldreich distributed many series of exsiccatae which are enumerated by Index herbariorum and by Briquet (1940). Best known and widespread is the series *Herbarium graecum normale* (ser. 1, cent. 1-8, 1854-1861, nos. 1-812, ser. 2, cent. 8-16, 1885-1900, nos. 813-1599).
+[[Collection B|B]].
+*Exsiccatae*: Heldreich distributed many series of exsiccatae which are enumerated by Index herbariorum and by Briquet (1940). Best known and widespread is the series *Herbarium graecum normale* (ser. 1, cent. 1-8, 1854-1861, nos. 1-812, ser. 2, cent. 8-16, 1885-1900, nos. 813-1599).
 *Ref*.: Husnot, T. H., Rev. bryol. 14(4): 52-54. 1887.
 - Anon., Bot. Gaz. 32: 379. 1901.
 - Greuter, W., Candollea 23(2): 257-265. 1968 (on autograph Herbarium labels).

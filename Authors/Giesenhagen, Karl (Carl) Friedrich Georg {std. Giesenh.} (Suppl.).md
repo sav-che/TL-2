@@ -31,14 +31,14 @@ APN p. 226; Backer p. 651; Barnhart 2: 46; Biol.-Dokum. 7: 80.499-80.523; BJI 1:
 
 #### Note
 
-(1) Published *Lehrbuch der Botanik*... 1894, a text book that had 9 editions through 1924.
-(2) *Niphobolus*... 1901 (TL-2/1, nr. 2011) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "8199D6-8202A4"). *Copy*: MO (n.v.).
+- (1) Published *Lehrbuch der Botanik*... 1894, a text book that had 9 editions through 1924.
+- (2) *Niphobolus*... 1901 (TL-2/1, nr. 2011) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 4 microfiches (Plant taxonomic lit. microfiche coll., "8199D6-8202A4"). *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) Co-author with H. Christ, *Pteridographische Notizen*... 1899 (TL-2/Suppl. 4, nr. 26.233).
-(2) Giesenhagen et al., *Botanische Untersuchungen S. Schwendener* zum 10. Februar 1899 dargebracht... Berlin (Verlag von Gebrüder Borntraeger)... 1899 (see TL-2/5: 444-445), a Festschrift in honor of Simon Schwendener (1829-1919).
-(3) Wrote new text for *Jul. Hoffmanns Alpenflora für Alpenwanderer und Pflanzenfreunde ...* Stuttgart (E. Schweizerbart'sche Verlagsbuchh.) \[1914\], which was Ed. 2 of *Alpen-Flora für Touristen und Pflanzenfreunde...* 1902 by Julius Hoffmann (?-1904), neither title treated earlier in TL-2.
+- (1) Co-author with H. Christ, *Pteridographische Notizen*... 1899 (TL-2/Suppl. 4, nr. 26.233).
+- (2) Giesenhagen et al., *Botanische Untersuchungen S. Schwendener* zum 10. Februar 1899 dargebracht... Berlin (Verlag von Gebrüder Borntraeger)... 1899 (see TL-2/5: 444-445), a Festschrift in honor of Simon Schwendener (1829-1919).
+- (3) Wrote new text for *Jul. Hoffmanns Alpenflora für Alpenwanderer und Pflanzenfreunde ...* Stuttgart (E. Schweizerbart'sche Verlagsbuchh.) \[1914\], which was Ed. 2 of *Alpen-Flora für Touristen und Pflanzenfreunde...* 1902 by Julius Hoffmann (?-1904), neither title treated earlier in TL-2.
 
 ### Publications
 

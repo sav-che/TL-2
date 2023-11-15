@@ -12,7 +12,7 @@
 
 See TL-2/1: 571. – [[Collection MAINE|MAINE]] and [[Collection WELC|WELC]], fungi at [[Collection MICH|MICH]]. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CM|CM]], [[Collection GB|GB]], [[Collection GRI|GRI]], [[Collection HH (sensu TL-2)|HH]], [[Collection M|M]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection S|S]].
 *Note*: (1): For the *Decades N. Amer. Lich.* and *Lich. bor.-amer.* see TL-2/1: 571 and Bot. Zeit. 51(II): 30. 1893 (360 nos. issued).
-(2) *Lichenes Boreali-Americana 1894-1905*, 280 numbers issued (by Cummings with T.A. Williams and A.B. Seymour). – See also Zahlbruckner, Bot. Centralbl. 93(32): 151. 18 Aug 1903.
+- (2) *Lichenes Boreali-Americana 1894-1905*, 280 numbers issued (by Cummings with T.A. Williams and A.B. Seymour). – See also Zahlbruckner, Bot. Centralbl. 93(32): 151. 18 Aug 1903.
 
 #### Bibliography and biography
 
@@ -34,16 +34,16 @@ Barnhart 1: 403 (b. 13 Jul 1855, Plymouth, N.H., d. 28 Dec 1906, Concord, N.Y.);
 
 #### Composite works
 
-(1) Cummings, C.E. *in* L.L. Dame, F.S. Collins et al., *Flora of Middlesex County*, Mass., Malden (Middlesex Institute) p. 1-201. 1888 (p. 165-174 Lichens by C.).
-(2) Cummings, C.E., *Cryptogams collected by C.Willard Hayes* in Alaska, Nat. Geogr. Mag. 4: 160-162. 15 Mai 1892.
-(3) Cummings, C.E., *in* Grace E. Cooley, *Plants*, collected in Alaska and Namaimo B.C. Jul-Aug 1891, Bull. Torrey bot. Club 19: 229-249. 10 Aug 1892 (list of 45 mosses and 29 lichens p. 247-249).
-(4) Cummings, C.E., *in* B.L. Robinson and J.M. Greenman, *On the flora of the Galapagos Islands*... collections of Dr. G. Baur, Amer. J. Sci. 50: 135-149. 1 Aug 1895 (six species by Cummings on p. 149).
-(5) Cummings, C.E., *in* Walter Deane, *The flora of the Blue Hills*, Middlesex Fells, Stony Brook and Beaver Brook Reservations... Mass., Boston, C.R. Barrows and Co., p. i-viii, 1-144, 1896, a list of 36 taxa on p. 133-136.
-(6) Review by Cummings, C.E. of Schneider's *Text-Book of Lichenology* (TL-2/10.937), Bot. Gaz. 25: 284-286. Apr 1898.
-(7) Cummings, C.E., *in* A.H. Brooks, G.B. Richardson, A.J. Collier, *Reconnaissance of the Cape Nome*... Alaska 1900. House document 547 (vol. 124), serial no. 498, 1-222. 1901 *with* list of *ten common lichens* on p. 167, det. by Miss Cummings.
-(8) Cummings, C.E., *in* Charles Mohr, *Pl. life Alabama*, TL-2/6193. – A list of 225 species and varieties of lichens with notes on distribution on p. 267-283.
-(9) Cummings, C.E., *in* F.B. Delabasse, Report. *Brown-Haward Exp. Nachvak*, Labrador in ... 1900. Bull. Geogr. Soc. Philadelphia 3: 65-212. 1902; an annotated list of 43 lichens on p. 196-200.
-(10) Cardot, J., Cummings, C.E., and others, *Cryptogamic botany*, vol. 5 of Harriman Alaska Expedition, New York (Doubleday Page & Co.) 1904, 424 p., *44 pl*. – See e.g. H. Solms, Bot. Zeit. 62(12): 186. 16 Jun 1904 (rev.). – See also below *Lichens of Alaska*.
+- (1) Cummings, C.E. *in* L.L. Dame, F.S. Collins et al., *Flora of Middlesex County*, Mass., Malden (Middlesex Institute) p. 1-201. 1888 (p. 165-174 Lichens by C.).
+- (2) Cummings, C.E., *Cryptogams collected by C.Willard Hayes* in Alaska, Nat. Geogr. Mag. 4: 160-162. 15 Mai 1892.
+- (3) Cummings, C.E., *in* Grace E. Cooley, *Plants*, collected in Alaska and Namaimo B.C. Jul-Aug 1891, Bull. Torrey bot. Club 19: 229-249. 10 Aug 1892 (list of 45 mosses and 29 lichens p. 247-249).
+- (4) Cummings, C.E., *in* B.L. Robinson and J.M. Greenman, *On the flora of the Galapagos Islands*... collections of Dr. G. Baur, Amer. J. Sci. 50: 135-149. 1 Aug 1895 (six species by Cummings on p. 149).
+- (5) Cummings, C.E., *in* Walter Deane, *The flora of the Blue Hills*, Middlesex Fells, Stony Brook and Beaver Brook Reservations... Mass., Boston, C.R. Barrows and Co., p. i-viii, 1-144, 1896, a list of 36 taxa on p. 133-136.
+- (6) Review by Cummings, C.E. of Schneider's *Text-Book of Lichenology* (TL-2/10.937), Bot. Gaz. 25: 284-286. Apr 1898.
+- (7) Cummings, C.E., *in* A.H. Brooks, G.B. Richardson, A.J. Collier, *Reconnaissance of the Cape Nome*... Alaska 1900. House document 547 (vol. 124), serial no. 498, 1-222. 1901 *with* list of *ten common lichens* on p. 167, det. by Miss Cummings.
+- (8) Cummings, C.E., *in* Charles Mohr, *Pl. life Alabama*, TL-2/6193. – A list of 225 species and varieties of lichens with notes on distribution on p. 267-283.
+- (9) Cummings, C.E., *in* F.B. Delabasse, Report. *Brown-Haward Exp. Nachvak*, Labrador in ... 1900. Bull. Geogr. Soc. Philadelphia 3: 65-212. 1902; an annotated list of 43 lichens on p. 196-200.
+- (10) Cardot, J., Cummings, C.E., and others, *Cryptogamic botany*, vol. 5 of Harriman Alaska Expedition, New York (Doubleday Page & Co.) 1904, 424 p., *44 pl*. – See e.g. H. Solms, Bot. Zeit. 62(12): 186. 16 Jun 1904 (rev.). – See also below *Lichens of Alaska*.
 
 ### Publications
 

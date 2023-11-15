@@ -45,12 +45,12 @@ ADB 8: 159-161 (Maxon); Barnhart 3: 177 (b. 11 Jan 1862, d. 4 Mai 1928); BJI 1: 
 
 #### Composite works
 
-(1) *Crassulaceae, in* NAF 22: 7-74. 22 Mai 1905 (with N.L. Britton).
-(2) *Burseraceae, in* NAF 25(3): 241-261. 6 Mai 1911.
-(3) *Mimosaceae, in* NAF 23(1): 1-76. 11 Feb 1928, 23(2): 77-136. 25 Sep 1928, 23(3): 137-194. 20 Dec 1928 (with N.L. Britton).
-(4) With N.L. Britton, *New M. Amer. Crassul.* 1903, TL-2/780.
-(5) With N.L. Britton, *The Cactaceae*, 1919-1923, 4 vols., TL-2/786.
-(6) With J.M. Coulter, *Rev. M. Amer. Umbell.* 1888, TL-2/1254. – Extensive reviews by Humphrey, Bot. Centralbl. 40: 227-230. 1889 and W.M. Canby, Bot. Gaz. 14: 110-111. 1889. – For *Monogr. M. Amer. Umbell.* 1900, see below.
+- (1) *Crassulaceae, in* NAF 22: 7-74. 22 Mai 1905 (with N.L. Britton).
+- (2) *Burseraceae, in* NAF 25(3): 241-261. 6 Mai 1911.
+- (3) *Mimosaceae, in* NAF 23(1): 1-76. 11 Feb 1928, 23(2): 77-136. 25 Sep 1928, 23(3): 137-194. 20 Dec 1928 (with N.L. Britton).
+- (4) With N.L. Britton, *New M. Amer. Crassul.* 1903, TL-2/780.
+- (5) With N.L. Britton, *The Cactaceae*, 1919-1923, 4 vols., TL-2/786.
+- (6) With J.M. Coulter, *Rev. M. Amer. Umbell.* 1888, TL-2/1254. – Extensive reviews by Humphrey, Bot. Centralbl. 40: 227-230. 1889 and W.M. Canby, Bot. Gaz. 14: 110-111. 1889. – For *Monogr. M. Amer. Umbell.* 1900, see below.
 
 #### Eponymy
 
@@ -66,15 +66,15 @@ ADB 8: 159-161 (Maxon); Barnhart 3: 177 (b. 11 Jan 1862, d. 4 Mai 1928); BJI 1: 
 **Notes**
 *Co-author*: George Vasey (1822-1893). *Collector*. Edward Palmer (1831-1911).
 *Publ*.: 8 Nov 1890 (in journal), p.\[i, iii\], 63-90, v-vi. *Copy*: G. – Reprinted and to be cited from Contr. U.S. natl. Herb. 1: 63-90. 8 Nov 1890. – Other publications by Rose and Vasey on United States and Mexican plants collected by Palmer are:
-(1) Proc. U.S. natl. Mus. 11: 527-536. 1889 (Lower Calif., coll. 1889).
-(2) Contr. U.S. natl. Herb. 1: 1-8. 16 Jun 1890 (S. Calif).
-(3)Ib. 1: 9-28. 16 Jun 1890 (Lower Calif, coll. 1889).
+- (1) Proc. U.S. natl. Mus. 11: 527-536. 1889 (Lower Calif., coll. 1889).
+- (2) Contr. U.S. natl. Herb. 1: 1-8. 16 Jun 1890 (S. Calif).
+- (3) Ib. 1: 9-28. 16 Jun 1890 (Lower Calif, coll. 1889).
 Idem by Rose alone:
-(4) Contr. U.S. natl. Herb. 1: 91-116. 30 Jun 1891 (W. Mex., Ariz. 1890).
-(5) Ib. 1: 117-137. 30 Jun 1891 (Ariz. 1890).
-(6) Ib. 1: 139-134. 25 Sep 1892 (Carmen Isl. 1890).
-(7) Ib. 1: 293-392. 31 Jan 1895 (Mexico 1890, 1891).
-(8) Ib. 3: 311-319. 14 Dec 1895 (Mexico, U.S., 1891, 1892).
+- (4) Contr. U.S. natl. Herb. 1: 91-116. 30 Jun 1891 (W. Mex., Ariz. 1890).
+- (5) Ib. 1: 117-137. 30 Jun 1891 (Ariz. 1890).
+- (6) Ib. 1: 139-134. 25 Sep 1892 (Carmen Isl. 1890).
+- (7) Ib. 1: 293-392. 31 Jan 1895 (Mexico 1890, 1891).
+- (8) Ib. 3: 311-319. 14 Dec 1895 (Mexico, U.S., 1891, 1892).
 
 ##### n.9508. Studies of Mexican and Central American plants
 

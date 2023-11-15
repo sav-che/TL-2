@@ -32,8 +32,8 @@ Barnhart 3: 53; BL 1: 34, 312, 2: 338, 385-386, 699-770; BM 4: 1527; Bossert p. 
 
 #### Composite works
 
-(1) V. Tenore & G.A. Pasquale, *Compendio di botanica*, 1847 (for this and further eds. see sub Tenore).
-(2) V. Tenore & G.A. Pasquale, *Atlante di botanica popolare*, 3 vols., 1872-1886 (id.).
+- (1) V. Tenore & G.A. Pasquale, *Compendio di botanica*, 1847 (for this and further eds. see sub Tenore).
+- (2) V. Tenore & G.A. Pasquale, *Atlante di botanica popolare*, 3 vols., 1872-1886 (id.).
 
 ### Publications
 

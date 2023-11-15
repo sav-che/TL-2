@@ -22,11 +22,12 @@ Barnhart 1: 403 (b. 29 Aug 1904, Tecumseh, Nebr.); IH 2: 147; Kew 1: 660; LS sup
 
 #### Outside our period
 
-(1) The *rust fungi of cereals*, Grasses and Bamboos... Heidelberg, New York (Springer Verlag) 1971, p. \[i\]-xv, \[1\]-570, see e.g. A. Löve, Taxon 21: 359. 26 Mai 1972 (rev.), and H. Scholz, Bot. Jahrb. 91(Lit): 35-36. 25 Mai 1972 (rev.). (2) With J.A. Stevenson, A *check list of North American Rust Fungi* (*Uredinales*), suppl. 240 of the Plant Disease Reporter 1956, Beltsville, Md., Taxon 6: 219. 21 Jun 1957.
+- (1) The *rust fungi of cereals*, Grasses and Bamboos... Heidelberg, New York (Springer Verlag) 1971, p. \[i\]-xv, \[1\]-570, see e.g. A. Löve, Taxon 21: 359. 26 Mai 1972 (rev.), and H. Scholz, Bot. Jahrb. 91(Lit): 35-36. 25 Mai 1972 (rev.).
+- (2) With J.A. Stevenson, A *check list of North American Rust Fungi* (*Uredinales*), suppl. 240 of the Plant Disease Reporter 1956, Beltsville, Md., Taxon 6: 219. 21 Jun 1957.
 
 #### Composite works
 
-(1) Arthur, J.C. and G.B. Cummins, *Philippine rusts* in the Clemens collection 1923-1926, Manila 1936-1937, see TL-2/suppl. 1: no. 19.542.
+- (1) Arthur, J.C. and G.B. Cummins, *Philippine rusts* in the Clemens collection 1923-1926, Manila 1936-1937, see TL-2/suppl. 1: no. 19.542.
 
 ### Publications
 

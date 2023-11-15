@@ -52,26 +52,27 @@ ADB 32: 240-243 (F. Ratzel); Backer p. 519; Barnhart 3: 238 (b. 5 Jun 1804, d. 1
 
 #### Composite works
 
-(1) J. Lindley, *Victoria regia* 1837, TL-2/4650; plate of a drawing by Ro. Schomburgk.
-(2) Edited W. Raleigh \[Ralegh\], *The discovery of the... Empire of Guiana*... *in the year 15951*... Edited, with copious explanatory notes and a biographical memoir, by Sir Robert H. Schomburgk,... London (printed for the Hakluyt Society) 1848. Oct., lxxv, xv, 240 p., map.
-(3) Translated, with John Edward Taylor, *Travels of his Royal Highness Prince Adalbert of Prussia*, in the south of Europe and in Brazil, with a voyage up the Amazon and the Xingu, London (David Bogue,...) 1849. Oct., 732 p. *Copy*: Ewan. – Sabin 1: 25.
-(4) Nya Sverige i södra America, jemte Beskrifning om "Britisch Guiana". Sammandrag af Humboldts, Hancocks, Schomburgk's Arbeten. Stockholm (Fru Ortman) 1841. Oct.
+- (1) J. Lindley, *Victoria regia* 1837, TL-2/4650; plate of a drawing by Ro. Schomburgk.
+- (2) Edited W. Raleigh \[Ralegh\], *The discovery of the... Empire of Guiana*... *in the year 15951*... Edited, with copious explanatory notes and a biographical memoir, by Sir Robert H. Schomburgk,... London (printed for the Hakluyt Society) 1848. Oct., lxxv, xv, 240 p., map.
+- (3) Translated, with John Edward Taylor, *Travels of his Royal Highness Prince Adalbert of Prussia*, in the south of Europe and in Brazil, with a voyage up the Amazon and the Xingu, London (David Bogue,...) 1849. Oct., 732 p. *Copy*: Ewan. – Sabin 1: 25.
+- (4) Nya Sverige i södra America, jemte Beskrifning om "Britisch Guiana". Sammandrag af Humboldts, Hancocks, Schomburgk's Arbeten. Stockholm (Fru Ortman) 1841. Oct.
 
 #### Travel accounts
 
-(1) J.R. Geogr. Soc. London 2: 152-170. 1832 (Anegada), 5: 23-38. 1835 (West Indian Islands, Virgin Islands).
-(2) Ib. 6: 224-284. 1836, 10: 159-190. 1841 (Interior Guyana; Caruma Mts. 1837-1838). (3) Ib. 10: 191-267. 1841 (Rio Branco, Roraima, Orinoco (1838-1839).
-(4) Ann. nat. Hist., Mag. zool. Bot. Geol. 1: 63-68. 1838 (letter from New Amsterdam, Berbice).
-(5) Ib. 2: 255-266. 1839 (on vultures).
-(6) Ib. 4: 266, 322-328. 1839, 5: 29-35, 202-204, 282-288, 343-348, 399-405. 1840 (Guiana).
-(7) Ib. 7: 151, 407-427. 1841 (Guiana; on Urari poison).
-(8) J.R. Geogr. Soc. London 12: 169-196. 1843 (1841 trip Barima & Guyami Riv.). (9) Ib. 13: 18-74. 1843 (sources Takutu).
-(10) Ib. 15: 1-104. 1845 (Pirare, Upper Corantyne, Demerara).
-(11) Athenaeum 1852: 797-799 (Constanza, Santo Domingo).
-(12) J.R. Geogr. Soc. London 23: 264-283. 1853 (Samaná, Santo Domingo).
-(13) Id. 31: 302-321. 1861 (Thailand).
-(14) J. Asiat. Soc. Bengal 32: 387-399. 1864 (Laos).
-(15) Monatschr. Ges. Erdk. Berlin 1: 196-204. 1844, 2: 66-75. 1845, 4: 62-74. 1847.
+- (1) J.R. Geogr. Soc. London 2: 152-170. 1832 (Anegada), 5: 23-38. 1835 (West Indian Islands, Virgin Islands).
+- (2) Ib. 6: 224-284. 1836, 10: 159-190. 1841 (Interior Guyana; Caruma Mts. 1837-1838). (3) Ib. 10: 191-267. 1841 (Rio Branco, Roraima, Orinoco (1838-1839).
+- (4) Ann. nat. Hist., Mag. zool. Bot. Geol. 1: 63-68. 1838 (letter from New Amsterdam, Berbice).
+- (5) Ib. 2: 255-266. 1839 (on vultures).
+- (6) Ib. 4: 266, 322-328. 1839, 5: 29-35, 202-204, 282-288, 343-348, 399-405. 1840 (Guiana).
+- (7) Ib. 7: 151, 407-427. 1841 (Guiana; on Urari poison).
+- (8) J.R. Geogr. Soc. London 12: 169-196. 1843 (1841 trip Barima & Guyami Riv.).
+- (9) Ib. 13: 18-74. 1843 (sources Takutu).
+- (10) Ib. 15: 1-104. 1845 (Pirare, Upper Corantyne, Demerara).
+- (11) Athenaeum 1852: 797-799 (Constanza, Santo Domingo).
+- (12) J.R. Geogr. Soc. London 23: 264-283. 1853 (Samaná, Santo Domingo).
+- (13) Id. 31: 302-321. 1861 (Thailand).
+- (14) J. Asiat. Soc. Bengal 32: 387-399. 1864 (Laos).
+- (15) Monatschr. Ges. Erdk. Berlin 1: 196-204. 1844, 2: 66-75. 1845, 4: 62-74. 1847.
 
 #### Handwriting
 

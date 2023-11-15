@@ -29,8 +29,8 @@ ADB 17: 401; AG 6(2): 297; Backer p. 308; Barnhart 2: 327; BM 2: 1036; Bossert p
 
 #### Composite works
 
-(1) *Richard's medicinische Botanik* (edited and translated by Kunze and Kummer) Berlin 1824, 2 vols.
-(2) F. Göbel, *Pharmaceutische Waarenkunde*, vol. 2 (8 Hefte), Eisenach 1830-1834 (vol. 2 by Kunze).
+- (1) *Richard's medicinische Botanik* (edited and translated by Kunze and Kummer) Berlin 1824, 2 vols.
+- (2) F. Göbel, *Pharmaceutische Waarenkunde*, vol. 2 (8 Hefte), Eisenach 1830-1834 (vol. 2 by Kunze).
 
 #### Handwriting
 

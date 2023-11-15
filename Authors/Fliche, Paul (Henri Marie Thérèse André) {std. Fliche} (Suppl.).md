@@ -31,9 +31,9 @@ Académie p. 190; Andrews p. 263-264; APN p. 203; Barnhart 1: 550; BL 2: 654 (in
 
 #### Composite works
 
-(1) Fliche & G. Le Monnier edited D.A. Godron, *Fl. Lorraine*... ed. 3, 1883, see TL-2/1, nr. 2061.
-(2) Revised A.A. Mathieu, *Fl. forest.*... ed. 4, 1897, see TL-2/3, nr. 5668.
-(3) One of many authors who contributed observations to C.V. Houlbert, *Fl. Sénonais*... 1901, see TL-2/2, nr. 3073.
+- (1) Fliche & G. Le Monnier edited D.A. Godron, *Fl. Lorraine*... ed. 3, 1883, see TL-2/1, nr. 2061.
+- (2) Revised A.A. Mathieu, *Fl. forest.*... ed. 4, 1897, see TL-2/3, nr. 5668.
+- (3) One of many authors who contributed observations to C.V. Houlbert, *Fl. Sénonais*... 1901, see TL-2/2, nr. 3073.
 
 ### Publications
 

@@ -8,7 +8,11 @@ Hofman Bang, Niels (1776-1855), Danish botanist, pupil of Vahl, landowner (Hofma
 
 #### Herbarium and types
 
-[[Collection C|C]]. Exsiccatae (all at [[Collection C|C]]): (1) *Musci frondosi*, 1 vol. 1840; (2) *Conferva*, 2 vols.; (3) *Hydrophyta*, 4 vols., 1816-1843; (4) *Alg. mar. medit, adriat.* 1847.
+[[Collection C|C]].
+*Exsiccatae* (all at [[Collection C|C]]): (1) *Musci frondosi*, 1 vol. 1840;
+- (2) *Conferva*, 2 vols.;
+- (3) *Hydrophyta*, 4 vols., 1816-1843;
+- (4) *Alg. mar. medit, adriat.* 1847.
 
 #### Name
 

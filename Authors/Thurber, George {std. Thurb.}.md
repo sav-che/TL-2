@@ -35,11 +35,11 @@ Barnhart 3: 382 (b. 2 Sep 1821, d. 2 Apr 1890); BM 5: 2111; Bossert p. 400; CSP 
 
 #### Composite works
 
-(1) Contributed botanical entries to *Appleton's New American Encyclopaedia*.
-(2) A. Gray, *Plantae novae thurberianae* 1854, see TL-2/2128.
-(3) Collaborator, J.T. Rothrock, *Cat. pl.* 1874, see TL-2/9657.
-(4) Contributed *Graminiae* \[sic\] (p. 29-30), to part 4, botany of J.C. Ives, *Rep. Colorado R.* 1860, see TL-2/3203. – N.B. The *Botany* part of this report is dated on its t.p. "1860"; the report as a whole is dated 1861.
-(5) *Gramineae*, p. 253-328, *in* S. Watson, *Botany* \[of California\] 2, 1880.
+- (1) Contributed botanical entries to *Appleton's New American Encyclopaedia*.
+- (2) A. Gray, *Plantae novae thurberianae* 1854, see TL-2/2128.
+- (3) Collaborator, J.T. Rothrock, *Cat. pl.* 1874, see TL-2/9657.
+- (4) Contributed *Graminiae* \[sic\] (p. 29-30), to part 4, botany of J.C. Ives, *Rep. Colorado R.* 1860, see TL-2/3203. – N.B. The *Botany* part of this report is dated on its t.p. "1860"; the report as a whole is dated 1861.
+- (5) *Gramineae*, p. 253-328, *in* S. Watson, *Botany* \[of California\] 2, 1880.
 
 #### Eponymy
 

@@ -23,8 +23,8 @@ BJI 2: 128; BL 2: 33, 698; Hirsch p. 222; Kew 4: 207; Roon p. 84; SK 1: 397, 8: 
 
 #### Composite works
 
-(1) Editor of *Biologisch Jaarboek, Dodonaea* 1927-1969.
-(2) Founder and first editor of *Hydrobiologia*.
+- (1) Editor of *Biologisch Jaarboek, Dodonaea* 1927-1969.
+- (2) Founder and first editor of *Hydrobiologia*.
 
 #### Festschrift
 

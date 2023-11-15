@@ -21,8 +21,8 @@ Barnhart 1: 360 (b. 5 Apr 1838, Rovereto); BL 2: 406, 641; DTS 1: 49, 3: xli, Na
 
 #### Composite works
 
-(1) *Michelia* (see TL-2/9895), Cobelli co-author.
-(2) Materiali per la fauna e la flora di Serrada e florula della Cima di Monte Maggio, Rovereto V. Sottochiesa 1899, 46 p., of which *Flora* p. 31-41 by Cobelli.
+- (1) *Michelia* (see TL-2/9895), Cobelli co-author.
+- (2) Materiali per la fauna e la flora di Serrada e florula della Cima di Monte Maggio, Rovereto V. Sottochiesa 1899, 46 p., of which *Flora* p. 31-41 by Cobelli.
 
 ### Publications
 

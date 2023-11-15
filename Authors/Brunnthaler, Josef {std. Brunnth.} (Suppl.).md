@@ -29,12 +29,12 @@ Barnhart 1: 270; BM 1:150; CSP 13: 874; IH 2: 103; Kew 1: 404; LS 4270-4272; Nor
 
 #### Composite works
 
-(1) See TL-2/1: 385.
-(2) Contributed to G. de Beck and A. Zahlbruckner, Schedae ad "*Kryptogamas exsiccatas*" editae a Museo Palatino Vindobonensi, cent. II, Wien 1896.
-(3) Jahres-Catalog der Wiener Kryptogamen-Tauschanstalt, Wien 1897 (n.v.).
-(4) *Vegetationsbilder aus Südafrika* (Karroo und Dornbusch), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 9, Heft 4/5: 25 pages text, *pl. 19-30.* 1911.
-(5) *Vegetationsbilder aus Deutsch-Ostafrika* (Regenwald von Usambara), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 11, Heft 8: 13 pages text, *pl. 43-48.* 1914.
-(6) *Ergebnisse einer botanischen Forschungsreise nach Deutsch-Ostafrika und Südafrika *(Kapland, Natal und Rhodesien). Denkschr. kais. Akad. Wiss. math.-nat. Kl. 88(1): 711-744. 1913. (Hepaticae by F. Stephani, Musci by V.F. Brotherus). – See also Matouschek, F., Bot. Centralbl. 129(15): 389. 12 Oct 1915, Nat. Nov. Nov (2) 1913.
+- (1) See TL-2/1: 385.
+- (2) Contributed to G. de Beck and A. Zahlbruckner, Schedae ad "*Kryptogamas exsiccatas*" editae a Museo Palatino Vindobonensi, cent. II, Wien 1896.
+- (3) Jahres-Catalog der Wiener Kryptogamen-Tauschanstalt, Wien 1897 (n.v.).
+- (4) *Vegetationsbilder aus Südafrika* (Karroo und Dornbusch), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 9, Heft 4/5: 25 pages text, *pl. 19-30.* 1911.
+- (5) *Vegetationsbilder aus Deutsch-Ostafrika* (Regenwald von Usambara), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 11, Heft 8: 13 pages text, *pl. 43-48.* 1914.
+- (6) *Ergebnisse einer botanischen Forschungsreise nach Deutsch-Ostafrika und Südafrika *(Kapland, Natal und Rhodesien). Denkschr. kais. Akad. Wiss. math.-nat. Kl. 88(1): 711-744. 1913. (Hepaticae by F. Stephani, Musci by V.F. Brotherus). – See also Matouschek, F., Bot. Centralbl. 129(15): 389. 12 Oct 1915, Nat. Nov. Nov (2) 1913.
 
 ### Publications
 

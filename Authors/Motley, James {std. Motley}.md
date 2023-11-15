@@ -6,10 +6,9 @@
 Motley, James (x-1859), British civil engineer and botanist; collected in Malaysia 1852-1853; later at Borneo; murdered at Kampong Kalangan (Bandjermasin). 
 **Abbreviated name**: *Motley*
 
-#### HERBARIUM and TYPES
+#### Herbarium and types
 
-British herbarium at SWA (but not traced); Borneo and Singapore collections at K; bryophytes from Indonesia (? Malaysia) are at E and NY (through herb.
-Mitten).
+British herbarium at [[Collection SWA|SWA]] (but not traced); Borneo and Singapore collections at [[Collection K|K]]; bryophytes from Indonesia (? Malaysia) are at [[Collection E|E]] and [[Collection NY|NY]] (through herb. Mitten).
 
 #### Bibliography and biography
 

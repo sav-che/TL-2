@@ -31,9 +31,9 @@ AG 3: 249, 12(3): 516; Barnhart 1: 318; BL 2: 335, 397-398; BM 1: 321; Bossert p
 
 #### Composite works
 
-(1) Continued and completed Parlatore, *Flora italiana*, vols. 6-10, 1884-1894.
-(2) *Nuovo giornale botanico italiano*, editor, vol. 4, 1872 – ser. 2, vol. 5, 1898.
-(3) Alph. de Candolle, *Monogr..Philydraceae* 3: 1-6. Jun 1881.
+- (1) Continued and completed Parlatore, *Flora italiana*, vols. 6-10, 1884-1894.
+- (2) *Nuovo giornale botanico italiano*, editor, vol. 4, 1872 – ser. 2, vol. 5, 1898.
+- (3) Alph. de Candolle, *Monogr..Philydraceae* 3: 1-6. Jun 1881.
 
 #### Eponymy
 

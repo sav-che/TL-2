@@ -8,7 +8,9 @@ Hieronymus, Georg Hans Emmo (Emo) Wolfgang (1846-1921), German botanist and plan
 
 #### Herbarium and types
 
-Main collections at [[Collection B|B]] (herb. rd. 1892; fern collection extant), but much material also at [[Collection CORD|CORD]]. *Exsiccatae*: (1) *Flora argentina* (1872-1883) at [[Collection B|B]], [[Collection CORD|CORD]], [[Collection GH|GH]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection SP|SP]]. – (2) *Herbarium cecidiologicum* (later ctd. by R. Dittrich and F. Pax), Lief. 1-15, nos. 1-121, 121a-425. 1892-1907.
+Main collections at [[Collection B|B]] (herb. rd. 1892; fern collection extant), but much material also at [[Collection CORD|CORD]].
+*Exsiccatae*: (1) *Flora argentina* (1872-1883) at [[Collection B|B]], [[Collection CORD|CORD]], [[Collection GH|GH]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection SP|SP]].
+- (2) *Herbarium cecidiologicum* (later ctd. by R. Dittrich and F. Pax), Lief. 1-15, nos. 1-121, 121a-425. 1892-1907.
 
 #### Bibliography and biography
 
@@ -28,12 +30,12 @@ Backer p. 267; Barnhart 2: 172; BJI 1: 26-27, 2: 75-76; BM 2: 842, 6: 463; BL 1:
 
 #### Composite works
 
-(1) Editor of *Hedwigia* vols. 32(2), 1893-61(3), 1920.
-(2) *Algae, Pteridophyta*, in *Deutsch Ost Afrika* 5 B, C, 1895.
-(3), EP, *Die natülichen Pflanzenfamilien* ed. 1 (TL-2/1710):
+- (1) Editor of *Hedwigia* vols. 32(2), 1893-61(3), 1920.
+- (2) *Algae, Pteridophyta*, in *Deutsch Ost Afrika* 5 B, C, 1895.
+- (3) EP, *Die natülichen Pflanzenfamilien* ed. 1 (TL-2/1710):
 *Eriocaulaceae*, (2)4: 21-27. Oct 1887, Nachtr. 2-4(1): 61. Jul 1897. *Centrolepidaceae*, 2(4): 11-16. Oct 1887, Nachtr. 2-4(1): 61. Jul 1897. *Myzodendraceae*, 3(1): 198-202. Mai 1889; suppl. by A. Engler, Nachtr. 2-4(1): 140-141. Aug 1897.
 *Restionaceae*, 2(4): 3-10. Oct 1887; Nachträge 2-4(1): 67. Jul 1897, (2): 9. 8 Oct 1900. *Selaginellaceae* (in collaboration with Richard Sadebeck), 1(4): 621-624. Jan 1901, 625-672. Sep 1901, 673-715. Nov 1901.
-(4) Urban, I., *Symb. ant.* 3(3): 524-527. 1 Mai 1903 (Selaginella, by Hieronymus).
+- (4) Urban, I., *Symb. ant.* 3(3): 524-527. 1 Mai 1903 (Selaginella, by Hieronymus).
 
 #### Note
 

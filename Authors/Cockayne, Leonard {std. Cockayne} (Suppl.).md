@@ -39,9 +39,9 @@ Barnhart 1: 362 (b. 7 Apr 1855, Norton Leas, Derbyshire, England, d. 8 Jul 1934,
 
 #### Composite works
 
-(1) The *trees* of *New Zealand* of L. Cockayne and E. Phillips Turner, see TL-2/6: p. 546-547. – The 2nd edition 1938 \[1939\] and the 3rd edition of 1943 are not mentioned in TL-2/6. – Copies seen at L. – Thomson no. 236.
-(2) See Ch. Chilton, The *subantarctic Islands of New Zealand*, Wellington, N.Z. 1909, 848 p., has notes by Cockyayne in the text, see below 1909.
-(3) *Riccarton Bush* ed. by Ch. Chilton, Christchurch 1924 has chapter (2) by Cockayne.
+- (1) The *trees* of *New Zealand* of L. Cockayne and E. Phillips Turner, see TL-2/6: p. 546-547. – The 2nd edition 1938 \[1939\] and the 3rd edition of 1943 are not mentioned in TL-2/6. – Copies seen at L. – Thomson no. 236.
+- (2) See Ch. Chilton, The *subantarctic Islands of New Zealand*, Wellington, N.Z. 1909, 848 p., has notes by Cockyayne in the text, see below 1909.
+- (3) *Riccarton Bush* ed. by Ch. Chilton, Christchurch 1924 has chapter (2) by Cockayne.
 
 ### Publications
 

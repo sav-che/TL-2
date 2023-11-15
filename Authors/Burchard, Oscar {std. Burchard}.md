@@ -23,9 +23,9 @@ Barnhart 1: 282; BJI 2: 22 (3 titles on Canary plants reviewed); Christiansen p.
 
 #### Notes
 
-(1) O. Burchard, *Dendrologische Wanderungen auf den Kanarischen Inseln*, Mitt. deut. dendrol. Ges. 1911(20): 277-298.
-(2) O. Burchard, *Bryologische Reiseskizzen aus Nordland*, Bot. Centralbl. 37: 97-106. 1889, rev. by Bot. Not. 1889: 142-143. – Notes on a trip to the Northern part of Norway.
-(3) O. Burchard, Die *Unkrautsamen der Klee- und Grassarten* mit besonderer Berücksichtigung ihrer Herkunft. Berlin 1900. – Behrens, Bot. Zeit. 58(II): 175-176. 1 Jun 1900, Nat. Nov. Mar (1) 1900.
+- (1) O. Burchard, *Dendrologische Wanderungen auf den Kanarischen Inseln*, Mitt. deut. dendrol. Ges. 1911(20): 277-298.
+- (2) O. Burchard, *Bryologische Reiseskizzen aus Nordland*, Bot. Centralbl. 37: 97-106. 1889, rev. by Bot. Not. 1889: 142-143. – Notes on a trip to the Northern part of Norway.
+- (3) O. Burchard, Die *Unkrautsamen der Klee- und Grassarten* mit besonderer Berücksichtigung ihrer Herkunft. Berlin 1900. – Behrens, Bot. Zeit. 58(II): 175-176. 1 Jun 1900, Nat. Nov. Mar (1) 1900.
 
 ### Publications
 

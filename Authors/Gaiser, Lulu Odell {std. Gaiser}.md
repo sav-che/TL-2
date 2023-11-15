@@ -23,9 +23,9 @@ APN p. 215; Barnhart 2: 24; Ewan Pap. p. 75; Hirsch p. 92; Hortus ed. 2: 1193; K
 
 #### Outside our period
 
-(1) *The genus Liatris*... Rhodora 48: 165-183, 216-263, 273-382, 393-414. 1946.
-(2) *Chromosome studies in Kuhniinae* (*Eupatorieae*). *I*. *Brickellia*... Rhodora 55: 253-267, 269-288, 297-321, 328-345. 1953.
-(3) *Studies in the Kuhniinae* (*Eupatorieae*) *II*.... J. Arnold Arbor. 35: 87-133. 1954. (4) Raymond J\[ohn\]. Moore (1918-1988) compiled *A survey of the vascular plants of Lambton County, Ontario*... 1966, which was based on a survey from 1957-1964 by Gaiser.
+- (1) *The genus Liatris*... Rhodora 48: 165-183, 216-263, 273-382, 393-414. 1946.
+- (2) *Chromosome studies in Kuhniinae* (*Eupatorieae*). *I*. *Brickellia*... Rhodora 55: 253-267, 269-288, 297-321, 328-345. 1953.
+- (3) *Studies in the Kuhniinae* (*Eupatorieae*) *II*.... J. Arnold Arbor. 35: 87-133. 1954. (4) Raymond J\[ohn\]. Moore (1918-1988) compiled *A survey of the vascular plants of Lambton County, Ontario*... 1966, which was based on a survey from 1957-1964 by Gaiser.
 
 ### Publications
 

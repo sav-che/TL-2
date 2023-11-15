@@ -14,7 +14,8 @@ Treated as "Fedchenko, Boris Aleksevič" in TL-2/1, which is how the translitera
 
 #### Herbarium and types
 
-[[Collection LE|LE]], duplicates [[Collection A|A]], [[Collection G|G]], [[Collection H|H]], [[Collection H|H]]-BR (Bryoph.), [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection MW|MW]], [[Collection S|S]], [[Collection TASH|TASH]]. – *Exsiccatae*: Fedtschenko, *Flora Turkestanica exsiccata*... (Hortus Botanicus Imperialis Petropolitani, Petropolitani, nos. 1-100, 1911-1917) (Fedtschenko, *Fl. Turkest. Exs.*). *Note*: There is also a 4 fasc. (in 3 parts) *Gerbari Turkestanskoi flory* \[=*Schedae* ad *Floram Turkestanicam exsiccatam* ab Horto Botanico Imperiali Petropolitano editam\]. *Copies*: [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (fasc. 1). – Some corr. in [[Collection GH|GH]] (Archives).
+[[Collection LE|LE]], duplicates [[Collection A|A]], [[Collection G|G]], [[Collection H|H]], [[Collection H|H]]-BR (Bryoph.), [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection MW|MW]], [[Collection S|S]], [[Collection TASH|TASH]].
+*Exsiccatae*: Fedtschenko, *Flora Turkestanica exsiccata*... (Hortus Botanicus Imperialis Petropolitani, Petropolitani, nos. 1-100, 1911-1917) (Fedtschenko, *Fl. Turkest. Exs.*). *Note*: There is also a 4 fasc. (in 3 parts) *Gerbari Turkestanskoi flory* \[=*Schedae* ad *Floram Turkestanicam exsiccatam* ab Horto Botanico Imperiali Petropolitano editam\]. *Copies*: [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (fasc. 1). – Some corr. in [[Collection GH|GH]] (Archives).
 
 #### Bibliography and biography
 
@@ -40,7 +41,7 @@ AG 3: 43; APN p. 196; Barnhart 1: 531; BFM p. 282 (index); Biol.-Dokum. 5: 65.64
 
 #### Composite works
 
-(1) Co-author with his mother O.A. Fedtschenko (see below) of many publications, incl.:
+- (1) Co-author with his mother O.A. Fedtschenko (see below) of many publications, incl.:
 (a) *Materialy flory Ufimskoi*... 1893 (see nr. 34.095 below).
 (b) *Mat. fl. Caucase*... 1899\[-1901\] (see nr. 34.101 below).
 (c) *Mat. fl. Crimée*... 1899\[-1905\] (see nr. 34.102 below).
@@ -50,15 +51,15 @@ AG 3: 43; APN p. 196; Barnhart 1: 531; BFM p. 282 (index); Biol.-Dokum. 5: 65.64
 (g) *Rasteniia Turkestana Alaia*... 1905-1908 (see nr. 34.108 below).
 (h) *Consp. Fl. Turkestan.* (*German*)... 1905-1923 and Id. (*Russian*)... 1906-1916 (see nrs. 34.109 & 34.111 below).
 (i) *Consp. Fl. Turkestan. Kirg.*... 1924 (see nr. 34.118 below).
-(2) Editor of a series of bibliographical reviews on botany in Russia for 1904, 1905 and 1906:
+- (2) Editor of a series of bibliographical reviews on botany in Russia for 1904, 1905 and 1906:
 (a) The review for 1904 not seen by us;
 (b) Bush, N.A. et al., *Obzor botaniko-geograficheskoi literatury* po *flore Rossii* za *1905* god \[=*Aperçu bibliographique* de tous les travaux concernant la *flore russe* parus en *1905*\]... St. Petersburg... cover-t.p., p. \[1\]-106. 1906. *Copies*: HH (n.v.), NY; and
 (c) Wislouch, S. et al., *Obzor botaniko-geograficheskoi literatury* po *flore Rossii* za *1906* god \[=*Aperçu bibliographique* de tous les travaux concernant la *flore russe* parus en *1906*\]... St. Petersburg... cover-t.p., p. \[1-3\], 4-69. 1908. *Copies*: HH, K (n.v.), LC (n.v.), US (n.v.).
-(3) Editor, *Russkii Botanicheskii Zhurnal* \[=Journal Russe de Botanique\], 7 vols. (1908-1915).
-(4) Editor of a series of reports on botanical explorations in Siberia and Turkestan, incl.: *Predvaritelnyi otchet* o *botanicheskikh izsledovaniyakh* v *Sibiri* v *Turkestane* v *1911* g. \[=*Preliminary report* on *botanical investigations* in *Siberia* and *Turkestan* in the year *1911*\] ... 1912. *Copy*: HH; Id., 1913 g. \[... in the year 1913\]... 1914. *Copy*: HH;... Id., 1914 g. \[... in the year 1914\]... 1916. *Copy*: HH.
-(5) Editor, *Leningradskoe obshchestvo izucheniia mestnogo kraia. Trudy* (1927-x).
-(6) Editor, *Species* of *wild flowers* of the *U.S.S.R.* Descriptive catalogue of bulbs and roots, with coloured plates, compiled from the materials of A\[leksei\]. I\[vanovitch\]. Vvedensky, ... Moscow (Lektechsyrio Corporation) 1935. Oct. *Copies*: L, LC (n.v.), MO, NY (n.v.), USDA (n.v.).
-(7) Contributor to V.L. Komarov et al. (eds.) *Fl. URSS* (see TL-2/2, nr. 3857), incl.:
+- (3) Editor, *Russkii Botanicheskii Zhurnal* \[=Journal Russe de Botanique\], 7 vols. (1908-1915).
+- (4) Editor of a series of reports on botanical explorations in Siberia and Turkestan, incl.: *Predvaritelnyi otchet* o *botanicheskikh izsledovaniyakh* v *Sibiri* v *Turkestane* v *1911* g. \[=*Preliminary report* on *botanical investigations* in *Siberia* and *Turkestan* in the year *1911*\] ... 1912. *Copy*: HH; Id., 1913 g. \[... in the year 1913\]... 1914. *Copy*: HH;... Id., 1914 g. \[... in the year 1914\]... 1916. *Copy*: HH.
+- (5) Editor, *Leningradskoe obshchestvo izucheniia mestnogo kraia. Trudy* (1927-x).
+- (6) Editor, *Species* of *wild flowers* of the *U.S.S.R.* Descriptive catalogue of bulbs and roots, with coloured plates, compiled from the materials of A\[leksei\]. I\[vanovitch\]. Vvedensky, ... Moscow (Lektechsyrio Corporation) 1935. Oct. *Copies*: L, LC (n.v.), MO, NY (n.v.), USDA (n.v.).
+- (7) Contributor to V.L. Komarov et al. (eds.) *Fl. URSS* (see TL-2/2, nr. 3857), incl.:
 (a): Vol. 1 (Jan 1934): *Typhaceae*, p. 209-216; *Juncaginaceae*, p. 275-278; *Butomaceae*, p. 291-293; *Hydrocharitaceae*, p. 293-298;
 (b): Vol. 4 (25 Oct 1935): *Liliaceae-Eremurus*, p. 37-52; *Liliaceae-Majanthemum, Disporum, Streptopus*, p. 453-456; *Iridaceae* (except *Gladiolus* and *Iris* sect. *Juno*), p. 498-577, 576-578;
 (c): Vol. 5 (22 Jun 1936): *Loranthaceae*, p. 406-411;

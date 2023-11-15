@@ -27,7 +27,7 @@ Ainsworth p. 9, 280, 308, 324; Backer p. 330; Barnhart 2: 383; BFM 3083, 3084, 3
 
 #### Composite works
 
-(1) EP, *Die nalürlichen Pflanzenfamilien* ed. 1: I. *Phacidiineae* 1(1): 243-265. Jun 1896; Nachtr. 1(1\*\*): 533-534. Sep 1900.
+- (1) EP, *Die nalürlichen Pflanzenfamilien* ed. 1: I. *Phacidiineae* 1(1): 243-265. Jun 1896; Nachtr. 1(1\*\*): 533-534. Sep 1900.
 2. *Hysteriineae*, 1(1): 265-272. Jun 1896, 273-278. Feb 1879; Nachtr. 1(1\*\*): 534-535. Sep 1900.
 3. *Pyrenomycetineae*, 1(1): 321-325. Apr 1897; Nachtr. 1(1\*\*): 539-544. Sep 1900.
 4. *Perisporiales*, 1(1): 325-343. Apr 1897; Nachtr. 1(1\*\*): 539-540. Sep 1900.
@@ -43,9 +43,9 @@ Ainsworth p. 9, 280, 308, 324; Backer p. 330; Barnhart 2: 383; BFM 3083, 3084, 3
 14. *Hyphomycetes*, 1(1\*\*): 415-507, 558-559. Sep 1900.
 15. *Fossil fungi* 1(1\*\*): 518-523. Sep 1900.
 16. *Acanthaceae*, 4(3b): 274-336. 12 Mar 1895, 337-354. Dec 1895; Nachtr. 2-4: 304-409. Nov 1897; Erg. Heft 1: 71-72. 8 Oct 1900.
-(2) *Lichenes*, in Engler, A., *Pflanzenw. Ostafr.* C: 36-48. 1895.
-(3) *Polygonaceae*, in I. Urban, *Symb. ant.* 1 (2): 209-235. 10 Apr 1899; *Acanthaceae*, in id. 2: 170-250. 20 Oct 1900.
-(4) *Kryplogamenflora der Mark Brandenburg. –* Lindau took the initiative towards the compilation of this *Kryptogamenflora* in a meeting of the *Botanischer Verein der Mark Brandenburg* in 1896 (Verb. bot. Ver. Brandenburg \[VbVB\] 38: ix-x. 1896). The preparation was entrusted to a committee of which Lindau acted as chairman. The other members chosen in 1896 (the committee had the right to co-opt) were: P. Hennings (Berlin), G. Hieronymus (Berlin), F. Ludwig (Greiz), A. Möller (Eberswalde), O. Müller (Berlin) and K. Warnstorf (Neuruppin). Soon after R. Kolkwitz was added as secretary, and P. Sorauer as member (VbVB 38: lxx. 1896). Lindau reported at annual meetings on the progress of the undertaking, see VbVB 41: xlvii (1900) (the first volume, dealing with mosses, was to be compiled by Warnstorf), 42: xv. (1900), 43: xxi-xxii (composition: lxiv) (1902) (subvention received for travel and illustration), 45: xxiv (1904), 46: xx-xxi (1905), 47: xxiv-xxv. 1906, 49: lvi (composition). 1908 and 52: (34). 1911. For practical purposes we treat the *Flora* under Warnstorf, author of vol. I. There is no indication that there was an editor-in-chief; the authors prepared their manuscripts and the publisher, Borntraeger, did the rest. Lindau himself contributed only some smaller families:
+- (2) *Lichenes*, in Engler, A., *Pflanzenw. Ostafr.* C: 36-48. 1895.
+- (3) *Polygonaceae*, in I. Urban, *Symb. ant.* 1 (2): 209-235. 10 Apr 1899; *Acanthaceae*, in id. 2: 170-250. 20 Oct 1900.
+- (4) *Kryplogamenflora der Mark Brandenburg. –* Lindau took the initiative towards the compilation of this *Kryptogamenflora* in a meeting of the *Botanischer Verein der Mark Brandenburg* in 1896 (Verb. bot. Ver. Brandenburg \[VbVB\] 38: ix-x. 1896). The preparation was entrusted to a committee of which Lindau acted as chairman. The other members chosen in 1896 (the committee had the right to co-opt) were: P. Hennings (Berlin), G. Hieronymus (Berlin), F. Ludwig (Greiz), A. Möller (Eberswalde), O. Müller (Berlin) and K. Warnstorf (Neuruppin). Soon after R. Kolkwitz was added as secretary, and P. Sorauer as member (VbVB 38: lxx. 1896). Lindau reported at annual meetings on the progress of the undertaking, see VbVB 41: xlvii (1900) (the first volume, dealing with mosses, was to be compiled by Warnstorf), 42: xv. (1900), 43: xxi-xxii (composition: lxiv) (1902) (subvention received for travel and illustration), 45: xxiv (1904), 46: xx-xxi (1905), 47: xxiv-xxv. 1906, 49: lvi (composition). 1908 and 52: (34). 1911. For practical purposes we treat the *Flora* under Warnstorf, author of vol. I. There is no indication that there was an editor-in-chief; the authors prepared their manuscripts and the publisher, Borntraeger, did the rest. Lindau himself contributed only some smaller families:
 a. *Ustilagineae*, 5A(1): \[1\]-68. 27 Aug 1912.
 b. *Auriculariineae, Tremellineae*, 5A(5): 904-924. 20 Jul 1914.
 c. *Hemiasci-Gymnascaceae*, 7(1): 1-7, 33-35, 73-75. 15 Aug 1905.

@@ -20,13 +20,13 @@ Backer p. 363; Barnhart 2: 472 (b. 5 Aug 1894); BFM 2274, 2919; BJI 2: 114-115; 
 
 #### Composite works
 
-(1)EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
 (a) *Medusagynaceae*(with A. Engler), 21: 50-52, *fig. 31*, Dec 1925.
 (b) *Theaceae*, 21: 109-154, *fig. 59-67.* Dec 1925.
 (c) *Violaceae*, 21: 109-154,) *fig. 148-162.* Dec 1925.
 (d) *Canellaceae*, Nachtrag (with W. Schultze-Motel) 17a II: 221-224. Jan-Jul 1959.
-(2) Engler, *Syllabus der Pflanzenfamilien*, ed. 12, 2 vols. 1954-1964 (with E. Werdermann), see TL-2/1: 1707.
-(3) Melchior, H. & H. Kastner, *Gewürze*, Berlin und Hamburg 1974, 290 p., 'Grundlagen und Fortschritte der Lebensmitteluntersuchung' vol. 2 (Taxon 24: 162. 1974).
+- (2) Engler, *Syllabus der Pflanzenfamilien*, ed. 12, 2 vols. 1954-1964 (with E. Werdermann), see TL-2/1: 1707.
+- (3) Melchior, H. & H. Kastner, *Gewürze*, Berlin und Hamburg 1974, 290 p., 'Grundlagen und Fortschritte der Lebensmitteluntersuchung' vol. 2 (Taxon 24: 162. 1974).
 
 #### Eponymy
 

@@ -47,8 +47,8 @@ AG 2(l): 462, 6(2): 936; APN p. 250; Backer p. 247; Baillon 2: 757; Barnhart 2: 
 
 #### Composite works
 
-(1) A number of taxa proposed by Gussone were validated in M. Tenore, *Syll. pl. fl. neapol.*... 1831, see TL-2/6, nr. 13.916, where Gussone's contribution is not mentioned.
-(2) É. Burnat, *Obs. Roses Ital.*... 1886 (TL-2/Suppl. 3, nr. 23.819) deals with roses described by or in the herb. of Gussone.
+- (1) A number of taxa proposed by Gussone were validated in M. Tenore, *Syll. pl. fl. neapol.*... 1831, see TL-2/6, nr. 13.916, where Gussone's contribution is not mentioned.
+- (2) É. Burnat, *Obs. Roses Ital.*... 1886 (TL-2/Suppl. 3, nr. 23.819) deals with roses described by or in the herb. of Gussone.
 
 ### Publications
 

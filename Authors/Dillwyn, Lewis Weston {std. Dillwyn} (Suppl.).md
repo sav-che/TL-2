@@ -36,8 +36,8 @@ AG 6(2): 212; Barnhart 1: 456; BL 2: 319; BB p. 92; BM 1: 460; Bossert p. 103; C
 
 #### Composite works
 
-(1) L.W. Dillwyn and D. Turner, *The botanist's guide* through *England and Wales*, 2 vol., 1885. See TL-2/2: 15.366.
-(2) Eedes, E.S., *Flora of Staffordshire* 17. 1972 (on D. Turner and L.W. Dillwyn, see above).
+- (1) L.W. Dillwyn and D. Turner, *The botanist's guide* through *England and Wales*, 2 vol., 1885. See TL-2/2: 15.366.
+- (2) Eedes, E.S., *Flora of Staffordshire* 17. 1972 (on D. Turner and L.W. Dillwyn, see above).
 *Ref*.: G.C. Druce, *Fl. Buckinghamshire* xcvii. 1920, *Fl. Northamptonshire* lxxxvii. 1920.
 
 ### Publications

@@ -23,12 +23,12 @@ Barnhart 1: 387; BM 1: 395; CSP 14: 350; Kew 1: 632; MW p. 133, 380; Rehder 5(in
 
 #### Composite works
 
-(1) *Chenopodiaceae, in* Lecomte, H., see TL-2/2: 782, *in* Fl. Indochine 5(1): 1-9. Nov 1910.
-(2) *Basellaceae, in* id. 5(1): 9-11. Nov. 1910.
-(3) *Phytolaccaceae, in* id. 5(1): 12-15. Nov 1910.
-(4) *Polygonaceae, in* id. 5(1): 15-42. Nov 1910.
-(5) *Boraginaceae, in* id., with F. Gagnepain, 4(2): 197-224. Feb 1914, and 4(3): 225-226. Sep 1915.
-(6) *Convolvulaceae, in* id., with F. Gagnepain, 4(3): 228-313. Sep 1915.
+- (1) *Chenopodiaceae, in* Lecomte, H., see TL-2/2: 782, *in* Fl. Indochine 5(1): 1-9. Nov 1910.
+- (2) *Basellaceae, in* id. 5(1): 9-11. Nov. 1910.
+- (3) *Phytolaccaceae, in* id. 5(1): 12-15. Nov 1910.
+- (4) *Polygonaceae, in* id. 5(1): 15-42. Nov 1910.
+- (5) *Boraginaceae, in* id., with F. Gagnepain, 4(2): 197-224. Feb 1914, and 4(3): 225-226. Sep 1915.
+- (6) *Convolvulaceae, in* id., with F. Gagnepain, 4(3): 228-313. Sep 1915.
 
 ### Publications
 

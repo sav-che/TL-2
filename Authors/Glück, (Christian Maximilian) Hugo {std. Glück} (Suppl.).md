@@ -28,10 +28,10 @@ Andrews p. 268 (as "Gluck"); APN p. 230; Barnhart 2: 55; BFM p. 286 (index); Bio
 #### Composite works
 
 Glück contributed to the following works:
-(1) C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1, Abt. 1, 1904-1908, see TL-2/5, nr.
+- (1) C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1, Abt. 1, 1904-1908, see TL-2/5, nr.
 11.174.
-(2) A. Pascher, *Süsswasserflora* 1913-1936, see TL-2/4, nr. 7423.
-(3) C.K. Schneider, *Ill. Handw.-Buch Bot.*... ed. 2, 1917, see TL-2/5, nr. 10.943.
+- (2) A. Pascher, *Süsswasserflora* 1913-1936, see TL-2/4, nr. 7423.
+- (3) C.K. Schneider, *Ill. Handw.-Buch Bot.*... ed. 2, 1917, see TL-2/5, nr. 10.943.
 
 ### Publications
 

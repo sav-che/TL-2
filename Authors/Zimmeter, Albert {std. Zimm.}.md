@@ -22,9 +22,9 @@ AG 6(1): 829; Backer p. 664; Barnhart 3: 541 (b. 5 Jul 1848, d. 15 Dec 1897); BM
 
 #### Composite works
 
-(1) Contributed to Potonié, *Ill. Fl.* ed. 4, see TL-2/8211.
-(2) Co-author with O. Stapf et al., *Die botanischen Ergebnisse der Polak'schen Expedition *1885-1886, TL-2/12.800. (*Potentilla*).
-(3) Id. to O. Stapf et al., *Beiträge zur Flora von Lycien 1885-1886*, TL-2/12.801.
+- (1) Contributed to Potonié, *Ill. Fl.* ed. 4, see TL-2/8211.
+- (2) Co-author with O. Stapf et al., *Die botanischen Ergebnisse der Polak'schen Expedition *1885-1886, TL-2/12.800. (*Potentilla*).
+- (3) Id. to O. Stapf et al., *Beiträge zur Flora von Lycien 1885-1886*, TL-2/12.801.
 
 #### Note
 

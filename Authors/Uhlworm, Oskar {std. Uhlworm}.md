@@ -25,10 +25,10 @@ Barnhart 3: 414 (b. 4 Aug 1849, d. 13 Mar 1929); BM 5: 2161; Herder p. 23; Jacks
 
 #### Composite works
 
-(1) Founder and editor, *Botanisches Centralblatt*... vol. 1-88, 1880-1901.
-(2) Founder and editor of *Beihefte, Botanisches Centralblatt*, vols. 1-45, 1891-1929 ('40-'45 with A. Pascher).
-(3) Founder and editor of *Bibliotheca botanica*, Hefte 1-13. 1886-1889.
-(4) Founder and editor of *Centralblatt für Bacteriologie und Parasitenkunde*, vols. 1-16. 1887-1910.
+- (1) Founder and editor, *Botanisches Centralblatt*... vol. 1-88, 1880-1901.
+- (2) Founder and editor of *Beihefte, Botanisches Centralblatt*, vols. 1-45, 1891-1929 ('40-'45 with A. Pascher).
+- (3) Founder and editor of *Bibliotheca botanica*, Hefte 1-13. 1886-1889.
+- (4) Founder and editor of *Centralblatt für Bacteriologie und Parasitenkunde*, vols. 1-16. 1887-1910.
 
 ### Publications
 

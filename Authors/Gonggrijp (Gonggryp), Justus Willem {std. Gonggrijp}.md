@@ -8,7 +8,7 @@ Gonggrijp \[Gonggryp\], Justus Willem (1885-1974), Surinam-born Dutch forester, 
 
 #### Note
 
-(1) In 1948, at least, he spelled his surname "Gonggryp". (2) Louis Gonggrijp (1893-1957), also a forester in Surinam and Indonesia, was a cousin.
+- (1) In 1948, at least, he spelled his surname "Gonggryp". (2) Louis Gonggrijp (1893-1957), also a forester in Surinam and Indonesia, was a cousin.
 
 #### Herbarium and types
 

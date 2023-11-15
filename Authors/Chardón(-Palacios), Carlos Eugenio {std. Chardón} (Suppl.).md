@@ -28,8 +28,8 @@ Barnhart 1: 334; Bossert p. 71; GR p. 184; GR cat. 61; Hawksworth p. 181; IH 1(e
 
 #### Composite works
 
-(1) With F.J. Seaver, Sci. Surv. Porto Rico..., vol. 8, part 1 *Botany of Porto Rico* and the Virgin Islands, Mycology, New York 1936, 208 p.... Chardón co-author, *Suppl*. id., see TL-2/11.576.
-(2) With F.D. Kern, *Notes on* some *rusts of Colombia*, Mycologia 19(5): 268-276. 1927. – For Kern see TL-2/2: 524-525.
+- (1) With F.J. Seaver, Sci. Surv. Porto Rico..., vol. 8, part 1 *Botany of Porto Rico* and the Virgin Islands, Mycology, New York 1936, 208 p.... Chardón co-author, *Suppl*. id., see TL-2/11.576.
+- (2) With F.D. Kern, *Notes on* some *rusts of Colombia*, Mycologia 19(5): 268-276. 1927. – For Kern see TL-2/2: 524-525.
 
 ### Publications
 

@@ -8,7 +8,10 @@ Nádvornik, Joseph (Josef) (1906-1977), Czechoslovak lichenologist and high scho
 
 #### Herbarium and types
 
-[[Collection BRA|BRA]] (lichen herbarium, 11,000). *Exsiccatae*: (1) *Caliceae exsiccatae*, dec. 1-5, nos. 1-54, Praha 1935-1951. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection W|W]]; (2) *Lichenes exsiccati*, nos. 1-30, Praha 1954-1959, set at [[Collection UPS|UPS]]; (3) *Physciaceae exsiccati*, dec. 1-3, nos. 1-33, Praha 1943-1945. Set at [[Collection FH|FH]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection UPSV|UPSV]].
+[[Collection BRA|BRA]] (lichen herbarium, 11,000).
+*Exsiccatae*: (1) *Caliceae exsiccatae*, dec. 1-5, nos. 1-54, Praha 1935-1951. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection W|W]];
+- (2) *Lichenes exsiccati*, nos. 1-30, Praha 1954-1959, set at [[Collection UPS|UPS]];
+- (3) *Physciaceae exsiccati*, dec. 1-3, nos. 1-33, Praha 1943-1945. Set at [[Collection FH|FH]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection UPSV|UPSV]].
 
 #### Bibliography and biography
 

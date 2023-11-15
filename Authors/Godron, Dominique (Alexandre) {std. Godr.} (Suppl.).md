@@ -10,7 +10,10 @@
 
 #### Herbarium and types
 
-[[Collection NCY|NCY]], duplicates [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]]. – *Exsiccatae*: (1) *Flora cryptogamica nanceiensis exsiccata* (*Fl. Cryptog. Nance. Exsicc.*) (fasc. i-ii, nos. 1-100), sets at [[Collection CN|CN]], [[Collection NCY|NCY]]; (2) *Plantae galliae australis* (no details). – Some corr. with C. Darwin.
+[[Collection NCY|NCY]], duplicates [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]].
+*Exsiccatae*: (1) *Flora cryptogamica nanceiensis exsiccata* (*Fl. Cryptog. Nance. Exsicc.*) (fasc. i-ii, nos. 1-100), sets at [[Collection CN|CN]], [[Collection NCY|NCY]];
+- (2) *Plantae galliae australis* (no details).
+Some corr. with C. Darwin.
 
 #### Bibliography and biography
 
@@ -45,21 +48,21 @@ Académie p. 219; AG 6(1): 509, 6(2): 941; APN p. 231; Backer p. 238, 651; Baill
 
 #### Note
 
-(1) The entry for the *Fl. Lorraine*..., ed. 3, 1883 (see TL-2/1, nr. 2061) can be amended as follows:
+- (1) The entry for the *Fl. Lorraine*..., ed. 3, 1883 (see TL-2/1, nr. 2061) can be amended as follows:
 Fliche, P. & G. Le Monnier, *Tables dichotomiques de la "Flore de Lorraine"*, par D.-A. Godron, 3e édition... Nancy (N. Grosjean), cover-t.p., p. \[1\]-167, \[i-ii\], 1883. Duod. *Copy*: NY. *Microfiche*: Paris (Bibl. nat., Centre de Sablé), 1994, 2 microfiches, 105×148 mm. *Copy*: Bibl. nat. (n.v.).
-(2) The following are now available in microform:
+- (2) The following are now available in microform:
 (a) *Fl. Lorraine*..., ed. 2, 1857 (TL-2/1, nr. 2061):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 12 microfiches (Plant taxonomic lit. microfiche coll., "1979C4-1990C"). *Copy*: MO (n.v.).
 (b) *Fl. juvenalis*... 1853 (TL-2/1, nr. 2063):
 (aa) \[Orig. ed.\]: 1853,... *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "12334G4-12335D2"). *Copy*: MO (n.v.).
 (bb) \[French version\]: 1854... *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "12335E1-12336B7"). *Copy*: MO (n.v.). (b) Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(3) The following is available in electronic format:
+- (3) The following is available in electronic format:
 *Monogr. Rubus*... 1843 (TL-2/1, nr. 2060). *Electronic version* \[of serial\]: Gallica.
 
 #### Composite works
 
 Co-author with: (1) C. Grenier, *Fl. France*... 1848-1856, 3 vols., see TL-2/1, nr. 2154; and
-(2) H.F. Soyer-Willemet: (a) *Rev. trèfles*... 1847, see TL-2/5, nr. 12.501; and (b) *Monogr. Silene Algérie*... 1851, see TL-2/5, nr. 12.502.
+- (2) H.F. Soyer-Willemet: (a) *Rev. trèfles*... 1847, see TL-2/5, nr. 12.501; and (b) *Monogr. Silene Algérie*... 1851, see TL-2/5, nr. 12.502.
 
 ### Publications
 

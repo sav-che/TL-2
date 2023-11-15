@@ -22,12 +22,12 @@ Barnhart 3: 284; BM 4: 1935; Bossert p. 370; Desmond p. 562 (b. 13 Aug 1870, d. 
 
 #### Composite works
 
-(1) W.H. Harvey et al., *Flora capensis*:
+- (1) W.H. Harvey et al., *Flora capensis*:
 (a) *Betulaceae*, 5, sect. 2(4): 573-574. Jan 1925.
 (b) *Salicineae*, 5, sect. 2(4): 574-579. Jan 1925.
 (c) *Ceratophyllaceae*, 5, sect. 2(4): 580-581. Jan 1925.
 (d) *Labiatae*, 5, sect. 1(2): 226-387. Labiatae (with N.E. Brown, T. Cooke).
-(2) D. Oliver et al., *Flora of tropical Africa*:
+- (2) D. Oliver et al., *Flora of tropical Africa*:
 (a) *Salicineae*, 6, sect. 2(2): 316-326. Nov 1927.
 (b) *Ceratophyllaceae*, 6, sect. 2(2): 326-327. Nov 1917.
 (c) *Labiatae*, 4, sect. 2(2): 261-384. Feb 1906, 2(3): 385-462. Jun 1906, with W.B. Hemsley.

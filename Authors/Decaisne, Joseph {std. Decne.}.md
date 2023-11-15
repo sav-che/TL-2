@@ -45,9 +45,9 @@ AG 2(1): 723; Barnhart 1: 432; BM 1: 432, 6: 257; Bossert p. 97; Bretschneider p
 
 #### Composite works
 
-(1) Editor of Annales des Sciences naturelles, Botanique, ser. 2, vol. 18 – ser. 6, vol. 12, 1842-1881.
-(2) *Description des plantes* \[Phanérogames\] *in* Hombron et Jacquinot, *Botanique* 2, *in* Dumont d'Urville, *Voyage au Pôle sud*, 1845, 1853.
-(3) DC., *Prodr*.: *Asclepiadeae* 8: 490-665. med. Mar 1844; *Plantaginaceae* 13(1): 693-738. 10 Mai 1852.
+- (1) Editor of Annales des Sciences naturelles, Botanique, ser. 2, vol. 18 – ser. 6, vol. 12, 1842-1881.
+- (2) *Description des plantes* \[Phanérogames\] *in* Hombron et Jacquinot, *Botanique* 2, *in* Dumont d'Urville, *Voyage au Pôle sud*, 1845, 1853.
+- (3) DC., *Prodr*.: *Asclepiadeae* 8: 490-665. med. Mar 1844; *Plantaginaceae* 13(1): 693-738. 10 Mai 1852.
 
 #### Eponymy
 

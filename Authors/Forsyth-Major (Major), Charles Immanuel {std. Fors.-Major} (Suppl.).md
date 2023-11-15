@@ -50,9 +50,9 @@ APN p. 206 (as "Forsyth-Major"); Barnhart 1: 560, 2: 438 (as "Major"); BB p. 204
 
 #### Composite works
 
-(1) Contributed 2 of the 6 parts to W. Barbey, *Lydie, Lycie, Carie*... 1890 (see TL-2/Suppl. 1, nr. 20.181), which is to be corrected as follows:
+- (1) Contributed 2 of the 6 parts to W. Barbey, *Lydie, Lycie, Carie*... 1890 (see TL-2/Suppl. 1, nr. 20.181), which is to be corrected as follows:
 *Pt. V*: Carie. Le Mykali... by C.I. Forsyth Major \[sic\]... p. \[70\]-76. *Pt*. \[*VI*\]: Énumeration des espèces recueillies au Mykali d'Asie Mineure les 24 et 25 juin 1886... by C.J. \[sic\] Forsyth-Major... p. \[77\]-82, *pl. 5* (uncol. lith. with letterpress).
-(2) First author with W. Barbey, *Mykali. Premier supplément.* Bull. Herb. Boissier 1(2): \[66\]. Feb 1893.
+- (2) First author with W. Barbey, *Mykali. Premier supplément.* Bull. Herb. Boissier 1(2): \[66\]. Feb 1893.
 
 ### Publications
 

@@ -24,9 +24,9 @@ APN p. 203 (as "Flerow"); Barnhart 1: 549; BM 6: 327-328; CSP 15: 16; Frodin ed.
 
 #### Composite works
 
-(1) Co-editor (in part) with B.A. Fedtschenko (see above) of: *Russl. Veget.-bilder*...1907\[-1911\], see nr. 34.048 above.
-(2) Editor, *Predvaritelnyii otchet* o *botanicheskikh izsledovaniyakh* v *Sibiri* i v *Turkestan* v 1908 a... 1909; Id.... 1910 g.... 1911.
-(3) Co-author with B.A. Fedtschenko (see above) of the following:
+- (1) Co-editor (in part) with B.A. Fedtschenko (see above) of: *Russl. Veget.-bilder*...1907\[-1911\], see nr. 34.048 above.
+- (2) Editor, *Predvaritelnyii otchet* o *botanicheskikh izsledovaniyakh* v *Sibiri* i v *Turkestan* v 1908 a... 1909; Id.... 1910 g.... 1911.
+- (3) Co-author with B.A. Fedtschenko (see above) of the following:
 (a) *Illiustrirovannyi opredelitel rastenii Sibiri* \[=*Illustrations flora Sibiria*\]... 1909, see nr. 34.051 above; and
 (b) *Fl. Evropeiskoi Ross.*... 1910, see nr. 34.054 above.
 

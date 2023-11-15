@@ -24,7 +24,7 @@ Barnhart 1: 357 (b. 22 Jan 1875, Uppsala); BL 2: 29; BM 1: 358, 6: 213; De Toni 
 
 #### Composite works
 
-(1) A.L. Backman and Astrid Cleve-Euler, *Die fossile Diatomeenflora in Österbotten* 1922, see TL-2, suppl. 1: 243.
+- (1) A.L. Backman and Astrid Cleve-Euler, *Die fossile Diatomeenflora in Österbotten* 1922, see TL-2, suppl. 1: 243.
 
 #### Outside our period
 

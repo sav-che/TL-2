@@ -21,8 +21,8 @@ AG 4: 224; Barnhart 1: 504; BM 2: 522; Hortus 3: 1192; Kew 2: 182; PR 2662, ed. 
 
 #### Composite works
 
-(1) *Flora der Provinz Preussen* von C. Patze, E. Meyer und L. Elkan, see TL-2/4: 107 (no. 7509).
-(2) *Herbarium Elkaniense*, containing 4500 species of garden plants and species used for the Flora der Provinz Preussen. The herbarium went to Pritzel.
+- (1) *Flora der Provinz Preussen* von C. Patze, E. Meyer und L. Elkan, see TL-2/4: 107 (no. 7509).
+- (2) *Herbarium Elkaniense*, containing 4500 species of garden plants and species used for the Flora der Provinz Preussen. The herbarium went to Pritzel.
 
 ### Publications
 

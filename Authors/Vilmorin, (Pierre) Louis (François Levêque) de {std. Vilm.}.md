@@ -12,9 +12,9 @@ Private. – *Letters at [[Collection GH|GH]]*.
 
 #### Note
 
-(1) The firm of *Vilmorin-Andrieux* was founded in 1780 by Philippe *Victoire* Levêque *de Vilmorin* (1746-1840); replacing the original firm Andrieux et Vilmorin of 1775-1780. His successor (from 1804-1843) as head of the firm was Pierre Philippe *André* Levêque de Vilmorin (1776-1862). Under his directorship the firm became "Vilmorin et Cie" in 1815. *Louis de Vilmorin* was therefore the third head of the firm.
-(2) *Pierre a*"*Andrieux* (x-1780) published seed catalogues as early as 1771 at least; his daughter *Adelaïde d'Andrieux* married Philippe *Victoire* Levêque *de Vilmorin* in 1774, who then became associate to Andrieux until the latter's death.
-(3) We treat several titles which appeared under the authorship "Vilmorin-Andrieux et Cie" also under this author, even when their first edition came out after 1860 (Elisa de Vilmorin, director 1860-1872, widow of Louis; from 1866-1872 in association with Henry de Vilmorin 1843-1899).
+- (1) The firm of *Vilmorin-Andrieux* was founded in 1780 by Philippe *Victoire* Levêque *de Vilmorin* (1746-1840); replacing the original firm Andrieux et Vilmorin of 1775-1780. His successor (from 1804-1843) as head of the firm was Pierre Philippe *André* Levêque de Vilmorin (1776-1862). Under his directorship the firm became "Vilmorin et Cie" in 1815. *Louis de Vilmorin* was therefore the third head of the firm.
+- (2) *Pierre a*"*Andrieux* (x-1780) published seed catalogues as early as 1771 at least; his daughter *Adelaïde d'Andrieux* married Philippe *Victoire* Levêque *de Vilmorin* in 1774, who then became associate to Andrieux until the latter's death.
+- (3) We treat several titles which appeared under the authorship "Vilmorin-Andrieux et Cie" also under this author, even when their first edition came out after 1860 (Elisa de Vilmorin, director 1860-1872, widow of Louis; from 1866-1872 in association with Henry de Vilmorin 1843-1899).
 
 #### Bibliography and biography
 

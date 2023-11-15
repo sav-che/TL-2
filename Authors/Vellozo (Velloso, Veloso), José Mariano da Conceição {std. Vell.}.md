@@ -42,8 +42,8 @@ Backer p. 611 (erron.); BM 5: 2201; Colmeiro 1: cciv; CSP 11: 685; DSB 13: 601-6
 
 #### Composite works
 
-(1) James Dickson, *Fasc. pl. crypt. brit.*, Lisboa edition, "... curante Fr. Josepho Mariano Veloso \[sic\], Ulysipone" \[Lisboa\] (Typographia Domus chalcographicae,...) 1800, see TL-2/1442.
-(2) G.F. Hoffmann, *Descr. pl. cl. crypt.* 1789-1801, "... curante Fr. Josepho Mariano Veloso \[sic\], Ulysipone" \[Lisboa\] (id.) 1800, see TL-2/2886.
+- (1) James Dickson, *Fasc. pl. crypt. brit.*, Lisboa edition, "... curante Fr. Josepho Mariano Veloso \[sic\], Ulysipone" \[Lisboa\] (Typographia Domus chalcographicae,...) 1800, see TL-2/1442.
+- (2) G.F. Hoffmann, *Descr. pl. cl. crypt.* 1789-1801, "... curante Fr. Josepho Mariano Veloso \[sic\], Ulysipone" \[Lisboa\] (id.) 1800, see TL-2/2886.
 
 #### Handwriting
 

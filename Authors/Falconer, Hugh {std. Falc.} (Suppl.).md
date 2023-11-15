@@ -61,7 +61,7 @@ Some account of *Aucklandia*, a new *genus* of *Compositæ*, believed to produce
 **Notes**
 *Publ*.: 21-28 Mai 1842 (*fide* S. Raphael, Biol. J. Linn. Soc. 2: 67-68. Mar 1970, read 17 Nov 1840), p. 23-31. *Copies*: HH, NY (detached). *Microform*: New York (Readex Microprint), 1977, 1 micro-opaque, 23×15 cm (Landmarks II). *Copy*: (n.v.). – Reprinted (detached?) and to be cited from Trans. Linn. Soc. London 19(1): 23-31. 1842.
 *Note*: (1) *Aucklandia* Falc., Ann. Mag. Nat. Hist. 6: 475. Feb 1841, see ING 1: 159. 1979.
-(2) "Communicated by J.F. Royle, M.D., F.R.S. & L.S."
+- (2) "Communicated by J.F. Royle, M.D., F.R.S. & L.S."
 
 ##### n.33.752. Edgeworthia
 

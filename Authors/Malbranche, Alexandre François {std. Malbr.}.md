@@ -8,7 +8,8 @@ Malbranche, Alexandre François (1818-1888), French lichenologist and pharmacist
 
 #### Herbarium and types
 
-Unknown (probably dispersed by sale); material at [[Collection AUT|AUT]], [[Collection DUKE|DUKE]], [[Collection LD|LD]] and [[Collection PC|PC]]. Exsiccatae: *Lichens de la Normandie, préparés et classés d'après la méthode du Dr. Nylander*, fasc. 1-8, nos. 1-400, Rouen (Boissel) 1863-1876; sets see IH and Sayre (1969).
+Unknown (probably dispersed by sale); material at [[Collection AUT|AUT]], [[Collection DUKE|DUKE]], [[Collection LD|LD]] and [[Collection PC|PC]].
+*Exsiccatae*: *Lichens de la Normandie, préparés et classés d'après la méthode du Dr. Nylander*, fasc. 1-8, nos. 1-400, Rouen (Boissel) 1863-1876; sets see IH and Sayre (1969).
 
 #### Bibliography and biography
 

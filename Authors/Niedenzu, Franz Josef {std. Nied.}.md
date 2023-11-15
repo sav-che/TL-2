@@ -22,9 +22,9 @@ Backer p. 395; Barnhart 3: 4; BFM 8; BJI 1: 43, 2: 124; BM 3; 1433-1434, 7: 924-
 
 #### Composite works
 
-(1)*Malpigiaceae* in Engler, A., *Pflanzenreich*, 91: 1-246. 28 Feb 1928, 93: 247-572. 19 Mar 1928, 94: 572-870. 27 Nov 1928 (rev. H.A. Gleason, Torreya 30: 101-102. 1930).
-(2) Schmidlin, E., *Anleitung zum Botanisieren*, ed. 5 by Franz Niedenzu. Berlin 1913, see Schmidlin.
-(3) EP, *Nat. Pfl. Fam*.:
+- (1) *Malpigiaceae* in Engler, A., *Pflanzenreich*, 91: 1-246. 28 Feb 1928, 93: 247-572. 19 Mar 1928, 94: 572-870. 27 Nov 1928 (rev. H.A. Gleason, Torreya 30: 101-102. 1930).
+- (2) Schmidlin, E., *Anleitung zum Botanisieren*, ed. 5 by Franz Niedenzu. Berlin 1913, see Schmidlin.
+- (3) EP, *Nat. Pfl. Fam*.:
 (a) *Bruniaceae*, 3(2A): 131-136. Mar 1891.
 (b) *Platanaceae*, 3(2A): 137-140. Mar 1891.
 (c) *Malpighiaceae*, 3(4): 41-48. Dec 1888, 49-64. Jun 1891, 65-74. Aug 1891, 352. 13 Mar 1894, 353. 22 Mai 1894, suppl. *in* Nachtr. 2-4: 205-207. Oct 1897, Ergänzungsheft 1: 34. 8 Oct 1900.
@@ -32,8 +32,8 @@ Backer p. 395; Barnhart 3: 4; BFM 8; BJI 1: 43, 2: 124; BM 3; 1433-1434, 7: 924-
 (e) *Frankeniaceae*, 3(6): 283-288. 19 Feb 1895, 289. 14 Mai 1895.
 (f) *Blattiaceae*, 3(7): 16-21. Jun 1892.
 (g)*Lecythidaceae*, 3(7): 26-41. Jun 1892.
-(4) Editor, Garcke, *Fl. N. Mitt.-Deutschland* eds. 20-22, 1908-1921, see TL-2/1949.
-(5) EP, *Nat. Pfl.-Fam*. ed. 2
+- (4) Editor, Garcke, *Fl. N. Mitt.-Deutschland* eds. 20-22, 1908-1921, see TL-2/1949.
+- (5) EP, *Nat. Pfl.-Fam*. ed. 2
 (a) *Elatinaceae*, 21: 270-276. 1925.
 (b) *Tamaricaceae*, 21: 282-289. 1925.
 

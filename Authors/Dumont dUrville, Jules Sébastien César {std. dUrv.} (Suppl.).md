@@ -62,8 +62,8 @@ AG 2(1): 155, 5(2): 182; Backer p. 187; Barnhart 1: 480; BM 1: 489; Bossert p. 1
 
 #### Notes
 
-(1) *Herbier Delessert*. Algues récoltées par Dumont d'Urville et Lesson au cours de l'expédition autour du monde de la Coquille pendant les années 1822-1825, sous le commandement du Capitaine Duperrey; préparées et nommées par Bory de St.-Vincent... Paris 1829, provenant de Dumont d'Urville acquises par M. Hombron, qui les a offertes au Musée botanique de M. Benjamin Delessert en avril 1848.
-(2) Voyage auteur du monde, l'Astrolabe, Nouvelle édit. revue par B.H. Révoil, Limoges (Ardant et Ce.) 1881. 256 p. Oct. (Bot. Centralbl. 7(36): 310. 1881).
+- (1) *Herbier Delessert*. Algues récoltées par Dumont d'Urville et Lesson au cours de l'expédition autour du monde de la Coquille pendant les années 1822-1825, sous le commandement du Capitaine Duperrey; préparées et nommées par Bory de St.-Vincent... Paris 1829, provenant de Dumont d'Urville acquises par M. Hombron, qui les a offertes au Musée botanique de M. Benjamin Delessert en avril 1848.
+- (2) Voyage auteur du monde, l'Astrolabe, Nouvelle édit. revue par B.H. Révoil, Limoges (Ardant et Ce.) 1881. 256 p. Oct. (Bot. Centralbl. 7(36): 310. 1881).
 
 #### Postage stamps
 

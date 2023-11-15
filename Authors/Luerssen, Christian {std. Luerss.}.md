@@ -23,8 +23,8 @@ AG 1: 41; Backer p. 340; Barnhart 2: 410; BJI 2: 383; BM 3: 1191; CSP 8: 279, 16
 
 #### Composite works
 
-(1)Edited: *Bibliotheca botanica* 1889-1910.
-(2) Edited: *Mittheilungen aus dem Gesammtgebiete der Botanik* Band 1-2 (Hft. 1), †, 1871-1875.
+- (1) Edited: *Bibliotheca botanica* 1889-1910.
+- (2) Edited: *Mittheilungen aus dem Gesammtgebiete der Botanik* Band 1-2 (Hft. 1), †, 1871-1875.
 
 #### Eponymy
 

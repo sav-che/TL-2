@@ -24,8 +24,8 @@ Barnhart 3: 338 (b. 16 Nov 1840, d. 5 Dec 1916); BB p. 291; BL 2: 244, 720; BM 5
 
 #### Composite works
 
-(1) Contributed to A.G. More, *Suppl. fl. vect.* 1871, TL-2/6291.
-(2) *Flowering plants and ferns and their allies, in* F. Morey, ed., A guide to the natural history of the Isle of Wight 126-199. 1909. – See also: *Isle of Wight plants*, J. Bot. 51: 285-294. 1913, 54: 232-233, 291. 1916 and his popular *Wild flowers of Isle of Wight*. 1900.
+- (1) Contributed to A.G. More, *Suppl. fl. vect.* 1871, TL-2/6291.
+- (2) *Flowering plants and ferns and their allies, in* F. Morey, ed., A guide to the natural history of the Isle of Wight 126-199. 1909. – See also: *Isle of Wight plants*, J. Bot. 51: 285-294. 1913, 54: 232-233, 291. 1916 and his popular *Wild flowers of Isle of Wight*. 1900.
 
 #### Eponymy
 

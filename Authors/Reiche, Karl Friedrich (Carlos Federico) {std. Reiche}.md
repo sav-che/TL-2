@@ -35,7 +35,7 @@ Barnhart 3: 139 (b. 31 Oct 1860, d. 26 Feb 1929); BFM no. 483; BJI 1: 48, 2: 143
 
 #### Composite works
 
-(1) E.P., *Die natürlichen Pflanzenfamilien*:
+- (1) E.P., *Die natürlichen Pflanzenfamilien*:
 (a) *Cistaceae*, 3(6): 299-306. 14 Mai 1895.
 (b) *Erythroxylaceae* 3(4): 37-40. Aug 1890.
 (c) *Geraniaceae* 3(4): 1-14. Aug 1890.

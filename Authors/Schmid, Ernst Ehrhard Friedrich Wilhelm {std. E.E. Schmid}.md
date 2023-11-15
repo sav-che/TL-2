@@ -25,8 +25,8 @@ ADB 31: 659-661; Andrews p. 328; Barnhart 3: 230 (b. 22 Mai 1815, d. 16 Feb 1885
 
 #### Composite works
 
-(1) With M.J. Schleiden, *Ueber die Natur der Kieselhölzer*, Jena 1855; see under Schleiden.
-(2) With M.J. Schleiden, *Encyclopädie der gesammten theoretischen Naturwissenschaften* in ihrer Anwendung auf die Landwirthschaft. 1850 (n.v.).
+- (1) With M.J. Schleiden, *Ueber die Natur der Kieselhölzer*, Jena 1855; see under Schleiden.
+- (2) With M.J. Schleiden, *Encyclopädie der gesammten theoretischen Naturwissenschaften* in ihrer Anwendung auf die Landwirthschaft. 1850 (n.v.).
 
 #### Eponymy
 

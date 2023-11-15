@@ -21,9 +21,9 @@ Barnhart 1: 322; BB p. 61; BJI 2: 214; BM 1: 326; Desmond p. 122; DNB 9: 275; Ja
 
 #### Notes
 
-(1) See (BM 1: 326) B.H. Barton for the *British flora medica* 1837 of B.H. Barton and Th. Castle; new edition edited by J.R. Jackson 1877 (J. Bot. 15: 255. 1877).
-(2) Not seen by us: *A synopsis of systematic botany*, London 1833, 17 p., *1 pl*. (fide Rehder 1: 255).
-(3) Id., *The Linnean artificial system of botany*, \[3\], 30 p., *1 pl*., London 1836 (fide Rehder 1: 260).
+- (1) See (BM 1: 326) B.H. Barton for the *British flora medica* 1837 of B.H. Barton and Th. Castle; new edition edited by J.R. Jackson 1877 (J. Bot. 15: 255. 1877).
+- (2) Not seen by us: *A synopsis of systematic botany*, London 1833, 17 p., *1 pl*. (fide Rehder 1: 255).
+- (3) Id., *The Linnean artificial system of botany*, \[3\], 30 p., *1 pl*., London 1836 (fide Rehder 1: 260).
 
 ### Publications
 

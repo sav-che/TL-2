@@ -28,8 +28,8 @@ Anon., Fujii jubilaei volumen... \[*Cytologia*...\], p. 1-640. 10 Jun 1937; II: 
 
 #### Composite works
 
-(1) Co-author with M.C.C. Stopes, *Studies on the structure and affinities of cretaceous plants*... 1910, see TL-2/6, nr. 13.207.
-(2) Editor, *Cytologia* (International Journal of Cytology), vols. 1-16 (Aug 1929-Nov 1951, except when publication suspended Dec 1945-Feb 1949).
+- (1) Co-author with M.C.C. Stopes, *Studies on the structure and affinities of cretaceous plants*... 1910, see TL-2/6, nr. 13.207.
+- (2) Editor, *Cytologia* (International Journal of Cytology), vols. 1-16 (Aug 1929-Nov 1951, except when publication suspended Dec 1945-Feb 1949).
 
 ### Publications
 

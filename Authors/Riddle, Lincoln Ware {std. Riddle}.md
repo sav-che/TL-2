@@ -27,9 +27,9 @@ Barnhart 3: 155 (b. 17 Oct 1880, d. 16 Jan 1921); GR p. 195, cat. p. 70; Hawkswo
 
 #### Composite works
 
-(1) Contributed the entry on lichens to N.L. Britton, *Fl. Bermuda*, 28 Feb 1918, p. 470-479, TL-2/785.
-(2) Id. in N.L. Britton, *Bahama Fl*., 26 Jun 1920, p. 522-553, TL-2/787.
-(3) Member of the board of editors, *Bryologist*, 1911-1921.
+- (1) Contributed the entry on lichens to N.L. Britton, *Fl. Bermuda*, 28 Feb 1918, p. 470-479, TL-2/785.
+- (2) Id. in N.L. Britton, *Bahama Fl*., 26 Jun 1920, p. 522-553, TL-2/787.
+- (3) Member of the board of editors, *Bryologist*, 1911-1921.
 
 #### Eponymy
 

@@ -26,9 +26,9 @@ Backer p. 660; Barnhart 3: 227 (b. 15 Aug 1879); Biol.-Dokum. 15: 8044; BJI 2: 1
 
 #### Composite works
 
-(1) *Halorrhagaceae, in* Engler, *Pflanzenreich* 4(225) (Heft 23): 1-133. 12 Dec 1905. For preliminary publications see Bot. Jahrb. 34 (Beibl. 77, Heft 3): 1-77. 1904 and 34 (Beibl. 79, Hefte 5): 42-52. 1905; for new species see Repert. Sp. nov., Fedde 9: 123-125. 1911; Facsim. repr. Lehre 1958, ISBN 3-7682-2023-0.
-(2) Collaborator, J. Mildbraed, *Wiss. Erg. deut. Zentr.-Afr. Exped. Bot.* 1910-1914, see TL-2/6008.
-(3) *Lespedezia, in* C.S. Sargent, *Pl. Wilson.* 2: 105-112. 1914; *Campylotropis, in* id. 2: 113-115. 1914.
+- (1) *Halorrhagaceae, in* Engler, *Pflanzenreich* 4(225) (Heft 23): 1-133. 12 Dec 1905. For preliminary publications see Bot. Jahrb. 34 (Beibl. 77, Heft 3): 1-77. 1904 and 34 (Beibl. 79, Hefte 5): 42-52. 1905; for new species see Repert. Sp. nov., Fedde 9: 123-125. 1911; Facsim. repr. Lehre 1958, ISBN 3-7682-2023-0.
+- (2) Collaborator, J. Mildbraed, *Wiss. Erg. deut. Zentr.-Afr. Exped. Bot.* 1910-1914, see TL-2/6008.
+- (3) *Lespedezia, in* C.S. Sargent, *Pl. Wilson.* 2: 105-112. 1914; *Campylotropis, in* id. 2: 113-115. 1914.
 
 ### Publications
 

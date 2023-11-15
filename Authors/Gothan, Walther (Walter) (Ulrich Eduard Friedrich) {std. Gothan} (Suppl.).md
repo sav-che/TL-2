@@ -42,20 +42,20 @@ Andrews p. 270-271; APN p. 236; Barnhart 2: 68; BFM p. 286 (index); Biol.-Dokum.
 
 #### Outside our period
 
-(1) *Die Probleme der Paläobotanik und ihre geschichtliche Entwicklung*... 1948.
-(2) Gothan & Winifried Remy (1924-1995), *Steinkohlenpflanzen*... 1957.
+- (1) *Die Probleme der Paläobotanik und ihre geschichtliche Entwicklung*... 1948.
+- (2) Gothan & Winifried Remy (1924-1995), *Steinkohlenpflanzen*... 1957.
 
 #### Composite works
 
-(1) Co-author with H. Potonié:
+- (1) Co-author with H. Potonié:
 (a) *Vegetationsbilder* der *Jetzt*- und *Vorzeit*. *pl. 1-8*, 1907-1922 (see TL-2/4: 359 sub Composite Works (5)); and
 (b) *Paläobot. Prakt.*... 1913 (TL-2/4, nr. 8228).
-(2) Contributed text (with R. Pilger & H. Winkler) to R.H. Francé, *Leben Pfl., Pfl.-leben Deutschlands*... *III. Abteilung*... 1913.
-(3) Co-author with W.J. Jongmans:
+- (2) Contributed text (with R. Pilger & H. Winkler) to R.H. Francé, *Leben Pfl., Pfl.-leben Deutschlands*... *III. Abteilung*... 1913.
+- (3) Co-author with W.J. Jongmans:
 (a) *Paläobotanisch-stratigraphische Studien* im *Niederländischen Carbon*... 1915;
 (b) *Beiträge* zur *Kenntnis* der *Flora* des *Oberkarbons* von *Sumatra*... 1925; and
 (c) "2. Die *paläobotanischen Ergebnisse*" in Die Ergebnisse der paläobotanischen Djambi-Exped. 1925... 1935.
-(4) Edited titles by H. Potonié:
+- (4) Edited titles by H. Potonié:
 (a) *Entst. Steinkohle*..., ed. 6, 1920 (TL-2/4, nr. 8225); and
 (b) *Lehrb. Pfl.-Palaeont.*..., ed. 2, 1921 (TL-2/4, nr. 8217), and Gothan was criticized for his "strict editing". This title later was reworked by Gothan & H\[ermann\]. Weyland (1888-1974) as *Lehrbuch der Paläobotanik*... 1954; ed. 2,... 1964; and ed. 3... 1973.
 

@@ -8,7 +8,8 @@ Tracy, Samuel Mills (1847-1920), American botanist and agronomist; MS Mich. Agri
 
 #### Herbarium and types
 
-[[Collection TAES|TAES]] (private herb.); important sets at [[Collection F|F]], [[Collection MO|MO]] (4393), [[Collection MSC|MSC]] and [[Collection NY|NY]]. Further material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]] (1513), [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IA|IA]], [[Collection LSU|LSU]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MISSA|MISSA]], [[Collection MO|MO]], [[Collection NEB|NEB]], [[Collection NYS|NYS]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection SMU|SMU]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]]. – *Exsiccatae*: *Plants of the Gulf States*, collected and distributed by S.M. Tracy; irregular series; over 9000 specimens distributed (see Stevenson 1971). – *Library* at [[Collection TAES|TAES]]; *field notes* at [[Collection US|US]]; *letters* to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]], [[Collection NY|NY]], [[Collection PH|PH]], SIA.
+[[Collection TAES|TAES]] (private herb.); important sets at [[Collection F|F]], [[Collection MO|MO]] (4393), [[Collection MSC|MSC]] and [[Collection NY|NY]]. Further material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]] (1513), [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IA|IA]], [[Collection LSU|LSU]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MISSA|MISSA]], [[Collection MO|MO]], [[Collection NEB|NEB]], [[Collection NYS|NYS]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection SMU|SMU]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]].
+*Exsiccatae*: *Plants of the Gulf States*, collected and distributed by S.M. Tracy; irregular series; over 9000 specimens distributed (see Stevenson 1971). – *Library* at [[Collection TAES|TAES]]; *field notes* at [[Collection US|US]]; *letters* to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]], [[Collection NY|NY]], [[Collection PH|PH]], SIA.
 
 #### Bibliography and biography
 
@@ -26,8 +27,8 @@ Barnhart 3: 397 (b. 30 Apr 1847, d. 5 Sep 1920); BL 1: 184, 193, 321; BM 5: 2130
 
 #### Composite works
 
-(1) Co-author, G.C. Neally et al., *Invest. grass. Texas* 1888, TL-2/6664.
-(2) With F.S. Earle, *Fungi, in* E.L. Greene, *Pl. baker.* 1: 15-37. 22 Feb 1901, 2: 1-30. 25 Mar 1901 (TL-2/2142).
+- (1) Co-author, G.C. Neally et al., *Invest. grass. Texas* 1888, TL-2/6664.
+- (2) With F.S. Earle, *Fungi, in* E.L. Greene, *Pl. baker.* 1: 15-37. 22 Feb 1901, 2: 1-30. 25 Mar 1901 (TL-2/2142).
 
 #### Eponymy
 

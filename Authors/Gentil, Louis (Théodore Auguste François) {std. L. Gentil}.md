@@ -26,8 +26,8 @@ APN p. 223; Backer p. 651; Barnhart 2: 38; BM 6: 362; Hortus 3: 1193; IH 2: 221 
 #### Composite works
 
 Co-author with E. De Wildeman:
-(1) *Observ. Apocyn. latex*... 1901 (TL-2/Suppl. 5, nr. 30.141); and
-(2) *Lianes Caoutch*.... 1904, see TL-2/Suppl. 5, nr. 30.151, where no credit is given Gentil.
+- (1) *Observ. Apocyn. latex*... 1901 (TL-2/Suppl. 5, nr. 30.141); and
+- (2) *Lianes Caoutch*.... 1904, see TL-2/Suppl. 5, nr. 30.151, where no credit is given Gentil.
 
 ### Publications
 

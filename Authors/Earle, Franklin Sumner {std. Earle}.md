@@ -10,7 +10,8 @@ Earle, Franklin Sumner (1856-1929), American mycologist and phytopathologist.
 
 #### Herbarium and types
 
-[[Collection NY|NY]], duplicates in many herbaria. – Exsiccatae: *Economic fungi *(fasc. 1-4, nos. 1-200, 1890-1892), set at [[Collection NY|NY]], and (with E. S. Earle) *Plants of New Mexico *(1900), sets at [[Collection B|B]], [[Collection NY|NY]]. – Manuscripts and correspondence at [[Collection NY|NY]].
+[[Collection NY|NY]], duplicates in many herbaria.
+*Exsiccatae*: *Economic fungi *(fasc. 1-4, nos. 1-200, 1890-1892), set at [[Collection NY|NY]], and (with E. S. Earle) *Plants of New Mexico *(1900), sets at [[Collection B|B]], [[Collection NY|NY]]. – Manuscripts and correspondence at [[Collection NY|NY]].
 *Ref*.: IH I.(ed. 6): 358; 2: 175.
 - Lenley et al., Cat. manuscr. coll. New York Bot. Gard. 145-146. 1973.
 - Hawksworth, Mycologist's handb. 182. 1974.

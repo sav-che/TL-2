@@ -33,8 +33,8 @@ Co-author with J.H. Cassebeer (1785-1850) of *Fl. Wetterau* 1847-1849, TL-2/1045
 
 #### Note
 
-(1) *Bündner Flechten*, a series of papers in Jahresber. naturf. Ges. Graubünden ser. 2. 3: 102-165. 1858 (Nachtrag by E. Kilias ib. 5: 80. 1860), 2. Nachtrag ib. 6: 245-249. 1861, 3. Nachtrag ib. 11: 168-171. 1866 (also Bündner Flechten, by Chr. G. Bruggen on p. 171-182).
-(2) For William Theobald (1829-1908), who published 26 binomials in Francis Mason, *Burmah*, ed. 4, 1882-1883, TL-2/5584, see DJ. Mabberley, Taxon 34: 152-156. 1985 ("Unwitting reformer of botanical nomenclature?").
+- (1) *Bündner Flechten*, a series of papers in Jahresber. naturf. Ges. Graubünden ser. 2. 3: 102-165. 1858 (Nachtrag by E. Kilias ib. 5: 80. 1860), 2. Nachtrag ib. 6: 245-249. 1861, 3. Nachtrag ib. 11: 168-171. 1866 (also Bündner Flechten, by Chr. G. Bruggen on p. 171-182).
+- (2) For William Theobald (1829-1908), who published 26 binomials in Francis Mason, *Burmah*, ed. 4, 1882-1883, TL-2/5584, see DJ. Mabberley, Taxon 34: 152-156. 1985 ("Unwitting reformer of botanical nomenclature?").
 
 #### Eponymy
 

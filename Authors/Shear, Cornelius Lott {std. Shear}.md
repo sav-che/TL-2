@@ -36,18 +36,18 @@ Ainsworth p. 132, 229, 281, 327-328; Barnhart 3: 267 (b. 26 Mar 1865, d. 2 Feb 1
 
 #### Composite works
 
-(1) With F.E. Clements \[1874-1945\], *Gen. fung. ed. 2*, 1932, co-author, see TL-2/1142.
-(2) Founder (1893) and first editor of the *Asa Gray Bulletin* (n.s. vol. 1, 1952 is dedicated to C.L. Shear; see tribute in 1(4): 344-348. 1952, portr.).
-(3) Associate editor *Mycologia* 1909-1932.
-(4) Editor, with A.H.R. Buller of the English translation by W.B. Grove of *Selecta fungorum carpologia* by L.R. & C. Tulasne, q.v.
-(5) Co-author, L.H. Pammel, *Grass. Iowa* 2, 1905, see TL-2/7255.
+- (1) With F.E. Clements \[1874-1945\], *Gen. fung. ed. 2*, 1932, co-author, see TL-2/1142.
+- (2) Founder (1893) and first editor of the *Asa Gray Bulletin* (n.s. vol. 1, 1952 is dedicated to C.L. Shear; see tribute in 1(4): 344-348. 1952, portr.).
+- (3) Associate editor *Mycologia* 1909-1932.
+- (4) Editor, with A.H.R. Buller of the English translation by W.B. Grove of *Selecta fungorum carpologia* by L.R. & C. Tulasne, q.v.
+- (5) Co-author, L.H. Pammel, *Grass. Iowa* 2, 1905, see TL-2/7255.
 
 #### Note
 
 Contributions to the history of botany by C.L. Shear and Neil E. Stevens:
-(1) *The botanical work of Ezra Michener* \[1794-1887\], Bull. Torrey bot. Club 44: 547-558. 24 Dec 1917.
-(2) *The correspondence of Schweinitz and Torrey*, Mem. Torrey bot. Club 16(3): \[i-iv\], \[119\]-300. 16 Jul 1921.
-(3) Translation of L.R. and C. Tulasne, *Selecta fungorum carpologia*, see Tulasne.
+- (1) *The botanical work of Ezra Michener* \[1794-1887\], Bull. Torrey bot. Club 44: 547-558. 24 Dec 1917.
+- (2) *The correspondence of Schweinitz and Torrey*, Mem. Torrey bot. Club 16(3): \[i-iv\], \[119\]-300. 16 Jul 1921.
+- (3) Translation of L.R. and C. Tulasne, *Selecta fungorum carpologia*, see Tulasne.
 
 #### Eponymy
 

@@ -53,13 +53,13 @@ Ainsworth p. 61, 116, 155, 215, 237, 345; Barnhart 2: 506; BL 1: 225; BM 3: 1338
 
 #### Composite works
 
-(1)Bélanger, C. P., *Voy. Indes Or.*, see no. 412.
-(2) Berkeley, M. J., *Not. Brit. fung.*, collaborator, see no. 460.
-(3) Dumont d'Urville, J. S. C., *Voy. Pôle Sud, Pl cell.*, see no. 1557 (other *copy*: BR).
-(4) Gaudichaud-Beaupré, C., *Voy. Bonite Bot., sect 2*, see no. 1969.
-(5) Miquel, F. A. W. et al., *Pl. Jungh.*, fasc. 4: 427-494. Lichenes (with R. B. van den Bosch).
-(6) Webb, P. B. & S. Berthelot, *Hist. nat. Iles Canaries*, 3(2), sectio ultima, 1840, publ. 1841, p. \[i\*\], \[i\]-xv, \[1\]-208, *pl. 1-9*, is by Montagne, see under Webb & Berthelot.
-(7) Gay, *Fl. Chil.* vols. 7 and 8, see no. 1975.
+- (1) Bélanger, C. P., *Voy. Indes Or.*, see no. 412.
+- (2) Berkeley, M. J., *Not. Brit. fung.*, collaborator, see no. 460.
+- (3) Dumont d'Urville, J. S. C., *Voy. Pôle Sud, Pl cell.*, see no. 1557 (other *copy*: BR).
+- (4) Gaudichaud-Beaupré, C., *Voy. Bonite Bot., sect 2*, see no. 1969.
+- (5) Miquel, F. A. W. et al., *Pl. Jungh.*, fasc. 4: 427-494. Lichenes (with R. B. van den Bosch).
+- (6) Webb, P. B. & S. Berthelot, *Hist. nat. Iles Canaries*, 3(2), sectio ultima, 1840, publ. 1841, p. \[i\*\], \[i\]-xv, \[1\]-208, *pl. 1-9*, is by Montagne, see under Webb & Berthelot.
+- (7) Gay, *Fl. Chil.* vols. 7 and 8, see no. 1975.
 Montagne contributed treatments of cryptogams to numerous works. For a full review see his *Syll. gen. Sp. crypt.* (1856), p. xv-xviii and the indexes to TL-2.
 
 #### Eponymy

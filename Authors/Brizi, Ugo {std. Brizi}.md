@@ -20,7 +20,7 @@ Barnhart 1: 254; BL 2: 365; DTS 1: 35-36; GR p. 528 (b. 28 Feb 1868, Ancona, d. 
 
 #### Composite works
 
-(1) With R. Pirotta and A. Terraciano, *Flora della Provincia di Roma* (in E. Abbate, Guida della Provincia di Roma 1890, p. 171-225).
+- (1) With R. Pirotta and A. Terraciano, *Flora della Provincia di Roma* (in E. Abbate, Guida della Provincia di Roma 1890, p. 171-225).
 
 ### Publications
 

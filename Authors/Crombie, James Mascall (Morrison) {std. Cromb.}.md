@@ -10,7 +10,8 @@ Crombie, James Mascall (Morrison) (1831-1906), British lichenologist.
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. — *Exsiccatae*: *Lichenes britannici exsiccati* (cent. i-ii, nos. 1-200) London 1874-1877. *Copies*: [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection BM|BM]].
+*Exsiccatae*: *Lichenes britannici exsiccati* (cent. i-ii, nos. 1-200) London 1874-1877. *Copies*: [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection UPS|UPS]], [[Collection W|W]].
 *Ref*.: GR p. 370; IH 2: 144.
 - Candolle, Phytographie 405. 1880.
 - Sayre, Mem. New York Bot. Gard. 19(1): 119. 1969.

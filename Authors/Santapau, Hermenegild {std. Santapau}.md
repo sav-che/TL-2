@@ -33,9 +33,9 @@ IH 1 (ed. 4): 30, (ed. 6): 364, (ed. 7): 342, 2: (files); Roon p. 99; SIA 155; T
 
 #### Note
 
-(1) Santapau's *The Acanthaceae of Bombay*, Univ. Bombay Bot. Mem., vol. 2, iii and 104 p., *6 pl*., was published on 1 Apr 1952, see SK 4: ccxi and J. Bombay nat. Hist. Soc. 51: 349. 1953.
-(2) Posthumous publication: with A.N. Henry, *A dictionary of the flowering plants in India*, New Delhi, 1975, vii, 198 p.
-(3) Detailed bibliography 1944-1963: Bull. Bot. Surv. India 5: vii-xiv. 1963. Santesson, Carl Gustaf (1862-1939), Swedish botanist and pharmacologist; Dr. med. Uppsala 1892; lecturer (1891) and extraordinary professor of pharmacodynamics and pharmacognosy at the Karolinska Inst., Stockholm 1895-1909; ordinary professor from 1909-1927. (*C. Sant.*).
+- (1) Santapau's *The Acanthaceae of Bombay*, Univ. Bombay Bot. Mem., vol. 2, iii and 104 p., *6 pl*., was published on 1 Apr 1952, see SK 4: ccxi and J. Bombay nat. Hist. Soc. 51: 349. 1953.
+- (2) Posthumous publication: with A.N. Henry, *A dictionary of the flowering plants in India*, New Delhi, 1975, vii, 198 p.
+- (3) Detailed bibliography 1944-1963: Bull. Bot. Surv. India 5: vii-xiv. 1963. Santesson, Carl Gustaf (1862-1939), Swedish botanist and pharmacologist; Dr. med. Uppsala 1892; lecturer (1891) and extraordinary professor of pharmacodynamics and pharmacognosy at the Karolinska Inst., Stockholm 1895-1909; ordinary professor from 1909-1927. (*C. Sant.*).
 
 #### Herbarium and types
 

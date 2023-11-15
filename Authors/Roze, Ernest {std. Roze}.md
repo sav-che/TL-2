@@ -8,7 +8,8 @@ Roze, Ernest (1833-1900), French administrator at the ministry of finances Paris
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]]. – *Exsiccatae*: *Muscinées des environs de Paris* (with É. Bescherelle), fasc. 1-10, nos. 1-250, 1861-1866; see also A. Camus (1903). Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]] (has a complete set plus an unpublished fascicle), [[Collection LG|LG]], [[Collection PC|PC]]. – Fasc. noticed in Bull. Soc. bot. France 8: 328. Aug 1861 (announcement), 9: 209. 1862 (1 & 2 rd. 25 Apr 1862), 9: 447. 1863 (3 & 4 rd. 28 Nov 1862), 10: 105. Oct 1863 (5 rd. 27 Feb 1863), 10: 538. Jun 1864 (7 & 8 rd. 11 Dec 1863), 11: 310. 1864 (9 rd. 9 Dec 1864), 13 (bibl.): 47. 1888 (10 rd. 1866). – For further details see G. Sayre, Mem. New York Bot. Gard. 19(2): 248. 1971. – Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici*. Thirty letters to E. Malinvaud at [[Collection P|P]] (Aymonin 1977).
+[[Collection P|P]], [[Collection PC|PC]].
+*Exsiccatae*: *Muscinées des environs de Paris* (with É. Bescherelle), fasc. 1-10, nos. 1-250, 1861-1866; see also A. Camus (1903). Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]] (has a complete set plus an unpublished fascicle), [[Collection LG|LG]], [[Collection PC|PC]]. – Fasc. noticed in Bull. Soc. bot. France 8: 328. Aug 1861 (announcement), 9: 209. 1862 (1 & 2 rd. 25 Apr 1862), 9: 447. 1863 (3 & 4 rd. 28 Nov 1862), 10: 105. Oct 1863 (5 rd. 27 Feb 1863), 10: 538. Jun 1864 (7 & 8 rd. 11 Dec 1863), 11: 310. 1864 (9 rd. 9 Dec 1864), 13 (bibl.): 47. 1888 (10 rd. 1866). – For further details see G. Sayre, Mem. New York Bot. Gard. 19(2): 248. 1971. – Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici*. Thirty letters to E. Malinvaud at [[Collection P|P]] (Aymonin 1977).
 
 #### Bibliography and biography
 
@@ -28,8 +29,8 @@ Ainsworth p. 120, 243, 297, 308; Barnhart 3: 187 (b. 17 Mai 1833, d. 25 Mai 1900
 
 #### Composite works
 
-(1) Contributed a chapter on the history of botany to J. Rothschild, ed., *Les fougères*, vol. 1, 1867, and wrote the "histoire botanique et horticole des Selaginelles" for vol. 2, 1868; see under J. Rothschild.
-(2) See *C. Richon* for Richon & Roze, *Atlas des champignons*. 1885 (NI 1691).
+- (1) Contributed a chapter on the history of botany to J. Rothschild, ed., *Les fougères*, vol. 1, 1867, and wrote the "histoire botanique et horticole des Selaginelles" for vol. 2, 1868; see under J. Rothschild.
+- (2) See *C. Richon* for Richon & Roze, *Atlas des champignons*. 1885 (NI 1691).
 
 #### Eponymy
 

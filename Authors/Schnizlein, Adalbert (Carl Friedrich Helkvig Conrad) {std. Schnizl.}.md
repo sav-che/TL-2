@@ -36,10 +36,10 @@ ADB 32: 177-179 (E. Wunschman); AG 1: 274-275; Backer p. 660; Barnhart 3: 236 (b
 
 #### Composite works
 
-(1) Contributed fasc. 25, 28, 31 (nos. 481-500, 541-560, 601-620), to Th. Nees, *Gen. fl. Germ.* 1835-1860. TL-2/6704. – *Reviews* and notes: D.F.L. von Schlechtendal, Bot. Zeit. 9: 294. 11 Apr 1851 (fasc. 25), 12: 404-405, 9 Jun, 658-659. 15 Sep 1854 (fasc. 28).
-(2) *Die Pilze Deutschlands, in* J. Sturm, *Deutschl. Fl.* 3, Hefte 31/32, 1-48, *pl. 1-24.* 1851. *Reviews*: A.E. Fürnrohr, Flora 35: 172-173. 21 Mar 1852; D.F.L. von Schlechtendal, Bot. Zeit. 10: 593-595. 20 Aug 1852.
-(3) With J.W. Sturm, q.v., senior author, *Verz. Pfl. Nürnberg* 1847, ed. 2. 1860.
-(4) *Lacistemaceae*, Fl. bras. 4(1): 277-288, *pl. 77-80.* 28 Feb 1857 (fasc. 20).
+- (1) Contributed fasc. 25, 28, 31 (nos. 481-500, 541-560, 601-620), to Th. Nees, *Gen. fl. Germ.* 1835-1860. TL-2/6704. – *Reviews* and notes: D.F.L. von Schlechtendal, Bot. Zeit. 9: 294. 11 Apr 1851 (fasc. 25), 12: 404-405, 9 Jun, 658-659. 15 Sep 1854 (fasc. 28).
+- (2) *Die Pilze Deutschlands, in* J. Sturm, *Deutschl. Fl.* 3, Hefte 31/32, 1-48, *pl. 1-24.* 1851. *Reviews*: A.E. Fürnrohr, Flora 35: 172-173. 21 Mar 1852; D.F.L. von Schlechtendal, Bot. Zeit. 10: 593-595. 20 Aug 1852.
+- (3) With J.W. Sturm, q.v., senior author, *Verz. Pfl. Nürnberg* 1847, ed. 2. 1860.
+- (4) *Lacistemaceae*, Fl. bras. 4(1): 277-288, *pl. 77-80.* 28 Feb 1857 (fasc. 20).
 
 ### Publications
 

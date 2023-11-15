@@ -20,8 +20,8 @@ IH 2: 159; Kew 2: 62-63; SK 1: 134, 4: cxxxvii, 5: cclxxii.
 
 #### Composite works
 
-(1) L. Chalk, J. Burtt Davy, and H.E. Desch, *Some East African Coniferae and Leguminosae*, 68 p., *10 pl*., 1932. Issued in series Forest trees and timbers of the British Empire as No. 1.
-(2) L. Chalk, J. Burtt Davy, H.E. Desch, A.C. Hoyle, *Twenty West African timber trees*, 108 p., *20 pl*., 1933, Id. as No. 2.
+- (1) L. Chalk, J. Burtt Davy, and H.E. Desch, *Some East African Coniferae and Leguminosae*, 68 p., *10 pl*., 1932. Issued in series Forest trees and timbers of the British Empire as No. 1.
+- (2) L. Chalk, J. Burtt Davy, H.E. Desch, A.C. Hoyle, *Twenty West African timber trees*, 108 p., *20 pl*., 1933, Id. as No. 2.
 
 #### Outside our period
 

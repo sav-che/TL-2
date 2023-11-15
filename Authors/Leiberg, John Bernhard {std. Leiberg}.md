@@ -8,7 +8,8 @@ Leiberg, John Bernhard (1853-1913), Swedish-born botanist; moved to America afte
 
 #### Herbarium and types
 
-[[Collection US|US]]. Exsiccatae:
+[[Collection US|US]].
+*Exsiccatae*:
 1. *Musci leibergiani*, with E. G. Britton, nos. 1-230, New York 1890-?, sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]].
 2. *Mosses from Kootnai Co., Idaho*, numbers up to 266, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection NY|NY]]. Written records of Leiberg's explorations in Oregon are at the University of Oregon library. Leiberg presented a collection of flowering plants to [[Collection ORE|ORE]].
 *Ref*.: Anon., Bot. Gaz. 15: 158. 1890.

@@ -9,7 +9,9 @@ Seaver, Fred Jay (1877-1970), American mycologist; MS State Univ. Iowa 1904; ass
 #### Herbarium and types
 
 [[Collection NY|NY]]. – Seaver left library, collections of fungi and other mycological data to [[Collection NY|NY]] on retirement (1943); further herbarium material at [[Collection DPU|DPU]], [[Collection IA|IA]] (Discomycetes), [[Collection K|K]] and [[Collection OSC|OSC]].
-*Exsiccatae*: (1) With Herbert Floyd Bergman (1883-?) *North Dakota fungi*, fasc. 1-2, nos. 1-40, Feb and Aug 1908. Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection H|H]], [[Collection MICH|MICH]], [[Collection NDA|NDA]], [[Collection NY|NY]], [[Collection OS|OS]]. (2) With Guy West Wilson (1877-?), *Ascomyctes and lower fungi*, fasc. 1-4, nos. 1-100, 1907-1909, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection H|H]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MU|MU]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection TRTC|TRTC]], [[Collection VT|VT]]. – See Stevenson (1971). – Letters to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]].
+*Exsiccatae*: (1) With Herbert Floyd Bergman (1883-?) *North Dakota fungi*, fasc. 1-2, nos. 1-40, Feb and Aug 1908. Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection H|H]], [[Collection MICH|MICH]], [[Collection NDA|NDA]], [[Collection NY|NY]], [[Collection OS|OS]]. 
+- (2) With Guy West Wilson (1877-?), *Ascomyctes and lower fungi*, fasc. 1-4, nos. 1-100, 1907-1909, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection H|H]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MU|MU]], [[Collection NHES|NHES]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection TRTC|TRTC]], [[Collection VT|VT]].
+See Stevenson (1971). – Letters to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -33,12 +35,12 @@ Barnhart 3: 254 (b. 14 Mar 1877); BM 4: 1889; Bossert p. 359; Ewan ed. 1: 158, 3
 
 #### Composite works
 
-(1) Associate editor, *Mycologia* 1909-1924, editor 1925-1932, editor-in-chief 1933-1945; managing editor 1933-1947.
-(2) NAF, 3(1): Hypocreales 1, Nectriaceae 3-30, Hypocreaceae 31-56, Fimetariales 57, Fimetariaceae 65-88. 29 Dec 1910 (with D. Griffiths), 6(1): Phyllostictales 6(1): 1-84. 5 Apr 1922.
-(3) *Fungi, in* N.L. Britton, *The Bahama flora* 631-645. 26 Jun 1920.
-(4) *Fungi, in* N.L. Britton, *Flora of Bermuda* 479-489. 28 Feb 1918.
-(5) Editor, *Journal of the New York Botanical Garden* 12-13, 1911-1912.
-(6) *Photographs and descriptions of cup-fungi*, i-xliii, Mycologia 7-39, 1915-1947.
+- (1) Associate editor, *Mycologia* 1909-1924, editor 1925-1932, editor-in-chief 1933-1945; managing editor 1933-1947.
+- (2) NAF, 3(1): Hypocreales 1, Nectriaceae 3-30, Hypocreaceae 31-56, Fimetariales 57, Fimetariaceae 65-88. 29 Dec 1910 (with D. Griffiths), 6(1): Phyllostictales 6(1): 1-84. 5 Apr 1922.
+- (3) *Fungi, in* N.L. Britton, *The Bahama flora* 631-645. 26 Jun 1920.
+- (4) *Fungi, in* N.L. Britton, *Flora of Bermuda* 479-489. 28 Feb 1918.
+- (5) Editor, *Journal of the New York Botanical Garden* 12-13, 1911-1912.
+- (6) *Photographs and descriptions of cup-fungi*, i-xliii, Mycologia 7-39, 1915-1947.
 
 #### Eponymy
 

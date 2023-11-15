@@ -8,7 +8,8 @@ Massalongo, Abramo Bartolommeo (1824-1860), Italian lichenologist and palaeobota
 
 #### Herbarium and types
 
-A major part of the original herbarium (mainly lichens and his collection of fossils) is at [[Collection VER|VER]]. Massalongo's collections were offered for sale after his death and some parts went elsewhere, e.g. to [[Collection TO|TO]] (see Anon., Oest. bot. Z. 11: 134-135. 1861), [[Collection M|M]], [[Collection NAP|NAP]] (lich.), and [[Collection PAD|PAD]]. Exsiccatae: *Lichenes italici exsiccati*, fasc. 1-10, nos. 1-360, 1855-1856. Sets in several herbaria (see IH, Sayre, and Micheletti 1889). *Schedulae* with descriptions. Massalongo specimens, from his herbarium, were included by Anzi in his *Lichenes rariores veneti*. – Manuscripts and archival material at Museo eivieo di Verona.
+A major part of the original herbarium (mainly lichens and his collection of fossils) is at [[Collection VER|VER]]. Massalongo's collections were offered for sale after his death and some parts went elsewhere, e.g. to [[Collection TO|TO]] (see Anon., Oest. bot. Z. 11: 134-135. 1861), [[Collection M|M]], [[Collection NAP|NAP]] (lich.), and [[Collection PAD|PAD]].
+*Exsiccatae*: *Lichenes italici exsiccati*, fasc. 1-10, nos. 1-360, 1855-1856. Sets in several herbaria (see IH, Sayre, and Micheletti 1889). *Schedulae* with descriptions. Massalongo specimens, from his herbarium, were included by Anzi in his *Lichenes rariores veneti*. – Manuscripts and archival material at Museo eivieo di Verona.
 
 #### Note
 

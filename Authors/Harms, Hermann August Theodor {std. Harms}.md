@@ -20,8 +20,8 @@ AG 5(4): 38; Backer p. 254: Barnhart 2: 128; BFM 2321; BJI 1: 24; 2: 68-69; BL 1
 
 #### Composite works
 
-(1) Dalla Torre, K. W. und H. Harms, *Genera Siphonogamarum*, Leipzig 1907-1908, *see* Dalla Torre, Tl 2/1298.
-(2) In EP, *Die natürlichen Pflanzenfamilien*, ed. 1:
+- (1) Dalla Torre, K. W. und H. Harms, *Genera Siphonogamarum*, Leipzig 1907-1908, *see* Dalla Torre, Tl 2/1298.
+- (2) In EP, *Die natürlichen Pflanzenfamilien*, ed. 1:
 *Achariaceae*, Nachtr. 2-4(1): 256-257. Oct. 1897.
 *Araliaceae*, 3(8): 1-48. 28 Dec 1894, 49-62 Apr (?) 1897; Nachtr. 2-4(1): 268-269. Oct 1897, 2: 50-51. 8 Oct 1900.
 *Cornaceae*, 3(8): 250-270. Jul 1898, Nachtr. 2-4(2): 52. 8 Oct. 1900.
@@ -30,7 +30,7 @@ AG 5(4): 38; Backer p. 254: Barnhart 2: 128; BFM 2321; BJI 1: 24; 2: 68-69; BL 1
 *Passifloraceae*, 3(6A): 69-94. 28 Dec 1893; Nachtr. 2-4(1): 253-256. Oct 1897. *Plantaginaceae* (with C. Reiche; Harms did *Plantago*), 4(3B): 363-373. Dec 1895; suppl. by Harms, Nachtr. 2-4(2): 72. 8 Oct 1900.
 *Verzeichniss* derjenigen Angiospermen-Gattungen, welchen bis jetzt eine sichere Stellung ... nicht zugewiesen werden kann, Nachtr. 2-4(1): 331-340. Dec 1897.
 For a complete list especially of all additions (Nachträge) by Harms, see Bot. Jahrb. 74(3): 358. 1949.
-(3) In EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
+- (3) In EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
 *Achariaceae*, 21: 507-510. Dec 1925.
 *Akaniaceae*, 19b: \[173\]-175. Jan-Mar 1940.
 *Balanophoraceae*, 16b: \[296\]-339. Jan-Apr 1935.
@@ -56,8 +56,8 @@ For a complete list especially of all additions (Nachträge) by Harms, see Bot. 
 *Santalales* et al. (gen.), 16b: \[1\]-4. Jan-Apr 1935.
 *Sarraceniales* (gen.), 17b: \[701\]-703. 1936.
 *Saxifragaceae*, 18a: 485-486. Mai 1930.
-(4) Engler, *Pflanzenreich*: *Cucurbitaceae* (with C. A. Cogniaux) Heft 88: (iv, 275(2)): 28 Nov 1924 (TL 2/1713).
-(5) General editor, *Règles int. nomencl. bot.* ed. 3, 1935; see TL 2/766.
+- (4) Engler, *Pflanzenreich*: *Cucurbitaceae* (with C. A. Cogniaux) Heft 88: (iv, 275(2)): 28 Nov 1924 (TL 2/1713).
+- (5) General editor, *Règles int. nomencl. bot.* ed. 3, 1935; see TL 2/766.
 
 #### Eponymy
 

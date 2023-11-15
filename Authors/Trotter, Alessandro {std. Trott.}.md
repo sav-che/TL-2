@@ -8,7 +8,8 @@ Trotter, Alessandro (1874-1967), Italian botanist; Dr. phil. Padua; botanical as
 
 #### Herbarium and types
 
-[[Collection PAD|PAD]] (main herb. incl. Cecidotheca); further material in Avellino, [[Collection POR|POR]]. – *Exsiccatae*: *Cecidotheca italica*, 575 nos., 23 fasc., 1900-1912. – Sets at [[Collection BPU|BPU]], [[Collection H|H]] (nos. 451-500). – *Letters* at [[Collection G|G]].
+[[Collection PAD|PAD]] (main herb. incl. Cecidotheca); further material in Avellino, [[Collection POR|POR]].
+*Exsiccatae*: *Cecidotheca italica*, 575 nos., 23 fasc., 1900-1912. – Sets at [[Collection BPU|BPU]], [[Collection H|H]] (nos. 451-500). – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -25,11 +26,11 @@ Barnhart 3: 402 (b. 26 Jul 1874); Biol.-Dokum. 18: 9383; BJI 2: 179; BL 1: 42, 4
 
 #### Composite works
 
-(1) With C. Negri et al., *Stato conosc. veg. Italia* 1909, TL-2/6715.
-(2) Revised, with P.A. Saccardo, F. Saccardo, *Flor. Montello* 1895, TL-2/9880.
-(3) For contribution to P.A. Saccardo, *Syll. fung*. see TL-2/9898.
-(4) *Uredinales, in* G.B. Traverso, *Fl. ital. crypt., Fungi* fasc. 4, 7, 12, 1908-1914 see above under Traverso (1905).
-(5) With P.A. Saccardo, *I funghi dell'Avellinese*, Avellino 1920, 198 p.
+- (1) With C. Negri et al., *Stato conosc. veg. Italia* 1909, TL-2/6715.
+- (2) Revised, with P.A. Saccardo, F. Saccardo, *Flor. Montello* 1895, TL-2/9880.
+- (3) For contribution to P.A. Saccardo, *Syll. fung*. see TL-2/9898.
+- (4) *Uredinales, in* G.B. Traverso, *Fl. ital. crypt., Fungi* fasc. 4, 7, 12, 1908-1914 see above under Traverso (1905).
+- (5) With P.A. Saccardo, *I funghi dell'Avellinese*, Avellino 1920, 198 p.
 
 #### Eponymy
 

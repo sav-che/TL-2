@@ -54,11 +54,11 @@ Barnhart 1: 406 (b. 11 Mai 1809, Stockbridge, Mass., d. Hillsborough, N.C., 10 A
 
 #### Composite works
 
-(1) *Contributions to mycology of North America*, with Miles Joseph Berkeley, Amer. J. Sci. Arts ser. 2. 8: 401-403. Nov 1849, 9: 171-175. Mar 1850, 10: 185-188. Sep 1850, 11: 93-95. 1851.
-(2) With Miles Joseph Berkeley, Proc. Amer. Acad. 4: 111-127. 1859 (*Characters of new fungi*, collected in North Pacific Exploring Expedition of Charles Wright).
-(3) U.S. Expl. Exped. 17: 1862, Botany I.... *Fungi* by M.A. Curtis and M.J. Berkeley p. 193-202, publ. 1862. See Berkeley in TL-2/1: 192.
-(4) With Miles Joseph Berkeley, J. Linn. Soc., Bot. 10: 281-341. 1868 (*Fungi cubenses* (Hymenomycetes)).
-(5) *Botany*. The woody plants of the State... *in* P.H. Hale, The *woods* and *timbers* of *North Carolina*, p. 9-198, map (Hale's pagination 1-272, map). 1883. – See Rehder 1: 317.
+- (1) *Contributions to mycology of North America*, with Miles Joseph Berkeley, Amer. J. Sci. Arts ser. 2. 8: 401-403. Nov 1849, 9: 171-175. Mar 1850, 10: 185-188. Sep 1850, 11: 93-95. 1851.
+- (2) With Miles Joseph Berkeley, Proc. Amer. Acad. 4: 111-127. 1859 (*Characters of new fungi*, collected in North Pacific Exploring Expedition of Charles Wright).
+- (3) U.S. Expl. Exped. 17: 1862, Botany I.... *Fungi* by M.A. Curtis and M.J. Berkeley p. 193-202, publ. 1862. See Berkeley in TL-2/1: 192.
+- (4) With Miles Joseph Berkeley, J. Linn. Soc., Bot. 10: 281-341. 1868 (*Fungi cubenses* (Hymenomycetes)).
+- (5) *Botany*. The woody plants of the State... *in* P.H. Hale, The *woods* and *timbers* of *North Carolina*, p. 9-198, map (Hale's pagination 1-272, map). 1883. – See Rehder 1: 317.
 
 #### Eponymy
 

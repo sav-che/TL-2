@@ -36,9 +36,9 @@ Barnhart 3: 179 (b. 7 Nov 1858, d. 18 Jun 1939); BJI 2: 148; BL 1: 154, 316; BM 
 
 #### Composite works
 
-(1) Editor, *Botanisk Tidsskrift* vol. 19, 1894 – 41, 1931.
-(2) Co-author, J.M.C. Lange, *Consp. fl. Groenland.* 3(1), 3(3), 1889, 1891, see TL-2/4185.
-(3) Identifications algae in J.M.C. Lange, *Nomencl. Fl. dank.* 1887, see TL-2/4189.
+- (1) Editor, *Botanisk Tidsskrift* vol. 19, 1894 – 41, 1931.
+- (2) Co-author, J.M.C. Lange, *Consp. fl. Groenland.* 3(1), 3(3), 1889, 1891, see TL-2/4185.
+- (3) Identifications algae in J.M.C. Lange, *Nomencl. Fl. dank.* 1887, see TL-2/4189.
 
 #### Festschrift
 

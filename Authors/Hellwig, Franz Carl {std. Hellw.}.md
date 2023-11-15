@@ -22,7 +22,7 @@ AG 5(2): 440; Backer p. 259; Barnhart 2: 154; BM 6: 451; CSP 15: 744-745; DTS 1:
 
 #### Composite works
 
-(1) In EP, *Die natürlichen Pflanzenfamilien, Resedaceae*. 3(2): 237-240. Mar 1891, 241. Mai 1891. (TL-2/1710).
+- (1) In EP, *Die natürlichen Pflanzenfamilien, Resedaceae*. 3(2): 237-240. Mar 1891, 241. Mai 1891. (TL-2/1710).
 
 #### Eponymy
 

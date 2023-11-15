@@ -8,7 +8,7 @@ Naumov, Nikolai Alexandrovic (1888-1959), Russian mycologist; Dr. phil. St. Pete
 
 #### Herbarium and types
 
-At the All-Union Institute of Plant Protection, Yachevsky Laboratory, Leningrad (part), Department of Botany of Leningrad State University (major part); [[Collection LE|LE]] (minor part) (inf. S. Lipschitz).
+At the All-Union Institute of Plant Protection \[[[Collection LEP|LEP]]?\], Yachevsky Laboratory, Leningrad (part), Department of Botany of Leningrad State University \[[[Collection LECB|LECB]]?\] (major part); [[Collection LE|LE]] (minor part) (inf. S. Lipschitz).
 
 #### Bibliography and biography
 

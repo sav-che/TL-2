@@ -26,11 +26,11 @@ Backer p. 619; Barnhart 3: 446 (b. 1 Nov 1862, d. 18 Nov 1931); BL 2: 728-729 \[
 
 #### Composite works
 
-(1) Co-editor, with J.W. Moll et al., of C.A.J.A. Oudeman's *Enum. syst. fung.* 1919-1924, TL-2/7167.
-(2) Editor, J. Kops, *Fl. batav.* fasc. 21-27, 1901-1930; assisted F.W. van Eeden with some of the previous fascicles. See TL-2/3874; author indexes vols. 1-25, and vols. 26-27, see TL-2/2: 650.
-(3) A manuscript by Vuyck on Dutch East Indies *Begoniaceae* was used by S.H. Koorders, in his *Excurs*.-*Fl. Java* (TL-2/3866), see 2: 640. 1920 (note 1).
-(4) Editor and in part author of W.F.R. Suringar, *Zakflora* (see TL-2/13.434) eds. 13 (1920) and 14 (1921).
-(5) Editor and in part author of *Prodromus florae batavae*, ed. altera, 1893-1916, see under R.B. van den Bosch, TL-2/679 (additional dates: 1(3) published Mai 1904).
+- (1) Co-editor, with J.W. Moll et al., of C.A.J.A. Oudeman's *Enum. syst. fung.* 1919-1924, TL-2/7167.
+- (2) Editor, J. Kops, *Fl. batav.* fasc. 21-27, 1901-1930; assisted F.W. van Eeden with some of the previous fascicles. See TL-2/3874; author indexes vols. 1-25, and vols. 26-27, see TL-2/2: 650.
+- (3) A manuscript by Vuyck on Dutch East Indies *Begoniaceae* was used by S.H. Koorders, in his *Excurs*.-*Fl. Java* (TL-2/3866), see 2: 640. 1920 (note 1).
+- (4) Editor and in part author of W.F.R. Suringar, *Zakflora* (see TL-2/13.434) eds. 13 (1920) and 14 (1921).
+- (5) Editor and in part author of *Prodromus florae batavae*, ed. altera, 1893-1916, see under R.B. van den Bosch, TL-2/679 (additional dates: 1(3) published Mai 1904).
 
 ### Publications
 

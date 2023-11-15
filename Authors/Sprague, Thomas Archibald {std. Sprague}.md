@@ -33,11 +33,11 @@ Backer p. 661; Barnhart 3: 311; Biol.-Dokum. 17: 8812; BJI 2: 168-169; BL 1: 146
 
 #### Composite works
 
-(1) *Flora capensis* (TL-2/2448, Harvey and Sonder): *Bignoniaceae*
+- (1) *Flora capensis* (TL-2/2448, Harvey and Sonder): *Bignoniaceae*
 4.2(3): 447-454. Oct 1904; *Loranthaceae* 5.2(1): 100-135. Apr 1915.
-(2) *Flora tropical Africa* (TL-2/7055, D. Oliver): *Bignoniaceae* 4.2(3): 512-538. Jun 1906; *Hernandiaceae* 6.1(1): 189-192. Mar 1909, 6.1(2): 193. Dec 1910; *Loranthaceae* 6.1(2): 255-384. Dec 1910, 385-411. Oct 1911.
-(3) A. Chevalier, *Sudania*; Énumeration des plantes récoltées en Afrique tropicale par... A. Chevalier de 1898 à 1910 inclus. Liste dressée d'après les déterminations de... Sprague, 1911, 1914.
-(4) *Taxonomic botany*, with special reference to the Angiosperms, *in* J. Huxley, ed., *The new Systematics*, Oxford 1940, p. 435-454.
+- (2) *Flora tropical Africa* (TL-2/7055, D. Oliver): *Bignoniaceae* 4.2(3): 512-538. Jun 1906; *Hernandiaceae* 6.1(1): 189-192. Mar 1909, 6.1(2): 193. Dec 1910; *Loranthaceae* 6.1(2): 255-384. Dec 1910, 385-411. Oct 1911.
+- (3) A. Chevalier, *Sudania*; Énumeration des plantes récoltées en Afrique tropicale par... A. Chevalier de 1898 à 1910 inclus. Liste dressée d'après les déterminations de... Sprague, 1911, 1914.
+- (4) *Taxonomic botany*, with special reference to the Angiosperms, *in* J. Huxley, ed., *The new Systematics*, Oxford 1940, p. 435-454.
 
 #### Eponymy
 

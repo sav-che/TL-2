@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]) and [[Collection NY|NY]] (40.000 specim.), further material (incl. exsicc.) at [[Collection AHFH|AHFH]], [[Collection B|B]](2140), [[Collection BM|BM]] (1075), [[Collection BRU|BRU]], [[Collection C|C]] (1400), [[Collection CM|CM]], [[Collection F|F]], [[Collection IA|IA]], [[Collection LD|LD]], [[Collection K|K]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEBC|NEBC]], [[Collection ODU|ODU]] (55 vols.), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UC|UC]], [[Collection US|US]] (Puerto Rico), [[Collection W|W]], [[Collection WELC|WELC]] (2425), [[Collection WRSL|WRSL]]. – *Exsiccatae*: see TL-2/1: 527 (Algae: *Phycotheca Boreali-Americana* 1895-1919).
+[[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]) and [[Collection NY|NY]] (40.000 specim.), further material (incl. exsicc.) at [[Collection AHFH|AHFH]], [[Collection B|B]](2140), [[Collection BM|BM]] (1075), [[Collection BRU|BRU]], [[Collection C|C]] (1400), [[Collection CM|CM]], [[Collection F|F]], [[Collection IA|IA]], [[Collection LD|LD]], [[Collection K|K]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEBC|NEBC]], [[Collection ODU|ODU]] (55 vols.), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UC|UC]], [[Collection US|US]] (Puerto Rico), [[Collection W|W]], [[Collection WELC|WELC]] (2425), [[Collection WRSL|WRSL]].
+*Exsiccatae*: see TL-2/1: 527 (Algae: *Phycotheca Boreali-Americana* 1895-1919).
 
 #### Bibliography and biography
 
@@ -35,13 +36,13 @@ Barnhart 1: 368 (b. 6 Feb 1848, Charlestown, Mass., d. 25 Mai 1920, New Haven, C
 
 #### Composite works
 
-(1) *Algae*, by F.S. Collins, *in* John Robinson, *The flora of Essex county*, TL-2/9301.
-(2) *Algae*, by F.S. Collins, *in* Edward K. Godfrey, *The Island of Nantucket* 46-47. 1882.
-(3) *Thallophyta*, by F.S. Collins, *in* E.L. Rand and J.H. Redfield, *Flora Mount Desert Island*, *Maine* 227-249, see also E. Roth, Bot. Centralbl. 61(1): 28. 28 Dec 1894.
-(4) *The Algae of Bermuda* 1917, see TL-2/1178.
-(5) *Algae of the Neptune Expedition*, Rept. Canad. Arct. Exp. 1913-1918, IV: Botany, Part B, Marine algae, p. 29-B.
-(6) Contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae praecipue Scandinavicae* in fasc. 21-25. 1893.
-(7) *Phycotheca boreali-americana*, Malden, Mass., contributions in several fascicles.
+- (1) *Algae*, by F.S. Collins, *in* John Robinson, *The flora of Essex county*, TL-2/9301.
+- (2) *Algae*, by F.S. Collins, *in* Edward K. Godfrey, *The Island of Nantucket* 46-47. 1882.
+- (3) *Thallophyta*, by F.S. Collins, *in* E.L. Rand and J.H. Redfield, *Flora Mount Desert Island*, *Maine* 227-249, see also E. Roth, Bot. Centralbl. 61(1): 28. 28 Dec 1894.
+- (4) *The Algae of Bermuda* 1917, see TL-2/1178.
+- (5) *Algae of the Neptune Expedition*, Rept. Canad. Arct. Exp. 1913-1918, IV: Botany, Part B, Marine algae, p. 29-B.
+- (6) Contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae praecipue Scandinavicae* in fasc. 21-25. 1893.
+- (7) *Phycotheca boreali-americana*, Malden, Mass., contributions in several fascicles.
 
 ### Publications
 

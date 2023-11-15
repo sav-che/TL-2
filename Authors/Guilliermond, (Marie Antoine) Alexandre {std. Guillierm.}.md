@@ -36,8 +36,8 @@ Académie p. 229; Ainsworth p. 213, 325; Ainsworth & Bisby's Dict. p. 219; APN p
 
 #### Composite works
 
-(1) Longtime editor, *Revue Genérale de Botanique* (Paris).
-(2) Pref. *in* F. Bugnicourt, *Fusar. Cylindroc. Indochine*... 1939, see TL-2/Suppl. 3, nr.
+- (1) Longtime editor, *Revue Genérale de Botanique* (Paris).
+- (2) Pref. *in* F. Bugnicourt, *Fusar. Cylindroc. Indochine*... 1939, see TL-2/Suppl. 3, nr.
 23.594 where the thesis, but not the commercial issue ("Encyclopédie mycologique, 11") is noted.
 
 ### Publications

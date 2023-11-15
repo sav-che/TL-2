@@ -8,8 +8,10 @@ Fautrey, François Gabriel (1833-1905), French cryptogamic botanist, born 27 Sep
 
 #### Herbarium and types
 
-France (Fungi, Lichens): [[Collection CUP|CUP]], [[Collection MJSD|MJSD]], [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection TLA|TLA]], [[Collection UPS|UPS]], [[Collection WU|WU]]; Gold Coast (*fide* IH 2: 191): sphalm. pro Département Côte-d'Or, France! – *Exsiccatae*:
-(1) *Herbier cryptogamique de la Côte-d'Or* (Fungi, Alg., Musc., Lich.); "It is perhaps not a regular set" (*teste* Pfister, D.H., Mycotaxon 23: 130. 1985). (2) Collaborated with C. Roumeguère (1828-1892) on his *Fungi selecti gallici exsiccati*, editing the series from century 62 onward (see TL-2/4: 934 and Pfister, D.H., Mycotaxon 23: 56-57. 1985).
+France (Fungi, Lichens): [[Collection CUP|CUP]], [[Collection MJSD|MJSD]], [[Collection NCY|NCY]], [[Collection PC|PC]], [[Collection TLA|TLA]], [[Collection UPS|UPS]], [[Collection WU|WU]]; Gold Coast (*fide* IH 2: 191): sphalm. pro Département Côte-d'Or, France!
+*Exsiccatae*:
+- (1) *Herbier cryptogamique de la Côte-d'Or* (Fungi, Alg., Musc., Lich.); "It is perhaps not a regular set" (*teste* Pfister, D.H., Mycotaxon 23: 130. 1985).
+- (2) Collaborated with C. Roumeguère (1828-1892) on his *Fungi selecti gallici exsiccati*, editing the series from century 62 onward (see TL-2/4: 934 and Pfister, D.H., Mycotaxon 23: 56-57. 1985).
 
 #### Bibliography and biography
 
@@ -22,7 +24,7 @@ APN p. 195; Barnhart 1: 529; CSP 14: 936; GR p. 277; GR cat. p. 63; IH 2: 191; K
 
 #### Composite works
 
-(1) Co-author with P.A. Saccardo, *Nouvelles espèces de champignons de la Côte-d'Or*... 1900, see TL-2/4, nr. 9928, which should be corrected to indicate this.
+- (1) Co-author with P.A. Saccardo, *Nouvelles espèces de champignons de la Côte-d'Or*... 1900, see TL-2/4, nr. 9928, which should be corrected to indicate this.
 
 ### Publications
 

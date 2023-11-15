@@ -10,7 +10,9 @@
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (orig. bryoph. herb.; typescript index (xix, 191 p.) seen at [[Collection MO|MO]]), duplicates and collections of phanerogams in many herbaria (see IH 2: 199, and add [[Collection HBG|HBG]], [[Collection PH|PH]], [[Collection PI|PI]], [[Collection WRSL|WRSL]]). – *Exsiccatae*: (1) *Musci Archipelagi Indici exsiccati*... (series 9-10 title *Musci frondosi Archipelagi Indici et Polynesiaci exsiccati*), is also at [[Collection GOET|GOET]], [[Collection M|M]]. See TL-2/1: 844. (2) With Carl Warnstorf (1837-1921), *Bryotheca europaea meridionalis* (cent. I-IV, nos. 1-400, Rouen 1896-1910, see TL-2/1: 844 and TL-2/7: 83.
+[[Collection FH|FH]] (orig. bryoph. herb.; typescript index (xix, 191 p.) seen at [[Collection MO|MO]]), duplicates and collections of phanerogams in many herbaria (see IH 2: 199, and add [[Collection HBG|HBG]], [[Collection PH|PH]], [[Collection PI|PI]], [[Collection WRSL|WRSL]]).
+*Exsiccatae*: (1) *Musci Archipelagi Indici exsiccati*... (series 9-10 title *Musci frondosi Archipelagi Indici et Polynesiaci exsiccati*), is also at [[Collection GOET|GOET]], [[Collection M|M]]. See TL-2/1: 844.
+- (2) With Carl Warnstorf (1837-1921), *Bryotheca europaea meridionalis* (cent. I-IV, nos. 1-400, Rouen 1896-1910, see TL-2/1: 844 and TL-2/7: 83.
 
 #### Bibliography and biography
 

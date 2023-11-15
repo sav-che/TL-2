@@ -34,10 +34,10 @@ Barnhart 3: 315 (b. 21 Mar 1884); BJI 2: 169; BL 1: 319 (index); BM 5: 2001, 8: 
 
 #### Composite works
 
-(1) With E.O. Wooton, *Description of new plants* preliminary to a report upon the flora of Mexico, 1913; see E.O. Wooton.
-(2) With E.O. Wooton, *Flora of New Mexico*, 1915, facsimile repr. 1972, see E.O. Wooton.
-(3) NAF: *Chenopodiaceae* 21(1): 1-93. 27 Nov 1916; *Amaranthaceae* 21(2): 95-169. 9 Jun 1917; *Allioniaceae* 21(3): 171-254. 22 Jan 1918; *Rubiaceae* 32(1): 1-86. 28 Dec 1918, 32(2): 87-158. 10 Mai 1921, 32(3): 159-228. 8 Aug 1938; *Trigoniaceae* 25(4): 297-298. 10 Mar 1924; *Vochysiaceae* 25(4): 301-303. 10 Mar 1924.
-(4) With A.S. Hitchcock, *Flora of the District of Columbia and vicinity*, 1919, see TL-2/2808. – See also N.L. Britton, Torreya 19: 244-245. 1920.
+- (1) With E.O. Wooton, *Description of new plants* preliminary to a report upon the flora of Mexico, 1913; see E.O. Wooton.
+- (2) With E.O. Wooton, *Flora of New Mexico*, 1915, facsimile repr. 1972, see E.O. Wooton.
+- (3) NAF: *Chenopodiaceae* 21(1): 1-93. 27 Nov 1916; *Amaranthaceae* 21(2): 95-169. 9 Jun 1917; *Allioniaceae* 21(3): 171-254. 22 Jan 1918; *Rubiaceae* 32(1): 1-86. 28 Dec 1918, 32(2): 87-158. 10 Mai 1921, 32(3): 159-228. 8 Aug 1938; *Trigoniaceae* 25(4): 297-298. 10 Mar 1924; *Vochysiaceae* 25(4): 301-303. 10 Mar 1924.
+- (4) With A.S. Hitchcock, *Flora of the District of Columbia and vicinity*, 1919, see TL-2/2808. – See also N.L. Britton, Torreya 19: 244-245. 1920.
 NOTE: Several important publications appeared outside our period (after 1939), mostly in Fieldiana, Botany, e.g. *Flora of Guatemala* (with several collaborators) in vol. 24, parts 1-13, 1958-1977; *Studies of Central American plants* in vols. 22-23, 7 parts, 1940-1947.
 
 #### Eponymy

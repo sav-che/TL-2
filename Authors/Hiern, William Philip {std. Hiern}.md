@@ -31,13 +31,13 @@ Backer p. 267; Barnhart 2: 172; BB p. 147; BM 2: 842, 6: 463; BL 1: 22, 63, 301,
 
 #### Composite works
 
-(1). Harvey and Sonder, *Flora capensis* (TL-2/2448): *Scrophulariaceae*: 4, 2(1): 121-192. Feb 1904, 2(2): 193-384. Jul 1904, 2(3): 385-420. Oct. 1904.
+- (1). Harvey and Sonder, *Flora capensis* (TL-2/2448): *Scrophulariaceae*: 4, 2(1): 121-192. Feb 1904, 2(2): 193-384. Jul 1904, 2(3): 385-420. Oct. 1904.
 *Orobanchaceae*: 4, 2(2): 421-422. Oct 1904.
 *Ebenaceae*: 4, 1(3): 444-478. Oct 1906.
-(2). J. D. Hooker, *Flora British India* (TL-2/2981):
+- (2). J. D. Hooker, *Flora British India* (TL-2/2981):
 *Meliaceae*1: 540-569. Feb 1875.
 *Sapindaceae* 1: 668-699. Feb 1875.
-(3). Contributions to Oliver, *Flora of tropical Africa*:
+- (3). Contributions to Oliver, *Flora of tropical Africa*:
 *Araliaceae*, 3: 27-33. 1877.
 *Dipsaceae, 3*: 249-253. 1877.
 *Ebenaceae*, 3: 509-525. 1877.
@@ -46,8 +46,8 @@ Backer p. 267; Barnhart 2: 172; BB p. 147; BM 2: 842, 6: 463; BL 1: 22, 63, 301,
 *Rubiaceae*, 3: 33-247. 1877.
 *Umbelliferae*, 3: \[1\]-27. 1877.
 *Valerianeae*, 3: 248-249. 1871.
-(4). Warming, *Symb. Fl. Bras. centr., Acanthaceae, Gesneriaceae, Smilacaceae, Verbenaceae*, in part 23, 1877, *publ*. 17 Apr 1878 (p. 67-87, 87-94, 37-66, 94-108 resp.).
-(5) With Count de Ficalho, Mem. pl. Afr. Central... Pinto, Lisboa 1887 (1883), a translation from Trans. Linn. Soc., London, Bot. 2, 1881.
+- (4). Warming, *Symb. Fl. Bras. centr., Acanthaceae, Gesneriaceae, Smilacaceae, Verbenaceae*, in part 23, 1877, *publ*. 17 Apr 1878 (p. 67-87, 87-94, 37-66, 94-108 resp.).
+- (5). With Count de Ficalho, Mem. pl. Afr. Central... Pinto, Lisboa 1887 (1883), a translation from Trans. Linn. Soc., London, Bot. 2, 1881.
 
 #### Eponymy
 

@@ -27,8 +27,8 @@ Barnhart 3: 324; Bossert p. 382; TL-2/2448; Tucker 1: 668.
 
 #### Composite works
 
-(1) W.H. Harvey et al., *Fl. cap., Geissolomaceae* 5(2) 1: 98-100. Apr 1915; *Penaeaceae* ib. 81-98. Apr 1915.
-(2) Editor, *The Cape Naturalist* 1934-1939.
+- (1) W.H. Harvey et al., *Fl. cap., Geissolomaceae* 5(2) 1: 98-100. Apr 1915; *Penaeaceae* ib. 81-98. Apr 1915.
+- (2) Editor, *The Cape Naturalist* 1934-1939.
 
 #### Note
 

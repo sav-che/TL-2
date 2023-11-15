@@ -34,8 +34,8 @@ AG 6(2): 98; Andrews ed. 2: 248; Barnhart 1: 375 (b. 20 Jan 1855, St. Albrecht b
 
 #### Notes
 
-(1) H.R. Goeppert, A. Renge, and H. Conwentz, *Die Flora des Bernsteins*... Danzig 1883-1886, see TL-2/2080. *Ref*. for *vol. 2* (by Conwentz) in Bot. Jahrb. 8(Lit.): 12-23. 2 Nov 1886; note on publ. in Bot. Zeit. 27 Aug 1886, ref.: id. 44(39): 693-675. 1886 (by Schumann), (by Stergel, Chemnitz) in Bot. Centralbl. 29(5): 140-145. 31 Jan -2 Feb 1887 (rev.), BM 1: 377.
-(2) H.W. Conwentz, *Provinz Westpreussen* in Conwentz et al., Nachweis der beachtenswerthen... Bäume und Bestände im Königreich Preussen 1, Berlin 1900. – See Tucker 1 for a copy. – See also H. Conwentz, *Forstbot. Merkbuch*, 1900.
+- (1) H.R. Goeppert, A. Renge, and H. Conwentz, *Die Flora des Bernsteins*... Danzig 1883-1886, see TL-2/2080. *Ref*. for *vol. 2* (by Conwentz) in Bot. Jahrb. 8(Lit.): 12-23. 2 Nov 1886; note on publ. in Bot. Zeit. 27 Aug 1886, ref.: id. 44(39): 693-675. 1886 (by Schumann), (by Stergel, Chemnitz) in Bot. Centralbl. 29(5): 140-145. 31 Jan -2 Feb 1887 (rev.), BM 1: 377.
+- (2) H.W. Conwentz, *Provinz Westpreussen* in Conwentz et al., Nachweis der beachtenswerthen... Bäume und Bestände im Königreich Preussen 1, Berlin 1900. – See Tucker 1 for a copy. – See also H. Conwentz, *Forstbot. Merkbuch*, 1900.
 
 ### Publications
 

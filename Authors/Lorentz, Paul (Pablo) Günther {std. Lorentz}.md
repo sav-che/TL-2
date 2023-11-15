@@ -39,10 +39,10 @@ Barnhart 2: 402; BL 1: 235-236, 306; BM 3: 1178, 7: 747; Bossert p. 243; Clokie 
 
 #### Composite works
 
-(1)For *Plantae Lorentzianae* 1874, see Grisebach, TL-2/2186.
-(2) *Musci*, in O. Kersten, Decken, *Reisen in Ost Afrika* 3(3): \[3\]-7. 1879 (TL-2/3607).
+- (1) For *Plantae Lorentzianae* 1874, see Grisebach, TL-2/2186.
+- (2) *Musci*, in O. Kersten, Decken, *Reisen in Ost Afrika* 3(3): \[3\]-7. 1879 (TL-2/3607).
 
-#### Treatments of lorentz's argentine coll.
+#### Treatments of Lorentz's Aargentine coll.
 
 *Lichenes*, Krempelhuber, A., Flora 61, 1879, see TL-2/3941. *Musci*: Müller, K., Prodromus bryologiae Arg., Linnaea 42: 217-460. 1879, 43: 341-486. 1882, Hedwigia 36: 84-144. 1892 (Linnaea papers reprinted 1971). *Phanerogams*: Grisebach, A. H. R., Pl. lorentz. 1874, TL-2/2186, Symb. fl. argent. 1879, TL-2/2187.
 

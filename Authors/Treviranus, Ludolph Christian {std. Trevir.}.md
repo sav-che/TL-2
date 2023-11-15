@@ -48,12 +48,12 @@ ADB 38: 588-591 (E. Wunschmann); AG 6(1): 461; Backer p. 592; Barnhart 3: 400 (b
 
 #### Composite works
 
-(1) With G.R. Treviranus, *Vermischte Schriften* anatomischen und physiologischen Inhalts, 1-4, 1816-1821.
-(2) *Carex, in* C.F. von Ledebour, *Fl. ross*. 1841-1853, see TL-2/4285, see below *Ad Caricographiam rossicam*... supplementum 1863.
-(3) *Memoir of Th. Vogel, in* W.J. Hooker, Niger Fl. 1849, p. 1-21. (TL-2/3012).
-(4) *lieber den Bau der kryptogamischen Wassergewaechse, in* F. Weber & D.M.H. Mohr, *Beitr. Naturk*. 1(2): 163-203. 1805.
-(5) Preface to J.J. Schmitz & E. Regel, *Fl. Bonn*. 1841, TL-2/10.924.
-(6) Lindley, J., *Theorie der Gartenkunde* (29 Mar-1 Apr 1843; reissued 1850), annotated translation by Treviranus of *The theory of horticulture* London 1840 (previous German translation *Theorie der Gärtnerei*, Wien 1842).
+- (1) With G.R. Treviranus, *Vermischte Schriften* anatomischen und physiologischen Inhalts, 1-4, 1816-1821.
+- (2) *Carex, in* C.F. von Ledebour, *Fl. ross*. 1841-1853, see TL-2/4285, see below *Ad Caricographiam rossicam*... supplementum 1863.
+- (3) *Memoir of Th. Vogel, in* W.J. Hooker, Niger Fl. 1849, p. 1-21. (TL-2/3012).
+- (4) *lieber den Bau der kryptogamischen Wassergewaechse, in* F. Weber & D.M.H. Mohr, *Beitr. Naturk*. 1(2): 163-203. 1805.
+- (5) Preface to J.J. Schmitz & E. Regel, *Fl. Bonn*. 1841, TL-2/10.924.
+- (6) Lindley, J., *Theorie der Gartenkunde* (29 Mar-1 Apr 1843; reissued 1850), annotated translation by Treviranus of *The theory of horticulture* London 1840 (previous German translation *Theorie der Gärtnerei*, Wien 1842).
 
 #### Handwriting
 

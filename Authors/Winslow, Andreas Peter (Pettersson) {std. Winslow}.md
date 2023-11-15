@@ -8,8 +8,9 @@ Winslow, Andreas Peter \[Pettersson\] (1835-1900), Swedish botanist and teacher;
 
 #### Herbarium and types
 
-[[Collection GB|GB]]. Further material at [[Collection AK|AK]], [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection K|K]], [[Collection MANCH|MANCH]]. *Exsiccatae*: (1) *Folkskoleherbarium*, 100 \[i.e. 102\] i ekonomiskt hänseende vigtiga svenska växter. Göteborg 1870, for text see KR p. 768, nos. 1(a), 1(b).
-(2) *Herbarium rosarum Scandinaviae* fasc. 1, nos. 1-40 (all publ.). Göteborg 1880. Sets at [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection MANCH|MANCH]]. Published notes: *Rosae Scandinaviae*, Bot. Not. 1880: 186-191. For list of species see Bot. Centralbl. 3-4: 1439. 1880.
+[[Collection GB|GB]]. Further material at [[Collection AK|AK]], [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection K|K]], [[Collection MANCH|MANCH]].
+*Exsiccatae*: (1) *Folkskoleherbarium*, 100 \[i.e. 102\] i ekonomiskt hänseende vigtiga svenska växter. Göteborg 1870, for text see KR p. 768, nos. 1(a), 1(b).
+- (2) *Herbarium rosarum Scandinaviae* fasc. 1, nos. 1-40 (all publ.). Göteborg 1880. Sets at [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection MANCH|MANCH]]. Published notes: *Rosae Scandinaviae*, Bot. Not. 1880: 186-191. For list of species see Bot. Centralbl. 3-4: 1439. 1880.
 
 #### Bibliography and biography
 

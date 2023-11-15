@@ -52,11 +52,11 @@ AG 6(2): 145; Barnhart 1: 281; BJI 1: 8; BM 1: 285-286, 6: 160; Bossert p. 58; B
 
 #### Composite works
 
-(1) Contributed to C.F. von Ledebour, *Fl. altaica* 1829-1833, see TL-2/4283.
-(2) *Tagebuch* (of Bunge) *auf der Reise in den östlichen Theil des Altaischen Gebirges*, *in *C.F. von Ledebour's *Reise durch das Altai-Gebirge*, \[part II has account of Bunges Reise, p. 1-170. 1830\].
-(3) Co-author with J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, see TL-2/4332.
-(4) Contributed to E. Boissier, *Fl. orient.* 1: xxvii-xxviii.1867.
-(5) *Delectus seminum*, quae in *horto botanico Dorpatensi*... annorum 1837 (8 p.), 1838 (8 p.), 1840 (8 p.), 1841 (8 p.), 1842 (8 p.), 1843 (8 p.), see Trautvetter no. 200. – IDC 5542/2.
+- (1) Contributed to C.F. von Ledebour, *Fl. altaica* 1829-1833, see TL-2/4283.
+- (2) *Tagebuch* (of Bunge) *auf der Reise in den östlichen Theil des Altaischen Gebirges*, *in *C.F. von Ledebour's *Reise durch das Altai-Gebirge*, \[part II has account of Bunges Reise, p. 1-170. 1830\].
+- (3) Co-author with J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, see TL-2/4332.
+- (4) Contributed to E. Boissier, *Fl. orient.* 1: xxvii-xxviii.1867.
+- (5) *Delectus seminum*, quae in *horto botanico Dorpatensi*... annorum 1837 (8 p.), 1838 (8 p.), 1840 (8 p.), 1841 (8 p.), 1842 (8 p.), 1843 (8 p.), see Trautvetter no. 200. – IDC 5542/2.
 
 #### Thesis
 

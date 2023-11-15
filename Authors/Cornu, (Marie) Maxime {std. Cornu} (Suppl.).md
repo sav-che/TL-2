@@ -36,7 +36,7 @@ Ainsworth p. 236, 285, 341; Barnhart 1: 382 (b. 16 Jul 1843, Orléans, d. 3 Apr 
 
 #### Composite works
 
-(1) Préface by M. Cornu *in* P. Sagot, *Manuel pratique des cultures* *tropicales* et des plantations des pays chauds, Le Mans 1892.
+- (1) Préface by M. Cornu *in* P. Sagot, *Manuel pratique des cultures* *tropicales* et des plantations des pays chauds, Le Mans 1892.
 
 ### Publications
 

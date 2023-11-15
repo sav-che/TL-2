@@ -23,9 +23,9 @@ Barnhart 3: 320; BFM 1506; Biol.-Dokum. 17: 8881; BJI 2: 170-171; BM 8: 1242; Hi
 
 #### Composite works
 
-(1) With N. Stojanov, q.v., *Liste des plantes croissant spontanément en Bulgarie*, 1921.
-(2) With N. Stojanov and B. Kitanov, *Flore de la Bulgarie* (later *Flora bulgarica*, Flora na Bulgaria), 1925-x, see under Stojanov.
-(3) With N. Stojanov, *Les Graminées de la Bulgarie* 1921, see under Stojanov.
+- (1) With N. Stojanov, q.v., *Liste des plantes croissant spontanément en Bulgarie*, 1921.
+- (2) With N. Stojanov and B. Kitanov, *Flore de la Bulgarie* (later *Flora bulgarica*, Flora na Bulgaria), 1925-x, see under Stojanov.
+- (3) With N. Stojanov, *Les Graminées de la Bulgarie* 1921, see under Stojanov.
 
 #### Eponymy
 

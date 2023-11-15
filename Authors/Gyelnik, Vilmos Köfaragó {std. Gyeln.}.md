@@ -10,7 +10,8 @@ Gyelnik, Vilmos Köfaragó (1906-1945), Hungarian lichenologist.
 
 #### Herbarium and types
 
-[[Collection BP|BP]]. – *Exsiccatae*: *Lichenotheca* (nos. 1-100 and 121-200 at [[Collection FH|FH]]).
+[[Collection BP|BP]].
+*Exsiccatae*: *Lichenotheca* (nos. 1-100 and 121-200 at [[Collection FH|FH]]).
 *Ref*.: Verseghy, Typenversammlung der Flechtensammlung \[at BP\] 1964.
 
 #### Bibliography and biography

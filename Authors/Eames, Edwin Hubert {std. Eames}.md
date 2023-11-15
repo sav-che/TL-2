@@ -23,6 +23,6 @@ Barnhart 1: 490 (b. 9 Jul 1865, Brooklyn, N.Y.); BL 1: 140, 171, 294; Hortus 3: 
 
 #### Composite works
 
-(1) Graves, C.B., E.H., Eames, a.o., *Catalogue of the flowering plants and ferns of Connecticut*, see TL-2/1: no. 2115.
-(2) Harger, E.B., C.B. Graves (TL-2/1: 982), E.H. Eames, C.A. Weatherby, R.W. Woodward and G.H. Bartlett, *Additions to the Flora of Connecticut* (First Supplement to Bulletin no. 141, Bull. no. 48, p. 94, vii, Conn. State Geol. Nat. Hist. Survey, Hartford, Conn., 1930. – See also Torreya 31(2): 52-53. 17 Apr 1931.
+- (1) Graves, C.B., E.H., Eames, a.o., *Catalogue of the flowering plants and ferns of Connecticut*, see TL-2/1: no. 2115.
+- (2) Harger, E.B., C.B. Graves (TL-2/1: 982), E.H. Eames, C.A. Weatherby, R.W. Woodward and G.H. Bartlett, *Additions to the Flora of Connecticut* (First Supplement to Bulletin no. 141, Bull. no. 48, p. 94, vii, Conn. State Geol. Nat. Hist. Survey, Hartford, Conn., 1930. – See also Torreya 31(2): 52-53. 17 Apr 1931.
 

@@ -8,7 +8,8 @@ Limpricht, Karl Gustav (1834-1902), German (Silesian) bryologist; high school te
 
 #### Herbarium and types
 
-[[Collection BP|BP]] (via the Degen herbarium). Exsiccatae: *Bryolheca silesiaca*, fasc. 1-7, nos. 1-350, Bunzlau and Breslau 1866-1871, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]]. – Other bryophytes also at [[Collection H|H]]. – Limpricht also issued exsiccatae with C. Baenitz, see Baenitz & Limpricht (1863).
+[[Collection BP|BP]] (via the Degen herbarium).
+*Exsiccatae*: *Bryolheca silesiaca*, fasc. 1-7, nos. 1-350, Bunzlau and Breslau 1866-1871, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]]. – Other bryophytes also at [[Collection H|H]]. – Limpricht also issued exsiccatae with C. Baenitz, see Baenitz & Limpricht (1863).
 
 #### Bibliography and biography
 
@@ -33,8 +34,8 @@ Barnhart 2: 382; BM 3: 1115; CSP 8: 229-230, 10:600, 12: 447, 16: 785; DTS 1: 17
 
 #### Composite works
 
-(1) *Die Laubmoose Deutschlands*, Rabenhorst's Kryptogamenflora, see below.
-(2) *Schlesien's Laub- und Lebermoose*, nebst Nachträgen, *in* F. Cohn, *Kryptogamenflora von* *Schlesien*. 1:27-352, 413-444. Breslau 1877.
+- (1) *Die Laubmoose Deutschlands*, Rabenhorst's Kryptogamenflora, see below.
+- (2) *Schlesien's Laub- und Lebermoose*, nebst Nachträgen, *in* F. Cohn, *Kryptogamenflora von* *Schlesien*. 1:27-352, 413-444. Breslau 1877.
 
 #### Eponymy
 

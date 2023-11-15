@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-University College Cork ([[Collection CRK|CRK]], p.p. transferred at [[Collection DBN|DBN]] (IH part 1, ed. 8, p. 575)), further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection M|M]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection TCD|TCD]], [[Collection UPS|UPS]]. – Exsiccatae see TL-2/1: 460 (and Mitchell p. 17, no 56). – For [[Collection BM|BM]] holdings see G. Murray (1904).
+University College Cork ([[Collection CRK|CRK]], p.p. transferred at [[Collection DBN|DBN]] (IH part 1, ed. 8, p. 575)), further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection M|M]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection TCD|TCD]], [[Collection UPS|UPS]].
+*Exsiccatae* see TL-2/1: 460 (and Mitchell p. 17, no 56). – For [[Collection BM|BM]] holdings see G. Murray (1904).
 
 #### Bibliography and biography
 

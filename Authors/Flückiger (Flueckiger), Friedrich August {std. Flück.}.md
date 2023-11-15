@@ -38,14 +38,14 @@ APN p. 204 (as "Fluekinger"); Barnhart 1: 552; BJI 1: 19; BM 2: 587, 780; BN p. 
 #### Note
 
 The following emendations to two works by Flückiger treated sub Daniel Hanbury (1825-1875) in TL-2/2 can be made:
-(1) *Pharmacographia*... 1874 (see TL-2/2, nr. 2355) has been reprinted at least twice: (a) 1986,... Dehra Dun, India (International Book Distributors), xv, 704 p. *Copy*: LC (n.v.); and (b) 2002,... Washington, D.C. (Ross and Perry). *Copy*: (n.v.). Microforms are available for: (a) the first, English ed.: *Microfilm*: Cambridge, Mass. (Harvard College Library Imaging Services), 1999, 1 reel (35 mm, negative). *Copy*: HH (n.v.); and (b) the second, London edition (1879): *Microfiche*: Westport, Conn. (Meckler/ Chadwyck-Healey Publishing) \[1987?\], 10 microfiches (Plant taxonomic lit. microfiche coll., "8330G2-8339B7"). *Copy*: MO (n.v.).
-(2) *Hist. drogues orig. vég.*... 1878 (see TL-2/2, nr. 2356 \[=nr. 4172 (sic!)\]) is available in microform:
+- (1) *Pharmacographia*... 1874 (see TL-2/2, nr. 2355) has been reprinted at least twice: (a) 1986,... Dehra Dun, India (International Book Distributors), xv, 704 p. *Copy*: LC (n.v.); and (b) 2002,... Washington, D.C. (Ross and Perry). *Copy*: (n.v.). Microforms are available for: (a) the first, English ed.: *Microfilm*: Cambridge, Mass. (Harvard College Library Imaging Services), 1999, 1 reel (35 mm, negative). *Copy*: HH (n.v.); and (b) the second, London edition (1879): *Microfiche*: Westport, Conn. (Meckler/ Chadwyck-Healey Publishing) \[1987?\], 10 microfiches (Plant taxonomic lit. microfiche coll., "8330G2-8339B7"). *Copy*: MO (n.v.).
+- (2) *Hist. drogues orig. vég.*... 1878 (see TL-2/2, nr. 2356 \[=nr. 4172 (sic!)\]) is available in microform:
 *Microfilm*: Cambridge, Mass. (Harvard College Imaging Services), 2003, 1 reel (35 mm). *Copy*: HH (n.v.).
 
 #### Composite works
 
-(1) Transl. from French into German, H.A. Weddell, *Notes sur les Quinquinas*... \[1869-\]1870, see TL-2/7, nr. 16.954.
-(2) First author (not co-author) with Daniel Hanbury (1825-1875) of: (a) *Pharmacographia* ... 1874, see TL-2/2, nr. 2355; and (b) *Hist. drogues orig. vég.*... 1878, see TL-2/2, nr. 2356 \[=nr. 4172 (sic!)\].
+- (1) Transl. from French into German, H.A. Weddell, *Notes sur les Quinquinas*... \[1869-\]1870, see TL-2/7, nr. 16.954.
+- (2) First author (not co-author) with Daniel Hanbury (1825-1875) of: (a) *Pharmacographia* ... 1874, see TL-2/2, nr. 2355; and (b) *Hist. drogues orig. vég.*... 1878, see TL-2/2, nr. 2356 \[=nr. 4172 (sic!)\].
 
 ### Publications
 

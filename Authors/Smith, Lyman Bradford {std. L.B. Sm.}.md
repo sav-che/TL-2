@@ -30,11 +30,12 @@ Barnhart 3: 294 (b. 11 Sep 1904); Biol. Dokum. 17: 8737; BJI 2: 167; BL 1: 243, 
 
 #### Composite works
 
-(1) *Bromeliaceae, in* A.A. Pulle, ed., *Fl. Surin. 1*(*2*): *93-148. 1957.* (*2*) *Bromeliaceae, in* NAF 19(2): 61-228. 27 Dec 1938.
-(3) *Bromeliaceae, in* J.F. MacBride, *Fl. Peru*, Field Mus. Bot. 13: 495-592. 1936.
-(4) With P.C. Standley, *Bromeliaceae, in* P.C. Standley, *Flora de Costa Rica* (Mus. Nac. Costa Rica, Bot.) 1: 151-175. 1940.
-(5) With B.G. Schubert, *Begoniaceae, in* J.F. MacBride, *Fl. Peru*, Field Mus. Bot. 13(4): 181-202. 1941.
-(6) *Bromeliaceae, in* E.L. Farr et al., *Index nominum genericorum*, 1979, 119 texts. For the numerous further contributions mainly on Bromeliaceae and Begoniaceae, in "Composite Works" see the bibliographies.
+- (1) *Bromeliaceae, in* A.A. Pulle, ed., *Fl. Surin. 1*(*2*): *93-148. 1957.* 
+- (2) *Bromeliaceae, in* NAF 19(2): 61-228. 27 Dec 1938.
+- (3) *Bromeliaceae, in* J.F. MacBride, *Fl. Peru*, Field Mus. Bot. 13: 495-592. 1936.
+- (4) With P.C. Standley, *Bromeliaceae, in* P.C. Standley, *Flora de Costa Rica* (Mus. Nac. Costa Rica, Bot.) 1: 151-175. 1940.
+- (5) With B.G. Schubert, *Begoniaceae, in* J.F. MacBride, *Fl. Peru*, Field Mus. Bot. 13(4): 181-202. 1941.
+- (6) *Bromeliaceae, in* E.L. Farr et al., *Index nominum genericorum*, 1979, 119 texts. For the numerous further contributions mainly on Bromeliaceae and Begoniaceae, in "Composite Works" see the bibliographies.
 
 ### Publications
 

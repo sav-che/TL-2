@@ -33,8 +33,8 @@ Barnhart 2: 252; BL 1: 165, 168, 303; BM 2: 932; Bossert p. 197; CSP 16: 103; DS
 
 #### Composite works
 
-(1) Edited an undetermined number of issues of *Erythea*.
-(2) Edited *Nemophila*, Berkeley, Calif., 1-14, 1919-1927.
+- (1) Edited an undetermined number of issues of *Erythea*.
+- (2) Edited *Nemophila*, Berkeley, Calif., 1-14, 1919-1927.
 
 #### Eponymy
 

@@ -34,9 +34,9 @@ Ainsworth p. 302, 308, 319, 325, 347; Barnhart 3: 304 (b. 9 Jun 1839, d. 9 Jan 1
 
 #### Composite works
 
-(1) Founder and editor of the *Zeitschrift für Pflanzenkrankheiten* vols. 1-25, 1891-1915.
-(2) Editor for phytopathology ("Pflanzenkrankheiten"), Just, *Bot. Jahresher.* 1-38, 1873-1910.
-(3) Co-editor for Germany, E. Regel, *Gartenflora* vols. 16, 17 (1867-1868), see TL-2/8775.
+- (1) Founder and editor of the *Zeitschrift für Pflanzenkrankheiten* vols. 1-25, 1891-1915.
+- (2) Editor for phytopathology ("Pflanzenkrankheiten"), Just, *Bot. Jahresher.* 1-38, 1873-1910.
+- (3) Co-editor for Germany, E. Regel, *Gartenflora* vols. 16, 17 (1867-1868), see TL-2/8775.
 
 ### Publications
 

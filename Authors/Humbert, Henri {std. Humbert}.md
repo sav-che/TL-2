@@ -28,7 +28,7 @@ Barnhart 2: 218; BL 1: 45, 97, 98, 302, 2: 166, 670; Bossert p. 186; GR cat. p. 
 
 #### Composite works
 
-(1) editor and in part author of *Flore de Madagascar et des Comores* 1936-1967; see also Humbert, Adansonia ser. 2. 6(3): 315-317. 1966, "resultats et perspectives.".
+- (1) editor and in part author of *Flore de Madagascar et des Comores* 1936-1967; see also Humbert, Adansonia ser. 2. 6(3): 315-317. 1966, "resultats et perspectives.".
 
 #### Eponymy
 

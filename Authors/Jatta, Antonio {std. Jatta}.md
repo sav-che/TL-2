@@ -8,7 +8,8 @@ Jatta, Antonio (1852-1912), Italian lichenologist.
 
 #### Herbarium and types
 
-[[Collection NAP|NAP]]. Exsiccatae: *Lichenes italiae meridionalis* (fasc. 1-5, nos, 1-114, 1874-1880), at [[Collection M|M]], [[Collection FI|FI]], [[Collection W|W]].
+[[Collection NAP|NAP]].
+*Exsiccatae*: *Lichenes italiae meridionalis* (fasc. 1-5, nos, 1-114, 1874-1880), at [[Collection M|M]], [[Collection FI|FI]], [[Collection W|W]].
 *Ref*.: Sayre, Mem. New York Bot. Gard. 19: 135. 1969.
 - Hawksworth, D. L., Mycol. handb. 183. 1974.
 

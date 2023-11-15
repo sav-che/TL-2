@@ -21,7 +21,7 @@ BM 1: 280; CSP 9: 407, 13: 901-902; Kew 1: 413; Moebius p. 284, 380; Rehder 5(in
 
 #### Composite works
 
-(1) *Vegetationsbilder aus dem Kameruner Waldland*, *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 8, Heft 7: 9 p. text, *pl. 37-42.* 1911.
+- (1) *Vegetationsbilder aus dem Kameruner Waldland*, *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 8, Heft 7: 9 p. text, *pl. 37-42.* 1911.
 
 ### Publications
 

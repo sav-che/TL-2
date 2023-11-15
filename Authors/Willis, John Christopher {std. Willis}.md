@@ -32,11 +32,11 @@ BB p. 329; BFM 2362, 2673; BL 1: 94, 96, 98, 2: 10, 296, 732; BM 8: 1438; CSP 19
 
 #### Composite works
 
-(1) *Annals of the Royal Botanic Gardens, Peradeniya*, 1-5, 1901-1912.
-(2) *Official hand-guide to the Royal Botanic Gardens, Peradeniya*, ed. 5, Colombo 1898.
-(3) With J.S. Gardiner, *The botany of the Maldive Islands*, Ann. R. Bot. Gard., Peradeniya 1: 45-164. 1901.
-(4) *Agriculture in the troplcs*, ed. 2, 1914, Cambridge.
-(5) *Troplcal exploitation*, with special reference to rubber, *in* F.W. Oliver, ed., *The exploitation of plants*, 1917, p. 62-82.
+- (1) *Annals of the Royal Botanic Gardens, Peradeniya*, 1-5, 1901-1912.
+- (2) *Official hand-guide to the Royal Botanic Gardens, Peradeniya*, ed. 5, Colombo 1898.
+- (3) With J.S. Gardiner, *The botany of the Maldive Islands*, Ann. R. Bot. Gard., Peradeniya 1: 45-164. 1901.
+- (4) *Agriculture in the troplcs*, ed. 2, 1914, Cambridge.
+- (5) *Troplcal exploitation*, with special reference to rubber, *in* F.W. Oliver, ed., *The exploitation of plants*, 1917, p. 62-82.
 
 #### Note
 

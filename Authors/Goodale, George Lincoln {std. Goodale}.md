@@ -32,13 +32,13 @@ Amer. Men Sci. ed. 4: 262; Barnhart 2: 64; BL 1: 3, 184, 298; BM 2: 694; Bossert
 
 #### Composite works
 
-(1) Goodale and Rev. Joseph Blake (fl. 1868) prepared *The Portland catalogue of Maine plants*... 1868, which was reprinted, with omission of localities and separation of introduced species, from the Proc. Portland Soc. Nat. Hist. 1: 37-63, 127-138. 1862. *Copies*: US(2). – *Note*: M.L. Fernald was responsible for a second edition of the Portland catalogue in 1892 (see TL-2/Suppl. 7, nr. 34.299).
-(2) Co-editor with Cyrus Fogg Brackett (1833-1915), *Bowdoin Scientific Review*, vols. \[1\]-2 (nrs. 1-51) (15 Feb 1870-17 Sep 1872).
-(3) The reissue of A. Gray, *Bot. text*... ed. 6, 1885 (see TL-2/1, nr. 2122), also has on the t.p. "Part 2: Physiological botany by G.L. Goodale...."
-(4) *Wild fl. Amer.*... \[1876-\]1880-1882\[-1894\] (TL-2/5, nr. 12.635) was treated earlier under its illustrator, Isaac Sprague. Issued in parts, the publication is more complicated than the earlier entry suggests. There is an 1876-1880, Salem \[Mass.\] (S.E. Cassino)/New York (Dodd Mead & Co.) imprint and an 1879-1880 \[© 1879\] subscription edition ("Sold only to subscribers for the whole work") with a Boston (S.E. Cassino) imprint. In addition, two imprints, both Boston (Bradlee Whidden), are the most commonly encountered ones; the first was issued in 1886 \[© 1879\] and the second 1894 \[© 1879\]. The BKL copy of the 1894 imprint is dated by pen "February 13th 1894".
-(5) Watson, S. & G.L. Goodale, *List of the writings of Dr. Asa Gray*: *chronologically arranged*... Amer. J. Sci., ser. 3, 36 (App): 1-42. 1889, *see* Asa Gray (below).
-(6) One of nine signatories to O. Ames et al., *Prop. changem. lois nom.*... 1904 (TL-2/ Suppl. 1, nr. 19.149), proposals submitted to the 1905 Vienna Congr. in opposition to the "American school of nomenclature". – *Note*: In TL-2, the exact same title is also treated under the final signatory, Roland Thaxter, and given a different abbreviation and number (TL-2/6, nr. 14.014).
-(7) Associate editor (for botany) of the *American Journal of Science*, ser. 3.
+- (1) Goodale and Rev. Joseph Blake (fl. 1868) prepared *The Portland catalogue of Maine plants*... 1868, which was reprinted, with omission of localities and separation of introduced species, from the Proc. Portland Soc. Nat. Hist. 1: 37-63, 127-138. 1862. *Copies*: US(2). – *Note*: M.L. Fernald was responsible for a second edition of the Portland catalogue in 1892 (see TL-2/Suppl. 7, nr. 34.299).
+- (2) Co-editor with Cyrus Fogg Brackett (1833-1915), *Bowdoin Scientific Review*, vols. \[1\]-2 (nrs. 1-51) (15 Feb 1870-17 Sep 1872).
+- (3) The reissue of A. Gray, *Bot. text*... ed. 6, 1885 (see TL-2/1, nr. 2122), also has on the t.p. "Part 2: Physiological botany by G.L. Goodale...."
+- (4) *Wild fl. Amer.*... \[1876-\]1880-1882\[-1894\] (TL-2/5, nr. 12.635) was treated earlier under its illustrator, Isaac Sprague. Issued in parts, the publication is more complicated than the earlier entry suggests. There is an 1876-1880, Salem \[Mass.\] (S.E. Cassino)/New York (Dodd Mead & Co.) imprint and an 1879-1880 \[© 1879\] subscription edition ("Sold only to subscribers for the whole work") with a Boston (S.E. Cassino) imprint. In addition, two imprints, both Boston (Bradlee Whidden), are the most commonly encountered ones; the first was issued in 1886 \[© 1879\] and the second 1894 \[© 1879\]. The BKL copy of the 1894 imprint is dated by pen "February 13th 1894".
+- (5) Watson, S. & G.L. Goodale, *List of the writings of Dr. Asa Gray*: *chronologically arranged*... Amer. J. Sci., ser. 3, 36 (App): 1-42. 1889, *see* Asa Gray (below).
+- (6) One of nine signatories to O. Ames et al., *Prop. changem. lois nom.*... 1904 (TL-2/ Suppl. 1, nr. 19.149), proposals submitted to the 1905 Vienna Congr. in opposition to the "American school of nomenclature". – *Note*: In TL-2, the exact same title is also treated under the final signatory, Roland Thaxter, and given a different abbreviation and number (TL-2/6, nr. 14.014).
+- (7) Associate editor (for botany) of the *American Journal of Science*, ser. 3.
 
 ### Publications
 

@@ -20,8 +20,8 @@ BM 2: 589; CSP 9: 903, 15: 36; Frahm&E. p. 112; Kew 2: 296; Morren ed. 10: 30; T
 
 #### Composite works
 
-(1) Collaborated with G. Beck & A. Zahlbrückner in preparing their *Schedae krypt. exs.*... 1894-1964 (TL-2/1, nr. 387), where Förster is not explicitly mentioned.
-(2) J. Breidler & Förster edited J. Juratzka, *Laubm.-Fl. Oesterr.-Ung.*... 1882, see TL-2/2, nr. 3456, which was posthumously published. The volume is now available in microform: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches (Plant taxonomic lit. microfiche coll., "2869-2873"). *Copy*: MO.
+- (1) Collaborated with G. Beck & A. Zahlbrückner in preparing their *Schedae krypt. exs.*... 1894-1964 (TL-2/1, nr. 387), where Förster is not explicitly mentioned.
+- (2) J. Breidler & Förster edited J. Juratzka, *Laubm.-Fl. Oesterr.-Ung.*... 1882, see TL-2/2, nr. 3456, which was posthumously published. The volume is now available in microform: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches (Plant taxonomic lit. microfiche coll., "2869-2873"). *Copy*: MO.
 
 ### Publications
 

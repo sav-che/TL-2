@@ -9,12 +9,12 @@ Hassler, Émile (1861-1937), Swiss botanical collector and physician who settled
 #### Herbarium and types
 
 Paraguay herbarium (35.000) at [[Collection G|G]]; second largest set of collections at [[Collection K|K]] (7075), other major sets at [[Collection B|B]] (no longer extant), [[Collection P|P]], [[Collection S|S]] and [[Collection W|W]]. Hassler issued various sets of exsiccatae, some collected by T. Rojas:
-(1) *Plantae paraguarienses* (1898-1913, distributed in various series by year).
-(2) *Plantae a custode herbarii mei T. Rojas in chaco septentrionali lectae*.
-(3) *Florula Cordillerae villaricensis*.
-(4) *Comision argentino-paraguaya de limites* (1906).
-(5) *Plantae pilcomayenses a... Theodore Rojas lectae*.
-(6) *Itinera in Paraguaria septentrionali* (T. Rojas leg.).
+- (1) *Plantae paraguarienses* (1898-1913, distributed in various series by year).
+- (2) *Plantae a custode herbarii mei T. Rojas in chaco septentrionali lectae*.
+- (3) *Florula Cordillerae villaricensis*.
+- (4) *Comision argentino-paraguaya de limites* (1906).
+- (5) *Plantae pilcomayenses a... Theodore Rojas lectae*.
+- (6) *Itinera in Paraguaria septentrionali* (T. Rojas leg.).
 *Ref*.: Verdoorn, F., Chron. bot. 4: 170. 1938.
 - Stafleu, F. A., Monogr. Vochysiac. 532. 1948.
 - Miège & Wuest, Saussurea 6: 133. 1975.

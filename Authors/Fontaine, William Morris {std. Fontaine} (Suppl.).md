@@ -33,8 +33,8 @@ Amer. Men Sci. ed. 2: 158; Andrews p. 264-265; APN p. 205; Barnhart 1: 555; BL 1
 #### Composite works
 
 One of several collaborators with L.F. Ward:
-(1) *The Cretaceous formation of the Black Hills*... 1899, see TL-2/7, nr. 16.698; and
-(2) *Status of the Mesozoic floras of the United States*... Part 1, 1900, see TL-2/7, nr.
+- (1) *The Cretaceous formation of the Black Hills*... 1899, see TL-2/7, nr. 16.698; and
+- (2) *Status of the Mesozoic floras of the United States*... Part 1, 1900, see TL-2/7, nr.
 16.700.
 
 ### Publications

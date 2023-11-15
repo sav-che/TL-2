@@ -8,9 +8,10 @@ Lamy de la Chapelle, Pierre Marie Édouard (1804 \[not 1803\]-1886), French cryp
 
 #### Herbarium and types
 
-[[Collection PC|PC]] (Lamy left his cryptogamic herbarium to Malinvaud). L's phanerogamic herbarium is at [[Collection ANG|ANG]] (through Boreau). An early cryptogamic collection went to Duby. Other bryophytes at [[Collection BR|BR]]. – Exsiccatae:
-(1) *Flore Galliae et Germaniae exsiccata* (1841), set at [[Collection L|L]].
-(2) *Hepaticae Galliae* (1840-1929, with Husnot and Puget).
+[[Collection PC|PC]] (Lamy left his cryptogamic herbarium to Malinvaud). L's phanerogamic herbarium is at [[Collection ANG|ANG]] (through Boreau). An early cryptogamic collection went to Duby. Other bryophytes at [[Collection BR|BR]].
+*Exsiccatae*:
+- (1) *Flore Galliae et Germaniae exsiccata* (1841), set at [[Collection L|L]].
+- (2) *Hepaticae Galliae* (1840-1929, with Husnot and Puget).
 *Ref*.: Husnot, P. T., Rev. bryol. 13(6): 110-111. 1886.
 
 #### Bibliography and biography

@@ -37,9 +37,9 @@ Ainsworth p. 226, 284, 318; Barnhart 3: 118; BM 1: 379, 4: 1632; Bossert p. 320;
 
 #### Composite works
 
-(1) With M.C. Cooke, *Clav. syn. hymenomyc. eur*. 1878, see TL-2/1206; IDC 6257.
-(2) Collaborator, A. Mougeot, *Fl. Vosges, Champ*. 1887, TL-2/6371.
-(3) *L'interprétation des plantes de Bulliard* et leur concordance avec les noms actuels, Toulouse 1895, 39 p., Revue mycologique 1895, see TL-2/909.
+- (1) With M.C. Cooke, *Clav. syn. hymenomyc. eur*. 1878, see TL-2/1206; IDC 6257.
+- (2) Collaborator, A. Mougeot, *Fl. Vosges, Champ*. 1887, TL-2/6371.
+- (3) *L'interprétation des plantes de Bulliard* et leur concordance avec les noms actuels, Toulouse 1895, 39 p., Revue mycologique 1895, see TL-2/909.
 
 #### Eponymy
 

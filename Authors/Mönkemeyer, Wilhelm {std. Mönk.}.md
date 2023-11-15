@@ -22,8 +22,8 @@ Barnhart 2: 500; BM 7: 854; Bossert p. 271; IH 1(ed. 6): 362, 2: 551; Kew 4: 22;
 
 #### Composite works
 
-(1) Pascher, *Süsswasserflora, Bryales* in 14: \[39\]-168, *fig. A-H, 1-62*. 1914; ed. 2. 14; \[47\]-197, *fig. A-G*. 1931. (rev. ed. 1: L. Loeske, Bot. Centralbl. 126: 98-99. 28 Jul 1914, E. Irmscher, Hedwigia 55(Beibl. 1): (5)-(6). 12 Mai 1914; ed. 2. O. C. Schmidt, Hedwigia 71(Beibl. 1): (13). Aug 1931.
-(2) Kohl's *Taschenwörterbuch der botanischen Kunstausdrücke für Gärtner*. Ed. 2, by W. Mönkemeyer, Berlin (Paul Parey) 1889, 98 p. (publ. 15 Sep-1 Oct 1889).
+- (1) Pascher, *Süsswasserflora, Bryales* in 14: \[39\]-168, *fig. A-H, 1-62*. 1914; ed. 2. 14; \[47\]-197, *fig. A-G*. 1931. (rev. ed. 1: L. Loeske, Bot. Centralbl. 126: 98-99. 28 Jul 1914, E. Irmscher, Hedwigia 55(Beibl. 1): (5)-(6). 12 Mai 1914; ed. 2. O. C. Schmidt, Hedwigia 71(Beibl. 1): (13). Aug 1931.
+- (2) Kohl's *Taschenwörterbuch der botanischen Kunstausdrücke für Gärtner*. Ed. 2, by W. Mönkemeyer, Berlin (Paul Parey) 1889, 98 p. (publ. 15 Sep-1 Oct 1889).
 
 #### Eponymy
 

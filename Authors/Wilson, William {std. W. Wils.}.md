@@ -8,7 +8,7 @@ Wilson, William (1799-1871), British solicitor and bryologist at Manchester, lat
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (50.0000, see Murray 1904). – Other material at [[Collection AK|AK]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DGN|DGN]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection GC|GC]], [[Collection H|H]], [[Collection K|K]], [[Collection MANGH|MANGH]], [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection QK|QK]], [[Collection TCD|TCD]], [[Collection WRN|WRN]].
+[[Collection BM|BM]] (50.0000, see Murray 1904). – Other material at [[Collection AK|AK]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DGN|DGN]], [[Collection DPU|DPU]], [[Collection FH|FH]], [[Collection GC|GC]], [[Collection H|H]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection QK|QK]], [[Collection TCD|TCD]], [[Collection WRN|WRN]].
 *Exsiccatae*: *Musci britannicae* nos. 1-443. – Sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection NY|NY]] (see Sayre 1971). – *Drawings* at [[Collection BM|BM]] and [[Collection FH|FH]] (tracings from books). – *Correspondence* (12 vols. at [[Collection BM|BM]]) and *letters* at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GH|GH]], [[Collection H|H]]-UB, [[Collection LINN|LINN]], [[Collection NY|NY]], [[Collection UPS|UPS]]-UB. -*Manuscripts*: see Bridson (1980).
 
 #### Bibliography and biography
@@ -35,8 +35,8 @@ AG 1: 147, 6(1): 342; Barnhart 3: 505; BB p. 330-331; Bossert p. 439; Clokie p. 
 
 #### Composite works
 
-(1)*Musci, in* B. Seemann, *Bot. Voy. Herald* 1852-1857, TL-2/11.601, p. 44-46, 244-245, 333, 432.
-(2) Co-author with J.D. Hooker, *Musci antarctici* 1844, TL-2/2966.
+- (1) *Musci, in* B. Seemann, *Bot. Voy. Herald* 1852-1857, TL-2/11.601, p. 44-46, 244-245, 333, 432.
+- (2) Co-author with J.D. Hooker, *Musci antarctici* 1844, TL-2/2966.
 
 #### Eponymy
 

@@ -109,17 +109,17 @@ AG 1: 274; Ainsworth p. 273; Andrews p. 260; Barnhart 1: 510; BFM: 282 (index); 
 
 #### Composite works
 
-(1)-(6), see TL-2/1.
-(7) Eine *Karpatenreise in* Verh. bot. Ver. Prov. Brandenburg 7: 106-173. 20 Dec 1865 and 10 Feb 1866 (p. 151-164 by Engler).
-(8) *Beiträge* zur *Flora* des *südlichen Japan* und der Liu-Kiu-Inseln. Auf Grund der von Dr. Döderlein und Tachiro gesammelten Pflanzen herausgegeben *in* Bot. Jahrb. 6(1): 49-74. 24 Oct 1884. *Collectors*: Ludwig Döderlein (x-1936), see IH 2: 164 and Tachiro, see IH 2: 987.
-(9) *Das botanische Museum* der Universität *Breslau*, 1888, see under first author Ferdinand Julis Cohn, TL-2/suppl. 4: 254-258.
-(10) *Der* Königliche *botanische Garten* und das Königlich botanische Museum zu *Dahlem*, 1909, p. \[i-iv\], \[1\]-158, \[159\], map. – *Copy*: B.
+- (1)-(6), see TL-2/1.
+- (7) Eine *Karpatenreise in* Verh. bot. Ver. Prov. Brandenburg 7: 106-173. 20 Dec 1865 and 10 Feb 1866 (p. 151-164 by Engler).
+- (8) *Beiträge* zur *Flora* des *südlichen Japan* und der Liu-Kiu-Inseln. Auf Grund der von Dr. Döderlein und Tachiro gesammelten Pflanzen herausgegeben *in* Bot. Jahrb. 6(1): 49-74. 24 Oct 1884. *Collectors*: Ludwig Döderlein (x-1936), see IH 2: 164 and Tachiro, see IH 2: 987.
+- (9) *Das botanische Museum* der Universität *Breslau*, 1888, see under first author Ferdinand Julis Cohn, TL-2/suppl. 4: 254-258.
+- (10) *Der* Königliche *botanische Garten* und das Königlich botanische Museum zu *Dahlem*, 1909, p. \[i-iv\], \[1\]-158, \[159\], map. – *Copy*: B.
 
 #### Notes
 
-(1) A part of the publications by Engler especially on families of African plants were issued as combined reprints of more than one family with or without a cover (identif.). These "combinations" are considered here as being issued as separate reprints.
-(2) There exist of course also reprints of Engler's contributions to "Die natürlichen Pflanzenfamilien" and "Das Pflanzenreich" but as these standard works are already extensively treated in TL-2 these are not mentioned here anymore.
-(3) On several occasions Engler also published small reports on the progress of these books, reports which are not incorporated here. They can be found in B.
+- (1) A part of the publications by Engler especially on families of African plants were issued as combined reprints of more than one family with or without a cover (identif.). These "combinations" are considered here as being issued as separate reprints.
+- (2) There exist of course also reprints of Engler's contributions to "Die natürlichen Pflanzenfamilien" and "Das Pflanzenreich" but as these standard works are already extensively treated in TL-2 these are not mentioned here anymore.
+- (3) On several occasions Engler also published small reports on the progress of these books, reports which are not incorporated here. They can be found in B.
 
 #### Eponymy
 
@@ -244,7 +244,7 @@ Ueber das *Pflanzenleben unter der Erde*... Berlin (Verlag von Carl Habel...) 18
 **Notes**
 *Publ*.: 1880, cover-t.p., p. \[1\]-31, \[32, impr.\]. *Copies*: B, G, L; IDC 8831/1. – Issued in Sammlung gemeinverständlicher wissenschaftlicher Vorträge Heft 346 (in XV. Serie). 1880, general pagination p. 313-341, \[342, impr.\].
 *Notes*: (1) On t.p. on \[1\]: "Ein populärer Vortrag, gehalten zum Besten der akademischen Lesehalle in Kiel am 26. November 1879.".
-(2) A second copy in G is issued as reprint of S.B. Abh. naturw. Ges. Isis Dresden 1881: cover (identif.), p. \[3\]-24.
+- (2) A second copy in G is issued as reprint of S.B. Abh. naturw. Ges. Isis Dresden 1881: cover (identif.), p. \[3\]-24.
 
 ##### n.32.982. morphologischen Verhältnisse
 

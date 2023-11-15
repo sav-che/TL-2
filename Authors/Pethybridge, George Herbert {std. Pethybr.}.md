@@ -32,7 +32,7 @@ Barnhart 3: 75; BM 8: 1003; Desmond p. 491; Hawksworth p. 185; IH 2: (in press);
 
 #### Composite works
 
-(1) With R.L. Praeger, *Vegetation of the District lying South of Dublin*, Proc. R. Irish Acad. 25B(6): 124-180, *pl. 7-12.* 2 Dec 1905.
-(2) Assistant editor *Journal of Pomology and horticultural Science* 1936-1948 (vol. 23, 1948, dedicated to him).
-(3) With J. Adams, *A census catalogue of Irish fungi*, Proc. R. Irish Acad. 28(A): 120-166. 8 Jun 1910. \[John Adams, 1872-1950\].
+- (1) With R.L. Praeger, *Vegetation of the District lying South of Dublin*, Proc. R. Irish Acad. 25B(6): 124-180, *pl. 7-12.* 2 Dec 1905.
+- (2) Assistant editor *Journal of Pomology and horticultural Science* 1936-1948 (vol. 23, 1948, dedicated to him).
+- (3) With J. Adams, *A census catalogue of Irish fungi*, Proc. R. Irish Acad. 28(A): 120-166. 8 Jun 1910. \[John Adams, 1872-1950\].
 

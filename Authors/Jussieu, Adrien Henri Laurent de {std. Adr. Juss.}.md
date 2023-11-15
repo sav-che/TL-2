@@ -35,8 +35,9 @@ AG 2: 283; Ainsworth p. 31-32, 310; Barnhart 2: 264; BM 2: 952; Bossert p. 202; 
 
 #### Composite works
 
-(1) Jussieu published the volume *Botanique* in the *Cours élémentaire d'histoire naturelle*... by A. de Jussieu, Mime-Edwards, et F. S. Beudant, Paris (Langlois et Leclercq; Fortin, Masson et Cie,...) s.d. \[1843\], p. \[ii-iii\], \[1\]-2, \[1\], \[1\]-728, duod. (in sixes). (*Copy*: NY), which went through twelve editions (ed. 12, 1884) and which was translated into English, German and Italian. (2) J. published also *Epistolae Caroli a Linné ad Bernardum de Jussieu ineditae*,... Cambridge, Mass., 1854.
-(3) Contributed botanical articles to d'Orbigny, *Dict. univ. hist. nat.* signing himself "Ad.J", 13 vols. Paris 1840-1849; also to Bory de Saint-Vincent, *Dict, class hist, nat.*, 16 vols. Paris 1822-1831 (TL-2/669).
+- (1) Jussieu published the volume *Botanique* in the *Cours élémentaire d'histoire naturelle*... by A. de Jussieu, Mime-Edwards, et F. S. Beudant, Paris (Langlois et Leclercq; Fortin, Masson et Cie,...) s.d. \[1843\], p. \[ii-iii\], \[1\]-2, \[1\], \[1\]-728, duod. (in sixes). (*Copy*: NY), which went through twelve editions (ed. 12, 1884) and which was translated into English, German and Italian.
+- (2) J. published also *Epistolae Caroli a Linné ad Bernardum de Jussieu ineditae*,... Cambridge, Mass., 1854.
+- (3) Contributed botanical articles to d'Orbigny, *Dict. univ. hist. nat.* signing himself "Ad.J", 13 vols. Paris 1840-1849; also to Bory de Saint-Vincent, *Dict, class hist, nat.*, 16 vols. Paris 1822-1831 (TL-2/669).
 
 #### Handwriting
 

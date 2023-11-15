@@ -8,7 +8,8 @@ Torrend, Camille (1875-1961), French clergyman (S.J.) and mycologist; active in 
 
 #### Herbarium and types
 
-[[Collection URM|URM]]; other material at [[Collection COI|COI]], [[Collection IACM|IACM]], [[Collection INA|INA]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection SP|SP]]. – *Exsiccatae*: *Fungi selecti exsiccati*, cent. 1-3, 1910-1914, nos. 1-100, 25a, 64a, 101-200, 152b, 176b, 201-300, 201a, 236a. Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection S|S]], [[Collection URM|URM]]. – See J. Stevenson, Beih. Nova Hedw. 36: 466-469. 1971 (full details; refs. to texts and commentaries). Centuries 1 and 2 were published each in 4 series. – *Letters* to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]].
+[[Collection URM|URM]]; other material at [[Collection COI|COI]], [[Collection IACM|IACM]], [[Collection INA|INA]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection SP|SP]].
+*Exsiccatae*: *Fungi selecti exsiccati*, cent. 1-3, 1910-1914, nos. 1-100, 25a, 64a, 101-200, 152b, 176b, 201-300, 201a, 236a. Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection S|S]], [[Collection URM|URM]]. – See J. Stevenson, Beih. Nova Hedw. 36: 466-469. 1971 (full details; refs. to texts and commentaries). Centuries 1 and 2 were published each in 4 series. – *Letters* to W.G. Farlow at [[Collection FH|FH]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

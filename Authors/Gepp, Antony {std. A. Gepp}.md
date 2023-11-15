@@ -22,6 +22,6 @@ Barnhart 2: 39; BM 2: 660, 6: 364; BL 1: 47, 68, 92, 121; Bossert p. 142; CSP 15
 
 #### Composite works
 
-(1) *Bryophytes* and *lichens, in* J. W. Gregory, *The great Rift valley*, app. 13 (1896).
-(2) *Musci, in* Catalogue... African plants... Welwitsch, vol. 2 (1901).
+- (1) *Bryophytes* and *lichens, in* J. W. Gregory, *The great Rift valley*, app. 13 (1896).
+- (2) *Musci, in* Catalogue... African plants... Welwitsch, vol. 2 (1901).
 

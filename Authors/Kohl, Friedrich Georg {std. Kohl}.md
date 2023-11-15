@@ -19,10 +19,10 @@ Barnhart 2: 310; BM 2: 1010; CSP 16: 388; DTS 1: 159; Kew 3: 291; LS 14256-14260
 
 #### Composite works
 
-(1) *Botanisches Centralblatt*, editor vols. 35-88, 1888-1901; *Beihefte*, editor, 1-24(1), 1891-1909 (with O. Uhlworm).
-(2) Reichenbach, *Icones florae Germanicae et Helvetiae*, author of vol. 23, 1898-1899.
-(3) Kohl also published a *Taschenwörterbuch der botanischen Kunstaüsdruckefür Gärtner*, Berlin (P. Parey) 1883, ed. 2. 1889; ed. 3, 1903.
-(4) *Botanische Wandtafeln*, 5 series; 3. Systematik und Entwickelungsgeschichte. Cassel \[1898-1907, not precise\].
+- (1) *Botanisches Centralblatt*, editor vols. 35-88, 1888-1901; *Beihefte*, editor, 1-24(1), 1891-1909 (with O. Uhlworm).
+- (2) Reichenbach, *Icones florae Germanicae et Helvetiae*, author of vol. 23, 1898-1899.
+- (3) Kohl also published a *Taschenwörterbuch der botanischen Kunstaüsdruckefür Gärtner*, Berlin (P. Parey) 1883, ed. 2. 1889; ed. 3, 1903.
+- (4) *Botanische Wandtafeln*, 5 series; 3. Systematik und Entwickelungsgeschichte. Cassel \[1898-1907, not precise\].
 
 #### Name
 

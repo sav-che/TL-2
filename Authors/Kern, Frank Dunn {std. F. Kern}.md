@@ -27,8 +27,8 @@ Barnhart 2: 283; Bossert p. 209; Hirsch p. 149; IH 2: 353; Kew 3: 238; LS 13820,
 
 #### Composite works
 
-(1) NAF, *Aecidiaceae, Gymnosporangium*, 7(3): 188-211. 15 Apr 1912 (TL-2/781).
-(2) Associate editor *Mycologia* 1926-1932.
+- (1) NAF, *Aecidiaceae, Gymnosporangium*, 7(3): 188-211. 15 Apr 1912 (TL-2/781).
+- (2) Associate editor *Mycologia* 1926-1932.
 
 #### Note
 

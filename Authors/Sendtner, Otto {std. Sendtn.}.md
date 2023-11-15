@@ -38,7 +38,7 @@ ADB 34: 7-8 (E. Wunschmann); AG 2: 477-478, 5(2): 188, 12(2): 685; Backer p. 661
 
 #### Composite works
 
-(1) *Solanaceae* et *Cestrineae, in* Martius, *Fl. bras.* 10: 1-228, *pl. 1-19.* 1 Jul 1846.
+- (1) *Solanaceae* et *Cestrineae, in* Martius, *Fl. bras.* 10: 1-228, *pl. 1-19.* 1 Jul 1846.
 
 #### Handwriting
 

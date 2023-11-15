@@ -34,7 +34,7 @@ AG 5(1):659, 6(1): 740; Barnhart 3: 31; BFM no. 2326; BM 3: 1472; Bossert p. 294
 
 #### Composite works
 
-(1) See Berchtold, F., *Oekon. Techn. Fl. Böhm.* 1(2)-3(2), 1836-1843, TL-2/434, 436 and 437. We have now seen a copy of TL-2/436, at FI: "*Die Rubiaceen Böheims*. Mit Einschluss der Färberröthe. (*Rubia tinctorum* L.). Monographisch bearbeitet in ökonomisch-technischer Hinsicht von F. Grafen von Berchtold, in botanischer von P. M. Opzi,..." Prag (Gedruckt bei Th. Thabor,...) 1838, p. \[1\]-99.
+- (1) See Berchtold, F., *Oekon. Techn. Fl. Böhm.* 1(2)-3(2), 1836-1843, TL-2/434, 436 and 437. We have now seen a copy of TL-2/436, at FI: "*Die Rubiaceen Böheims*. Mit Einschluss der Färberröthe. (*Rubia tinctorum* L.). Monographisch bearbeitet in ökonomisch-technischer Hinsicht von F. Grafen von Berchtold, in botanischer von P. M. Opzi,..." Prag (Gedruckt bei Th. Thabor,...) 1838, p. \[1\]-99.
 
 #### Tauschanstalt
 

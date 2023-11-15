@@ -28,10 +28,10 @@ AG 6(1): 431; Backer p. 661; Barnhart 3: 306 (b. 26 Nov 1801, d. 18 Mai 1879); B
 
 #### Composite works
 
-(1) Collaborator, C. d'Orbigny, ed., *Dict. univ. Hist. nat.* 1839-1849, 16 vols., TL-2/7096.
-(2) With H.F. Jaubert, *Ill. pl. orient.* 1842-1857, 5 vols. See TL-2/3303.
-(3) Contributed to J.L.A. Loiseleur-Deslongchamps, *Herb. gén. amat. ser. 2* 1839-1841, see TL-2/4962.
-(4) With R.L. Desfontaines, *Additamentum, Cat. pl. hort. paris.* 417-484. 1832, see TL-2/1394 (ed. 3).
+- (1) Collaborator, C. d'Orbigny, ed., *Dict. univ. Hist. nat.* 1839-1849, 16 vols., TL-2/7096.
+- (2) With H.F. Jaubert, *Ill. pl. orient.* 1842-1857, 5 vols. See TL-2/3303.
+- (3) Contributed to J.L.A. Loiseleur-Deslongchamps, *Herb. gén. amat. ser. 2* 1839-1841, see TL-2/4962.
+- (4) With R.L. Desfontaines, *Additamentum, Cat. pl. hort. paris.* 417-484. 1832, see TL-2/1394 (ed. 3).
 
 #### Handwriting
 

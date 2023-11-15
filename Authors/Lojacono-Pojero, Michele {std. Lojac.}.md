@@ -8,7 +8,8 @@ Lojacono-Pojero, Michele (1853-1919), Italian botanist at Palermo.
 
 #### Herbarium and types
 
-[[Collection PAL|PAL]]; further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection DS|DS]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GE|GE]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PI|PI]], [[Collection W|W]]. – Exsiccatae: *Plantae siculae rariores exsiccatae*, c. 1880-1883; *Plantae italicae selectae* (1885).
+[[Collection PAL|PAL]]; further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection DS|DS]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GE|GE]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PI|PI]], [[Collection W|W]].
+*Exsiccatae*: *Plantae siculae rariores exsiccatae*, c. 1880-1883; *Plantae italicae selectae* (1885).
 
 #### Bibliography and biography
 

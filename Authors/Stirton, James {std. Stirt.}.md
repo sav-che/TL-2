@@ -31,8 +31,8 @@ Barnhart 3: 331 (d. 14 Jan 1917); BB p. 289; BM 5: 2022; Clokie p. 249; CSP 8: 1
 
 #### Composite works
 
-(1) *Cryptogamic flora, in* Edward Richard Alston, *Notes on the fauna and flora of the West of Scotland*, Glasgow 1876.
-(2) *Musci, Hepaticae* (with R.H. Paterson), *Lichenes, in* Glasgow Society of Field Naturalists, *A contribution towards a complete list of the fauna and flora of Clydesdale*... Glasgow 1876.
+- (1) *Cryptogamic flora, in* Edward Richard Alston, *Notes on the fauna and flora of the West of Scotland*, Glasgow 1876.
+- (2) *Musci, Hepaticae* (with R.H. Paterson), *Lichenes, in* Glasgow Society of Field Naturalists, *A contribution towards a complete list of the fauna and flora of Clydesdale*... Glasgow 1876.
 
 #### Eponymy
 

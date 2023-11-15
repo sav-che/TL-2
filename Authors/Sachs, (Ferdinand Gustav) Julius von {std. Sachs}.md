@@ -74,15 +74,16 @@ E.G. Pringsheim, Julius Sachs, pl. between p. 240-241.
 
 #### Note
 
-(1): Julius Sachs, b. Baltimore Md. 6 Jul 1849, d. 2 Feb 1934, was an American educator who wrote on science education in *Torreya*.
-(2) We have no information on Franz Jakob Sachs, who published a dissertation *De Ulmo* in Strassburg 1738 \[Dissertatio inauguralis medica *de Ulmo* quam consensu gratiosi medicorum ordinis pro honoribus atque privilegiis doctoralibus obtinendis ad diem xi. Aprilis mdccxxxviii... Argentorati, Literis heredum Johannes Pastorii, p. \[i-iv\], \[1\]-36. *Copy*: USDA\].
-(3) During his years at Praha, Sachs published in Czech in the Bohemian journal Živa (edited by J.E. Purkyne) under the name *Julia Saxa*. The papers in Živa are listed e.g. by Goebel (1897) (titles in German translation) and Pringsheim (1932).
-(4) Carl (Karl) Sachs (1853-1878), German traveller and zoologist, wrote e.g. *Aus den Llanos*, Schilderungen einer naturwissenschaftlichen Reise nach Venezuela, Leipzig 1879, vii, ii, 369 p., *1 pl*.; travelled in Venezuela 1876-1877.
+- (1): Julius Sachs, b. Baltimore Md. 6 Jul 1849, d. 2 Feb 1934, was an American educator who wrote on science education in *Torreya*.
+- (2) We have no information on Franz Jakob Sachs, who published a dissertation *De Ulmo* in Strassburg 1738 \[Dissertatio inauguralis medica *de Ulmo* quam consensu gratiosi medicorum ordinis pro honoribus atque privilegiis doctoralibus obtinendis ad diem xi. Aprilis mdccxxxviii... Argentorati, Literis heredum Johannes Pastorii, p. \[i-iv\], \[1\]-36. *Copy*: USDA\].
+- (3) During his years at Praha, Sachs published in Czech in the Bohemian journal Živa (edited by J.E. Purkyne) under the name *Julia Saxa*. The papers in Živa are listed e.g. by Goebel (1897) (titles in German translation) and Pringsheim (1932).
+- (4) Carl (Karl) Sachs (1853-1878), German traveller and zoologist, wrote e.g. *Aus den Llanos*, Schilderungen einer naturwissenschaftlichen Reise nach Venezuela, Leipzig 1879, vii, ii, 369 p., *1 pl*.; travelled in Venezuela 1876-1877.
 
 #### Composite works
 
-(1) Hofmeister, W.F.B., ed., *Handbuch der physiologischen Botanik*... vol. 4, 1865 by J. Sachs, *Handbuch der Experimental-Physiologie der Pflanzen*. (*2*) *Arbeiten des botanischen Instituts... Würzburg*, vols. 1-3, Leipzig, 1871-1888.
-(3) *Gesammelte Abhandlungen über Pflanzen-Physiologie*, 2 vols., Leipzig 1892-1893, x, 1293 p., *10 pl*. – See e.g. F. Noll, Bot. Jahrb. 16 (Lit.): 42-43. 27 Jun 1893.
+- (1) Hofmeister, W.F.B., ed., *Handbuch der physiologischen Botanik*... vol. 4, 1865 by J. Sachs, *Handbuch der Experimental-Physiologie der Pflanzen*.
+- (2) *Arbeiten des botanischen Instituts... Würzburg*, vols. 1-3, Leipzig, 1871-1888.
+- (3) *Gesammelte Abhandlungen über Pflanzen-Physiologie*, 2 vols., Leipzig 1892-1893, x, 1293 p., *10 pl*. – See e.g. F. Noll, Bot. Jahrb. 16 (Lit.): 42-43. 27 Jun 1893.
 
 #### Eponymy
 

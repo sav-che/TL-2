@@ -23,7 +23,7 @@ Barnhart 1: 247 (b. 21 Mai 1843, Helsinki, d. 24 Apr 1930, Svartback i Ingå); B
 
 #### Composite works
 
-(1) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleuropas* 1(3), see TL-2/11.174.
+- (1) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleuropas* 1(3), see TL-2/11.174.
 
 ### Publications
 

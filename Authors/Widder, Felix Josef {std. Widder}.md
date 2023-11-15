@@ -27,9 +27,9 @@ Barnhart 3: 491; BFM 867; Biol.-Dokum. 19: 10006; Bossert p. 435; Hirsch p. 322;
 
 #### Composite works
 
-(1) Founder and editor of *Phyton* 1-15, 1948-1974.
-(2) Contributed to K.H. Rechinger, *Flora of lowland Iraq*, 1964.
-(3) Contributed to Jahrbuch Ver. Schultze Alpenpfl., München 25: 104-177. 1960 and 28: 16-33. 1963: *Erzherzog Johann und seine Icones plantarum*.
+- (1) Founder and editor of *Phyton* 1-15, 1948-1974.
+- (2) Contributed to K.H. Rechinger, *Flora of lowland Iraq*, 1964.
+- (3) Contributed to Jahrbuch Ver. Schultze Alpenpfl., München 25: 104-177. 1960 and 28: 16-33. 1963: *Erzherzog Johann und seine Icones plantarum*.
 
 #### Festschrift
 

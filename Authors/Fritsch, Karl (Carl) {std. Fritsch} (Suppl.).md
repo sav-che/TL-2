@@ -14,7 +14,8 @@ Son of Carl Fritsch (1812-1879) (see above).
 
 #### Herbarium and types
 
-Europe: [[Collection GZU|GZU]], also [[Collection E|E]]. – *Exsiccatae*: *Flora exsiccata Austro-Hungarica*, a museo botanico universitatis vindonbonensis edita (Wien, nos. 2801-3600, 1898-1902) (*Fl. Exs. Austro-Hung.*): [[Collection BP|BP]], [[Collection C|C]], [[Collection LE|LE]], [[Collection M|M]], [[Collection W|W]] (orig.); see also TL-2/2, nr. 3598.
+Europe: [[Collection GZU|GZU]], also [[Collection E|E]].
+*Exsiccatae*: *Flora exsiccata Austro-Hungarica*, a museo botanico universitatis vindonbonensis edita (Wien, nos. 2801-3600, 1898-1902) (*Fl. Exs. Austro-Hung.*): [[Collection BP|BP]], [[Collection C|C]], [[Collection LE|LE]], [[Collection M|M]], [[Collection W|W]] (orig.); see also TL-2/2, nr. 3598.
 
 #### Bibliography and biography
 
@@ -41,23 +42,23 @@ AG 3: 447, 5(2): 453, 12(2): 385; APN p. 211; Backer p. 650; Barnhart 2: 12; BFM
 
 #### Note
 
-(1) *Excursionsfl. Oesterreich*... ed. 1, 1897 (see TL-2/1, nr. 1905) is available in microfiche:
+- (1) *Excursionsfl. Oesterreich*... ed. 1, 1897 (see TL-2/1, nr. 1905) is available in microfiche:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 9 microfiches (Plant taxonomic lit. microfiche coll., "8172D6-8180A6"). *Copy*: MO (n.v.).
-(2) The most recent incarnation of *Exkursionsfl. Oesterreich* is: Fischer, Manfred A., Karl Oswald & Wolfgang Adler, *Exkursionsflora für Österreich, Liechtenstein und Südtirol*, 3. Auflage... Linz (OÖ Landesmuseum) 2008. Copy: (n.v.).
+- (2) The most recent incarnation of *Exkursionsfl. Oesterreich* is: Fischer, Manfred A., Karl Oswald & Wolfgang Adler, *Exkursionsflora für Österreich, Liechtenstein und Südtirol*, 3. Auflage... Linz (OÖ Landesmuseum) 2008. Copy: (n.v.).
 
 #### Composite works
 
-(1) Nomenclatural proposals by Fritsch were included in R. von Wettstein, *Neuere Bestrebungen auf dem Gebiete der botanischen Nomenclatur*... 1892, see TL-2/7, nr. 17.339.
-(2) Contributed "Bot. Mus. & Gard." to R. von Wettstein (ed.), *Bot. Anst. Wiens*... 1894, see TL-2/7, nr. 17.345.
-(3) Contributed fascs. 8, 1899 and 9, 1902 to A. Kerner von Marilaun, *Sched. fl. exs. austrohung.*... 1881-1913, see TL-2/2, nr. 3598.
-(4) One of many collaborators contributing to A. Zahlbruckner, *Plantae Pentherianae* \[I\] ... 1900, see TL-2/7, nr. 18.507.
-(5) Editor of A. Pokorny, *Illustrierte Naturgeschichte des Pflanzenreiches*... ed. 22, 1903 & ed. 28, 1921, at least, see TL-2/4: 326 (sub (2)).
-(6) Ad (a) *Gesneriaceae* add: Nachtr. II-IV, 3: 317-319. Feb 1908.
+- (1) Nomenclatural proposals by Fritsch were included in R. von Wettstein, *Neuere Bestrebungen auf dem Gebiete der botanischen Nomenclatur*... 1892, see TL-2/7, nr. 17.339.
+- (2) Contributed "Bot. Mus. & Gard." to R. von Wettstein (ed.), *Bot. Anst. Wiens*... 1894, see TL-2/7, nr. 17.345.
+- (3) Contributed fascs. 8, 1899 and 9, 1902 to A. Kerner von Marilaun, *Sched. fl. exs. austrohung.*... 1881-1913, see TL-2/2, nr. 3598.
+- (4) One of many collaborators contributing to A. Zahlbruckner, *Plantae Pentherianae* \[I\] ... 1900, see TL-2/7, nr. 18.507.
+- (5) Editor of A. Pokorny, *Illustrierte Naturgeschichte des Pflanzenreiches*... ed. 22, 1903 & ed. 28, 1921, at least, see TL-2/4: 326 (sub (2)).
+- (6) Ad (a) *Gesneriaceae* add: Nachtr. II-IV, 3: 317-319. Feb 1908.
 Ad (b) *Columelliaceae* add: Nachtr. II-IV, 3: 320. Feb 1908.
 Ad (c) *Caprifoliaceae* add: Nachtr. II-IV, 3: 330-332. Feb 1908.
 Ad (d) *Adoxaceae* add: Nachtr. II-IV, 3: 332. Feb 1908.
-(7) Editor, *Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark* (1906-1910).
-(8) Contributed name changes to G. Tischler, *Allg. Pfl.-Karyol.*... 1921-1922, see TL-2/6, nr. 14.593.
+- (7) Editor, *Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark* (1906-1910).
+- (8) Contributed name changes to G. Tischler, *Allg. Pfl.-Karyol.*... 1921-1922, see TL-2/6, nr. 14.593.
 
 ### Publications
 

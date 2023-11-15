@@ -23,8 +23,8 @@ Ainsworth p. 120, 213, 285, 318, 347; Barnhart 3: 263 (b. 16 Jan 1883, d. 18 Oct
 #### Composite works
 
 Collaborator, H. Baillon, *Dict. bot.*, vols. 1-4, 1876-1892, see TL-2/253.
-(2) *Introduction* to J. Moyen, *Champignons* 1889, see TL-2/6388.
-(3) Editor, with Ch. Martins, of A. Richard, *Nouv. élém. bot.*, ed. 10. 1871.
+- (2) *Introduction* to J. Moyen, *Champignons* 1889, see TL-2/6388.
+- (3) Editor, with Ch. Martins, of A. Richard, *Nouv. élém. bot.*, ed. 10. 1871.
 
 #### Eponymy
 

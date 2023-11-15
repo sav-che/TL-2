@@ -28,9 +28,9 @@ Barnhart 1: 287; BB p. 55; BM 1: 291; Bret. p. 280; CSP 1: 735; Desmond p. 108 (
 
 #### Composite works
 
-(1) Edited new ed. of John Stephenson, *Medical botany* 1834-1838. see TL-2/13.011.
-(2) In the lecture-room Mr. Gilbert T. Burnett discoursed on the subject of *vegetable metamorphosis*. The Quaterly Journal of Science, Literature, and Art, Jan-Jun 1929: p. 356-363. (fide Schmid, Goethe u. d. Naturwiss., Halle 1900: 251-252).
-(3) M.A. Burnett and G.T. Burnett, *Plantae utiliores*, London, 4 vols. London \[1839\] 1842-1850, atlas, 250 coloured pl., text mainly by G.T. Burnett. *Copy*: HH, see Tucker 1: 128. 1914 and Plesch p. 167.
+- (1) Edited new ed. of John Stephenson, *Medical botany* 1834-1838. see TL-2/13.011.
+- (2) In the lecture-room Mr. Gilbert T. Burnett discoursed on the subject of *vegetable metamorphosis*. The Quaterly Journal of Science, Literature, and Art, Jan-Jun 1929: p. 356-363. (fide Schmid, Goethe u. d. Naturwiss., Halle 1900: 251-252).
+- (3) M.A. Burnett and G.T. Burnett, *Plantae utiliores*, London, 4 vols. London \[1839\] 1842-1850, atlas, 250 coloured pl., text mainly by G.T. Burnett. *Copy*: HH, see Tucker 1: 128. 1914 and Plesch p. 167.
 
 ### Publications
 

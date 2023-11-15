@@ -56,8 +56,8 @@ Barnhart 2: 171; BM 2: 841; Hortus 3: 1195 ("Heynh."); Jackson p. 15, 310; Kew 2
 \[*Zweite Abtheilung*:\] late 1842 (Flora rd. Nov.Dec 1842), p. \[i-ii\], \[349\]-862, \[1, err.\].
 *Copies*: B, G, M, NY, Regensburg, USDA.
 *Title-pages*: (1) With text as above, issued with second part.
-(2) As above, but e.g. with "Erster Band. Erste Abtheilung," in all copies seen as p. \[ii\].
-(3) in some copies as p. \[iii\]: "Flora von Sachsen. Erster Band: Phanerogamie von Gustav Heynhold. Erste Abtheilung."
+- (2) As above, but e.g. with "Erster Band. Erste Abtheilung," in all copies seen as p. \[ii\].
+- (3) in some copies as p. \[iii\]: "Flora von Sachsen. Erster Band: Phanerogamie von Gustav Heynhold. Erste Abtheilung."
 *Ref*.: Anon., Lit. Ber. Flora \[12\]: 101-106. 7 Dec 1842.
 
 ##### n.2741. Clavis generum zur Flora von Sachsen

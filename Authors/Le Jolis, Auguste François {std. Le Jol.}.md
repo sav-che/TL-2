@@ -8,7 +8,8 @@ Le Jolis, Auguste François (1823-1904), French merchant and algologist at Cherb
 
 #### Herbarium and types
 
-[[Collection CHE|CHE]]; duplicates see IH. Exsiccatae: *Algues marines de Cherbourg*, fasc. i-xiv, nos. 1-280, Cherbourg 1863-1882; sets at [[Collection AUT|AUT]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection LG|LG]], [[Collection NY|NY]], [[Collection S|S]], [[Collection WRSL|WRSL]]. – L's library is also at [[Collection CHE|CHE]]. Mosses at [[Collection H|H]] and [[Collection L|L]].
+[[Collection CHE|CHE]]; duplicates see IH.
+*Exsiccatae*: *Algues marines de Cherbourg*, fasc. i-xiv, nos. 1-280, Cherbourg 1863-1882; sets at [[Collection AUT|AUT]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection LG|LG]], [[Collection NY|NY]], [[Collection S|S]], [[Collection WRSL|WRSL]]. – L's library is also at [[Collection CHE|CHE]]. Mosses at [[Collection H|H]] and [[Collection L|L]].
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(1): 85. 1969, 19(3): 357. 1975.
 
 #### Bibliography and biography

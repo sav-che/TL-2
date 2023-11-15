@@ -22,8 +22,8 @@ APN p. 194; Barnhart 1: 527; BL 2: 369, 652; CSP 14: 928; DBI 45: 165-166 (d. "1
 
 #### Composite works
 
-(1) Collaborated with G. Briosi, *Atlante botanico secondo* il *sistema naturale* di *De Candolle*, ed. 2... Milano (U. Hoepli) 1899. Qu.
-(2) Co-author with G. Briosi, *Nuovo tipo lich*.... 1902, see TL-2/Suppl. 3: nr. 22.886.
+- (1) Collaborated with G. Briosi, *Atlante botanico secondo* il *sistema naturale* di *De Candolle*, ed. 2... Milano (U. Hoepli) 1899. Qu.
+- (2) Co-author with G. Briosi, *Nuovo tipo lich*.... 1902, see TL-2/Suppl. 3: nr. 22.886.
 
 ### Publications
 

@@ -34,8 +34,8 @@ Andrews p. 353-354; Barnhart 3: 538 (b. 14 Jan 1847, d. 27 Nov 1915); BJI 1: 65;
 
 #### Composite works
 
-(1) *Preface*, to F. Pelourde, *Paléontol. vég.* 1914, TL-2/7624.
-(2) See B. Renault, TL-2/9023-9030, 9032, 9041, 9043.
+- (1) *Preface*, to F. Pelourde, *Paléontol. vég.* 1914, TL-2/7624.
+- (2) See B. Renault, TL-2/9023-9030, 9032, 9041, 9043.
 
 #### Eponymy
 

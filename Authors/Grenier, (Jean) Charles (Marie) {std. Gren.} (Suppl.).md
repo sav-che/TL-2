@@ -41,20 +41,20 @@ AG 4: 860; APN p. 241; Backer p. 651; Baillon 2: 741; Barnhart 2: 84; BL 2: 103,
 #### Note
 
 The following are now available in microform:
-(1) *Observ. bot.*... 1838 (TL-2/1, nr. 2149):
+- (1) *Observ. bot.*... 1838 (TL-2/1, nr. 2149):
 *Microfiche*: Zug, Switzerland (IDC), 1985, 1 microfiche. *Copy*: MO (n.v.).
-(2) *Monogr. Cerast.*... 1841 (TL-2/1, nr. 2150):
+- (2) *Monogr. Cerast.*... 1841 (TL-2/1, nr. 2150):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "8263A3-8264C1"). *Copy*: MO (n.v.).
-(3) *Géogr. bot. Doubs*... 1844 (L-2/1, nr. 2152):
+- (3) *Géogr. bot. Doubs*... 1844 (L-2/1, nr. 2152):
 *Microfiche*: Zug, Switzerland (IDC), 1985, 1 microfiche. *Copy*: MO (n.v.).
-(4) *Flore France prosp*.... 1846 (TL-2/1, nr. 2153):
+- (4) *Flore France prosp*.... 1846 (TL-2/1, nr. 2153):
 *Microfiche*: Zug, Switzerland (IDC), 1985, 1 microfiche. *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) One of several collaborators with F. Schultz in preparing text to accompany the exsiccatae *Fl. Gall. Germ. exs.*... 1836-1840 (TL-2/5, nr. 11.292).
-(2) Editor of E. Michalet, *Hist. nat. Jura Bot.*... 1864 (TL-2/3, nr. 5956).
-(3) Grenier, C., "*Contributions* à la *flore* de *France*... Paris (Librairie J.B. Baillière et Fils)" is a collection of reprints bound with a t.p. and printed "Table des matières". *Copy*: HH. – *Note*: The same publisher issued a similarly titled volume for D. Godron (see above).
+- (1) One of several collaborators with F. Schultz in preparing text to accompany the exsiccatae *Fl. Gall. Germ. exs.*... 1836-1840 (TL-2/5, nr. 11.292).
+- (2) Editor of E. Michalet, *Hist. nat. Jura Bot.*... 1864 (TL-2/3, nr. 5956).
+- (3) Grenier, C., "*Contributions* à la *flore* de *France*... Paris (Librairie J.B. Baillière et Fils)" is a collection of reprints bound with a t.p. and printed "Table des matières". *Copy*: HH. – *Note*: The same publisher issued a similarly titled volume for D. Godron (see above).
 
 ### Publications
 

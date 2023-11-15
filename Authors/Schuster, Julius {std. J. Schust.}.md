@@ -26,9 +26,9 @@ Andrews p. 329; Barnhart 3: 247; Biol.-Dokum. 16: 8443; BJI 2: 161; BM 4: 1874; 
 
 #### Composite works
 
-(1) *Cycadaceae, in* A. Engler, *Pflanzenreich* 4(1) (Heft 99): 1-168. 12 Jul 1932. – See also "Über das Verhältnis der systematischen Gliederung der geographischen Verbreitung und der paläontologischen Entwicklung der Cycadaceen", Bot. Jahrb. 64: 165-260. *pl. 4-11.* 1931.
-(2) *Nachwort über das natürliche System*, in Linné und Fabricius... Drei Faksimiles, 1928.
-(3) Editor, J.W. von Goethe, *Die Metamorphose der Pflanzen* 1924.
+- (1) *Cycadaceae, in* A. Engler, *Pflanzenreich* 4(1) (Heft 99): 1-168. 12 Jul 1932. – See also "Über das Verhältnis der systematischen Gliederung der geographischen Verbreitung und der paläontologischen Entwicklung der Cycadaceen", Bot. Jahrb. 64: 165-260. *pl. 4-11.* 1931.
+- (2) *Nachwort über das natürliche System*, in Linné und Fabricius... Drei Faksimiles, 1928.
+- (3) Editor, J.W. von Goethe, *Die Metamorphose der Pflanzen* 1924.
 
 #### Eponymy
 

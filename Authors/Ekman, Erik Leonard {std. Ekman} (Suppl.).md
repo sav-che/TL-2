@@ -42,19 +42,19 @@ Barnhart 1: 502; BL 1: 227; BM 6: 297; Hortus 3: 1192; IH 2: 180; KR p. 155; Lan
 
 #### Composite works
 
-(1) Ign. Urban, *Plantae Haitienses novae vel rariores a Cl. Er. L. Ekman 1917 lectae*, Ark. Bot. 17(7). 15 Mai 1922.
-(2) Id. II, 1924 lectae, Ark. Bot. 20 A(5). 14 Jun 1926.
-(3) Id. III, 1924-26 lectae, Ark. Bot. 20 A(15). 9 Dec 1926.
-(4) Id. IV, Ark. Bot. 21 A(5). 31 Mai 1927.
-(5) Id. V... et Domingenses... 1924-27 lectae, Ark. Bot. 22 A(8). 15 Apr 1929.
-(6) Id. VI, 1924-28 lectae, Ark. Bot. 22 A(10). 2 Jun 1929.
-(7) Id. VII, Ark. Bot. 22 A(17). 19 Nov 1929.
-(8) Id. VIII, Ark. Bot. 23 A(5). 11 Nov 1930.
-(9) Id. IX, Ark. Bot. 23 A(11). 14 Mar 1931.
-(10) Id. X, 1924-1930 lectae, Ark. Bot. 24 A(4). 12 Jan 1932.
-(11) R.E. Fries, *Die von Ekman in Westindien gesammelten Annonaceen*, Ark. Bot. 21 A(9). 8 Nov 1927.
-(12) R. Ciferri, *Smuts collected in the Dominican Republic by E.L. Ekman I*, Ark. Bot. 23 A(14). 25 Jun 1931.
-(13) R. Florin, *Die von E.L. Ekman* (†) *in Westindien gesammelten Coniferen*, Ark. Bot. 25 A(5). 26 Sep 1933.
+- (1) Ign. Urban, *Plantae Haitienses novae vel rariores a Cl. Er. L. Ekman 1917 lectae*, Ark. Bot. 17(7). 15 Mai 1922.
+- (2) Id. II, 1924 lectae, Ark. Bot. 20 A(5). 14 Jun 1926.
+- (3) Id. III, 1924-26 lectae, Ark. Bot. 20 A(15). 9 Dec 1926.
+- (4) Id. IV, Ark. Bot. 21 A(5). 31 Mai 1927.
+- (5) Id. V... et Domingenses... 1924-27 lectae, Ark. Bot. 22 A(8). 15 Apr 1929.
+- (6) Id. VI, 1924-28 lectae, Ark. Bot. 22 A(10). 2 Jun 1929.
+- (7) Id. VII, Ark. Bot. 22 A(17). 19 Nov 1929.
+- (8) Id. VIII, Ark. Bot. 23 A(5). 11 Nov 1930.
+- (9) Id. IX, Ark. Bot. 23 A(11). 14 Mar 1931.
+- (10) Id. X, 1924-1930 lectae, Ark. Bot. 24 A(4). 12 Jan 1932.
+- (11) R.E. Fries, *Die von Ekman in Westindien gesammelten Annonaceen*, Ark. Bot. 21 A(9). 8 Nov 1927.
+- (12) R. Ciferri, *Smuts collected in the Dominican Republic by E.L. Ekman I*, Ark. Bot. 23 A(14). 25 Jun 1931.
+- (13) R. Florin, *Die von E.L. Ekman* (†) *in Westindien gesammelten Coniferen*, Ark. Bot. 25 A(5). 26 Sep 1933.
 
 #### Eponymy
 

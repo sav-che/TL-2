@@ -37,7 +37,7 @@ Académie p. 227; AG 12(3): 269; APN p. 247; Baillon 2: 751; Barnhart 2: 97; BM 
 
 #### Note
 
-(1) *Observations sur les plantes*... 1747 (TL-2/1, nr. 2207) is now available in microform:
+- (1) *Observations sur les plantes*... 1747 (TL-2/1, nr. 2207) is now available in microform:
 (a) *Micro-opaque*: New York (Readex Microprint), 1974, 10 cards, 23×15 cm (In series, Landmarks of science). *Copy*: (n.v.). (b) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), 1987, 10 microfiches (Plant taxonomic lit. microfiche coll., "2171D6-2180F4"). *Copy*: MO (n.v.).
-(2) His *Cinquième* \[i.e. Sixième\] *mémoire*... 1753 (TL-2/1, nr. 2208) is now listed in Appendix V "*Opera Utique Oppressa*" of the 2006 Vienna *Code*. Names appearing in these works in the ranks specified at the end of each listing (all ranks in this case) are not to be accepted as validly published. This list was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
+- (2) His *Cinquième* \[i.e. Sixième\] *mémoire*... 1753 (TL-2/1, nr. 2208) is now listed in Appendix V "*Opera Utique Oppressa*" of the 2006 Vienna *Code*. Names appearing in these works in the ranks specified at the end of each listing (all ranks in this case) are not to be accepted as validly published. This list was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
 

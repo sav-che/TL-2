@@ -45,15 +45,15 @@ AG 1: 229, 6(1): 205, 12(3): 414; Backer p. 121; Barnhart 1: 344 (b. 12 Dec 1833
 
 #### Composite works
 
-(1) See TL-2/1: 500.
-(2) Die *Flora von Engelberg*, *in* Albert Fleiner, *Engelberg*, p. 87-95, Zürich 1890. – See also BL 2: 586.
-(3) *Vegetation* \[der Schweiz\], 1891, *in* A. Furrer, Volkswirtschafts-Lexikon der Schweiz 3: 332-344. Bern 1891, fider Rehder 1: 437.
-(4) Kuhn, Christ, Hieronymus and Diels, *Pteridophyta*, *in* K. Lauterbach, *Fl. Schutzgeb. Südsee* 1900, see TL-2/423, and *in* K. Schumann, TL-2/5: 401 (no. (6)).
-(5) *Filicinae*, *in* O. Warburg, Monsunia, 1900, see TL-2/16.662 (in vol. 7).
-(6) *Fetos do Amazonas inferior*..., *in* J.E. Huber, *Materiaes para a flora amazonica*, Bol. Mus. Para. 3: 60. 1900, see TL-2/3105.
-(7) Prof. Wilhelm Schimper (1856-1901), Verh. Schweiz. naturf. Ges. 84(Zofingen): xcvi (3 p.). 1901.
-(8) Ferns, *in* K. Schumann & K. Lauterbach, *Nachträge Fl. Schutzgeb. Südsee*, 1905, see TL-2/2: 768. no. 4239.
-(9) *Erinnerungen von Dr. Hermann Christ* niedergeschrieben bei Anlass der Vollendung seines 90. Lebensjahres, 12 Dezember 1923. \[Basel 1924\]. Oct. *Publ*.: 1924 (Nat. Nov. Apr 1924), cover-t.p., p. \[i-iii\], \[1\]-18. *Copy*: G. – Reprinted from Verh. naturf. Ges. Basel 35(1) being the "Festband Hermann Christ" (portr., bibl.).
+- (1) See TL-2/1: 500.
+- (2) Die *Flora von Engelberg*, *in* Albert Fleiner, *Engelberg*, p. 87-95, Zürich 1890. – See also BL 2: 586.
+- (3) *Vegetation* \[der Schweiz\], 1891, *in* A. Furrer, Volkswirtschafts-Lexikon der Schweiz 3: 332-344. Bern 1891, fider Rehder 1: 437.
+- (4) Kuhn, Christ, Hieronymus and Diels, *Pteridophyta*, *in* K. Lauterbach, *Fl. Schutzgeb. Südsee* 1900, see TL-2/423, and *in* K. Schumann, TL-2/5: 401 (no. (6)).
+- (5) *Filicinae*, *in* O. Warburg, Monsunia, 1900, see TL-2/16.662 (in vol. 7).
+- (6) *Fetos do Amazonas inferior*..., *in* J.E. Huber, *Materiaes para a flora amazonica*, Bol. Mus. Para. 3: 60. 1900, see TL-2/3105.
+- (7) Prof. Wilhelm Schimper (1856-1901), Verh. Schweiz. naturf. Ges. 84(Zofingen): xcvi (3 p.). 1901.
+- (8) Ferns, *in* K. Schumann & K. Lauterbach, *Nachträge Fl. Schutzgeb. Südsee*, 1905, see TL-2/2: 768. no. 4239.
+- (9) *Erinnerungen von Dr. Hermann Christ* niedergeschrieben bei Anlass der Vollendung seines 90. Lebensjahres, 12 Dezember 1923. \[Basel 1924\]. Oct. *Publ*.: 1924 (Nat. Nov. Apr 1924), cover-t.p., p. \[i-iii\], \[1\]-18. *Copy*: G. – Reprinted from Verh. naturf. Ges. Basel 35(1) being the "Festband Hermann Christ" (portr., bibl.).
 
 ### Publications
 

@@ -178,7 +178,7 @@ Beiträge zur Kenntniss der Flora der Vorwelt. Band ii. *Die Carbon-Flora der Sc
 *Copy*: BR. – For *Beitr. 1* see above *Culm-Fl*. 1875.
 *Note* (*1*) *Vorlage der Farne der Carbon-Flora der Schatzlarer Schichten*: Wien, 1885, p. \[1\]-10.
 *Copy*: BR. – Reprinted from Verh. geol. Reichsanst. Wien 1885: 124-133.
-(2) *Vorlage der Calamarien*... Wien 1887, p. \[1\]-11. *Copy*: BR. – Id. 1887: 171-181.
+- (2) *Vorlage der Calamarien*... Wien 1887, p. \[1\]-11. *Copy*: BR. – Id. 1887: 171-181.
 
 ##### n.13.328. Beitrag zur Kenntniss der Flora des Kalktuffes
 

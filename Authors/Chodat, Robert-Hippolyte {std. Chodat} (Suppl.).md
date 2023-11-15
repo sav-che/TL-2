@@ -51,14 +51,14 @@ AG 6(3): 826, 12(3): 482; Barnhart 1: 343 (further refs.); BJI 1: 27-28, 2: 10; 
 
 #### Notes
 
-(1) R. Chodat, *Monographia Polygalacearum*... TL-2/1106, mentioned 29 Jan 1892 Bot. Zeit. 50: 67, ÖBZ 42(3): 94. Mar 1892. – E. Gilg, Bot. Jahrb. 15(Lit): 33-34. 5 Apr 1892 (rev.). – Id. *II*.: Gürke, R.L.A.M., Bot. Jahrb. 18(Lit): 42-43. 13 Apr 1894 (rev.).
-(2) R. Chodat, *Algues vertes de la Suisse* 1902, TL-2/1107, to be added a review by R. Chodat himself in Bot. Centralbl. 89(8): 231-232. 26 Feb 1902, and by G. Senn, Bot. Zeit. 60(16): 241-244. 16 Aug 1902.
-(3) R. Chodat and W. Vischer, *La végétation du Paraguay*, TL-2/16.217, main author R. Chodat.
+- (1) R. Chodat, *Monographia Polygalacearum*... TL-2/1106, mentioned 29 Jan 1892 Bot. Zeit. 50: 67, ÖBZ 42(3): 94. Mar 1892. – E. Gilg, Bot. Jahrb. 15(Lit): 33-34. 5 Apr 1892 (rev.). – Id. *II*.: Gürke, R.L.A.M., Bot. Jahrb. 18(Lit): 42-43. 13 Apr 1894 (rev.).
+- (2) R. Chodat, *Algues vertes de la Suisse* 1902, TL-2/1107, to be added a review by R. Chodat himself in Bot. Centralbl. 89(8): 231-232. 26 Feb 1902, and by G. Senn, Bot. Zeit. 60(16): 241-244. 16 Aug 1902.
+- (3) R. Chodat and W. Vischer, *La végétation du Paraguay*, TL-2/16.217, main author R. Chodat.
 
 #### Composite works
 
-(1) *Tremandraceae*, in A. Engler and K. Prantl, *Nat. Pflanzenfam.* Teil 3., Abt. 4: 320-323. Apr. 1896. – See sub Engler TL-2/1.
-(2) First author with É. Hassler, *Plantae Hasslerianae* see TL-2/2: 2475.
+- (1) *Tremandraceae*, in A. Engler and K. Prantl, *Nat. Pflanzenfam.* Teil 3., Abt. 4: 320-323. Apr. 1896. – See sub Engler TL-2/1.
+- (2) First author with É. Hassler, *Plantae Hasslerianae* see TL-2/2: 2475.
 
 #### Handwriting
 
@@ -977,8 +977,7 @@ Un *voyage botanique au Paraguay* (1914). Conférence faite à l'assemblée gén
 **Notes**
 *Publ.: 1. Sur quelques faits de botanique et de géographie économique à Bourg-Saint-Pierre*)1 Nov 1919 (in journal), cover-t.p. (for i-vii), p. \[(1)\]-(12). *Copies*: G, L. – Reprinted and to be cited from Bull. Soc. bot. Genève ser. 2. 11(1-4): 30-41. 1919.
 *2*. (*Sur un Glaucocystis et sa position systématique*): 1 Nov 1919 (in journal, read 13 Mai 1918), p. (13)-(20). *Copies*: G, L. – Id. p. 42-49. 1919.
-*3*. (*La floraison du Lilium Martagon*): 1 Nov 1919 (in journal, read 13 Mai 1918), p.
-(21)-(30). *Copies*: G, L. – Id. p. 50-59. 1919.
+*3*. (*La floraison du Lilium Martagon*): 1 Nov 1919 (in journal, read 13 Mai 1918), p. (21)-(30). *Copies*: G, L. – Id. p. 50-59. 1919.
 *4*. (*La Hugueninia tanacetifolia*): 1 Nov 1919 (in journal, read 13 Mai 1918), p. (31)-(32).
 *Copies*: G, L. – Id. p. 60-61. 1919.
 *5*. (*Scutellaria alpina et sa biologie florale*; par Madame R. Jacobson): 1 Nov 1919 (in journal, read 13 Mai 1918), p. (33)-(34). *Copies*: G, L. – Id. p. 62-63. 1919.

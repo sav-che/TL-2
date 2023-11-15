@@ -8,7 +8,8 @@ Sadler, Joseph (1791-1849), Hungarian botanist; assistant for chemistry and bota
 
 #### Herbarium and types
 
-[[Collection BP|BP]] (ca. 8000); other material at [[Collection BR|BR]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection LZ|LZ]] (destr.), [[Collection PRC|PRC]]. *Exsiccatae*: *Agrostotheca hungarica*, 75 nos., see Sauter, Flora 21: 516-517. 1838; Anon., Linnaea 10 (Litt.): 125, 191-192. 1836, 12 (Litt.): 22-23. 1839 and Priszter (1976). Part of the herbarium of Jos. Sadler's brother Michael Sadler is at [[Collection GJO|GJO]]. For other exsiccatae, published between 1821 and 1841 see Priszter (1976/1977). – (Fasc. 1-14 of Hungarian plants reviewed by Flora 4: 141-144. 1821, 5: 64. 1822, 6(1) Beil. 2: 48. 1823, 8(2) Beil. 2: 46-47. 1825, as A' Magyar plánták' száritott Gyüjteménye, 1823-1830. – Letters to D.F.L. von Schlechtendal at [[Collection HAL|HAL]].
+[[Collection BP|BP]] (ca. 8000); other material at [[Collection BR|BR]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection LZ|LZ]] (destr.), [[Collection PRC|PRC]].
+*Exsiccatae*: *Agrostotheca hungarica*, 75 nos., see Sauter, Flora 21: 516-517. 1838; Anon., Linnaea 10 (Litt.): 125, 191-192. 1836, 12 (Litt.): 22-23. 1839 and Priszter (1976). Part of the herbarium of Jos. Sadler's brother Michael Sadler is at [[Collection GJO|GJO]]. For other exsiccatae, published between 1821 and 1841 see Priszter (1976/1977). – (Fasc. 1-14 of Hungarian plants reviewed by Flora 4: 141-144. 1821, 5: 64. 1822, 6(1) Beil. 2: 48. 1823, 8(2) Beil. 2: 46-47. 1825, as A' Magyar plánták' száritott Gyüjteménye, 1823-1830. – Letters to D.F.L. von Schlechtendal at [[Collection HAL|HAL]].
 
 #### Bibliography and biography
 

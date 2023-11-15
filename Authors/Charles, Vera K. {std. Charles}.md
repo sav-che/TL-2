@@ -23,7 +23,7 @@ Barnhart 1: 334 (b. 24 Jun 1877, Erie, Pa., d. 2 Nov 1954, Washington D.C.); BM 
 
 #### Composite works
 
-(1): F. Patterson and V.K. Charles, *Mushrooms and other common fungi* ... Washington D.C. 1915, see TL-2/7500.
+- (1): F. Patterson and V.K. Charles, *Mushrooms and other common fungi* ... Washington D.C. 1915, see TL-2/7500.
 
 ### Publications
 

@@ -27,8 +27,8 @@ AG 5(1): 81, 5(2): 441; Barnhart 3: 543 (b. 27 Mai 1867, d. 19 Sep 1937); Biol.-
 #### Composite works
 
 (I) *Epigloeaceae, in Rabenh. Krypt.-Fl. ed. 2.* 9(1-1): \[44\]-46. Feb 1933, TL-2/8450.
-(2) *Verrucariaceae, in* id. 9(1-1): 46-160. Feb 1933, 161-320. Jun 1933, 321-480. Aug 1933, 481-590. Feb 1934; corr. 656-668. Feb 1934. – For preliminary publ. *Die mitteleuropäischen Verrucariaceen* in Hedwigia see LS suppl. 30949-30954.
-(3) *Dermatocarpaceae, in* id. 9(1-1): 590-656. Feb 1934.
+- (2) *Verrucariaceae, in* id. 9(1-1): 46-160. Feb 1933, 161-320. Jun 1933, 321-480. Aug 1933, 481-590. Feb 1934; corr. 656-668. Feb 1934. – For preliminary publ. *Die mitteleuropäischen Verrucariaceen* in Hedwigia see LS suppl. 30949-30954.
+- (3) *Dermatocarpaceae, in* id. 9(1-1): 590-656. Feb 1934.
 
 #### Eponymy
 

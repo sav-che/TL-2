@@ -45,9 +45,9 @@ Andrews p. 256; Barnhart 1: 486 (b. 5 Aug 1885, Wimmersby, d. 22 Jan 1926 Tranå
 
 #### Composite works
 
-(1) *In*: Reports of the Princeton university Expeditions to Patagonia 1896-1899, Vol. 8(1), Botany *1*. *The vegetation of Western Patagonia* p. 1-33, *pl. 1-2*, and *3. Patagonian and Fuegian mosses* p. 63-125, *pl. 7-11*, by P. Dusén, publ. 8 Jul 1903 – Princeton, N.J. (The University), Stuttgart (Schweizerbart'sche Verlagshandlung...). Qu.
-(2) *Chilenisch-patagonische Charakterpflanzen* (Co-author: F.W. Neger), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 6, Heft 8: 12 p. text, *pl. 43-48.* 1908.
-(3) Id. as (1) but Vol. 8 – Supplement, Botany: *Revision of Flora Patagonica* by George Macloskie and Per Dusén with further notes by Professor Carl Skottsberg – 1914. Qu.
+- (1) *In*: Reports of the Princeton university Expeditions to Patagonia 1896-1899, Vol. 8(1), Botany *1*. *The vegetation of Western Patagonia* p. 1-33, *pl. 1-2*, and *3. Patagonian and Fuegian mosses* p. 63-125, *pl. 7-11*, by P. Dusén, publ. 8 Jul 1903 – Princeton, N.J. (The University), Stuttgart (Schweizerbart'sche Verlagshandlung...). Qu.
+- (2) *Chilenisch-patagonische Charakterpflanzen* (Co-author: F.W. Neger), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 6, Heft 8: 12 p. text, *pl. 43-48.* 1908.
+- (3) Id. as (1) but Vol. 8 – Supplement, Botany: *Revision of Flora Patagonica* by George Macloskie and Per Dusén with further notes by Professor Carl Skottsberg – 1914. Qu.
 
 ### Publications
 
@@ -87,7 +87,7 @@ Die *Gefässpflanzen* der *Magellansländer* nebst einem Beitrage zur Flora der 
 **Notes**
 *Publ*.: 1900 (Bot. Jahrb. 30(Lit.): 38. 2 Jul 1901, Bot. Centralbl. 10 Oct 1900, Nat. Nov. Apr (1) 1902), cover-t.p., p. 77-266, *pl. 4-14* (uncol. liths. with text). *Copies*: B, BR, FH, G, HH, L, NY. – Reprinted and to be cited from Wissensch. Erg. Schwed. Exped. Magellansländer 1895-1897, 3(5): 77-266, *pl. 4-14*: 1900. – See KR p. 148, no. 10.
 *Notes*: (1) Printing errors in 3(10): 521. 1900.
-(2) Separately issued as reprint: Compositae. p. 96-122. *Copy*: B.
+- (2) Separately issued as reprint: Compositae. p. 96-122. *Copy*: B.
 *Ref*.: Neger, F.W., Bot. Jahrb. 29(Lit.): 41-42. 4 Dec 1900.
 - Neger, F.W., Bot. Centralbl. 85(2): 47-49. 2 Jan 1901.
 - Neger, F.W., Bot. Zeit. Abth. II 59(6): 90-91. 16 Mar 1901 (rev.).

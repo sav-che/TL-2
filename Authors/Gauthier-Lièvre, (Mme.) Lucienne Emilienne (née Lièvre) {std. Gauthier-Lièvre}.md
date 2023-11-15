@@ -22,7 +22,7 @@ APN p. 221; Barnhart 2: 34; Hirsch p. 95; Kew 2: 386; NAF ser. 2(6): 63, ser. 2(
 
 #### Outside our period
 
-(1) *Oedogoniacées africaines*... Nova Hedwigia... 1963-1964. (2) *Zygnémacées africaines*... Nova Hedwigia. Beiheft 20:... 1965.
+- (1) *Oedogoniacées africaines*... Nova Hedwigia... 1963-1964. (2) *Zygnémacées africaines*... Nova Hedwigia. Beiheft 20:... 1965.
 
 ### Publications
 

@@ -37,10 +37,10 @@ Barnhart 1: 342 (b. 18 Mai 1871, Premosello, Novara); BL 1: 33, 34, 35, 39, 40, 
 
 #### Notes
 
-(1) Chiovenda, E., co-author with first author P.R. Pirotta, *Flora romana* 1900, see TL-2/7968 (4: 275).
-(2) Chiovenda, E. and Fabrizio Cortesi, *Angiospermae, in* Luigi Amedeo di Savoia, ed., *Il Ruwenzori* 1909, parte scientifica, *vol. 1*: 433-473. *Copy* at MO.
-(3) Pirotta, R. and E. Chiovenda, *Illustrazione di alcuni erbarii antichi romani*, Malphigia 13, 1900, 159 p. (reprint see Solla (Triest), Bot. Centralbl. 85(5): 150-152. 1900).
-(4) Chiovenda, E., *Note sulla fondazione degli orti medici di Padova e di Pisa*... Atti dell' VIII. Congresso Intern. Storia Medic., Pisa (Stab. V. Lischi & Figli) 1931-X. – *Copy*: FAS(B).
+- (1) Chiovenda, E., co-author with first author P.R. Pirotta, *Flora romana* 1900, see TL-2/7968 (4: 275).
+- (2) Chiovenda, E. and Fabrizio Cortesi, *Angiospermae, in* Luigi Amedeo di Savoia, ed., *Il Ruwenzori* 1909, parte scientifica, *vol. 1*: 433-473. *Copy* at MO.
+- (3) Pirotta, R. and E. Chiovenda, *Illustrazione di alcuni erbarii antichi romani*, Malphigia 13, 1900, 159 p. (reprint see Solla (Triest), Bot. Centralbl. 85(5): 150-152. 1900).
+- (4) Chiovenda, E., *Note sulla fondazione degli orti medici di Padova e di Pisa*... Atti dell' VIII. Congresso Intern. Storia Medic., Pisa (Stab. V. Lischi & Figli) 1931-X. – *Copy*: FAS(B).
 
 ### Publications
 

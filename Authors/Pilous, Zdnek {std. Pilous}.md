@@ -8,7 +8,8 @@ Pilous, Zdnek (1912-x), Czechoslavak bryologist, Privatgelehrter at Hostinné.
 
 #### Herbarium and types
 
-[[Collection PR|PR]]; in part still private; further material at [[Collection BRNU|BRNU]] and [[Collection OP|OP]] (5000 bryoph. especially Hepat.). *Exsiccatae*: *Musci cechoslovenici exsiccati*, fasc. 1-27, nos. 1-1350, 1945-1961, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PRC|PRC]].
+[[Collection PR|PR]]; in part still private; further material at [[Collection BRNU|BRNU]] and [[Collection OP|OP]] (5000 bryoph. especially Hepat.).
+*Exsiccatae*: *Musci cechoslovenici exsiccati*, fasc. 1-27, nos. 1-1350, 1945-1961, sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PRC|PRC]].
 *Bryotheca cechoslovenica*, fasc. 1-3, nos. 1-90, 1937-1939, set at [[Collection FH|FH]]. *Bryotheca romanica*, dec. 1-2, nos. 1-20, 1938, set at [[Collection FH|FH]]. *Sphagna cechoslovenica exsiccata*, fasc. 1-6, nos. 1-300, 1946-1950, sets at [[Collection FH|FH]], [[Collection H|H]], [[Collection NY|NY]], [[Collection PRC|PRC]].
 Letters at [[Collection G|G]].
 

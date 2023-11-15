@@ -46,11 +46,11 @@ APN p. 203; Barnhart 1: 550; BL 1: 142; BM 2: 583, 6: 328; CSP 12: 242, 15: 18; 
 
 #### Composite works
 
-(1) Co-author with G.H. Clark, *Farm weeds Canada*... (1906), see TL-2/Suppl. 4, nr. 26.453, which can be augmented as follows:
+- (1) Co-author with G.H. Clark, *Farm weeds Canada*... (1906), see TL-2/Suppl. 4, nr. 26.453, which can be augmented as follows:
 *Illus*.: Criddle, Norman (1875-1933), entomologist and illus., see IH 2: 144. *Reprint* \[*Ed. 1*, of 1906\]: 2000,... Ottawa (Algrove), p. \[1\]-103, *56 pl*. (col. lith.). *Copy*:
 (n.v.). – In series, Classic reprint series.
 *Reprint* \[*Ed. 2*, of 1909\]: 1923,... Ottawa (F.A. Acland, printer), p. \[1\]-192, *76 pl*. (col. lith.). *Copies*: HH (n.v.), NY.
-(2) Co-author with G.H. Clark, *Mauv. herb. Canada*... (1906), see TL-2/Suppl. 4, nr.
+- (2) Co-author with G.H. Clark, *Mauv. herb. Canada*... (1906), see TL-2/Suppl. 4, nr.
 26.454 which can be augmented to include:
 *Illus*.: Criddle, Norman (1875-1933), entomologist and illus., see IH 2: 144. *Ed. 2* \[*rev., enlarged*\]: 1909,... Ottawa (Impr. du Gouvernement), p. \[1\]-196, *76 pl*. (col. lith.). *Copy*: NY.
 

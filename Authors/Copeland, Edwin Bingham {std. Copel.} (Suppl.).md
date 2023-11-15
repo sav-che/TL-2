@@ -45,7 +45,7 @@ Dissertation at Halle: *Über den Einfluss von Licht und Temperatur auf den Turg
 
 #### Eponymy
 
-(1) *Erigeron copelandi, Gentiana copelandi, Orthocarpus copelandi, Veronica* *copelandi, Vicia copelandi* by Alice Eastwood, Leaflets Western Botany 8: 89.1959.
+- (1) *Erigeron copelandi, Gentiana copelandi, Orthocarpus copelandi, Veronica* *copelandi, Vicia copelandi* by Alice Eastwood, Leaflets Western Botany 8: 89.1959.
 
 ### Publications
 

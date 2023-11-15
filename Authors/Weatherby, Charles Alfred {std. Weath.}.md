@@ -30,24 +30,24 @@ Barnhart 3: 467 (b. 25 Dec 1875, d. 12 Jun 1949); BJI 2: 187; BL 1: 171, 197, 21
 
 #### Composite works
 
-(1) Editor, *American Fern Journal* 5(1)-30(4). 1915-1940.
-(2) With M.L. Fernald, *Proposed amendment to the international rules of botanical nomenclature, *Rhodora 31: 91-96. 1929.
-(3) With A. Rehder, R. Mansfeld and M.L. Green, *Conservation of later generic homonyms, *Bull. misc. Inf. Kew 1935: 341-544 (letter by Weatherby).
-(4) With W.H. Camp and H.W. Rickett, *International rules of botanical nomenclature*, Brittonia 6: 1-120. 1947, second printing Chronica botanica Cy., Waltham 1948. – See also W.H. Camp, H.W. Rickett and C.A. Weatherby, *Proposed changes in the International rules of botanical nomenclature*, Brittonia 7: 1-51. 1949 and C.A. Weatherby, *Botanical nomenclature since 1867*, Amer. J. Bot. 36: 5-7. 1949. for preliminary document see no. (12).
-(5) Major share in preparation of the Gray Herbarium Card Index.
-(6) Editor, systematic section, Amer. J. Bot. 1936-1941.
-(7) With C.B. Graves et al., *Cat. pl. Connecticut* 1910, TL-2/2115.
-(8) With E.B. Harger et al., *Additions to the Flora of Connecticut*, Bull. Conn. State Geol. nat. Hist. Surv. 48, 1930, 94, vii p. sub TL-2/2115. – See Torreya 31: 52-53. 17 Apr 931.
-(9) *Changes in the nomenclature of the Grafs Manual ferns*, Rhodora 21: 173-179. 1919.
-(10) *Filices, in* J.M.Johnston, *Papers on the flora of Northern Chile*, Contr. Gray Herb. 85: 13-17. *pl. 2.* 1929.
-(11) *A list of type specimens in Elliott's herbarium*, Rhodora 44: 249-264. Contr. Gray Herb. 141.
-(12) With H.W. Rickett and W.H. Camp, *Ballots for proposed amendments to the International rules of botanical nomenclature* 1948, mimeogr., 150 p. (preliminary coples released 27 Mai 1948. *Copy*: FAS.
-(13) *Botanical nomenclature since 1867, in* Symposium on botanical nomenclature, E.E. Sherff et al., Amer. J. Bot 36(1): 5-7. 1949.
+- (1) Editor, *American Fern Journal* 5(1)-30(4). 1915-1940.
+- (2) With M.L. Fernald, *Proposed amendment to the international rules of botanical nomenclature, *Rhodora 31: 91-96. 1929.
+- (3) With A. Rehder, R. Mansfeld and M.L. Green, *Conservation of later generic homonyms, *Bull. misc. Inf. Kew 1935: 341-544 (letter by Weatherby).
+- (4) With W.H. Camp and H.W. Rickett, *International rules of botanical nomenclature*, Brittonia 6: 1-120. 1947, second printing Chronica botanica Cy., Waltham 1948. – See also W.H. Camp, H.W. Rickett and C.A. Weatherby, *Proposed changes in the International rules of botanical nomenclature*, Brittonia 7: 1-51. 1949 and C.A. Weatherby, *Botanical nomenclature since 1867*, Amer. J. Bot. 36: 5-7. 1949. for preliminary document see no. (12).
+- (5) Major share in preparation of the Gray Herbarium Card Index.
+- (6) Editor, systematic section, Amer. J. Bot. 1936-1941.
+- (7) With C.B. Graves et al., *Cat. pl. Connecticut* 1910, TL-2/2115.
+- (8) With E.B. Harger et al., *Additions to the Flora of Connecticut*, Bull. Conn. State Geol. nat. Hist. Surv. 48, 1930, 94, vii p. sub TL-2/2115. – See Torreya 31: 52-53. 17 Apr 931.
+- (9) *Changes in the nomenclature of the Grafs Manual ferns*, Rhodora 21: 173-179. 1919.
+- (10) *Filices, in* J.M.Johnston, *Papers on the flora of Northern Chile*, Contr. Gray Herb. 85: 13-17. *pl. 2.* 1929.
+- (11) *A list of type specimens in Elliott's herbarium*, Rhodora 44: 249-264. Contr. Gray Herb. 141.
+- (12) With H.W. Rickett and W.H. Camp, *Ballots for proposed amendments to the International rules of botanical nomenclature* 1948, mimeogr., 150 p. (preliminary coples released 27 Mai 1948. *Copy*: FAS.
+- (13) *Botanical nomenclature since 1867, in* Symposium on botanical nomenclature, E.E. Sherff et al., Amer. J. Bot 36(1): 5-7. 1949.
 
 #### Note
 
-(1) Weatherby's collections were often made together with his wife Una Leonora Weatherby, née Foster, 1879 (? 1877)-1957. Obituary: A.F. Tryon, Amer. Fern J. 48(4): 129-135. 1958.
-(2) Weatherby was a member of the *International Committee on Nomenclature of plants* set up at the Amsterdam Int. botanical Congress, 1935.
+- (1) Weatherby's collections were often made together with his wife Una Leonora Weatherby, née Foster, 1879 (? 1877)-1957. Obituary: A.F. Tryon, Amer. Fern J. 48(4): 129-135. 1958.
+- (2) Weatherby was a member of the *International Committee on Nomenclature of plants* set up at the Amsterdam Int. botanical Congress, 1935.
 
 #### Eponymy
 

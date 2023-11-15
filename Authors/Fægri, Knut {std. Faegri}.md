@@ -28,8 +28,8 @@ APN p. 193; Barnhart 1: 523; BFM p. 282 (index); BL 2: 442, 456, 651; Bossert p.
 
 #### Outside our period
 
-(1) Faegri & Johs. Iverson, *Text-book of modern pollen analysis*... 1950; subsequent editions (revised) as *Textbook of pollen analysis*, incl. Ed. 2... 1964, Ed. 3... 1975, Ed. 4... 1989; and Polish transl.... 1979.
-(2) Faegri & L. van der Pijl, *The principles of pollination ecology*... 1966; Ed. 2... 1971; Ed. 3... 1979; and Russian transl.... 1983.
+- (1) Faegri & Johs. Iverson, *Text-book of modern pollen analysis*... 1950; subsequent editions (revised) as *Textbook of pollen analysis*, incl. Ed. 2... 1964, Ed. 3... 1975, Ed. 4... 1989; and Polish transl.... 1979.
+- (2) Faegri & L. van der Pijl, *The principles of pollination ecology*... 1966; Ed. 2... 1971; Ed. 3... 1979; and Russian transl.... 1983.
 
 #### Composite works
 

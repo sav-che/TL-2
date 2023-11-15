@@ -20,13 +20,13 @@ AG 4: 764, 6 (1): 263; Backer p. 652; Barnhart 2: 150; BFM 1095; BJI 1: 25, 2: 7
 
 #### Composite works
 
-(1) In EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710): *Nyctaginaceae*, 3(IB): 14-32. Apr 1889; Nachtr. 2-4(1): 154-156. Aug 1897. *Phytolaccaceae*, 3(IB): 1-14. Apr 1889; Nachtr. 2-4(1): 154. Aug 1897.
-(2) In EP, *Die natürlichen Pflanzenfamilien*, ed. 2 (TL-2/1711):
+- (1) In EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710): *Nyctaginaceae*, 3(IB): 14-32. Apr 1889; Nachtr. 2-4(1): 154-156. Aug 1897. *Phytolaccaceae*, 3(IB): 1-14. Apr 1889; Nachtr. 2-4(1): 154. Aug 1897.
+- (2) In EP, *Die natürlichen Pflanzenfamilien*, ed. 2 (TL-2/1711):
 *Achatocarpaceae*, 16c: \[174\]-178. Jan-Apr 1934.
 *Gyrostemonaceae*, 16c: \[165\]-173. Jan-Apr 1934.
 *Nyctaginaceae*, 16c: \[86\]-134, 586-587. Jan-Apr 1934.
 *Phytolaccaceae*, 16c: \[135\]-164. Jan-Apr 1934.
-(3)In Warming, *Symbolae*, part 35, p. 158-163, –1890–, publ. 21 Apr 1891.
+- (3) In Warming, *Symbolae*, part 35, p. 158-163, –1890–, publ. 21 Apr 1891.
 
 #### Eponymy
 

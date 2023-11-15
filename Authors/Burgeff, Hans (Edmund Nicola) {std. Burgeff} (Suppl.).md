@@ -32,9 +32,9 @@ AG 12(3): 524; Ainsworth p. 103, 139, 324, 327; Barnhart 1: 283 (b. 19 Apr 1883)
 
 #### Outside our period
 
-(1) *Genetische Studien an Marchantia*, Jena, 1943, 296 p. – Rev.: L. Diels, Bot. Jahrb. 73(Lit.): 52. 1944. *Copies*: L, MO.
-(2) *Mikrobiologie des Hochmoores* mit besonderer Berücksichtigung der Erikazeen-Pilz-Symbiose, Stuttgart (Gustav Fischer Verlag) 1961, 197 p. – Rev.: E.W. Schmidt, Bot. Jahrb. 82(Lit.): 4. 1963.
-(3) *Parerga*. Über botanische Wissenschaft mit Vorschlägen zur Anlage neuer Botanischer Gärten und zur Errichtung neuartiger Gewächshausanlagen, Würzburg (Selbstverlag) 1965, 73 p. – Rev.: Th. Eckardt, Bot. Jahrb. 89(Lit.). 2-3. 11 Mar 1969.
+- (1) *Genetische Studien an Marchantia*, Jena, 1943, 296 p. – Rev.: L. Diels, Bot. Jahrb. 73(Lit.): 52. 1944. *Copies*: L, MO.
+- (2) *Mikrobiologie des Hochmoores* mit besonderer Berücksichtigung der Erikazeen-Pilz-Symbiose, Stuttgart (Gustav Fischer Verlag) 1961, 197 p. – Rev.: E.W. Schmidt, Bot. Jahrb. 82(Lit.): 4. 1963.
+- (3) *Parerga*. Über botanische Wissenschaft mit Vorschlägen zur Anlage neuer Botanischer Gärten und zur Errichtung neuartiger Gewächshausanlagen, Würzburg (Selbstverlag) 1965, 73 p. – Rev.: Th. Eckardt, Bot. Jahrb. 89(Lit.). 2-3. 11 Mar 1969.
 
 ### Publications
 

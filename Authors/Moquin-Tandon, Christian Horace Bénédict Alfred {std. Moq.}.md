@@ -44,12 +44,12 @@ Barnhart 2: 510;BM 3: 1346, 7: 863; Bossert p. 273; CSP 4: 459-461, 8: 432-433, 
 
 #### Composite works
 
-(1)Candolle, A. P. de, *Prodromus*:
+- (1) Candolle, A. P. de, *Prodromus*:
 (a) *Phytolacceae* 13(2): 1-40, 459-460. 5 Mai 1849.
 (b) *Salsolaceae* 13(2): 41-219, 460-462. 5 Mai 1849.
 (c) *Basellaceae* 13(2): 220-230, 462. 5 Mai 1849.
 (d) *Amaranthaceae* 13(2): 231-424, 462-463. 5 Mai 1849.
-(2) With Aug. de Saint-Hilaire (q.v.): *Premier (deuxième) mémoire sur la famille des Polygalacées*, 1828-1832, and *in* Fl. bras. merid. 2: 5-75. 1829 (*Polygaleae*).
+- (2) With Aug. de Saint-Hilaire (q.v.): *Premier (deuxième) mémoire sur la famille des Polygalacées*, 1828-1832, and *in* Fl. bras. merid. 2: 5-75. 1829 (*Polygaleae*).
 
 #### Handwriting
 

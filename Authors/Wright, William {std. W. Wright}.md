@@ -28,12 +28,12 @@ Backer p. 629; Barnhart 3: 524 (b. Mar 1735); BB p. 336; BM 5: 2365; Clokie p. 2
 
 #### Note
 
-(1) See e.g. Urban, (1898) for the still relevant botanical publications by Wright on Jamaican plants:
+- (1) See e.g. Urban, (1898) for the still relevant botanical publications by Wright on Jamaican plants:
 (a) *Description of the Jesuits bark tree of Jamaica and the Caribbees*, Phil. Trans. R. Soc. London 67: 504-506, *pl. 10.* 1777.
 (b) *Descriptions and use of the Cabbage-bark tree of Jamaica*, id. 67: 507-512, *pl. 10.* 1777.
 (c) *An account of the medicinal plants growing in Jamaica*, London med. J. 8(3): 217-295. 1787. – Reprinted in *Mem. late William Wright*, London & Edinburgh 1828, p. 183-245; *Essai sur les plantes usuelles de la Jamaïque*, J. Phys. Hist. nat. 32(1): 347-361. Mai 1788, 401-419. Jun 1788.
 (d) *A botanical and medical account of the Quassia Simaruba*,... Trans. R. Soc. Edinburgh 2: 73-81, *pl. 1-2.* 1790, text also in London med. J. 11: 91-102. 1790.
-(2) A manuscript "*Plants of Jamaica* by Willm Wright M.D. F.R.S." is kept in the Local History Section of the Liverpool city Libraries. The introduction is dated London 29th May 1786; the text is accompanied by 42 dried specimens (inf. Edmondson 25 Nov 1985).
+- (2) A manuscript "*Plants of Jamaica* by Willm Wright M.D. F.R.S." is kept in the Local History Section of the Liverpool city Libraries. The introduction is dated London 29th May 1786; the text is accompanied by 42 dried specimens (inf. Edmondson 25 Nov 1985).
 
 #### Eponymy
 

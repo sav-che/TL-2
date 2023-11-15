@@ -22,7 +22,7 @@ Amer. Men Sci. 9: 402; APN p. 227; Barnhart 2: 47; Hirsch p. 98; Lenley p. 180; 
 #### Composite works
 
 Co-author with: (1) Charles Elmer Allen, *Textbook of general botany* ... Boston, New York \[etc.\] (D.C. Heath & Co.) 1917.
-(2) Gilbert Morgan Smith et al., *A textbook of general botany*... New York (Macmillan & Co.) 1924; Rev. ed., 1928; Ed. 3, 1935; and Ed. 4, 1942 (see TL-2/5: 673).
+- (2) Gilbert Morgan Smith et al., *A textbook of general botany*... New York (Macmillan & Co.) 1924; Rev. ed., 1928; Ed. 3, 1935; and Ed. 4, 1942 (see TL-2/5: 673).
 
 ### Publications
 

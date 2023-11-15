@@ -20,9 +20,9 @@ BB p. 171-172; Bossert p. 208; Desmond p. 355; Henrey 2: 357, 434, 3: 65-66; Kew
 
 #### Composite works
 
-(1) see James Lee for *Catalogue of plants and seeds sold by* Kennedy and Lee, ... London 1774.
-(2) Contributed to H. C. Andrews, *Botanical Repository* (vols. 1-5). \[Andrews was Kennedy's son-in-law\].
-(3) Author of *Page's Prodromus*; as a general nomenclature of all the plants, indigenous and exotic, cultivated by him in the Southampton Botanic Gardens, London 1817 (see J. Bot. 42: 297. 1904 and Desmond p. 355).
+- (1) see James Lee for *Catalogue of plants and seeds sold by* Kennedy and Lee, ... London 1774.
+- (2) Contributed to H. C. Andrews, *Botanical Repository* (vols. 1-5). \[Andrews was Kennedy's son-in-law\].
+- (3) Author of *Page's Prodromus*; as a general nomenclature of all the plants, indigenous and exotic, cultivated by him in the Southampton Botanic Gardens, London 1817 (see J. Bot. 42: 297. 1904 and Desmond p. 355).
 
 #### Eponymy
 

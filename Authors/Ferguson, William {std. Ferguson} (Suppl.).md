@@ -14,7 +14,8 @@ Ferguson's brother, Alastair Mackenzie Ferguson (1816-1892), was editor and publ
 
 #### Herbarium and types
 
-[[Collection E|E]] (Alg., Bryoph.), [[Collection K|K]], [[Collection LD|LD]] (Pter.), [[Collection MANCH|MANCH]], [[Collection US|US]]. – *Exsiccatae*: *Algae ceylonicae* (nos. 1-144/5)... 1850-1887, or later: [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection W|W]]. The determinations were by Albert Grunow (1826-1914, see TL-2/1: 1016), who also edited the series with Ferguson (see Sayre, G., 1969. Mem. New York Bot. Gard. 19: 73). – Letters at Kew.
+[[Collection E|E]] (Alg., Bryoph.), [[Collection K|K]], [[Collection LD|LD]] (Pter.), [[Collection MANCH|MANCH]], [[Collection US|US]].
+*Exsiccatae*: *Algae ceylonicae* (nos. 1-144/5)... 1850-1887, or later: [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection W|W]]. The determinations were by Albert Grunow (1826-1914, see TL-2/1: 1016), who also edited the series with Ferguson (see Sayre, G., 1969. Mem. New York Bot. Gard. 19: 73). – Letters at Kew.
 
 #### Bibliography and biography
 
@@ -44,8 +45,8 @@ APN p. 198; Backer p. 212; Barnhart 1: 536; BB p. 107; BM 2: 566; BN p. 173; Des
 
 #### Composite works
 
-(1) Collaborated with G. Thwaites, *Enum. Pl. zeyl.*... \[1858\]-1864, see TL-2/6, nr. 14.462.
-(2) Notes on trees *in* Mudaliyar Mendis, *Timber trees of Ceylon*... Colombo (n.p.) 1881.
+- (1) Collaborated with G. Thwaites, *Enum. Pl. zeyl.*... \[1858\]-1864, see TL-2/6, nr. 14.462.
+- (2) Notes on trees *in* Mudaliyar Mendis, *Timber trees of Ceylon*... Colombo (n.p.) 1881.
 
 ### Publications
 

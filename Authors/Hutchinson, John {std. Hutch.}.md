@@ -39,12 +39,12 @@ Barnhart 2: 223; BFM 2282-2285; BL 1: 49, 59, 62, 302; BM 6: 496; Bossert p. 187
 
 #### Composite works
 
-(1) Contributed to Harvey and Sonder, *Flora capensis* (TL-2/2448): *Cycadaceae*, 5, 2(suppl.): 24-44. 28 Mar 1933 (with Rattray).
+- (1) Contributed to Harvey and Sonder, *Flora capensis* (TL-2/2448): *Cycadaceae*, 5, 2(suppl.): 24-44. 28 Mar 1933 (with Rattray).
 *Myricaceae*, 5, 2(4): 561-572. Jan 1925.
 *Proteaceae*, 5, 1(3): 502-640. 16 Jan 1912, 1(4): 641-718. Jun 1912 (with E. P. Philips and O. Stapf).
 *Euphorbiaceae*, 5, 2(2): 216-384. Oct 1915 (with N. E. Brown).
 *Moraceae*, 5, 2(3):
-(2) Id. to Oliver, *Flora tropical Africa*: 522-528. Mai 1920 (with N. E. Brown). *Moraceae*, 6, 2(1): 17-192. Mar 1916, 2(2): 193-240. Nov 1917 (with A. B. Rendle). *Myricaceae*, 6, 2(2): 307-314. Nov 1917.
+- (2) Id. to Oliver, *Flora tropical Africa*: 522-528. Mai 1920 (with N. E. Brown). *Moraceae*, 6, 2(1): 17-192. Mar 1916, 2(2): 193-240. Nov 1917 (with A. B. Rendle). *Myricaceae*, 6, 2(2): 307-314. Nov 1917.
 
 #### Eponymy
 

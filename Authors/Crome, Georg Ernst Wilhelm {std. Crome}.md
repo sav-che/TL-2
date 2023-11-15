@@ -8,7 +8,8 @@ Crome, Georg Ernst Wilhelm (1781-1813), German botanist and pharmacist, professo
 
 #### Herbarium and types
 
-Unknown. *Exsiccatae*: *Sammlung deutscher Laubmoose* (see below), at [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection PC|PC]] and [[Collection STR|STR]].
+Unknown.
+*Exsiccatae*: *Sammlung deutscher Laubmoose* (see below), at [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection PC|PC]] and [[Collection STR|STR]].
 *Ref*.: IH 2: 144.
 
 #### Bibliography and biography

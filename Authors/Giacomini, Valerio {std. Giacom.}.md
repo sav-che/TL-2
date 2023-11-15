@@ -31,13 +31,17 @@ APN p. 225; Barnhart 2: 43; BFM p. 285 (index); BL 2: 334, 367, 659; DBI 54: 170
 
 #### Outside our period
 
-(1) "Saggio fitogeografico sulle pteridofite d'Italia" \[i.e. an appendix\] *in* A. Fiori, *Filicinae, Equisetinae, Lycopodinae*... 1943. (2) *Flora micologica dell'Agro Bresciano* (Hymenomyceteae, Helvellineae, Pezizineae) ... 1947.
-(3) Co-author with Raffaele Ciferri (1897-1964) & P. Poggio, *La Flora fanerogamica della risaie dell'Italia transpadana*, &c.... 1949.
-(4) Co-author with Raffaele Ciferri (1897-1964), *Nomenclator florae Italicae*... 1950. (5) Co-author with Sandro Pignatti (1930-x), *Flora* e *vegetazione* dell'Alta *Valle* del *Braulio*,*con speciale riferimento ai pascoli di altitudine*... 1955. (6) Author with Luigi Fenaroli (1899-1980) & Leo Ferlan (1928-1961), *La flora*... Milano (Touring club italiana) 1958.
-(7) *Monografie sulla flora e vegetazione d'Italia*... (Flora et Vegetatio Italica, Memoria No. 1) 1959.
-(8) *Il paesaggio vegetale* della provincia di *Sondrio*... (Flora et Vegetatio Italica, Memoria No. 3) 1960.
-(9) *Italia verde*... \[Genoa?\] (Shell italiana) \[1970\]; \[Ed. 2\],... 1975. (10) Co-author with Nunzio Longhitano & Linneo Corti, *Cartography* of the *vegetation* of the *Eastern (Hasa) Province* of *Saudi Arabia*... 1979.
-(11) Translated into Italian the English-language textbook *Introductory botany*... ed. 2 (1971) by Arthur John Cronquist (1919-1992), which appeared as *Botanica*... Bologna (Zanichelli) 1979.
+- (1) "Saggio fitogeografico sulle pteridofite d'Italia" \[i.e. an appendix\] *in* A. Fiori, *Filicinae, Equisetinae, Lycopodinae*... 1943.
+- (2) *Flora micologica dell'Agro Bresciano* (Hymenomyceteae, Helvellineae, Pezizineae) ... 1947.
+- (3) Co-author with Raffaele Ciferri (1897-1964) & P. Poggio, *La Flora fanerogamica della risaie dell'Italia transpadana*, &c.... 1949.
+- (4) Co-author with Raffaele Ciferri (1897-1964), *Nomenclator florae Italicae*... 1950.
+- (5) Co-author with Sandro Pignatti (1930-x), *Flora* e *vegetazione* dell'Alta *Valle* del *Braulio*,*con speciale riferimento ai pascoli di altitudine*... 1955.
+- (6) Author with Luigi Fenaroli (1899-1980) & Leo Ferlan (1928-1961), *La flora*... Milano (Touring club italiana) 1958.
+- (7) *Monografie sulla flora e vegetazione d'Italia*... (Flora et Vegetatio Italica, Memoria No. 1) 1959.
+- (8) *Il paesaggio vegetale* della provincia di *Sondrio*... (Flora et Vegetatio Italica, Memoria No. 3) 1960.
+- (9) *Italia verde*... \[Genoa?\] (Shell italiana) \[1970\]; \[Ed. 2\],... 1975.
+- (10) Co-author with Nunzio Longhitano & Linneo Corti, *Cartography* of the *vegetation* of the *Eastern (Hasa) Province* of *Saudi Arabia*... 1979.
+- (11) Translated into Italian the English-language textbook *Introductory botany*... ed. 2 (1971) by Arthur John Cronquist (1919-1992), which appeared as *Botanica*... Bologna (Zanichelli) 1979.
 
 ### Publications
 

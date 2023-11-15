@@ -20,8 +20,8 @@ BM 5: 2338; Herder p. 414; Jackson p. 201; NI 1114, 2167-2169 (b. Leipzig); Ples
 
 #### Composite works
 
-(1) Editor, with A. Weinlig, of *Pharmaceutisches Central-Blatt* 1839-1844.
-(2) Contributed plates to G. Kunze, *Farrnkräuter* 1840-1851, TL-2/4040.
+- (1) Editor, with A. Weinlig, of *Pharmaceutisches Central-Blatt* 1839-1844.
+- (2) Contributed plates to G. Kunze, *Farrnkräuter* 1840-1851, TL-2/4040.
 
 #### Note
 

@@ -26,7 +26,8 @@ APN p. 248; Barnhart 2: 99; Bossert p. 155; Frodin ed. 2: 593; Kew 2: 531-532; P
 
 #### Outside our period
 
-(1) Supervised the posthumous publication of the first vols. of R. Maire, *Fl. Afrique du Nord*... 1952-\[1987\], see TL-2/3: 257-260. (2) Co-author with R. de Vilmorin, *Fl. France*... 1973-1984, 5 vols.; see also TL-2/6: 747-748.
+- (1) Supervised the posthumous publication of the first vols. of R. Maire, *Fl. Afrique du Nord*... 1952-\[1987\], see TL-2/3: 257-260.
+- (2) Co-author with R. de Vilmorin, *Fl. France*... 1973-1984, 5 vols.; see also TL-2/6: 747-748.
 
 ### Publications
 

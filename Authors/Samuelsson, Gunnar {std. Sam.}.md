@@ -29,13 +29,13 @@ Backer p. 660; Barnhart 3: 206; BJI 2: 152; BL 2: 69, 448, 457, 517, 519, 528, 5
 
 #### Composite works
 
-(1) Collaborator H. Handel-Mazzetti, *Symb. sin.* 1929-1937, see TL-2/2364.
-(2) Co-author with K. Johansson, *Dalarn. Hierac. vulg.* 1923 and *Dalarn. hierac. silvat.* 1923, TL-2/3369-3370.
-(3) Collaborator E. Hannig & H. Winkler, *Die Pflanzenareale*, ser. 1, 1926-1928, ser. 2, 1928-1930, ser. 3, 1931-1933 (author Ser. 3, Heft 8, p. 88-90, maps 73-75, *Alisma*). (*4*) *Erik Almquist, ed., Maps of a selection of Scandinavian Hieracium species*, Stockholm 1954, 10 p., 123 maps (publ. Jan 1955).
-(5) Cooperated (information on distribution) in O.R. Holmberg, *Skandinaviens flora* 1922-1931, see TL-2/2947.
-(6) E. Almquist (1892-1944), *Dalarnes flora*. Förteckning över kärlväxterne, grundad på ... G. Samuelssons samlade material... Lund 1949, xvi, 458 p.
+- (1) Collaborator H. Handel-Mazzetti, *Symb. sin.* 1929-1937, see TL-2/2364.
+- (2) Co-author with K. Johansson, *Dalarn. Hierac. vulg.* 1923 and *Dalarn. hierac. silvat.* 1923, TL-2/3369-3370.
+- (3) Collaborator E. Hannig & H. Winkler, *Die Pflanzenareale*, ser. 1, 1926-1928, ser. 2, 1928-1930, ser. 3, 1931-1933 (author Ser. 3, Heft 8, p. 88-90, maps 73-75, *Alisma*). (*4*) *Erik Almquist, ed., Maps of a selection of Scandinavian Hieracium species*, Stockholm 1954, 10 p., 123 maps (publ. Jan 1955).
+- (5) Cooperated (information on distribution) in O.R. Holmberg, *Skandinaviens flora* 1922-1931, see TL-2/2947.
+- (6) E. Almquist (1892-1944), *Dalarnes flora*. Förteckning över kärlväxterne, grundad på ... G. Samuelssons samlade material... Lund 1949, xvi, 458 p.
 
-#### Reliquiae samuelssonianae
+#### Reliquiae Samuelssonianae
 
 see K.H. Rechinger fil., Ark. Bot. ser. 2. 1(5): 301-327, *pl. 1-20.* 1949, 1(9): 413-436. 1950. – Other posthumous works: G. Samuelsson, *Nordfjords Hieraciumflora*, Ark. Bot. ser. 2. 1(1): 1-270. 1949, and *Maps of a selection of Scandinavian Hieracium species*, K. Sv. Vet.-Akad. Handl. ser. 4. 5(3). 1954, 10 p., 123 maps.
 

@@ -26,9 +26,9 @@ Amer. Men. Sci. ed. 8: 799; Barnhart 1: 554; Bossert p. 129; Ewan Pap. 70; IH 2:
 
 #### Outside our period
 
-(1) *Weeds of lawn and garden*: a handbook for eastern temperate North America... Philadelphia (Univ. of Pennsylvania Press)... 1945; reprinted... 1956, 1963 \[illus. by Lónie Hagerty (fl. 1940s)\]. *Electronic version*: Ithaca, New York (Core Historical Literature of Agriculture (CHLA)).
-(2) Compiled & edited with J\[oseph\]. C. McDaniel, *Check list* of the *cultivated magnolias* ... Mount Vernon, Virginia (American Horticultural Society) 1975; rev. ed., edited by Larry W. Langford... Magnolia Society... 1994.
-(3) Co-author with Edgar T\[heodore\]. Wherry (1885-1982) & Herbert A\[lexander\]. Wahl (1900-1975), *Atlas* of the *flora* of *Pennsylvania*... Philadelphia (Morris Arboretum of the Univ. of Pennsylvania) 1979.
+- (1) *Weeds of lawn and garden*: a handbook for eastern temperate North America... Philadelphia (Univ. of Pennsylvania Press)... 1945; reprinted... 1956, 1963 \[illus. by Lónie Hagerty (fl. 1940s)\]. *Electronic version*: Ithaca, New York (Core Historical Literature of Agriculture (CHLA)).
+- (2) Compiled & edited with J\[oseph\]. C. McDaniel, *Check list* of the *cultivated magnolias* ... Mount Vernon, Virginia (American Horticultural Society) 1975; rev. ed., edited by Larry W. Langford... Magnolia Society... 1994.
+- (3) Co-author with Edgar T\[heodore\]. Wherry (1885-1982) & Herbert A\[lexander\]. Wahl (1900-1975), *Atlas* of the *flora* of *Pennsylvania*... Philadelphia (Morris Arboretum of the Univ. of Pennsylvania) 1979.
 
 ### Publications
 

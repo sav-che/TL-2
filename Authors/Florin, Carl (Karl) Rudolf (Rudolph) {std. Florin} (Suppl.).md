@@ -43,10 +43,10 @@ Editor, *Acta Horti Bergiani*, vols. 14-20 (partly) (1940-1965).
 
 #### Outside our period
 
-(1) *Evolution* in *cordaites* and *conifers*... Acta Horti Berg. 15(11): 286-388. 1951.
-(2) On *Jurassic taxads* and *conifers* from north-western Europe and eastern Greenland... Acta Horti Berg. 17(10): 257-402, *56 pl*. 1958.
-(3) The *distribution* of *conifer* and *taxad genera* in time and space... Acta Horti Berg. 20(4): 122-312. 1963; and to the preceding: "additions and corrections". Id. 20(6): 319-326. 1966.
-(4) Gymnospermae (142 entries) *in* Ellen R. Farr et al. (eds.), *Index nominum genericorum plantarum*... 1979.
+- (1) *Evolution* in *cordaites* and *conifers*... Acta Horti Berg. 15(11): 286-388. 1951.
+- (2) On *Jurassic taxads* and *conifers* from north-western Europe and eastern Greenland... Acta Horti Berg. 17(10): 257-402, *56 pl*. 1958.
+- (3) The *distribution* of *conifer* and *taxad genera* in time and space... Acta Horti Berg. 20(4): 122-312. 1963; and to the preceding: "additions and corrections". Id. 20(6): 319-326. 1966.
+- (4) Gymnospermae (142 entries) *in* Ellen R. Farr et al. (eds.), *Index nominum genericorum plantarum*... 1979.
 
 ### Publications
 

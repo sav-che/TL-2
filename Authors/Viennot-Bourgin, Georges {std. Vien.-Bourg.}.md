@@ -21,8 +21,8 @@ BFM 3097, 3158; BL 1: 157, 322; Stevenson p. 1261; TL-2/3321.
 
 #### Composite works
 
-(1) Editor of H.E. Jeanpert, *Vadem. bot.* ed. 2, 1953, TL-2/3321.
-(2) Editor and collaborator, A. Maublanc, *Les champignons de France*, ed. 5, Paris 1959, 2 vols.
+- (1) Editor of H.E. Jeanpert, *Vadem. bot.* ed. 2, 1953, TL-2/3321.
+- (2) Editor and collaborator, A. Maublanc, *Les champignons de France*, ed. 5, Paris 1959, 2 vols.
 NOTE: Outside our period: *Les champignons parasites* des plantes cultivées, Paris (Masson & Cie,...) 2 vols. 1949 \[Jan-Mar\].
 
 #### Festschrift

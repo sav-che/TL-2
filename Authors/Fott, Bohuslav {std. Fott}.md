@@ -32,8 +32,8 @@ APN p. 207; Biol.-Dokum. 6: 70.598-70.604; Bossert p. 131; Futak-Domin p. 207; G
 #### Outside our period
 
 (1a) *Sinice a řasy*; *celostátní vysokoškolská učebnice*... Praha (Nakl. Československé Akademie Vĕd), 372 p.... 1956; German transl., *Algenkunde*, Jena/Stuttgart (Gustav Fischer), vi, \[ii\], 482 p. 1959. (1b) *Sinice a řasy; vysokoškolská příručka*,... ed. 2, Praha (Academia), 517 p. 1967; German transl. \[of 2nd Czech edition\], *Algenkunde*... ed. 2, Jena/Stuttgart (G. Fischer), 581 p. 1971. (Co-author \[transl.\]: Glenk, Hans Otto).
-(2) Editor (a.o.) of *Studies in phycology*,... 304 p., Praha (Academia) 1969; Id.,... Stuttgart (E. Schweizerbart'sche Verlagsbuchhandlung)/(Schweizerbart (Nägele u. Obermiller)) 1969.
-(3) "Chlorophyceae (Grünalgen), Ordnung: Tetrasporales" *in* Gottfried Huber-Pestalozzi (1877-1966) (ed.), *Das Phytoplankton des Süsswassers*,... 6: 1-126, *47 pl*. 1972. – Alternate series, Die Binnengewässer, 16.
+- (2) Editor (a.o.) of *Studies in phycology*,... 304 p., Praha (Academia) 1969; Id.,... Stuttgart (E. Schweizerbart'sche Verlagsbuchhandlung)/(Schweizerbart (Nägele u. Obermiller)) 1969.
+- (3) "Chlorophyceae (Grünalgen), Ordnung: Tetrasporales" *in* Gottfried Huber-Pestalozzi (1877-1966) (ed.), *Das Phytoplankton des Süsswassers*,... 6: 1-126, *47 pl*. 1972. – Alternate series, Die Binnengewässer, 16.
 
 ### Publications
 

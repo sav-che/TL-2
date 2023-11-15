@@ -23,7 +23,7 @@ Barnhart 1: 247 (b. 20 Jan 1820, d. 10 Aug 1912); BJI 1: 7; BL 1: 158, 175; BM 1
 
 #### Composite works
 
-(1) Additions and annotations to Lapham's catalogue of Illinois plants \[Springfield 1859\], Trans. Illinois State Agric. Soc. 3: 583-585. 1859, see TL-2/2: 757-758.
+- (1) Additions and annotations to Lapham's catalogue of Illinois plants \[Springfield 1859\], Trans. Illinois State Agric. Soc. 3: 583-585. 1859, see TL-2/2: 757-758.
 
 ### Publications
 

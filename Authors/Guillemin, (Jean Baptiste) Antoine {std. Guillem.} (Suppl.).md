@@ -42,23 +42,23 @@ APN p. 247; Backer p. 651; Baillon 2: 754; Barnhart 2: 98; BL 1: 53, 128, 299; B
 #### Note
 
 The following now are available in microform:
-(1) *Ic. pl. australas.*... 1827 (TL-2/1, nr. 2210):
+- (1) *Ic. pl. australas.*... 1827 (TL-2/1, nr. 2210):
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing) \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "8282C4-8282G5"). *Copy*: MO (n.v.). (b) Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(2) *Fl. Seneg. tent.*... 1830-1833 (TL-2/1, nr. 2211):
+- (2) *Fl. Seneg. tent.*... 1830-1833 (TL-2/1, nr. 2211):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 8 microfiches (Plant taxonomic lit. microfiche coll., "8283A3-8286D2" (text), "13021A1-13024B4" (pl.)). *Copy*: MO (n.v.).
-(3) *Arch. Bot.*... 1833, a short-lived serial edited by Guillemin (see TL-2/1, nr. 2212):
+- (3) *Arch. Bot.*... 1833, a short-lived serial edited by Guillemin (see TL-2/1, nr. 2212):
 (a) *Microfiche*: Leiden (IDC), \[19–\], 22 microfiches; 8×13 cm. *Copy*: MO (n.v.). (b) *Microfilm*: London: British Library, \[n.d.\], 1 reel (35 mm). *Copy*: (n.v.).
-(4) *Zephyritis*... 1837 (see TL-2/1, nr. 2213):
+- (4) *Zephyritis*... 1837 (see TL-2/1, nr. 2213):
 *Microfiche*: Leiden (IDC), 1996, 1 microfiche; 11×15 cm. *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) The entry for A. Delile, *Joliffia africana*... 1827 (TL-2/Suppl. 5, nr. 29.632) can be corrected to indicate that Guillemin contributed a "*Note supplémentaire* à la description du *Joliffia Africana*...", which comprises p. 7-10 of the reprint (and p. \[320\]-323 of the serial) and which was previously attributed solely to Delile and also that it was Guillemin's (not Delile's) article that was signed 10 Jul 1827.
-(2) Editor, *Bulletin des sciences naturelles et de géologie*... vol. 5 (1825) and vols. 16-27 (1829-1831).
-(3) Co-author with Alphonse Chevallier (1793-1879) and Achille Richard (1794-1852) of vols. 3-5 of the 5 vol. *Dictionnaire des drogues simples et composées*... 1827-1829 by Chevallier & Richard.
-(4) Contributed a "Table alphabétique et explicative des plantes..." (p. \[1\]-17) to the last part of P.J. Redouté, *Choix plus belles fleurs*... 1833 (see TL-2/4, nr. 8750, where other editions with text by Guillemin also are noted).
-(5) Prepared texts signed "J.A.G." *in* A.P. de Candolle, *Pl. hist. succ.*... 1798-1837 (TL-2/1, nr. 983, the entire work being "... one of the nightmares of botanical bibliography").
-(6) Contributed to C.H.D. d'Orbigny, *Dict. univ. hist. nat.*... 1841-1849 (TL-2/3, nr. 7096).
+- (1) The entry for A. Delile, *Joliffia africana*... 1827 (TL-2/Suppl. 5, nr. 29.632) can be corrected to indicate that Guillemin contributed a "*Note supplémentaire* à la description du *Joliffia Africana*...", which comprises p. 7-10 of the reprint (and p. \[320\]-323 of the serial) and which was previously attributed solely to Delile and also that it was Guillemin's (not Delile's) article that was signed 10 Jul 1827.
+- (2) Editor, *Bulletin des sciences naturelles et de géologie*... vol. 5 (1825) and vols. 16-27 (1829-1831).
+- (3) Co-author with Alphonse Chevallier (1793-1879) and Achille Richard (1794-1852) of vols. 3-5 of the 5 vol. *Dictionnaire des drogues simples et composées*... 1827-1829 by Chevallier & Richard.
+- (4) Contributed a "Table alphabétique et explicative des plantes..." (p. \[1\]-17) to the last part of P.J. Redouté, *Choix plus belles fleurs*... 1833 (see TL-2/4, nr. 8750, where other editions with text by Guillemin also are noted).
+- (5) Prepared texts signed "J.A.G." *in* A.P. de Candolle, *Pl. hist. succ.*... 1798-1837 (TL-2/1, nr. 983, the entire work being "... one of the nightmares of botanical bibliography").
+- (6) Contributed to C.H.D. d'Orbigny, *Dict. univ. hist. nat.*... 1841-1849 (TL-2/3, nr. 7096).
 
 ### Publications
 

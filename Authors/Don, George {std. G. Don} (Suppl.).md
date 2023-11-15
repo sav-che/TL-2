@@ -46,10 +46,10 @@ AG 4: 789, 5(1): 804, 6(1): 344; Backer p. 183; Barnhart 1: 463 (b. 17 Mai 1798,
 
 #### Composite works
 
-(1) *Sweet's Hortus Britannicus*, ed. 3., 1839 edited by G. Don. – See R. Sweet.
-(2) W.J. Hooker, Niger Flora 1949, *Flora Nigritana* 1849. – See also BM 1: 472.
-(3) *Loudon's Encyclopaedia* of *plants*... edited by Mrs. Loudon, assisted by G. Don. – See J.C. Loudon, An Encyclopaedia of plants, etc. 1872.
-(4) Wallich's Catalogue and G. Don's *General System* fide T.A.S., Kew Bull. 1925(3): 159. 17 Apr 1925.
+- (1) *Sweet's Hortus Britannicus*, ed. 3., 1839 edited by G. Don. – See R. Sweet.
+- (2) W.J. Hooker, Niger Flora 1949, *Flora Nigritana* 1849. – See also BM 1: 472.
+- (3) *Loudon's Encyclopaedia* of *plants*... edited by Mrs. Loudon, assisted by G. Don. – See J.C. Loudon, An Encyclopaedia of plants, etc. 1872.
+- (4) Wallich's Catalogue and G. Don's *General System* fide T.A.S., Kew Bull. 1925(3): 159. 17 Apr 1925.
 
 ### Publications
 

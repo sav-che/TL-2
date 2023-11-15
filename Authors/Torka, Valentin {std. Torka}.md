@@ -8,7 +8,8 @@ Torka, Valentin (1867-1952), German high school teacher and botanist in Schwiebu
 
 #### Herbarium and types
 
-[[Collection POZ|POZ]](?). – *Exsiccatae*: *Bryotheca posnaniensis*, Lief. 1-2, nos. 1-100. 1914. Sets at [[Collection S|S]]. – See also Sayre (1971) (Lief. 1 publ. Mar 1914, Lief. 2 late 1914 or early 1915, see also Z. Naturw. Abt. Naturw. Ver. Posen 22: 41-44. 1915).
+[[Collection POZ|POZ]](?).
+*Exsiccatae*: *Bryotheca posnaniensis*, Lief. 1-2, nos. 1-100. 1914. Sets at [[Collection S|S]]. – See also Sayre (1971) (Lief. 1 publ. Mar 1914, Lief. 2 late 1914 or early 1915, see also Z. Naturw. Abt. Naturw. Ver. Posen 22: 41-44. 1915).
 
 #### Bibliography and biography
 

@@ -26,14 +26,14 @@ AG 1: 335 (ed. 2: 511), 5(3): 26; Backer p. 525; Barnhart 3: 255 (b. 2 Aug 1838,
 
 #### Composite works
 
-(1) *Salix, in* Ascherson & Graebner, *Syn. mitteleur. Fl.* 4: 54-80. 11 Aug 1908, 81-160. 30 Mar 1909, 161-240. 26 Oct, 241-320. 31 Dec 1909, 321-350. 2 Aug 1910, see below *Mitteleur. Weiden* 1911.
-(2) *Salix, in* Ascherson & Graebner, *Fl. Nordostdeut. Flachl.* 233-246. 18 Aug 1898.
-(3) *Fagaceae, in* Th. Loesener, *Beitr. Kenntn. Fl. Central-Amer.* ii, Bot. Jahrb. 27(Beibl. 64): 9-10. 1900.
-(4) *Fagaceae, in* Schumann-Lauterbach, *Fl. deut. Schutzgeb.* 263-264. *pl. 4.* 1900.
-(5) *Fagaceae, in* J. Perkins, *Fragm. Fl. Phil.* 1: 41-42. 1904 (TL-2/7684).
-(6) *Salicaceae, in* L. Diels, *Beitr. Fl. Central-China*, Bot. Jahrb. 36 (Beibl. 82): 28-32. 1905, *Fagaceae*, ib. p. 33. 1905.
-(7) *Salix, in* O. Paulsen, *Leutnant Olufsens second Pamir-Expedition*, Bot. Tidsskr. 29: 157-158. 1909.
-(8) *Fagaceae, in* C.E.A. Wichmann, Nova Guinea 8(2): 413. 1910.
+- (1) *Salix, in* Ascherson & Graebner, *Syn. mitteleur. Fl.* 4: 54-80. 11 Aug 1908, 81-160. 30 Mar 1909, 161-240. 26 Oct, 241-320. 31 Dec 1909, 321-350. 2 Aug 1910, see below *Mitteleur. Weiden* 1911.
+- (2) *Salix, in* Ascherson & Graebner, *Fl. Nordostdeut. Flachl.* 233-246. 18 Aug 1898.
+- (3) *Fagaceae, in* Th. Loesener, *Beitr. Kenntn. Fl. Central-Amer.* ii, Bot. Jahrb. 27(Beibl. 64): 9-10. 1900.
+- (4) *Fagaceae, in* Schumann-Lauterbach, *Fl. deut. Schutzgeb.* 263-264. *pl. 4.* 1900.
+- (5) *Fagaceae, in* J. Perkins, *Fragm. Fl. Phil.* 1: 41-42. 1904 (TL-2/7684).
+- (6) *Salicaceae, in* L. Diels, *Beitr. Fl. Central-China*, Bot. Jahrb. 36 (Beibl. 82): 28-32. 1905, *Fagaceae*, ib. p. 33. 1905.
+- (7) *Salix, in* O. Paulsen, *Leutnant Olufsens second Pamir-Expedition*, Bot. Tidsskr. 29: 157-158. 1909.
+- (8) *Fagaceae, in* C.E.A. Wichmann, Nova Guinea 8(2): 413. 1910.
 
 ### Publications
 

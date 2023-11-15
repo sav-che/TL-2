@@ -87,15 +87,15 @@ AG 2(1): 723; Backer p. 163; Barnhart 1: 432 (b. 11 Mar 1807, Bruxelles, d. 8 Fe
 #### Composite works
 
 1-3: See TL-2/1: 608.
-(4) See C.F.B. de Mirbel (1776-1854), TL-2/3: 520-522, and see especially p. 521 (*Herbarium and types*).
-(5) See J.E.M. Le Maout, *Atlas élémentaire de botanique*, plates by Decaisne, see TL-2/438. – Anon., Bot. Zeit. 4(13): 230-231. 27 Mar 1846.
-(6) See J.E.M. Le Maout, *Traité général* de *botanique* 1868, with co-author Decaisne. See TL-2/2: 4385, De Bary, Bot. Zeit. 26(34): 555-556. 21 Aug 1868.
-(7) See J.E.M. Le Maout, *Traité générale bot*. ed. 2, Genève 1855. – See TL-2/2: 4385.
-(8) *Revue Horticole*... par... Decaisne, sér. I – Sér. IV. 1832-1856.
-(9) *Voyage dans l'Inde* par Victor Jacquemont (1801-1832, TL-2/2: 3230), Decaisne J. and J. Cambessèdes botanical authors.
-(10) Raoul, E., (under direction of J. Decaisne), *Choix pl. Nouv. Zél.* 1846, TL-2/4: 8630.
-(11) *Plantaginaceae* by J. Decaisne *in* Claude Gay, *Flora Chilena*, see TL-2/1: 1975.
-(12) With J.E.M. Le Maout (Co-author: J. Decaisne), *Fl. élém. jard.*, TL-2/4384.
+- (4) See C.F.B. de Mirbel (1776-1854), TL-2/3: 520-522, and see especially p. 521 (*Herbarium and types*).
+- (5) See J.E.M. Le Maout, *Atlas élémentaire de botanique*, plates by Decaisne, see TL-2/438. – Anon., Bot. Zeit. 4(13): 230-231. 27 Mar 1846.
+- (6) See J.E.M. Le Maout, *Traité général* de *botanique* 1868, with co-author Decaisne. See TL-2/2: 4385, De Bary, Bot. Zeit. 26(34): 555-556. 21 Aug 1868.
+- (7) See J.E.M. Le Maout, *Traité générale bot*. ed. 2, Genève 1855. – See TL-2/2: 4385.
+- (8) *Revue Horticole*... par... Decaisne, sér. I – Sér. IV. 1832-1856.
+- (9) *Voyage dans l'Inde* par Victor Jacquemont (1801-1832, TL-2/2: 3230), Decaisne J. and J. Cambessèdes botanical authors.
+- (10) Raoul, E., (under direction of J. Decaisne), *Choix pl. Nouv. Zél.* 1846, TL-2/4: 8630.
+- (11) *Plantaginaceae* by J. Decaisne *in* Claude Gay, *Flora Chilena*, see TL-2/1: 1975.
+- (12) With J.E.M. Le Maout (Co-author: J. Decaisne), *Fl. élém. jard.*, TL-2/4384.
 
 ### Publications
 

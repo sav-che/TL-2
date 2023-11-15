@@ -32,16 +32,16 @@ APN p. 210; Barnhart 2: 9; BFM p. 284 (index); Christiansen p. 315 (index); GR p
 
 #### Outside our period
 
-(1) *Botanique*... 1949, French "adaptation" by René Baumgartner of a school text book.
-(2) Die *Flechtenflora* und -*vegetation* des *Nationalparks* im *Unterengadin*... 1952-1959, 2 vols.
-(3) *Flechten*: *Unbekannte Pflanzenwelt*... In series, Hallwag Taschenbücher, Bd. 89. 1969. *Copy*: US; and its French transl., *Lichens: un monde végétal méconnu*... Petits atlas Payot Lausanne no. 62. 1970. *Ref*.: Almborn, O., Bot. Not. 124: 522. 1971 (brief rev. of *Flechten*).
+- (1) *Botanique*... 1949, French "adaptation" by René Baumgartner of a school text book.
+- (2) Die *Flechtenflora* und -*vegetation* des *Nationalparks* im *Unterengadin*... 1952-1959, 2 vols.
+- (3) *Flechten*: *Unbekannte Pflanzenwelt*... In series, Hallwag Taschenbücher, Bd. 89. 1969. *Copy*: US; and its French transl., *Lichens: un monde végétal méconnu*... Petits atlas Payot Lausanne no. 62. 1970. *Ref*.: Almborn, O., Bot. Not. 124: 522. 1971 (brief rev. of *Flechten*).
 
 #### Composite works
 
-(1) One of a number of co-authors with J. Braun-Blanquet, *Veget.-entw. Schweiz. Nat.-park*... 1931, see TL-2/Suppl. 3, nr. 22.668.
-(2) Contributed "Cladoniaceae... Umbilicariaceae" to *Rabenh. Krypt.-Fl. ed. 2*... Band 9, Abt. 4, I. Hälfte, 1932-1933 (see TL-2/4, nr. 8450); this part of the larger work also available as a reprint: 1971... New York \[etc.\] (Johnson Reprint). *Copy*: (n.v.).
-(3) A. Zahlbruckner acknowledged the collaboration of Frey and J\[ózef\]. Motyka (1900-1984) in publishing A. Zahlbruckner & L. Hauman, *Les Lichens des hautes altitudes au Ruwenzori*... (1936), see TL-2/7, nr. 18.544.
-(4) One of the editors of *Herzogia* (1968-1974); vol. 1(2) of 1969 was dedicated to Frey on the occasion of his 80th birthday.
+- (1) One of a number of co-authors with J. Braun-Blanquet, *Veget.-entw. Schweiz. Nat.-park*... 1931, see TL-2/Suppl. 3, nr. 22.668.
+- (2) Contributed "Cladoniaceae... Umbilicariaceae" to *Rabenh. Krypt.-Fl. ed. 2*... Band 9, Abt. 4, I. Hälfte, 1932-1933 (see TL-2/4, nr. 8450); this part of the larger work also available as a reprint: 1971... New York \[etc.\] (Johnson Reprint). *Copy*: (n.v.).
+- (3) A. Zahlbruckner acknowledged the collaboration of Frey and J\[ózef\]. Motyka (1900-1984) in publishing A. Zahlbruckner & L. Hauman, *Les Lichens des hautes altitudes au Ruwenzori*... (1936), see TL-2/7, nr. 18.544.
+- (4) One of the editors of *Herzogia* (1968-1974); vol. 1(2) of 1969 was dedicated to Frey on the occasion of his 80th birthday.
 
 ### Publications
 

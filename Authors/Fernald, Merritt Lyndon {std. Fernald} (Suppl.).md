@@ -55,18 +55,18 @@ Amer. Men Sci. ed. 7: 556; APN p. 198; Backer p. 650; Barnhart 1: 536; BFM p. 28
 
 #### Outside our period
 
-(1) Fernald and Alfred Charles Kinsey (1894-1956), *Edible wild plants of eastern North America*, Cornwall-on-Hudson, New York (Idlewild Press)... 1943; Id., Rev. by Reed Clark Rollins (1911-1998),... New York (Harper)... 1958; Id. (reprinting of 1958 ed.)... New York (Dover Publications)... 1996; *Electronic version* (1943 ed.): Core Historical Literature of Agriculture (CHLA), Ithaca, New York (Albert R. Mann Library, Cornell Univ.).
-(2) A reprint of *Gray's Manual*, ed. 8 (orig. publ. 29 Jun 1950) was issued in 1987; see Schmid, R., Taxon 37(4): 945. Nov 1987 (noticed).
+- (1) Fernald and Alfred Charles Kinsey (1894-1956), *Edible wild plants of eastern North America*, Cornwall-on-Hudson, New York (Idlewild Press)... 1943; Id., Rev. by Reed Clark Rollins (1911-1998),... New York (Harper)... 1958; Id. (reprinting of 1958 ed.)... New York (Dover Publications)... 1996; *Electronic version* (1943 ed.): Core Historical Literature of Agriculture (CHLA), Ithaca, New York (Albert R. Mann Library, Cornell Univ.).
+- (2) A reprint of *Gray's Manual*, ed. 8 (orig. publ. 29 Jun 1950) was issued in 1987; see Schmid, R., Taxon 37(4): 945. Nov 1987 (noticed).
 
 #### Composite works
 
-(1) Co-author with B.L. Robinson: (a) *New plants collected* by Mssrs. C. V. Hartman... 1894, see TL-2/4, nr. 9286.
+- (1) Co-author with B.L. Robinson: (a) *New plants collected* by Mssrs. C. V. Hartman... 1894, see TL-2/4, nr. 9286.
 (b) *Emendations of the seventh edition of Gray's manual*, – I,... Rhodora 11(123): 33-61. 6 Apr 1909.
-(2) One of a number of co-authors with O. Ames, *Prop. changem. lois nom.*... 1904, see TL-2/Suppl. 1, nr. 19.149.
-(3) First author with K.M. Wiegand, *The genus Euphrasia*... 1915, see TL-2/7, nr.
+- (2) One of a number of co-authors with O. Ames, *Prop. changem. lois nom.*... 1904, see TL-2/Suppl. 1, nr. 19.149.
+- (3) First author with K.M. Wiegand, *The genus Euphrasia*... 1915, see TL-2/7, nr.
 17.512.
-(4) First (not co-) author with C.A. Weatherby, *The genus Puccinellia in eastern North America*... 1916, see TL-2/7, nr. 16.849.
-(5) Editor-in-chief, *Rhodora* (1929-1950).
+- (4) First (not co-) author with C.A. Weatherby, *The genus Puccinellia in eastern North America*... 1916, see TL-2/7, nr. 16.849.
+- (5) Editor-in-chief, *Rhodora* (1929-1950).
 
 ### Publications
 

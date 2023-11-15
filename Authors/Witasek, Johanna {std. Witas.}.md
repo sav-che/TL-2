@@ -23,8 +23,8 @@ Backer p. 664; Barnhart 3: 509 (b. 13 Aug 1865, d. 5 Jul 1910); BJI 2: 193; BM 5
 
 #### Composite works
 
-(1) *Solanaceae, in* K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln* 3: 168-176. Mai 1910 (journal: Denkschr. Akad. Wiss. Wien, math.-nat. Kl. 85: 342-350. 1910) and 5: 159-160. 1913 (journal 89: 601-602, see TL-2/8726).
-(2) *Die Arten der Gattung Callianthemum*, Verh. zool.-bot. Ges. Wien 49(6): 316-356. 10 Juli 1899 (no reprint seen by us).
+- (1) *Solanaceae, in* K. Rechinger, *Botanische und zoologische Ergebnisse einer wissenschaftlichen Forschungsreise nach den Samoainseln* 3: 168-176. Mai 1910 (journal: Denkschr. Akad. Wiss. Wien, math.-nat. Kl. 85: 342-350. 1910) and 5: 159-160. 1913 (journal 89: 601-602, see TL-2/8726).
+- (2) *Die Arten der Gattung Callianthemum*, Verh. zool.-bot. Ges. Wien 49(6): 316-356. 10 Juli 1899 (no reprint seen by us).
 
 ### Publications
 

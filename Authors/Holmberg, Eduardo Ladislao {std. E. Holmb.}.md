@@ -23,9 +23,9 @@ Barnhart 2: 194; BL 1: 232; BM 2: 865; CSP 10: 261, 12: 342, 15: 916; IH 2: 282;
 
 #### Composite works
 
-(1) *El naturalista argentine*, 1878, editor.
-(2) *Apuntes de historia natural*, vols. 1-2, 1909, editor.
-(3) See BM 6: 477.
+- (1) *El naturalista argentine*, 1878, editor.
+- (2) *Apuntes de historia natural*, vols. 1-2, 1909, editor.
+- (3) See BM 6: 477.
 
 #### Postage stamps
 

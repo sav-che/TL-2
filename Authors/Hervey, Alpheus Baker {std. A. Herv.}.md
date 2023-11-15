@@ -8,7 +8,8 @@ Hervey, Alpheus Baker (1839-1931), American clergyman and algologist, educated a
 
 #### Herbarium and types
 
-[[Collection NY|NY]]; other material at [[Collection F|F]] and [[Collection L|L]]. *Exsiccatae*: published fasc. 39 of the *Phycotheca boreali-americana*.
+[[Collection NY|NY]]; other material at [[Collection F|F]] and [[Collection L|L]].
+*Exsiccatae*: published fasc. 39 of the *Phycotheca boreali-americana*.
 
 #### Bibliography and biography
 
@@ -20,8 +21,8 @@ Barnhart 2: 160; BM 2: 835; Bossert p. 173; De Toni 1: lxiii; Jackson p. 359; Le
 
 #### Composite works
 
-(1) F. S. Collins and A. B. Hervey, *The algae of Bermuda*, Cambridge, Mass. 1917, see TL 2/1178. (additional copy seen: NY).
-(2) Rau, E. A. and A. B. Hervey, *Catalogue of North American musci*, 1880, see Rau, E. A. (Rev. bryol. 8(3): 55. 1881).
+- (1) F. S. Collins and A. B. Hervey, *The algae of Bermuda*, Cambridge, Mass. 1917, see TL 2/1178. (additional copy seen: NY).
+- (2) Rau, E. A. and A. B. Hervey, *Catalogue of North American musci*, 1880, see Rau, E. A. (Rev. bryol. 8(3): 55. 1881).
 
 ### Publications
 

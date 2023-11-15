@@ -8,7 +8,8 @@ Paris, \[Jean\] Édouard Gabriel \[Narcisse\] (1827-1911), French soldier and br
 
 #### Herbarium and types
 
-[[Collection REN|REN]]; other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection F|F]], [[Collection FI|FI]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STU|STU]], [[Collection W|W]]. – 223 letters from P. to Brotherus are in the Helsinki University Library. – *Exsiccatae*: *Iter boreale africanum* (2 cent., see Buchinger, Flora 50: 80. 1867). – Some letters at [[Collection G|G]]; correspondence with V.F. Brotherus (223 letters) at [[Collection H|H]] (Univ. Libr.).
+[[Collection REN|REN]]; other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection F|F]], [[Collection FI|FI]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection STU|STU]], [[Collection W|W]]. – 223 letters from P. to Brotherus are in the Helsinki University Library.
+*Exsiccatae*: *Iter boreale africanum* (2 cent., see Buchinger, Flora 50: 80. 1867). – Some letters at [[Collection G|G]]; correspondence with V.F. Brotherus (223 letters) at [[Collection H|H]] (Univ. Libr.).
 
 #### Bibliography and biography
 
@@ -69,8 +70,7 @@ Barnhart 3: 48; BM 4: 1521; Bossert p. 300; CSP 17: 705; GR p. 342; Herder p. 26
 
 *Supplementum primum*: Mai-Jun 1900 (BSbF rd. 27 Jul 1900; Bot. Zeit. 16 Sep 1900; ÖbZ Mai-Jun 1900; Nat. Nov. Jul(1) 1900; Bot. Gaz. 15 Oct 1900; Rev. bryol. Dec 1900), p. \[i-iv\], \[1\]-334 \["234"\]. *Copies*: BR, G, H, MO, NY(3), WU. – "Index bryologicus ... E.P. Paris. Officier de l'instruction publique. Mémoires de l'Herbier Boissier. Supplementum primum". Genève et Bale (Georg & Cie.,...) Lyon (même maison) 1900. Qu.
 *Reviews and notices of reprint*:
-*1*: Nat. Nov., Nov(2) 1894; Gepp., A., J. Bot. 33: 26-29. Jan 1898; Rev. bryol. 21(6): Dec 1894; Bot Zeit. 1 Feb 1895; Hedwigia 34 (hepat.): 25-26. 15 Feb 1895; Bot. Centralbl. 60: 402. 18 Dec 1894; J. Bot., Morot 8: lxiii. 16 Nov 1894; Hedwigia 34:
-(25). Jan-Feb 1895.
+*1*: Nat. Nov., Nov(2) 1894; Gepp., A., J. Bot. 33: 26-29. Jan 1898; Rev. bryol. 21(6): Dec 1894; Bot Zeit. 1 Feb 1895; Hedwigia 34 (hepat.): 25-26. 15 Feb 1895; Bot. Centralbl. 60: 402. 18 Dec 1894; J. Bot., Morot 8: lxiii. 16 Nov 1894; Hedwigia 34: (25). Jan-Feb 1895.
 *2*: Nat. Nov. Oct(2) 1895; Gepp, A., J. Bot. 34: 143. Mar 1896 (dates part 2 "Dec 1895"); Hedwigia 35: (56). Mar-Apr 1896.
 *3*: Nat. Nov. Jan(1) 1897; Gepp, A., J. Bot. 35: 63-64. Feb 1897 (dates part 3 "Dec 1896"); Hedwigia 36: (28). Jan-Feb 1897.
 *4*: Nat. Nov. Mar(1) 1898; Rev. bryol. 25: 55. Jun 1898; Bot. Gaz. 28 Jul 1898; Hedwigia 37: (76). 9 Apr 1898.

@@ -39,9 +39,9 @@ Barnhart 3: 66; BJI 2: 133; BL 1: 211, 212, 312; BM 8: 997; Bossert p. 305; Ewan
 
 #### Composite works
 
-(1) Editor of *Bartonia* 1924-1952.
-(2) NAF, *Fabaceae* – *Eisenhardtia* 24(1): 34-40. 25 Apr 1919.
-(3) *In* H.B. Davis, *Life and work of Cyrus Guernsey Pringle*, 1937: Indices of states, places and railroad routes of Mexico.
+- (1) Editor of *Bartonia* 1924-1952.
+- (2) NAF, *Fabaceae* – *Eisenhardtia* 24(1): 34-40. 25 Apr 1919.
+- (3) *In* H.B. Davis, *Life and work of Cyrus Guernsey Pringle*, 1937: Indices of states, places and railroad routes of Mexico.
 
 #### Eponymy
 

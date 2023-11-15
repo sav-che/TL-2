@@ -26,11 +26,11 @@ Barnhart 3: 89; BJI 1: 46, 2: 136; BL 1: 33, 313, 2: 352, 358, 361, 703; BM 4: 1
 
 #### Composite works
 
-(1) *Malpighia*, vols. 1-16, 1886-1902, editor.
-(2) With Terracciano, A. & U. Brizi, *Flora della provincia di Roma, in* E. Abbate, *Guida della Provincia di Roma* 171-225. 1890 (pub. before 15 Oct 1890).
-(3) Founder of the *Annali di Botanica*, Roma, editor vols. 1-16, 1903-1926; with E. Carano 17-18, 1927-1928.
-(4) With F. Cortesi, Relazione sulle piante raccolte nel Karakoram, *in* F. de Filippi, La spedizione nel Karakoram e nell' Imalaia occidentale 1909, Bologna, (Nicola Zanichelli) 1912, p. \[93\]-110 (Bot. Centralbl. 17 Sep 1912) also as app. D. in English version: Karakoram and Western Himalaya 1909, New York (E.P. Dutton and Company, ...) 1912, p. \[455\]-469. *Copies*: PH.
-(5) Gymnospermae, Pteridophyta, *in* L.A. di Savoia, *Il Ruwenzori* 475-476, 477-483. 1909.
+- (1) *Malpighia*, vols. 1-16, 1886-1902, editor.
+- (2) With Terracciano, A. & U. Brizi, *Flora della provincia di Roma, in* E. Abbate, *Guida della Provincia di Roma* 171-225. 1890 (pub. before 15 Oct 1890).
+- (3) Founder of the *Annali di Botanica*, Roma, editor vols. 1-16, 1903-1926; with E. Carano 17-18, 1927-1928.
+- (4) With F. Cortesi, Relazione sulle piante raccolte nel Karakoram, *in* F. de Filippi, La spedizione nel Karakoram e nell' Imalaia occidentale 1909, Bologna, (Nicola Zanichelli) 1912, p. \[93\]-110 (Bot. Centralbl. 17 Sep 1912) also as app. D. in English version: Karakoram and Western Himalaya 1909, New York (E.P. Dutton and Company, ...) 1912, p. \[455\]-469. *Copies*: PH.
+- (5) Gymnospermae, Pteridophyta, *in* L.A. di Savoia, *Il Ruwenzori* 475-476, 477-483. 1909.
 
 #### Eponymy
 

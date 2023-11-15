@@ -39,21 +39,22 @@ Barnhart 3: 497 (b. 28 Oct 1858, d. 4 Feb 1924); BJI 2: 191; BL 2: 441, 450, 460
 
 #### Composite works
 
-(1) *Lecythidaceae, in* E. Warming, Vid. Medd. Kjøbenhavn 1893: 123-124. 1894, also as *Symbolae* 40: 123-124. 2 Mai 1894, TL-2/16.709.
-(2) *Conjugatae, Chlorophyceae, in* Engler und Prantl, *Nat. Pflanzenfam.* 1(2): 1-159. 1890-1891 (p. 1-48: Mai(1) 1890, 49-96. Mai(2) 1890, 97-144. Jul(1) 1890, 145-159. Jul(1) 1891); Rev. Möbius (Heidelberg); Bot. Centralbl. Beih. 1(6): 402-404. 1891. – *Nachträge *id. 1(2) Nachtr. 1-96. Jan(1) 1910 ("1909"), 97-135. Jun(1) 1910, TL-2/1710.
-(3) *Characeae, in* id. 1(2): 161-175. Jul(1) 1891, Nachtr. 1(2): 135-136. Jun(1) 1910.
-(4) *Algae, in* E. Warming, *Haandb. Syst. bot.* ed. 2. 10-47. 1884, ed. 3: 5-56, 71-79. 1891, TL/16.719.
-(5) Editor, *Nyt Magazin for Naturvidenskaberne* 37-61, 1900-1924.
+- (1) *Lecythidaceae, in* E. Warming, Vid. Medd. Kjøbenhavn 1893: 123-124. 1894, also as *Symbolae* 40: 123-124. 2 Mai 1894, TL-2/16.709.
+- (2) *Conjugatae, Chlorophyceae, in* Engler und Prantl, *Nat. Pflanzenfam.* 1(2): 1-159. 1890-1891 (p. 1-48: Mai(1) 1890, 49-96. Mai(2) 1890, 97-144. Jul(1) 1890, 145-159. Jul(1) 1891); Rev. Möbius (Heidelberg); Bot. Centralbl. Beih. 1(6): 402-404. 1891. – *Nachträge *id. 1(2) Nachtr. 1-96. Jan(1) 1910 ("1909"), 97-135. Jun(1) 1910, TL-2/1710.
+- (3) *Characeae, in* id. 1(2): 161-175. Jul(1) 1891, Nachtr. 1(2): 135-136. Jun(1) 1910.
+- (4) *Algae, in* E. Warming, *Haandb. Syst. bot.* ed. 2. 10-47. 1884, ed. 3: 5-56, 71-79. 1891, TL/16.719.
+- (5) Editor, *Nyt Magazin for Naturvidenskaberne* 37-61, 1900-1924.
 
 #### Obituaries
 
-(1) Frederik Christian Schübeler, Ber. deut. Bot. Ges. 10: 44-52. 1892. (2) Mikael Heggelund Foslie, K. Norsk. Vidensk. Selsk. Skr. 1910: 1-18.
-(3) Veit Brecher Wittrock, Ber. deut. bot. Ges. 33: 25-48. 1915.
-(4) Ingebrigt Hagen, K. Norsk. Vidensk. Selsk. Skr. 1917: 1-13.
-(5) Jean-Baptiste Éduard Bornet, Vidensk. Selsk. Forh., Kristiania 1917.
-(6) E. Strasburger, Overs. Vidensk. Selsk. Forh., Kristiania 1917.
-(7) A.G. Nathorst, ib. 1922: 98-103. 1923.
-(8) H.C. Printz, Naturen, Bergen 1910, p. 65-69 (portr.), Overs. Vidensk. Selsk. Møder 1910: 5-11.
+- (1) Frederik Christian Schübeler, Ber. deut. Bot. Ges. 10: 44-52. 1892.
+- (2) Mikael Heggelund Foslie, K. Norsk. Vidensk. Selsk. Skr. 1910: 1-18.
+- (3) Veit Brecher Wittrock, Ber. deut. bot. Ges. 33: 25-48. 1915.
+- (4) Ingebrigt Hagen, K. Norsk. Vidensk. Selsk. Skr. 1917: 1-13.
+- (5) Jean-Baptiste Éduard Bornet, Vidensk. Selsk. Forh., Kristiania 1917.
+- (6) E. Strasburger, Overs. Vidensk. Selsk. Forh., Kristiania 1917.
+- (7) A.G. Nathorst, ib. 1922: 98-103. 1923.
+- (8) H.C. Printz, Naturen, Bergen 1910, p. 65-69 (portr.), Overs. Vidensk. Selsk. Møder 1910: 5-11.
 
 #### Eponymy
 

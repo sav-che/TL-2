@@ -32,7 +32,7 @@ ADB 53: 441-462; Backer p. 546; Barnhart 3: 313 (d. 22 Nov 1819); BB p. 285-286;
 
 #### Composite works
 
-(1) Theophrasti Eresii de *Historia plantarum* libri decern, Graece. Cum syllabo generum et specierum, glossario et notis. Curante Joh. Stackhouse,... Oxonii \[Oxford\] (excudebat S. Collingwood...), 2 vols. 1813-1814. *Copy*: USDA. – See Henrey 1425.
+- (1) Theophrasti Eresii de *Historia plantarum* libri decern, Graece. Cum syllabo generum et specierum, glossario et notis. Curante Joh. Stackhouse,... Oxonii \[Oxford\] (excudebat S. Collingwood...), 2 vols. 1813-1814. *Copy*: USDA. – See Henrey 1425.
 
 #### Eponymy
 

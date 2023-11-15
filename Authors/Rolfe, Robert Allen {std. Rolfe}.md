@@ -38,13 +38,13 @@ Ainsworth p. 327; Backer p. 498 (epon.); Barnhart 3: 173 (b. 12 Mai 1855, d. 13 
 
 #### Composite works
 
-(1) Founder and editor of *The Orchid Review* 1893-1920.
-(2) Co-editor, with L. Linden, of *Lindenia* vols. 7-9, 1891-1893.
-(3) *in* D. Oliver, *Fl. trop. Afr.*:
+- (1) Founder and editor of *The Orchid Review* 1893-1920.
+- (2) Co-editor, with L. Linden, of *Lindenia* vols. 7-9, 1891-1893.
+- (3) *in* D. Oliver, *Fl. trop. Afr.*:
 *Myoporineae* 5(2): 262-263. Jun 1900.
 *Orchideae* 7(1): 12-192. Dec 1897, 7(2): 193-292. Apr 1898.
 *Selagineae* 5(2): 264-272. Jun 1910.
-(4) *in* W.H. Harvey and O.W. Sonder, *Fl. cap.*:
+- (4) *in* W.H. Harvey and O.W. Sonder, *Fl. cap.*:
 *Myoporineae*: 5(1): 92-94. Jun 1901.
 *Orchideae*: 5(3, 1): 3-192. Oct 1912, 5(3, 2): 193-313. Mar 1913.
 *Selagineae*: 5(1, 1): 95-180. Jun 1901.

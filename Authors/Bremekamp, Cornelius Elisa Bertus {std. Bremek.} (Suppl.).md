@@ -28,7 +28,7 @@ Backer p. 646; Barnhart 1: 246; BJI 2: 19; BL 1: 23, 59; Bossert p. 52; Hortus 3
 
 #### Composite works
 
-(1) Contributed 452 entries on *Acanthaceae* for ING, see ING 1: xviii. 1979.
+- (1) Contributed 452 entries on *Acanthaceae* for ING, see ING 1: xviii. 1979.
 
 #### Note
 

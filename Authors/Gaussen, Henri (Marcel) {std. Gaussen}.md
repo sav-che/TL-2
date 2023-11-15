@@ -32,11 +32,11 @@ APN p. 221; Barnhart 2: 33; BFM p. 285 (index); BL 2: 102, 110-111, 154, 658; Bo
 
 #### Composite works
 
-(1) Co-author with F. Flous:
+- (1) Co-author with F. Flous:
 (a) *Nouvelle espèce sapin Mexique*... 1932, see TL-2/7, nr. 34.866.
 (b) *Flore Pyrénées. Thalictrum*... 1933, and sole author of an "introduction" to the flora, see TL-2/7, nr. 34.868.
-(2) Editor, *Travaux du Laboratoire forestier de Toulouse*... (ca. 1936-x).
-(3) Posthumously published C. Flahault, *Distr. géogr. végét. rég. médit. franç.*... 1937, see TL-2/7, nr. 34.735.
+- (2) Editor, *Travaux du Laboratoire forestier de Toulouse*... (ca. 1936-x).
+- (3) Posthumously published C. Flahault, *Distr. géogr. végét. rég. médit. franç.*... 1937, see TL-2/7, nr. 34.735.
 
 ### Publications
 

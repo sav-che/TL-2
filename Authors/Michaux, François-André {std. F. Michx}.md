@@ -122,12 +122,13 @@ The 140 (138 plus 2 bis plates which were intended to replace the proper numbers
 
 **Notes**
 *Publ*.: in three volumes 1817-1819, vols. 1 and 2 each in 2 half volumes, vol. 3. in 3 "half" volumes. *Copies*: FH (complete), L (3(5)missing), NY (complete), US (some half volume t.p.'s missing). See Sotheby no. 530 for an analytical collation. Plates printed in colour, finished by hand; for artists see French ed.
-*1*(*1*): 1817, (BF 18 Jan 1817), p. \[i\*-iii\*\], \[i\]-xii, \[1\]-135 \[136, cont.\], *pl. 1-3, 4*("6"), *5, 6* ("4"), *7-28*.
-(*2*): 1817 (BF 9 Aug 1817), p. \[i\], \[137\]-268, \[269\], *pl. 29-50.* Text on p. \[269\]: "N. For the translation of the present half volume, I am indebted to my friend August L. Hillhouse, of Connecticut F.A.M.\].
-*2*(*3*): 1818 (BF 13 Jun 1818),p. \[i-iii\], \[1\]-116, \[117, cont.\], *pl. 51-75.* (*4*): 1818 (BF 19 Dec 1818), p. \[i\], \[117\]-250, *pl. 76-100.*
-*3*(*5*): 1819 (BF 10 Apr 1819),p. \[i-iii\], \[1\]-82, \[83, cont.\], *pl. 101-105, 106* ("107"), *107* ("106"), *108-125*.
-(*6*): 1819, (BF 10 Jul 1819), p. \[i\], \[83\]-195, *pl. 126-133, 134* ("1*re*"), *135,136* ("2"), *137* ("3"), *138, 139* ("4"), *140* ("5"). *141* ("6"), *142* ("7"), *143* ("8"), *144* ("9"), *145* ("10"), *146, 147* ("11"), *148* ("12"), *149* ("13"), *150* ("14"), \[i, cont.\].
-(7): 1819, p. \[i\], 195-285, \[286, err.\], *pl. 151-156.* The title-page of this "half" volume calls for *156* plates.
+- *1*(*1*): 1817, (BF 18 Jan 1817), p. \[i\*-iii\*\], \[i\]-xii, \[1\]-135 \[136, cont.\], *pl. 1-3, 4*("6"), *5, 6* ("4"), *7-28*.
+	- (*2*): 1817 (BF 9 Aug 1817), p. \[i\], \[137\]-268, \[269\], *pl. 29-50.* Text on p. \[269\]: "N. For the translation of the present half volume, I am indebted to my friend August L. Hillhouse, of Connecticut F.A.M.\].
+- *2*(*3*): 1818 (BF 13 Jun 1818),p. \[i-iii\], \[1\]-116, \[117, cont.\], *pl. 51-75.* (	- *4*): 1818 (BF 19 Dec 1818), p. \[i\], \[117\]-250, *pl. 76-100.*
+- *3*(*5*): 1819 (BF 10 Apr 1819),p. \[i-iii\], \[1\]-82, \[83, cont.\], *pl. 101-105, 106* ("107"), *107* ("106"), *108-125*.
+	- (*6*): 1819, (BF 10 Jul 1819), p. \[i\], \[83\]-195, *pl. 126-133, 134* ("1*re*"), *135,136* ("2"), *137* ("3"), *138, 139* ("4"), *140* ("5"). *141* ("6"), *142* ("7"), *143* ("8"), *144* ("9"), *145* ("10"), *146, 147* ("11"), *148* ("12"), *149* ("13"), *150* ("14"), \[i, cont.\].
+	- (*7*): 1819, p. \[i\], 195-285, \[286, err.\], *pl. 151-156.* The title-page of this "half" volume calls for *156* plates.
+	
 *Paris reissue in three volumes*: 1819. *Copy*: MO.... "*The North American sylva*, or a description of the forest trees of the United States, Canada and Nova Scotia, considered particularly with respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured engravings. Translated from the French of F. Andrew Michaux,..." Paris (printed by C. d'Hautel) 1819, 3 vols, Oct. (in fours).
 *1*: \[i\*-v\*\], \[i\]-v (dated 20 Mai 1819), \[1\]-268, *pl. 1-50.*
 *2*: \[i-iii\], \[1\]-247, *pl. 51-100.*

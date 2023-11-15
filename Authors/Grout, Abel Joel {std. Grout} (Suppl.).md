@@ -10,8 +10,9 @@
 
 #### Herbarium and types
 
-[[Collection DUKE|DUKE]] (Bryoph.; orig.), see also IH 2: 242 (and add [[Collection BRIT|BRIT]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection LE|LE]], [[Collection PH|PH]], [[Collection WTU|WTU]]). – *Exsiccatae*: (1) *Hand-lens mosses* (nos. 1-76, 1903-x), sets at [[Collection FH|FH]], [[Collection NY|NY]].
-(2) *North American musci perfecti* (nos. 1-475, Newfane, Vermont, 1925-1945), sets at [[Collection BM|BM]], [[Collection BRU|BRU]], [[Collection CAS|CAS]], [[Collection CM|CM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GEO|GEO]], [[Collection GRI|GRI]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection S|S]]-PA, [[Collection SMU|SMU]], [[Collection W|W]], [[Collection WELC|WELC]] (now [[Collection NY|NY]]). (3) *North American musci pleurocarpi* (nos. 1-500, Newfane, Vermont, 1900-1922, suppl. nos. 1-74, 1931-1942), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection GEO|GEO]], [[Collection GRI|GRI]], [[Collection H|H]], [[Collection NY|NY]], [[Collection SMU|SMU]]. – Letters in many collections, a.o. Cornell Univ. Library (Albert Leroy Andrews corr., 1899-1964), and archives of [[Collection FH|FH]], [[Collection GH|GH]] and [[Collection NY|NY]] (Elizabeth Gertrude Knight Britton & Robert Statham Williams records).
+[[Collection DUKE|DUKE]] (Bryoph.; orig.), see also IH 2: 242 (and add [[Collection BRIT|BRIT]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection LE|LE]], [[Collection PH|PH]], [[Collection WTU|WTU]]).
+*Exsiccatae*: (1) *Hand-lens mosses* (nos. 1-76, 1903-x), sets at [[Collection FH|FH]], [[Collection NY|NY]].
+- (2) *North American musci perfecti* (nos. 1-475, Newfane, Vermont, 1925-1945), sets at [[Collection BM|BM]], [[Collection BRU|BRU]], [[Collection CAS|CAS]], [[Collection CM|CM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GEO|GEO]], [[Collection GRI|GRI]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection S|S]]-PA, [[Collection SMU|SMU]], [[Collection W|W]], [[Collection WELC|WELC]] (now [[Collection NY|NY]]). (3) *North American musci pleurocarpi* (nos. 1-500, Newfane, Vermont, 1900-1922, suppl. nos. 1-74, 1931-1942), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection GEO|GEO]], [[Collection GRI|GRI]], [[Collection H|H]], [[Collection NY|NY]], [[Collection SMU|SMU]]. – Letters in many collections, a.o. Cornell Univ. Library (Albert Leroy Andrews corr., 1899-1964), and archives of [[Collection FH|FH]], [[Collection GH|GH]] and [[Collection NY|NY]] (Elizabeth Gertrude Knight Britton & Robert Statham Williams records).
 
 #### Bibliography and biography
 
@@ -48,7 +49,7 @@ Amer. Men Sci. ed. 6: 564; APN p. 244; Barnhart 2: 92; BL 1: 202, 299; BM 2: 742
 
 #### Note
 
-(1) The following corrections to Grout, *Moss. hand-lens microsc.* (see TL-2 /1, nr. 2193) are necessary:
+- (1) The following corrections to Grout, *Moss. hand-lens microsc.* (see TL-2 /1, nr. 2193) are necessary:
 There were 5 parts, not 4, and the dates previously cited were incorrect (correct information here provided by Marshall R. Crosby):
 *Pt. 1*: \[1\]-86 is dated on cover Jun 1903 (not Sep 1903).
 *Pt. 2*: 87-\[166\] is dated on cover Mai 1904 (not Jul 1904).
@@ -56,8 +57,8 @@ There were 5 parts, not 4, and the dates previously cited were incorrect (correc
 *Pt. 4*: 247-318 is dated on cover Apr 1908 (not Jul 1910).
 *Pt. 5*: \[319\]-416 is dated on cover Jul 1910.
 In addition, there was a second printing of the 1965 reprint: 1972,... No. Bennington, Vermont (John Johnson). *Copies*: MO (n.v.), NY, US (n.v.).
-(2) *Moss fl. New York*... 1916 (TL-2/1, nr. 2194) has been issued in microform: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\] 2 microfiche (Plant taxonomic lit. microfiche coll., "2151A3-2152E2"). *Copy*: MO (n.v.).
-(3) The William C. Steere collection cited in TL-2/1 was purchased by MO in 1977.
+- (2) *Moss fl. New York*... 1916 (TL-2/1, nr. 2194) has been issued in microform: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\] 2 microfiche (Plant taxonomic lit. microfiche coll., "2151A3-2152E2"). *Copy*: MO (n.v.).
+- (3) The William C. Steere collection cited in TL-2/1 was purchased by MO in 1977.
 
 ### Publications
 

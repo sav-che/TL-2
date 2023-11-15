@@ -8,7 +8,8 @@ Schischkin, Boris Konstantinovich (1886-1963), Russian botanist; studied at the 
 
 #### Herbarium and types
 
-[[Collection LE|LE]], [[Collection TK|TK]] and [[Collection VLA|VLA]]; other material [[Collection BM|BM]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection E|E]], [[Collection G|G]], [[Collection GH|GH]], [[Collection M|M]] (lich.), [[Collection NY|NY]]. – *Exsiccatae*: *Plantae orientalis exsiccatae* 1924-1928, 16 fasc., with A.A. Grossheim. Set e.g. at [[Collection Z|Z]].
+[[Collection LE|LE]], [[Collection TK|TK]] and [[Collection VLA|VLA]]; other material [[Collection BM|BM]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection E|E]], [[Collection G|G]], [[Collection GH|GH]], [[Collection M|M]] (lich.), [[Collection NY|NY]].
+*Exsiccatae*: *Plantae orientalis exsiccatae* 1924-1928, 16 fasc., with A.A. Grossheim. Set e.g. at [[Collection Z|Z]].
 
 #### Bibliography and biography
 
@@ -26,7 +27,7 @@ Barnhart 3: 228; BJI 2: 154; Bossert p. 353 (b. 1 Mai 1886, d. 21 Mar 1963); Hir
 
 #### Composite works
 
-(1) Co-editor with V.L. Komarov of Fl. USSR vols. 2-13; editor vols. 14-30; for details see TL-2/3857 (lists e.g. Schischkin's numerous contributions) and Linczevski (1966).
+- (1) Co-editor with V.L. Komarov of Fl. USSR vols. 2-13; editor vols. 14-30; for details see TL-2/3857 (lists e.g. Schischkin's numerous contributions) and Linczevski (1966).
 
 #### Note
 

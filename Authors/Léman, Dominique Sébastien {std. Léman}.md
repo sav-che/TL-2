@@ -20,8 +20,8 @@ Barnhart 2: 366; BM 3: 1087; Bossert p. 234; IH 2: 429; Kew 3: 406; PR (alph.); 
 
 #### Composite works
 
-(1) *Cryptogames*, in *Dict. Sci. nat.* (TL-2/1293); articles on cryptogams; entries signed LEM.
-(2) *Nouv. Dict. hist. nat.*, ed. 2, vols. 6-36, Paris 1816-1819, editor.
+- (1) *Cryptogames*, in *Dict. Sci. nat.* (TL-2/1293); articles on cryptogams; entries signed LEM.
+- (2) *Nouv. Dict. hist. nat.*, ed. 2, vols. 6-36, Paris 1816-1819, editor.
 
 #### Eponymy
 

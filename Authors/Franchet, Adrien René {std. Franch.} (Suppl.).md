@@ -42,19 +42,19 @@ AG 3: 686; APN p. 208; Backer p. 222, 650; Barnhart 2: 2; BJI 1: 19-20; BL 1: 27
 
 #### Note
 
-(1) *Essai distr. pl. Loire-&-Cher*... 1866 (see TL-2/1, nr. 1842) is available in microfiche:
+- (1) *Essai distr. pl. Loire-&-Cher*... 1866 (see TL-2/1, nr. 1842) is available in microfiche:
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987\], 1 microfiche (Plant taxonomic lit. microfiche coll., "1669C2-1669E3"). *Copy*: MO (n.v.).
-(2) (a) There is a 1940 Tokyo reprint (in 300 copies) of Franchet and P.A.L. Savatier, *Enum. pl. Jap.*... \[1873-\]1875-1879 (see TL-2/1, nr. 1844), which was issued in the series "Shokobutsu. Botanical Bibliography Publishing Society, Tokyo. Publications, no. 11". (n.v.). (b) Kew purchased in 1947 from Mme. Andrieu, grand daughter of Paul Amadée Lúdovic Savatier (1830-1891), the original unpubl. watercolors \[intended\] to accompany *Enum. pl. Jap.*...; the watercolors by Japanese artist Ito Keiske (1803-1901), who was commissioned by Savatier.
-(3) *Pl. david.*... 2 pts., 1884-1888 (see TL-2/1, nr. 1846) is available in microfiche: *Microfiche*: Leiden (IDC), \[19--?\], \[Pt. 1\]: 15 microfiches, \[Pt. II\]: 9 microfiches. *Copy*:
+- (2) (a) There is a 1940 Tokyo reprint (in 300 copies) of Franchet and P.A.L. Savatier, *Enum. pl. Jap.*... \[1873-\]1875-1879 (see TL-2/1, nr. 1844), which was issued in the series "Shokobutsu. Botanical Bibliography Publishing Society, Tokyo. Publications, no. 11". (n.v.). (b) Kew purchased in 1947 from Mme. Andrieu, grand daughter of Paul Amadée Lúdovic Savatier (1830-1891), the original unpubl. watercolors \[intended\] to accompany *Enum. pl. Jap.*...; the watercolors by Japanese artist Ito Keiske (1803-1901), who was commissioned by Savatier.
+- (3) *Pl. david.*... 2 pts., 1884-1888 (see TL-2/1, nr. 1846) is available in microfiche: *Microfiche*: Leiden (IDC), \[19--?\], \[Pt. 1\]: 15 microfiches, \[Pt. II\]: 9 microfiches. *Copy*:
 (n.v.).
-(4) *Pl. delavay.*... 1889\[-1890\], 3 pts. (see TL-2/1, nr. 1848) is available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987\], 5 microfiches (Plant taxonomic lit. microfiche coll., "1678F6-1682A6"). *Copy*: MO (n.v.).
+- (4) *Pl. delavay.*... 1889\[-1890\], 3 pts. (see TL-2/1, nr. 1848) is available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987\], 5 microfiches (Plant taxonomic lit. microfiche coll., "1678F6-1682A6"). *Copy*: MO (n.v.).
 
 #### Composite works
 
-(1) Co-author with L.É. Bureau: (a) *Premier aperçu de la végétation du Tonkin méridional*... 1886, see TL-2/Suppl. 3, nr. 23.686; and
+- (1) Co-author with L.É. Bureau: (a) *Premier aperçu de la végétation du Tonkin méridional*... 1886, see TL-2/Suppl. 3, nr. 23.686; and
 (b) *Plantes du Thibet*... 1891, see TL-2/Suppl. 3, nr. 23.690.
-(2) "Phanérogamie" *in* P.A. Hariot, *Miss. sci. Cap Horn*, *Bot*.... 1889, see TL-2/Suppl. 3, nr. 2390.
-(3) Appendix "4. List of Plants collected..." *in* Prince Henri d'Orléans, *From Tonkin to India by the sources of the Irawadi*... (English transl.) 1898, which presumably is also in the original French version, *Du Tonkin aux Indes*, janvier 1895-janvier 1896... 1898 (n.v.).
+- (2) "Phanérogamie" *in* P.A. Hariot, *Miss. sci. Cap Horn*, *Bot*.... 1889, see TL-2/Suppl. 3, nr. 2390.
+- (3) Appendix "4. List of Plants collected..." *in* Prince Henri d'Orléans, *From Tonkin to India by the sources of the Irawadi*... (English transl.) 1898, which presumably is also in the original French version, *Du Tonkin aux Indes*, janvier 1895-janvier 1896... 1898 (n.v.).
 
 ### Publications
 

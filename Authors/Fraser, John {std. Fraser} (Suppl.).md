@@ -10,7 +10,8 @@
 
 #### Note
 
-(1) Sometimes confused with his son, John Fraser (1780-1861), who also was involved with the Chelsea nursery and traveled (1800-1801 and 1807-1810) in North America with the senior Fraser. (2) Also easily confused with several other botanists and horticulturalists with the same name, viz. John Fraser (1820-1909), John Fraser (1821-1900) and John Fraser (1854-1935, who published papers on English plants, esp. mints and willows); see Desmond, ed. 2: 263 (1994) for details.
+- (1) Sometimes confused with his son, John Fraser (1780-1861), who also was involved with the Chelsea nursery and traveled (1800-1801 and 1807-1810) in North America with the senior Fraser.
+- (2) Also easily confused with several other botanists and horticulturalists with the same name, viz. John Fraser (1820-1909), John Fraser (1821-1900) and John Fraser (1854-1935, who published papers on English plants, esp. mints and willows); see Desmond, ed. 2: 263 (1994) for details.
 
 #### Herbarium and types
 
@@ -63,9 +64,9 @@ AG 3: 237; APN p. 209; Backer p. 222; Barnhart 2: 4; BB p. 116; BM 6: 343; Bosse
 
 #### Composite works
 
-(1) Published T. Walter, *Fl. carol.*... (1788) (see TL-2/7, nr. 16.613).
-(2) At least two seed catalogues issued by Fraser while he was alive survive; one generally thought to be published in 1790 and the other dated 8 Apr 1796. Both are rare. The copies in the BM were analyzed by J. Britten (see above). (a) The former catalogue, which begins "The following List of Seeds collected by him \[John Fraser\], and brought home under his own care, are now in a very high state of perfection..." was reprinted by Britten (1899: 485-487) in its entirety. It may have been issued in early 1789 as evidenced by a letter dated 2 Feb 1789 from John Coakley Lettsom (1744-1815) to Humphry Marshall (1722-1801) in which Lettsom stated "Fraser, to whom a few of us in London subscribed an annual sum, has not answered our expectations. His *catalogue*, enclosed, are the seeds and plants of his own property" (quoted in Darlington, 1849: 549). (b) The latter catalogue dated 8 Apr 1796 was also reprinted by Britten (1905: 330-331).
-(3) *Cat. pl. Upper Louisiana*... 1813 (TL-2/3, nr. 6919) is associated with Messrs. Frasers' nursery (i.e. Fraser's sons John and James Thomas) and although it contains descriptions of new species, no authorship appears anywhere in the work. External evidence indicates that Thomas Nuttall (1786-1859), rather than the senior (or junior) Fraser, authored these species and the work is treated here under the former botanist (TL-2/3, 781-787), see also Art. 46.4, Note 3, Ex. 37 of the Vienna *Code* (McNeill et al., 2006. Regnum Veg. 146: 85-86).
+- (1) Published T. Walter, *Fl. carol.*... (1788) (see TL-2/7, nr. 16.613).
+- (2) At least two seed catalogues issued by Fraser while he was alive survive; one generally thought to be published in 1790 and the other dated 8 Apr 1796. Both are rare. The copies in the BM were analyzed by J. Britten (see above). (a) The former catalogue, which begins "The following List of Seeds collected by him \[John Fraser\], and brought home under his own care, are now in a very high state of perfection..." was reprinted by Britten (1899: 485-487) in its entirety. It may have been issued in early 1789 as evidenced by a letter dated 2 Feb 1789 from John Coakley Lettsom (1744-1815) to Humphry Marshall (1722-1801) in which Lettsom stated "Fraser, to whom a few of us in London subscribed an annual sum, has not answered our expectations. His *catalogue*, enclosed, are the seeds and plants of his own property" (quoted in Darlington, 1849: 549). (b) The latter catalogue dated 8 Apr 1796 was also reprinted by Britten (1905: 330-331).
+- (3) *Cat. pl. Upper Louisiana*... 1813 (TL-2/3, nr. 6919) is associated with Messrs. Frasers' nursery (i.e. Fraser's sons John and James Thomas) and although it contains descriptions of new species, no authorship appears anywhere in the work. External evidence indicates that Thomas Nuttall (1786-1859), rather than the senior (or junior) Fraser, authored these species and the work is treated here under the former botanist (TL-2/3, 781-787), see also Art. 46.4, Note 3, Ex. 37 of the Vienna *Code* (McNeill et al., 2006. Regnum Veg. 146: 85-86).
 
 ### Publications
 

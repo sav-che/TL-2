@@ -34,8 +34,8 @@ Atlas öfver Finland 1910. – Kartbladen n:is 22 och 23. *Skogarna och Skogshus
 
 #### Notes
 
-(1): See A.J. Mela, *Lyhkaïnen kasvioppi ja kasvio*... 1877, ed. 5 (1906), text to be attributed to A.K. Cajander.
-(2): *Forest types and their significance*, Acta Forestalia Fenn. 56: 1-71. 1949.
+- (1): See A.J. Mela, *Lyhkaïnen kasvioppi ja kasvio*... 1877, ed. 5 (1906), text to be attributed to A.K. Cajander.
+- (2): *Forest types and their significance*, Acta Forestalia Fenn. 56: 1-71. 1949.
 
 ### Publications
 

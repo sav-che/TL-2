@@ -39,8 +39,8 @@ AG 4: 418; Ainsworth p. 89, 98, 100-101, 319, 320; APN p. 208; Barnhart 2: 3; BF
 
 #### Composite works
 
-(1) One of many collaborators with A. Schenk (ed.), *Handb. Bot.*... 1879-1890, 4 vols. (see TL-2/5, nr. 10.561).
-(2) Editor of J. Leunis, *Syn. Pflanzenk.*... ed. 2, 1877; ed. 3, 1883-1886 (see TL-2/2, nr. 4461).
+- (1) One of many collaborators with A. Schenk (ed.), *Handb. Bot.*... 1879-1890, 4 vols. (see TL-2/5, nr. 10.561).
+- (2) Editor of J. Leunis, *Syn. Pflanzenk.*... ed. 2, 1877; ed. 3, 1883-1886 (see TL-2/2, nr. 4461).
 
 ### Publications
 

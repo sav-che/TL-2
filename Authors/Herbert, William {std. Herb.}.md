@@ -8,7 +8,7 @@ Herbert, William (1778-1847), British botanist who entered the Anglican ministry
 
 #### Types
 
-Hitchcock (List 2: 12) states that Herbert's types are at K. Mr. J. P. M. Brenan kindly informs us that there are indeed some types of Herbert in the Kew herbarium, mostly based on other people's collections. No plant collections made by Herbert are known to be at K. Some drawings are at the Royal Horticultural Society. Further investigation is needed.
+Hitchcock (List 2: 12) states that Herbert's types are at [[Collection K|K]]. Mr. J.P.M. Brenan kindly informs us that there are indeed some types of Herbert in the Kew herbarium, mostly based on other people's collections. No plant collections made by Herbert are known to be at [[Collection K|K]]. Some drawings are at the Royal Horticultural Society. Further investigation is needed.
 
 #### Bibliography and biography
 

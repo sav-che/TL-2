@@ -23,8 +23,9 @@ Ainsworth p. 75, 231, 334, 335; Barnhart 1: 404 (b. 27 Aug 1892, Moa Flat, Otago
 
 #### Outside our period
 
-(1) The *Gasteromycetes* of *Australia* and *New Zealand*, Dunedin (privately printed) 1944, p. xv, 236, *37 pl*., also reprinted 1979 by J. Cramer in der A.R. Gantner Verlag Kommanditgesellschaft, Bibl. mycol. Band 67, ISBN 3-7682-1231-9, xv, 236, *37 pl*.; see Taxon 29(1): 173. 1980.
-(2) The *Thelephoraceae* of *Australia* and *New Zealand*, Wellington, N.Z. 1963, 359 p., *5 pl*. (3) *Polyporaceae* of *New Zealand*, Wellington, N.Z. 1965, 304 p., *7 pl*.
+- (1) The *Gasteromycetes* of *Australia* and *New Zealand*, Dunedin (privately printed) 1944, p. xv, 236, *37 pl*., also reprinted 1979 by J. Cramer in der A.R. Gantner Verlag Kommanditgesellschaft, Bibl. mycol. Band 67, ISBN 3-7682-1231-9, xv, 236, *37 pl*.; see Taxon 29(1): 173. 1980.
+- (2) The *Thelephoraceae* of *Australia* and *New Zealand*, Wellington, N.Z. 1963, 359 p., *5 pl*. 
+- (3) *Polyporaceae* of *New Zealand*, Wellington, N.Z. 1965, 304 p., *7 pl*.
 
 ### Publications
 

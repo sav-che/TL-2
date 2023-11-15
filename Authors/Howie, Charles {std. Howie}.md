@@ -8,7 +8,8 @@ Howie, Charles (1811-1899), Scottish bryologist, nurseryman and seedsman, of St.
 
 #### Herbarium and types
 
-[[Collection BM|BM]], [[Collection E|E]]. *Exsiccatae: Mosses of Fifeshire* (e.g. at [[Collection OXF|OXF]]). Desmond states: "Herb, at St. Andrews" ([[Collection STA|STA]]).
+[[Collection BM|BM]], [[Collection E|E]].
+*Exsiccatae*: Mosses of Fifeshire* (e.g. at [[Collection OXF|OXF]]). Desmond states: "Herb, at St. Andrews" ([[Collection STA|STA]]).
 
 #### Bibliography and biography
 

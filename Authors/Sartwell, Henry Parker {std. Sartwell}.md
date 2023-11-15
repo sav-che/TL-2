@@ -8,7 +8,8 @@ Sartwell, Henry Parker (1792-1867), American botanist and physician; lic. med. O
 
 #### Herbarium and types
 
-Hamilton College, Clinton, N.Y., now at [[Collection NY|NY]]; further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]] (lich.), [[Collection MASS|MASS]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection OXF|OXF]], [[Collection P|P]],[[Collection PH|PH]], [[Collection US|US]], [[Collection WECO|WECO]], [[Collection WELC|WELC]]. – *Exsiccatae*: *Carices Americae septentrionalis exsiccatae*, 2 parts, 1848, 1850; sets e.g. at [[Collection BM|BM]], [[Collection G|G]], [[Collection NYS|NYS]] (in all 158 numbers). – *Letters* at [[Collection GH|GH]].
+Hamilton College, Clinton, N.Y., now at [[Collection NY|NY]]; further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]] (lich.), [[Collection MASS|MASS]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection OXF|OXF]], [[Collection P|P]],[[Collection PH|PH]], [[Collection US|US]], [[Collection WECO|WECO]], [[Collection WELC|WELC]].
+*Exsiccatae*: *Carices Americae septentrionalis exsiccatae*, 2 parts, 1848, 1850; sets e.g. at [[Collection BM|BM]], [[Collection G|G]], [[Collection NYS|NYS]] (in all 158 numbers). – *Letters* at [[Collection GH|GH]].
 
 #### Bibliography and biography
 

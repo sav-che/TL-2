@@ -8,7 +8,8 @@ Siehe, Walter (1859-1928), German (Berlin) plant collector and salesman; botanic
 
 #### Herbarium and types
 
-[[Collection AUT|AUT]], [[Collection B|B]] (in part extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection STU|STU]], [[Collection W|W]], [[Collection Z|Z]]. – *Exsiccatae* distributed as *Botanische Reise nach* *Cilicien*, 1895-1896, also *Flora Ciliciae*, 1897, *Flora orientalis* 1898, 1906-1913, *Sammlung seltener orientalischer Pflanzen* 1912-1913, e.a. – *Letters* at [[Collection G|G]].
+[[Collection AUT|AUT]], [[Collection B|B]] (in part extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection STU|STU]], [[Collection W|W]], [[Collection Z|Z]].
+*Exsiccatae* distributed as *Botanische Reise nach* *Cilicien*, 1895-1896, also *Flora Ciliciae*, 1897, *Flora orientalis* 1898, 1906-1913, *Sammlung seltener orientalischer Pflanzen* 1912-1913, e.a. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

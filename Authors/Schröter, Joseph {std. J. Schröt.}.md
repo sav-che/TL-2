@@ -8,7 +8,8 @@ Schröter, Joseph (1837-1894), German (Silesian) physician and botanist (especia
 
 #### Herbarium and types
 
-[[Collection WRSL|WRSL]]. – *Exsiccatae*: *Die Pilze Schlesiens*, sets at [[Collection C|C]], [[Collection H|H]], [[Collection PAD|PAD]], [[Collection S|S]]. – *Letters* to W.G. Farlow at [[Collection FH|FH]].
+[[Collection WRSL|WRSL]].
+*Exsiccatae*: *Die Pilze Schlesiens*, sets at [[Collection C|C]], [[Collection H|H]], [[Collection PAD|PAD]], [[Collection S|S]]. – *Letters* to W.G. Farlow at [[Collection FH|FH]].
 
 #### Bibliography and biography
 
@@ -28,8 +29,8 @@ Ainsworth p. 157, 226, 319, 320; Barnhart 3: 242 (b. 14 Mar 1837, d. 6 Dec 1894)
 
 #### Composite works
 
-(1) Just's Bot. Jahresber., Pilze, 1873-1878, vols. 1-7.
-(2) *Fungi, in* EP, *Nat. Pflanzenfam.* 1(1): 1-32. Sep 1889, 33-80. Aug 1892, 81-126. Oct 1893, 129-176. Dec 1894 (Myxophyc.: Acrasieae, Phytomyxinae, Myxogasteres;
+- (1) Just's Bot. Jahresber., Pilze, 1873-1878, vols. 1-7.
+- (2) *Fungi, in* EP, *Nat. Pflanzenfam.* 1(1): 1-32. Sep 1889, 33-80. Aug 1892, 81-126. Oct 1893, 129-176. Dec 1894 (Myxophyc.: Acrasieae, Phytomyxinae, Myxogasteres;
 Eumycetes: Chytridineae, Ancylistineae, Saprolegniineae, Monoblepharidineae, Perenosporineae, Mucorineae, Entomophterineae, Hemiascineae, Protodiscineae; Helvellineae and Pezizinae (p. 173-178; continued by G. Lindau p. 179-243)).
 
 #### Eponymy

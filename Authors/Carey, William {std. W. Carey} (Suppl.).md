@@ -40,5 +40,5 @@ Barnhart 1: 310 (b. 17 Aug 1761, d. 9 Jun 1834); BB p. 58; BM 1: 316, 5: 2235; C
 
 #### Composite works
 
-(1) Joint editor of W. Roxburgh, *Fl. India* 1820-1824, 2 vols.
+- (1) Joint editor of W. Roxburgh, *Fl. India* 1820-1824, 2 vols.
 

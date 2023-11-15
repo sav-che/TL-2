@@ -26,8 +26,8 @@ Ainsworth p. 151; APN p. 231; DBI 57: 556-558; Kew 2: 436.
 
 #### Outside our period
 
-(1) Goidànich & Gilberto Govi (1924-x), *Funghi e ambiente*: una guida per l'amatore, Bologna (Edagricole)... (1982).
-(2) *Nel mondo dei funghi*: guida pratica per i cercatori, Bologna (Edagricole)... (1991).
+- (1) Goidànich & Gilberto Govi (1924-x), *Funghi e ambiente*: una guida per l'amatore, Bologna (Edagricole)... (1982).
+- (2) *Nel mondo dei funghi*: guida pratica per i cercatori, Bologna (Edagricole)... (1991).
 
 #### Composite works
 

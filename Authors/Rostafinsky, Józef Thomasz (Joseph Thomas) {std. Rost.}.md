@@ -29,8 +29,8 @@ AG 12(1): 194; Ainsworth p. 234, 283, 319; Barnhart 3: 181 (b. 14 Aug 1850, d. 6
 
 #### Composite works
 
-(1) With E. v. G. Janczewsky, *Obs. alg.* 1874, and *Obs. accrois. thalle phéosp.*, 1875, see TL-2/3285-3286.
-(2) M.C. Cooke, *Contr. mycol. brit.* 1877, TL-2/1204 is "arranged according to the method of Rostafinsky", in part a translation from the Polish (Sluzowce (Mycetozoa) monographia).
+- (1) With E. v. G. Janczewsky, *Obs. alg.* 1874, and *Obs. accrois. thalle phéosp.*, 1875, see TL-2/3285-3286.
+- (2) M.C. Cooke, *Contr. mycol. brit.* 1877, TL-2/1204 is "arranged according to the method of Rostafinsky", in part a translation from the Polish (Sluzowce (Mycetozoa) monographia).
 
 #### Eponymy
 

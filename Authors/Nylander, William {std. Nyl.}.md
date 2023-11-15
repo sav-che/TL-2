@@ -9,11 +9,11 @@ Nylander, William (1822-1899), Finnish lichenologist; M. D. Helsinki 1847; to Pa
 #### Herbarium and types
 
 [[Collection H|H]] (51.000 lichens); library, notebooks and miscellaneous papers also at [[Collection H|H]]. Many types also at [[Collection BM|BM]], [[Collection PC|PC]] and [[Collection S|S]]. Correspondence at Helsinki University Library. –*Exsiccatae*(see also Sayre 1969):
-(1) *Herbarium lichenum parisiensium*,fasc. 1-3, nos. 1-150, Paris 1855-1857, sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]] (20 sets issued). Fasc. 3 issued Dec 1857 (T. Ahti).
-(2) *Lichenes mont-dorienses*,fasc. 1-3, nos. 1-111, Paris 1856, sets at [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection H|H]].
-(3) *Lichenes pyrenaeorum orientalium*,nos. 1-78, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection MSTR|MSTR]].
-(4) with N. I. Fellman, *Lichenes arctici collecti aestate 1863 in Lapponia orientali*,nos. 1-224, Helsinki 1865.
-(5) See J. P. Norrlin for *Herbarium lichenum fenniae*.
+- (1) *Herbarium lichenum parisiensium*,fasc. 1-3, nos. 1-150, Paris 1855-1857, sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]] (20 sets issued). Fasc. 3 issued Dec 1857 (T. Ahti).
+- (2) *Lichenes mont-dorienses*,fasc. 1-3, nos. 1-111, Paris 1856, sets at [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection H|H]].
+- (3) *Lichenes pyrenaeorum orientalium*,nos. 1-78, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection MSTR|MSTR]].
+- (4) with N. I. Fellman, *Lichenes arctici collecti aestate 1863 in Lapponia orientali*,nos. 1-224, Helsinki 1865.
+- (5) See J. P. Norrlin for *Herbarium lichenum fenniae*.
 
 #### Bibliography and biography
 
@@ -53,14 +53,14 @@ AG 3: 726; Ainsworth p. 97, 305; Barnhart 3: 18; BL 2: 63, 70, 84, 697; BM 3: 14
 
 #### Note
 
-(1) For a review of the exotic lichens described by Nylander, see A. M. Hue, Lich. exot. 1892, see TL-2/3112.
-(2) For a recent introduction by T. Ahti to N's life and works, with annotated bibliography and a description of his herbarium see vol. 1 of William Nylander's collected lichenological papers (see below TL-2/6979) in press. The manuscript of Dr. Ahti's introduction and bibliography were kindly made available to us for the preparation of the present treatment.
+- (1) For a review of the exotic lichens described by Nylander, see A. M. Hue, Lich. exot. 1892, see TL-2/3112.
+- (2) For a recent introduction by T. Ahti to N's life and works, with annotated bibliography and a description of his herbarium see vol. 1 of William Nylander's collected lichenological papers (see below TL-2/6979) in press. The manuscript of Dr. Ahti's introduction and bibliography were kindly made available to us for the preparation of the present treatment.
 
 #### Composite works
 
-(1) *Lichenes, in*J. Triana & J. E. Planchon, Prodr. fl. novo-granat. 2: 1-148 (Ann. Sci. nat. Bot. ser. 4. 19: 286-382. 1863, 20: 221-279) 1865; add. p. 533-586 (ib. ser.
+- (1) *Lichenes, in*J. Triana & J. E. Planchon, Prodr. fl. novo-granat. 2: 1-148 (Ann. Sci. nat. Bot. ser. 4. 19: 286-382. 1863, 20: 221-279) 1865; add. p. 533-586 (ib. ser.
 5. 7: 301-354) 1867.
-(2) editor, with E. Bescherelle, of E. Fournier, *Mexic. pl.*,pars prima, *Cryptogamia*,1872, see TL-2/1835.
+- (2) editor, with E. Bescherelle, of E. Fournier, *Mexic. pl.*,pars prima, *Cryptogamia*,1872, see TL-2/1835.
 
 #### Eponymy
 
@@ -198,9 +198,9 @@ AG 3: 726; Ainsworth p. 97, 305; Barnhart 3: 18; BL 2: 63, 70, 84, 697; BM 3: 14
 
 **Notes**
 *Publ*.: 1864 (date on cover), p. \[1\]-148,*pl. 1-2*(partly col., auct.); additamentum \[dated 1867\] p. \[533\]-586. *Copy*: H (Nylander's copy: copiously annotated). Reprinted and partly preprinted from
-(1) Ann. Sci. nat., Bot. ser. 4. 19(5): 286-320 late 1863 or Jan-Feb 1864, (6): 321-382. late 1863 or Jan-Feb 1864;
-(2) ib. ser. 4. 20(4): 228-256. med. 1864, (5): 257-281. med. 1864;
-(3) ib. ser. 5. 7(5): 301-320, (6): 321-354. 1867. Editors of the *Prodromus*:J. Triana & J. E. Planchon, q.v.
+- (1) Ann. Sci. nat., Bot. ser. 4. 19(5): 286-320 late 1863 or Jan-Feb 1864, (6): 321-382. late 1863 or Jan-Feb 1864;
+- (2) ib. ser. 4. 20(4): 228-256. med. 1864, (5): 257-281. med. 1864;
+- (3) ib. ser. 5. 7(5): 301-320, (6): 321-354. 1867. Editors of the *Prodromus*:J. Triana & J. E. Planchon, q.v.
 
 ##### n.6951. Lichenes in Aegypto a cel. Ehrenberg collecti
 

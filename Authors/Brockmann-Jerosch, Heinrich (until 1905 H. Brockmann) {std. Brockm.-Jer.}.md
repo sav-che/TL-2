@@ -22,9 +22,9 @@ Barnhart 1: 255 (b. 23 Mai 1879, Winterthur, d. 14 Feb 1939); BFM 1042, 2043; BJ
 
 #### Composite works
 
-(1) *Vegetationsbilder vom Nordrand der algerischen Sahara*, *in* G. Karsten and H. Schenck, Vegetationsbilder ser. 6. Heft 4: *pl. 19-24*, 10 p. text. 1908, co-author Arnold Heim.
-(2) Edited *Festschrift Carl Schröter* 1925, see TL-2/5: 340.
-(3) *Jamaika*, *in* G. Karsten and H. Schenck, Vegetationsbilder ser. 16. Heft 5/6: *pl. 25-36*, 42 p. text. 1925, co-author Marie Brockmann-Jerosch.
+- (1) *Vegetationsbilder vom Nordrand der algerischen Sahara*, *in* G. Karsten and H. Schenck, Vegetationsbilder ser. 6. Heft 4: *pl. 19-24*, 10 p. text. 1908, co-author Arnold Heim.
+- (2) Edited *Festschrift Carl Schröter* 1925, see TL-2/5: 340.
+- (3) *Jamaika*, *in* G. Karsten and H. Schenck, Vegetationsbilder ser. 16. Heft 5/6: *pl. 25-36*, 42 p. text. 1925, co-author Marie Brockmann-Jerosch.
 
 ### Publications
 

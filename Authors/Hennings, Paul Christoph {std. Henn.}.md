@@ -8,7 +8,9 @@ Hennings, Paul Christoph (1841-1908), German self-taught cryptogamist, originall
 
 #### Herbarium and types
 
-[[Collection B|B]] (for the greater part extant); other material at [[Collection C|C]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection S|S]], [[Collection W|W]]. Exsiccatae: (1) *Phycotheca marchica* (fasc. 1-2, nos. 1-100, Berlin 1893-1906), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PAD|PAD]], [[Collection SI|SI]], [[Collection W|W]]. (Hedwigia 32: 104-108. Mar-Apr 1893, Nat. Nov. Mar 1893); (2) *Kryptogamen- Typen*, Hamburg 1880 (120 cellular crypt. with some text and *22 plates*, n.v.).
+[[Collection B|B]] (for the greater part extant); other material at [[Collection C|C]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection S|S]], [[Collection W|W]].
+*Exsiccatae*: (1) *Phycotheca marchica* (fasc. 1-2, nos. 1-100, Berlin 1893-1906), sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PAD|PAD]], [[Collection SI|SI]], [[Collection W|W]]. (Hedwigia 32: 104-108. Mar-Apr 1893, Nat. Nov. Mar 1893);
+- (2) *Kryptogamen-Typen*, Hamburg 1880 (120 cellular crypt. with some text and *22 plates*, n.v.).
 *Ref*.: Fischer-Benzon, R. J. D. von, *in* P. Prahl, Krit. Fl. Schleswig-Holstein 2: 23-24. 1890.
 - Dennis, R. W. G., Taxon 1: 64. 1952 (isotypes at K).
 - Kohlmeyer in Potztal, Willdenowia 2: 783. 1961 (mycol. herb. extant).
@@ -33,15 +35,15 @@ Ainsworth p. 228, 343; Backer p. 261; Barnhart 2: 158; BJI 1: 26, 2: 73; BM 2: 8
 
 #### Composite works
 
-(1) Editor of *Hedwigia*, vols. 40-48, 1901-1909 (co-editor Jun 1894 onward).
-(2) *Essbare Pilze Ostafrikas, in* Deutsch Afrika 5B(6) 1895.
-(3) Engler, *Pflanzenw. Ost-Afrikas, Basidiomyceten, in* C: 48-61. 15 Jun 1895, see also B: 163-164. 1895 (TL-2/1708).
-(3) *Deutsche Südpolar-Expedition auf dem Schiffe "Gaus"* 1901-1903, Berlin 1906, Botanik, Pilze (Nat. Nov. Mai(2) 1907).
-(4) EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710):
+- (1) Editor of *Hedwigia*, vols. 40-48, 1901-1909 (co-editor Jun 1894 onward).
+- (2) *Essbare Pilze Ostafrikas, in* Deutsch Afrika 5B(6) 1895.
+- (3) Engler, *Pflanzenw. Ost-Afrikas, Basidiomyceten, in* C: 48-61. 15 Jun 1895, see also B: 163-164. 1895 (TL-2/1708).
+- (4) *Deutsche Südpolar-Expedition auf dem Schiffe "Gaus"* 1901-1903, Berlin 1906, Botanik, Pilze (Nat. Nov. Mai(2) 1907).
+- (5) EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710):
 *Dacromycetineae*, 1(1\*\*): 96. Dec 1897, 97-102. Feb 1898.
 *Exobasidiineae*, 1(1\*\*): 103-105. Feb 1898.
 *Hymenomycetineae*, 1(1\*\*): 105-144. Feb 1898, 145-192. Apr 1898, 193-240. Jul 1898, 241-276. Nov. 1898, 553-555. Sep 1900.
-(5) Warnstorf et al., *Kryptogamenflora von Brandenburg*:
+- (6) Warnstorf et al., *Kryptogamenflora von Brandenburg*:
 *Onygenaceae*, 7(1): 88-90. 15 Aug 1905,
 *Elaphomycetaceae*, 7(1): 90-93. 15 Aug 1905,
 *Terfeziaceae*, 7(1): 93-95. 15 Aug 1905,

@@ -57,13 +57,13 @@ Ainsworth p. 102, 283; Barnhart 3: 78; Bossert p. 308; Collander hist. p. 45, 46
 
 #### Composite works
 
-(1) Editor, *Jahrb. wiss. Bot.* 27-59, 1895-1920 (until Mai 1912 with E. Strasburger).
-(2) Editor, Kölreuter, J.G., *Vorläuf. Nachr. Geschl. Pfl.*, ed. Ostwald's Klassiker 41, 1893, see TL-2/3820.
+- (1) Editor, *Jahrb. wiss. Bot.* 27-59, 1895-1920 (until Mai 1912 with E. Strasburger).
+- (2) Editor, Kölreuter, J.G., *Vorläuf. Nachr. Geschl. Pfl.*, ed. Ostwald's Klassiker 41, 1893, see TL-2/3820.
 
 #### Festschrift
 
-(1) *Jahrb. wiss. Bot.* 56: 1-832. 1915 (contains, in addition to the scientific contributions, a portrait, dedication, bibliography 1865-1915 (p. 793-804), and a list of Pfeffer's students (p. 805-832).
-(2) Die Naturwissenschaften 3(10): 115-140. 1915 (papers by G. Haberlandt et al. on Pfeffer, bibl., portr.).
+- (1) *Jahrb. wiss. Bot.* 56: 1-832. 1915 (contains, in addition to the scientific contributions, a portrait, dedication, bibliography 1865-1915 (p. 793-804), and a list of Pfeffer's students (p. 805-832).
+- (2) Die Naturwissenschaften 3(10): 115-140. 1915 (papers by G. Haberlandt et al. on Pfeffer, bibl., portr.).
 
 #### Handwriting
 

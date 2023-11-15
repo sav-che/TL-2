@@ -39,8 +39,8 @@ Flora malesiana ser. 1 vol. 5, 1958 was dedicated to the memory of A.A. Pulle wi
 
 #### Composite works
 
-(1) *The vegetation, in* L.M.R. Rutten, *Science in the Netherlands East Indies*, Amsterdam 1929, p. 164-191.
-(2) Co-editor, *Nova Guinea, Botanique*, vols. 8(3-6), 12, 14, 18, 1911-1936. Pulle himself contributed numerous family treatments to parts 8(2) (publ. 14 Sep 1910), and 8(4).
+- (1) *The vegetation, in* L.M.R. Rutten, *Science in the Netherlands East Indies*, Amsterdam 1929, p. 164-191.
+- (2) Co-editor, *Nova Guinea, Botanique*, vols. 8(3-6), 12, 14, 18, 1911-1936. Pulle himself contributed numerous family treatments to parts 8(2) (publ. 14 Sep 1910), and 8(4).
 
 #### Handwriting
 
@@ -192,8 +192,8 @@ Westhoff, Victor (1916-x).
 *Editors*: 1932-1955: A.A. Pulle, from 1956-1965 still listed (as †)with J. Lanjouw as co-editor.
 1955-1977: Joseph Lanjouw (1902-x), from 1972-1977 with A.L. Stoffers as co-editor. 1977-x: Antonius Lambertus Stoffers (1926-x), from 1979 with Jan C. Lindeman (1921-x) as co-editor.
 *Original title*: *Flora of Surinam* (Dutch Guyana), on wrappers 1932-1936; from then on *Flora of Suriname* (Netherlands Guyana), until 1947. Now: *Flora of Suriname*. The early volumes have an additional heading on the title page:
-(1) Vereeniging Kolonial Institute te Amsterdam. Mededeeling no. xxx. Afd. Handelsmuseum no. 11. (until 1946).
-(2) Koninklijke Vereeniging Indisch Instituut (voorheen Koloniaal Instituut te Amsterdam)... 1946-1967.
+- (1) Vereeniging Kolonial Institute te Amsterdam. Mededeeling no. xxx. Afd. Handelsmuseum no. 11. (until 1946).
+- (2) Koninklijke Vereeniging Indisch Instituut (voorheen Koloniaal Instituut te Amsterdam)... 1946-1967.
 
 ###### A: *Composition Flora of Suriname as of 1 Sep 1980*
 
@@ -604,7 +604,7 @@ Westhoff, Victor (1916-x).
 |Zingiberaceae	|Maas, P. J.	|5	|1	|416-441	|1979|
 |Zygophyllaceae	|Stafleu, F. A.	|3	|	|200-203	|1951|
 
-(3) Foundation van Eedenfonds (c/o. Royal Tropical Institute). Amsterdam (1968-x) with imprint Leiden. E.J. Brill.
+- (3) Foundation van Eedenfonds (c/o. Royal Tropical Institute). Amsterdam (1968-x) with imprint Leiden. E.J. Brill.
 The imprints show a great variety: until 1950 the Flora was published by the Vereeniging Koloniaal Instituut ("Edited by the Institute"). From 1951-1963 by the "Foundation van Eedenfonds", from 1964 by E.J. Brill (Leiden).
 
 ##### n.8394. Remarks on the system of the spermatophytes

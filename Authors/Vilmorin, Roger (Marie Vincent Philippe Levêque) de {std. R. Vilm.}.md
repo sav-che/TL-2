@@ -29,13 +29,17 @@ Barnhart 3: 438 (b. 12 Sep 1905); Biol.-Dokum. 18: 9579; Bossert p. 419; GR p. 3
 
 #### Main publications outside our period
 
-(1) P. Jovet & R. de Vilmorin, *Supplément* 1, et 2, to H.J. Coste, *Fl. descr. France* 1973, 1974, see TL-2/1250.
-(2) *Manuel de floriculture*, tome 1, Le jardin... Paris 1950, viii, 427 p. (3) *Plantes alpines dans les jardins*, Paris 1956, 238 p.
-(4) *Jardin botaniques et arboretums en France*, Paris 1974 (publ. 1975), 151 p. (5) With M. Guinochet, *Flore de France* fasc. 1-4, Paris 1973-1982. (6) Co-editor, with J. Lanjouw et al., *International Code of Botanical Nomenclature*, adopted ... 1954, Utrecht 1956. Regnum vegetabile 8.
-(7) Co-editor, id. adopted 1959, Utrecht 1961. Regnum vegetabile 23.
-(8) Co-editor, id. adopted 1964. Utrecht 1966. Regnum vegetabile vol. 46.
-(9) Co-editor, with F. A. Stafleu et al., *International Code of Botanical Nomenclature* adopted ... 1969. Utrecht 1972, Regnum vegetabile 82.
-(10) \[As chairman of International Commission:\] *International Code of Nomenclature of Cultivated plants*, Utrecht 1958, 28 p., Regnum vegetabile 10, see TL-2/12841. (11) Id., Utrecht 1961, 30 p. Regnum vegetabile 22.
+- (1) P. Jovet & R. de Vilmorin, *Supplément* 1, et 2, to H.J. Coste, *Fl. descr. France* 1973, 1974, see TL-2/1250.
+- (2) *Manuel de floriculture*, tome 1, Le jardin... Paris 1950, viii, 427 p. 
+- (3) *Plantes alpines dans les jardins*, Paris 1956, 238 p.
+- (4) *Jardin botaniques et arboretums en France*, Paris 1974 (publ. 1975), 151 p. 
+- (5) With M. Guinochet, *Flore de France* fasc. 1-4, Paris 1973-1982. 
+- (6) Co-editor, with J. Lanjouw et al., *International Code of Botanical Nomenclature*, adopted ... 1954, Utrecht 1956. Regnum vegetabile 8.
+- (7) Co-editor, id. adopted 1959, Utrecht 1961. Regnum vegetabile 23.
+- (8) Co-editor, id. adopted 1964. Utrecht 1966. Regnum vegetabile vol. 46.
+- (9) Co-editor, with F. A. Stafleu et al., *International Code of Botanical Nomenclature* adopted ... 1969. Utrecht 1972, Regnum vegetabile 82.
+- (10) \[As chairman of International Commission:\] *International Code of Nomenclature of Cultivated plants*, Utrecht 1958, 28 p., Regnum vegetabile 10, see TL-2/12841. 
+- (11) Id., Utrecht 1961, 30 p. Regnum vegetabile 22.
 
 ### Publications
 

@@ -8,7 +8,8 @@ Savulescu, Trajan (1889-1963), Roumanian botanist, mycologist and phytopathologi
 
 #### Herbarium and types
 
-[[Collection BUCM|BUCM]]; important material also at [[Collection BUCA|BUCA]]; duplicates at [[Collection BR|BR]]. *Exsiccatae*: *Herbarium mycologicum romanicum*, fasc. 1-37 1929-x. Sets at [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BUCA|BUCA]], [[Collection C|C]], [[Collection CERN|CERN]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection ERN|ERN]] \[[[Collection CERN|CERN]]?\], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HPP|HPP]], [[Collection M|M]], [[Collection PC|PC]], [[Collection PRC|PRC]], [[Collection ROPV|ROPV]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]].
+[[Collection BUCM|BUCM]]; important material also at [[Collection BUCA|BUCA]]; duplicates at [[Collection BR|BR]].
+*Exsiccatae*: *Herbarium mycologicum romanicum*, fasc. 1-37 1929-x. Sets at [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BUCA|BUCA]], [[Collection C|C]], [[Collection CERN|CERN]], [[Collection CUP|CUP]], [[Collection E|E]], [[Collection ERN|ERN]] \[[[Collection CERN|CERN]]?\], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HPP|HPP]], [[Collection M|M]], [[Collection PC|PC]], [[Collection PRC|PRC]], [[Collection ROPV|ROPV]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]].
 
 #### Bibliography and biography
 

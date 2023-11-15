@@ -32,9 +32,9 @@ Barnhart 3: 175 (b. 4 Dec 1854, d. 12 Jul 1927); Biol.-Dokum,. 15: 7631; BJI 2: 
 
 #### Composite works
 
-(1) Associate editor *Mycologia* vols. 1-19.
-(2) *Basidiomycetes from Juan Fernandez, in* C. Skottsberg, *Nat. hist. Juan Fernandez* 2: 465-471. 1926.
-(3) *Svampar* (Fungi), *in* Th. O.B.N. Krok och S. Almquist, *Svensk flora för skolor*... ii. Kryptogamer, ed. 2 (1898), 3 (1907) and 4 (1917); see TL-2/3955.
+- (1) Associate editor *Mycologia* vols. 1-19.
+- (2) *Basidiomycetes from Juan Fernandez, in* C. Skottsberg, *Nat. hist. Juan Fernandez* 2: 465-471. 1926.
+- (3) *Svampar* (Fungi), *in* Th. O.B.N. Krok och S. Almquist, *Svensk flora för skolor*... ii. Kryptogamer, ed. 2 (1898), 3 (1907) and 4 (1917); see TL-2/3955.
 
 #### Note
 

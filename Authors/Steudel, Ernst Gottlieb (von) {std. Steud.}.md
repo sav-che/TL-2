@@ -40,7 +40,7 @@ Steudel contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, see TL-2/4332.
 
 Clokie p. 280.
 
-#### Der botanische reiseverein esslingen
+#### Der Botanische Reiseverein Esslingen
 
 Steudel and Christian Ferdinand Hochstetter, both at Esslingen, founded this society (in Latin texts "Unio itineraria") in December 1825 (it was active until 1842). The full story of this undertaking is told in great detail by Karl Baur, Jahrb. Gesch. oberdeut. Reichsstädte 16: 228-266. 1970. – The travellers and collectors are listed by Baur (p. 244-263). Notes on the activities and collections appeared especially in *Flora*:
 1825: Beil. 2: 96.

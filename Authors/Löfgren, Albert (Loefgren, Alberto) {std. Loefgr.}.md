@@ -24,7 +24,7 @@ Barnhart 2: 395; BL 1: 238, 241, 243, 306; BM 3: 1165, 7: 738; CSP 16: 835; Hort
 
 #### Composite works
 
-(1) Contributed to: V. B. Wittrock & O. Nordstedt, *Algae aquae dulcis exsiccatae*. (2) Translated into Portuguese: E. Warming, *Lagoa Santa*, 1908. See under Warming (orig. Danish ed. 1892).
+- (1) Contributed to: V. B. Wittrock & O. Nordstedt, *Algae aquae dulcis exsiccatae*. (2) Translated into Portuguese: E. Warming, *Lagoa Santa*, 1908. See under Warming (orig. Danish ed. 1892).
 
 #### Eponymy
 

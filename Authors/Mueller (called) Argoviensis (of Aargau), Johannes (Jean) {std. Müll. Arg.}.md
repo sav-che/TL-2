@@ -8,8 +8,9 @@ Mueller \[called\] Argoviensis \[of Aargau\], Johannes \[Jean\] (1828-1896), Swi
 
 #### Herbarium and types
 
-Mueller's lichenological herbarium, library and manuscripts are at [[Collection G|G]]. The Swiss phanerogam herbarium is at [[Collection Z|Z]]. For further sets of Mueller lichen specimens see IH; a particularly important set is at [[Collection PC|PC]]. – *Exsiccatae*: (1) *Graphideae cubenses* a Cl C. Wright lectae et Cl. W. Nylander determinatae, distr. by J. M., 1884 (± 350 nos.) \[Charles Wright (1811-1885), collector in Cuba 1856-1858\], set at [[Collection FH|FH]]; for details see Sayre (1969).
-(2) Hepp, *Die Flechten Europas*, vols. 13-16 (see Hepp).
+Mueller's lichenological herbarium, library and manuscripts are at [[Collection G|G]]. The Swiss phanerogam herbarium is at [[Collection Z|Z]]. For further sets of Mueller lichen specimens see IH; a particularly important set is at [[Collection PC|PC]].
+*Exsiccatae*: (1) *Graphideae cubenses* a Cl C. Wright lectae et Cl. W. Nylander determinatae, distr. by J. M., 1884 (± 350 nos.) \[Charles Wright (1811-1885), collector in Cuba 1856-1858\], set at [[Collection FH|FH]]; for details see Sayre (1969).
+- (2) Hepp, *Die Flechten Europas*, vols. 13-16 (see Hepp).
 
 #### Name
 
@@ -46,13 +47,13 @@ AG 12(2): 203; Backer p. 382, 383; Barnhart 2: 524; BJI 1: 41-42; BM 3: 1368-136
 #### Composite works
 
 Müller contributed to many composite works. For a full list see the bibliographies by Briquet (1940) and Chodat (1896).
-(1) Martius, *Fl. bras., Apocynaceae*, 6 (1): 1-180, *pl. 1-53* \[fasc. 26\] 30 Jul 1860; *Rubiaceae*, 6 (5): 1-470, *pl. 1-67* \[fasc. 84\]. 1 Jul 1881; *Euphorbiaceae*, 11(2): 1-292, *pl. 1-42* \[fasc. 61\]. 1 Feb 1873, and 11(2): 293-721, *pl. 43-104* \[fasc. 64\]. 1 Mai 1874.
-(2) Candolle, *Prodr., Euphorbiaceae*, 15(2): 189-1286. late Aug 1866; *Daphniphyllaceae*, 16(1): 1-6. med. Nov 1869; *Buxaceae*, 16(1): 7-23. med. Nov 1869; *Resedaceae*, 16(2): 548-589, 685. med. Jul 1868.
-(3) Engler, *Forschungsr. Gazelle*, 1889, *Flechten*, see no. 1705.
-(4) Engler, Ostafrika 5, *Pflanzenwelt* C, 1895, *Ascolichenes* p. 36-46.
-(5) Bailey Balfour, *Botany of Socotra, Ascomycetes*, p. 343-392. 1887 (Trans. Roy. Soc. Edinburgh 31: 343-392. 1887).
-(6) Warming, E., *Symb. bras.*, (13) *Apocynaceae*, p. \[1\]-19 (98-116), *publ*. 1870.
-(7) Compiled *Graphideae cubenses* a cl. C. Wright lectae et a cl. W. Nylander determinatae, 1884, 1 p., broadsheet, *Copies* G, NY; see W. Nylander, Flora 69: 103-104. 1886 and J. Müller arg., Bull. Herb. Borssier 2:725. 1894.
+- (1) Martius, *Fl. bras., Apocynaceae*, 6 (1): 1-180, *pl. 1-53* \[fasc. 26\] 30 Jul 1860; *Rubiaceae*, 6 (5): 1-470, *pl. 1-67* \[fasc. 84\]. 1 Jul 1881; *Euphorbiaceae*, 11(2): 1-292, *pl. 1-42* \[fasc. 61\]. 1 Feb 1873, and 11(2): 293-721, *pl. 43-104* \[fasc. 64\]. 1 Mai 1874.
+- (2) Candolle, *Prodr., Euphorbiaceae*, 15(2): 189-1286. late Aug 1866; *Daphniphyllaceae*, 16(1): 1-6. med. Nov 1869; *Buxaceae*, 16(1): 7-23. med. Nov 1869; *Resedaceae*, 16(2): 548-589, 685. med. Jul 1868.
+- (3) Engler, *Forschungsr. Gazelle*, 1889, *Flechten*, see no. 1705.
+- (4) Engler, Ostafrika 5, *Pflanzenwelt* C, 1895, *Ascolichenes* p. 36-46.
+- (5) Bailey Balfour, *Botany of Socotra, Ascomycetes*, p. 343-392. 1887 (Trans. Roy. Soc. Edinburgh 31: 343-392. 1887).
+- (6) Warming, E., *Symb. bras.*, (13) *Apocynaceae*, p. \[1\]-19 (98-116), *publ*. 1870.
+- (7) Compiled *Graphideae cubenses* a cl. C. Wright lectae et a cl. W. Nylander determinatae, 1884, 1 p., broadsheet, *Copies* G, NY; see W. Nylander, Flora 69: 103-104. 1886 and J. Müller arg., Bull. Herb. Borssier 2:725. 1894.
 
 #### Handwriting
 

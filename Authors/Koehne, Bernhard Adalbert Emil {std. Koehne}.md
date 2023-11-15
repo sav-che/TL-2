@@ -8,7 +8,8 @@ Koehne, Bernhard Adalbert Emil (1848-1918), German botanist and dendrologist; Dr
 
 #### Herbarium and types
 
-[[Collection B|B]] (22.000). Exsiccatae: *Herbarium dendrologicum adumbrationibus illustratum*, nos. 1-565, 1896-1905, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection STU|STU]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection B|B]] (22.000).
+*Exsiccatae*: *Herbarium dendrologicum adumbrationibus illustratum*, nos. 1-565, 1896-1905, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]], [[Collection STU|STU]], [[Collection UPS|UPS]], [[Collection W|W]].
 
 #### Bibliography and biography
 
@@ -21,12 +22,12 @@ AG 6(2): 107;Barnhart 2: 308; BJI 1: 33, 2: 92; BM 2: 1005; Bossert p. 216; Clok
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Lythraceae*. Heft 17, publ. 9 Oct 1903 (Nat. Nov. Nov(1, 2) 1903). Nachträge Jun 1908, 37 p. (repr. from Bot. Jahrb.) (TL-2/1713).
-(2) Eichler, *Blüthendiagramme* 2: 179-180. 1878, inf. on *Lythraceae*.
-(3) EP, *Die natürlichen Pflanzenfamilien*, ed 1, *Lythraceae*, III. 7: 1-16, publ. Jun 1892. (suppl.: Nachtr. 2-4(1): 260-261. Oct 1897; l.c (2): 48. 8 Oct 1900).
-(4) Martius, *Flora brasiliensis, Lythraceae*, 13(2): 185-370, *pl. 39-67.* 1 Oct 1877.
-(5) Just's *Botanischer Jahresbericht*, editor, 1883-1897.
-(6) Warming, *Symbolae, 38, Lythraceae*, p. 46-48, publ. 3 Mai 1892.
+- (1) Engler, *Pflanzenreich, Lythraceae*. Heft 17, publ. 9 Oct 1903 (Nat. Nov. Nov(1, 2) 1903). Nachträge Jun 1908, 37 p. (repr. from Bot. Jahrb.) (TL-2/1713).
+- (2) Eichler, *Blüthendiagramme* 2: 179-180. 1878, inf. on *Lythraceae*.
+- (3) EP, *Die natürlichen Pflanzenfamilien*, ed 1, *Lythraceae*, III. 7: 1-16, publ. Jun 1892. (suppl.: Nachtr. 2-4(1): 260-261. Oct 1897; l.c (2): 48. 8 Oct 1900).
+- (4) Martius, *Flora brasiliensis, Lythraceae*, 13(2): 185-370, *pl. 39-67.* 1 Oct 1877.
+- (5) Just's *Botanischer Jahresbericht*, editor, 1883-1897.
+- (6) Warming, *Symbolae, 38, Lythraceae*, p. 46-48, publ. 3 Mai 1892.
 
 #### Eponymy
 

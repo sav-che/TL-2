@@ -32,8 +32,8 @@ Fernow Hall, Cornell Univ., Ithaca, New York.
 
 #### Composite works
 
-(1) Scientific editor, *USDA, Division of Forestry, Bulletin* Nos. 13, 14, 17, 18, 21, at least (1896-1898, at least).
-(2) Revised, edited and published a previously unpublished draft of V.M. Spalding, *The White Pine*... 1899, see TL-2/5, nr. 12.525.
+- (1) Scientific editor, *USDA, Division of Forestry, Bulletin* Nos. 13, 14, 17, 18, 21, at least (1896-1898, at least).
+- (2) Revised, edited and published a previously unpublished draft of V.M. Spalding, *The White Pine*... 1899, see TL-2/5, nr. 12.525.
 
 ### Publications
 

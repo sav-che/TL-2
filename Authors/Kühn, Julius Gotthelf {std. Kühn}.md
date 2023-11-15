@@ -31,8 +31,8 @@ Ainsworth p. 143, 317; Barnhart 2: 325; BM 2: 1031-1032; CSP 3: 768, 10: 472, 12
 
 #### Festschrift
 
-(1) *Festschrift zum siebzigsten Geburtstage von Julius Kühn*... Berlin (Paul Parey), 1895, 329 p., (portr.).
-(2) Wohltmann, F. und Holdefleiss, P., *Julius Kühn, sein Leben und Wirken*. Festschrift zum 80. Geburtstag. Berlin 1905, 56 p. (portr.); see also Kühn-Nummer, Illustr. landw. Zeit., Berlin, 21 Oct 1905.
+- (1) *Festschrift zum siebzigsten Geburtstage von Julius Kühn*... Berlin (Paul Parey), 1895, 329 p., (portr.).
+- (2) Wohltmann, F. und Holdefleiss, P., *Julius Kühn, sein Leben und Wirken*. Festschrift zum 80. Geburtstag. Berlin 1905, 56 p. (portr.); see also Kühn-Nummer, Illustr. landw. Zeit., Berlin, 21 Oct 1905.
 
 #### Eponymy (genus)
 

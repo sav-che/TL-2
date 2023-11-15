@@ -146,60 +146,64 @@ Publ.: 1868, cover-t.p., p. \[287\]-236, \[1, err.\], *pl. 22-36. Copies*: G, Jo
 **Abbreviated title**: *Paléont. franç., Pl. jurass.*
 
 **Notes**
-*1*: Jan 1872-Mar 1873, 10 parts, p. \[i, iii\], \[1\]-506, *pl. 1-70.* Livraisons (copy orig. covers at G):
-(1): Jan 1872, p. \[1\]-48, *pl. 1-8.*
-(2): Mar 1872, p. 49-96, *pl. 9-12.*
-(3): Mar 1872, p. 97-144, *pl. 13-20.*
-(4): Apr 1872, p. 145-192, *pl. 21-28.*
-(5): Apr 1872, p. 193-240, *pl. 29-34.*
-(6): Jun 1872, p. 241-288, *pl. 35-41.*
-(7): Jul 1872, p. 289-336, *pl. 42-48.*
-(8): Oct 1872, p. 337-384, *pl. 49-54.*
-(9): Dec 1872, p. 385-432, *pl. 55-60.*
-(10): Mar 1873, p. 433-506, *pl. 61-70.*
-*Plates* bound in a special *Atlas*, p. \[i-iii\], *pl. 1-70*, col. liths. Grabowski, H. Formant.
-*2*: Jun 1873-Mai 1875, 9 Parts, p. \[i-iii\], \[1\]-352, *pl 1-58*.
-(11): Jun 1873, p. 1-48, *pl. 1-8.*
-(12): Oct 1873, p. 49-96, *pl. 9-14.*
-(13): Nov 1873, p. 97-144, *pl. 15-20.*
-(14): Dec 1873, p. 145-192, *pl. 21-26.*
-(15): Apr 1874, p. 194-224, *pl. 27-34.*
-(16): Mai 1874, p. 225-256, *pl. 35-42.*
-(17): Jun 1874, p. 257-288, *pl. 43-49.*
-(18): Jan 1875, p. 289-320, *pl. 50-54.*
-(19): Mai 1875, p. 321-352, *pl. 55-58.*
-*Plates* id., in *Atlas*, p. \[i-iii\], *pl. 1-58* (also numbered *71-128*).
-*3*: Apr 1876-Mai 1884, p. \[i-iii\], \[1\]-672, *pl. 1-98* (also numbered 129-226), in 14 livraisons:
-(20): Apr 1876, p. \[1\]-48, *pl.1-8.*
-(21): Oct 1876, p. 89-96, *pl. 9-16.*
-(22): Feb 1877, p. 97-144, *pl. 17-23.*
-(23): Apr 1877, p. 145-192. *pl.24-29.*
-(24): Dec 1877, p. 193-240, *pl. 30-37.*
-(25): Jan 1878, p. 241-288, *pl. 38-43.*
-(26): Sep 1878, p. 289-336, *pl. 45* \[sic\]-*51*.
-(27): Dec 1878, p. 337-368, *pl. 44, 52-57.*
-(28): Aug 1879, p. 369-416, *pl. 58-65.*
-(29): Oct 1879, p. 417-464, *pl. 66-73.*
-(30): \[Jan-Aug 1880\], p. 465-512, *pl. 74-79.*
-(31): Jul 1881, p. 513-544, *pl. 80-83.*
-(32): Apr 1883, p. 545-576, *pl. 84-91.*
-(33): Mai 1884, p. \[i-iii\], 577-672, *pl. 92-98.*
-*Atlas*: p. \[i, iii\], *pl. 1-98* (*129-226*), id., t.p. 1884. Artists: A. Leuba, A. Karmanski, H. Formant.
-*4*: Jan 1886-Jul 1891, p. \[i-ii\], \[1\]-547, \[548\], *pl. 1-74* (*227-300*) in 14 livraisons: (34): Jan 1886, p. \[1\]-48, *pl. 1-7.*
-(35): Apr 1886, p. 49-80, *pl. 8-10.*
-(36): Jul 1886, p. 81-112, *pl. 11-15.*
-(37): Nov 1886, p. 113-144, *pl. 16-18.*
-(38): Dec 1886, p. 145-176, *pl. 19-22.*
-(39): Mai 1888, p. 177-208, *pl. 23-28.*
-(40): Jan 1889, p. 209-240, *pl. 29-34.*
-(41): Nov 1889, p. 241-272, *pl. 35-40.*
-(42): Mar 1890, p. \[273\]-304, *pl. 41-46.*
-(43): Oct 1890, p. 305-352, *pl. 47-52.*
-(44): Jan 1891, p. 353-400, *pl. 43-58.*
-(45): Mar 1891, p. 401-448, *pl. 59-63.*
-(46): Mar 1891, p. 449-496, *pl. 64-68.*
-(47): Jul 1891, p. 497-547, \[548, err.\], *pl. 69-74.*
-*Atlas*: p. \[i-iii\], *pl. 1-74* (*227-300*\]. Artist: A. Leuba.
+- *1*: Jan 1872-Mar 1873, 10 parts, p. \[i, iii\], \[1\]-506, *pl. 1-70.* Livraisons (copy orig. covers at G):
+	- (1): Jan 1872, p. \[1\]-48, *pl. 1-8.*
+	- (2): Mar 1872, p. 49-96, *pl. 9-12.*
+	- (3): Mar 1872, p. 97-144, *pl. 13-20.*
+	- (4): Apr 1872, p. 145-192, *pl. 21-28.*
+	- (5): Apr 1872, p. 193-240, *pl. 29-34.*
+	- (6): Jun 1872, p. 241-288, *pl. 35-41.*
+	- (7): Jul 1872, p. 289-336, *pl. 42-48.*
+	- (8): Oct 1872, p. 337-384, *pl. 49-54.*
+	- (9): Dec 1872, p. 385-432, *pl. 55-60.*
+	- (10): Mar 1873, p. 433-506, *pl. 61-70.*
+	- *Plates* bound in a special *Atlas*, p. \[i-iii\], *pl. 1-70*, col. liths. Grabowski, H. Formant.
+	
+- *2*: Jun 1873-Mai 1875, 9 Parts, p. \[i-iii\], \[1\]-352, *pl 1-58*.
+	- (11): Jun 1873, p. 1-48, *pl. 1-8.*
+	- (12): Oct 1873, p. 49-96, *pl. 9-14.*
+	- (13): Nov 1873, p. 97-144, *pl. 15-20.*
+	- (14): Dec 1873, p. 145-192, *pl. 21-26.*
+	- (15): Apr 1874, p. 194-224, *pl. 27-34.*
+	- (16): Mai 1874, p. 225-256, *pl. 35-42.*
+	- (17): Jun 1874, p. 257-288, *pl. 43-49.*
+	- (18): Jan 1875, p. 289-320, *pl. 50-54.*
+	- (19): Mai 1875, p. 321-352, *pl. 55-58.*
+	- *Plates* id., in *Atlas*, p. \[i-iii\], *pl. 1-58* (also numbered *71-128*).
+	
+- *3*: Apr 1876-Mai 1884, p. \[i-iii\], \[1\]-672, *pl. 1-98* (also numbered 129-226), in 14 livraisons:
+	- (20): Apr 1876, p. \[1\]-48, *pl.1-8.*
+	- (21): Oct 1876, p. 89-96, *pl. 9-16.*
+	- (22): Feb 1877, p. 97-144, *pl. 17-23.*
+	- (23): Apr 1877, p. 145-192. *pl.24-29.*
+	- (24): Dec 1877, p. 193-240, *pl. 30-37.*
+	- (25): Jan 1878, p. 241-288, *pl. 38-43.*
+	- (26): Sep 1878, p. 289-336, *pl. 45* \[sic\]-*51*.
+	- (27): Dec 1878, p. 337-368, *pl. 44, 52-57.*
+	- (28): Aug 1879, p. 369-416, *pl. 58-65.*
+	- (29): Oct 1879, p. 417-464, *pl. 66-73.*
+	- (30): \[Jan-Aug 1880\], p. 465-512, *pl. 74-79.*
+	- (31): Jul 1881, p. 513-544, *pl. 80-83.*
+	- (32): Apr 1883, p. 545-576, *pl. 84-91.*
+	- (33): Mai 1884, p. \[i-iii\], 577-672, *pl. 92-98.*
+	- *Atlas*: p. \[i, iii\], *pl. 1-98* (*129-226*), id., t.p. 1884. Artists: A. Leuba, A. Karmanski, H. Formant.
+	
+- *4*: Jan 1886-Jul 1891, p. \[i-ii\], \[1\]-547, \[548\], *pl. 1-74* (*227-300*) in 14 livraisons: (34): Jan 1886, p. \[1\]-48, *pl. 1-7.*
+	- (35): Apr 1886, p. 49-80, *pl. 8-10.*
+	- (36): Jul 1886, p. 81-112, *pl. 11-15.*
+	- (37): Nov 1886, p. 113-144, *pl. 16-18.*
+	- (38): Dec 1886, p. 145-176, *pl. 19-22.*
+	- (39): Mai 1888, p. 177-208, *pl. 23-28.*
+	- (40): Jan 1889, p. 209-240, *pl. 29-34.*
+	- (41): Nov 1889, p. 241-272, *pl. 35-40.*
+	- (42): Mar 1890, p. \[273\]-304, *pl. 41-46.*
+	- (43): Oct 1890, p. 305-352, *pl. 47-52.*
+	- (44): Jan 1891, p. 353-400, *pl. 43-58.*
+	- (45): Mar 1891, p. 401-448, *pl. 59-63.*
+	- (46): Mar 1891, p. 449-496, *pl. 64-68.*
+	- (47): Jul 1891, p. 497-547, \[548, err.\], *pl. 69-74.*
+	- *Atlas*: p. \[i-iii\], *pl. 1-74* (*227-300*\]. Artist: A. Leuba.
+	
 *Copies*: BR, G (orig. covers dated), NY, Teyler, USGS.
 Part of a series initiated by Alcide d'Orbigny; the other volumes (ser. 1) are zoological (see BM 3: 1474).
 
@@ -379,9 +383,9 @@ Révision*: Mém. Sav. étrang. Acad. roy. Sci. Belgique 41(3): \[1\]-112, *pl. 
 
 **Notes**
 *Publ*.: 1888-1889 (in journals; reprint rd by Soc. bot. France 14 Feb 1890; Österr. bot. Z. Jan 1890; Bot. Zeit. 31 Jan 1890, p. \[i\*-iii\*\], \[i\]-lx, *pl. 1-3*, \[1\]-104, *pl. 1-10*, \[1\]-192, *pl. 1-20* (uncol. liths. auct.). *Copies*: G, NY, USGS. – Reprinted and to be cited from:
-(1) Ann. Sci. géol. 20(2): 1-60, *pl. 1-3.* 1888.
-(2) Ann. Sci. nat., Bot. ser. 7. 7: 1-104, *pl. 1-10.* Mai-Jun 1888.
-(3) Ann. Sci. nat., Bot. ser. 7. 10 1-192, *pl. 1-20.* Aug-Oct 1889.
+- (1) Ann. Sci. géol. 20(2): 1-60, *pl. 1-3.* 1888.
+- (2) Ann. Sci. nat., Bot. ser. 7. 7: 1-104, *pl. 1-10.* Mai-Jun 1888.
+- (3) Ann. Sci. nat., Bot. ser. 7. 10 1-192, *pl. 1-20.* Aug-Oct 1889.
 *Earlier publications* by Saporta on this subject: Ann. Sci. nat., Bot. ser. 4. 17: 202-311. *pl. 2-14.* 1862, ser. 5. 17: 5-104. *pl*. 7-5. 1873, 18: 23-146. *pl. 6-18.* 1873.
 
 ##### n.10.286. Recherches sur la végétation du niveau aquitanien de Manosque

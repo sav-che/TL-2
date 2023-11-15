@@ -33,9 +33,9 @@ Barnhart 3: 141; BFM no. 1348, 3091; Biol.-Dokum. 14: 7389-7391; BJI 2: 144; BM 
 
 #### Composite works
 
-(1) Editor of *Hedwigia* 73-80, 1933-Jan 1942.
-(2) *Bryophyta*. Moose, in A. Engler's *Syllabus der Pflanzenfamilien* ed. 12. 1: 218-268. 1954.
-(3) Corrections to K. Müll, frib., *Leberm. Eur.* 1954-1957, TL-2/6494, p. 1319-1320.
+- (1) Editor of *Hedwigia* 73-80, 1933-Jan 1942.
+- (2) *Bryophyta*. Moose, in A. Engler's *Syllabus der Pflanzenfamilien* ed. 12. 1: 218-268. 1954.
+- (3) Corrections to K. Müll, frib., *Leberm. Eur.* 1954-1957, TL-2/6494, p. 1319-1320.
 
 #### Eponymy
 

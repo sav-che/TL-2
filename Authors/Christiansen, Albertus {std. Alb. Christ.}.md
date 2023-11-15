@@ -12,7 +12,7 @@ Unknown, possibly still some material at [[Collection KIEL|KIEL]].
 
 #### Note
 
-(1) For Albert Christiansen's publications see W. & W. Christiansen, Bot. Schrift. Schlesw. Holst., Kiel 1936 nos. 730, 739, 740, 754, 770, 796, 797, 811, 827, 914.
+- (1) For Albert Christiansen's publications see W. & W. Christiansen, Bot. Schrift. Schlesw. Holst., Kiel 1936 nos. 730, 739, 740, 754, 770, 796, 797, 811, 827, 914.
 
 #### Bibliography and biography
 

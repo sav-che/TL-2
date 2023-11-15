@@ -43,11 +43,11 @@ Barnhart 3: 419 (b. 5 Aug 1853, d. 14 Mai 1929); BM 5: 2251, 8: 1384; Bossert p.
 
 #### Composite works
 
-(1) *Cladoniae, in* Müll. Arg., *Miss. Sci. Cap Horn, Lich.* Apr-Dec 1888, see TL-2/6462.
-(2) *Lichens, in* H. Schinz, *Beiträge zur Kenntniss der afrikanischen Flora* xii, Mém. Herb. Boissier 20: 4-5. 15 Oct 1900.
-(3) *Lichenes, in* J. Schmidt, *Flora of Koh Chang* no. 9, Bot. Tidsskr. 29: 104-151. Apr 1909. See TL-2/10.891.
-(4) *Lichens*, in *Mosses and lichens collected in the former Danish West Indies* by F. Børgesen and C. Raunkiaer, Dansk Bot. Ark. 2(9): 6-18. 1918.
-(5) *Neu-Caledonische Flechten, in* H. Schinz, *Ergebnisse der Reise von Dr. A.u. Däniker*... Vierteljahrsschr. Naturf. Ges. Zürich 74: 50-52. 1929.
+- (1) *Cladoniae, in* Müll. Arg., *Miss. Sci. Cap Horn, Lich.* Apr-Dec 1888, see TL-2/6462.
+- (2) *Lichens, in* H. Schinz, *Beiträge zur Kenntniss der afrikanischen Flora* xii, Mém. Herb. Boissier 20: 4-5. 15 Oct 1900.
+- (3) *Lichenes, in* J. Schmidt, *Flora of Koh Chang* no. 9, Bot. Tidsskr. 29: 104-151. Apr 1909. See TL-2/10.891.
+- (4) *Lichens*, in *Mosses and lichens collected in the former Danish West Indies* by F. Børgesen and C. Raunkiaer, Dansk Bot. Ark. 2(9): 6-18. 1918.
+- (5) *Neu-Caledonische Flechten, in* H. Schinz, *Ergebnisse der Reise von Dr. A.u. Däniker*... Vierteljahrsschr. Naturf. Ges. Zürich 74: 50-52. 1929.
 
 #### Eponymy
 

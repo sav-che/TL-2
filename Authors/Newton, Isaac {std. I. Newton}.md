@@ -21,5 +21,5 @@ Barnhart 3: 1; CSP 17: 510; GR p. 769; IH 2: (in press); Morren ed. 10, p. 93; T
 
 #### Eponymy
 
-Newtonia Baillon (1888) honors Sir Isaac Newton (1642-1727), English mathematician, philosopher and scientist; *Newtonia* O. Hoffmann (1892 & 1894) was named in honor of Francis Newton (1864-1909), British-born Portuguese plant collector in West Africa.
+*Newtonia* Baillon (1888) honors Sir Isaac Newton (1642-1727), English mathematician, philosopher and scientist; *Newtonia* O. Hoffmann (1892 & 1894) was named in honor of Francis Newton (1864-1909), British-born Portuguese plant collector in West Africa.
 

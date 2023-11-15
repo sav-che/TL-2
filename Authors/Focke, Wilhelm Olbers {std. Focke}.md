@@ -28,11 +28,11 @@ Barnhart 1: 553; BM 2: 588, 6: 331; Bossert p. 129; CSP 7: 682, 9: 889-890, 12: 
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1: *Rosaceae*: III. 3: 1-48. Dec 1890; 49-61. Jan 1891; Nachtr. II-IV. 1: 186-189. Oct 1879; 2: 29. 8 Oct 1900; *Eucryphiaceae*: III. 6: 129-131. Mar 1893.
-(2) *Die zweite Deutsche Nordpolarfahrt... 1869 and 1870*, vol. 2, Leipzig 1874, pars 1(2): *Gefässpflanzen* by Focke and Buchenau.
-(3) *Flora bremensis* (J. Dreier, W. O. Focke, J. Kollmeier) Bremen 1855 (xvi, 80 p.)
-(4) Koch, *Synopsis* ed. 3: *Rosaceae* (in vol. 1).
-(5) Ascherson and Gaertner, *Synopsis*: *Rubus* (in (1), Lief. 20, 21).
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1: *Rosaceae*: III. 3: 1-48. Dec 1890; 49-61. Jan 1891; Nachtr. II-IV. 1: 186-189. Oct 1879; 2: 29. 8 Oct 1900; *Eucryphiaceae*: III. 6: 129-131. Mar 1893.
+- (2) *Die zweite Deutsche Nordpolarfahrt... 1869 and 1870*, vol. 2, Leipzig 1874, pars 1(2): *Gefässpflanzen* by Focke and Buchenau.
+- (3) *Flora bremensis* (J. Dreier, W. O. Focke, J. Kollmeier) Bremen 1855 (xvi, 80 p.)
+- (4) Koch, *Synopsis* ed. 3: *Rosaceae* (in vol. 1).
+- (5) Ascherson and Gaertner, *Synopsis*: *Rubus* (in (1), Lief. 20, 21).
 
 ### Publications
 

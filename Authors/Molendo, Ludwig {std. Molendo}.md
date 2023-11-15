@@ -24,8 +24,8 @@ AG 12(1): 417; Barnhart 2: 502; BM 3: 1333; CSP 4: 429, 8: 423, 12: 515; DTS 1: 
 
 #### Composite works
 
-(1)With P. G. Lorentz (q.v), *Beiträge zur Biologie und Geographie der Laubmoose, Moosstudien* 2, 1864.
-(2) With Alexander Walther, *Die Laubmoose Oberfrankens*, 1868; see under Walther.
+- (1) With P. G. Lorentz (q.v), *Beiträge zur Biologie und Geographie der Laubmoose, Moosstudien* 2, 1864.
+- (2) With Alexander Walther, *Die Laubmoose Oberfrankens*, 1868; see under Walther.
 
 #### Eponymy
 

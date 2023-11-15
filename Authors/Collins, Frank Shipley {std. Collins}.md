@@ -10,7 +10,8 @@ Collins, Frank Shipley (1848-1920), American algologist.
 
 #### Herbarium and types
 
-[[Collection FH|FH]], further important material at [[Collection NY|NY]] and [[Collection UC|UC]]. – Exsiccatae:
+[[Collection FH|FH]], further important material at [[Collection NY|NY]] and [[Collection UC|UC]].
+*Exsiccatae*:
 1. *North American algae* (ca. 1894), [[Collection FH|FH]], [[Collection L|L]], [[Collection PC|PC]].
 2. *Algae of Bermuda* (with Alphaeus Baker Hervey, 1839-1931), set at [[Collection NY|NY]]. 3. *Phycotheca boreali-americana*, a collection of dried specimens of the algae of North America (Fasc. i-xlvi, nos. 1-2300, fasc. A-E, nos. i-cxxv). Malden, Mass. 1895-1919 (with Isaac Holden, 1832-1903) and William Albert Setchell (1864-1943). Widely distributed, 80 copies issued, Sayre cites complete copies at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]].
 *Ref*.: IH 1 (ed. 6): 357, 2: 134.

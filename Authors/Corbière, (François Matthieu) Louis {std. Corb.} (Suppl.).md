@@ -37,8 +37,8 @@ AG 6(2): 687; Barnhart 1:379 (b. 10 Mai 1850, Champsecret, Orne, France); BL 2: 
 
 #### Composite works
 
-(1) *Muscin*é*es, in* A. Chevalier, Études sur la flore de l'Afrique Centrale française 1: 390-398. 1913.
-(2) *Les Myxomycétes de la Manche, in* Travaux cryptogamiques dédiés à Louis Mangin; 313-329. 1931.
+- (1) *Muscin*é*es, in* A. Chevalier, Études sur la flore de l'Afrique Centrale française 1: 390-398. 1913.
+- (2) *Les Myxomycétes de la Manche, in* Travaux cryptogamiques dédiés à Louis Mangin; 313-329. 1931.
 
 #### Note
 

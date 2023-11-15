@@ -31,8 +31,8 @@ Barnhart 1: 358 (b. 7 Mai 1867, d. 13 Aug 1937); De Toni 4: xii; IH 2: 131; Kew 
 
 #### Composite works
 
-(1): *Ustilaginales*, North Amer. Fl. 7(1): 1-82, 4 Oct 1906 (J. New York Bot. Gard. 7(83): 262. Nov 1906); Perley Spaulding, Bot. Centralbl. 104(5): 119-120. 5 Feb 1907 (rev.).
-(2) *Ustilagineae*. Economic fungi suppl. including species of scientific rather than of economic interest, No. C1-C100, Cambridge Mass. 1903. – See e.g. Hedwigia 42(6) (Beibl.): (346)-(347). 28 Dec 1903.
+- (1): *Ustilaginales*, North Amer. Fl. 7(1): 1-82, 4 Oct 1906 (J. New York Bot. Gard. 7(83): 262. Nov 1906); Perley Spaulding, Bot. Centralbl. 104(5): 119-120. 5 Feb 1907 (rev.).
+- (2) *Ustilagineae*. Economic fungi suppl. including species of scientific rather than of economic interest, No. C1-C100, Cambridge Mass. 1903. – See e.g. Hedwigia 42(6) (Beibl.): (346)-(347). 28 Dec 1903.
 
 ### Publications
 

@@ -43,15 +43,15 @@ AG 12(2): 171; Barnhart 1: 252; BL 2: 634 \[index\]; BM 1: 236, 6: 127; Bossert 
 
 #### Composite works
 
-(1) *Bulletin du Laboratoire de botanique générale de l*' *Université de Genève, *vols. 1-3, Genève 1896-1899.
-(2) *Annuaire du Conservatoire et du Jardin botaniques de Genève*, vols. 1-21, Genève 1897-1922.
-(3) *Candollea*, Organe du Conservatoire et du Jardin botaniques de la Ville de Genève, vols. 1-4, Genève 1922-1931.
-(4) Burnat, *Flora des alpes maritimes*, vol. 3(1)a, p. 1-xxxvi, 1849, vols. 5(2)-7, 1913-1931.
-(5) *EP ed. 1*:
+- (1) *Bulletin du Laboratoire de botanique générale de l*' *Université de Genève, *vols. 1-3, Genève 1896-1899.
+- (2) *Annuaire du Conservatoire et du Jardin botaniques de Genève*, vols. 1-21, Genève 1897-1922.
+- (3) *Candollea*, Organe du Conservatoire et du Jardin botaniques de la Ville de Genève, vols. 1-4, Genève 1922-1931.
+- (4) Burnat, *Flora des alpes maritimes*, vol. 3(1)a, p. 1-xxxvi, 1849, vols. 5(2)-7, 1913-1931.
+- (5) *EP ed. 1*:
 (a) *Verbenaceae*, in IV. 3A: 132-182. 1895; Nachträge und Verbesserungen; p. 377-379; Suppl., Nachtr. II-IV: 290. 1897; Suppl. Ergänzungsheft 1: 64-67. 1900.
 (b) *Phrymaceae*, in IV-3B: 361-362. 1895; Suppl. Nachtr. II-IV: 309. 1897.
 (c) *Labiatae*, in IV-3A: 183-375. 1895; Suppl. by J. Briquet and H. Harms, Nachtr. II-IV: 290-292. 1897 and Ergänzungsheft 1: 67-69. 1900.
-(6) Durand et Pitter, *Primitiae florae costaricensis* fasc. 1, 1891, *Labiatae*.
+- (6) Durand et Pitter, *Primitiae florae costaricensis* fasc. 1, 1891, *Labiatae*.
 
 #### Eponymy
 

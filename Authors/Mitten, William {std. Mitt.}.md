@@ -40,13 +40,13 @@ Barnhart 2: 497; BB p. 217; BJI 1: 40; BL 2: 270, 692; BM 3: 1324, 7: 851; Bosse
 
 #### Composite works
 
-(1) Seemann, B., *Bot. Herald, Hepaticae of Panama*, p. 245-246. late 1854.
-(2) Godman, F. du C., *Nat. hist. Azores*, Bryophyta, p. 288-328, see TL-2/2056.
-(3) Seemann, B., *Fl. vit., Jungermanniae* and *Marchantiae*, 378-419, *pl. 97-98.* 1871.
-(4) Nares, G. S., *Narrative of a Voyage to the Polar Sea* during 1875-1876, ed. 2, vol. 2, app. no.
+- (1) Seemann, B., *Bot. Herald, Hepaticae of Panama*, p. 245-246. late 1854.
+- (2) Godman, F. du C., *Nat. hist. Azores*, Bryophyta, p. 288-328, see TL-2/2056.
+- (3) Seemann, B., *Fl. vit., Jungermanniae* and *Marchantiae*, 378-419, *pl. 97-98.* 1871.
+- (4) Nares, G. S., *Narrative of a Voyage to the Polar Sea* during 1875-1876, ed. 2, vol. 2, app. no.
 14. 1878, p. 313-319. (Mosses and Jungermanniaceae of the arctic regions).
-(5) Hooker, J. D., *Fl. nov. zeland., Hepaticae* 2: 125-160. 11 Jul 1854, 161-172, *pl. 94-104.* 9 Feb 1855, *Fl. Tasm., Hepaticae* 2: 221-240, *pl*. *178-180*. 15 Feb 1859, 241-244. 16 Aug 1859.
-(6) Hooker, J. D., *Handb. New Zealand Fl., Hepaticae* 497-549. 1867.
+- (5) Hooker, J. D., *Fl. nov. zeland., Hepaticae* 2: 125-160. 11 Jul 1854, 161-172, *pl. 94-104.* 9 Feb 1855, *Fl. Tasm., Hepaticae* 2: 221-240, *pl*. *178-180*. 15 Feb 1859, 241-244. 16 Aug 1859.
+- (6) Hooker, J. D., *Handb. New Zealand Fl., Hepaticae* 497-549. 1867.
 
 #### Eponymy
 

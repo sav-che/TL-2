@@ -8,10 +8,11 @@ Harvey, William Henry (1811-1866), Irish botanist; colonial treasurer at the Cap
 
 #### Herbarium and types
 
-[[Collection TCD|TCD]]. – Duplicates in many herbaria. *Exsiccatae*:
-(1) *Australian algae*, nos. 1-601. Sets at [[Collection BM|BM]], [[Collection DWC|DWC]], [[Collection FH|FH]], [[Collection FMC|FMC]], [[Collection L|L]], [[Collection MEL|MEL]], [[Collection NY|NY]].
-(2) *Ceylon algae*, nos. 1-106. Sets at [[Collection FH|FH]], [[Collection FMC|FMC]], [[Collection L|L]], [[Collection NY|NY]].
-(3) *Friendly Island Algae*, nos. 1-124. Sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection L|L]], [[Collection NY|NY]] (collected at Tongatabu, Lifuka or Hapai, and Vavan). Important sets of Harvey's Australian algae are also e.g. at [[Collection BM|BM]], [[Collection DWC|DWC]], [[Collection MEL|MEL]], [[Collection NSW|NSW]] and [[Collection STA|STA]]; for further details see Ducker (1977), Blackler (1977) and May (1977). The main part of the Sonder herbarium used for the *Flora Capensis* is at [[Collection S|S]] (at least 60.000 specimens, fide B. Nordenstam in litt.); Gandoger (1913) claimed to have a large share of the Sonder/Fl. cap. originals (now at [[Collection LY|LY]]). See also under Sonder. A Harvey manuscript and 10 original plates is at [[Collection FH|FH]]. Letters at [[Collection BM|BM]].
+[[Collection TCD|TCD]]. – Duplicates in many herbaria.
+*Exsiccatae*:
+- (1) *Australian algae*, nos. 1-601. Sets at [[Collection BM|BM]], [[Collection DWC|DWC]], [[Collection FH|FH]], [[Collection FMC|FMC]], [[Collection L|L]], [[Collection MEL|MEL]], [[Collection NY|NY]].
+- (2) *Ceylon algae*, nos. 1-106. Sets at [[Collection FH|FH]], [[Collection FMC|FMC]], [[Collection L|L]], [[Collection NY|NY]].
+- (3) *Friendly Island Algae*, nos. 1-124. Sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection L|L]], [[Collection NY|NY]] (collected at Tongatabu, Lifuka or Hapai, and Vavan). Important sets of Harvey's Australian algae are also e.g. at [[Collection BM|BM]], [[Collection DWC|DWC]], [[Collection MEL|MEL]], [[Collection NSW|NSW]] and [[Collection STA|STA]]; for further details see Ducker (1977), Blackler (1977) and May (1977). The main part of the Sonder herbarium used for the *Flora Capensis* is at [[Collection S|S]] (at least 60.000 specimens, fide B. Nordenstam in litt.); Gandoger (1913) claimed to have a large share of the Sonder/Fl. cap. originals (now at [[Collection LY|LY]]). See also under Sonder. A Harvey manuscript and 10 original plates is at [[Collection FH|FH]]. Letters at [[Collection BM|BM]].
 *Ref*.: Gandoger, M., Bull. Soc. bot. France 60: 415. 1913.
 - Lindman, C. A. M., Riksmuseets uppkomst och utveckling 103. 1916.
 - Womersley, H. B. S., Austral. J. mar. freshw. Research 7(3): 346. 1956.
@@ -61,9 +62,9 @@ Barnhart 2: 135; BB p. 141-142; BL 1: 54, 300, 2: 280, 665; BM 2: 795-796; Bosse
 
 #### Composite works
 
-(1) See J. W. Bailey, *U.S. Explor. Exped., Lower Crypt.* 1862, TL-2/239.
-(2) W. J. Hooker, *British flora*, vol. 2(1), *Confervoideae*, p. 322-385, *Gloiocladeae*, p. 385-401. 1833; reprinted 1844, TL-2/3000.
-(3) Mackay, J. T., *Flora hibernica* vol. 2, 1836, *Algae*.
+- (1) See J. W. Bailey, *U.S. Explor. Exped., Lower Crypt.* 1862, TL-2/239.
+- (2) W. J. Hooker, *British flora*, vol. 2(1), *Confervoideae*, p. 322-385, *Gloiocladeae*, p. 385-401. 1833; reprinted 1844, TL-2/3000.
+- (3) Mackay, J. T., *Flora hibernica* vol. 2, 1836, *Algae*.
 
 #### Handwriting
 
@@ -208,8 +209,8 @@ The MICH copy has the following plates:
 *Vol. 3: pl. 5, 13, 16, 20-21, 27, 36, 38, 46, 53, 57, 59, 63, 67, 69, 71, 77, 80-81, 88, 90, 94, 95, 97, 100, 104, 106, 108, 110, 112, 117, 120B, 123, 125, 129, 131, 136-137, 139-141, 144, 159, 161, 163-165, 179, 181, 184-185, 187-188, 191, 193, 199, 206, 209, 212, 214-215, 219, 230-232, 242, 244, 255, 262, 266, 269, 272, 274, 276, 279, 281, 287-288, 296-297, 308, 310, 313-314, 325, 331, 334, 337, 357.*
 *Vol. 4: 3, 6, 12, 18, 24, 30, 35B, 43, 54A, 58A, 62, 68, 76, 86, 92-93, 96, 99A, 105A, 113A, 119, 124, 130, 135, 150A, 154, 160, 171, 173A, 174, 180, 186A, 190, 196, 207, 211, 213, 216, 226, 236, 238-239, 243, 245-246, 249, 251A, 254, 256, 263, 268, 275, 282, 290, 294, 298, 300, 304-306, 309, 311, 315-317, 321-322, 327-328, 333, 335-336, 340, 342, 344, 350-353, 354A, 355A, 356.*
 Two extracts of the *Phycologia* appeared (BM 2: 795):
-(1) *Synopsis of British Seaweeds*, compiled from Prof. Harvey's Phycologica Britannica, see no. 2445.
-(2) Gatty, Mrs. Alfred, *British Sea-Weeds*. Drawn from Prof. Harvey's "Phycologia britannica," 2 vols. London (Bell and Daldy) 1872. Qu. (*vol. 1*: \[i\]-xlix, *pl. 1-37*, with text; *vol. 2*: \[i\], *pl. 38-80*, id., plates as in original. *Copy*: MICH).
+- (1) *Synopsis of British Seaweeds*, compiled from Prof. Harvey's Phycologica Britannica, see no. 2445.
+- (2) Gatty, Mrs. Alfred, *British Sea-Weeds*. Drawn from Prof. Harvey's "Phycologia britannica," 2 vols. London (Bell and Daldy) 1872. Qu. (*vol. 1*: \[i\]-xlix, *pl. 1-37*, with text; *vol. 2*: \[i\], *pl. 38-80*, id., plates as in original. *Copy*: MICH).
 *Ref*.: Dixon, P. S., Brit, phycol. Bull. 3(1): 115-116. 1966.
 
 ##### n.2440. Algae tasmanicae

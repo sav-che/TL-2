@@ -41,9 +41,9 @@ ADB 23: 80-81; AG 1: 211; Backer p. 385; Barnhart 2: 532; BM 3: 1382, 7: 886; Bo
 
 #### Composite works
 
-(1)Editor *Medizinisch-praklische Bibliothek* (1774-1781).
-(2) Editor of Caroli a Linné... *Systema vegetabilium... editio decima tertia*, Göttingen Gotha 1774. N. B. the new taxa in this work must be attributed to Linnaeus; Murray was simply editor. "Editio decima tertia accessionibus et emendationibus novissimis manu perillustris auctoris \[i.e. Linnaeus\] scriptis adornata a Joanne Andrea Murray..." See TL-2/4844a.
-(3) Translator, Kalm, P., *Reise n. Amer*. vol. 3, 1764, See TL-2/3493.
+- (1) Editor *Medizinisch-praklische Bibliothek* (1774-1781).
+- (2) Editor of Caroli a Linné... *Systema vegetabilium... editio decima tertia*, Göttingen Gotha 1774. N. B. the new taxa in this work must be attributed to Linnaeus; Murray was simply editor. "Editio decima tertia accessionibus et emendationibus novissimis manu perillustris auctoris \[i.e. Linnaeus\] scriptis adornata a Joanne Andrea Murray..." See TL-2/4844a.
+- (3) Translator, Kalm, P., *Reise n. Amer*. vol. 3, 1764, See TL-2/3493.
 
 #### Eponymy
 

@@ -16,8 +16,8 @@ Unknown.
 
 #### Composite works
 
-(1) With Ludwig Beissner (1843-1927) and Hermann Zabel (1832-1912), *Handb. Laubholzben.* 1903, TL-2/410 (err. "Landholzben"), p. \[i\]-vi, \[1\]-625. *Copies*: NY, USDA, publ. Jun-Jul 1903.
-(2) Published ed. 5 of *Salomons Wörterbuch der botanischen Kunstsprache*, Stuttgart 1904, q.v. sub C. Salomon.
+- (1) With Ludwig Beissner (1843-1927) and Hermann Zabel (1832-1912), *Handb. Laubholzben.* 1903, TL-2/410 (err. "Landholzben"), p. \[i\]-vi, \[1\]-625. *Copies*: NY, USDA, publ. Jun-Jul 1903.
+- (2) Published ed. 5 of *Salomons Wörterbuch der botanischen Kunstsprache*, Stuttgart 1904, q.v. sub C. Salomon.
 
 ### Publications
 

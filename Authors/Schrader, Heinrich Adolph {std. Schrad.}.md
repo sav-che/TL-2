@@ -8,7 +8,8 @@ Schrader, Heinrich Adolph (1767-1836), German (Hildesheim/Hannover) botanist; Dr
 
 #### Herbarium and types
 
-[[Collection LE|LE]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection BP|BP]], [[Collection FI|FI]] (garden pl.), [[Collection G|G]] (through herb. Ventenat), [[Collection GOET|GOET]] (incidental and exsicc), [[Collection H|H]]-ACH, [[Collection LIV|LIV]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection UPS|UPS]] (gard. pl.), [[Collection PH|PH]] (grasses and sedges through Muhlenberg). – *Exsiccatae*: *Systematische Sammlung cryptogamischer Gewächse*, fasc. 1-2, nos. 1-174, Göttingen 1767-1795 (1: nos. 1-90, 1796, 2: nos. 91-174. 1797; 1-24 pterid., 25-91 mosses, 92-115 hep., 116-174 lich.). *Index*: Usteri, P., Ann. Bot. 20: 100-115. 1796, 22: 75-87. 1797. *Sets*: [[Collection B|B]] (destr.), [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]]. – *Text* see below. – *Letters* to J.E. Smith at [[Collection LINN|LINN]]; to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
+[[Collection LE|LE]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection BP|BP]], [[Collection FI|FI]] (garden pl.), [[Collection G|G]] (through herb. Ventenat), [[Collection GOET|GOET]] (incidental and exsicc), [[Collection H|H]]-ACH, [[Collection LIV|LIV]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection UPS|UPS]] (gard. pl.), [[Collection PH|PH]] (grasses and sedges through Muhlenberg).
+*Exsiccatae*: *Systematische Sammlung cryptogamischer Gewächse*, fasc. 1-2, nos. 1-174, Göttingen 1767-1795 (1: nos. 1-90, 1796, 2: nos. 91-174. 1797; 1-24 pterid., 25-91 mosses, 92-115 hep., 116-174 lich.). *Index*: Usteri, P., Ann. Bot. 20: 100-115. 1796, 22: 75-87. 1797. *Sets*: [[Collection B|B]] (destr.), [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]]. – *Text* see below. – *Letters* to J.E. Smith at [[Collection LINN|LINN]]; to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -51,9 +52,9 @@ Webbia 32(1): 37. 1977 (no. 70).
 
 #### Note
 
-(1) D.F.L. von Schlechtendal published *Reliquiae Schraderianae* in Linnaea 12: 360-476. Apr-Sep 1838, containing those passages in the unpublished mansucripts left upon Schrader's death which "looked worth while to be published".
-(2) Diagnoses of new species published by H.A. Schrader in *Index seminum horti academici goettingensis* 1831, 1832 were reprinted in Linnaea 8 (Litt.): 22-27. 1834; those in the Index for 1834 in Ann. Sci. nat., Bot. ser. 2. 6: 98-102. Aug 1836.
-(3) For eponymy see addenda (last page volume).
+- (1) D.F.L. von Schlechtendal published *Reliquiae Schraderianae* in Linnaea 12: 360-476. Apr-Sep 1838, containing those passages in the unpublished mansucripts left upon Schrader's death which "looked worth while to be published".
+- (2) Diagnoses of new species published by H.A. Schrader in *Index seminum horti academici goettingensis* 1831, 1832 were reprinted in Linnaea 8 (Litt.): 22-27. 1834; those in the Index for 1834 in Ann. Sci. nat., Bot. ser. 2. 6: 98-102. Aug 1836.
+- (3) For eponymy see addenda (last page volume).
 
 ### Publications
 

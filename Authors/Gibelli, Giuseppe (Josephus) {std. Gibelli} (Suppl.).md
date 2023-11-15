@@ -40,13 +40,13 @@ AG 6(1): 71; APN p. 226; Backer p. 651; Barnhart 2: 45; Biol.-Dokum. 7: 80.247-8
 
 #### Composite works
 
-(1) Co-author with V. Cesati & G. Passerini, *Comp. fl. ital.*... 1868-1886 (see TL-2/1, nr. 1075).
-(2) Illus. S. Garovaglio, *Tent. disp. lich. Longob.*... 1865-1868 (TL-2/1, nr. 1954).
-(3) Co-author with S. Garovaglio:
+- (1) Co-author with V. Cesati & G. Passerini, *Comp. fl. ital.*... 1868-1886 (see TL-2/1, nr. 1075).
+- (2) Illus. S. Garovaglio, *Tent. disp. lich. Longob.*... 1865-1868 (TL-2/1, nr. 1954).
+- (3) Co-author with S. Garovaglio:
 (a) *Manzonia*... 1866 (TL-2/1, nr. 1955) and responsible for microscopical analysis and plates;
 (b) *Thelopsis*... 1867 (TL-2/1, nr. 1956); and
 (c) *Oct. lich. gen.*... 1868 (TL-2/1, nr. 1957).
-(4) First (not co-) author with:
+- (4) First (not co-) author with:
 (a) P.R. Pirotta, *Flora del Modenese e del Reggiano*... 1882 and *I.o Supplemento*... 1884 (see TL-2/4, nr. 7966), which were treated earlier under Pirotta;
 (b) S.C. Belli, *Riv. Trifol. ital.*... 1888 (TL-2/Suppl. 2, nr. 20.812), which was treated earlier under Belli; and
 (c) S.C. Belli, *Rivista Trifolium italiani sezione Chronosemum*... 1889 (TL-2/Suppl. 2, nr.

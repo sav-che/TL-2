@@ -28,15 +28,15 @@ Barnhart 3: 658; Biol.-Dokum. 16: 8159-8160; BJI 2: 157; Christiansen p. 168, 32
 
 #### Composite works
 
-(1) *Saxifragaceae, Cunoniaceae, Elaeocarpaceae, in* Nova Guinea 14: 148-157, *2 pl*. 1924.
-(2) *Polygonaceae, Lythraceae, in* I. Urban, Plantae haitenses 3: 29-33, 82 (Ark. f. Bot. 20a(15)) 1926; *Aristolochiaceae, Ternstroemiaceae, Lythraceae in* id. 4: 1-2, 14-15, 16-18 (Ark.
+- (1) *Saxifragaceae, Cunoniaceae, Elaeocarpaceae, in* Nova Guinea 14: 148-157, *2 pl*. 1924.
+- (2) *Polygonaceae, Lythraceae, in* I. Urban, Plantae haitenses 3: 29-33, 82 (Ark. f. Bot. 20a(15)) 1926; *Aristolochiaceae, Ternstroemiaceae, Lythraceae in* id. 4: 1-2, 14-15, 16-18 (Ark.
 f. Bot. 21a(5)). 1927.
-(3) *Selaginellaceae, in* G. Lindau, *Krypt*.-*Fl. Anf.* ed. 2. 6: 108-109. 1926.
-(4) *Die Algenvegetation Helgolands, in* Karsten-Schenck, Vegetationsbilder ser. 19, 5, *pl. 25-30*, 6 p. text, Jena (G. Fischer) 1928.
-(5) Editor, with H. Reimers, *Hedwigia* 73-80. 1933-1940; sole editor 81-82. 1943-1944.
-(6) EP, Nat. Pflanzenfam. ed. 2, *Aristolochiaceae* 16b: 204-242. 1935.
-(7) Editor, *Kryptogamenflora der Mark Brandenburg*, vols. 6a (1936), 7 (1938), 8 (1944, stocks mainly destroyed; see Warnstorf).
-(8) Editor G. Lindau, *Hilfsb. Sammeln nied. Krypt.* ed. 2, 1938.
+- (3) *Selaginellaceae, in* G. Lindau, *Krypt*.-*Fl. Anf.* ed. 2. 6: 108-109. 1926.
+- (4) *Die Algenvegetation Helgolands, in* Karsten-Schenck, Vegetationsbilder ser. 19, 5, *pl. 25-30*, 6 p. text, Jena (G. Fischer) 1928.
+- (5) Editor, with H. Reimers, *Hedwigia* 73-80. 1933-1940; sole editor 81-82. 1943-1944.
+- (6) EP, Nat. Pflanzenfam. ed. 2, *Aristolochiaceae* 16b: 204-242. 1935.
+- (7) Editor, *Kryptogamenflora der Mark Brandenburg*, vols. 6a (1936), 7 (1938), 8 (1944, stocks mainly destroyed; see Warnstorf).
+- (8) Editor G. Lindau, *Hilfsb. Sammeln nied. Krypt.* ed. 2, 1938.
 
 #### Note
 

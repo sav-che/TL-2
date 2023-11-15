@@ -39,11 +39,11 @@ AG 5(2): 374, 6(1): 785, 12(2): 753, 12(3): 409; Barnhart 1: 434 (d. 30 Mar 1934
 
 #### Composite works
 
-(1): Degen, A. von, *Gramina Hungarica*. Sammlung ungarischer Gräser, hrsg. von der Kgl. Ungar. Samenkontroll-Station in Budapest, Fasc. 1-7, 1900-1909, each fascicle 50 nos., see Herbarium 1912(24): 213. 1912, 1916(40): 369. 1916, Herbarausgabe Fasc. 1-8, nr. 1-400, 1900-1914. – See Urban, Geschichte p. 339.
-(2) Degen, A. von, *Cyperaceae*, *Juncaceae*, *Typhaceae* et *Sparganiaceae* hungaricae *exsiccatae* I-III. Opus cura rerum agriculturae summo praefecto regio hungarico submisi. Budapest 1914.
-(3) A small selection of the "Ehrentaxa": *Alectoria degeni* Szat. 1928, *Bryopogon degeni* (Szat.) Gyeln. 1935, *Dermatocarpon degenianum* Gyeln. 1932, *Peltigera degeni* Gyeln. 1926, *P. virescens var. degeni* (Gyeln.) Gyeln. 1932.
-(4) See L. Marret, TL-2/3: p. 304-305, material von Degen *in* no. 5449. *Icones florae alpinae plantarum* (Collaborator).
-(5) Editor of *Magyar botanikai lapok* (Ungarische botanische Blätter) nos. 1-33, 1902-1934. Budapest (complete holding at MO).
+- (1): Degen, A. von, *Gramina Hungarica*. Sammlung ungarischer Gräser, hrsg. von der Kgl. Ungar. Samenkontroll-Station in Budapest, Fasc. 1-7, 1900-1909, each fascicle 50 nos., see Herbarium 1912(24): 213. 1912, 1916(40): 369. 1916, Herbarausgabe Fasc. 1-8, nr. 1-400, 1900-1914. – See Urban, Geschichte p. 339.
+- (2) Degen, A. von, *Cyperaceae*, *Juncaceae*, *Typhaceae* et *Sparganiaceae* hungaricae *exsiccatae* I-III. Opus cura rerum agriculturae summo praefecto regio hungarico submisi. Budapest 1914.
+- (3) A small selection of the "Ehrentaxa": *Alectoria degeni* Szat. 1928, *Bryopogon degeni* (Szat.) Gyeln. 1935, *Dermatocarpon degenianum* Gyeln. 1932, *Peltigera degeni* Gyeln. 1926, *P. virescens var. degeni* (Gyeln.) Gyeln. 1932.
+- (4) See L. Marret, TL-2/3: p. 304-305, material von Degen *in* no. 5449. *Icones florae alpinae plantarum* (Collaborator).
+- (5) Editor of *Magyar botanikai lapok* (Ungarische botanische Blätter) nos. 1-33, 1902-1934. Budapest (complete holding at MO).
 
 ### Publications
 

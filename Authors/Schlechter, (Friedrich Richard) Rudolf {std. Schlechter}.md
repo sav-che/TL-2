@@ -57,16 +57,16 @@ Backer p. 502, 518; Barnhart 3: 228; Biol.-Dokum. 16: 8060-8064, BJI 1: 51, 2: 1
 
 #### Composite works
 
-(1) *Orchidaceae, in* J.R. Perkins, *Fragm. Fl. Philipp.* 1: 43-44. 1904.
-(2) *Asclepidaceae, in* id., 2. 1904.
-(3) *Microspermae, in* K.M. Schumann & K. Lauterbach, *Nachtr. Fl. deut. Schutzgeb. Siidsee*, 1905, see TL-2/4239.
-(4) Editor *Orchis* 1914-1919.
-(5) *Asclepiadaceae, in* I. Urban, *Symb. ant.* 1(2): 236-290. 10 Apr 1899, 5: 468-470. Mai 1908, 7(3): 338-341. 1 Oct 1912, and *Orchidaceae-Ekman, in* 7: 492-498. Aug 1913, 9(1): 59-68. 1 Jan 1923.
-(6) Collaborator, K. Lauterbach: *Beitr. Fl. Papuas.*, see TL-2/4240.
-(7) With Gottfried Keller (1873-1945) and Károly Reszö Sóo (1903-1980): *Monogr. Iconogr. Orchid. Eur.* 1928-1942, 5 vols., see TL-2/3565.
-(8) Contributed *Orchidaceae* and *Asclepiadaceae* to L.E.T. Loesener, *Pl. seler.*, see TL-2/4935.
-(9) *Orchidaceae* (R. Schlechter). Separatabzug aus Herzog's bolivianischen Pflanzen. Leiden (Firma P.W.M. Trap) 1916, cover-t.p., p. 57-80. *Copy*: B. – Meded. Rijksherb. Leiden 29, 1916.
-(10) *Asclepiadaceae* in J. Schmidt, Flora of Koh-Chang, part 10, 1916. For further contributions by Schlechter to work by others see Loesener (1926).
+- (1) *Orchidaceae, in* J.R. Perkins, *Fragm. Fl. Philipp.* 1: 43-44. 1904.
+- (2) *Asclepidaceae, in* id., 2. 1904.
+- (3) *Microspermae, in* K.M. Schumann & K. Lauterbach, *Nachtr. Fl. deut. Schutzgeb. Siidsee*, 1905, see TL-2/4239.
+- (4) Editor *Orchis* 1914-1919.
+- (5) *Asclepiadaceae, in* I. Urban, *Symb. ant.* 1(2): 236-290. 10 Apr 1899, 5: 468-470. Mai 1908, 7(3): 338-341. 1 Oct 1912, and *Orchidaceae-Ekman, in* 7: 492-498. Aug 1913, 9(1): 59-68. 1 Jan 1923.
+- (6) Collaborator, K. Lauterbach: *Beitr. Fl. Papuas.*, see TL-2/4240.
+- (7) With Gottfried Keller (1873-1945) and Károly Reszö Sóo (1903-1980): *Monogr. Iconogr. Orchid. Eur.* 1928-1942, 5 vols., see TL-2/3565.
+- (8) Contributed *Orchidaceae* and *Asclepiadaceae* to L.E.T. Loesener, *Pl. seler.*, see TL-2/4935.
+- (9) *Orchidaceae* (R. Schlechter). Separatabzug aus Herzog's bolivianischen Pflanzen. Leiden (Firma P.W.M. Trap) 1916, cover-t.p., p. 57-80. *Copy*: B. – Meded. Rijksherb. Leiden 29, 1916.
+- (10) *Asclepiadaceae* in J. Schmidt, Flora of Koh-Chang, part 10, 1916. For further contributions by Schlechter to work by others see Loesener (1926).
 
 #### Thesis
 
@@ -541,16 +541,17 @@ Beiträge zur Orchideenkunde von Zentralamerika. ii. *Additamenta ad orchideolog
 
 **Notes**
 *Editor*: Rudolf Mansfeld (1901-1960).
-*1* (Südamerikanische Orchideen): 15 Sep 1930, p. \[1\]-7, *pl. 1-60.* – Issued as Beiheft 58, Repert. Sp. nov. Regn. veg. 1930.
-*2* (Mittelamerikanische Orchideen); issued as Beiheft 59 (1, 2), id.:
-(1): 1 Mar 1931, *pl. 1-48.*
-(2): 1 Aug 1931, p. \[1\]-8, *pl. 49-81.*
-*3* (Afrikanische und madagassische Orchideen); issued as Beiheft 68, id.:
-(1): 1932, p. \[1\]-11, *pl. 1-48.*
-(2): 1932, *pl. 49-104.* – Copy U rd. 31 Mar 1932.
-*4* (Indische und malesische Orchideen); issued as Beiheft 74, id.:
-(1): 15 Feb 1934, p. \[1\]-7, *pl. 1-48.*
-(2): 1934, *pl. 49-85.*
+- *1* (Südamerikanische Orchideen): 15 Sep 1930, p. \[1\]-7, *pl. 1-60.* – Issued as Beiheft 58, Repert. Sp. nov. Regn. veg. 1930.
+- *2* (Mittelamerikanische Orchideen); issued as Beiheft 59 (1, 2), id.:
+	- (1): 1 Mar 1931, *pl. 1-48.*
+	- (2): 1 Aug 1931, p. \[1\]-8, *pl. 49-81.*
+- *3* (Afrikanische und madagassische Orchideen); issued as Beiheft 68, id.:
+	- (1): 1932, p. \[1\]-11, *pl. 1-48.*
+	- (2): 1932, *pl. 49-104.* – Copy U rd. 31 Mar 1932.
+- *4* (Indische und malesische Orchideen); issued as Beiheft 74, id.:
+	- (1): 15 Feb 1934, p. \[1\]-7, *pl. 1-48.*
+	- (2): 1934, *pl. 49-85.*
+	
 *Copies*: BR, G, MO, PH, U, USDA; IDC 746 (320-321, 322, 373-375).
 *Facsimile ed*.: 1973, new t.p. and facsimile of parts 1-4. *Copies*: NY, US. – Reprint by Otto Koeltz Antiquariat, Koenigstein-Ts./B.R.D. 1973. – ISBN 3-87429-051-4.
 

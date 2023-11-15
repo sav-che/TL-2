@@ -10,7 +10,8 @@ Duthie, John Firminger (1845-1922), British botanist, born 12 Mai 1845 Sittingbo
 
 #### Herbarium and types
 
-[[Collection K|K]] (7281), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DD|DD]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]] (Lich.), [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection P|P]], [[Collection PC|PC]], [[Collection OXF|OXF]], [[Collection RAW|RAW]], [[Collection UC|UC]], [[Collection US|US]], [[Collection W|W]]. – *Exsiccatae*: Musci himalayensis (1879-1882), Flora of N.W. India, Flora of Himalaya.
+[[Collection K|K]] (7281), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DD|DD]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]] (Lich.), [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection P|P]], [[Collection PC|PC]], [[Collection OXF|OXF]], [[Collection RAW|RAW]], [[Collection UC|UC]], [[Collection US|US]], [[Collection W|W]].
+*Exsiccatae*: Musci himalayensis (1879-1882), Flora of N.W. India, Flora of Himalaya.
 
 #### Biography and bibliography
 
@@ -43,8 +44,8 @@ Backer p. 187; Barnhart 1: 487 (b. 12 Mai 1845, d. 23 Feb 1922); BB p. 98; BM 1:
 
 #### Composite works
 
-(1) see TL-2/1: 714.
-(2) see TL-2/no. 13.219 *Catalogue of the plants of Kumaon* by Richard Strachey revised by J.F. Duthie, see also Kew Bull. 1923(3): 128. 6 Mai 1922, Bot. Centralbl. 103(11): 173. 28 Aug 1906.
+- (1) see TL-2/1: 714.
+- (2) see TL-2/no. 13.219 *Catalogue of the plants of Kumaon* by Richard Strachey revised by J.F. Duthie, see also Kew Bull. 1923(3): 128. 6 Mai 1922, Bot. Centralbl. 103(11): 173. 28 Aug 1906.
 
 ### Publications
 

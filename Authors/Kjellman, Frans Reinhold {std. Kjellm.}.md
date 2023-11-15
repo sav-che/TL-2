@@ -25,8 +25,8 @@ AG 2(1): 454; Barnhart 2: 297; BJI 1: 31-32; BL 1: 131, 304; BM 2: 988-989; Boss
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien, Phaeophyceae* (Fucoideae), I. 2: 176-297. Jul 1891 (TL-2/1710).
-(2) Nordenskiöld, *Vega-expeditionens vetenskaplige iaktagelser*, Stockholm, in vol. 2: 1-23, 25-60, *pl. 1-2*, on phanerogams collected at Port Clarence and St. Lawrence Island. For main publication (Norra Ishavets Algflora 1883) in this series, see 3695. – The plants collected on this expedition (1878-1879) are at UPS, dupl. at S.
+- (1) EP, *Die natürlichen Pflanzenfamilien, Phaeophyceae* (Fucoideae), I. 2: 176-297. Jul 1891 (TL-2/1710).
+- (2) Nordenskiöld, *Vega-expeditionens vetenskaplige iaktagelser*, Stockholm, in vol. 2: 1-23, 25-60, *pl. 1-2*, on phanerogams collected at Port Clarence and St. Lawrence Island. For main publication (Norra Ishavets Algflora 1883) in this series, see 3695. – The plants collected on this expedition (1878-1879) are at UPS, dupl. at S.
 
 #### Festschrift
 

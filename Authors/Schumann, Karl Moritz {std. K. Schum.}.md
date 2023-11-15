@@ -31,13 +31,13 @@ AG 4: 207; Backer 521; Barnhart 3: 247 (b. 17 Jun 1851, d. 22 Mar 1904); BFM 238
 
 #### Composite works
 
-(1) *Cactaceae, in* E. Warming, *Symb*. 38: 48. 1891, publ. 3 Mai 1892 (with E. Warming), *Malvaceae, in* id. 40: 120-123. 2 Mai 1894 (with M. Gürke), *Bombaceae, in* id. 33: 356-357. 8 Mai 1890, *Sterculiaceae* in id., 33: 352-354. 8 Mai 1890.
-(2) C.F.P. v. Martius, *Fl. bras.*:
+- (1) *Cactaceae, in* E. Warming, *Symb*. 38: 48. 1891, publ. 3 Mai 1892 (with E. Warming), *Malvaceae, in* id. 40: 120-123. 2 Mai 1894 (with M. Gürke), *Bombaceae, in* id. 33: 356-357. 8 Mai 1890, *Sterculiaceae* in id., 33: 352-354. 8 Mai 1890.
+- (2) C.F.P. v. Martius, *Fl. bras.*:
 *Sterculiaceae*, 12(3): 1-114, *pl. 1-24* (fasc. 96). 1 Mar 1886.
 *Tiliaceae, Bombaceae*, 12(3): 117-250, *pl. 25-50* (fasc. 98). 1 Nov 1886. *Rubiaceae iia*, 6(6): 1-124, *pl. 68-93* (fasc. 101). 15 Feb 1888. *Rubiaceae iib*, 6(6): 125-442, *pl. 94-151* (fasc. 104). 15 Jun 1889. *Cactaceae*, 4(2): 185-322, *pl. 39-63* (fasc. 108). 1 Sep 1890. *Malvaceae i*, 12(3): 251-456, *pl. 51-80* (fasc. 109). 15 Jul 1891. *Malvacearum* geogr. usus, 12(3): 587-598 (fasc. 111). 15 Apr 1891.
 *Triuridaceae, Liliaeaceae, Potamogetonaceae, Zannichelliaceae, Najadaceae, Ceratophyllaceae, Batidaceae, Goodenoughiaceae, Cornaceae* 3(3): 643-784, *pl. 116-128* (fasc. 116). 15 Apr 1894.
 *Bignoniaceae i* (with E. Bureau) 8(2): 1-230, *pl. 69-96* (fasc. 118). 15 Mai 1896. *Bignoniaceae ii* (id.) 8(2): 229-434, *pl. 97-121* (fasc. 121). 15 Feb 1897.
-(3) EP, *Nat. Pflanzenfam.*:
+- (3) EP, *Nat. Pflanzenfam.*:
 *Elaeocarpaceae*, 3(6): 1-8. Sep 1890, *Nachtr*. 2-4: 230. Oct 1897. *Tiliaceae*, 3(6): 8-30. Sep 1890, *Nachtr*. 2-4: 232-233. Oct 1897. *Malvaceae*, 3(6): 30-53. Sep 1890, *Nachtr*. 2-4: 235-240. Oct 1897. *Bombaceae*, 3(6): 53-68. Sep 1890.
 *Sterculiaceae*, 3(6): 69-96. Sep 1890, 97-99. Mar 1893, *Nachtr*. 2-4: 240-242. Oct 1897. *Chlaenaceae*, 3(6): 168-175. Mai 1893.
 *Cactaceae*, 3(6a): 156-205. 18 Apr 1894, *Nachtr*. 2-4: 258-260. Oct 1897. *Apocynaceae*, 4(2): 109-144. Jun 1895, 145-189. Jul 1895, *Nachtr*. 2-4: 283-285. Oct 1897.
@@ -45,34 +45,36 @@ AG 4: 207; Backer 521; Barnhart 3: 247 (b. 17 Jun 1851, d. 22 Mar 1904); BFM 238
 *Rubiaceae*, 4(4): 1-96. Jul 1896, 97-144. Aug 1891, 145-156. Nov 1891, *Nachtr*. 2-4: 309-316. Nov 1897.
 *Zingiberaceae, Nachtr*. 2-4: 90-93. Jul 1897.
 *Marantaceae, Nachtr*. 2-4: 94-96. Jul 1897.
-(4) Engler, A. *Pflanzenreich* (also in facs. ed. Lehre 1958):
+- (4) Engler, A. *Pflanzenreich* (also in facs. ed. Lehre 1958):
 *Musaceae*, 4(45), (fasc. 1): i-vii, 1-45. 14 Oct 1900.
 *Marantaceae*, 4(48), (fasc. 11): 1-184. 8 Jul 1902.
 *Zngiberaceae*, 4(46), (fasc. 20): 1-458. 4 Oct 1904.
-(5) Editor, C.G. Ehrenberg, *Symb. phys., Bot.* 1900, see TL-2/1643, *publ*. Jan-Jun 1900 (Bot. Centralbl. 4 Jul 1900; note by K.M. Schumann Bot. Centralbl. 83: 358-359. 5 Sep 1900).
-(6) With K. Lauterbach, *Fl. Schutzgeb. Südsee*, 1900, see TL-2/4239. See also the notes in TL-1/1208. Further *copies* seen: B-S, BR, HH, M, NSW, PH, U. – Further confirmation of date of *publ*. (Nov 1900): Bot. Centralbl. 27 Dec 1905; Hedwigia 28 Dec 1900; Bot. Zeit. 1 Jan 1901; J. Britten, J. Bot. 38: 501. Dec 1900 (BM rd 17 Nov 1900). *Reviews*: H. Harms, Bot. Centralbl. 86: 66-69. 3 Apr 1901; G. Lindau, Hedwiga 39: (199)-(299). 28 Dec 1900. – *Nachträge*: early Nov 1905; mentioned by Bot. Zeit. and ÖbZ on 1 Dec 1905.
-(7) Identifications: of *Amaryllidaceae, Zingiberaceae, Artocarpaceae, Olacaceae, Hippocrateaceae, Begoniaceae, Apocynaceae, Acanthaceae, Rubiaceae in* Joh. Braun, *Botanischer Bericht über die Flora von Kamerun*, Mitt. a.d. deut. Schutzgeb. 2: 145-146, 151-154, 162, 165-166, 167-169, 172, 173-174, 174-175. 1889. – Reprint p. \[1\]-9, *copy*: G.
-(8) Editor Th. Rümpler, *Die Sukkulenten*, Berlin 1892, see TL-2/9765.
-(9) Editor (and author of numerous contributions): *Monatschr. Kakleenk.* 2-13, 1892-1903 and 14(1). 1904.
-(10) O.C. Berg & C.F. Schmidt, with A. Meyer editor of ed. 2, *Atlas der officinellen Pflanzen* 1896-1902 \[3: 1-102, *pl. 95-132*, 4: 1-80, *pl. 133-162*\].
-(11) Just's *Botanischer Jahresbericht* 26-29, 30 (1-2 Abt., Het 1-2), 31 (Abt. 1, Heft 1) 1904.
-(12) *Scitaminaceae, Rubiaceae, in* Joh. Schmidt, *Fl. Koh Chang*, Bot. Tidsskr. 24: 268-271, 329-341. 1902.
-(13) *Potamogeton, Cyperaceae, Commelinaceae, Zingiberaceae, Marantaceae, Tiliaceae, Sterculiaceae, Apocynaceae, Asclepiadaceae, Bignoniaceae, Rubiaceae, in* H. Baum, Kunene-Sambesi-Expedition 171, 177-180, 182-185, 202, 295-299, 301-302, 336-345, 370, 381-394. 1903.
-(14) Contributions to A. Engler, *Pflanzenw. Ostafr.*:
+- (5) Editor, C.G. Ehrenberg, *Symb. phys., Bot.* 1900, see TL-2/1643, *publ*. Jan-Jun 1900 (Bot. Centralbl. 4 Jul 1900; note by K.M. Schumann Bot. Centralbl. 83: 358-359. 5 Sep 1900).
+- (6) With K. Lauterbach, *Fl. Schutzgeb. Südsee*, 1900, see TL-2/4239. See also the notes in TL-1/1208. Further *copies* seen: B-S, BR, HH, M, NSW, PH, U. – Further confirmation of date of *publ*. (Nov 1900): Bot. Centralbl. 27 Dec 1905; Hedwigia 28 Dec 1900; Bot. Zeit. 1 Jan 1901; J. Britten, J. Bot. 38: 501. Dec 1900 (BM rd 17 Nov 1900). *Reviews*: H. Harms, Bot. Centralbl. 86: 66-69. 3 Apr 1901; G. Lindau, Hedwiga 39: (199)-(299). 28 Dec 1900. – *Nachträge*: early Nov 1905; mentioned by Bot. Zeit. and ÖbZ on 1 Dec 1905.
+- (7) Identifications: of *Amaryllidaceae, Zingiberaceae, Artocarpaceae, Olacaceae, Hippocrateaceae, Begoniaceae, Apocynaceae, Acanthaceae, Rubiaceae in* Joh. Braun, *Botanischer Bericht über die Flora von Kamerun*, Mitt. a.d. deut. Schutzgeb. 2: 145-146, 151-154, 162, 165-166, 167-169, 172, 173-174, 174-175. 1889. – Reprint p. \[1\]-9, *copy*: G.
+- (8) Editor Th. Rümpler, *Die Sukkulenten*, Berlin 1892, see TL-2/9765.
+- (9) Editor (and author of numerous contributions): *Monatschr. Kakleenk.* 2-13, 1892-1903 and 14(1). 1904.
+- (10) O.C. Berg & C.F. Schmidt, with A. Meyer editor of ed. 2, *Atlas der officinellen Pflanzen* 1896-1902 \[3: 1-102, *pl. 95-132*, 4: 1-80, *pl. 133-162*\].
+- (11) Just's *Botanischer Jahresbericht* 26-29, 30 (1-2 Abt., Het 1-2), 31 (Abt. 1, Heft 1) 1904.
+- (12) *Scitaminaceae, Rubiaceae, in* Joh. Schmidt, *Fl. Koh Chang*, Bot. Tidsskr. 24: 268-271, 329-341. 1902.
+- (13) *Potamogeton, Cyperaceae, Commelinaceae, Zingiberaceae, Marantaceae, Tiliaceae, Sterculiaceae, Apocynaceae, Asclepiadaceae, Bignoniaceae, Rubiaceae, in* H. Baum, Kunene-Sambesi-Expedition 171, 177-180, 182-185, 202, 295-299, 301-302, 336-345, 370, 381-394. 1903.
+- (14) Contributions to A. Engler, *Pflanzenw. Ostafr.*:
 B: *Die Gräser Ostafrikas* und ihre Verwertung, p. 31-87. 1895. *Die Kautschukpflanzen Ostafrikas und ihre Verwertung*, p. 433-463. 1895.
 C: *Gramineae, Cyperaceae, Commelinaceae, Musaceae, Zingiberaceae, Cannaceae, Marantaceae, Ceratophyllaceae, Tiliaceae, Bombacaceae, Sterculiaceae, Cactaceae, Apocynaceae, Asclepediaceae, Bignoniaceae, Capsifoliaceae, Rubiaceae*, p. 95-130, 134-137, 148-150, 178, 261-265, 268-272, 282, 314-328, 363-364, 374-395. 1895.
-(15) For Schumann's contribution in composite works published in journals sec E. Koehne's bibliography of 1904.
+- (15) For Schumann's contribution in composite works published in journals sec E. Koehne's bibliography of 1904.
 
 #### Obituaries
 
 Schumann published obituaries or biographies of:
-(1) *Marco Polo*, ein Weltreisender des xiii. Jahrhunderts, Samml. gem.-verst. wiss. Vortr. Ser. 20, Heft 460, 1885, 32 p.
-(2) *Eichler, August Wilhelm*, Ber. deut. bot. Ges. 5: xxxiii-xxxvii. 1887, Vossische Zeit. 1887 (159).
-(3) *Schmidt, Carl Friedrich*, Bot. Zeit. 50: 289-291. 1892.
-(4) *Candolle, Alphonse de*, Naturw. Rundschau 8: 257-259. 1893.
-(5) *Pringsheim, Nathaniel*, Verh. bot. Ver. Brandenb. 36: xl-xlviii. 1894 (1895). (6) *Cohn, Ferdinand*, Naturw. Rundschau 13: 473-475. 1898, Verh. bot. Ver. Brandenburg 40: cx-cxvi. 1898 (1899).
-(7) *Müller, Johann Friedrich Theodor*, Verh. bot. Ver. Brandenburg 39: lxvii-lxix. 1897 (1898).
-(8) *Krug, Leopold*, Verh. bot. Ver. Brandenburg 40: cvi-cix. 1898 (1899). (9) *Suringar, Willem Frederik Reinier*, Verh. bot. Ver. Brandenburg 40: cxvii-cxviii. 1898 (1899).
+- (1) *Marco Polo*, ein Weltreisender des xiii. Jahrhunderts, Samml. gem.-verst. wiss. Vortr. Ser. 20, Heft 460, 1885, 32 p.
+- (2) *Eichler, August Wilhelm*, Ber. deut. bot. Ges. 5: xxxiii-xxxvii. 1887, Vossische Zeit. 1887 (159).
+- (3) *Schmidt, Carl Friedrich*, Bot. Zeit. 50: 289-291. 1892.
+- (4) *Candolle, Alphonse de*, Naturw. Rundschau 8: 257-259. 1893.
+- (5) *Pringsheim, Nathaniel*, Verh. bot. Ver. Brandenb. 36: xl-xlviii. 1894 (1895).
+- (6) *Cohn, Ferdinand*, Naturw. Rundschau 13: 473-475. 1898, Verh. bot. Ver. Brandenburg 40: cx-cxvi. 1898 (1899).
+- (7) *Müller, Johann Friedrich Theodor*, Verh. bot. Ver. Brandenburg 39: lxvii-lxix. 1897 (1898).
+- (8) *Krug, Leopold*, Verh. bot. Ver. Brandenburg 40: cvi-cix. 1898 (1899).
+- (9) *Suringar, Willem Frederik Reinier*, Verh. bot. Ver. Brandenburg 40: cxvii-cxviii. 1898 (1899).
 
 #### Note
 

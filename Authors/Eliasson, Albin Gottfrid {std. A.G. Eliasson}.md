@@ -23,8 +23,8 @@ Barnhart 1: 503 (b. 3 Oct 1860, Vänersborg, d. 14 Nov 1933 id.); BM 2: 521; CSP
 
 #### Composite works
 
-(1) Dr. Eliasson's "*Index fungorum exsiccatorum*", see Herbarium no. 44 by O. Juel, Upsala, Sweden.
-(2) See also Vestergren, Tycho, TL-2/6: 718 "*Micromycetes rariores selecti*" where A.G. Eliasson was one of the collaborators.
+- (1) Dr. Eliasson's "*Index fungorum exsiccatorum*", see Herbarium no. 44 by O. Juel, Upsala, Sweden.
+- (2) See also Vestergren, Tycho, TL-2/6: 718 "*Micromycetes rariores selecti*" where A.G. Eliasson was one of the collaborators.
 
 ### Publications
 

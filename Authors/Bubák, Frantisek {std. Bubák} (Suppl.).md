@@ -33,8 +33,8 @@ Barnhart 1: 272 (b. 22 Jul 1865, Rovensko, d. 19 Sep 1925, Praha); BM 6: 152; CS
 
 #### Composite works
 
-(1) With J.E. Kabát, *Fungi imperfecti exsiccati* fasc. 1-18, nos. 1-900. 1903-1915, see IH 2: 337 for sets, J. Stevenson, Beih. Nova Hedwigia 36: 218-224. 1971, and TL-2/2: 482.
-(2) With T. Vestergren, *Micromycetes rariores selecti*, many contributions to fasc. 1-44, nos. 1-1800. 1899-1906. – See e.g. P. Magnus, Bot. Centralbl. 83(27): 13-14. 1900.
+- (1) With J.E. Kabát, *Fungi imperfecti exsiccati* fasc. 1-18, nos. 1-900. 1903-1915, see IH 2: 337 for sets, J. Stevenson, Beih. Nova Hedwigia 36: 218-224. 1971, and TL-2/2: 482.
+- (2) With T. Vestergren, *Micromycetes rariores selecti*, many contributions to fasc. 1-44, nos. 1-1800. 1899-1906. – See e.g. P. Magnus, Bot. Centralbl. 83(27): 13-14. 1900.
 
 ### Publications
 

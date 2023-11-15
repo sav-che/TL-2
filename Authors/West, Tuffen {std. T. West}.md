@@ -21,12 +21,12 @@ Barnhart 3: 479; BB p. 321; BM 5: 2296; CSP 6: 328, 8: 1222; Desmond p. 651 (d. 
 
 #### Composite works
 
-(1) Illustrated William Smith (1808-1857), *A synopsis of the British Diatomaceae* 1853-1856, TL-2/12.305.
-(2) Illustrated A.S. Donkin, *The natural history of the British Diatomaceae* 1870-1873, TL-2/1504.
-(3) Illustrated (4 pl.) J.E. Eliot, *The Quinology of the East Indian plantations* 1869-1876, see NI 943.
-(4) Illustrated William Crawford Williamson, *On the recent Foraminifera of Great Britain *1858, see NI 2163.
-(5) Illustrated *Common objects of the microscope*, London 1864, iv, 188 p., *12 pl*. (col.).
-(6) Illustrated, J. Hogg, *The microscope*: its history... London 1867.
+- (1) Illustrated William Smith (1808-1857), *A synopsis of the British Diatomaceae* 1853-1856, TL-2/12.305.
+- (2) Illustrated A.S. Donkin, *The natural history of the British Diatomaceae* 1870-1873, TL-2/1504.
+- (3) Illustrated (4 pl.) J.E. Eliot, *The Quinology of the East Indian plantations* 1869-1876, see NI 943.
+- (4) Illustrated William Crawford Williamson, *On the recent Foraminifera of Great Britain *1858, see NI 2163.
+- (5) Illustrated *Common objects of the microscope*, London 1864, iv, 188 p., *12 pl*. (col.).
+- (6) Illustrated, J. Hogg, *The microscope*: its history... London 1867.
 
 #### Note
 

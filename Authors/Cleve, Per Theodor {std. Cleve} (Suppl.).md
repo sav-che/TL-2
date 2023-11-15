@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection S|S]], see TL-2/1: 511. – *Exsiccatae* (see also TL-2/1: 511): 1877-1882, *Diatoms edited by P.T. Cleve* and *J.D. Möller* \[Joseph D. Möller, 1848-1924, see IH 2: 550\], fide KR:
+[[Collection S|S]], see TL-2/1: 511.
+*Exsiccatae* (see also TL-2/1: 511): 1877-1882, *Diatoms edited by P.T. Cleve* and *J.D. Möller* \[Joseph D. Möller, 1848-1924, see IH 2: 550\], fide KR:
 1: 1877, no. 1-48, 4 p., part of 2nd part, 4 glass-pl.
 2: 1878, no. 49-108, 4 p., 1 remark 1st part, 5 glass-pl. (all exam. by Grunow)
 3: 1878, no. 109-168, title, 9 p., 5 glass-pl.

@@ -42,9 +42,9 @@ Backer p. 659; Barnhart 3: 79; BJI 1: 45; BM 4: 1563; Bossert p. 309; CSP 8: 612
 
 #### Composite works
 
-(1) Die Bacillariaceen (Diatomaceen) *in* Schenk's *Handbuch der Botanik* 2(28): 410-445. Jan-Mar 1882 (rev. Klebs, Bot. Zeit. 40: 909-910. 22 Dec 1882; Bot. Zeit. 31 Mar 1882.
-(2) EP, *Die natürlichen Pflanzenfamilien, Orchidaceae*, 2(6): 53-96. 16 Oct 1888 (not Nov), 97-144. 5 Nov 1888, 145-192. 20 Dec 1888 (not Jan), p. 193-220. 9 Feb 1889 (not Mar). Suppl. in Nachtr. 2-4: 97-113. Aug 1897, Ergänzungsheft 1: 12-16. Apr 1906; reprint with special cover and orig. pagination "*Die Orchideen* dargestellt von E. Pfitzer..." Leipzig 1888. *Copy*: BR.
-(3) Engler, *Pflanzenreich*:
+- (1) Die Bacillariaceen (Diatomaceen) *in* Schenk's *Handbuch der Botanik* 2(28): 410-445. Jan-Mar 1882 (rev. Klebs, Bot. Zeit. 40: 909-910. 22 Dec 1882; Bot. Zeit. 31 Mar 1882.
+- (2) EP, *Die natürlichen Pflanzenfamilien, Orchidaceae*, 2(6): 53-96. 16 Oct 1888 (not Nov), 97-144. 5 Nov 1888, 145-192. 20 Dec 1888 (not Jan), p. 193-220. 9 Feb 1889 (not Mar). Suppl. in Nachtr. 2-4: 97-113. Aug 1897, Ergänzungsheft 1: 12-16. Apr 1906; reprint with special cover and orig. pagination "*Die Orchideen* dargestellt von E. Pfitzer..." Leipzig 1888. *Copy*: BR.
+- (3) Engler, *Pflanzenreich*:
 (a) *Orchidaceae, Pleonandreae* iv. 50 (Heft 12): 1-132. 27 Mar 1903 (rev. K. Schumann, Bot. Centralbl. 93: 118-119. 11 Aug 1903).
 (b) with F. Kraenzlin, *Coelogyninae*, iv. 50 (iiB7) (Heft 32): 1-169. 26 Nov 1907 (Bot. Zeit. 16 Jan 1908).
 

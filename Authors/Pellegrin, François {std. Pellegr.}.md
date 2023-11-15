@@ -28,7 +28,7 @@ Barnhart 3: 64; BJI 2: 132; BL 1: 36, 43, 313, 2: 160, 701; BM 8: 994; Hortus 3:
 
 #### Composite works
 
-(1) Lecomte, H., *Fl. gén. Indochine*: *Dichapetalaceae* 1(7): 796-801. Aug 1911; 1(suppl.) 6: 728-730. Dec 1948. *Gesneraceae*: 4(5): 487-565. Aug 1930.
+- (1) Lecomte, H., *Fl. gén. Indochine*: *Dichapetalaceae* 1(7): 796-801. Aug 1911; 1(suppl.) 6: 728-730. Dec 1948. *Gesneraceae*: 4(5): 487-565. Aug 1930.
 *Lentibulariaceae* 4(5): 467-487. Aug 1930.
 *Meliaceae* 1(7): 723-795. Aug 1911, 1(suppl.) 5: 683-700. Dec 1946, 1(suppl.) 7: 701-728. Dec 1948.
 *Orobanchaceae* 4(4): 461-464. Jan 1927, 4(5): 465-466. Aug 1930.

@@ -23,5 +23,5 @@ Barnhart 3: 238 (b. 30 Jan 1859, d. 1 Apr 1920); BFM no. 486; Biol.-Dokum. 16: 8
 
 #### Composite works
 
-(1) Published eds. 5 (1909), 6 and 7 of O. Wünsche (q.v.) *Die verbreitesten Pflanzen Deutschland*, and eds. 10 (1912) and 11 (1919) of *Die Pflanzen Sachsens*.
+- (1) Published eds. 5 (1909), 6 and 7 of O. Wünsche (q.v.) *Die verbreitesten Pflanzen Deutschland*, and eds. 10 (1912) and 11 (1919) of *Die Pflanzen Sachsens*.
 

@@ -35,15 +35,15 @@ AG 2(1): 688 (err. birth date); Barnhart 3: 511 (b. 26 Sep 1839, d. 2 Feb 1929);
 
 #### Composite works
 
-(1) *Marcgraviaceae, in* Fl. bras. 12(1) \[fasc. 81\]: 213-258, *pl. 40-51.* 1 Dec 1878. – See also his summary in Verh. bot. Ver. Brandenburg 21: 41-50. 1880.
-(2) *Rhizoboleae, in* Fl. bras. 12(1) \[fasc. 97\]: 337-362. *pl. 69-74.* 1 Apr 1886. – Also as reprint with special t.p., s.l.n.d. *Copy*: MO.
-(3) Editor *Gartenflora* 36-54(1), 1887-1905.
-(4) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, TL-2/8211.
-(5) Editor, *Illustriertes Gartenbau-Lexikon*, ed. 3. 1901, see under Th. Rümpler.
-(6) *Bromeliaceae, in* Engler und Prantl, Nat. Pfl.-Fam. 4(2): 32-48. 12 Sep 1887, 49-59. 21 Feb 1888; suppl. Nachtr. 2-4: 61-69. 1897.
-(7) Editor, *Garten-Zeitung* 1-4, 1882-1885.
-(8) *Landwirthschqftliche Kulturpflanzen, in* G.B. von Neumayer, *Anleit. Wiss. Beobacht. Reisen*, ed. 2. 1888, and ed. 3. 1906, TL-2/6761.
-(9) *Bromeliaceae, in* Herzog's Bolivianische Pflanzen, Med. Rijksherb. Leiden 29: 80-93. 1916.
+- (1) *Marcgraviaceae, in* Fl. bras. 12(1) \[fasc. 81\]: 213-258, *pl. 40-51.* 1 Dec 1878. – See also his summary in Verh. bot. Ver. Brandenburg 21: 41-50. 1880.
+- (2) *Rhizoboleae, in* Fl. bras. 12(1) \[fasc. 97\]: 337-362. *pl. 69-74.* 1 Apr 1886. – Also as reprint with special t.p., s.l.n.d. *Copy*: MO.
+- (3) Editor *Gartenflora* 36-54(1), 1887-1905.
+- (4) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, TL-2/8211.
+- (5) Editor, *Illustriertes Gartenbau-Lexikon*, ed. 3. 1901, see under Th. Rümpler.
+- (6) *Bromeliaceae, in* Engler und Prantl, Nat. Pfl.-Fam. 4(2): 32-48. 12 Sep 1887, 49-59. 21 Feb 1888; suppl. Nachtr. 2-4: 61-69. 1897.
+- (7) Editor, *Garten-Zeitung* 1-4, 1882-1885.
+- (8) *Landwirthschqftliche Kulturpflanzen, in* G.B. von Neumayer, *Anleit. Wiss. Beobacht. Reisen*, ed. 2. 1888, and ed. 3. 1906, TL-2/6761.
+- (9) *Bromeliaceae, in* Herzog's Bolivianische Pflanzen, Med. Rijksherb. Leiden 29: 80-93. 1916.
 
 #### Obituaries of and biographical notes on other botanists
 

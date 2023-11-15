@@ -10,7 +10,8 @@ Fries, Theodor \[Thore\] Magnus (1832-1913), Swedish botanist, son of Elias Magn
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]]. – *Exsiccatae*:
+[[Collection UPS|UPS]].
+*Exsiccatae*:
 1. *Lichenes exsiccati Sueciae* (fasc, xii, nos. 331-360. Uppsala 1852), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection LD|LD]], [[Collection PC|PC]], [[Collection S|S]]. \[fasc, i-iv, vii-ix, xiii by E. M. Fries, v-vi, x, xiv by C. Stenhammar\].
 2. *Lichenes scandinaviae rariores et critici exsiccati* (fasc, i-iii, nos. 1-75, Uppsala 1859-1865), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection CN|CN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection DUKE|DUKE]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MSTR|MSTR]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
 3. *Plantae vasculares insularum spetsbergensium hactenus lectae* (113 nos.), *Plantae vasculares in insula "Beeren Eiland" repertae* (38 nos.) (Uppsala 1871), sets at [[Collection B|B]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].

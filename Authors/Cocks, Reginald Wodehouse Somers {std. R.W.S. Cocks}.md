@@ -24,7 +24,7 @@ Barnhart 1: 362 (b. 31 Aug 1863, Worcester, England, d. 21 Nov 1926 New Orleans,
 
 #### Composite works
 
-(1) *Flora of Louisiana, in* H. Rightor (ed.), Standard history of New Orleans... Chicago 1900 on p. 389-392. See J. Ewan, Southw. Louisiana J. 7(1-4): 35 (no. 132). 1967.
+- (1) *Flora of Louisiana, in* H. Rightor (ed.), Standard history of New Orleans... Chicago 1900 on p. 389-392. See J. Ewan, Southw. Louisiana J. 7(1-4): 35 (no. 132). 1967.
 
 ### Publications
 

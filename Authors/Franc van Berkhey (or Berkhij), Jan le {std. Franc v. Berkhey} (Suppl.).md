@@ -10,6 +10,6 @@
 
 #### Note
 
-(1) This entry is to reinforce the correct handling of this man's surname, often incorrectly treated as "Berkhey (Jan le Franc\[k\] van)", i.e. under his mother's surname rather than his father's surname. For more information see TL-2/1: 868.
-(2) A micro-opaque edition of his thesis, *Expos. char. fl. Compos.*... 12 Dec 1760 (see TL-2/1, nr. 1840), was issued in 1968 (n.v.).
+- (1) This entry is to reinforce the correct handling of this man's surname, often incorrectly treated as "Berkhey (Jan le Franc\[k\] van)", i.e. under his mother's surname rather than his father's surname. For more information see TL-2/1: 868.
+- (2) A micro-opaque edition of his thesis, *Expos. char. fl. Compos.*... 12 Dec 1760 (see TL-2/1, nr. 1840), was issued in 1968 (n.v.).
 

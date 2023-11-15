@@ -31,8 +31,8 @@ APN p. 208; Barnhart 2: 2; Biol.-Dokum. 6: 70.751-70.760; BM 2: 609; Bossert p. 
 
 #### Composite works
 
-(1) Collaborator on *Kosmos* (Stuttgart) (1904-x).
-(2) Co-founder of *Mikrokosmos* (Stuttgart) (1907-x).
+- (1) Collaborator on *Kosmos* (Stuttgart) (1904-x).
+- (2) Co-founder of *Mikrokosmos* (Stuttgart) (1907-x).
 
 ### Publications
 

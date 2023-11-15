@@ -25,8 +25,8 @@ AG 6(2): 922; Barnhart 3: 154 (b. 16 Mai 1937, d. 19 Jul 1913); Clokie p. 232; C
 
 #### Composite works
 
-(1) Fresh water algae (except diat.) in O. Kuntze, *Rev. gen. pl.* 3(2): 385-391. 1898.
-(2) Richter signed as "Die Redaktion" (the editors/editor) for L. Rabenhorst's *Krypt. Fl.* ed. 2, in vol. 5, preface to Migula, *Synopsis Characearum*. See under L. Rabenhorst. Kolkwitz (1914) states that Richter was editor for the *Krypt.-Fl.* from 1879.
-(3) *Grönländische Süsswasseralgen*, Bibl. bot. Heft 42, 1899, *Botanische Ergebnisse der*... unter Leitung Dr. von Drygalski's ausgesandten *Grönlandsexpedition*...", ed. E. Vanhöffen.
-(4) Richter also ran the *Leipziger botanischer Tauschverein*, see e.g. his Doubletten-Verzeichniss, xxviii. Tauschjahr, Jan 1879, 24 p. (copy HH).
+- (1) Fresh water algae (except diat.) in O. Kuntze, *Rev. gen. pl.* 3(2): 385-391. 1898.
+- (2) Richter signed as "Die Redaktion" (the editors/editor) for L. Rabenhorst's *Krypt. Fl.* ed. 2, in vol. 5, preface to Migula, *Synopsis Characearum*. See under L. Rabenhorst. Kolkwitz (1914) states that Richter was editor for the *Krypt.-Fl.* from 1879.
+- (3) *Grönländische Süsswasseralgen*, Bibl. bot. Heft 42, 1899, *Botanische Ergebnisse der*... unter Leitung Dr. von Drygalski's ausgesandten *Grönlandsexpedition*...", ed. E. Vanhöffen.
+- (4) Richter also ran the *Leipziger botanischer Tauschverein*, see e.g. his Doubletten-Verzeichniss, xxviii. Tauschjahr, Jan 1879, 24 p. (copy HH).
 

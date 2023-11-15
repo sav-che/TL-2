@@ -26,9 +26,9 @@ Backer p. 658; Barnhart 3: 43; BJI 1: 43; BM 8: 973; CSP 17: 684-685; De Toni 4:
 
 #### Composite works
 
-(1)Editor of *Atlas der Alpenflora*, ed. 2, see under A. Hartinger, TL-2/2421.
-(2) *Cyperaceae*, in W.D.J. Koch, *Syn. fl. deut. schweiz. Fl.* ed. 3. 3: 2515-2550. Jan 1905, 2551-2681. Sep 1905, TL-2/3804.
-(3) *Cyperaceae*, in A. Usteri, Fl. São Paulo 154-162. 1911.
+- (1) Editor of *Atlas der Alpenflora*, ed. 2, see under A. Hartinger, TL-2/2421.
+- (2) *Cyperaceae*, in W.D.J. Koch, *Syn. fl. deut. schweiz. Fl.* ed. 3. 3: 2515-2550. Jan 1905, 2551-2681. Sep 1905, TL-2/3804.
+- (3) *Cyperaceae*, in A. Usteri, Fl. São Paulo 154-162. 1911.
 
 ### Publications
 

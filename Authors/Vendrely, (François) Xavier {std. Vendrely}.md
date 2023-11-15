@@ -21,8 +21,8 @@ Barnhart 3: 430; BL 2: 149, 156, 727; BM 5: 2202; GR p. 355; LS 27658; Morren ed
 
 #### Composite works
 
-(1) With J. Paillot, *Flora Sequaniae exsiccata*, text 1872-1906, see TL-2/7191.
-(2) With F. Renauld, C. Flagey and J. Paillot, *Supplément, Cat. rais.pl. Haute-Saône* 1882, see TL-2/8984.
+- (1) With J. Paillot, *Flora Sequaniae exsiccata*, text 1872-1906, see TL-2/7191.
+- (2) With F. Renauld, C. Flagey and J. Paillot, *Supplément, Cat. rais.pl. Haute-Saône* 1882, see TL-2/8984.
 
 #### Handwriting
 

@@ -32,8 +32,8 @@ Ainsworth p. 126, 283, 324; Barnhart 3: 450; Bossert p. 423; Desmond p. 633 (b. 
 
 #### Composite works
 
-(1) With T.A. Sprague et al., *Nomenclature proposals by British botanists *1929, see T.A. Sprague, TL-2/12.651.
-(2) Editor and p.p. author, *Nomina generica conservanda*. Contributions from the nomenclature committee of the British Mycological Society. II.... Reprinted from the Transactions of the British Mycological Society, vol. xxiii, part iii \[p. 281-292\]. 1939.
+- (1) With T.A. Sprague et al., *Nomenclature proposals by British botanists *1929, see T.A. Sprague, TL-2/12.651.
+- (2) Editor and p.p. author, *Nomina generica conservanda*. Contributions from the nomenclature committee of the British Mycological Society. II.... Reprinted from the Transactions of the British Mycological Society, vol. xxiii, part iii \[p. 281-292\]. 1939.
 
 #### Note
 

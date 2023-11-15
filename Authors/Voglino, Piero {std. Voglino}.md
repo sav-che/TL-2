@@ -24,9 +24,9 @@ Barnhart 3: 442 (b. 23 Mar 1864, d. 22 Oct 1933); BM 5: 2232-2233; Bossert p. 42
 
 #### Composite works
 
-(1) With A.N. Berlese, *Sylloge fungorum* (P.A. Saccardo), *Additamenta* ad volumina i-iv, 31 Dec 1886. – See TL-2/9898.
-(2) *I funghi più dannosi alle piante coltivate*, Torino 1891-1895, a series of 12 pamphlets giving information on common phytopathological fungi reprinted from the journal *Il Coltivatore di Casalmonferrato*. For a list see BM 5: 2232.
-(3) *Funghi velenosi e mangerecci italiani*, 2 chromolith. tables of 105 x 75 cm, Torino 1897.
+- (1) With A.N. Berlese, *Sylloge fungorum* (P.A. Saccardo), *Additamenta* ad volumina i-iv, 31 Dec 1886. – See TL-2/9898.
+- (2) *I funghi più dannosi alle piante coltivate*, Torino 1891-1895, a series of 12 pamphlets giving information on common phytopathological fungi reprinted from the journal *Il Coltivatore di Casalmonferrato*. For a list see BM 5: 2232.
+- (3) *Funghi velenosi e mangerecci italiani*, 2 chromolith. tables of 105 x 75 cm, Torino 1897.
 
 #### Note
 

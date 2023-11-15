@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection BERN|BERN]], duplicates [[Collection B|B]] (partially destroyed), [[Collection BAS|BAS]], [[Collection KIEL|KIEL]], [[Collection PC|PC]]. – *Exsiccatae*: One of many collectors for P. Sydow, *Uredineen* (see TL-2/6: 133).
+[[Collection BERN|BERN]], duplicates [[Collection B|B]] (partially destroyed), [[Collection BAS|BAS]], [[Collection KIEL|KIEL]], [[Collection PC|PC]].
+*Exsiccatae*: One of many collectors for P. Sydow, *Uredineen* (see TL-2/6: 133).
 
 #### Bibliography and biography
 
@@ -48,16 +49,16 @@ Anon., Zur Erinnerung an den siebzigsten Geburtstag, 16. Juni 1931 von Herrn Pro
 
 #### Composite works
 
-(1) Nachtr. for B. Studer-Steinhäuslin, *Beiträge zur Kenntniss der schweizerischen Pilze*... 1890, see TL-2/6, nr. 13.303.
-(2) Contributed to H. Schinz, *Beiträge zur Kenntniss der Afrikanischen Flora*... 1901, see TL-2/5, nr. 10.710.
-(3) Edited a new edition of his father's *Tabellen* zur *Bestimmung* einer *Auswahl* von *Thallophyten* und *Bryophyten*... 1910, see below.
-(4) Co-editor of later editions (eds. 8-10, the last posthumously) of his father's *Flora von Bern* (i.e. *Taschenbuch Fl. Bern*)... 1911-1944, see TL-2/1, nr. 1793.
-(5) Co-author with P.W. Magnus, *Vorschläge zur Nomenklatur der parasitischen Pilze*... 1910, see TL-2/3, nr. 5241.
-(6) Contributed to F. Sarasin & J. Roux, *Nova Caledonia, Bot*.... 1914, see TL-2/5, nr.
+- (1) Nachtr. for B. Studer-Steinhäuslin, *Beiträge zur Kenntniss der schweizerischen Pilze*... 1890, see TL-2/6, nr. 13.303.
+- (2) Contributed to H. Schinz, *Beiträge zur Kenntniss der Afrikanischen Flora*... 1901, see TL-2/5, nr. 10.710.
+- (3) Edited a new edition of his father's *Tabellen* zur *Bestimmung* einer *Auswahl* von *Thallophyten* und *Bryophyten*... 1910, see below.
+- (4) Co-editor of later editions (eds. 8-10, the last posthumously) of his father's *Flora von Bern* (i.e. *Taschenbuch Fl. Bern*)... 1911-1944, see TL-2/1, nr. 1793.
+- (5) Co-author with P.W. Magnus, *Vorschläge zur Nomenklatur der parasitischen Pilze*... 1910, see TL-2/3, nr. 5241.
+- (6) Contributed to F. Sarasin & J. Roux, *Nova Caledonia, Bot*.... 1914, see TL-2/5, nr.
 10.288.
-(7) Co-author of a mycological appendix to J. Braun-Blanquet, *Pfl.-Geogr. Exk. Unterengadin*... 1918, see TL-2/Suppl. 3, nr. 22.658.
-(8) Prólogo (i.e. pref.) *in* R. González Fragoso, \[Flora Ibérica.\] *Uredales*...1924-1925, 2 vols.
-(9) Editor, *Bulletin de la Société botanique Suisse*.
+- (7) Co-author of a mycological appendix to J. Braun-Blanquet, *Pfl.-Geogr. Exk. Unterengadin*... 1918, see TL-2/Suppl. 3, nr. 22.658.
+- (8) Prólogo (i.e. pref.) *in* R. González Fragoso, \[Flora Ibérica.\] *Uredales*...1924-1925, 2 vols.
+- (9) Editor, *Bulletin de la Société botanique Suisse*.
 
 ### Publications
 

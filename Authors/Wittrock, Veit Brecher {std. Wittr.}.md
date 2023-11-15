@@ -8,8 +8,9 @@ Wittrock, Veit Brecher (1839-1914), Swedish botanist; studied at the University 
 
 #### Herbarium and types
 
-[[Collection S|S]]. – Other material in [[Collection C|C]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection S|S]], [[Collection UPS|UPS]] (types algae). – *Exsiccatae*: (1) *Erythraeae exsiccatae*, fasc. 1-4, nos. 1-64. Stockholm 1884-1890 (25 sets publ., see KR p. 776, no. 66). Sets at [[Collection BM|BM]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection WRSL|WRSL]]. – See also Bot. Not. 1884: 110-118 (presentation fasc. 1, nos. 1-12, 27 Mar 1884, 1886: 65-71 (nos. 13-32), 1899: 272-281. 15 Dec 1899).
-(2) With Carl Fredrik Otto Nordstedt (1838-1924) and (fasc. 26-34) Nils Gustaf Lagerheim (1860-1926): *Algae aquae dulcis exsiccatae* praecipue scandinavicae, quas adjectis algis marinis chlorophyllaceis et phycochromaceis distribuerunt, fasc. 1-20, 22-34 (nos. 1-1612) and fasc. 21, 35 (text only) 1877-1903. For details see KR p. 776, no. 64 and below (treatment of text). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – *Letters* [[Collection G|G]], [[Collection GH|GH]], [[Collection NY|NY]], [[Collection UPS|UPS]]-UB. *Autobiographical manuscript* in Archives K. Sv. Vet.-Akad., Stockholm.
+[[Collection S|S]]. – Other material in [[Collection C|C]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection S|S]], [[Collection UPS|UPS]] (types algae).
+*Exsiccatae*: (1) *Erythraeae exsiccatae*, fasc. 1-4, nos. 1-64. Stockholm 1884-1890 (25 sets publ., see KR p. 776, no. 66). Sets at [[Collection BM|BM]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection WRSL|WRSL]]. – See also Bot. Not. 1884: 110-118 (presentation fasc. 1, nos. 1-12, 27 Mar 1884, 1886: 65-71 (nos. 13-32), 1899: 272-281. 15 Dec 1899).
+- (2) With Carl Fredrik Otto Nordstedt (1838-1924) and (fasc. 26-34) Nils Gustaf Lagerheim (1860-1926): *Algae aquae dulcis exsiccatae* praecipue scandinavicae, quas adjectis algis marinis chlorophyllaceis et phycochromaceis distribuerunt, fasc. 1-20, 22-34 (nos. 1-1612) and fasc. 21, 35 (text only) 1877-1903. For details see KR p. 776, no. 64 and below (treatment of text). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LG|LG]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – *Letters* [[Collection G|G]], [[Collection GH|GH]], [[Collection NY|NY]], [[Collection UPS|UPS]]-UB. *Autobiographical manuscript* in Archives K. Sv. Vet.-Akad., Stockholm.
 
 #### Bibliography and biography
 
@@ -37,8 +38,8 @@ Barnhart 3: 511 (b. 5 Mai 1839, d. 1 Sep 1914); BJI 1: 64, 2: 193; BM 5: 2345, 8
 
 #### Composite works
 
-(1) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, TL-2/8211.
-(2) With N. Wille (q.v.), *Motion au Congrès international de botanique*, deuxième session, Vienne 1905, repr. from Nyt Mag. Naturv. B42: 217-220. 1904; TL-2/17.702.
+- (1) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, TL-2/8211.
+- (2) With N. Wille (q.v.), *Motion au Congrès international de botanique*, deuxième session, Vienne 1905, repr. from Nyt Mag. Naturv. B42: 217-220. 1904; TL-2/17.702.
 
 #### Festschrift
 

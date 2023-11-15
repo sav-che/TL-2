@@ -90,13 +90,13 @@ Aa 15: 210; AG 2(2): 62, 4: 628; Ainsworth p. 312, 313, 346 \[index\]; Backer p.
 
 #### Composite works
 
-(1) *Commentatio de fungis clavaeformibus, in* Th. Holmskjold, *Coryphaei clavarias Ramariasque* 131-236. 1797, TL-2/2956; for separate issue see below, no. 7725.
-(2) with L. de Brondeau, *Descr. champ. nouv.* (1824), TL-2/793.
-(3) contributed to N.A. Desvaux, *J. Bot.* (108), TL-2/1409.
-(4) *Fungi, in* C. Gaudichaud, *Voy. Uranie* (1826-1830), TL-2/1968.
-(5) contributed many new taxa to G.F. Hoffmann, *Abbild. Schwämme* (1790-1793), TL-2/2885.
-(6) Schaeffer, J.C., *Fung. Bav. Palat. nasc.* ed. nova, 4 vols., 1800, was edited by Persoon with an added commentary in vol. 4. See under Schaeffer.
-(7) *Lichen xanthostigma, in* Acharius, E., Lichenogr. univ. 403. 1810.
+- (1) *Commentatio de fungis clavaeformibus, in* Th. Holmskjold, *Coryphaei clavarias Ramariasque* 131-236. 1797, TL-2/2956; for separate issue see below, no. 7725.
+- (2) with L. de Brondeau, *Descr. champ. nouv.* (1824), TL-2/793.
+- (3) contributed to N.A. Desvaux, *J. Bot.* (108), TL-2/1409.
+- (4) *Fungi, in* C. Gaudichaud, *Voy. Uranie* (1826-1830), TL-2/1968.
+- (5) contributed many new taxa to G.F. Hoffmann, *Abbild. Schwämme* (1790-1793), TL-2/2885.
+- (6) Schaeffer, J.C., *Fung. Bav. Palat. nasc.* ed. nova, 4 vols., 1800, was edited by Persoon with an added commentary in vol. 4. See under Schaeffer.
+- (7) *Lichen xanthostigma, in* Acharius, E., Lichenogr. univ. 403. 1810.
 
 #### Eponymy
 

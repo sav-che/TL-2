@@ -30,8 +30,8 @@ Ainsworth p. 102, 316, 346; Backer p. 659; Barnhart 3: 143 (b. 11 Apr 1819, d. 9
 
 #### Composite works
 
-(1) Co-author, J.G.C. Lehmann, *Plantae Preissianae*, 1844-1847, TL-2/4332.
-(2) *Celastraceae, Ilicineae* et *Rhamneae, Fl. bras.* 11(1): 1-116, *pl. 1-41.* 15 Feb 1861 (fasc.
+- (1) Co-author, J.G.C. Lehmann, *Plantae Preissianae*, 1844-1847, TL-2/4332.
+- (2) *Celastraceae, Ilicineae* et *Rhamneae, Fl. bras.* 11(1): 1-116, *pl. 1-41.* 15 Feb 1861 (fasc.
 28).
 
 #### Eponymy

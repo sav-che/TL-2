@@ -33,9 +33,9 @@ ADB 41: 272-276 (E. Wunschmann); Barnhart 3: 466 (b. 2 Feb 1831, d. 24 Mai 1887)
 
 #### Composite works
 
-(1) Co-editor, J. Peyritsch, *Aroid. maximil.* 1879, TL-2/7808.
-(2) *Ternstroemiaceae, in* C.F.P. von Martius, *Fl. bras.* 12(1): 261-334, *pl. 52-68.* 1 Apr 1886, TL-2/5538.
-(3) *Ternstroemiaceae, in* E. Warming, *Symbolae* 32: 29-30. 8 Mai 1890, TL-2/16.709.
+- (1) Co-editor, J. Peyritsch, *Aroid. maximil.* 1879, TL-2/7808.
+- (2) *Ternstroemiaceae, in* C.F.P. von Martius, *Fl. bras.* 12(1): 261-334, *pl. 52-68.* 1 Apr 1886, TL-2/5538.
+- (3) *Ternstroemiaceae, in* E. Warming, *Symbolae* 32: 29-30. 8 Mai 1890, TL-2/16.709.
 
 #### Eponymy
 

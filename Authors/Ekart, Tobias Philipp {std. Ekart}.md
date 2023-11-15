@@ -8,7 +8,8 @@ Ekart, Tobias Philipp (1799-1877), German cryptogamist.
 
 #### Herbarium and types
 
-[[Collection JE|JE]] – Exsiccatae: *Cryptogamische Gewächse Koburgs* (fasc, i-iv, Coburg 1827-1828), set at [[Collection JE|JE]].
+[[Collection JE|JE]]
+*Exsiccatae*: *Cryptogamische Gewächse Koburgs* (fasc, i-iv, Coburg 1827-1828), set at [[Collection JE|JE]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 180.
 - Anon., Flora 29: 478-480. 1846.
 - Urban, Gesch. Berlin-Dahlem 261. 1916.

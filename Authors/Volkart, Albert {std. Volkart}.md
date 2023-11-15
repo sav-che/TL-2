@@ -8,7 +8,8 @@ Volkart, Albert (1873-1951), Swiss botanist; Dr. phil. Zürich 1899; assistant F
 
 #### Herbarium and types
 
-[[Collection ZT|ZT]]. – *Exsiccatae*: with F.G. Steller, *Schweizerische Gräser-Sammlung*, Lief. 5, nos. 201-250. 1899 (Lief. 1-4 by Stebler and Schröter, see Stebler). Contributed also to T. Vestergren, *Micromyc. rar. sel.* fasc. 46, no. 1144. 1906. – *Letters* at [[Collection G|G]].
+[[Collection ZT|ZT]].
+*Exsiccatae*: with F.G. Steller, *Schweizerische Gräser-Sammlung*, Lief. 5, nos. 201-250. 1899 (Lief. 1-4 by Stebler and Schröter, see Stebler). Contributed also to T. Vestergren, *Micromyc. rar. sel.* fasc. 46, no. 1144. 1906. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -24,8 +25,8 @@ Backer p. 663; Barnhart 3: 443; Biol.-Dokum. 18: 9628; BM 5: 2236; Hirsch p. 312
 
 #### Composite works
 
-(1) With F.G. Stebler, author of ed. 3 of C. Schröter, *Pl. fourrag.* 1911, TL-2/11.159.
-(2) With O. Kirchner et al., author of *Gramineae, in* C. Schröter, *Lebensgesch. Bl.–Pfl. Mittelem.* I. Abt. 2. 1908-1915, see TL-2/11.174.
+- (1) With F.G. Stebler, author of ed. 3 of C. Schröter, *Pl. fourrag.* 1911, TL-2/11.159.
+- (2) With O. Kirchner et al., author of *Gramineae, in* C. Schröter, *Lebensgesch. Bl.–Pfl. Mittelem.* I. Abt. 2. 1908-1915, see TL-2/11.174.
 
 #### Eponymy
 

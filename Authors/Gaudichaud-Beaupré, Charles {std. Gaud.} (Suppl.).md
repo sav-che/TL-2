@@ -59,10 +59,10 @@ Académie p. 207; AG 5(l): 427; APN p. 220; Backer p. 229, 651; Baillon 2: 677-6
 #### Note
 
 The two principal taxonomic works of Gaudichaud are now available in microfiche:
-(1) *Voy. Uranie*... 1826-\[1830\] (see TL-2/1, nr. 1968):
+- (1) *Voy. Uranie*... 1826-\[1830\] (see TL-2/1, nr. 1968):
 *Microfiche*: \[Zug, Switzerland\], (IDC), \[198-?\], 29 microfiches, 9×13 cm \[Fiche numbered in two parts (12 text & 17 atlas)\]. *Copies*: MO (n.v.), US.
-(2) *Voy. Bonite*, *Bot*.... \[1841\]-1846-1866 (TL-2/1, nr. 1969): *Microfiche*: Zug, Switzerland, (IDC), \[198-?\], 37 microfiches, 9×12 cm. *Copy*: US. The following was extracted from "Livre II of his \[i.e. Gaudichaud's\] Botanique, the fourth volume of *Le Voyage autour du monde*..." (see TL-2/1, nr. 1968):
-(3) St. John, H. & M. Titcomb (d. 28 Aug 1982), The *vegetation* of the *Sandwich Islands* \[Hawaii\] as seen by Charles Gaudichaud in *1819*; a translation, with notes, of Gaudichaud's "Îles Sandwich". Occas. Pap. Bernice P. Bishop Mus. 25(9): \[1\]-16. 1983. *Copies*: BM (n.v.), HH (n.v.), MO, NY (n.v.), US.
+- (2) *Voy. Bonite*, *Bot*.... \[1841\]-1846-1866 (TL-2/1, nr. 1969): *Microfiche*: Zug, Switzerland, (IDC), \[198-?\], 37 microfiches, 9×12 cm. *Copy*: US. The following was extracted from "Livre II of his \[i.e. Gaudichaud's\] Botanique, the fourth volume of *Le Voyage autour du monde*..." (see TL-2/1, nr. 1968):
+- (3) St. John, H. & M. Titcomb (d. 28 Aug 1982), The *vegetation* of the *Sandwich Islands* \[Hawaii\] as seen by Charles Gaudichaud in *1819*; a translation, with notes, of Gaudichaud's "Îles Sandwich". Occas. Pap. Bernice P. Bishop Mus. 25(9): \[1\]-16. 1983. *Copies*: BM (n.v.), HH (n.v.), MO, NY (n.v.), US.
 
 ### Publications
 

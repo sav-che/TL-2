@@ -28,7 +28,7 @@ Barnhart 3: 135 (b. 10 Mar 1881, d. 3 Feb 1945); BL 2: 314 \[index\]; Bossert p.
 
 #### Composite works
 
-(1) Founder, editor and manager of *Tropical Woods* 1925-1945.
+- (1) Founder, editor and manager of *Tropical Woods* 1925-1945.
 2) With Paul C. Standley, q.v., *The forests and flora of British Honduras*, Field Mus. nat. Hist., Bot. ser. 12, 27 Feb 1936.
 
 #### Eponymy

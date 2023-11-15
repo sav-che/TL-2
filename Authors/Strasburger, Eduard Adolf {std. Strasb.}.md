@@ -68,8 +68,8 @@ Ainsworth p. 121-122, 283, 320, 347; Backer p. 662; Barnhart 3: 338 (b. 1 Feb 18
 
 #### Composite works
 
-(1) Editor (with W. Pfeffer), Jahrb. wiss. Bot. 27-50, 1895-1912.
-(2) Editor, with Wilhelm Benecke, *Zellen- und Gewebelehre Morphologie und Entwicklungsgeschichte*, i: *Botanischer Teil*, Leipzig (Druck und Verlag von B.G. Teubner) 1913, vii, 338 p. (Kultur der Gegenwart, Teil 3, Abt. 4, Band 2, I. Botanischer Teil).
+- (1) Editor (with W. Pfeffer), Jahrb. wiss. Bot. 27-50, 1895-1912.
+- (2) Editor, with Wilhelm Benecke, *Zellen- und Gewebelehre Morphologie und Entwicklungsgeschichte*, i: *Botanischer Teil*, Leipzig (Druck und Verlag von B.G. Teubner) 1913, vii, 338 p. (Kultur der Gegenwart, Teil 3, Abt. 4, Band 2, I. Botanischer Teil).
 
 #### Thesis
 

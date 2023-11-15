@@ -8,7 +8,8 @@ Presl, Jan Svatopluk (1791-1849), Czech physician and botanist at Praha; profess
 
 #### Herbarium and types
 
-[[Collection PR|PR]] and [[Collection PRC|PRC]]. – *Exsiccatae*: *Vegetabilia cryptogamica Boëmiae* collecta a Joanne et Carolo Presl, fasc. 1-2, nos. 1-50, Pragae 1812 (Mar, Mai 1812) see Sayre (1969). Other material at [[Collection H|H]] (herb. Steven).
+[[Collection PR|PR]] and [[Collection PRC|PRC]].
+*Exsiccatae*: *Vegetabilia cryptogamica Boëmiae* collecta a Joanne et Carolo Presl, fasc. 1-2, nos. 1-50, Pragae 1812 (Mar, Mai 1812) see Sayre (1969). Other material at [[Collection H|H]] (herb. Steven).
 
 #### Name
 
@@ -43,8 +44,8 @@ AG 2(2): 279; Barnhart 3: 108; BM 4: 1611-1612; CSP 5: 7-8; Futák-Domin p. 487;
 #### Composite works
 
 with Friedrich Berchtold (1781-1876):
-(1) *O prirozenosti rostlin*, 1820, TL-2/432. Another copy of this rare book is at WU (with minor differences; inf. W. Gutermann): p. \[ii, iii, title pages\], \[1\]-322, \[1-2, errata\]. See also Flora 7: 192. 1824. – A copy was offered by Ronald Meesters (list 24, spring 1980).
-(2) Idem, 1823-1835, 3 vols., TL-2/433. Vol. 1 is by both authors; vols. 2 and 3 are by J.S. Presl alone.
+- (1) *O prirozenosti rostlin*, 1820, TL-2/432. Another copy of this rare book is at WU (with minor differences; inf. W. Gutermann): p. \[ii, iii, title pages\], \[1\]-322, \[1-2, errata\]. See also Flora 7: 192. 1824. – A copy was offered by Ronald Meesters (list 24, spring 1980).
+- (2) Idem, 1823-1835, 3 vols., TL-2/433. Vol. 1 is by both authors; vols. 2 and 3 are by J.S. Presl alone.
 
 #### Eponymy
 

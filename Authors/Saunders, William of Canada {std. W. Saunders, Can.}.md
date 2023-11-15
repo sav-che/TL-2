@@ -32,8 +32,8 @@ Barnhart 3: 215 (b. 16 Jun 1836, d. 13 Sep 1914); BL 1: 143, 317; BM 8: 1141; CS
 
 #### Composite works
 
-(1) Editor, *Canadian Entomologist* 6-18, 1874-1886.
-(2) Co-founder, Entomological Society of Ontario; charter member Royal Society of Canada.
+- (1) Editor, *Canadian Entomologist* 6-18, 1874-1886.
+- (2) Co-founder, Entomological Society of Ontario; charter member Royal Society of Canada.
 
 ### Publications
 

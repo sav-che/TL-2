@@ -49,9 +49,9 @@ vd Aa 2: 1604-1605; AG 7: 475; Barnhart 1: 286; BM 1: 289; Bossert p. 60; Jackso
 #### Composite works
 
 J. Burman published:
-(1) Rumphius, *Herbarium ambonense*.
-(2) Plumier, *Plantarum americanarum*, Amsterdam 1755-1760.
-(3) Weinmann, *Phytanthoza iconographia*, dutch transl.: *Taalrijk register*, 4 vols.
+- (1) Rumphius, *Herbarium ambonense*.
+- (2) Plumier, *Plantarum americanarum*, Amsterdam 1755-1760.
+- (3) Weinmann, *Phytanthoza iconographia*, dutch transl.: *Taalrijk register*, 4 vols.
 
 #### Eponymy
 

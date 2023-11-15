@@ -31,12 +31,12 @@ Barnhart 1: 397 (b. 16 Jul 1894, Torino, Italy); Hortus 3: 1191; IH 2: 144; Kew 
 
 #### Outside our period
 
-(1) *Manual of plant-geography* or an account of plant dispersal throughout the world. The Hague 1952 (ii, 587 pp., 105 maps).
-(2) *Panbiogeography*, or, an introductory synthesis of zoogeography, phytogeography and geology, 3 vols. 1958, 2780 pp.
-(3) *Principia botanica*, 1850 pp., 2 vols., 1961.
-(4) *Space, time, form*: a biological synthesis, pp. xix, 882. 1964. (5) *Introduction raisonnée* à la biogéographie de l'Afrique, 451 p., 1 map, issued as Mem. Soc. Brot. 20, 1968.
-(6) *The biogeography* of the tropical lands and islands east of Suez-Madagascar... Atti Ist. Univ. Pavia 4: 1-100. 1968.
-(7) *Biogeografia analitica y sintetica* (panbiogeographia) de las Américas... Caracas (Acad. Ci.Fis.) 1976, 2 vols. 890 p.
+- (1) *Manual of plant-geography* or an account of plant dispersal throughout the world. The Hague 1952 (ii, 587 pp., 105 maps).
+- (2) *Panbiogeography*, or, an introductory synthesis of zoogeography, phytogeography and geology, 3 vols. 1958, 2780 pp.
+- (3) *Principia botanica*, 1850 pp., 2 vols., 1961.
+- (4) *Space, time, form*: a biological synthesis, pp. xix, 882. 1964. (5) *Introduction raisonnée* à la biogéographie de l'Afrique, 451 p., 1 map, issued as Mem. Soc. Brot. 20, 1968.
+- (6) *The biogeography* of the tropical lands and islands east of Suez-Madagascar... Atti Ist. Univ. Pavia 4: 1-100. 1968.
+- (7) *Biogeografia analitica y sintetica* (panbiogeographia) de las Américas... Caracas (Acad. Ci.Fis.) 1976, 2 vols. 890 p.
 
 ### Publications
 

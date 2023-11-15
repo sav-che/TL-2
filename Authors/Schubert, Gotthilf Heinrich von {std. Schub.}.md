@@ -35,10 +35,10 @@ ADB 32: 631-635 (W. Hess); AG 3: 164; Backer p. 520 (err.); Barnhart 3: 242 (b. 
 
 #### Note
 
-(1) Published a *Lehrbuch der Naturgeschichte* für Schulen und zum Selbstunterricht. Erlangen (Heyder) 1823; ed. 15 ib. 1846 (fide PR ed. 1, no. 9353). – The botanical part was republished with plates by Ch.F. Hochstetter, as *Naturgeschichte des Pflanzenreiches in Bildern*, Stuttgart & Esslingen 1854; ed. 2. 1865, ed. 3. 1870, facs. ed. 1879, see below. This was preceded by a Dutch edition of the botanical part, *Leerboek der Plantkunde*, Gouda 1846 (publ. 28 Sep-3 Oct 1846), iv, 134 p.
-(2) A. Schenk, *Plantarum species, quas in itinere per Aegyptum, Arabiam et Syriam* cli. viri. G.H. de Schubert, M. Erdl, et J.R. Roth collegerunt. Recensuit et ex parte descripsit A. Schenk,... Monachii \[München\] 1848, vi, 46 p., index, see under A. Schenk.
-(3) Schubert was a nature-philosopher who drifted towards a Christian mystic-ascetic attitude. He published a treatise on the *Nachtseite der Naturwissenschaft* and many literary and philosophical-theological treatises. His trip to the Middle East with J.R. Roth (who collected the plants) was made for religious reasons and considered by him to be a pilgrimage.
-(4) For a very extensive list of biographical and bibliographical references see Poggendorff 7a: 606-609.
+- (1) Published a *Lehrbuch der Naturgeschichte* für Schulen und zum Selbstunterricht. Erlangen (Heyder) 1823; ed. 15 ib. 1846 (fide PR ed. 1, no. 9353). – The botanical part was republished with plates by Ch.F. Hochstetter, as *Naturgeschichte des Pflanzenreiches in Bildern*, Stuttgart & Esslingen 1854; ed. 2. 1865, ed. 3. 1870, facs. ed. 1879, see below. This was preceded by a Dutch edition of the botanical part, *Leerboek der Plantkunde*, Gouda 1846 (publ. 28 Sep-3 Oct 1846), iv, 134 p.
+- (2) A. Schenk, *Plantarum species, quas in itinere per Aegyptum, Arabiam et Syriam* cli. viri. G.H. de Schubert, M. Erdl, et J.R. Roth collegerunt. Recensuit et ex parte descripsit A. Schenk,... Monachii \[München\] 1848, vi, 46 p., index, see under A. Schenk.
+- (3) Schubert was a nature-philosopher who drifted towards a Christian mystic-ascetic attitude. He published a treatise on the *Nachtseite der Naturwissenschaft* and many literary and philosophical-theological treatises. His trip to the Middle East with J.R. Roth (who collected the plants) was made for religious reasons and considered by him to be a pilgrimage.
+- (4) For a very extensive list of biographical and bibliographical references see Poggendorff 7a: 606-609.
 
 #### Handwriting
 

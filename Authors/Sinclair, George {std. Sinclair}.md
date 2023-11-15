@@ -26,8 +26,8 @@ Barnhart 3: 281; BB p. 277; BM 4: 1931; Desmond p. 561 (d. 13 Mar 1834); DNB 18(
 
 #### Composite works
 
-(1) "numerous additions and corrections..." to J. Donn, *Hortus cantabrig*. ed. 12, 1831, ed. 13, 1845, TL-2/1505. – Ed. 13 rd. by Hinrichs in Leipzig by 8 Jul 1845.
-(2) Humphry Davy, *Elements of agricultural chemistry*, London 1813, *Appendix*: "An account of the results of experiments (made by G. Sinclair) on the produce and nutritive qualities of different grasses and other plants, used as food of animals. Instituted by John Duke of Bedford". This is a precursor of part of the *Hort. gram. Woburn*. (see below). – German translation by A.A. Deutsch, Trier 1821, 138 p.
+- (1) "numerous additions and corrections..." to J. Donn, *Hortus cantabrig*. ed. 12, 1831, ed. 13, 1845, TL-2/1505. – Ed. 13 rd. by Hinrichs in Leipzig by 8 Jul 1845.
+- (2) Humphry Davy, *Elements of agricultural chemistry*, London 1813, *Appendix*: "An account of the results of experiments (made by G. Sinclair) on the produce and nutritive qualities of different grasses and other plants, used as food of animals. Instituted by John Duke of Bedford". This is a precursor of part of the *Hort. gram. Woburn*. (see below). – German translation by A.A. Deutsch, Trier 1821, 138 p.
 
 #### Eponymy
 

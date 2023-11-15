@@ -43,17 +43,17 @@ ADB 21: 565-569; AG 4: 224; Backer p. 369; Barnhart 2: 483; BFM 1624; BL 1: 137,
 
 #### Composite works
 
-(1)see Lehmann, J. G. C., *Plantae Preissianae*, TL-2/4332. (*Junceae*).
-(2) see Drège, J. F., *Zswei Pflanzengeogr. Dokum.*, TL-2/1518; p. 17-230 issued 14 Aug-28 Dec 1843.
-(3) see Ledebour, C. F. v., *Fl. ross.*, vol. 4, 1853, *Juncaceae*, TL-2/4285.
-(4) see Patze, C. et al., *Fl. Prov. Preussen* \[1848-\]1850 (family and genera descriptions by Meyer).
-(5) see Brown, R., *Vermischte botanische Schriften* TL-2/ 833); Jessen took part in the translation and added anotations. See Verdoorn (1965), p. 45 for background.
-(6) see Pritzel, *Thesaurus*, ed. 2. – Jessen published fasc. 5-7 in 1877 from Pritzel's manuscript.
-(7) see Pritzel and Jessen, *Die deutschen Volksnamen der Pflanzen*. Hannover. 1882-1884.
-(8) Goethe, W., *Versuch iiber die Metamorphose der Pflanzen*, ed. 1831, edited by Fréd. Soret; several contributions by Meyer, see G. Schmid 1940 (no. 146).
-(9) Pritzel, G. A., *Thesaurus*, ed. 1, 1851, is dedicated to seven colleagues who assisted Pritzel; among them was E. H. F. Meyer.
-(10) see Presl, C. B., *Reliquiae haenkeanae*, vol. 1, 1825 (*Junceae*).
-(11) Numerous reviews signed E. M. in GGA 1819-1827, in Flora and in Bot. Zeit.
+- (1) see Lehmann, J. G. C., *Plantae Preissianae*, TL-2/4332. (*Junceae*).
+- (2) see Drège, J. F., *Zswei Pflanzengeogr. Dokum.*, TL-2/1518; p. 17-230 issued 14 Aug-28 Dec 1843.
+- (3) see Ledebour, C. F. v., *Fl. ross.*, vol. 4, 1853, *Juncaceae*, TL-2/4285.
+- (4) see Patze, C. et al., *Fl. Prov. Preussen* \[1848-\]1850 (family and genera descriptions by Meyer).
+- (5) see Brown, R., *Vermischte botanische Schriften* TL-2/ 833); Jessen took part in the translation and added anotations. See Verdoorn (1965), p. 45 for background.
+- (6) see Pritzel, *Thesaurus*, ed. 2. – Jessen published fasc. 5-7 in 1877 from Pritzel's manuscript.
+- (7) see Pritzel and Jessen, *Die deutschen Volksnamen der Pflanzen*. Hannover. 1882-1884.
+- (8) Goethe, W., *Versuch iiber die Metamorphose der Pflanzen*, ed. 1831, edited by Fréd. Soret; several contributions by Meyer, see G. Schmid 1940 (no. 146).
+- (9) Pritzel, G. A., *Thesaurus*, ed. 1, 1851, is dedicated to seven colleagues who assisted Pritzel; among them was E. H. F. Meyer.
+- (10) see Presl, C. B., *Reliquiae haenkeanae*, vol. 1, 1825 (*Junceae*).
+- (11) Numerous reviews signed E. M. in GGA 1819-1827, in Flora and in Bot. Zeit.
 
 #### Eponymy
 

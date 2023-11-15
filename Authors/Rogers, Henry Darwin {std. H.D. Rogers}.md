@@ -40,6 +40,6 @@ BM 4: 1721; CSP 5: 253-254, 8: 769, 18: 268; ME 1: 225, 3: 646-647 (index); Merr
 *Publ*.: in three parts, 1858. *Copies*: NY (Philadelphia imprint), PH (id.), USDA (New York imprint for 2(1): (D. van Nostrand,...) 1868 sic), USGS (Philadelphia imprint).
 *1*: frontisp., p. \[i\*-ii\*\], \[i\]-xxvii, err. slip, \[1\]-586, *24 pl., 11* geol. sect, (in copy PH *16 pl., 8* sect.).
 *2*(*1*): \[i\*-ii\*\], frontisp., \[i\]-xxiv, \[1\]-666, *pl. 1-7, 12 pl.* in text.
-(2): \[i\], \[667\]-1045, \[1046, err.\], *7 pl*. in text, *pl. 1-6*, \[7\] (sect.), *pl. 1-23* (fossil pl., R.K. Greville, uncol. liths.).
+- (2): \[i\], \[667\]-1045, \[1046, err.\], *7 pl*. in text, *pl. 1-6*, \[7\] (sect.), *pl. 1-23* (fossil pl., R.K. Greville, uncol. liths.).
 *Atlas*: 7 folded maps.
 

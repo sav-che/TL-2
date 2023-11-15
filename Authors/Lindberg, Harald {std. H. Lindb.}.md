@@ -8,7 +8,8 @@ Lindberg, Harald (1871-1963), Finnish botanist of Swedish origin; Dr. phil. Hels
 
 #### Herbarium and types
 
-[[Collection H|H]] (especially *Alchemilla* and *Hieracium*), duplicates in many herbaria. Exsiccatae: *Plantae finlandiae exsiccatae* fasc. 1-42, nos. 1-208, Helsingfors, 1906-1944, sets at [[Collection B|B]], [[Collection H|H]], [[Collection LD|LD]]. – Correspondence in the archives of Svenska Litteratursällskapet i Finland (Helsinki Univ. Library) and in [[Collection H|H]].
+[[Collection H|H]] (especially *Alchemilla* and *Hieracium*), duplicates in many herbaria.
+*Exsiccatae*: *Plantae finlandiae exsiccatae* fasc. 1-42, nos. 1-208, Helsingfors, 1906-1944, sets at [[Collection B|B]], [[Collection H|H]], [[Collection LD|LD]]. – Correspondence in the archives of Svenska Litteratursällskapet i Finland (Helsinki Univ. Library) and in [[Collection H|H]].
 
 #### Bibliography and biography
 

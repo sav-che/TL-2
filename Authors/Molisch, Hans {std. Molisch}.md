@@ -32,7 +32,8 @@ Barnhart 2: 503; BFM 2730, 2794, 2795; BJI 2: 119; BM 3: 1334, 7: 856; CSP 10: 8
 
 #### Festschrift
 
-(1) Verh. naturf. Ver. Brünn 60: 115-149. 1926 (70th birthday; bibl., tribute). (2) Mikrochemie, 1936, Festschrift zum 80. Geburtstag von Hofrat. Prof. Dr. Hans Molisch, Wien und Leipzig 1936, viii, 454 p. (portr.), see also E. Janchen, Österr. bot. Z. 86(1): 68. 1937.
+- (1) Verh. naturf. Ver. Brünn 60: 115-149. 1926 (70th birthday; bibl., tribute).
+- (2) Mikrochemie, 1936, Festschrift zum 80. Geburtstag von Hofrat. Prof. Dr. Hans Molisch, Wien und Leipzig 1936, viii, 454 p. (portr.), see also E. Janchen, Österr. bot. Z. 86(1): 68. 1937.
 
 ### Publications
 

@@ -21,15 +21,15 @@ AG 2(1): 678; Barnhart 3: 226; BM 4: 1828; Herder p. 386, 411; Kew 4: 620; NI 17
 #### Composite works
 
 Schenk provided illustrations to many works, see e.g. the references under PR and TL-2; some of the most noted are:
-(1) K.C.T. Goebel, *Pharm. Waarenk.* 1827-1834, 2 vols., see TL-2/2064.
-(2) J.C. Zenker, *Maturgeschichte der vorzüglichsten Handelspflanzen* 1832, 2 vols., *48 pl*. by Schenk.
-(3) J.W. Krause, *Abbild. Getreideart.* 1834-1837, TL-2/3922.
-(4) J.C. Zenker et al., *Fl. Thüringen* 1836-1855, 12 vols., 144 Hefte; see under J.C. Zenker.
-(5) G. Kunze, *Analecta pteridogr*. 1837, see TL-2/4039; *Farrnkräuter* 1840-1851, 2 vols., see TL-2/4040; *Suppl. Riedgräs.* 1840-1850, see TL-2/4041.
-(6) D.F.L. von Schlechtendal et al., *Fl. Deutschland* 1841-1869, 22 vols., (ed. 5: 1880-1888), see under D.F.L. von Schlechtendal.
-(7) C.E. Langethal, *Termin. beschr. Bot.* 1845, see TL-2/4195.
-(8) Johann Guenther & Friedrich Bertuch, *Pinakothek der deutschen Giftgewächse*... Jena (Druck und Verlag von Friedrich Mauke) 1840, 16 p. text, *36 pl*. by Schenk; ed. 2 "herausgegeben von Dr. E. Schenk und Dr. Günther", Jena (id.) s.d., 16 p., *36 pl. Copy*: B.
-(9) *Atlas* zu \[Ludwig\] Herfort's *Waarenlexikon*, Leipzig 1857, *80 pl*. (n.v.).
+- (1) K.C.T. Goebel, *Pharm. Waarenk.* 1827-1834, 2 vols., see TL-2/2064.
+- (2) J.C. Zenker, *Maturgeschichte der vorzüglichsten Handelspflanzen* 1832, 2 vols., *48 pl*. by Schenk.
+- (3) J.W. Krause, *Abbild. Getreideart.* 1834-1837, TL-2/3922.
+- (4) J.C. Zenker et al., *Fl. Thüringen* 1836-1855, 12 vols., 144 Hefte; see under J.C. Zenker.
+- (5) G. Kunze, *Analecta pteridogr*. 1837, see TL-2/4039; *Farrnkräuter* 1840-1851, 2 vols., see TL-2/4040; *Suppl. Riedgräs.* 1840-1850, see TL-2/4041.
+- (6) D.F.L. von Schlechtendal et al., *Fl. Deutschland* 1841-1869, 22 vols., (ed. 5: 1880-1888), see under D.F.L. von Schlechtendal.
+- (7) C.E. Langethal, *Termin. beschr. Bot.* 1845, see TL-2/4195.
+- (8) Johann Guenther & Friedrich Bertuch, *Pinakothek der deutschen Giftgewächse*... Jena (Druck und Verlag von Friedrich Mauke) 1840, 16 p. text, *36 pl*. by Schenk; ed. 2 "herausgegeben von Dr. E. Schenk und Dr. Günther", Jena (id.) s.d., 16 p., *36 pl. Copy*: B.
+- (9) *Atlas* zu \[Ludwig\] Herfort's *Waarenlexikon*, Leipzig 1857, *80 pl*. (n.v.).
 
 #### Note
 

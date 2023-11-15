@@ -17,8 +17,8 @@ Andrews p. 282-283; BFM 1415, 2181; BJI 2: 86; BL 2: 422, 674; JW 2: 193,3: 355;
 
 #### Composite works
 
-(1) *Fossilium catalogus* II: *Plantae*, Berlin (W. Junk) (until 1957; parts 1-39); author of parts on Lycopodiales.
-(2) with J. W. C. Goethart, *Planten-kaartjes voor Nederland*, afl. 1-25, 1902-1907 (for methods see e.g. Ned. kruidk. Arch. ser. 3. 2: 1068-1073. 1903). For further details see BL 2: 422.
+- (1) *Fossilium catalogus* II: *Plantae*, Berlin (W. Junk) (until 1957; parts 1-39); author of parts on Lycopodiales.
+- (2) with J. W. C. Goethart, *Planten-kaartjes voor Nederland*, afl. 1-25, 1902-1907 (for methods see e.g. Ned. kruidk. Arch. ser. 3. 2: 1068-1073. 1903). For further details see BL 2: 422.
 
 #### Eponymy
 

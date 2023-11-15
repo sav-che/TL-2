@@ -31,9 +31,9 @@ Barnhart 1: 288; Hortus 3: 1189; IH 2: 109; Kew 1: 434; Langman p. 171; MW p. 59
 
 #### Composite works
 
-(1) *Tiliaceae*, *in* Mildbraed, *Planta Tessmannianae* Notizbl. Bot. Gart. Mus. Berlin-Dahlem 9(82): 142. 1927.
-(2) *Tiliaceae*, *in* Melchior, *Plantae Steinbachianae* Notizbl. Bot. Gart. Mus. Berlin-Dahlem 9(90): 1158. 1927.
-(3) *Lepidocarpum Tessmannii* Burrett nov. spec. (Palmae), *in* Engler et al., Notizbl. Bot. Gart. Mus. Berlin-Dahlem 10(97): 771-772. 10 Jul 1929.
+- (1) *Tiliaceae*, *in* Mildbraed, *Planta Tessmannianae* Notizbl. Bot. Gart. Mus. Berlin-Dahlem 9(82): 142. 1927.
+- (2) *Tiliaceae*, *in* Melchior, *Plantae Steinbachianae* Notizbl. Bot. Gart. Mus. Berlin-Dahlem 9(90): 1158. 1927.
+- (3) *Lepidocarpum Tessmannii* Burrett nov. spec. (Palmae), *in* Engler et al., Notizbl. Bot. Gart. Mus. Berlin-Dahlem 10(97): 771-772. 10 Jul 1929.
 
 #### Eponymy
 
@@ -41,7 +41,7 @@ see TL-2/1: 419, addition: *Maxburretia* Furtado 1941, see ING 2: 1053. 1979.
 
 #### Manuscript
 
-(1) Bericht des Professors Dr. M. Burret, Kustos am Botanischen Garten in Berlin-Dahlem, über eine botanische Studienreise nach dem Malayischen Gebiet. \[Berlin 1939\], 15 p. typescript. Original and copy at B. – Left Berlin 7 Dec 1938, returned 10 Jun 1939.
+- (1) Bericht des Professors Dr. M. Burret, Kustos am Botanischen Garten in Berlin-Dahlem, über eine botanische Studienreise nach dem Malayischen Gebiet. \[Berlin 1939\], 15 p. typescript. Original and copy at B. – Left Berlin 7 Dec 1938, returned 10 Jun 1939.
 
 ### Publications
 

@@ -28,14 +28,14 @@ Barnhart 3: 474 (b. 5 Mai 1896); BL 1: 177, 178, 323; IH 1 (ed. 1): 38, (ed. 2):
 
 #### Composite works
 
-(1) *Fontinalaceae, in* A.J. Grout, Mossflora of North America 3(4): 179-277, *pl. 45-80.* 1934, TL-2/2195.
-(2) *Fontinalaceae*, North American Flora ser. 2. 3: 1-51. 15 Mar 1963 (Bibliography by H.W. Rickett on p. 31-48; many details). – Summary: Bryologist 64(1): 61-64. 1961, TL-2/781.
-(3) *Hookeriaceae*, North American Flora ser. 2. 9: \[i\], \[1\]-133- 2 Jul 1976, TL-2/781.
+- (1) *Fontinalaceae, in* A.J. Grout, Mossflora of North America 3(4): 179-277, *pl. 45-80.* 1934, TL-2/2195.
+- (2) *Fontinalaceae*, North American Flora ser. 2. 3: 1-51. 15 Mar 1963 (Bibliography by H.W. Rickett on p. 31-48; many details). – Summary: Bryologist 64(1): 61-64. 1961, TL-2/781.
+- (3) *Hookeriaceae*, North American Flora ser. 2. 9: \[i\], \[1\]-133- 2 Jul 1976, TL-2/781.
 
 #### Note
 
-(1) Main publications outside our period: *Mosses of Indiana* 1957 (478 p.). *A monograph of the Fontinalaceae* 1960 (vii, 357 p.).
-(2) Notices of publications in *Rev. bryol. lichénol.* 9: 160. 1936, 18: 193. 1949, 25: 386. 1956, 30: 178, 288. 1961, 34: 950. 1967, 37: 223, 1007. 1971, 38: 139, 142. 1972, 39: 503, 511, 673. 1974, 41: 508 1976.
+- (1) Main publications outside our period: *Mosses of Indiana* 1957 (478 p.). *A monograph of the Fontinalaceae* 1960 (vii, 357 p.).
+- (2) Notices of publications in *Rev. bryol. lichénol.* 9: 160. 1936, 18: 193. 1949, 25: 386. 1956, 30: 178, 288. 1961, 34: 950. 1967, 37: 223, 1007. 1971, 38: 139, 142. 1972, 39: 503, 511, 673. 1974, 41: 508 1976.
 
 ### Publications
 

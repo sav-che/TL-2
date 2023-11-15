@@ -29,20 +29,20 @@ AG 4: 408; Backer p. 628; Barnhart 3: 507 (b. 13 Feb 1875, d. 10 Jun 1941); Biol
 
 #### Composite works
 
-(1) Co-editor, with E. Hannig, of *Die Pflanzenareale* 1926-1945, author of *Musaceae*, 1: 19-20, *maps 11-12*. 1927. See TL-2/17.993.
-(2) *Betulaceae, in* A. Engler, ed., *Pflanzenreich* 4 \[61\] (Heft 19): \[i\], 1-149 \[150\], *pl. 1-2*. 17 Jun 1904. – See also his *Der gegenwärtige Stand der Betula-Systematik*, Mitt. deut. dendrol. Ges. 43: 36-40. 1930; see TL-2/1713.
-(3)*Plantae novae bolivianae* 2 (with F. Pax & A. Lingelsheim), Repert. spec. nov. 7: 107-114. 20 Mai 1909, 3 (id.) 7: 241-251. 20 Sep 1909, 4 (with A. Cogniaux, A. Lingelsheim & F. Pax) 8: 1-6. 15 Jan 1910.
-(4) *Urticaceae, in* Nova Guinea 14(1): 119-134, *pl. 15A, B* printed Jan 1924.
-(5) With F. Pax, *Vegetationsbilder aus den Südkarpathen, in* G. Karsten and H. Schenck, *Veg.-Bild.* 15(8). 1924.
-(6) *Musaceae, in* Engler and Prantl, *Nat. Pflanzenfam.* ed. 2. 15a: 505-541. 1930. See TL-2/1711.
-(7) *Cannaceae, in* id. 15a: 640-654. 1930. TL-2/1711.
-(8) *Linaceae, in* id. 19a: 82-130. Jan-Aug 1931. TL-2/1711.
-(9) With M. Heumann *Charakterpflanzen aus Südwestafrika, in* G. Karsten and H. Schenck, *Veg.-Bild.* 21(8). 1931.
-(10) *Leptodermis, in* H. Handel-Mazzetti, *Symb. sin.* 7: 1023-1026. 1 Feb 1936, TL-2/2364.
-(11) Edited *Beiträge zur Biologie der Pflanzen* 15-27, 1927-1941.
-(12) With H. Schröter, *Monographie der Gattung Elatostema* s.l., Rep. Sp. nov. Beih. 83. 1935. See TL-2/17.996.
-(13) *Geographie* \[Pteridophytes\], *in* F. Verdoorn, ed., *Man. Pterid.* 451-473. 1938. TL-2/16.041.
-(14) *Ölpalme, in* C. Fruwirth, *Handb. landwirtsch. Pflanzenz.* ed. 2. 5: 91-15. 1923.
+- (1) Co-editor, with E. Hannig, of *Die Pflanzenareale* 1926-1945, author of *Musaceae*, 1: 19-20, *maps 11-12*. 1927. See TL-2/17.993.
+- (2) *Betulaceae, in* A. Engler, ed., *Pflanzenreich* 4 \[61\] (Heft 19): \[i\], 1-149 \[150\], *pl. 1-2*. 17 Jun 1904. – See also his *Der gegenwärtige Stand der Betula-Systematik*, Mitt. deut. dendrol. Ges. 43: 36-40. 1930; see TL-2/1713.
+- (3) *Plantae novae bolivianae* 2 (with F. Pax & A. Lingelsheim), Repert. spec. nov. 7: 107-114. 20 Mai 1909, 3 (id.) 7: 241-251. 20 Sep 1909, 4 (with A. Cogniaux, A. Lingelsheim & F. Pax) 8: 1-6. 15 Jan 1910.
+- (4) *Urticaceae, in* Nova Guinea 14(1): 119-134, *pl. 15A, B* printed Jan 1924.
+- (5) With F. Pax, *Vegetationsbilder aus den Südkarpathen, in* G. Karsten and H. Schenck, *Veg.-Bild.* 15(8). 1924.
+- (6) *Musaceae, in* Engler and Prantl, *Nat. Pflanzenfam.* ed. 2. 15a: 505-541. 1930. See TL-2/1711.
+- (7) *Cannaceae, in* id. 15a: 640-654. 1930. TL-2/1711.
+- (8) *Linaceae, in* id. 19a: 82-130. Jan-Aug 1931. TL-2/1711.
+- (9) With M. Heumann *Charakterpflanzen aus Südwestafrika, in* G. Karsten and H. Schenck, *Veg.-Bild.* 21(8). 1931.
+- (10) *Leptodermis, in* H. Handel-Mazzetti, *Symb. sin.* 7: 1023-1026. 1 Feb 1936, TL-2/2364.
+- (11) Edited *Beiträge zur Biologie der Pflanzen* 15-27, 1927-1941.
+- (12) With H. Schröter, *Monographie der Gattung Elatostema* s.l., Rep. Sp. nov. Beih. 83. 1935. See TL-2/17.996.
+- (13) *Geographie* \[Pteridophytes\], *in* F. Verdoorn, ed., *Man. Pterid.* 451-473. 1938. TL-2/16.041.
+- (14) *Ölpalme, in* C. Fruwirth, *Handb. landwirtsch. Pflanzenz.* ed. 2. 5: 91-15. 1923.
 
 #### Obituaries and biographies
 

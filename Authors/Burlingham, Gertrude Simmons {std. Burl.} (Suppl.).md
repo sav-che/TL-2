@@ -28,8 +28,8 @@ Barnhart 1: 286 (b. 21 Apr 1872, Mexico, N.Y., d. 11 Jan 1952, Winter Park, Flor
 
 #### Composite works
 
-(1) *Lactarieae*, *in* N. Amer. Flora 9(3): 172-200. 3 Feb 1910, p. 201-236. 30 Apr 1915. (fide Trelease, Bot. Centralbl. 129(15): 388. 12 Oct 1915; see also J. New York bot. Gard. 11(122): 53. Feb 1910, and id. 17(203): 205. Nov 1916.
-(2) *Russula* et al., N. Amer. Flora 9(4): 201-236. 30 Apr 1915 (348 species).
+- (1) *Lactarieae*, *in* N. Amer. Flora 9(3): 172-200. 3 Feb 1910, p. 201-236. 30 Apr 1915. (fide Trelease, Bot. Centralbl. 129(15): 388. 12 Oct 1915; see also J. New York bot. Gard. 11(122): 53. Feb 1910, and id. 17(203): 205. Nov 1916.
+- (2) *Russula* et al., N. Amer. Flora 9(4): 201-236. 30 Apr 1915 (348 species).
 
 ### Publications
 

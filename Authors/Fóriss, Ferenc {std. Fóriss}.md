@@ -8,7 +8,8 @@ Fóriss, Ferenc (1892-1977), Hungarian lichenologist and school teacher, born 2 
 
 #### Herbarium and types
 
-Lichens: [[Collection BP|BP]] (partly destroyed in W.W.-II), [[Collection EGR|EGR]], [[Collection M|M]]; also material at the Hermann Otto Museum, Miskolc and Natural Science Botany Dept., Pécs ([[Collection JPU|JPU]]?). – *Exsiccatae*: *Lichenes Bükkenses Exsiccati*, Fascs. 1-5, nos. 1-100. 1938-1940. Fasc. 1. 1-20. 1 Mar 1938. Fasc. 2. 21-40. 15 Jun 1938. Fasc. 3. 41-60. 1 Dec 1938. Fasc. 4. 61-80. 1 Feb 1939. Fasc. 5. 81-100. 1 Nov 1940. (*Lich. Bukken. Exsicc.*): [[Collection BM|BM]], [[Collection FH|FH]], [[Collection M|M]]. – Field notes in Hermann Ottó Museum, Miskolc.
+Lichens: [[Collection BP|BP]] (partly destroyed in W.W.-II), [[Collection EGR|EGR]], [[Collection M|M]]; also material at the Hermann Otto Museum, Miskolc and Natural Science Botany Dept., Pécs ([[Collection JPU|JPU]]?).
+*Exsiccatae*: *Lichenes Bükkenses Exsiccati*, Fascs. 1-5, nos. 1-100. 1938-1940. Fasc. 1. 1-20. 1 Mar 1938. Fasc. 2. 21-40. 15 Jun 1938. Fasc. 3. 41-60. 1 Dec 1938. Fasc. 4. 61-80. 1 Feb 1939. Fasc. 5. 81-100. 1 Nov 1940. (*Lich. Bukken. Exsicc.*): [[Collection BM|BM]], [[Collection FH|FH]], [[Collection M|M]]. – Field notes in Hermann Ottó Museum, Miskolc.
 
 #### Bibliography and biography
 

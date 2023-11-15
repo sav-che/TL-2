@@ -25,8 +25,8 @@ BL 2: 442, 453, 459, 644; GR p. 712 (main text), pl. \[36\]; GR cat. 62; IH 1 (e
 
 #### Composite works
 
-(1) with Hildur Krog (outside our period) *Macrolichens* of *Denmark*, *Finland*, *Norway* and *Sweden*, Oslo-Bergen-Tromsö (Universitetslaget) 185 p., 1973. – See V.A., Rev. bryol. lichénol. ser. 2. 39(2): 362-363. 1973.
-(2) with Emil Hadac, *Et bidrag till Spitsbergens flora*, 1946, issued as Meddelelser Norges Svalbard... og Ishavs-undersökelser nr. 63.
+- (1) with Hildur Krog (outside our period) *Macrolichens* of *Denmark*, *Finland*, *Norway* and *Sweden*, Oslo-Bergen-Tromsö (Universitetslaget) 185 p., 1973. – See V.A., Rev. bryol. lichénol. ser. 2. 39(2): 362-363. 1973.
+- (2) with Emil Hadac, *Et bidrag till Spitsbergens flora*, 1946, issued as Meddelelser Norges Svalbard... og Ishavs-undersökelser nr. 63.
 
 ### Publications
 

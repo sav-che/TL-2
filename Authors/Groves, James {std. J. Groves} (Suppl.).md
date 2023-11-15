@@ -14,7 +14,8 @@ The youngest of three brothers, incl. Henry Groves (1855-1912) (see above) with 
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – *Exsiccatae* (see also under Henry Groves, his older brother): *British and Irish Charophyta* (with Rev. George Russell Bullock-Webster, 1858-1934) (fasc. i-ii, nos. 1-42, 1924), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection OXF|OXF]]. – Mss. at [[Collection BM|BM]] (James Groves papers).
+[[Collection BM|BM]].
+*Exsiccatae* (see also under Henry Groves, his older brother): *British and Irish Charophyta* (with Rev. George Russell Bullock-Webster, 1858-1934) (fasc. i-ii, nos. 1-42, 1924), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection OXF|OXF]]. – Mss. at [[Collection BM|BM]] (James Groves papers).
 
 #### Bibliography and biography
 
@@ -37,13 +38,13 @@ Andrews p. 272; APN p. 244; Barnhart 2: 92; BL 2: 268, 662; BM 6: 413; Clokie p.
 
 #### Composite works
 
-(1) Editor, with his brother Henry, of C.C. Babington, *Man. Brit. bot.* ... ed. 9, 1904 (see TL-2/1, nr. 216).
-(2) Characeae, with his brother Henry, *in* I. Urban, *Symb. antill.*... vol. 7(1), 15 Dec 1911 (see TL-2/6, nr. 15.687).
-(3) J. Groves & G.R. Bullock-Webster, *Brit. Charoph.*... 1920-1924, 2 vols., was treated earlier (TL-2/1, nr. 2199) but can be amended as follows:
+- (1) Editor, with his brother Henry, of C.C. Babington, *Man. Brit. bot.* ... ed. 9, 1904 (see TL-2/1, nr. 216).
+- (2) Characeae, with his brother Henry, *in* I. Urban, *Symb. antill.*... vol. 7(1), 15 Dec 1911 (see TL-2/6, nr. 15.687).
+- (3) J. Groves & G.R. Bullock-Webster, *Brit. Charoph.*... 1920-1924, 2 vols., was treated earlier (TL-2/1, nr. 2199) but can be amended as follows:
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987 ?\], 6 microfiches (Plant taxonomic lit. microfiche coll., "8277A1-8282B6"). *Copy*: MO. (b) Wakefield, Yorkshire, U.K. (EP Group of Companies, Microform Division), \[19–\]. *Copy*: LC – NRMM (Printing master microform) (n.v.).
 *Reprint*: New York (Johnson Reprint), 2 vols., 1971. *Copy*: UC-Santa Barbara (n.v.).
-(4) Contributed a section on fossil Charophyta to E.M. Reid & M.E.J. Chandler, *Bembridge fl*.... 1926 (TL-2/1, nr. 8905).
-(5) Specimens obtained by Clement Reid (1853-1916) and J. Groves, bequeathed to the BMNH by the latter in 1933, formed the basis of Thomas Maxwell Harris (1903-x), *British Purbeck Charophyta*, London (British Museum (Natural History)), ix, 83 p., *17 pl*. 1939. Reid and Groves published a preliminary report on the Characeae of the Purbeck formation in *Proc. Roy. Soc. London, Ser. B, Biol. Sci.*, 89: 252-256. 1916.
+- (4) Contributed a section on fossil Charophyta to E.M. Reid & M.E.J. Chandler, *Bembridge fl*.... 1926 (TL-2/1, nr. 8905).
+- (5) Specimens obtained by Clement Reid (1853-1916) and J. Groves, bequeathed to the BMNH by the latter in 1933, formed the basis of Thomas Maxwell Harris (1903-x), *British Purbeck Charophyta*, London (British Museum (Natural History)), ix, 83 p., *17 pl*. 1939. Reid and Groves published a preliminary report on the Characeae of the Purbeck formation in *Proc. Roy. Soc. London, Ser. B, Biol. Sci.*, 89: 252-256. 1916.
 
 ### Publications
 

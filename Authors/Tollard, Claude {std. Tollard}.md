@@ -20,8 +20,8 @@ BM 5: 2120; Herder p. 394; NI 1970n; PR 7855, ed. 1: 4981, 8809, 10356.
 
 #### Composite works
 
-(1) Collaborator, Déterville, *Nouveau dictionnnaire d'histoire naturelle*... Paris 1802-1804, 24 vols.; see TL-2/1418.
-(2) Collaborator, F. Rozier, *Cours complet d'agriculture*... Paris 1781-1805, 12 vols.; see TL-2/9741a.
+- (1) Collaborator, Déterville, *Nouveau dictionnnaire d'histoire naturelle*... Paris 1802-1804, 24 vols.; see TL-2/1418.
+- (2) Collaborator, F. Rozier, *Cours complet d'agriculture*... Paris 1781-1805, 12 vols.; see TL-2/9741a.
 
 ### Publications
 

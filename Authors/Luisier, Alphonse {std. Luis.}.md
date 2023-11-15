@@ -8,7 +8,8 @@ Luisier, Alphonse (1872-1957), Swiss-born priest (entered S. J. in Portugal 1891
 
 #### Herbarium and types
 
-[[Collection INA|INA]], [[Collection COI|COI]] and [[Collection LISE|LISE]]; further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection H|H]], [[Collection LISI|LISI]], [[Collection PO|PO]]. Exsiccatae: *Bryotheca lusitanica*, series 1, nos. 1-25, 1910 ([[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection K|K]], [[Collection US|US]]).
+[[Collection INA|INA]], [[Collection COI|COI]] and [[Collection LISE|LISE]]; further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection H|H]], [[Collection LISI|LISI]], [[Collection PO|PO]].
+*Exsiccatae*: *Bryotheca lusitanica*, series 1, nos. 1-25, 1910 ([[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection K|K]], [[Collection US|US]]).
 
 #### Bibliography and biography
 

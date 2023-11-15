@@ -8,7 +8,8 @@ Whetzel, Herbert Hice (1877-1944), American mycologist and phytopathologist; stu
 
 #### Herbarium and types
 
-[[Collection CUP|CUP]]; other material in [[Collection BH|BH]], [[Collection BM|BM]], [[Collection DPU|DPU]], [[Collection H|H]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection US|US]]. *Exsiccatae*: *Bermuda fungi* (with John MacLaren Waterston, 1911-x), cent. 1-2, 1-200, Nov 1943 and 1945. Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NCU|NCU]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection TRTC|TRTC]], [[Collection WIS|WIS]]. – Fasc. 2 published by J.M. Waterston. – *Field notes*: [[Collection CUP|CUP]]. – *Letters* to W.G. Farlow at [[Collection FH|FH]], to Barnhart at [[Collection NY|NY]].
+[[Collection CUP|CUP]]; other material in [[Collection BH|BH]], [[Collection BM|BM]], [[Collection DPU|DPU]], [[Collection H|H]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection US|US]].
+*Exsiccatae*: *Bermuda fungi* (with John MacLaren Waterston, 1911-x), cent. 1-2, 1-200, Nov 1943 and 1945. Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NCU|NCU]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection TRTC|TRTC]], [[Collection WIS|WIS]]. – Fasc. 2 published by J.M. Waterston. – *Field notes*: [[Collection CUP|CUP]]. – *Letters* to W.G. Farlow at [[Collection FH|FH]], to Barnhart at [[Collection NY|NY]].
 
 #### Bibliography and biography
 
@@ -27,9 +28,9 @@ Ainsworth p. 287, 308, 326, 348; Barnhart 3: 484 (b. 5 Sep 1877, d. 30 Nov 1944)
 
 #### Composite works
 
-(1) With L.R. Hesler, C.T. Gregory and W. Howard Rauhin, *Laboratory outlines in plant pathology* 1916, 207 p.; rev. ed. Philadelphia 1925.
-(2) With L.R. Hesler, *Manual of fruit diseases*, New York, 1917, 462 p.
-(3) With F.D. Kern, *Hemibasidiomycetes. Ustilaginales* and *Uredinales, in* F.J. Seaver and C.E. Chardon, Mycology, Sci. Surv. Porto Rico, New York Acad. Sci. 8. 1: 107-144. 1926 (TL-2/11.576).
+- (1) With L.R. Hesler, C.T. Gregory and W. Howard Rauhin, *Laboratory outlines in plant pathology* 1916, 207 p.; rev. ed. Philadelphia 1925.
+- (2) With L.R. Hesler, *Manual of fruit diseases*, New York, 1917, 462 p.
+- (3) With F.D. Kern, *Hemibasidiomycetes. Ustilaginales* and *Uredinales, in* F.J. Seaver and C.E. Chardon, Mycology, Sci. Surv. Porto Rico, New York Acad. Sci. 8. 1: 107-144. 1926 (TL-2/11.576).
 
 ### Publications
 

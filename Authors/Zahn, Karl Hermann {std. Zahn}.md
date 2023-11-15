@@ -26,17 +26,17 @@ AG 2(2): 65, 12(2): 123; Barnhart 3: 536 (b. 3 Dec 1865, d. 8 Feb 1940); BFM no.
 
 #### Composite works
 
-(1) *Berichtigungen und Ergänzungen zur 16. Auflage von* Dr. Aug. *Garcke's Flora von Deutschland*, Deut. bot. Monatschr. 8: 112-115. 1890. (See TL-2/1949).
-(2) *Hieracium, in* A. Engler, Das *Pflanzenreich*, see below 18.545.
-(3) *Hieracium, in* W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3 (ed. E. Hallier, R. Wohlfarth) 2: 1697-1910. Sep 1900, 1911-1931. Apr 1902 (TL-2/3804). – For review see Kneucker, Allg. bot. Z. 7: 214-217. 15 Dec 1901; Vollmann, Bot. Monatschr. 19: 164-166, 185-191. 1901.
-(4) *Hieracium, in* H.G.L. Reichenbach, *Icon. fl. germ. helv.* 19(2). 1904-1911, see TL-2/8885 (with J. Murr and J. Poell). "*Hieracia critica* vel minus cognita *florae germanicae et helveticae".*
-(5) *Hieracium, in* H. Schinz & R. Keller, *Fl. schweiz.* ed. 2. 2: 231-347. Aug-Sep 1905 and ed. 3, 2. 136 p. 1914. ((TL-2/10.714).
-(6) *Hieracium, in* G. Hegi, *Ill. Fl. Mitteleur.* 6(2): 1182-1351. 1929. (TL-2/2571).
-(7) *Hieracium, in* Ascherson and Graebner, *Syn. mitteleur. Fl.* 12(1): 1-492. 1922-1930, 12(2): 1-790. 1930-1935, 12(3): 1-708. 1936-1938. Index 12(1-3): 1-200. 5 Jan 1939. (TL-2/200).
-(8) Identifications in H. Schack, *Hieracia Thuringiae* 1930. TL-2/10.461.
-(9) *Salicaceae, in* W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3. 3: 2298-2385. 1907 (anonymous); Sleumer(1941) states that the *Polygonaceae* in that flora were almost certainly by Zahn.
-(10) *Hieracium, in* Stojanoff & Stefanoff, *Fl. Bulg.* 2: 1225-1272. 1925.
-(11) *Hieracium, in* A. Mayer, *Exkursionsflora der Universität Tübingen* 471-490. 1930. (TL-2/5743).
+- (1) *Berichtigungen und Ergänzungen zur 16. Auflage von* Dr. Aug. *Garcke's Flora von Deutschland*, Deut. bot. Monatschr. 8: 112-115. 1890. (See TL-2/1949).
+- (2) *Hieracium, in* A. Engler, Das *Pflanzenreich*, see below 18.545.
+- (3) *Hieracium, in* W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3 (ed. E. Hallier, R. Wohlfarth) 2: 1697-1910. Sep 1900, 1911-1931. Apr 1902 (TL-2/3804). – For review see Kneucker, Allg. bot. Z. 7: 214-217. 15 Dec 1901; Vollmann, Bot. Monatschr. 19: 164-166, 185-191. 1901.
+- (4) *Hieracium, in* H.G.L. Reichenbach, *Icon. fl. germ. helv.* 19(2). 1904-1911, see TL-2/8885 (with J. Murr and J. Poell). "*Hieracia critica* vel minus cognita *florae germanicae et helveticae".*
+- (5) *Hieracium, in* H. Schinz & R. Keller, *Fl. schweiz.* ed. 2. 2: 231-347. Aug-Sep 1905 and ed. 3, 2. 136 p. 1914. ((TL-2/10.714).
+- (6) *Hieracium, in* G. Hegi, *Ill. Fl. Mitteleur.* 6(2): 1182-1351. 1929. (TL-2/2571).
+- (7) *Hieracium, in* Ascherson and Graebner, *Syn. mitteleur. Fl.* 12(1): 1-492. 1922-1930, 12(2): 1-790. 1930-1935, 12(3): 1-708. 1936-1938. Index 12(1-3): 1-200. 5 Jan 1939. (TL-2/200).
+- (8) Identifications in H. Schack, *Hieracia Thuringiae* 1930. TL-2/10.461.
+- (9) *Salicaceae, in* W.D.J. Koch, *Syn. deut. schweiz. Fl.* ed. 3. 3: 2298-2385. 1907 (anonymous); Sleumer(1941) states that the *Polygonaceae* in that flora were almost certainly by Zahn.
+- (10) *Hieracium, in* Stojanoff & Stefanoff, *Fl. Bulg.* 2: 1225-1272. 1925.
+- (11) *Hieracium, in* A. Mayer, *Exkursionsflora der Universität Tübingen* 471-490. 1930. (TL-2/5743).
 *Note*: for further contributions to works by others see bibliography of Zahn by H. Sleumer (1941).
 
 ### Publications

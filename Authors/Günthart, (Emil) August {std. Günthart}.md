@@ -26,9 +26,9 @@ Rüegg, W., 1957. Abdankungs-Predigt: Dr. Emil August Günthart, geb. 8 Juli 187
 
 #### Composite works
 
-(1) Contributed with M. Brockmann-Jerosch & P. Vogler to C. Schröter, *Pfl.-Leb. Alpen*... 1904-1908 (TL-2/5, nr. 11.178).
-(2) Contributed to Carl Chun (1852-1914) & Wilhelm Ludwig Johannsen (1857-1927) (eds.), *Allgemeine Biologie*... 1915.
-(3) Günthart & Walther Bernhard Schmidt (1853-x) edited Bernhard Landsberg, *Streifzüge durch Wald und Flur*... 5. Aufl., 1916; Id.... 6. Aufl., 1921.
+- (1) Contributed with M. Brockmann-Jerosch & P. Vogler to C. Schröter, *Pfl.-Leb. Alpen*... 1904-1908 (TL-2/5, nr. 11.178).
+- (2) Contributed to Carl Chun (1852-1914) & Wilhelm Ludwig Johannsen (1857-1927) (eds.), *Allgemeine Biologie*... 1915.
+- (3) Günthart & Walther Bernhard Schmidt (1853-x) edited Bernhard Landsberg, *Streifzüge durch Wald und Flur*... 5. Aufl., 1916; Id.... 6. Aufl., 1921.
 
 ### Publications
 

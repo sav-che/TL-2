@@ -30,8 +30,8 @@ Barnhart 2: 339; BL 1: 123, 184; BM 3: 1052; CSP 12: 669, 16: 575, 18: 650-651; 
 
 #### Composite works
 
-(1) Translator (with Effie Almira Southworth, b. 1860, later Mrs. V. M. Spalding) of *The true grasses*, by E. Hackel, 1890, see no. 2231.
-(2) See under L. H. Pammel for various agrostological papers under joint authorship.
+- (1) Translator (with Effie Almira Southworth, b. 1860, later Mrs. V. M. Spalding) of *The true grasses*, by E. Hackel, 1890, see no. 2231.
+- (2) See under L. H. Pammel for various agrostological papers under joint authorship.
 
 #### Eponymy
 

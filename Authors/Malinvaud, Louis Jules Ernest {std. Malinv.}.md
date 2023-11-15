@@ -8,7 +8,8 @@ Malinvaud, Louis Jules Ernest (1836-1913), French botanist; secretary-general of
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]], Inst. agron. de Paris. Exsiccatae: *Menthae exsiccatae praesertim Gallicae*, 1877-1881 (4 fasc. of 25 nos. each, 60 sets); sets at [[Collection AUT|AUT]], [[Collection BM|BM]], [[Collection BORD|BORD]], [[Collection G|G]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection P|P]]. – See Aymonin (1977). – Correspondence at [[Collection P|P]].
+[[Collection P|P]], [[Collection PC|PC]], Inst. agron. de Paris.
+*Exsiccatae*: *Menthae exsiccatae praesertim Gallicae*, 1877-1881 (4 fasc. of 25 nos. each, 60 sets); sets at [[Collection AUT|AUT]], [[Collection BM|BM]], [[Collection BORD|BORD]], [[Collection G|G]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection P|P]]. – See Aymonin (1977). – Correspondence at [[Collection P|P]].
 
 #### Bibliography and biography
 

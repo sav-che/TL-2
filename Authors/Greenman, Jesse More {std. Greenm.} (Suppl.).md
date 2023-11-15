@@ -42,13 +42,13 @@ Anon., Ann. Missouri Bot. Gard. 25(1):... (1938), presumably in honor of his 70t
 
 #### Composite works
 
-(1) Co-author of many papers with B.L. Robinson (1864-1935), incl.:
+- (1) Co-author of many papers with B.L. Robinson (1864-1935), incl.:
 (a) *Further new and imperfectly known plants collected in Mexico*... 1893, see TL-2/4, nr. 9285;
 (b) *A new genus of Sterculiaceae*... 1896, see TL-2/4, nr. 9287; and
 (c) *Revision of the genus Gymnolomia*... Proc. Boston Soc. Nat. Hist. 29(5): 87-108. 1899 (also issued as Contr. Gray Herb., nr. 17... \[24 Aug\] 1899).
-(2) Contributed a precursory paper (1895) to B.L. Robinson, *Flora of the Galapagos*... 1902 (TL-2/4, nr. 9289).
-(3) Provided the determinations for a treatment of the Compositae in C.F. Millspaugh, *Contribution* \[*III*\] *to the flora of Yucatan*... 1898 (TL-2/3, nr. 6069).
-(4) One of nine signatories to O. Ames et al., *Prop. changem. lois nom.*... 1904 (TL-2/ Suppl. 1, nr. 19.149), proposals submitted to the 1905 Vienna Congr. in opposition to the "American school of nomenclature". – *Note*: In TL-2, the exact same title is also treated under the final signatory, Roland Thaxter, and given a different abbreviation and number (TL-2/6, nr. 14.014).
+- (2) Contributed a precursory paper (1895) to B.L. Robinson, *Flora of the Galapagos*... 1902 (TL-2/4, nr. 9289).
+- (3) Provided the determinations for a treatment of the Compositae in C.F. Millspaugh, *Contribution* \[*III*\] *to the flora of Yucatan*... 1898 (TL-2/3, nr. 6069).
+- (4) One of nine signatories to O. Ames et al., *Prop. changem. lois nom.*... 1904 (TL-2/ Suppl. 1, nr. 19.149), proposals submitted to the 1905 Vienna Congr. in opposition to the "American school of nomenclature". – *Note*: In TL-2, the exact same title is also treated under the final signatory, Roland Thaxter, and given a different abbreviation and number (TL-2/6, nr. 14.014).
 
 ### Publications
 

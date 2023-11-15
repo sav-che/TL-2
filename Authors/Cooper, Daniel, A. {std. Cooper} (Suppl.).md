@@ -27,6 +27,6 @@ Backer p. 140; Barnhart 1: 377 (d. 24 Nov 1842, Leeds, Yorkshire); BB p. 72 (mai
 
 #### Composite works
 
-(1) *The microscopic journal*, edited by D. Cooper, 2 vols., 1841-1843. – BM 1: 379.
-(2) Botanical Society of London, *Catalogue of the British natural Orders and genera*... arranged under the superintendance of D. Cooper, London 1838, see BM 1: 208.
+- (1) *The microscopic journal*, edited by D. Cooper, 2 vols., 1841-1843. – BM 1: 379.
+- (2) Botanical Society of London, *Catalogue of the British natural Orders and genera*... arranged under the superintendance of D. Cooper, London 1838, see BM 1: 208.
 

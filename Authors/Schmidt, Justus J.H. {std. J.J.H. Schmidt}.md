@@ -24,9 +24,9 @@ Biol.-Dokum. 16: 8148; Christiansen p. 319 (index, many entries!); LS 38952; Urb
 
 #### Note
 
-(1) *Beitrag zu einem Standortsverzeichniss der Phanerogamen des südöstlichen Holsteins*, Schr. naturw. Ver. Schlew.-Holst. 3(1): 55-101. 1878. For a note on this publication see P. Prahl 1890; *Neues aus der Flora Holsteins*, ib. 11: 87-98. 1898.
-(2) *Flüchtige Blicke in die Flora Islands*, Bot. Monatschr. 13: 41-43. Mar, 69-72. Mai, 120-123. Aug-Sep, 152-154. Nov, 163-165. Dec 1895.
-(3) *Zur Flora von Röm*, Bot. Monatschr. 17: 7-10 Jan, 25-29 Feb-Mar 1899.
+- (1) *Beitrag zu einem Standortsverzeichniss der Phanerogamen des südöstlichen Holsteins*, Schr. naturw. Ver. Schlew.-Holst. 3(1): 55-101. 1878. For a note on this publication see P. Prahl 1890; *Neues aus der Flora Holsteins*, ib. 11: 87-98. 1898.
+- (2) *Flüchtige Blicke in die Flora Islands*, Bot. Monatschr. 13: 41-43. Mar, 69-72. Mai, 120-123. Aug-Sep, 152-154. Nov, 163-165. Dec 1895.
+- (3) *Zur Flora von Röm*, Bot. Monatschr. 17: 7-10 Jan, 25-29 Feb-Mar 1899.
 
 ### Publications
 

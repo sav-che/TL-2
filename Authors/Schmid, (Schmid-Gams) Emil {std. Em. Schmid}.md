@@ -21,8 +21,8 @@ AG 12(3): 201; Barnhart 3: 230 (b. 18 Feb 1891); BFM 2076-2078, 2128; Biol.-Doku
 
 #### Composite works
 
-(1) Collaborator, G. Hegi, *Ill. Fl. Mitt. Eur.* 4(1) and 4(2), see TL-2/2571.
-(2) Edited and revised C. Schröter, *Flora des Südens*, ed. 2, 1956; see C. Schröter.
+- (1) Collaborator, G. Hegi, *Ill. Fl. Mitt. Eur.* 4(1) and 4(2), see TL-2/2571.
+- (2) Edited and revised C. Schröter, *Flora des Südens*, ed. 2, 1956; see C. Schröter.
 
 #### Festschrift
 

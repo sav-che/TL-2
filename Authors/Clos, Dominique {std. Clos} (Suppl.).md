@@ -32,7 +32,7 @@ Barnhart 1: 359 (b. 25 Mai 1821, Sorèze, Tarn, d. 19 Aug 1908 ib.); BJI 1: 11; 
 
 #### Composite works
 
-(1) Claude Gay, *Historia física y política de Chile*... 1845-1854, Clos, D., collaborator: see TL-2/1: 513 and for C. Gay TL-2/1: 925-926.
+- (1) Claude Gay, *Historia física y política de Chile*... 1845-1854, Clos, D., collaborator: see TL-2/1: 513 and for C. Gay TL-2/1: 925-926.
 
 ### Publications
 

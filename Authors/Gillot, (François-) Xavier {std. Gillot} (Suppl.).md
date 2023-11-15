@@ -37,7 +37,7 @@ AG 6(1): 76, 6(2): 45; APN p. 228; Barnhart 2: 50, 297; BL 2: 115, 140, 195, 196
 
 #### Composite works
 
-(1) Collaborator with Q. Ormezzano & Emile Chateau, *Florule raisonée du Brionnais*... 1908 (TL-2/3, nr. 7106).
+- (1) Collaborator with Q. Ormezzano & Emile Chateau, *Florule raisonée du Brionnais*... 1908 (TL-2/3, nr. 7106).
 
 ### Publications
 

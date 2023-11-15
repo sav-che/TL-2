@@ -8,7 +8,8 @@ Stuckert, Teodoro \[Theodor\] Juan Vicente (1852-1932), Swiss botanist and pharm
 
 #### Herbarium and types
 
-[[Collection CORD|CORD]]; other material at [[Collection B|B]] (mainly destr.), [[Collection BUC|BUC]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]]. *Exsiccatae*: *Herbarium argentinum* at e.g. [[Collection LIL|LIL]], [[Collection SI|SI]]. Grasses, Cyperaceae and Juncaceae in the series of exsiccatae edited by A. Kneucker and distributed by O. Weigel. – *Letters* at [[Collection G|G]].
+[[Collection CORD|CORD]]; other material at [[Collection B|B]] (mainly destr.), [[Collection BUC|BUC]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]].
+*Exsiccatae*: *Herbarium argentinum* at e.g. [[Collection LIL|LIL]], [[Collection SI|SI]]. Grasses, Cyperaceae and Juncaceae in the series of exsiccatae edited by A. Kneucker and distributed by O. Weigel. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

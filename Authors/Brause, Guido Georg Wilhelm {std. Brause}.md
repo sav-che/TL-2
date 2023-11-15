@@ -21,11 +21,11 @@ Barnhart 1: 244; BJI 2: 18; IF suppl. 1: 76, 2: 34, 3: 203; Kew 1: 347; KR p. 10
 
 #### Composite works
 
-(1) *Polypodiaceae*, *in* R. Pilger, *Plantae Uleanae* novae vel minus cognitae, Notizbl. Kön. bot. Gart. Mus. Berlin-Dahlem 6(54): 41. 20 Mar 1914.
-(2) *Cyatheaceae, Polypodiaceae, Isoëtaceae*, *in* I. Urban, *Symb. Ant.* 7: 151-156, 156-162. 15 Dec 1911 (with Urban). – See Hedwigia 52(1): (33). 1912 for authorship.
-(3) *Pteridophyta*, *in* J. Mildbraed, *Botanik*, Wiss. Erg. Deut. Zentral-Afr. Exp. 1907-1908 2: 1-40. 1910 (with G. Hieronymous, see Hedwigia 50(4) (Beibl.): (158). 30 Dec 1910.
-(4) *Die Farnpflanzen* (Pteridophyta), *in* G.Lindau, *Kryptogamenflora für Anfänger* 6(2): 1-108. Berlin (J. Springer) 1914; see rev. G.H. \[Hieronymous\], Hedwigia 55(1) (Beibl.): (29). 12 Mai 1914.
-(5) *Pteridophyta*, *in* W. Lorch, *Die Torf- und Lebermoose* 1914, see TL-2/4982.
+- (1) *Polypodiaceae*, *in* R. Pilger, *Plantae Uleanae* novae vel minus cognitae, Notizbl. Kön. bot. Gart. Mus. Berlin-Dahlem 6(54): 41. 20 Mar 1914.
+- (2) *Cyatheaceae, Polypodiaceae, Isoëtaceae*, *in* I. Urban, *Symb. Ant.* 7: 151-156, 156-162. 15 Dec 1911 (with Urban). – See Hedwigia 52(1): (33). 1912 for authorship.
+- (3) *Pteridophyta*, *in* J. Mildbraed, *Botanik*, Wiss. Erg. Deut. Zentral-Afr. Exp. 1907-1908 2: 1-40. 1910 (with G. Hieronymous, see Hedwigia 50(4) (Beibl.): (158). 30 Dec 1910.
+- (4) *Die Farnpflanzen* (Pteridophyta), *in* G.Lindau, *Kryptogamenflora für Anfänger* 6(2): 1-108. Berlin (J. Springer) 1914; see rev. G.H. \[Hieronymous\], Hedwigia 55(1) (Beibl.): (29). 12 Mai 1914.
+- (5) *Pteridophyta*, *in* W. Lorch, *Die Torf- und Lebermoose* 1914, see TL-2/4982.
 
 ### Publications
 

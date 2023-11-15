@@ -10,7 +10,7 @@
 
 #### Note
 
-(1) In 1902, Gran coined the term "bloom" for the appearance of phytoplankton species in the sea in the spring. (2) Gran, together with T(h)orbjørn Gaarder (1885-1970), introduced the oxygen method of measuring phytoplankton production.
+- (1) In 1902, Gran coined the term "bloom" for the appearance of phytoplankton species in the sea in the spring. (2) Gran, together with T(h)orbjørn Gaarder (1885-1970), introduced the oxygen method of measuring phytoplankton production.
 
 #### Herbarium and types
 
@@ -40,9 +40,9 @@ APN p. 239 (as "Haaken"); Barnhart 2: 74 (as "Haakon"); BM 2: 705; BN p. 174; Bo
 #### Composite works
 
 Contributed to:
-(1) E. Vanhöffen \[et al.\], *Bot. Erg. Grönlandexped., Krypt.*... 1897 (TL-2/6, nr. 15.919).
-(2) Karl Andreas Heinrich Brandt (1854-1913) & Carl Apstein (1862-1950), Nordisches Plankton,... \[8. Bd.\] *Botanischer Teil*. Heft 19,... 1908: \[1\]-146, *pl. Copies*: FH, NY (n.v.); Reprinted... Amsterdam (A. Asher),... 1964: *Copy*: FH. – *Note*: Gran contributed "Diatomeen".
-(3) Sir John Murray (1841-1914) & Dr. Johan Hjort (1869-1948), *The Depths of the Ocean* ... 1912 (see also portr. of Gran on p. 105, fig. 92). – *Note*: Norwegian edition entitled *Atlanterhavet* fra overflaten til havdypets mørke efter undersøkelser med dampskibet "Michael Sars", Kristiania (H. Aschehoug & Co.) 1912.
+- (1) E. Vanhöffen \[et al.\], *Bot. Erg. Grönlandexped., Krypt.*... 1897 (TL-2/6, nr. 15.919).
+- (2) Karl Andreas Heinrich Brandt (1854-1913) & Carl Apstein (1862-1950), Nordisches Plankton,... \[8. Bd.\] *Botanischer Teil*. Heft 19,... 1908: \[1\]-146, *pl. Copies*: FH, NY (n.v.); Reprinted... Amsterdam (A. Asher),... 1964: *Copy*: FH. – *Note*: Gran contributed "Diatomeen".
+- (3) Sir John Murray (1841-1914) & Dr. Johan Hjort (1869-1948), *The Depths of the Ocean* ... 1912 (see also portr. of Gran on p. 105, fig. 92). – *Note*: Norwegian edition entitled *Atlanterhavet* fra overflaten til havdypets mørke efter undersøkelser med dampskibet "Michael Sars", Kristiania (H. Aschehoug & Co.) 1912.
 
 ### Publications
 

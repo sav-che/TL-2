@@ -24,10 +24,10 @@ Backer p. 298; Barnhart 2: 272; BJI 1: 30, 2: 88; BM 2: 960; Bossert p. 205; CSP
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzen familien*, ed. 2, *Diatomeae*, 2: \[105\]-303. 1928.
-(2) With H. Schenk (q.v.) *Vegetationsbilder*, Jena 1-16, 1903-1924.
-(3) Strasburger et al., *Lehrbuch der Botanik für Hochschulen, Phanerogamen*, ed. 6(1904) – ed. 19(1936); also in corresponding English transl.: *A text-book of botany*, ed. 3 (1908, based on German ed. 8) – ed. 6 (1930, based on ed. 17).
-(4) Lehrbuch der Pharmakognosie, ed. 1(1903), ed. 2, with F. Oltmans (1909); ed. 3, with W. Benecke (1920); ed. 4, with id. (1927); ed. 5, with U. Weber (1937).
+- (1) EP, *Die natürlichen Pflanzen familien*, ed. 2, *Diatomeae*, 2: \[105\]-303. 1928.
+- (2) With H. Schenk (q.v.) *Vegetationsbilder*, Jena 1-16, 1903-1924.
+- (3) Strasburger et al., *Lehrbuch der Botanik für Hochschulen, Phanerogamen*, ed. 6(1904) – ed. 19(1936); also in corresponding English transl.: *A text-book of botany*, ed. 3 (1908, based on German ed. 8) – ed. 6 (1930, based on ed. 17).
+- (4) Lehrbuch der Pharmakognosie, ed. 1(1903), ed. 2, with F. Oltmans (1909); ed. 3, with W. Benecke (1920); ed. 4, with id. (1927); ed. 5, with U. Weber (1937).
 
 #### Festschrift
 

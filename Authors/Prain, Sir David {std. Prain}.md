@@ -45,12 +45,12 @@ Backer p. 462; Barnhart 3: 106; BJI 1: 46, 2: 139; BL 1: 63, 93, 94, 96, 99, 313
 
 #### Composite works
 
-(1) Editor, Hooker's *Icones Plantarum* 29 (1906)-30 (1944), *pl. 2801-3000.*
-(2) Editor Curtis's *Botanical magazine* 133 (1907)-146 (1920), *pl. nos. 8112-8873.*
-(3) *Flora Capensis, Loganiaceae*, with H.S. Cummins, 4, sect. 1(6): 1036-1055. Feb 1909; *Euphorbiaceae*, with N.E. Brown & J. Hutchinson, 5, sect. 2(2): 216-384. Oct 1915.
-(4) *Flora tropical Africa, Cycadaceae*, 6, sect. 2(2): 344-354. Nov 1917; edited volumes 6(2) and 9. Co-author *Euphorbiaceae*, 6, Sect. 1(3): 441-576. Oct. 1911.
-(5) *Flore générale Indochine, Dioscoreaceae*, with I.H. Burkill, 6(5): 698-720. Feb 1934, 6(6): 721-745. Nov 1934.
-(6) *Index kewensis*, editor (in his capacity of director of Kew) of suppl. 3-5, 1908-1921, see B.D. Jackson.
+- (1) Editor, Hooker's *Icones Plantarum* 29 (1906)-30 (1944), *pl. 2801-3000.*
+- (2) Editor Curtis's *Botanical magazine* 133 (1907)-146 (1920), *pl. nos. 8112-8873.*
+- (3) *Flora Capensis, Loganiaceae*, with H.S. Cummins, 4, sect. 1(6): 1036-1055. Feb 1909; *Euphorbiaceae*, with N.E. Brown & J. Hutchinson, 5, sect. 2(2): 216-384. Oct 1915.
+- (4) *Flora tropical Africa, Cycadaceae*, 6, sect. 2(2): 344-354. Nov 1917; edited volumes 6(2) and 9. Co-author *Euphorbiaceae*, 6, Sect. 1(3): 441-576. Oct. 1911.
+- (5) *Flore générale Indochine, Dioscoreaceae*, with I.H. Burkill, 6(5): 698-720. Feb 1934, 6(6): 721-745. Nov 1934.
+- (6) *Index kewensis*, editor (in his capacity of director of Kew) of suppl. 3-5, 1908-1921, see B.D. Jackson.
 
 #### Eponymy
 

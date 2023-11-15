@@ -67,13 +67,13 @@ AG 3: 576-577, 12(3): 477; Backer p. 661; Barnhart 3: 249 (b. 16/29 Dec 1836, d.
 
 #### Composite works
 
-(1) Author of text, *Reliquiae Kotschyanae* 1868, see TL-2/3895. – *Copies*: B, BR, G, HH, M, MO, NY, PH, USDA. – The plates are uncol. liths. of drawings by Liepoldt, W.A. Meyn, Schweinfurth and Jos. Seboth. – The book is announced as "eben erschienen" in Bot. Zeit. 18 Dec 1868, which would put its date approximately at 1 Nov-15 Dec 1868. – Extensive review: P. Ascherson, Bot. Zeit. 27: 177-180. 12 Mar 1869.
-(2) *Phanerogamen, in* L. v. Höhnel, *Rudolph-Stephanie-See* 1891-1892, p. 852-868, see TL-2/2867 and below.
-(3) *Samm. Conserv. Phanerog., in* G.B. Neumayer, *Anl. wiss. Beobacht. Reisen* 1875, see TL-2/6761 (ed. 2: 1888, ed. 3, 1906) and below *Récolte cons. pl.*
-(4) Introduction to Ludwig Keimer, *Die Gartenpflanzen im alten Ägypten* ägyptologische Studien, Berlin 1924, repr. Hildesheim (Georg Olms...) 1967, p. \[i\]-xv, \[1\]-187.
-(5) *Vegetationstypen aus der Kolonie Eritraea*. Der Text nach den Aufzeichnungen... Schweinfurth's bearbeitet von L. Diels, *in* Karsten & Schenk, *Vegetationsbilder* 2, *6 pl*. and vi, 11 p. text, 1905.
-(6) Various identifications, *in* G. Rohlfs, *Quer d. Afrika* 1871-1875, see TL-2/9454.
-(7) Identifications, P.T. Range, *Fl. Isthmus-Wüste* 1921, see TL-2/8628.
+- (1) Author of text, *Reliquiae Kotschyanae* 1868, see TL-2/3895. – *Copies*: B, BR, G, HH, M, MO, NY, PH, USDA. – The plates are uncol. liths. of drawings by Liepoldt, W.A. Meyn, Schweinfurth and Jos. Seboth. – The book is announced as "eben erschienen" in Bot. Zeit. 18 Dec 1868, which would put its date approximately at 1 Nov-15 Dec 1868. – Extensive review: P. Ascherson, Bot. Zeit. 27: 177-180. 12 Mar 1869.
+- (2) *Phanerogamen, in* L. v. Höhnel, *Rudolph-Stephanie-See* 1891-1892, p. 852-868, see TL-2/2867 and below.
+- (3) *Samm. Conserv. Phanerog., in* G.B. Neumayer, *Anl. wiss. Beobacht. Reisen* 1875, see TL-2/6761 (ed. 2: 1888, ed. 3, 1906) and below *Récolte cons. pl.*
+- (4) Introduction to Ludwig Keimer, *Die Gartenpflanzen im alten Ägypten* ägyptologische Studien, Berlin 1924, repr. Hildesheim (Georg Olms...) 1967, p. \[i\]-xv, \[1\]-187.
+- (5) *Vegetationstypen aus der Kolonie Eritraea*. Der Text nach den Aufzeichnungen... Schweinfurth's bearbeitet von L. Diels, *in* Karsten & Schenk, *Vegetationsbilder* 2, *6 pl*. and vi, 11 p. text, 1905.
+- (6) Various identifications, *in* G. Rohlfs, *Quer d. Afrika* 1871-1875, see TL-2/9454.
+- (7) Identifications, P.T. Range, *Fl. Isthmus-Wüste* 1921, see TL-2/8628.
 
 #### Contemporary notes on travels
 

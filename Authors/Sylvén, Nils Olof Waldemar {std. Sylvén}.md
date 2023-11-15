@@ -8,7 +8,8 @@ Sylvén, Nils Olof Waldemar (1880-1969), Swedish botanist; Dr. phil. Uppsala 190
 
 #### Herbarium and types
 
-[[Collection LD|LD]] (20.000); further material at [[Collection E|E]], [[Collection GB|GB]], [[Collection NMW|NMW]]. – *Exsiccatae*: with Karl Erik Torsten Lagerberg (1882-1970), *Skogens skadesvampar*, fasc. 1-2, nos. 1-50, 1912-1914. Stockholm; set at [[Collection S|S]].
+[[Collection LD|LD]] (20.000); further material at [[Collection E|E]], [[Collection GB|GB]], [[Collection NMW|NMW]].
+*Exsiccatae*: with Karl Erik Torsten Lagerberg (1882-1970), *Skogens skadesvampar*, fasc. 1-2, nos. 1-50, 1912-1914. Stockholm; set at [[Collection S|S]].
 
 #### Bibliography and biography
 
@@ -29,9 +30,9 @@ Barnhart 3: 353 (b. 17 Sep 1880); BFM 2448; BJI 2: 175; BL 2: 721 \[index\]; BM 
 
 #### Composite works
 
-(1) *Jämförande öfversikt af de Svenska dikotyledonernas första*... in J.R. Sernander et al., Botaniska Studier, 1906 (no. 18) (Festskrift F.R. Kjellman), p. \[127\]-140.
-(2) Editor of *Botaniska Notiser* 1929-1937.
-(3) *Stockholmstraktens växter*... Förteckning över fanerogamer och kärlkryptogamer... utgiven av Botaniska Sällskapet i Stockholm genom Gunnar Anderson \[1865-1928\], Johan Berggren \[1846-1929\], Johan Wilhelm Hamner \[1870-1950\], Govert Indebetou \[1875-1955\] och Nils Sylvén, p. \[i\]-lxi, \[1\]-217. Stockholm (P.A. Norstedt & Soners förlag) 1914. *Copy*: LD. – A new edition (with different editors) came out in 1937.
+- (1) *Jämförande öfversikt af de Svenska dikotyledonernas första*... in J.R. Sernander et al., Botaniska Studier, 1906 (no. 18) (Festskrift F.R. Kjellman), p. \[127\]-140.
+- (2) Editor of *Botaniska Notiser* 1929-1937.
+- (3) *Stockholmstraktens växter*... Förteckning över fanerogamer och kärlkryptogamer... utgiven av Botaniska Sällskapet i Stockholm genom Gunnar Anderson \[1865-1928\], Johan Berggren \[1846-1929\], Johan Wilhelm Hamner \[1870-1950\], Govert Indebetou \[1875-1955\] och Nils Sylvén, p. \[i\]-lxi, \[1\]-217. Stockholm (P.A. Norstedt & Soners förlag) 1914. *Copy*: LD. – A new edition (with different editors) came out in 1937.
 
 #### Note
 

@@ -34,7 +34,7 @@ Barnhart 1: 526; Biol.-Dokum. 5: 65.051-65.057; BM 2: 556, 6: 313; Bossert p. 12
 
 #### Composite works
 
-(1) First (not co-) author with M. Woronin, *Zwei Schleimpilz*.... 1873, see TL-2/7, nr. 18.306.
+- (1) First (not co-) author with M. Woronin, *Zwei Schleimpilz*.... 1873, see TL-2/7, nr. 18.306.
 
 ### Publications
 

@@ -21,8 +21,8 @@ AG 12(2): 513; BL 2: 111, 136, 680; BM 3: 1076; Bossert p. 231; CSP 3: 919-921, 
 
 #### Composite works
 
-(1) edited *Revue horticole*, années 1857-1858.
-(2) *Botanique*, in Déribier-du-Chatelet, J. B., *Dictionnaire statistique*... *du Cantal* 1: 453-510. 1852 (see BL 2: 136).
+- (1) edited *Revue horticole*, années 1857-1858.
+- (2) *Botanique*, in Déribier-du-Chatelet, J. B., *Dictionnaire statistique*... *du Cantal* 1: 453-510. 1852 (see BL 2: 136).
 
 #### Note
 

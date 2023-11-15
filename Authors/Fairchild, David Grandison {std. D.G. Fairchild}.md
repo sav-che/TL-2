@@ -62,13 +62,13 @@ Amer. Men Sci. ed. 8: 745; Barnhart 1: 524; Biol.-Dokum. 5: 64.908; BM 6: 312; B
 
 #### Outside our period
 
-(1) *Garden islands of the Great East*. Collecting seeds from the Philippines and Netherlands India in the junk "Chêng Ho", New York (Charles Scribner's Sons): xv, 239 p. 1943.
-(2) *The world grows round my door*. The story of Kampong, a home on the edge of the tropics, New York (Charles Scribner's Sons), London (id.), xiii, 347 p. 1947.
+- (1) *Garden islands of the Great East*. Collecting seeds from the Philippines and Netherlands India in the junk "Chêng Ho", New York (Charles Scribner's Sons): xv, 239 p. 1943.
+- (2) *The world grows round my door*. The story of Kampong, a home on the edge of the tropics, New York (Charles Scribner's Sons), London (id.), xiii, 347 p. 1947.
 
 #### Composite works
 
-(1) Introd. (p. \[1\]-3) *in* J.F.C. Rock, The *Chaulmoogra tree* and some related species. U.S.D.A. Bull. nr. 1057: \[1\]-29, *pl. 1-16.* 1922.
-(2) Principal author of articles in the series *Occasional paper* (*Fairchild Tropical Garden*) ... Coconut Grove, Florida \[1938-1950\].
+- (1) Introd. (p. \[1\]-3) *in* J.F.C. Rock, The *Chaulmoogra tree* and some related species. U.S.D.A. Bull. nr. 1057: \[1\]-29, *pl. 1-16.* 1922.
+- (2) Principal author of articles in the series *Occasional paper* (*Fairchild Tropical Garden*) ... Coconut Grove, Florida \[1938-1950\].
 
 ### Publications
 

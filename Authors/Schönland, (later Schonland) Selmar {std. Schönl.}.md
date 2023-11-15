@@ -33,12 +33,12 @@ Backer p. 519; Barnhart 3: 237 (b. 15 Aug 1860, d. Mai \[err.\] 1940); BJI 1: 52
 #### Composite works
 
 Contributed to EP, *Nat. Pflanzenfam.*:
-(1) *Campanulaceae*, 4(5): 40-48. Jun 1889, 49-70. Sep 1889.
-(2) *Candolleaceae*, 4(5): 79-80. Sep 1889, 81-84. Feb 1890.
-(3) *Crassulaceae*, 3(2a): 23-38. Dec 1890.
-(4) *Commelinaceae*, 2(4): 60-69. 21 Feb 1888.
-(5) *Goodeniaceae*, 4(5): 70-79. Sep 1889.
-(6) *Pontederiaceae*, 2(4): 70-75. 21 Feb 1888.
+- (1) *Campanulaceae*, 4(5): 40-48. Jun 1889, 49-70. Sep 1889.
+- (2) *Candolleaceae*, 4(5): 79-80. Sep 1889, 81-84. Feb 1890.
+- (3) *Crassulaceae*, 3(2a): 23-38. Dec 1890.
+- (4) *Commelinaceae*, 2(4): 60-69. 21 Feb 1888.
+- (5) *Goodeniaceae*, 4(5): 70-79. Sep 1889.
+- (6) *Pontederiaceae*, 2(4): 70-75. 21 Feb 1888.
 
 #### Eponymy
 

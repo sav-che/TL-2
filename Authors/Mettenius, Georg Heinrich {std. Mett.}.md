@@ -36,9 +36,9 @@ ADB 21: 523-524; AG 2(2): 9; Backer p. 368; Barnhart 2: 481; BM 3: 1293; Bossert
 
 #### Composite works
 
-(1)*Cryptogamae vasculares*, in Fenzl, *Reise Novara*, see TL-2/1: 1764.
-(2) *Filices* and *Lycopodiaceae-Equisetaceae*, in Triana et Planchon, *Prodr. Fl. novogranat. 2*: 275-353. 1864, 2: 391-396. 1865 (Ann. Sci. nat. Bot. ser. 5. 2(4): 193-271. 1864, 3: 306-311. 1865).
-(3) *Filicinae*, in A. Kanitz, *Pl. Tinn.* 59-60. 1868 (TL-2/3507).
+- (1) *Cryptogamae vasculares*, in Fenzl, *Reise Novara*, see TL-2/1: 1764.
+- (2) *Filices* and *Lycopodiaceae-Equisetaceae*, in Triana et Planchon, *Prodr. Fl. novogranat. 2*: 275-353. 1864, 2: 391-396. 1865 (Ann. Sci. nat. Bot. ser. 5. 2(4): 193-271. 1864, 3: 306-311. 1865).
+- (3) *Filicinae*, in A. Kanitz, *Pl. Tinn.* 59-60. 1868 (TL-2/3507).
 
 #### Note
 

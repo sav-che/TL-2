@@ -42,9 +42,9 @@ Ainsworth p. 121, 274, 283; Backer p. 376; Barnhart 2: 501; BM 3: 1330-1331, 7: 
 
 #### Composite works
 
-(1)*Botanische Zeitung*, co-editor vols. 1-29, 1843-1871. See W. Junk, Rara 1: 19-20. 1900-1913 for collation.
-(2) *De Palmarum structura* in Martius, C. F. P. von, *Gen. Sp. Palm.* lii p., German transl. in *Verm. Schr.* 129-185, *1 pl*. 1845.
-(3) *De structura caudicis filicum arborearum*, in Mart., *Icon. pl. crypt.* 40-61, *pl. 31-36.* 1834. See TL-2/5526.
+- (1) *Botanische Zeitung*, co-editor vols. 1-29, 1843-1871. See W. Junk, Rara 1: 19-20. 1900-1913 for collation.
+- (2) *De Palmarum structura* in Martius, C. F. P. von, *Gen. Sp. Palm.* lii p., German transl. in *Verm. Schr.* 129-185, *1 pl*. 1845.
+- (3) *De structura caudicis filicum arborearum*, in Mart., *Icon. pl. crypt.* 40-61, *pl. 31-36.* 1834. See TL-2/5526.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Carleton, Mark Alfred (1866-1925), American mycologist and phytopathologist.
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]] and [[Collection US|US]], for other material see IH. – Exsiccatae: *Uredineae Americanae exsiccatae* (1 fasc., nos. 1-50, Jan 1894, Manhattan, Kansas). Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection SI|SI]], [[Collection WIS|WIS]].
+[[Collection BPI|BPI]] and [[Collection US|US]], for other material see IH.
+*Exsiccatae*: *Uredineae Americanae exsiccatae* (1 fasc., nos. 1-50, Jan 1894, Manhattan, Kansas). Sets at [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection SI|SI]], [[Collection WIS|WIS]].
 *Ref*.: IH 2: 116. 1954.
 - Stevenson, Beih. Nova Hedwigia 36: 78-79. 1971.
 

@@ -19,8 +19,8 @@ Barnhart 2: 322; BL 2: 475, 510, 511, 514, 577; BM 2: 1028; Bossert p. 220; CSP 
 
 #### Composite works
 
-(1) Warming, E., *Valerianaceae, Symb. Fl. Bras. centr*. 27: 152-153. 10 Mai 1883.
-(2) *C. J. och C. Hartmans handbok i Skandinaviens flora*, ed. 12 and following, see under C. Hartman (2426).
+- (1) Warming, E., *Valerianaceae, Symb. Fl. Bras. centr*. 27: 152-153. 10 Mai 1883.
+- (2) *C. J. och C. Hartmans handbok i Skandinaviens flora*, ed. 12 and following, see under C. Hartman (2426).
 
 #### Eponymy
 

@@ -24,8 +24,8 @@ Backer p. 663; BL 2: 30, 32, 33, 39, 43, 647; BM 5: 2238; Bret. p. 873; CSP 7: 5
 
 #### Composite works
 
-(1) With C.J.E. Morren, *Ind. bibl. hort. belg.* 1887, see TL-2/6346.
-(2) With idem, *Mémorial du naturaliste et du cultivateur*, Liège 1872, x, 146 p., Oct.
+- (1) With C.J.E. Morren, *Ind. bibl. hort. belg.* 1887, see TL-2/6346.
+- (2) With idem, *Mémorial du naturaliste et du cultivateur*, Liège 1872, x, 146 p., Oct.
 
 #### Note
 

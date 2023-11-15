@@ -37,12 +37,12 @@ Father of G.S. West (1876-1919), see above, and Wiliam West (1875-1901, studied 
 
 #### Composite works
 
-(1) *Freshwater algae, in* F.A. Lees \[1847-1921\], *Fl. West. Yorkshire* 1888, p. 745-777. – Provides also records of bryophytes. – Flora issued also as Trans. Yorkshire Natural. Union, Bot. Ser. vol. 2. 1888, TL-2/4296.
-(2) *Freshwater algae, in* W.P. Hiern et al., *Cat. afr. pl.* 2(2): 329-381. Mar 1901. – See TL-2/2747.
-(3) With G.S. West, *Freshwater algae, in* Rep. Sci. Invest. Brit. Antarct. Exp. 1907-1909, 1(7): 263-298, *3 pl*. 1911.
-(4) With G.S. West *Chlorophyceae, in* Johs. Schmidt, *Flora of Koh Chang* 4: \[73\]-102. Aug 1901, Bot. Tidsskr. 24: 157-186, *pl. 2-4.* 1901, see TL-2/10.891.
-(5) *Freshwater algae* with a supplement of marine diatoms, *in* Clare Island Survey, Proc. R. Irish Acad. 31(16): 1-62, *pl. 1-2.* 1912.
-(6) *Freshwater algae, in* L.S. Gibbs, *Contr. fl. Mount Kinabalu*, J. Linn. Soc, Bot. 42: 216-239. 14 Jul 1914.
+- (1) *Freshwater algae, in* F.A. Lees \[1847-1921\], *Fl. West. Yorkshire* 1888, p. 745-777. – Provides also records of bryophytes. – Flora issued also as Trans. Yorkshire Natural. Union, Bot. Ser. vol. 2. 1888, TL-2/4296.
+- (2) *Freshwater algae, in* W.P. Hiern et al., *Cat. afr. pl.* 2(2): 329-381. Mar 1901. – See TL-2/2747.
+- (3) With G.S. West, *Freshwater algae, in* Rep. Sci. Invest. Brit. Antarct. Exp. 1907-1909, 1(7): 263-298, *3 pl*. 1911.
+- (4) With G.S. West *Chlorophyceae, in* Johs. Schmidt, *Flora of Koh Chang* 4: \[73\]-102. Aug 1901, Bot. Tidsskr. 24: 157-186, *pl. 2-4.* 1901, see TL-2/10.891.
+- (5) *Freshwater algae* with a supplement of marine diatoms, *in* Clare Island Survey, Proc. R. Irish Acad. 31(16): 1-62, *pl. 1-2.* 1912.
+- (6) *Freshwater algae, in* L.S. Gibbs, *Contr. fl. Mount Kinabalu*, J. Linn. Soc, Bot. 42: 216-239. 14 Jul 1914.
 
 #### Eponymy
 

@@ -96,8 +96,8 @@ G. Becker et al., Tournefort, Paris 1957, 323 p. (most aspects; no bibl.); for b
 
 #### Composite works
 
-(1) See P. Hermann, *Schola botanica* 1689, TL-2/2685. – The *Schola botanica* by Tournefort occupies p. 1-300; the *Paradisi baiavi prodromus* by Hermann p. 301-389. The "Edente in lucem S.W.A." may refer to William Sherard (see HU 382 and Jackson (1874)). *Copies*: BR, HU, NY, U.
-(2) For Tournefort's *Materia medica*, London 1708 and the *Traité de la matière medicale*, Paris 1717, see HU 419 and J.F. Bréchot & M. Guédès (1975).
+- (1) See P. Hermann, *Schola botanica* 1689, TL-2/2685. – The *Schola botanica* by Tournefort occupies p. 1-300; the *Paradisi baiavi prodromus* by Hermann p. 301-389. The "Edente in lucem S.W.A." may refer to William Sherard (see HU 382 and Jackson (1874)). *Copies*: BR, HU, NY, U.
+- (2) For Tournefort's *Materia medica*, London 1708 and the *Traité de la matière medicale*, Paris 1717, see HU 419 and J.F. Bréchot & M. Guédès (1975).
 
 #### Handwriting
 

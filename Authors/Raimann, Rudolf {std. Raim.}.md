@@ -22,7 +22,7 @@ Backer p. 659 (err. "German"); Barnhart 3: 124; BJI 1: 47; BM 4: 1640; DTS 1: 23
 #### Composite works
 
 EP, *Mat. Pflanzenfam.*:(1) Onagraceae, 3(7): 199-208. 24 Oct 1893, 209-223. 21 Nov 1893.
-(2) Hydrocaryaceae 7(7): 223-226. 21 Nov 1893.
+- (2) Hydrocaryaceae 7(7): 223-226. 21 Nov 1893.
 
 #### Eponymy
 

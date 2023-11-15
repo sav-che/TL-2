@@ -8,7 +8,8 @@ Pilát, Albert (1903-1974), Czechoslovakian mycologist; Dr. sci. Praha 1926 (wit
 
 #### Herbarium and types
 
-[[Collection PR|PR]] (phan.), [[Collection PRM|PRM]] (fungi); duplicates in e.g.; [[Collection B|B]], [[Collection BM|BM]], [[Collection DAO|DAO]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]]. – *Exsiccatae*: *Fungi carpatici lignicoli*, nos. 1-265.
+[[Collection PR|PR]] (phan.), [[Collection PRM|PRM]] (fungi); duplicates in e.g.; [[Collection B|B]], [[Collection BM|BM]], [[Collection DAO|DAO]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]].
+*Exsiccatae*: *Fungi carpatici lignicoli*, nos. 1-265.
 
 #### Bibliography and biography
 
@@ -44,7 +45,7 @@ Ceská Mycol. 7: 152-161. 1953 (1923-1953), 17: 170-173. 1963 (1954-1963), 22: 2
 
 #### Composite works
 
-(1) Founder and editor-in-chief of *Ceská Mykologie*. (2) *Gasteromycetes*, in *Flora CSR*, ser. B., vol. 1, 1958, 862 p.
+- (1) Founder and editor-in-chief of *Ceská Mykologie*. (2) *Gasteromycetes*, in *Flora CSR*, ser. B., vol. 1, 1958, 862 p.
 
 #### Eponymy
 

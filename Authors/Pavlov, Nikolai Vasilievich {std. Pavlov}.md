@@ -31,8 +31,8 @@ Barnhart 3: 57; BFM no. 1555; Hirsch p. 227; Hortus 3: 1201 (Pavlov); Kew 4: 252
 #### Composite works
 
 Komarov, Fl. URSS: (1) *Polygonaceae* (*Atraphaxis, Calligonum*), 5: 501-594. 22 Jun 1936.
-(2) *Cruciferae* (*Stroganovia*), 8: 524-535. 20 Mai 1939.
-(3) *Boraginaceae* (*Rochelia*), 19: 548-565. 5 Feb 1953.
+- (2) *Cruciferae* (*Stroganovia*), 8: 524-535. 20 Mai 1939.
+- (3) *Boraginaceae* (*Rochelia*), 19: 548-565. 5 Feb 1953.
 
 #### Handwriting
 

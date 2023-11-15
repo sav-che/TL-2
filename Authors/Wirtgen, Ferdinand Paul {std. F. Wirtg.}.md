@@ -10,7 +10,7 @@ Wirtgen, Ferdinand Paul (1848-1924), German (Prussian/Rheinland) pharmacist and 
 
 Main herbarium donated to Ver. preuss. Rheinl. Westfalen (now [[Collection BHU|BHU]]), ferns in [[Collection P|P]] (herb. Bonaparte); Musci to Haussknecht (now [[Collection JE|JE]]). – Further material in [[Collection BR|BR]], [[Collection E|E]], [[Collection GOET|GOET]], [[Collection FR|FR]] and [[Collection M|M]]. – Duplicate Pteridophytes were still offered for sale in Herbarium 73: 300. 1928.
 *Exsiccatae*: (1) *Pteridophyta exsiccata*, Lieferung 1-16, 1897-1915 (cont. W. Krieger), sets at [[Collection B|B]] (extant), [[Collection BHU|BHU]], [[Collection M|M]], [[Collection P|P]], [[Collection PH|PH]], [[Collection SI|SI]].
-(2) *Herbarium plantarum criticarum select. hybr. Florae Rhenanae* (edit. nov.), fasc. 1-6, nos. 1-300, ca. 1930-1931, published by H. Andres; collections by F. Wirtgen but also by P.W. Wirtgen. – Sets at [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]]. – For Heinrich Andres (1883-1970), see TL-2/1: 49. *Letters* at [[Collection G|G]].
+- (2) *Herbarium plantarum criticarum select. hybr. Florae Rhenanae* (edit. nov.), fasc. 1-6, nos. 1-300, ca. 1930-1931, published by H. Andres; collections by F. Wirtgen but also by P.W. Wirtgen. – Sets at [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]]. – For Heinrich Andres (1883-1970), see TL-2/1: 49. *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

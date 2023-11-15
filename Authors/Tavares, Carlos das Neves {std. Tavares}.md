@@ -32,6 +32,6 @@ Bossert p. 395 (b. 5 Mar 1914); GR p. 768, pl. \[27\], cat. p. 72; Hawksworth p.
 
 #### Note
 
-(1) Notices of publications in *Rev. bryol. lichénol*. 18: 96, 200. 1949, 20: 235, 242, 318. 1951, 21: 302, 308. 1952, 23: 239. 1954, 24: 407, 409. 1955, 25: 405, 411. 1956, 30: 303. 409, 412. 1966, 35: 435. 1968, 36: 395. 1969. – Important publ., also outside our period, e.g.: *Liquenes da Serra do Gerês*, Port. Act. Biol. B.3(1-2): 1-189. 1950 and *Jardim botanico da Facultade de Ciencias de Lisboa, Guia* 1967, 299 p.
-(2) *Codigo internacional de nomenclatura botânica*, Portuguese translation and notes by C.N. Tavares, Lisboa 1958, 54 p., ed. 2, Lisboa 1963, 78 p.
+- (1) Notices of publications in *Rev. bryol. lichénol*. 18: 96, 200. 1949, 20: 235, 242, 318. 1951, 21: 302, 308. 1952, 23: 239. 1954, 24: 407, 409. 1955, 25: 405, 411. 1956, 30: 303. 409, 412. 1966, 35: 435. 1968, 36: 395. 1969. – Important publ., also outside our period, e.g.: *Liquenes da Serra do Gerês*, Port. Act. Biol. B.3(1-2): 1-189. 1950 and *Jardim botanico da Facultade de Ciencias de Lisboa, Guia* 1967, 299 p.
+- (2) *Codigo internacional de nomenclatura botânica*, Portuguese translation and notes by C.N. Tavares, Lisboa 1958, 54 p., ed. 2, Lisboa 1963, 78 p.
 

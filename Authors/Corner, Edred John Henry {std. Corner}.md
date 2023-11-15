@@ -39,10 +39,12 @@ Mabberley, DJ. and K.L. Chang, eds., *Tropical botany*, Essays presented to E.J.
 
 #### Outside our period
 
-(1) *The life of plants*, London 1964, xii, 315 p., see Bot. Jahrb. 88(3)(Lit): 33-34. 1968.
-(2) Check-*list* of *Ficus* in *Asia* and *Australasia*, 1965, 186 p. (3) A *monograph* of the *Cantharelloid Fungi*, London 1966, 255 p., *5 pl*. – See Taxon 16(1): 15. 15 Feb 1967, and E. Müller, Bot. Jahrb. 87(Lit.): 23. 16 Aug 1967 (rev.). (4) *Ficus in the Solomon Islands*... 1967, 137 p.
-(5) A *monograph* of *Telephora* (Basidiomycetes), Lehre (J. Cramer) 1968, 110 p., *6 pl*. – ISBN 3-7682-5427-5.
-(6) *Boletus in Malaysia* 1972, viii, 263 p.
+- (1) *The life of plants*, London 1964, xii, 315 p., see Bot. Jahrb. 88(3)(Lit): 33-34. 1968.
+- (2) Check-*list* of *Ficus* in *Asia* and *Australasia*, 1965, 186 p.
+- (3) A *monograph* of the *Cantharelloid Fungi*, London 1966, 255 p., *5 pl*. – See Taxon 16(1): 15. 15 Feb 1967, and E. Müller, Bot. Jahrb. 87(Lit.): 23. 16 Aug 1967 (rev.).
+- (4) *Ficus in the Solomon Islands*... 1967, 137 p.
+- (5) A *monograph* of *Telephora* (Basidiomycetes), Lehre (J. Cramer) 1968, 110 p., *6 pl*. – ISBN 3-7682-5427-5.
+- (6) *Boletus in Malaysia* 1972, viii, 263 p.
 
 #### Handwriting
 

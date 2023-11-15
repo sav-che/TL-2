@@ -22,7 +22,7 @@ Barnhart 1: 312 (b. 3 Apr 1779, Pisa, d. 20 Jan 1859, Pisa); Morren ed. 10, p. 1
 
 #### Note
 
-(1) Handwritten text at Pisa: *Studi per una flora economica* \[ca. 1812-1818\], 642 p. and *Flora economica* in 4 volumes incl. Cryptogames (only vol. 1 still extant), id. at Pisa, see G. Arcangeli, Bull. Soc. bot. ital. 1903: 281-286.
+- (1) Handwritten text at Pisa: *Studi per una flora economica* \[ca. 1812-1818\], 642 p. and *Flora economica* in 4 volumes incl. Cryptogames (only vol. 1 still extant), id. at Pisa, see G. Arcangeli, Bull. Soc. bot. ital. 1903: 281-286.
 
 ### Publications
 

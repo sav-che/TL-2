@@ -35,8 +35,8 @@ Ainsworth p. 236, 320; Barnhart 3: 181 (b. 28 Jan 1831, d. 16 Jan 1907); BFM no.
 
 #### Composite works
 
-(1) Co-author, J.M.C. Lange, *Consp. fl. Groenland.* 3(1), 3(2) (1889, 1891), see TL-2/4185.
-(2) Identified fungi for J.M.C. Lange, *Normencl. Fl. danic.* 1887, TL-2/4189.
+- (1) Co-author, J.M.C. Lange, *Consp. fl. Groenland.* 3(1), 3(2) (1889, 1891), see TL-2/4185.
+- (2) Identified fungi for J.M.C. Lange, *Normencl. Fl. danic.* 1887, TL-2/4189.
 
 #### Eponymy
 

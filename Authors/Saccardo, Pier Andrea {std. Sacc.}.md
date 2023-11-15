@@ -8,7 +8,8 @@ Saccardo, Pier Andrea (1845-1920), Italian botanist (mycologist); Dr. phil. Padu
 
 #### Herbarium and types
 
-[[Collection PAD|PAD]] (69.000 fungi and further material); for a description and a catalogue of the Saccardo herbarium see G. Gola (1930). Saccardo's mycological library and manuscripts are also at [[Collection PAD|PAD]]. Some other types are at Portici and Napoli (see Ciferri, 1952). – *Exsiccatae*: *Mycotheca veneta* 1874-1881, nos. 1-1600: [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BUCM|BUCM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GE|GE]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SIENA|SIENA]], [[Collection STR|STR]], [[Collection TLA|TLA]], [[Collection TO|TO]], [[Collection W|W]], [[Collection WRSL|WRSL]]. (Index to cent. 1-9 *in* Michelia 1: 101-116. 1 Jun 1877, also by A. Vido in 1: 553-619. 1 Sep 1879. – *Bryotheca tarvisiana centuria*, Padova/Treviso 1864, nos. 1-100 at [[Collection W|W]]. – For an index see below, 1872, *Musci tarvisini*; see also Sayre (1971). – 44 letters to W.G. Farlow at [[Collection FH|FH]].
+[[Collection PAD|PAD]] (69.000 fungi and further material); for a description and a catalogue of the Saccardo herbarium see G. Gola (1930). Saccardo's mycological library and manuscripts are also at [[Collection PAD|PAD]]. Some other types are at Portici and Napoli (see Ciferri, 1952).
+*Exsiccatae*: *Mycotheca veneta* 1874-1881, nos. 1-1600: [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BUCM|BUCM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GE|GE]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SIENA|SIENA]], [[Collection STR|STR]], [[Collection TLA|TLA]], [[Collection TO|TO]], [[Collection W|W]], [[Collection WRSL|WRSL]]. (Index to cent. 1-9 *in* Michelia 1: 101-116. 1 Jun 1877, also by A. Vido in 1: 553-619. 1 Sep 1879. – *Bryotheca tarvisiana centuria*, Padova/Treviso 1864, nos. 1-100 at [[Collection W|W]]. – For an index see below, 1872, *Musci tarvisini*; see also Sayre (1971). – 44 letters to W.G. Farlow at [[Collection FH|FH]].
 
 #### Bibliography and biography
 
@@ -38,11 +39,11 @@ Ainsworth p. 320, 347 \[index\]; Backer p. 505; Barnhart 3: 197 (b. 23 Apr 1845,
 
 #### Composite works
 
-(1) With C. Roumeguère, q.v., *Reliquiae mycologicae libertianae* series 2-4, 1881-1884, see TL-2/9683.
-(2) With Albert Julius Otto Penzig (1856-1929), *Diagnoses fungorum novorum*, ser. 1-3, 1897-1902, see under O. Penzig, TL-2/7648.
-(3) With William Trelease (1857-1945) and Charles Horton Peck (1833-1917), *The fungi of Alaska, in* W. Trelease, ed., Harriman Alaska Expedition, *Alaska* volume 5, *Cryptogamic botany*, New York 1904 (reissued as Harriman Alaska Series volume 5, Washington 1910), p. 11-64, *pl. 2-7* (rev. Bot. Zeit. 16 Jun 1904).
-(4) With A. J.O. Penzig, *Icon. fung. jav.*, 2 vols., 1903, see under O. Penzig, TL-2/7655.
-(5) Editor, *Flora italica cryptogamica*.
+- (1) With C. Roumeguère, q.v., *Reliquiae mycologicae libertianae* series 2-4, 1881-1884, see TL-2/9683.
+- (2) With Albert Julius Otto Penzig (1856-1929), *Diagnoses fungorum novorum*, ser. 1-3, 1897-1902, see under O. Penzig, TL-2/7648.
+- (3) With William Trelease (1857-1945) and Charles Horton Peck (1833-1917), *The fungi of Alaska, in* W. Trelease, ed., Harriman Alaska Expedition, *Alaska* volume 5, *Cryptogamic botany*, New York 1904 (reissued as Harriman Alaska Series volume 5, Washington 1910), p. 11-64, *pl. 2-7* (rev. Bot. Zeit. 16 Jun 1904).
+- (4) With A. J.O. Penzig, *Icon. fung. jav.*, 2 vols., 1903, see under O. Penzig, TL-2/7655.
+- (5) Editor, *Flora italica cryptogamica*.
 
 #### Handwriting
 

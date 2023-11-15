@@ -22,10 +22,10 @@ Backer p. 90 ("burckii"); Barnhart 1: 282 (b. 4 Feb 1848, d. 24 Feb 1910); BJI 1
 
 #### Composite works
 
-(1) *Rapport sur son exploration dans les Padangsche Bovenlanden à la recherche des espèces qui produisent la Gutta-Percha*. Saigon 1886. Oct., 57 p.
-(2) *Wandelingen door den Botanischen tuin te Buitenzorg*. Batavia 1892. Oct. 87 p., map.
-(3) *Spaziergänge* durch den Botanischen Garten \[zu Buitenzorg\], Leipzig 1893. Oct., with J.J. Smith, Verzeichniss der Familien und Gattungen der nicht-krautartigen Gewächse in dem Botanischen Garten on p. 73-105.
-(4) *Anonaceae* von W. Burck, *in* Nova Guinea 8(1, Bot., Livr. 3): 427-435, *pl. 69-70* (uncol. liths.). 1911 (posthumous publ.).
+- (1) *Rapport sur son exploration dans les Padangsche Bovenlanden à la recherche des espèces qui produisent la Gutta-Percha*. Saigon 1886. Oct., 57 p.
+- (2) *Wandelingen door den Botanischen tuin te Buitenzorg*. Batavia 1892. Oct. 87 p., map.
+- (3) *Spaziergänge* durch den Botanischen Garten \[zu Buitenzorg\], Leipzig 1893. Oct., with J.J. Smith, Verzeichniss der Familien und Gattungen der nicht-krautartigen Gewächse in dem Botanischen Garten on p. 73-105.
+- (4) *Anonaceae* von W. Burck, *in* Nova Guinea 8(1, Bot., Livr. 3): 427-435, *pl. 69-70* (uncol. liths.). 1911 (posthumous publ.).
 
 ### Publications
 

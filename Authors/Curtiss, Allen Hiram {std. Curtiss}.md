@@ -10,11 +10,11 @@ Curtiss, Allen Hiram (1845-1907), American botanist and collector of plants for 
 
 Herbarium material widely dispersed, see IH 2: 148; important sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (1878-1897: 3002 nos.), [[Collection LCU|LCU]], [[Collection LE|LE]], [[Collection M|M]] (Lich.), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (1250, Pterid.), [[Collection PH|PH]], [[Collection S|S]] (Diat.), [[Collection US|US]] (3000), [[Collection WRSL|WRSL]].
 *Notes*: (1) "Plant world" of early 1901 mentions that the herbarium of 16.000 sheets was in the recent great fire at Jacksonville, Florida (Bot. Gaz. 31(6): 448. 20 Jun 1901).
-(2) New York Bot. Gard. has plant collector's field notes and accession books, *Isle of Pines 1904.*
-(3) (I) B received *North American Plants* (Florida, Tennessee, Arkansas, Texas 1881-1886, 1684 nos.)
-(1) Id. *West Indian Plants* (Bahamas, New Providence, 1902-1903, 205 nos.)
-(3) Id. *Westindian Plants*, Isla de Pinos, a. 1903-1904, 302 nos.
-(4) Id. *Westindian Plants* collected... Habana, Cuba, a 1904- 1905, 233 nos.
+- (2) New York Bot. Gard. has plant collector's field notes and accession books, *Isle of Pines 1904.*
+- (3) (I) B received *North American Plants* (Florida, Tennessee, Arkansas, Texas 1881-1886, 1684 nos.)
+- (1) Id. *West Indian Plants* (Bahamas, New Providence, 1902-1903, 205 nos.)
+- (3) Id. *Westindian Plants*, Isla de Pinos, a. 1903-1904, 302 nos.
+- (4) Id. *Westindian Plants* collected... Habana, Cuba, a 1904- 1905, 233 nos.
 
 #### Bibliography and biography
 

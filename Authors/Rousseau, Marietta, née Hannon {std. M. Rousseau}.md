@@ -22,9 +22,9 @@ Barnhart 3: 184; BM 4: 1742; CSP 13: 667-668; GR p. 691; Hawksworth p. 185; IH 1
 
 #### Composite works
 
-(1) with E.C. Bommer, *Fungi, in* T.A. Durand & H. Pittier, *Prim. fl. costaric.* 1(3): 81-96. 1896.
-(2) with E.C. Bommer, *Cat. champ. Bruxelles.* 1879, TL-2/627.
-(3) with E.C. Bommer, *Fl. mycol. Bruxelles* 1884. TL-2/628. (rev.: H.G. Winter, Bot. Centralbl. 24: 2-3. 1885).
+- (1) with E.C. Bommer, *Fungi, in* T.A. Durand & H. Pittier, *Prim. fl. costaric.* 1(3): 81-96. 1896.
+- (2) with E.C. Bommer, *Cat. champ. Bruxelles.* 1879, TL-2/627.
+- (3) with E.C. Bommer, *Fl. mycol. Bruxelles* 1884. TL-2/628. (rev.: H.G. Winter, Bot. Centralbl. 24: 2-3. 1885).
 
 #### Eponymy
 

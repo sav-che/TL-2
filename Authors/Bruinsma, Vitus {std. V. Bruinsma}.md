@@ -16,8 +16,8 @@ Barnhart 1: 268; LS 4198.
 
 #### Composite works
 
-(1) With Frederike Johanna von Uildriks (fl. 1898) *Plantenschat*; see TL-2/15.434.
-(2) See A. Kerner, *Pflanzenleben* (TL-2/3599), Dutch translation by Vitus Bruinsma: *Het leven der planten* s.d. \[1902\].
+- (1) With Frederike Johanna von Uildriks (fl. 1898) *Plantenschat*; see TL-2/15.434.
+- (2) See A. Kerner, *Pflanzenleben* (TL-2/3599), Dutch translation by Vitus Bruinsma: *Het leven der planten* s.d. \[1902\].
 
 ### Publications
 

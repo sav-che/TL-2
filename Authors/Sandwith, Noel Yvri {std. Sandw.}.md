@@ -31,9 +31,9 @@ Barnhart 3: 208 (b. 8 Sep 1901); BJI 2: 152; BL 1: 261, 316, 2: 241, 242, 713; B
 
 #### Composite works
 
-(1) *Bignoniáceas* por N.Y. Sandwith e D.R. Hunt, *in* R. Reitz, *Flora ilustrada catarinense* 1, 1974, 172 p., publ. 10 Dec 1974.
-(2) For further papers and contributions to floras and series see the bibliography by J.P.M. Brenan (1966); q.v. also for a complete list of Sandwith's *Contributions to the flora of Tropical America* nos. 1 (1930)-75 (1965).
-(3) *Bignoniaceae*, 164 texts *in* E.R. Farr et al., *Index nominum genericorum* 1979.
+- (1) *Bignoniáceas* por N.Y. Sandwith e D.R. Hunt, *in* R. Reitz, *Flora ilustrada catarinense* 1, 1974, 172 p., publ. 10 Dec 1974.
+- (2) For further papers and contributions to floras and series see the bibliography by J.P.M. Brenan (1966); q.v. also for a complete list of Sandwith's *Contributions to the flora of Tropical America* nos. 1 (1930)-75 (1965).
+- (3) *Bignoniaceae*, 164 texts *in* E.R. Farr et al., *Index nominum genericorum* 1979.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Coste, \[Abbé\] Hippolyte Jacques (1858-1924), French clergyman and botanist.
 
 #### Herbarium and types
 
-[[Collection MPU|MPU]], on loan from the Société des sciences, arts et lettres de l'Aveyron. – *Exsiccatae*: with S. Pons, *Herbarium rosarum*, fasc. 1-5, nos. 1-378. 1894-1899.
+[[Collection MPU|MPU]], on loan from the Société des sciences, arts et lettres de l'Aveyron.
+*Exsiccatae*: with S. Pons, *Herbarium rosarum*, fasc. 1-5, nos. 1-378. 1894-1899.
 *Ref*.: IH 1 (ed. 6): 357, 2: 140.
 - Denizot et Granel de Solignac, Taxon 20: 826. 1971.
 - Granel de Solignac et Bertrand, Naturalia mospeliensia, Bot. 23/24: 157-172. 1973.

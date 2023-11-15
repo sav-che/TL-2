@@ -58,10 +58,10 @@ ADB 7: 1903; Ainsworth p. 105, 226; Barnhart 1: 364 (b. 24 Jan 1828, Breslau, d.
 
 #### Composite works
 
-(1) *Beiträge zur Biologie der Pflanzen*, Herausgegeben von... F. Cohn, vols. i-viii (Heft 1), 1870-1898, continued by Oscar Brefeld.
-(2) See also Joseph Schröter, *Untersuchungen über Pachyma und Mylita* by F. Cohn and J. Schröter, see TL-2/11.189.
-(3) *Kryptogamen-Flora von Schlesien*, Breslau 1876-77, *editor* F. Cohn, vol. 1 does not contain text by Cohn himself.
-(4) J.A. Schenk, *Handb. Bot.* 1879-1890, see TL-2/5: 136-137, no. 10.561, Cohn contributed to vol. 2 (q.v.).
+- (1) *Beiträge zur Biologie der Pflanzen*, Herausgegeben von... F. Cohn, vols. i-viii (Heft 1), 1870-1898, continued by Oscar Brefeld.
+- (2) See also Joseph Schröter, *Untersuchungen über Pachyma und Mylita* by F. Cohn and J. Schröter, see TL-2/11.189.
+- (3) *Kryptogamen-Flora von Schlesien*, Breslau 1876-77, *editor* F. Cohn, vol. 1 does not contain text by Cohn himself.
+- (4) J.A. Schenk, *Handb. Bot.* 1879-1890, see TL-2/5: 136-137, no. 10.561, Cohn contributed to vol. 2 (q.v.).
 
 ### Publications
 

@@ -25,8 +25,8 @@ Barnhart 3: 29; BFM no. 1923; BJI 2: 127; BM 7: 955; Bossert p. 294; CSP 17: 615
 
 #### Composite works
 
-(1) G. Karsten & Oltmans, F., *Lehrbuch der Pharmakognosie* ed. 2. 1909 (see G. Karsten).
-(2) Co-editor ed. 1 and 2 of *Handwörterbuch der Naturwissenschaften*, 1912-1915, 1931-x.
+- (1) G. Karsten & Oltmans, F., *Lehrbuch der Pharmakognosie* ed. 2. 1909 (see G. Karsten).
+- (2) Co-editor ed. 1 and 2 of *Handwörterbuch der Naturwissenschaften*, 1912-1915, 1931-x.
 
 #### Eponymy
 

@@ -31,7 +31,7 @@ Ainsworth p. 231, 322, 346; Barnhart 3: 66; BFM no. 2383, 3243; BJI 2: 44, 133; 
 
 #### Composite works
 
-(1) Edited P. Bubani, *Flora pyrenaea* 1897-1901, 4 vols., see TL-2/861, further information: *vol. 1*: publ. Sep-Oct 1897 (Bot. Centralbl. 3 Nov 1897; ÖbZ Nov 1897; rev. by L. Diels, Bot. Centralbl. 74: 283-284. 1898), *vol. 2*: publ. Dec 1899 (Bot. Centralbl. 14 Feb 1900), *vol. 3*: publ. Mar 1901 (Bot. Centralbl. 27 Mar 1901, 24 Apr 1901), *vol. 4*: publ. Jan-Feb 1902 (ÖbZ Feb-Mar 1902).
+- (1) Edited P. Bubani, *Flora pyrenaea* 1897-1901, 4 vols., see TL-2/861, further information: *vol. 1*: publ. Sep-Oct 1897 (Bot. Centralbl. 3 Nov 1897; ÖbZ Nov 1897; rev. by L. Diels, Bot. Centralbl. 74: 283-284. 1898), *vol. 2*: publ. Dec 1899 (Bot. Centralbl. 14 Feb 1900), *vol. 3*: publ. Mar 1901 (Bot. Centralbl. 27 Mar 1901, 24 Apr 1901), *vol. 4*: publ. Jan-Feb 1902 (ÖbZ Feb-Mar 1902).
 
 #### Thesis
 

@@ -23,8 +23,8 @@ Barnhart 1: 427 ("André"); BL 2: 100, 162; GR p. 314; Kew 5: 448 (as Virville);
 
 #### Composite works
 
-(1) \[with other botanists\] *Histoire de la botanique en France*, Paris 1954, 394 p., *16 pl*. (for fifth Intern. Bot., Congr. 1954). See also Plesch 193 and especially BL 2: 100.
-(2) *Lamarck et son oeuvre*, Bull. Mayenne-Sciences 1924: 57-76.
+- (1) \[with other botanists\] *Histoire de la botanique en France*, Paris 1954, 394 p., *16 pl*. (for fifth Intern. Bot., Congr. 1954). See also Plesch 193 and especially BL 2: 100.
+- (2) *Lamarck et son oeuvre*, Bull. Mayenne-Sciences 1924: 57-76.
 
 ### Publications
 

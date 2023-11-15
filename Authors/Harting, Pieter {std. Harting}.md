@@ -25,8 +25,8 @@ Barnhart 2: 132; BL 2: 435, 665; BM 2: 791; CSP 3: 195-197, 7: 913-914, 10: 149,
 
 #### Composite works
 
-(1) Editor of *Album der Natuur* 1857-1885.
-(2)W. H. de Vriese en P. Harting, *Monographie des Marattiacées*, 1853, see Vriese, W. H. de.
+- (1) Editor of *Album der Natuur* 1857-1885.
+- (2) W. H. de Vriese en P. Harting, *Monographie des Marattiacées*, 1853, see Vriese, W. H. de.
 
 ### Publications
 

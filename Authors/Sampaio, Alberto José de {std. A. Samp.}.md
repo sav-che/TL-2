@@ -25,8 +25,8 @@ Barnhart 3: 205 (b. 5 Feb 1881); BJI 2: 151; BL 1: 240, 242, 243, 316; BM 8: 113
 
 #### Composite works
 
-(1) *Pteridophytas, in* F.C. Hoehne, Comm. lin. telegr. Bot. 7, 1916, p. \[1\]-34, *pl. 1-5*; *Lauraceae, in ib*. 10, Aug 1917, p. \[1\]-15, *pl. 1-13. Copies*: M.
-(2) With J. Cezar Diogo, *Apontamentos para a revisão da Flora brasiliensis de Martius*, À lavoura 16(4-6): 49-61. 1912 (bibl. notices). Sampaio published further bibliographical notices on the flora of Brazil, all very incomplete, in his series "*Bibliographica botanica* relativa á flora brasileira, com inclusão dos trabalhos indispensaveis aos estudios botanicos no Brazil" in Bol. Mus. Nac. Rio de Janeiro 1: 111-125, 235-245, 1924, 2(3): 35-61, (5): 19-38. 1926. 3(1): 37-45. 1927, 4(3): 97-119. 1928 (see BL 1: 240).
+- (1) *Pteridophytas, in* F.C. Hoehne, Comm. lin. telegr. Bot. 7, 1916, p. \[1\]-34, *pl. 1-5*; *Lauraceae, in ib*. 10, Aug 1917, p. \[1\]-15, *pl. 1-13. Copies*: M.
+- (2) With J. Cezar Diogo, *Apontamentos para a revisão da Flora brasiliensis de Martius*, À lavoura 16(4-6): 49-61. 1912 (bibl. notices). Sampaio published further bibliographical notices on the flora of Brazil, all very incomplete, in his series "*Bibliographica botanica* relativa á flora brasileira, com inclusão dos trabalhos indispensaveis aos estudios botanicos no Brazil" in Bol. Mus. Nac. Rio de Janeiro 1: 111-125, 235-245, 1924, 2(3): 35-61, (5): 19-38. 1926. 3(1): 37-45. 1927, 4(3): 97-119. 1928 (see BL 1: 240).
 
 #### Eponymy
 

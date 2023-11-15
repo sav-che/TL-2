@@ -8,7 +8,8 @@ Linhart, Gyögy (Georg) (1844-1925), Hungarian mycologist.
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Fungi hungarici*, cent. 1-5, nos. 1-500, Magyar Ovár (Ung. Altenburg), 1882-1886, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection HPP|HPP]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PAV|PAV]], [[Collection S|S]], [[Collection W|W]].
+Unknown.
+*Exsiccatae*: *Fungi hungarici*, cent. 1-5, nos. 1-500, Magyar Ovár (Ung. Altenburg), 1882-1886, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection HPP|HPP]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PAV|PAV]], [[Collection S|S]], [[Collection W|W]].
 
 #### Bibliography and biography
 

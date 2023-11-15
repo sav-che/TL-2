@@ -8,7 +8,8 @@ Kummer, Paul (1834-1912), German clergyman and lichenologist; private teacher 18
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Der Führer in die Flechtenkunde*, ed. 1, 1874, has 14 dried specimens; ed. 2, 1883, lacks these specimens.
+Unknown.
+*Exsiccatae*: *Der Führer in die Flechtenkunde*, ed. 1, 1874, has 14 dried specimens; ed. 2, 1883, lacks these specimens.
 
 #### Bibliography and biography
 

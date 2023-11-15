@@ -26,9 +26,9 @@ Andrews ed. 2, p. 243; Barnhart 1: 283; BM 1: 287-288, 6: 161; Bossert p. 59; CS
 
 #### Composite works
 
-(1) DC., *Prodr., Artocarpaceae*, 17: 280-288. 16 Oct 1873 (conspectus); *Moraceae*, 17: 211-279. 16 Oct 1873.
-(2) Baillon, *Dict, bot*., Paris 1876-1891, Bureau collaborator.
-(3) Martius, *Fl. bras*.: *Bignoniaceae*, with K. M. Schumann, 8(2): 1-434: fasc. 118, p. 1-238, pl. 69-96. 15 Mai 1896; face. 121, p. 229-434, pl. 97-121. 15 Feb 1897.
+- (1) DC., *Prodr., Artocarpaceae*, 17: 280-288. 16 Oct 1873 (conspectus); *Moraceae*, 17: 211-279. 16 Oct 1873.
+- (2) Baillon, *Dict, bot*., Paris 1876-1891, Bureau collaborator.
+- (3) Martius, *Fl. bras*.: *Bignoniaceae*, with K. M. Schumann, 8(2): 1-434: fasc. 118, p. 1-238, pl. 69-96. 15 Mai 1896; face. 121, p. 229-434, pl. 97-121. 15 Feb 1897.
 
 #### Eponymy
 

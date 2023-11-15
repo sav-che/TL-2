@@ -32,6 +32,6 @@ Co-editor, *Flora Europaea* 1964-1983.
 #### Note
 
 Outside our period: (1) *An Irish flora*, Dundalk (Dundalgan Press) 1943; ed. 2: 1953. ed. 3: 1959. ed. 4: 1963, ed. 5: 1967, ed. 7: 1977.
-(2) *The flora of European Turkey*, Proc. R. Irish Acad. 65. Sect. B, no. 1, p. 1-100. 1966.
-(3) With M.J.P. Scannell, *Flora of Connemara and the Burren*, 1983.
+- (2) *The flora of European Turkey*, Proc. R. Irish Acad. 65. Sect. B, no. 1, p. 1-100. 1966.
+- (3) With M.J.P. Scannell, *Flora of Connemara and the Burren*, 1983.
 

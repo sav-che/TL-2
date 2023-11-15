@@ -8,7 +8,8 @@ Komarov, Vladimir Leontjevic (1869-1945), Russian botanist.
 
 #### Herbarium and types
 
-[[Collection LE|LE]]; duplicates see IH. – *Exsiccatae*: *Fungi Rossiae exsiccati*, by Jaczewski, Komarov and Tranzschel, see Jaczewski.
+[[Collection LE|LE]]; duplicates see IH.
+*Exsiccatae*: *Fungi Rossiae exsiccati*, by Jaczewski, Komarov and Tranzschel, see Jaczewski.
 
 #### Bibliography and biography
 

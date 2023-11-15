@@ -8,7 +8,8 @@ Kunze, Johannes (x-1881), German mycologist at Eisleben.
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Fungi selecti exsiccati*, cent. 1-6, nos. 1-600, 1877-1881. Sets see IH. Also: *Flora von Eisleben*, set at [[Collection B|B]] (extant).
+Unknown.
+*Exsiccatae*: *Fungi selecti exsiccati*, cent. 1-6, nos. 1-600, 1877-1881. Sets see IH. Also: *Flora von Eisleben*, set at [[Collection B|B]] (extant).
 *Ref*.: Anon., Bot. Zeit. 39: 679. 14 Oct 1881 (herbaria for sale).
 
 #### Bibliography and biography

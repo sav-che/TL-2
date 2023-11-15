@@ -33,5 +33,6 @@ Barnhart 3: 139 (b. 12 Feb 1788, d. 19 Jan 1869); BM 4: 1670, 8: 1060 (Brit. Mus
 
 #### Note
 
-(1) For an extensive listing of biographical references on C.L. von Reichenbach see Poggendorff (1971). Most of R's activities were in chemistry.(2) Reichenbach's daughter, Hermine von Reichenbach, is the anonymous author of the paper "*Untersuchungen über zellenartigen Ausfüllungen der Gefässe*, von einem Ungenannten", Bot. Zeit. 3: 225-231, 241-253. 1845 (see Habacher, 1970, p. 200).
+- (1) For an extensive listing of biographical references on C.L. von Reichenbach see Poggendorff (1971). Most of R's activities were in chemistry.
+- (2) Reichenbach's daughter, Hermine von Reichenbach, is the anonymous author of the paper "*Untersuchungen über zellenartigen Ausfüllungen der Gefässe*, von einem Ungenannten", Bot. Zeit. 3: 225-231, 241-253. 1845 (see Habacher, 1970, p. 200).
 

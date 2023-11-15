@@ -29,9 +29,9 @@ Barnhart 3: 303; BFM 1487-1489, 1728, 2357-2359; Biol.-Dokum. 17: 8776; Bossert 
 
 #### Composite works
 
-(1) Co-author, G. Keller et al., *Monogr. Iconogr, Orchid. Eur.* 1928-1943, 5 vols., TL-2/3565.
-(2) Editor *Acta botanica hungarica* (1936-1949), *Scripta botanica Musci Transsilvanici* (1942-1944), *Magyar flóramüvek* 1-7, 1937-1949; *Fontes florae hungaricae* 1943-1944; *Annales biol. Univ. Debrecen* (1950-1954); *Acta botanica Acad. Sci. Hung.* (1954-1972).
-(3) Die Orchideen Europas und des Mediterrangebiets I., *in* E. Hannig & H. Winkler, *Die Pflanzenareale* ser. 3, 7, maps 61-70. 1932.
+- (1) Co-author, G. Keller et al., *Monogr. Iconogr, Orchid. Eur.* 1928-1943, 5 vols., TL-2/3565.
+- (2) Editor *Acta botanica hungarica* (1936-1949), *Scripta botanica Musci Transsilvanici* (1942-1944), *Magyar flóramüvek* 1-7, 1937-1949; *Fontes florae hungaricae* 1943-1944; *Annales biol. Univ. Debrecen* (1950-1954); *Acta botanica Acad. Sci. Hung.* (1954-1972).
+- (3) Die Orchideen Europas und des Mediterrangebiets I., *in* E. Hannig & H. Winkler, *Die Pflanzenareale* ser. 3, 7, maps 61-70. 1932.
 
 #### Festschrift
 

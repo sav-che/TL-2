@@ -40,12 +40,12 @@ Barnhart 1: 485; BL 1: 294(index); BL 2: 649(index); BM 1: 495-496, 4: 1560, 6: 
 
 #### Composite works
 
-(1) *Illustrations de la flore du Congo*, (1898-1902), see É. De Wildeman, TL-2/1: 639-642 and TL-2, suppl. 5: 258-282.
-(2) *Contributions à la flore du Congo*, Tome 1 (1899-1900), see É. De Wildeman (ib.).
-(3) *Plantae Thonnerianae congolenses* (1900-1911), see É. De Wildeman (ib.).
-(4) *Plantae Gilletianae congolenses* (1900-1901), see É. De Wildeman (ib.).
-(5) *Prodrome de la flore Belge*, Tome 1 (fasc. 15), *Considérations générales*, p. \[i-iv\], \[1\]-63. Sep 1907 and Tome 3 (fasc. 8-14), p. \[1\]-1112. 1900-1906, see TL-2/1: no. 1428.
-(6) See also Donckier de Donceel, *Matériaux pour servir à la flore de la Province de Liège* in this supplement.
+- (1) *Illustrations de la flore du Congo*, (1898-1902), see É. De Wildeman, TL-2/1: 639-642 and TL-2, suppl. 5: 258-282.
+- (2) *Contributions à la flore du Congo*, Tome 1 (1899-1900), see É. De Wildeman (ib.).
+- (3) *Plantae Thonnerianae congolenses* (1900-1911), see É. De Wildeman (ib.).
+- (4) *Plantae Gilletianae congolenses* (1900-1901), see É. De Wildeman (ib.).
+- (5) *Prodrome de la flore Belge*, Tome 1 (fasc. 15), *Considérations générales*, p. \[i-iv\], \[1\]-63. Sep 1907 and Tome 3 (fasc. 8-14), p. \[1\]-1112. 1900-1906, see TL-2/1: no. 1428.
+- (6) See also Donckier de Donceel, *Matériaux pour servir à la flore de la Province de Liège* in this supplement.
 
 ### Publications
 

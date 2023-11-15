@@ -33,8 +33,9 @@ APN p. 222; Barnhart 2: 37; BFM p. 285 (index); GR p. 449; Hirsch p. 96; IH 2: 2
 
 #### Festschrift
 
-(1) Leinfellner, W. & E. Tschermak-Woess (eds.), 1969. Lothar Geitler zum 70. Geburtstag. Oesterr. Bot. Z. 116(1-5): 506, iv p. (frontisp., portr.).
-(2) Tschermak-Woess, E. & F. Ehrendorfer (eds.), 1979. Dedicated to Lothar Geitler on the occasion of his 80th birthday, Pl. Syst. Evol. 131(3-4): 165-310. (bibl. \[items 302-347\]). (3) Tschermak-Woess, E. & A. Weber, 1989. Dedicated to Lothar Geitler on the occasion of his 90th birthday \[cover\]. Pl. Syst. Evol. 164(1-4): 322 p., \[*1*\] *pl*. (col.) (bibl. \[items 345-359\]).
+- (1) Leinfellner, W. & E. Tschermak-Woess (eds.), 1969. Lothar Geitler zum 70. Geburtstag. Oesterr. Bot. Z. 116(1-5): 506, iv p. (frontisp., portr.).
+- (2) Tschermak-Woess, E. & F. Ehrendorfer (eds.), 1979. Dedicated to Lothar Geitler on the occasion of his 80th birthday, Pl. Syst. Evol. 131(3-4): 165-310. (bibl. \[items 302-347\]).
+- (3) Tschermak-Woess, E. & A. Weber, 1989. Dedicated to Lothar Geitler on the occasion of his 90th birthday \[cover\]. Pl. Syst. Evol. 164(1-4): 322 p., \[*1*\] *pl*. (col.) (bibl. \[items 345-359\]).
 
 #### Composite works
 

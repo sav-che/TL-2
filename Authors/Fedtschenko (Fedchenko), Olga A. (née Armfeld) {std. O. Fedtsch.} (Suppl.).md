@@ -10,7 +10,7 @@
 
 #### Note
 
-(1) The transliteration rules we are following would have us spell her surname as "Fedchenko" but she is widely known as "Fedtschenko" in botanical literature. (2) Her husband, Aleksei Pavlovich Fedtschenko (1844-1873), was a Russian explorer (see TL-2/1: 816, as "Fedchenko").
+- (1) The transliteration rules we are following would have us spell her surname as "Fedchenko" but she is widely known as "Fedtschenko" in botanical literature. (2) Her husband, Aleksei Pavlovich Fedtschenko (1844-1873), was a Russian explorer (see TL-2/1: 816, as "Fedchenko").
 
 #### Herbarium and types
 

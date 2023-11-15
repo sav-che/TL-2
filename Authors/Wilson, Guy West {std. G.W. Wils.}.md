@@ -8,7 +8,8 @@ Wilson, Guy West (1877-1956), American botanist; M.Sc. DePauw 1903; professor of
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – Further material in [[Collection DPU|DPU]], [[Collection F|F]]. *Exsiccatae*: with F.J. Seaver, (1877-1970), *Ascomycetes and lower fungi*, fasc. 1-4, nos. 1-100, 1907-1909, see under Seaver (TL-2/5: 465) and Stevenson (1971).
+[[Collection NY|NY]]. – Further material in [[Collection DPU|DPU]], [[Collection F|F]].
+*Exsiccatae*: with F.J. Seaver, (1877-1970), *Ascomycetes and lower fungi*, fasc. 1-4, nos. 1-100, 1907-1909, see under Seaver (TL-2/5: 465) and Stevenson (1971).
 
 #### Bibliography and biography
 

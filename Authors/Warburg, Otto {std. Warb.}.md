@@ -32,24 +32,24 @@ Andrews p. 345; Backer p. 621; Barnhart 3: 458 (b. 20 Jul 1859, d. 10 Jan 1938);
 
 #### Composite works
 
-(1) Editor and publisher *Tropenpflanzer*, Berlin vols. 1-25(4), 1897-1922 and *Beihefte zum Tropenpflanzer* 1-19, 1900-1919.
-(2) *Die botanische Erforschung der Molukken* seit Rumph's Zeiten, in *Rumphius Gedenkboek* 63-78, Haarlem 1902.
-(3) EP, *Nat. Pflanzenfam.* (TL-2/1710) (a) *Flacourtiaceae*, 3(6a): 1-56. 28 Dec 1893.
+- (1) Editor and publisher *Tropenpflanzer*, Berlin vols. 1-25(4), 1897-1922 and *Beihefte zum Tropenpflanzer* 1-19, 1900-1919.
+- (2) *Die botanische Erforschung der Molukken* seit Rumph's Zeiten, in *Rumphius Gedenkboek* 63-78, Haarlem 1902.
+- (3) EP, *Nat. Pflanzenfam.* (TL-2/1710) (a) *Flacourtiaceae*, 3(6a): 1-56. 28 Dec 1893.
 (b) *Datiscaceae*, 3 (6a): 150-155. 18 Apr 1894.
 (c) *Begoniaceae*, 3 (6a): 121-150. 18 Apr 1894.
 (d) *Sabiaceae*, 3(5): 367-374. 7 Mai 1895.
 (e) *Bixaceae*, 3(6): 307-314. 14 Mai 1895.
 (f) *Winteranaceae*, 3(6): 314-319. 14 Mai 1895.
 (g) *Balsaminaceae* (with K. Reiche), 3(5): 383-392. Oct-Dec 1895.
-(4) *Siphonogamen, in* F. Reinecke, *Die Flora der Samoa-Inseln*, 1896-1898, TL-2/8915.
-(5) *Das Pflanzenkleid und die Nutzpflanzen Neu-Guineas, in* M. Krieger, *Neu-Guinea* 36-72, *pl. 2-13.* Berlin 1899 (also reprinted, p. \[i, recto of 36\], \[36\]-72, *pl. 2-13. Copy*: B.
-(6) *Pandanaceae, in* A. Engler, *Pflanzenreich* (TL-2/1713) 4(9) (Heft 3): 1-97, *4 pl*. 21 Dec 1900 (facs. ed. Lehre 1958).
-(7) *Ficus, in* I. Urban, *Symb. antill.* (TL-2/15.687) 3(3): 453-492. 1 Mai 1903.
-(8) *Myristicaceae, Pandanaceae, Begoniaceae, Ulmaceae, Moraceae, Urticaceae, Balanophoraceae, Aristolochiaceae, Magnoliaceae, Thymelaeaceae, Ericaceae, Ficus, in* J.R. Perkins, *Fragm. fl. Philipp.* 1904-1905. TL-2/7684.
-(9) *Vegetationsbilder, in* G. Melnecke, *Reisebriefe und zuckeruntersuchungen am Pangani*, Berlin 1895.
-(10) Collaborator, E. Schmidt, *Flora of Koh Chang*, treatments in parts 6 and 10 of 20 families, see TL-2/10.891.
-(11) Collaborator, H. Schinz, ed., *Beiträge zur Kenntniss der Afrikanischen Flora*, see TL-2/10.710.
-(12) Collaborator, C.F. Sarasin & J. Roux, eds., *Nova Caledonia*, Bot. 1(3), 1922, see TL-2/10.288.
+- (4) *Siphonogamen, in* F. Reinecke, *Die Flora der Samoa-Inseln*, 1896-1898, TL-2/8915.
+- (5) *Das Pflanzenkleid und die Nutzpflanzen Neu-Guineas, in* M. Krieger, *Neu-Guinea* 36-72, *pl. 2-13.* Berlin 1899 (also reprinted, p. \[i, recto of 36\], \[36\]-72, *pl. 2-13. Copy*: B.
+- (6) *Pandanaceae, in* A. Engler, *Pflanzenreich* (TL-2/1713) 4(9) (Heft 3): 1-97, *4 pl*. 21 Dec 1900 (facs. ed. Lehre 1958).
+- (7) *Ficus, in* I. Urban, *Symb. antill.* (TL-2/15.687) 3(3): 453-492. 1 Mai 1903.
+- (8) *Myristicaceae, Pandanaceae, Begoniaceae, Ulmaceae, Moraceae, Urticaceae, Balanophoraceae, Aristolochiaceae, Magnoliaceae, Thymelaeaceae, Ericaceae, Ficus, in* J.R. Perkins, *Fragm. fl. Philipp.* 1904-1905. TL-2/7684.
+- (9) *Vegetationsbilder, in* G. Melnecke, *Reisebriefe und zuckeruntersuchungen am Pangani*, Berlin 1895.
+- (10) Collaborator, E. Schmidt, *Flora of Koh Chang*, treatments in parts 6 and 10 of 20 families, see TL-2/10.891.
+- (11) Collaborator, H. Schinz, ed., *Beiträge zur Kenntniss der Afrikanischen Flora*, see TL-2/10.710.
+- (12) Collaborator, C.F. Sarasin & J. Roux, eds., *Nova Caledonia*, Bot. 1(3), 1922, see TL-2/10.288.
 
 #### Eponymy
 

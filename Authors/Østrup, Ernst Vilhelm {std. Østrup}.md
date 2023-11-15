@@ -26,10 +26,10 @@ Barnhart 3: 22; BJI 2: 126; CSP 17: 596; De Toni 4: xlii; IH 2: (in press); Kew 
 
 #### Composite works
 
-(1) Warming, E., ed., *Botany of the Faeröes*:
+- (1) Warming, E., ed., *Botany of the Faeröes*:
 (a) *Freshwater diatoms, in* 1: 260-290. 20 Apr 1901.
 (b) *Diatoms from the marine algae of the Faeröes, in* 2: 533-558. Mar 1903.
-(2) Kolderup-Rosenvinge, J. L. A. & Warming, E., eds., *The botany of Iceland*:
+- (2) Kolderup-Rosenvinge, J. L. A. & Warming, E., eds., *The botany of Iceland*:
 (a) *Marine diatoms from the Coasts of Iceland, in* 1(2). 1918.
 (b) *Fresh-water diatoms from Iceland, in* 2(1) (5). 1918, p. \[1\]-98, *pl. 1-5.*
 

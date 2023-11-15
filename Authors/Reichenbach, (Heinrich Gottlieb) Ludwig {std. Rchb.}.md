@@ -8,15 +8,16 @@ Reichenbach, \[Heinrich Gottlieb\] Ludwig (1793-1879), German (Saxonian) botanis
 
 #### Herbarium and types
 
-part of R's herbarium was destroyed in the great Zwinger fire of 6 Mai 1849 (see F. Hofmeister et al. 1849, 1850); another part is incorporated in the herbarium of his son, now at [[Collection W|W]]. *Exsiccatae*:
-(1) *Lichenes exsiccatae* collecti atque descripti auctoribus L. Reichenbach et C. \[Carl\] Schubert. *Die Flechten*... fasc. 1-6, nos. 1-150, 1822-1826 (further details in Sayre 1969). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection NY|NY]], [[Collection O|O]], [[Collection P|P]], [[Collection PC|PC]], [[Collection STU|STU]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – See also Reichenbach & Schubert 1822-1826 (in bibliogr. paragraph below).
-(2) *Flora germanica exsiccata*, fasc. 1-26, 1830-1846 (later sets issued with H.G. Reichenbach). For a detailed announcement see H.G. von Reichenbach, Flora 12(1): Beil. 2: 41-46. 1829 and the review in 13(2): 418-424. 1830. Cryptogams (only) in cent. 3, by J.C. Breutel but continued separately. *Sets* of main series: [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection CGE|CGE]], [[Collection GFW|GFW]], [[Collection GOET|GOET]], [[Collection GRO|GRO]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection PRC|PRC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TU|TU]], [[Collection U|U]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – Ser. 2. *Cryptog*., cent. 1-5, 1832-1862, sets at [[Collection FH|FH]], [[Collection K|K]], [[Collection M|M]], [[Collection W|W]]. – *Index* to cent. 1-13 and crypt, cent. 1: Index in Herbarium florae germanicae,... Leipzig s.d., p.\[i\]-xviii. *Copy*: [[Collection G|G]].
+part of R's herbarium was destroyed in the great Zwinger fire of 6 Mai 1849 (see F. Hofmeister et al. 1849, 1850); another part is incorporated in the herbarium of his son, now at [[Collection W|W]].
+*Exsiccatae*:
+- (1) *Lichenes exsiccatae* collecti atque descripti auctoribus L. Reichenbach et C. \[Carl\] Schubert. *Die Flechten*... fasc. 1-6, nos. 1-150, 1822-1826 (further details in Sayre 1969). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection E|E]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection NY|NY]], [[Collection O|O]], [[Collection P|P]], [[Collection PC|PC]], [[Collection STU|STU]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – See also Reichenbach & Schubert 1822-1826 (in bibliogr. paragraph below).
+- (2) *Flora germanica exsiccata*, fasc. 1-26, 1830-1846 (later sets issued with H.G. Reichenbach). For a detailed announcement see H.G. von Reichenbach, Flora 12(1): Beil. 2: 41-46. 1829 and the review in 13(2): 418-424. 1830. Cryptogams (only) in cent. 3, by J.C. Breutel but continued separately. *Sets* of main series: [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection CGE|CGE]], [[Collection GFW|GFW]], [[Collection GOET|GOET]], [[Collection GRO|GRO]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection PRC|PRC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TU|TU]], [[Collection U|U]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – Ser. 2. *Cryptog*., cent. 1-5, 1832-1862, sets at [[Collection FH|FH]], [[Collection K|K]], [[Collection M|M]], [[Collection W|W]]. – *Index* to cent. 1-13 and crypt, cent. 1: Index in Herbarium florae germanicae,... Leipzig s.d., p.\[i\]-xviii. *Copy*: [[Collection G|G]].
 
 #### Note
 
-(1) Reichenbach was called *Ludwig* and hence often referred to as L. Reichenbach, also to distinguish him from his son Heinrich Gustav R.
-(2) Reichenbach's brother Anton Benedict Reichenbach (1807-1860), high school teacher at Leipzig, was the author of a number of popular books on botany(see e.g. BM 4: 1668, 8: 1060; PR 7181, 7489-7491 (ed. 1: 8051, 8431-8434), Sotheby 636, Tucker 1: 589) such as *Allgemeine Pflanzenkunde* (Leipzig 26 Nov-2 Dec 1837), *Die Pflanzenuhr* (Leipzig 1840), *Botanik für Damen* (Leipzig 1854).
-(3) Letters to D.F.L. von Schlechtendal at HAL.
+- (1) Reichenbach was called *Ludwig* and hence often referred to as L. Reichenbach, also to distinguish him from his son Heinrich Gustav R.
+- (2) Reichenbach's brother Anton Benedict Reichenbach (1807-1860), high school teacher at Leipzig, was the author of a number of popular books on botany(see e.g. BM 4: 1668, 8: 1060; PR 7181, 7489-7491 (ed. 1: 8051, 8431-8434), Sotheby 636, Tucker 1: 589) such as *Allgemeine Pflanzenkunde* (Leipzig 26 Nov-2 Dec 1837), *Die Pflanzenuhr* (Leipzig 1840), *Botanik für Damen* (Leipzig 1854).
+- (3) Letters to D.F.L. von Schlechtendal at HAL.
 
 #### \[Bibliography and biography\]
 
@@ -65,9 +66,9 @@ ADB 27: 667-668 (W. Hess); AG 2(1): 215, 3: 725, 4: 827, 5(2): 186; Andrews p. 3
 
 #### Composite works
 
-(1) *Boraginaceae and Cruciferae* in J. Sturm, Deutschi. Abt. I. 43: *16 pl*. with text. 1823; *Die Vergissmeinichtarten* (Myosotis) Abt. I. 42: \[i\]-xii, table, *16 pl*. with text 1822; *Cruciferae*, Abt. 1, Heft 45: *16 pl*. with text. 1826, *id*. Abt. I. 48: *16 pl*. with text. 1827.
-(2) Editor *Mössier's Handb. Gewächsk.* ed. 2. 1827-1829 (review D.H. Hoppe, Flora 11(2): 529-642. 14 Sep 1818 (vol. 1), 13: 336. 7 Jun 1830 (vols. 2, 3); idem ed. 3. 1833-1834, see TL-2/6176, 6177 (other copy seen of ed. 3: M).
-(3) Preface to F.J.F.X. von Miltitz, Handb. bot. Lit., 1829 (TL-2/6080a).
+- (1) *Boraginaceae and Cruciferae* in J. Sturm, Deutschi. Abt. I. 43: *16 pl*. with text. 1823; *Die Vergissmeinichtarten* (Myosotis) Abt. I. 42: \[i\]-xii, table, *16 pl*. with text 1822; *Cruciferae*, Abt. 1, Heft 45: *16 pl*. with text. 1826, *id*. Abt. I. 48: *16 pl*. with text. 1827.
+- (2) Editor *Mössier's Handb. Gewächsk.* ed. 2. 1827-1829 (review D.H. Hoppe, Flora 11(2): 529-642. 14 Sep 1818 (vol. 1), 13: 336. 7 Jun 1830 (vols. 2, 3); idem ed. 3. 1833-1834, see TL-2/6176, 6177 (other copy seen of ed. 3: M).
+- (3) Preface to F.J.F.X. von Miltitz, Handb. bot. Lit., 1829 (TL-2/6080a).
 
 #### Handwriting
 
@@ -309,7 +310,7 @@ von Reichenbach. – The original covers of Hefte 13-16 (vol. 2 †.) (at G) car
 1833: "*Reichenbachianae florae germanicae clavis synonymica*, simul enumeratio generum, specierum et varietatum, sive index herbariorum ad sublevandum commercium botanophilorum editus. Die Flora von Deutschland nach ihren Gattungen...". Lipsiae (apud Carolum Cnobloch) 1833. This part was issued separately, p. \[i\]-iv, \[i\]-lxxii \[sic\], \[1\]-140. *Copies*: HH, M. – See also Linnaea 8 (Litt.): 59-60. 1834.
 *Associated publication*: *Index in Herbarium florae Germanicae*, editum a societate botanicorum ultra saxaginta,... herbarii iam centuria xiii. Phanerog. et i. Cryptogamae venales " Lipsiae (apud Fr. Hofmeister) s.d., p. \[i\]-xviii. *Copy*: G. – Index to the first 14 series of exsiccatae with indication of the place of the taxa in the *Fl. germ. excurs.*
 *Notes*: (1) For infrageneric categories in the *Fl. germ. excurs.*, see Brizicky, Taxon 18. 052. 1969.
-(2) Cnobloch, (the publisher) announces the book in Flora 13(1). Beil. 1: 32, Jan-Mar 1830: format as Persoon *Synopsis*, but arrangement according to a natural system. "Wird bis zur Ostermesse erscheinen". – "Just received", Flora 14 Mai 1830 ("die ersten Blätter..." = sect. 1, Acroblastae).
+- (2) Cnobloch, (the publisher) announces the book in Flora 13(1). Beil. 1: 32, Jan-Mar 1830: format as Persoon *Synopsis*, but arrangement according to a natural system. "Wird bis zur Ostermesse erscheinen". – "Just received", Flora 14 Mai 1830 ("die ersten Blätter..." = sect. 1, Acroblastae).
 *Ref*.: Fuchs, H.P., Taxon 7: 51. 1958.
 - Fürnrohr, A.E., Flora 13(1): 272-285. 14 Mai 1830 (rev. Acroblastae), 16(1). Lit. Ber. 1: 1-13. 28 Jan 1833, 2: 17-23. 7 Mar 1833 (rev. complete work except for Clavis).
 
@@ -372,9 +373,9 @@ von Reichenbach. – The original covers of Hefte 13-16 (vol. 2 †.) (at G) car
 
 **Notes**
 *Publ*.: 25 volumes, of which the first, *Agrostogr. germ.* did not carry this title in the first edition. The first volumes constitute also centuries 11-20 of the *Iconogr. bot. pl. crit.* – The volumes were published, at any rate part of the time, in decuriae, with a varying number of plates. We provide here:
-(1) an analysis of each volume.
-(2) a table of contents with dates based on notices in Flora, Bot. Zeit., Hinrichs and many other contemporary sources (but data even so incomplete).
-(3) a table of contents arranged by family in alphabetical order.
+- (1) an analysis of each volume.
+- (2) a table of contents with dates based on notices in Flora, Bot. Zeit., Hinrichs and many other contemporary sources (but data even so incomplete).
+- (3) a table of contents arranged by family in alphabetical order.
 *Editors and authors*: see below before entry vol. 13.
 *Issues* (a) with coloured plates & Latin text, Qu.
 (b) with uncoloured plates & Latin text, Qu.
@@ -451,9 +452,11 @@ For precise dates (each signature came out separately) see p. 341. Second t.p. *
 (*5*): *pl. 151-190.* med. Jun 1866.
 (*6*): *pl. 191-220.* early Apr 1867.
 *22*: 1867-1903 (t.p. 1903), p. \[i-ii\], \[1\]-230, *pl. 2052-2271* (cont.), *1-272* (ind.) and: *148\*, 160\*, 164\*, 169\*, 178\*, 190\*, 191\*, 193\*, 220\*, 220\*\**. First t.p.: *Icones florae germanicae et helveticae* simul terrarum adjacentium ergo mediae Europae. Opus auctoribus L. Reichenbach et H.G. Reichenbach fil. conditum, nunc continuatum auctore Dre G. equite Beck de Mannagetta. Volumen xxii *auctoribus H.G. Reichenbach filio et G. equite Beck de Mannagetta.* Lipsiae et Gerae \[Leipzig, Gera\] (sumptibus Friederici de Zezschwitz) 1903. *Second t.p.*: "*Leguminosae*...".
-(*1*): 1-16, *pl. 1-40, 46, 47, 57, 79.* 1867. (decas (1-4). (*2*): 17-24, *pl. 41-45, 48-56, 58-60.* Jan 1869. (decas 5-6). (*3*): 25-32, *pl. 61-78, 80-100.* (decas 7-10).
+(*1*): 1-16, *pl. 1-40, 46, 47, 57, 79.* 1867. (decas (1-4).
+(*2*): 17-24, *pl. 41-45, 48-56, 58-60.* Jan 1869. (decas 5-6).
+(*3*): 25-32, *pl. 61-78, 80-100.* (decas 7-10).
 (*4*): 33-48, *pl. 101-120.* (decas 11-12).
-(5): 49-56, *pl. 121-140.* 1872 (decas 13-14).
+(*5*): 49-56, *pl. 121-140.* 1872 (decas 13-14).
 (*6*): 57-64, *pl. 141-160.* (decas 15-16).
 (*7*): 65-80, *pl. 161-180.* (decas 17-18).
 (*8*): 81-88, *pl. 181-200.* (decas 19-20).
@@ -468,7 +471,8 @@ For precise dates (each signature came out separately) see p. 341. Second t.p. *
 (*9/10*): 45-52. *pl. 81-100.* 1898.
 (*11/12*): 53-68. *pl. 101-120.* 1898.
 (*13/14*): 69-83. *pl. 121-138b.* 1899.
-*24*: Sep 1903-Feb 1909 (t.p. 1909; see p. 213 for dates), p. \[ii-iii\], \[1\]-213, *pl. 139-151, 151\*, 152-301. First t.p.*: *Icones*... volumen xxiv. *Auctore* G. Equite Beck de Mannagetta et Lerchenau...". *Second t.p.*: *Polygonaceae*, Chenopodiaceae (incl. Amaranthaceis), Loranthaceae, Cornaceae, Spiraeaceae, Philadelphiaceae, Aizoaceae, Thelygonaceae ... Lipsiae et Gerae \[Leipzig, Gera\] (sumptibus Friederici de Zezschwitz). 1909. (*1*): 1-16, *pl. 139-153.* 1903.
+*24*: Sep 1903-Feb 1909 (t.p. 1909; see p. 213 for dates), p. \[ii-iii\], \[1\]-213, *pl. 139-151, 151\*, 152-301. First t.p.*: *Icones*... volumen xxiv. *Auctore* G. Equite Beck de Mannagetta et Lerchenau...". *Second t.p.*: *Polygonaceae*, Chenopodiaceae (incl. Amaranthaceis), Loranthaceae, Cornaceae, Spiraeaceae, Philadelphiaceae, Aizoaceae, Thelygonaceae ... Lipsiae et Gerae \[Leipzig, Gera\] (sumptibus Friederici de Zezschwitz). 1909. 
+(*1*): 1-16, *pl. 139-153.* 1903.
 (*2*): 17-48, *pl. 154-188.* 1904.
 (*3*): 49-64, *pl. 189-200.* 1905.
 (*4*): 65-80, *pl. 201-216.* 1906.
@@ -479,9 +483,9 @@ For precise dates (each signature came out separately) see p. 341. Second t.p. *
 *25*(*1*): 1909-1912 (t.p.; p. \[1\]: Jul 1909, insert p. \[v\]: Sep 1909), p. \[ii-v\], \[1\]-81, *pl. 1-79. First t.p.*: *Icones*... volumen xxv, pars I. *Auctore G. equite Beck de Mannagetta et Lerchenau.* Lipsiae et Gerae \[Leipzig, Gera\] (sumptibus Friederici de Zezschwitz) 1909-1912.
 *Second t.p.*: *Rosaceae*. I. Dryadeae (Potentilleae), Filipenduleae...".
 *25*(*2*): 1913-1914, 1-40, *pl. 80-119.*
-(1): 1-24. *pl. 80*–.1913.
-(2): 25-36. *pl*. –*115*. 1914.
-(3): 37-40. *pl. 110-119.* 24 Dec 1914.
+- (1): 1-24. *pl. 80*–.1913.
+- (2): 25-36. *pl*. –*115*. 1914.
+- (3): 37-40. *pl. 110-119.* 24 Dec 1914.
 *Ref*.: Hofmeister, F., Flora 21(2) Lit.-Ber. 12: 177-182. 28 Dec 1838 (reply to review in Flora Lit.-Ber. 7 Sep 1838), p. 182-184 (reply reviewer).
 
 |vol.	|pag.	|plate	|date	|author(s)	|content|

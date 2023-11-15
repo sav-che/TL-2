@@ -31,10 +31,10 @@ Ainsworth p. 121, 301; Barnhart 1: 527; Biol.-Dokum. 5: 65.137-65.141; BM 2: 557
 
 #### Composite works
 
-(1) Farmer was a.o. the co-editor with Sir Henry Charles Burdett (1847-1920), *Science Progress, a quarterly review of current scientific investigation*, vols. 1-7 (Mar 1894-Oct 1898); editor, *Gardeners Chronicle* (1904-1907); and co-editor, *Annals of Botany* (Oxford), vols. 20-50 and Id., ser. 2, vols. 1-4 (1906-1940).
-(2) Co-author in 1904, with John Edmond Sharrock (1870-1947), of the terms *meiosis* (originally misspelled "maiotic phase") and *mitosis*; see also Troyer, J.R., Arch. Nat. Hist. 18: 31-50. 1991.
-(3) Farmer, "assisted by a staff of specialists", edited *The book of nature study*... London (Caxton Publishing Company) \[1908-1910\], 6 vols.
-(4) With A.D. Darbishire transl. into English, H. de Vries, *Mutationstheorie*... \[1900\] 1901-1902, see TL-2/6, nr. 16.378; the transl., *The Mutation theory*... (1909-1910), subsequently reprinted... New York (Kraus Reprint) 1969.
+- (1) Farmer was a.o. the co-editor with Sir Henry Charles Burdett (1847-1920), *Science Progress, a quarterly review of current scientific investigation*, vols. 1-7 (Mar 1894-Oct 1898); editor, *Gardeners Chronicle* (1904-1907); and co-editor, *Annals of Botany* (Oxford), vols. 20-50 and Id., ser. 2, vols. 1-4 (1906-1940).
+- (2) Co-author in 1904, with John Edmond Sharrock (1870-1947), of the terms *meiosis* (originally misspelled "maiotic phase") and *mitosis*; see also Troyer, J.R., Arch. Nat. Hist. 18: 31-50. 1991.
+- (3) Farmer, "assisted by a staff of specialists", edited *The book of nature study*... London (Caxton Publishing Company) \[1908-1910\], 6 vols.
+- (4) With A.D. Darbishire transl. into English, H. de Vries, *Mutationstheorie*... \[1900\] 1901-1902, see TL-2/6, nr. 16.378; the transl., *The Mutation theory*... (1909-1910), subsequently reprinted... New York (Kraus Reprint) 1969.
 
 ### Publications
 

@@ -26,8 +26,8 @@ Barnhart 3: 428 (b. 14 Oct 1821, d. 15 Sep 1862); BM 5: 2196; Bossert p. 415; Ch
 
 #### Composite works
 
-(1) *Flora danica*, text and supervision of drawing for *plate 2700*, in fasc. 45, 1861.
-(2) Co-editor, *Tidsskrift for populære fremstillinger af Naturvidenskaben*, 1855.
+- (1) *Flora danica*, text and supervision of drawing for *plate 2700*, in fasc. 45, 1861.
+- (2) Co-editor, *Tidsskrift for populære fremstillinger af Naturvidenskaben*, 1855.
 
 #### Handwriting
 

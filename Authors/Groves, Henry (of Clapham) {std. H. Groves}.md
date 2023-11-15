@@ -10,7 +10,8 @@ Groves, Henry \[of Clapham\] (1855-1912), British algologist.
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Exsiccatae: (with his brother James Groves): *Characeae* *Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]]. Duplicates of higher plants are at [[Collection K|K]], [[Collection GL|GL]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SCBI|SCBI]].
+[[Collection BM|BM]].
+*Exsiccatae*: (with his brother James Groves): *Characeae* *Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]]. Duplicates of higher plants are at [[Collection K|K]], [[Collection GL|GL]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SCBI|SCBI]].
 *Ref*.: IH 2: 242-243. Kent p. 58.
 - Clokie, Account herbaria Oxford 175. 1964.
 - Koster, Taxon 18: 553. 1969.
@@ -27,8 +28,8 @@ Barnhart 2: 92; BB p. 133; BM 6: 413; CSP 10: 71, 12: 294, 15: 487.
 
 #### Composite works
 
-(1) \[with his brother, J. Groves\] *Characeae in* Urban, *Symb. ant.*: 7: 30-44. 1911.
-(2) Editor of Babington, *Manual of British botany* ed. 9 (1904).
+- (1) \[with his brother, J. Groves\] *Characeae in* Urban, *Symb. ant.*: 7: 30-44. 1911.
+- (2) Editor of Babington, *Manual of British botany* ed. 9 (1904).
 
 #### Eponymy
 

@@ -34,9 +34,9 @@ ADB 39: 56-57 (F. Otto); Backer p. 660; Barnhart 3: 169 (b. 27 Apr 1757, d. 19 D
 *1* (*Kenntniss der äusseren Theile*): 1812 (p. xiv: Apr 1811), p. \[i\]-xxxii, \[1\]-427 \[428 err.\], *pl. 1-4.*
 *2* (*Phanerog. Gew.*): 1812, p. \[i\]-xiv, \[xv\], \[1\]-586.
 *3* (*Kryptog. Gew.*): 21 Nov 1812-Jan 1813 (SY p. 45).
-(1):\[i\]-x, \[1\]-210.
-(2) (Flechten): \[1\]-190.
-(3) (Schwämme): \[1\]-407.
+- (1): \[i\]-x, \[1\]-210.
+- (2) (Flechten): \[1\]-190.
+- (3) (Schwämme): \[1\]-407.
 *Anhang*: see P.M. Opiz, *Deutschl. crypt. Gew.*, 1817, TL-2/7090.
 *Ed. 3*: 1823-1839, "J.C. Röhlings *Deutschlands Flora*. Nach einem veränderten und erweiterten Plane bearbeitet von Franz Carl Mertens \[1764-1831\],... und Wilhelm Daniel Joseph Koch \[1771-1849\],... Frankfurt am Main (bei Friedrich Wilmans) 1823-1839, 5 vols. †. *Copies*: BR, G, H, HH, M, MICH, MO, U, USDA, WAG; IDC 5581. – Vols. 1-3 by Mertens and Koch, vols. 4-5 by Koch alone.
 *1*(*1*): Jan-Mai 1823 (Flora rev. 6 Jul 1823), p. \[i\]-xxiv, \[1-4\], \[1\]-274.

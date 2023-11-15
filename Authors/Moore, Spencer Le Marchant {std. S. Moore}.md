@@ -31,11 +31,11 @@ Barnhart 2: 510; BL 1: 25, 47, 50, 61, 68, 69, 76, 119, 121, 227, 242, 309, 2: 2
 
 #### Composite works
 
-(1)Fawcett and Rendle, *Fl. Jamaica*, vol. 7, co-author, see no. 1745.
-(2) *Journal of botany*, assistant editor (to H. Trimen), vols. 17-17, 1877-1879.
-(3) Warren, J. B. L., *The flora of Cheshire*... edited by S. Moore... 1899; see under Warren.
-(4) Rendle, A. B., *Cat. pl. Talbot Oban distr.* 1913, co-author.
-(5) Rendle, A. B. et al., *Cat. S. Niger, pl.* 1913, co-author.
+- (1) Fawcett and Rendle, *Fl. Jamaica*, vol. 7, co-author, see no. 1745.
+- (2) *Journal of botany*, assistant editor (to H. Trimen), vols. 17-17, 1877-1879.
+- (3) Warren, J. B. L., *The flora of Cheshire*... edited by S. Moore... 1899; see under Warren.
+- (4) Rendle, A. B., *Cat. pl. Talbot Oban distr.* 1913, co-author.
+- (5) Rendle, A. B. et al., *Cat. S. Niger, pl.* 1913, co-author.
 
 #### Eponymy
 

@@ -47,13 +47,15 @@ Meine Erinnerungen an grosse Naturforscher, H. Kahler (Eisenach) 1904 (n.v.).
 
 #### Note
 
-(1) *Laubm. Aargau*... 1864 (TL-2/1, nr. 1982) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "1887D7-1888D1"). *Copy*: MO (n.v.).
-(2) The plates (nrs. 1-20) from *Bryol. atl.*... 1910 \[1911\] (see TL-2/1, nr. 1983) are available electronically (Bibliotheca Botanica, Original-Abhandlungen aus dem Gebiete der Botanik\[.\] Herausgegeben von Prof. Dr. Chr. Luerssen\[,\] Heft 73:...). The entire work (text and plates) is available electronically: MA (as "Biblioteca Digital").
+- (1) *Laubm. Aargau*... 1864 (TL-2/1, nr. 1982) is now available in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "1887D7-1888D1"). *Copy*: MO (n.v.).
+- (2) The plates (nrs. 1-20) from *Bryol. atl.*... 1910 \[1911\] (see TL-2/1, nr. 1983) are available electronically (Bibliotheca Botanica, Original-Abhandlungen aus dem Gebiete der Botanik\[.\] Herausgegeben von Prof. Dr. Chr. Luerssen\[,\] Heft 73:...). The entire work (text and plates) is available electronically: MA (as "Biblioteca Digital").
 
 #### Composite works
 
-(1) Co-author with K. Müller of "Laubmoose" *in* F. Buchenau, *Reliquiæ Rutenbergianæ*... Part 3, 27 Mai 1881, see TL-2/4: 1008 and Suppl. 3, nr. 23.498. Contributed to: (2) K. Schumann, *Fl. Kais. Wilh. Land*... 1889 (TL-2/5, nr. 11.368); and
-(3) H. Schinz, *Beiträge zur Kenntniss der Afrikanischen Flora*... part 4, Jun 1896 (TL-2/5, nr. 10.710).
+- (1) Co-author with K. Müller of "Laubmoose" *in* F. Buchenau, *Reliquiæ Rutenbergianæ*... Part 3, 27 Mai 1881, see TL-2/4: 1008 and Suppl. 3, nr. 23.498. 
+Contributed to:
+- (2) K. Schumann, *Fl. Kais. Wilh. Land*... 1889 (TL-2/5, nr. 11.368); and
+- (3) H. Schinz, *Beiträge zur Kenntniss der Afrikanischen Flora*... part 4, Jun 1896 (TL-2/5, nr. 10.710).
 
 ### Publications
 

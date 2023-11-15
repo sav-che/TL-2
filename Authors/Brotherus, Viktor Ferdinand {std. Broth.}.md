@@ -10,7 +10,8 @@ Brotherus, Viktor Ferdinand (1849-1929), Finnish bryologist, highschool teacher 
 
 #### Herbarium and types
 
-[[Collection H|H]](120.000); for further details see IH. *Exsiccatae*: I. *Bryotheca fennica* (fasc. 1-4 nos. 1-400, Helsingfors 1910-1916). Schedae issued with fascicles and in separate booklets. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection PC|PC]].
+[[Collection H|H]](120.000); for further details see IH.
+*Exsiccatae*: I. *Bryotheca fennica* (fasc. 1-4 nos. 1-400, Helsingfors 1910-1916). Schedae issued with fascicles and in separate booklets. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection PC|PC]].
 2. *Musci fenniae exsiccatae* (fasc. 1-9, nos. 1-450, Helsingfors 1871-1888); see e.g. Brotherus, die Laubmoose Fennoskandias (1923). Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PC|PC]].
 3. *Musci turkestanici* (nos. 1-136. 1899\[?\], 137-340, total number unknown, 1903 or 1904). Sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection K|K]], [[Collection PC|PC]].
 4. *Plantae lapponicae rariores*, 70 nos., only a few copies distributed.
@@ -37,8 +38,8 @@ Barnhart 1: 259; BM 1: 258, 6: 145-146; BL 2: 62, 96; Bossert p. 54; CSP 9: 367,
 
 #### Composite works
 
-(1) EP ed. 1: *Andreaeaceae, Bryales*, in I. 3: 265-268, 277-1246. 1901-1909 (for precise dates see under Engler and Prantl; see also Bryologist 7: 76-77. 1904 for a contemporary review).
-(2) *EP ed. 2*: *Andreaeaceae*, in 10: 129-131, 1924; *Bryales*, in 10: 143-478. 1924, 11: 1-522. 1925, reviews: Herzog, Z.f. Bot. 16: 684-685. 1924; Le Roy Andrews, Bryologist 28: 35-38. 1925; Möller, Sv. bot. Tidskr. 19: 290. 1925.
+- (1) EP ed. 1: *Andreaeaceae, Bryales*, in I. 3: 265-268, 277-1246. 1901-1909 (for precise dates see under Engler and Prantl; see also Bryologist 7: 76-77. 1904 for a contemporary review).
+- (2) *EP ed. 2*: *Andreaeaceae*, in 10: 129-131, 1924; *Bryales*, in 10: 143-478. 1924, 11: 1-522. 1925, reviews: Herzog, Z.f. Bot. 16: 684-685. 1924; Le Roy Andrews, Bryologist 28: 35-38. 1925; Möller, Sv. bot. Tidskr. 19: 290. 1925.
 
 #### Eponymy
 

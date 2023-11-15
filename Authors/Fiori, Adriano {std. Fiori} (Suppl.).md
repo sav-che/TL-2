@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection FI|FI]] (orig.), duplicates [[Collection A|A]], [[Collection B|B]], [[Collection BI|BI]], [[Collection BM|BM]], [[Collection E|E]], [[Collection E|E]]-GL, [[Collection FIAF|FIAF]], [[Collection FT|FT]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection PAD|PAD]], [[Collection PI|PI]], [[Collection SASSA|SASSA]], [[Collection TO|TO]]. – *Exsiccatae*: In addition to the *Flora Italica exsiccate*, ser. 1-3 (see TL-2/1: 832-833), Fiori also issued *Xylothomotheca Italica* ... (Firenze, before 1907-1912, or later; nos. 1-120, at least: in Nuovo Giorn. Bot. Ital., ser. 2): M. – Mss. in Univ. of Firenze.
+[[Collection FI|FI]] (orig.), duplicates [[Collection A|A]], [[Collection B|B]], [[Collection BI|BI]], [[Collection BM|BM]], [[Collection E|E]], [[Collection E|E]]-GL, [[Collection FIAF|FIAF]], [[Collection FT|FT]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection PAD|PAD]], [[Collection PI|PI]], [[Collection SASSA|SASSA]], [[Collection TO|TO]].
+*Exsiccatae*: In addition to the *Flora Italica exsiccate*, ser. 1-3 (see TL-2/1: 832-833), Fiori also issued *Xylothomotheca Italica* ... (Firenze, before 1907-1912, or later; nos. 1-120, at least: in Nuovo Giorn. Bot. Ital., ser. 2): M. – Mss. in Univ. of Firenze.
 
 #### Bibliography and biography
 
@@ -37,15 +38,15 @@ AG 12(3): 136; APN p. 201; Backer p. 650; Barnhart 1: 542; BFM p. 283 (index); B
 *Note*: (1) The entry for *Iconogr. fl. ital.*...1895-1904 (TL-2/1, nr. 1781) can be amended as follows:
 *Microfilm* \[*of Ed 1*\]: Washington, D.C. (Library of Congress), \[19--\], 1 reel (35 mm). *Copy*: LC (n.v.).
 *Facsimile* \[*of Ed. 3*\]: (a) 1970,... Edagricole (Bologna), x, 549 p. *Copy*: US. – In series, Opera botanica, vol. 3. (b) 1974,... Edagricole (Bologna), x, 549 p. Oct. *Copies*: K (n.v.), MO (n.v.), USDA (n.v.). – In series, Opera botanica, Sezione A, vol. 3.
-(2) The entry for *Nuova flora analitica d'Italia*... (TL-2/1, nr. 1783) can be amended as follows:
+- (2) The entry for *Nuova flora analitica d'Italia*... (TL-2/1, nr. 1783) can be amended as follows:
 *Reprint*: 1969,... Edagricole (Bologna), 2 vols. *Copy*: US. *Facsimile*: 1974,... Edagricole (Bologna), 2 vols. Oct. *Copies*: K (n.v.), MO (n.v.).
 
 #### Composite works
 
-(1) Co-author with G. Negri et. al., *Stato conosc. veg. Italia*... 1909, see TL-2/3, nr. 6715.
-(2) P.A. Saccardo, *Cron. fl. ital.*... (1909) has an additional t.p. \[=p. ii\*\] "*Flora analytica d'Italia* dei professori Adriano Fiori, Giulio Paoletti e Augusto Béguinot volume v...", see TL-2/4, nr. 9945.
-(3) Published "Boschi e ordinamento forestale nell'Eritrea", p. 353-373, *In*, L'*Eritrea economica*, Novara-Roma (Ist. Geogr. De Agostini) (1913).
-(4) Co-author with E. Chiovenda et al., *Embryophyta Siphonogame*...1939, see TL-2/ Suppl. 4, nr. 25.947.
+- (1) Co-author with G. Negri et. al., *Stato conosc. veg. Italia*... 1909, see TL-2/3, nr. 6715.
+- (2) P.A. Saccardo, *Cron. fl. ital.*... (1909) has an additional t.p. \[=p. ii\*\] "*Flora analytica d'Italia* dei professori Adriano Fiori, Giulio Paoletti e Augusto Béguinot volume v...", see TL-2/4, nr. 9945.
+- (3) Published "Boschi e ordinamento forestale nell'Eritrea", p. 353-373, *In*, L'*Eritrea economica*, Novara-Roma (Ist. Geogr. De Agostini) (1913).
+- (4) Co-author with E. Chiovenda et al., *Embryophyta Siphonogame*...1939, see TL-2/ Suppl. 4, nr. 25.947.
 
 ### Publications
 

@@ -27,7 +27,7 @@ Barnhart 1: 313 (b. 22 Jan 1836, Rumillies, Hainaut, d. 6 Sep 1899, Schuls, Enga
 
 #### Note
 
-(1) Originally published "*La Cellule*, recueil de Cytologie et d'histoire générale". Louvain vol. 1, 1884. – See also *Au lecteur* in *La Cellule* 1: 5-6. 1884.
+- (1) Originally published "*La Cellule*, recueil de Cytologie et d'histoire générale". Louvain vol. 1, 1884. – See also *Au lecteur* in *La Cellule* 1: 5-6. 1884.
 
 ### Publications
 

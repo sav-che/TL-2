@@ -22,8 +22,8 @@ Barnhart 2: 30; BL 2: 432, 657 (index, "b. 1877"); Bossert p. 140; IH 2: 217; Po
 
 #### Composite works
 
-(1) Edited W.F.R. Suringar, *Zakfl*...., ed. 9, 1903 (TL-2/6, nr. 13.434).
-(2) Contributed to F. Verdoorn, *Man. bryol.*... 1932 (TL-2/6, nr. 16.031).
+- (1) Edited W.F.R. Suringar, *Zakfl*...., ed. 9, 1903 (TL-2/6, nr. 13.434).
+- (2) Contributed to F. Verdoorn, *Man. bryol.*... 1932 (TL-2/6, nr. 16.031).
 
 ### Publications
 

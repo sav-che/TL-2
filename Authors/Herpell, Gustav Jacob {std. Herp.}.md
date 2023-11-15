@@ -8,7 +8,8 @@ Herpell, Gustav Jacob (1828-1912), German cryptogamist from the Rhine valley nea
 
 #### Herbarium and types
 
-[[Collection B|B]] (exsiccatae and dupl. extant); other material at [[Collection BP|BP]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]]. H's mosses came to [[Collection B|B]] in 1905 (not extant); his private herbarium is also no longer extant. Exsiccatae: *Sammlung präparierter Hutpilze*, St. Goar. Lief. 1-6, 1880-1892, 135 nos., sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]].
+[[Collection B|B]] (exsiccatae and dupl. extant); other material at [[Collection BP|BP]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]]. H's mosses came to [[Collection B|B]] in 1905 (not extant); his private herbarium is also no longer extant.
+*Exsiccatae*: *Sammlung präparierter Hutpilze*, St. Goar. Lief. 1-6, 1880-1892, 135 nos., sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection S|S]].
 
 | | | |
 |---|---|---|

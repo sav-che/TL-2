@@ -36,7 +36,8 @@ Barnhart 3: 492 (b. 20 Jan 1838, d. 12 Oct 1916); BFM 2957; Biol.-Dokum. 19: 100
 
 #### Festschrift
 
-(1) Linsbauer, K. et al., *Wiesner und seine Schule*. Ein Beitrag zur Geschichte der Botanik, Festschrift... Herrn... Wiesner... gewidmet von seinen Schülern, Wien (Alfred Hölder (...) 1903, xviii, 260 p. (with extensive dedication and bibl. 213 nos. up to 1903; portr.); *Supplement*, Wien (id.) 1910, 72 p., preface by A. Burgerstein. (2) *Wiesner-Festschrift* im Auftrage des Festkomitees redigiert von K. Linsbauer, Wien (Verlagsbuchhandlung Carl Konegen...) 1908,. viii, 548 p., *23 pl*.
+- (1) Linsbauer, K. et al., *Wiesner und seine Schule*. Ein Beitrag zur Geschichte der Botanik, Festschrift... Herrn... Wiesner... gewidmet von seinen Schülern, Wien (Alfred Hölder (...) 1903, xviii, 260 p. (with extensive dedication and bibl. 213 nos. up to 1903; portr.); *Supplement*, Wien (id.) 1910, 72 p., preface by A. Burgerstein.
+- (2) *Wiesner-Festschrift* im Auftrage des Festkomitees redigiert von K. Linsbauer, Wien (Verlagsbuchhandlung Carl Konegen...) 1908,. viii, 548 p., *23 pl*.
 
 #### Eponymy
 

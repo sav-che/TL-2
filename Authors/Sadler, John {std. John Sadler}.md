@@ -31,8 +31,8 @@ Barnhart 3: 198 (b. 3 Feb 1837, d. 9 Dec 1882); BB p. 266; BL 2: 301, 306, 309, 
 
 #### Composite works
 
-(1) J.H. Balfour (1808-1884), *Fl. Edinburgh* 1863; mosses, hepatics and lichens by J. Sadler; see TL-2/287; id. ed. 2, Edinburgh (Adam and Charles Black) 1871, p. \[i\]-vi, \[1\]-183, map. *Copy*: E (not mentioned under no. 287).
-(2) *Mr. John Sadler's list of arctic cryptogamic* and other plants, collected by Robert Brown, Esq., during the summer of 1861, on the islands of Greenland, in Baffin's Bay and Davis' Strait, and presented to the Herbarium of the Botanical Society, in Trans. bot. Soc. Edinburgh 7: 374-375. 1862, and in R.Jones, Manual of the natural history, geology, and physics of Greenland and the neighbouring regions... London 1875, p. 253-254.
+- (1) J.H. Balfour (1808-1884), *Fl. Edinburgh* 1863; mosses, hepatics and lichens by J. Sadler; see TL-2/287; id. ed. 2, Edinburgh (Adam and Charles Black) 1871, p. \[i\]-vi, \[1\]-183, map. *Copy*: E (not mentioned under no. 287).
+- (2) *Mr. John Sadler's list of arctic cryptogamic* and other plants, collected by Robert Brown, Esq., during the summer of 1861, on the islands of Greenland, in Baffin's Bay and Davis' Strait, and presented to the Herbarium of the Botanical Society, in Trans. bot. Soc. Edinburgh 7: 374-375. 1862, and in R.Jones, Manual of the natural history, geology, and physics of Greenland and the neighbouring regions... London 1875, p. 253-254.
 
 ### Publications
 

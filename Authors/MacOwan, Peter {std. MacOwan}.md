@@ -8,7 +8,8 @@ MacOwan, Peter (1830-1909), British botanist; B. A. Univ. London 1857; from 1861
 
 #### Herbarium and types
 
-[[Collection GRA|GRA]]. Duplicates see IH. Exsiccatae: *Herbarium austro-africanum* (with Harry Bolus, 1834-1911), cent. 1-20, 1855-1899, sets see IH.
+[[Collection GRA|GRA]]. Duplicates see IH.
+*Exsiccatae*: *Herbarium austro-africanum* (with Harry Bolus, 1834-1911), cent. 1-20, 1855-1899, sets see IH.
 
 #### Bibliography and biography
 

@@ -44,13 +44,13 @@ Ainsworth p. 62, 313, 346; Backer p. 494; Barnhart 3: 151 (b. 27 Apr 1794, d. 5 
 
 #### Composite works
 
-(1) Contributed to Bory de Saint-Vincent, J.G.B.A., *Dict. class. hist. nat.* 1822-1831, see TL-2/669.
-(2) Co-author, J.B.A. Guillemin, *Fl. Seneg. tent.* 1830-1833, see TL-2/2211.
-(3) Contributed to A.C.V.D. d'Orbigny, *Dict. univ. hist. nat.* 1839-1849, see TL-2/7096.
-(4) Contributed Phanerogamae of Cuba to R. de la Sagra, *Hist. fis. nat. Cuba*, 10, 11, 1845-1850, q.v.
-(5) Orchideae of Chile, in C. Gay, *Fl. chil.* vol. 5, 1849-1852, see TL-2/1975.
-(6) Dumont d'Urville, J.S.C., *Voy. Astrolabe, Botanique* par MM. A. Lesson et A. Richard \[part 2: par A. Richard\] 1832-1834, 2 parts, see TL-2/1556. *Copies*: of 2 vols. text and atlas: G, HH, M, MO, NY. – Addition to collation vol. 1: p. \[i\*-v\*\], \[i\]-xvi, \[xvii\], \[1\]-376. See also Sotheby 642: some copies have some coloured plates, of which the number seems to vary from copy to copy.
-(7) C.A. Lemaire, *Herbier général de l'amateur*, continuation(2), 5 vols. 1841-1850; see A. Richard, co-author, see TL-2/4962 under Loiseleur-Deslongchamps, J.L.A.
+- (1) Contributed to Bory de Saint-Vincent, J.G.B.A., *Dict. class. hist. nat.* 1822-1831, see TL-2/669.
+- (2) Co-author, J.B.A. Guillemin, *Fl. Seneg. tent.* 1830-1833, see TL-2/2211.
+- (3) Contributed to A.C.V.D. d'Orbigny, *Dict. univ. hist. nat.* 1839-1849, see TL-2/7096.
+- (4) Contributed Phanerogamae of Cuba to R. de la Sagra, *Hist. fis. nat. Cuba*, 10, 11, 1845-1850, q.v.
+- (5) Orchideae of Chile, in C. Gay, *Fl. chil.* vol. 5, 1849-1852, see TL-2/1975.
+- (6) Dumont d'Urville, J.S.C., *Voy. Astrolabe, Botanique* par MM. A. Lesson et A. Richard \[part 2: par A. Richard\] 1832-1834, 2 parts, see TL-2/1556. *Copies*: of 2 vols. text and atlas: G, HH, M, MO, NY. – Addition to collation vol. 1: p. \[i\*-v\*\], \[i\]-xvi, \[xvii\], \[1\]-376. See also Sotheby 642: some copies have some coloured plates, of which the number seems to vary from copy to copy.
+- (7) C.A. Lemaire, *Herbier général de l'amateur*, continuation(2), 5 vols. 1841-1850; see A. Richard, co-author, see TL-2/4962 under Loiseleur-Deslongchamps, J.L.A.
 
 #### Handwriting
 

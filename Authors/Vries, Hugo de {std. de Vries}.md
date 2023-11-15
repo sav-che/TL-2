@@ -83,8 +83,8 @@ P.H.W.A.M. de Veer, *Leven en werk van Hugo de Vries* 168. 1969; Pringsheim, E.G
 
 #### Festschrift
 
-(1) *Volume jubilaire Hugo de Vries* 16 févr. 1928, Rec. Trav. bot. Néerl. 25a, 1928, vi, 504 p. (frontisp. portr.).
-(2) *Hugo de Vries, 6 Vorträge* zur Feier seines 80. Geburtstages gehalten im Botanischen Institut Tübingen. Stuttgart 1929 (E. Lehmann, ed.; biogr. sketch by Th. Stomps).
+- (1) *Volume jubilaire Hugo de Vries* 16 févr. 1928, Rec. Trav. bot. Néerl. 25a, 1928, vi, 504 p. (frontisp. portr.).
+- (2) *Hugo de Vries, 6 Vorträge* zur Feier seines 80. Geburtstages gehalten im Botanischen Institut Tübingen. Stuttgart 1929 (E. Lehmann, ed.; biogr. sketch by Th. Stomps).
 
 ### Publications
 

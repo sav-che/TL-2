@@ -37,8 +37,8 @@ APN p. 211; Barnhart 2: 12; BM 6: 349; Bossert p. 134; Desmond p. 240, ed. 2: 26
 
 #### Composite works
 
-(1) *Syst. anat. dicot., Engl.*... 1908, 2 vols. (TL-2/5, nr. 12.367) is a transl. by Fritsch and L.A. Boodle of H. Solerader's work, which was originally published in German.
-(2) *Freshwater algæ* of the *South Orkneys*, part 9, p. 95-134, *pl. 1-2 in* Report on the scientific results of the Voyage of S.Y. "Scotia" during the years 1902, 1903 and 1904, under the leadership of William S. Bruce,... Vol. III Botany, Edinburgh 1912. *Copies*: BM, G, K (n.v.), US, WU.
+- (1) *Syst. anat. dicot., Engl.*... 1908, 2 vols. (TL-2/5, nr. 12.367) is a transl. by Fritsch and L.A. Boodle of H. Solerader's work, which was originally published in German.
+- (2) *Freshwater algæ* of the *South Orkneys*, part 9, p. 95-134, *pl. 1-2 in* Report on the scientific results of the Voyage of S.Y. "Scotia" during the years 1902, 1903 and 1904, under the leadership of William S. Bruce,... Vol. III Botany, Edinburgh 1912. *Copies*: BM, G, K (n.v.), US, WU.
 
 ### Publications
 

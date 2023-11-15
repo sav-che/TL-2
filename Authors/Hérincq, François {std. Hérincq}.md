@@ -16,10 +16,10 @@ AG 6(2): 154; Backer p. 262; Barnhart 2: 162; BM 2: 829; Bossert p. 172; Hortus 
 
 #### Composite works
 
-(1) text of part 6 of A. Lavallée, *Arboretum Segrezianum*, 1885.
-(2) see Jacques, A., *Manuel général des plantes*, 3-4 vols. \[1845\]-1857.
-(3) see P. O. Réveil et al., *Le régne végétal*, \[1864\] 1870-1871.
-(4) edited *L'Horticulteur français*, 1851-1872.
+- (1) text of part 6 of A. Lavallée, *Arboretum Segrezianum*, 1885.
+- (2) see Jacques, A., *Manuel général des plantes*, 3-4 vols. \[1845\]-1857.
+- (3) see P. O. Réveil et al., *Le régne végétal*, \[1864\] 1870-1871.
+- (4) edited *L'Horticulteur français*, 1851-1872.
 
 #### Eponymy
 

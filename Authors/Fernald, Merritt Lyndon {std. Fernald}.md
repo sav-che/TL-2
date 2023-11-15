@@ -36,8 +36,8 @@ Barnhart 1: 536; BL 1: 295 \[index\]; BM 6:321; Bossert p. 124; CSP 14: 970-971,
 
 #### Composite works
 
-(1) *Gray's Manual*, ed. 7, Aug-Sep 1908 (with B. L. Robinson), ed. 8, 29 Jun 1950 (with B. G. Schubert).
-(2) Editor of *Rhodora* 1899-1950, editor-in-chief 1929-1950.
+- (1) *Gray's Manual*, ed. 7, Aug-Sep 1908 (with B. L. Robinson), ed. 8, 29 Jun 1950 (with B. G. Schubert).
+- (2) Editor of *Rhodora* 1899-1950, editor-in-chief 1929-1950.
 
 #### Eponymy
 

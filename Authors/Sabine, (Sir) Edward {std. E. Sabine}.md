@@ -29,6 +29,6 @@ AG 2(1): 438; Backer p. 266; Barnhart 3: 197; BM 4: 1777; Bret. p. 251-252; CSP 
 
 #### Composite works
 
-(1) W.J. Hooker, *Some account of a collection of arctic plants formed by Edward Sabine*... Trans. Linn. Soc. 14: 360-394, *pl. 13.* 1824. See TL-2/2994 and... (W.E. Parry 1824).
-(2) See also W.E. Parry, J. Voy. North-West Passage, suppl. to appendix p. cclxi-cccx. 1824 and R. Brown, *Chlor. melvill.* 1823. The plants from Melville Island were collected by E. Sabine. See TL-2/831.
+- (1) W.J. Hooker, *Some account of a collection of arctic plants formed by Edward Sabine*... Trans. Linn. Soc. 14: 360-394, *pl. 13.* 1824. See TL-2/2994 and... (W.E. Parry 1824).
+- (2) See also W.E. Parry, J. Voy. North-West Passage, suppl. to appendix p. cclxi-cccx. 1824 and R. Brown, *Chlor. melvill.* 1823. The plants from Melville Island were collected by E. Sabine. See TL-2/831.
 

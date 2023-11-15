@@ -30,10 +30,10 @@ APN p. 197; Barnhart 1: 535; Biol.-Dokum. 6: 66.188-66.189; BL 2: 56, 652; BM 6:
 
 #### Composite works
 
-(1) Co-editor with Øjvind Winge (1886-1964) of *Meddelelser fra Foreningen til svampekundskabens fremme* (Bd. 1-4, 1912-1930).
-(2) First author, *Studies in the genus Entorrhiza*... 1914; see TL-2/7, nr. 17.932, where the title is treated under his co-author Ø. Winge (and where Ferdinandsen is cited as "Carl Christian Frederic(k)").
-(3) One of several collaborators with J.E. Lange, *Fl. agaric. danic.*... 1935-1940, see TL-2/2, nr. 4178.
-(4) Introductory biographical sketch *in* O.G.F. Rostrup, *Bidrag til Danmarks svampeflora ii*... 1935, see TL-2/4, nr. 9621.
+- (1) Co-editor with Øjvind Winge (1886-1964) of *Meddelelser fra Foreningen til svampekundskabens fremme* (Bd. 1-4, 1912-1930).
+- (2) First author, *Studies in the genus Entorrhiza*... 1914; see TL-2/7, nr. 17.932, where the title is treated under his co-author Ø. Winge (and where Ferdinandsen is cited as "Carl Christian Frederic(k)").
+- (3) One of several collaborators with J.E. Lange, *Fl. agaric. danic.*... 1935-1940, see TL-2/2, nr. 4178.
+- (4) Introductory biographical sketch *in* O.G.F. Rostrup, *Bidrag til Danmarks svampeflora ii*... 1935, see TL-2/4, nr. 9621.
 
 ### Publications
 

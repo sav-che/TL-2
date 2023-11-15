@@ -27,7 +27,7 @@ Barnhart 1: 278 (b. 3 Mai 1848, Frankfurt a.M., d. 2 Feb 1920, Heidelberg); BM 1
 
 #### Composite works
 
-(1) Kirchner, Blochmann and Bütschli, *Die mikroskopische Pflanzenwelt des Süsswassers*, see E.O.O. Kirchner, TL-2/3664 (Nat. Nov. Jan (2) 1885).
+- (1) Kirchner, Blochmann and Bütschli, *Die mikroskopische Pflanzenwelt des Süsswassers*, see E.O.O. Kirchner, TL-2/3664 (Nat. Nov. Jan (2) 1885).
 
 ### Publications
 

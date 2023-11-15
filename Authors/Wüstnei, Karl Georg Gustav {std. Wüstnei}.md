@@ -8,7 +8,8 @@ Wüstnei, Karl Georg Gustav (1810-1858), German (Mecklenburg-Schwerin) high scho
 
 #### Herbarium and types
 
-Owned a large herbarium which was offered for sale after his death; present location unknown. – Some material in [[Collection B|B]] ("Flora Suerin", mycol. herb. extant), [[Collection GOET|GOET]] (bryoph.), [[Collection M|M]] (lich.), [[Collection WRSL|WRSL]] (bryoph., lich.). Further specimens in [[Collection L|L]]. Rabenhorst, *Hepaticae europaeae* and *Bryotheca europaea*, q.v. *Exsiccatae*: *Lebermoose Mecklenburgs*, 1 Heft 1851. – *Letters* at [[Collection G|G]].
+Owned a large herbarium which was offered for sale after his death; present location unknown. – Some material in [[Collection B|B]] ("Flora Suerin", mycol. herb. extant), [[Collection GOET|GOET]] (bryoph.), [[Collection M|M]] (lich.), [[Collection WRSL|WRSL]] (bryoph., lich.). Further specimens in [[Collection L|L]]. Rabenhorst, *Hepaticae europaeae* and *Bryotheca europaea*, q.v.
+*Exsiccatae*: *Lebermoose Mecklenburgs*, 1 Heft 1851. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

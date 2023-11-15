@@ -45,11 +45,11 @@ Gams & Paul Ozenda, *Alpenblumen*, farbige Wunder... 1963, 2 vols.; Ed. 5... 196
 
 #### Composite works
 
-(1) One of many collaborators with G. Hegi, *Ill. Fl. Mitt.-Eur.*... \[1906-1931\], 7 vols. (TL-2/2, nr. 2571).
-(2) Co-author with G.E. Du Rietz, *Bestandstreue Pflanzengesellschaften*... 1924 (TL-2/ Suppl. 6, nr. 32.100).
-(3) Co-author with Friedrich Morton, *Höhlenpflanzen*, Wien (Eduard Hölzel), 1925. In series, Speläologische Monographie, Bd. 5
-(4) Contributed *Schistostega osmundacea* (i.e. maps 9-10) to E. Hannig & H. Winkler, *Pflanzenareale*... Zweite Reihe, Heft 1... 1928 (TL-2/7: nr. 17.993).
-(5) One of many collaborators with F. Verdoorn:
+- (1) One of many collaborators with G. Hegi, *Ill. Fl. Mitt.-Eur.*... \[1906-1931\], 7 vols. (TL-2/2, nr. 2571).
+- (2) Co-author with G.E. Du Rietz, *Bestandstreue Pflanzengesellschaften*... 1924 (TL-2/ Suppl. 6, nr. 32.100).
+- (3) Co-author with Friedrich Morton, *Höhlenpflanzen*, Wien (Eduard Hölzel), 1925. In series, Speläologische Monographie, Bd. 5
+- (4) Contributed *Schistostega osmundacea* (i.e. maps 9-10) to E. Hannig & H. Winkler, *Pflanzenareale*... Zweite Reihe, Heft 1... 1928 (TL-2/7: nr. 17.993).
+- (5) One of many collaborators with F. Verdoorn:
 (a) *Man. bryol.*... 1932 (TL-2/6, nr. 16.031).
 (b) *Man. pteridol.*... 1938 (TL-2/6, nr. 16.041).
 

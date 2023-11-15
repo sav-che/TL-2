@@ -8,7 +8,8 @@ Libert, Marie-Anne (1782-1865), Belgian botanist, born in Malmédy.
 
 #### Herbarium and types
 
-[[Collection BR|BR]]; other material at [[Collection LG|LG]]. – Exsiccatae: *Plantae cryptogamicae quas in Arduenna* collegit, fasc. 1-4, nos. 1-400, 1830-1837, sets at [[Collection B|B]] (destroyed), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LG|LG]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]]. – L's library was dispersed by sale in Nov 1861. The manuscript of the text accompanying the *Plantae cryptogamicae* is at [[Collection BR|BR]]. – Specimens from the Libert herbarium were distributed by BR in 1879-1881 as *Reliquiae Libertianae*, types originaux don du Jardin Royal de Bruxelles". See Marchal (1872) and Thümen (1888); see also Bull. Soc. bot. France 27(bibl.): 47. 1880.
+[[Collection BR|BR]]; other material at [[Collection LG|LG]].
+*Exsiccatae*: *Plantae cryptogamicae quas in Arduenna* collegit, fasc. 1-4, nos. 1-400, 1830-1837, sets at [[Collection B|B]] (destroyed), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LG|LG]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]]. – L's library was dispersed by sale in Nov 1861. The manuscript of the text accompanying the *Plantae cryptogamicae* is at [[Collection BR|BR]]. – Specimens from the Libert herbarium were distributed by BR in 1879-1881 as *Reliquiae Libertianae*, types originaux don du Jardin Royal de Bruxelles". See Marchal (1872) and Thümen (1888); see also Bull. Soc. bot. France 27(bibl.): 47. 1880.
 
 #### Note
 
@@ -39,7 +40,7 @@ AG 2(1): 600; Backer p. 328; Barnhart 2: 378; Bossert p. 237; CSP 4: 5, 8: 220, 
 
 #### Composite works
 
-(1) Lejeune, *Fl. environs Spa* 2: 272-285. 1815 (vascular cryptograms). (2) See Roumeguère, C., for *Reliquiae mycologicae libertianae*.
+- (1) Lejeune, *Fl. environs Spa* 2: 272-285. 1815 (vascular cryptograms). (2) See Roumeguère, C., for *Reliquiae mycologicae libertianae*.
 
 #### Memorial publication
 

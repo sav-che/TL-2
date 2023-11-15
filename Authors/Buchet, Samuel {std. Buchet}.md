@@ -21,7 +21,7 @@ Barnhart 1: 274; Kew 1: 409; LS 32.750; LS suppl. 4062-4072, 6996; NAF 1(1): 155
 
 #### Composite works
 
-(1) S. Buchet translated and annotated N.A. Naumov, *Clés des Mucorinées*, TL-2/6657 q.v.
+- (1) S. Buchet translated and annotated N.A. Naumov, *Clés des Mucorinées*, TL-2/6657 q.v.
 
 #### Outside our period
 

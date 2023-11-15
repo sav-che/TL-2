@@ -32,8 +32,8 @@ Barnhart 3: 56; BJI 2: 131; Christiansen no. 112; Futák-Domin p. 457; GR p. 119
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien* ed. 2, *Sphagnaceae*, 10: 105-125. Mai-Jun 1924.
-(2) A. Pascher, *Süssw*.-*Fl. Mitteleur.* ed. 2. *Sphagnales, in* 14:\[1\]-46. 1931 (see e.g. Rev. bryol. lichén. 4: 95. 31 Dec 1931).
+- (1) EP, *Die natürlichen Pflanzenfamilien* ed. 2, *Sphagnaceae*, 10: 105-125. Mai-Jun 1924.
+- (2) A. Pascher, *Süssw*.-*Fl. Mitteleur.* ed. 2. *Sphagnales, in* 14:\[1\]-46. 1931 (see e.g. Rev. bryol. lichén. 4: 95. 31 Dec 1931).
 
 #### Eponymy
 

@@ -58,14 +58,14 @@ AG 3: 853, 6(1): 25; Backer p. 485; Barnhart 3: 138 (b. 1/13 Aug 1815, d. 15/27 
 
 #### Composite works
 
-(1) Editor of *Gartenflora* 1852-1884, (1852-1930 and index available on IDC), see below.
-(2) *Betulaceae*, in DC, Prodromus 16(2): 161-190, 684. med. Jul 1868.
-(3) With J.J. Schmitz, q.v., *Flora bonnensis*, Bonn 1841.
-(4) F.E.L. von Fischer et al., *Sertum petropolitanum*, see TL-2/1788, decas 3/4, 1869, by E.A. von Regel; *copies*: BR, G, NY.
-(5) With E.R. v. Trautvetter, q.v., *Decas plantarum novarum*, 1882.
-(6) With O. Heer, Schweizerische Zeitschrift für Land– und Gartenbau, 1843-1847.
-(7) *Turkestanskaia Flora*, in A.P. Fedchenko, *Putesh. Turkestan* 3(1): \[i-viii\], \[1\]-164, \[165\], *22 pl. Copy*: M. – TL-2/1748.
-(8) *Descriptiones plantarum novarum*, in A.P. Fedchenko, *Putesh. Turkestan* 3(3), p. \[i-v\], \[1\]-89. 1882. *Copies*: H, M. – TL-2/1748.
+- (1) Editor of *Gartenflora* 1852-1884, (1852-1930 and index available on IDC), see below.
+- (2) *Betulaceae*, in DC, Prodromus 16(2): 161-190, 684. med. Jul 1868.
+- (3) With J.J. Schmitz, q.v., *Flora bonnensis*, Bonn 1841.
+- (4) F.E.L. von Fischer et al., *Sertum petropolitanum*, see TL-2/1788, decas 3/4, 1869, by E.A. von Regel; *copies*: BR, G, NY.
+- (5) With E.R. v. Trautvetter, q.v., *Decas plantarum novarum*, 1882.
+- (6) With O. Heer, Schweizerische Zeitschrift für Land– und Gartenbau, 1843-1847.
+- (7) *Turkestanskaia Flora*, in A.P. Fedchenko, *Putesh. Turkestan* 3(1): \[i-viii\], \[1\]-164, \[165\], *22 pl. Copy*: M. – TL-2/1748.
+- (8) *Descriptiones plantarum novarum*, in A.P. Fedchenko, *Putesh. Turkestan* 3(3), p. \[i-v\], \[1\]-89. 1882. *Copies*: H, M. – TL-2/1748.
 
 #### Handwriting
 

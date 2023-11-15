@@ -23,7 +23,7 @@ Barnhart 1: 346 (b. 17 Apr 1898, Oslo); BL 1: 290 (index), BL 2: 442, 443; GR p.
 
 #### Composite works
 
-(1) Continued O.A. Hoffstad, *Norsk flora* (TL-2/2914) as ed. 9, 444 p. 1944.
+- (1) Continued O.A. Hoffstad, *Norsk flora* (TL-2/2914) as ed. 9, 444 p. 1944.
 
 #### Outside our period
 

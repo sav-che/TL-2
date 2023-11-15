@@ -8,7 +8,8 @@ Schemmann, Wilhelm (1845-ca. 1920), German (Prussian) botanist and school-teache
 
 #### Herbarium and types
 
-[[Collection MSTR|MSTR]]; other material at [[Collection E|E]], [[Collection GB|GB]], [[Collection GOET|GOET]] and [[Collection M|M]]. *Exsiccatae*: *Deutsche Glumaceen*, 3 Lief., 1920-1921, 177 nos.; *Deutschlands Gramineen* 1892-1896, 266 nos. and various irregular sets of flowering plants and cryptogams.
+[[Collection MSTR|MSTR]]; other material at [[Collection E|E]], [[Collection GB|GB]], [[Collection GOET|GOET]] and [[Collection M|M]].
+*Exsiccatae*: *Deutsche Glumaceen*, 3 Lief., 1920-1921, 177 nos.; *Deutschlands Gramineen* 1892-1896, 266 nos. and various irregular sets of flowering plants and cryptogams.
 
 #### Bibliography and biography
 

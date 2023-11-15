@@ -48,33 +48,33 @@ Ainsworth p. 8, 56, 91-92, 273, 312; Backer p. 540; Barnhart 3: 305 (b. 21 Mar 1
 #### Composite works
 
 The following list of botanical works to which James Sowerby contributed illustrations is mainly based on Cleevely (1974). – See also Collins (1973, p. 11-15).
-(1) Lightfoot, J., *Fl. scot.* 1777, ed. 2. 1789, reissue 1792. TL-2/4522. – A few plates by J.S. (e.g. *30-32, 34*).
-(2) Curtis, W., *Linn. Syst. bot.* 1777, TL-2/1287. *3 pl*. signed by J.S.
-(3) Curtis, W., *Fl. lond.* 1775-1798 and further eds., TL-2/1286. *51 pl*. by J.S. see Cleevely.
-(4) L'Héritier de Brutelle, C.L., *Stirp nov*. 1785-1791, TL-2/4484, *pl. 42* by J.S.
-(5) Whithering, W., *An account of the foxglove*,... 1785. For a discussion of S.'s possible contribution to this paper see Stevenson, Hunt. Cat. 2(2): 453 (no. 676), and Cleevely.
-(6) Relhan, R., *Fl. cantabr.* 1785, TL-2/8973, the 7 plates were engraved by S. after drawings by James Bolton.
-(7) Dickson, J., *Fasc. pl. crypt. Brit.*, 1785-1801, TL-2/1442; all plates by S., original drawings at BM(NH).
-(8) L'Héritier de Brutelle, C.L., *Geraniologia* 1787-1792, TL-2/4494; *6 plates* by S.
-(9) Curtis, W., *Bot. mag.*, TL-2/1290; see Cleevely for a list of plates by S.
-(10) Driver, A. & W., *The pomona britanica* 1788, *8 pl*. by S.; Collins (1973: 6) suggests that the text may also be by S.; Cleevely, however, is "unwilling to believe that he was responsible".
-(11) L'Héritier de Brutelle, C.L., *Sert. angl.* 1789-1791, TL-2/4492; *pl. 1, 3-7, 9, 22, 26, 29* by S; see W. Blunt, in *Sert. angl.* facs. éd. 1963, p. lxi-lxvi.
-(12) Aiton, W., *Hort. kew.* 1789, éd. 2, 1810-1813. TL-2/72-73. *pl. 1, 2, 12* by S., originals at BM(NH).
-(13) Smith, J.E., *PL icon. in ed.* 1790-1791. TL-2/12.220 *2 pl*. by S.
-(14) Smith, J.E., *Icon. pict. pl. rar.* 1790-1792. TL-2/12.222. All *18 pl*. by S.
-(15) Woodville, W., *Medical botany*. 1790-1793. All (*274*) *pl*. by S.
-(16) Smith, J.E. & J. Sowerby, *English botany*. – See under J.E. Smith, see also Garry (1905).
-(17) Salisbury, R.A., *Icon. stirp. rar.* 1791, TL-2/10.118, all (*20*) *pl*. by S.
-(18) Smith, J.E., *Spicil. bot.* 1792, TL-2/12.223, all (*24*) *pl*. by S.
-(19) Smith, J.F., *Spec. bot. New Holland* 1793-1795, TL-2/12.229, *16 pl*. by S.
-(20) Fraser, J., *Thalia* (*?*) *dealbata*. Discovered growing in a lake, in North America in 1790, *1 pl*. by S., see also J. Bot. 43: 329-331. 1905.
-(21) Thornton, R.J., New illustration of the sexual system of C. von Linnaeus, 1799. – *pl. 86* by S.
-(22) Lambert, A.B., *Descr. Pinus* 1803-1825, TL-2/4146, *4 pl*. by S. in vol. 1, 6 in vol. 2.
-(23) Smith, J.E. & J. Sowerby, *Exot. bot.* 1804-1805 \[1808\], TL-2/12.244, *120 pl*. by S.
-(24) Sibthorp, J. and J.E. Smith, *Fl. graec.* TL-2/11.935, all plates engraved by James Sowerby and other members of the family (orig. drawings: Fe. Bauer).
-(25) Smith, J.E., *Intr. physiol. syst. bot.* 1807, TL-2/12.249, *15 pl*. by S.
-(26) Keith, Patrick, *A system of physiological botany*, London (Baldwin, Cradock & Joy) 1816, x, 478 and iii, 526 p., *9 pl*. by S.
-(27) Graves, George, *A monograph of the British grasses*, London 1822-1833, v, \[71\] p., *48 col. pl.*, possibly copied after Fl. lond. originals.
+- (1) Lightfoot, J., *Fl. scot.* 1777, ed. 2. 1789, reissue 1792. TL-2/4522. – A few plates by J.S. (e.g. *30-32, 34*).
+- (2) Curtis, W., *Linn. Syst. bot.* 1777, TL-2/1287. *3 pl*. signed by J.S.
+- (3) Curtis, W., *Fl. lond.* 1775-1798 and further eds., TL-2/1286. *51 pl*. by J.S. see Cleevely.
+- (4) L'Héritier de Brutelle, C.L., *Stirp nov*. 1785-1791, TL-2/4484, *pl. 42* by J.S.
+- (5) Whithering, W., *An account of the foxglove*,... 1785. For a discussion of S.'s possible contribution to this paper see Stevenson, Hunt. Cat. 2(2): 453 (no. 676), and Cleevely.
+- (6) Relhan, R., *Fl. cantabr.* 1785, TL-2/8973, the 7 plates were engraved by S. after drawings by James Bolton.
+- (7) Dickson, J., *Fasc. pl. crypt. Brit.*, 1785-1801, TL-2/1442; all plates by S., original drawings at BM(NH).
+- (8) L'Héritier de Brutelle, C.L., *Geraniologia* 1787-1792, TL-2/4494; *6 plates* by S.
+- (9) Curtis, W., *Bot. mag.*, TL-2/1290; see Cleevely for a list of plates by S.
+- (10) Driver, A. & W., *The pomona britanica* 1788, *8 pl*. by S.; Collins (1973: 6) suggests that the text may also be by S.; Cleevely, however, is "unwilling to believe that he was responsible".
+- (11) L'Héritier de Brutelle, C.L., *Sert. angl.* 1789-1791, TL-2/4492; *pl. 1, 3-7, 9, 22, 26, 29* by S; see W. Blunt, in *Sert. angl.* facs. éd. 1963, p. lxi-lxvi.
+- (12) Aiton, W., *Hort. kew.* 1789, éd. 2, 1810-1813. TL-2/72-73. *pl. 1, 2, 12* by S., originals at BM(NH).
+- (13) Smith, J.E., *PL icon. in ed.* 1790-1791. TL-2/12.220 *2 pl*. by S.
+- (14) Smith, J.E., *Icon. pict. pl. rar.* 1790-1792. TL-2/12.222. All *18 pl*. by S.
+- (15) Woodville, W., *Medical botany*. 1790-1793. All (*274*) *pl*. by S.
+- (16) Smith, J.E. & J. Sowerby, *English botany*. – See under J.E. Smith, see also Garry (1905).
+- (17) Salisbury, R.A., *Icon. stirp. rar.* 1791, TL-2/10.118, all (*20*) *pl*. by S.
+- (18) Smith, J.E., *Spicil. bot.* 1792, TL-2/12.223, all (*24*) *pl*. by S.
+- (19) Smith, J.F., *Spec. bot. New Holland* 1793-1795, TL-2/12.229, *16 pl*. by S.
+- (20) Fraser, J., *Thalia* (*?*) *dealbata*. Discovered growing in a lake, in North America in 1790, *1 pl*. by S., see also J. Bot. 43: 329-331. 1905.
+- (21) Thornton, R.J., New illustration of the sexual system of C. von Linnaeus, 1799. – *pl. 86* by S.
+- (22) Lambert, A.B., *Descr. Pinus* 1803-1825, TL-2/4146, *4 pl*. by S. in vol. 1, 6 in vol. 2.
+- (23) Smith, J.E. & J. Sowerby, *Exot. bot.* 1804-1805 \[1808\], TL-2/12.244, *120 pl*. by S.
+- (24) Sibthorp, J. and J.E. Smith, *Fl. graec.* TL-2/11.935, all plates engraved by James Sowerby and other members of the family (orig. drawings: Fe. Bauer).
+- (25) Smith, J.E., *Intr. physiol. syst. bot.* 1807, TL-2/12.249, *15 pl*. by S.
+- (26) Keith, Patrick, *A system of physiological botany*, London (Baldwin, Cradock & Joy) 1816, x, 478 and iii, 526 p., *9 pl*. by S.
+- (27) Graves, George, *A monograph of the British grasses*, London 1822-1833, v, \[71\] p., *48 col. pl.*, possibly copied after Fl. lond. originals.
 
 #### Handwriting
 

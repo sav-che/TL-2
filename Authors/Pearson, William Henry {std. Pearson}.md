@@ -8,8 +8,9 @@ Pearson, William Henry (1849-1923), British businessman (yarn agent) and hepatic
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (9000 Brit. \[and some exotic\] Hepat.; acquired 1902; many types, esp. of *Hepat. Brit. Isl.*) and [[Collection MANCH|MANCH]] (exot.); further material in [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GL|GL]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection W|W]], [[Collection WELC|WELC]]. – *Exsiccatae*: (1) with Benjamin Carrington (1827-1893), q.v.: *Hepaticae britannicae exsiccatae*, fasc. 1-4 nos. 1-290. 1878-1890. Sets: see under Carrington. –
-(2) *Canadian hepaticae*, collected and distributed by John Macoun, named by W.H. Pearson, 116 nos., 1891, (see note by E.G. Britton in Bull. Torrey bot. Club 19: 97. 1892), sets at [[Collection BM|BM]], and [[Collection FH|FH]], see IH 2: 487. – Further sets of British hepatics were issued after 1890; the contents of these sets varied; they do not constitute regular exsiccatae; see e.g. Rev. bryol. 30: 60. 1903, 35: 84. 1908, 37: 28. 1910, 38: 96. 1911.
+[[Collection BM|BM]] (9000 Brit. \[and some exotic\] Hepat.; acquired 1902; many types, esp. of *Hepat. Brit. Isl.*) and [[Collection MANCH|MANCH]] (exot.); further material in [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GL|GL]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection W|W]], [[Collection WELC|WELC]].
+*Exsiccatae*: (1) with Benjamin Carrington (1827-1893), q.v.: *Hepaticae britannicae exsiccatae*, fasc. 1-4 nos. 1-290. 1878-1890. Sets: see under Carrington. –
+- (2) *Canadian hepaticae*, collected and distributed by John Macoun, named by W.H. Pearson, 116 nos., 1891, (see note by E.G. Britton in Bull. Torrey bot. Club 19: 97. 1892), sets at [[Collection BM|BM]], and [[Collection FH|FH]], see IH 2: 487. – Further sets of British hepatics were issued after 1890; the contents of these sets varied; they do not constitute regular exsiccatae; see e.g. Rev. bryol. 30: 60. 1903, 35: 84. 1908, 37: 28. 1910, 38: 96. 1911.
 Some letters at [[Collection G|G]].
 
 #### Bibliography and biography

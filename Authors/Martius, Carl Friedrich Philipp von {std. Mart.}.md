@@ -21,56 +21,67 @@ Martius used the pseudonym "Suitram" in some of his writings (see Carus et Marti
 
 ADB 20: 517-527; AG 2(2): 354, 3: 431, 7: 147; Backer p. 356; Barnhart 2: 455; BL 1: 238, 239, 308; Blunt p. 248; BM 3: 1254-1257, 7: 805; Bossert p. 255; CSP 4: 266-269, 8: 348, 12: 490, 17: 64; DSB 9: 148-149; DTS 1: 182-183; DU 192; Frank 3(Anh.): 62-63; GF p. 66; GR p. 30-31; Hawksworth p. 184, 196; Herder p. 59; Hortus 3: 1199 ("Mart."); IF p. 717; Jackson p. 578; Kew 3: 607-609; Klinge p. 27; Krempelh. 2: 7-8; Langman p. 483; Lasègue p. 230-233,575 \[index\]; Lenley p. 281,464; LS 17025-17042, suppl. 17519-17520; Maiwaldp. 89, 106, 118, 144; Moebius p. 278, 375; MW p. 300; NI 1284-1288; PH 364, 438, 567; Plesch p. 327; PR 5882-5913 (ed. 1: 6581-6615); Quenstedt p. 282-283; Rehder 5: 550-551; RS p. 117-118; SBC p. 126 ("Mart."); SK 1: cxcix; Sotheby 503-504; SO add. 809c, 2057a, 2694, add. 2699a; Stevenson p. 1250; TL-2/191,389, 1156, 1649, 3035, 3972, see indexes; Tucker 1: 465-466; Zander ed. 10, p. 689, ed. 11, p. 785-786.
 
-#### Key words secondary referenges
+#### Key words \[and\] secondary referenges
 
-*Bibliography*: BM, CSP, DTS, Jackson, Kew, MW, NI, Plesch, PR, Rehder, SK, Sotheby, Tucker: *Biography*: Anon., 1869 (Landshut); Candolle 1856, 1857, 1862; Mägdefrau 1971, 1973, 1978; Merxmüller 1969, 1971, 1977; Poggendorff 1863, 1898; Renner 1959; Sommer 1953; ADB, Barnhart, DSB; *Brazilian journey* (see also *Reise*): Papavero 1971; Prance 1971; Rau 1871; Ross 1917; Schramm 1869; Schrank 1818; Urban 1906; *Bust*: Goebel 1905; *Correspondence*: Anon. 1932 (with Goethe); Bay 1892; Carus 1939 (Schmid 1939); Gray 1893; Kühnel 1960; Lawrence 1964; Mettenius 1882; Miller 1970; Lenley; *Fl. bras*: Loesener 1907 (end of work); Seeman 1867; Urban 1908; *Herbarium collections*: Anon. 1869 (ÖbZ); Candolle 1880; Eichler 1869; Fryxell 1976; Hedge 1970; Huxley 1912; Jackson. 1901; Kukkonen 1971; Laundon 1979; Seemann 1869, 1870; Lasègue; *Illustrated works*: NI, Plesch, Sotheby; *Reise Brasilien*: Mägdefrau 1966; *Medal*: Fenzl 1864, Haidinger 1864; *Obituaries*: Bentham 1869; Meissner 1869; Postel 1871; *Palms*: Dugand 1942; Egge 1979; *Portraits*: Mihier 1906; Spring 1970; Wittrock 1905. Andrews, H. N., The fossil hunters 60-61. 1980.
-Anon., Almanach Akad.Wien 2: 174-179. 1852 (bibl.); Bonplandia 2: 258. 1854 (retires as prof. bot. and dir. gard.), 6: 322. 1858 (Geh. Hofrath Bayern), 7: 54. 1859 (member Leop. 12 Mai 1816, cogn. Callisthenes, adjunct \[council member\] 10 Dec 1840, titles); Ber. bot. Ver. Landshut 2: 156-159. 1869 (obit., b. 17 Apr 1793, d. 13 Dec 1868); Exposição comemorativa do centenario de morte de Karl Friedrich Philipp von Martius 1868-1968. Bibliotheca nacional, Rio de Janeiro 1968, 46 p. (portr., catalogue of exhibit of works and letters by and on Martius); Flora 51: 529. 1868; Bot. Zeit. 26: 912. 1868; Goethe und Martius, Arthur Nemayer Verlag, Mittenwald (Bayern), 1932, 111 p.
-(portr., correspondence); J. Bot. 8: 63. 1870 (on sale of Martius' library); Österr. bot. Z. 19: 24 (death; b. 17 Apr 1794. d. 15 Dec 1868), 63. 1869 (Govt. Bayern will buy M's remaining collections), 16: 298. 1866 (50 years member Leopoldina).
-Barnhart, J. H., Mem. Torrey bot. Club 16: 296. 1921.
-Bay, J. C. *in* Leimbach Deutsche botanische Monatschrift. 10(9-12): 144-148. 1892, \[4 p.\]. reprint at MO (two letters).
-Bentham, G., Proc. Linn. Soc. London 1868/69: exxiii-lxv. 1869.
-Campos, P. M., Rev. Hist. 43: 241-248. 1971, fide Excerpta bot. A 22: 130. 1973. Candolle, Alph. de, Notice sur la vie et les ouvrages de M. de Martius. Genève 1856, 29 p. (reprinted from Bibl. univ. Genève, Jan 1856), see also Ill. hort. 5: 52-54. 1858; Phytographie 432. 1880 (coll.).
-Candolle, Alph. de, *in* W.J. Hooker, J. Bot. Kew Gard. Misc. 8: 362-369. 1856, 9: 6-10, 41-47. 1857.
-Candolle, A. P. de, Mém. souv. 4, 374, 377, 388, 453, 588. 1862.
-Carus, C. C, Leopoldina 12: 103-111. 1869 ("Erinnerungen"); with C. F. P. von Martius, Eine Altersfreundschaft in Briefen, 1939.
-Coats, A. M., The plant hunters 354. 1969.
-Dugand, A., Rev. Acad. Colomb. Cienc. 5: 212-216. 1942 (type localities of palms). Egge, R. G, Principes 23(4): 158-170. 1979 ("father of Palms").
-Eichler, A. W., Das Herbarium Martii. München 1869, 24 p. (descr. of herb, at BR); Flora 52: 3-13, 17-24. 1869, also separately: C. F. Ph. von Martius, Eine biographische Skizze, Regensburg 1869 (contemporary evaluation; obit.).
-Embacher, F., Lexikon Reisen 202. 1882.
-Fenzl, E. et al., Widmung der Martius-Medaille zur Feier am 30. März 1864. \[München, 1864\], 24 p.
-Fryxell, P. A., Taxon 25: 589-593. 1976 (some of M's Brazilian coll. came to Colla \[herb, at TO\] and became Colla types. Some of these types are unicates).
-Gager, C. S., Brooklyn Bot. Gard. Ree. 27(3): 234. 1938 (dir. bot. gard. M 1832-1854). Goebel, K, von, \[invitation to attend the inauguration of a bust of Martius in the München botanical garden on 9 Jun 1905; in German 1 p.\]. München 1905; Zur Erinnerung an K. F. Ph. v. Martius, Gedächtnisrede. München 1905, 20 p. \[address inauguration bust\]. Gray, J. L., Letters A. Gray 25, 232, 240, 375, 514, 589. 1893.
-Haidinger, W., Die Martius-Medaille, Wien, 1864, 23 p. (picture medal; bibl.). Hedge, I. C. & J. M. Lamond, Index coll. Edinb. herb. 108. 1970 (pl. E). Hooker, W. J., J. Bot. Kew Gard. Misc. 3: 108-109. 1851.
-Hoehne, C, Jard. bot. São Paulo 133. 1941.
-Huxley, L., Life letters J. D. Hooker 1: 435, 450, 2: 84. 1912.
-Jackson, B. D., Bull. misc. Inf. Kew 1901: 44 (some material at K).
-Jessen, K. F. W., Bot. Gegenw. Vorz. 485 \[index\]. 1884.
-Kobell, F. von, S. B. k. bay. Akad. Wiss. 1869(1): 383-387.
-Kühnel, Thad. Haenke 178. 1960.
-Lawrence, G. H. M., Huntia 1: 164. 1964 (some letters at HU).
-Kukkonen, I., Herb. Chr. Steven 71. 1971 (pl. at H).
-Laundon, J. R., Lichenologist 11: 14. 1979 (lichens at BR, but also at AWH and M). Loesener, Th., Bot.Jahrb. 38(Lit.): 56-57. 1907 (*Fl. bras.* "Das grosse Werk ist abgcschlossen!").
-Mägdefrau, K., Introduction to facsimile ed. of *Reise in Brasilien*, Stuttgart 1966, 17 p.; Obcrbayer. Arch, vaterl. Gesch., München 93: 7-15. 1971 (general evaluation; list of biogr. refs., portr.); Gesch. Bot. 100, 104, 130, 143, 215, 220, 248, 267. 1973; Hoppea 37: 143, 156. 1978 (portr.; bryol. work).
-Martius, C. F. P. von, Flora 10 (1)Breil. 3: 94-96. 1827 (on death Spix and on publications). Meissner \[Meisner\], C. F., Denkschrift auf Carl Friedrich Phil. von Martius. München 1869, 28 p.
-Merxmüller, H., S. B. bayer. Akad. Wiss., Mat. Naturw. Kl. 1968: 79-96. 1969 (commemorative address); Carl Friedrich Philipp von Martius, São Paulo 1971, 28 p. (portr.); Gesch. Bot. Gart. Bot. Staatssamml. München 1977, p. 19-34 (repr. from Jahresber. 1976. Generaldir. Staatl. naturw. Samml. Bayeras) (Martius p. 20, 27).
-Mettenius, C, Alexander Brauns Leben 38, 40, 107, 112, 113. 1882.
-Miller, H. S., Taxon 19: 532. 1970 (relation with A. B. Lambert).
-Milner, J. D., Cat. portr. Kew 82-83. 1906.
-Papavero, N., Essays hist. neotrop. dipterol. 1: 65-69, 214. 1971 (Braz. trip). Poggendorff, J. C, Biogr.-Lit. Handw.-Buch 2: 67. 1863, 3: 879. 1898.
-Pongratz, L.,Naturforscherim Regensburger und ostbayerischen Raum 74-75. 1963 (Acta Alb. ratisb. 25) (portr.).
-Postel, E., Notice sur le professeur Martius, par le professeur Meissner. Caen 1871, 37 p. (repr. from Bull. Soc. Linn. Normandie, ser. 2. 5).
-Prance, G., Acta amaz. 1(1): 46. 1971 (itin.).
-Rau, C, Ann. Rep. Smiths. Inst. 1869: 169-178. 1871.
-Renner, O., Botanik, Geist und Gestalt. Biogr. Beitr. Gesch. Bayer. Acad. Wiss. 2: 256-269. 1959; Ber. bayer, bot. Ges. 35: 105. 1962.
-Ross, H., Dem Andenken der Forschungsreise von Spix und Martius in Brasilien 1817-1820, Berlin 1917, repr. from Ber. deut. bot. Ges. 35: 119-128. 1917, see also Urban, I., Abh. bot. Ver. Prov. Brandenburg 49: I. 1907.
-Schmid, G., Carl Gustav Carus und Carl F. Ph. von Martius. Eine Altersfreundschaft in Briefen. Halle (Saale) 1939, 175 p. (correspondence); Chamisso als Naturforscher nos. 298, 389, p. 170. 1942.
-Schramm, H., C. F. Ph. v. Martius. Sein Lebens-und Characterbild insbesondere seine Reiseerlebnisse in Brasilien, 2 vols., Leipzig 1869, x, 278 and iii, 164 p. (portr., correspondence).
-Schrank, Ritter von, Flora 1(5): 65-84. 1818 (report on Brazilian journey). Schultes, R. E., Regn. veg. 71: 269-270. 1970 (portr.; on *Hevea* studies). Schwägrichen, C. F., Linnaea 14: 517-528. 1840 (critical notes on bryology in fasc. 1). Seemann, B., Bonplandia 5: 321 -323. 1857 (Fl. bras, report on first 20 fasc., plans future); J. Bot. 7: 17-21. 1869, 8: 13. 1870 (herb, offered to, and refused by the Bavarian government), 8: 165. 1870 (bought by BR for £ 1200).
-Sommer, F., A vida do botânico Martius. São Paulo \[1953\], 184 p. (portr., biogr.). Spring, A., Annu. Acad. r. Sci. Belgique 1869: 257-294; *in* E. Morren, Belgique hortic. 1870: v-xxiv (portr.).
-Stafleu, F. A., Regn. veg. 71: 305. 1970; Wentia 16: 25-27. 1966.
-Steenis-Kruseman, M.J. v., Fl. males. Bull. 14: 643. 1959, 15: 738-739. 1960. Urban, I., Fl. bras. 1(1): 56-61, 184-185. 1906 (details on itin., and own contr. to *Fl. bras.*); Abh. bot. Ver. Brandenb. 49: 1-6. 1908 (review genesis Fl. bras.; originally publ. Köln. Zeit. 29 Apr 1906).
-Wittrock, V. B., Acta Horti Berg. 3(2): 136. 1903, 3(3): xxi, 145, *pl. 51.* 1905 (portr.). Woodward, B. B., J. Bot. 46: 197-198. 1908 (bibl. notes on *Hist. nat. Palm., Nov. gen. sp.* and *Icon. sel. crypt.*).
-Wurdack, J. J., Garden J. 7(4): 129-131. 1957 (on crucifix given by M. to the church at Santarém, Brazil, 1846).
+*Bibliography*: BM, CSP, DTS, Jackson, Kew, MW, NI, Plesch, PR, Rehder, SK, Sotheby, Tucker: *Biography*: Anon., 1869 (Landshut); Candolle 1856, 1857, 1862; Mägdefrau 1971, 1973, 1978; Merxmüller 1969, 1971, 1977; Poggendorff 1863, 1898; Renner 1959; Sommer 1953; ADB, Barnhart, DSB; *Brazilian journey* (see also *Reise*): Papavero 1971; Prance 1971; Rau 1871; Ross 1917; Schramm 1869; Schrank 1818; Urban 1906; *Bust*: Goebel 1905; *Correspondence*: Anon. 1932 (with Goethe); Bay 1892; Carus 1939 (Schmid 1939); Gray 1893; Kühnel 1960; Lawrence 1964; Mettenius 1882; Miller 1970; Lenley; *Fl. bras*: Loesener 1907 (end of work); Seeman 1867; Urban 1908; *Herbarium collections*: Anon. 1869 (ÖbZ); Candolle 1880; Eichler 1869; Fryxell 1976; Hedge 1970; Huxley 1912; Jackson. 1901; Kukkonen 1971; Laundon 1979; Seemann 1869, 1870; Lasègue; *Illustrated works*: NI, Plesch, Sotheby; *Reise Brasilien*: Mägdefrau 1966; *Medal*: Fenzl 1864, Haidinger 1864; *Obituaries*: Bentham 1869; Meissner 1869; Postel 1871; *Palms*: Dugand 1942; Egge 1979; *Portraits*: Mihier 1906; Spring 1970; Wittrock 1905. 
+- Andrews, H. N., The fossil hunters 60-61. 1980.
+- Anon., Almanach Akad.Wien 2: 174-179. 1852 (bibl.); Bonplandia 2: 258. 1854 (retires as prof. bot. and dir. gard.), 6: 322. 1858 (Geh. Hofrath Bayern), 7: 54. 1859 (member Leop. 12 Mai 1816, cogn. Callisthenes, adjunct \[council member\] 10 Dec 1840, titles); Ber. bot. Ver. Landshut 2: 156-159. 1869 (obit., b. 17 Apr 1793, d. 13 Dec 1868); Exposição comemorativa do centenario de morte de Karl Friedrich Philipp von Martius 1868-1968. Bibliotheca nacional, Rio de Janeiro 1968, 46 p. (portr., catalogue of exhibit of works and letters by and on Martius); Flora 51: 529. 1868; Bot. Zeit. 26: 912. 1868; Goethe und Martius, Arthur Nemayer Verlag, Mittenwald (Bayern), 1932, 111 p. (portr., correspondence); J. Bot. 8: 63. 1870 (on sale of Martius' library); Österr. bot. Z. 19: 24 (death; b. 17 Apr 1794. d. 15 Dec 1868), 63. 1869 (Govt. Bayern will buy M's remaining collections), 16: 298. 1866 (50 years member Leopoldina).
+- Barnhart, J. H., Mem. Torrey bot. Club 16: 296. 1921.
+- Bay, J. C. *in* Leimbach Deutsche botanische Monatschrift. 10(9-12): 144-148. 1892, \[4 p.\]. reprint at MO (two letters).
+- Bentham, G., Proc. Linn. Soc. London 1868/69: exxiii-lxv. 1869.
+- Campos, P. M., Rev. Hist. 43: 241-248. 1971, fide Excerpta bot. A 22: 130. 1973. 
+- Candolle, Alph. de, Notice sur la vie et les ouvrages de M. de Martius. Genève 1856, 29 p. (reprinted from Bibl. univ. Genève, Jan 1856), see also Ill. hort. 5: 52-54. 1858; Phytographie 432. 1880 (coll.).
+- Candolle, Alph. de, *in* W.J. Hooker, J. Bot. Kew Gard. Misc. 8: 362-369. 1856, 9: 6-10, 41-47. 1857.
+- Candolle, A. P. de, Mém. souv. 4, 374, 377, 388, 453, 588. 1862.
+- Carus, C. C, Leopoldina 12: 103-111. 1869 ("Erinnerungen"); with C. F. P. von Martius, Eine Altersfreundschaft in Briefen, 1939.
+- Coats, A. M., The plant hunters 354. 1969.
+- Dugand, A., Rev. Acad. Colomb. Cienc. 5: 212-216. 1942 (type localities of palms). 
+- Egge, R. G, Principes 23(4): 158-170. 1979 ("father of Palms").
+- Eichler, A. W., Das Herbarium Martii. München 1869, 24 p. (descr. of herb, at BR); Flora 52: 3-13, 17-24. 1869, also separately: C. F. Ph. von Martius, Eine biographische Skizze, Regensburg 1869 (contemporary evaluation; obit.).
+- Embacher, F., Lexikon Reisen 202. 1882.
+- Fenzl, E. et al., Widmung der Martius-Medaille zur Feier am 30. März 1864. \[München, 1864\], 24 p.
+- Fryxell, P. A., Taxon 25: 589-593. 1976 (some of M's Brazilian coll. came to Colla \[herb, at TO\] and became Colla types. Some of these types are unicates).
+- Gager, C. S., Brooklyn Bot. Gard. Ree. 27(3): 234. 1938 (dir. bot. gard. M 1832-1854). 
+- Goebel, K, von, \[invitation to attend the inauguration of a bust of Martius in the München botanical garden on 9 Jun 1905; in German 1 p.\]. München 1905; Zur Erinnerung an K. F. Ph. v. Martius, Gedächtnisrede. München 1905, 20 p. \[address inauguration bust\]. 
+- Gray, J. L., Letters A. Gray 25, 232, 240, 375, 514, 589. 1893.
+- Haidinger, W., Die Martius-Medaille, Wien, 1864, 23 p. (picture medal; bibl.). Hedge, I. C. & J. M. Lamond, Index coll. Edinb. herb. 108. 1970 (pl. E). Hooker, W. J., J. Bot. Kew Gard. Misc. 3: 108-109. 1851.
+- Hoehne, C, Jard. bot. São Paulo 133. 1941.
+- Huxley, L., Life letters J. D. Hooker 1: 435, 450, 2: 84. 1912.
+- Jackson, B. D., Bull. misc. Inf. Kew 1901: 44 (some material at K).
+- Jessen, K. F. W., Bot. Gegenw. Vorz. 485 \[index\]. 1884.
+- Kobell, F. von, S. B. k. bay. Akad. Wiss. 1869(1): 383-387.
+- Kühnel, Thad. Haenke 178. 1960.
+- Lawrence, G. H. M., Huntia 1: 164. 1964 (some letters at HU).
+- Kukkonen, I., Herb. Chr. Steven 71. 1971 (pl. at H).
+- Laundon, J. R., Lichenologist 11: 14. 1979 (lichens at BR, but also at AWH and M). 
+- Loesener, Th., Bot.Jahrb. 38(Lit.): 56-57. 1907 (*Fl. bras.* "Das grosse Werk ist abgcschlossen!").
+- Mägdefrau, K., Introduction to facsimile ed. of *Reise in Brasilien*, Stuttgart 1966, 17 p.; Obcrbayer. Arch, vaterl. Gesch., München 93: 7-15. 1971 (general evaluation; list of biogr. refs., portr.); Gesch. Bot. 100, 104, 130, 143, 215, 220, 248, 267. 1973; Hoppea 37: 143, 156. 1978 (portr.; bryol. work).
+- Martius, C. F. P. von, Flora 10 (1)Breil. 3: 94-96. 1827 (on death Spix and on publications). Meissner \[Meisner\], C. F., Denkschrift auf Carl Friedrich Phil. von Martius. München 1869, 28 p.
+- Merxmüller, H., S. B. bayer. Akad. Wiss., Mat. Naturw. Kl. 1968: 79-96. 1969 (commemorative address); Carl Friedrich Philipp von Martius, São Paulo 1971, 28 p. (portr.); Gesch. Bot. Gart. Bot. Staatssamml. München 1977, p. 19-34 (repr. from Jahresber. 1976. Generaldir. Staatl. naturw. Samml. Bayeras) (Martius p. 20, 27).
+- Mettenius, C, Alexander Brauns Leben 38, 40, 107, 112, 113. 1882.
+- Miller, H. S., Taxon 19: 532. 1970 (relation with A. B. Lambert).
+- Milner, J. D., Cat. portr. Kew 82-83. 1906.
+- Papavero, N., Essays hist. neotrop. dipterol. 1: 65-69, 214. 1971 (Braz. trip). 
+- Poggendorff, J. C, Biogr.-Lit. Handw.-Buch 2: 67. 1863, 3: 879. 1898.
+- Pongratz, L.,Naturforscherim Regensburger und ostbayerischen Raum 74-75. 1963 (Acta Alb. ratisb. 25) (portr.).
+- Postel, E., Notice sur le professeur Martius, par le professeur Meissner. Caen 1871, 37 p. (repr. from Bull. Soc. Linn. Normandie, ser. 2. 5).
+- Prance, G., Acta amaz. 1(1): 46. 1971 (itin.).
+- Rau, C, Ann. Rep. Smiths. Inst. 1869: 169-178. 1871.
+- Renner, O., Botanik, Geist und Gestalt. Biogr. Beitr. Gesch. Bayer. Acad. Wiss. 2: 256-269. 1959; Ber. bayer, bot. Ges. 35: 105. 1962.
+- Ross, H., Dem Andenken der Forschungsreise von Spix und Martius in Brasilien 1817-1820, Berlin 1917, repr. from Ber. deut. bot. Ges. 35: 119-128. 1917, see also Urban, I., Abh. bot. Ver. Prov. Brandenburg 49: I. 1907.
+- Schmid, G., Carl Gustav Carus und Carl F. Ph. von Martius. Eine Altersfreundschaft in Briefen. Halle (Saale) 1939, 175 p. (correspondence); Chamisso als Naturforscher nos. 298, 389, p. 170. 1942.
+- Schramm, H., C. F. Ph. v. Martius. Sein Lebens-und Characterbild insbesondere seine Reiseerlebnisse in Brasilien, 2 vols., Leipzig 1869, x, 278 and iii, 164 p. (portr., correspondence).
+- Schrank, Ritter von, Flora 1(5): 65-84. 1818 (report on Brazilian journey). 
+- Schultes, R. E., Regn. veg. 71: 269-270. 1970 (portr.; on *Hevea* studies). 
+- Schwägrichen, C. F., Linnaea 14: 517-528. 1840 (critical notes on bryology in fasc. 1).
+- Seemann, B., Bonplandia 5: 321 -323. 1857 (Fl. bras, report on first 20 fasc., plans future); J. Bot. 7: 17-21. 1869, 8: 13. 1870 (herb, offered to, and refused by the Bavarian government), 8: 165. 1870 (bought by BR for £ 1200).
+- Sommer, F., A vida do botânico Martius. São Paulo \[1953\], 184 p. (portr., biogr.). - Spring, A., Annu. Acad. r. Sci. Belgique 1869: 257-294; *in* E. Morren, Belgique hortic. 1870: v-xxiv (portr.).
+- Stafleu, F. A., Regn. veg. 71: 305. 1970; Wentia 16: 25-27. 1966.
+- Steenis-Kruseman, M.J. v., Fl. males. Bull. 14: 643. 1959, 15: 738-739. 1960. 
+- Urban, I., Fl. bras. 1(1): 56-61, 184-185. 1906 (details on itin., and own contr. to *Fl. bras.*); Abh. bot. Ver. Brandenb. 49: 1-6. 1908 (review genesis Fl. bras.; originally publ. Köln. Zeit. 29 Apr 1906).
+- Wittrock, V. B., Acta Horti Berg. 3(2): 136. 1903, 3(3): xxi, 145, *pl. 51.* 1905 (portr.). 
+- Woodward, B. B., J. Bot. 46: 197-198. 1908 (bibl. notes on *Hist. nat. Palm., Nov. gen. sp.* and *Icon. sel. crypt.*).
+- Wurdack, J. J., Garden J. 7(4): 129-131. 1957 (on crucifix given by M. to the church at Santarém, Brazil, 1846).
 
 #### Medal
 
@@ -205,8 +216,8 @@ Nova *genera et species plantarum* quas in itinere per Brasiliam annis mdcccxvii
 |(2)	|81-124	|232-272	|Jan-Mar (?) 1831|
 |(3)	|125-198	|273-300	|Sep 1832, (3)|
 
-(1) diagnoses published earlier in Flora 7(1) Beil. (4): 129-142, between 25 Apr and 30 Jun 1824. (2) idem t. *56-74* in Flora 8(1): 27-32. 14 Jan 1825; the fascicle cover of this part was dated "1824" fide GGA 26 Jan 1829.
-(3) date on p. 198.
+- (1) diagnoses published earlier in Flora 7(1) Beil. (4): 129-142, between 25 Apr and 30 Jun 1824. (2) idem t. *56-74* in Flora 8(1): 27-32. 14 Jan 1825; the fascicle cover of this part was dated "1824" fide GGA 26 Jan 1829.
+- (3) date on p. 198.
 The above information is based on reviews in GGA, Flora, Linnaea, and Isis (see also Woodward 1908). On 29 Jun 1829 Martius informed W.J. Hooker (letter at K) that the book was ready as far as *pl. 231*; from a letter dated 24 Mar 1832 it appears that 3(2) was published around Mar 1831. In the preparation of this book, especially of the plates, Martius was assisted by J. G. Zuccarini. – Sprengel (Syst. 1: 224. late 1824) cites a Martius taxon published on 1: 156, *pl. 95.* This might indicate that 2(4) was possibly published earlier than the Jan-Mar 1826 here accepted.
 For information on the artists who prepared the 300 lithographs see NI 1288.
 

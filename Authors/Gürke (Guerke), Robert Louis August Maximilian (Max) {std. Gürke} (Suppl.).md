@@ -36,17 +36,17 @@ AG 6(2): 922; APN p. 249 (as "Gürke"); Backer p. 651; Barnhart 2: 96; Biol.-Dok
 
 #### Composite works
 
-(1) Compiled an index (1889) to *Verhandlungen des botanischen Vereins der Provinz Brandenburg*, vols. 1-30 (1859-1888).
-(2) Co-editor and collaborator, H.A. Köhler, *Med.-Pfl.*... 1896-1898 (TL-2/2, nr. 3806).
-(3) One of numerous authors of P. Ascherson et al., *Prop. Lois nom. bot.*... 1892 (TL-2/ Suppl. 1, nr. 19.614).
-(4) Provided determinations (with K. Schumann) of Malvaceae for E. Warming, *Symbolae* ... Part 40, 1894, see TL-2/7, nr. 16.709.
-(5) One of many collaborators with A. Engler:
+- (1) Compiled an index (1889) to *Verhandlungen des botanischen Vereins der Provinz Brandenburg*, vols. 1-30 (1859-1888).
+- (2) Co-editor and collaborator, H.A. Köhler, *Med.-Pfl.*... 1896-1898 (TL-2/2, nr. 3806).
+- (3) One of numerous authors of P. Ascherson et al., *Prop. Lois nom. bot.*... 1892 (TL-2/ Suppl. 1, nr. 19.614).
+- (4) Provided determinations (with K. Schumann) of Malvaceae for E. Warming, *Symbolae* ... Part 40, 1894, see TL-2/7, nr. 16.709.
+- (5) One of many collaborators with A. Engler:
 (a) *Pflanzenw. Ost-Afrikas C*... 1895 (TL-2/1, nr. 1708);
 (b) *Verzeichniss*... *Götzen'schen Expedition Pflanzen*... \[1895\] (TL-2/Suppl. 6, nr. 33.029); and
 (c) A. Zahlbruckner, *Plantae Pentherianae*... Part 3, 1905, see TL-2/7, nr. 18.507.
-(6) Labiatae *in* H. Schinz, *Beitr. Kenntn. afrik. Fl.*... 1898 (TL-2/5, nr. 10.710).
-(7) Pref. *in* K. Schumann, *Prakt. Morph. syst. Bot.*... 1904 (TL-2/5, nr. 11.392).
-(8) Authored a description of one of five species *in* E. Gilg et al., *Plantae Merkerianae*... (1905, see nr. 36.408 above).
+- (6) Labiatae *in* H. Schinz, *Beitr. Kenntn. afrik. Fl.*... 1898 (TL-2/5, nr. 10.710).
+- (7) Pref. *in* K. Schumann, *Prakt. Morph. syst. Bot.*... 1904 (TL-2/5, nr. 11.392).
+- (8) Authored a description of one of five species *in* E. Gilg et al., *Plantae Merkerianae*... (1905, see nr. 36.408 above).
 
 ### Publications
 

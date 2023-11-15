@@ -19,8 +19,8 @@ Barnhart 2: 190; BB p. 151; BL 2: 220, 669; BM 2: 861; Bossert p. 179; Desmond p
 
 #### Composite works
 
-(1) Editor of *The florist* (1852-1861) and *The florist and pomologist* (1862-1870).
-(2) Editor of *The Cottage Gardener*, vols. 14-25 (1855-1861), continued as *The journal of Horticulture*, vols. 26-63 (1861-1880) and ser. 3. vols. 1-14, 1881-1887 (BM 2: 947).
+- (1) Editor of *The florist* (1852-1861) and *The florist and pomologist* (1862-1870).
+- (2) Editor of *The Cottage Gardener*, vols. 14-25 (1855-1861), continued as *The journal of Horticulture*, vols. 26-63 (1861-1880) and ser. 3. vols. 1-14, 1881-1887 (BM 2: 947).
 
 ### Publications
 

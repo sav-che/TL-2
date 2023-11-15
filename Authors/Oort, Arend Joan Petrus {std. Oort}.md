@@ -21,7 +21,7 @@ Ainsworth p. 128, 345; Backer p. 408; Barnhart 3: 31; IH 2: (in press); Kew 4: 1
 
 #### Composite works
 
-(1) *Polygalaceae, in* A. A. Pulle, ed., Fl. Surin. 2(1): 406-425. Nov 1939.
+- (1) *Polygalaceae, in* A. A. Pulle, ed., Fl. Surin. 2(1): 406-425. Nov 1939.
 
 #### Festschrift
 

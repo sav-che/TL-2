@@ -10,7 +10,8 @@ Grout, Abel Joel (1867-1947), American bryologist.
 
 #### Herbarium and types
 
-[[Collection DUKE|DUKE]]. – Exsiccatae:
+[[Collection DUKE|DUKE]].
+*Exsiccatae*:
 1. *Hand-lens mosses* (nos. 1-76, 1903-x), sets at [[Collection FH|FH]], [[Collection NY|NY]].
 2. *North American musci perfecti* (nos. 1-475, Newfane, Vt., 1925-1945), sets at [[Collection BM|BM]], [[Collection BRU|BRU]], [[Collection CAS|CAS]], [[Collection CM|CM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GEO|GEO]], [[Collection GRI|GRI]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection S|S]]-PA, [[Collection SMU|SMU]], [[Collection W|W]], [[Collection WELC|WELC]].
 3. *North American musci pleurocarpi* (nos. 1-500, Newfane, Vt., 1900-1922, suppl. nos. 1-74, 1931-1942), sets at [[Collection GEO|GEO]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GRI|GRI]], [[Collection H|H]], [[Collection NY|NY]], [[Collection SMU|SMU]].

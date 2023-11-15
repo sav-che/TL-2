@@ -16,8 +16,8 @@ Barnhart 2: 382 (b. 31 Oct 1877); BJI 2: 105; Bossert p. 238; Hirsch p. 176; IH 
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Taccaceae*, IV 42 (Heft 92), 32 *p., publ.* 28 Feb 1928.
-(2) Completed his father's *Die Laubmoose Deutschlands* after the latter's death.
+- (1) Engler, *Pflanzenreich, Taccaceae*, IV 42 (Heft 92), 32 *p., publ.* 28 Feb 1928.
+- (2) Completed his father's *Die Laubmoose Deutschlands* after the latter's death.
 
 #### Eponymy
 

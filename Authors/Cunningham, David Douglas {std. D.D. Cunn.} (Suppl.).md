@@ -27,7 +27,7 @@ Ainsworth p. 200-201, 230, 308; Barnhart 1: 404 (b. 29 Sep 1843, Prestonpans, d.
 
 #### Composite works
 
-(1) *In* G. King, The *species of Ficus* of the Indo-malayan and Chinese countries... Calcutta, 1857-1858; Appendix 1859: p. 13-53. by D.D. Cunningham (see below).
+- (1) *In* G. King, The *species of Ficus* of the Indo-malayan and Chinese countries... Calcutta, 1857-1858; Appendix 1859: p. 13-53. by D.D. Cunningham (see below).
 
 ### Publications
 

@@ -8,7 +8,8 @@ Hansen, Emil Christian (1842-1909), Danish microbiologist and mycologist; Dr. ph
 
 #### Herbarium and types
 
-[[Collection C|C]]; some further material at [[Collection K|K]]. – Exsiccatae: *Fungorum fimicolorum exempl. exsiccati* (1874-1875), 350 nos.
+[[Collection C|C]]; some further material at [[Collection K|K]].
+*Exsiccatae*: *Fungorum fimicolorum exempl. exsiccati* (1874-1875), 350 nos.
 
 #### Bibliography and biography
 

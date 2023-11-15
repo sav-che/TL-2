@@ -12,20 +12,20 @@ Rabenhorst published many series of exsiccatae which are found in numerous herba
 
 #### Exsiccatae
 
-(1) *Flora lusatiae inferioris exsiccata*, cent. 1-10, see G. Sayre, Mem. New York Bot. Gard. 19(1): 41. 1969. No set known to us.
-(2) *Kryptogamen Sammlung*, systematische Uebersicht über das Reich der Kryptogamen in getrockneten Exemplaren. See G. Sayre, Mem. New York Bot. Gard. 19(1): 41-42. 1969. Set at HAL.
-(3) *Klotzschii herbarium vivum mycologicum* sistens fungorum per totam Germaniam crescentium collectionem perfectam, Dresden 1842-1855, cent. 3-20.
+- (1) *Flora lusatiae inferioris exsiccata*, cent. 1-10, see G. Sayre, Mem. New York Bot. Gard. 19(1): 41. 1969. No set known to us.
+- (2) *Kryptogamen Sammlung*, systematische Uebersicht über das Reich der Kryptogamen in getrockneten Exemplaren. See G. Sayre, Mem. New York Bot. Gard. 19(1): 41-42. 1969. Set at HAL.
+- (3) *Klotzschii herbarium vivum mycologicum* sistens fungorum per totam Germaniam crescentium collectionem perfectam, Dresden 1842-1855, cent. 3-20.
 *Note*: continuation by Rabenhorst, of J.F. Klotzsch, *Herbarium vivum mycologicum* (cent. 1-2, details see under Klotzsch). For full details on the sets of exsiccatae see J. Kohlmeyer, Index alphabeticus Klotzschii et Rabenhorstii herbarii mycologici, Beih. Nova Hedw. 4, 1962, and J. Stevenson, Taxon 16: 112-119. 1967 and Beih. Nova Hedw. 36: 274-296. 1971, as well as IH 2: 369.
 (3a) Idem, *editio nova*, cent. 1-8, Dresden 1855-1858.
 (3b) Idem, *editio nova, series secunda*, Dresden 1859-1881. *Note*: for full details see Kohlmeyer (1962), Stevenson (1967, 1971), and IH 2: 369. The centuries are practically all reviewed in Bot. Zeit. (by D.F.L. von Schlechtendal) and Flora (A.E. Fürnrohr), often with the diagnoses of new taxa reprinted.
-(4) *Die Bacillarien Sachsens*. Ein Beitrag zur Fauna von Sachsen. Gesammelt und herausgegeben von Dr. L. Rabenhorst. Dresden & Leipzig (Arnold) 1849-1852, fasc. 1-7. *Publ*.: Dec 1848-Aug 1852, fasc. 1-7, nos. 1-70, tabulae 1-5 (one tabula issued with each of fasc. 3-7). For full details see G. Sayre, Mem. New York Bot. Gard. 19(1): 95-96. 1969. – Additional information: set 2 was received at Regensburg Jul 1849.
+- (4) *Die Bacillarien Sachsens*. Ein Beitrag zur Fauna von Sachsen. Gesammelt und herausgegeben von Dr. L. Rabenhorst. Dresden & Leipzig (Arnold) 1849-1852, fasc. 1-7. *Publ*.: Dec 1848-Aug 1852, fasc. 1-7, nos. 1-70, tabulae 1-5 (one tabula issued with each of fasc. 3-7). For full details see G. Sayre, Mem. New York Bot. Gard. 19(1): 95-96. 1969. – Additional information: set 2 was received at Regensburg Jul 1849.
 *Sets*: AWH, B, BM, FH, H, HAL, L, LD, OS, PH, S, W.
 *Reviews* by D.F.L. von Schlechtendal, Bot. Zeit. 7: 87-88. 2 Feb 1849(1), 7: 448. 15 Jun 1849(2), 8: 581 2 Aug 1850(3), 9: 559-560. 1 Aug 1851(4), 9: 685. 19 Sep 1851(5), 10: 354-355. ("254-255"). 14 Mai 1852(6), 10: 725-726. 8 Oct 1852(7); by A.E. Fürnrohr, Flora 32: 446-447. 28 Jul 1849(2), 34: 592. 1851 (3-5), 35: 394. 7 Jul 1852(6), 35: 669-670. 14 Nov 1852(7).
 *Index*: see Rabenhorst (1856), below.
-(5) *Die Algen Sachsens*. Gesammelt und herausgegeben von Dr. L. Rabenhorst, Dresden (Leipzig 1848-1860, decades 1-100, nos. 1-1000. – For full details on dates (taken from the title pages, prefaces and indexes) contents, labels, references, etc. see G. Sayre (1969, p. 92-95).
+- (5) *Die Algen Sachsens*. Gesammelt und herausgegeben von Dr. L. Rabenhorst, Dresden (Leipzig 1848-1860, decades 1-100, nos. 1-1000. – For full details on dates (taken from the title pages, prefaces and indexes) contents, labels, references, etc. see G. Sayre (1969, p. 92-95).
 *Sets*: AWH, B, BM, C, FH, FR, GOET, H, HAL, L, NY, PC, S, STR, W.
 *Index*: see Rabenhorst 1856, below no. 8438. *Continuation*: Die Algen Europas, see below. *Reviews*: practically all decades are reviewed (with a listing of the species) by D.F.L. von Schlechtendal in Bot. Zeit. 7 (1849), 18 (1860); many are also reviewed by A.E. Fürnrohr, in *Flora*.
-(6) *Algae marinae siccatae* (exsiccatae). fasc. 1-12, nos. 1-600, 1852-1862. See e.g. TL-2/2: 253 (sub R.F. Hohenacker) and G. Sayre (1969, p. 79-80) for further details. *Algae marinae siccatae*... Eine Sammlung europäischer und ausländischer Meeralgen in getrockneten Exemplaren mit einem kurzen Text versehen von Dr. L. Rabenhorst und G. von Martens \[Georg Mathias von Martens (1788-1872), see TL-2/3: 315-317)\]... Herausgegeben von R.F. Hohenacker. Esslingen bei Stuttgart beim Herausgeber und in Commission bei C. Weichardt. – *Other title*: *Algae selectae siccatae*. Eine Auswahl von 50 der in wissenschaftlicher Hinsicht und wegen ihrer Benutzung merkwürdigsten Algen,...
+- (6) *Algae marinae siccatae* (exsiccatae). fasc. 1-12, nos. 1-600, 1852-1862. See e.g. TL-2/2: 253 (sub R.F. Hohenacker) and G. Sayre (1969, p. 79-80) for further details. *Algae marinae siccatae*... Eine Sammlung europäischer und ausländischer Meeralgen in getrockneten Exemplaren mit einem kurzen Text versehen von Dr. L. Rabenhorst und G. von Martens \[Georg Mathias von Martens (1788-1872), see TL-2/3: 315-317)\]... Herausgegeben von R.F. Hohenacker. Esslingen bei Stuttgart beim Herausgeber und in Commission bei C. Weichardt. – *Other title*: *Algae selectae siccatae*. Eine Auswahl von 50 der in wissenschaftlicher Hinsicht und wegen ihrer Benutzung merkwürdigsten Algen,...
 *1*: Jan 1852, nos. 1-50 (D.F.L. von Schlechtendal, Bot. Zeit. 10: 117-119. 6 Feb 1852; A.E. Fürnrohr, Flora 35: 648-656. 7 Nov 1882).
 *2*: Mar 1852, nos. 51-100 (id. Bot. Zeit. 10: 269. 9 Apr 1852; id. Flora 35: 648-656. 7 Nov 1882).
 *3*: Oct 1853, nos. 101-150 (1-50) (id. Bot. Zeit. 11: 903. 23 Dec 1853; id. Flora 36: 678-679. 14 Nov 1853).
@@ -38,10 +38,11 @@ Rabenhorst published many series of exsiccatae which are found in numerous herba
 *11*: 1862, nos. 501-550 (Bot. Zeit. 21: 206-207. 26 Jun 1863).
 *12*: 1862, nos. 551-600 (Bot. Zeit. 23: 28. 20 Jan 1865).
 *Sets*: B, BAS, BM, FH, G, GOET, HAL, KIEL, L, M, NY, STR, UPS, W.
-*Notes*: "Rabenh. Handb." on the labels refers to *Deutschl. Krypt. Fl*. 1844-1848. No. 600 contains the description of *Stenodesmia binervis* Kützing, n. gen. et sp. (7) *Kryptogamensammlung für Schule und Haus*, Dresden 1854-1855, 500 specimens, see Bot. Zeit. 12: 151-152. 1854; Flora 37: 191-192. 1854; Junk, Rara 1: 19. 1900-1923 and Sayre, G., Mem. New York Bot. Gard. 19(1): 42. 1969. *Text*: *Cursus der Kryptogamensammlung* Dresden 1855. – No set known to us.
+*Notes*: "Rabenh. Handb." on the labels refers to *Deutschl. Krypt. Fl*. 1844-1848. No. 600 contains the description of *Stenodesmia binervis* Kützing, n. gen. et sp.
+- (7) *Kryptogamensammlung für Schule und Haus*, Dresden 1854-1855, 500 specimens, see Bot. Zeit. 12: 151-152. 1854; Flora 37: 191-192. 1854; Junk, Rara 1: 19. 1900-1923 and Sayre, G., Mem. New York Bot. Gard. 19(1): 42. 1969. *Text*: *Cursus der Kryptogamensammlung* Dresden 1855. – No set known to us.
 *Ref*.: Rabenhorst, L., Flora 37: 191-192. 28 Mar 1854 (announcement).
 - Itzigsohn, H., Bot. Zeit. 13: 224-226. 30 Mar 1855.
-(8) *Lichenes europaei exsiccati*. Die Flechten Europa's unter Mitwirkung mehrerer nahmhafter Botaniker gesammelt und herausgegeben von Dr. L. Rabenhorst, Neustadt-Dresden (gedruckt bei C. Heinrich) 1855-1879, fasc. 1-36.
+- (8) *Lichenes europaei exsiccati*. Die Flechten Europa's unter Mitwirkung mehrerer nahmhafter Botaniker gesammelt und herausgegeben von Dr. L. Rabenhorst, Neustadt-Dresden (gedruckt bei C. Heinrich) 1855-1879, fasc. 1-36.
 
 |Fasc.	|pages	|numbers	|dates|
 |---	|---	|---	|---	|
@@ -87,7 +88,7 @@ Rabenhorst published many series of exsiccatae which are found in numerous herba
 Heinrich) \[1857\], p. \[1\]-9 (p. 9: 23 Feb 1857).
 *Dates*: the sets were announced and reviewed by Flora, Bot. Zeit. and Hedwigia. D.F.L. von Schlechtendal reviewed sets 1-28 in Bot. Zeit., A. de Bary sets 29-33 in id. The dates given are the earliest months in which they were mentioned in the three periodicals. In addition to these numerous reviews and notes, see G. Sayre, Mem. New York Bot. Gard. 19(1): 156. 1969, and Lynge (1913) p. 113.
 *Sets*: B, BM, BR, DBN, FH, GOET, GJO, H, HAL, IBF, L, M, MICH, MSC, MSTR, NY, PRE, S, SAM, STR, STU, U, US, WRSL.
-(9) *Hepaticae europaeae*. Die Lebermoose Europa's unter Mitwirkung mehrerer namhafter Botaniker, dec. 1-66, nos. 1-660, Dresden 1855-1879.
+- (9) *Hepaticae europaeae*. Die Lebermoose Europa's unter Mitwirkung mehrerer namhafter Botaniker, dec. 1-66, nos. 1-660, Dresden 1855-1879.
 
 |Decas	|dates	| |decas	|dates	| |decas	|dates|
 |---	|---	|---	|---	|---	|---	|---	|---	|
@@ -109,13 +110,13 @@ Heinrich) \[1857\], p. \[1\]-9 (p. 9: 23 Feb 1857).
 *Dates*: taken from the notes and reviews in Bot. Zeit. (by D.F.L. von Schlechtendal, dec. 1-372, and A. de Bary from 42 onward) and from Hedwigia.
 *Ref*.: Junk, W., Rara 1: 113. 1900-1913 (q.v. for numbering; 100 sets published.
 - Sayre, G., Mem. New York Bot. Gard. 19(2): 242. 1971.
-(10) *Die Characeen Europa's* in getrockneten Exemplaren,... herausgegeben von Dr. A.
+- (10) *Die Characeen Europa's* in getrockneten Exemplaren,... herausgegeben von Dr. A.
 Braun \[in Berlin\], Dr. L. Rabenhorst \[in Dresden\] und Dr. E. Stizenberger \[in Constanz\]. See under A. Braun, TL-2/1: 307. Additions and corrections to this entry: *Advertisement*: Bot. Zeit. 14: 230-232. 1856, Flora 39: 223-224. 1856. – 100 sets will be published. Dated Feb 1856.
 *1*: Oct-Nov 1857, nos. 1-25 (rev. A.E. Fürnrohr, Flora 41: 42-45. 21 Jan 1858). *2*: Oct 1857, nos. 26-50 (rev. D.F.L. von Schlechtendal, Bot. Zeit. 17: 383-384. 11 Nov 1859; A.E. Fürnrohr, Flora 42: 669-672. 14 Nov 1859).
 *3*: Sep-Oct 1867, nos. 51-75 (Bot. Zeit. 29 Nov 1867).
 *4*: Mar 1870, nos. 76-100 (rev. A. de Bary, Bot. Zeit. 28: 325. 20 Mai 1870). *5*: 1-20 Jun 1878, nos. 101-120 (Bot. Zeit. 21 Jun 1878; Hedwigia Jun 1878).
 *Additional sets*: HAL, MPU.
-(11) *Cryptogamae vasculares europaeae*. Die Gefäss-Cryptogamen Europa's. Unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. Ludwig Rabenhorst. Dresden 1858-1870, fasc. 1-5.
+- (11) *Cryptogamae vasculares europaeae*. Die Gefäss-Cryptogamen Europa's. Unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. Ludwig Rabenhorst. Dresden 1858-1870, fasc. 1-5.
 
 |fasc.	|nos.	|dates	|reviews Bot. Zeit.|
 |---	|---	|---	|---	|
@@ -126,7 +127,7 @@ Braun \[in Berlin\], Dr. L. Rabenhorst \[in Dresden\] und Dr. E. Stizenberger \[
 |5	|101-125	|Oct 1870	|28: 711-712. 4 Nov 1870, A. de Bary|
 
 *Sets*: B, BM, H, IBF, L, LG, MANCH, W.
-(12) *Bryotheca europaea*. Die Laubmoose Europa's unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. L. Rabenhorst. Dresden (Druck von C. Heinrich) 1858-1876, 27 fasc.
+- (12) *Bryotheca europaea*. Die Laubmoose Europa's unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. L. Rabenhorst. Dresden (Druck von C. Heinrich) 1858-1876, 27 fasc.
 
 |fasc.	|t.p./cont.	|nos.	|dates	|reviews Bot. Zeit.<br/>(Schlechtendal or de Bary)|
 |---	|---	|---	|---	|---	|
@@ -165,27 +166,27 @@ Braun \[in Berlin\], Dr. L. Rabenhorst \[in Dresden\] und Dr. E. Stizenberger \[
 *Further details*: Sayre, G., Mem. New York Bot. Gard. 19(2): 243-244. 1971 (mentions also indexes for fasc. 16 and 18).
 *Continuation*: by G. Winter, L. Rabenhorst *Bryotheca europaea et extraeuropaea*... fasc. 28-29, nos. 1351-1450. Dresden 1881-1884 (fasc. 28: Jun 1881, fasc. 29: Nov 1884). – See Sayre (1971).
 *Sets*: BM, BR, C, E, FH, G, GOET, H, HAL, HBG, IBF, JE, KIEL, L, LAU, LD, MANCH, NY, PC, S, STR, STU, W, WELC.
-(13) *Cladoniae europaeae*. Die Cladonien Europa's in getrockneten Exemplaren. Unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. L.
+- (13) *Cladoniae europaeae*. Die Cladonien Europa's in getrockneten Exemplaren. Unter Mitwirkung mehrerer Freunde der Botanik gesammelt und herausgegeben von Dr. L.
 Rabenhorst. Dresden (Druck von C. Heinrich). Fol.
 *Text*: Sep-Nov 1860, p. \[i-xii\], see below under Rabenhorst 1860, no. 8441.
 *Exsiccatae*: on tabulae i-xxxix, 260 numbers, published Sep-Nov 1860 (Bot. Zeit. rev. 18 Jan 1861; Flora rd. 7 Jan 1861; submitted to Schles. Ges. vaterl. Cultur 29 Nov 1860, fide Flora 44: 79. 1861). (Lynge 1913, p. 113).
 *Sets*: B, FH, FI, H, HAL, KIEL, L, LE, M, MICH, MSTR, PRE, S, U, W, WRSL.
 *Ref*.: Nylander, W., Bot. Zeit. 19: 351-352. 22 Nov 1861 (gives many corrected identifications and other nomenclature).
 Sayre, G., Mem. New York Bot. Gard. 19(1): 154. 1969.
-(14) *Cladoniae europaeae exsiccati. Supplementum I*. Dresden (Druck von C. Heinrich). Fol.
+- (14) *Cladoniae europaeae exsiccati. Supplementum I*. Dresden (Druck von C. Heinrich). Fol.
 *Text*: n.v.
 *Exsiccatae*: on tabulae i-xi, 56 nos. (64 forms), published Jun-Dec 1863 (Hedwigia 2: 82. 1863, suppl. 1: 152. 1863; Bot. Zeit. 22 Jan 1864) (Lynge 1913, p. 113).
 *Sets*: FH, H, S, WRSL.
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(1): 155. 1969.
 Schlechtendal, D.F.L. von, Bot. Zeit. 22: 31-32. 1864.
-(15) *Die Algen Europa's* (Fortsetzung der Algen Sachsens, resp. Mittel-Europa's)...
+- (15) *Die Algen Europa's* (Fortsetzung der Algen Sachsens, resp. Mittel-Europa's)...
 Dresden (Druck von C. Heinrich) 1861-1879, decades 1-160, nos. 1101-2600.
 *Publ*.: in 160 decades, Jan 1861(1)-Mar 1879(159), set 160 mentioned by Hedwigia 21: 194. Dec 1882. For full details see G. Sayre, Mem. New York Bot. Gard. 19(1): 93-94. 1969.
 *Index* (nos. 1-2350): see Rabenhorst (1873).
 *Sets*: AWH, B, BM, BR, C, FH, FR, GOET, H, HAL, HBG, IBF, KIEL, L, LD, M, MANCH, MICH, NY, PC, PRE, S, STR, W, WAG, WRSL.
 *Continuation*: *Phycotheca universalis*, by P. Richter & F. Hauck (see e.g. Bot. Monatschr. 3: 125-126. 1885.
 *Reviews*: The earlier decades are usually reviewed in Bot. Zeit. (by D.F.L. von Schlechtendal or A. de Bary).
-(16) *Diatomaceae exsiccatae* totius terrarum orbis, quas distribuit Dr. L. Rabenhorst. Semicenturies 1-2, nos. 1-100. Dresden (C. Heinrich) 1871.
+- (16) *Diatomaceae exsiccatae* totius terrarum orbis, quas distribuit Dr. L. Rabenhorst. Semicenturies 1-2, nos. 1-100. Dresden (C. Heinrich) 1871.
 *Publ*.: 1871 (Hedwigia 10: 144. Sep 1871; Bot. Zeit. 29-88. 1 Sep 1871). For further details see G. Sayre, Mem. New York Bot. Gard. 19(1): 96. 1969.
 *Sets*: AWH, BM, FH, L, NY, PH.
 
@@ -232,8 +233,8 @@ ADE 27: 89-92 (E. Wunschmann); Ainsworth p. 226, 273, 289, 320, 346; Barnhart 3:
 
 #### Composite works
 
-(1) Founder of *Hedwigia*, editor of vols. 1-17(10), Mai 1852-Oct 1878 (succeeded by G. Winter).
-(2) Preface to J. Nave, *Anleit. Einsamm*. 1864, TL-2/6659.
+- (1) Founder of *Hedwigia*, editor of vols. 1-17(10), Mai 1852-Oct 1878 (succeeded by G. Winter).
+- (2) Preface to J. Nave, *Anleit. Einsamm*. 1864, TL-2/6659.
 
 #### Note
 

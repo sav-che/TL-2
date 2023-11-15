@@ -23,8 +23,8 @@ Not to be confused with the Austrian artist and botanical painter Johann Knapp (
 
 #### Composite works
 
-(1) S. Schulzer v. Müggenburg, A. Kanitz und J. A. Knapp, *Die bisher bekannten Pflanzen Slavoniens*. Wien 1866 (Apr-Mai), see Schulzer.
-(2) For a description of the plants collected by Knapp in Persian "Adserbidschan" (Azerbaijan) in 1884 see the series of papers edited by R. v. Wettstein as "*Beitrag zur Flora von Persien*."
+- (1) S. Schulzer v. Müggenburg, A. Kanitz und J. A. Knapp, *Die bisher bekannten Pflanzen Slavoniens*. Wien 1866 (Apr-Mai), see Schulzer.
+- (2) For a description of the plants collected by Knapp in Persian "Adserbidschan" (Azerbaijan) in 1884 see the series of papers edited by R. v. Wettstein as "*Beitrag zur Flora von Persien*."
 
 ### Publications
 

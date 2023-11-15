@@ -27,8 +27,8 @@ APN p. 232; Barnhart 2: 61; Biol.-Dokum. 7: 83.467-83.468; Bossert p. 147; Colla
 #### Composite works
 
 Helped translate two of E. Warming's works into Russian, viz.:
-(1) With S.I. Rostovzev in 1893, the third Danish ed. of *Haandb. syst. Bot.*... 1891 (see TL-2/7, nr. 16.719); and
-(2) With W.M. Arnoldi in 1901, *Plantesamfund*... 1895 (see TL-2/7, nr. 16.732); the first of two Russian editions.
+- (1) With S.I. Rostovzev in 1893, the third Danish ed. of *Haandb. syst. Bot.*... 1891 (see TL-2/7, nr. 16.719); and
+- (2) With W.M. Arnoldi in 1901, *Plantesamfund*... 1895 (see TL-2/7, nr. 16.732); the first of two Russian editions.
 
 ### Publications
 

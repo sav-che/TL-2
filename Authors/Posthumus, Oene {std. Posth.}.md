@@ -24,8 +24,8 @@ Andrews p. 313-314; Backer p. 659; Barnhart 3: 102; BJI 2: 139; BL 1: 112, 313; 
 #### Composite works
 
 Contributed to *Flora of Suriname* (ed. A.A. Pulle): *Pteridophyta*, 1 (suppl.): \[1\]-196. Oct-Dec 1928, see below, *The ferns of Surinam*.
-(2) with C.A. Backer, *Varenfl. Java* 1939, TL-2/228; review e.g.: Smith, A.C., J. New York Bot. Gard. 40: 289. Dec 1939.
-(3) *Inversicatenales*, in W. Jongmans, ed., *Fossilium, catalogus* part 12, p. \[1\]-56, 27 Jan 1926.
+- (2) with C.A. Backer, *Varenfl. Java* 1939, TL-2/228; review e.g.: Smith, A.C., J. New York Bot. Gard. 40: 289. Dec 1939.
+- (3) *Inversicatenales*, in W. Jongmans, ed., *Fossilium, catalogus* part 12, p. \[1\]-56, 27 Jan 1926.
 
 #### Handwriting
 

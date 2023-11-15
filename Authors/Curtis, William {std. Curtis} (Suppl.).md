@@ -71,14 +71,14 @@ AG 3: 380; Barnhart 1: 406; BB p. 81; BJI 2: 216; BL 2: 216; BM 1: 407-408, 6: 2
 
 #### Composite works
 
-(1) *Coreopsis verticillata*. Whorled Coreopsis, *in* Bot. Mag. *pl. 156*. 1 Mai 1791.
-(2) *Oenothera purpurea*. Purple Oenothera, *in* Bot. Mag. 9: 552, *pl. 352*. 1795.
-(3) *Oenothera anomala*, *in* Bot. Mag. 11: *pl. 388*. 1 Nov 1797.
-(4) *Fuchsia arborescens, in* Bot. Mag. 43: *pl. 2620*. Dec 1825.
-(5) *Sophora tomentosa* ß. Downy Sophora, *in* Bot. Mag. 62: *pl. 3390*. 1845.
-(6) *Curtis's Botanical Magazine Dedications*, containing 100 portraits of the eminent botanists and horticulturists to whom the volumes of the magazine were dedicated from 1827-1927, with biographical notes, compiled by E. Nelmes and W. Cuthbertson, Oct. 1932.
-(7) Curtis, W., The *subscription catalogue* of the *Brompton botanic garden for the years* 1790 (35 p.), 1791 (43 p.), 1792 (46 p.), 1793 (34 p.), 1795 (36 p.), 1796 (38 p.) 1799 (36 p.). Set at B-S.
-(8) Curtis, W., *Practical observations*... see TL-2/1: 1288, Ed. 7: 1834... Seventh edition, with considerable additions, by John Lawrence... London (Sherwood, Gilbert and Piper) Oct., p. \[i-vi\], \[1\]-165, \[i-iii\], *8 pl*. (col.). *Copy*: BM.
+- (1) *Coreopsis verticillata*. Whorled Coreopsis, *in* Bot. Mag. *pl. 156*. 1 Mai 1791.
+- (2) *Oenothera purpurea*. Purple Oenothera, *in* Bot. Mag. 9: 552, *pl. 352*. 1795.
+- (3) *Oenothera anomala*, *in* Bot. Mag. 11: *pl. 388*. 1 Nov 1797.
+- (4) *Fuchsia arborescens, in* Bot. Mag. 43: *pl. 2620*. Dec 1825.
+- (5) *Sophora tomentosa* ß. Downy Sophora, *in* Bot. Mag. 62: *pl. 3390*. 1845.
+- (6) *Curtis's Botanical Magazine Dedications*, containing 100 portraits of the eminent botanists and horticulturists to whom the volumes of the magazine were dedicated from 1827-1927, with biographical notes, compiled by E. Nelmes and W. Cuthbertson, Oct. 1932.
+- (7) Curtis, W., The *subscription catalogue* of the *Brompton botanic garden for the years* 1790 (35 p.), 1791 (43 p.), 1792 (46 p.), 1793 (34 p.), 1795 (36 p.), 1796 (38 p.) 1799 (36 p.). Set at B-S.
+- (8) Curtis, W., *Practical observations*... see TL-2/1: 1288, Ed. 7: 1834... Seventh edition, with considerable additions, by John Lawrence... London (Sherwood, Gilbert and Piper) Oct., p. \[i-vi\], \[1\]-165, \[i-iii\], *8 pl*. (col.). *Copy*: BM.
 
 ### Publications
 

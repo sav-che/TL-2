@@ -29,8 +29,8 @@ Barnhart 2: 244; BM 2: 923; Bossert p. 194; CSP 3: 53 h 8: 12, 10: 321, 12: 363;
 
 #### Composite works
 
-(1) See Lesquereux and James, *Manual of the mosses of North America*. Boston (Cassino & Co.), 1884 (TL-2/4421).
-(2) Assisted Darlington in the preparation of *Flora cestrica*, 1853 ed. (TL-2/1310).
+- (1) See Lesquereux and James, *Manual of the mosses of North America*. Boston (Cassino & Co.), 1884 (TL-2/4421).
+- (2) Assisted Darlington in the preparation of *Flora cestrica*, 1853 ed. (TL-2/1310).
 
 #### Note
 

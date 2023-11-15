@@ -44,17 +44,17 @@ APN p. 206; Barnhart 1: 560; BFM p. 283 (index); Biol.-Dokum. 6: 70.551-70.552; 
 #### Composite works
 
 Co-author with G.B. De Toni of:
-(1) *Plancton Lago Vetter*... 1900, see TL-2/Suppl. 5, nr. 29.985;
-(2) *Alghe Capo sunio*... 1901, see TL-2/Suppl. 5, nr. 29.987;
-(3) *Pugillo Diatomee bentoniche*... 1903, see TL-2/Suppl. 5, nr. 29.988;
-(4) *Fl. alg. Tripolit.*... 1913, see TL-2/Suppl. 5, nr. 30.002;
-(5) *Sec. contr. fl. algol. Libia*... 1914, see TL-2/Suppl. 5, nr. 30.004;
-(6) *Contribuzione flora algologica Libia*... 1914, see TL-2/Suppl. 5, nr. 30.005;
-(7) *Alghe dal Vito Zanon*... 1916, see TL-2/Suppl. 5, nr. 30.008;
-(8) (& M.A. Howe), *Laurencia from Chile*... 1921, see TL-2/Suppl. 5, nr. 30.009; and
-(9) *Alg. Austral.*... 1922, see TL-2/Suppl. 5, nr. 30.011.
-(10) One of several co-authors with G. Negri, *Stato conosc. veg. Italia*... 1909, see TL-2/3, nr. 6715.
-(11) "Presentazione" (i.e. pref.) *in* Oreste Mattirolo, *L'opera botanica del prof. C. Massalongo*... 1929.
+- (1) *Plancton Lago Vetter*... 1900, see TL-2/Suppl. 5, nr. 29.985;
+- (2) *Alghe Capo sunio*... 1901, see TL-2/Suppl. 5, nr. 29.987;
+- (3) *Pugillo Diatomee bentoniche*... 1903, see TL-2/Suppl. 5, nr. 29.988;
+- (4) *Fl. alg. Tripolit.*... 1913, see TL-2/Suppl. 5, nr. 30.002;
+- (5) *Sec. contr. fl. algol. Libia*... 1914, see TL-2/Suppl. 5, nr. 30.004;
+- (6) *Contribuzione flora algologica Libia*... 1914, see TL-2/Suppl. 5, nr. 30.005;
+- (7) *Alghe dal Vito Zanon*... 1916, see TL-2/Suppl. 5, nr. 30.008;
+- (8) (& M.A. Howe), *Laurencia from Chile*... 1921, see TL-2/Suppl. 5, nr. 30.009; and
+- (9) *Alg. Austral.*... 1922, see TL-2/Suppl. 5, nr. 30.011.
+- (10) One of several co-authors with G. Negri, *Stato conosc. veg. Italia*... 1909, see TL-2/3, nr. 6715.
+- (11) "Presentazione" (i.e. pref.) *in* Oreste Mattirolo, *L'opera botanica del prof. C. Massalongo*... 1929.
 
 ### Publications
 

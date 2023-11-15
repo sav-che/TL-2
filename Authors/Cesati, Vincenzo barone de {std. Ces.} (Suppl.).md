@@ -12,7 +12,7 @@
 
 [[Collection RO|RO]] (35.000), further material at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]] ("Plantae Italiae borealis"), [[Collection BR|BR]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GE|GE]], [[Collection GOET|GOET]], [[Collection HEID|HEID]], [[Collection IBF|IBF]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection MPU|MPU]], [[Collection NAP|NAP]], [[Collection P|P]] (herb. Burnat), [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection REG|REG]], [[Collection W|W]].
 *Notes*:(1) Contributed to *Erbario crittogamico italiano* (see TL-2/1: 478 and IH 1: 606) – See also caption in TL-2/1: 478. – Cesati's herbarium numbered in 1880 350.000 specimens. – See his "Vente"... 1880 below.
-(2) *Plantae Italiae borealis* e.g. in [[Collection BM|BM]], [[Collection G|G]], [[Collection L|L]], [[Collection P|P]], [[Collection PC|PC]], [[Collection RO|RO]].
+- (2) *Plantae Italiae borealis* e.g. in [[Collection BM|BM]], [[Collection G|G]], [[Collection L|L]], [[Collection P|P]], [[Collection PC|PC]], [[Collection RO|RO]].
 
 #### Bibliography and biography
 
@@ -43,8 +43,8 @@ AG 12 (3): 520; Barnhart 1: 327 (b. 24 Mai 1806, Milano, d. 13 Feb 1883, Napoli)
 
 #### Notes
 
-(1) O. Mattirollo, *I fungi ipogei italiani* 1903, TL-2/5698, fungi collected by Cesati described.
-(2) O. Mattirollo, *Il genere Cerebella* di Cesati 1897, see TL-2/5696. – Note on Cesati's Cerebella.
+- (1) O. Mattirollo, *I fungi ipogei italiani* 1903, TL-2/5698, fungi collected by Cesati described.
+- (2) O. Mattirollo, *Il genere Cerebella* di Cesati 1897, see TL-2/5696. – Note on Cesati's Cerebella.
 
 #### Handwriting
 

@@ -40,7 +40,7 @@ Backer p. 91; Barnhart 1: 285; BJI 2: 23; BL 1: 50, 115, 125, 233, 2: 296; CSP 1
 
 #### Note
 
-(1) I.H. Burkill, *Chapters on the history of botany in India*, Delhi 1966, xi, 245 p., 2 maps, tabs. 1-4. 1966 (in book form a series of articles published in J. Bombay nat. Hist. Soc.).
+- (1) I.H. Burkill, *Chapters on the history of botany in India*, Delhi 1966, xi, 245 p., 2 maps, tabs. 1-4. 1966 (in book form a series of articles published in J. Bombay nat. Hist. Soc.).
 
 ### Publications
 

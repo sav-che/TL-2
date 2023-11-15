@@ -49,7 +49,7 @@ AG 1: 274; Barnhart 1: 510; BFM p. 282 \[index\]; BL 1: 16, 25, 35, 57, 58; BM 2
 
 #### Composite works
 
-(1) Martius, *Fl. bras.*:
+- (1) Martius, *Fl. bras.*:
 
 |families	|Fasc.	|vol./pars	|pages	|*plates*	|dates|
 |---	|---	|---	|---	|---	|---	|
@@ -60,7 +60,7 @@ AG 1: 274; Barnhart 1: 510; BFM p. 282 \[index\]; BL 1: 16, 25, 35, 57, 58; BM 2
 |Araceae	|76	|3/2	|25-284	|2-52	|1 Feb 1878|
 |Gutt., Quiin.	|102	|12/1	|381-486	|79-110	|1 Apr 1888|
 
-(2) *Die natürlichen Pflanzenfamilien* ed. 1, Engler: (for precise dates see no. 1710).
+- (2) *Die natürlichen Pflanzenfamilien* ed. 1, Engler: (for precise dates see no. 1710).
 
 |families	|vol./pars	|pages|
 |---	|---	|---	|
@@ -188,7 +188,7 @@ AG 1: 274; Barnhart 1: 510; BFM p. 282 \[index\]; BL 1: 16, 25, 35, 57, 58; BM 2
 |	|	|145-183|
 |	|N.2-4	|28-35|
 
-(3) *Die natürlichen Pflanzenfamilien* ed. 2, edited until his death (1930) by Engler. His own revisions were:
+- (3) *Die natürlichen Pflanzenfamilien* ed. 2, edited until his death (1930) by Engler. His own revisions were:
 *Angiospermae*, general part, 14a: \[i\]-iv, \[1\]-167. 1926.
 *Brunelliaceae*, 18a: 226-229. Jan-Oct 1930.
 *Burseraceae*, 19a: 405-456, *figs. 191-220.* Jan-Sep 1931.
@@ -212,14 +212,14 @@ AG 1: 274; Barnhart 1: 510; BFM p. 282 \[index\]; BL 1: 16, 25, 35, 57, 58; BM 2
 *Simarubaceae*, 19a: 359-405, *figs. 166-190.* Jan-Sep 1931.
 *Strasburgeriaceae*, 21: 87-89. *fig. 46.* 1925.
 *Zygophyllaceae*, 19a: 144-184, *figs. 68-87.* Jan-Sep 1931.
-(4) *Pflanzenreich*, edited by Engler until his death (1930):
+- (4) *Pflanzenreich*, edited by Engler until his death (1930):
 (a) *Araceae*, iv, 23, 1905-1920.
 (b) *Aponogetonaceae*, iv, 13, 2 Jan 1906.
 (c) *Saxifragaceae*, iv, 117, 1916-1919.
-(5) *Monographiae phanerogamarum* (Alph. et C. de Candolle):
+- (5) *Monographiae phanerogamarum* (Alph. et C. de Candolle):
 (a) *Araceae*, 2: 1-681. Sep 1879.
 (b) *Burseraceae, Anacardiaceae*, 4: 1-500, 536-540. Mar 1883.
-(6) *Notizblatt des Königl. botanischen Gartens und Museums zu Berlin*, editor from vol. 1 (1895) until his death.
+- (6) *Notizblatt des Königl. botanischen Gartens und Museums zu Berlin*, editor from vol. 1 (1895) until his death.
 
 #### Festschrift
 

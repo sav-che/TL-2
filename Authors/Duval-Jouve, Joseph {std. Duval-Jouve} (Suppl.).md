@@ -39,8 +39,8 @@ AG 2(1): 656, 663, 6(2): 339; Backer p. 187; Barnhart 1: 488 (b. 7 Aug 1810, Boi
 
 #### Composite works
 
-(1) *Notices* sur un *Polypogon* d'*Algérie* et sur les espèces méditerranéennes du genre Polypogon, *in* C. Billot, Annot. fl. France Allemagne, see TL-2/1: 216. *Copies*: B, L. – See also Schlechtendal, D.F.C. von, Bot. Zeit. 18: 278. 3 Aug 1860. – This publication is as reprint combined with C. Billot: Sur les pélories du Linaria vulgaris, in all 12 p. + *1 pl*.
-(2) *Études* sur le *pétiole* des *Fougères*, *in* C. Billot, Annot. fl. France Allemagne, see TL-2/1: 216. *Copy*: G. – Publ. in 2 parts, Oct 1858 and 1861 in all p. \[i\], \[iii\], \[1\]-46, *pl. 1-3* (uncol. liths.).
+- (1) *Notices* sur un *Polypogon* d'*Algérie* et sur les espèces méditerranéennes du genre Polypogon, *in* C. Billot, Annot. fl. France Allemagne, see TL-2/1: 216. *Copies*: B, L. – See also Schlechtendal, D.F.C. von, Bot. Zeit. 18: 278. 3 Aug 1860. – This publication is as reprint combined with C. Billot: Sur les pélories du Linaria vulgaris, in all 12 p. + *1 pl*.
+- (2) *Études* sur le *pétiole* des *Fougères*, *in* C. Billot, Annot. fl. France Allemagne, see TL-2/1: 216. *Copy*: G. – Publ. in 2 parts, Oct 1858 and 1861 in all p. \[i\], \[iii\], \[1\]-46, *pl. 1-3* (uncol. liths.).
 
 ### Publications
 

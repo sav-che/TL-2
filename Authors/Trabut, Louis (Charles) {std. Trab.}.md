@@ -35,12 +35,12 @@ AG 3: 513-514; Barnhart 3: 396 (b. 12 Jul 1853, d. 23 Apr 1929); BJI 2: 178; BL 
 
 #### Composite works
 
-(1) Préface with J.A. Battandier, to A.C. Julien, *Fl. Constantine* 1894, TL-2/3437.
-(2) With J.A. Battandier, *Fl. Alger* 1884, TL-2/352.
-(3) Id., *Atlas fl. Alger* 1886-1929, TL-2/353.
-(4) Id., *Fl. Algérie* 1888-1897, TL-2/354.
-(5) Id., *Pl. médic.* 1889, TL-2/355.
-(6) Id., *Fl. Algérie Tunisie* 1904, TL-2/356.
+- (1) Préface with J.A. Battandier, to A.C. Julien, *Fl. Constantine* 1894, TL-2/3437.
+- (2) With J.A. Battandier, *Fl. Alger* 1884, TL-2/352.
+- (3) Id., *Atlas fl. Alger* 1886-1929, TL-2/353.
+- (4) Id., *Fl. Algérie* 1888-1897, TL-2/354.
+- (5) Id., *Pl. médic.* 1889, TL-2/355.
+- (6) Id., *Fl. Algérie Tunisie* 1904, TL-2/356.
 
 #### Eponymy
 

@@ -34,7 +34,7 @@ Kerner von Marilaun, Anton Joseph, Ritter (1831-1898); Austrian botanist, Dr. me
 |20	|3801-4000	|1903	|R. v. Wettstein|
 
 Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection GB|GB]], [[Collection GJO|GJO]], [[Collection GOET|GOET]], [[Collection GZU|GZU]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection PR|PR]], [[Collection S|S]], [[Collection W|W]], – For *Schedae*: see below no. 3598.
-(2) *Herbarium österreichischer Weiden*, with Joseph Kerner (1829-1906), sets e.g. at [[Collection B|B]], [[Collection BM|BM]], [[Collection IBF|IBF]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection WU|WU]]. (Number of sets to be issued (subscription pamphlet 1863): 50).
+- (2) *Herbarium österreichischer Weiden*, with Joseph Kerner (1829-1906), sets e.g. at [[Collection B|B]], [[Collection BM|BM]], [[Collection IBF|IBF]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection WU|WU]]. (Number of sets to be issued (subscription pamphlet 1863): 50).
 
 |decas	|date	|lists in Österr. bot. Z.|
 |---	|---	|---	|

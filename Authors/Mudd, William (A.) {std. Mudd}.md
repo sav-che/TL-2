@@ -8,8 +8,9 @@ Mudd, William (A.) (1830-1879), British gardener and lichenologist; at first at 
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Exsiccatae: (1) *Lichenum britannicorum,...*fasc. 1-3, nos. 1-301, Great Ayton 1861; sets at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection MANCH|MANCH]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. For index see Mudd, *Man. Br. lich.*(1861).
-(2) *A monograph of British Cladoniae*, nos. 1-80, 1865, sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection UPS|UPS]]. Se also below, no. 6390.
+[[Collection BM|BM]].
+*Exsiccatae*: (1) *Lichenum britannicorum,...*fasc. 1-3, nos. 1-301, Great Ayton 1861; sets at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection MANCH|MANCH]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. For index see Mudd, *Man. Br. lich.*(1861).
+- (2) *A monograph of British Cladoniae*, nos. 1-80, 1865, sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection UPS|UPS]]. Se also below, no. 6390.
 
 #### Bibliography and biography
 

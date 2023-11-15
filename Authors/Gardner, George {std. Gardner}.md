@@ -8,7 +8,8 @@ Gardner, George (1812-1849), British botanist and explorer, later superintendent
 
 #### Herbarium and types
 
-Brazilian coll. orig. at [[Collection BM|BM]], Ceylon id. at [[Collection K|K]], duplicates in many herbaria, e.g. [[Collection B|B]], [[Collection BR|BR]], [[Collection E|E]], [[Collection LE|LE]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection US|US]]. – Exsiccatae:
+Brazilian coll. orig. at [[Collection BM|BM]], Ceylon id. at [[Collection K|K]], duplicates in many herbaria, e.g. [[Collection B|B]], [[Collection BR|BR]], [[Collection E|E]], [[Collection LE|LE]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection US|US]].
+*Exsiccatae*:
 1. *Musci britannici, or pocket herbarium of specimens of British mosses* (285 nos., Glasgow 1836), set at [[Collection FH|FH]].
 2. *Musci Hepaticae of Brazil*.
 *Ref*.: IH 1 (ed. 6): 358, 2: 217; Lasègue p. 235-239.

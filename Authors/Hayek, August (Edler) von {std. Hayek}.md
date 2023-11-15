@@ -8,8 +8,9 @@ Hayek, August (Edler) von (1871-1928), Austrian botanist and physician; dr. med.
 
 #### Herbarium and types
 
-[[Collection GB|GB]] (90.000); some types. probably also in other herbaria from which Hayek used material. *Exsiccatae*: (1) *Centaureae exsiccatae criticae* (fasc. 1-4, 1913-1924) sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection K|K]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection W|W]].
-(2) *Flora stiriaca exsiccata* (fasc. 1-26, 1904-1912, nos. 1-129) sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection GZU|GZU]], [[Collection KRAM|KRAM]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection W|W]]. – For *Schedae* see no. 2502.
+[[Collection GB|GB]] (90.000); some types. probably also in other herbaria from which Hayek used material.
+*Exsiccatae*: (1) *Centaureae exsiccatae criticae* (fasc. 1-4, 1913-1924) sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection K|K]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection W|W]].
+- (2) *Flora stiriaca exsiccata* (fasc. 1-26, 1904-1912, nos. 1-129) sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection GZU|GZU]], [[Collection KRAM|KRAM]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection W|W]]. – For *Schedae* see no. 2502.
 
 #### Bibliography and biography
 

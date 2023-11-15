@@ -22,8 +22,8 @@ Barnhart 3: 351 (b. 1 Mai 1903); Bossert p. 390; IH 1 (ed. 1): 102, (ed. 2): 126
 
 #### Composite works
 
-(1) N. Amer. Fl., *Poaceae-Chlorid*., 17(8): 579-638. 14 Jul 1939.
-(2) Contributed 724 texts on genera of *Gramineae* to *Index nominum genericorum* 1979.
+- (1) N. Amer. Fl., *Poaceae-Chlorid*., 17(8): 579-638. 14 Jul 1939.
+- (2) Contributed 724 texts on genera of *Gramineae* to *Index nominum genericorum* 1979.
 
 #### Eponymy
 

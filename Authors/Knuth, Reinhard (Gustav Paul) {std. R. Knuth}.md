@@ -18,13 +18,13 @@ Barnhart 2: 305; BJI 2: 91-92; BL 1: 260, 304; Bossert p. 215; Hortus 3: 1197 ("
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich* (TL-2/1713):
+- (1) Engler, *Pflanzenreich* (TL-2/1713):
 (a) *Dioscoreaceae*, Heft 87, *publ*. 5 Aug 1924.
 (b) *Geraniaceae*, Heft 53, *publ*. 25 Mar 1912.
 (c) *Oxalidaceae*, Heft 95, *publ*. 11 Mar 1930.
 (d) *Primulaceae*, Heft 22 (with F. pax), *publ*. 14 Nov 1905.
 (e) *Lecythidaceae, Barringtoniaceae, Asteranthaceae*, Heft 105, *publ*. 22 Aug 1939.
-(2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2(TL-2/1711):
+- (2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2(TL-2/1711):
 (f) *Dioscoreaceae*, 15a: 438-462. Apr 1930.
 (g) *Oxalidaceae*, 19a: \[11\]-42. Jan-Aug 1931.
 (h) *Geraniaceae*, 19a: 43-66. Jan-Aug 1931.

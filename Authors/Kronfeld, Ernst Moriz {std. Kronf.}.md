@@ -18,6 +18,6 @@ Barnhart 2: 323; BJI 1: 35, 2: 97; BM 2: 1028; CSP 16: 478-479; De Toni 1: lxxii
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1, *Aquifoliaceae*, III. 5: 183-189, *publ*.: Dec 1892. (Nachträge by Loesener, Th., *in* Nachtr. 2-4 (1): 217-221. Oct 1897. (TL-2/1710).
-(2) Martius, *Flora brasiliensis, Typhaceae*, 3(3): 635-642, *pl. 115*. 15 Apr 1894. NOTE: Kronfeld's important collection of biographies is at W. K. died at Lemberg (Lwow) on 16 Mar 1942 (inf. H. Riedl).
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1, *Aquifoliaceae*, III. 5: 183-189, *publ*.: Dec 1892. (Nachträge by Loesener, Th., *in* Nachtr. 2-4 (1): 217-221. Oct 1897. (TL-2/1710).
+- (2) Martius, *Flora brasiliensis, Typhaceae*, 3(3): 635-642, *pl. 115*. 15 Apr 1894. NOTE: Kronfeld's important collection of biographies is at W. K. died at Lemberg (Lwow) on 16 Mar 1942 (inf. H. Riedl).
 

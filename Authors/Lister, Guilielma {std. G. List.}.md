@@ -23,8 +23,8 @@ Ainsworth p. 60, 234, 325; Barnhart 2: 391; BL 2: 240, 683; BM 3: 1154, 7: 732; 
 
 #### Composite works
 
-(1) Miss Lister published eds. 2-3 of her father's *Monogr. Mycetozoa* as well as eds. 3-4 of his *Guide Bril. mycetozoa* (see above).
-(2) Made drawings for F. J. Hanbury, *Ill. monogr. Brit. Hierac.* (1889-98) and for A. Dallimore & A. B. Jackson, *A handbook of Coniferae* (1923).
+- (1) Miss Lister published eds. 2-3 of her father's *Monogr. Mycetozoa* as well as eds. 3-4 of his *Guide Bril. mycetozoa* (see above).
+- (2) Made drawings for F. J. Hanbury, *Ill. monogr. Brit. Hierac.* (1889-98) and for A. Dallimore & A. B. Jackson, *A handbook of Coniferae* (1923).
 
 ### Publications
 

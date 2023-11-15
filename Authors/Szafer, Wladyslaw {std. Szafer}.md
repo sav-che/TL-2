@@ -8,7 +8,8 @@ Szafer, Wladyslaw (1886-1970), Polish botanist; Dr. phil. Lwów 1909; studied at
 
 #### Herbarium and types
 
-[[Collection KRA|KRA]], [[Collection KRAM|KRAM]]; other material at [[Collection C|C]], [[Collection CERN|CERN]], [[Collection GB|GB]], [[Collection NMW|NMW]]. *Exsiccatae*: *Plantae Poloniae exsiccatae*, ser. 2, cent. 1-5, 1930-1957 with B. Pawlowski (series 1 by M. Raciborski). – *Letters* at [[Collection G|G]].
+[[Collection KRA|KRA]], [[Collection KRAM|KRAM]]; other material at [[Collection C|C]], [[Collection CERN|CERN]], [[Collection GB|GB]], [[Collection NMW|NMW]].
+*Exsiccatae*: *Plantae Poloniae exsiccatae*, ser. 2, cent. 1-5, 1930-1957 with B. Pawlowski (series 1 by M. Raciborski). – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

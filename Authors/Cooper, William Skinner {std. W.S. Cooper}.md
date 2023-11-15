@@ -26,7 +26,7 @@ Barnhart 1: 378 (b. 25 Aug 1884, Detroit, Mich.); BL 1: 131, 190, 291; Ewan, ed 
 
 #### Composite works
 
-(1) The *Strand and dune flora* of the Pacific coast of *North America: a geographic study, in* W.A. Setchell, Essays Geobot. 141-188. 1936.
+- (1) The *Strand and dune flora* of the Pacific coast of *North America: a geographic study, in* W.A. Setchell, Essays Geobot. 141-188. 1936.
 
 ### Publications
 

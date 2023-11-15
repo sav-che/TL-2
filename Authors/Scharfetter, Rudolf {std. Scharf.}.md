@@ -25,10 +25,10 @@ Barnhart 3: 222 (b. 20 Feb 1880); BFM 883, 884, 885, 2017, 2103, 2127, 2196; Bio
 
 #### Composite works
 
-(1) *Die kartografische Darstellung der Pflanzengesellschaften in* E. Abderhalden, Handb. biol. Arbeitsmeth. 11(4): 77-164. 1928.
-(2) *Die Pflanzendecke der Dolomiten, in* "Gedächtnissband Karl Fritsch", Mitt. Naturw. Ver. Steiermark 71: 1-39, map, 1934, publ. Jun 1935.
-(3) *Zur Lebensgeschichte der Wulfenia carinthidca, in* Festschr. 60-j. Bestandesfeier Villacher Gymn., reprint p. \[1\]-6, 1 map, 1929, copy reprint: M. – See also Österr. bot. Z. 56: 440-441. 1906.
-(4) *Die Stellung der Einarter* in den mitteleuropäischen *Pflanzenformationen, in* Festschr. Carl Schröter, Veröff. Geobot. Inst. Rübel 3: 676-684. 1925.
+- (1) *Die kartografische Darstellung der Pflanzengesellschaften in* E. Abderhalden, Handb. biol. Arbeitsmeth. 11(4): 77-164. 1928.
+- (2) *Die Pflanzendecke der Dolomiten, in* "Gedächtnissband Karl Fritsch", Mitt. Naturw. Ver. Steiermark 71: 1-39, map, 1934, publ. Jun 1935.
+- (3) *Zur Lebensgeschichte der Wulfenia carinthidca, in* Festschr. 60-j. Bestandesfeier Villacher Gymn., reprint p. \[1\]-6, 1 map, 1929, copy reprint: M. – See also Österr. bot. Z. 56: 440-441. 1906.
+- (4) *Die Stellung der Einarter* in den mitteleuropäischen *Pflanzenformationen, in* Festschr. Carl Schröter, Veröff. Geobot. Inst. Rübel 3: 676-684. 1925.
 
 #### Note
 

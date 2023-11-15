@@ -25,5 +25,5 @@ AG 6(1): 167; Barnhart 1: 310; BL 2: 109, 168; BM 1: 316; CSP 12: 142; Hortus 3:
 
 #### Composite works
 
-(1): A. Cariot and Saint-Lager, see Anon., J. Bot. \[Morot\] Bull. Bibl. 11(59): l. 16 Mai 1897 on publication of Tome I of "*Étude fl*." ed. 8 as *Botanique élémentaire *... ed. 8, "Tome I, 2 partie" *Clefs analytiques* Lyon 1897.
+- (1): A. Cariot and Saint-Lager, see Anon., J. Bot. \[Morot\] Bull. Bibl. 11(59): l. 16 Mai 1897 on publication of Tome I of "*Étude fl*." ed. 8 as *Botanique élémentaire *... ed. 8, "Tome I, 2 partie" *Clefs analytiques* Lyon 1897.
 

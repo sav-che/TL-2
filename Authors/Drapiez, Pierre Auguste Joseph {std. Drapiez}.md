@@ -23,11 +23,11 @@ Backer p. 184; Barnhart 1: 470 (b. 28 Aug 1778, Lille, d. 28 Dec 1856, Bruxelles
 
 #### Composite works
 
-(1) *Dictionnaire classique* d'*histoire naturelle*, par Messieurs Audouin ... \[A.\] Drapiez etc., 17 vol. – See Bory de Saint-Vincent, J.B.G.M. Baron de, Dict. class. hist. nat. TL-2/669.
-(2) *Nouveau éléments de botanique*, nouvelle édition see A. Richard TL-2/no. 9138, "Nouvelle édition par Drapiez".
-(3) *Dictionnaire classique* des *sciences naturelles*... résumant tous les faits présentés par les Dictionnaires d'Histoire naturelle, 10 tom. & atlas. Oct. Bruxelles 1837-1845.
-(4) *Encyclographie* du *règne végétal*, Bruxelles 1833-1838, 6 vols., a compilation of texts by other authors, partly in translation. – See NI 2241, PR 2400. *Copies*: G, U.
-(5) *Herbier* de l'*Amateur* de *fleurs*, Loiseleur 1829, TL-2/no. 4958, with a new introduction.
+- (1) *Dictionnaire classique* d'*histoire naturelle*, par Messieurs Audouin ... \[A.\] Drapiez etc., 17 vol. – See Bory de Saint-Vincent, J.B.G.M. Baron de, Dict. class. hist. nat. TL-2/669.
+- (2) *Nouveau éléments de botanique*, nouvelle édition see A. Richard TL-2/no. 9138, "Nouvelle édition par Drapiez".
+- (3) *Dictionnaire classique* des *sciences naturelles*... résumant tous les faits présentés par les Dictionnaires d'Histoire naturelle, 10 tom. & atlas. Oct. Bruxelles 1837-1845.
+- (4) *Encyclographie* du *règne végétal*, Bruxelles 1833-1838, 6 vols., a compilation of texts by other authors, partly in translation. – See NI 2241, PR 2400. *Copies*: G, U.
+- (5) *Herbier* de l'*Amateur* de *fleurs*, Loiseleur 1829, TL-2/no. 4958, with a new introduction.
 
 ### Publications
 

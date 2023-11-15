@@ -29,19 +29,19 @@ APN p. 210; Barnhart 2: 8; BL 2: 178, 656; BM 2: 178; Bossert p. 133; IH 2: 208;
 
 #### Note
 
-(1) The plates for *Cyanophyc. côtes Europe*... 1929-1933 (TL-2/1, nr. 1854) evidently also were issued separately as:
+- (1) The plates for *Cyanophyc. côtes Europe*... 1929-1933 (TL-2/1, nr. 1854) evidently also were issued separately as:
 *Icones Cyanophycearum* in *littoribus Europae viventium*... Saint-Lô (Imprimerie R. Jacqueline) 1933. Oct.
 *Publ*: 1933 (cover-t.p.), cover-t.p., p. \[1-4\], \[5=t.p.\], \[6-8\]-27, *pl. 1-66* (uncol. lith.). *Copy*: NY.
 *Note*: "Cette iconographie est constituée par l'ensemble des planches qui illustrent notre Mémoire Cyanophycées des Côtes d'Europe..."
-(2) *Myxophyc. Afr. Équat. Franç.*... 1930 (see TL-2/1, nr. 1855) is now available in microfiche:
+- (2) *Myxophyc. Afr. Équat. Franç.*... 1930 (see TL-2/1, nr. 1855) is now available in microfiche:
 *Microfiche*: IDC 1026/2. *Copy*: (n.v.).
 
 #### Composite works
 
-(1) Co-author with M. Denis, *Cyanophycée héterocystée*... 1924, see TL-2/Suppl. 5, nr. 29.770.
-(2) "Deux Cyanophycées nouvelles de l'Inde Méridionale" *in Travaux cryptogamiques dédiés à Louis Mangin*: 103-108, *pl. 6-7* (Sep 1931), a Festschrift in honor of L.A. Mangin (see TL-2/3: 275-276).
-(3) Co-author with J. Feldmann, *Matér. fl. algol. Tunisie*... 1935, see nr. 34.183 above.
-(4) "Cyanophyceae" *in* F.C.E. Børgesen, *Mar. alg. Canary Is.*... pt. 4, 1936, see TL-2/1, nr. 591.
+- (1) Co-author with M. Denis, *Cyanophycée héterocystée*... 1924, see TL-2/Suppl. 5, nr. 29.770.
+- (2) "Deux Cyanophycées nouvelles de l'Inde Méridionale" *in Travaux cryptogamiques dédiés à Louis Mangin*: 103-108, *pl. 6-7* (Sep 1931), a Festschrift in honor of L.A. Mangin (see TL-2/3: 275-276).
+- (3) Co-author with J. Feldmann, *Matér. fl. algol. Tunisie*... 1935, see nr. 34.183 above.
+- (4) "Cyanophyceae" *in* F.C.E. Børgesen, *Mar. alg. Canary Is.*... pt. 4, 1936, see TL-2/1, nr. 591.
 
 ### Publications
 

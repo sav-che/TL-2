@@ -10,9 +10,9 @@ Ule, Ernst Heinrich Georg (1854-1915), German (Prussian) botanist and botanical 
 
 [[Collection B|B]] (some material still extant), [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CORD|CORD]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HBG|HBG]] (impt. set, up to no. 7575; for fungi see Friederichsen 1973), [[Collection K|K]], [[Collection KBG|KBG]] (destr.), [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MG|MG]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection PR|PR]], [[Collection R|R]], [[Collection U|U]], [[Collection US|US]] (659), [[Collection W|W]], [[Collection WRSL|WRSL]]. – See Urban 1909 (full details). – *Letters* to W.G. Farlow at [[Collection FH|FH]], to K. Keck at [[Collection UPS|UPS]]-UB; other letters at [[Collection G|G]].
 *Exsiccatae*: (1) *Bryotheca brasiliensis* nos. 1-298, 1891-1905 (for list see Hedwigia 38: \[57\]-\[58\]. 1899; nos. 241-298, see ib. 44: \[90\]-\[91\]. 1905; edited by V.F. Brotherus, identifications by Brotherus, Karl Müller (Halle), Carl Warnstorf. – Sets at [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection MANCH|MANCH]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]]. – See Sayre 1971.
-(2) *Mycotheca brasiliensis* cent. 1, Berlin (1905) and Appendix, nos. 1-36, Berlin (1905), for list see Hedwigia 44: \[88\]-\[89\]. 1905. – Sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection ILL|ILL]], [[Collection KIEL|KIEL]], [[Collection LIL|LIL]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection SI|SI]]. – For details see Stevenson (1971).
-(3) *Herbarium brasiliense*: irregular sets of Brazilian material were offered for sale by Ule (e.g. 445 cryp. bought 1899 by BM; many coll. in [[Collection FH|FH]]), see Bot. Jahrb. 32, Beibl. nr. 72 for details.
-(4) Ule contributed to W. Zopf & Sydow, *Mycotheca marchica*.
+- (2) *Mycotheca brasiliensis* cent. 1, Berlin (1905) and Appendix, nos. 1-36, Berlin (1905), for list see Hedwigia 44: \[88\]-\[89\]. 1905. – Sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection ILL|ILL]], [[Collection KIEL|KIEL]], [[Collection LIL|LIL]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection SI|SI]]. – For details see Stevenson (1971).
+- (3) *Herbarium brasiliense*: irregular sets of Brazilian material were offered for sale by Ule (e.g. 445 cryp. bought 1899 by BM; many coll. in [[Collection FH|FH]]), see Bot. Jahrb. 32, Beibl. nr. 72 for details.
+- (4) Ule contributed to W. Zopf & Sydow, *Mycotheca marchica*.
 
 #### Bibliography and biography
 
@@ -36,19 +36,19 @@ Backer p. 662; Barnhart 3: 414; BJI 1: 59, 2: 181-182; Bossert p. 410; Clokie p.
 
 #### Composite works
 
-(1) *Relatio do Dr. Ernesto Ule*... in L. Cruls, commissão exploradora do Planalto central do Brazil, Rio de Janeiro 1894, p. 339-365 (annex 6).
-(2) *Beiträge zur Kenntniss der Flora des centralbrasilianischen Staates Goyaz* von Dr. P. Taubert. Mit einer *pflanzengeographischen Skizze* von E. Ule, Bot. Jahrb. 21: 404-421. 11 Feb 1896.
-(3) R. Pilger et al., *Plantae Uleanae* novae vel minus cognitae, Notizbl. Bot. Mus. Berlin-Dahlem \[contrib. by Ule himself:\] vol. 6: *Thurniaceae* p. 268, *Loranthaceae* p. 288-292, *Rafflesiaceae* p. 292-293, *Nymphaeaceae* p. 293-295, *Vochsyaceae* p. 311-312, *Dichapetalaceae* p. 312-313, *Ochnaceae* p. 335-346, *Melastomataceae*, p. 348-368. 1915.
+- (1) *Relatio do Dr. Ernesto Ule*... in L. Cruls, commissão exploradora do Planalto central do Brazil, Rio de Janeiro 1894, p. 339-365 (annex 6).
+- (2) *Beiträge zur Kenntniss der Flora des centralbrasilianischen Staates Goyaz* von Dr. P. Taubert. Mit einer *pflanzengeographischen Skizze* von E. Ule, Bot. Jahrb. 21: 404-421. 11 Feb 1896.
+- (3) R. Pilger et al., *Plantae Uleanae* novae vel minus cognitae, Notizbl. Bot. Mus. Berlin-Dahlem \[contrib. by Ule himself:\] vol. 6: *Thurniaceae* p. 268, *Loranthaceae* p. 288-292, *Rafflesiaceae* p. 292-293, *Nymphaeaceae* p. 293-295, *Vochsyaceae* p. 311-312, *Dichapetalaceae* p. 312-313, *Ochnaceae* p. 335-346, *Melastomataceae*, p. 348-368. 1915.
 
 #### Itineraries
 
 see Urban (1906), p. 125-127.
 
-#### Photographs vegetation amazonas
+#### Photographs vegetation Amazonas
 
 see E. Ule, *Verzeichniss von Photographien botanischer Typenbilder von Amazonenstrom* Berlin s.d. (1904), p. \[1\]-8. *Copies*: B, G. – See L. Diels, Bot. Jahrb. 34 (Lit.): 39-40. 16 Aug 1904 (rev.). A complete set was at B until 1943; GOET has ca. 120 nos. (highest number 312).
 
-#### Publications on ule collections
+#### Publications on Ule collections
 
 see Harms (1916), p. 181-185, nos. 96-145, not repeated here. Additional publications (list not exhaustive).
 Pilger, R. et al., *Plantae Uleanae* novae vel minus cognitae, Notizbl. Bot. Mus. Berlin-Dahlem 6(54): 109-142. 20 Mar 1914, 6(55): 143-179. 4 Apr 1914, 6(56): 181-212. 15 Mai 1914, 6(59): 261-310. 30 Jun 1915, 6(60): 311-382. 20 Sep 1915.

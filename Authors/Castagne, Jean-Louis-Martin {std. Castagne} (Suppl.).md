@@ -29,5 +29,5 @@ AG 4: 597; Barnhart 1: 320 (b. 12 Nov 1785, Marseille, d. 16 Mar 1858, Miramar);
 
 #### Note
 
-(1) TL-2/1053, *Cat. pl. Marseille* available on microfiche IDC E-594/2.
+- (1) TL-2/1053, *Cat. pl. Marseille* available on microfiche IDC E-594/2.
 

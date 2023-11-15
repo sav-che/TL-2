@@ -24,10 +24,10 @@ BL 2: 437, 721; Bossert p. 390; IH 1 (ed. 1): 99, (ed. 2): 124, (ed. 3): 159, (e
 
 #### Composite works
 
-(1) Contributed 10.281 entries on miscellaneous phanerogams to E.R. Farr, J.A. Leussink and F.A. Stafleu, *Index nominum genericorum*. 1979.
-(2) *Burseraceae, in* A.A. Pulle, ed., *Fl. Suriname* 3(2): 204-251. Feb 1951.
-(3) *De veredeling van den Oliepalm, in* S.J. Wellensieck, ed., Grondslagen der Algemeene Plantenveredeling ed. 2, 1947, p. 348-381.
-(4) *Burseraceae* \[of Guiana\], *in* B. Maguire et al., Plant explorations in Guiana in 1944, chiefly to the Tafelberg and the Kaieteur Plateau VI. Bull. Torrey bot. Club 75: 644. 6 Dec 1948.
+- (1) Contributed 10.281 entries on miscellaneous phanerogams to E.R. Farr, J.A. Leussink and F.A. Stafleu, *Index nominum genericorum*. 1979.
+- (2) *Burseraceae, in* A.A. Pulle, ed., *Fl. Suriname* 3(2): 204-251. Feb 1951.
+- (3) *De veredeling van den Oliepalm, in* S.J. Wellensieck, ed., Grondslagen der Algemeene Plantenveredeling ed. 2, 1947, p. 348-381.
+- (4) *Burseraceae* \[of Guiana\], *in* B. Maguire et al., Plant explorations in Guiana in 1944, chiefly to the Tafelberg and the Kaieteur Plateau VI. Bull. Torrey bot. Club 75: 644. 6 Dec 1948.
 
 ### Publications
 

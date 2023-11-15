@@ -23,7 +23,7 @@ Barnhart 1: 368 (b. 9 Aug 1872, Mertensia, NY, d. 14 Aug 1938, Lanham, Md.); BJI
 
 #### Composite works
 
-(1) With O.F. Cook (first author), q.v., *Economic plants of Porto Rico*, Contr. U.S. Natl. Herb. 8: i-vi, 57-269, *pl. 13-60*, 27 June 1903.
+- (1) With O.F. Cook (first author), q.v., *Economic plants of Porto Rico*, Contr. U.S. Natl. Herb. 8: i-vi, 57-269, *pl. 13-60*, 27 June 1903.
 
 ### Publications
 

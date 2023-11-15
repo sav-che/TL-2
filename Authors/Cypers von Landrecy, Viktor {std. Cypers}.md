@@ -29,10 +29,10 @@ Barnhart 1: 409; Futak-Domin p. 135-146; GR p. 668; IH 2: 149; Klásterský p. 6
 *Beiträge* zur *Kryptogamenflora* des *Riesengebirges* und seiner Vorlagen... \[Aus den Verhandlungen der k.k. zoologisch-botanischen Gesellschaft zu Wien\] 1893 \[-1926\]. Oct.
 
 **Notes**
-*Publ*.: (*1*) *Pilze I*: Mar 1893 (in journal), *in* Verh. zool.-bot. Ges. Wien 43(Abh.): 43-53. 1893. – No reprint seen.
-(*2*) *Pilze II*: 1896 (no exact date), *in* id. 46(Abh.): 310-320. 1896 (read 16 Jun 1896). – No reprint seen.
-(3) *Laubmoose I*: 1897 (id.), p. \[1\]-12. *Copy*: B. – Reprinted and to be cited from id. 47(Abh.): 183-194. 1897.
-(4) *Laubmoose II*: 1902 (no exact date), cover (identif.), p. \[530\]-539. *Copy*: B. – Id. 52(Abh.): 530-539. 1902.
-(5) *Lebermoose*: 1924, *in* Lotos, Prag 72: 15-21. 1924. – No reprint seen.
-(6) *Flechten*: 1926, *in* id. 74: 1-18. 1926. – No reprint seen.
+*Publ*.: (1) *Pilze I*: Mar 1893 (in journal), *in* Verh. zool.-bot. Ges. Wien 43(Abh.): 43-53. 1893. – No reprint seen.
+- (2) *Pilze II*: 1896 (no exact date), *in* id. 46(Abh.): 310-320. 1896 (read 16 Jun 1896). – No reprint seen.
+- (3) *Laubmoose I*: 1897 (id.), p. \[1\]-12. *Copy*: B. – Reprinted and to be cited from id. 47(Abh.): 183-194. 1897.
+- (4) *Laubmoose II*: 1902 (no exact date), cover (identif.), p. \[530\]-539. *Copy*: B. – Id. 52(Abh.): 530-539. 1902.
+- (5) *Lebermoose*: 1924, *in* Lotos, Prag 72: 15-21. 1924. – No reprint seen.
+- (6) *Flechten*: 1926, *in* id. 74: 1-18. 1926. – No reprint seen.
 

@@ -8,7 +8,8 @@ Petit, Paul Charles Mirbel (1834-1913), French pharmacist and algologist, esp. d
 
 #### Herbarium and types
 
-[[Collection PC|PC]]. – *Exsiccatae*: see J. Tempère for *Les diatomées de France*... 1871-1891 at [[Collection AWH|AWH]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]].
+[[Collection PC|PC]].
+*Exsiccatae*: see J. Tempère for *Les diatomées de France*... 1871-1891 at [[Collection AWH|AWH]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]].
 
 #### Bibliography and biography
 
@@ -26,9 +27,9 @@ Barnhart 3: 75; BM 4: 1557, 8: 1003; CSP 8: 605, 10: 1044-1045, 12: 571, 17: 823
 
 #### Composite works
 
-(1) Diatomacées, *in* P.A. Hariot, *Miss. sci. Cap Horn, Bot.* p. 111-140, *pl. 10.* Jan-Feb 1889, see TL-2/2390 (reprint listed by Nat. Nov. Mar(2) 1889).
-(2) With A.M. Hue, *Exped. antarct., bot.*, lichens, see TL-2/3116.
-(3) Co-author, J.A. Battandier, *Fl. Algérie* (1888-1897), see TL-2/354.
+- (1) Diatomacées, *in* P.A. Hariot, *Miss. sci. Cap Horn, Bot.* p. 111-140, *pl. 10.* Jan-Feb 1889, see TL-2/2390 (reprint listed by Nat. Nov. Mar(2) 1889).
+- (2) With A.M. Hue, *Exped. antarct., bot.*, lichens, see TL-2/3116.
+- (3) Co-author, J.A. Battandier, *Fl. Algérie* (1888-1897), see TL-2/354.
 
 #### Eponymy
 

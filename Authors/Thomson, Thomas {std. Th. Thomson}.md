@@ -8,7 +8,8 @@ Thomson, Thomas (1817-1878), British physician and botanist; MD Glasgow 1839; st
 
 #### Herbarium and types
 
-[[Collection K|K]] (see also J.D. Hooker); further material at [[Collection B|B]] (mainly destr.), [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MH|MH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UW|UW]] \[[[Collection W|W]]?\], [[Collection WU|WU]]. – *Mss*. and *letters* at [[Collection K|K]], other letters at [[Collection G|G]]. – *Exsiccatae* (with J.D. Hooker (1817-1911), *Herbarium Indiae orientalis*, col. 1847-1851, see J.D. Hooker.
+[[Collection K|K]] (see also J.D. Hooker); further material at [[Collection B|B]] (mainly destr.), [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MH|MH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UW|UW]] \[[[Collection W|W]]?\], [[Collection WU|WU]]. – *Mss*. and *letters* at [[Collection K|K]], other letters at [[Collection G|G]].
+*Exsiccatae* (with J.D. Hooker (1817-1911), *Herbarium Indiae orientalis*, col. 1847-1851, see J.D. Hooker.
 
 #### Bibliography and biography
 
@@ -43,14 +44,14 @@ Backer p. 583; Barnhart 3: 379; BB p. 300; BM 5: 2100; Bossert p. 399; Clokie p.
 
 #### Composite works
 
-(1) With J.D. Hooker, *Flora indica* 1855, see TL-2/2972. – Also with J.D. Hooker, *Praecursores ad Florarm indicam*, J. Linn. Soc. Bot. 2: 1-29, 21 Jun 1857, 54-96. 2 Nov 1857, 97-103. 20 Feb, 163-180. 20 Mai 1858, 4: 106-156. 8 Dec 1859, 57. 10 Feb 1860, 5: 128-156. 27 Mar, 157-182. 24 Mai 1861.
-(2) With J.D. Hooker, *Fl. Brit. India* 1 \[Ranunculaceae to Papaveraceae, Resedaceae to Pittosporeae\]. 1872, TL-2/2981.
+- (1) With J.D. Hooker, *Flora indica* 1855, see TL-2/2972. – Also with J.D. Hooker, *Praecursores ad Florarm indicam*, J. Linn. Soc. Bot. 2: 1-29, 21 Jun 1857, 54-96. 2 Nov 1857, 97-103. 20 Feb, 163-180. 20 Mai 1858, 4: 106-156. 8 Dec 1859, 57. 10 Feb 1860, 5: 128-156. 27 Mar, 157-182. 24 Mai 1861.
+- (2) With J.D. Hooker, *Fl. Brit. India* 1 \[Ranunculaceae to Papaveraceae, Resedaceae to Pittosporeae\]. 1872, TL-2/2981.
 
 #### Travel reports
 
-(1) *Scientific mission to Thibet, in* W.J. Hooker, Lond. J. Bot. 7: 28-42, 97-103, 200-205, 657-671. 1848; Ann. Soc. Agr. Soc. Agric. Bot. Gand 5: 468-470. 1849; Kew J. Bot. 1:68-81, 149-154, 176-180. 1849.
-(2) *Sketch of the climate and vegetation of the Himalaya*... Proc. Phil. Soc. Glasgow 3: 193-204. 1848-1855 \[see 14.270\], Edinb. New Philos. J. 52: 309-321. 1852, J. Hortic. Soc. 6: 245-257. 1851, J. Agric. Soc. India 8 (corr.): 14-26. 1854.
-(3) *Successful journey to the Karakorum Pass*, J. Geogr. Soc. 19: 25-28. 1849.
+- (1) *Scientific mission to Thibet, in* W.J. Hooker, Lond. J. Bot. 7: 28-42, 97-103, 200-205, 657-671. 1848; Ann. Soc. Agr. Soc. Agric. Bot. Gand 5: 468-470. 1849; Kew J. Bot. 1:68-81, 149-154, 176-180. 1849.
+- (2) *Sketch of the climate and vegetation of the Himalaya*... Proc. Phil. Soc. Glasgow 3: 193-204. 1848-1855 \[see 14.270\], Edinb. New Philos. J. 52: 309-321. 1852, J. Hortic. Soc. 6: 245-257. 1851, J. Agric. Soc. India 8 (corr.): 14-26. 1854.
+- (3) *Successful journey to the Karakorum Pass*, J. Geogr. Soc. 19: 25-28. 1849.
 
 ### Publications
 

@@ -10,7 +10,10 @@
 
 #### Herbarium and types
 
-[[Collection WTU|WTU]] (orig.); see also IH 2: 211 (and add [[Collection OSC|OSC]], [[Collection TRTC|TRTC]]). – *Exsiccatae*: (1) *Moss exsicc*., Seattle, Washington, nos. 1-60, 1942. *Set*: [[Collection NY|NY]]. (2) *Hepaticae*: *Distributed by Clark & Frye*, Seattle, Washington?, nos. 1-?, 1940. *Sets*: [[Collection CAS|CAS]], [[Collection PH|PH]], [[Collection UPS|UPS]]. – Mss. in Univ. of Washington Libraries (Dept. of Botany Records, 1902-2000) and a tape-recorded interview in the archives of the Seattle Historical Society.
+[[Collection WTU|WTU]] (orig.); see also IH 2: 211 (and add [[Collection OSC|OSC]], [[Collection TRTC|TRTC]]).
+*Exsiccatae*: (1) *Moss exsicc*., Seattle, Washington, nos. 1-60, 1942. *Set*: [[Collection NY|NY]].
+- (2) *Hepaticae*: *Distributed by Clark & Frye*, Seattle, Washington?, nos. 1-?, 1940. *Sets*: [[Collection CAS|CAS]], [[Collection PH|PH]], [[Collection UPS|UPS]].
+Mss. in Univ. of Washington Libraries (Dept. of Botany Records, 1902-2000) and a tape-recorded interview in the archives of the Seattle Historical Society.
 
 #### Bibliography and biography
 
@@ -36,15 +39,15 @@ Amer. Men Sci. ed. 9: 378; APN p. 212; Barnhart 2: 15; BL 1: 162, 296; Bossert p
 
 #### Composite works
 
-(1) Contributed "The Kelp beds of Southeast Alaska" to Frank Kenneth Cameron (1869-1958) (ed.), *Potash from kelp*... U.S.D.A. Off. Secr. Rep. no. 100... 1915.
-(2) Co-author of a number of papers on Hepaticae by L. Clark:
+- (1) Contributed "The Kelp beds of Southeast Alaska" to Frank Kenneth Cameron (1869-1958) (ed.), *Potash from kelp*... U.S.D.A. Off. Secr. Rep. no. 100... 1915.
+- (2) Co-author of a number of papers on Hepaticae by L. Clark:
 (a) *Liverworts Northw*.... 1928, see TL-2/Suppl. 4, nr. 26.460;
 (b) *Hepaticae northwestern states*... 1931, see TL-2/Suppl. 4, nr. 26.461;
 (c) *Liverworts Wyoming Washington*... 1931, see TL-2/Suppl. 4, nr. 26.462;
 (d) *Liverworts Northwestern States*... 1934, see TL-2/Suppl. 4, nr. 26.463;
 (e) *Hepaticae California*... 1937, see TL-2/Suppl. 4, nr. 26.464; and
 (f) *Extension ranges northwestern Hepaticae*... 1937, see TL-2/Suppl. 4, nr. 26.465.
-(3) Editor, *Puget Sound Marine Station Publications*, vol. 1 (1915-1916), and its retitled successor *Puget Sound Biological Station Publications*, through vol. 7 (1931). Subesquent to Frye's editorship the serial became *University of Washington Publications in Oceanography*.
+- (3) Editor, *Puget Sound Marine Station Publications*, vol. 1 (1915-1916), and its retitled successor *Puget Sound Biological Station Publications*, through vol. 7 (1931). Subesquent to Frye's editorship the serial became *University of Washington Publications in Oceanography*.
 
 ### Publications
 
@@ -122,7 +125,7 @@ The *Polytrichaceæ* of *western North America*... Proceedings of the Washington
 *Co-author*: Rigg, George Burton (1872-1961), see TL-2/4: 791-792 and IH 2: 762.
 *Publ*.: 12 Sep 1912 (see Note (1)), p. \[1\]-453. *Copies*: Harriman, HH (n.v.), USDA (n.v.).
 *Note*: (1) There is no internal evidence for a date. However, T.C. Frye evidently told H.M. Hall in 1921 that the flora was published on 12 Sep 1912 (*fide* IPNI sub "Northw. Fl.").
-(2) This volume is a precursor to *Elem. fl. Northwest* (see nr. 35.804 below) and derived, in turn, from *Laboratory exercises in elementary botany; based on plants of the Pacific slope* (1909, 1911) by the same authors.
+- (2) This volume is a precursor to *Elem. fl. Northwest* (see nr. 35.804 below) and derived, in turn, from *Laboratory exercises in elementary botany; based on plants of the Pacific slope* (1909, 1911) by the same authors.
 
 ##### n.35.803. ferns
 
@@ -133,7 +136,7 @@ The *ferns* of *Washington*\[.\] Illustrated... \[Port Richmond, New York\] 1913
 *Co-author* \[and principal illus.\]: Jackson, Mabel McMurry (fl. 1913-1914), a student of T.C. Frye.
 *Publ*.: 1913-1914 (p. \[1\] signed 20 Mar 1913, cover-t.p. gives dates of serial publications in 4 parts), cover-t.p., p. \[1\]-59, *pl. 1-20* (mostly draw., some uncol. phot.). *Copy*: HH. – Reprinted and to be cited from Amer. Fern J. \[1\] 3(3): 65-83, *pl. 1-4* (uncol. draw.). 30 Aug 1913, \[2\] Id. 3(4) 97-108, *pl. 6-8* (uncol. draw.). 30 Dec 1913, \[3\] Id. 4(1): 7-14, *pl*. *9-14* (uncol. phot. & draw.). 30 Mar 1914, \[4\] Id. 4(2): 41-57, *pl. 15-21* (uncol. phot. & draw.). 9 Jun 1914.
 *Note*: (1) Cover p. 3 is advert. (2) Plates included in the paging (in both reprint and serial).
-(3) There is no *pl. 5* in the serial, which lead to a confusing renumbering of plates in the reprint: *pl. 1-4*, *15-18* are the same in both versions; *pl. 6-14*, *20-21* in the serial are *pl. 5-13*, *19-20*, respectively, in the reprint; and *pl. 19* in the serial is *pl. 14* in the reprint!
+- (3) There is no *pl. 5* in the serial, which lead to a confusing renumbering of plates in the reprint: *pl. 1-4*, *15-18* are the same in both versions; *pl. 6-14*, *20-21* in the serial are *pl. 5-13*, *19-20*, respectively, in the reprint; and *pl. 19* in the serial is *pl. 14* in the reprint!
 
 ##### n.35.804. Elementary flora
 

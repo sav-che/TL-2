@@ -22,11 +22,11 @@ GR p. 443 (b. 9 Aug 1888, d. 11 Feb 1962), cat. p. 73; Kelly p. 238-239; LS supp
 
 #### Composite works
 
-(1) Co-editor and author of Heft 8, C. v. Overeem, *Icon. fung. malay. *1923-1926, see TL-2/7170.
-(2) Edited F. Höhnel, Mykologische Beiträge. I. Mitteilung.... *Über die Gattungen Dematium, Conoplea, Sporodum, Chaetopsis und Mesobotrys*... Sep. Abdruck a.d. Mitt. a.d. Bot. Inst. d. Techn. Hochschule Wien, vii. Bd., 2. Heft, 1930, p. 41-64. *Copies*: G, NY; II ... *Über einige Patellariaceen*... id. 7(3). 1930, p. 83-96. *Copy*: NY.
-(3) Contributed to K. Keissler, *Nachtrag zur Pilzflora von Juan Fernandez*, 18 Feb 1928, *in *Skottsberg, *Nat. Hist. Juan Fernandez* 4(19), TL-2/12.073.
-(4) Published *Generalindex zu* F. v. Höhnel's *Fragmente zur Mykologie* 19-25. Mitteilung, Nr. 1001-1225, Mitt. Bot. Inst. Techn. Hochschule Wien 9: 66-102. 1932. *Copy*: NY; id. *Verzeichnis der Gattungen und Arten* in F. v. Höhnel's Arbeiten: *Fungi imperfecti*... ib. 10(2): 33-66. 1933, TL-2/2859.
-(5) Published *Namensverzeichnis zu F. von Höhnel, Mykologische Beiträge.* 1-7 Mitteilung, Mitt. Bot. Inst. Techn. Hochschule Wien 11(2): 53-74. 1934. *Copy*: NY; *Verzeichnis der* *Gattungen und Arten* in F. v. Höhnel's Abhandlungen "Beiträge zur Mykologie", i-ix, ib. 11(3): 75-99. 1934. copy: NY.
+- (1) Co-editor and author of Heft 8, C. v. Overeem, *Icon. fung. malay. *1923-1926, see TL-2/7170.
+- (2) Edited F. Höhnel, Mykologische Beiträge. I. Mitteilung.... *Über die Gattungen Dematium, Conoplea, Sporodum, Chaetopsis und Mesobotrys*... Sep. Abdruck a.d. Mitt. a.d. Bot. Inst. d. Techn. Hochschule Wien, vii. Bd., 2. Heft, 1930, p. 41-64. *Copies*: G, NY; II ... *Über einige Patellariaceen*... id. 7(3). 1930, p. 83-96. *Copy*: NY.
+- (3) Contributed to K. Keissler, *Nachtrag zur Pilzflora von Juan Fernandez*, 18 Feb 1928, *in *Skottsberg, *Nat. Hist. Juan Fernandez* 4(19), TL-2/12.073.
+- (4) Published *Generalindex zu* F. v. Höhnel's *Fragmente zur Mykologie* 19-25. Mitteilung, Nr. 1001-1225, Mitt. Bot. Inst. Techn. Hochschule Wien 9: 66-102. 1932. *Copy*: NY; id. *Verzeichnis der Gattungen und Arten* in F. v. Höhnel's Arbeiten: *Fungi imperfecti*... ib. 10(2): 33-66. 1933, TL-2/2859.
+- (5) Published *Namensverzeichnis zu F. von Höhnel, Mykologische Beiträge.* 1-7 Mitteilung, Mitt. Bot. Inst. Techn. Hochschule Wien 11(2): 53-74. 1934. *Copy*: NY; *Verzeichnis der* *Gattungen und Arten* in F. v. Höhnel's Abhandlungen "Beiträge zur Mykologie", i-ix, ib. 11(3): 75-99. 1934. copy: NY.
 
 #### Eponymy
 

@@ -8,7 +8,8 @@ Wallroth, \[Carl\] Friedrich Wilhelm (1792-1857), German (Prussian Saxony) botan
 
 #### Herbarium and types
 
-[[Collection PR|PR]] (phan., some crypt.), [[Collection STR|STR]] (fungi, Cladoniac.), [[Collection JE|JE]] (part of phan.). – Other material in [[Collection B|B]] (mainly destr.), [[Collection BR|BR]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection MW|MW]], [[Collection WRSL|WRSL]]. – Kützing (1857) remarks that Wallroth kept the localities of his new species secret and that, on purpose, no localities were cited of rare or new species, even on his herbarium sheets. – *Letters* at [[Collection G|G]], [[Collection HAL|HAL]] (to D.F.L. v. Schlechtendal), [[Collection HU|HU]], [[Collection UPS|UPS]]-UB. – *Exsiccatae*: A series *Lichenes florae Germ. exs.* of 6 fasc. is mentioned by Sydow (fide T. Ahti), but is not known to exist.
+[[Collection PR|PR]] (phan., some crypt.), [[Collection STR|STR]] (fungi, Cladoniac.), [[Collection JE|JE]] (part of phan.). – Other material in [[Collection B|B]] (mainly destr.), [[Collection BR|BR]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection MW|MW]], [[Collection WRSL|WRSL]]. – Kützing (1857) remarks that Wallroth kept the localities of his new species secret and that, on purpose, no localities were cited of rare or new species, even on his herbarium sheets. – *Letters* at [[Collection G|G]], [[Collection HAL|HAL]] (to D.F.L. v. Schlechtendal), [[Collection HU|HU]], [[Collection UPS|UPS]]-UB.
+*Exsiccatae*: A series *Lichenes florae Germ. exs.* of 6 fasc. is mentioned by Sydow (fide T. Ahti), but is not known to exist.
 
 #### Bibliography and biography
 

@@ -31,7 +31,7 @@ Barnhart 1: 273; BJI 2: 21; BL 2: 503; BM 6: 153; Collander p. 57-61 (85 titles)
 
 #### Composite works
 
-(1) See for H. Buch, A.W. Evans and F. Verdoorn, *A preliminary check-lict of the Hepaticae of Europe and America* 1938; TL-2/16.040 sub Verdoorn.
+- (1) See for H. Buch, A.W. Evans and F. Verdoorn, *A preliminary check-lict of the Hepaticae of Europe and America* 1938; TL-2/16.040 sub Verdoorn.
 
 ### Publications
 

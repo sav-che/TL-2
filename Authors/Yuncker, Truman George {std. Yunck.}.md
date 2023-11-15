@@ -27,17 +27,17 @@ Barnhart 3: 535 (b. 20 Mar 1891); BL 1: 149, 325; Bossert p. 447; Hirsch p. 331;
 
 #### Composite works
 
-(1) *Piperaceae, in* A.A. Pulle et al., eds., *Fl. Suriname* 1(2): 218-290. 1957. TL-2/8293).
-(2) *Piperaceae*, K.H. Rechinger et al., *Fl lowland Iraq* 1964.
-(3) *Cuscuta, North American flora* ser. 2. 4: 1-51. 15 Dec 1965. TL-2/781.
-(4) *Piperaceae, in* B. Maguire et al., *The botany of the Guyana Highland*, Mem. New York Bot. Gard. 10(5): 41-44. 17 Feb 1964.
-(5) *Piperaceae, in* R.F. Woodson et al., *Fl. Panama* 4(1), Ann. Missouri Bot. Gard. 37: 1-120. Feb 1950.
-(6) For further contr. to composite works outside our period see Index Amer. bot. lit. 1886-1966. 4: 600. 1969.
+- (1) *Piperaceae, in* A.A. Pulle et al., eds., *Fl. Suriname* 1(2): 218-290. 1957. TL-2/8293).
+- (2) *Piperaceae*, K.H. Rechinger et al., *Fl lowland Iraq* 1964.
+- (3) *Cuscuta, North American flora* ser. 2. 4: 1-51. 15 Dec 1965. TL-2/781.
+- (4) *Piperaceae, in* B. Maguire et al., *The botany of the Guyana Highland*, Mem. New York Bot. Gard. 10(5): 41-44. 17 Feb 1964.
+- (5) *Piperaceae, in* R.F. Woodson et al., *Fl. Panama* 4(1), Ann. Missouri Bot. Gard. 37: 1-120. Feb 1950.
+- (6) For further contr. to composite works outside our period see Index Amer. bot. lit. 1886-1966. 4: 600. 1969.
 
 #### Note
 
 Outside our period: (1) *The Piperaceae of Northern South America*, with W. Trelease (see TL-2/15.051), 2 vols. 1950, p. \[i\]-vii, 1-434, \[viii\], *pl. 1-393* and p. \[i\]-v, 435-838, \[vi\], *pl. 394-674.*
-(2) *Plants of Tonga*, 283 p., B.P. Bishop Mus. Bull. 220, repr. 1971 (Neudeln, Kraus) ISBN 0-527-02328-0.
+- (2) *Plants of Tonga*, 283 p., B.P. Bishop Mus. Bull. 220, repr. 1971 (Neudeln, Kraus) ISBN 0-527-02328-0.
 
 #### Eponymy
 

@@ -29,8 +29,8 @@ Barnhart 3: 248 (b. 29 Jul 1848, d. 11 Dec 1904); Biol.-Dokum. 16: 8464; Bossert
 
 #### Note
 
-(1) *Piperaceae et Meliaceae brasilienses* a cl. W. Schwacke lectae, auctore C. de Candolle, Bull. Herb. Boiss. ser. 2. 1(4): 353-366 \[1-14\]. 31 Mar 1901.
-(2) *Polygalaceae schwackianae* sive Polygalacearum a cl. Schwacke in Brasilia lectarum auct. R. Chodat, Bull. Herb. Boiss. ser. 2. 4: 910-913 \[1-4\]. 31 Aug 1904.
+- (1) *Piperaceae et Meliaceae brasilienses* a cl. W. Schwacke lectae, auctore C. de Candolle, Bull. Herb. Boiss. ser. 2. 1(4): 353-366 \[1-14\]. 31 Mar 1901.
+- (2) *Polygalaceae schwackianae* sive Polygalacearum a cl. Schwacke in Brasilia lectarum auct. R. Chodat, Bull. Herb. Boiss. ser. 2. 4: 910-913 \[1-4\]. 31 Aug 1904.
 
 #### Eponymy
 

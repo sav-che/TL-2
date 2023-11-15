@@ -27,13 +27,13 @@ Barnhart 3: 523 (b. 5 Jun 1864, d. 21 Jun 1941); BB p. 336; BJI 1: 64; BL 1: 61,
 
 #### Composite works
 
-(1) Contributed to H.N. Ridley, *Report on the botany of the Wollaston expedition* 1916, see TL-2/9210.
-(2) *List of the plants, in* Henry H.Johnston, ed., *The Uganda Protectorate* 1: 329-351. 1902.
-(3) With R.N. Rudmose Brown and O.V. Darbishire, *The botany of Gough Island, in *Scottish National Antarctic Expedition, Rep. Sci. Res. Voy. S.Y. Scotia vol. 3, botany, no. 3. 1912, see BM 4: 1886.
-(4) Introductory note to S.T. Dunn, *Description of new Chinese plants*, J. Linn. Soc, Bot. 35: 453-518. 1904.
-(5) Co-editor (with Daniel Dewar), *Johnson's gardener's dictionary*, London 1894.
-(6) Contributed to W.B. Hemsley et al., *Fl. Aldabra*, Bull. Misc. Inf. Kew 1919(3).
-(7) Contributed to D. Oliver, *Fl. trop. Afr.* (TL-2/7055):
+- (1) Contributed to H.N. Ridley, *Report on the botany of the Wollaston expedition* 1916, see TL-2/9210.
+- (2) *List of the plants, in* Henry H.Johnston, ed., *The Uganda Protectorate* 1: 329-351. 1902.
+- (3) With R.N. Rudmose Brown and O.V. Darbishire, *The botany of Gough Island, in *Scottish National Antarctic Expedition, Rep. Sci. Res. Voy. S.Y. Scotia vol. 3, botany, no. 3. 1912, see BM 4: 1886.
+- (4) Introductory note to S.T. Dunn, *Description of new Chinese plants*, J. Linn. Soc, Bot. 35: 453-518. 1904.
+- (5) Co-editor (with Daniel Dewar), *Johnson's gardener's dictionary*, London 1894.
+- (6) Contributed to W.B. Hemsley et al., *Fl. Aldabra*, Bull. Misc. Inf. Kew 1919(3).
+- (7) Contributed to D. Oliver, *Fl. trop. Afr.* (TL-2/7055):
 *Hydrocharidaceae*, 7(1): 1-10. Dec 1897.
 *Burmanniaceae*, 7(1): 10-12. Dec 1897.
 *Palmae*, 8(1): 97-127. Jun 1901.
@@ -46,7 +46,7 @@ Barnhart 3: 523 (b. 5 Jun 1864, d. 21 Jun 1941); BB p. 336; BJI 1: 64; BL 1: 61,
 (Id.) *Cytinaceae*, 6(1, 1): 130-134. Mar 1909.
 (Id.) *Monimiaceae*, 6(1, 1): 167-171. Mar 1909.
 (Id.) *Proteaceae*, 6(1, 2): 193-211. Dec 1910.
-(8) Contributed to Harvey & Sonder, *Fl. capensis* (TL-2/2448):
+- (8) Contributed to Harvey & Sonder, *Fl. capensis* (TL-2/2448):
 *Plumbaginaceae*, 4(1, 3): 418-426. Oct 1906.
 (With W.H. Harvey): *Primulaceae*, 4(1, 3): 426-431. Oct 1906.
 (Id.) *Oleaceae*, 4(1, 3): 478-480. Oct 1906.
@@ -61,9 +61,9 @@ Barnhart 3: 523 (b. 5 Jun 1864, d. 21 Jun 1941); BB p. 336; BJI 1: 64; BL 1: 61,
 *Hydrocharidaceae*, 5(3, 1): 1-2. Oct 1912.
 *Scitamineae*, 5(3, 2): 313-319. Mar 1913.
 *Palmae*, 7(1): 28-30. Dec 1897.
-(9) Contributed many entries to *Bot. Mag.* 1906-1913.
-(10) Compiler of *Hand-list of ferns and fern allies*, Royal Botanic Gardens Kew, ed. 2. 1906 (see J. Bot. 44: 288. Aug 1906).
-(10) Contributed to N.E. Brown et al., *Report on two botanical collections... at Mount Roraima in British Guiana*, Trans. Linn. Soc. Bot. ser. 2. 6: 1-107, *14 pl*. 1901.
+- (9) Contributed many entries to *Bot. Mag.* 1906-1913.
+- (10) Compiler of *Hand-list of ferns and fern allies*, Royal Botanic Gardens Kew, ed. 2. 1906 (see J. Bot. 44: 288. Aug 1906).
+- (11) Contributed to N.E. Brown et al., *Report on two botanical collections... at Mount Roraima in British Guiana*, Trans. Linn. Soc. Bot. ser. 2. 6: 1-107, *14 pl*. 1901.
 
 ### Publications
 

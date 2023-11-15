@@ -8,8 +8,9 @@ Westendorp, Gerard Daniel (1813-1869), Dutch-born Belgian physician and botanist
 
 #### Herbarium and types
 
-[[Collection BR|BR]]. – *Exsiccatae*: (1) *Herbier cryptogamique* (with A.C.F. Wallays), fasc. 1-28, nos. 1-1400, 1845-1859 (for fürther dates and text see below). Sets at [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection K|K]], [[Collection LG|LG]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection PH|PH]], Stevenson, [[Collection Z|Z]].
-(2) *Polyplers flexibles de la Belgique*. Livr. 1 (all published), 32 sheets with specimens. Courtrai \[Kortrijk\] 1853, n.v. (fide Nat. Nov.).
+[[Collection BR|BR]].
+*Exsiccatae*: (1) *Herbier cryptogamique* (with A.C.F. Wallays), fasc. 1-28, nos. 1-1400, 1845-1859 (for fürther dates and text see below). Sets at [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection FH|FH]], [[Collection K|K]], [[Collection LG|LG]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection PH|PH]], Stevenson, [[Collection Z|Z]].
+- (2) *Polyplers flexibles de la Belgique*. Livr. 1 (all published), 32 sheets with specimens. Courtrai \[Kortrijk\] 1853, n.v. (fide Nat. Nov.).
 *Note*: The original Westendorp herbarium in [[Collection BR|BR]] contained 12 vols. with printed t.p.'s *Flore cryptogamique universelle*, ou collection des cryptogames et agames qui composent l'herbier particulier de G.D. Westendorp... Courtrai \[Kortrijk\] (Imprimerie de Charles Jaspln,...) 1849. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography

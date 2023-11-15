@@ -66,7 +66,7 @@ AG 2(1): 272, 7: 70; Backer p. 110; Barnhart 1: 324 (b. 16 Jan 1745, Valencia, d
 
 #### Note
 
-(1) TL-2/1064, *Descripción de las plantas* 1801-1802, has been republished with as date at Madrid 1827, p. \[i\]-cxxxvi, \[1\]-625. *Copy*: HH. – See Tucker, Cat. Arnold Arb. 1: 146. 1914.
+- (1) TL-2/1064, *Descripción de las plantas* 1801-1802, has been republished with as date at Madrid 1827, p. \[i\]-cxxxvi, \[1\]-625. *Copy*: HH. – See Tucker, Cat. Arnold Arb. 1: 146. 1914.
 
 ### Publications
 

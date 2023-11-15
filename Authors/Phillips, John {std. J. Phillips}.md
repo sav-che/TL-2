@@ -33,8 +33,8 @@ Andrews p. 312; Barnhart 3: 81; BB p. 243 (b. 25 Dec 1800, d. 24 Apr 1874); BM 4
 
 #### Composite works
 
-(1) Contributed to W. Buckland, *Geol. mineral.* ed. 3, 1858, see TL-2/896.
-(2) with John William Salter, *Palaeobotanical appendix*, Great Brit. Geol. Survey Mem. 2(1): 331-386, *pl. 1-30.* 1848.
+- (1) Contributed to W. Buckland, *Geol. mineral.* ed. 3, 1858, see TL-2/896.
+- (2) with John William Salter, *Palaeobotanical appendix*, Great Brit. Geol. Survey Mem. 2(1): 331-386, *pl. 1-30.* 1848.
 
 #### Eponymy
 

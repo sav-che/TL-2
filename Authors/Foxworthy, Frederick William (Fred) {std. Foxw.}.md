@@ -25,9 +25,9 @@ Amer. Men Sci. ed. 8: 817; APN p. 207; Backer p. 221, 650; Barnhart 2: 1; Bosser
 
 #### Composite works
 
-(1) Co-author with K.M. Wiegand, *Key gen. woody pl.*... 1904, see TL-2/6, nr. 17.510.
-(2) Assisted E.E. Schneider (see TL-2/5: 272-273) with *The uses of Philippine woods*, Bull. Philipp. Bur. Forest. 11: 50 p. 1911.
-(3) Contributed to I.H. Burkill, *Dict. econ. prod. Malay Penins.*... 1935, see TL-2/Suppl. 3, nr. 23.794.
+- (1) Co-author with K.M. Wiegand, *Key gen. woody pl.*... 1904, see TL-2/6, nr. 17.510.
+- (2) Assisted E.E. Schneider (see TL-2/5: 272-273) with *The uses of Philippine woods*, Bull. Philipp. Bur. Forest. 11: 50 p. 1911.
+- (3) Contributed to I.H. Burkill, *Dict. econ. prod. Malay Penins.*... 1935, see TL-2/Suppl. 3, nr. 23.794.
 
 ### Publications
 

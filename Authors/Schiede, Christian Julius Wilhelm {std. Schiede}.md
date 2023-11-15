@@ -34,12 +34,12 @@ Backer p. 516; Barnhart 3: 224 (b. 3 Feb 1798, d. Dec 1836); Biol.-Dokum. 15: 80
 
 Schiede, *Botanische Berichte aus Mexico*, in Linnaea 4(2): 205-236. Apr 1829 (Bericht 1, 2), 4(4): 554-583. Oct-Dec 1829 (Bericht 3), 5(3): 463-477. Jul 1830 (Bericht 4), and Hertha 13: 117-121. 1829, Ann. Sci. nat. 18: 215-224. 1829, and Belg. hort. 19: 53-58. 1869.
 
-#### Publications on schiede's plants by d.f.l. von *schlechtendal*
+#### Publications on Schiede's plants by D.F.L. von *Schlechtendal*
 
-(1) With A. de Chamisso, *Plantarum mexicanarum* a cl. viris Schiede et Deppe collectarum recensio brevis, Linnaea 5: 72-174. Jan 1830, 177-200. Apr 1830, 206-236. Jan 1830, 554-625. Oct 1830, and 6: 22-64. post Mar 1831, 352-384. Jul-Dec 1831, 385-430. Jul-Dec 1831.
-(2) *De plantis mexicanis* a G. Schiede... collectis Linnaea 7: 136-173. Jan-Feb 1832, 380-400. 1832, 8: 169-192, 245-256. 1833, 513-528. 1834, 9: 262-272. Jul-Dec 1834, 589-610 post Feb 1835, 10: 233-254. Feb-Mar 1836, 11: 249-378. Apr-Mai 1837.
-(3) *Arzneimittel aus Mexico*, Linnaea 7: 360-363. 1832.
-(4) *De plantis mexicanis* a G. Schiede, Car. Ehrenbergio aliisque collectis, Linnaea 12: 201-210. Mar-Jun 1838, 265-343. Apr-Sep 1838, 556-574. Nov 1838, 13: 260-272. Sep-Oct 1839, 402-436. Oct-Dec 1839, 14: 159-160. 5-11 Jul 1840, 379-384. Oct-Nov 1840, 51-516. Jan-Feb 1841, 15: 458-475. Aug 1841-Jan 1842, 16: 394-400. Aug-Nov 1842, 480-488. Dec 1842, 523-532 Mar 1843, 17: 245-253. Aug-Oct 1843, 625-640. Mai 1844, 745-746. Jan 1844, 18: 48-64. 24-26 Oct 1844.
+- (1) With A. de Chamisso, *Plantarum mexicanarum* a cl. viris Schiede et Deppe collectarum recensio brevis, Linnaea 5: 72-174. Jan 1830, 177-200. Apr 1830, 206-236. Jan 1830, 554-625. Oct 1830, and 6: 22-64. post Mar 1831, 352-384. Jul-Dec 1831, 385-430. Jul-Dec 1831.
+- (2) *De plantis mexicanis* a G. Schiede... collectis Linnaea 7: 136-173. Jan-Feb 1832, 380-400. 1832, 8: 169-192, 245-256. 1833, 513-528. 1834, 9: 262-272. Jul-Dec 1834, 589-610 post Feb 1835, 10: 233-254. Feb-Mar 1836, 11: 249-378. Apr-Mai 1837.
+- (3) *Arzneimittel aus Mexico*, Linnaea 7: 360-363. 1832.
+- (4) *De plantis mexicanis* a G. Schiede, Car. Ehrenbergio aliisque collectis, Linnaea 12: 201-210. Mar-Jun 1838, 265-343. Apr-Sep 1838, 556-574. Nov 1838, 13: 260-272. Sep-Oct 1839, 402-436. Oct-Dec 1839, 14: 159-160. 5-11 Jul 1840, 379-384. Oct-Nov 1840, 51-516. Jan-Feb 1841, 15: 458-475. Aug 1841-Jan 1842, 16: 394-400. Aug-Nov 1842, 480-488. Dec 1842, 523-532 Mar 1843, 17: 245-253. Aug-Oct 1843, 625-640. Mai 1844, 745-746. Jan 1844, 18: 48-64. 24-26 Oct 1844.
 
 #### Eponymy
 

@@ -25,11 +25,11 @@ Barnhart 1: 418 (b. 16 Mar 1870, Dwygyfwechi, North Wales, d. 11 Oct 1934, Brist
 
 #### Composite works
 
-(1) *Flechten aus dem Umanakdistrikt in* Botanische Ergebnisse... Stuttgart (Verlag von Erwin Nägele) 1897, p. 55-61. of Bibliotheca Botanica 42. As reprint p. \[1\]-7. *Copy*: G.
-(2) *The botany of the South Orkneys*, part 2 *in* Report on the scientific results of the Voyage of S.Y. "Scotia" during the years 1902, 1903 and 1904, under the leadership of William S. Bruce,... Vol. III Botany, Edinburgh 1912.
-(3) *Die Dünen der englischen Westküste gleich südlich von Southport* (Grafschaft Lancashire), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 16, Heft 1 and 2: 27 p. text, *pl. 1-12.* 1924-1926.
-(4) In R. von Fischer-Benzon "*Die Flechten Schleswig-Holsteins*" by O.V. Darbishire "*Abhandlung über die Naturgeschichte der einheimischen Flechten*".
-(5) *Roccellaceae* (Karten 1-5) *in* L. Diels et al. Die Pflanzenareale ser. 2. Heft 1, 1928.
+- (1) *Flechten aus dem Umanakdistrikt in* Botanische Ergebnisse... Stuttgart (Verlag von Erwin Nägele) 1897, p. 55-61. of Bibliotheca Botanica 42. As reprint p. \[1\]-7. *Copy*: G.
+- (2) *The botany of the South Orkneys*, part 2 *in* Report on the scientific results of the Voyage of S.Y. "Scotia" during the years 1902, 1903 and 1904, under the leadership of William S. Bruce,... Vol. III Botany, Edinburgh 1912.
+- (3) *Die Dünen der englischen Westküste gleich südlich von Southport* (Grafschaft Lancashire), *in* G. Karsten and H. Schenck, *Vegetationsbilder*, ser. 16, Heft 1 and 2: 27 p. text, *pl. 1-12.* 1924-1926.
+- (4) In R. von Fischer-Benzon "*Die Flechten Schleswig-Holsteins*" by O.V. Darbishire "*Abhandlung über die Naturgeschichte der einheimischen Flechten*".
+- (5) *Roccellaceae* (Karten 1-5) *in* L. Diels et al. Die Pflanzenareale ser. 2. Heft 1, 1928.
 
 ### Publications
 

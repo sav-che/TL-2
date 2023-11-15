@@ -28,6 +28,6 @@ Editor in chief, S. Stéfansson, *Flóra Islands* ed. 3, 1948.
 
 #### Note
 
-(1) We are grateful to Á. Löve for assistance with the Icelandic entries.
-(2) Important works outside our period: *The botany of Iceland* 3(14): 345-547. 1945; *On the age and immigration of the Icelandic flora*. Reykjavik 1962, 157 p. and *Íslensk plöntunófn*. Reykjavík 1978, 208 p.
+- (1) We are grateful to Á. Löve for assistance with the Icelandic entries.
+- (2) Important works outside our period: *The botany of Iceland* 3(14): 345-547. 1945; *On the age and immigration of the Icelandic flora*. Reykjavik 1962, 157 p. and *Íslensk plöntunófn*. Reykjavík 1978, 208 p.
 

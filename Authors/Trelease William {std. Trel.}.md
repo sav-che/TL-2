@@ -41,20 +41,20 @@ Bakker p. 662; Barnhart 3: 399 (b. 22 Feb 1857, d. 1 Jan 1945); Biol.-Dokum. 18:
 
 #### Composite works
 
-(1) *Nectar, its nature, occurrence and uses, in* J. Henry Comstock, *Report on Cotton insects*, Washington 1879, p. 319-343 (rev. Herrn. Müller, Bot. Zeit. 38: 748-749. 1880).
-(2) With Asa Gray, eds., *The botanical works of the late George Engelmann*, collected for Henry Shaw Esq., Cambridge, Mass. 1887 see TL-2/1696.
-(3) Collaborator, H.N. Patterson, *Numb. checkl. N. Amer. pl*. 1892, TL-2/7507.
-(4) *Rumex* and *Epilobium, in* E.L. Rand and J.H. Redfield, *Flora of Mount Desert Island*, Maine, 1894. – TL-2/8623.
-(5) Editor, *Annual Report Missouri Botanical Garden* 1-22, 1890-1912.
-(6) *Linaceae, Geraniaceae, Aquifoliaceae, Celastraceae, Rhamnaceae, in* A. Gray, Syn. Fl. N. Amer. 1(1): 344-349, 357-369, 388-391, 395-401, 401-419. 10 Jun 1897, ed. by B.L. Robinson, see TL-2/2132.
-(7) Editor, *Harriman Alaska Expedition*, vol. 5 (Cryptogamic botany) 1904, see below under *Ferns and fern allies of Alaska*. 1904.
-(8) With C.H. Peck, *Fung. Alaska* 1904, TL-2/7602.
-(9) Contributions to L.H. Bailey, Cycl. Amer. hort. (1900-1902): *Aloe* (1: 49-52), *Apicra* (1: 75), *Gasteria* (2: 629), *Haworthia* 2: 714-715, *Oxalis* (3: 1181-1183), Henry Shaw (4: 1663), E.L. Sturtevant (4: 1748-1749), *Yucca* (4: 1999-2001), see TL-2/241.
-(10) Contributions to L.H. Bailey, *Stand. cycl. hort*. (1914-1917): *Agave* (1: 230-239), *Dasylirion* (2: 965-966), *Furcraea* (3: 1305-1306), *Hesperaloe* (3: 1478), *Hesperoyucca* (3: 1479), *Nolina* (4: 2147-2148), *Samuela* (6: 3069), see TL-2/242.
-(11) Editor, Contributions from the Henry Shaw School of Botany, nos. 1-25, 1887-1914.
-(12) *Piperaceae, Fagaceae, in* P.C. Standley, *Studies of American plants* 3, Field Mus. Nat. Hist., Bot. 8: 5-6. 1930, TL-2/12.786.
-(13) *Piperaceae, in* J.F. Macbride, *Fl. Peru*, Field Mus. Nat. Hist., Bot. 13: 1-253. 1936, TL-2/5152.
-(14) *Piperaceae, Loranthaceae, in* Woodson and Seibert, *Fl. Panama* i, Ann. Missouri Bot. Gard. 24: 185-188. 1937.
+- (1) *Nectar, its nature, occurrence and uses, in* J. Henry Comstock, *Report on Cotton insects*, Washington 1879, p. 319-343 (rev. Herrn. Müller, Bot. Zeit. 38: 748-749. 1880).
+- (2) With Asa Gray, eds., *The botanical works of the late George Engelmann*, collected for Henry Shaw Esq., Cambridge, Mass. 1887 see TL-2/1696.
+- (3) Collaborator, H.N. Patterson, *Numb. checkl. N. Amer. pl*. 1892, TL-2/7507.
+- (4) *Rumex* and *Epilobium, in* E.L. Rand and J.H. Redfield, *Flora of Mount Desert Island*, Maine, 1894. – TL-2/8623.
+- (5) Editor, *Annual Report Missouri Botanical Garden* 1-22, 1890-1912.
+- (6) *Linaceae, Geraniaceae, Aquifoliaceae, Celastraceae, Rhamnaceae, in* A. Gray, Syn. Fl. N. Amer. 1(1): 344-349, 357-369, 388-391, 395-401, 401-419. 10 Jun 1897, ed. by B.L. Robinson, see TL-2/2132.
+- (7) Editor, *Harriman Alaska Expedition*, vol. 5 (Cryptogamic botany) 1904, see below under *Ferns and fern allies of Alaska*. 1904.
+- (8) With C.H. Peck, *Fung. Alaska* 1904, TL-2/7602.
+- (9) Contributions to L.H. Bailey, Cycl. Amer. hort. (1900-1902): *Aloe* (1: 49-52), *Apicra* (1: 75), *Gasteria* (2: 629), *Haworthia* 2: 714-715, *Oxalis* (3: 1181-1183), Henry Shaw (4: 1663), E.L. Sturtevant (4: 1748-1749), *Yucca* (4: 1999-2001), see TL-2/241.
+- (10) Contributions to L.H. Bailey, *Stand. cycl. hort*. (1914-1917): *Agave* (1: 230-239), *Dasylirion* (2: 965-966), *Furcraea* (3: 1305-1306), *Hesperaloe* (3: 1478), *Hesperoyucca* (3: 1479), *Nolina* (4: 2147-2148), *Samuela* (6: 3069), see TL-2/242.
+- (11) Editor, Contributions from the Henry Shaw School of Botany, nos. 1-25, 1887-1914.
+- (12) *Piperaceae, Fagaceae, in* P.C. Standley, *Studies of American plants* 3, Field Mus. Nat. Hist., Bot. 8: 5-6. 1930, TL-2/12.786.
+- (13) *Piperaceae, in* J.F. Macbride, *Fl. Peru*, Field Mus. Nat. Hist., Bot. 13: 1-253. 1936, TL-2/5152.
+- (14) *Piperaceae, Loranthaceae, in* Woodson and Seibert, *Fl. Panama* i, Ann. Missouri Bot. Gard. 24: 185-188. 1937.
 
 #### Eponymy
 

@@ -27,8 +27,8 @@ Barnhart 3: 292 (b. 6 Jan 1885); Biol.-Dokum. 17: 8736; BM 8: 1205; Bossert p. 3
 
 #### Composite works
 
-(1) With J.B. Overton et al., *A textbook of general botany*, New York (Macmillan & Co.) 1924. (First years course in botany at the University of Wisconson; revised ed. 1928, ed. 3, 1935).
-(2) Smith wrote obituaries of Charles Elmer Allen (1872-1954) in Biogr. Mem. Natl. Acad. Sci. 29: 3-15. 1956 and of Douglas Houghton Campbell (1859-1953), ib. p. 45-63.
+- (1) With J.B. Overton et al., *A textbook of general botany*, New York (Macmillan & Co.) 1924. (First years course in botany at the University of Wisconson; revised ed. 1928, ed. 3, 1935).
+- (2) Smith wrote obituaries of Charles Elmer Allen (1872-1954) in Biogr. Mem. Natl. Acad. Sci. 29: 3-15. 1956 and of Douglas Houghton Campbell (1859-1953), ib. p. 45-63.
 
 #### Eponymy
 

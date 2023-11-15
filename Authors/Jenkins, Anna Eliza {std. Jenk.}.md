@@ -8,7 +8,8 @@ Jenkins, Anna Eliza (1886-1973), American phytopathologist and mycologist; Ph. D
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]]. *Exsiccatae*: *Myriangiales selecti exsiccati*, fasc. 1-11, nos. 1-550, 1940-1964, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection HCIO|HCIO]], [[Collection IARI|IARI]], [[Collection IMI|IMI]], [[Collection LPS|LPS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection US|US]], [[Collection WIS|WIS]] (with Agesilau Antonia Bitancourt, 1899-x).
+[[Collection BPI|BPI]].
+*Exsiccatae*: *Myriangiales selecti exsiccati*, fasc. 1-11, nos. 1-550, 1940-1964, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection HCIO|HCIO]], [[Collection IARI|IARI]], [[Collection IMI|IMI]], [[Collection LPS|LPS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection US|US]], [[Collection WIS|WIS]] (with Agesilau Antonia Bitancourt, 1899-x).
 *Ref*.: Stevenson, J., Taxon 4: 183. 1955, Beih. Nova Hedw. 36: 206-216. 1971.
 
 #### Bibliography and biography

@@ -26,11 +26,11 @@ AG 6(1): 735 (orig. inf.); Barnhart 2: 309; BM 2: 1009; Bossert p. 218; CSP 3: 7
 
 #### Composite works
 
-(1) Martius, *Fl. bras., Eriocaulaceae*, 3(1): 273-508, *pl. 38-63.* 10 Jul 1863.
-(2) Warming, *Symb.fl. Bras. centr.*, particula ix: 309-316, *Eriocaulaceae*, publ. 11 Apr 1872; see also Vid. Medd. natur-hist. För. København 20-22: 291-296. 1871.
-(3) Viebahn, G. v., *Statistik des zollvereinten und nördlichen Deutschlands*, Berlin, 1858; with F. Klotzsch on p. 849-896: "*Die Vegetation*..."
-(4) Miquel, Ann. Mus. Lugd.-Bat., *Eriocaulaceae*, 3: 162-164. Aug-Oct 1867, 238-241. Dec 1867-Jul 1868.
-(5) Körnicke und H. Werner, *Handbuch des Getreidebaus*, Bonn 1885, x, 469 p., *10 pl*. (Körnicke: *Die Arten und Varietäten des Getreides*) (Nat. Nov. Nov(1) 1885); Neue Ausgabe 1887 (Nat. Nov. Mar(2) 1887.). – A second volume, 1010 p.,by H. Werner, *Die Sorten und der Anbau des Getreides*, was published simultaneously with vol. 1 (see also DTS 6(4): 163).
+- (1) Martius, *Fl. bras., Eriocaulaceae*, 3(1): 273-508, *pl. 38-63.* 10 Jul 1863.
+- (2) Warming, *Symb.fl. Bras. centr.*, particula ix: 309-316, *Eriocaulaceae*, publ. 11 Apr 1872; see also Vid. Medd. natur-hist. För. København 20-22: 291-296. 1871.
+- (3) Viebahn, G. v., *Statistik des zollvereinten und nördlichen Deutschlands*, Berlin, 1858; with F. Klotzsch on p. 849-896: "*Die Vegetation*..."
+- (4) Miquel, Ann. Mus. Lugd.-Bat., *Eriocaulaceae*, 3: 162-164. Aug-Oct 1867, 238-241. Dec 1867-Jul 1868.
+- (5) Körnicke und H. Werner, *Handbuch des Getreidebaus*, Bonn 1885, x, 469 p., *10 pl*. (Körnicke: *Die Arten und Varietäten des Getreides*) (Nat. Nov. Nov(1) 1885); Neue Ausgabe 1887 (Nat. Nov. Mar(2) 1887.). – A second volume, 1010 p.,by H. Werner, *Die Sorten und der Anbau des Getreides*, was published simultaneously with vol. 1 (see also DTS 6(4): 163).
 
 #### Handwriting
 

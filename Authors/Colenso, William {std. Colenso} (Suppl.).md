@@ -53,9 +53,10 @@ AG 3: 58; Barnhart 1: 366 (b. 17 Nov 1811, Penzance, Cornwall, Engl.); BB p. 69;
 
 #### Journals
 
-(1) Hocken Library, Dunedin, mss. (photocopies in Dominion Mus. Wellington). (2) Notes... of early crossing of... Lake Waikaremoana in the years 1841 and 1843, Trans. New Zealand Inst. 27: 359-382. 1854.
-(3) Journal of a naturalist, London J. Bot. 3: 1-62. 1844.
-(4) Letters to W.J. Hooker at K, with photocopies in Dominion Mus. Wellington.
+- (1) Hocken Library, Dunedin, mss. (photocopies in Dominion Mus. Wellington).
+- (2) Notes... of early crossing of... Lake Waikaremoana in the years 1841 and 1843, Trans. New Zealand Inst. 27: 359-382. 1854.
+- (3) Journal of a naturalist, London J. Bot. 3: 1-62. 1844.
+- (4) Letters to W.J. Hooker at K, with photocopies in Dominion Mus. Wellington.
 
 ### Publications
 

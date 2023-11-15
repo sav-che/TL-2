@@ -8,7 +8,8 @@ Johnson, William (1844-1919), British lichenologist, Primitive Methodist ministe
 
 #### Herbarium and types
 
-[[Collection LDS|LDS]]. Exsiccatae: *The North of England lichen-herbarium*, fasc. 1-13, nos. 1-520, 1894-1918, sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]], [[Collection MPU|MPU]], [[Collection PC|PC]], [[Collection W|W]].
+[[Collection LDS|LDS]].
+*Exsiccatae*: *The North of England lichen-herbarium*, fasc. 1-13, nos. 1-520, 1894-1918, sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]], [[Collection MPU|MPU]], [[Collection PC|PC]], [[Collection W|W]].
 *Ref*.: Seaward, Naturalist (Hull) 1972: 13-14.
 - Sayre, G., Mem. New York Bot. Gard. 19(1): 136.1969.
 

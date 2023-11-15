@@ -26,8 +26,8 @@ Barnhart 3: 269 (b. 18 Mai 1886); BM 8: 1186; Bossert p. 364; Hirsch p. 273; Hor
 
 #### Composite works
 
-(1) With Edward Johnson Alexander (1901-x), *Compositae, Coreopsidinae, in* NAF ser. 2. 2: 1-149. 9 Dec 1955.
-(2) *Editor and author. Botanical Leaflets*, a series of studies in the systematic botany of miscellaneous dicotyledonous plants, Chicago Illinois, 1950-1952. (9 nos.).
+- (1) With Edward Johnson Alexander (1901-x), *Compositae, Coreopsidinae, in* NAF ser. 2. 2: 1-149. 9 Dec 1955.
+- (2) *Editor and author. Botanical Leaflets*, a series of studies in the systematic botany of miscellaneous dicotyledonous plants, Chicago Illinois, 1950-1952. (9 nos.).
 
 ### Publications
 

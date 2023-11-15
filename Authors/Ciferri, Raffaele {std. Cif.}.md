@@ -10,7 +10,8 @@ Ciferri, Raffaele (1897-1964), Italian mycologist.
 
 #### Herbarium and types
 
-[[Collection PAV|PAV]]. – Hawksworth cites [[Collection BPI|BPI]] for the main collections of fungi. Ciferri's pre World War II material was destroyed during the war. – Exsiccatae: *Mycoflora domingensis exsiccata* (4 cent., nos. 1-425, Moca 1931 (1, 2), Pavia 1932-1956 3,4)). Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection ILL|ILL]], [[Collection PICH|PICH]], [[Collection NMES|NMES]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection TRTC|TRTC]], [[Collection WIS|WIS]].
+[[Collection PAV|PAV]]. – Hawksworth cites [[Collection BPI|BPI]] for the main collections of fungi. Ciferri's pre World War II material was destroyed during the war.
+*Exsiccatae*: *Mycoflora domingensis exsiccata* (4 cent., nos. 1-425, Moca 1931 (1, 2), Pavia 1932-1956 3,4)). Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection ILL|ILL]], [[Collection PICH|PICH]], [[Collection NMES|NMES]], [[Collection NY|NY]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection TRTC|TRTC]], [[Collection WIS|WIS]].
 *Ref*.: IH 2: 128.
 - Ciferri, Mycoflora domingensis integrata. Pavia 1961.
 - Stevenson, Beih. Nova Hedwigia 36: 82-87. 1971.
@@ -30,9 +31,9 @@ Barnhart 1: 348; BFM 2320, 3072; BL 2: 333, 336, 565; GR p. 516; Kew 1: 559; Lan
 
 #### Composite works
 
-(1) Lindau et Sydow, *Thesaurus literaturae mycologicae et lichenologicae, *Supplementum 1911-1930, Pavia 1957-1960, 4 vols.
-(2) Fiori et Giacomini, *Flora italica cryptogama*, fasc. 17 Ciferri, *Ustilaginales*, 443 p., 31 Mar 1938.
-(3) For further details see Tomaselli's bibliography (1964).
+- (1) Lindau et Sydow, *Thesaurus literaturae mycologicae et lichenologicae, *Supplementum 1911-1930, Pavia 1957-1960, 4 vols.
+- (2) Fiori et Giacomini, *Flora italica cryptogama*, fasc. 17 Ciferri, *Ustilaginales*, 443 p., 31 Mar 1938.
+- (3) For further details see Tomaselli's bibliography (1964).
 
 #### Eponymy
 

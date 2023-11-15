@@ -27,7 +27,7 @@ Ainsworth p. 286; Barnhart 1: 399; BB p. 77; BL 2: 276, 643; Desmond p. 159 (b. 
 
 #### Composite works
 
-(1) G.E. Massee and Ch. Crossland, *Fung. fl. Yorkshire*, TL-2/5659. *Copies*: MO, NY, Stevenson.
+- (1) G.E. Massee and Ch. Crossland, *Fung. fl. Yorkshire*, TL-2/5659. *Copies*: MO, NY, Stevenson.
 
 ### Publications
 

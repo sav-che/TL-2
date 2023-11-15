@@ -8,7 +8,8 @@ Jaczewski, Arthur Louis Arthurovic de (1863-1932), Russian mycologist and phytop
 
 #### Herbarium and types
 
-[[Collection LE|LE]]; other material at [[Collection B|B]], [[Collection BR|BR]], [[Collection E|E]] and [[Collection K|K]]. Exsiccatae: *Fungi Rossiae exsiccati*, (fasc. 1-7, nos. 1-350, 1895-1900), (with Vladimir Leontjevic Komarov and Woldemar Tranzschel); set at [[Collection FH|FH]].
+[[Collection LE|LE]]; other material at [[Collection B|B]], [[Collection BR|BR]], [[Collection E|E]] and [[Collection K|K]].
+*Exsiccatae*: *Fungi Rossiae exsiccati*, (fasc. 1-7, nos. 1-350, 1895-1900), (with Vladimir Leontjevic Komarov and Woldemar Tranzschel); set at [[Collection FH|FH]].
 
 #### Bibliography and biography
 

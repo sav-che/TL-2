@@ -34,8 +34,8 @@ APN p. 211; Barnhart 2: 11; BL 2: 532, 656; BM 2: 625, 6: 347-348; BN p. 173; CS
 #### Composite works
 
 Co-author with:
-(1) R.F. Fristedt, *Tvänne Sverige arter Rumex*... 1861, see below (nr. 35.693).
-(2) Th. Fries (his brother), *Ic. Hymenomyc.* vol. 2, fascs. 2-10.
+- (1) R.F. Fristedt, *Tvänne Sverige arter Rumex*... 1861, see below (nr. 35.693).
+- (2) Th. Fries (his brother), *Ic. Hymenomyc.* vol. 2, fascs. 2-10.
 
 ### Publications
 

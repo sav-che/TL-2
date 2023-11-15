@@ -32,8 +32,8 @@ AG 3: 428, 5(3): 68; Backer p. 534; Barnhart 3: 281; BB p. 276; BM 4: 1930; Boss
 
 #### Composite works
 
-(1) Editor, with Karl Dietrich Eberhard Koenig (1774-1851) of *Annals of Botany*, 2 vols., 1804-1806, see TL-2/3827.
-(2) Editor, *The Botanical Magazine* 14-53, *pl. 469-2704*, 1800-1826, see TL-21290.
+- (1) Editor, with Karl Dietrich Eberhard Koenig (1774-1851) of *Annals of Botany*, 2 vols., 1804-1806, see TL-2/3827.
+- (2) Editor, *The Botanical Magazine* 14-53, *pl. 469-2704*, 1800-1826, see TL-21290.
 
 #### Eponymy
 

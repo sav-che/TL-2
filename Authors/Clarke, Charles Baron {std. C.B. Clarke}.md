@@ -31,13 +31,13 @@ AG 3: 601-602; Barnhart 1: 352; BB p. 65; BL 2: 216; BM 1: 352, 6: 209-210; CSP 
 
 #### Composite works
 
-(1) Alph. de Candolle, *Monogr*.:
+- (1) Alph. de Candolle, *Monogr*.:
 (a) *Commelinaceae*, 3: 113-324, pl. 1-8. Jun 1881.
 (b) *Cyrtandraceae*, 5(1): 1-303. Jul 1883.
-(2) J. W. Gregory, *The Great Rift Valley*, appendix B: *List of Cyperaceae* from East Africa. 1896.
-(3) W. H. Harvey and O. W. Sonder, *Flora capensis*: vol. 7, 1897-1898, *Commelinaceae* and *Cyperaceae*.
-(4) Oliver, *FL Trop. Afr.*: various contributions, listed under Oliver.
-(5) Hooker, *Fl. Brit. India.Saxif.* 2: 388-411, *Crass*. 2: 411-423, *Dros*. 2: 423-425, *Hamam*. 2: 425-430, *Halor. 2*: 430-434, *Combr*. 2: 443-461, *all* Jul 1879; *Myrt*. 2: 506-512, *Melast*. 2: 512-565, *Lythr*. 2: 565-581, *Onagr*. 2: 582-590, *Samyd*. 2: 590-598, *Cucur*. 2: 604-635, *Begon*. 2: 635-656, *Datisc*. 2: 656-657, *Cact*. 2: 657-658, *Ficoid*. 2: 658-665, *Umb*. 2: 665-720, *Aral*. 2: 720-740, *Corn*. 2: 740-748, *all* Mai 1879; *Capr*. 3: 1-17, Mai 1880; *Valer*. 3: 210-215, *Dips*. 3: 215-219, *Styl*. 3: 419-420, *Gooden*. 3: 420-421, *Camp*. 3: 421-442, *Vacc*. 3: 442-448, *all* Mar 1881; *Vacc*. 3: 449-455, *Eric*. 3: 456-476, *Monotr*. 3: 476-477, *Epacr*. 3: 477, *Diap*. 3: 478, *Plumb*. 3: 478-481, *Myrs*. 3: 507-534, *Sapot*. 3: 534-549, Eben. 3: 549-572, *Styr*. 3: 572-590, *Olea*. 3: 590-618, Salv. 3: 618-620, *all* Dec 1882; Logan. 4: 78-93, Gent. 4: 93-132, *Polem*. 4: 133, *Hydroph*. 4: 133-134, *Borag*. 4: 134-179, *Conv*. 4: 179-228, *Solan*. 4: 228-246, *all* Jun 1883; *Lent*. 4: 328-336, *Gesn*. 4: 336-375, *Bign*. 4: 376-386, *Pedal*. 4: 386-387, *Acanth*. 4: 387-512, *all* Jan 1884; *Acanth*. 4: 513-558, *Verb*. 4: 560-604, *all* Aug 1885; *Cyper*. 6: 585-672, Sep 1893; *Cyp*. 6: 673-748, Apr 1894.
+- (2) J. W. Gregory, *The Great Rift Valley*, appendix B: *List of Cyperaceae* from East Africa. 1896.
+- (3) W. H. Harvey and O. W. Sonder, *Flora capensis*: vol. 7, 1897-1898, *Commelinaceae* and *Cyperaceae*.
+- (4) Oliver, *FL Trop. Afr.*: various contributions, listed under Oliver.
+- (5) Hooker, *Fl. Brit. India.Saxif.* 2: 388-411, *Crass*. 2: 411-423, *Dros*. 2: 423-425, *Hamam*. 2: 425-430, *Halor. 2*: 430-434, *Combr*. 2: 443-461, *all* Jul 1879; *Myrt*. 2: 506-512, *Melast*. 2: 512-565, *Lythr*. 2: 565-581, *Onagr*. 2: 582-590, *Samyd*. 2: 590-598, *Cucur*. 2: 604-635, *Begon*. 2: 635-656, *Datisc*. 2: 656-657, *Cact*. 2: 657-658, *Ficoid*. 2: 658-665, *Umb*. 2: 665-720, *Aral*. 2: 720-740, *Corn*. 2: 740-748, *all* Mai 1879; *Capr*. 3: 1-17, Mai 1880; *Valer*. 3: 210-215, *Dips*. 3: 215-219, *Styl*. 3: 419-420, *Gooden*. 3: 420-421, *Camp*. 3: 421-442, *Vacc*. 3: 442-448, *all* Mar 1881; *Vacc*. 3: 449-455, *Eric*. 3: 456-476, *Monotr*. 3: 476-477, *Epacr*. 3: 477, *Diap*. 3: 478, *Plumb*. 3: 478-481, *Myrs*. 3: 507-534, *Sapot*. 3: 534-549, Eben. 3: 549-572, *Styr*. 3: 572-590, *Olea*. 3: 590-618, Salv. 3: 618-620, *all* Dec 1882; Logan. 4: 78-93, Gent. 4: 93-132, *Polem*. 4: 133, *Hydroph*. 4: 133-134, *Borag*. 4: 134-179, *Conv*. 4: 179-228, *Solan*. 4: 228-246, *all* Jun 1883; *Lent*. 4: 328-336, *Gesn*. 4: 336-375, *Bign*. 4: 376-386, *Pedal*. 4: 386-387, *Acanth*. 4: 387-512, *all* Jan 1884; *Acanth*. 4: 513-558, *Verb*. 4: 560-604, *all* Aug 1885; *Cyper*. 6: 585-672, Sep 1893; *Cyp*. 6: 673-748, Apr 1894.
 
 #### Eponymy
 

@@ -145,11 +145,11 @@ D. Casimiri Christoph. Schmidelii... *Dissertationes botanici argumenti* revisae
 
 **Notes**
 *Publ*.: 1783, p. \[i\], \[1\]-130, *pl. 1/2,3*, \[*4*\] (uncol. copp.). *Copies*: B, B-G, FH, G, H, HH, MO, NY. – Contents:
-(1) *Dissertatio de Oreoselino*, p. \[1\]-28, originally published 1751. The chemical observations in this dissertation are to be attributed to the defendens G.C. Troeltzsch.
-(2) *Dissertatio de Buxbaumia*, p. \[29\]-62, see above *Buxbaumia* (1758).
-(3) *Dissertatio de Blasia*, p. \[63\]-88, see above *Blasia* (1759).
-(4) *Dissertatio de Jungermanniae charactere*, p. \[89\]-114, see above *Jungerm. char.* (1760).
-(5) *De medulla radicis* ad florem pertingente epistola ad Nic. Lud. Burmannum, p. \[115\]-130, originally published 1759. Written in connection with N.L. Burman, *Spec. bot. Geran.* 1759, TL-2/934.
+- (1) *Dissertatio de Oreoselino*, p. \[1\]-28, originally published 1751. The chemical observations in this dissertation are to be attributed to the defendens G.C. Troeltzsch.
+- (2) *Dissertatio de Buxbaumia*, p. \[29\]-62, see above *Buxbaumia* (1758).
+- (3) *Dissertatio de Blasia*, p. \[63\]-88, see above *Blasia* (1759).
+- (4) *Dissertatio de Jungermanniae charactere*, p. \[89\]-114, see above *Jungerm. char.* (1760).
+- (5) *De medulla radicis* ad florem pertingente epistola ad Nic. Lud. Burmannum, p. \[115\]-130, originally published 1759. Written in connection with N.L. Burman, *Spec. bot. Geran.* 1759, TL-2/934.
 
 ##### n.10.860. Descriptio itineris per Helvetiam Galliam et Germaniae partem
 

@@ -8,7 +8,8 @@ Poeverlein, Hermann (1874-1957), German administrator and botanist; Dr. jur. Erl
 
 #### Herbarium and types
 
-[[Collection M|M]] (main collections, inf. H. Merxmüller); private herbarium destroyed (Hepp); further material at [[Collection B|B]], [[Collection BERN|BERN]], [[Collection BP|BP]], [[Collection C|C]], [[Collection E|E]], [[Collection MICH|MICH]], [[Collection W|W]]. – *Exsiccatae*: *Flora exsiccata bavarica*, fasc. 1-6, 1898-1902, nos. 1-500; with notes and schedae published in the Denkschr. bot. Ges. Regensburg n.s. 1: 150-152, 164-172. 1900, 215-217, 237-241. 1901 and 1 (Beil. 2): 1-67. 1898, 2 (Beil. 2): 19-56, (Beil. 3): 1-74. 1904, 3 (Beil. 1): 1-70. 1905. Contributed also to Sydow, *Mycotheca germanica. Exsiccatae*: *Flora exsiccata rhenana*, fasc. 1, 1909, nos. 1-100, accompanied by schedae, see below. *Uredineeh Süddeutschlands* (with E. Eichhorn), cent. 1-5. – Lettters and portrait at [[Collection G|G]].
+[[Collection M|M]] (main collections, inf. H. Merxmüller); private herbarium destroyed (Hepp); further material at [[Collection B|B]], [[Collection BERN|BERN]], [[Collection BP|BP]], [[Collection C|C]], [[Collection E|E]], [[Collection MICH|MICH]], [[Collection W|W]].
+*Exsiccatae*: *Flora exsiccata bavarica*, fasc. 1-6, 1898-1902, nos. 1-500; with notes and schedae published in the Denkschr. bot. Ges. Regensburg n.s. 1: 150-152, 164-172. 1900, 215-217, 237-241. 1901 and 1 (Beil. 2): 1-67. 1898, 2 (Beil. 2): 19-56, (Beil. 3): 1-74. 1904, 3 (Beil. 1): 1-70. 1905. Contributed also to Sydow, *Mycotheca germanica. Exsiccatae*: *Flora exsiccata rhenana*, fasc. 1, 1909, nos. 1-100, accompanied by schedae, see below. *Uredineeh Süddeutschlands* (with E. Eichhorn), cent. 1-5. – Lettters and portrait at [[Collection G|G]].
 
 #### Bibliography and biography
 

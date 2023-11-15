@@ -18,10 +18,10 @@ Barnhart 2: 189; BFM 3167; BJI 1: 28; BM 2: 858, 6: 473; CSP 10: 251, 15: 894; H
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710). *Compositae* 4(5): 87-128. Feb 1890, 129-176. Mai 1890, 177-224. Aug 1890, 225-272. Jan 1891, 273-320. Jul 1892, 321-368. Sep 1893, 369-387. 22 Mai 1894 (*Hieracium* by A. Peter); Nachtr. 2-4(1): 320-330. Nov 1897, (2): 75-78. 8 Oct 1900.
-(2) *Compositae, in* Deutsch Ost Afrika 5(C) 1895.
-(3) *Compositae, in* Engler, *Plantae Marlothianae*. 1888.
-(4) *Compositae, in* Engler, *Pflanzenwelt Ostafrikas* C, p. 402-422. Aug 1895 (TL-2/1708). For a complete list of Otto Hoffmann's numerous contributions on *Compositae* in publications by others see the bibliography by R. Muschler, in Ascherson (1910).
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1 (TL-2/1710). *Compositae* 4(5): 87-128. Feb 1890, 129-176. Mai 1890, 177-224. Aug 1890, 225-272. Jan 1891, 273-320. Jul 1892, 321-368. Sep 1893, 369-387. 22 Mai 1894 (*Hieracium* by A. Peter); Nachtr. 2-4(1): 320-330. Nov 1897, (2): 75-78. 8 Oct 1900.
+- (2) *Compositae, in* Deutsch Ost Afrika 5(C) 1895.
+- (3) *Compositae, in* Engler, *Plantae Marlothianae*. 1888.
+- (4) *Compositae, in* Engler, *Pflanzenwelt Ostafrikas* C, p. 402-422. Aug 1895 (TL-2/1708). For a complete list of Otto Hoffmann's numerous contributions on *Compositae* in publications by others see the bibliography by R. Muschler, in Ascherson (1910).
 
 #### Eponymy
 

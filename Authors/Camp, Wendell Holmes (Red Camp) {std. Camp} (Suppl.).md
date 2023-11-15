@@ -35,9 +35,9 @@ Barnhart 1: 302 (b. 22 Feb 1904, Dayton, Ohio, d. 4 Feb 1963, Storrs, Conn.); Bo
 
 #### Outside our period
 
-(1) *The nomenclature of hybrids* \[by\] H.W. Rickett and W.H. Camp. Reprinted and to be cited from Bull. Torrey bot. Club 75(5): 496-501. Sep 1948. *Copies*: FAS(B), NY.
-(2) With H.W. Rickett and C.A. Weatherby, *Proposed changes in the International Rules of Botanical Nomenclature*. A series of proposed amendments and additions to the International Rules of Botanical Nomenclature sponsored by a group of fifty-five taxonomists... A report by W.H. Camp, H.W. Rickett and C.A. Weatherby, The Central Committee on Nomenclature of the American Society of Plant Taxonomists. Reprinted from Brittonia 7(1): 1-51. 25 Jun 1949. *Copies*: FAS(B), NY, U.
-(3) The *application and use of botanical names*, reprinted and to be cited from Bull. Torrey bot. Club 77(4): 245-261. Jul 1950. *Copies*: FAS(B), NY.
+- (1) *The nomenclature of hybrids* \[by\] H.W. Rickett and W.H. Camp. Reprinted and to be cited from Bull. Torrey bot. Club 75(5): 496-501. Sep 1948. *Copies*: FAS(B), NY.
+- (2) With H.W. Rickett and C.A. Weatherby, *Proposed changes in the International Rules of Botanical Nomenclature*. A series of proposed amendments and additions to the International Rules of Botanical Nomenclature sponsored by a group of fifty-five taxonomists... A report by W.H. Camp, H.W. Rickett and C.A. Weatherby, The Central Committee on Nomenclature of the American Society of Plant Taxonomists. Reprinted from Brittonia 7(1): 1-51. 25 Jun 1949. *Copies*: FAS(B), NY, U.
+- (3) The *application and use of botanical names*, reprinted and to be cited from Bull. Torrey bot. Club 77(4): 245-261. Jul 1950. *Copies*: FAS(B), NY.
 
 ### Publications
 

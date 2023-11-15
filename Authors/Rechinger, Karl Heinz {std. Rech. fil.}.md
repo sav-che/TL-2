@@ -32,15 +32,15 @@ AG 12(2): 322; Barnhart 3: 135 (b. 16 Oct 1906); BFM p. 311 \[index\]; Biol.-Dok
 
 #### Composite works
 
-(1) Contributed to G. Hegi, *Ill. fl. Mitteleuropa* 3(1) and 3(3).
-(2) *Flora iranica*, 1964-x, editor and in part author, see e.g. F.A. Stafleu, Taxon 16: 437-438. 1967, 22: 148-149. 1973, and K.H. Rechinger, ADEVA-Mitt. Graz 20: 7-15. 1969. Rechinger's "magnum opus".
-(3) *Flora of lowland Iraq*, by K.H. Rechinger with contributions by P. Aellen, Y.I. Barkoudah, N.L. Bor, B.L. Burtt, C.D.K. Cook, J.E. Dandy, Th.R. Dudley, F.
+- (1) Contributed to G. Hegi, *Ill. fl. Mitteleuropa* 3(1) and 3(3).
+- (2) *Flora iranica*, 1964-x, editor and in part author, see e.g. F.A. Stafleu, Taxon 16: 437-438. 1967, 22: 148-149. 1973, and K.H. Rechinger, ADEVA-Mitt. Graz 20: 7-15. 1969. Rechinger's "magnum opus".
+- (3) *Flora of lowland Iraq*, by K.H. Rechinger with contributions by P. Aellen, Y.I. Barkoudah, N.L. Bor, B.L. Burtt, C.D.K. Cook, J.E. Dandy, Th.R. Dudley, F.
 Ehrendorfer, J. Hedge, D. Hillcoat, A. Huber-Morath, A. Patzak, M. Raymond, H. Riedl, H. Schiman-Czeika, S. Snogerup, C.C. Townsend, G. Wagenitz, P. Wendelbo, F. Widder, T.G. Yuncker. Weinheim (Verlag von J. Cramer) publ. 10 Mar 1964, v, 746 p.
 
 #### Festschrift
 
-(1) Ann. Naturhist. Mus. Wien 75, 1971 (with tribute by H. Riedl on p. 1-17.
-(2) Ann. Mus. Goulandris 4, 1978 (frontisp., portr., drawing by Niki Goulandris).
+- (1) Ann. Naturhist. Mus. Wien 75, 1971 (with tribute by H. Riedl on p. 1-17.
+- (2) Ann. Mus. Goulandris 4, 1978 (frontisp., portr., drawing by Niki Goulandris).
 
 #### Eponymy
 

@@ -27,5 +27,5 @@ Barnhart 3: 275 (d. 30 Mai 1884); BB p. 275; BM 4: 1921; Clokie p. 244; CSP 5: 6
 
 #### Composite works
 
-(1) Contributed *Algae filiformes* – *Algae silicatae* (with W.C. Wiliamson), to R. Buxton, *Bot. Guide fl. pl.* 1849. TL-2/939.
+- (1) Contributed *Algae filiformes* – *Algae silicatae* (with W.C. Wiliamson), to R. Buxton, *Bot. Guide fl. pl.* 1849. TL-2/939.
 

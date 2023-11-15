@@ -19,8 +19,8 @@ Barnhart 2: 244; BM 2: 923; Desmond p. 341; IH 2: 311; Kew 3: 147; Lenley p. 241
 
 #### Composite works
 
-(1) With H. N. Dixon, *Student's handbook of British mosses*, see no. 1480. Additional references: Naylor, Bryologist 8(5): 90-91. 1905 (rev. ed. 2); Grout, Bryologist 7(6): 1904 (rd. "during the summer").
-(2) Illustrated S. M. Macvicar, *Student's handbook of British hepatics* (1912, 1926).
+- (1) With H. N. Dixon, *Student's handbook of British mosses*, see no. 1480. Additional references: Naylor, Bryologist 8(5): 90-91. 1905 (rev. ed. 2); Grout, Bryologist 7(6): 1904 (rd. "during the summer").
+- (2) Illustrated S. M. Macvicar, *Student's handbook of British hepatics* (1912, 1926).
 
 ### Publications
 

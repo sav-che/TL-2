@@ -25,12 +25,12 @@ AG 1, ed. 2: 2, 3: 836, 5(3): 88; Barnhart 2: 72; BFM 50, 55; BM 2: 703, 6: 35, 
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich*:
+- (1) Engler, *Pflanzenreich*:
 (a) *Sparganiaceae*: IV, 10, Heft 2. 30 Oct 1900.
 (b) *Typhaceae*: IV, 8, Heft 2. 20 Oct 1900.
 (c) *Potamogetonaceae*: IV, 11, Heft 31. 29 Oct 1907 \[with Ascherson\].
-(2) Ascherson & Graebner, *Synopsis der Mitteleuropäischen Flora*, carried on by Graebner alone from Lieferung 79 (1913) onward. See under Ascherson.
-(3) Ascherson, *Flora der Provinz Brandenburg* zweite Auflage (1898) by Ascherson and Graebner.
+- (2) Ascherson & Graebner, *Synopsis der Mitteleuropäischen Flora*, carried on by Graebner alone from Lieferung 79 (1913) onward. See under Ascherson.
+- (3) Ascherson, *Flora der Provinz Brandenburg* zweite Auflage (1898) by Ascherson and Graebner.
 
 ### Publications
 

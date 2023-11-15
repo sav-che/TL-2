@@ -8,7 +8,8 @@ Scriba, Ludwig Philipp Karl (1847-1933), German (Hessen) mechanical engineer and
 
 #### Herbarium and types
 
-[[Collection FR|FR]] (Cladonia herbarium). – Exsiccatae: *Cladoniae exoticae*. Set at [[Collection L|L]]. – Other material at [[Collection B|B]] (destr.), [[Collection E|E]], [[Collection GRA|GRA]], [[Collection NMW|NMW]], [[Collection M|M]], [[Collection PH|PH]]. – *Letters* at [[Collection G|G]].
+[[Collection FR|FR]] (Cladonia herbarium).
+*Exsiccatae*: *Cladoniae exoticae*. Set at [[Collection L|L]]. – Other material at [[Collection B|B]] (destr.), [[Collection E|E]], [[Collection GRA|GRA]], [[Collection NMW|NMW]], [[Collection M|M]], [[Collection PH|PH]]. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

@@ -34,8 +34,8 @@ Barnhart 1: 470 (b. 27 Feb 1807, Leiden, d. 7 Oct 1856); BM 1: 476; CSP 2: 336-3
 
 #### Composite works
 
-(1) François Dozy was one of the editors of Nederlandsch Kruidkundig Archief Vols. 1-3 (1846-1855).
-(2) *Musci Frondosi*, in F.W. Junghuhn, *Plantae Junghunianae* 1851-1855. Qu. – See under F.A.W. Miquel and TL-2/2: 471.
+- (1) François Dozy was one of the editors of Nederlandsch Kruidkundig Archief Vols. 1-3 (1846-1855).
+- (2) *Musci Frondosi*, in F.W. Junghuhn, *Plantae Junghunianae* 1851-1855. Qu. – See under F.A.W. Miquel and TL-2/2: 471.
 
 ### Publications
 

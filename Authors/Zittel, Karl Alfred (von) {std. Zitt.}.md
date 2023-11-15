@@ -32,9 +32,9 @@ Andrews p. 354; Barnhart 3: 542; BJI 1: 65; BM 5: 2394-2395, 8: 1475–1476; Her
 
 #### Composite works
 
-(1) Co-author, C.G.F. von Hochstetter, *Paläontol. Neu-Seeland*, 1865. (TL-2/2838).
-(2) Editor, *Palaeontographica* 17, 19-50, 1870-1904.
-(3) Editor and in part author of *Handbuch der Palaeontologie* 1880-1890, 5 vols., (of which vol 5. *Palaeophytologie* begonnen von W.Ph. Schimper... fortgesetzt und vollendet von A. Schenk; publ. 1879-1890, 9 Lief; *Lief. 1* by W.P. Schimper, p. 1-152, 1879; see TL-2/10.567 under Schenk.
+- (1) Co-author, C.G.F. von Hochstetter, *Paläontol. Neu-Seeland*, 1865. (TL-2/2838).
+- (2) Editor, *Palaeontographica* 17, 19-50, 1870-1904.
+- (3) Editor and in part author of *Handbuch der Palaeontologie* 1880-1890, 5 vols., (of which vol 5. *Palaeophytologie* begonnen von W.Ph. Schimper... fortgesetzt und vollendet von A. Schenk; publ. 1879-1890, 9 Lief; *Lief. 1* by W.P. Schimper, p. 1-152, 1879; see TL-2/10.567 under Schenk.
 
 #### Eponymy
 

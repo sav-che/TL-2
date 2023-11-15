@@ -21,7 +21,7 @@ Barnhart 1: 346 (b. 25 Aug 1871, Berlin, Ontario); BJI 2: 28; BL 1: 186; IH 2: 1
 
 #### Composite works
 
-(1) Co-author with Forrest Shreve, *The plant life of Maryland*, 1910, see TL-2/11.915. – Also reprinted, 1969, (Cramer): ISBN 3-7682-0626-2. – Review by Roland H. Harper, Torreya 11(2): 36-47. 14 Feb 1911.
+- (1) Co-author with Forrest Shreve, *The plant life of Maryland*, 1910, see TL-2/11.915. – Also reprinted, 1969, (Cramer): ISBN 3-7682-0626-2. – Review by Roland H. Harper, Torreya 11(2): 36-47. 14 Feb 1911.
 
 #### Note
 

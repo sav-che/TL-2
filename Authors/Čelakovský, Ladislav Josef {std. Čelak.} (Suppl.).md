@@ -46,8 +46,8 @@ AG 1: 230, 12(2): 325; Barnhart 1: 325 (b. 29 Nov 1834, Praha, d. 24 Nov 1902, P
 
 #### Composite works
 
-(1) Josef Knaf (1801-1864) and L. Čelakovský, *Hieracium albinum*, Verh. bot. Ver. Prov. Brandenburg 12: 87-92. 1870.
-(2) Id., *Hieracium pallidifolium* n.sp., ÖBZ 32: 77-78. 1872.
+- (1) Josef Knaf (1801-1864) and L. Čelakovský, *Hieracium albinum*, Verh. bot. Ver. Prov. Brandenburg 12: 87-92. 1870.
+- (2) Id., *Hieracium pallidifolium* n.sp., ÖBZ 32: 77-78. 1872.
 
 ### Publications
 

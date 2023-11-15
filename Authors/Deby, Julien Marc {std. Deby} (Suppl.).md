@@ -29,8 +29,8 @@ Barnhart 1: 432 (b. 10 Mar 1826, Laeken nr. Bruxelles, d. 14 Apr 1895, Sheffield
 
 #### Composite works
 
-(1) F.W. Mills (1868-1949), see TL-2/no. 6064, *An introduction to the study of the Diatomaceae*, with a *bibliography* by Julien Deby, p. xi, 243 pp., London (Illife & Son) 1893. – See also TL-2/4: no. 7620 with introductions by Deby.
-(2) De Toni, G.B., *Sylloge Algarum omnium*... vol. II, Bacillarieae, Sectio I., *Rhaphidae*... curante J.Deby (see TL-2/1: no. 1421).
+- (1) F.W. Mills (1868-1949), see TL-2/no. 6064, *An introduction to the study of the Diatomaceae*, with a *bibliography* by Julien Deby, p. xi, 243 pp., London (Illife & Son) 1893. – See also TL-2/4: no. 7620 with introductions by Deby.
+- (2) De Toni, G.B., *Sylloge Algarum omnium*... vol. II, Bacillarieae, Sectio I., *Rhaphidae*... curante J.Deby (see TL-2/1: no. 1421).
 
 ### Publications
 

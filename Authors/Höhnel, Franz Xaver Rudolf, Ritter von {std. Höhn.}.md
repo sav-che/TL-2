@@ -182,9 +182,9 @@ K.K. Technische Hochschule in Wien. *Über exakte und deskriptive Wissenschaft*.
 *Copy*: USDA.
 *Other publications* on Corticieae by Höhnel und Litschauer:
 (i) *Revision der Corticieen, in* Dr. J. Schröter's "Pilze Schlesiens"... Ann. mycol. 4(3): 288-294. 5 Jun 1906 (also as reprint) (*Copy*: FH).
-(2) *Österreichische Corticieen, in* Wiesner Festschrift 56-80. 1908 (*Copy*: FH).
-(3) *Westfälische Corticieen*, Österr. bot. Z. 58(9): 329-335. Sep 1908; reprint p. \[1\]-7. (*Copy*: FH).
-(4) *Norddeutsche Corticieen*, Österr. bot. Z. 58(11): 441-444. Nov 1908, 58(12): 470-478. Dec 1908; reprint p. \[1\]-12 (*Copy*: FH).
+- (2) *Österreichische Corticieen, in* Wiesner Festschrift 56-80. 1908 (*Copy*: FH).
+- (3) *Westfälische Corticieen*, Österr. bot. Z. 58(9): 329-335. Sep 1908; reprint p. \[1\]-7. (*Copy*: FH).
+- (4) *Norddeutsche Corticieen*, Österr. bot. Z. 58(11): 441-444. Nov 1908, 58(12): 470-478. Dec 1908; reprint p. \[1\]-12 (*Copy*: FH).
 
 ##### n.2863. Revision von 292 der von J. Feltgen aufgestellten Ascomycetenformen
 

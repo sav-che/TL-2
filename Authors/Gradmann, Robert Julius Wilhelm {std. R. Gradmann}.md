@@ -25,8 +25,8 @@ Barnhart 2: 72; BFM p. 286 (index); Bossert p. 150; CSP 15: 410; Kew 2: 456; LS 
 
 #### Composite works
 
-(1) Co-editor with J. Eichler & E.W.G. Meigen of the serial *Ergebnisse der pflanzengeographischen Durchforschung von Württemberg*... 1\[7\], 1905-\[1926\], see TL-2/6, nr. 32.569 and B-P-H/S 1991: 319.
-(2) Editorial board of *Die Erde* (1923-1935).
+- (1) Co-editor with J. Eichler & E.W.G. Meigen of the serial *Ergebnisse der pflanzengeographischen Durchforschung von Württemberg*... 1\[7\], 1905-\[1926\], see TL-2/6, nr. 32.569 and B-P-H/S 1991: 319.
+- (2) Editorial board of *Die Erde* (1923-1935).
 
 ### Publications
 

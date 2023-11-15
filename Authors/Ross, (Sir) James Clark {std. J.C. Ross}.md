@@ -13,7 +13,7 @@ Ross, \[Sir\] James Clark (1800-1862), British (English) arctic and antarctic ex
 #### Notes (1)
 
 J.C. Ross made collections on several of his journeys; his main claim to fame in botany, however, is that he was in command of the antarctic expedition with the Erebus and Terror, 1839-1843, on which J.D. Hooker took part as a botanist. For Hooker's publications of the botanical results of this expedition see TL-2/2. For the various travelogues see e.g. BM 4: 1734; see also TL-2/2964-2965, 3009.
-(2) Sir John Ross (1777-18156), J.C. Ross's uncle, was also an arctic explorer, e.g. in search of the North-West Passage 1818 and 1829-1833; author of TL-2/830, *Voy. explor. Baffin's Bay* an account of the 1819 expedition in which R. Brown published a *List of plants* (see e.g. Barnhart 3: 180, BM 4: 1734, Tucker 607; Allibone, S.A. Crit. dict. Engl. lit. 1874. 1878).
+- (2) Sir John Ross (1777-18156), J.C. Ross's uncle, was also an arctic explorer, e.g. in search of the North-West Passage 1818 and 1829-1833; author of TL-2/830, *Voy. explor. Baffin's Bay* an account of the 1819 expedition in which R. Brown published a *List of plants* (see e.g. Barnhart 3: 180, BM 4: 1734, Tucker 607; Allibone, S.A. Crit. dict. Engl. lit. 1874. 1878).
 
 #### Bibliography and biography
 

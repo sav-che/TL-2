@@ -8,7 +8,8 @@ Lasch, Wilhelm Gottfried (1787-1863), German pharmacist, mycologist, and hieraci
 
 #### Herbarium and types
 
-[[Collection B|B]]; other material: [[Collection L|L]], [[Collection MSTR|MSTR]], [[Collection MW|MW]], [[Collection PAV|PAV]], [[Collection WRSL|WRSL]]. Exsiccatae: *Herbarium norddeutscher Pflanzen* für angehende Lehrer, Pharmaceuten und alle Freunde der Botanikfasc. i-viii, 346 nos., Driesen und Gorlitz 1860; ed. 2, 1863. (with C. G. Baenitz). Set at [[Collection FH|FH]]. Lasch contributed also to Klotzsch-Rabenhorst, *Herbarium mycologicum*.
+[[Collection B|B]]; other material: [[Collection L|L]], [[Collection MSTR|MSTR]], [[Collection MW|MW]], [[Collection PAV|PAV]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Herbarium norddeutscher Pflanzen* für angehende Lehrer, Pharmaceuten und alle Freunde der Botanikfasc. i-viii, 346 nos., Driesen und Gorlitz 1860; ed. 2, 1863. (with C. G. Baenitz). Set at [[Collection FH|FH]]. Lasch contributed also to Klotzsch-Rabenhorst, *Herbarium mycologicum*.
 *Ref*.: Anon., Flora 46: 47, 432. 1863; Bot. Zeit. 21: 348. 1863, 22: 92, 200. 1864. (herb.).
 - Sayre, G., Mem. New York Bot. Gard. 19(1): 32. 1969.
 

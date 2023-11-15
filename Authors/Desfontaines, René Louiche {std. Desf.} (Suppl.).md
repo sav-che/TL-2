@@ -75,8 +75,8 @@ AG 1: 258, 3: 145, 4: 464, 5(1): 448, 6(2): 82; Backer p. 168; Barnhart 1: 446 (
 
 #### Composite works
 
-(1) *Dictionnaire* des *Sciences naturelles*... tom. XIII-LX 1819-1830, texts by Desfontaines.
-(2) Desfontaines, C., *Plinii secundi historiae naturalis libri xxxvii*... pars quarta continens Rem Herbarium curante L. Desfontaines, vols. 5-7, see Plinius secundus, C., vols. 5-7, 1829-1830. See BM 1: 444.
+- (1) *Dictionnaire* des *Sciences naturelles*... tom. XIII-LX 1819-1830, texts by Desfontaines.
+- (2) Desfontaines, C., *Plinii secundi historiae naturalis libri xxxvii*... pars quarta continens Rem Herbarium curante L. Desfontaines, vols. 5-7, see Plinius secundus, C., vols. 5-7, 1829-1830. See BM 1: 444.
 
 ### Publications
 

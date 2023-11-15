@@ -35,10 +35,10 @@ Backer p. 407; Barnhart 3: 27; BB p. 233; BJI 1: 43; BL 1: 21, 27, 63, 100, 244,
 
 #### Composite works
 
-(1) Editor of Hooker's*Icones plantarum plates 1926-2425*, vols. 20(2)-25(1), 1890-1895.
-(2) *Flora of Somali-land, in*F. L. James, The unknown horn of Africa p. 317-324, London 1888 (see Roth, E., Bot. Jahrb. 11 (Lit.): 29. 2 Apr 1889).
-(3) Co-editor, *The natural History Review*\[second series\], vols. 1-5, 1861-1865.
-(4) *Editor*and in part author of *Flora of tropical Africa*, vols. 1-3, 1868-1877; see below under no. 7055.
+- (1) Editor of Hooker's*Icones plantarum plates 1926-2425*, vols. 20(2)-25(1), 1890-1895.
+- (2) *Flora of Somali-land, in*F. L. James, The unknown horn of Africa p. 317-324, London 1888 (see Roth, E., Bot. Jahrb. 11 (Lit.): 29. 2 Apr 1889).
+- (3) Co-editor, *The natural History Review*\[second series\], vols. 1-5, 1861-1865.
+- (4) *Editor*and in part author of *Flora of tropical Africa*, vols. 1-3, 1868-1877; see below under no. 7055.
 
 #### Note
 

@@ -27,14 +27,14 @@ AG 2(1): 559, 5(1): 164; Backer p. 664; Barnhart 3: 497 (b. 13 Sep 1735, d. 21 J
 
 #### Composite works
 
-(1) With N.J. de Necker, *Willemetia* s.d. (between 1777 and 1780) see TL-2/6669. – A further copy is at BR, bound with Willemet's *Phytogr. écon. Lorraine* 1780.
-(2) With G.F. Hoffmann, *Util. lich.* 1787; see TL-2/2881, but there attributed by us erroneously to P.R. Willemet's son P.R.F. de P. Willemet. The *Lichénographique économique*, however, is by P.R. Willemet.
-(3) With Jean François Coste (1741-1819), *Essais botaniques, chimiques et pharmaceutiques *sur quelques plantes indigènes... Nancy 1778, p. \[i\*-ix\*\], \[i\]-x, \[1\]-120, chart. *Copies*: HU, UC. – Nouvelle édition Nancy 1793 (n.v.).
+- (1) With N.J. de Necker, *Willemetia* s.d. (between 1777 and 1780) see TL-2/6669. – A further copy is at BR, bound with Willemet's *Phytogr. écon. Lorraine* 1780.
+- (2) With G.F. Hoffmann, *Util. lich.* 1787; see TL-2/2881, but there attributed by us erroneously to P.R. Willemet's son P.R.F. de P. Willemet. The *Lichénographique économique*, however, is by P.R. Willemet.
+- (3) With Jean François Coste (1741-1819), *Essais botaniques, chimiques et pharmaceutiques *sur quelques plantes indigènes... Nancy 1778, p. \[i\*-ix\*\], \[i\]-x, \[1\]-120, chart. *Copies*: HU, UC. – Nouvelle édition Nancy 1793 (n.v.).
 
 #### Note
 
-(1) Maternal grandfather of Hubert Felix Soyer-Willemet (1791-1867), see TL-2/5: 765-766.
-(2) For the various genera called *Willemetia* see H.F. Soyer-Willemet, Ann. Sci. nat., Bot. ser. 2. 2: 127-128. 1824.
+- (1) Maternal grandfather of Hubert Felix Soyer-Willemet (1791-1867), see TL-2/5: 765-766.
+- (2) For the various genera called *Willemetia* see H.F. Soyer-Willemet, Ann. Sci. nat., Bot. ser. 2. 2: 127-128. 1824.
 
 #### Eponymy
 

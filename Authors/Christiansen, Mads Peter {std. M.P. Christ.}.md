@@ -22,8 +22,8 @@ IH 2: 126; Kew 1: 550; TL-2/4: 4178, 9548.
 
 #### Composite works
 
-(1) Collaborator with J.E. Lange, *Fl. agaric. danic.* 1935-1940, see TL-2/4178.
-(2) With Wiinstedt, K., *Taraxacum*..., *in* Raunkiaer, Dansk Ekskursions-Flora ed. 5: 302-318. 1934, see TL-2/8654.
+- (1) Collaborator with J.E. Lange, *Fl. agaric. danic.* 1935-1940, see TL-2/4178.
+- (2) With Wiinstedt, K., *Taraxacum*..., *in* Raunkiaer, Dansk Ekskursions-Flora ed. 5: 302-318. 1934, see TL-2/8654.
 
 #### Eponymy
 

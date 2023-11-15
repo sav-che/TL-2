@@ -8,7 +8,8 @@ Nolte, Ernst Ferdinand (1791-1875), German botanist; Dr. med. Göttingen 1817; i
 
 #### Herbarium and types
 
-[[Collection KIEL|KIEL]] (destroyed); in part also at [[Collection BM|BM]]; other material at [[Collection B|B]], [[Collection C|C]], [[Collection FI|FI]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection MW|MW]], [[Collection WRSL|WRSL]]. *Exsiccatae*: see Hansen, L., *Herbarium der Schleswig-Holstein-Lauenburgischen Flora*, 1823-1862, identifications by Nolte. – Manuscripts at [[Collection KIEL|KIEL]], see Prahl (1895). Further manuscripts and letters to e.g. Hornemann (213), Schouw (45), J. Vahl (12), J. Lange (3) are at [[Collection C|C]]. – Library dispersed.
+[[Collection KIEL|KIEL]] (destroyed); in part also at [[Collection BM|BM]]; other material at [[Collection B|B]], [[Collection C|C]], [[Collection FI|FI]], [[Collection HAL|HAL]], [[Collection KIEL|KIEL]], [[Collection MW|MW]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: see Hansen, L., *Herbarium der Schleswig-Holstein-Lauenburgischen Flora*, 1823-1862, identifications by Nolte. – Manuscripts at [[Collection KIEL|KIEL]], see Prahl (1895). Further manuscripts and letters to e.g. Hornemann (213), Schouw (45), J. Vahl (12), J. Lange (3) are at [[Collection C|C]]. – Library dispersed.
 
 #### Bibliography and biography
 

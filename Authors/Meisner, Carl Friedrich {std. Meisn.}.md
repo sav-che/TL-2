@@ -42,26 +42,26 @@ ADB 21: 246-248; Barnhart 2: 472; BM 3: 1281; Bossert p. 263; CSP 4: 325-326; 6:
 
 #### Composite works
 
-(1)Martius, *Fl. bras.*
+- (1) Martius, *Fl. bras.*
 (a) *Polygonaceae*, 5(1): 1-60, *pl. 1-27* (fasc. 14): 1 Jan 1855.
 (b) *Thymelaeaceae*, 5(1): 61-72, *pl. 28-30* (fasc. 14): 1 Jan 1855.
 (c) *Proteaceae*, 5(1): 73-100, *pl. 31-36* (fasc. 14): 1 Jan 1855.
 (d) *Êricaeae*, 7: 119-174, *pl. 48-66* (fasc. 35): 10 Jul 1863.
 (e) *Lauraceae*et *Hemandiaceae*, 5(2): 137-302, 309-310, *pl. 45-107* (fasc. 41): 15 Mai 1866.
 (f) *Convolvulaceae*, 7: 199-362, *pl. 72-124* (fasc. 48): 1 Aug 1869 and 7: 363-370 (fasc. 52): 1 Mar 1871.
-(2) DC., *Prodr*.:
+- (2) DC., *Prodr*.:
 (a) *Hemandiaceae*, 15(1): 261-265. early Mai 1864.
 (b) *Lauraceae*, 15(1): 1-260, 503-516, early Mai 1864.
 (c) *Polygonaceae*, 14: 1-185 \[see also 693-695\], med. Oct 1856.
 (d) *Proteaceae*, 14: 209-482 \[see also 698-700\], med. Oct 1856.
 (e) *Thymelaeaceae*, 14: 493-605, 700. late Nov 1857.
-(3) *Warming*, E., *Symb. fl. bras.*
+- (3) *Warming*, E., *Symb. fl. bras.*
 (a) *Polygonaceae*, 6: 125-129. Aug 1870.
 (b) *Lauraceae*, 6: 129-146. Aug 1870.
 (c) *Ericaceae*, 11: 85-87. 24 Apr 1873.
 (d) *Convolvulaceae* (co-author), 9: 316-318. 10 Apr 1871, 28: 271-276. 10 Mai 1883.
-(4) A. P. de Candolle. *Organographie der Gewächse*, 1828, translated by M.
-(5) J. G. C. Lehmann, *Plantae Preissianae*, several treatments, see TL-2/2: 4332 (Legum 1: 3-95, Proteac. 1: 491-601, Thymel. 1: 601-607, Polygon. 1: 623-624).
+- (4) A. P. de Candolle. *Organographie der Gewächse*, 1828, translated by M.
+- (5) J. G. C. Lehmann, *Plantae Preissianae*, several treatments, see TL-2/2: 4332 (Legum 1: 3-95, Proteac. 1: 491-601, Thymel. 1: 601-607, Polygon. 1: 623-624).
 
 #### Handwriting and types
 

@@ -21,6 +21,6 @@ Barnhart 2: 516; CSP 17: 364; Hortus 3: 1200 ("Morris, E."); IH 2: 559; Langman 
 
 #### Composite works
 
-(1) Editor, *Bull. Torrey bot. Club*vol. 40, Jan-Dec 1913.
-(2) *Plantaginaceae, in*J. K. Small, Fl. Southeast. U. S., 22 Jul 1903.
+- (1) Editor, *Bull. Torrey bot. Club*vol. 40, Jan-Dec 1913.
+- (2) *Plantaginaceae, in*J. K. Small, Fl. Southeast. U. S., 22 Jul 1903.
 

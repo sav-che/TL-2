@@ -8,7 +8,8 @@ Zopf, \[Friedrich\] Wilhelm (1846-1909), German (Prussian) botanist; educated as
 
 #### Herbarium and types
 
-[[Collection B|B]] (herb., exsicc, sample collection). Further material in [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection PAV|PAV]], [[Collection TUR|TUR]]-V. – See Huneck et al (1973) for the Zopf material at [[Collection B|B]] (extant); a set of original samples used by Zopf for his chemical research sent to [[Collection B|B]] before 1939, still in perfect condition. In addition [[Collection B|B]] has also a separate lichen herbarium made by Zopf. *Exsiccatae*: Zopf contributed to P. Sydow, *Mycotheca marchica* (see Sydow), and to V. Wittrock & O. Nordstedt, *Algue aqua dulcis*, see under Wittrock.
+[[Collection B|B]] (herb., exsicc, sample collection). Further material in [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection PAV|PAV]], [[Collection TUR|TUR]]-V. – See Huneck et al (1973) for the Zopf material at [[Collection B|B]] (extant); a set of original samples used by Zopf for his chemical research sent to [[Collection B|B]] before 1939, still in perfect condition. In addition [[Collection B|B]] has also a separate lichen herbarium made by Zopf.
+*Exsiccatae*: Zopf contributed to P. Sydow, *Mycotheca marchica* (see Sydow), and to V. Wittrock & O. Nordstedt, *Algue aqua dulcis*, see under Wittrock.
 
 #### Bibliography and biography
 

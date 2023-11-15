@@ -26,8 +26,8 @@ Svcnsk botanisk Tidskrift 58(1), 1964 (portr.).
 
 #### Composite works
 
-(1) *Campanulaceae, in* H. Smith, *Plantae sinenses*, Act. hort. Gothob. 5: 13-32, *pl. 3-14.* 1929.
-(2) *Campanulaceae, in* H. Handel-Mazzetti, Symb. sin. 7: 1067-1081. 1936.
+- (1) *Campanulaceae, in* H. Smith, *Plantae sinenses*, Act. hort. Gothob. 5: 13-32, *pl. 3-14.* 1929.
+- (2) *Campanulaceae, in* H. Handel-Mazzetti, Symb. sin. 7: 1067-1081. 1936.
 
 #### Eponymy
 

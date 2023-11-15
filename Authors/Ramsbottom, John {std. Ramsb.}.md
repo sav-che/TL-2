@@ -30,8 +30,8 @@ Ainsworth p. 346 \[index\]; Barnhart 3: 126; BM 8: 1047; Bossert p. 323; Desmond
 
 #### Composite works
 
-(1) *Fungi pathogenic to man*, in vol. 8 of *A system of bacteriology in relation to medicine*, London 1931, p. 11-46, 58-70. 1931. (See also J. Bot. 70: 32. Jan 1932).
-(2) With T.A. Sprague, A. J. Willmott and E.M. Wakefield, *Proposals by the sub-committee on nomenclature*, appointed by the Imperial botanical Conference, London 1924, in T.A. Sprague, ed., International Botanical Congress Cambridge (England), 1930.
+- (1) *Fungi pathogenic to man*, in vol. 8 of *A system of bacteriology in relation to medicine*, London 1931, p. 11-46, 58-70. 1931. (See also J. Bot. 70: 32. Jan 1932).
+- (2) With T.A. Sprague, A. J. Willmott and E.M. Wakefield, *Proposals by the sub-committee on nomenclature*, appointed by the Imperial botanical Conference, London 1924, in T.A. Sprague, ed., International Botanical Congress Cambridge (England), 1930.
 *Nomenclature proposals by British botanists*. London Aug 1929, p. 7-45, see also J. Bot. 67: 336-339. Dec 1929.
 
 #### Festschrift

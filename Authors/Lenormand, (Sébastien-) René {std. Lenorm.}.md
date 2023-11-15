@@ -8,7 +8,8 @@ Lenormand, \[Sébastien-\] René (1796-1871), French botanist in Normandy; admit
 
 #### Herbarium and types
 
-[[Collection CN|CN]] and [[Collection L|L]] (see Koster 1936), duplicates in many herbaria, see IH. Exsiccatae: *Thalassophytes de France*, ser. 1, nos. 1-100, ser. 2, nos. 1-100, Vire 1847.
+[[Collection CN|CN]] and [[Collection L|L]] (see Koster 1936), duplicates in many herbaria, see IH.
+*Exsiccatae*: *Thalassophytes de France*, ser. 1, nos. 1-100, ser. 2, nos. 1-100, Vire 1847.
 *Ref*.: Koster, J. T., Blumea 2(3): 231, 232-233. 1936; Taxon 18: 555. 1969.
 - Sayre, G., Mem. New York Bot. Gard. 19(1):85. 1969, 19(3): 357-358. 1975.
 

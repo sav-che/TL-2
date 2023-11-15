@@ -26,10 +26,10 @@ Barnhart 3: 204; Bossert p. 346; Desmond p. 539 (b. 5 Feb 1883, d. 30 Mar 1969);
 
 #### Composite works
 
-(1) Salter's *The genus Oxalis in South Africa*, a taxonomic revision. Cape Town, Nov 1944, 355 p., was issued as J.S. Afr. Bot. suppl. vol. 1 (rev. M.R. Levyns, J.S. Afr. Bot. 11: 91-93. 1945), errata in J.S. Afr. Bot. 23(3): 103-104. 1957.
-(2) Contributed Ericaceae, Leguminosae, Proteaceae, Geraniaceae and Oxalidaceae to Adamson & Salter, *Flora of the Cape Peninsula*. 1950.
-(3) M.M. Kidd, *Wild flowers of the Cape Peninsula*... with text and nomenclature compiled under the supervision of... T.M. Salter,... 1950.
-(4) *Journal of South African Botany, Index* to vols. 1-15, 1935-1949, compiled by T.M. Salter.
+- (1) Salter's *The genus Oxalis in South Africa*, a taxonomic revision. Cape Town, Nov 1944, 355 p., was issued as J.S. Afr. Bot. suppl. vol. 1 (rev. M.R. Levyns, J.S. Afr. Bot. 11: 91-93. 1945), errata in J.S. Afr. Bot. 23(3): 103-104. 1957.
+- (2) Contributed Ericaceae, Leguminosae, Proteaceae, Geraniaceae and Oxalidaceae to Adamson & Salter, *Flora of the Cape Peninsula*. 1950.
+- (3) M.M. Kidd, *Wild flowers of the Cape Peninsula*... with text and nomenclature compiled under the supervision of... T.M. Salter,... 1950.
+- (4) *Journal of South African Botany, Index* to vols. 1-15, 1935-1949, compiled by T.M. Salter.
 
 #### Eponymy
 

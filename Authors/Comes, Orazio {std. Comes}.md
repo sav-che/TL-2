@@ -22,8 +22,8 @@ AG 4: 18; Backer p. 661; Barnhart 1: 370 (b. 11 Nov 1848, Monopoli, Bari, d. 192
 
 #### Composite works
 
-(1) *Reliquie micologiche Notarisiane*, Napoli 1883, 72 p. – Addition to De Notaris, Micromyc. ital. novi 1839-1855, see TL-2/1: 623 (no. 1572). – *Rev*. by Penzig, Bot. Centralbl. 18(24): 341-342. 9-13 Jun 1884.
-(2) *Crittogamia agraria*, Napoli 1891, Qu., 600 p., *17 pl*., *in* Palmeri, P. & M. Pepe, La Scienza e la pratica dell' Agricoltura 2(2), Napoli 1891. Qu. – Copy at BM (see BM 1: 370), Bot. Zeit. 31 Jul 1891.
+- (1) *Reliquie micologiche Notarisiane*, Napoli 1883, 72 p. – Addition to De Notaris, Micromyc. ital. novi 1839-1855, see TL-2/1: 623 (no. 1572). – *Rev*. by Penzig, Bot. Centralbl. 18(24): 341-342. 9-13 Jun 1884.
+- (2) *Crittogamia agraria*, Napoli 1891, Qu., 600 p., *17 pl*., *in* Palmeri, P. & M. Pepe, La Scienza e la pratica dell' Agricoltura 2(2), Napoli 1891. Qu. – Copy at BM (see BM 1: 370), Bot. Zeit. 31 Jul 1891.
 
 ### Publications
 

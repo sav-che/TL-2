@@ -10,7 +10,8 @@ Eaton, Daniel Cady (1834-1895), American botanist at Yale University, grandson o
 
 #### Herbarium and types
 
-[[Collection YU|YU]], algae at [[Collection F|F]]; types of names based on Fendler specimens at [[Collection GH|GH]], *Isoetes* types at [[Collection FWM|FWM]]. – Exsiccatae:
+[[Collection YU|YU]], algae at [[Collection F|F]]; types of names based on Fendler specimens at [[Collection GH|GH]], *Isoetes* types at [[Collection FWM|FWM]].
+*Exsiccatae*:
 1. (with Edwin Faxon, 1823-1898) *Sphagna boreali-americana exsiccata* (nos. 1-172, New Haven, Conn. 1896), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection LD|LD]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]].
 2. *Musci orientali-americani* (1893-1894, not a true series of exsiccatae, handwritten data, no serial numbers), sets at [[Collection B|B]], [[Collection FH|FH]], [[Collection L|L]], [[Collection MASS|MASS]], [[Collection NY|NY]].
 3. *Filices boreali-americani*, sets marked as such at [[Collection B|B]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection K|K]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection YU|YU]], [[Collection US|US]]. *Note*: Edwin Faxon also issued (around 1890) a series of *North American Sphagna*. For its connection with Eaton and Faxon's *Sphagna* see Sayre p. 198. Eaton was associated with W. G. Farlow and C. L. Anderson in distributing *Algae Americae-borealis exsiccatae*, fasc. 1-5, 1877-1899 (see sub Farlow).

@@ -22,9 +22,9 @@ APN p. 199; Barnhart 1: 537; BM 2: 568, 6: 322; Bossert p. 125; CSP 12: 236, 14:
 
 #### Composite works
 
-(1) Co-authored with A. Mougeot, *Fl. Vosges, Champ.*... 1886, see TL-2/3, nr. 6371, which was part of vol. 2 of *Le département des Vosges: descriptions, histoire, statistique*... Epinal (Impr. de E. Busy), 1887-1889, 7 vols.
-(2) "Les *champignons fossiles*..." (Rev. Mycol. (Toulouse) \[Apr 1893\]: 54-56) by Ferry was transl. as "*Fossil fungi*" by Joseph Francis James (1857-1897) and published "with remarks" in the J. Cincinnati Soc. Nat. Hist. 16(2-3): 94-98. 17 Oct 1893.
-(3) Edited *Revue Mycologique* (Toulouse) from 1895 following the death of his predecessor C. Roumeguère (29 Feb 1892) until Ferry decided he was unable to continue the task in 1906, which spelled the demise of that periodical.
+- (1) Co-authored with A. Mougeot, *Fl. Vosges, Champ.*... 1886, see TL-2/3, nr. 6371, which was part of vol. 2 of *Le département des Vosges: descriptions, histoire, statistique*... Epinal (Impr. de E. Busy), 1887-1889, 7 vols.
+- (2) "Les *champignons fossiles*..." (Rev. Mycol. (Toulouse) \[Apr 1893\]: 54-56) by Ferry was transl. as "*Fossil fungi*" by Joseph Francis James (1857-1897) and published "with remarks" in the J. Cincinnati Soc. Nat. Hist. 16(2-3): 94-98. 17 Oct 1893.
+- (3) Edited *Revue Mycologique* (Toulouse) from 1895 following the death of his predecessor C. Roumeguère (29 Feb 1892) until Ferry decided he was unable to continue the task in 1906, which spelled the demise of that periodical.
 
 ### Publications
 

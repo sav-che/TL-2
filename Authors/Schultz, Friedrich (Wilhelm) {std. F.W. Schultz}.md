@@ -8,8 +8,9 @@ Schultz, Friedrich \[Wilhelm\] (1804-1876), German (Rhenisch-Palatinate) pharmac
 
 #### Herbarium and types
 
-Unknown. – *Exsiccatae*:
-(1) *Flora Galliae et Germaniae exsiccata* (see below TL-2/11.292, cent. 1-16, 1836-1852. Sets at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection G|G]], [[Collection HAL|HAL]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]] (lich.), [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection P|P]]. – For an analysis of this series see Sayre (1969). For accompanying texts see below *Fl. Gall. Germ. exs.* (1836-1840), *Arch. fl. France Allem.* (1842-1855).
+Unknown.
+*Exsiccatae*:
+- (1) *Flora Galliae et Germaniae exsiccata* (see below TL-2/11.292, cent. 1-16, 1836-1852. Sets at [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection G|G]], [[Collection HAL|HAL]], [[Collection LE|LE]], [[Collection LZ|LZ]] (destr.), [[Collection M|M]] (lich.), [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection P|P]]. – For an analysis of this series see Sayre (1969). For accompanying texts see below *Fl. Gall. Germ. exs.* (1836-1840), *Arch. fl. France Allem.* (1842-1855).
 (a) *Original set*: *Flora Galliae et Germaniae exsiccata*. Herbier des plantes rares et critiques de la France et de l'Allemagne, recueillis par la Société de la Flore de France et d'Allemagne, publié par le docteur F. Schultz. Cent. 1-16, nos. 1-1600, Bitsch 1836-1852.
 *1-4*: described below under TL-2/11.292.
 *5-16*: published with descriptive text in *Arch. fl. France Allem.* as follows:
@@ -34,17 +35,17 @@ Unknown. – *Exsiccatae*:
 *34-35*: nos. 3301-3500. Mai 1864, text in *Billotia* p. 5-10.
 *36-37*: nos. 3501-3700. Mar 1866, text ib. 52-57.
 *38-40*: nos. 3701-4000. Mai 1869, text ib. p. 101-108.
-(2) *Herbarium normale*. Herbier des plantes nouvelles peu connues et rares d'Europe principalement de France et d'Allemagne publié par F. Schultz, Wissembourg, Deidesheim 1856-1869. For extensive details see G. Sayre, Mem. New York Bot. Gard. 19(1): 46-47. 1969. The accompanying text was published in [[Collection F|F]].W. Schultz, *Arch. Fl.* Dec 1854-Jun 1869. Sayre mentions a special catalogue of cent. 1-12, published separately 1869.
+- (2) *Herbarium normale*. Herbier des plantes nouvelles peu connues et rares d'Europe principalement de France et d'Allemagne publié par F. Schultz, Wissembourg, Deidesheim 1856-1869. For extensive details see G. Sayre, Mem. New York Bot. Gard. 19(1): 46-47. 1969. The accompanying text was published in [[Collection F|F]].W. Schultz, *Arch. Fl.* Dec 1854-Jun 1869. Sayre mentions a special catalogue of cent. 1-12, published separately 1869.
 *1-2*: nos. 1-200. 15 Aug 1856, text *Arch. fl.* 218-223.
 *3-4*: nos. 201-400. Dec 1858, text p. 263-267.
 *5-6*: nos. 401-600. Apr 1861, text p. 293-296.
 *7-8*: nos. 601-800. Mar 1864, text p. 327-330.
 *9-10*: nos. 801-1000. Jun 1866, text p. 346-350.
 *11-12*: nos. 1001-1200. Mai 1869, text p. 366-370.
-(3) *Herbarium normale ser. 2*: Herbier des plantes nouvelles peu connues et rares d'Europe principalement de France er d'Allemagne. Publié par F. Schultz et F. Winter. Phanérogamie cent. 1 et 2; cryptogamie cent. 1; Herbarium normale de F. Schultz, suppl. 1, Weissenburg en Alsace 1872, \[ser. 3\] cent. 1-2 in 1874. – Accompanying text: *Archives de la flore d'Europe*. Recueil botanique rédigé par le Dr. F. Schultz. Weissenburg en Alsace 1872, 1874, p. 1-32. See below.
-(4) *Continuation Herb. norm. by K. Keck*, new series, cent. 1-28, 1878-1892, nos. 1-2800, see under Karl Keck (TL-2/2: 512); Anon., Flora 62: 496. 1879; Bot. Zeit. 37: 579. 1879 (continuation started).
-(5) *Continuation by K. Koch*, (cent. 28-30) *and I. Dörfler* (cent. 31-58), nos. 2701-3000 and 3001-4800, see TL-2/1: 666.
-(6) *Herbarium normale, sets* (partial or complete): [[Collection A|A]], [[Collection AAU|AAU]], [[Collection AUT|AUT]], [[Collection B|B]] (destr.), [[Collection BHU|BHU]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection FR|FR]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HEID|HEID]], [[Collection JE|JE]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LIVU|LIVU]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PR|PR]], [[Collection S|S]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WB|WB]], [[Collection WRSL|WRSL]].
+- (3) *Herbarium normale ser. 2*: Herbier des plantes nouvelles peu connues et rares d'Europe principalement de France er d'Allemagne. Publié par F. Schultz et F. Winter. Phanérogamie cent. 1 et 2; cryptogamie cent. 1; Herbarium normale de F. Schultz, suppl. 1, Weissenburg en Alsace 1872, \[ser. 3\] cent. 1-2 in 1874. – Accompanying text: *Archives de la flore d'Europe*. Recueil botanique rédigé par le Dr. F. Schultz. Weissenburg en Alsace 1872, 1874, p. 1-32. See below.
+- (4) *Continuation Herb. norm. by K. Keck*, new series, cent. 1-28, 1878-1892, nos. 1-2800, see under Karl Keck (TL-2/2: 512); Anon., Flora 62: 496. 1879; Bot. Zeit. 37: 579. 1879 (continuation started).
+- (5) *Continuation by K. Koch*, (cent. 28-30) *and I. Dörfler* (cent. 31-58), nos. 2701-3000 and 3001-4800, see TL-2/1: 666.
+- (6) *Herbarium normale, sets* (partial or complete): [[Collection A|A]], [[Collection AAU|AAU]], [[Collection AUT|AUT]], [[Collection B|B]] (destr.), [[Collection BHU|BHU]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection FR|FR]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HEID|HEID]], [[Collection JE|JE]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LIVU|LIVU]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PR|PR]], [[Collection S|S]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WB|WB]], [[Collection WRSL|WRSL]].
 *Correspondence* with D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
@@ -69,14 +70,14 @@ ADB 32: 706-707; AG 6(1): 352 (extensive inf.); Barnhart 3: 244 (b. 3 Jan 1804, 
 - Spilger, L., Mitt. Pollichia ser. 2. 10: 139. 1942 (letters rd by F.W.S.).
 - Wagenitz, G., Index coll. princ. herb. Gott. 152. 1982.
 
-#### Note (1)
+#### Note
 
-Schultz notices in Pollichia 15: 97. 1857, that in various publications he is referred to as F., F.W., F.G. (Fréd. Guill.) and Fr. Schultz, as if these were four different persons. "Ich heisse Friedrich Wilhelm (Fr. Guil.), schreibe aber nur F. Schultz".
-(2): When Schultz moved from Bitsch to Weissenburg the waggon carrying the boxes with his herbarium, and especially the material for future issues of the *Fl. Gall. Germ.* *exsicc*., met with an accident with led to the loss of the material through water damage. According to Lauterborn (1906) this led to the abandoning of the first series of exsiccatae, which, at Weissenburg, was replaced by the simpler *Herbarium normale*, bringing material from all over Europe.
+- (1) Schultz notices in Pollichia 15: 97. 1857, that in various publications he is referred to as F., F.W., F.G. (Fréd. Guill.) and Fr. Schultz, as if these were four different persons. "Ich heisse Friedrich Wilhelm (Fr. Guil.), schreibe aber nur F. Schultz".
+- (2) When Schultz moved from Bitsch to Weissenburg the waggon carrying the boxes with his herbarium, and especially the material for future issues of the *Fl. Gall. Germ.* *exsicc*., met with an accident with led to the loss of the material through water damage. According to Lauterborn (1906) this led to the abandoning of the first series of exsiccatae, which, at Weissenburg, was replaced by the simpler *Herbarium normale*, bringing material from all over Europe.
 
 #### Composite works
 
-(1) With C.H. Schultz-Bip., *Comm. bot.* 1859.
+- (1) With C.H. Schultz-Bip., *Comm. bot.* 1859.
 
 #### Handwriting
 

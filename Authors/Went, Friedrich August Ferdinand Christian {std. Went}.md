@@ -37,11 +37,11 @@ Ainsworth p. 289; Backer p. 623-624; Barnhart 3: 477 (b. 18 Jun 1863, d. 25 Jul 
 
 #### Composite works
 
-(1) *Triuridaceae* and *Polygalaceae 1, in* C.E.A. Wigmann, ed., Nova Guinea 8(1): 165-167, *pl. 47.* 169. 1909.
-(2) Contributed to S.P. Kostychev, *Lehrbuch der Pflanzenphysiologie*, Berlin 1931.
-(3) With J.H. Wakker, *Ziekten suikerriet* 1898.
-(4) Co-editor, *De Indische Mercuur* 1916-1935.
-(5) Co-editor, *Recueil des Travaux botaniques néerlandais*. 1-31(1-2), 1904-1934.
+- (1) *Triuridaceae* and *Polygalaceae 1, in* C.E.A. Wigmann, ed., Nova Guinea 8(1): 165-167, *pl. 47.* 169. 1909.
+- (2) Contributed to S.P. Kostychev, *Lehrbuch der Pflanzenphysiologie*, Berlin 1931.
+- (3) With J.H. Wakker, *Ziekten suikerriet* 1898.
+- (4) Co-editor, *De Indische Mercuur* 1916-1935.
+- (5) Co-editor, *Recueil des Travaux botaniques néerlandais*. 1-31(1-2), 1904-1934.
 
 #### Note
 

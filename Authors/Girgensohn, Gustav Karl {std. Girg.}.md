@@ -8,7 +8,8 @@ Girgensohn, Gustav Karl (*fl*. 1856), Estonian bryologist, "Hofrath" in Dorpat.
 
 #### Herbarium and types[^1]
 
-Unknown, possibly at Dorpat. – Exsiccatae: *Musci frondosi et hepaticae exsiccatae. Laub- und Lebermoose der Russischen Ostsee-Provinzen in getrockneten Exemplaren* (Fasc, i-v, nos. 1-250, Dorpat 1849-1856). No set known.
+Unknown, possibly at Dorpat.
+*Exsiccatae*: *Musci frondosi et hepaticae exsiccatae. Laub- und Lebermoose der Russischen Ostsee-Provinzen in getrockneten Exemplaren* (Fasc, i-v, nos. 1-250, Dorpat 1849-1856). No set known.
 *Ref*.: Sayre, Mem. New York Bot. Gard. 19(2): 204. 1971.
 
 #### Bibliography and biography

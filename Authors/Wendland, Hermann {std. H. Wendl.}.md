@@ -28,9 +28,9 @@ Barnhart 3: 476 (b. 11 Oct 1825, d. 12 Jan 1903); BM 5: 2292; Bossert p. 431; CS
 
 #### Composite works
 
-(1) With G. Mann: *On the palms of Western Tropical Africa*. Trans. Linn. Soc. 24: 421-439, *pl. 38-43.* 8 Nov 1864, see TL-2/3: 277-278.
-(2) With O. Drude, *Ueber Grisebachia* ein neues Palmengenus aus der Gruppe der Arecinen, Nachtr. Kön. Ges. Wiss. Georg-Augusts-Univ. 1875: 54-60.
-(3) *Palmae, in* B. Seemann, *Fl. vit.* 1865-1873, TL-2/11.613.
+- (1) With G. Mann: *On the palms of Western Tropical Africa*. Trans. Linn. Soc. 24: 421-439, *pl. 38-43.* 8 Nov 1864, see TL-2/3: 277-278.
+- (2) With O. Drude, *Ueber Grisebachia* ein neues Palmengenus aus der Gruppe der Arecinen, Nachtr. Kön. Ges. Wiss. Georg-Augusts-Univ. 1875: 54-60.
+- (3) *Palmae, in* B. Seemann, *Fl. vit.* 1865-1873, TL-2/11.613.
 
 #### Handwriting
 

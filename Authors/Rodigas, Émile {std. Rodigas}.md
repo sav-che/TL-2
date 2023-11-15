@@ -24,8 +24,8 @@ Barnhart 3: 167 (b. 2 Apr 1831, d. 14 Nov 1902); BM 4: 1716; CSP 8: 767, 18: 252
 
 #### Composite works
 
-(1) Editor (as "secrétaire de la rédaction" later as "rédacteur") of Lucien Linden's *L'illustration horticole* vols. 29-43, 1882-1896.
-(2) Co-editor, with Charles Lucien Linden, of *Lindenia*, vols. 1-11, 1885-1895, see TL-2/4628.
+- (1) Editor (as "secrétaire de la rédaction" later as "rédacteur") of Lucien Linden's *L'illustration horticole* vols. 29-43, 1882-1896.
+- (2) Co-editor, with Charles Lucien Linden, of *Lindenia*, vols. 1-11, 1885-1895, see TL-2/4628.
 
 #### Note
 

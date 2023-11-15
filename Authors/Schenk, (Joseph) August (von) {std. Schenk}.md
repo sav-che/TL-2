@@ -34,13 +34,13 @@ ADB 53: 749-751 (E. Wunschmann); AG 12(2): 14; Andrews p. 327; Barnhart 3: 226 (
 
 #### Composite works
 
-(1) *Alstroemerieae*, in *FL bras*. 3(1): 165-180, *pl. 20-21.* 15 Sep 1855 (fasc. 15), review by A.E. Fürnrohr, Flora 39: 215-218. 1856.
-(2) Editor of J.L. Schoenlein, *Abbild. foss. Pfl. Keuper* 1865. – TL-2/11.004.
+- (1) *Alstroemerieae*, in *FL bras*. 3(1): 165-180, *pl. 20-21.* 15 Sep 1855 (fasc. 15), review by A.E. Fürnrohr, Flora 39: 215-218. 1856.
+- (2) Editor of J.L. Schoenlein, *Abbild. foss. Pfl. Keuper* 1865. – TL-2/11.004.
 
 #### Thesis
 
-(1) *Diagnoses molluscorum terrestrium et fluviatilium circa Monachium indigenarum*, München 1837.
-(2) *Plantarum species Schubert*, München 1840 (see below).
+- (1) *Diagnoses molluscorum terrestrium et fluviatilium circa Monachium indigenarum*, München 1837.
+- (2) *Plantarum species Schubert*, München 1840 (see below).
 
 #### Eponymy
 
@@ -156,9 +156,9 @@ See also: *Zur Flora der nordwestdeutschen Wealdenformation*, Palaeontographica 
 **Notes**
 *Co-editor*: Christian Luerssen (1843-1916).
 1: 1871-1874, in 3 parts.
-(1): p. \[1\]-144, *pl. 1-10.* 1871 (Flora rev. 14 Oct 1871, d. BZ 10 Nov 1871).
-(2): p. 145-312, *pl. 11-19.* 1871 (ÖbZ 1 Mar 1872; Bot. Zeit. 9 Feb 1872, Flora 1 Jan 1872, mit 9 Tafeln 1871).
-(3): p. \[i\]-viii, 313-485, *pl. 20-25.* 1873-1874, itself in 3 parts: 313-344 by Aug 1873; 345-415 by Aug 1873, 416-485 by Apr 1874 (fide BSbF).
+- (1): p. \[1\]-144, *pl. 1-10.* 1871 (Flora rev. 14 Oct 1871, d. BZ 10 Nov 1871).
+- (2): p. 145-312, *pl. 11-19.* 1871 (ÖbZ 1 Mar 1872; Bot. Zeit. 9 Feb 1872, Flora 1 Jan 1872, mit 9 Tafeln 1871).
+- (3): p. \[i\]-viii, 313-485, *pl. 20-25.* 1873-1874, itself in 3 parts: 313-344 by Aug 1873; 345-415 by Aug 1873, 416-485 by Apr 1874 (fide BSbF).
 2(1): 1875 (Bot. Zeit. 29 Jan 1875), p. \[i-iii\], \[1\]-203, \[204\], *pl. 1-12.*
 *Copies*: NY, PH.
 

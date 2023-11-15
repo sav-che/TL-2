@@ -47,15 +47,15 @@ ADB 34: 619-621 (E. Wunschmann); AG 1: 275; Backer p. 661; Barnhart 3: 303 (b. 1
 
 #### Composite works
 
-(1) With W.H. Harvey, *Fl. cap.* vols. 1-3, 1860-1865, co-editor and author of many family treatments for which see TL-2/2448 and Bullock 1978.
-(2) Co-editor, J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, TL-2/4332.
-(3) *Algae, in* O. Kersten, C.C. von der Decken, Reisen Ost-Afrika 3(3): \[3\], \[79\]-85. 1879.
+- (1) With W.H. Harvey, *Fl. cap.* vols. 1-3, 1860-1865, co-editor and author of many family treatments for which see TL-2/2448 and Bullock 1978.
+- (2) Co-editor, J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, TL-2/4332.
+- (3) *Algae, in* O. Kersten, C.C. von der Decken, Reisen Ost-Afrika 3(3): \[3\], \[79\]-85. 1879.
 
 #### Note
 
 Sonder acquired the first set of the South African collections of C.F. Ecklon and C. Zeyher, including the unicates. This set is now at S. Apart from his contributions to the *Flora capensis* Sonder published papers based on these collections in Linnaea:
-(1) *Enumeratio orchidearum* quas in Africa australi extratropica collegerunt C.F. Ecklon, Dr., et C. Zeyher, Linnaea 19(1): 71-112. 14-16 Jan 1846.
-(2) *Beiträge zur Flora von Südafrica*, Linnaea 23(1): 1-138. Feb 1850 (also issued separately, p. \[1\]-138. *Copy*: MO).
+- (1) *Enumeratio orchidearum* quas in Africa australi extratropica collegerunt C.F. Ecklon, Dr., et C. Zeyher, Linnaea 19(1): 71-112. 14-16 Jan 1846.
+- (2) *Beiträge zur Flora von Südafrica*, Linnaea 23(1): 1-138. Feb 1850 (also issued separately, p. \[1\]-138. *Copy*: MO).
 
 #### Handwriting
 

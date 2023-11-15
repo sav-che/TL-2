@@ -30,15 +30,15 @@ ADB 6: 71; AG 5(2): 502, 12(2): 581; APN p. 219; Barnhart 2: 29; BM 2: 638-639, 
 
 #### Composite works
 
-(1) Contributed to W.C.H. Peters, *Naturw. Reise Mossambique*... \[1861-\]1862-1864 (TL-2/4, nr. 7759).
-(2) Co-author with J.F. Klotzsch, *Bot. Ergebn. Reise Waldemar*... 1862 (TL-2/2, nr. 3746).
-(3) Collaborator with G. Schweinfurth, *Beitr. Fl. Aethiop.*... 1867 (TL-2/5, nr. 11.459).
-(4) Nachtr. (Jul 1872) for P. Rohrbach, *Morph. Silene*... 1869 (TL-2/4, nr. 9458).
-(5) Provided identifications for G. Rohlfs, *Quer d. Afrika*... 1874-1875 (TL-2/4, nr. 9454).
-(6) Edited O.C. Berg, *Pharmakognosie des Pflanzen- und Thierreichs*... ed. 5, 1879.
-(7) Co-author with F. Buchenau of Malvaceae (Part 3: 198-200. 1881, 8: 200. 1889) and Büttneriaceae (Part 3: 200, 1881, 8: 200. 1889) in F. Buchenau, *Reliquiæ Rutenbergianæ* ..., see TL-2/4: 1008 and Suppl. 3, nr. 23.498.
-(8) One of numerous authors with P. Ascherson, *Prop. Lois nom. bot.*... \[1892\] (TL-2/ Suppl. 1, nr. 19.614).
-(9) One of numerous authors with A. Engler, *Nomenclaturregeln Berlin*... 1897) (TL-2/ Suppl. 6, nr. 33.035).
+- (1) Contributed to W.C.H. Peters, *Naturw. Reise Mossambique*... \[1861-\]1862-1864 (TL-2/4, nr. 7759).
+- (2) Co-author with J.F. Klotzsch, *Bot. Ergebn. Reise Waldemar*... 1862 (TL-2/2, nr. 3746).
+- (3) Collaborator with G. Schweinfurth, *Beitr. Fl. Aethiop.*... 1867 (TL-2/5, nr. 11.459).
+- (4) Nachtr. (Jul 1872) for P. Rohrbach, *Morph. Silene*... 1869 (TL-2/4, nr. 9458).
+- (5) Provided identifications for G. Rohlfs, *Quer d. Afrika*... 1874-1875 (TL-2/4, nr. 9454).
+- (6) Edited O.C. Berg, *Pharmakognosie des Pflanzen- und Thierreichs*... ed. 5, 1879.
+- (7) Co-author with F. Buchenau of Malvaceae (Part 3: 198-200. 1881, 8: 200. 1889) and Büttneriaceae (Part 3: 200, 1881, 8: 200. 1889) in F. Buchenau, *Reliquiæ Rutenbergianæ* ..., see TL-2/4: 1008 and Suppl. 3, nr. 23.498.
+- (8) One of numerous authors with P. Ascherson, *Prop. Lois nom. bot.*... \[1892\] (TL-2/ Suppl. 1, nr. 19.614).
+- (9) One of numerous authors with A. Engler, *Nomenclaturregeln Berlin*... 1897) (TL-2/ Suppl. 6, nr. 33.035).
 
 ### Publications
 

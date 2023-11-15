@@ -31,15 +31,15 @@ APN p. 223; Backer p. 651; Barnhart 2: 39; BL 1: 47, 68, 92, 121; BM 2: 660, 6: 
 
 #### Composite works
 
-(1) Contributed to J. Britten, *Pl. Milanji*... 1894 (TL-2/Suppl. 3, nr.
+- (1) Contributed to J. Britten, *Pl. Milanji*... 1894 (TL-2/Suppl. 3, nr.
 22.972).
-(2) Edited R. Spruce's posthumously published *Hepaticae Elliottianae*... \[1895\] (TL-2/5, nr. 12.718).
-(3) "Apetalae, Monocotyledones & Gymnosperms" *in* C.W. Andrew, *Monogr. Christm. Isl.* ... 1900 (TL-2/Suppl. 1, nr. 19.275).
-(4) "Musci" (p. 319) *in* \[Sir Edwin Ray Lankaster (1847-1929)\], *Report* on the *collections* of natural history made in the *Antarctic regions* during the *voyage* of the "*Southern Cross*"... 1902. – *Note*: The editorship is unclear, but the pref. is signed "E. Ray Lankaster, Director".
-(5) "Filices" (p. 59-62) *in* A.B. Rendle, *A contribution of our knowledge of the flora of Gazaland*... 1911 (TL-2/4, nr. 9068).
-(6) With his wife published "VI. *Marine algæ* of the *Scottish National Antarctic Expedition*" (p. 73-83, *pl. 1-2*) *in* William Speirs Bruce & R.N. Rudmose Brown (eds.), *Report* on the *scientific results* of the *voyage* of *S.Y.* "*Scotia*" during the years 1902, 1903, and 1904, under the leadership of William S. Bruce...Volume III. – *Botany*, Edinburgh (The Scottish Oceanographical Laboratory)... 1912. *Copies*: BM, NY(2).
-(7) "Cryptogams" (p. 237-244 in journal) *in* A.B. Rendle, *Forbes's New Guinea pl*.... \[Jun\] 1923 (TL-2/4, nr. 9070).
-(8) "Pteridophyta" (p. 128-136 in journal) *in* A.B. Rendle, *Dr. H.O. Forbes's Malayan plants*... 1925 (TL-2/4, nr. 9071).
+- (2) Edited R. Spruce's posthumously published *Hepaticae Elliottianae*... \[1895\] (TL-2/5, nr. 12.718).
+- (3) "Apetalae, Monocotyledones & Gymnosperms" *in* C.W. Andrew, *Monogr. Christm. Isl.* ... 1900 (TL-2/Suppl. 1, nr. 19.275).
+- (4) "Musci" (p. 319) *in* \[Sir Edwin Ray Lankaster (1847-1929)\], *Report* on the *collections* of natural history made in the *Antarctic regions* during the *voyage* of the "*Southern Cross*"... 1902. – *Note*: The editorship is unclear, but the pref. is signed "E. Ray Lankaster, Director".
+- (5) "Filices" (p. 59-62) *in* A.B. Rendle, *A contribution of our knowledge of the flora of Gazaland*... 1911 (TL-2/4, nr. 9068).
+- (6) With his wife published "VI. *Marine algæ* of the *Scottish National Antarctic Expedition*" (p. 73-83, *pl. 1-2*) *in* William Speirs Bruce & R.N. Rudmose Brown (eds.), *Report* on the *scientific results* of the *voyage* of *S.Y.* "*Scotia*" during the years 1902, 1903, and 1904, under the leadership of William S. Bruce...Volume III. – *Botany*, Edinburgh (The Scottish Oceanographical Laboratory)... 1912. *Copies*: BM, NY(2).
+- (7) "Cryptogams" (p. 237-244 in journal) *in* A.B. Rendle, *Forbes's New Guinea pl*.... \[Jun\] 1923 (TL-2/4, nr. 9070).
+- (8) "Pteridophyta" (p. 128-136 in journal) *in* A.B. Rendle, *Dr. H.O. Forbes's Malayan plants*... 1925 (TL-2/4, nr. 9071).
 
 ### Publications
 

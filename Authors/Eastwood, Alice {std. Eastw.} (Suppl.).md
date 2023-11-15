@@ -59,8 +59,8 @@ Barnhart 1: 491 (b. 19 Jan 1859, Toronto, Ont.); BL 1: 131, 150, 151, 167, 170, 
 
 #### Outside our period
 
-(1) A *collection* of *popular articles* on the flora of *Mount Tamalpais* 1944, a set of contributions over many years to "Out of doors", the official publication of the Tamalpais Conservation Club. – *Copy*: at MO.
-(2) H.E. Brown, *List of H.E. Brown's California plants*... Santa Rosa, California, 8 p., no year given. *Copy*: MO.
+- (1) A *collection* of *popular articles* on the flora of *Mount Tamalpais* 1944, a set of contributions over many years to "Out of doors", the official publication of the Tamalpais Conservation Club. – *Copy*: at MO.
+- (2) H.E. Brown, *List of H.E. Brown's California plants*... Santa Rosa, California, 8 p., no year given. *Copy*: MO.
 
 #### Eponymy
 

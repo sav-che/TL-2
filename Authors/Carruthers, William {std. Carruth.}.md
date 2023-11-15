@@ -29,9 +29,9 @@ Andrews ed. 2, p. 244-245; Barnhart 1: 316; BB p. 60; BL 1: 40; BM 1: 320, 6: 18
 
 #### Composite works
 
-(1) J. E. Gray, *Handbook of British water-weeds*, 1864 (*British Diatomaceae*).
-(2) Seemann, *Flora vitiensis*, 1873, (*Fiji ferns*).
-(3) *Annals and Magazine of natural history*, editor, ser. 5.
+- (1) J. E. Gray, *Handbook of British water-weeds*, 1864 (*British Diatomaceae*).
+- (2) Seemann, *Flora vitiensis*, 1873, (*Fiji ferns*).
+- (3) *Annals and Magazine of natural history*, editor, ser. 5.
 
 #### Eponymy
 

@@ -20,7 +20,7 @@ Barnhart 3: 123; BM 4: 1638; KR p. 581-582 (b. 19 Sep 1766, d. 18 Apr 1838, bibl
 
 #### Composite works
 
-(1) See C.N. Hellenius, TL-2/2610, author of *Diss. hort. abo.* nos. 4-5, 1807.
-(2) See C.P. Thunberg, *De Myristica* 1788, of which Radloff was the author.
-(3) Radloff was author of *Dissertato academica, qua nova Ammeos species proponitur*. Praes. Johan Fredric Wallenius. Resp. Josef August Hoeckert. Abo 1810, \[i\], 13 p., Qu. – See Saelan p. 404-405.
+- (1) See C.N. Hellenius, TL-2/2610, author of *Diss. hort. abo.* nos. 4-5, 1807.
+- (2) See C.P. Thunberg, *De Myristica* 1788, of which Radloff was the author.
+- (3) Radloff was author of *Dissertato academica, qua nova Ammeos species proponitur*. Praes. Johan Fredric Wallenius. Resp. Josef August Hoeckert. Abo 1810, \[i\], 13 p., Qu. – See Saelan p. 404-405.
 

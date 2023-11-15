@@ -26,9 +26,9 @@ Serie A, no. 830, no. d'ordre: 1627. Thèses présentées à la Faculté des Sci
 *Publ*.: 24 Mar 1920 (date of defense thesis), cover-t.p., p. \[i-iii\], p. \[125\]-271, \[272, cont.\].
 *Copies*: B, HH. – Reprinted and to be cited from Ann. Sci. nat., Bot. ser. 10. 1: 125-271. 1919.
 *Follow ups*: (*1*): *Répartition géographique* du genre *Lathraea*..., Mém. Soc. nat. Sci. nat. math. Cherbourg 34: 353-364. 1923. – See below.
-(2) Sur la *germination des graines de Lathraea clandestina* L...., C.R. hebd. Séances Acad. Sci. Paris 178: 230-231. 1924.
-(3) *Germination des graines de Lathraea clandestina* L...., Bull. Soc. bot. France 72(9-10): 1031-1042. Apr 1926 (fide Leussink *in* mss. in library FAS).
-(4) *Les graines de Lathraea*..., Mar (sero) 1932. – See below.
+- (2) Sur la *germination des graines de Lathraea clandestina* L...., C.R. hebd. Séances Acad. Sci. Paris 178: 230-231. 1924.
+- (3) *Germination des graines de Lathraea clandestina* L...., Bull. Soc. bot. France 72(9-10): 1031-1042. Apr 1926 (fide Leussink *in* mss. in library FAS).
+- (4) *Les graines de Lathraea*..., Mar (sero) 1932. – See below.
 
 ##### n.25.699. Anomalies florales
 

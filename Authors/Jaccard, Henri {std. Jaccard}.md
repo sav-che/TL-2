@@ -22,8 +22,8 @@ AG 4: 344; Barnhart 2: 237; BFM 972, 973, 1031; BL 2: 562, 586, 587, 588, 589, 5
 
 #### Composite works
 
-(1) Edited the *Bulletin de la Société Murithienne* until 1922.
-(2) Aug. Wagnon, *Autour de Salvan* excursions & escalades de la Dent du Midi au Buet. *Notice botanique* par H. Jaccard. Morges (Imprimerie A. Centlivres) 1885, p. \[1\]-78, plus Jaccard p. \[1\], \[1\]-11, and \[1-6, cont.\]. Oct. *Copy*: G.
+- (1) Edited the *Bulletin de la Société Murithienne* until 1922.
+- (2) Aug. Wagnon, *Autour de Salvan* excursions & escalades de la Dent du Midi au Buet. *Notice botanique* par H. Jaccard. Morges (Imprimerie A. Centlivres) 1885, p. \[1\]-78, plus Jaccard p. \[1\], \[1\]-11, and \[1-6, cont.\]. Oct. *Copy*: G.
 
 #### Note
 

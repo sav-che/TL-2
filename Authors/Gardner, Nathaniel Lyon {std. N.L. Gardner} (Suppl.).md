@@ -41,16 +41,16 @@ Amer. Men Sci. ed. 5: 398; Andrews p. 266; APN p. 219; Barnhart 2: 30; Bossert p
 #### Composite works
 
 Co-author with W.A. Setchell:
-(1) *Algae of Northwestern America*... 1903 (TL-2/5, nr. 11.766);
-(2) *Marine algae of the Pacific Coast of North America*... Parts 1-3, 1919-1925 (TL-2/5, nr. 11.782);
-(3) *Phycological contributions*... 1-7, 1920-1924 (TL-2/5, nr. 11.783);
-(4) *Marine algae of the Revillagigedo Islands Expedition*... 1930 (TL-/5, nr. 11.795);
-(5) *A preliminary survey of Gigartina*... 1933 (TL-2/5, nr. 11.800);
-(6) *De Gigartinis*... 1934 (TL-2/5, nr. 11.801);
-(7) *Iridophycus gen. nov.*... 1936 (TL-2/5, nr. 11.803);
-(8) *Iridophycus, with special reference to the South American species*... 1937 (TL-2/5, nr.
+- (1) *Algae of Northwestern America*... 1903 (TL-2/5, nr. 11.766);
+- (2) *Marine algae of the Pacific Coast of North America*... Parts 1-3, 1919-1925 (TL-2/5, nr. 11.782);
+- (3) *Phycological contributions*... 1-7, 1920-1924 (TL-2/5, nr. 11.783);
+- (4) *Marine algae of the Revillagigedo Islands Expedition*... 1930 (TL-/5, nr. 11.795);
+- (5) *A preliminary survey of Gigartina*... 1933 (TL-2/5, nr. 11.800);
+- (6) *De Gigartinis*... 1934 (TL-2/5, nr. 11.801);
+- (7) *Iridophycus gen. nov.*... 1936 (TL-2/5, nr. 11.803);
+- (8) *Iridophycus, with special reference to the South American species*... 1937 (TL-2/5, nr.
 11.804); and
-(9) *Iridophycus in the Northern Hemisphere*... 1937 (TL-2/5, nr. 11.805).
+- (9) *Iridophycus in the Northern Hemisphere*... 1937 (TL-2/5, nr. 11.805).
 
 ### Publications
 

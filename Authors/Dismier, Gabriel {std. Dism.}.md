@@ -10,7 +10,8 @@ Dismier, Gabriel (1856-1942), French bryologist.
 
 #### Herbarium and types
 
-[[Collection PC|PC]]. – Exsiccatae: *Bryotheca gallica* (ser. i-xviii, nos. 1-450) St. Maur 1923-1932. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection STR|STR]] (60 subscribers).
+[[Collection PC|PC]].
+*Exsiccatae*: *Bryotheca gallica* (ser. i-xviii, nos. 1-450) St. Maur 1923-1932. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection STR|STR]] (60 subscribers).
 *Ref*.: IH 2: 163.
 - Anon., Rev. bryol. lichénol. 60: 229. 1933.
 - Sayre, Mem. New York Bot. Gard. 19(2): 192-193. 1971.

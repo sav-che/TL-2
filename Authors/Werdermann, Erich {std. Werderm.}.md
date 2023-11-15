@@ -39,13 +39,13 @@ Barnhart 3: 477; BFM 2274; Biol.-Dokum. 19: 9926-9927; BJI 2: 189; Bossert p. 43
 
 #### Composite works
 
-(1) With H. Melchior, Engler *Syllabus der Pflanzenfamilien* ed. 12, 2 vols. 1954-1964, TL-2/1707; author of *Fungi* in 1: 138-204. 1954.
-(2) *Beiträge zur Kenntniss der Flora von Chile*, a series of 5 papers by Werdermann et al. in Notizbl. Bot. Gart. Mus. Berlin-Dahlem 10(92): 135-138, 138-155. 1927, 10(95): 460-472, 472-475. 1 Dec 1928, 10(97): 752-758, 758-768. 10 Jul 1929.
-(3) Editor, with H. Melchior, EP, Nat. Pflanzenfam. ed. 2, vols. 14d(1956), 17aII (1959), 20d (1953), TL-2/1711.
-(4) Editor, *Kakteenkunde* 1933, Heft 1-12, p. 1-240.
-(5) *Die Pflanzenwelt Nord- und Mittelchiles, in* Karsten & Schenk, *Vegetationsbilder*, ser. 21, Hefte 6-7, 1931.
-(6) Co-author, with E. Gilg, *Dilleniaceae, Actinidiaceae, Marcgraviaceae, in* EP, Nat. Pflanzenfam. ed. 2. 21: 7-47, 94-106. 1925, TL-2/1711.
-(7) *Neue Kakteen, in* C. Backeberg, Neue Kakteen 62-103. 1931.
+- (1) With H. Melchior, Engler *Syllabus der Pflanzenfamilien* ed. 12, 2 vols. 1954-1964, TL-2/1707; author of *Fungi* in 1: 138-204. 1954.
+- (2) *Beiträge zur Kenntniss der Flora von Chile*, a series of 5 papers by Werdermann et al. in Notizbl. Bot. Gart. Mus. Berlin-Dahlem 10(92): 135-138, 138-155. 1927, 10(95): 460-472, 472-475. 1 Dec 1928, 10(97): 752-758, 758-768. 10 Jul 1929.
+- (3) Editor, with H. Melchior, EP, Nat. Pflanzenfam. ed. 2, vols. 14d(1956), 17aII (1959), 20d (1953), TL-2/1711.
+- (4) Editor, *Kakteenkunde* 1933, Heft 1-12, p. 1-240.
+- (5) *Die Pflanzenwelt Nord- und Mittelchiles, in* Karsten & Schenk, *Vegetationsbilder*, ser. 21, Hefte 6-7, 1931.
+- (6) Co-author, with E. Gilg, *Dilleniaceae, Actinidiaceae, Marcgraviaceae, in* EP, Nat. Pflanzenfam. ed. 2. 21: 7-47, 94-106. 1925, TL-2/1711.
+- (7) *Neue Kakteen, in* C. Backeberg, Neue Kakteen 62-103. 1931.
 
 #### Eponymy
 

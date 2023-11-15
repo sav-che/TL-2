@@ -21,9 +21,9 @@ Barnhart 3: 520; BB p. 335; BM 5: 2361; Desmond p. 677; GF p. 81; Jackson p. 119
 
 #### Composite works
 
-(1) Collaborator, *Loudon's Encyclopaedia of plants*... new edition 1855, TL-2/5026.
-(2) Collaborator, *Supplement to Loudon's Hortus britannicus* 1850, TL-2/5033.
-(3) Compiled J. Knight & T.A. Perry, *Syn. conif. pl.* 1850, TL-2/3760.
+- (1) Collaborator, *Loudon's Encyclopaedia of plants*... new edition 1855, TL-2/5026.
+- (2) Collaborator, *Supplement to Loudon's Hortus britannicus* 1850, TL-2/5033.
+- (3) Compiled J. Knight & T.A. Perry, *Syn. conif. pl.* 1850, TL-2/3760.
 
 ### Publications
 

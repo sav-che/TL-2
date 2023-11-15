@@ -39,9 +39,9 @@ AG 4: 358, 5(3): 65; Backer p. 659; Barnhart 3: 138 (b. 4 Sep 1863); BFM 2347, 3
 
 #### Composite works
 
-(1) Founder of the *Journal of the Arnold Arboretum*, editor of vols. 1-21, 1919-1940.
-(2) For contributions to L.H. Bailey, *Cycl. Am. Hort.* and *Stand. Cycl. Hort.* see J. Arnold Arb. 31: 17-32. 1950.
-(3) For contributions to C.S. Sargent, *Trees and Shrubs*, see J. Arnold Arb. 31: 24-26. 1950.
+- (1) Founder of the *Journal of the Arnold Arboretum*, editor of vols. 1-21, 1919-1940.
+- (2) For contributions to L.H. Bailey, *Cycl. Am. Hort.* and *Stand. Cycl. Hort.* see J. Arnold Arb. 31: 17-32. 1950.
+- (3) For contributions to C.S. Sargent, *Trees and Shrubs*, see J. Arnold Arb. 31: 24-26. 1950.
 
 #### Eponymy
 

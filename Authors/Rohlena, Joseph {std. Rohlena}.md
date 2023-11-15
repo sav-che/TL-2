@@ -8,7 +8,8 @@ Rohlena, Joseph (1874-1944), Czech (Bohemian) botanist at Praha; teacher at elem
 
 #### Herbarium and types
 
-[[Collection PRC|PRC]]; further material [[Collection BM|BM]], [[Collection BRNM|BRNM]], [[Collection C|C]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection PACA|PACA]], [[Collection PR|PR]], [[Collection S|S]], [[Collection Z|Z]]. *Exsiccatae*: *Plantae balcanicae* (montenegrinae) *exsiccatae*. Ser. 1 (nos. 1-150), ser. 2 (nos. 1-100), Praha 1932.
+[[Collection PRC|PRC]]; further material [[Collection BM|BM]], [[Collection BRNM|BRNM]], [[Collection C|C]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection PACA|PACA]], [[Collection PR|PR]], [[Collection S|S]], [[Collection Z|Z]].
+*Exsiccatae*: *Plantae balcanicae* (montenegrinae) *exsiccatae*. Ser. 1 (nos. 1-150), ser. 2 (nos. 1-100), Praha 1932.
 
 #### Bibliography and biography
 

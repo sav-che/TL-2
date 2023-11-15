@@ -31,8 +31,8 @@ Burdet, H.M., Candollea 29: 211-212. 1974.
 
 #### Note
 
-(1): Chaboisseau, Note sur les collections et la bibliothèque botanique de M. Méhu, *in* A. Méhu, *Note sur la florule de la prairie de Bourdelans* 1877: 8-9. – *Copy* at HH.
-(2): *Hieracium chaboissaei*, eponymy, see AG 12(3): 46.
+- (1): Chaboisseau, Note sur les collections et la bibliothèque botanique de M. Méhu, *in* A. Méhu, *Note sur la florule de la prairie de Bourdelans* 1877: 8-9. – *Copy* at HH.
+- (2): *Hieracium chaboissaei*, eponymy, see AG 12(3): 46.
 
 ### Publications
 

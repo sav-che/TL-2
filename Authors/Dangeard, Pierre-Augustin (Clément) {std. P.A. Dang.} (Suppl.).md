@@ -31,8 +31,8 @@ Ainsworth p. 123, 236, 321, 322; Barnhart 1: 416(b. 23 Nov 1862, Ségrie (Sarthe
 
 #### Composite works
 
-(1) P.A. Dangeard "directeur" of *Le Botaniste* sér. 1- sér. 32, Caen 1889-1891, Poitiers 1892-1943.
-(2) *Note sur le Platymonas roscoffensis spec. nov. in* Trav. Cryptogam. dédiés à Louis Mangin, p. 227-232, *pl. 19.* Sep 1931.
+- (1) P.A. Dangeard "directeur" of *Le Botaniste* sér. 1- sér. 32, Caen 1889-1891, Poitiers 1892-1943.
+- (2) *Note sur le Platymonas roscoffensis spec. nov. in* Trav. Cryptogam. dédiés à Louis Mangin, p. 227-232, *pl. 19.* Sep 1931.
 
 ### Publications
 

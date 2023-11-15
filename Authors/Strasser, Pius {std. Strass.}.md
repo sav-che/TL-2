@@ -26,8 +26,8 @@ AG 5(1): 603; Barnhart 3: 338 (b. 27 Dec 1843, d. 9 Nov 1927); Bossert p. 386; D
 #### Note
 
 Main publications in Verh. zool.-bot. Ges. Wien (no reprints with independent pagination seen by us):
-(1) *Zur Flechtenflora Niederösterreichs*, 39(Abh.): 327-372. Late Sep 1889.
-(2) *Pilzflora des Sonntagberges* (Nieder-Oesterreich):
+- (1) *Zur Flechtenflora Niederösterreichs*, 39(Abh.): 327-372. Late Sep 1889.
+- (2) *Pilzflora des Sonntagberges* (Nieder-Oesterreich):
 1: *in* Verh. 50 (Abh.): 190-196. 25 Mai 1900.
 2: *in* 50 (Abh.): 293-301. 25 Jul 1900.
 3: *in* 50 (Abh.): 359-372. 24 Aug 1900.

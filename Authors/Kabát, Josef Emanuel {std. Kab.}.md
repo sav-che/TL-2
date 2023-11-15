@@ -8,7 +8,8 @@ Kabát, Josef Emanuel (1849-1925), Czech mycologist.
 
 #### Herbarium and types
 
-[[Collection PR|PR]] (12.000). – Exsiccatae: *Fungi imperfecti exsiccati*, Turnau, Bohemia, fasc. 1-18, nos. 1-900, 1903-1915, sets at [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection H|H]], [[Collection OS|OS]], [[Collection PAV|PAV]], [[Collection PRC|PRC]], [[Collection PRE|PRE]], [[Collection W|W]], [[Collection WIS|WIS]]. (co-author: Frantisek Bubák, 1865-1925).
+[[Collection PR|PR]] (12.000).
+*Exsiccatae*: *Fungi imperfecti exsiccati*, Turnau, Bohemia, fasc. 1-18, nos. 1-900, 1903-1915, sets at [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection H|H]], [[Collection OS|OS]], [[Collection PAV|PAV]], [[Collection PRC|PRC]], [[Collection PRE|PRE]], [[Collection W|W]], [[Collection WIS|WIS]]. (co-author: Frantisek Bubák, 1865-1925).
 *Ref*.: Stevenson, J., Beih. Nova Hedwigia 36: 218-224. 1971.
 
 #### Bibliography and biography

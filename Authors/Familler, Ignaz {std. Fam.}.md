@@ -8,7 +8,8 @@ Familler, Ignaz (1863-1923), German priest and cryptogamic botanist, born 15 Sep
 
 #### Herbarium and types
 
-[[Collection BP|BP]], [[Collection COI|COI]], [[Collection E|E]], [[Collection M|M]], [[Collection REG|REG]]. – *Exsiccatae*: Familler edited the series *Flora exsiccata Bavarica*: *Bryophyta*... Regensburg (Königliche Botanische Gesellschaft) 1901-1913, nos. 1-800 issued in 32 parts, with an appendix (Nachtr.) of additional forms of earlier nos. *Copies*: [[Collection FH|FH]], [[Collection M|M]], [[Collection PC|PC]].
+[[Collection BP|BP]], [[Collection COI|COI]], [[Collection E|E]], [[Collection M|M]], [[Collection REG|REG]].
+*Exsiccatae*: Familler edited the series *Flora exsiccata Bavarica*: *Bryophyta*... Regensburg (Königliche Botanische Gesellschaft) 1901-1913, nos. 1-800 issued in 32 parts, with an appendix (Nachtr.) of additional forms of earlier nos. *Copies*: [[Collection FH|FH]], [[Collection M|M]], [[Collection PC|PC]].
 
 #### Bibliography and biography
 

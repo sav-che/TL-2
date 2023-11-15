@@ -64,8 +64,8 @@ AG 2(1): 572; Andrews p. 293; Backer p. 312; Barnhart 2: 337; BM 3: 1048-1049; B
 
 #### Composite works
 
-(1) see TL 2/1: 987 and 988.
-(2) Lamarck was one of the editors of the *Journal d'histoire naturelle*, Paris (les Directeurs de l'Imprimerie du Circle Social), 2 vols. 1792. (see e.g. MacPhail, I., Cat. Redout. 38. 1963).
+- (1) see TL 2/1: 987 and 988.
+- (2) Lamarck was one of the editors of the *Journal d'histoire naturelle*, Paris (les Directeurs de l'Imprimerie du Circle Social), 2 vols. 1792. (see e.g. MacPhail, I., Cat. Redout. 38. 1963).
 
 #### Handwriting
 

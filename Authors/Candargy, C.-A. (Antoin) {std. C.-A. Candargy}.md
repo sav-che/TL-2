@@ -30,6 +30,6 @@ Kew 1: 468; Rehder 1: 479; Tucker 1: 134.
 **Notes**
 *Publ*.: Jan-Mar 1889 (Bot. Jahrb. 25 Apr 1890, Bot. Centralbl. 9 Jul 1889), cover-t.p., p. \[ii\] of cover errata, p. \[1 t.p.\]-64. *Copies*: B, G, HH.
 *Notes* (1): Nine further small papers on "Flore de l'île de Lesbos (Mételin)" published in Revue-Medico-Pharmaceutique, Constantinople 3-5, 1890-1892, see Taxon 38(4): 573. 1989.
-(2) See also P.C. Candargy, Vég. Lesbos 1899.
+- (2) See also P.C. Candargy, Vég. Lesbos 1899.
 *Ref*.: Freyn, J.F., Beih. Bot. Centralbl. 1(2): 129-130. 1891 (rev.).
 

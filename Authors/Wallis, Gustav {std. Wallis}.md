@@ -31,15 +31,17 @@ Backer p. 620; Barnhart 3: 455 (b. 1 Mai 1830, d. 20 Jun 1878); CSP 8: 1188, 11:
 
 #### Travel reports
 
-(1) *Meine Landung in Brasilien*, Hamb. Gart.-Blum.-Zeit. 12: 304-307. 1856.
-(2) *Bereisung der Hochebene von Curitiba*, ib. 15: 394-404. 1859.
-(3) *Nachrichten... aus dem Innern Brasiliens*, Gartenflora 10: 270-273. Aug, 318-324. Sep 1861.
-(4) *Notizen auf einer Reise von Para längs des Purus-Flusses*, Gartenflora 13: 278-279. 1864. (5) *Skizzen von Rio Branco*, Gartenflora 13: 295-305. Oct, 335-341. Nov 1864. (6) *Gärtnerisch-botanische Steifzüge am Amazonenstrom*, Wochenschr. Gärtn. Pflanzenk. (ed. K. Koch) 1869: 161-164. 29 Mai, 171-173. 5 Jun 1869.
-(7) *Reisebericht über den Purusfluss* 13: 241-246. 6 Aug, 213-216. 9 Jul, 221-223. 16 Jul 1870.
-(8) *La végétation de la Guiane brésilienne* (free translation of (7) by Ed. André, Ill. hort. 18: 58-64, 78-83. 1871.
-(9) *La Guyane brésilienne au point de vue botanique*, (transl. Ch. Firket), Belg. hort. 1872: 39-59.
-(10) *Voyages et découvertes... dans l'Amérique du Sud*,... Belg. hort. 29: 171-215. 1879 \[see also 1881: 172-190\].
-(11) *Reise-Erinnerungen*, Gartenflora 25: 49-55, 111-116, 144-146, 299-305. 1876, 26: 77-83, 344-352. 1877.
+- (1) *Meine Landung in Brasilien*, Hamb. Gart.-Blum.-Zeit. 12: 304-307. 1856.
+- (2) *Bereisung der Hochebene von Curitiba*, ib. 15: 394-404. 1859.
+- (3) *Nachrichten... aus dem Innern Brasiliens*, Gartenflora 10: 270-273. Aug, 318-324. Sep 1861.
+- (4) *Notizen auf einer Reise von Para längs des Purus-Flusses*, Gartenflora 13: 278-279. 1864.
+- (5) *Skizzen von Rio Branco*, Gartenflora 13: 295-305. Oct, 335-341. Nov 1864.
+- (6) *Gärtnerisch-botanische Steifzüge am Amazonenstrom*, Wochenschr. Gärtn. Pflanzenk. (ed. K. Koch) 1869: 161-164. 29 Mai, 171-173. 5 Jun 1869.
+- (7) *Reisebericht über den Purusfluss* 13: 241-246. 6 Aug, 213-216. 9 Jul, 221-223. 16 Jul 1870.
+- (8) *La végétation de la Guiane brésilienne* (free translation of (7) by Ed. André, Ill. hort. 18: 58-64, 78-83. 1871.
+- (9) *La Guyane brésilienne au point de vue botanique*, (transl. Ch. Firket), Belg. hort. 1872: 39-59.
+- (10) *Voyages et découvertes... dans l'Amérique du Sud*,... Belg. hort. 29: 171-215. 1879 \[see also 1881: 172-190\].
+- (11) *Reise-Erinnerungen*, Gartenflora 25: 49-55, 111-116, 144-146, 299-305. 1876, 26: 77-83, 344-352. 1877.
 
 #### Eponymy
 

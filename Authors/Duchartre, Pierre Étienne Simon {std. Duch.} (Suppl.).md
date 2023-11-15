@@ -41,9 +41,9 @@ Barnhart 1: 475 (b. 27 Oct 1911 Portiragnes, Hérault, d. 5 Nov 1894, Paris); BM
 
 #### Composite works
 
-(1) *Revue botanique*. Recueil mensuel... rédigé... par P. Duchartre. Ann. I & II. 1845-1847, see BM 1: 484, PR 2435.
-(2) *Flore* des *Jardins* de l'*Europe*... Tome 4 par Duchartre, see A. Jacques & F. Herincq TL-2/no. 3233, BM 1: 484.
-(3) *Aristolochiaceae* in A.P. de Candolle, (q.v.) Prodr. syst. nat. Regni veg. 15, 1864. – BM 1: 484.
+- (1) *Revue botanique*. Recueil mensuel... rédigé... par P. Duchartre. Ann. I & II. 1845-1847, see BM 1: 484, PR 2435.
+- (2) *Flore* des *Jardins* de l'*Europe*... Tome 4 par Duchartre, see A. Jacques & F. Herincq TL-2/no. 3233, BM 1: 484.
+- (3) *Aristolochiaceae* in A.P. de Candolle, (q.v.) Prodr. syst. nat. Regni veg. 15, 1864. – BM 1: 484.
 
 ### Publications
 

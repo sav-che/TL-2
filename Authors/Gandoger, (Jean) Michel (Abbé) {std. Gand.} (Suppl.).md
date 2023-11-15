@@ -50,8 +50,8 @@ Prix Gandoger, Société Botanique de la France.
 
 #### Note
 
-(1) *Fl. Eur.*... 27 vols. (TL-2/1, nr. 1942) is listed in the Appendix VI "Opera Utique Oppressa" of the 2006 Vienna *Code*. Species names appearing in this work are not to be accepted as validly published. This Appendix was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
-(2) The following are now available in microfiche:
+- (1) *Fl. Eur.*... 27 vols. (TL-2/1, nr. 1942) is listed in the Appendix VI "Opera Utique Oppressa" of the 2006 Vienna *Code*. Species names appearing in this work are not to be accepted as validly published. This Appendix was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
+- (2) The following are now available in microfiche:
 (a) *Fl. Lyon.*... 1875 (TL-2/1, nr. 1937):
 *Microfiches*: (1) Zug, Switzerland (Inter-Documentation Co.), 1985, 5 microfiches Taxonomic literature; 1937). *Copies*: US (2). Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 5 microfiches, (Plant taxonomic lit. microfiche coll., "1815G5-1819G5"). *Copy*: (n.v.).
 (b) *Dec. pl. nov.*... 1875-1880 (TL-2/1, nr. 1938):
@@ -69,8 +69,8 @@ Prix Gandoger, Société Botanique de la France.
 
 #### Composite works
 
-(1) One of many collaborators with É. Bescherelle, *Cat. mouss. Algér.* ... 1882 (TL-2/Suppl. 2, nr. 21.172).
-(2) Co-author with P. Cousturier, *Florule de la République Andorre*... 1914 (TL-2/Suppl. 4, nr. 27.933).
+- (1) One of many collaborators with É. Bescherelle, *Cat. mouss. Algér.* ... 1882 (TL-2/Suppl. 2, nr. 21.172).
+- (2) Co-author with P. Cousturier, *Florule de la République Andorre*... 1914 (TL-2/Suppl. 4, nr. 27.933).
 
 ### Publications
 

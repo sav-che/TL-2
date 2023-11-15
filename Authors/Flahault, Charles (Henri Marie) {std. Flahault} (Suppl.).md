@@ -51,20 +51,20 @@ Académie p. 188; AG 5(2): 465, 12(2): 349; APN p. 202; Barnhart 1: 548; BL 1: 1
 
 #### Composite works
 
-(1) Co-editor with Paul Gervais de Rouville (1823-1907), *Revue des Sciences Naturelles*, sér. 3, vols. 1-4 (1881-1884).
-(2) Co-author with Éd. Bornet (1828-1911), of:
+- (1) Co-editor with Paul Gervais de Rouville (1823-1907), *Revue des Sciences Naturelles*, sér. 3, vols. 1-4 (1881-1884).
+- (2) Co-author with Éd. Bornet (1828-1911), of:
 (a) *Révis. Nostoc. hét.*... 1886-1888, see TL-2/1, nr. 664;
 (b) *Sur la détermination des Rivulaires*... 1884, see TL-2/Suppl. 2, nr. 22.171;
 (c) *Note sur le genre Aulosira*.... 1885, see TL-2/Suppl. 2, nr. 22.173;
 (d) *Note sur deux nouveaux genres d'algues perforantes*... 1888, see TL-2/Suppl. 2, nr. 22.176;
 (e) *Plantes dans le test calcaires des Mollusques*... 1890, see TL-2/Suppl. 2, nr. 22.178.
-(3) Co-author with E. Durand, *Limites région méditerranéenne*... 1886 \[1887\], see TL-2/ Suppl. 6, nr. 32.039.
-(4) "Une étude botanique sur les Oléacées et l'olivier..." *in* Léon Degrully & Pierre Viala, *L'Olivier*... 1887; Id., p. 1-35 in Léon Degrully, *L'Olivier*... 1907.
-(5) Provided determinations for V.B. Wittrock, *Algae aquae dulc. exs.*... fasc. 18: 17 Aug 1889, see TL-2/7, nr. 18.116.
-(6) Provided a French summary with introd. to E. Warming, *Lagoa Santa*... 1893, see TL-2/7, nr. 16.730.
-(7) Edited *Listes* des *plantes phanérogames* qui pourront être *récoltées* par la *Société botanique de France* réunie en session extraordinaire à *Montpellier* (mai 1893)... Montpellier (Imprimerie Serre et Ricome), cover-t.p., p. \[1\]-28. 1893. *Copies*: BM (not located Mai 1994) (n.v.), HH (n.v.), K (n.v.), NY.
-(8) One of many collaborators with C. Duval, *Guide herboris*.... 1894, see TL-2/Suppl. 6, nr. 32.228.
-(9) Contributed an introd. to each of the following works:
+- (3) Co-author with E. Durand, *Limites région méditerranéenne*... 1886 \[1887\], see TL-2/ Suppl. 6, nr. 32.039.
+- (4) "Une étude botanique sur les Oléacées et l'olivier..." *in* Léon Degrully & Pierre Viala, *L'Olivier*... 1887; Id., p. 1-35 in Léon Degrully, *L'Olivier*... 1907.
+- (5) Provided determinations for V.B. Wittrock, *Algae aquae dulc. exs.*... fasc. 18: 17 Aug 1889, see TL-2/7, nr. 18.116.
+- (6) Provided a French summary with introd. to E. Warming, *Lagoa Santa*... 1893, see TL-2/7, nr. 16.730.
+- (7) Edited *Listes* des *plantes phanérogames* qui pourront être *récoltées* par la *Société botanique de France* réunie en session extraordinaire à *Montpellier* (mai 1893)... Montpellier (Imprimerie Serre et Ricome), cover-t.p., p. \[1\]-28. 1893. *Copies*: BM (not located Mai 1994) (n.v.), HH (n.v.), K (n.v.), NY.
+- (8) One of many collaborators with C. Duval, *Guide herboris*.... 1894, see TL-2/Suppl. 6, nr. 32.228.
+- (9) Contributed an introd. to each of the following works:
 (a) Jules Pavillard, *Éléments de Biologie Végétale*... 1901 \[i.e. 1900\];
 (b) Ph. Vilmorin, *Hort. vilm.*... 1906, see TL-2/6, nr. 16.199;
 (c) A. Albert & É. Jahandiez, *Cat. pl. vasc. Var*... 1908 \[reprinted 1985?\], see TL-2/Suppl. 1, nr. 18.990;
@@ -72,9 +72,9 @@ Académie p. 188; AG 5(2): 465, 12(2): 349; APN p. 202; Barnhart 1: 548; BL 1: 1
 (e) J. Revol, *Catalogue des plantes vasculaires du Département de l'Ardèche*... 1909, see TL-2/4, nr. 9116;
 (f) Émile Gadeceau, *Le Lac de Grand-Lieu, monographie phytogéographique*... 1909; and
 (g) (pref.?) *in* A. Juillet, *Plantes médicinales des Pyrénées-Orientales*... 1920.
-(10) A note on the flora *in* Louis-Ferdinand Tessier, *Le Versant méridional du massif du Ventoux*... 1900.
-(11) Prepared index for 1, Abt. 1 of C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1904 \[i.e. 1903\], see TL-2/5, nr. 11.174.
-(12) Co-author with C. Schröter, *Nomencl. Phytogéogr.*... 1910, see TL-2/5, nr. 11.180.
+- (10) A note on the flora *in* Louis-Ferdinand Tessier, *Le Versant méridional du massif du Ventoux*... 1900.
+- (11) Prepared index for 1, Abt. 1 of C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.*... 1904 \[i.e. 1903\], see TL-2/5, nr. 11.174.
+- (12) Co-author with C. Schröter, *Nomencl. Phytogéogr.*... 1910, see TL-2/5, nr. 11.180.
 
 ### Publications
 

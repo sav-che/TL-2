@@ -21,10 +21,10 @@ Amer. Men. Sci. ed. 8: 899; APN p. 228; Barnhart 2: 50; Bossert p. 145; Hawkswor
 
 #### Composite works
 
-(1) First author with W.A. Archer (1894-?), *The fungi of Iowa parasitic on plants*... \[Jul\] 1929, see TL-2/Suppl. 1, nr. 19.387.
-(2) One of many collaborators with L.H. Pammel, *Weed fl. Iowa*, ed. 2... 1926, see TL-2/4, nr. 7257.
-(3) Editor, *Iowa State College Journal of Science* (1940-1948).
-(4) Assoc. editor, *Phytopathology* (1932-1935).
+- (1) First author with W.A. Archer (1894-?), *The fungi of Iowa parasitic on plants*... \[Jul\] 1929, see TL-2/Suppl. 1, nr. 19.387.
+- (2) One of many collaborators with L.H. Pammel, *Weed fl. Iowa*, ed. 2... 1926, see TL-2/4, nr. 7257.
+- (3) Editor, *Iowa State College Journal of Science* (1940-1948).
+- (4) Assoc. editor, *Phytopathology* (1932-1935).
 
 #### Outside our period
 

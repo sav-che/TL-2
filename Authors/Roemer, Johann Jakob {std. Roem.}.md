@@ -43,8 +43,8 @@ ADB 29: 123-124; AG 5(1): 349, 350; Backer p. 497 (epon.); Barnhart 3: 169 (b. 8
 
 #### Composite works
 
-(1) *Flora britannica*, auctore Jacobo Edvardo Smith, M.D.... recudi curavit additis passim adnotatiunculis J.J. Römer, M.D. vol. I \[-HI\]. Turici \[Zürich\] (typis Henrici Gessneri) 1804 \[-1805\], 3 vols., see under J.E. Smith (*Fl. brit.*).
-(2) J.J. Roemer and P. Usteri published an octavo edition of J. Dickson, *Fasc. pl. Crypt. brit.*, 2 fasc. 1785-1790 in Zürich with a London imprint, see TL-2/1442: Jacobi Dickson *Fasciculus plantarum cryptogamicarum Britanniae* Londini 1785 \[and 1790\] (prostant venales apud auctorem, in Foro Covent-Garden; & G. Nicol,...), see p. \[ii\]. *Copy*: MO.
+- (1) *Flora britannica*, auctore Jacobo Edvardo Smith, M.D.... recudi curavit additis passim adnotatiunculis J.J. Römer, M.D. vol. I \[-HI\]. Turici \[Zürich\] (typis Henrici Gessneri) 1804 \[-1805\], 3 vols., see under J.E. Smith (*Fl. brit.*).
+- (2) J.J. Roemer and P. Usteri published an octavo edition of J. Dickson, *Fasc. pl. Crypt. brit.*, 2 fasc. 1785-1790 in Zürich with a London imprint, see TL-2/1442: Jacobi Dickson *Fasciculus plantarum cryptogamicarum Britanniae* Londini 1785 \[and 1790\] (prostant venales apud auctorem, in Foro Covent-Garden; & G. Nicol,...), see p. \[ii\]. *Copy*: MO.
 
 #### Note
 

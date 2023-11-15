@@ -47,8 +47,8 @@ ADB 38: 593-594; AG 3: 386, 6(2): 22; Barnhart 3: 400 (b. 26 Apr 1695, d. 18 Jul
 
 #### Composite works
 
-(1) *Bericht von der Anatomie der Pflanzen... in* J.M. Seligmann, Die Nahrungs-Gefäse \[sic\]. 1748, TL-2/11.650.
-(2) The *Herbarium Blackwellianum*, 1747-1773, must for the greater part be attributed to C.J. Trew, see our treatment under TL-2/546.
+- (1) *Bericht von der Anatomie der Pflanzen... in* J.M. Seligmann, Die Nahrungs-Gefäse \[sic\]. 1748, TL-2/11.650.
+- (2) The *Herbarium Blackwellianum*, 1747-1773, must for the greater part be attributed to C.J. Trew, see our treatment under TL-2/546.
 
 #### Eponymy
 

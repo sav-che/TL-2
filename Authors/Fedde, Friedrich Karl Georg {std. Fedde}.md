@@ -26,10 +26,10 @@ Barnhart 1: 531; BM 6: 317; CSP 14: 948; Langman p. 276; LS suppl. 8123; MW p. 1
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich*: *Papaveraceae*, IV. 104, \[Heft 40\]: 1-430. 21 Dec 1909.
-(2) EP, *Die natürlichen Pflanzenfamilien* ed. 2: *Papaveraceae*, 17b: \[5\]-145, *figs. 1-76.* 1936.
-(3) *Repertorium novarum specierum regni vegetabilis*, 1-x, 1905-x (editor and publisher 1905-1942).
-(4)*Repertorium... Beihefte* 1-x, 1911-x (editor and publisher 1911-1942), Just, Bot. Jahrb. 1902-1942.
+- (1) Engler, *Pflanzenreich*: *Papaveraceae*, IV. 104, \[Heft 40\]: 1-430. 21 Dec 1909.
+- (2) EP, *Die natürlichen Pflanzenfamilien* ed. 2: *Papaveraceae*, 17b: \[5\]-145, *figs. 1-76.* 1936.
+- (3) *Repertorium novarum specierum regni vegetabilis*, 1-x, 1905-x (editor and publisher 1905-1942).
+- (4) *Repertorium... Beihefte* 1-x, 1911-x (editor and publisher 1911-1942), Just, Bot. Jahrb. 1902-1942.
 
 #### Eponymy
 

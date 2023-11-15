@@ -23,7 +23,7 @@ Barnhart 2: 250; BL 2: 52, 53, 672; Bossert p. 197; Hirsch p. 140; IH 2: 317; Ke
 
 #### Composite works
 
-(1) Warming, E. et al., *Botany of the Faeröes* based upon Danish investigation, *Bryophyta*,... in vol. 1, p. 120-197, publ. 15 Feb 1901.
+- (1) Warming, E. et al., *Botany of the Faeröes* based upon Danish investigation, *Bryophyta*,... in vol. 1, p. 120-197, publ. 15 Feb 1901.
 
 ### Publications
 

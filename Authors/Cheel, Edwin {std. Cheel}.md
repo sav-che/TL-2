@@ -22,10 +22,10 @@ Barnhart 1: 338 (b. 14 Jan 1874, Chatham, Kent, England); BL 1: 63, 67; Desmond 
 
 #### Composite works
 
-(1) With J.B. Cleland (first author): The *Hymenomycetes of New South Wales*... Agric. Gaz. N.S.W. 25: 507-555, 885-888, 1045-1049, *2 pl*. 1914. (Bot. Centralbl. 108(21): 853. 25 Mai 1915).
-(2) With J.B. Cleland (first author): *Notes on Australian Fungi* i-iv, J. Proc. Roy. Soc. N.S.W. 48-51 (1915-1918), see this supplement.
-(3) With J.B. Cleland (first author): *Records of Australian Fungi*, Proc. Linn. Soc. N.S.W. 41(4): 853-870. 1916, see this supplement.
-(4) With J.B. Cleland (first author): *Australian fungi*: Notes and Descriptions no. 1: Trans. Proc. R. Soc. S. Austr. 42: 88-138. 1918, no. 2: 43: 11-22. 1919, no. 3: 43: 262-315. 1919, no. 4: 47: 58-78. 1923, all with pl., see this supplement.
+- (1) With J.B. Cleland (first author): The *Hymenomycetes of New South Wales*... Agric. Gaz. N.S.W. 25: 507-555, 885-888, 1045-1049, *2 pl*. 1914. (Bot. Centralbl. 108(21): 853. 25 Mai 1915).
+- (2) With J.B. Cleland (first author): *Notes on Australian Fungi* i-iv, J. Proc. Roy. Soc. N.S.W. 48-51 (1915-1918), see this supplement.
+- (3) With J.B. Cleland (first author): *Records of Australian Fungi*, Proc. Linn. Soc. N.S.W. 41(4): 853-870. 1916, see this supplement.
+- (4) With J.B. Cleland (first author): *Australian fungi*: Notes and Descriptions no. 1: Trans. Proc. R. Soc. S. Austr. 42: 88-138. 1918, no. 2: 43: 11-22. 1919, no. 3: 43: 262-315. 1919, no. 4: 47: 58-78. 1923, all with pl., see this supplement.
 
 #### Eponymy
 

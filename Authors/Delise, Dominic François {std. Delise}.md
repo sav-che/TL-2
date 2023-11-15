@@ -10,7 +10,8 @@ Delise, Dominic François (1780-1841), French "chef de bataillon" and cryptogami
 
 #### Herbarium and types
 
-[[Collection CN|CN]]. Exsiccatae:
+[[Collection CN|CN]].
+*Exsiccatae*:
 1. *Nereide française* ou plantes marines croissantes dans les mers de France (1 cent., nos. 1-100), Vire 1823. *Copy*: [[Collection FH|FH]].
 2. *Lichens de France* (fasc. 1, nos. 1-25) Vire 1828. *Copies*: [[Collection B|B]], [[Collection BM|BM]], [[Collection CN|CN]], [[Collection DUKE|DUKE]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection L|L]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection PC|PC]], [[Collection STR|STR]], [[Collection TL|TL]], [[Collection UPS|UPS]], [[Collection W|W]].
 3. *Flora cryptogamica lutetiae Parisiorum*, at [[Collection PC|PC]] (fide GR), probably not a regular series.

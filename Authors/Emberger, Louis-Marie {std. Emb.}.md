@@ -34,8 +34,8 @@ Emberger-Flahault, L., Les *Ptéridophytes* du *Nord-Ouest* de *l' Afrique* (Mar
 
 #### Outside our period
 
-(1) *Les plantes fossiles* dans leur rapports avec les végétaux vivants, ... 492 pp. Paris (Masson et cie, Éditeurs...) 1944. – ed. 2, 758 pp. Paris (Masson et cie, Editeurs...) 1968.
-(2) *L' histoire* de la *botanique* à *Montpellier*... 67 pp. 1959. (3) *Travaux* de *botanique* et d'*écologie*... 520 pp., Paris (Masson et cie, Éditeurs...). 1971.
+- (1) *Les plantes fossiles* dans leur rapports avec les végétaux vivants, ... 492 pp. Paris (Masson et cie, Éditeurs...) 1944. – ed. 2, 758 pp. Paris (Masson et cie, Editeurs...) 1968.
+- (2) *L' histoire* de la *botanique* à *Montpellier*... 67 pp. 1959. (3) *Travaux* de *botanique* et d'*écologie*... 520 pp., Paris (Masson et cie, Éditeurs...). 1971.
 
 ### Publications
 

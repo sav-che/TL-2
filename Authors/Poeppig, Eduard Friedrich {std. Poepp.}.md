@@ -63,8 +63,8 @@ ADB 26: 421-427; AG 3: 593; Barnhart 3: 94; BM 4: 1590; Bossert p. 313 (b. 16 Ju
 
 #### Composite works
 
-(1) Notes on the Cinchona trees of Huanuco, in Northern Peru, *in* H. Karsten, *Notes on the medicinal Cinchona barks of New Granada* p. 57-75. 1861; translated from *Reise* 2: 217-223, 257-264.
-(2) Illustrirte Naturgeschichte des Thierreichs, 3 vols. (Leipzig 1847-1848 (main zoological publication).
+- (1) Notes on the Cinchona trees of Huanuco, in Northern Peru, *in* H. Karsten, *Notes on the medicinal Cinchona barks of New Granada* p. 57-75. 1861; translated from *Reise* 2: 217-223, 257-264.
+- (2) Illustrirte Naturgeschichte des Thierreichs, 3 vols. (Leipzig 1847-1848 (main zoological publication).
 
 #### Eponymy
 
@@ -94,11 +94,11 @@ ADB 26: 421-427; AG 3: 593; Barnhart 3: 94; BM 4: 1590; Bossert p. 313 (b. 16 Ju
 *Copies*: B (regular issue), MICH ("Wohlfeile Ausgabe 1837. Ohne Atlas", "cheap edition" without the atlas).
 *Facsimile ed*.: 1960, in one volume: \[i\]-xii, \[1\]-466, \[i\]-v, \[1\]-466, *pl*. \[*1-16*\], map, \[1-2, music\]. *Copies*: G, MO, NY, U, J. Wurdack. – Stuttgart (F.A. Brockhaus Komm.-Gesch. GMBH. Abt. Antiquarium) 1960.
 *Extracts*: (1) Swedish, by C.J. Hartmann, Bot. Not. 1845: 91-98.
-(2) German, by W. Drascher, *Im Schatten der Cordillera*, Stuttgart 1927.
-(3) German, by H. Petersen, *Pampayaco*, Potsdam 1936.
-(4) German, by H. Butze, *Über die Anden zum Amazonas*. Leipzig 1953, 1956.
+- (2) German, by W. Drascher, *Im Schatten der Cordillera*, Stuttgart 1927.
+- (3) German, by H. Petersen, *Pampayaco*, Potsdam 1936.
+- (4) German, by H. Butze, *Über die Anden zum Amazonas*. Leipzig 1953, 1956.
 *Translations*: (5) Danish, by Frederik Schaldemose, Eduard Pöppig's *Reise i Chili og Peru* ... Kjøbenhavn (... C. Steens Forlag...) 1842, p. \[1\]-482. *Copy*: MO.
-(6) Spanish, by C. Keller, *Un testigo en lu alborada de Chile*, Santiago 1960. (items 2-5 n.v., fide C. Keller 1965).
+- (6) Spanish, by C. Keller, *Un testigo en lu alborada de Chile*, Santiago 1960. (items 2-5 n.v., fide C. Keller 1965).
 
 ##### n.8091. Nova genera ac species plantarum
 

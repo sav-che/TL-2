@@ -24,9 +24,9 @@ Barnhart 2: 233; BM 6: 496; Hirsch p. 132; Kew 3: 74; Kleppa p. 93; MW p. 200; R
 
 #### Composite works
 
-(1) Hustedt was one of the editors of the continuation of Schmidt's *Atlas der Diatomaceenkunde* Hefte 68-120, 1911-1959.
-(2) Sven Hedin, *Southern Tibet... Bacillariales aus Innerasien* gesammelt von Dr. Sven Hedin. Bearbeitet von Friedrich Hustedt... vol. 6, part 3, botany, p. \[i\], \[107\]-152, *pl. 9-10* (by author), Stockholm 1922. Reprint with orig. pagination and special cover. *Copy*: NY.
-(3) Axel Hamberg, *Naturwissenschaftliche Untersuchungen des Sarekgebirges* in Schwedisch Lappland, Band 3, Botanik, Lief. 6, p. \[525\]-626, *pl. 17-22* (uncol., auct. del.) *Die Bacillarien-Vegetation des Sarekgebirges*, Stockholm, Berlin, 1924 (p. 626 printing finished 15 Sep 1924), reprinted with original pagination and special cover. *Copies*: FH, NY. Hustedt contributed treatments of diatoms to many other works, see his bibliographies in Behre (1967-1970).
+- (1) Hustedt was one of the editors of the continuation of Schmidt's *Atlas der Diatomaceenkunde* Hefte 68-120, 1911-1959.
+- (2) Sven Hedin, *Southern Tibet... Bacillariales aus Innerasien* gesammelt von Dr. Sven Hedin. Bearbeitet von Friedrich Hustedt... vol. 6, part 3, botany, p. \[i\], \[107\]-152, *pl. 9-10* (by author), Stockholm 1922. Reprint with orig. pagination and special cover. *Copy*: NY.
+- (3) Axel Hamberg, *Naturwissenschaftliche Untersuchungen des Sarekgebirges* in Schwedisch Lappland, Band 3, Botanik, Lief. 6, p. \[525\]-626, *pl. 17-22* (uncol., auct. del.) *Die Bacillarien-Vegetation des Sarekgebirges*, Stockholm, Berlin, 1924 (p. 626 printing finished 15 Sep 1924), reprinted with original pagination and special cover. *Copies*: FH, NY. Hustedt contributed treatments of diatoms to many other works, see his bibliographies in Behre (1967-1970).
 
 #### Eponymy
 

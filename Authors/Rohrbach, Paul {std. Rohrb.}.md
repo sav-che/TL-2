@@ -22,8 +22,8 @@ ADB 29: 62-64 (E. Wunschmann); AG 1: 276; Backer p. 660; Barnhart 3: 172 (b. 9 J
 
 #### Composite works
 
-(1) *Tropaeolaceae*, in E. Warming, Symb. bot. 27: 145. 1882 (publ. 16 Mai 1883).
-(2) *Flora brasiliensis*, 14(2): 221-234, *pl. 53-72.* 1 Feb 1872: *Tropaeolaceae, Molluginaceae, Alsinaceae, Silenaceae, Portulacaceae, Ficoidaceae, Elatinaceae.*
+- (1) *Tropaeolaceae*, in E. Warming, Symb. bot. 27: 145. 1882 (publ. 16 Mai 1883).
+- (2) *Flora brasiliensis*, 14(2): 221-234, *pl. 53-72.* 1 Feb 1872: *Tropaeolaceae, Molluginaceae, Alsinaceae, Silenaceae, Portulacaceae, Ficoidaceae, Elatinaceae.*
 
 ### Publications
 

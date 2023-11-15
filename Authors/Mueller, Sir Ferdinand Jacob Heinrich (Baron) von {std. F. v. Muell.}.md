@@ -8,7 +8,8 @@ Mueller, Sir Ferdinand Jacob Heinrich ("Baron") von (1825-1896), Australian bota
 
 #### Herbarium and types
 
-[[Collection MEL|MEL]]. For duplicates see IH; important sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection P|P]] and [[Collection W|W]]. Many letters at [[Collection K|K]]. *Exsiccatae*: *Educational collections of Australian plants*, 1873, 1875, 2 sets of 50 plants.
+[[Collection MEL|MEL]]. For duplicates see IH; important sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection P|P]] and [[Collection W|W]]. Many letters at [[Collection K|K]].
+*Exsiccatae*: *Educational collections of Australian plants*, 1873, 1875, 2 sets of 50 plants.
 
 #### Note
 

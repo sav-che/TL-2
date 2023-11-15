@@ -64,8 +64,8 @@ AG 5: 752, 12(1): 248; Ainsworth p. 21, 117, 121, 274, 301, 325, 345; Barnhart 2
 
 #### Composite works
 
-(1) *Dispositio specierum generis Cirsii*... Appendix zu G. D. J. Koch, *Syn. fl. Germ.* ed. 2.3: 987-1012. 1845.
-(2) *Einleitung*, to E. Widmer, *Die europaischen Arten der Gattung Primula*, München & Leipzig, 1891.
+- (1) *Dispositio specierum generis Cirsii*... Appendix zu G. D. J. Koch, *Syn. fl. Germ.* ed. 2.3: 987-1012. 1845.
+- (2) *Einleitung*, to E. Widmer, *Die europaischen Arten der Gattung Primula*, München & Leipzig, 1891.
 
 #### Festschrift
 
@@ -246,9 +246,9 @@ Festschrift zur Feier des fünfzigjährigen Doctor-Jubiläums Herrn Prof. Dr. Ka
 *Co-author*: Gustav Albert Peter (1853-1937).
 *1*: Jan-Feb 1885 (Nat. Nov. Feb(2) 1885; Bot. Zeit. 27 Feb 1885; Bot. Centralbl. 9-13 Mar 1885; J. Bot. Mar 1885; Flora rd. 11-21 Mai 1885), p. \[i\]-xi, \[1\]-931, \[932, exsicc.\]. – subtitle "Monographische Bearbeitung der Piloselloiden..."
 *2*: 1886-1889, in 3 parts, subtitle: "Monographische Bearbeitung der Archieracien..."
-(1): Mar 1886 (Nat. Nov. Apr(1) 1886; Bot. Centralbl. 5-9 Apr 1886; Bot. Zeit. 30 Apr 1886), p. \[1\]-84.
-(2): Aug 1886 (rd. Genève 27 Sep 1886; Nat. Nov. Sep(2) 1886; Bot. Zeit. 29 Oct 1886; Flora 11 Sep 1886), p. \[85\]-240.
-(3): Aug 1889 (rd. id. Aug 1889; Bot. Centralbl. 4 Sep 1889; Bot. Zeit. 27 Sep 1889; Nat. Nov. Sep (1) 1889), p. \[241\]-340.
+- (1): Mar 1886 (Nat. Nov. Apr(1) 1886; Bot. Centralbl. 5-9 Apr 1886; Bot. Zeit. 30 Apr 1886), p. \[1\]-84.
+- (2): Aug 1886 (rd. Genève 27 Sep 1886; Nat. Nov. Sep(2) 1886; Bot. Zeit. 29 Oct 1886; Flora 11 Sep 1886), p. \[85\]-240.
+- (3): Aug 1889 (rd. id. Aug 1889; Bot. Centralbl. 4 Sep 1889; Bot. Zeit. 27 Sep 1889; Nat. Nov. Sep (1) 1889), p. \[241\]-340.
 *Copies*: BR, FI, G, L, M(3), NY.
 *Ref*.: Anon., J. Bot. 23: 221-223. Jul 1885 (vol. 1).
 - Engler, A., Bot. Jahrb. 6(Lit.): 94-97. 1885.

@@ -39,10 +39,10 @@ Backer p. 516; Barnhart 3: 225 (b. 12 Mai 1856, d. 9 Sep 1901); Biol.-Dokum. 15:
 
 #### Composite works
 
-(1) Editor, *Botanische Mittheilungen aus den Tropen*, Hefte 1-9, 1888. 1901.
-(2) With E. Strasburger, F. Noll and H. Schenck, original author of the "Bonner Lehrbuch" or "Viermännerbuch", *Lehrbuch der Botanik für Hochschulen*, ed. 1, 1894, which went through many editions and is still current. See under E. Strasburger for editions and English translation. Schimper participated in eds. 1-5, 1894-1902.
-(3) *Rhizophoraceae, in* EP, *Nat. Pflanzen/am.* 3(7): 42-48. Jun 1892, 49-56. Apr 1893; reprinted p. \[i, recto of 42\], 42-56. (*Copy*: G).
-(4) R. Marloth, "*Das Kapland*... Mit Einfügung hinterlassener Schriften A.F.W. Schimper's..." Jena 1908, see TL-2/5434.
+- (1) Editor, *Botanische Mittheilungen aus den Tropen*, Hefte 1-9, 1888. 1901.
+- (2) With E. Strasburger, F. Noll and H. Schenck, original author of the "Bonner Lehrbuch" or "Viermännerbuch", *Lehrbuch der Botanik für Hochschulen*, ed. 1, 1894, which went through many editions and is still current. See under E. Strasburger for editions and English translation. Schimper participated in eds. 1-5, 1894-1902.
+- (3) *Rhizophoraceae, in* EP, *Nat. Pflanzen/am.* 3(7): 42-48. Jun 1892, 49-56. Apr 1893; reprinted p. \[i, recto of 42\], 42-56. (*Copy*: G).
+- (4) R. Marloth, "*Das Kapland*... Mit Einfügung hinterlassener Schriften A.F.W. Schimper's..." Jena 1908, see TL-2/5434.
 
 #### Eponymy
 

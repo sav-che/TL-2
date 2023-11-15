@@ -8,7 +8,8 @@ Hubbard, Charles Edward (1900-x), British botanist at Kew.
 
 #### Herbarium and types
 
-[[Collection K|K]]. – *Exsiccatae; Gramineae britannicae exsiccatae ex herbario kewensi distributae*.
+[[Collection K|K]].
+*Exsiccatae*; Gramineae britannicae exsiccatae ex herbario kewensi distributae*.
 
 #### Bibliography and biography
 

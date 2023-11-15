@@ -34,9 +34,9 @@ Backer p. 626; Barnhart 3: 494; BL 1: 230, 324, 2: 547, 732; BM 5: 2319; GR p. 5
 
 #### Composite works
 
-(1) *In* C.P. Thunberg, *Mus. nat. acad. Upsal.* app. 21, 1813, p. 3-20 two lichenological papers, see TL-2/14.352.
-(2) Editor, O. Swartz, *Adnotationes botanicae* 1829 (with obituary), TL-2/13.537.
-(3) Editor, *Öfversigt af de sednare årens botaniska arbeten* och upptäckter \[1820\], *Öfversigt af botaniska arbeten* och upptäckter för år. 1821-1825; *Årsberättelse om framstegen uti Botanik* för år 1826-1827; *Års-berättelser om botaniska arbeten* och upptäckter för år 1828-1852; translated by C.T. Beilschmied, *Jahresbericht* der Königl. Schwedischen Akademie der Wissenschaften, über die Fortschritte der Botanik im Jahre 1820-1843, Breslau 1834-1847 (see PR 10259).
+- (1) *In* C.P. Thunberg, *Mus. nat. acad. Upsal.* app. 21, 1813, p. 3-20 two lichenological papers, see TL-2/14.352.
+- (2) Editor, O. Swartz, *Adnotationes botanicae* 1829 (with obituary), TL-2/13.537.
+- (3) Editor, *Öfversigt af de sednare årens botaniska arbeten* och upptäckter \[1820\], *Öfversigt af botaniska arbeten* och upptäckter för år. 1821-1825; *Årsberättelse om framstegen uti Botanik* för år 1826-1827; *Års-berättelser om botaniska arbeten* och upptäckter för år 1828-1852; translated by C.T. Beilschmied, *Jahresbericht* der Königl. Schwedischen Akademie der Wissenschaften, über die Fortschritte der Botanik im Jahre 1820-1843, Breslau 1834-1847 (see PR 10259).
 
 #### Handwriting
 

@@ -12,8 +12,8 @@ Lindroth \[later: Liro\], Johan Ivar (1872-1943), Finnish botanist; 1921-1928 at
 
 #### Note
 
-(1) Many data on Lindroth and his publications were placed at our disposal by P. Isoviita and his colleagues at H.
-(2) The names of new species in the *Mycotheca fennica*, fasc. 1-6, were not validly published because they were published in 1935 with German descriptions (ICBN 36.1, see also 31.1). The accompanying "Mycotheca fennica. Die Etiketten" of nos. 1-300 bears the dates of printing (1-100) 20 Dec 1934, and (101-300) 28 Dec 1934 but the back cover of this separate work carries the date 1935. The fascicles 1-3 themselves were presented to the Vanamo Society on 22 Mar 1935. \[P. Isoviita\].
+- (1) Many data on Lindroth and his publications were placed at our disposal by P. Isoviita and his colleagues at H.
+- (2) The names of new species in the *Mycotheca fennica*, fasc. 1-6, were not validly published because they were published in 1935 with German descriptions (ICBN 36.1, see also 31.1). The accompanying "Mycotheca fennica. Die Etiketten" of nos. 1-300 bears the dates of printing (1-100) 20 Dec 1934, and (101-300) 28 Dec 1934 but the back cover of this separate work carries the date 1935. The fascicles 1-3 themselves were presented to the Vanamo Society on 22 Mar 1935. \[P. Isoviita\].
 
 #### Bibliography and biography
 

@@ -34,11 +34,11 @@ BB p. 303-304; BL 2: 724 \[index\]; BM 5: 2131; Bossert p. 405; CSP 8: 1106, 11:
 
 #### Composite works
 
-(1) Editor, *Scottish Naturalist* 7-10, 1883-1890.
-(2) Editor (for botany), *Annals of Scottish natural history* 1892-1911.
-(3) Editor, F.B.W. White, *The flora of Perthshire* 1898, see under F.B.W. White; Trail produced an introduction, a life of the author, a list of his publications and an appendix.
-(4) Contributed *Fungi* to G. Nicholson, *Ill. dict. gard*. 1884-1887, see TL-2/6783.
-(5) With John Stevenson (1836-1903), *Mycologia scotica*, supplement, Scottish Naturalist 8: 71, 127-130, 186-192. 1855, 8: 235-237, 264-267, 327-331. 1886.
+- (1) Editor, *Scottish Naturalist* 7-10, 1883-1890.
+- (2) Editor (for botany), *Annals of Scottish natural history* 1892-1911.
+- (3) Editor, F.B.W. White, *The flora of Perthshire* 1898, see under F.B.W. White; Trail produced an introduction, a life of the author, a list of his publications and an appendix.
+- (4) Contributed *Fungi* to G. Nicholson, *Ill. dict. gard*. 1884-1887, see TL-2/6783.
+- (5) With John Stevenson (1836-1903), *Mycologia scotica*, supplement, Scottish Naturalist 8: 71, 127-130, 186-192. 1855, 8: 235-237, 264-267, 327-331. 1886.
 
 #### Memorial volume
 

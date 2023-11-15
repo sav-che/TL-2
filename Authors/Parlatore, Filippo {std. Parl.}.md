@@ -44,8 +44,8 @@ AG 2(1): 246; Backer p. 658; Barnhart 3: 51; BJI 1: 42; BL 2: 158, 335-336, 394,
 
 #### Composite works
 
-(1) A.P. de Candolle, *Prodr*.: (a) *Coniferae*, 16(2): 361-521, 685. med. Jul 1868, (b) *Gnetaceae*, 6(2): 347-360, 685. med. Jul 1868.
-(2) with P.B. Webb, q.v., *Florula aethiopico-aegyptica* (1851).
+- (1) A.P. de Candolle, *Prodr*.: (a) *Coniferae*, 16(2): 361-521, 685. med. Jul 1868, (b) *Gnetaceae*, 6(2): 347-360, 685. med. Jul 1868.
+- (2) with P.B. Webb, q.v., *Florula aethiopico-aegyptica* (1851).
 
 #### Memorial publication
 

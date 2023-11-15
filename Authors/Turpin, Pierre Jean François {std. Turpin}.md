@@ -44,9 +44,9 @@ Ainsworth p. 154, 212, 315, 348; Backer p. 602; Barnhart 3: 410 (b. 11 Mar 1775,
 
 #### Composite works
 
-(1) Co-author, P.A. Poiteau, *Fl. paris*. 1808-1813, TL-2/8122.
-(2) Author and artist of the *Iconographie végétale*, of J.L.M. Poiret, *Leçons fl*. 1819-1820, vol. 3, see TL-2/8115. – The "letter" in vol. 1 of the octavo edition (6 p.) \[quarto ed. 4 p.\] of vol. 1 is addressed to the publisher, C.L.F. Pancoucke, and written by Turpin. – See also G. Schmid 1960, no. 1700. – Other copies of the octavo edition seen at MO, PH. – For the *Flore médicale* and the *Leçons de Flore* in which Turpin provided the plates, see TL-2/1091 and 8115 (includes Turpin's *Essai d'une iconographie élémentaire et philosophique des végétaux* of 1820, which constitutes the first edition of the *Iconographie végétale*.
-(3) See H.L. Duhamel du Monceau, *Traité arbr. fruit*., 1807-1835, TL2/1548, nouvelle edition augmentée... par A. Poiteau et P. Turpin; *also*: *Choix des arbres fruitiers* de Duhamel du Monceau. Nouvelle édition. Augmentée d'un grand nombre de fruits, par A. Poiteau et P. Turpin, Strasbourg (F.G. Levrault) 1838, p. \[i-iii\], *76 pl*. (col. copp.) with text. *Copy*: BR.
+- (1) Co-author, P.A. Poiteau, *Fl. paris*. 1808-1813, TL-2/8122.
+- (2) Author and artist of the *Iconographie végétale*, of J.L.M. Poiret, *Leçons fl*. 1819-1820, vol. 3, see TL-2/8115. – The "letter" in vol. 1 of the octavo edition (6 p.) \[quarto ed. 4 p.\] of vol. 1 is addressed to the publisher, C.L.F. Pancoucke, and written by Turpin. – See also G. Schmid 1960, no. 1700. – Other copies of the octavo edition seen at MO, PH. – For the *Flore médicale* and the *Leçons de Flore* in which Turpin provided the plates, see TL-2/1091 and 8115 (includes Turpin's *Essai d'une iconographie élémentaire et philosophique des végétaux* of 1820, which constitutes the first edition of the *Iconographie végétale*.
+- (3) See H.L. Duhamel du Monceau, *Traité arbr. fruit*., 1807-1835, TL2/1548, nouvelle edition augmentée... par A. Poiteau et P. Turpin; *also*: *Choix des arbres fruitiers* de Duhamel du Monceau. Nouvelle édition. Augmentée d'un grand nombre de fruits, par A. Poiteau et P. Turpin, Strasbourg (F.G. Levrault) 1838, p. \[i-iii\], *76 pl*. (col. copp.) with text. *Copy*: BR.
 
 #### Note
 

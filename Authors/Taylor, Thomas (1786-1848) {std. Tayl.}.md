@@ -34,12 +34,12 @@ BB p. 297; BL 2: 280, 722; BM 5: 2079; Clokie p. 252; CSP 5: 923-924; Desmond p.
 
 #### Composite works
 
-(1) With W.J. Hooker, *Muscol. brit*. ed. 1 (1818), ed. 2 (1827).– See TL-2/2989 and Sayre (1983) nos. 1, 3. For ed. 3 see under W. Wilson, *Bryol. brit*. 1855.
-(2) Part 2 (musci, hepaticae and lichenes) of J.T. Mackay, *Fl. hibern*. 1836. – See TL-2/5183 and Sayre (1983) no. 5.
-(3) *Lichenes anarctici* with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 634-658. 1 Dec 1844. – See Sayre (1983) no. 22.
-(4) *Hepaticae antarcticae*... with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 366-400. 1 Jul 1844, 3: 454-480. 1 Sep 1844; *Supplementum* ib. 4: 79-97. 1 Feb 1845. – See TL-2/2967 and Sayre (1983) nos. 14, 19, 23.
-(5) *Hepaticae Novae Zelandiae et Tasmaniae* with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 556-582. 1 Nov 1844. – See Sayre (1983) no. 20.
-(6) *Hepaticae* with J.D. Hooker in J.D. Hooker, *Fl. Antarctica* 144-168, *pl. 62-66*. 1 Mai 1845, 423-446, *pl. 156-161*. Feb-Mai 1847, *Lichenes*, id. 194-199, *pl. 79-80*. 1 Mai 1845, 519-542, *pl. 195-197* before 2 Oct 1847. – See TL-2/2964 and Sayre (1983) nos. 25, 30.
+- (1) With W.J. Hooker, *Muscol. brit*. ed. 1 (1818), ed. 2 (1827).– See TL-2/2989 and Sayre (1983) nos. 1, 3. For ed. 3 see under W. Wilson, *Bryol. brit*. 1855.
+- (2) Part 2 (musci, hepaticae and lichenes) of J.T. Mackay, *Fl. hibern*. 1836. – See TL-2/5183 and Sayre (1983) no. 5.
+- (3) *Lichenes anarctici* with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 634-658. 1 Dec 1844. – See Sayre (1983) no. 22.
+- (4) *Hepaticae antarcticae*... with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 366-400. 1 Jul 1844, 3: 454-480. 1 Sep 1844; *Supplementum* ib. 4: 79-97. 1 Feb 1845. – See TL-2/2967 and Sayre (1983) nos. 14, 19, 23.
+- (5) *Hepaticae Novae Zelandiae et Tasmaniae* with J.D. Hooker, *in* W.J. Hooker, Lond. J. Bot. 3: 556-582. 1 Nov 1844. – See Sayre (1983) no. 20.
+- (6) *Hepaticae* with J.D. Hooker in J.D. Hooker, *Fl. Antarctica* 144-168, *pl. 62-66*. 1 Mai 1845, 423-446, *pl. 156-161*. Feb-Mai 1847, *Lichenes*, id. 194-199, *pl. 79-80*. 1 Mai 1845, 519-542, *pl. 195-197* before 2 Oct 1847. – See TL-2/2964 and Sayre (1983) nos. 25, 30.
 
 #### Eponymy
 

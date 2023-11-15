@@ -29,11 +29,11 @@ Barnhart 2: 486; BM 3: 1305-1306; Bossert p. 266; CSP 8: 400, 10: 804, 17: 230; 
 
 #### Composite works
 
-(1) *Onagraceae, in*Martius, *Fl. bras.*13(2): 144-183, *pl. 28-38.*1 Mar 1875.
-(2) *Papilionaceae, in*Warming, *Symb. fl. bras.*20: 59-107. 3 Mai 1876; *Oenotheraceae, in*id 38: 45-46. 3 Mai 1892.
-(3) *Alismaceae, Butomaceae, Juncagineae, in*de Candolle, *Monogr. Phan.*2: 7-112, 952-953-Jun 1881.
-(4) *Leguminosae, in*J.Donnell Smith, *Enum. pl. Guatem.*4: 23-25. 1895.
-(5) *Leguminosae, in*T. Durand and H. Pittier, *Prim. fl. costaric.*1(1). 1891.
+- (1) *Onagraceae, in*Martius, *Fl. bras.*13(2): 144-183, *pl. 28-38.*1 Mar 1875.
+- (2) *Papilionaceae, in*Warming, *Symb. fl. bras.*20: 59-107. 3 Mai 1876; *Oenotheraceae, in*id 38: 45-46. 3 Mai 1892.
+- (3) *Alismaceae, Butomaceae, Juncagineae, in*de Candolle, *Monogr. Phan.*2: 7-112, 952-953-Jun 1881.
+- (4) *Leguminosae, in*J.Donnell Smith, *Enum. pl. Guatem.*4: 23-25. 1895.
+- (5) *Leguminosae, in*T. Durand and H. Pittier, *Prim. fl. costaric.*1(1). 1891.
 
 #### Eponymy
 

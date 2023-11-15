@@ -22,17 +22,22 @@ AG 12(2): 636; APN p. 197; BFM p. 282 (index); Biol.-Dokum. 6: 66.132-66.134; BL
 
 #### Outside our period
 
-(1) Co-author with G. Arietti & Valerio Giacomini, *Saggio su la distribuzione ecologia e variabilità della Campanul elatinoides Moretti endemismo insubrico* ... Bergamo (Edizioni Orobiche) 1955. – In series, Quaderno (Università di Pavia, Instituto Botanico), no. 2.
-(2) Co-author with Valerio Giacomini, *La Flora*... Conosci l'Italia, vol. 2... 1958, which was originally issued with the title "La Vegetazione..." and illus. by Leo Ferlan. (3) *Die Blumen der Berge: Auswahl und Text*... Milano (Aldo Martello Editore) 1957. (4) *Materiali per lo studio botanico del distretto garganico*... \[Pavia\] 1960, etc. (5) *Flora mediterranea: vegetazione e flora del litorali italici e mediterranei*... 1962, 1964, 2 vols.; \[Ed. 2\]... 1974. Illus. by Uberto Tosco (1915-x), see IH 2: 1033. (6) *I Funghi*... Milano (A. Martello Editore) 1964. – In series, I Miracoli della natura. Illus. by Uberto Tosco (1915-x); French transl. (by Christine Favart): *Les champignons*... Paris (Gründ) 2000.
-(7) *Gli alberi d'Italia*... Milano (A. Martello) 1967. – In series, I Miracoli della natura. Illus. by Uberto Tosco (1915-x), see IH 2: 1033.
-(8) *Note illustrative della carte della vegetazione reale d'Italia*... 1970, which accompanies a map (scale 1:1.034.226).
-(9) Editor of G. Dalla Fior, *La nostra flora*... ed. 3, 1969, see TL-2/5: 27; see also Kramer, K.U., Taxon 20(2/3): 374. Mai 1971 (Ed. 3 noticed).
-(10) Author with Germano Gambi, *Alberi: dendroflora italica*... Trento (Museo tridentino di scienze naturali) 1976. – *Note*: Cover title also in French, German and Serbo-Croatian. (11) Fenaroli published posthumously *Guida agli alberi d'Italia*... Firenze (Giunti Martello) 1984. – In series, I Tesori della natura.
+- (1) Co-author with G. Arietti & Valerio Giacomini, *Saggio su la distribuzione ecologia e variabilità della Campanul elatinoides Moretti endemismo insubrico* ... Bergamo (Edizioni Orobiche) 1955. – In series, Quaderno (Università di Pavia, Instituto Botanico), no. 2.
+- (2) Co-author with Valerio Giacomini, *La Flora*... Conosci l'Italia, vol. 2... 1958, which was originally issued with the title "La Vegetazione..." and illus. by Leo Ferlan.
+- (3) *Die Blumen der Berge: Auswahl und Text*... Milano (Aldo Martello Editore) 1957.
+- (4) *Materiali per lo studio botanico del distretto garganico*... \[Pavia\] 1960, etc.
+- (5) *Flora mediterranea: vegetazione e flora del litorali italici e mediterranei*... 1962, 1964, 2 vols.; \[Ed. 2\]... 1974. Illus. by Uberto Tosco (1915-x), see IH 2: 1033.
+- (6) *I Funghi*... Milano (A. Martello Editore) 1964. – In series, I Miracoli della natura. Illus. by Uberto Tosco (1915-x); French transl. (by Christine Favart): *Les champignons*... Paris (Gründ) 2000.
+- (7) *Gli alberi d'Italia*... Milano (A. Martello) 1967. – In series, I Miracoli della natura. Illus. by Uberto Tosco (1915-x), see IH 2: 1033.
+- (8) *Note illustrative della carte della vegetazione reale d'Italia*... 1970, which accompanies a map (scale 1:1.034.226).
+- (9) Editor of G. Dalla Fior, *La nostra flora*... ed. 3, 1969, see TL-2/5: 27; see also Kramer, K.U., Taxon 20(2/3): 374. Mai 1971 (Ed. 3 noticed).
+- (10) Author with Germano Gambi, *Alberi: dendroflora italica*... Trento (Museo tridentino di scienze naturali) 1976. – *Note*: Cover title also in French, German and Serbo-Croatian.
+- (11) Fenaroli published posthumously *Guida agli alberi d'Italia*... Firenze (Giunti Martello) 1984. – In series, I Tesori della natura.
 
 #### Composite works
 
-(1) Fenaroli was one of four mycologists who edited G. Bresàdola, *Icon. Mycol.*... 1927-1933, vols. 1-26, and was a co-editor of vol. 27 (a suppl. in three fascs.) 1940-1941, see TL-2/1, nr. 745.
-(2) Co-author with Leo Tschermak (1882-x), *Die natürliche Verbreitung der Lärche in den Ostalpen*... Wien (J. Springer) 1935.
+- (1) Fenaroli was one of four mycologists who edited G. Bresàdola, *Icon. Mycol.*... 1927-1933, vols. 1-26, and was a co-editor of vol. 27 (a suppl. in three fascs.) 1940-1941, see TL-2/1, nr. 745.
+- (2) Co-author with Leo Tschermak (1882-x), *Die natürliche Verbreitung der Lärche in den Ostalpen*... Wien (J. Springer) 1935.
 
 ### Publications
 

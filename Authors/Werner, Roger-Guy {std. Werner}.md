@@ -28,9 +28,9 @@ Barnhart 3: 478; GR p. 300-301, cat. p. 73; LS suppl. 29769-29780; Roon p. 122; 
 
 #### Note
 
-(1) Werner published a valuable *Prodrome pour une histoire des botanistes de souche Lorraine*, Bull. Acad. Soc. Lorr. Sci., Nancy 6(2): 98-126. 1966.
-(2) Notices of publications by R.G. Werner *in* Rev. bryol. lichénol. 5(2-3): 154, 158, 159. 1933, 6: 221. 1934, 7: 309, 322. 1935, 8(3-4): 233, 237. 1935, 9(1-2): 166, 167, 168, 170. 1936, 11(1-2): 124, 128. 1939, 18(3-4): 200. 1949, 19(1-2): 130, 142. 1950, 24(3-4): 408. 1955, 26(3-4): 290. 1957, 30(1-2): 183. 1961, 30(3-4): 304. 1961, 34(3-4): 976. 1967, 37(3): 717. 1971, 39(1): 203. 1973, 41(4): 529. 1976.
-(3) We can give only a small sample of the many publications of this author. For the main bibliography (172 nos.) see Llimona (1979).
+- (1) Werner published a valuable *Prodrome pour une histoire des botanistes de souche Lorraine*, Bull. Acad. Soc. Lorr. Sci., Nancy 6(2): 98-126. 1966.
+- (2) Notices of publications by R.G. Werner *in* Rev. bryol. lichénol. 5(2-3): 154, 158, 159. 1933, 6: 221. 1934, 7: 309, 322. 1935, 8(3-4): 233, 237. 1935, 9(1-2): 166, 167, 168, 170. 1936, 11(1-2): 124, 128. 1939, 18(3-4): 200. 1949, 19(1-2): 130, 142. 1950, 24(3-4): 408. 1955, 26(3-4): 290. 1957, 30(1-2): 183. 1961, 30(3-4): 304. 1961, 34(3-4): 976. 1967, 37(3): 717. 1971, 39(1): 203. 1973, 41(4): 529. 1976.
+- (3) We can give only a small sample of the many publications of this author. For the main bibliography (172 nos.) see Llimona (1979).
 
 #### Eponymy
 

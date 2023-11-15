@@ -55,8 +55,8 @@ Barnhart 1: 332 (b. 28 Sep 1809, Southampton, Mass., d. 6 Apr 1899, Apalachicola
 
 #### Notes
 
-(1): Chapman published with D.C. Eaton the second edition of *The ferns of North America*, ed. 2, p. \[i\]-xxviii, \[1\]-698. New York 1883. *Copy*: BM, *in* A.W. Chapman, *Flora of the southern United States*... second edition 1883 (see BM 2: 502)
-(2): *Flora of the southern United States*, New York 1860. Oct., see TL-2/1086. – *Addition*: *Reissue* 2: 1872, p. \[i\*\], \[i\]-xxxviii, \[xxxix-xl\], \[1\]-621. *Copies*: PH, Morton Arboretum (inf. M.T. Stieber).
+- (1): Chapman published with D.C. Eaton the second edition of *The ferns of North America*, ed. 2, p. \[i\]-xxviii, \[1\]-698. New York 1883. *Copy*: BM, *in* A.W. Chapman, *Flora of the southern United States*... second edition 1883 (see BM 2: 502)
+- (2): *Flora of the southern United States*, New York 1860. Oct., see TL-2/1086. – *Addition*: *Reissue* 2: 1872, p. \[i\*\], \[i\]-xxxviii, \[xxxix-xl\], \[1\]-621. *Copies*: PH, Morton Arboretum (inf. M.T. Stieber).
 
 #### Handwriting
 

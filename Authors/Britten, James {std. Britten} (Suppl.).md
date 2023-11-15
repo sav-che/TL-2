@@ -41,13 +41,13 @@ Barnhart 1: 253 (b. 3 Mai 1846, d. 8 Oct 1924); BB p. 45-46; BFM 2317, 2348; BL 
 
 #### Composite works
 
-(1)-(8) see TL-2/1: 330.
-(9) *London catalogue*, ed. 6, checked for plants seen in the county of Berks., 1873.
-(10) Idem plants seen in the county of Buckingham, 1873.
-(11) Edited *The Quarterly Magazine of the Wycombe natural history society* vol. 1, no. 3-ii, 1866-1870.
-(12) *Crassulaceae* \[of Tropical Africa\] *in* D. Oliver, Fl. trop. Afr. 2: 385-401. 1871, see TL-2/7055 (3: 825).
-(13) *List of British seed-plants and ferns* 1907 by A.B. Rendle and James Britten, see TL-2/9066.
-(14) *Some early Cape botanists and collectors*, J. Linn. Soc., Bot. 45: 29-51, *pl. 4.* 1920.
+- (1)-(8) see TL-2/1: 330.
+- (9) *London catalogue*, ed. 6, checked for plants seen in the county of Berks., 1873.
+- (10) Idem plants seen in the county of Buckingham, 1873.
+- (11) Edited *The Quarterly Magazine of the Wycombe natural history society* vol. 1, no. 3-ii, 1866-1870.
+- (12) *Crassulaceae* \[of Tropical Africa\] *in* D. Oliver, Fl. trop. Afr. 2: 385-401. 1871, see TL-2/7055 (3: 825).
+- (13) *List of British seed-plants and ferns* 1907 by A.B. Rendle and James Britten, see TL-2/9066.
+- (14) *Some early Cape botanists and collectors*, J. Linn. Soc., Bot. 45: 29-51, *pl. 4.* 1920.
 
 ### Publications
 

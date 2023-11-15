@@ -27,7 +27,8 @@ Amer. Men Sci. ed. 10: 1246; APN p. 207; Barnhart 1: 561; BFM p. 283 (index); Bo
 #### Outside our period
 
 Author or co-author of several influential and successful textbooks, incl.:
-(1) Foster, *Practical plant anatomy*, New York (D. Van Nostrand Co., Inc.) 1942; ed. 2, Id. ... 1949; reprint of ed. 2,... Huntington, New York (R.E. Krieger Pub. Co.) 1974; this commercially published textbook preceeded by at least three non-commercial versions. (2) Foster & E.M. Gifford, Jr. (a former student), *Comparative morphology of vascular plants*, San Francisco (W.H. Freeman) 1959; ed. 2,... Id. 1974; and Chinese transl.,... Beijing (Ke xue chu ban she) 1963; and ed. 3, revised and retitled, with E.M. Gifford, Jr. as first author: *Morphology and evolution of vascular plants*, New York (W.H. Freeman and Co.) 1988. – *Note*: The publisher also distributed a brochure (cover, 8 lvs.) entitled "Comparative Morphology of Vascular Plants... Specimen pages for your inspection". *Copy*: K.
+- (1) Foster, *Practical plant anatomy*, New York (D. Van Nostrand Co., Inc.) 1942; ed. 2, Id. ... 1949; reprint of ed. 2,... Huntington, New York (R.E. Krieger Pub. Co.) 1974; this commercially published textbook preceeded by at least three non-commercial versions.
+- (2) Foster & E.M. Gifford, Jr. (a former student), *Comparative morphology of vascular plants*, San Francisco (W.H. Freeman) 1959; ed. 2,... Id. 1974; and Chinese transl.,... Beijing (Ke xue chu ban she) 1963; and ed. 3, revised and retitled, with E.M. Gifford, Jr. as first author: *Morphology and evolution of vascular plants*, New York (W.H. Freeman and Co.) 1988. – *Note*: The publisher also distributed a brochure (cover, 8 lvs.) entitled "Comparative Morphology of Vascular Plants... Specimen pages for your inspection". *Copy*: K.
 
 ### Publications
 

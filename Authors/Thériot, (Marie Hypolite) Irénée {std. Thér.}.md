@@ -8,7 +8,8 @@ Thériot, \[Marie Hypolite\] Irénée (1859-1947), French bryologist and schoolt
 
 #### Herbarium and types
 
-[[Collection PC|PC]] (26.000 musci), P. – Other material at [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]]-BR, [[Collection LS|LS]], [[Collection SI|SI]], [[Collection W|W]], [[Collection WRSL|WRSL]]. Thériot's phanerogamic herbarium was acquired by Charbonnel. *Exsiccatae*: *Musci Novae-Caledoniae exsiccati*, fasc. 1-8, nos. 1-209, Le Havre 1908-1929, for details see G. Sayre (1971). Sets at [[Collection B|B]] (mainly destr.), [[Collection FH|FH]], [[Collection MANCH|MANCH]], [[Collection PC|PC]]. – Collected by Isidore Franc (1879-1969) at Nouméa. – *Letters* to F. Renauld at [[Collection PC|PC]], to Brotherus (146) in [[Collection H|H]]-UB. Other letters at [[Collection G|G]] and [[Collection NY|NY]].
+[[Collection PC|PC]] (26.000 musci), P. – Other material at [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]]-BR, [[Collection LS|LS]], [[Collection SI|SI]], [[Collection W|W]], [[Collection WRSL|WRSL]]. Thériot's phanerogamic herbarium was acquired by Charbonnel.
+*Exsiccatae*: *Musci Novae-Caledoniae exsiccati*, fasc. 1-8, nos. 1-209, Le Havre 1908-1929, for details see G. Sayre (1971). Sets at [[Collection B|B]] (mainly destr.), [[Collection FH|FH]], [[Collection MANCH|MANCH]], [[Collection PC|PC]]. – Collected by Isidore Franc (1879-1969) at Nouméa. – *Letters* to F. Renauld at [[Collection PC|PC]], to Brotherus (146) in [[Collection H|H]]-UB. Other letters at [[Collection G|G]] and [[Collection NY|NY]].
 
 #### Bibliography and biography
 

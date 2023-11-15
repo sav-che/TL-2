@@ -29,9 +29,9 @@ APN p. 243 (d. "1872"); Baillon 2: 744; Barnhart 2: 89; BM 2: 737, 6: 411; CSP 3
 #### Composite works
 
 Co-author with A.T. Brongniart of:
-(1) *Notice sur les Saxifragées-Cunoniées*... 1862, see TL-2/Suppl. 3, nr. 23.134;
-(2) *Description de quelques plantes de la Nouvelle-Calédonie*... 1868, see TL-2/Suppl. 3, nr. 23.138; and
-(3) *Fragments flore Nouvelle-Calédonie*... 1871, see TL-2/Suppl. 3, nr. 23.139.
+- (1) *Notice sur les Saxifragées-Cunoniées*... 1862, see TL-2/Suppl. 3, nr. 23.134;
+- (2) *Description de quelques plantes de la Nouvelle-Calédonie*... 1868, see TL-2/Suppl. 3, nr. 23.138; and
+- (3) *Fragments flore Nouvelle-Calédonie*... 1871, see TL-2/Suppl. 3, nr. 23.139.
 
 ### Publications
 

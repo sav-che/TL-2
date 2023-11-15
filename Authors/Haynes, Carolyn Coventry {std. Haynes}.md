@@ -8,7 +8,8 @@ Haynes, Carolyn Coventry (1858-1951), American hepaticologist at New York.
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (the original herbarium of M. A. Howe); material at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection W|W]]. Exsiccatae: *American hepaticae*, dec. 1-12, nos. 1-120, Highlands, N.J. 1908-1913. Sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]].
+[[Collection NY|NY]] (the original herbarium of M. A. Howe); material at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection W|W]].
+*Exsiccatae*: *American hepaticae*, dec. 1-12, nos. 1-120, Highlands, N.J. 1908-1913. Sets at [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection NY|NY]].
 *Ref*.: O.E.J., Bryologist 19(5): 79. 1916.
 - Sayre, G., Mem. New York Bot. Gard. 19(2): 211-212. 1971; Bryologist 80: 509. 1978.
 

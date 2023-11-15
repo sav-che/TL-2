@@ -57,11 +57,11 @@ Barnhart 1: 454; BFM p. 280; BL 1: 293 (index); BM 1: 459, 6: 268; Bossert p. 10
 
 #### Composite works
 
-(1) L. Diels and G. Schweinfurth, *Vegetationstypen* aus der *Kolonie Eritrea* ser. 2. 8, *pl. 55-60* with text. – See TL-2/5: 432. – Mildbraed no. 29.
-(2) *Vegetationstypen vom untersten Kongo*, *in* G. Karsten und H. Schenck, *Vegetationsbilder* ser. 12, Heft 8: 10 p. text, *pl. 43-48.* 1915.
-(3) *Ersatzstoffe aus dem Pflanzenreich*. Ein Hilfsbuch zum Erkennen und Verwerten der heimischen Pflanzen für Zwecke der Ernährung und Industrie in Kriegs- und Friedenszeiten. Edited by L. Diels. 1918, cover-t.p., p. \[i-vii\], \[1\]-418. *Copies*: BR, G. – Mildbraed no. 111.
-(4) *Südwest-Australien* (Co-author E. Pritzel), *in* G. Karsten und H. Schenck, *Vegetationsbilder*, ser. 24, Heft 1 and 2: 15 p. text, *pl. 1-12.* 1933-1935.
-(5) *Wälder in Nordost-Queensland* (Co-author E. Pritzel), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 24, Heft 3. 8 p. text, *pl. 13-18.* 1933-1935.
+- (1) L. Diels and G. Schweinfurth, *Vegetationstypen* aus der *Kolonie Eritrea* ser. 2. 8, *pl. 55-60* with text. – See TL-2/5: 432. – Mildbraed no. 29.
+- (2) *Vegetationstypen vom untersten Kongo*, *in* G. Karsten und H. Schenck, *Vegetationsbilder* ser. 12, Heft 8: 10 p. text, *pl. 43-48.* 1915.
+- (3) *Ersatzstoffe aus dem Pflanzenreich*. Ein Hilfsbuch zum Erkennen und Verwerten der heimischen Pflanzen für Zwecke der Ernährung und Industrie in Kriegs- und Friedenszeiten. Edited by L. Diels. 1918, cover-t.p., p. \[i-vii\], \[1\]-418. *Copies*: BR, G. – Mildbraed no. 111.
+- (4) *Südwest-Australien* (Co-author E. Pritzel), *in* G. Karsten und H. Schenck, *Vegetationsbilder*, ser. 24, Heft 1 and 2: 15 p. text, *pl. 1-12.* 1933-1935.
+- (5) *Wälder in Nordost-Queensland* (Co-author E. Pritzel), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 24, Heft 3. 8 p. text, *pl. 13-18.* 1933-1935.
 
 #### Eponymy
 

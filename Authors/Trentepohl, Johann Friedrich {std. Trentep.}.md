@@ -12,11 +12,11 @@ Owned a moss herbarium which came to the museum in Oldenburg (coll. Oldenburg no
 
 #### Note
 
-(1) The entomologist Johann Jacob Trentepohl (*fl*. 1800-1830) collected plants in China and Guinea (specimens at C). Karl Trentepohl listed by LS and Stevenson is an error for J.F. Trentepohl.
+- (1) The entomologist Johann Jacob Trentepohl (*fl*. 1800-1830) collected plants in China and Guinea (specimens at C). Karl Trentepohl listed by LS and Stevenson is an error for J.F. Trentepohl.
 
 #### Note
 
-(2) Trentepohl left a mss. *Flora von Oldenburg* (at Oldenburg Museum); it was published by Karl Hagena q.v. TL-2/2260 (additional *copies* seen by us: B-S, HH; see also note by D.F.L. von Schlechtendal, Linnaea 13 (Litt.): 168-169. 1840. The preface to the *Flora* contains biographical data on Trentepohl.
+- (2) Trentepohl left a mss. *Flora von Oldenburg* (at Oldenburg Museum); it was published by Karl Hagena q.v. TL-2/2260 (additional *copies* seen by us: B-S, HH; see also note by D.F.L. von Schlechtendal, Linnaea 13 (Litt.): 168-169. 1840. The preface to the *Flora* contains biographical data on Trentepohl.
 
 #### Bibliography and biography
 

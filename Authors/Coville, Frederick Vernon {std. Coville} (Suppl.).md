@@ -45,10 +45,10 @@ Barnhart 1: 389 (b. 23 Mar 1867, Preston, N.Y., d. 9 Jan 1937, Washington, D.C.)
 
 #### Composite works
 
-(1) The *botanical explorations* of Thomas *Nuttall* in California... Washington 1899. Oct., *in* Proc. Biol. Soc. Washington 33: 109-121. 1901. – See TL-2/3: 782.
-(2) *in* A.H. Brooks, *List of plants*, collected in *Seward Peninsula* by A.J. Collier, *in* Reconn. Cape Nome... Alaska in 1900, p. 167-174. Washington 1901. – B L 1: 131.
-(3) *in* A.H. Brooks, The *Mount McKinley region*, Alaska, *in* U.S. Geol. Surv. prof. Paper 70: 208-211. 1911.
-(4) *Standardized plant names*, American joint committee on horticultural nomenclature, Salem, Mass., see TL-2/7074. For a second edition see W.A. Dayton (1932).
+- (1) The *botanical explorations* of Thomas *Nuttall* in California... Washington 1899. Oct., *in* Proc. Biol. Soc. Washington 33: 109-121. 1901. – See TL-2/3: 782.
+- (2) *in* A.H. Brooks, *List of plants*, collected in *Seward Peninsula* by A.J. Collier, *in* Reconn. Cape Nome... Alaska in 1900, p. 167-174. Washington 1901. – B L 1: 131.
+- (3) *in* A.H. Brooks, The *Mount McKinley region*, Alaska, *in* U.S. Geol. Surv. prof. Paper 70: 208-211. 1911.
+- (4) *Standardized plant names*, American joint committee on horticultural nomenclature, Salem, Mass., see TL-2/7074. For a second edition see W.A. Dayton (1932).
 
 ### Publications
 

@@ -8,7 +8,8 @@ Croall, Alexander (1809-1885), British botanist.
 
 #### Herbarium and types
 
-[[Collection STI|STI]], further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection K|K]], [[Collection GL|GL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MEL|MEL]] and [[Collection OXF|OXF]]. – Exsiccatae: *Plants of Braemar*, dried specimens of the plants illustrative of Braemar, North Britain... fasc. 1-6, nos. 1-602, 1857, sets at [[Collection BK|BK]] and [[Collection K|K]].
+[[Collection STI|STI]], further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection K|K]], [[Collection GL|GL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MEL|MEL]] and [[Collection OXF|OXF]].
+*Exsiccatae*: *Plants of Braemar*, dried specimens of the plants illustrative of Braemar, North Britain... fasc. 1-6, nos. 1-602, 1857, sets at [[Collection BK|BK]] and [[Collection K|K]].
 *Ref*.: IH 2: 144.
 - Kent, Brit. herbaria 49. 1957.
 - Sayre, Mem. New York Bot. Gard. 19(1): 10-11. 1969.

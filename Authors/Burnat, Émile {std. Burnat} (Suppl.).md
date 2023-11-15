@@ -39,18 +39,18 @@ AG 5(2): 214, 6(1): 119, 12(2): 60; Barnhart 1: 286 (b. 21 Oct 1828, Nant-sur-Ve
 
 #### Composite works
 
-(1) H. Christ, *Le genre Rosa*... Traduit de l'allemand du "Botanisches Centralblatt" 1884, no. 23-26, par Émile Burnat, Oct. 56 p. Genève, Bâle et Lyon (H. Georg) 1885, see Bot. Centralbl. 22(21): 243. 1885.
-(2) *Études sur les Cytises des Alpes maritimes*... Genève et Bâle (Georg & Co.,...) Lyon (même maison) Juin 1894, see under J. Briquet, issued in a series Émile Burnat, Matériaux pour servir à l'histoire de la flore des Alpes maritimes.
-(3) *Monographie des Buplèvres des Alpes maritimes*... Bâle, Genève (Georg & Co.) 1897, see under J. Briquet (as in (2)).
-(4) *Monographie des Centaurées des Alpes maritimes*... Bâle, Genève (Georg & Co.) 1902. See under J. Briquet (as in (2)).
-(5) *Matériaux pour servir à l'histoire de la flore des Alpes maritimes*, a series brought out by Burnat with publications also of other authors, e.g. J. Briquet q.v.
-(6) Briquet, J., *Une lettre d'Alphonse de Candolle à Émile Burnat*, J. Bot. \[Morot\] 11(4): 76-80. 1897.
-(7) Burnat, É., *Notes sur les jardins botaniques alpins* \[With letters by H. Christ and J. Briquet, Sion 1898, Bull. Trav. La Murithienne 1897, appendice, p. 1-24\].
+- (1) H. Christ, *Le genre Rosa*... Traduit de l'allemand du "Botanisches Centralblatt" 1884, no. 23-26, par Émile Burnat, Oct. 56 p. Genève, Bâle et Lyon (H. Georg) 1885, see Bot. Centralbl. 22(21): 243. 1885.
+- (2) *Études sur les Cytises des Alpes maritimes*... Genève et Bâle (Georg & Co.,...) Lyon (même maison) Juin 1894, see under J. Briquet, issued in a series Émile Burnat, Matériaux pour servir à l'histoire de la flore des Alpes maritimes.
+- (3) *Monographie des Buplèvres des Alpes maritimes*... Bâle, Genève (Georg & Co.) 1897, see under J. Briquet (as in (2)).
+- (4) *Monographie des Centaurées des Alpes maritimes*... Bâle, Genève (Georg & Co.) 1902. See under J. Briquet (as in (2)).
+- (5) *Matériaux pour servir à l'histoire de la flore des Alpes maritimes*, a series brought out by Burnat with publications also of other authors, e.g. J. Briquet q.v.
+- (6) Briquet, J., *Une lettre d'Alphonse de Candolle à Émile Burnat*, J. Bot. \[Morot\] 11(4): 76-80. 1897.
+- (7) Burnat, É., *Notes sur les jardins botaniques alpins* \[With letters by H. Christ and J. Briquet, Sion 1898, Bull. Trav. La Murithienne 1897, appendice, p. 1-24\].
 
 #### Notes
 
-(1) Charpin, A. and R. Salanon, Matériaux pour la flore des Alpes maritimes, *Catalogue de l'Herbier d'Émile Burnat* déposé au Conservatoire de la Ville de Genève \[G\]: I. *Lycopodiaceae-Lentibulariaceae*, Boissiera 36: 1-258, i-vii. 13 Sep 1985; id. II. *Rubiaceae-Orchidaceae*, Boissiera 41: 1-339. 23 Jul 1988.
-(2) *Liste chronologique des publications* d'Émile Burnat. Vevey 1900, 12 p. (autogr.).
+- (1) Charpin, A. and R. Salanon, Matériaux pour la flore des Alpes maritimes, *Catalogue de l'Herbier d'Émile Burnat* déposé au Conservatoire de la Ville de Genève \[G\]: I. *Lycopodiaceae-Lentibulariaceae*, Boissiera 36: 1-258, i-vii. 13 Sep 1985; id. II. *Rubiaceae-Orchidaceae*, Boissiera 41: 1-339. 23 Jul 1988.
+- (2) *Liste chronologique des publications* d'Émile Burnat. Vevey 1900, 12 p. (autogr.).
 
 ### Publications
 

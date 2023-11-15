@@ -92,10 +92,10 @@ ADB 31: 417-421; Ainsworth p. 117, 121, 315; Backer p. 518; Barnhart 3: 229 (b. 
 
 #### Composite works
 
-(1) With C. Nägeli, editor of *Z. wiss. Bot.* 1844-1846, TL-2/6605. – All papers are by Nägeli.
-(2) Introduction to C. Bogenhard, *Taschenb. Fl. Jena* 1850. TL-2/598. – *Review*. Frey, Flora 35: 613-621. 1852.
-(3) With E.E.F.W. Schmid, *Die geognostischen Verhältnisse des Saalthaies bei Jena*, 1846 see under Schmid.
-(4) Preface to P. Harting, *Die Macht des Kleinen* sichtbar in der Bildung der Rinde unseres Erdballs... 1851.
+- (1) With C. Nägeli, editor of *Z. wiss. Bot.* 1844-1846, TL-2/6605. – All papers are by Nägeli.
+- (2) Introduction to C. Bogenhard, *Taschenb. Fl. Jena* 1850. TL-2/598. – *Review*. Frey, Flora 35: 613-621. 1852.
+- (3) With E.E.F.W. Schmid, *Die geognostischen Verhältnisse des Saalthaies bei Jena*, 1846 see under Schmid.
+- (4) Preface to P. Harting, *Die Macht des Kleinen* sichtbar in der Bildung der Rinde unseres Erdballs... 1851.
 
 #### Eponymy
 
@@ -137,7 +137,7 @@ ADB 31: 417-421; Ainsworth p. 117, 121, 315; Backer p. 518; Barnhart 3: 229 (b. 
 
 **Notes**
 *Ed*. \[*1*\]: in two vols., 1842-1843. *Copies*: B, B-S, G, HH, M, NY, PH. (*1*): 6-9 Apr 1842 (p. xx: Feb 1842; Hinrichs), p. \[i\]-xxvi, \[1\]-289, \[291-292\]. – "Motto: Ich bild' mir nicht ein, was Rechtes zu wissen. *Faust*". – Methodology, vegetable matter, the plant cell.
-(2): 1-7 Jul 1843 (p. viii: Apr 1843; Hinrichs 1-7 Jul 1843, Flora 1-7 Jul 1843), p. \[i\]-xviii, \[1\]-564. – Morphology, organology. – See also Th. Hartig, Beitr. Entw.-Gesch. Pflanzen, Berlin 1843, 28 p. and G. Pr. \[Pritzel\], Bot. Zeit. 1: 731-733. 1843; Schleidens reply: Die neuern Einwürfe gegen meine Lehre von der Befruchtung... Leipzig 1844, 38 p.
+- (2): 1-7 Jul 1843 (p. viii: Apr 1843; Hinrichs 1-7 Jul 1843, Flora 1-7 Jul 1843), p. \[i\]-xviii, \[1\]-564. – Morphology, organology. – See also Th. Hartig, Beitr. Entw.-Gesch. Pflanzen, Berlin 1843, 28 p. and G. Pr. \[Pritzel\], Bot. Zeit. 1: 731-733. 1843; Schleidens reply: Die neuern Einwürfe gegen meine Lehre von der Befruchtung... Leipzig 1844, 38 p.
 *Ed. 2*: in two vols. 1845-1846. *Copies*: B, FI, H, M, MICH, MO(2), NY. – "Zweite gänzlich umgearbeitete Auflage" Alternative t.p.: "*Die Botanik als inductive Wissenschaft behandelt*..." A clarion call for an experimental approach, contrary to "Das geistlose Speziesgetändel".
 (*1*): 1845 (p. xvi: Oct 1844; Flora rd Dec 1845), p. \[ii, alt. t.p.\].-xx, \[xxi, err.\], \[1\]-329, *1 pl*. (uncol. copp.).
 (*2*): 1846 (Flora rd Jun 1846), p. \[ii\]-xvi, \[1\]-614, \[1\], *pl. 1-4.* \[uncol. copp.).

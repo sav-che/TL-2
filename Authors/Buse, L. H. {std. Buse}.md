@@ -10,7 +10,8 @@ Buse, L. H. (1819-1888), Dutch botanist and lawyer.
 
 #### Herbarium and types
 
-[[Collection L|L]] and [[Collection NBV|NBV]]. – Exsiccatae: *Hepaticae neerlandicae* (1855-1858) at [[Collection FH|FH]], *Musci neerlandici in speciminis exsiccatis* (Nederlands mossoorten in gedroogde exemplaren) (fasc. 1-7, nos. 1-175, Haarlem 1855-1858) sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], and a complete set at the public library Rotterdam (fide Wachter 1937).
+[[Collection L|L]] and [[Collection NBV|NBV]].
+*Exsiccatae*: *Hepaticae neerlandicae* (1855-1858) at [[Collection FH|FH]], *Musci neerlandici in speciminis exsiccatis* (Nederlands mossoorten in gedroogde exemplaren) (fasc. 1-7, nos. 1-175, Haarlem 1855-1858) sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], and a complete set at the public library Rotterdam (fide Wachter 1937).
 *Ref*.: IH 2: 109.
 - Suringar, Ned. kruidk. Archief 5: 376-377. 1891.
 - Wachter, Ann. bryol. 10: 157. 1937 (1938).

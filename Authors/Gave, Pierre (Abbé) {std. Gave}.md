@@ -24,8 +24,8 @@ Barnhart 2: 34; BL 2: 198, 658; CSP 15: 237; IH 2: 219; Portr. 3: 469; TL-2/Supp
 
 #### Composite works
 
-(1) Contributed a "Florule des environs de Faucigny" to François Bouchage, *Les Ruines de Faucigny, près Bonneville* (*Haute-Savoie*)... 1891.
-(2) Co-author with A. Constantin, *Fl. popul. Savoie*... 1908 (TL-2/Suppl. 4, nr. 27.220), to which Gave also contributed a "Petit supplément à la Flore populaire de Savoie... 1905-1906".
+- (1) Contributed a "Florule des environs de Faucigny" to François Bouchage, *Les Ruines de Faucigny, près Bonneville* (*Haute-Savoie*)... 1891.
+- (2) Co-author with A. Constantin, *Fl. popul. Savoie*... 1908 (TL-2/Suppl. 4, nr. 27.220), to which Gave also contributed a "Petit supplément à la Flore populaire de Savoie... 1905-1906".
 
 ### Publications
 

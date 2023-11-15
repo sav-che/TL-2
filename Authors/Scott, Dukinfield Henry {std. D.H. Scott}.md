@@ -35,9 +35,9 @@ Andrews p. 329-330; Barnhart 3: 251 (b. 28 Nov 1854, d. 29 Jan 1934); BJI 1: 54,
 
 #### Composite works
 
-(1) Editor, *Annals of Botany* 7 (Mar 1893)-47 (Oct 1933).
-(2) With W.C. Williamson. *Further observations on the organization of the fossil plants of the coal-measures*, 3 parts 1895-1896, see under Williamson.
-(3) Translated and annotated (with F.O. Bower) H.A. de Bary, *Comparative Anatomy of the vegetative organs of the phanerogams*, 1884 (orig. *vergleichende Anatomie der Vegetationsorgane der Phanerogamen und Farne* in W.F.B. Hofmeister, Handb. physiol.-Bot. 3, 1877).
+- (1) Editor, *Annals of Botany* 7 (Mar 1893)-47 (Oct 1933).
+- (2) With W.C. Williamson. *Further observations on the organization of the fossil plants of the coal-measures*, 3 parts 1895-1896, see under Williamson.
+- (3) Translated and annotated (with F.O. Bower) H.A. de Bary, *Comparative Anatomy of the vegetative organs of the phanerogams*, 1884 (orig. *vergleichende Anatomie der Vegetationsorgane der Phanerogamen und Farne* in W.F.B. Hofmeister, Handb. physiol.-Bot. 3, 1877).
 
 #### Note
 

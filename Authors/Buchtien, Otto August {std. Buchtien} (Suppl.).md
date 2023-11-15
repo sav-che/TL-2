@@ -11,9 +11,9 @@
 #### Herbarium and types
 
 [[Collection US|US]] (22.000, rd. 1922; various collectors), further material in [[Collection AMES|AMES]], [[Collection B|B]] (2000; also from Herb. Ullepitsch), [[Collection BAF|BAF]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GE|GE]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection HH (sensu TL-2)|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LPB|LPB]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NSW|NSW]], [[Collection NY|NY]], [[Collection O|O]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SGO|SGO]], [[Collection SI|SI]], [[Collection SP|SP]], [[Collection U|U]], [[Collection VT|VT]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WRSL|WRSL]], [[Collection WU|WU]], [[Collection Z|Z]].
-(1) Some collections made with Ernst Karl Franz Günther, see IH 2: 245.
-(2) Buchtien's number book (field notes etc) is at [[Collection NY|NY]].
-(3) Buchtien distributed exsiccatae: *Herbarium bolivianum* 1911-1928, included in our list above of herbaria holding B's material.
+- (1) Some collections made with Ernst Karl Franz Günther, see IH 2: 245.
+- (2) Buchtien's number book (field notes etc) is at [[Collection NY|NY]].
+- (3) Buchtien distributed exsiccatae: *Herbarium bolivianum* 1911-1928, included in our list above of herbaria holding B's material.
 
 #### Bibliography and biography
 

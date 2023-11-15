@@ -68,7 +68,7 @@ AG 2(2): 319; Backer p. 659; BJI 1: 45; BL 1: 246, 247, 248, 312; BM 4: 1565, 8:
 - Wittrock, V.B., Acta Horti Berg. 3(2): 100. 1903, 3(3): 84. 1905.
 - Zittel, K.A. von, Hist. geol. palaeont. 243, 401, 530. 1901.
 
-#### General study of ph's taxa
+#### General study of Ph's taxa
 
 C. Muñoz Pizarro, Las especies de plantas descritas por R.A. Philippi en el siglo xix. Estudio critico en la identificación de sus tipos nomenclaturales. 1960, Ediciones de la Universidad de Chile, 189 p.
 
@@ -87,8 +87,8 @@ Wiss. Z. Humboldt-Univ. Berlin, math.-nat. 19: 298. 1970; D.B. Arana, El doctor 
 #### Travel reports
 
 Ph. published several travel reports in the Botanische Zeitung: (1) *Botanische Reise nach der Provinz Valdivia*, 16: 257-262. 27 Aug, 265-290. 3 Sep, 273-279. 10 Sep 1858; extract in Gartenflora 8: 21-26. 1859.
-(2) *Excursion nach dem Ranco-See in der Provinz Valdivia*, 18: 305-311. 14 Sep, 313-318. 21 Sep 1860. Extract in Gartenflora 10: 295-298. 1861.
-(3) *Botanische Excursion in die Provinz Aconcagua*, 19: 377-383. 20 Dec, 385-390. 27 Dec 1861. *Spanish translation* by Gualterio Looser, Revista Chil. Hist. Geogr. 74: 700-710. 1933, reprinted Santiago (Imprenta Universitaria...) 1934, p. \[i, t.p. on recto of p. 700\], \[700\]-710. *Copies*: G, U.
+- (2) *Excursion nach dem Ranco-See in der Provinz Valdivia*, 18: 305-311. 14 Sep, 313-318. 21 Sep 1860. Extract in Gartenflora 10: 295-298. 1861.
+- (3) *Botanische Excursion in die Provinz Aconcagua*, 19: 377-383. 20 Dec, 385-390. 27 Dec 1861. *Spanish translation* by Gualterio Looser, Revista Chil. Hist. Geogr. 74: 700-710. 1933, reprinted Santiago (Imprenta Universitaria...) 1934, p. \[i, t.p. on recto of p. 700\], \[700\]-710. *Copies*: G, U.
 
 #### Postage stamps
 

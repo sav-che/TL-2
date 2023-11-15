@@ -25,7 +25,7 @@ Barnhart 2: 211; BL 1: 167, 302; Bossert p. 184; GR p. 223-224; Hortus 3: 1196 (
 
 #### Composite works
 
-(1) J. T. Howell, P. H. Raven & P. Rubtzoff, *A flora of San Francisco, California*. 1958 (see e.g. Shinners, Taxon 18: 172-173. 1969). (2) Editor, *Leaflets of Western Botany* (1932-x).
+- (1) J. T. Howell, P. H. Raven & P. Rubtzoff, *A flora of San Francisco, California*. 1958 (see e.g. Shinners, Taxon 18: 172-173. 1969). (2) Editor, *Leaflets of Western Botany* (1932-x).
 
 #### Eponymy
 

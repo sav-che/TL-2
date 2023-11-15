@@ -52,7 +52,7 @@ The *vegetable materia medica* of *Western India*... Bombay (Education Society's
 *Vol. 3 (part 6)*: 1893 (Nat. Nov. Jun (1) 1893), p. \[i\], \[i\*\],-3\* (Obituary of W. Dymock), 313-642.
 *Index and Appendix*, 1893 (Nat. Nov. Dec (1) 1893), p. \[i\], \[iii\], \[1\]-205. *Copies*: G, HH, MO, U.
 *Notes*: (1) Reprinted in 1972 as Hamdard vol. 15, edited by Hakim Mohammed Said and published by The Institute of Health & Tibbi Research under the auspices of Hamdard National Foundation, Pakistan. *Copies*: L, NY.
-(2) Also reprinted (without index volume) 1976 by International Book Distributors Dehra Dun (India):
+- (2) Also reprinted (without index volume) 1976 by International Book Distributors Dehra Dun (India):
 *Vol. 1*: \[i\*-ii\*\*\], \[i\*\]-iv\*, \[i\]-vii, \[1\]-599.
 *Vol. 2*: \[i\*-ii\*\], \[i\]-vi, \[1\]-643.
 *Vol. 3*: \[i\*-ii\*\], \[i\]-vi, \[1\]-642 (1-3 obit. Dymock). *Copy*: U.

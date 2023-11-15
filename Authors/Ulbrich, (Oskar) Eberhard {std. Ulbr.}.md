@@ -27,18 +27,18 @@ Barnhart 3: 414; BFM 2690, 2691, 3332; BJI 2: 181; BM 8: 1338; Bossert p. 410; D
 
 #### Composite works
 
-(1) *Präparations-, Konservierungs– und Frischhaltungsmethoden* für pflanzliche Organismen und Anleitung für die Ordnung und Aufbewahrung konservierter Pflanzen, *in* E. Abderhalden, *Handbuch der biologischen Arbeitsmethoden* 11(1): 689-960. 1924.
-(2) *Die höheren Pilze*, Jun-Sep 1928, *in* G. Lindau, Krypt.-Fl. Anf. ed. 3, vol. 1, "völlig neu bearbeitet von... Ulbrich", see TL-2/4558. – See announcement by Ulbrich himself in Hedwigia 68: (63)-(65). 1929.
-(3) Engler und Prantl, *Nat. Pflanzenfam*. ed. 2: (a) *Basellaceae*, 16c: \[263\]-271. 1934.
+- (1) *Präparations-, Konservierungs– und Frischhaltungsmethoden* für pflanzliche Organismen und Anleitung für die Ordnung und Aufbewahrung konservierter Pflanzen, *in* E. Abderhalden, *Handbuch der biologischen Arbeitsmethoden* 11(1): 689-960. 1924.
+- (2) *Die höheren Pilze*, Jun-Sep 1928, *in* G. Lindau, Krypt.-Fl. Anf. ed. 3, vol. 1, "völlig neu bearbeitet von... Ulbrich", see TL-2/4558. – See announcement by Ulbrich himself in Hedwigia 68: (63)-(65). 1929.
+- (3) Engler und Prantl, *Nat. Pflanzenfam*. ed. 2: (a) *Basellaceae*, 16c: \[263\]-271. 1934.
 (b) *Thelygonaceae*, 16c: \[368\]-378. 1934.
 (c) *Chenopodiaceae*, 16c: \[379\]-584. 1934, *Nachtr*. 16c: 587. 1939.
-(4) With R.E. Fries, *Malvaceae, in* R.E. Fries, *Wiss. Erg. Schwed. Rhodesia-Kongo-Exp*. 1: 143-146. 1914.
-(5) See H. Handel-Mazzetti, *Plantae sinenses*... 1939, TL-2/2366; *Ranunculaceae*. "Unter Benützung einiger Vorarbeiten Prof. Dr. E. Ulbrichs".
-(6) *Malvaceae, in* E. Ule, *Beitr. Fl. Bahia* 1, Bot. Jahrb. 42: 225-229. 1909.
-(7) *Pflanzenwelt, in* H.W. Conwentz, ed., *Das Plagefenn bei Chorin*, Beitr. Naturdenkmalpfl. 3: 51-338. 1912, see also Verh. bot. Ver. Brandenb. 56: 93-125. 1914.
-(8) *Malvaceae, in* J. Mildbraed, ed., *Wiss. Erg. deut. Zentr*.-*Afr. Exped., Bot*. 500-501. 6 Oct 1912, see TL-2/6008. – "Malvaceae (Nach dem Tode von M. Gürke fortgesetzt und vollendet von E. Ulbrich)".
-(9) Pilze, Fasern und Seide, *in* L. Diels, *Ersatzstoffe aus dem Pflanzenreich* 167-189, 318-391. Stuttgart 1918.
-(10) *Leguminosae, in* Sven Hedin, *Southern Tibet* 6(3), Bot.: 57-67. 1922.
+- (4) With R.E. Fries, *Malvaceae, in* R.E. Fries, *Wiss. Erg. Schwed. Rhodesia-Kongo-Exp*. 1: 143-146. 1914.
+- (5) See H. Handel-Mazzetti, *Plantae sinenses*... 1939, TL-2/2366; *Ranunculaceae*. "Unter Benützung einiger Vorarbeiten Prof. Dr. E. Ulbrichs".
+- (6) *Malvaceae, in* E. Ule, *Beitr. Fl. Bahia* 1, Bot. Jahrb. 42: 225-229. 1909.
+- (7) *Pflanzenwelt, in* H.W. Conwentz, ed., *Das Plagefenn bei Chorin*, Beitr. Naturdenkmalpfl. 3: 51-338. 1912, see also Verh. bot. Ver. Brandenb. 56: 93-125. 1914.
+- (8) *Malvaceae, in* J. Mildbraed, ed., *Wiss. Erg. deut. Zentr*.-*Afr. Exped., Bot*. 500-501. 6 Oct 1912, see TL-2/6008. – "Malvaceae (Nach dem Tode von M. Gürke fortgesetzt und vollendet von E. Ulbrich)".
+- (9) Pilze, Fasern und Seide, *in* L. Diels, *Ersatzstoffe aus dem Pflanzenreich* 167-189, 318-391. Stuttgart 1918.
+- (10) *Leguminosae, in* Sven Hedin, *Southern Tibet* 6(3), Bot.: 57-67. 1922.
 
 #### Obituaries
 

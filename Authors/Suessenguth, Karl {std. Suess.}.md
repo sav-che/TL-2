@@ -23,9 +23,9 @@ Barnhart 3: 345 (b. 22 Jun 1893, d. 7 Apr 1955); BFM 639, 663, 2452; Biol.-Dokum
 
 #### Composite works
 
-(1) Contributed to G. Hegi, *Ill. fl. Mitteleur.* eds. 2, 3.
-(2) Contributions to EP, *Nat. Pflanzenfam.* ed. 2: *Rhamnaceae*, 20d: 1-173. 1953, *Vitaceae*, 20d: 174-333. 1953, *Leeaceae*, 20d: 372-390. 1953.
-(3) Contributed to R. von Wettstein, *Handb. syst. Bot.* ed. 4. 1935.
+- (1) Contributed to G. Hegi, *Ill. fl. Mitteleur.* eds. 2, 3.
+- (2) Contributions to EP, *Nat. Pflanzenfam.* ed. 2: *Rhamnaceae*, 20d: 1-173. 1953, *Vitaceae*, 20d: 174-333. 1953, *Leeaceae*, 20d: 372-390. 1953.
+- (3) Contributed to R. von Wettstein, *Handb. syst. Bot.* ed. 4. 1935.
 
 #### Eponymy
 

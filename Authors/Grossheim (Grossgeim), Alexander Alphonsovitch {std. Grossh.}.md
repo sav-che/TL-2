@@ -12,7 +12,8 @@ Invariably botanical literature cites his surname as "Grossheim", but the transl
 
 #### Herbarium and types
 
-[[Collection TBI|TBI]], duplicates [[Collection A|A]], [[Collection B|B]], [[Collection BAK|BAK]], [[Collection BM|BM]], [[Collection DSU|DSU]], [[Collection E|E]], [[Collection ERE|ERE]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LE|LE]], [[Collection LECB|LECB]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection P|P]], [[Collection S|S]], [[Collection TB|TB]]. – *Exsiccatae*: Grossheim & B.K. Schischkin, *Plantae orientales exsiccatae*, Tiflis, 1924-1928 (Fascs. 1-16, Nos. 1-400), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection G|G]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection MO|MO]], [[Collection S|S]], [[Collection TBI|TBI]]?, Z. *Note*: There is also a 2 vol. "*Schedae ad Herbarium 'Plantae orientales exsiccatae'*". *Copies*: [[Collection BM|BM]] (n.v.), [[Collection K|K]] (n.v.), [[Collection MO|MO]] (p.p.) (n.v.).
+[[Collection TBI|TBI]], duplicates [[Collection A|A]], [[Collection B|B]], [[Collection BAK|BAK]], [[Collection BM|BM]], [[Collection DSU|DSU]], [[Collection E|E]], [[Collection ERE|ERE]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LE|LE]], [[Collection LECB|LECB]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection P|P]], [[Collection S|S]], [[Collection TB|TB]].
+*Exsiccatae*: Grossheim & B.K. Schischkin, *Plantae orientales exsiccatae*, Tiflis, 1924-1928 (Fascs. 1-16, Nos. 1-400), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection G|G]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection MO|MO]], [[Collection S|S]], [[Collection TBI|TBI]]?, Z. *Note*: There is also a 2 vol. "*Schedae ad Herbarium 'Plantae orientales exsiccatae'*". *Copies*: [[Collection BM|BM]] (n.v.), [[Collection K|K]] (n.v.), [[Collection MO|MO]] (p.p.) (n.v.).
 
 #### Bibliography and biography
 
@@ -39,8 +40,8 @@ APN p. 244; Barnhart 2: 91; BFM p. 287 (index); Biol.-Dokum. 7: 86.923; Frodin e
 
 #### Outside our period
 
-(1) *Rastitelnyi pokrov Kavkaza* \[=*Vegetation wealth* of the *Caucasus*\]... 1948; Ed. 2,... 1952 (with A.L. Takhtajan).
-(2) *Opredelitel rastenii Kavkaza* \[=*Key* to the *plants* of *Caucasus*\]... 1949. (3) *Obzor noveishikh sistem tsvetkovykh rastenii* \[=*Review* of *modern systems* of *flowering plants*\]... 1966, edited by M.F. Sakhokia; English transl.,... Boston Spa, Yorkshire (National Lending Library for Science and Technology) \[1967?\].
+- (1) *Rastitelnyi pokrov Kavkaza* \[=*Vegetation wealth* of the *Caucasus*\]... 1948; Ed. 2,... 1952 (with A.L. Takhtajan).
+- (2) *Opredelitel rastenii Kavkaza* \[=*Key* to the *plants* of *Caucasus*\]... 1949. (3) *Obzor noveishikh sistem tsvetkovykh rastenii* \[=*Review* of *modern systems* of *flowering plants*\]... 1966, edited by M.F. Sakhokia; English transl.,... Boston Spa, Yorkshire (National Lending Library for Science and Technology) \[1967?\].
 
 #### Composite works
 

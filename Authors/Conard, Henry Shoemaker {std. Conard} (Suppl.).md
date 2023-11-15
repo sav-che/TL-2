@@ -34,13 +34,13 @@ Barnhart 1: 372 (b. 12 Sep 1874, Philadelphia, PS.); BJI 1: 179; BL 1: 179, 291;
 
 #### Composite works
 
-(1) The *background of plant ecology*, translation from the German by Conard, Ames, Iowa (The Iowa State College Press) 1950, \[i\]-x, \[1\]-238. *Copy*: NY. – See TL-2/3591 for the original by A.V.M. Kerner, Das Pflanzenleben der Donauländer 1863.
-(2) *History of the Sullivant Moss Society*, compiled from the files of the Bryologist and other archives of the Society, Bryologist 50(4): 389-401. 1947.
+- (1) The *background of plant ecology*, translation from the German by Conard, Ames, Iowa (The Iowa State College Press) 1950, \[i\]-x, \[1\]-238. *Copy*: NY. – See TL-2/3591 for the original by A.V.M. Kerner, Das Pflanzenleben der Donauländer 1863.
+- (2) *History of the Sullivant Moss Society*, compiled from the files of the Bryologist and other archives of the Society, Bryologist 50(4): 389-401. 1947.
 
 #### Outside our period
 
-(1) *How to know the mosses*... Iowa (H.E. Jaques) \[1944\], 166 p. *Copy* at MO, other edition 1959, 226 p., Iowa (Wm. C. Brown Co., Dubuque, Iowa).
-(2) A *checklist of the Atracheata*, *(Bryophyta) of Iowa*, privately printed, Dec 1943, 13 p. *Copy* at MO.
+- (1) *How to know the mosses*... Iowa (H.E. Jaques) \[1944\], 166 p. *Copy* at MO, other edition 1959, 226 p., Iowa (Wm. C. Brown Co., Dubuque, Iowa).
+- (2) A *checklist of the Atracheata*, *(Bryophyta) of Iowa*, privately printed, Dec 1943, 13 p. *Copy* at MO.
 
 ### Publications
 

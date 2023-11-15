@@ -8,11 +8,12 @@ Larbalestier, Charles Du Bois (1838-1911), Jersey lichenologist, studied at St. 
 
 #### Herbarium and types
 
-[[Collection BIRM|BIRM]]; important sets also at [[Collection BM|BM]] and [[Collection CRK|CRK]]. – Exsiccatae:
-(1) *Lichenes caesarienses et sargienses exsiccati* fasc. 1-6, no. 1-280, 1867-1872, sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]] (but see Sayre). (Caesaria is Jersey; Sargia stands for Sark, not for Sarnia = Guernsey).
-(2) *Lichenes exsiccati circa Cantabrigiam* nos. 1-35, Cambridge 1896, sets at [[Collection BM|BM]], [[Collection K|K]].
-(3)*Lichen-Herbarium, fasc*. 1-9, nos. 1-360, 1879-1881, sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection H|H]], [[Collection K|K]], [[Collection LIVU|LIVU]], [[Collection PC|PC]], [[Collection W|W]].
-(4)"Lichens of Connemare", "Lichenes rarissima," "Lichenes aegyptiaci" and "Lichens of Ireland" are mentioned in the literature.
+[[Collection BIRM|BIRM]]; important sets also at [[Collection BM|BM]] and [[Collection CRK|CRK]].
+*Exsiccatae*:
+- (1) *Lichenes caesarienses et sargienses exsiccati* fasc. 1-6, no. 1-280, 1867-1872, sets at [[Collection BM|BM]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]] (but see Sayre). (Caesaria is Jersey; Sargia stands for Sark, not for Sarnia = Guernsey).
+- (2) *Lichenes exsiccati circa Cantabrigiam* nos. 1-35, Cambridge 1896, sets at [[Collection BM|BM]], [[Collection K|K]].
+- (3) *Lichen-Herbarium, fasc*. 1-9, nos. 1-360, 1879-1881, sets at [[Collection BM|BM]], [[Collection C|C]], [[Collection H|H]], [[Collection K|K]], [[Collection LIVU|LIVU]], [[Collection PC|PC]], [[Collection W|W]].
+- (4) "Lichens of Connemare", "Lichenes rarissima," "Lichenes aegyptiaci" and "Lichens of Ireland" are mentioned in the literature.
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(1): 139-140. 1969.
 - Hawksworth, D. L., Mycol. handb. 184. 1974 (fungi also at CRK, FI).
 - Anon., Rev. bryol. lichén. 38(2): 307. 1972 (colls, at CRK).

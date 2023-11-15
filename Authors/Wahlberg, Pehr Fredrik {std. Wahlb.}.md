@@ -66,5 +66,6 @@ Wahlberg's brother, Johan August Wahlberg (1810-1856) travelled in Norway (1832)
 **Abbreviated title**: *Anvisn. Sv. foderväxt. känned.*
 
 **Notes**
-*Publ*.: 1835, p. \[1\]-318, \[319, 320\], 2 folded charts, *4 pl. Copies*: H, LD, NY. – Originally published in Sv. Landtbr.-Akad. Handl. 1833-1834: 165-282, *2 pl*. 1835, 1835: 64-262 with 2 charts and *4 pl. –* Exsiccatae illustrating this work: S.J. Lindgren, *Svenska fodervexter* i torkade exemplar utgifne, Häft. 1-2, 1839-1840, see KR p. 413, no. 13. – For Danish versions see KR p. 740, no. 7.
+*Publ*.: 1835, p. \[1\]-318, \[319, 320\], 2 folded charts, *4 pl. Copies*: H, LD, NY. – Originally published in Sv. Landtbr.-Akad. Handl. 1833-1834: 165-282, *2 pl*. 1835, 1835: 64-262 with 2 charts and *4 pl. –*
+*Exsiccatae* illustrating this work: S.J. Lindgren, *Svenska fodervexter* i torkade exemplar utgifne, Häft. 1-2, 1839-1840, see KR p. 413, no. 13. – For Danish versions see KR p. 740, no. 7.
 

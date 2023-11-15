@@ -22,8 +22,8 @@ Barnhart 3: 419; BM 5: 2187; De Toni 2: cxvi; DSB 13: 551-553 (D.B. Weiner; biog
 
 #### Note
 
-(1) Auguste Nicolas Vaillant (1793-1858) ("Commandant Vaillant") was in command of the voyage of the *Bonite*, the botanical results of which were published by C. Gaudichaud-Beaupré, *Voy. Bonite, Bot.* 1841-1866, see TL-2/1968.
-(2) François Le Vaillant (1753-1824), Suriname-born French traveller, naturalist and painter, mainly interested in ornithology; explorer of South Africa; collected and painted also several plants, is dealt with in detail by M. Gunn and L.E. Codd, Bot. expl. S. Afr. 224-226. 1981, and by Forbes, François Le Vaillant, traveller in S. Africa 2 vols. 1973 (see 1: 31-100 and 2: 43-81).
+- (1) Auguste Nicolas Vaillant (1793-1858) ("Commandant Vaillant") was in command of the voyage of the *Bonite*, the botanical results of which were published by C. Gaudichaud-Beaupré, *Voy. Bonite, Bot.* 1841-1866, see TL-2/1968.
+- (2) François Le Vaillant (1753-1824), Suriname-born French traveller, naturalist and painter, mainly interested in ornithology; explorer of South Africa; collected and painted also several plants, is dealt with in detail by M. Gunn and L.E. Codd, Bot. expl. S. Afr. 224-226. 1981, and by Forbes, François Le Vaillant, traveller in S. Africa 2 vols. 1973 (see 1: 31-100 and 2: 43-81).
 
 ### Publications
 

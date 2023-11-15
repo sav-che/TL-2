@@ -33,12 +33,12 @@ ADB 23: 376-380; Backer p. 391; Barnhart 2: 542; BM 3: 1408; Bossert p. 283; CSP
 
 #### Composite works
 
-(1) Weihe, M. F., Wolter, J. W., Funke, P. W., & T. F. L. Nees v. Esenbeck, *Plantae officinales*, oder Sammlung officineller Pflanzen... 1823-1833, see under Weihe, M. F.
-(2) Funck, H. C. & T. F. L. Nees v. Esenbeck, *Bryophyta, Lichenes*, in J. Sturm, *Deutschl. Fl.* Abt. 2. Heft. 17, 1819 (*16 pl*. w.t.).
-(3) *Dichonema*Fr. Nees in litt., in E. Fries, *Syst. orb. veg.* 303. 1825.
-(4) *Fungi*, in K. B. Presl, *Reliq. haenk.*1, 1825, q.v.
-(5) Contributed text to Bolton, *Gesch. merckw. Pilze*4, 1820, see TL-2/624.
-(6) with W. Sinning (q.v.), *Sammlung schönblühender Gewächse*1824-1831.
+- (1) Weihe, M. F., Wolter, J. W., Funke, P. W., & T. F. L. Nees v. Esenbeck, *Plantae officinales*, oder Sammlung officineller Pflanzen... 1823-1833, see under Weihe, M. F.
+- (2) Funck, H. C. & T. F. L. Nees v. Esenbeck, *Bryophyta, Lichenes*, in J. Sturm, *Deutschl. Fl.* Abt. 2. Heft. 17, 1819 (*16 pl*. w.t.).
+- (3) *Dichonema*Fr. Nees in litt., in E. Fries, *Syst. orb. veg.* 303. 1825.
+- (4) *Fungi*, in K. B. Presl, *Reliq. haenk.*1, 1825, q.v.
+- (5) Contributed text to Bolton, *Gesch. merckw. Pilze*4, 1820, see TL-2/624.
+- (6) with W. Sinning (q.v.), *Sammlung schönblühender Gewächse*1824-1831.
 
 #### Handwriting
 

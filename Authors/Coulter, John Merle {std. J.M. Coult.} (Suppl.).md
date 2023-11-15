@@ -49,14 +49,14 @@ Barnhart 1: 387 (b. 20 Nov 1851, Ningpo, China, d. 23 Dec 1928, Yonkers, N.Y.); 
 
 #### Composite works
 
-(1) see TL-2/1: 559.
-(2) Contributed to Thomas Morong, *List Pterid. Sperm. N.E. North America*, see TL-2/6342.
-(3) Contributed to *New manual of botany of the central Rocky Mountains*, see A. Nelson, TL-2/5829 and see also TL-2/1253.
-(4) With T.C. Porter, *Synopsis of the flora of Colorado*, see TL-2/8180.
-(5) With J.C. Arthur, *Handbook of Plant dissection*, see TL-2 suppl. 1: no. 19.502 (Nat. Nov. Mai (2) 1886).
-(6) With J.N. Rose, *Monograph of the North American Umbelliferae*, see TL-2/9512.
-(7) With Charles J. Chamberlain, *Morphology of Spermatophytes* Part I – *Gymnosperms*, see TL-2/this suppl.
-(8) With C.R. Barnes, *Catalogue* of the... *plants of Indiana*, TL-2 suppl. 1: no. 20.228.
+- (1) see TL-2/1: 559.
+- (2) Contributed to Thomas Morong, *List Pterid. Sperm. N.E. North America*, see TL-2/6342.
+- (3) Contributed to *New manual of botany of the central Rocky Mountains*, see A. Nelson, TL-2/5829 and see also TL-2/1253.
+- (4) With T.C. Porter, *Synopsis of the flora of Colorado*, see TL-2/8180.
+- (5) With J.C. Arthur, *Handbook of Plant dissection*, see TL-2 suppl. 1: no. 19.502 (Nat. Nov. Mai (2) 1886).
+- (6) With J.N. Rose, *Monograph of the North American Umbelliferae*, see TL-2/9512.
+- (7) With Charles J. Chamberlain, *Morphology of Spermatophytes* Part I – *Gymnosperms*, see TL-2/this suppl.
+- (8) With C.R. Barnes, *Catalogue* of the... *plants of Indiana*, TL-2 suppl. 1: no. 20.228.
 
 ### Publications
 

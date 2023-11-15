@@ -21,9 +21,9 @@ BM 2: 747, 5: 2340; Dryander 3: 78; NI 2: 274 (index); PR 9496, 9500, 10343, ed.
 
 #### Composite works
 
-(1) Engraver for M.F. Ledermüller, *Phisicalisch mikroskopische Vorstellung*... Nürnberg 1765 (see NI 1157; see also no. 1160).
-(2) Engraver, J.C. Schaeffer, *Fung. Bavar. Palat. nasc.* 1762-1771, TL-2/10.476.
-(3) Engraver and publisher, C.J. Trew, *Hort. nitid.* 1750-1786 (TL-2/15.130) and pl. *rar*. 1763 (TL-2/15.135).
+- (1) Engraver for M.F. Ledermüller, *Phisicalisch mikroskopische Vorstellung*... Nürnberg 1765 (see NI 1157; see also no. 1160).
+- (2) Engraver, J.C. Schaeffer, *Fung. Bavar. Palat. nasc.* 1762-1771, TL-2/10.476.
+- (3) Engraver and publisher, C.J. Trew, *Hort. nitid.* 1750-1786 (TL-2/15.130) and pl. *rar*. 1763 (TL-2/15.135).
 
 ### Publications
 

@@ -35,12 +35,12 @@ Backer p. 591-592; Barnhart 3: 398 (b. 8 Feb 1809, d. 27 Jan 1889); Biol.-Dokum.
 
 #### Composite works
 
-(1) Contributed to A.T. Middendorff, *Reise Sibir*. 1847-1867 (TL-2/5978): *Die Phänogame Pflanzen aus den Hochnorden* (1(2), Lief. 1 (p. 1-190, *pl. 1-8*) 1847 (see also below) and, with C.A. Meyer, *Florula ochotensis phaenogama* 1(2), Lief. 3, 1856.
-(2) *Salix, in* C.F. von Ledebour, *Flora altaica* 1829-1833, TL-2/4283.
-(3) Descriptions of various new taxa in *Delectus seminum in horto botanico kioviensi Universitatis caesareae St. Vladimiri anno 1840 collectorum*, Kiew 1841, p. vi; diagnoses reprinted in Linnaea 15 (Litt.): 96-98. 1842; *Delectus... a. 1841 collectorum*, Kiew 1842, p. 4, id. Linnaea 16 (Litt.): 105-106. 1843.
-(4) Idem, with F.E.L. von Fischer, *Index sem. hort. bot. imp. petrop*. (see TL-2/1785) 3:31-32. Mar 1837, *Caryolopha*, and new species in 3: 41. 1837, 4: 33-34, 40. Jan 1838.
-(5) Idem, *in Index sem. hort. bot. imp. petrop*. 1865: 37, 1866: 93, 1896: 25.
-(6) *Catalogue of plants collected* in... 1864-1865 *by Herr Radde*, and arranged by... Trautvetter, *in* D.W. Freshfield, *Travels in the Central Caucasus* 1869, app. III. (n.v.), see BM 5: 2134.
+- (1) Contributed to A.T. Middendorff, *Reise Sibir*. 1847-1867 (TL-2/5978): *Die Phänogame Pflanzen aus den Hochnorden* (1(2), Lief. 1 (p. 1-190, *pl. 1-8*) 1847 (see also below) and, with C.A. Meyer, *Florula ochotensis phaenogama* 1(2), Lief. 3, 1856.
+- (2) *Salix, in* C.F. von Ledebour, *Flora altaica* 1829-1833, TL-2/4283.
+- (3) Descriptions of various new taxa in *Delectus seminum in horto botanico kioviensi Universitatis caesareae St. Vladimiri anno 1840 collectorum*, Kiew 1841, p. vi; diagnoses reprinted in Linnaea 15 (Litt.): 96-98. 1842; *Delectus... a. 1841 collectorum*, Kiew 1842, p. 4, id. Linnaea 16 (Litt.): 105-106. 1843.
+- (4) Idem, with F.E.L. von Fischer, *Index sem. hort. bot. imp. petrop*. (see TL-2/1785) 3:31-32. Mar 1837, *Caryolopha*, and new species in 3: 41. 1837, 4: 33-34, 40. Jan 1838.
+- (5) Idem, *in Index sem. hort. bot. imp. petrop*. 1865: 37, 1866: 93, 1896: 25.
+- (6) *Catalogue of plants collected* in... 1864-1865 *by Herr Radde*, and arranged by... Trautvetter, *in* D.W. Freshfield, *Travels in the Central Caucasus* 1869, app. III. (n.v.), see BM 5: 2134.
 
 #### Handwriting
 
@@ -509,8 +509,8 @@ Ueber *Lotus circinnatus* Trautv. *und Lotus Candollei* Trautv.; vom Prof. Traut
 Centralbl. 5: 155-158, 185-188, 220-220, 281-284, 316-318, 346-348, 395-398, 406-408. 1881, 6: 31-34, 63-67, 137-138, 176-178, 245-247, 277-296, 324-329. 1881.
 *Modern version*: S. Lipschitz, *Florae URSS fontes*, Leningrad 1975, 232 p.
 *Other bibliographical contributions* by Trautvetter:
-(1) Grundr. Gesch. Bot. 1837, see above.
-(2) Acta Horti petrop. 2: 145-304 (history Bot. Gard. St.-Petersburg, a bibliography of publications by the staff on p. 256-295).
+- (1) Grundr. Gesch. Bot. 1837, see above.
+- (2) Acta Horti petrop. 2: 145-304 (history Bot. Gard. St.-Petersburg, a bibliography of publications by the staff on p. 256-295).
 
 ##### n.14.943. Elenchus stirpium anno 1880 in isthmo caucasico lectarum
 

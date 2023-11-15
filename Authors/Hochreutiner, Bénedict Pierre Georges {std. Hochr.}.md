@@ -8,7 +8,8 @@ Hochreutiner, Bénedict Pierre Georges (1873-1959), Swiss botanist and theologis
 
 #### Herbarium and types
 
-[[Collection G|G]]. – Exsiccatae: *Plantae bogorienses exsiccatae novae vel minus cognitae*, Java 1904, 162 nos., sets at [[Collection B|B]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NSW|NSW]], [[Collection NY|NY]], [[Collection P|P]], [[Collection W|W]], [[Collection Z|Z]]. (for schedae see no. 2829). – Most of H's types are at [[Collection G|G]]; others at [[Collection P|P]].
+[[Collection G|G]].
+*Exsiccatae*: *Plantae bogorienses exsiccatae novae vel minus cognitae*, Java 1904, 162 nos., sets at [[Collection B|B]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NSW|NSW]], [[Collection NY|NY]], [[Collection P|P]], [[Collection W|W]], [[Collection Z|Z]]. (for schedae see no. 2829). – Most of H's types are at [[Collection G|G]]; others at [[Collection P|P]].
 
 #### Bibliography and biography
 
@@ -24,9 +25,9 @@ Backer p. 369; Barnhart 2: 184; BJI 2: 77; BL 1: 19, 301; BM 6: 470; Bossert p. 
 
 #### Composite works
 
-(1) founder and editor of *Boissiera*, vol. 1-6, 1935-1941.
-(2) Humbert, H., *Fl. madagasc*, fam. 129, *Malvaceae*, Paris 1955.
-(3) *Plantae Hochreuterinanae*, Annu. Cons. Jard. bot. Genève 15: 147-247. 1912, Candollea 2: 317-513. 1925, 5: 175-341. 1934, 6: 397-488. 1936, 8: 47-60. 1940, 9: 380-493. 1943.
+- (1) founder and editor of *Boissiera*, vol. 1-6, 1935-1941.
+- (2) Humbert, H., *Fl. madagasc*, fam. 129, *Malvaceae*, Paris 1955.
+- (3) *Plantae Hochreuterinanae*, Annu. Cons. Jard. bot. Genève 15: 147-247. 1912, Candollea 2: 317-513. 1925, 5: 175-341. 1934, 6: 397-488. 1936, 8: 47-60. 1940, 9: 380-493. 1943.
 
 #### Festschrift
 

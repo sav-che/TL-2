@@ -8,7 +8,8 @@ Stebler, Friedrich Gottlieb (1852-1935), Swiss (Bern) agronomist, botanist and f
 
 #### Herbarium and types
 
-Further material in [[Collection C|C]], [[Collection WRSL|WRSL]]. *Exsiccatae*: *Schweizerische Gräser-Sammlung*, 250 nos., 5 Lief. (with A. Volkart).
+Further material in [[Collection C|C]], [[Collection WRSL|WRSL]].
+*Exsiccatae*: *Schweizerische Gräser-Sammlung*, 250 nos., 5 Lief. (with A. Volkart).
 
 #### Bibliography and biography
 

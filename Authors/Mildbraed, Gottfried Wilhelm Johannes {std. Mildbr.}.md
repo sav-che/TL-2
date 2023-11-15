@@ -31,8 +31,8 @@ Backer p. 657; Barnhart 2: 489; BJI 2: 117-118; BLI 1: 28, 56, 58, 309; BM 7: 84
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Stylidiaceae*, iv. 278: 1-98, *fig. 1-26.* 26 Mai 1908.
-(2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2. *Octoknemaceae*, 16b: 42-45, *figs. 24-25.* Jan-Apr 1935. *Pandanaceae*, 19a: 1-3. Jan-Aug 1931.
+- (1) Engler, *Pflanzenreich, Stylidiaceae*, iv. 278: 1-98, *fig. 1-26.* 26 Mai 1908.
+- (2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2. *Octoknemaceae*, 16b: 42-45, *figs. 24-25.* Jan-Apr 1935. *Pandanaceae*, 19a: 1-3. Jan-Aug 1931.
 
 #### Eponymy
 

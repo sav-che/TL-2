@@ -8,7 +8,8 @@ Presl, Karel Borivoj \[Boriwog, Boriwag\] (1794-1852), Czech botanist; curator a
 
 #### Herbarium and types
 
-[[Collection PR|PR]] and [[Collection PRC|PRC]] (fern herb. and Haenke's coll.); other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HAL|HAL]] and [[Collection KIEL|KIEL]] (destr.) and W. – *Exsiccatae*: see J.S. Presl. – Correspondence with D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
+[[Collection PR|PR]] and [[Collection PRC|PRC]] (fern herb. and Haenke's coll.); other material at [[Collection B|B]], [[Collection BM|BM]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HAL|HAL]] and [[Collection KIEL|KIEL]] (destr.) and W.
+*Exsiccatae*: see J.S. Presl. – Correspondence with D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
 
 #### Name
 

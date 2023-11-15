@@ -8,9 +8,10 @@ Verdoorn, Frans (1906-1984), Dutch botanist, biohistorian and botanical editor; 
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (12.000 Hepat.), [[Collection BM|BM]] (musci), [[Collection GH|GH]] (pterid.); further material (including exsiccatae) in [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CM|CM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]] (lich. Java), [[Collection WELC|WELC]]. – *Archives and letters*: see note below. *Exsiccatae*: (1) *Bryophyta Arduennae exsiccatae*, dec. 1-5, nos. 1-50, Utrecht 1927-1929, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection U|U]], [[Collection W|W]] (Sayre 1971, p. 267).
-(2) *Hepaticae selecti et critici*, ser. i-xi, nos. 1-550, Utrecht 1930-1938, sets at [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]] (Sayre 1971, p. 260). – Schedae in Ann. bryol. 4-10, 1931-1937, (see also below).
-(3) *Musci selecti et critici*, series i-vii, nos. 1-350. Utrecht 1934-1940, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection CM|CM]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection NY|NY]] (Sayre 1971, p. 268-269). Schedae series in Ann. bryol. 1931-1940.
+[[Collection FH|FH]] (12.000 Hepat.), [[Collection BM|BM]] (musci), [[Collection GH|GH]] (pterid.); further material (including exsiccatae) in [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CM|CM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]] (lich. Java), [[Collection WELC|WELC]]. – *Archives and letters*: see note below.
+*Exsiccatae*: (1) *Bryophyta Arduennae exsiccatae*, dec. 1-5, nos. 1-50, Utrecht 1927-1929, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection U|U]], [[Collection W|W]] (Sayre 1971, p. 267).
+- (2) *Hepaticae selecti et critici*, ser. i-xi, nos. 1-550, Utrecht 1930-1938, sets at [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]] (Sayre 1971, p. 260). – Schedae in Ann. bryol. 4-10, 1931-1937, (see also below).
+- (3) *Musci selecti et critici*, series i-vii, nos. 1-350. Utrecht 1934-1940, sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection CM|CM]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection NY|NY]] (Sayre 1971, p. 268-269). Schedae series in Ann. bryol. 1931-1940.
 
 #### Bibliography and biography
 
@@ -36,18 +37,18 @@ Barnhart 3: 431 (b. 24 Jul 1906); BFM 2307a; BL 2: 439, 727; Bossert p. 417; IH 
 
 #### Composite works
 
-(1) Editor, *Annales bryologici* vols. 1-12, 1928-1939, suppl. vols. 1-4, 1930-1938. \[Dates of receipt of volumes at BM (fide A.J. Harington): 1 (24 Apr 1928), 2 (14 Mai 1929), 3 (5 Apr 1930), 4 (17 Jun 1931; publ. Apr 1931, fide Rev. bryol. ser. 2. 4(1): 55. 1931), 5 (8 Jun 1932), 6 (2 Aug 1933), 7 (24 Sep 1934), 8 (24 Feb 1936; but H received 7 Feb 1936), 9 (30 Jul 1937), 10 (12 Mar 1938; issued Feb 1938), 11 (13 Oct 1938), 12 (13 Dec 1939), suppl. 1 (5 Apr 1930), 2 (27 Feb 1932 "fin 1931" Rev. bryol.), 3 (H: 16 Mai 1934, BM: 25 Mai 1934), 4 (H 17 Dec 1934, BM 19 Mar 1938).
-(2) With W.E. Nicolson and Th. Herzog, *Hepaticae, in* H. von Handel-Mazzetti, *Symb. sin.* 5, Jan-Aug 1930, see TL-2/2364.
-(3) *Frullaniaceae, in* Nova Guinea 14(4): 540-\[548\], *pl. 92-93.* Feb 1930 (date printing).
-(4) *Lejeuneaceae holostipae, in* Nova Guinea 18 (Bot.)(1): \[1\]-8, \[9\], *pl. 1-2.* Apr 1934 (month of printing).
-(5) Introduction to facsimile ed. E.H.F. Meyer, *Gesch. Bot.* 1965; in vol. 1, p. \[(1)\]-(63), see TL-2/5929.
-(6) Editor, *Chronica botanica* vols. 1-20, 1935-1959. – Friedrich Fedde, in a letter to Verdoorn of 21 Aug 1934 on his plans to publish Chron. bot.: "Zu Ihrem Beginnen wünsche ich Ihnen zunächst viel Glück und hoffe, dass Ihnen die Enttäuschungen erspart bleiben die ich in so reichem Masse bei der Herausgabe und dem Selbstverlage meines Repertoriums erleben musste..." (files FAS). – Specimen treatment: "Introducing *Chronica botanica*. A new experiment recording the growth and the infinite scope of the science of plants. Volume I. Leiden Apr 1935, p. \[1\]-8. *Copy*: FAS.
-(7) Editor, *Annales cryptogamici et phytopathologici*, 11 vols. 1944-1954.
-(8) Editor, *Lotsya*, a biological miscellany, 1948-1953.
-(9) Editor, *Merrilleana*, a selection from the general writings of Elmer Drew Merrill,... Chron. bot. 10: 131-393. 1946.
-(10) Editor and author of foreword, *Plant genera*, Chron. bot. 14: 93-101. 1953.
-(11) Editor, *A new series of plant science books* 1942-1962.
-(12) Editor, *Biologia*, Official Bulletin of the principal international biological societies, commissions and congresses, 1 vol. (nos. 1-6), Waltham, Mass., U.S.A. 1947 (continued as a section of chronica botanica).
+- (1) Editor, *Annales bryologici* vols. 1-12, 1928-1939, suppl. vols. 1-4, 1930-1938. \[Dates of receipt of volumes at BM (fide A.J. Harington): 1 (24 Apr 1928), 2 (14 Mai 1929), 3 (5 Apr 1930), 4 (17 Jun 1931; publ. Apr 1931, fide Rev. bryol. ser. 2. 4(1): 55. 1931), 5 (8 Jun 1932), 6 (2 Aug 1933), 7 (24 Sep 1934), 8 (24 Feb 1936; but H received 7 Feb 1936), 9 (30 Jul 1937), 10 (12 Mar 1938; issued Feb 1938), 11 (13 Oct 1938), 12 (13 Dec 1939), suppl. 1 (5 Apr 1930), 2 (27 Feb 1932 "fin 1931" Rev. bryol.), 3 (H: 16 Mai 1934, BM: 25 Mai 1934), 4 (H 17 Dec 1934, BM 19 Mar 1938).
+- (2) With W.E. Nicolson and Th. Herzog, *Hepaticae, in* H. von Handel-Mazzetti, *Symb. sin.* 5, Jan-Aug 1930, see TL-2/2364.
+- (3) *Frullaniaceae, in* Nova Guinea 14(4): 540-\[548\], *pl. 92-93.* Feb 1930 (date printing).
+- (4) *Lejeuneaceae holostipae, in* Nova Guinea 18 (Bot.)(1): \[1\]-8, \[9\], *pl. 1-2.* Apr 1934 (month of printing).
+- (5) Introduction to facsimile ed. E.H.F. Meyer, *Gesch. Bot.* 1965; in vol. 1, p. \[(1)\]-(63), see TL-2/5929.
+- (6) Editor, *Chronica botanica* vols. 1-20, 1935-1959. – Friedrich Fedde, in a letter to Verdoorn of 21 Aug 1934 on his plans to publish Chron. bot.: "Zu Ihrem Beginnen wünsche ich Ihnen zunächst viel Glück und hoffe, dass Ihnen die Enttäuschungen erspart bleiben die ich in so reichem Masse bei der Herausgabe und dem Selbstverlage meines Repertoriums erleben musste..." (files FAS). – Specimen treatment: "Introducing *Chronica botanica*. A new experiment recording the growth and the infinite scope of the science of plants. Volume I. Leiden Apr 1935, p. \[1\]-8. *Copy*: FAS.
+- (7) Editor, *Annales cryptogamici et phytopathologici*, 11 vols. 1944-1954.
+- (8) Editor, *Lotsya*, a biological miscellany, 1948-1953.
+- (9) Editor, *Merrilleana*, a selection from the general writings of Elmer Drew Merrill,... Chron. bot. 10: 131-393. 1946.
+- (10) Editor and author of foreword, *Plant genera*, Chron. bot. 14: 93-101. 1953.
+- (11) Editor, *A new series of plant science books* 1942-1962.
+- (12) Editor, *Biologia*, Official Bulletin of the principal international biological societies, commissions and congresses, 1 vol. (nos. 1-6), Waltham, Mass., U.S.A. 1947 (continued as a section of chronica botanica).
 
 #### Archives and library
 

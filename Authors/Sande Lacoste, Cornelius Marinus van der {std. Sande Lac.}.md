@@ -29,13 +29,13 @@ Backer p. 509; Barnhart 3: 206 (b. 5 Mar 1815, d. 15 Jan 1887); BL 2: 429, 435, 
 
 #### Composite works
 
-(1) *Hepaticae*- *Jungermannieae Archipelagi indici, in* F.A.W. Miquel, *Ann. Mus. lugd.-bot.* 1: 287-288. 20 Oct 1864, 289-312, *pl. 8.* 1 Dec 1864.
-(2) *Musci frondosi, in* F.A.W. Miquel, *Prolus. fl. Jap., Ann. Mus. lugd.-bot.* 180-188. Dec 1866, 373. 21 Nov 1867.
-(3) Editor, with R.B. van den Bosch, of F. Dozy and J.H. Molkenboer, *Bryol. jav.*, vols. 1 (11-26), and 2; see TL-2/1512.
-(4) Contributed data on cryptogams to P.M.E. Gevers Deynoot, *Fl. rheno-traj.* 1843, see TL-2/2007.
-(5) Contributed to A.L. van Hasselt, *Bijdr. Fl. Midd.-Sumatra* 1884, see TL-2/2460.
-(6) Contributed to F.A.W. Miquel et al., *Pl. jungh.* 1851-1857, see TL-2/6107.
-(7) Dozy, F., *Plagiochila Sandei*, 1856 (TL-2/1513) contains several diagnoses of *Plagiochila* species contributed by v.d. Sande Lacoste.
+- (1) *Hepaticae*- *Jungermannieae Archipelagi indici, in* F.A.W. Miquel, *Ann. Mus. lugd.-bot.* 1: 287-288. 20 Oct 1864, 289-312, *pl. 8.* 1 Dec 1864.
+- (2) *Musci frondosi, in* F.A.W. Miquel, *Prolus. fl. Jap., Ann. Mus. lugd.-bot.* 180-188. Dec 1866, 373. 21 Nov 1867.
+- (3) Editor, with R.B. van den Bosch, of F. Dozy and J.H. Molkenboer, *Bryol. jav.*, vols. 1 (11-26), and 2; see TL-2/1512.
+- (4) Contributed data on cryptogams to P.M.E. Gevers Deynoot, *Fl. rheno-traj.* 1843, see TL-2/2007.
+- (5) Contributed to A.L. van Hasselt, *Bijdr. Fl. Midd.-Sumatra* 1884, see TL-2/2460.
+- (6) Contributed to F.A.W. Miquel et al., *Pl. jungh.* 1851-1857, see TL-2/6107.
+- (7) Dozy, F., *Plagiochila Sandei*, 1856 (TL-2/1513) contains several diagnoses of *Plagiochila* species contributed by v.d. Sande Lacoste.
 
 #### Handwriting
 

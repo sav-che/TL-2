@@ -29,8 +29,8 @@ Barnhart 1: 339 (b. 4 Dec 1858, Essex, Ohio, d. 10 Apr 1938, Barron, Wisc.); BL 
 
 #### Notes
 
-(1) See BL 1: 222: Cheney, L.S. and R.H. True, On the *flora of Madison* and vicinity ... 1892, TL-2/15.236, q.v. sub Robert Howard True (1866-1940), see TL-2/6: 512-513. – See also Rehder 1: 316.
-(2) Cheney, L.S., *Parasitic fungi of the Wisconsin Valley*, Trans. Wisconsin Acad. Sci. 10: 69. 1895. – LS 5075.
+- (1) See BL 1: 222: Cheney, L.S. and R.H. True, On the *flora of Madison* and vicinity ... 1892, TL-2/15.236, q.v. sub Robert Howard True (1866-1940), see TL-2/6: 512-513. – See also Rehder 1: 316.
+- (2) Cheney, L.S., *Parasitic fungi of the Wisconsin Valley*, Trans. Wisconsin Acad. Sci. 10: 69. 1895. – LS 5075.
 
 ### Publications
 

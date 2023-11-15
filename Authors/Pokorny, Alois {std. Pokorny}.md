@@ -32,11 +32,11 @@ AG 4: 203-204; Barnhart 3: 95; Bossert p. 313; CSP 4: 970-971, 8: 641, 11: 41, 1
 
 #### Composite works
 
-(1) With Constantin Freiherr von Ettingshausen, q.v.: *Physiotyp.pl. austr.*, \[1855\]-1856, 6 vols., TL-2/1723, reissue and ser. 2. 1873, TL-2/1729. – A set of the very rare 1856 original issue of the text and plates (*500*) is at USDA: *Text*: Jan 1856, p. \[i\*-ii\*\], \[i\]-lxvii, \[1\]-276, *pl. 1-30.* *Plates*: *1*: 1856, p. \[i-x\], *pl. 1-100* (details see TL-2/1723, 1729). *2*: 1856, p. \[i-iv\], *pl. 101-200.*
+- (1) With Constantin Freiherr von Ettingshausen, q.v.: *Physiotyp.pl. austr.*, \[1855\]-1856, 6 vols., TL-2/1723, reissue and ser. 2. 1873, TL-2/1729. – A set of the very rare 1856 original issue of the text and plates (*500*) is at USDA: *Text*: Jan 1856, p. \[i\*-ii\*\], \[i\]-lxvii, \[1\]-276, *pl. 1-30.* *Plates*: *1*: 1856, p. \[i-x\], *pl. 1-100* (details see TL-2/1723, 1729). *2*: 1856, p. \[i-iv\], *pl. 101-200.*
 *3*: 1856, p. \[i-iv\], *pl. 201-300.*
 *4*: 1856, p. \[i-iv\], *pl. 301-400.*
 *5*: 1856, p. \[i-xi\], *pl. 401-500*; the work was completed by 10 Apr 1856 when it was presented as a whole to the Akad. Wiss. (Bonplandia 4: 195. 1856).
-(2) Pokorny, published an "*Illustrierte Naturgeschichte des Pflanzenreiches*. Für die unteren Classen der Mittelschulen," as part of an *Illustrine Naturgeschichte der drei Reiche*, ed. 1, which went through at least 22 editions (ed. 22, Leipzig 1903, by K. Fritsch). Italian translation: *Storia illustrata del regno vegetabile*, translated by T. Caruel, ed. 1, ed. 6, 1896.
+- (2) Pokorny, published an "*Illustrierte Naturgeschichte des Pflanzenreiches*. Für die unteren Classen der Mittelschulen," as part of an *Illustrine Naturgeschichte der drei Reiche*, ed. 1, which went through at least 22 editions (ed. 22, Leipzig 1903, by K. Fritsch). Italian translation: *Storia illustrata del regno vegetabile*, translated by T. Caruel, ed. 1, ed. 6, 1896.
 
 #### Eponymy
 

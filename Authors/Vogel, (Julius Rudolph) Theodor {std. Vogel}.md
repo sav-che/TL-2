@@ -31,10 +31,10 @@ Backer p. 618; BM 5: 2232; CSP 6: 189-190, 8: 1165; GR p. 179; Herder p. 345; Ho
 
 #### Composite works
 
-(1) *Leguminosae, in* F.J.F. Meyen, *Observ. bot.* 1843, p. 1-46, *pl. 1-2*, see TL-2/5895.
-(2) With C.L. Marquart, *Beiträge zur Geschichte der Herba Origani cretici* 1840, see C.L. Marquart, TL-2/5440, see also Vogel in Linnaea 15: 74-82. Apr 1841 (*Bemerkungen über einige Arten aus den Gattungen Thymus und Origanum*).
-(3) *Collaborator* (texts posthumously used) W.J. Hooker, *Niger Fl*. 1849, see TL-2/3012.
-(4) *Collaborator*, Ph. Wirtgen, *Prodromus der Flora der preussischen Rheinlande* 1842, see under Wirtgen.
+- (1) *Leguminosae, in* F.J.F. Meyen, *Observ. bot.* 1843, p. 1-46, *pl. 1-2*, see TL-2/5895.
+- (2) With C.L. Marquart, *Beiträge zur Geschichte der Herba Origani cretici* 1840, see C.L. Marquart, TL-2/5440, see also Vogel in Linnaea 15: 74-82. Apr 1841 (*Bemerkungen über einige Arten aus den Gattungen Thymus und Origanum*).
+- (3) *Collaborator* (texts posthumously used) W.J. Hooker, *Niger Fl*. 1849, see TL-2/3012.
+- (4) *Collaborator*, Ph. Wirtgen, *Prodromus der Flora der preussischen Rheinlande* 1842, see under Wirtgen.
 
 #### Handwriting
 

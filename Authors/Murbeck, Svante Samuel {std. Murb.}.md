@@ -8,7 +8,9 @@ Murbeck, Svante Samuel (1859-1946), Swedish botanist; Dr. phil. Lund 1891; lectu
 
 #### Herbarium and types
 
-[[Collection LD|LD]]. For further collections see IH. *Exsiccatae*: (1) *Violae Sueciae* *exsiccatae*, fasc. 1-2, Lund 1886-1892, 30 and 30 nos. (with L. M. Neuman and L. J. Wahlstedt); (2) *Plantae selectae e flora Africae borealis*, Lund, 1907, 59 nos.
+[[Collection LD|LD]]. For further collections see IH.
+*Exsiccatae*: (1) *Violae Sueciae* *exsiccatae*, fasc. 1-2, Lund 1886-1892, 30 and 30 nos. (with L. M. Neuman and L. J. Wahlstedt);
+- (2) *Plantae selectae e flora Africae borealis*, Lund, 1907, 59 nos.
 
 #### Bibliography and biography
 

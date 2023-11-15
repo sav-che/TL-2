@@ -31,12 +31,14 @@ ADB 18: 111; AG 5(1): 577; Backer p. 319; Barnhart 2: 358; BM 3: 1077; Clokie p.
 
 #### Composite works
 
-(1) *Supplement 1*, 1811, p. \[1\]-5 (by Ledebour), to J. A. Weinmann, *Der botanische Garten der kaiserl. Universität zu Dorpat, im Jahre 1810.* \[Dorpat 1810\], see sub J. A. Weinmann.
-(2) Collaborated in E. Eichwald, *Pl. nov.* 1831-1833 (TL2/1652).
+- (1) *Supplement 1*, 1811, p. \[1\]-5 (by Ledebour), to J. A. Weinmann, *Der botanische Garten der kaiserl. Universität zu Dorpat, im Jahre 1810.* \[Dorpat 1810\], see sub J. A. Weinmann.
+- (2) Collaborated in E. Eichwald, *Pl. nov.* 1831-1833 (TL2/1652).
 
 #### Handwriting
 
-(1) K. SV. Vet.-Akad. Handl. ser. 3. 5(1): 7, fig. 1 (11); (2) Festschrift 500-Jahrfeier Univ. Greifswald 2: 550. 1956; (3) Candollea 31: 321-322. 1976.
+- (1) K. SV. Vet.-Akad. Handl. ser. 3. 5(1): 7, fig. 1 (11);
+- (2) Festschrift 500-Jahrfeier Univ. Greifswald 2: 550. 1956;
+- (3) Candollea 31: 321-322. 1976.
 
 #### Eponymy
 

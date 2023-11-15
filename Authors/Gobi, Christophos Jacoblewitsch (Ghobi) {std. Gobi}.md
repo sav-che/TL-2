@@ -10,7 +10,8 @@ Gobi, Christophos Jacoblewitsch (Ghobi) (1847-1919), Russian algologist.
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Algae rossicae exsiccatae* (nos. 1-50, 1880), sets at [[Collection B|B]], [[Collection C|C]], [[Collection KIEL|KIEL]], [[Collection L|L]].
+Unknown.
+*Exsiccatae*: *Algae rossicae exsiccatae* (nos. 1-50, 1880), sets at [[Collection B|B]], [[Collection C|C]], [[Collection KIEL|KIEL]], [[Collection L|L]].
 *Ref*.: IH 2: 228.
 - Urban, Gesch. Berlin-Dahlem 264. 1916.
 - Sayre, Mem. New York Bot. Gard. 19(1): 74. 1969.

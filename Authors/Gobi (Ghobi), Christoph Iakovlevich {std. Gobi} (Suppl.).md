@@ -14,7 +14,8 @@ Lipschitz gives 24 Dec 1919 as the date of death, but does not indicate o.s. or 
 
 #### Herbarium and types
 
-[[Collection HERZ|HERZ]], [[Collection LECB|LECB]]. – *Exsiccatae*: *Algae Rossicae Exsiccatae* (nos. 1-50, 1880, or later?) (*Algae Ross. Exsicc.*): [[Collection B|B]], [[Collection C|C]], [[Collection KIEL|KIEL]], [[Collection L|L]].
+[[Collection HERZ|HERZ]], [[Collection LECB|LECB]].
+*Exsiccatae*: *Algae Rossicae Exsiccatae* (nos. 1-50, 1880, or later?) (*Algae Ross. Exsicc.*): [[Collection B|B]], [[Collection C|C]], [[Collection KIEL|KIEL]], [[Collection L|L]].
 
 #### Bibliography and biography
 
@@ -35,9 +36,9 @@ APN p. 230 (as "Christophos Jacoblewitsch"); Barnhart 2: 56 (d. "1920"); BM 2: 6
 
 #### Composite works
 
-(1) Co-editor, *Botanicheskiya Zapiski. Scripta Botanica Horti Universitatis Imperialis Petropolitanae* (1886-1907).
-(2) First author of *Beiträge zur Pilzflora Russlands*... Part 1 (1890), which is treated under its co-author, Woldemar Tranzschel, see TL-2/6, nr. 14.864.
-(3) Translated E.A. Strasburger, *Lehrb. Bot.*... 1894, into Russian (1897; ed. 2, 1904), see TL-2/6, nr. 13.237.
+- (1) Co-editor, *Botanicheskiya Zapiski. Scripta Botanica Horti Universitatis Imperialis Petropolitanae* (1886-1907).
+- (2) First author of *Beiträge zur Pilzflora Russlands*... Part 1 (1890), which is treated under its co-author, Woldemar Tranzschel, see TL-2/6, nr. 14.864.
+- (3) Translated E.A. Strasburger, *Lehrb. Bot.*... 1894, into Russian (1897; ed. 2, 1904), see TL-2/6, nr. 13.237.
 
 ### Publications
 

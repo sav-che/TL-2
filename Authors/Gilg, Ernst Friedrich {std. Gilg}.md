@@ -24,7 +24,7 @@ Barnhart 2: 48; BL 1: 37; BM 2: 676, 6: 375; Bossert p. 144; CSP 15: 305; MW p 1
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien* ed. 1:
+- (1) EP, *Die natürlichen Pflanzenfamilien* ed. 1:
 (a) *Connaraceae*: III. 3: 61-64. Jun 1891; 65-70. Aug 1891; 388. 22 Mai 1894; Suppl., Nachtr. II-IV. 1: 189-190. Aug 1897; II-IV. 2: 30. 8 Oct 1900.
 (b) *Cyrillaceae*: III. 5: 179-182. Dec 1892; Suppl. \[by Engler\], Nachtr. II-IV. 1: 214. Oct 1897.
 (c) *Vitaceae*: III. 5: 427-456. Apr 1896; Suppl., Nachtr. II-IV. 1: 230. Oct 1897; II-IV. 2: 41. 8 Oct 1900.
@@ -35,13 +35,13 @@ Barnhart 2: 48; BL 1: 37; BM 2: 676, 6: 375; Bossert p. 144; CSP 15: 305; MW p 1
 (h) *Turneracèae*: III. 6A: 57-64. 28 Dec 1893; Suppl., Nachtr. II-IV. 1: 253. Oct 1897.
 (i) *Loasaceae*: III. 6A: 100-121.\[fix\]27 Feb 1894.
 (k) *Geissolomaceae*: III. 6A: 205-207. 10 Jul 1894.
-(1) *Penaeaceae*: III. 6A: 208-213. 10 Jul 1894.
+(l) *Penaeaceae*: III. 6A: 208-213. 10 Jul 1894.
 (m) *Oliniaceae*: III. 6A: 213-216. 10 Jul 1894.
 (n) *Thymelaeceae*: III. 6A: 216-245. 10 Jul 1894; Suppl., Nachtr. II-IV. 1: 260. Oct 1897.
 (o) *Elaeagnaceae*: III. 6A: 246-251. 10 Jul 1894; Suppl., Nachtr. II-IV. 1: 260. Oct 1897.
 (p) *Gentianaceae*: IV. 2: 50-108. Jun 1895 (p. 80-86, *Gentiana* by Nikolai Ivanovich Kuznetsov\]; Suppl., Nachtr. II-IV. 1: 282-283. Oct 1897; II-IV. 2: 54. 8 Oct 1900.
 (q) *Gonystylaceae*: Nachtr. II-IV. 1: 231-232. Oct 1897.
-(2) EP, *Die natürlichen Pflanzenfamilien* ed. 2:
+- (2) EP, *Die natürlichen Pflanzenfamilien* ed. 2:
 (a) *Dilleniaceae*: 21: 7-36, *figs. 1-25.* Dec 1925, with E. Werdermann.
 (b) *Actinidiaceae*: 21: 36-47, *figs. 26-29.* Dec 1925, idem.
 (c) *Eucryphiaceae*: 21: 47-50, *fig. 30.* Dec 1925.
@@ -52,14 +52,14 @@ Barnhart 2: 48; BL 1: 37; BM 2: 676, 6: 375; Bossert p. 144; CSP 15: 305; MW p 1
 (h) *Flacourtiaceae*: 21: 377-457, *figs. 163-212.* Dec 1925.
 (i) *Stachyuraceae*: 21: 457-459. Dec 1925.
 (k) *Turneraceae*: 21: 459-466, *figs. 213-214.* Dec 1925.
-(1) *Loasaceae*: 21: 522-543, *figs. 242-248.* Dec 1925.
+(l) *Loasaceae*: 21: 522-543, *figs. 242-248.* Dec 1925.
 (m) *Datiscaceae*: 21: 543-547, *figs. 249-250.* Dec 1925.
 (n) *Ancistrocladaceae*: 21: 589-592, *figs. 269-270.* Dec 1925.
 By C. Gilg-Benedict:
 (o) *Restionaceae*: 15a: 8-27, *figs. 2-6.* Apr 1930.
 (p) *Centrolepidaceae*: 15a: 27-33, *figs. 7-8.* Apr 1930.
-(3) Engler, *Pfianzenreich*: (with J. Perkins): IV. 101, Heft 4, *Monimiaceae*. 21 Jun 1901.
-(4) *Deutsch-Ost-Afrika*, several contributions to vol. 5 (1895).
-(5) Engler, *Monogr. qfrik. Pflanzenfam.*: 2, 1898, *Melastomaceae*.
-(6) *Wissensch. Erg. deut. Zentral-Afrika-Exp.* 1907-1908: various families in vol. 2, 1910-1913.
+- (3) Engler, *Pfianzenreich*: (with J. Perkins): IV. 101, Heft 4, *Monimiaceae*. 21 Jun 1901.
+- (4) *Deutsch-Ost-Afrika*, several contributions to vol. 5 (1895).
+- (5) Engler, *Monogr. qfrik. Pflanzenfam.*: 2, 1898, *Melastomaceae*.
+- (6) *Wissensch. Erg. deut. Zentral-Afrika-Exp.* 1907-1908: various families in vol. 2, 1910-1913.
 

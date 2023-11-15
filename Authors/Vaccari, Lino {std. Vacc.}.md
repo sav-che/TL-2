@@ -27,8 +27,8 @@ AG 12(2): 336, 613 ("Luino V."); Barnhart 3: 418; Biol.-Dokum. 18: 9503; BJI 2: 
 
 #### Composite works
 
-(1) Contributed *Gentianaceae* to A. Fiori & G. Paoletti, *Fl. Italia* 1896-1908, TL-2/1782.
-(2) Co-author, G. Negri, *Stato conosc. veg. Italia* 1909, TL-2/6715.
+- (1) Contributed *Gentianaceae* to A. Fiori & G. Paoletti, *Fl. Italia* 1896-1908, TL-2/1782.
+- (2) Co-author, G. Negri, *Stato conosc. veg. Italia* 1909, TL-2/6715.
 
 ### Publications
 

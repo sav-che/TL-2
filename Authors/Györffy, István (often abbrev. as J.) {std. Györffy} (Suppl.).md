@@ -10,11 +10,13 @@
 
 #### Note
 
-(1) His wife, Irma Győrffy (née Greisiger) (1882-1947), was also a botanist but published outside the period of our concern. (2) With the first name initialed, both Győrffy and his wife could be confused with the Hungarian ethnologist István Győrffy (1884-1939).
+- (1) His wife, Irma Győrffy (née Greisiger) (1882-1947), was also a botanist but published outside the period of our concern.
+- (2) With the first name initialed, both Győrffy and his wife could be confused with the Hungarian ethnologist István Győrffy (1884-1939).
 
 #### Herbarium and types
 
-[[Collection BP|BP]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]]-BR, [[Collection K|K]], [[Collection L|L]], [[Collection W|W]]. – *Exsiccatae* (with M. Péterfi) widely distributed (see Rev. Bryol. Lichénol. 31(3-4): 283. 1962, for what happened after 1919; and TL-2/4: 192). *Bryophyta Regni Hungariae Exsiccata*, for an index, see: A "Bryophyta regni Hungariae exsiccata" részére begyűtött és Klozsvárott rekedt fajok jegyzéke, Folia Crypt. 1: 25-40. 7 Mai 1924. *Copy*: [[Collection NY|NY]].
+[[Collection BP|BP]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection H|H]]-BR, [[Collection K|K]], [[Collection L|L]], [[Collection W|W]].
+*Exsiccatae* (with M. Péterfi) widely distributed (see Rev. Bryol. Lichénol. 31(3-4): 283. 1962, for what happened after 1919; and TL-2/4: 192). *Bryophyta Regni Hungariae Exsiccata*, for an index, see: A "Bryophyta regni Hungariae exsiccata" részére begyűtött és Klozsvárott rekedt fajok jegyzéke, Folia Crypt. 1: 25-40. 7 Mai 1924. *Copy*: [[Collection NY|NY]].
 
 #### Bibliography and biography
 
@@ -33,9 +35,9 @@ APN p. 251; Barnhart 2: 104; Biol.-Dokum. 89.089-89.095; BM 6: 420; Bossert p. 1
 
 #### Composite works
 
-(1) Contributed to L. Loeske, *Laubm. Eur.*... 1913-1914 (TL-2/3, nr. 4941).
-(2) Editor, *Folia Cryptogamica*, vol. 1 (fasc. 1-10), vol. 2 (fasc. 1-5) (1924-1939 \[i.e. 1942\]). *Facsimile*: announced by Flück-Wirth 1968. – *Note*: The issues dated 1935-1939 were published in 1936-1942.
-(3) Editor, *Acta Univ. Szeged., Sect. Sci. Nat., Pars Bot.*, n.s., vol. 5 (1939).
+- (1) Contributed to L. Loeske, *Laubm. Eur.*... 1913-1914 (TL-2/3, nr. 4941).
+- (2) Editor, *Folia Cryptogamica*, vol. 1 (fasc. 1-10), vol. 2 (fasc. 1-5) (1924-1939 \[i.e. 1942\]). *Facsimile*: announced by Flück-Wirth 1968. – *Note*: The issues dated 1935-1939 were published in 1936-1942.
+- (3) Editor, *Acta Univ. Szeged., Sect. Sci. Nat., Pars Bot.*, n.s., vol. 5 (1939).
 
 ### Publications
 

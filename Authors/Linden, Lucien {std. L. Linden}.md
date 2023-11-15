@@ -17,8 +17,8 @@ Backer p. 656 (b. 1865); BM 3: 1118; IH 2: 446.
 
 #### Composite works
 
-(1), Editor of *Lindenia*, Iconographie des Orchidées (with E. Rodigas), vols. 1-17, 1855-1903 (NI 2348).
-(2). Editor, *L'Illustration horticole* 28-43, 1881-1896.
+- (1), Editor of *Lindenia*, Iconographie des Orchidées (with E. Rodigas), vols. 1-17, 1855-1903 (NI 2348).
+- (2). Editor, *L'Illustration horticole* 28-43, 1881-1896.
 
 ### Publications
 

@@ -33,8 +33,8 @@ ADB 42: 445-449; Barnhart 3: 493 (b. 21 Apr 1821, d. 22 Oct 1886); BFM 350; Biol
 
 #### Note
 
-(1) For Johannes Wigand (1523-1587), "Preussens erster Botaniker" see Kurt Wein, Sudhoffs Arch. Gesch. Med. Naturw. 35(3-4): 160-205. 1942.
-(2) Albert Wigand's father, Johann Heinrich Friedrich Wigand (1788-1855) was a pharmacist at Marburg and started the Wigand herbarium (now at MB); see W.H. Hein & H.D. Schwarz, Deut. Apoth. Biogr. 2: 746-747. 1978.
+- (1) For Johannes Wigand (1523-1587), "Preussens erster Botaniker" see Kurt Wein, Sudhoffs Arch. Gesch. Med. Naturw. 35(3-4): 160-205. 1942.
+- (2) Albert Wigand's father, Johann Heinrich Friedrich Wigand (1788-1855) was a pharmacist at Marburg and started the Wigand herbarium (now at MB); see W.H. Hein & H.D. Schwarz, Deut. Apoth. Biogr. 2: 746-747. 1978.
 
 ### Publications
 

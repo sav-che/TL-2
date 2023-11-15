@@ -37,7 +37,9 @@ Barnhart 2: 499; Blunt p. 168, 170; BM 3: 1325-1326, 7: 853; Clokie p. 213; CSP 
 
 #### Composite works
 
-(1) see Candolle, A. P. de, *Calques fl. Mexique.* 1874, TL-2/2, no. 977; for further information see Colmeiro (1858), and McVaugh in DSB 9: 432-434. 1974. (2) *Plantae novae* ("nouae") *hispaniae* by M. Sessé and J. M. Moçiño, Mexico 1887, ed. 2, 1893, see under Sessé. (3) *Flora mexicana* a Martino Sessé et Josepho Marianno Moçiño exarata, Mexico 1887, ed. 2, 1894, see under Sessé.
+- (1) see Candolle, A. P. de, *Calques fl. Mexique.* 1874, TL-2/2, no. 977; for further information see Colmeiro (1858), and McVaugh in DSB 9: 432-434. 1974.
+- (2) *Plantae novae* ("nouae") *hispaniae* by M. Sessé and J. M. Moçiño, Mexico 1887, ed. 2, 1893, see under Sessé.
+- (3) *Flora mexicana* a Martino Sessé et Josepho Marianno Moçiño exarata, Mexico 1887, ed. 2, 1894, see under Sessé.
 
 #### Handwriting
 

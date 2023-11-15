@@ -10,8 +10,9 @@
 
 #### Herbarium and types
 
-[[Collection G|G]] (orig.), duplicates [[Collection BR|BR]], [[Collection CWU|CWU]], [[Collection K|K]] (Fungi), [[Collection L|L]], [[Collection M|M]], [[Collection STR|STR]], [[Collection W|W]], [[Collection WIES|WIES]]. – *Exsiccatae*: (1) *Fungi Rhenani Exsiccati a Leopoldo Fuckel collecti*... (nos. 1-2700, 1863-1874): [[Collection BM|BM]] (list), [[Collection BPI|BPI]] (1-2697), [[Collection FH|FH]] (complete set), [[Collection G|G]] (complete set), [[Collection HBG|HBG]], [[Collection S|S]], [[Collection UPS|UPS]].
-(2) The status of the following as an exsiccata is unclear: *Enumeratio fungorum Nassoviae a Leopoldo Fuckel collectorum*, Ser. I... (Wiesbaden) (1860): [[Collection M|M]].
+[[Collection G|G]] (orig.), duplicates [[Collection BR|BR]], [[Collection CWU|CWU]], [[Collection K|K]] (Fungi), [[Collection L|L]], [[Collection M|M]], [[Collection STR|STR]], [[Collection W|W]], [[Collection WIES|WIES]].
+*Exsiccatae*: (1) *Fungi Rhenani Exsiccati a Leopoldo Fuckel collecti*... (nos. 1-2700, 1863-1874): [[Collection BM|BM]] (list), [[Collection BPI|BPI]] (1-2697), [[Collection FH|FH]] (complete set), [[Collection G|G]] (complete set), [[Collection HBG|HBG]], [[Collection S|S]], [[Collection UPS|UPS]].
+- (2) The status of the following as an exsiccata is unclear: *Enumeratio fungorum Nassoviae a Leopoldo Fuckel collectorum*, Ser. I... (Wiesbaden) (1860): [[Collection M|M]].
 
 #### Bibliography and biography
 
@@ -28,8 +29,8 @@ ADB 8: 176 (as "Gottlieb Wilhelm Carl Leopold"); AG 6(1): 596 (d. "8 Mar 1876");
 
 #### Note
 
-(1) *Nassaus Flora*... 1856 (see TL-2/1, nr. 1911) has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 6 microfiches (Plant taxonomic lit. microfiche coll., "1735D7-1740D7"). *Copy*: MO (n.v.).
-(2) *Symbolae mycologicae*... 1869-1879 (see TL-2/1, nr. 1912) has been reprinted: *Reprint*: 1966,... Lehre (Cramer)/New York, London (Johnson). *Copy*: LC (n.v.).
+- (1) *Nassaus Flora*... 1856 (see TL-2/1, nr. 1911) has been issued in microfiche: *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 6 microfiches (Plant taxonomic lit. microfiche coll., "1735D7-1740D7"). *Copy*: MO (n.v.).
+- (2) *Symbolae mycologicae*... 1869-1879 (see TL-2/1, nr. 1912) has been reprinted: *Reprint*: 1966,... Lehre (Cramer)/New York, London (Johnson). *Copy*: LC (n.v.).
 
 ### Publications
 

@@ -73,10 +73,10 @@ ADB 16: 483-484 (by A.G. Rau); Ainsworth 314, 347 \[index\]; Barnhart 3: 250 (b.
 
 #### Composite works
 
-(1) *Monotropsis* Schweinitz, *in* S. Elliott, *Sketch bot. S. Carolina* 1: 478-479. Dec\[?\] 1817.
-(2) *A catalogue of plants collected in the North-Western Territory* by Mr. Thomas Say, in the year 1823, *in* W.H. Keating, *Narrat. exp. St. Peter's River* 2: 379-400. Dec 1824 or early 1825 (in London ed., 1825, 2 (app.): 105-123), see TL-2/3560 and R.L. Stuckey (1970).
-(3) *Fungi, in* J. Torrey, *Catalogue of North American genera of plants..., in* J. Lindley, *Intr. nat. syst. bot.*, first Amer. ed. Dec 1831, TL-2/4644.
-(4) *Catalogus plantarum in monte Pokono* (North-Hampt. Pennsylvaniae) observatorum a L.D. Schweinitz, *in* Maximilian Alexander Philipp, Prinz zu Wied-Neuwied \[1782-1867\], *Reise in das innere Nord-Amerika* in den Jahren 1832 bis 1834, 1: 631-634. 1839.
+- (1) *Monotropsis* Schweinitz, *in* S. Elliott, *Sketch bot. S. Carolina* 1: 478-479. Dec\[?\] 1817.
+- (2) *A catalogue of plants collected in the North-Western Territory* by Mr. Thomas Say, in the year 1823, *in* W.H. Keating, *Narrat. exp. St. Peter's River* 2: 379-400. Dec 1824 or early 1825 (in London ed., 1825, 2 (app.): 105-123), see TL-2/3560 and R.L. Stuckey (1970).
+- (3) *Fungi, in* J. Torrey, *Catalogue of North American genera of plants..., in* J. Lindley, *Intr. nat. syst. bot.*, first Amer. ed. Dec 1831, TL-2/4644.
+- (4) *Catalogus plantarum in monte Pokono* (North-Hampt. Pennsylvaniae) observatorum a L.D. Schweinitz, *in* Maximilian Alexander Philipp, Prinz zu Wied-Neuwied \[1782-1867\], *Reise in das innere Nord-Amerika* in den Jahren 1832 bis 1834, 1: 631-634. 1839.
 
 #### Handwriting
 
@@ -84,10 +84,12 @@ Bartonia 28: *pl*. 7. 1957, Mycologia 41(4): 457. 1949.
 
 #### Manuscripts and letters
 
-(1) Most archival material concerning Schweinitz is at PH (see PH p. xxiv, coll. 4, 130, 137, 248, 437, 438, 557, 657), e.g.:
+- (1) Most archival material concerning Schweinitz is at PH (see PH p. xxiv, coll. 4, 130, 137, 248, 437, 438, 557, 657), e.g.:
 (a) *Synopsis plantarum americanorum*, 357 p. in PH coll. 130, item no. 3 (coll. 130 consists of 8 "synopses of various botanical groups").
-(b) Systematically arranged catalogue of the Schweinitz herbarium, 326 p., in PH coll. 137, item no. 12 (coll. 137 consists of 14 "herbarium catalogi and indexes"). (2) Several manuscripts which belonged to J. Torrey were given to Sullivant in 1860 and are now at FH. Among them a *Conspectus muscorum frondosorum americanorum herbarii*, a list of 267 American musci with indication of which are in his herbarium; also a similar mss. on Hepaticae and a diary of observations on cryptogams in 1821 (inf. G. Sayre). (3) For the archival holdings of Schweinitz items at NY see Lenley 362, 363, 468 (Torrey corr.).
-(4) *Correspondence* (published): with C.F. Denke (R.L. Stuckey & J.R. Wehrmeister, 1979), E. Fries (CL. Shear 1902), A. Gray (J.L. Gray 1893; C.L. Shear 1905), C.H. Mertens (G.H.M. Lawrence 1964), Th. Nuttall (J.E. Graustein 1967), D. Steinhauer (R.L. Stuckey 1967), J. Torrey (C.L. Shear & N.E. Stevens 1921 and see H.D. Rodgers, 1942).
+(b) Systematically arranged catalogue of the Schweinitz herbarium, 326 p., in PH coll. 137, item no. 12 (coll. 137 consists of 14 "herbarium catalogi and indexes").
+- (2) Several manuscripts which belonged to J. Torrey were given to Sullivant in 1860 and are now at FH. Among them a *Conspectus muscorum frondosorum americanorum herbarii*, a list of 267 American musci with indication of which are in his herbarium; also a similar mss. on Hepaticae and a diary of observations on cryptogams in 1821 (inf. G. Sayre).
+- (3) For the archival holdings of Schweinitz items at NY see Lenley 362, 363, 468 (Torrey corr.).
+- (4) *Correspondence* (published): with C.F. Denke (R.L. Stuckey & J.R. Wehrmeister, 1979), E. Fries (CL. Shear 1902), A. Gray (J.L. Gray 1893; C.L. Shear 1905), C.H. Mertens (G.H.M. Lawrence 1964), Th. Nuttall (J.E. Graustein 1967), D. Steinhauer (R.L. Stuckey 1967), J. Torrey (C.L. Shear & N.E. Stevens 1921 and see H.D. Rodgers, 1942).
 
 #### Eponymy
 

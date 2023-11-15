@@ -28,11 +28,11 @@ AG 6(1): 56; Barnhart 2: 119; BM 2: 779-780; Bossert p. 161; CSP 3: 154-155, 7: 
 
 #### Composite works
 
-(1) Klima, Vegetation und Flora des Harzes, *in* Brederlow, *Der Harz*. Braunschweig 1845, p. 86-111 (PR 3754; ed. 1: 4108).
-(2) Contributed to Lehmann, *Plantae preissianae* (1844-1847), see no. 4332.
-(3) Idem to Triana et Planchon, *Prodromus florae novogranatensis*. vol. 2, 1865-1866; see no. 2348.
-(4) Idem to Karl Müller, *Synopsis muscorum frondosorum*, q.v.
-(5) Warming, E., *Symb. fl. Bras, centr.*, parts 8, 10, 19, 24, *Musci frondosi*, Vid. Medd. naturh. For. Kjöbenhavn 2: 267-296. 10 Oct 1870, 4: 36-59. 26 Apr 1873, 6: 129-178. 14 Jun 1874, 9/10: 251-274. 4 Feb 1879 (also with independent pagination.) (Dates courtesy Mrs. Fox-Maule).
+- (1) Klima, Vegetation und Flora des Harzes, *in* Brederlow, *Der Harz*. Braunschweig 1845, p. 86-111 (PR 3754; ed. 1: 4108).
+- (2) Contributed to Lehmann, *Plantae preissianae* (1844-1847), see no. 4332.
+- (3) Idem to Triana et Planchon, *Prodromus florae novogranatensis*. vol. 2, 1865-1866; see no. 2348.
+- (4) Idem to Karl Müller, *Synopsis muscorum frondosorum*, q.v.
+- (5) Warming, E., *Symb. fl. Bras, centr.*, parts 8, 10, 19, 24, *Musci frondosi*, Vid. Medd. naturh. For. Kjöbenhavn 2: 267-296. 10 Oct 1870, 4: 36-59. 26 Apr 1873, 6: 129-178. 14 Jun 1874, 9/10: 251-274. 4 Feb 1879 (also with independent pagination.) (Dates courtesy Mrs. Fox-Maule).
 
 #### Eponymy
 

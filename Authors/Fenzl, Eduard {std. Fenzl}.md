@@ -37,18 +37,18 @@ ADB 48: 520-521; AG 2(1): 359, 4: 339, 5(1): 544; Barnhart 1: 535; BM 2: 565, 4:
 
 #### Composite works
 
-(1) Endlicher, *Genera plantarum*, various families, see BM 2: 565 and see Leopoldina 1880: 150-151.
-(2) Endlicher, *Atakta Botanica* (*Schiedea, Brachystemma*).
-(3) Endlicher et al., *Enum.pl. Nova Holl. Hügel* 1837 (*Rhamnac., Portulac., Ficoid., Halor., Loranth.*)
-(4) Endlicher et Fenzl, *Sertum cabulicum* (1836).
-(5) Jacquin, *Eclogae pl. rar.* vol. 2. 1844, text by Fenzl.
-(6) Ledebour, *Fl. rossica*, 3 vols. 1842-1851, various contr., see BM 2: 565.
-(7) Martius, *Flora brasiliensis, Salsolaceae*, 5(1): 137-158, *t. 45-49.* \[fasc. 37\] 1 Dec 1864.
-(8) Peyritsch, *Aroideae Maximilianae*. Wien 1879 (*Zomicarpa; Anthurium Maximiliani*).
-(9) Tchichatcheff, *Asie mineure*, 3, Paris 1860, "Diagnoses plantarum orientalium."
-(10) Wulfen, *Flora Norica phanerogama*, ed. Fenzl and Graf, Wien 1858.
-(11) Endlicher and Fenzl, *Novarum stirpium decades* (1839).
-(12) Ruprecht, *Beitr. Pflanzenk. russ. Reiches* vol. 2. 1845 (*Alsineae*).
+- (1) Endlicher, *Genera plantarum*, various families, see BM 2: 565 and see Leopoldina 1880: 150-151.
+- (2) Endlicher, *Atakta Botanica* (*Schiedea, Brachystemma*).
+- (3) Endlicher et al., *Enum.pl. Nova Holl. Hügel* 1837 (*Rhamnac., Portulac., Ficoid., Halor., Loranth.*)
+- (4) Endlicher et Fenzl, *Sertum cabulicum* (1836).
+- (5) Jacquin, *Eclogae pl. rar.* vol. 2. 1844, text by Fenzl.
+- (6) Ledebour, *Fl. rossica*, 3 vols. 1842-1851, various contr., see BM 2: 565.
+- (7) Martius, *Flora brasiliensis, Salsolaceae*, 5(1): 137-158, *t. 45-49.* \[fasc. 37\] 1 Dec 1864.
+- (8) Peyritsch, *Aroideae Maximilianae*. Wien 1879 (*Zomicarpa; Anthurium Maximiliani*).
+- (9) Tchichatcheff, *Asie mineure*, 3, Paris 1860, "Diagnoses plantarum orientalium."
+- (10) Wulfen, *Flora Norica phanerogama*, ed. Fenzl and Graf, Wien 1858.
+- (11) Endlicher and Fenzl, *Novarum stirpium decades* (1839).
+- (12) Ruprecht, *Beitr. Pflanzenk. russ. Reiches* vol. 2. 1845 (*Alsineae*).
 
 #### Eponymy
 

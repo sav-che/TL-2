@@ -29,8 +29,8 @@ Furrer wrote a book on Swiss wildflowers entitled *Blumen am Wege* ... Zürich (
 
 #### Composite works
 
-(1) Co-author with J. Braun-Blanquet, *Sur l'étude des associations*... 1913, see TL-2/Suppl. 3, nr. 22.652.
-(2) Edited a Festschrift in honor of Hans Shinz (1858-1941), which appeared in Vierteljahrsschr. Naturf. Ges. Zürich 73. 1928, see TL-2/5: 176.
+- (1) Co-author with J. Braun-Blanquet, *Sur l'étude des associations*... 1913, see TL-2/Suppl. 3, nr. 22.652.
+- (2) Edited a Festschrift in honor of Hans Shinz (1858-1941), which appeared in Vierteljahrsschr. Naturf. Ges. Zürich 73. 1928, see TL-2/5: 176.
 
 ### Publications
 

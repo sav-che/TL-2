@@ -24,8 +24,8 @@ APN p. 238; IF suppl. 4: 322, 354; IH 2: 234.
 
 #### Outside our period
 
-(1) Smith, D.A., 1946. *Check list* of *North Queensland ferns*. Publication (North Queensland Natural. Club) 3: 11 p.
-(2) Smith, L.S. & D.A. Smith, 1982. The naturalised *Lantana camara complex* in eastern Australia. Queensland Botany Bull. 1: 1-26.
+- (1) Smith, D.A., 1946. *Check list* of *North Queensland ferns*. Publication (North Queensland Natural. Club) 3: 11 p.
+- (2) Smith, L.S. & D.A. Smith, 1982. The naturalised *Lantana camara complex* in eastern Australia. Queensland Botany Bull. 1: 1-26.
 
 ### Publications
 

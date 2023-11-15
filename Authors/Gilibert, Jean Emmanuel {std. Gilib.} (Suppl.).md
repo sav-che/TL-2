@@ -39,14 +39,14 @@ APN p. 227; Backer p. 234, 651; Baillon 2: 699; Barnhart 2: 48 (b. "20 Jun"); BM
 
 #### Note
 
-(1) Four of Gilibert's works (TL-2/1, nrs. 2012-2015) are listed in the Appendix V *Opera Utique Oppressa* of the 2006 Vienna *Code*. Names appearing in these works in the ranks specified at the end of each listing (species and infraspecific taxa, in Gilibert's case) are not to be accepted as validly published. This list was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
-(2) Christine Barker (Kew) pointed out several typographical errors associated with TL-2/1, nrs. 2013 and 2015, involving the Latin word *Exercitium* (exercise), its plural *Exercitia*, and its abbreviation, *Exerc*. In nr. 2013, the abbreviation "*Excerc*." should be "*Exerc*." In nr. 2015, the first title word "*Excercitia*" should be corrected to "*Exercitia*" and the abbreviation "*Excerc*." should be corrected to "*Exerc*.".
-(3) A number of titles reprinted in *Syst. pl. Eur.*... 1785-1787, 7 vols. (TL-2/1, nr. 2014) have subsequently been analyzed in more detail in the later volumes of TL-2. These include:
+- (1) Four of Gilibert's works (TL-2/1, nrs. 2012-2015) are listed in the Appendix V *Opera Utique Oppressa* of the 2006 Vienna *Code*. Names appearing in these works in the ranks specified at the end of each listing (species and infraspecific taxa, in Gilibert's case) are not to be accepted as validly published. This list was established by action of the Tokyo Congr. (1993) and first appeared in the 1994 Tokyo *Code*.
+- (2) Christine Barker (Kew) pointed out several typographical errors associated with TL-2/1, nrs. 2013 and 2015, involving the Latin word *Exercitium* (exercise), its plural *Exercitia*, and its abbreviation, *Exerc*. In nr. 2013, the abbreviation "*Excerc*." should be "*Exerc*." In nr. 2015, the first title word "*Excercitia*" should be corrected to "*Exercitia*" and the abbreviation "*Excerc*." should be corrected to "*Exerc*.".
+- (3) A number of titles reprinted in *Syst. pl. Eur.*... 1785-1787, 7 vols. (TL-2/1, nr. 2014) have subsequently been analyzed in more detail in the later volumes of TL-2. These include:
 (a) M. Alphonin, *Usum hist. nat.*... 1766 (TL-2/Suppl. 1, nr. 19.316), "Reprinted in... ed. J.E. Gilibert, *Syst. pl. Eur.* 5: i-xix. 1786".
 (b) J.A. Murray, *Vindic. nom. triv.*... 1782 (TL-2/3, nr. 6574), "*Reprinted*:... in Gilibert, *Syst. pl. Europ.* 5: xlvii-lxxv. 1786".
 (c) M.A.L.C. de Latourrette, *Chlor. lugd.*... 1785 (TL-2/2, nr. 4231), "Reprinted in J.E. Gilibert, *Syst. pl. Eur.* vol. 1, 1786 (no. 2014), (with a supplement; orig. text consists of orig. sheets)".
 (d) D. Villars, *Flora delphinalis*... 1786 (see TL-2/6: 740), "in J.E. Gilibert, C. Linnaei ... Systema plantarum europae 1, 1785 (publ. Jun 1786), vii, 127 p. (Latin transl. of *Prospectus*)".
-(4) Several of Gilibert's works are now available in microform:
+- (4) Several of Gilibert's works are now available in microform:
 (a) *Fl. lit. inch.*... 1781-1782 (TL-2/1, nr. 2012).
 *Microfilm*: Ann Arbor, Michigan (University Microfilms), 2 reels (35 mm). *Copy*: NY (n.v.).
 (b) *Amoen. acad. Gilibert ed.*... 1782 (TL-2/3, nr. 4756).
@@ -60,9 +60,9 @@ APN p. 227; Backer p. 234, 651; Baillon 2: 699; Barnhart 2: 48 (b. "20 Jun"); BM
 
 #### Composite works
 
-(1) Edited *Amoen. acad. Gilibert ed.*... 1786 (TL-2/3, nr. 4756).
-(2) Contributed text (p. \[i\]-xxxvi) and edited G.F. Hoffmann, *Util. lich.*... 1787 (TL-2/2, nr. 2881).
-(3) Edited and annotated M.A.L.C. de Latourrette, *Démonstr. élem. bot.*... eds. 3, 1787, & 4, 1796 (TL-2/2, nr. 4229). – *Note*: With respect to ed. 4, Gilibert copied the plates that were used by J.D. Leers in the latter's *Fl. herborn.*... 1775 (TL-2/2, nr. 4293).
+- (1) Edited *Amoen. acad. Gilibert ed.*... 1786 (TL-2/3, nr. 4756).
+- (2) Contributed text (p. \[i\]-xxxvi) and edited G.F. Hoffmann, *Util. lich.*... 1787 (TL-2/2, nr. 2881).
+- (3) Edited and annotated M.A.L.C. de Latourrette, *Démonstr. élem. bot.*... eds. 3, 1787, & 4, 1796 (TL-2/2, nr. 4229). – *Note*: With respect to ed. 4, Gilibert copied the plates that were used by J.D. Leers in the latter's *Fl. herborn.*... 1775 (TL-2/2, nr. 4293).
 
 ### Publications
 

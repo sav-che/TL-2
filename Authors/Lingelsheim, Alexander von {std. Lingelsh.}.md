@@ -20,7 +20,7 @@ Andrews p. 296; Barnhart 2: 388; BJI 2: 106; Bossert p. 239 (b. 27 Sep 1874, d. 
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Oleaceae* IV, 243 (I, II), Heft 72, p. 1-125, publ. 29 Jun 1920. (2) Limpricht, W., *Bot. Reisen Hochgebirgen Chinas*, 1922, many families.
+- (1) Engler, *Pflanzenreich, Oleaceae* IV, 243 (I, II), Heft 72, p. 1-125, publ. 29 Jun 1920. (2) Limpricht, W., *Bot. Reisen Hochgebirgen Chinas*, 1922, many families.
 
 #### Thesis
 

@@ -19,6 +19,6 @@ Barnhart 2: 177; Bossert p. 176; GR p. 20, *pl*. \[*14*\], cat. p. 65; LS suppl.
 
 #### Composite works
 
-(1) Rabenhorst, *Kryptogamen-Flora*, ed. 2, *Teloschistaceae*, 9(6), Lief. 1, p. \[1\]-36. 1935; *Parmeliaceae*, 9(5.3), Lief. 1-2, p. \[ii-iv\], \[1\]-309, *pl. 1-2*, \[1-10, ind.\]. 1936.
-(2) *Kryptogamen-Flora der Mark Brandenburg*, vol. 8, *Flechten*, 955 p., 1913 (printed, but stock destroyed shortly after printing; ultimate publication by Hillmann und Grummann, Berlin-Nikolassee (Gebrüder Borntraeger) 1957, p. \[i\]-\[x\], \[1\]-898. *Copy*: U.
+- (1) Rabenhorst, *Kryptogamen-Flora*, ed. 2, *Teloschistaceae*, 9(6), Lief. 1, p. \[1\]-36. 1935; *Parmeliaceae*, 9(5.3), Lief. 1-2, p. \[ii-iv\], \[1\]-309, *pl. 1-2*, \[1-10, ind.\]. 1936.
+- (2) *Kryptogamen-Flora der Mark Brandenburg*, vol. 8, *Flechten*, 955 p., 1913 (printed, but stock destroyed shortly after printing; ultimate publication by Hillmann und Grummann, Berlin-Nikolassee (Gebrüder Borntraeger) 1957, p. \[i\]-\[x\], \[1\]-898. *Copy*: U.
 

@@ -40,16 +40,16 @@ Barnhart 1: 363 (b. 7 Apr 1841, d. 15 Apr 1916); BL 2: 30, 40; BM 1: 362, 6: 216
 
 #### Composite works
 
-(1)-(6) see TL-2/1: 518.
-(7) *Melastomaceae peruviana*, *in* I. Urban, *Plantae novae andinae*, TL-2/15.691, no. 4, Bot. Jahrb. 42: 131-148. 28 Jul 1908, *Cucurbitaceae peruvianae*.
-(8) *Melastomaceae*, *Cucurbitaceae*, *Orchidaceae, in* Hoehne, Comm. Lin. telegr., Bot. part. 3, see TL-2/2851.
-(9) O. Kuntze, *Exposé Congr. nomencl.*, TL-2/4031, Cogniaux joined the Kuntze propositions.
-(10) J.J. Linden, *Pl. columb.*, TL-2/4625, q.v.
-(11) with L. Linden, TL-2/4629, q.v.
-(12) *Melastomaceae*, *in* O. Kuntze, Revis. Gen. 3: 93-97. 1898, TL-2/4021.
-(13) *Die Melastomaceen*, *in* P. Dusén, Ark. Bot. 9(15): 8-10. 1910.
-(14) Les *plantes ornementales à feuillage panaché et coloré*, ouvrage édite par M. Alexis Dalliere,... rédigé par Alfred Cogniaux et Élie Marchal, 2 vols., 1873-1874. – See Bull. Soc. bot. France 23(Bibl.): 14. 1876.
-(15) Editor of *Chronique Orchidéenne* vols. 1-2, nos. 1-10. Bruxelles 1897-1907. Copies at HH and L (nos. 1-6, Jan-Jun 1897).
+- (1)-(6) see TL-2/1: 518.
+- (7) *Melastomaceae peruviana*, *in* I. Urban, *Plantae novae andinae*, TL-2/15.691, no. 4, Bot. Jahrb. 42: 131-148. 28 Jul 1908, *Cucurbitaceae peruvianae*.
+- (8) *Melastomaceae*, *Cucurbitaceae*, *Orchidaceae, in* Hoehne, Comm. Lin. telegr., Bot. part. 3, see TL-2/2851.
+- (9) O. Kuntze, *Exposé Congr. nomencl.*, TL-2/4031, Cogniaux joined the Kuntze propositions.
+- (10) J.J. Linden, *Pl. columb.*, TL-2/4625, q.v.
+- (11) with L. Linden, TL-2/4629, q.v.
+- (12) *Melastomaceae*, *in* O. Kuntze, Revis. Gen. 3: 93-97. 1898, TL-2/4021.
+- (13) *Die Melastomaceen*, *in* P. Dusén, Ark. Bot. 9(15): 8-10. 1910.
+- (14) Les *plantes ornementales à feuillage panaché et coloré*, ouvrage édite par M. Alexis Dalliere,... rédigé par Alfred Cogniaux et Élie Marchal, 2 vols., 1873-1874. – See Bull. Soc. bot. France 23(Bibl.): 14. 1876.
+- (15) Editor of *Chronique Orchidéenne* vols. 1-2, nos. 1-10. Bruxelles 1897-1907. Copies at HH and L (nos. 1-6, Jan-Jun 1897).
 
 ### Publications
 
@@ -353,7 +353,7 @@ A propos de *l'achèvement de la* "*Flora brasiliensis*"... Extrait du Bulletin 
 spec. nov. 4(73-74): 380-381. 1907.
 *Note*: (1): Announcement of article by Cogniaux in Bull. Soc. roy. bot. Belg. 43(2): 357-360.
 30 Apr 1907 with title: "Note sur le genre Macrozanonia, de la famille des Cucurbitacées."
-(2): *Macrozanonia* (Cogn.) Cogn., first publ. in Bull. Herb. Boissier 1(12): 612. Dec 1893.
+- (2): *Macrozanonia* (Cogn.) Cogn., first publ. in Bull. Herb. Boissier 1(12): 612. Dec 1893.
 - See ING 2: 1028. 1979.
 
 ##### n.26.893. Melastomataceae peruvianae

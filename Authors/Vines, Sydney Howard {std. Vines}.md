@@ -37,12 +37,12 @@ Barnhart 3: 439; BM 5: 2242, 8: 1371-1372; Clokie p. 259; CSP 11: 704-705, 19: 3
 
 #### Composite works
 
-(1) Editor and author of appendix, J. Sachs, *Text-book of botany*, ed. 2, 1882, TL-2/9954.
-(2) Translator and author of revisions, K.A.E. Prantl, *An elementary textbook of botany*, London 1880, Philadelphia 1880, TL-2/8268, other editions 1881, 1883, 1885, 1893.
-(3) With F.O. Bower, *A course of practical instruction in botany*, 2 parts, London 1885-1887, London & New York 1888.
-(4) Co-founder of *Annals of Botany* 1887; co-editor 1887-1899.
-(5) Editor, G.C. Druce, *The Dillenian herbaria*, an account of the Dillenian collections in the herbarium of the University of Oxford.. Oxford 1907.
-(6) Contributed to part 2, 1920, of G.C. Druce, *Account of the herbarium of the University of Oxford*.
+- (1) Editor and author of appendix, J. Sachs, *Text-book of botany*, ed. 2, 1882, TL-2/9954.
+- (2) Translator and author of revisions, K.A.E. Prantl, *An elementary textbook of botany*, London 1880, Philadelphia 1880, TL-2/8268, other editions 1881, 1883, 1885, 1893.
+- (3) With F.O. Bower, *A course of practical instruction in botany*, 2 parts, London 1885-1887, London & New York 1888.
+- (4) Co-founder of *Annals of Botany* 1887; co-editor 1887-1899.
+- (5) Editor, G.C. Druce, *The Dillenian herbaria*, an account of the Dillenian collections in the herbarium of the University of Oxford.. Oxford 1907.
+- (6) Contributed to part 2, 1920, of G.C. Druce, *Account of the herbarium of the University of Oxford*.
 
 ### Publications
 

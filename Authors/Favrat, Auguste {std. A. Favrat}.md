@@ -12,7 +12,8 @@ Son of Louis Favrat (1827-1893) (see below).
 
 #### Herbarium and types
 
-Haiti (coll. 1888): [[Collection B|B]], [[Collection G|G]], [[Collection L|L]], [[Collection P|P]]. Switzerland (1883): [[Collection DBN|DBN]], [[Collection MANCH|MANCH]]. – *Exsiccatae*: L. et Aug. Favrat, *Rubi Helvetiæ austro-occidentalis*... Dec 1883-?, see Louis Favrat (below).
+Haiti (coll. 1888): [[Collection B|B]], [[Collection G|G]], [[Collection L|L]], [[Collection P|P]]. Switzerland (1883): [[Collection DBN|DBN]], [[Collection MANCH|MANCH]].
+*Exsiccatae*: L. et Aug. Favrat, *Rubi Helvetiæ austro-occidentalis*... Dec 1883-?, see Louis Favrat (below).
 
 #### Bibliography and biography
 

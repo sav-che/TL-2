@@ -24,8 +24,8 @@ Barnhart 1: 273 (b. 27 Mar 1883, Cedar Rapids, Iowa); BFM: 22, 23; IH 2: 104; LS
 
 #### Notes
 
-(1) Buchanan, R.E.T., *General systematic bacteriology*: history, nomenclature, groups of bacteria, Baltimore (Williams & Wilkins Company) 1925. Oct., 597 p. – Monographs on systematic bacteriology. vol. 1. *Copy*: MO.
-(2) Buchanan, R.E.T. and N.E. Gibbons, Bergey's manual of determinative bacteriology. Ed.
+- (1) Buchanan, R.E.T., *General systematic bacteriology*: history, nomenclature, groups of bacteria, Baltimore (Williams & Wilkins Company) 1925. Oct., 597 p. – Monographs on systematic bacteriology. vol. 1. *Copy*: MO.
+- (2) Buchanan, R.E.T. and N.E. Gibbons, Bergey's manual of determinative bacteriology. Ed.
 8. – Co-editors, see e.g. Taxon 24: 377. 1975.
 
 ### Publications

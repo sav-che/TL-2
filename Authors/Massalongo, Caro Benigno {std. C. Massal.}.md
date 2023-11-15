@@ -8,7 +8,8 @@ Massalongo, Caro Benigno (1852-1928), Italian botanist at Ferrara; son of A. B. 
 
 #### Herbarium and types
 
-Cecidia and hepatics: [[Collection VER|VER]]. Important material also at [[Collection BM|BM]], [[Collection FI|FI]], [[Collection H|H]]. [[Collection L|L]], [[Collection PAD|PAD]] and [[Collection VEN|VEN]]. – Exsiccatae: *Hepaticae italiae venetae exsiccatae* dec. 1-12, nos. 1-120, 1878-1881; sets in many herbaria.
+Cecidia and hepatics: [[Collection VER|VER]]. Important material also at [[Collection BM|BM]], [[Collection FI|FI]], [[Collection H|H]]. [[Collection L|L]], [[Collection PAD|PAD]] and [[Collection VEN|VEN]].
+*Exsiccatae*: *Hepaticae italiae venetae exsiccatae* dec. 1-12, nos. 1-120, 1878-1881; sets in many herbaria.
 
 #### Bibliography and biography
 

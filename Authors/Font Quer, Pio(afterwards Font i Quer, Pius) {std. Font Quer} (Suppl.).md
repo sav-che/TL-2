@@ -10,7 +10,10 @@
 
 #### Herbarium and types
 
-[[Collection BC|BC]] (orig.), see also IH 2: 202 (and add [[Collection BCN|BCN]], [[Collection HBIL|HBIL]], [[Collection IAV|IAV]], [[Collection RNG|RNG]]). – *Exsiccatae*: (1) P. Font i Quer, *Flora Iberica selecta* (nos. 1-300?, 1934-1935) (*Fl. Iber. Sel.*). (2) P. Font i Quer, *Flora Hispánica, Herbario normal* (nos. 1-800?, 1944-1954) (*Fl. Hisp.*). (3) Kew also has an "Iter maroccanum: 1927-1930" (unpubl.), which consists of typescript descriptions and printed labels of new species only (see also Bolòs & Bolòs, Collect. Bot., Barcelona 7: 44. 1968).
+[[Collection BC|BC]] (orig.), see also IH 2: 202 (and add [[Collection BCN|BCN]], [[Collection HBIL|HBIL]], [[Collection IAV|IAV]], [[Collection RNG|RNG]]).
+*Exsiccatae*: (1) P. Font i Quer, *Flora Iberica selecta* (nos. 1-300?, 1934-1935) (*Fl. Iber. Sel.*).
+- (2) P. Font i Quer, *Flora Hispánica, Herbario normal* (nos. 1-800?, 1944-1954) (*Fl. Hisp.*).
+- (3) Kew also has an "Iter maroccanum: 1927-1930" (unpubl.), which consists of typescript descriptions and printed labels of new species only (see also Bolòs & Bolòs, Collect. Bot., Barcelona 7: 44. 1968).
 
 #### Bibliography and biography
 
@@ -38,23 +41,23 @@ APN p. 205; Barnhart 1: 555; BFM p. 283 (index); Biol.-Dokum. 6: 70.309; BL 1: 4
 
 #### Outside our period
 
-(1) Font Quer translated the following:
+- (1) Font Quer translated the following:
 (a) Ernst Gilg \[and later co-authors\], *Grundzüge der Botanik für Pharmazeuten*... 1925, which appeared as *Botánica aplicada a la Farmacia*... 1925, and other additions with slightly varying titles (e.g. ed. 2, 1934; ed. 3, revised, 1942);
 (b) Ernst Gilg et al., *Lehrbuch der Pharmakognosie*... ed. 4, 1927, which appeared as *Farmacognosia, materia farmacéutica vegetal y animal*... 1942;
 (c) E.A. Strasburger, *Lehrb. Bot.*... 1894, which appeared as *Tratado de Botánica*... 1943, see TL-2/6, nr. 13.237; and
 (d) R. Wettstein, *Handb. syst. Bot.*... ed. 4, 1933-1935, which appeared as *Tratado de Botánica sistemática*... 1944, see also TL-2/7, nr. 17.371.
-(2) Font Quer authored the following:
+- (2) Font Quer authored the following:
 (a) \[... con la colaboración de eminentes especialista...\], *Diccionario de botánica*... Barcelona (Editorial Labor, S.A.), xxxix, 1244 p. 1953, with numerous reprintings and a 1. ed. (sic) \[en Ediciones Península\],... Barcelona (Ediciones Península) 2000. – Illus. by E. Sierra Ràfols.
 (b) *Botánica pintoresca*, Barcelona (Editorial Ramón Sopena) 1958; Reprinted,... 1978, Id., ... 2003. – In series, Biblioteca Hispania. *English transl*. by D.H.R. Newton of part 1: *The anatomy of plants*, London (Arrow Books, Ltd.) 1960, and of part 2: *Physiology of plants*, London (Arrow Books, Ltd.) 1960; New York (Harper) 1961 (c. 1960). – In series, Science Today. (c) *Plantas medicinales*; el Dioscórides renovado... Barcelona (Editorial Labor) 1962, with numerous ensuing editions. – Illus. by Suzanne Davit.
 
 #### Composite works
 
-(1) Founder, with Carlos Pau y Español (1857-1937), and primary editor of the journal *Cavanillesia*, vols. 1-8 (1928-1938).
-(2) Co-author with L.-M. Emberger & R. Maire, *Végétation Atlas rifain*... 1929, see TL-2/ Suppl. 6, nr. 32.863.
-(3) One of several collaborators who assisted É. Jahandiez & R. Maire, *Cat. pl. Maroc*... 1931, see TL-2/2, nr. 3271.
-(4) Co-author with J. Cadeval\[l\] y Diars, *Fl. Catalunya*... vols. 4-6, 1932-1937, see TL-2/1, nr. 940.
-(5) Collaborator with Roger Jean Heim and J\[oquim\]. Codina, *Fungi iberici*. I. *Observations sur la flore mycologique Catalane*... 1934.
-(6) Collaborator with R. Maire and J\[oquim\]. Codina, *Fungi catal*.... 1933; series altera, 1937, see TL-2/3, nr. 5273, where no mention is made of either Font Quer or Codina.
+- (1) Founder, with Carlos Pau y Español (1857-1937), and primary editor of the journal *Cavanillesia*, vols. 1-8 (1928-1938).
+- (2) Co-author with L.-M. Emberger & R. Maire, *Végétation Atlas rifain*... 1929, see TL-2/ Suppl. 6, nr. 32.863.
+- (3) One of several collaborators who assisted É. Jahandiez & R. Maire, *Cat. pl. Maroc*... 1931, see TL-2/2, nr. 3271.
+- (4) Co-author with J. Cadeval\[l\] y Diars, *Fl. Catalunya*... vols. 4-6, 1932-1937, see TL-2/1, nr. 940.
+- (5) Collaborator with Roger Jean Heim and J\[oquim\]. Codina, *Fungi iberici*. I. *Observations sur la flore mycologique Catalane*... 1934.
+- (6) Collaborator with R. Maire and J\[oquim\]. Codina, *Fungi catal*.... 1933; series altera, 1937, see TL-2/3, nr. 5273, where no mention is made of either Font Quer or Codina.
 
 ### Publications
 

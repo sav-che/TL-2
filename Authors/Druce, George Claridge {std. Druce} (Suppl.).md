@@ -44,11 +44,11 @@ Barnhart 1: 472; BL 2: 648 (index); BM 1: 480, 6: 280; Clokie p. 158; CSP 9: 736
 
 #### Composite works
 
-(1) Hayward, J.M., *Advent. fl. Tweedside* 1919, with co-author G.C. Druce, see TL-2/no. 2509a.
-(2) *Botany* \[by Druce\] *in* the *Victoria history* of the county of Huntingdon 1: 29-80, map, London 1926, see BL 2: 246.
-(3) *Notes* on the *flora* of *Easterness*, *Elgin*, Banff, and West Ross, J. Bot. 26: 17-26, 116. Jan 1888, see BL 2: 304.
-(4) Vines, S.H., *An account of the herbarium of the University of Oxford* 1897, with co-author G.C. Druce, see TL-2/no. 16.207.
-(5) Vines, S.H., *An account of the Morisonian herbarium* 1914, with co-author G.C. Druce, see TL-2/no. 16.210.
+- (1) Hayward, J.M., *Advent. fl. Tweedside* 1919, with co-author G.C. Druce, see TL-2/no. 2509a.
+- (2) *Botany* \[by Druce\] *in* the *Victoria history* of the county of Huntingdon 1: 29-80, map, London 1926, see BL 2: 246.
+- (3) *Notes* on the *flora* of *Easterness*, *Elgin*, Banff, and West Ross, J. Bot. 26: 17-26, 116. Jan 1888, see BL 2: 304.
+- (4) Vines, S.H., *An account of the herbarium of the University of Oxford* 1897, with co-author G.C. Druce, see TL-2/no. 16.207.
+- (5) Vines, S.H., *An account of the Morisonian herbarium* 1914, with co-author G.C. Druce, see TL-2/no. 16.210.
 
 ### Publications
 

@@ -10,8 +10,8 @@ Schade, \[Friedrich\] Alwin (1881-1976), German (Lausitz) botanist (lichenologis
 
 Private herbarium and field notes destroyed by fire in Dresden Feb 1945; post-war herbarium (containing e.g. H. Schindler's lichen herbarium) at [[Collection GLM|GLM]]; a further set of Saxonian lichens (1916-1964) at [[Collection M|M]].
 *Exsiccatae*: (1) *Hepaticae saxonicae exsiccatae*, with E. Stolle, dec. 1-27, nos. 1-270, 1923-1934. Sets at [[Collection FH|FH]]. See Sayre (1971).
-(2) *Lichenes saxonici exsiccati*, with E. Stolle and Ernst Riehmer, dec. 1-55, nos. 1-550. Sets at [[Collection BM|BM]], [[Collection DR|DR]] (destr.), [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection L|L]], [[Collection M|M]], [[Collection S|S]]. – See Sayre (1969).
-(3) *Sphagna saxonica*, dec. 1, nos. 1-10, Leipzig 1923 (Herbarium 64: 161. 1923; ÖbZ Sep-Oct 1923). No copy known to Sayre (1971).
+- (2) *Lichenes saxonici exsiccati*, with E. Stolle and Ernst Riehmer, dec. 1-55, nos. 1-550. Sets at [[Collection BM|BM]], [[Collection DR|DR]] (destr.), [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection L|L]], [[Collection M|M]], [[Collection S|S]]. – See Sayre (1969).
+- (3) *Sphagna saxonica*, dec. 1, nos. 1-10, Leipzig 1923 (Herbarium 64: 161. 1923; ÖbZ Sep-Oct 1923). No copy known to Sayre (1971).
 
 #### Bibliography and biography
 

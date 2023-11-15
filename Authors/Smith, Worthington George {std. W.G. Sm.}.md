@@ -33,12 +33,12 @@ Ainsworth p. 117, 285, 306, 347; Andrews p. 333; Barnhart 3: 296; BB p. 282; BL 
 
 #### Composite works
 
-(1) Artist for R. Hogg, *Wild fl. Gr. Britain* \[1861\], 1863-1880, see TL-2/2926; idem for R. Hogg and G.W. Johnson, *A selection of the eatable funguses of Great Britain*, London s.d. \[1866?\].
-(2) Editor and artist, *The floral Magazine* vols. 8-10 & new series, 1869-1875.
-(3) \[Fungi of the Fiji Islands\] *in* B. Seemann, *Fl. vit.* 421-423. 1871.
-(4) With W.H. Fitch, *Ill. Brit. fl.* 1880 \[1879\] and further editions, see TL-2/1798 \[additions to entry TL-2/1798: *Ed. 1, copies*: HH, NY, USDA; *ed. 5*, third reprint Ashford, Kent, (L. Reeve & Co.,...) 1944, p. \[i\]-xxvii, \[1\]-338. *Copies*: PH, USDA\].
-(5) Co-editor and artist with W.W. Saunders, *Mycol. ill.*, parts 1-2, Mai 1871 and Jul 1874, see under Saunders.
-(6) Illustrated M. Plues, *Select. fung. Gr. Brit.* 1866, TL-2/8061.
+- (1) Artist for R. Hogg, *Wild fl. Gr. Britain* \[1861\], 1863-1880, see TL-2/2926; idem for R. Hogg and G.W. Johnson, *A selection of the eatable funguses of Great Britain*, London s.d. \[1866?\].
+- (2) Editor and artist, *The floral Magazine* vols. 8-10 & new series, 1869-1875.
+- (3) \[Fungi of the Fiji Islands\] *in* B. Seemann, *Fl. vit.* 421-423. 1871.
+- (4) With W.H. Fitch, *Ill. Brit. fl.* 1880 \[1879\] and further editions, see TL-2/1798 \[additions to entry TL-2/1798: *Ed. 1, copies*: HH, NY, USDA; *ed. 5*, third reprint Ashford, Kent, (L. Reeve & Co.,...) 1944, p. \[i\]-xxvii, \[1\]-338. *Copies*: PH, USDA\].
+- (5) Co-editor and artist with W.W. Saunders, *Mycol. ill.*, parts 1-2, Mai 1871 and Jul 1874, see under Saunders.
+- (6) Illustrated M. Plues, *Select. fung. Gr. Brit.* 1866, TL-2/8061.
 
 ### Publications
 

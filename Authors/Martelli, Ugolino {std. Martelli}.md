@@ -29,8 +29,8 @@ AG 3: 197, 12(3): 5; Backer p. 656; Barnhart 2: 452; BJI 2: 112-113; BL 1: 34, 3
 
 #### Composite works
 
-(1) Lecomte, H., *Fl. gén. Indochine, Pandanaceae*6(8): 1056-1069. Dec 1937.
-(2) editor of *Webbia*,1-5, 1905-1923.
+- (1) Lecomte, H., *Fl. gén. Indochine, Pandanaceae*6(8): 1056-1069. Dec 1937.
+- (2) editor of *Webbia*,1-5, 1905-1923.
 
 #### Eponymy
 

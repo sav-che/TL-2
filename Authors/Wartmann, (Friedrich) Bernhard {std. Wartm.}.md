@@ -8,8 +8,9 @@ Wartmann, \[Friedrich\] Bernhard (1830-1902), Swiss naturalist and museum direct
 
 #### Herbarium and types
 
-Unknown. – *Exsiccatae*: (1) Wartmann distributed some of the collections left by R.F. Hohenacker upon his death; see R.F. Hohenacker.
-(2) *Schweizerische Kryptogamen*, fasc. 1-18, nos. 1-900, 1862-1882, nos. 1-14 by Wartmann and Bernhard Schenk (1833-1893), 15-18 by Wartmann and G. Winter. – Sets at [[Collection B|B]] (extant), [[Collection BAS|BAS]], [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BREG|BREG]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection M|M]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]]. –
+Unknown.
+*Exsiccatae*: (1) Wartmann distributed some of the collections left by R.F. Hohenacker upon his death; see R.F. Hohenacker.
+- (2) *Schweizerische Kryptogamen*, fasc. 1-18, nos. 1-900, 1862-1882, nos. 1-14 by Wartmann and Bernhard Schenk (1833-1893), 15-18 by Wartmann and G. Winter. – Sets at [[Collection B|B]] (extant), [[Collection BAS|BAS]], [[Collection BERN|BERN]], [[Collection BM|BM]], [[Collection BREG|BREG]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection M|M]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection WRSL|WRSL]]. –
 Reviews of fasc. 1: D.F.L. von Schlechtendal, Bot. Zeit. 20: 135-136. 1862, E. Stizenberger, Flora 45: 221-224. 1862. – A one-page pamphlet signed Nov 1861 by B. Wartmann provides information on subscription (*copy*: [[Collection G|G]]). A printed *Verzeichniss* of cent. 1-5, is treated below (1865). – See also Sayre (1969). – *Letters* to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
@@ -26,8 +27,8 @@ AG 6(1): 198; Barnhart 3: 461 (b. 8 Dec 1830, d. 3 Jun 1902); BFM 994; Biol.-Dok
 
 #### Composite works
 
-(1) Editor *Berichte ü.d. Thätigkeit der St. Gallischen naturwissenschaftlichen Gesellschaft* 1855-1902; director of the St. Gallen natural history museum 1873-1902.
-(2) Senior author, with Theodor Schlatter, *Krit. Uebers. Gefässpfl. St. Gallèn* 1881-1888, 3 Hefte. – See TL-2/10.736. – Additional copies seen: HH, NY. – Dates of publication: (1) Jun 1881, (2) Nov 1884, (3) Nov-Dec 1888.
+- (1) Editor *Berichte ü.d. Thätigkeit der St. Gallischen naturwissenschaftlichen Gesellschaft* 1855-1902; director of the St. Gallen natural history museum 1873-1902.
+- (2) Senior author, with Theodor Schlatter, *Krit. Uebers. Gefässpfl. St. Gallèn* 1881-1888, 3 Hefte. – See TL-2/10.736. – Additional copies seen: HH, NY. – Dates of publication: (1) Jun 1881, (2) Nov 1884, (3) Nov-Dec 1888.
 
 #### Eponymy
 

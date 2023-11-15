@@ -8,7 +8,8 @@ Genth, Carl Friedrich Ferdinand (1810-1837), German cryptogamist.
 
 #### Herbarium and types
 
-[[Collection FR|FR]] – other material at [[Collection B|B]], [[Collection GJO|GJO]], [[Collection HNL|HNL]]. – Exsiccatae: (with J. W. P. Hübner): *Deutschlands Lebermoose in getrockneten Exemplare* (fasc. 1-5, nos. 1-125), Mainz 1836-1839 (fasc. 5 by Hübner alone), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
+[[Collection FR|FR]] – other material at [[Collection B|B]], [[Collection GJO|GJO]], [[Collection HNL|HNL]].
+*Exsiccatae*: (with J. W. P. Hübner): *Deutschlands Lebermoose in getrockneten Exemplare* (fasc. 1-5, nos. 1-125), Mainz 1836-1839 (fasc. 5 by Hübner alone), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
 *Ref*.: GR p. 15; IH 2: 221; DTS 1: 129.
 - Urban, Gesch. Berlin-Dahlem 300. 1916.
 - Anon., Ann. bryol. 9: 153. 1937.

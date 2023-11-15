@@ -19,8 +19,8 @@ Barnhart 2: 159; BM 2: 824; Bret. p. 774, 1092; CSP 3: 283; Jackson p. 162, 163;
 
 #### Composite works
 
-(1) T.F.L. Nees von Esenbeck (q.v.), *Das System der Pilze*. (1837) (1858).
-(2) See Nissen (1933) for a list of books with lithographs coming from the Henry & Cohen firm.
+- (1) T.F.L. Nees von Esenbeck (q.v.), *Das System der Pilze*. (1837) (1858).
+- (2) See Nissen (1933) for a list of books with lithographs coming from the Henry & Cohen firm.
 
 #### Eponymy
 

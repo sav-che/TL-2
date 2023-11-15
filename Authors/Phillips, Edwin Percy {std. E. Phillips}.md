@@ -33,8 +33,8 @@ Barnhart 3: 81; BJI 2: 134; BL 1: 23, 29, 54, 92, 313; BM 8: 1007; Bossert p. 30
 
 #### Composite works
 
-(1) *Flora capensis, Proteaceae* (with J. Hutchinson and O. Stapf), *in* 5(1, 3): 502-640. Jan 1912, 5(1, 4): 641-718. Jun 1912.
-(2) *The flowering plants of South Africa*, editor vols. 1-24.
+- (1) *Flora capensis, Proteaceae* (with J. Hutchinson and O. Stapf), *in* 5(1, 3): 502-640. Jan 1912, 5(1, 4): 641-718. Jun 1912.
+- (2) *The flowering plants of South Africa*, editor vols. 1-24.
 
 #### Dedication
 

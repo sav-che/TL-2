@@ -28,7 +28,7 @@ Barnhart 3: 283 (13 Oct 1889); Biol.-Dokum. 17: 8706-8707; BL 1: 106, 318, 2: 42
 
 #### Composite works
 
-(1) Editor *Genetica* 1931-1961.
+- (1) Editor *Genetica* 1931-1961.
 
 ### Publications
 

@@ -32,10 +32,10 @@ Backer p. 380; Barnhart 2: 510; BB p. 220; BM 3: 1345, 7: 863; Bossert p. 273; C
 
 #### Composite works
 
-(1)*The Gardeners' Magazine of Botany*, editor, vols. 1-3, 1850-1851.
-(2) *Garden Companion and Florists' Guide*, co-editor, Jan-Oct 1852, London 1852.
-(3) *The Floral Magazine*, vol. 1, 1861, editor.
-(4) *The Florist and Pomologist*, assistant editor, London 1862-1884.
+- (1) *The Gardeners' Magazine of Botany*, editor, vols. 1-3, 1850-1851.
+- (2) *Garden Companion and Florists' Guide*, co-editor, Jan-Oct 1852, London 1852.
+- (3) *The Floral Magazine*, vol. 1, 1861, editor.
+- (4) *The Florist and Pomologist*, assistant editor, London 1862-1884.
 
 ### Publications
 

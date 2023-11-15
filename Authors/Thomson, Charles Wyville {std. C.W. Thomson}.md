@@ -32,8 +32,8 @@ Barnhart 3: 378; BB p. 299; BM 5: 2098; CSP 5: 981, 8: 1082, 11: 588, 19: 101; D
 
 #### Composite works
 
-(1) Editor, *Natural History Review*, ser. 2, vols. 1-5, 1861-1865.
-(2) *Report on the scientific results of the voyage of H.M.S. Challenger* during the years 1873-1876... 50 vols., 1880-1895; editor until 1882; author of general introduction to zoology. For botany see TL-2/2628, H.B. Hemsley, Rep. Challenger, Bot. – Biographical notice in Report. Zool. 4: vii-ix. 1882.
+- (1) Editor, *Natural History Review*, ser. 2, vols. 1-5, 1861-1865.
+- (2) *Report on the scientific results of the voyage of H.M.S. Challenger* during the years 1873-1876... 50 vols., 1880-1895; editor until 1882; author of general introduction to zoology. For botany see TL-2/2628, H.B. Hemsley, Rep. Challenger, Bot. – Biographical notice in Report. Zool. 4: vii-ix. 1882.
 
 ### Publications
 

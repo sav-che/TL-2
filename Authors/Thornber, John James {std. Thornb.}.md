@@ -24,9 +24,9 @@ Barnhart 3: 380 (b. 8 Feb 1872, d. 22 Nov 1962); BL 1: 164; BM 5: 2102; Bossert 
 
 #### Composite works
 
-(1) *Vegetation groups of the Desert Laboratory Domain, in* V.M. Spalding, *Distribution and movements of desert plants* 103-112. 22 Oct 1909 (Carnegie Inst. Washington Publ. 113).
-(2) With L. Benson and A.A. Nichol, *The Cacti of Arizona*, Univ. Ariz. Bull. 11(1): 1-134, 52 pl., frontisp., Arizona Jan 1940 (rev. I.L. Wiggins, Madroño 6: 28-29. 17 Jan 1941).
-(3) With Margaret Armstrong, *Field book of western wild flowers*, New York 1915 (NY rd Sep 1915).
+- (1) *Vegetation groups of the Desert Laboratory Domain, in* V.M. Spalding, *Distribution and movements of desert plants* 103-112. 22 Oct 1909 (Carnegie Inst. Washington Publ. 113).
+- (2) With L. Benson and A.A. Nichol, *The Cacti of Arizona*, Univ. Ariz. Bull. 11(1): 1-134, 52 pl., frontisp., Arizona Jan 1940 (rev. I.L. Wiggins, Madroño 6: 28-29. 17 Jan 1941).
+- (3) With Margaret Armstrong, *Field book of western wild flowers*, New York 1915 (NY rd Sep 1915).
 
 ### Publications
 

@@ -52,8 +52,8 @@ Barnhart 3: 592 (b. 26 Dec 1851, d. 3 Oct 1910); Biol-Dokum. 18: 9366; BJI 1: 58
 
 #### Composite works
 
-(1) Editor, *Annales du Jardin botanique de Buitenzorg*, vols. 2-23, 1881-1910.
-(2) Editor, *Icones bogorienses 1-3*. 1897-1909.
+- (1) Editor, *Annales du Jardin botanique de Buitenzorg*, vols. 2-23, 1881-1910.
+- (2) Editor, *Icones bogorienses 1-3*. 1897-1909.
 
 #### Festschrift
 

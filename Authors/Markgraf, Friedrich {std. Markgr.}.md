@@ -24,8 +24,8 @@ AG 12(3): 76; Backer p. 355; Barnhart 2: 448; BFM 9: 1500 Bossert p. 253; BJI 2:
 
 #### Composite works
 
-(1) EP, *Nat. Pflanzenfam.* ed. 2, *Gnelales*, 13: 407-441. 1926.
-(2) A. A. Pulle, *Fl. Suriname, Gnelaceae*, 1(1): 1-3. Mai 1932, *Apocynaceae* 4(1): 1-65. Mai 1932, corr. 4(1):443-447. Sep 1937.
+- (1) EP, *Nat. Pflanzenfam.* ed. 2, *Gnelales*, 13: 407-441. 1926.
+- (2) A. A. Pulle, *Fl. Suriname, Gnelaceae*, 1(1): 1-3. Mai 1932, *Apocynaceae* 4(1): 1-65. Mai 1932, corr. 4(1):443-447. Sep 1937.
 
 #### Festschrift
 

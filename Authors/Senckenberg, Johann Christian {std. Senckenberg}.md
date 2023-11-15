@@ -35,7 +35,7 @@ Barnhart 3: 259 (b. 28 Feb 1707); BM 4: 1900; Dryander 3: 485; Herder p. 412; PR
 
 *Senckenbergia* P.G. Gaertner, B. Meyer et Scherbius (1800); (journals): *Senckenbergiana*. Wissenschaftliche Mitteilungen der Senckenbergischen Naturforschenden Gesellschaft. Frankfurt a. M. Vol. 1-34. 1919-54; *Museum Senckenbergianum*. Abhandlungen aus dem Gebiete der beschreibenden Naturgeschichte. Von Mitgliedern der Senckenbergischen naturforschenden Gesellschaft in Frankfurt am Main. Frankfurt a.M. Vol. 1-3. 1834-45; (Society): Senckenbergische Naturforschende Gesellschaft, Frankfurt a.M., founded in 1817.
 
-#### Main study on senckenberg as a botanist
+#### Main study on Senckenberg as a botanist
 
 L. Spilger, Senckenberg als Botaniker, Abh. Senckenb. naturf. Ges. 458: 1-175. 1941.
 

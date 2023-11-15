@@ -12,7 +12,8 @@ Father of Auguste Favrat (1862-1893) (see above).
 
 #### Herbarium and types
 
-Italy: [[Collection LAU|LAU]]; Switzerland: [[Collection A|A]], [[Collection BERN|BERN]], [[Collection BR|BR]] (1830), [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection IBF|IBF]], [[Collection K|K]], [[Collection LAU|LAU]]. – *Exsiccatae*: L. et Aug. Favrat, *Rubi Helvetiæ austro-occidentalis*, præsertim pagi Vaudensis... Lausannæ (Lausanne) (Dec 1883-?): [[Collection BERN|BERN]], [[Collection G|G]], [[Collection JE|JE]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MANCH|MANCH]]. *Note*: In at least one instance, the same taxon of *Rubus* was distributed from more than one locality with the same number.
+Italy: [[Collection LAU|LAU]]; Switzerland: [[Collection A|A]], [[Collection BERN|BERN]], [[Collection BR|BR]] (1830), [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection IBF|IBF]], [[Collection K|K]], [[Collection LAU|LAU]].
+*Exsiccatae*: L. et Aug. Favrat, *Rubi Helvetiæ austro-occidentalis*, præsertim pagi Vaudensis... Lausannæ (Lausanne) (Dec 1883-?): [[Collection BERN|BERN]], [[Collection G|G]], [[Collection JE|JE]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MANCH|MANCH]]. *Note*: In at least one instance, the same taxon of *Rubus* was distributed from more than one locality with the same number.
 
 #### Bibliography and biography
 

@@ -68,13 +68,13 @@ AG 4: 696-697, 6(1): 3; Barnhart 3: 523 (b. 29 Oct 1811, d. 11 Aug 1885); BM 5: 
 
 #### Note
 
-(1) See A. Gray, *Plantae wrightianae* 1852-1853 for a first account of the Texas and New Mexico coll., TL-2/2127.
-(2) See A.H.R. Grisebach, *Plantae wrightianae*, e Cuba orientali, 1860-1862, TL-2/2182 and *Catalogas plantarum cubensium* 1866, TL-2/2184.
-(3) See D.C. Eaton, *Filices wrightianae et fendlerianae* 1860, TL-2/1616.
-(4) For exsiccatae *Graphideae cubenses* see Müll. Arg., TL-2/3: 628.
-(5) For taxa to be cited as C. Wright *in* F.A. Sauvalle, *Fl. cub.* 1868-1873, see TL-2/10.371.
-(6) See W.S. Sullivant for W.S. Sullivant and L. Lesquereux, *Characters of some new musci *collected by Charles Wright in the North Pacific Exploring Expedition 1859, TL-2/13.406.
-(7) See J. Müller Argov., *Arthoniae et Arthothelic* species wrightianae in insula Cuba lectae, Bull. Herb. Bois. ser. I. 2: 725-736 (1-12) Dec 1894. (TL-2/6472).
+- (1) See A. Gray, *Plantae wrightianae* 1852-1853 for a first account of the Texas and New Mexico coll., TL-2/2127.
+- (2) See A.H.R. Grisebach, *Plantae wrightianae*, e Cuba orientali, 1860-1862, TL-2/2182 and *Catalogas plantarum cubensium* 1866, TL-2/2184.
+- (3) See D.C. Eaton, *Filices wrightianae et fendlerianae* 1860, TL-2/1616.
+- (4) For exsiccatae *Graphideae cubenses* see Müll. Arg., TL-2/3: 628.
+- (5) For taxa to be cited as C. Wright *in* F.A. Sauvalle, *Fl. cub.* 1868-1873, see TL-2/10.371.
+- (6) See W.S. Sullivant for W.S. Sullivant and L. Lesquereux, *Characters of some new musci *collected by Charles Wright in the North Pacific Exploring Expedition 1859, TL-2/13.406.
+- (7) See J. Müller Argov., *Arthoniae et Arthothelic* species wrightianae in insula Cuba lectae, Bull. Herb. Bois. ser. I. 2: 725-736 (1-12) Dec 1894. (TL-2/6472).
 
 #### Handwriting
 

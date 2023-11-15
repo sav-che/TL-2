@@ -27,13 +27,13 @@ ADB 13: 158-159; AG 2(2): 195; Backer p. 273; Barnhart 2: 204; BM 2: 876; CSP 3:
 
 #### Composite works
 
-(1) *Archiu skandinauischer Beitraege zur Naturgeschichte*. Herausgegeben von C. F. Hornschuch, 2 vols., 1845-1850.
-(2) Nees von Esenbeck C.G., et al., *Bryologia germanica*. 1823-1831, collaborator.
-(3) Martius, *Flora brasiliensis, Musci*, 1(2): 1-96, *pl. 1-4.* 1840.
-(4) Preface to German ed. of C. A. Agardh, *Lehrbuch der Botanik*, 2e Abth., 1831 (TL-2/46).
-(5) Nees von Esenbeck, C. G. von, et al., *Horae physicae berolinensis*, 1820, Musci frondosi exotici herbarii willdenowiani..., on p. 55-68, with col. *pl. 12-13* (by J Sturm).
-(6) Presl, K.B., *Reliquiae haenkeanae, Musci*, vol. 1(1): 13. 1825.
-(7) See D. H. Hoppe, *Tageb. Reise adriat.*, no. 3036.
+- (1) *Archiu skandinauischer Beitraege zur Naturgeschichte*. Herausgegeben von C. F. Hornschuch, 2 vols., 1845-1850.
+- (2) Nees von Esenbeck C.G., et al., *Bryologia germanica*. 1823-1831, collaborator.
+- (3) Martius, *Flora brasiliensis, Musci*, 1(2): 1-96, *pl. 1-4.* 1840.
+- (4) Preface to German ed. of C. A. Agardh, *Lehrbuch der Botanik*, 2e Abth., 1831 (TL-2/46).
+- (5) Nees von Esenbeck, C. G. von, et al., *Horae physicae berolinensis*, 1820, Musci frondosi exotici herbarii willdenowiani..., on p. 55-68, with col. *pl. 12-13* (by J Sturm).
+- (6) Presl, K.B., *Reliquiae haenkeanae, Musci*, vol. 1(1): 13. 1825.
+- (7) See D. H. Hoppe, *Tageb. Reise adriat.*, no. 3036.
 
 #### Eponymy
 

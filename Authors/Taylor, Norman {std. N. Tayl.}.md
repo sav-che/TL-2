@@ -26,10 +26,10 @@ Barnhart 3: 364 (b. 18 Mai 1883); BL 1: 91, 201, 203, 321; BM 5: 2079; Bossert p
 
 #### Composite works
 
-(1) NAF, *Zannichelliaceae* (17(1): 13-27), *Zosteraceae* (17(1): 29-30), *Cymodoceaceae* (17(1): 31-32), *Naiadaceae* (17(1): 33-35), *Lilaeaceae* (17(1): 37), all 30 Jun 1909.
-(2) Editor, F.S., Mathews, *Field Book Amer. wild fl*. ed. 4, 1955, see TL-2/5665.
-(3) Editor, *Torreya* 1911-1921.
-(4) Associate editor, *Ecology* 1920-1929.
+- (1) NAF, *Zannichelliaceae* (17(1): 13-27), *Zosteraceae* (17(1): 29-30), *Cymodoceaceae* (17(1): 31-32), *Naiadaceae* (17(1): 33-35), *Lilaeaceae* (17(1): 37), all 30 Jun 1909.
+- (2) Editor, F.S., Mathews, *Field Book Amer. wild fl*. ed. 4, 1955, see TL-2/5665.
+- (3) Editor, *Torreya* 1911-1921.
+- (4) Associate editor, *Ecology* 1920-1929.
 
 #### Note
 

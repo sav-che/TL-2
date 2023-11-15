@@ -25,9 +25,9 @@ Barnhart 2: 446; BL 2: 41, 688; BM 3: 1237, 7: 793; Bossert p. 253; CSP 10: 715,
 
 #### Composite works
 
-(1) Martius, *Flora brasiliensis*: *Hederaceae* in 11 (1): 229-258, *pl. 66-71.* (fasc. 75). 1 Feb 1878.
-(2) Durand et Pittier, *Primitiae florae costaricensis. Araliaceae* in 1(1), 1891.
-(3) Warming, E., *Symb. fl. bras., Araliaceae*, 32: 32-33. 8 Mai 1890.
+- (1) Martius, *Flora brasiliensis*: *Hederaceae* in 11 (1): 229-258, *pl. 66-71.* (fasc. 75). 1 Feb 1878.
+- (2) Durand et Pittier, *Primitiae florae costaricensis. Araliaceae* in 1(1), 1891.
+- (3) Warming, E., *Symb. fl. bras., Araliaceae*, 32: 32-33. 8 Mai 1890.
 
 #### Eponymy
 

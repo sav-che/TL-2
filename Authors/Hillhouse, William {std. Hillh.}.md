@@ -22,6 +22,6 @@ Barnhart 2: 177; BB p. 148; BM 2: 846; CSP 10: 233, 12: 334, 15: 852; Desmond p.
 
 #### Composite works
 
-(1) Strasburger, E. and Hillhouse, W., *Handbook of practical botany*, London 1887 (transl, of *Das botanische Practicum*, ed. 1, 1884).
-(2) *The Midland Naturalist*, vols. 10-16, editor.
+- (1) Strasburger, E. and Hillhouse, W., *Handbook of practical botany*, London 1887 (transl, of *Das botanische Practicum*, ed. 1, 1884).
+- (2) *The Midland Naturalist*, vols. 10-16, editor.
 

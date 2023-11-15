@@ -8,7 +8,8 @@ Neuman, Leopold Martin (1852-1922), Swedish botanist, Dr. phil. Lund 1881; teach
 
 #### Herbarium and types
 
-[[Collection LD|LD]]; other material [[Collection C|C]], [[Collection E|E]]-GL, [[Collection GB|GB]], [[Collection MANCH|MANCH]]. Exsiccatae: *Violae Sueciae exsiccatae* quas ediderunt L. M. Neuman, L. J. Wahlstedt, S. S. Murbeck, fasc. 1-2, Lund 1886, 1893 (nos. 1-60). Sets at [[Collection B|B]], [[Collection C|C]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection S|S]].
+[[Collection LD|LD]]; other material [[Collection C|C]], [[Collection E|E]]-GL, [[Collection GB|GB]], [[Collection MANCH|MANCH]].
+*Exsiccatae*: *Violae Sueciae exsiccatae* quas ediderunt L. M. Neuman, L. J. Wahlstedt, S. S. Murbeck, fasc. 1-2, Lund 1886, 1893 (nos. 1-60). Sets at [[Collection B|B]], [[Collection C|C]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection S|S]].
 
 #### Bibliography and biography
 

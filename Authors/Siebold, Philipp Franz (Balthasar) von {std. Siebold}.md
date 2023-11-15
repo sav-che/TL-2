@@ -79,7 +79,7 @@ It is obviously not possible to cite here all studies and further publications o
 
 (journal): *Sieboldia*, Weekblad voor den tuinbouw in Nederland; tevens orgaan der Boskoopsche pomologische Vereeniging, 1875-1883; (taxon) *Sieboldia* Hoffmannsegg ex Schlechtendal (184.1).
 
-#### Von siebold & comp.
+#### Von Siebold & comp.
 
 C. L. Blume and Siebold founded (1842) a "Société royale pour l'encouragement de l'horticulture dans les Pays-Bas", with the aim to bring into cultivation plants from Japan and the Netherlands East Indies. The plants were grown on the estate of J.C. Rodbard but transferred to a new garden owned by the Society in 1843. To that end a corporation under Dutch law was set up in 1844, called "von Siebold & Comp.", which promoted the aims of the original association. The firm offered introduced plants for sale and published various sales catalogues. The history of this undertaking is described in the "Annuaire de la Société royale pour l'encouragement de l'Horticulture dans les Pays-Bas" for 1844. The original plan is set out on p. ii-iv, the re-organisation on p. xxiv-xxxii, including a "Prix-courant pour 1845" in which the plants were offered for sale to the members. See e.g. MW p. 451 for further catalogues (1848-1861). Siebold had started his own garden in Leiden (on the Lage Rijndijk, on the road to Leiderdorp) as early as 1832. – See also Siebold Jaarb. Nederl. Maatsch. Tuinbouw 1844: 1-39, *pl. 1-2*, 1845: 65-70. 1845 for a list of 367 species in the society's garden.
 

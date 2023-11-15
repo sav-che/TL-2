@@ -36,11 +36,11 @@ ADB 43: 319-321 (E. Wunschmann); AG 2(2): 93, 4: 310, 12(3): 368; Andrews p. 349
 
 #### Composite works
 
-(1) *Salix margínala* Wimm., in Schedul. herb. Vindob. in N.J. Anderson, *Monogr. Salicum*, Sv. Ver.-Akad. Handl. ser. 2. 6(1): 21. 1867 (TL-2/130).
-(2) Editor (with new additions) W. Scharenberg, *Handbuch für Sudeten-Reisende* mit besondrer Berücksichtigung der Freunde der Wissenschaften, ed. 3. Breslau 1862, viii, 299 p., *6 pl*., botany on p. 97-158, 271-272.
-(3) Editor, Latin editions, Theophrasti Eresii *Historia plantarum*, Breslau 1842, *Opera*, 3 vols. Leipzig 1854-1862, *Opera*, Paris 1866, see PR ed. 2. nos. 9201-9203.
-(4) Goeppert, H.R., *Excursionsflora für Schlesien*, nach Wimmer's Flora von Schlesien bearbeitet, Brcslau 1868.
-(5) S. Schilling, *Grundriss der Naturgeschichte*... Nebst einer Pflanzengeschichte... F. Wimmer, ed. 5, 1853 and later eds.
+- (1) *Salix margínala* Wimm., in Schedul. herb. Vindob. in N.J. Anderson, *Monogr. Salicum*, Sv. Ver.-Akad. Handl. ser. 2. 6(1): 21. 1867 (TL-2/130).
+- (2) Editor (with new additions) W. Scharenberg, *Handbuch für Sudeten-Reisende* mit besondrer Berücksichtigung der Freunde der Wissenschaften, ed. 3. Breslau 1862, viii, 299 p., *6 pl*., botany on p. 97-158, 271-272.
+- (3) Editor, Latin editions, Theophrasti Eresii *Historia plantarum*, Breslau 1842, *Opera*, 3 vols. Leipzig 1854-1862, *Opera*, Paris 1866, see PR ed. 2. nos. 9201-9203.
+- (4) Goeppert, H.R., *Excursionsflora für Schlesien*, nach Wimmer's Flora von Schlesien bearbeitet, Brcslau 1868.
+- (5) S. Schilling, *Grundriss der Naturgeschichte*... Nebst einer Pflanzengeschichte... F. Wimmer, ed. 5, 1853 and later eds.
 
 #### Eponymy
 

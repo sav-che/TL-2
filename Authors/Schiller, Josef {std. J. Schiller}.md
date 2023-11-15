@@ -28,11 +28,11 @@ Barnhart 3: 225 (b. 16 Jun 1877); BJI 2: 154; Christiansen p. 177; Roon p. 100; 
 
 #### Composite works
 
-(1) Contributed to Rabenhorst, *Krypt.-Fl.* ed. 2 (q.v.):
+- (1) Contributed to Rabenhorst, *Krypt.-Fl.* ed. 2 (q.v.):
 (a) *Coccolithineae, in* 10(2): 89-268. 1931; rev. O.C. Schmidt, Hedwigia 71: (8)-(9). Aug 1931.
 (b) *Dinoflagellatae* (*Peridineae*), *in* 10(3)(1): \[ii-iv\], \[1\]-617. 1931-1933, 10(3)(2): \[ii\]-vii, \[1\]-589, \[590\], 1933-1937; see O.C. Schmidt, Hedwigia 72: (13). Apr 1932 (rev. Lief. 1), 73: (10)-(11). 30 Mar 1933 (rev. Lief. 2-3), 75: (87). 1936 (part 2, Lief. 1-2), 77: (13). 15 Oct 1937 (i. Lief. 3-4).
-(2) *Rhodophyta, in* A. Pascher, *Süssw.-Fl. Deutschl.* 11: 157-206. Jun-Jul 1925.
-(3) *Über Kultur und Methodik beim Studium der Meerespflanzen* in E. Abderhalden, ed., Handb. biol. Arbeitsmeth. 9(5): 181-309. 1928.
+- (2) *Rhodophyta, in* A. Pascher, *Süssw.-Fl. Deutschl.* 11: 157-206. Jun-Jul 1925.
+- (3) *Über Kultur und Methodik beim Studium der Meerespflanzen* in E. Abderhalden, ed., Handb. biol. Arbeitsmeth. 9(5): 181-309. 1928.
 
 #### Eponymy
 

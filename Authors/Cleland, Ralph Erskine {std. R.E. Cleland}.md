@@ -25,7 +25,7 @@ Kew 1: 569; Roon p. 28.
 
 #### Outside our period
 
-(1) *Oenothera*: Cytogenetics and evolution. Experimental Botany no. 5, London, New York (Academic Press) 1972, p. x, 370 p. – See e.g. H. Scholz, Bot. Jahrb. 93(Lit.): 18-19. 6 Jun 1973, A. Löve, Taxon 22(4): 478-479. 5 Sep 1973.
+- (1) *Oenothera*: Cytogenetics and evolution. Experimental Botany no. 5, London, New York (Academic Press) 1972, p. x, 370 p. – See e.g. H. Scholz, Bot. Jahrb. 93(Lit.): 18-19. 6 Jun 1973, A. Löve, Taxon 22(4): 478-479. 5 Sep 1973.
 
 ### Publications
 

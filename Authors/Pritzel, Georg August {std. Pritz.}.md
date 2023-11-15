@@ -43,8 +43,8 @@ ADB 26: 612-614; Ainsworth p. 279, 318; Barnhart 3: 112 (b. 2 Sep 1815, d. 14 Ju
 
 #### Composite works
 
-(1) in Walpers, G.G., *Repert. bot. syst*. 2, supplementum primum, Ranunculaceae-Cruciferae, p. 737-764. 28-30 Dec 1843 (Helm no. 2, 2a), also published separately with unchanged pagination (n.v.). Pritzel also contributed the *Index ordinum ... et synonymorum* for both vols. 1 and 2 in 2: 995-1029. 28-30 Dec 1843.
-(2) Pritzel contributed numerous book-reviews and (brief) biographies to the Botanische Zeitung, signed G.P.
+- (1) in Walpers, G.G., *Repert. bot. syst*. 2, supplementum primum, Ranunculaceae-Cruciferae, p. 737-764. 28-30 Dec 1843 (Helm no. 2, 2a), also published separately with unchanged pagination (n.v.). Pritzel also contributed the *Index ordinum ... et synonymorum* for both vols. 1 and 2 in 2: 995-1029. 28-30 Dec 1843.
+- (2) Pritzel contributed numerous book-reviews and (brief) biographies to the Botanische Zeitung, signed G.P.
 *1*: 240-242, 262-263, 278-279, 302-303, 731-734, 847-849, 871, 873-876, 882-883. 1843 (figures denote columns).
 *2*: 730-732, 744-746. 1844.
 *3*: 214-215. 1845.
@@ -136,7 +136,7 @@ i.c. xylogr. i.t. = icones xylographicae in textu.
 *Facsimile ed*. (*2*): 1950, Milano, Forli, as orig. *Copies*: FAS(2).
 *Facsimile ed*. (*3*): 1972, Koenigstein-Ts./B.R.D. (Otto Koeltz Antiquariat) ISBN 3-87429-035-2, p. \[i-vi\], \[1\]-576, \[577\]. *Copy*; FAS.
 *Additions and notes*: (1) B.D. Jackson, Guide to the literature of botany... 1881 (TL-2/3217), "6000 titles not given in Pritzel's Thesaurus".
-(2) Kuntze, O., Rev. gen. pl. 1: cxxii-cxlvi. 1891, TL-2/4021; reprinted Ann. Mus. nac. Montevideo 4: 25-60. 1903.
+- (2) Kuntze, O., Rev. gen. pl. 1: cxxii-cxlvi. 1891, TL-2/4021; reprinted Ann. Mus. nac. Montevideo 4: 25-60. 1903.
 *Ref*.: Bary, A. de, Bot. Zeit. 30: 58-59. 26 Jan 1872 (rev. fasc. 1).
 - Caspary, R, Bonplandia 3: 75-77. 15 Mar 1815 (extensive review of complete volume).
 - Grisebach, A.H.R., Gött. gel. Anz. 1848(3) (no. 189): 1886-1891.

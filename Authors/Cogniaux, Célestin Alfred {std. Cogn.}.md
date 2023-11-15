@@ -29,16 +29,16 @@ Barnhart 1: 363; BL 2: 30, 40; BM 1: 362, 6: 216; Bossert p. 79; CSP 2: 6, 7: 41
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich*:
+- (1) Engler, *Pflanzenreich*:
 (a) *Cucurbitaceae, Cuc., Cucum.*, Heft 88, 28 Nov 1924, 246 p.
 (b) *Id. Fevill*., *Melothr*., Heft 66, 26 Sep 1916, 277 p.
-(2)Alph. DC., *Monogr*.:
+- (2) Alph. DC., *Monogr*.:
 (a) *Melastomaceae*, 7: 1-1256. Jun 1891.
 (b) *Cucurbitaceae*, 3: 325. 1008. Jun 1881.
-(3) Urban, *Symbolae antillanae.Orchidaceae*, 6: 1-192. 15 Jul 1909, 293-432. 15 Dec 1909, 433-721. 24 Dec 1910. *Facsimile* reprint Amsterdam 1964.
-(4) Durand et Pittier, *Primitiae florae costaricensis.Melastomaceae*, fasc. 1: 243-270. 1891; *Cucurbitaceae*, fasc. 1: 271-279. 1891.
-(5) Schumann, K. et Hollrung, *Die Flora von Kaiser Wilhelmsland*, Berlin 1889: *Cucurbitaceae*, p. 81-88; *Melastomaceae*, p. 86-88.
-(6) Martius, *Fl. bras*.:
+- (3) Urban, *Symbolae antillanae.Orchidaceae*, 6: 1-192. 15 Jul 1909, 293-432. 15 Dec 1909, 433-721. 24 Dec 1910. *Facsimile* reprint Amsterdam 1964.
+- (4) Durand et Pittier, *Primitiae florae costaricensis.Melastomaceae*, fasc. 1: 243-270. 1891; *Cucurbitaceae*, fasc. 1: 271-279. 1891.
+- (5) Schumann, K. et Hollrung, *Die Flora von Kaiser Wilhelmsland*, Berlin 1889: *Cucurbitaceae*, p. 81-88; *Melastomaceae*, p. 86-88.
+- (6) Martius, *Fl. bras*.:
 (a)*Orchidaceae* i-x in vol. 3, parts 4, 5 and 6, see below.
 (b)*Cucurbitaceae*, 6(4): 1-126, *pl. 1-38.* 1 Aug 1878.
 (c)*Melastomaceae*, 14(3): 1-204, *pl. 1-48.* 1 Mar 1883.

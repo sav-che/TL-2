@@ -24,11 +24,11 @@ BJI 1: 53; BM 4: 1867; Christiansen p. 320 \[index\]; CSP 18: 597; De Toni 1: cx
 
 #### Composite works
 
-(1) EP, *Nat. Pflanzenfam., Gymnodiniaceae*, 1(1B): 2-6. Dec 1896. *Perdiniaceae*, 1(1B): 9-30. Dec 1896.
+- (1) EP, *Nat. Pflanzenfam., Gymnodiniaceae*, 1(1B): 2-6. Dec 1896. *Perdiniaceae*, 1(1B): 9-30. Dec 1896.
 *Peridinales*, 1(1B): I. Dec 1896.
 *Protocentraceae*, 1(1B): 6-9. Dec 1896.
 *Bacillariaceae*, 1(1B): 31-150. Dec 1896.
-(2) Contributed to J. Reinke, q.v., *Atlas deutscher Meeresalgen* 1889, TL-2/8931.
+- (2) Contributed to J. Reinke, q.v., *Atlas deutscher Meeresalgen* 1889, TL-2/8931.
 
 #### Eponymy
 

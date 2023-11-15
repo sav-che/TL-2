@@ -23,8 +23,8 @@ Barnhart 3: 234 (b. 12 Dec 1879); BFM 2562-2566; Biol.-Dokum. 16: 8199; BJI 2: 1
 
 #### Composite works
 
-(1) *Embryologie der Angiospermen, in* K. Linsbauer, *Handb. Pfl.*-*Anat*. ii. Abt., 2. Teil, Bd. 10, Berlin 1928 (part 1), 1930 (part 2), 689 p., see R. Wettstein, Österr. bot. Z. 77: 74. 1928, 79: 377. 1930.
-(2) *Anatomie der Gymnospermensamen, in* id. ii. Abt., Bot. 10(1), Berlin 1937, iv, 156 p., see Fr. Knoll, Österr. bot. Z. 86: 314-315. 1937.
+- (1) *Embryologie der Angiospermen, in* K. Linsbauer, *Handb. Pfl.*-*Anat*. ii. Abt., 2. Teil, Bd. 10, Berlin 1928 (part 1), 1930 (part 2), 689 p., see R. Wettstein, Österr. bot. Z. 77: 74. 1928, 79: 377. 1930.
+- (2) *Anatomie der Gymnospermensamen, in* id. ii. Abt., Bot. 10(1), Berlin 1937, iv, 156 p., see Fr. Knoll, Österr. bot. Z. 86: 314-315. 1937.
 
 ### Publications
 

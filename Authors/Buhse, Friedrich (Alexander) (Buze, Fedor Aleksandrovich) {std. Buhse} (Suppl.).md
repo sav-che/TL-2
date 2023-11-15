@@ -11,8 +11,8 @@
 #### Herbarium and types
 
 [[Collection LE|LE]], further material in [[Collection BR|BR]], [[Collection BUC|BUC]], [[Collection CN|CN]], [[Collection G|G]], [[Collection H|H]], [[Collection K|K]], [[Collection LY|LY]], [[Collection W|W]]. – Still some material at [[Collection RIG|RIG]]?.
-(1) See also *Eine Sammlung von Handzeichnungen persischer Pflanzen*, Scripta bot. Horti Univ. Imp. Petropol. 3(1): 18-20. 1890.
-(2) Buhse material also in S.J. Korshinsky, *Herbarium Florae Rossicae* nos. 1-200, St. Petersburg 1898. – Set at [[Collection B|B]].
+- (1) See also *Eine Sammlung von Handzeichnungen persischer Pflanzen*, Scripta bot. Horti Univ. Imp. Petropol. 3(1): 18-20. 1890.
+- (2) Buhse material also in S.J. Korshinsky, *Herbarium Florae Rossicae* nos. 1-200, St. Petersburg 1898. – Set at [[Collection B|B]].
 
 #### Bibliography and biography
 
@@ -36,7 +36,7 @@ AG 5(1): 924; Barnhart 1: 270; BM 1: 283, 6: 158; Bossert p. 58; CSP 1: 712-713,
 
 #### Composite works
 
-(1) With E.P. Boissier, *Aufzaehlung der auf einer Reise durch Transkaukasien und Persien gesammelten Pflanzen*..., Moskau 1860. Qu. – Boissier first author. See below.
+- (1) With E.P. Boissier, *Aufzaehlung der auf einer Reise durch Transkaukasien und Persien gesammelten Pflanzen*..., Moskau 1860. Qu. – Boissier first author. See below.
 
 ### Publications
 

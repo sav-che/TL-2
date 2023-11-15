@@ -10,7 +10,8 @@ Ferguson, William (1820-1887), British civil servant in Ceylon, amateur botanist
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. — Exsiccatae: *Algae ceylonicae* (nos. 1-144/5), set at [[Collection L|L]] and probably also at other herbaria listed by IH (series edited with Albert Grunow, 1826-1914).
+[[Collection BM|BM]].
+*Exsiccatae*: *Algae ceylonicae* (nos. 1-144/5), set at [[Collection L|L]] and probably also at other herbaria listed by IH (series edited with Albert Grunow, 1826-1914).
 *Ref*.: IH 2: 194.
 - Urban, Gesch. Berlin-Dahlem 264. 1916.
 - Newton, Phycol. Bull. 1: 16. 1952.

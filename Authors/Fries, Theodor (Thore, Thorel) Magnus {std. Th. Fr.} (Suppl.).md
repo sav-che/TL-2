@@ -56,27 +56,27 @@ Rosenberg, O. & T. Vestergren (eds.), Den Svenska Botanikens Nestor Theodor Magn
 #### Note
 
 The following titles are now available in microfiche:
-(1) *Stereoc. Piloph. comm.*... \[1857\] (TL-2/1, nr. 1898):
+- (1) *Stereoc. Piloph. comm.*... \[1857\] (TL-2/1, nr. 1898):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 1 microfiche (Plant taxonomic lit. microfiche coll., "8172A1-8172D2"). *Copy*: MO (n.v.).
-(2) *Monogr. Stereoc. Piloph.*... 1858 (TL-2/1, nr. 1899):
+- (2) *Monogr. Stereoc. Piloph.*... 1858 (TL-2/1, nr. 1899):
 *Microfiche*: (a) Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "12288E1-12289D2"). *Copy*: MO (n.v.).
 (b) Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(3) *Lich. arct.*... 1860 (TL-2/1, nr. 1900):
+- (3) *Lich. arct.*... 1860 (TL-2/1, nr. 1900):
 *Microfiche*: Zug, Switzerland (Inter Documentation Company), \[19–\]. *Copy*: (n.v.).
-(4) *Gen. heterolich. eur.*... 1861 (TL-2/1, nr. 1901):
+- (4) *Gen. heterolich. eur.*... 1861 (TL-2/1, nr. 1901):
 *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Publishing), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "1725E4-1726G2"). *Copy*: MO (n.v.).
-(5) *Lichenogr. scand.*... 1871 \[1874\] (TL-2/1, nr. 1902):
+- (5) *Lichenogr. scand.*... 1871 \[1874\] (TL-2/1, nr. 1902):
 *Microfiche*: Zug, Switzerland (Inter-Documentation Co.), \[1985?\], 12 microfiches, 9×12 cm. *Copy*: (n.v.).
 No copies were cited of the following, which can be amended as follows:
-(6) *Polyblast. scand.*... 1877 (TL-2/1, nr. 1903). *Copies*: FH (n.v.), NY (n.v.), US.
+- (6) *Polyblast. scand.*... 1877 (TL-2/1, nr. 1903). *Copies*: FH (n.v.), NY (n.v.), US.
 
 #### Composite works
 
-(1) Editor, *Botaniska Notiser* (1857-1868).
-(2) Contributed Fasc. 12 to E.M. Fries, *Novae schedulae criticae de lichenibus Suecanis* ... 1852.
-(3) Co-author with O.R. Fries of a brief biogr. and bibl. of his father Elias Magnus Fries (1794-1878), which was published in E.M. Fries, *Ic. Hymenocmyc.*... vol. 2, Apr-Jun 1884, see TL-2/1, nr. 1894.
-(4) Edited *Skrifter af Carl von Linné*... 1905-1913, 5 vols., see TL-2/3: 73 (sub Linnaeus, *Collected works*).
-(5) Alone and with Johan Markus Hulth (1865-1928) edited *Bref och skrifvelser af och till Carl von Linné med understöd af Svenska staten utgifna af Upsala universitet*... Stockholm (Aktiebolaget Ljus)... 1907-1922, 9 vols., see TL-2/3: 74 (sub Linnaeus, *Letters*).
+- (1) Editor, *Botaniska Notiser* (1857-1868).
+- (2) Contributed Fasc. 12 to E.M. Fries, *Novae schedulae criticae de lichenibus Suecanis* ... 1852.
+- (3) Co-author with O.R. Fries of a brief biogr. and bibl. of his father Elias Magnus Fries (1794-1878), which was published in E.M. Fries, *Ic. Hymenocmyc.*... vol. 2, Apr-Jun 1884, see TL-2/1, nr. 1894.
+- (4) Edited *Skrifter af Carl von Linné*... 1905-1913, 5 vols., see TL-2/3: 73 (sub Linnaeus, *Collected works*).
+- (5) Alone and with Johan Markus Hulth (1865-1928) edited *Bref och skrifvelser af och till Carl von Linné med understöd af Svenska staten utgifna af Upsala universitet*... Stockholm (Aktiebolaget Ljus)... 1907-1922, 9 vols., see TL-2/3: 74 (sub Linnaeus, *Letters*).
 
 ### Publications
 

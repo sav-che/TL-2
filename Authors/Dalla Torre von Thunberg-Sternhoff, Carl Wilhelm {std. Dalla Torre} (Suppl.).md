@@ -38,9 +38,9 @@ Barnhart 1: 413 (b. 14 Jul 1850, Kitzbühel, Tirol, d. 6 Apr 1928, Innsbruck); B
 
 #### Composite works
 
-(1) Josef Anton Perktold (TL-2/4: 167-168) ein Pionier der botanischen Erforschung Tirols zugleich ein *Beitrag zur Cryptogamenflora des Landes Innsbruck* ser. 3. 35: 211-291. 1891. – Nat. Nov. Mai (1, 2). 1892.
-(2) Anton Hartinger (TL-2/2: 62-64), no. 2421. *Atlas der Alpenflora* 1881-1884, text by Dalla Torre.
-(3) P.W. Magnus (TL-2/3: no. 5242) "*Die Pilze*" 1926 with input by Dalla Torre.
+- (1) Josef Anton Perktold (TL-2/4: 167-168) ein Pionier der botanischen Erforschung Tirols zugleich ein *Beitrag zur Cryptogamenflora des Landes Innsbruck* ser. 3. 35: 211-291. 1891. – Nat. Nov. Mai (1, 2). 1892.
+- (2) Anton Hartinger (TL-2/2: 62-64), no. 2421. *Atlas der Alpenflora* 1881-1884, text by Dalla Torre.
+- (3) P.W. Magnus (TL-2/3: no. 5242) "*Die Pilze*" 1926 with input by Dalla Torre.
 
 ### Publications
 

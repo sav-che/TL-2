@@ -26,9 +26,9 @@ Backer p. 663; Barnhart 3: 457 (b. 15 Apr 1884, d. 19 Apr 1938); BFM 150, 191, 1
 
 #### Composite works
 
-(1) Editor, C. Schröter et al., *Lebensgeschichte der Blüthenpflanzen Mitteleuropas* Heft 30-58/59, 1927-1938; author of Hefte 55-57; co-author, with F. Buxbaum of *Loranthaceae*; id. with A.Y. Grevillius of the *Geraniaceae* (3(5), Hefte 53-54); id. with H. Schock-Bodmer and F. Buxbaum *Lythraceae*; see also TL-2/11.174.
-(2) *In* A. Engler, *Das Pflanzenreich*: *Garryaceae, Nyssaceae, Alangiaceae, Cornaceae* in Heft 41 (56a, 220a, b, 229). 12 Apr 1910, see TL-2/1713. – Autoreferat: Bot. Centralbl. 114: 395-396- 11 Oct 1910.
-(3) Edited and revised Wünsche-Schorler, *Die verbreitesten Pflanzen Deutschlands*, ed. 9, Leipzig 1927 and ed. 10, Leipzig und Berlin 1938.
+- (1) Editor, C. Schröter et al., *Lebensgeschichte der Blüthenpflanzen Mitteleuropas* Heft 30-58/59, 1927-1938; author of Hefte 55-57; co-author, with F. Buxbaum of *Loranthaceae*; id. with A.Y. Grevillius of the *Geraniaceae* (3(5), Hefte 53-54); id. with H. Schock-Bodmer and F. Buxbaum *Lythraceae*; see also TL-2/11.174.
+- (2) *In* A. Engler, *Das Pflanzenreich*: *Garryaceae, Nyssaceae, Alangiaceae, Cornaceae* in Heft 41 (56a, 220a, b, 229). 12 Apr 1910, see TL-2/1713. – Autoreferat: Bot. Centralbl. 114: 395-396- 11 Oct 1910.
+- (3) Edited and revised Wünsche-Schorler, *Die verbreitesten Pflanzen Deutschlands*, ed. 9, Leipzig 1927 and ed. 10, Leipzig und Berlin 1938.
 
 #### Eponymy
 

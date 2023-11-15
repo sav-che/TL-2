@@ -28,14 +28,14 @@ Barnhart 1: 315 (b. 4 Jun 1818, d. 17 Aug 1896); BM 1: 319; Bret. p. 932; CSP 9:
 
 #### Composite works
 
-(1) Carrière collaborated with Naudin, *in* Henri Antoine Jacques and François Hérincq, *Flore des jardins de l'Europe*, vol. 4 (in 2) 1857, 1039 p.
-(2) *Revue horticole*, journal... publié sous la direction de E.A. Carrière, Ann. 1867-1896.
-(3) Co-author with Henri Antoine Jacques (1780-1866), *Manuel général des plantes et arbustes*, tome 4, 1865 \[2\], see TL-2/3233.
+- (1) Carrière collaborated with Naudin, *in* Henri Antoine Jacques and François Hérincq, *Flore des jardins de l'Europe*, vol. 4 (in 2) 1857, 1039 p.
+- (2) *Revue horticole*, journal... publié sous la direction de E.A. Carrière, Ann. 1867-1896.
+- (3) Co-author with Henri Antoine Jacques (1780-1866), *Manuel général des plantes et arbustes*, tome 4, 1865 \[2\], see TL-2/3233.
 
 #### Notes
 
-(1) *Traité général des Conifères*, TL-2/1031. – J.W. Laundon provided us with detailed information on the publications of the two editions: *Ed.1* published 16 Jan 1885 (fide Bibl. de la France), *Ed.2*: published 16 Mar 1867 (id.).
-(2) *Id*. *Ed.2*, TL-2/1031, also on IDC microfiche E 8457/1.
+- (1) *Traité général des Conifères*, TL-2/1031. – J.W. Laundon provided us with detailed information on the publications of the two editions: *Ed.1* published 16 Jan 1885 (fide Bibl. de la France), *Ed.2*: published 16 Mar 1867 (id.).
+- (2) *Id*. *Ed.2*, TL-2/1031, also on IDC microfiche E 8457/1.
 
 ### Publications
 

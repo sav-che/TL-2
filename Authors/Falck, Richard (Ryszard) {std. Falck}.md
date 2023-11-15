@@ -28,9 +28,9 @@ Ainsworth p. 94, 325 (as "Falk"); APN p. 193 ("1868-1955"); Barnhart 1: 525; Bio
 
 #### Composite works
 
-(1) Co-author with O. Brefeld, "Die *Blüteninfektion bei den Brandpilzen* und die natürliche Verbreitung der Brandkrankheiten", which was published in O. Brefeld, *Unters. Gesammtgeb. Mykol.*, vol. 13... Nov-Dec 1905, see TL-2/1, nr. 730. This was transl. by Frances Dorrance (1877-x) into English as "*Blossom infection* by *smuts* and natural distribution of smut diseases" *in* O. Brefeld, Investigations in the general field of mycology... 1912; the transl. not previously noted in TL-2.
-(2) Issued *Mykologische Untersuchungen und Berichte*... Cassel (Gebr. Gotthelft)/Jena (G. Fischer) 1 (1-3, 1913-1923); 2 (1923) and Beih. 1 (1924) in which he published several articles.
-(3) Succeeded Alfred Möller (1860-1932) as editor of *Hausschwammforschungen*... vols. 8-11, (?-1934), see TL-2/3: 533.
+- (1) Co-author with O. Brefeld, "Die *Blüteninfektion bei den Brandpilzen* und die natürliche Verbreitung der Brandkrankheiten", which was published in O. Brefeld, *Unters. Gesammtgeb. Mykol.*, vol. 13... Nov-Dec 1905, see TL-2/1, nr. 730. This was transl. by Frances Dorrance (1877-x) into English as "*Blossom infection* by *smuts* and natural distribution of smut diseases" *in* O. Brefeld, Investigations in the general field of mycology... 1912; the transl. not previously noted in TL-2.
+- (2) Issued *Mykologische Untersuchungen und Berichte*... Cassel (Gebr. Gotthelft)/Jena (G. Fischer) 1 (1-3, 1913-1923); 2 (1923) and Beih. 1 (1924) in which he published several articles.
+- (3) Succeeded Alfred Möller (1860-1932) as editor of *Hausschwammforschungen*... vols. 8-11, (?-1934), see TL-2/3: 533.
 
 ### Publications
 

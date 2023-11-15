@@ -27,10 +27,10 @@ Barnhart 1: 454; BM 1: 460, 6: 269; Bossert p. 102; CSP 14: 606-607; DTS 1: 57, 
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien* ed. 1:
+- (1) EP, *Die natürlichen Pflanzenfamilien* ed. 1:
 (a)*Hemibasidii* (Ustilagineae and Tilletiineae), I(1\*\*): 2-24, 13 Sep 1897, 545-546. 31 Jul 1900.
 (b)*Uredinales*, I(1\*\*): 24-48. 13 Sep 1897, 49-81. 25 Jan 1898, 546-553. 31 Jul 1900.
-(2) EP, *Die natürlichen Pflanzenfamilien* ed. 2: *Hemibasidii* (Teliomycetes), 6: \[1\]-98. 1928.
+- (2) EP, *Die natürlichen Pflanzenfamilien* ed. 2: *Hemibasidii* (Teliomycetes), 6: \[1\]-98. 1928.
 
 #### Eponymy
 

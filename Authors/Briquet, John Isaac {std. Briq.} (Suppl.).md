@@ -51,13 +51,13 @@ AG 12(2): 171; Barnhart 1: 252 (b. 13 Mar 1870, Genève, d. 26 Oct 1931, ib.); B
 #### Composite works
 
 (1-6) see TL-2/1: 328.
-(7) *Labiatae* (classification général de la famille en sous-familles, tribus et sous-tribus *in* A. Engler, Syllab. Vorles. spec. med.-pharm. Bot. 163-165. 1892), see TL-2/1707.
+- (7) *Labiatae* (classification général de la famille en sous-familles, tribus et sous-tribus *in* A. Engler, Syllab. Vorles. spec. med.-pharm. Bot. 163-165. 1892), see TL-2/1707.
 
-#### Journals published by j. briquet
+#### Journals published by J. Briquet
 
-(1) *Bulletin du Laboratoire de Botanique générale de l'Université de Genève* 1-3, Genève 1896-1899.
-(2) *Annuaire du Conservatoire et du Jardin botaniques de Genève* 1-21, Genève 1897-1922 (continued as Candollea, see below).
-(3) *Candollea*. Organe du Conservatoire et du Jardin botaniques de la ville de Genève 1-4, Genève 1922-1931.
+- (1) *Bulletin du Laboratoire de Botanique générale de l'Université de Genève* 1-3, Genève 1896-1899.
+- (2) *Annuaire du Conservatoire et du Jardin botaniques de Genève* 1-21, Genève 1897-1922 (continued as Candollea, see below).
+- (3) *Candollea*. Organe du Conservatoire et du Jardin botaniques de la ville de Genève 1-4, Genève 1922-1931.
 
 ### Publications
 

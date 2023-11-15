@@ -21,8 +21,8 @@ Barnhart 3: 421 (b. 14 Jan 1873, d. 12 Mar 1924); BB p. 309; BL 1: 89, 322; Desm
 
 #### Note
 
-(1) The plants collected by Mrs Vallentin in the Falklands were described by C.H. Wright, *Flora of the Falklands Islands*, J. Linn. Soc. 39: 313-339. 4 Jul 1911, and by A.L. Cotton, *Cryptogams from the Falkland Islands*... ib. 43: 137-143. 30 Nov 1915; the Fresh-water algae in Bull. Misc. Inf. Kew 1924: 283-287.
-(2) For *Rupert Vallentin* (1859-1934), husband of E.F. Vallentin see J.T. Cunningham, Proc. Linn. Soc. 147: 191-194. 13 Dec 1935.
+- (1) The plants collected by Mrs Vallentin in the Falklands were described by C.H. Wright, *Flora of the Falklands Islands*, J. Linn. Soc. 39: 313-339. 4 Jul 1911, and by A.L. Cotton, *Cryptogams from the Falkland Islands*... ib. 43: 137-143. 30 Nov 1915; the Fresh-water algae in Bull. Misc. Inf. Kew 1924: 283-287.
+- (2) For *Rupert Vallentin* (1859-1934), husband of E.F. Vallentin see J.T. Cunningham, Proc. Linn. Soc. 147: 191-194. 13 Dec 1935.
 
 ### Publications
 

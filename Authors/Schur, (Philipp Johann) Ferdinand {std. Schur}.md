@@ -37,8 +37,8 @@ AG 1: 271, 12(1): 145; Backer p. 661; Barnhart 3: 247 (b. 18 Feb 1799, d. 28 Mai
 
 #### Note
 
-(1) Schur made a botanical survey of Siebenbürgen from 5 Jul-15 Aug 1853. A manuscript "Bericht" was submitted to the Austrian "Statthalterei". Michael Fuss prepared an abstract of the botanically significant part and published it in Verh. Mitth. Siebenbürg. Ver. Naturw. Hermannstadt 10: 58-86. Mar-Apr, 96-134. Mai-Jun, 137-182. Jul-Aug, 185-212. Sep-Oct 1859, reprinted 1859, p. \[i-ii\], \[1\]-143. *Copy*: NY. "*Auszug aus dem Berichte über eine... vom* 5. *Juli bis 15. August 1883 unternommene Botanische Rundreise durch Siebenbürgen*", Hermannstadt (gedruckt in der Georg v. Closius'schen Buchdruckerei) 1859. Oct.
-(2) Papers on Transylvanian plants ("Siebenbürgische Pflanzen") were published in Verh. Mitt. siebenb. Ver. Naturw. Hermannstadt 2: 9-13. Jan, 65-70. Apr, 165-167, 167-171. Oct, 176-177, 177-195. Nov, 198-214 Dec 1851, 3: 84-85, 95-96. Jun, 117-128. Aug 1852, 4: 3-16. Jan, 24-32. Feb, 46-52. Mar, 57-68. Apr, 105-109. Jun 1853 (in supplements: *Sert. fl. Transsilv.*, see below), 6: 78-83. Mai 1854.
+- (1) Schur made a botanical survey of Siebenbürgen from 5 Jul-15 Aug 1853. A manuscript "Bericht" was submitted to the Austrian "Statthalterei". Michael Fuss prepared an abstract of the botanically significant part and published it in Verh. Mitth. Siebenbürg. Ver. Naturw. Hermannstadt 10: 58-86. Mar-Apr, 96-134. Mai-Jun, 137-182. Jul-Aug, 185-212. Sep-Oct 1859, reprinted 1859, p. \[i-ii\], \[1\]-143. *Copy*: NY. "*Auszug aus dem Berichte über eine... vom* 5. *Juli bis 15. August 1883 unternommene Botanische Rundreise durch Siebenbürgen*", Hermannstadt (gedruckt in der Georg v. Closius'schen Buchdruckerei) 1859. Oct.
+- (2) Papers on Transylvanian plants ("Siebenbürgische Pflanzen") were published in Verh. Mitt. siebenb. Ver. Naturw. Hermannstadt 2: 9-13. Jan, 65-70. Apr, 165-167, 167-171. Oct, 176-177, 177-195. Nov, 198-214 Dec 1851, 3: 84-85, 95-96. Jun, 117-128. Aug 1852, 4: 3-16. Jan, 24-32. Feb, 46-52. Mar, 57-68. Apr, 105-109. Jun 1853 (in supplements: *Sert. fl. Transsilv.*, see below), 6: 78-83. Mai 1854.
 
 ### Publications
 

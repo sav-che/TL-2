@@ -29,10 +29,10 @@ Backer p. 664; Barnhart 3: 492 (b. 2 Jun 1873, d. 12 Apr 1942); BJI 2: 190; BL 1
 
 #### Composite works
 
-(1) *Synopsis of the Vegetable Kingdom, in* L.H. Bailey, Stand. Cycl. Hort. 1914-1917, TL-2/242.
-(2) *Bidens, in* J.K. Small, Fl. Southeast. U.S. 1903, see TL-2/12.127 (22 Jul 1903).
-(3) *Analytical key to the families of angiosperms* 1904 (TBC 29 Jul 1904), p. xi-xxiv, preprinted for N.L. Britton, *Man. fl. n. states* ed. 2, 1905; also in ed. 3, 1907, see TL-2/779.
-(4) *Coreopsis, in* L.H. Bailey, Stand. cycl. Hort. 2: 844-846. 22 Jul 1914.
+- (1) *Synopsis of the Vegetable Kingdom, in* L.H. Bailey, Stand. Cycl. Hort. 1914-1917, TL-2/242.
+- (2) *Bidens, in* J.K. Small, Fl. Southeast. U.S. 1903, see TL-2/12.127 (22 Jul 1903).
+- (3) *Analytical key to the families of angiosperms* 1904 (TBC 29 Jul 1904), p. xi-xxiv, preprinted for N.L. Britton, *Man. fl. n. states* ed. 2, 1905; also in ed. 3, 1907, see TL-2/779.
+- (4) *Coreopsis, in* L.H. Bailey, Stand. cycl. Hort. 2: 844-846. 22 Jul 1914.
 
 ### Publications
 

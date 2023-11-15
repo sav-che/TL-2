@@ -8,7 +8,8 @@ Hooker, Joseph Dalton (1817-1911), British botanist and explorer; pioneer plant 
 
 #### Herbarium and types
 
-[[Collection K|K]]; the fungi at [[Collection BM|BM]]; much material also at [[Collection MANCH|MANCH]] and [[Collection E|E]]. – The drawings made by J. D. Hooker on the antarctic voyage are at [[Collection BM|BM]]; the Hooker correspondence, manuscripts and portrait collection are at [[Collection K|K]]. [[Collection FH|FH]] has 89 original plates of Sikkim-Himalaya fungi. – *Exsiccatae* (with Thomas Thomson (1817-1878)): *Herbarium Indiae orientalis*, col. 1847-1851; contained material of various collectors such as Walker (Ceylon) and Stocks (Malabar). Widely distributed.
+[[Collection K|K]]; the fungi at [[Collection BM|BM]]; much material also at [[Collection MANCH|MANCH]] and [[Collection E|E]]. – The drawings made by J. D. Hooker on the antarctic voyage are at [[Collection BM|BM]]; the Hooker correspondence, manuscripts and portrait collection are at [[Collection K|K]]. [[Collection FH|FH]] has 89 original plates of Sikkim-Himalaya fungi.
+*Exsiccatae* (with Thomas Thomson (1817-1878)): *Herbarium Indiae orientalis*, col. 1847-1851; contained material of various collectors such as Walker (Ceylon) and Stocks (Malabar). Widely distributed.
 *Ref*.: Clarke, G. C. S., Type specimens in Manchester herb. 1973.
 - Sayre, G., Mem. New York Bot. Gard. 19(3): 341-344. 1973.
 - Hedge, I. C. and J. M. Lamond, Ind. coll. Edinburgh 92. 1974.
@@ -85,23 +86,23 @@ AG 2(2): 386; Ainsworth p. 71, 206, 228; Andrews p. 280; Backer p. 272; Barnhart
 #### Composite works
 
 J. D. Hooker was a prolific writer who contributed botanical treatments to many works of wider scope. For a listing see BM 2: 868-870.
-(1), Curtis, *Botanical Magazine*. (TL-2/1290).
-(2), Hooker's *Icones plantarum*, vols. 11-20(1), 1867-1890 (TL-2/3006).
-(3), Jackson, B. D., *Index kewensis*, 2 vols., 1893-1895 (general direction) (TL-2/3218).
-(4), Bentham and Hooker, *Genera plantarum*, see under Bentham (TL-2/429).
-(5), Thwaites and Hooker, *Enumeratio plantarum Zeylaniae*, see under Thwaites.
-(6), Trimen, *A handbook to the Flora of Ceylon*, continued by J. D. Hooker, part 5 (1900).
-(7), *Flora brasiliensis, Rosaceae*, 14(2): 1-74, *pl. 1-22.* 17 Apr 1867. See under Martius.
-(8), Lecomte, *Fl. gén. Indo-Chine, Balsaminaceae* 1 (6): 611-629. Mar 1911.
-(9), Oliver, *Flora tropical Africa*:
+- (1), Curtis, *Botanical Magazine*. (TL-2/1290).
+- (2), Hooker's *Icones plantarum*, vols. 11-20(1), 1867-1890 (TL-2/3006).
+- (3), Jackson, B. D., *Index kewensis*, 2 vols., 1893-1895 (general direction) (TL-2/3218).
+- (4), Bentham and Hooker, *Genera plantarum*, see under Bentham (TL-2/429).
+- (5), Thwaites and Hooker, *Enumeratio plantarum Zeylaniae*, see under Thwaites.
+- (6), Trimen, *A handbook to the Flora of Ceylon*, continued by J. D. Hooker, part 5 (1900).
+- (7), *Flora brasiliensis, Rosaceae*, 14(2): 1-74, *pl. 1-22.* 17 Apr 1867. See under Martius.
+- (8), Lecomte, *Fl. gén. Indo-Chine, Balsaminaceae* 1 (6): 611-629. Mar 1911.
+- (9), Oliver, *Flora tropical Africa*:
 *Begoniaceae* 2: 569-580. 1871.
 *Cucurbitaceae* 2: 521-569. 1871.
 *Melastomaceae* 2: 439-464. 1871.
-(10), Candolle, *Prodromus* (TL-2/(fix)999).
+- (10), Candolle, *Prodromus* (TL-2/(fix)999).
 *Cytinaceae*, 17: 106-116. 16 Oct 1873.
 *Nepenthaceae*, 17: 90-105. 16 Oct 1873.
-(11), With G. Bentham, *Flora ingritana*, in W. J. Hooker, ed., *Niger flora* 199-577, pl. 17-50. 1849. See under W. J. Hooker (TL-2/3012).
-(12), *Botany* \[of Kerguelen island\], *in* An account of the petrological, botanical and zoological collections made... during the Transit of Venus Expedition 1874-1875, Philos. Trans. R. Soc. 168 (extra): 9-23, *pl. 1-23.* 1879 (rev. by Engler, Bot. Jahrb. 1: 85. 1881).
+- (11), With G. Bentham, *Flora ingritana*, in W. J. Hooker, ed., *Niger flora* 199-577, pl. 17-50. 1849. See under W. J. Hooker (TL-2/3012).
+- (12), *Botany* \[of Kerguelen island\], *in* An account of the petrological, botanical and zoological collections made... during the Transit of Venus Expedition 1874-1875, Philos. Trans. R. Soc. 168 (extra): 9-23, *pl. 1-23.* 1879 (rev. by Engler, Bot. Jahrb. 1: 85. 1881).
 
 #### Handwriting
 

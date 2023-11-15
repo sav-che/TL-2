@@ -10,11 +10,11 @@ Warnstorf, Carl \[Friedrich E.\] (1837-1921), German (Prussian (Lausitz)) teache
 
 [[Collection B|B]] (original herbarium, rd. 1909 \[endowment A.E.W. Retzdorff\], destroyed; "Handherbar" with many types, rd. between 1943 and 1950, extant), [[Collection BP|BP]] (second part of original herb., see K. Müller 1944; destroyed except for circa 100 specimens of Andreaeales) (for a detailed account of the present Berlin holdings see Schultze-Motel (1962)). Further material in [[Collection BM|BM]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection FH|FH]] (in Max Fleischer herb.), [[Collection GOET|GOET]] (incl. "Flora von Clötze, 1873), [[Collection H|H]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PI|PI]], [[Collection QK|QK]], [[Collection S|S]], [[Collection W|W]], [[Collection WRSL|WRSL]].
 *Exsiccatae*: (1) With Max Fleischer *Bryotheca europaea meridionalis*, cent. i-iv, nos. 1-400, Rouen 1896-1910; sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]] (compl.), [[Collection H|H]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection M|M]], [[Collection PC|PC]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]], see TL-2/1: 844.
-(2) *Märkische Laubmoose* in getrockneten Exemplare, fasc. i-xi, nos. 1-275, Neuruppin 1872-1875. Sets at [[Collection FH|FH]], [[Collection HAL|HAL]] (Sayre 1971, p. 270-271).- Cited in Warnstorf, Laubmoose, Krypt.-Fl. Brandenburg 2, 1904-1906. – See Verh. bot. Ver. Brandenb. 13: 166-168. 1872 and Bot. Zeit. 30: 639-640. 1872 for announcement of series and list of fasc. 1-2; fasc. 11, ib. 17: 86-87. 1875. *Collectors*: Warnstorf and R. Ruthe. See Sayre (1971).
-(3) *Sphagnotheca europaea*, fasc. 1-4, nos. 1-200. Neuruppin 1881-1884. Sets at [[Collection G|G]], [[Collection H|H]], [[Collection NY|NY]]. (see Sayre 1971, p. 271-272). – Announcements: Verh. bot. Ver. Brandenburg 23: 47-48. 1881 and Bot. Centralbl. 7: 96. 1881: to go with his *Europäische Torfmoose* (1881).– See Sayre (1971).
-(4) *Sammlung europäischer Torfmoose*, ser. 1-4, nos. 1-401. Neuruppin 1888-1894. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection PC|PC]], [[Collection UPS|UPS]] (further details Sayre 1971 p. 271).
-(5) *Sammlung deutscher Laubmoose*, nos. 1-493, 1875-1881, see Verh. bot. Ver. Brandenburg 1875: 88-90, 1876: xxxii-xxxiv, 1877: xxix-xxxii, 1879: xxii-xxiii, 1880: li-lii.
-(6) *Sammlung deutscher Lebermoose* nos. 1-97, 1877-1881, see Verh. bot. Ver. Brandenburg 1879: xxvi-xxvii, 1880: liii. Set at [[Collection FR|FR]].
+- (2) *Märkische Laubmoose* in getrockneten Exemplare, fasc. i-xi, nos. 1-275, Neuruppin 1872-1875. Sets at [[Collection FH|FH]], [[Collection HAL|HAL]] (Sayre 1971, p. 270-271).- Cited in Warnstorf, Laubmoose, Krypt.-Fl. Brandenburg 2, 1904-1906. – See Verh. bot. Ver. Brandenb. 13: 166-168. 1872 and Bot. Zeit. 30: 639-640. 1872 for announcement of series and list of fasc. 1-2; fasc. 11, ib. 17: 86-87. 1875. *Collectors*: Warnstorf and R. Ruthe. See Sayre (1971).
+- (3) *Sphagnotheca europaea*, fasc. 1-4, nos. 1-200. Neuruppin 1881-1884. Sets at [[Collection G|G]], [[Collection H|H]], [[Collection NY|NY]]. (see Sayre 1971, p. 271-272). – Announcements: Verh. bot. Ver. Brandenburg 23: 47-48. 1881 and Bot. Centralbl. 7: 96. 1881: to go with his *Europäische Torfmoose* (1881).– See Sayre (1971).
+- (4) *Sammlung europäischer Torfmoose*, ser. 1-4, nos. 1-401. Neuruppin 1888-1894. Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection H|H]], [[Collection KIEL|KIEL]], [[Collection PC|PC]], [[Collection UPS|UPS]] (further details Sayre 1971 p. 271).
+- (5) *Sammlung deutscher Laubmoose*, nos. 1-493, 1875-1881, see Verh. bot. Ver. Brandenburg 1875: 88-90, 1876: xxxii-xxxiv, 1877: xxix-xxxii, 1879: xxii-xxiii, 1880: li-lii.
+- (6) *Sammlung deutscher Lebermoose* nos. 1-97, 1877-1881, see Verh. bot. Ver. Brandenburg 1879: xxvi-xxvii, 1880: liii. Set at [[Collection FR|FR]].
 *Letters* at [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection NY|NY]].
 
 #### Bibliography and biography
@@ -46,13 +46,13 @@ AG 2(1): 143, 4: 410; Backer p. 622; Biol.-Dokum. 18: 9763-9765; BM 5: 2266, 8: 
 
 #### Composite works
 
-(1) *Torfmoose vom Karajak-Nunatak, in* E. Vanhöffen, ed., Bot. Erg. Drygalski' Grönlandexp., Bibl. Bot. 42: 63. 1899, TL-2/15.919.
-(2) Contributed to J. Mildbraed, *Wiss. Erg. zweit. deut. Zentr.-Afr. Exped., Bot.* 1922, TL-2/6009.
-(3) *Sphagnaceae* (Torfmoose), *in* EP, Nat. Pflanzenfam. 1(3): 248-262. 19 Mar 1901, TL-2/1710.
-(4) *Sphagnales-Sphagnaceae* (Sphagnologia universalis), *in* A. Engler, *Das Pflanzenreich* III, Heft 51, p. \[i\]-iv, \[1\]-546. 19 Dec 1911, TL-2/1713. *Facsimile reprint* 1976, J. Cramer, in der A.R. Gantnerverlag KG Vaduz (slightly reduced size); an earlier facsimile ed., also by J. Cramer, was part of the reprint of the *Pflanzenreich* 1956-1961.
-(5)*Bryophyta* (Sphagnales \[by Warnstorf\], Bryales \[by W. Mönkemeyer\], Hepaticae \[by V. Schiffner\]), *in* A. Pascher, ed., *Süssw.-Fl. Deutschl.* Heft 14: Jan 1914, p. \[i\]-iv, \[1\]-222 (Sphagn. 3-38). See TL-2/7423.
-(6)*Sphagnaceae, in* E. Bescherelle, C. Warnstorf et F. Stephani, *Cryptogamae centrali-americanae* in Guatemala, Costa Rica, Columbia & Ecuador a cl. F. Lehmann lectae, in Bull. Herb. Boiss. 2(6): \[400\]-401. Jun 1894, TL-2/12.998 (reprint p. \[1\]-2, *copy*: G).
-(7)Levier, E., *Sfagni italiani* determinati del Sig. C. Warnstorf, Nuov. Giorn. bot. ital.
+- (1) *Torfmoose vom Karajak-Nunatak, in* E. Vanhöffen, ed., Bot. Erg. Drygalski' Grönlandexp., Bibl. Bot. 42: 63. 1899, TL-2/15.919.
+- (2) Contributed to J. Mildbraed, *Wiss. Erg. zweit. deut. Zentr.-Afr. Exped., Bot.* 1922, TL-2/6009.
+- (3) *Sphagnaceae* (Torfmoose), *in* EP, Nat. Pflanzenfam. 1(3): 248-262. 19 Mar 1901, TL-2/1710.
+- (4) *Sphagnales-Sphagnaceae* (Sphagnologia universalis), *in* A. Engler, *Das Pflanzenreich* III, Heft 51, p. \[i\]-iv, \[1\]-546. 19 Dec 1911, TL-2/1713. *Facsimile reprint* 1976, J. Cramer, in der A.R. Gantnerverlag KG Vaduz (slightly reduced size); an earlier facsimile ed., also by J. Cramer, was part of the reprint of the *Pflanzenreich* 1956-1961.
+- (5) *Bryophyta* (Sphagnales \[by Warnstorf\], Bryales \[by W. Mönkemeyer\], Hepaticae \[by V. Schiffner\]), *in* A. Pascher, ed., *Süssw.-Fl. Deutschl.* Heft 14: Jan 1914, p. \[i\]-iv, \[1\]-222 (Sphagn. 3-38). See TL-2/7423.
+- (6) *Sphagnaceae, in* E. Bescherelle, C. Warnstorf et F. Stephani, *Cryptogamae centrali-americanae* in Guatemala, Costa Rica, Columbia & Ecuador a cl. F. Lehmann lectae, in Bull. Herb. Boiss. 2(6): \[400\]-401. Jun 1894, TL-2/12.998 (reprint p. \[1\]-2, *copy*: G).
+- (7) Levier, E., *Sfagni italiani* determinati del Sig. C. Warnstorf, Nuov. Giorn. bot. ital.
 n.s. 8(1): 75-86. Jan 1901.
 
 #### Eponymy

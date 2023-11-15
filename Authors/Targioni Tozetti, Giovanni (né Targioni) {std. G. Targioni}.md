@@ -35,8 +35,8 @@ Ainsworth p. 54, 149-150, 299, 311; Barnhart 3: 360 (b. 11 Sep 1712, d. 7 Jan 17
 
 #### Composite works
 
-(1) For an extract of a manuscript catalogue *Le collezioni di Giorgio Rumpf*, 1903, see TL-2/5475. *Copies*: FI, HH, NY, U, USDA.
-(2) For the publication of his mss. *Not. vita Micheli* 1858, see under Ad. Targioni Tozzetti.
+- (1) For an extract of a manuscript catalogue *Le collezioni di Giorgio Rumpf*, 1903, see TL-2/5475. *Copies*: FI, HH, NY, U, USDA.
+- (2) For the publication of his mss. *Not. vita Micheli* 1858, see under Ad. Targioni Tozzetti.
 
 ### Publications
 

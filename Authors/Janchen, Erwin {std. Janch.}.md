@@ -20,8 +20,8 @@ AG 6(2): 640; Barnhart 2: 245; BFM 813, 917, 918, 2334-2338; DTS 6(4): 79, 157; 
 
 #### Composite works
 
-(1) Editor of *Österreichische Botanische Zeitschrift* vols. 80-93, 1931-1944.
-(2) EP, *Die natiirlichen Pfianzenfamilien*, ed. 2, *Cistaceae*, 21: 289-313. Dec 1925 (TL-2/1911).
+- (1) Editor of *Österreichische Botanische Zeitschrift* vols. 80-93, 1931-1944.
+- (2) EP, *Die natiirlichen Pfianzenfamilien*, ed. 2, *Cistaceae*, 21: 289-313. Dec 1925 (TL-2/1911).
 
 ### Publications
 
@@ -35,10 +35,10 @@ AG 6(2): 640; Barnhart 2: 245; BFM 813, 917, 918, 2334-2338; DTS 6(4): 79, 157; 
 *Ed*. \[*1*\]: Nov- Dec 1908 (p. 2: Nov 1908; Bot. Zeit. 16 Mai 1909), p. \[i\], \[1\]-49- *Copies*: MICH, NY, US.
 *Ed. 2*: 1913 (p. iv: Aug 1912), p. \[i\]-iv, \[i\]-60. *Copies*: MO, NY. – "Zweite verbesserte Auflage" Leipzig und Wien (Franz Deuticke) 1913. Oct.
 
-##### n.3284. Zur Fiage der totgeborenen Namen
+##### n.3284. Zur Frage der totgeborenen Namen
 
 **Title**
-*Zur Fiage der totgeborenen Namen* in der botanischen Nomenklatur... Wien (Im Selbstverlage des Verfassers) 1909. Oct.
+*Zur Frage der totgeborenen Namen* in der botanischen Nomenklatur... Wien (Im Selbstverlage des Verfassers) 1909. Oct.
 **Abbreviated title**: *Frage totgebor. Nameri*.
 
 **Notes**

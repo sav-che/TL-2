@@ -25,12 +25,12 @@ Barnhart 1: 411 (d. 2 Oct 1934); BM 1: 414; Bossert p. 92; CSP 14: 453; IH 2: 15
 
 #### Composite works
 
-(1) *Hieracium*, *in* L.K. Rosenvinge, An tillaeg til Grønlands Fanerogamer og Karsporeplanter, Medd. Grønland 3 (Fors. 3): 695-696. 1892.
-(2) *Hieracium-slaegtet*, *in* H. Jónson, Bidrag til Ost Islands Flora, Bot. Tidsskr. 20(3): 352-357. Nov 1896.
-(3) *Hieracium*, *in* H. Jónson, Floraen på Snæfellnæs og Omegn, Bot. Tidsskr. 22(2): 202-207. Apr 1899.
-(4) *Hieracium*, *in* L.M. Neuman and F.E. Ahlfvengren, *Sveriges flora* 67-93. 1901. (see TL-2/6756).
-(5) *Hieracium*, *in* Th.O.B.N. Krok and E.G. Almquist, *Sv. flora f. skolor* ed. 11. 44-49. 1907.
-(6) *Hieracium*, *in* C.A.M. Lindman, *Sv. fan.-fl.* 589-629. 1918.
+- (1) *Hieracium*, *in* L.K. Rosenvinge, An tillaeg til Grønlands Fanerogamer og Karsporeplanter, Medd. Grønland 3 (Fors. 3): 695-696. 1892.
+- (2) *Hieracium-slaegtet*, *in* H. Jónson, Bidrag til Ost Islands Flora, Bot. Tidsskr. 20(3): 352-357. Nov 1896.
+- (3) *Hieracium*, *in* H. Jónson, Floraen på Snæfellnæs og Omegn, Bot. Tidsskr. 22(2): 202-207. Apr 1899.
+- (4) *Hieracium*, *in* L.M. Neuman and F.E. Ahlfvengren, *Sveriges flora* 67-93. 1901. (see TL-2/6756).
+- (5) *Hieracium*, *in* Th.O.B.N. Krok and E.G. Almquist, *Sv. flora f. skolor* ed. 11. 44-49. 1907.
+- (6) *Hieracium*, *in* C.A.M. Lindman, *Sv. fan.-fl.* 589-629. 1918.
 
 #### Note
 

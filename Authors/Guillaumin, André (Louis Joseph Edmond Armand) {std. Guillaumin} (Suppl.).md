@@ -41,15 +41,17 @@ APN p. 247; Barnhart 2: 98; BFM p. 287 (index); BL 1: 115, 118-119, 125, 299, 2:
 
 #### Outside our period
 
-(1) *Les plantes cultivées*... 1946. (2) *Flore analytique* et *synoptique* de la *Nouvelle-Calédonie*; phanérogames... 1948. (3) *Les plantes sauvages*: biologie et utilisation... 1948.
-(4) Co-author with André Daniel Marcel Bertrand (1912-x) & G. Richard, *Cactées*: photographics... 1949; Id. (English transl.)... *Cacti*... 1952.
-(5) Co-author with Fernand & Claude Moreau, *La vie des plantes*... 1955.
+- (1) *Les plantes cultivées*... 1946.
+- (2) *Flore analytique* et *synoptique* de la *Nouvelle-Calédonie*; phanérogames... 1948.
+- (3) *Les plantes sauvages*: biologie et utilisation... 1948.
+- (4) Co-author with André Daniel Marcel Bertrand (1912-x) & G. Richard, *Cactées*: photographics... 1949; Id. (English transl.)... *Cacti*... 1952.
+- (5) Co-author with Fernand & Claude Moreau, *La vie des plantes*... 1955.
 
 #### Composite works
 
-(1) Co-editor for botany with H. Schinz of F. Sarasin & J. Roux, *Nova Caledonia, Bot*.... 1914-1921 \[i.e. 1922\] (TL-2/5, nr. 10.288).
-(2) Edited *Cactac. utiles Mex.*... 1928 (TL-2/Suppl. 5, nr. 30.678), which was posthumously published by L. Diguet.
-(3) Co-author with L. Blaringhem et al., *Hybrides sexuels et mosaïques*... 1937 (TL-2/ Suppl. 2, nr. 21.510).
+- (1) Co-editor for botany with H. Schinz of F. Sarasin & J. Roux, *Nova Caledonia, Bot*.... 1914-1921 \[i.e. 1922\] (TL-2/5, nr. 10.288).
+- (2) Edited *Cactac. utiles Mex.*... 1928 (TL-2/Suppl. 5, nr. 30.678), which was posthumously published by L. Diguet.
+- (3) Co-author with L. Blaringhem et al., *Hybrides sexuels et mosaïques*... 1937 (TL-2/ Suppl. 2, nr. 21.510).
 
 ### Publications
 

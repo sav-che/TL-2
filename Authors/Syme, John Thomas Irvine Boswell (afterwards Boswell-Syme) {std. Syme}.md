@@ -30,8 +30,8 @@ Barnhart 1: 226 (Boswell); BB p. 295; BL 1: 224, 721; BM 5: 2066; Clokie p. 251;
 
 #### Composite works
 
-(1) *English botany* ed. 3, vols. 1-12, 1863-1886, see under J.E. Smith (and J. Sowerby).
-(2) Editor of editions 5 and 6 of *The London catalogue of British plants*, 1853, 1857; see under H.C. Watson.
+- (1) *English botany* ed. 3, vols. 1-12, 1863-1886, see under J.E. Smith (and J. Sowerby).
+- (2) Editor of editions 5 and 6 of *The London catalogue of British plants*, 1853, 1857; see under H.C. Watson.
 
 #### Eponymy
 

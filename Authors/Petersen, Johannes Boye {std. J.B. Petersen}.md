@@ -28,9 +28,9 @@ Barnhart 3: 74; BJI 2: 134; Hirsch p. 230; IH 2: (in press); Kew 4: 283; Kleppa 
 
 #### Composite works
 
-(1) *Marine Cyanophyceae from Easter Island, in* C. Skottsberg, *Nat. Hist. Juan Fernandez* 2(Bot.): 461-463. 1926.
-(2) *The fresh-water Cyanophyceae of Iceland*, 1923, *in The Botany of Iceland* 2(2, 7): \[249\]-324. 1923.
-(3) *The aërial algae of Iceland*, 1928, *in The Botany of Iceland* 2(2, 8): \[325\]-447. 1928.
+- (1) *Marine Cyanophyceae from Easter Island, in* C. Skottsberg, *Nat. Hist. Juan Fernandez* 2(Bot.): 461-463. 1926.
+- (2) *The fresh-water Cyanophyceae of Iceland*, 1923, *in The Botany of Iceland* 2(2, 7): \[249\]-324. 1923.
+- (3) *The aërial algae of Iceland*, 1928, *in The Botany of Iceland* 2(2, 8): \[325\]-447. 1928.
 
 ### Publications
 

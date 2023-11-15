@@ -21,7 +21,7 @@ BFM 2315, 2316; BL 2: 634 (index); Hortus 3: 1189; Kew 1: 349; Zander ed. 10, p.
 
 #### Composite works
 
-(1) See information in TL-2/4397, F. Lenoble, *Cat. pl. vasc. Drôme*, for a supplement published in Proc. Verb. Soc. Dauph. Étud. Biol. 1937-1941.
+- (1) See information in TL-2/4397, F. Lenoble, *Cat. pl. vasc. Drôme*, for a supplement published in Proc. Verb. Soc. Dauph. Étud. Biol. 1937-1941.
 
 ### Publications
 

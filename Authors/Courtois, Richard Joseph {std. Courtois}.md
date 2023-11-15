@@ -26,9 +26,9 @@ Backer p. 144; Barnhart 1: 388 (b. 17 Jan 1806, Liège, d. 14 Apr 1835, Liège);
 
 #### Composite works
 
-(1) With A.L.S. Lejeune, *Compendium Florae belgicae*, Leodii \[Liège\] 1828-1836, 3 vols., see TL-2/4355 sub Lejeune. – Hornung E.G., Flora 15(2) Lit. Ber. 17: 257-270. Jul-Dec 1832 (detailed rev.).
-(2) See TL-2/4354, A.L.S. Lejeune and R.J. Courtois, *Verhandeling over de Ranunculaceae* *der Nederlandsche Flora*... Amsterdam 1827. Oct.
-(3) R. Courtois, *Commentarius, in* Remberti Dodonaei peptades, Verh. Leop.-Carol. Akad. Naturf. 17(9)(2): 761-840. 1835.
+- (1) With A.L.S. Lejeune, *Compendium Florae belgicae*, Leodii \[Liège\] 1828-1836, 3 vols., see TL-2/4355 sub Lejeune. – Hornung E.G., Flora 15(2) Lit. Ber. 17: 257-270. Jul-Dec 1832 (detailed rev.).
+- (2) See TL-2/4354, A.L.S. Lejeune and R.J. Courtois, *Verhandeling over de Ranunculaceae* *der Nederlandsche Flora*... Amsterdam 1827. Oct.
+- (3) R. Courtois, *Commentarius, in* Remberti Dodonaei peptades, Verh. Leop.-Carol. Akad. Naturf. 17(9)(2): 761-840. 1835.
 
 ### Publications
 

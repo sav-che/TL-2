@@ -24,10 +24,10 @@ Barnhart 1: 339 (b. 1885, Paris, d. 15 Jan 1939, Strasbourg); BFM 2494; BL 2: 11
 
 #### Composite works
 
-(1) S. Buchet, H. Chermezon and F. Évrard, Bull. Soc. mycol. France 28: 299-325. 1912 (*Matériaux pour la flore française des Myxomycètes*).
-(2) Id., same title, no. 2, *in* Bull. Soc. mycol. France 36: 106-121. 1920.
-(3) *Umbelliferae*, *in* H. Lecomte, Fl. gén. Indo-Chine 2(8): 1132. Oct 1921, 2(9): 1133-1157. Aug 1923.
-(4) S*ur quelques espèces et variétés nouvelles de la République de l'Équateur*... Bull. Mus. Hist. Nat. 28: 432-439. 1922, first author P. Danguy.
+- (1) S. Buchet, H. Chermezon and F. Évrard, Bull. Soc. mycol. France 28: 299-325. 1912 (*Matériaux pour la flore française des Myxomycètes*).
+- (2) Id., same title, no. 2, *in* Bull. Soc. mycol. France 36: 106-121. 1920.
+- (3) *Umbelliferae*, *in* H. Lecomte, Fl. gén. Indo-Chine 2(8): 1132. Oct 1921, 2(9): 1133-1157. Aug 1923.
+- (4) S*ur quelques espèces et variétés nouvelles de la République de l'Équateur*... Bull. Mus. Hist. Nat. 28: 432-439. 1922, first author P. Danguy.
 
 ### Publications
 

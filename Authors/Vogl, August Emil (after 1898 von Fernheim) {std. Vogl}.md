@@ -26,9 +26,9 @@ Barnhart 3: 442 (b. 3 Aug 1833, d. 25 Jul 1909); CSP 6: 190, 8: 1166, 11: 717, 1
 
 #### Composite works
 
-(1) Editor, *Lotos* vols. 22-25, 1872-1876.
-(2) With F.C. Schneider, *Commentar zur österreichischen* Pharmacopoe, ed. 3, 3 vols. Wien 1880-1881.
-(3) *Beiträge zur Kenntniss der sogenannten falschen Chinarinden, in* Festschr. 25-j. Bestehens zool. bot. Ges. Wien, 89-114. 1876.
+- (1) Editor, *Lotos* vols. 22-25, 1872-1876.
+- (2) With F.C. Schneider, *Commentar zur österreichischen* Pharmacopoe, ed. 3, 3 vols. Wien 1880-1881.
+- (3) *Beiträge zur Kenntniss der sogenannten falschen Chinarinden, in* Festschr. 25-j. Bestehens zool. bot. Ges. Wien, 89-114. 1876.
 
 #### Note
 

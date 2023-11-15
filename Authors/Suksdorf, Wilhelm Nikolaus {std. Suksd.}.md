@@ -38,8 +38,8 @@ Barnhart 3: 346 (b. 15 Sep 1850, d. 3 Oct 1932); BL 1: 220, 320; Bossert p. 388;
 
 #### Note
 
-(1) Published a series *Washingtonische Pflanzen, in* Bot. Monatschr. 16(11): 209-212. Nov 1898, 16(12): 220-222. Dec 1898, 18(2): 26-27. Feb 1900, 18(5-6): 86-88. Jun 1900, 18(7): 97-99-Jul 1900, 18(9): 132-134. Sep 1900, 18(10): 153-156. Oct 1900, 19(6): 91-93. Jun 1901 (in part reprinted with original pagination or no pagination at all, sets at HH, US). A *second* part in this series was published in Allg. bot. Z. 12: 5-7, 26-27, 42, 43. 1903; for parts III and IV see *Werdenda*, below.
-(2) *The Flora of Mount Adams*, Mazama 1(1): 68-97. 1896.
+- (1) Published a series *Washingtonische Pflanzen, in* Bot. Monatschr. 16(11): 209-212. Nov 1898, 16(12): 220-222. Dec 1898, 18(2): 26-27. Feb 1900, 18(5-6): 86-88. Jun 1900, 18(7): 97-99-Jul 1900, 18(9): 132-134. Sep 1900, 18(10): 153-156. Oct 1900, 19(6): 91-93. Jun 1901 (in part reprinted with original pagination or no pagination at all, sets at HH, US). A *second* part in this series was published in Allg. bot. Z. 12: 5-7, 26-27, 42, 43. 1903; for parts III and IV see *Werdenda*, below.
+- (2) *The Flora of Mount Adams*, Mazama 1(1): 68-97. 1896.
 
 ### Publications
 

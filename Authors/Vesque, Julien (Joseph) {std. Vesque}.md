@@ -25,8 +25,8 @@ Backer p. 614; Barnhart 3: 433 (b. 8 Apr 1848, d. 25 Jul 1895); BJI 1: 60; BM 5:
 
 #### Composite works
 
-(1) *Guttiferae, in* A. de Candolle, *Monogr. phan*. 8: 1-669. Dec 1893.
-(2) *Catalogue de la bibliothèque de feu M.J. Decaisne*... classé par M.J. Vesque... avec une notice biographique par M. le Dr. Ed. Bornet, Paris 1883, i, xxi, 485 p.
+- (1) *Guttiferae, in* A. de Candolle, *Monogr. phan*. 8: 1-669. Dec 1893.
+- (2) *Catalogue de la bibliothèque de feu M.J. Decaisne*... classé par M.J. Vesque... avec une notice biographique par M. le Dr. Ed. Bornet, Paris 1883, i, xxi, 485 p.
 
 #### Eponymy
 

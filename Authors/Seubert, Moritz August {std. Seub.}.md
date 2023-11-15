@@ -26,11 +26,11 @@ ADB 34: 51-52 (E. Wunschmann); AG 3: 169; Backer p. 661; Barnhart 3: 262 (b. 2 J
 
 #### Composite works
 
-(1) *Flora brasiliensis*: (a) *Hypoxideae-Amaryllideae*, 3(1): 49-149. *pl. 22-37* (fasc. 8). 1 Jun 1847.
+- (1) *Flora brasiliensis*: (a) *Hypoxideae-Amaryllideae*, 3(1): 49-149. *pl. 22-37* (fasc. 8). 1 Jun 1847.
 (b) *Xyrideae, Mayaceae* et *Commelinaceae*, 3(1): 209-270, *pl. 22-37* (fasc. 15). 15 Sep 1855.
 (c) *Styracaceae*, 7: 183-196, *pl. 67-71* (fasc. 46). 1 Aug 1868.
 (d) *Amarantaceae*, 5(1): 162-252, *pl. 50-75* (fasc. 68). 1 Mar 1875.
-(2) *in* E. Warming, *Symbolae*:
+- (2) *in* E. Warming, *Symbolae*:
 (a) *Agavaceae*, 13: 119. 26 Apr 1873.
 (b) *Alismataceae*, 13: 122-125. 26 Apr 1873.
 (c) *Commelinaceae* (with E. Warming and C.B. Clarke), 13: 121-127. 26 Apr 1873, 27: 137-139. 10 Mai 1883.

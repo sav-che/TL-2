@@ -22,8 +22,8 @@ Barnhart 3: 254 (d. 28 Apr 1883); BL 2: 566, 715; BM 4: 1889; DTS 1: 278; Jackso
 #### Composite works
 
 Seboth provided illustrations for many botanical works (see NI, index), such as:
-(1) Fenzl, E., ed., *Reise Novara* 1868-1870, TL-2/1764.
-(2) C.G.T. Kotschy, *Eich. Eur. Orient.* 1858-1862, TL-2/3890.
+- (1) Fenzl, E., ed., *Reise Novara* 1868-1870, TL-2/1764.
+- (2) C.G.T. Kotschy, *Eich. Eur. Orient.* 1858-1862, TL-2/3890.
 
 ### Publications
 

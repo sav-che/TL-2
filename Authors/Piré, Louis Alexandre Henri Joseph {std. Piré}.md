@@ -8,7 +8,8 @@ Piré, Louis Alexandre Henri Joseph (1827-1887), Belgian botanist; high school t
 
 #### Herbarium and types
 
-[[Collection BR|BR]]; other material at [[Collection BM|BM]], [[Collection FI|FI]], [[Collection K|K]], [[Collection L|L]], [[Collection PC|PC]]. *Exsiccatae*: *Les mousses de la Belgique*, fasc. 1-2, 1870-1871, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection K|K]], [[Collection LG|LG]]. Sayre found no evidence of the existence of fasc. 2 (see Delogne, Fl. crypt. Belg. 1: 308. 1883). – Bull. Soc. Bot. Belg. 7: 401. 1868 mentions the receipt of a *Bryotheca belgica*. – *Letters at [[Collection G|G]]*.
+[[Collection BR|BR]]; other material at [[Collection BM|BM]], [[Collection FI|FI]], [[Collection K|K]], [[Collection L|L]], [[Collection PC|PC]].
+*Exsiccatae*: *Les mousses de la Belgique*, fasc. 1-2, 1870-1871, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection K|K]], [[Collection LG|LG]]. Sayre found no evidence of the existence of fasc. 2 (see Delogne, Fl. crypt. Belg. 1: 308. 1883). – Bull. Soc. Bot. Belg. 7: 401. 1868 mentions the receipt of a *Bryotheca belgica*. – *Letters at [[Collection G|G]]*.
 
 #### Bibliography and biography
 

@@ -29,8 +29,8 @@ Beiheft zum *Archiv für Naturgeschichte* vol. 67, Berlin 18 Apr 1901 (p. \[i\*-
 
 #### Note
 
-(1) M'S sister Louise von Martens (1828-1894) illustrated many of his zoological publications and provided also the plates for "Die preussische Expedition nach Ostasien" (Thétis). Louise von M. provided the plates mentioned by us under our no. 1636.
-(2) Not to be confused with Édouard Martens, botanist at the University of Louvain \[Leuven\], (1831-1904), son of Martin Martens (1797-1863).
+- (1) M'S sister Louise von Martens (1828-1894) illustrated many of his zoological publications and provided also the plates for "Die preussische Expedition nach Ostasien" (Thétis). Louise von M. provided the plates mentioned by us under our no. 1636.
+- (2) Not to be confused with Édouard Martens, botanist at the University of Louvain \[Leuven\], (1831-1904), son of Martin Martens (1797-1863).
 
 ### Publications
 

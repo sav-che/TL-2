@@ -41,9 +41,9 @@ Barnhart 1: 481 (b. 24 Oct 1789, Montpellier, d. 29 Jul 1856, ib.); BM 1: 490; B
 
 #### Composite works
 
-(1): see TL-2/1: 701.
-(2) Dunal, M.F., The new species of *Solanum* published in the Encyclopédie Méthodique, Botanique, suppl. 3. – See Michael Nee, Taxon 31: 320-321. 1982.
-(3) Bonnier, G.C.M., *Notice* sur les *Discomycètes* figurés dans les dessins inédits de *Dunal* conservés à la faculté de Montpellier, p. \[1\]-11, Poligny (Impr. Cottez) 1887, 11 p. Oct. – See Bot. Centralbl. 32: 81. 17-21 Oct 1887.
+- (1): see TL-2/1: 701.
+- (2) Dunal, M.F., The new species of *Solanum* published in the Encyclopédie Méthodique, Botanique, suppl. 3. – See Michael Nee, Taxon 31: 320-321. 1982.
+- (3) Bonnier, G.C.M., *Notice* sur les *Discomycètes* figurés dans les dessins inédits de *Dunal* conservés à la faculté de Montpellier, p. \[1\]-11, Poligny (Impr. Cottez) 1887, 11 p. Oct. – See Bot. Centralbl. 32: 81. 17-21 Oct 1887.
 
 ### Publications
 

@@ -30,9 +30,9 @@ Barnhart 1: 476 (b. 1 Mar 1849, Guilford, Conn., d. 4 Jun 1911, Palo Alto, Calif
 
 #### Composite works
 
-(1) *Dudley memorial volume* containing a paper by William Russel Dudley and appreciations and contributions in his memory by Friends and Colleagues, Stanford University, California (Published by the university) 1913, cover-t.p., frontisp. photo of Dudley, p. \[1\]-137, *6 unnumb. pl.* (uncol. phot.), *pl. 1-2* (uncol. draw. and phot.) 1913. *Copies*: G, U. – See also Nat. Nov. 36 (Apr. 1) 1914 no. 3211, Tucker 1: 214, Krause, K., Bot. Jahrb. 52(Lit.): 12. 14 Nov 1914.
-(2) *A catalogue of the flowering plants*... Lackawanna and Wyoming Valleys... 1892, see TL-2/no. 14.450 Charles Otion Thurston and W.R. Dudley.
-(3) Notes on *Californian Uredineae* and descriptions of new species.... J. Mycol. 10: 52-55. 19 Mar 1904, with Charles Henry Thompson (1870-1931).
+- (1) *Dudley memorial volume* containing a paper by William Russel Dudley and appreciations and contributions in his memory by Friends and Colleagues, Stanford University, California (Published by the university) 1913, cover-t.p., frontisp. photo of Dudley, p. \[1\]-137, *6 unnumb. pl.* (uncol. phot.), *pl. 1-2* (uncol. draw. and phot.) 1913. *Copies*: G, U. – See also Nat. Nov. 36 (Apr. 1) 1914 no. 3211, Tucker 1: 214, Krause, K., Bot. Jahrb. 52(Lit.): 12. 14 Nov 1914.
+- (2) *A catalogue of the flowering plants*... Lackawanna and Wyoming Valleys... 1892, see TL-2/no. 14.450 Charles Otion Thurston and W.R. Dudley.
+- (3) Notes on *Californian Uredineae* and descriptions of new species.... J. Mycol. 10: 52-55. 19 Mar 1904, with Charles Henry Thompson (1870-1931).
 
 ### Publications
 

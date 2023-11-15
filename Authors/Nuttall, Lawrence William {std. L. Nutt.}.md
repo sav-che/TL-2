@@ -18,6 +18,6 @@ Barnhart 3: 17; BL 1: 168, 221, 311; BM 7: 944; Bossert p. 290; CSP 17: 576; GR 
 
 #### Composite works
 
-(1) Millspaugh, C. F. & L. W. Nuttall, Flora of Santa Catalina Island, Jan 1923, Field Mus. Bot. 5, see under Millspaugh.
-(2) Millspaugh, C. F. & L. W. Nuttall, *Flora of West Virginia*, Field Columbia Mus. Bot. 1 (2) 69-276. Jan 1896.
+- (1) Millspaugh, C. F. & L. W. Nuttall, Flora of Santa Catalina Island, Jan 1923, Field Mus. Bot. 5, see under Millspaugh.
+- (2) Millspaugh, C. F. & L. W. Nuttall, *Flora of West Virginia*, Field Columbia Mus. Bot. 1 (2) 69-276. Jan 1896.
 

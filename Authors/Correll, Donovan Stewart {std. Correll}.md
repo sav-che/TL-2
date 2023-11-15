@@ -36,15 +36,15 @@ Barnhart 1: 383 (b. 13 Apr 1908, Wilson, N.C.); GR p. 210; Hortus 3: 1190; IF (s
 
 #### Composite works
 
-(1) Correll, D.C. *in* J.F. Macbride, part 5b(2): 269-458. 18 Jan 1967, see TL-2/3: 211.
+- (1) Correll, D.C. *in* J.F. Macbride, part 5b(2): 269-458. 18 Jan 1967, see TL-2/3: 211.
 
 #### Outside our period
 
-(1) Clair A. Brown and D.S. Correll, *Ferns and fern allies of Louisiana*, Baton Rouge, 186 p. 1942. – See A.J. Alexander, J. New York Bot. Gard. 44(517): 24 Jan 1941.
-(2) *Flora of Texas* 1(1): 1-122. 1955 by D.S. Correll. – See Taxon 4(8): 197. Nov 1955. (3) *The potato and its wild relatives*, xv, 610 p. 1962. See e.g. Taxon 12(1): 38-39. 31 Jan 1963.
-(4) With M.C. Johnston and collaborators: *Manual of the vascular plants of Texas*, xv, 1882 p., 1970. – See e.g. Taxon 20(2-3): 366-368. 1971.
-(5) With H.B. Correll, *Aquatic and wetland plants of Southwestern U.S.*, 1777 p., Jan 1972. – See e.g. Taxon 22(1): 147. 1973, 24(4): 527. 1975.
-(6) *Native orchids of North America* first publ. 1950 (Chronica botanica Cy.) *reissued* 1978, xvi, 400 p. – See e.g. Taxon 28(4): 468. Aug 1979 and Nissen suppl. p. 27.
+- (1) Clair A. Brown and D.S. Correll, *Ferns and fern allies of Louisiana*, Baton Rouge, 186 p. 1942. – See A.J. Alexander, J. New York Bot. Gard. 44(517): 24 Jan 1941.
+- (2) *Flora of Texas* 1(1): 1-122. 1955 by D.S. Correll. – See Taxon 4(8): 197. Nov 1955. (3) *The potato and its wild relatives*, xv, 610 p. 1962. See e.g. Taxon 12(1): 38-39. 31 Jan 1963.
+- (4) With M.C. Johnston and collaborators: *Manual of the vascular plants of Texas*, xv, 1882 p., 1970. – See e.g. Taxon 20(2-3): 366-368. 1971.
+- (5) With H.B. Correll, *Aquatic and wetland plants of Southwestern U.S.*, 1777 p., Jan 1972. – See e.g. Taxon 22(1): 147. 1973, 24(4): 527. 1975.
+- (6) *Native orchids of North America* first publ. 1950 (Chronica botanica Cy.) *reissued* 1978, xvi, 400 p. – See e.g. Taxon 28(4): 468. Aug 1979 and Nissen suppl. p. 27.
 
 ### Publications
 

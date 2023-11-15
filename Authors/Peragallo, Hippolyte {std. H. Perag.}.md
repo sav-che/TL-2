@@ -28,7 +28,7 @@ Barnhart 3: 67; BM 4: 1546, 8: 998; CSP 17: 783; De Toni 2: xcii-cxiii, 4: xliv;
 
 #### Composite works
 
-(1) With J.A. Tempère, q.v., *Diatomées du monde entier*, & *Diatomées collection J. Tempère & H. Peragallo*.
+- (1) With J.A. Tempère, q.v., *Diatomées du monde entier*, & *Diatomées collection J. Tempère & H. Peragallo*.
 
 #### Eponymy
 

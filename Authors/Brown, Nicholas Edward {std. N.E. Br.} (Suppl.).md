@@ -33,10 +33,10 @@ AG 5(1): 414; Barnhart 1: 263 (b. 11 Jul 1849, d. 25 Nov 1934); BJI 1: 7, 2: 21;
 
 #### Composite works
 
-(1) N.E. Brown compiler of *Supplement of the third edition*, vols. i-iv of J.E. Smith, *English botany*, 1892, see TL-2/12.221.
-(2) N.E. Brown contributed to H. Schinz ed., *Beitr. Kenntn. Afr. Flora* (neue Folge) XIII, Bull. Herb. Boissier ser. 2. 1(8): 777-778. 1901.
-(3) For contributions to Flora Capensis see W.H. Harvey, *Flora Capensis* 1860-1933 (TL-2/2448): *Valerianaceae*, *Ericaceae*, *Asclepiadaceae*, *Labiatae*, *Euphorbiaceae*, *Ulmaceae*, *Moraceae*, *Pontederiaceae*, *Flagellariaceae*, *Typhaceae*, *Eriocaulaceae*.
-(4) Id. D. Oliver, *Flora of tropical Africa* 1868-1937 (TL-2/7055): *Asclepiadaceae*, *Gentianaceae*, *Hydrophyllaceae Euphorbiaceae*, *Pontederiaceae*, *Rapateaceae*, *Typhaceae*, *Eriocaulaceae*, *Mayaceae* (in addenda).
+- (1) N.E. Brown compiler of *Supplement of the third edition*, vols. i-iv of J.E. Smith, *English botany*, 1892, see TL-2/12.221.
+- (2) N.E. Brown contributed to H. Schinz ed., *Beitr. Kenntn. Afr. Flora* (neue Folge) XIII, Bull. Herb. Boissier ser. 2. 1(8): 777-778. 1901.
+- (3) For contributions to Flora Capensis see W.H. Harvey, *Flora Capensis* 1860-1933 (TL-2/2448): *Valerianaceae*, *Ericaceae*, *Asclepiadaceae*, *Labiatae*, *Euphorbiaceae*, *Ulmaceae*, *Moraceae*, *Pontederiaceae*, *Flagellariaceae*, *Typhaceae*, *Eriocaulaceae*.
+- (4) Id. D. Oliver, *Flora of tropical Africa* 1868-1937 (TL-2/7055): *Asclepiadaceae*, *Gentianaceae*, *Hydrophyllaceae Euphorbiaceae*, *Pontederiaceae*, *Rapateaceae*, *Typhaceae*, *Eriocaulaceae*, *Mayaceae* (in addenda).
 
 #### Eponymy
 

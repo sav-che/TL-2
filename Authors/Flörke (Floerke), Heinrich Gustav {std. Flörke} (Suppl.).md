@@ -10,7 +10,9 @@
 
 #### Herbarium and types
 
-[[Collection B|B]] (first lichen herb. until 1816, originally at [[Collection ROST|ROST]], later at [[Collection B|B]], now destroyed), [[Collection ROST|ROST]] (later collections still extant), other material [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection LE|LE]]. – *Exsiccatae* (See TL-2/1: 847, which can be updated as follows): (1) *Cladoniarum exemplaria exsiccata, commentationem novam illustratia* (fascs. i-iii, nos. 1-60, Rostock 1829), additional set at [[Collection M|M]] (see G. Sayre, Mem. New York Bot. Gard. 19: 123. 1969). (2) *Deutsche Lichenum, gesammelt und mit Anmerkungen herausgegeben* (fascs. i-ix, 1-200, 43 p. text, fascs. 1-3 Berlin 1815, 4-10 Rostock 1819-1821)..., available on IDC 455/2 (see G. Sayre, Mem. New York Bot. Gard. 19: 124. 1969).
+[[Collection B|B]] (first lichen herb. until 1816, originally at [[Collection ROST|ROST]], later at [[Collection B|B]], now destroyed), [[Collection ROST|ROST]] (later collections still extant), other material [[Collection FH|FH]], [[Collection GOET|GOET]], [[Collection LE|LE]].
+*Exsiccatae* (See TL-2/1: 847, which can be updated as follows): (1) *Cladoniarum exemplaria exsiccata, commentationem novam illustratia* (fascs. i-iii, nos. 1-60, Rostock 1829), additional set at [[Collection M|M]] (see G. Sayre, Mem. New York Bot. Gard. 19: 123. 1969).
+- (2) *Deutsche Lichenum, gesammelt und mit Anmerkungen herausgegeben* (fascs. i-ix, 1-200, 43 p. text, fascs. 1-3 Berlin 1815, 4-10 Rostock 1819-1821)..., available on IDC 455/2 (see G. Sayre, Mem. New York Bot. Gard. 19: 124. 1969).
 
 #### Bibliography and biography
 

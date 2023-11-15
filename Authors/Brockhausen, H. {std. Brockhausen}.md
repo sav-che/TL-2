@@ -12,7 +12,7 @@ Unknown.
 
 #### Note
 
-(1) Not seen by us: *Die Flora des Teutoburger Waldes von Bevergern bis Brochterbeck *... 45. Jahresber. Westfäl. Prov.-Ver. Wiss. Kunst 1916/17: 21-28. Münster 1917. – See Matouschek (Wien), Bot. Centralbl. 140(23): 362-363. 10 Jun 1919.
+- (1) Not seen by us: *Die Flora des Teutoburger Waldes von Bevergern bis Brochterbeck *... 45. Jahresber. Westfäl. Prov.-Ver. Wiss. Kunst 1916/17: 21-28. Münster 1917. – See Matouschek (Wien), Bot. Centralbl. 140(23): 362-363. 10 Jun 1919.
 
 ### Publications
 

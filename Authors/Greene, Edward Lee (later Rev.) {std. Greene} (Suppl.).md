@@ -75,7 +75,7 @@ APN p. 241; Backer p. 243, 651; Barnhart 2: 81; Biol.-Dokum. 7: 85.344-85.353; B
 
 #### Note
 
-(1) *Landmarks*... 1909 (TL-2/1, nr. 2144) has been reprinted with the addition of a second part, formerly in manuscript, and other posthumous emendations:
+- (1) *Landmarks*... 1909 (TL-2/1, nr. 2144) has been reprinted with the addition of a second part, formerly in manuscript, and other posthumous emendations:
 *Reprint* \[*Part I* = *Vol. 1*\]: 1983,... Stanford, Calif. (Stanford Univ. Press), p. \[i\]-x, \[1\]-505.
 *Note*: (a) Frank N. Egerton (1936-x), "Editor's introduction", p. 3-17. (b) Robert Patrick McIntosh, "Edward Lee Greene: the man", p. 18-53 (incl. handwr., portr.). (c) Rogers McVaugh (1909-x), "Edward Lee Greene: an appraisal of his contribution to botany", p. 54-84. (d) Reprint of "Landmarks of botanical history..." (1909), p. \[85\]-415. (e) "Appendix A. Pre-Grecian knowledge of plants", p. 419-425. (f) "Appendix B. Medieval knowledge of plants", p. 426-452. (g) "Note to Part I", p. 453-505.
 \[*Part II* = *Vol. 2*\]: 1983,... p. \[unnumb. = p. \[505\] "Contents, Part II"\], \[506, blank\] \[507\]-1139. *Copies*: HH (n.v.), K (n.v.), LC (n.v.), MO (n.v.), NY (n.v.), US. *Note*: (a) E.L. Greene, "Preface", p. \[509\]-513. (b) "Appendix C. Botany in the seventeenth century", p. \[967\]-974. (c) "Notes to Part II", p. \[975\]-1035. (d) "Bibliography", p. \[1037\]-1109. (e) "Index \[to both parts\]", p. \[1111\]-1139.
@@ -96,8 +96,8 @@ APN p. 241; Backer p. 243, 651; Barnhart 2: 81; Biol.-Dokum. 7: 85.344-85.353; B
 
 #### Composite works
 
-(1) Contributed descriptions of new species and varieties to Edward S\[trieby\]. Steele (1850-1942), *Sixth list* of *additions* to the *flora* of *Washington, D.C.* and vicinity, Proc. Biol. Soc. Wash. 14: 47-86. 1901.
-(2) Reprinted "*Fraser's Catalogue*", which is treated here under its presumed author, Thomas Nuttall (1786-1959), see TL-2/3, nr. 6919.
+- (1) Contributed descriptions of new species and varieties to Edward S\[trieby\]. Steele (1850-1942), *Sixth list* of *additions* to the *flora* of *Washington, D.C.* and vicinity, Proc. Biol. Soc. Wash. 14: 47-86. 1901.
+- (2) Reprinted "*Fraser's Catalogue*", which is treated here under its presumed author, Thomas Nuttall (1786-1959), see TL-2/3, nr. 6919.
 
 ### Publications
 

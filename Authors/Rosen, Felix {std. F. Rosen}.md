@@ -12,8 +12,8 @@ Rosen, Felix (1863-1925), German (Leipzig-born) botanist; spent his youth in Jer
 
 #### Notes
 
-(1) After the death of Cohn (1898) Rosen had to leave the Breslau botanical institute from 1901-1906 because of difficulties with J.O. Brefeld. He returned only on 1 Apr 1906 as professor and director of the institute for plant physiology. The press notices of his appointment as extraordinary professor in 1902 are therefore not quite clear.
-(2) Friedrich Rosén (baron) (1834-1903) was a Russian (b. St. Petersburg)
+- (1) After the death of Cohn (1898) Rosen had to leave the Breslau botanical institute from 1901-1906 because of difficulties with J.O. Brefeld. He returned only on 1 Apr 1906 as professor and director of the institute for plant physiology. The press notices of his appointment as extraordinary professor in 1902 are therefore not quite clear.
+- (2) Friedrich Rosén (baron) (1834-1903) was a Russian (b. St. Petersburg)
 palaeobotanist.
 
 #### Bibliography and biography
@@ -35,9 +35,9 @@ AG 3: 231; Ainsworth p. 122, 321; Barnhart 3: 178 (b. 15 Mar 1863, d. 8 Aug 1925
 
 #### Composite works
 
-(1) Editor of *Beiträge zur Biologie der Pflanzen* 9(2), 1907-14(2) 1925.
-(2) *Charakterpflanzen des abyssinischen Hochlandes*, in G.H.H. Karsten & H. Schenk, Vegetationsbilder, ser. 7, Heft 5. Jena 1909, *pl. 25-30.*
-(3) F. Rosen contributed to Pauline Cohn's biography of her father Ferdinand Cohn, Breslau 1901, see e.g. p. 107-130.
+- (1) Editor of *Beiträge zur Biologie der Pflanzen* 9(2), 1907-14(2) 1925.
+- (2) *Charakterpflanzen des abyssinischen Hochlandes*, in G.H.H. Karsten & H. Schenk, Vegetationsbilder, ser. 7, Heft 5. Jena 1909, *pl. 25-30.*
+- (3) F. Rosen contributed to Pauline Cohn's biography of her father Ferdinand Cohn, Breslau 1901, see e.g. p. 107-130.
 
 #### Thesis
 

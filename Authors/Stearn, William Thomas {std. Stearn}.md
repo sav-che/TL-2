@@ -8,7 +8,8 @@ Stearn, William Thomas (1911-x), British botanist; apprentice antiquarian bookse
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Other material at [[Collection BH|BH]], [[Collection CGE|CGE]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection W|W]]. *Exsiccatae*: J.S.L. Gilmour & W.T. Stearn, *Herbarium florae cantabrigiense* and *Sertum cantabrigiense exsiccatum* (1933). – *Letters* at [[Collection G|G]].
+[[Collection BM|BM]]. – Other material at [[Collection BH|BH]], [[Collection CGE|CGE]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection W|W]].
+*Exsiccatae*: J.S.L. Gilmour & W.T. Stearn, *Herbarium florae cantabrigiense* and *Sertum cantabrigiense exsiccatum* (1933). – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 
@@ -34,29 +35,29 @@ Biol. J. Linn. Soc. 8(4): 299-318. 1976 (with index). – Stearn's contributions
 
 #### Composite works
 
-(1) Facsimile ed. with introduction, H.A. Duval, *Plantae succulentae in Horto alenconio*, 1939, see TL-2/1608.
-(2) Curtis's *Botanical Magazine index*, vol. 1-vol. 164, with F.J. Chittenden, London 1956.
-(3) C. Linnaeus, *Species plantarum* 1753, facsimile ed. 1957-1959, with introductions by W.T.S. and J.L. Heller. Roy. Society 140, 142. – See TL-2/4769.
-(4) C. Linnaeus, *Genera plantarum*, ed. 5, facsimile ed. with notes. 1960. – See TL-2/4714, 4778.
-(5) R. Brown, *Prodromus Florae Novae Hollandiae*, facsimile ed. with introduction. 1960.– See TL-2/825.
-(6) F. Kingdon-Ward, *Pilgrimage for plants* 1960, Biographical introduction and list of publications, p. 11-18, 181-186.
-(7) C. Linnaeus, *Mantissa plantarum*, facsimile ed. with notes, 1961. – See TL-2/4831.
-(8) *Catalogue of botanical books in the collection of R.M.M. Hunt*, introduction on botanical gardens and botanical literature in the eighteenth century, 2(1): xli-cxl. 1961.
-(9) *Three prefaces on Linnaeus and Robert Brown*, 1962, reprint of items 4, 5 and 7.
-(10) A. Arber, *Water plants*, introduction to reprint 1963, p. iii-xii.- See TL-2/147.
-(n) R. Bentham & J.D. Hooker, *Genera plantarum*. Facsimile ed. 1965, introduction 16 p. – See TL-2/429.
-(12) W. Turner, *Libellus, Names of Herbes*, facsimile ed. 1965.
-(13) A. Haworth, *Complete works on succulent plants*, facsimile ed. 1966, introduction 80 p., in vol. I. – See TL-2/2494.
-(14) C. Moench, *Methodus horti botanici et agri marburgensis*, facsimile ed. 1966, introduction, 16 p. – See TL-2/6167.
-(15) P. Miller, *The gardeners dictionary, abridged*, ed. 4, facsimile ed. 1969, introduction, 16 p. – See TL-2/6056.
-(16) W. Curtis, *A short history of the Brown-tail moth*, facsimile ed. 1969, introduction "William Curtis 1746-1799, botanist and entomologist, 12 p.
-(17) With W. Blunt, ed., *Captain Cook's florilegium*. A selection of engravings from the drawings of plants collected by Joseph Banks and Daniel Solander on Captain Cook's first voyage... London 1973.
-(18) Linnaeus's *Öland and Gotland Journey* 1741, translated from the Swedish edition 1745 by Marie Åsberg and W.T.S.... Biol. J. Linn. Soc. 5: 1-107, 109-220. 1973. – See TL-2/4737.
-(19) K.B. Presi, *Reliquiae haenkeanae*, facsimile ed. 1973, introduction 19 p. – See TL-2/8293.
-(20) J. Ray, *Synopsis methodica* facsimile ed. 1973, introduction 90 p. – See TL-2/4776. – Includes a facsimile of C. Linnaeus, *Fl. angl*. 1754.
-(21) A. von Hayek, *Prodr.fl. penins. balcan*., 3 vols. 1924-1933, facsimile ed. 1970, has a reprint of W.T. Stearn, *Hayek's* "*Prodromus*...", originally published J. Soc. Bibl. nat. Hist. 1: 117-119. Dec 1937. – See TL-2/2504.
-(22) With H.B. Drysdale Woodcock (q.v.), *Lilies of the world*, 1950.
-(23) Contributed *Martyniaceae* and *Myristicaceae* to E.R. Farr et al., *Index nominum genericorum* 1979.
+- (1) Facsimile ed. with introduction, H.A. Duval, *Plantae succulentae in Horto alenconio*, 1939, see TL-2/1608.
+- (2) Curtis's *Botanical Magazine index*, vol. 1-vol. 164, with F.J. Chittenden, London 1956.
+- (3) C. Linnaeus, *Species plantarum* 1753, facsimile ed. 1957-1959, with introductions by W.T.S. and J.L. Heller. Roy. Society 140, 142. – See TL-2/4769.
+- (4) C. Linnaeus, *Genera plantarum*, ed. 5, facsimile ed. with notes. 1960. – See TL-2/4714, 4778.
+- (5) R. Brown, *Prodromus Florae Novae Hollandiae*, facsimile ed. with introduction. 1960.– See TL-2/825.
+- (6) F. Kingdon-Ward, *Pilgrimage for plants* 1960, Biographical introduction and list of publications, p. 11-18, 181-186.
+- (7) C. Linnaeus, *Mantissa plantarum*, facsimile ed. with notes, 1961. – See TL-2/4831.
+- (8) *Catalogue of botanical books in the collection of R.M.M. Hunt*, introduction on botanical gardens and botanical literature in the eighteenth century, 2(1): xli-cxl. 1961.
+- (9) *Three prefaces on Linnaeus and Robert Brown*, 1962, reprint of items 4, 5 and 7.
+- (10) A. Arber, *Water plants*, introduction to reprint 1963, p. iii-xii.- See TL-2/147.
+- (11) R. Bentham & J.D. Hooker, *Genera plantarum*. Facsimile ed. 1965, introduction 16 p. – See TL-2/429.
+- (12) W. Turner, *Libellus, Names of Herbes*, facsimile ed. 1965.
+- (13) A. Haworth, *Complete works on succulent plants*, facsimile ed. 1966, introduction 80 p., in vol. I. – See TL-2/2494.
+- (14) C. Moench, *Methodus horti botanici et agri marburgensis*, facsimile ed. 1966, introduction, 16 p. – See TL-2/6167.
+- (15) P. Miller, *The gardeners dictionary, abridged*, ed. 4, facsimile ed. 1969, introduction, 16 p. – See TL-2/6056.
+- (16) W. Curtis, *A short history of the Brown-tail moth*, facsimile ed. 1969, introduction "William Curtis 1746-1799, botanist and entomologist, 12 p.
+- (17) With W. Blunt, ed., *Captain Cook's florilegium*. A selection of engravings from the drawings of plants collected by Joseph Banks and Daniel Solander on Captain Cook's first voyage... London 1973.
+- (18) Linnaeus's *Öland and Gotland Journey* 1741, translated from the Swedish edition 1745 by Marie Åsberg and W.T.S.... Biol. J. Linn. Soc. 5: 1-107, 109-220. 1973. – See TL-2/4737.
+- (19) K.B. Presi, *Reliquiae haenkeanae*, facsimile ed. 1973, introduction 19 p. – See TL-2/8293.
+- (20) J. Ray, *Synopsis methodica* facsimile ed. 1973, introduction 90 p. – See TL-2/4776. – Includes a facsimile of C. Linnaeus, *Fl. angl*. 1754.
+- (21) A. von Hayek, *Prodr.fl. penins. balcan*., 3 vols. 1924-1933, facsimile ed. 1970, has a reprint of W.T. Stearn, *Hayek's* "*Prodromus*...", originally published J. Soc. Bibl. nat. Hist. 1: 117-119. Dec 1937. – See TL-2/2504.
+- (22) With H.B. Drysdale Woodcock (q.v.), *Lilies of the world*, 1950.
+- (23) Contributed *Martyniaceae* and *Myristicaceae* to E.R. Farr et al., *Index nominum genericorum* 1979.
 
 ### Publications
 

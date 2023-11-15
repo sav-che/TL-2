@@ -23,7 +23,7 @@ Barnhart 1: 261; BL 1: 183, 190.
 
 #### Composite works
 
-(1) *Flora of Southeastern Polynesia* vol. 2, publ. 30 Dec 1931, with Forest B.H. Brown, q.v.
+- (1) *Flora of Southeastern Polynesia* vol. 2, publ. 30 Dec 1931, with Forest B.H. Brown, q.v.
 
 ### Publications
 

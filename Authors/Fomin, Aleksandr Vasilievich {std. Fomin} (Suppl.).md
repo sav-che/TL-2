@@ -36,9 +36,9 @@ APN p. 205; Barnhart 1: 554; Biol.-Dokum. 6: 70.306-70.307; Bossert p. 129; CSP 
 
 #### Composite works
 
-(1) Co-editor with Nikolai Ivanovich Kuznetsov (1861-1932) and Nikolai Adolfovitch Bush (1869-1941), *Flora Caucasica critica* \[=*Materialy dlia flory Kavkaza*\]... 1901-1913, 4 vols.; sole author of Cucurbitaceae and Campanulaceae (see nr. 34.973 below) and co-author with Kuznetsov and Bush, *Pteridophyta-Filicales*,... vol. 1(1): 1-248, \[i\]-xlvi. 1911-1913.
-(2) Founding editor of the *Flora URSR* \[=*Flora of Ukrainian SSR*\], but died before the first vol. which he edited was published; succeeded by Eugen Ivanovitsch Bordzilovskii et al. as editors, who published 12 vols., 1936-1965 incl. a second edition of vol. 1.
-(3) *Hymenophyllaceae, Polypodiaceae, Osmundaceae, Salviniaceae, Marsiliaceae* and *Ophioglossaceae in* V.L. Komarov et al. (eds.), *Fl. URSS*, vol. 1: 17-100. \[Jan\] 1934, see TL-2/2, nr. 3857.
+- (1) Co-editor with Nikolai Ivanovich Kuznetsov (1861-1932) and Nikolai Adolfovitch Bush (1869-1941), *Flora Caucasica critica* \[=*Materialy dlia flory Kavkaza*\]... 1901-1913, 4 vols.; sole author of Cucurbitaceae and Campanulaceae (see nr. 34.973 below) and co-author with Kuznetsov and Bush, *Pteridophyta-Filicales*,... vol. 1(1): 1-248, \[i\]-xlvi. 1911-1913.
+- (2) Founding editor of the *Flora URSR* \[=*Flora of Ukrainian SSR*\], but died before the first vol. which he edited was published; succeeded by Eugen Ivanovitsch Bordzilovskii et al. as editors, who published 12 vols., 1936-1965 incl. a second edition of vol. 1.
+- (3) *Hymenophyllaceae, Polypodiaceae, Osmundaceae, Salviniaceae, Marsiliaceae* and *Ophioglossaceae in* V.L. Komarov et al. (eds.), *Fl. URSS*, vol. 1: 17-100. \[Jan\] 1934, see TL-2/2, nr. 3857.
 
 ### Publications
 

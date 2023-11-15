@@ -46,11 +46,11 @@ Barnhart 1: 490; BL 1: 163, 294; BM 2: 501, 6: 209; Bossert p. 111; CSP 14: 763;
 
 #### Composite works
 
-(1): Seymour, A.B. and F.S. Earle, *Economic fungi*, see TL-2/5: no. 11.835.
-(2): Underwood, L.M. and F.S. Earle, *A preliminary list of Alabama fungi*, see TL-2/6: no. 15.568.
-(3) Greene, F.C., *Pl. baker.* 2: 1-30, see TL-2/1: no. 2142 (Fungi).
-(4) Burrill, T.J., and F.S. Earle, Parasitic fungi of Illinois part II. *Erieipheae*, Bull. Illinois State Lab. Nat. hist. 2(6): 1-46. 1887.
-(5) S.M. Tracy and F.S. Earle, *Mississipi fungi*, see TL-2/6: no. 14.831.
+- (1) Seymour, A.B. and F.S. Earle, *Economic fungi*, see TL-2/5: no. 11.835.
+- (2) Underwood, L.M. and F.S. Earle, *A preliminary list of Alabama fungi*, see TL-2/6: no. 15.568.
+- (3) Greene, F.C., *Pl. baker.* 2: 1-30, see TL-2/1: no. 2142 (Fungi).
+- (4) Burrill, T.J., and F.S. Earle, Parasitic fungi of Illinois part II. *Erieipheae*, Bull. Illinois State Lab. Nat. hist. 2(6): 1-46. 1887.
+- (5) S.M. Tracy and F.S. Earle, *Mississipi fungi*, see TL-2/6: no. 14.831.
 
 ### Publications
 

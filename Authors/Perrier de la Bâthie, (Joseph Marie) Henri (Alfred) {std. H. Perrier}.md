@@ -25,9 +25,9 @@ Barnhart 3: 70; BJI 2: 133; BM 8: 1000; Kew 4: 276-277; Plesch p. 359; Tucker 1:
 
 #### Composite works
 
-(1) Founder and editor, with René Viguier (1880-1931) and Henri Chermezon (1885-1939) of *Archives de botanique, Bulletin mensuel*, Caen, vols. 1-4, 1927-1930.
-(2) Contributed several treatments to H. Humbert, *Fl. Madagascar*, e.g. 140. *Flacourtiacées*, \[1\]-131. 1946, 142. *Turnéracées*, \[1\]-13, 1950, 143. *Passifloracées*, p. \[1\]-49. 1945, 151. *Combretacées*, p. \[1\]-83. 1954, 152. *Myrtacées*, p. \[1\]-80. 1953, 153. *Mélastomacées*, p. \[1\]-326. 1951, 161. *Myrsinacées*, p. \[1\]-148. 1953, 165. *Ébénacées*, p. \[1\]-137. 1952, 166. *Oléacées*, p. \[1\]-\[89\]. 1952, 178. *Bignoniacées*, p. \[1\]-91. 1938, 181. *Lentibulariacées*, p. \[1\]-22. 1955. 49. *Orchidées*, p. \[1\]-846. 1939-1941.
-(3) With Raymond-Hamet, q.v., *Nouv. Contr. Crassulac. malgach.* 1914.
+- (1) Founder and editor, with René Viguier (1880-1931) and Henri Chermezon (1885-1939) of *Archives de botanique, Bulletin mensuel*, Caen, vols. 1-4, 1927-1930.
+- (2) Contributed several treatments to H. Humbert, *Fl. Madagascar*, e.g. 140. *Flacourtiacées*, \[1\]-131. 1946, 142. *Turnéracées*, \[1\]-13, 1950, 143. *Passifloracées*, p. \[1\]-49. 1945, 151. *Combretacées*, p. \[1\]-83. 1954, 152. *Myrtacées*, p. \[1\]-80. 1953, 153. *Mélastomacées*, p. \[1\]-326. 1951, 161. *Myrsinacées*, p. \[1\]-148. 1953, 165. *Ébénacées*, p. \[1\]-137. 1952, 166. *Oléacées*, p. \[1\]-\[89\]. 1952, 178. *Bignoniacées*, p. \[1\]-91. 1938, 181. *Lentibulariacées*, p. \[1\]-22. 1955. 49. *Orchidées*, p. \[1\]-846. 1939-1941.
+- (3) With Raymond-Hamet, q.v., *Nouv. Contr. Crassulac. malgach.* 1914.
 
 #### Memorial volume
 

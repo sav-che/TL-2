@@ -26,7 +26,7 @@ Barnhart 1: 300 (b. 21 Feb 1822, Montcornet, Aisne, France, d. 24 Mar 1896, Le C
 
 #### Notes
 
-(1) On TL-2/947, *Catalogue raisonné*... *Ardennes*. Callay died 1896; by various French authors not precisely mentioned, the preface was of E. Bourquelot, geographic botany of E. Bestel, other names are not mentioned. See Bull. Soc. bot. France 45 (Bibl.): 95. 1898.
-(2) Dr. Jacques Duvigneaud informed us after the publication of TL-2/1, on 20 Jan 1977, about the many mistakes in the *Catalogue raisonné*. The book should be used with great caution. We point at the third note on this work as given by Jacques Duvigneaud: *Espèces douteuses*.
-(3) Jacques Duvigneaud, *Espèces douteuses ou citées par erreur dans le Département des Ardennes* published in Bull. Soc. Hist. nat. Ardennes 54: 61-66. 1964 (i.e. 1965), mainly dealing with the many mistakes by A. Callay q.v., with thanks to Dr. Duvigneaud.
+- (1) On TL-2/947, *Catalogue raisonné*... *Ardennes*. Callay died 1896; by various French authors not precisely mentioned, the preface was of E. Bourquelot, geographic botany of E. Bestel, other names are not mentioned. See Bull. Soc. bot. France 45 (Bibl.): 95. 1898.
+- (2) Dr. Jacques Duvigneaud informed us after the publication of TL-2/1, on 20 Jan 1977, about the many mistakes in the *Catalogue raisonné*. The book should be used with great caution. We point at the third note on this work as given by Jacques Duvigneaud: *Espèces douteuses*.
+- (3) Jacques Duvigneaud, *Espèces douteuses ou citées par erreur dans le Département des Ardennes* published in Bull. Soc. Hist. nat. Ardennes 54: 61-66. 1964 (i.e. 1965), mainly dealing with the many mistakes by A. Callay q.v., with thanks to Dr. Duvigneaud.
 

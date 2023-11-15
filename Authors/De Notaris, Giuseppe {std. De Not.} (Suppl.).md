@@ -53,9 +53,9 @@ AG 2(1): 227, 5(2): 136; Barnhart 1: 443 (b. 18 Apr 1805, Milano, d. 22 Jan 1877
 
 #### Composite works
 
-(1) G.G. Moris and G. De Notaris, *Florula caprariae*... Torino 1839, see TL-2/6330. – *Copy*: MO.
-(2) G.G. Balsamo-Crivelli (Joseph Balsamo) and G. De Notaris, *Syn. musc. mediol.*... Milano 1833, see TL-2/291. – *Copy*: L.
-(3) G.G. Balsamo-Crivelli (Joseph Balsamo) and G. De Notaris, *Prodr. bryol. mediol.*... Milano 1834, see TL-2/292. – *Copies*: L; IDC 5314/2.
+- (1) G.G. Moris and G. De Notaris, *Florula caprariae*... Torino 1839, see TL-2/6330. – *Copy*: MO.
+- (2) G.G. Balsamo-Crivelli (Joseph Balsamo) and G. De Notaris, *Syn. musc. mediol.*... Milano 1833, see TL-2/291. – *Copy*: L.
+- (3) G.G. Balsamo-Crivelli (Joseph Balsamo) and G. De Notaris, *Prodr. bryol. mediol.*... Milano 1834, see TL-2/292. – *Copies*: L; IDC 5314/2.
 
 ### Publications
 

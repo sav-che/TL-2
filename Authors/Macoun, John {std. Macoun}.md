@@ -8,7 +8,8 @@ Macoun, John (1831-1920), Irish-born naturalist who went to Canada in 1850; prof
 
 #### Herbarium and types
 
-[[Collection CAN|CAN]]; duplicates see IH. Exsiccatae: *Canadian lichens*, nos. 1-200 (-x?), for details on this and other series see Sayre (1969, 1971). Type specimens of mosses described by N. C. Kindberg at [[Collection S|S]]. For details see Crum and Steere 1977.
+[[Collection CAN|CAN]]; duplicates see IH.
+*Exsiccatae*: *Canadian lichens*, nos. 1-200 (-x?), for details on this and other series see Sayre (1969, 1971). Type specimens of mosses described by N. C. Kindberg at [[Collection S|S]]. For details see Crum and Steere 1977.
 
 #### Bibliography and biography
 

@@ -21,10 +21,10 @@ Barnhart 3: 338 (b. 12 Nov 1850, d. 21 Mai 1922); BL 2: 173; Hortus 3: 1205; Urb
 
 #### Composite works
 
-(1) Indexes, *Bot. Jahrb.* vols. 1-25 (1902), 26-30 (902), 31-35 (1905).
-(2) Indexes, *Ber. deut. bot. Ges.* vols. 1-37; general index for vols. 1-25.
-(3) Many of the indexes to Engler's *Pflanzenreich*, up to 1922, were made by Strauss.
-(4) Contributed to *Gartenflora* 59-68, 1910-1919.
+- (1) Indexes, *Bot. Jahrb.* vols. 1-25 (1902), 26-30 (902), 31-35 (1905).
+- (2) Indexes, *Ber. deut. bot. Ges.* vols. 1-37; general index for vols. 1-25.
+- (3) Many of the indexes to Engler's *Pflanzenreich*, up to 1922, were made by Strauss.
+- (4) Contributed to *Gartenflora* 59-68, 1910-1919.
 
 #### Eponymy
 

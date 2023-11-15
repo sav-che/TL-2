@@ -40,20 +40,20 @@ P. Geissler, Candollea 37(1): 203-217. 1982.
 #### Composite works
 
 Stephani contributed *Hepaticae* to numerous composite works. They are listed in the bibliography by Geissler (1982). We mention only some of the most important items published in bibliographically independent items.
-(1) \[Hepaticae\], *in* E. Delaware et al., *Florule de l'Ile Miquelon*, Lyon 1888, p. 64-66.
-(2) \[Hepaticae\], *in* A. Geheeb, *Neu. Beitr. Moosfl. Neu-Guinea* 1889, (Bibl. bot. 13), p. 12.
-(3) *Die Lebermoose des Kilimandscharo-Gebietes, in* H.H. Meyer, *Ostafrikanische Gletscherfahrten*, Anhang 5: 1-2. Leipzig 1891.
-(4) With G. Lindau, *Hepaticae, in* A. Engler, *Die Pflanzenwelt Ostafrikas* 5(c): 62-66. 1895.
-(5) Hepaticae, *in* E. Bescherelle, *Muscinées in* E.J. de Cordemoy, *Fl. Réunion* 2-16. 1895.
-(6) \[Hepaticae, identifications in\] F. Renauld, *Prodr.fl. bryol. Madagascar* 279-290. 1897.
-(7) *Lebermoose aus dem Umanakdistrict, in* Bot. Erg. Ges. Erdk. Grönlandexp. A: 62. 1897.
-(8) *Hepatics, in* \[W.P. Hiern\], *Cat. Afr. pl. Welwitsch* 2: 310-321. 1901.
-(9) *Hepaticae novae Dussianae, in* I. Urban, Symb. ant. 2: 469-472. 1 Oct 1901, 3(2): 275-279. 15 Aug 1902.
-(10) With V. Schiffner, *Hepaticae, in* K. Schumann & K. Lauterbach, *Fl. deut. Schutzgeb. Südsee* 69-79. 1901.
-(11) \[Hepaticae, ident. in\] A. Duss, *Fl. crypt. Antilles franç*. \[129\]-169. 1904.
-(12) *Lebermoose, Hepaticae, in* H. Meyer, *In den Hoch-Anden von Ecuador*, Berlin 1907, p. 516-517.
-(13) *Hepaticae, in* C. Chilton, *Subantarct. Isl. New Zealand* 2: 532-534. 1909.
-(14) *Hepaticae von Neu-Caledonien, in* F. Sarasin & J. Roux, *Nova Caledonia, B. Botanik* 1(1, 3): 17-19. 1914, 1(2): 110 1920.
+- (1) \[Hepaticae\], *in* E. Delaware et al., *Florule de l'Ile Miquelon*, Lyon 1888, p. 64-66.
+- (2) \[Hepaticae\], *in* A. Geheeb, *Neu. Beitr. Moosfl. Neu-Guinea* 1889, (Bibl. bot. 13), p. 12.
+- (3) *Die Lebermoose des Kilimandscharo-Gebietes, in* H.H. Meyer, *Ostafrikanische Gletscherfahrten*, Anhang 5: 1-2. Leipzig 1891.
+- (4) With G. Lindau, *Hepaticae, in* A. Engler, *Die Pflanzenwelt Ostafrikas* 5(c): 62-66. 1895.
+- (5) Hepaticae, *in* E. Bescherelle, *Muscinées in* E.J. de Cordemoy, *Fl. Réunion* 2-16. 1895.
+- (6) \[Hepaticae, identifications in\] F. Renauld, *Prodr.fl. bryol. Madagascar* 279-290. 1897.
+- (7) *Lebermoose aus dem Umanakdistrict, in* Bot. Erg. Ges. Erdk. Grönlandexp. A: 62. 1897.
+- (8) *Hepatics, in* \[W.P. Hiern\], *Cat. Afr. pl. Welwitsch* 2: 310-321. 1901.
+- (9) *Hepaticae novae Dussianae, in* I. Urban, Symb. ant. 2: 469-472. 1 Oct 1901, 3(2): 275-279. 15 Aug 1902.
+- (10) With V. Schiffner, *Hepaticae, in* K. Schumann & K. Lauterbach, *Fl. deut. Schutzgeb. Südsee* 69-79. 1901.
+- (11) \[Hepaticae, ident. in\] A. Duss, *Fl. crypt. Antilles franç*. \[129\]-169. 1904.
+- (12) *Lebermoose, Hepaticae, in* H. Meyer, *In den Hoch-Anden von Ecuador*, Berlin 1907, p. 516-517.
+- (13) *Hepaticae, in* C. Chilton, *Subantarct. Isl. New Zealand* 2: 532-534. 1909.
+- (14) *Hepaticae von Neu-Caledonien, in* F. Sarasin & J. Roux, *Nova Caledonia, B. Botanik* 1(1, 3): 17-19. 1914, 1(2): 110 1920.
 
 #### Handwriting
 

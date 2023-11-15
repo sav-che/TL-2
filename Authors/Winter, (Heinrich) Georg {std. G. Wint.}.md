@@ -10,11 +10,11 @@ Winter, \[Heinrich\] Georg (1848-1887), German (Sachsen) mycologist, son of the 
 
 [[Collection B|B]] (partly extant). – Material in most herbaria in series of exsiccatae, see below. – Important sets of material in [[Collection GOET|GOET]], [[Collection GFW|GFW]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection MSTR|MSTR]], [[Collection PC|PC]], [[Collection WRSL|WRSL]].
 *Exsiccatae*: (1) With Johannes Kunze (x-1881, TL-2/2: 705) *Fungi selecti exsiccati* 1876-1880, nos. 1-400, 501-600. Sets at [[Collection B|B]] (mainly destr.), [[Collection BERN|BERN]], [[Collection BPI|BPI]], [[Collection K|K]] ([[Collection BM|BM]]), [[Collection C|C]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection M|M]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection UPS|UPS]]. – For details see D. Pfister, Fung. exsicc. (in press). Nos. 301-400 and 501-600 are identical with Fungi helvetici 1-100 and 101-200. Nos. 401-500 never published. – See also IH 2: 396.
-(2) *Fungi helvetici exsiccati*, cent. 1-2, nos. 1-200 and suppl. 1-100 (1880) (nos. 1-200 also as *Fungi selecti exsiccati*, see above). Sets at [[Collection B|B]], [[Collection FH|FH]]; for sets of cent. 1-2 only see also above.
-(3) *Fungi europaei et extraeuropaei exsiccati*, cent. 27-36, 1881-1886, see D.H. Pfister, Mycotaxon 23: 65-67. 1985 (no. v).
-(4) Published fasc. 28-29 of *G.L.* Rabenhorst, *Bryotheca europaea*, see TL-2/4: 465.
-(5) Published decades 258-260 of G.L. Rabenhorst, *Die Algen Europa's*. See TL-2/4: 465.
-(6) *Schweizerische Kryptogamen* ed. B. Wartmann & G. Winter, nos. 1-750, fasc. 1-15, 1862-1882.
+- (2) *Fungi helvetici exsiccati*, cent. 1-2, nos. 1-200 and suppl. 1-100 (1880) (nos. 1-200 also as *Fungi selecti exsiccati*, see above). Sets at [[Collection B|B]], [[Collection FH|FH]]; for sets of cent. 1-2 only see also above.
+- (3) *Fungi europaei et extraeuropaei exsiccati*, cent. 27-36, 1881-1886, see D.H. Pfister, Mycotaxon 23: 65-67. 1985 (no. v).
+- (4) Published fasc. 28-29 of *G.L.* Rabenhorst, *Bryotheca europaea*, see TL-2/4: 465.
+- (5) Published decades 258-260 of G.L. Rabenhorst, *Die Algen Europa's*. See TL-2/4: 465.
+- (6) *Schweizerische Kryptogamen* ed. B. Wartmann & G. Winter, nos. 1-750, fasc. 1-15, 1862-1882.
 *Letters* at [[Collection FH|FH]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
@@ -36,11 +36,11 @@ ADB 43: 468-470; Barnhart 3: 568 (b. 1 Oct 1848, d. 16 Aug 1887); Biol.-Dokum. 1
 
 #### Composite works
 
-(1) Editor, *Hedwigia* vols. 18-26, 1879-1887.
-(2) R*abenh. Krypt.-Fl. ed. 2*, author of vols. 1(1), 1(2), see TL-2/8450; IDC 5399 (1-36).
-(3) Collaborator, \[J.\] A. Schenk, Handb. Bot. 1879-1890, TL-2/10.561.
-(4) Contributed to G.B. Neumayer, *Int. Polarforsch., Deut. Exped.* 1890, TL-2/6760 (with B. Stein, in 2: 93-96. 1890, *Pilze von Kingua-Fjord, Pilze*).
-(5) *Fungi, in*\]. Henriques, *Flora de S. Thomé* 1886 (Bot. Soc. Brot. Coimbra).
+- (1) Editor, *Hedwigia* vols. 18-26, 1879-1887.
+- (2) R*abenh. Krypt.-Fl. ed. 2*, author of vols. 1(1), 1(2), see TL-2/8450; IDC 5399 (1-36).
+- (3) Collaborator, \[J.\] A. Schenk, Handb. Bot. 1879-1890, TL-2/10.561.
+- (4) Contributed to G.B. Neumayer, *Int. Polarforsch., Deut. Exped.* 1890, TL-2/6760 (with B. Stein, in 2: 93-96. 1890, *Pilze von Kingua-Fjord, Pilze*).
+- (5) *Fungi, in*\]. Henriques, *Flora de S. Thomé* 1886 (Bot. Soc. Brot. Coimbra).
 
 #### Eponymy
 

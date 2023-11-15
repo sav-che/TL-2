@@ -45,11 +45,11 @@ AG 2(1): 172, 535, 5(1): 165, 795, 6(2): 942, 11 (ed. 2): 167, 12(3): 261; Backe
 
 #### Composite works
 
-(1) *Orobanchaceae, in* A.P. de Candolle, Prodr. 11: 1-45, 717-720. 25 Nov 1847.
-(2) With Henri Margot (1807-1894): *Essai fl. Zante*, 1839-1840, see TL-2/5405.
-(3) With Pierre Edmond Boissier (1810-1885): *Pugill. pl. Afr. bor. Hispan.* 1852, see TL-2/608; also published in Bibl. univ. Genève. Jan 1852.
-(4) With id. *Diagn. pl. nov. hisp.* 1842, see TL-2/606.
-(5) With id. *Diagn. pl. orient.* 1842-1859, see TL-2/607.
+- (1) *Orobanchaceae, in* A.P. de Candolle, Prodr. 11: 1-45, 717-720. 25 Nov 1847.
+- (2) With Henri Margot (1807-1894): *Essai fl. Zante*, 1839-1840, see TL-2/5405.
+- (3) With Pierre Edmond Boissier (1810-1885): *Pugill. pl. Afr. bor. Hispan.* 1852, see TL-2/608; also published in Bibl. univ. Genève. Jan 1852.
+- (4) With id. *Diagn. pl. nov. hisp.* 1842, see TL-2/606.
+- (5) With id. *Diagn. pl. orient.* 1842-1859, see TL-2/607.
 
 #### Note
 

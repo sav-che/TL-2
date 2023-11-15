@@ -42,9 +42,9 @@ Aa 16: 531-532 (b. 17 Nov 1704; AG 5(2): 50; Backer p. 501 (epon.); Barnhart 3: 
 
 #### Composite works
 
-(1) *Chionanthus*, Linnaeus, Gen. pl. 335. 1737; *Adenanthera, Acalypha, Phaca, in* Linnaeus Coroll. gen. 7, 13, 19. 1737; *Achyronia, in* Linnaeus Gen. pl. ed. 2. 346. 1742; *Randia, Cyanella*, ib. ed. 5. 74, 149. 1754.
-(2) A set of 40 drawings and accompanying etchings of mostly African Erica species is referred to as *Ericetum africanum* of A. van Royen. The original drawings are at L, format 26.7-28 x 21-21.8 cm, numbered *1-10, 12-29, 29.1, 30-40*, unsigned. The etchings are marked "P: Cattell: del." and "J: v: d: Spyk fecit", the set of etchings at L has no. 11 but lacks 16. Corrections in the handwriting of A. van Royen show that this was a series of proofs. The original herbarium specimens in the herb. van Royen(L) of circa 30 plates have been traced. The drawings follow the specimens closely. \[Information P.W. Leenhouts, Leiden\]. – Another set of etchings is reported from BM(NH).
-(3) Preface to P. Miller, *Groot kruidk. woordenb.* 1745, TL-2/6047.
+- (1) *Chionanthus*, Linnaeus, Gen. pl. 335. 1737; *Adenanthera, Acalypha, Phaca, in* Linnaeus Coroll. gen. 7, 13, 19. 1737; *Achyronia, in* Linnaeus Gen. pl. ed. 2. 346. 1742; *Randia, Cyanella*, ib. ed. 5. 74, 149. 1754.
+- (2) A set of 40 drawings and accompanying etchings of mostly African Erica species is referred to as *Ericetum africanum* of A. van Royen. The original drawings are at L, format 26.7-28 x 21-21.8 cm, numbered *1-10, 12-29, 29.1, 30-40*, unsigned. The etchings are marked "P: Cattell: del." and "J: v: d: Spyk fecit", the set of etchings at L has no. 11 but lacks 16. Corrections in the handwriting of A. van Royen show that this was a series of proofs. The original herbarium specimens in the herb. van Royen(L) of circa 30 plates have been traced. The drawings follow the specimens closely. \[Information P.W. Leenhouts, Leiden\]. – Another set of etchings is reported from BM(NH).
+- (3) Preface to P. Miller, *Groot kruidk. woordenb.* 1745, TL-2/6047.
 
 #### Handwriting
 

@@ -24,9 +24,9 @@ Barnhart 3: 510; BM 5: 2344; Herder p. 149, 152; Hortus 3: 1207; Jackson p. 48, 
 
 #### Composite works
 
-(1) Editor of the Dutch horticultural journals *Sempervirens* (1872-1875, 1884-1897), *Nederlandsch Tuinbouwblad Sempervirens* (1897-1905), *Sieboldia* (1875-1884).
-(2) Collaborator, C.A.J.A. Oudemans, *Neerl. pl.-tuin* 1865-1867, TL-2/7148.
-(3) Translated C.J. Petzold, *Die Rose*, ihre Geschichte, 1874 into Dutch: *De Roos*, hare geschiedenis,... Leiden, E.J. Brill, 1877, 86 p.
+- (1) Editor of the Dutch horticultural journals *Sempervirens* (1872-1875, 1884-1897), *Nederlandsch Tuinbouwblad Sempervirens* (1897-1905), *Sieboldia* (1875-1884).
+- (2) Collaborator, C.A.J.A. Oudemans, *Neerl. pl.-tuin* 1865-1867, TL-2/7148.
+- (3) Translated C.J. Petzold, *Die Rose*, ihre Geschichte, 1874 into Dutch: *De Roos*, hare geschiedenis,... Leiden, E.J. Brill, 1877, 86 p.
 
 #### Note
 

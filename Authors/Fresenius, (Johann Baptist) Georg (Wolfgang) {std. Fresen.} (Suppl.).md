@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection FR|FR]] (some destroyed). – *Exsiccatae*: Fresenius contributed to G.L. Rabenhorst, *Algen Europa's*, see TL-2/4: 465, exsiccata (15).
+[[Collection FR|FR]] (some destroyed).
+*Exsiccatae*: Fresenius contributed to G.L. Rabenhorst, *Algen Europa's*, see TL-2/4: 465, exsiccata (15).
 
 #### Bibliography and biography
 
@@ -36,7 +37,7 @@ ADB 7: 352-353; Ainsworth p. 176; Andrews p. 265; APN p. 210; Backer p. 650; Bai
 
 #### Note
 
-(1) The entry for *Beitr. Fl. Abyssin.*... 1836-1845 (TL-2/1, nr. 1858) can be corrected as follows:
+- (1) The entry for *Beitr. Fl. Abyssin.*... 1836-1845 (TL-2/1, nr. 1858) can be corrected as follows:
 *Collector*: Rüppell, Eduard (1794-1884), see TL-2/4: 978-979 and IH 2: 796.
 
 |Part	|Museum	|pages	|*plates*	|dates	|Flora|

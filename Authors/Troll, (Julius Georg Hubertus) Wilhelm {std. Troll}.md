@@ -31,13 +31,13 @@ Barnhart 3: 402; BFM p. 321-322 (index); Biol.-Dokum. 18: 9278-9380; BJI 2: 179;
 
 #### Composite works
 
-(1) *Bryophyta, in* M. Hirmer, *Handb. Paläobot*. 1927 (TL-2/2789), p. 137-146.
-(2) Editor, *Hercynia*, Abhandlungen der bot. Vereinigung Mitteldeutschlands, 1937-1944.
-(3) *Hymenophytum*, map 45 with text in E. Hannig & H. Winkler, eds., *Pflanzenareale* 3(5). 1932.
-(4) *Gestalt und Gesetz, in* Festschrift Karl Goebel, Flora 118-119: 536-565. 1925.
-(5) *Blatt*, in *Handw*.-*Buch Naturw*. ed. 2. 1: \[102\]-1056. 1931.
-(6) With I. Haeckel, *Botanische Ergebnisse der deutschen Hindukusch-Expedition* 1935, Beih. Repert. sp. nov. 108(1). 1938.
-(7) Editor, with O. Renner, *Festschrift zum* siebzigsten *Geburtstage von George Karsten*, Flora n.s. 38, 1933.
+- (1) *Bryophyta, in* M. Hirmer, *Handb. Paläobot*. 1927 (TL-2/2789), p. 137-146.
+- (2) Editor, *Hercynia*, Abhandlungen der bot. Vereinigung Mitteldeutschlands, 1937-1944.
+- (3) *Hymenophytum*, map 45 with text in E. Hannig & H. Winkler, eds., *Pflanzenareale* 3(5). 1932.
+- (4) *Gestalt und Gesetz, in* Festschrift Karl Goebel, Flora 118-119: 536-565. 1925.
+- (5) *Blatt*, in *Handw*.-*Buch Naturw*. ed. 2. 1: \[102\]-1056. 1931.
+- (6) With I. Haeckel, *Botanische Ergebnisse der deutschen Hindukusch-Expedition* 1935, Beih. Repert. sp. nov. 108(1). 1938.
+- (7) Editor, with O. Renner, *Festschrift zum* siebzigsten *Geburtstage von George Karsten*, Flora n.s. 38, 1933.
 
 #### Note
 

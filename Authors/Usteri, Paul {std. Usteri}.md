@@ -37,10 +37,10 @@ ADB 39: 399-408 (W. Oechsli); AG 3: 234; Backer p. 606; Barnhart 3: 418; BM 5: 2
 
 #### Composite works
 
-(1) With J.J. Roemer editor of *Magazin für die Botanik* 1787-1791, see TL-2/9400. – Continued by Usteri as *Ann. Bot.*, see below.
-(2) A.L. Jussieu, *Genera plantarum*, Zürich edition, 1791, edited, with annotations, by Usteri, see TL-2/3468.
-(3) With J.J. Roemer, editor of an octavo edition of J. Dickson, *Fasc. pl. crypt. brit.*, 1785-1790, Zürich TL-2/1442 and composite works (2) sub J.J. Roemer.
-(4) Editor, *Delectus opusculorum botanicorum*, Argentorati \[Strasbourg\] 1790-1793. Oct. 2 vols. of reprints of papers published by other authors. See TL-1/1345 and D.E. Johnson, Huntia 6(1): 96. 1985.
+- (1) With J.J. Roemer editor of *Magazin für die Botanik* 1787-1791, see TL-2/9400. – Continued by Usteri as *Ann. Bot.*, see below.
+- (2) A.L. Jussieu, *Genera plantarum*, Zürich edition, 1791, edited, with annotations, by Usteri, see TL-2/3468.
+- (3) With J.J. Roemer, editor of an octavo edition of J. Dickson, *Fasc. pl. crypt. brit.*, 1785-1790, Zürich TL-2/1442 and composite works (2) sub J.J. Roemer.
+- (4) Editor, *Delectus opusculorum botanicorum*, Argentorati \[Strasbourg\] 1790-1793. Oct. 2 vols. of reprints of papers published by other authors. See TL-1/1345 and D.E. Johnson, Huntia 6(1): 96. 1985.
 
 #### Eponymy
 

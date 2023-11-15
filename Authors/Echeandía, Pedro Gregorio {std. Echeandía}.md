@@ -34,7 +34,7 @@ Barnhart 1: 493 (b. 4 Jan 1746, Pamplona, d. 18 Jul 1817, Zaragoza); BL 2: 487-4
 **Notes**
 *Publ*.: 1861 (preface signed 21 Mai 1861, Colmeiro, Indice de la Flora... 1861), p. \[1\]-52, 1 unnumb. col. lith. (of Echeandia terniflora \[see also ING 1: 592\]). *Copies*: BM, G, HH, NY.
 *Note*: (1) *not* Caesaraugustana but Cesaraugustana.
-(2) Text published posthumously in 1861, Echeandia died 1817.
-(3) Colmeiro (1): clxxiii. 1861.
+- (2) Text published posthumously in 1861, Echeandia died 1817.
+- (3) Colmeiro (1): clxxiii. 1861.
 *Ref*.: Willkomm, M., Bot. Zeit. 21(47): 367-368. 20 Nov 1863 (rev.).
 

@@ -22,8 +22,8 @@ Barnhart 2: 289; CSP 16: 271; Hawksworth p. 183; IH 2: 358; Kew 3: 256; LS suppl
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 2, *Hymenomycetae*, 6: \[99\]-283. 1928 (TL-2/1711).
-(2) Editor *Zeitschrift für Pilzkunde* 1930-1948 (ass. editor), 1948-1951 (chief editor).
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 2, *Hymenomycetae*, 6: \[99\]-283. 1928 (TL-2/1711).
+- (2) Editor *Zeitschrift für Pilzkunde* 1930-1948 (ass. editor), 1948-1951 (chief editor).
 
 #### Festschrift
 

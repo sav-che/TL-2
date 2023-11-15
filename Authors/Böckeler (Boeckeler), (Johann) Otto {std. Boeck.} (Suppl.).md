@@ -32,9 +32,9 @@ Barnhart 1: 207 (b. 12 Aug 1803, Hannover, d. 5 Mar 1899, Varel, Oldenburg); BJI
 
 #### Composite works
 
-(1) see TL-2/1: 246.
-(2) *Cyperaceae*, *in* E. Warming, Symbolae 4: \[1\]-32 (instead of 121-152, sic), 153-155. 1 Jun 1870, 25: 24-31. 3 Dec 1874, 27: 159. 10 Mai 1883. − See TL-2/16.709.
-(3) *Cyperaceae*, *in* F. Reinecke et al., *Die Flora der Samoa-Inseln*, Bot. Jahrb. 25(5): 585-588. 23 Dec 1898. − See TL-2/4: 699.
+- (1) see TL-2/1: 246.
+- (2) *Cyperaceae*, *in* E. Warming, Symbolae 4: \[1\]-32 (instead of 121-152, sic), 153-155. 1 Jun 1870, 25: 24-31. 3 Dec 1874, 27: 159. 10 Mai 1883. − See TL-2/16.709.
+- (3) *Cyperaceae*, *in* F. Reinecke et al., *Die Flora der Samoa-Inseln*, Bot. Jahrb. 25(5): 585-588. 23 Dec 1898. − See TL-2/4: 699.
 
 ### Publications
 

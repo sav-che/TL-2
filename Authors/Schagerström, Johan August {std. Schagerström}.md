@@ -16,7 +16,7 @@ Barnhart 3: 221 (b. 20 Mai 1818, d. 9 Mar 1867); BL 2: 547, 549, 714; BM 4: 1824
 
 #### Composite works
 
-(1) Presided over the defense of a dissertation by J.E. Wahlström, *Pl. vasc. Telgae bor.* 1847, q.v.
+- (1) Presided over the defense of a dissertation by J.E. Wahlström, *Pl. vasc. Telgae bor.* 1847, q.v.
 
 ### Publications
 

@@ -72,7 +72,8 @@ APN p. 216; Backer p. 228; Blunt p. 222, ed. 2: 260; BM 2: 636; Bossert p. 138; 
 *Publ*.: Issued originally in 41 fascs.... *314 pl*. (part col.; i.e. 160 hand-colored aquatints, 154 uncol.). *Copies*: BM (2 vols.), HH (2 vols. in 4) (n.v.), K (6 vols.) (n.v.), NYPL (5 vols.) (n.v.), USDA (1 vol. text, 1 vol. *pl.*).
 *Illus*.: Domenico del Pino, Antonio Serantoni (1780-1837), Bozzolini, Isabella and many others.
 *Note*: (1) The text, with the exception of the introduction, is unpaginated and the plates are unnumbered. There are two copies of each plate, one colored and one uncolored, except in 6 instances in which there is no uncolored copy. In all there are 160 colored plates (2 double) and 154 uncolored plates (2 double). Two further livraisons to contain frontispieces, tables, etc. based on the mss. left by Gallesio, were promised, but they never appeared. Some of the plates are printed on two sheets, which in some copies are joined.
-(2) The BM copy is bound in two volumes; Vol. 1 dated 1817 (but p. viii signed 2 Sep 1839!) and Vol. 2 dated 1839. (3) A copy of the entire work was offered for sale in 2005 for $US 286,700.
+- (2) The BM copy is bound in two volumes; Vol. 1 dated 1817 (but p. viii signed 2 Sep 1839!) and Vol. 2 dated 1839.
+- (3) A copy of the entire work was offered for sale in 2005 for $US 286,700.
 *Electronic version*: (1) NYPL Digital Gallery (col. lith. only?). (2) Pomona Italiana di Giorgio Gallesio, Ist. Marsano, Genova (2004).
 
 ##### n.36.002. Pomona italiana

@@ -52,8 +52,8 @@ Andrews ed. 2, p. 242; Barnhart 1: 253; BFM 1586; BL 1: 288 \[index\], 2: 1586; 
 
 #### Composite works
 
-(1) Le Roy Abrams, *An illustrated flora of the Pacific States*, Cyperaceae (text; except Carex), 1: 255-281. 1923.
-(2) *North American Flora*, 1905-1934, for Britton's own contributions see below under Caesalpiniaceae, Clethraceae, Connaraceae, Crassulaceae, Cunoniaceae, Erythroxylaceae, Hamamelidaceae, Iteaceae, Krameriaceae, Mimosaceae, Scheuchzeriaceae. (see no. 781).
+- (1) Le Roy Abrams, *An illustrated flora of the Pacific States*, Cyperaceae (text; except Carex), 1: 255-281. 1923.
+- (2) *North American Flora*, 1905-1934, for Britton's own contributions see below under Caesalpiniaceae, Clethraceae, Connaraceae, Crassulaceae, Cunoniaceae, Erythroxylaceae, Hamamelidaceae, Iteaceae, Krameriaceae, Mimosaceae, Scheuchzeriaceae. (see no. 781).
 
 #### Eponymy (genera)
 
@@ -789,19 +789,20 @@ New York Academy of Sciences. Scientific survey of Porto Rico and the Virgin Isl
 
 **Notes**
 *Co-authors*: Percy Wilson (1879-1944); William Ralph Maxon (1877-1948).
-5(1): 10 Aug 1923, p. \[i\], \[1\]-158.–Preface by N.L.B., Spermat. N.L.B. & P.W.
-(2): 10 Jan 1924, p. \[i\], 159-316.–Spermat. ctd., N.L.B. & P.W.
-(3): 16 Jun 1924, p. \[i\], 317-474.–Spermat. ctd., N.L.B. & P.W.
-(4): 8 Nov 1924, p. \[i\*-iii\*, gen. t.p., cts.\], \[1\], 475-676.–Spermat. ctd., N.L.B. & P.W.
-6(1): 14 Jan 1925, p. \[i\], \[1\]-158.–Spermat. ctd., N.L.B. & P.W.
-(2): 31 Aug 1925, p. \[1\], 159-316.–Spermat. ctd., N.L.B. & P.W.
-(3): 15 Jun 1926, p. \[1\], 317-521.–Spermat. concl., N.L.B. & P.W.; Pteridophyta by W. R. Maxon.
-(4): 19 Dec 1930, \[i\*-iii, gen. t.p., cts.\], p. \[522\]-663.–Spermat. suppl., bibliogr. index vols. 5 & 6., N.L.B. & P.W.
-7(3): Palaeobotany of Porto Rico *see* Arthur Hollick (31 Oct 1928).
-(4): The mosses of Porto Rico and the Virgin Islands by H. A. Crum and W. C. Steere 13 Dec 1957.
-8(1): Mycology *see* Seaver and Chardon (29 Sep 1926).
-(2): Mycol. suppl. *see* Seaver; Myxomycetes *see* R. Hagelstein; Myxophyceae *see* N. L. Gardner (22 Nov 1932).
-(3): Diatomaceae *see* R. Hagelstein (19 Jan 1939).
+- 5(1): 10 Aug 1923, p. \[i\], \[1\]-158.–Preface by N.L.B., Spermat. N.L.B. & P.W.
+	- (2): 10 Jan 1924, p. \[i\], 159-316.–Spermat. ctd., N.L.B. & P.W.
+	- (3): 16 Jun 1924, p. \[i\], 317-474.–Spermat. ctd., N.L.B. & P.W.
+	- (4): 8 Nov 1924, p. \[i\*-iii\*, gen. t.p., cts.\], \[1\], 475-676.–Spermat. ctd., N.L.B. & P.W.
+- 6(1): 14 Jan 1925, p. \[i\], \[1\]-158.–Spermat. ctd., N.L.B. & P.W.
+	- (2): 31 Aug 1925, p. \[1\], 159-316.–Spermat. ctd., N.L.B. & P.W.
+	- (3): 15 Jun 1926, p. \[1\], 317-521.–Spermat. concl., N.L.B. & P.W.; Pteridophyta by W. R. Maxon.
+	- (4): 19 Dec 1930, \[i\*-iii, gen. t.p., cts.\], p. \[522\]-663.–Spermat. suppl., bibliogr. index vols. 5 & 6., N.L.B. & P.W.
+- 7(3): Palaeobotany of Porto Rico *see* Arthur Hollick (31 Oct 1928).
+	- (4): The mosses of Porto Rico and the Virgin Islands by H. A. Crum and W. C. Steere 13 Dec 1957.
+- 8(1): Mycology *see* Seaver and Chardon (29 Sep 1926).
+	- (2): Mycol. suppl. *see* Seaver; Myxomycetes *see* R. Hagelstein; Myxophyceae *see* N. L. Gardner (22 Nov 1932).
+	- (3): Diatomaceae *see* R. Hagelstein (19 Jan 1939).	
+
 *Copies*: MO, NY, U.
 *Ref*.: BM 7: 917; Kew 1: 379.
 

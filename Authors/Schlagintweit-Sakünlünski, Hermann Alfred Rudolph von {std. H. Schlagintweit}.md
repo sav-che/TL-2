@@ -36,8 +36,8 @@ ADB 31: 336-347; AG 12(3): 271; Biol.-Dokum. 16: 8057; BM 4: 1837; CSP 5: 475-47
 
 #### Composite works
 
-(1) With F.W. Klatt, *Compos. Schlagintweit* 1880, see TL-2/3710. *Additional references*: F.W. Klatt, S.B. Math. Phys. Akad. Wiss. München 8: 73-98. 1878 (prelim. rep. on Compositae), 11: 57-62. 1881 (further report).
-(2) *Results of a scientific mission to India and High Asia*, undertaken between the years 1854 and 1858, by order of the court of directors of the Honourable East India Company, by H., A. and R. Schlagintweit. Leipzig, London 1861-1866, 4 vols., Atlas. Qu. – *Reisen in Indien und Hochasien*,... Leipzig, Jena 1869-1880, 4 vols. – Condensed account: *Das Kaiserreich Ostindien* und die angrenzenden Gebirgsländer,... Jena 1884.
+- (1) With F.W. Klatt, *Compos. Schlagintweit* 1880, see TL-2/3710. *Additional references*: F.W. Klatt, S.B. Math. Phys. Akad. Wiss. München 8: 73-98. 1878 (prelim. rep. on Compositae), 11: 57-62. 1881 (further report).
+- (2) *Results of a scientific mission to India and High Asia*, undertaken between the years 1854 and 1858, by order of the court of directors of the Honourable East India Company, by H., A. and R. Schlagintweit. Leipzig, London 1861-1866, 4 vols., Atlas. Qu. – *Reisen in Indien und Hochasien*,... Leipzig, Jena 1869-1880, 4 vols. – Condensed account: *Das Kaiserreich Ostindien* und die angrenzenden Gebirgsländer,... Jena 1884.
 
 #### Eponymy
 

@@ -48,16 +48,16 @@ Barnhart 1: 518; BM 2: 548, 6: 309-310; Bossert p. 119; CSP 14: 890; Ewan ed. 1:
 
 #### Composite works
 
-(1) *List of liverworts from Southern Patagonia*, *in* List of plants collected by the U.S.S. Albatross in 1887-'91 along the Western Coast of America, Contr. U.S. Nat. Herb. 1(5): 140-142, *pl. 15-16.* 20 Sep 1892.
-(2) *West Virginia liverworts*, in Millspaugh's Preliminary catalogue of the flora of West Virginia, 1892, see TL-2: no. 6068.
-(3) *Hepaticae*, *in* Small and Vail, Report on the botanical exploration of southwestern Virginia during the season of 1892, see TL-2/5: 651.
-(4) *Hepaticae*, *in* Robinson's Flora of the Galapagos Islands 1902, see TL-2: no. 9289.
-(5) The *bryophytes of Connecticut*, with G.E. Nichols, 1908, see TL-2/3: no. 6782.
-(6) *Harriman Alaska Expedition 1904*, Vol. 5 Cryptogamic Botany, Hepaticae by A.W. Evans, see below.
-(7) *Hepaticae*, *in* Britton and Millspaugh, The Bahama Flora, 1920, see TL-2: no. 787.
-(8) The *thallose Hepaticae of the Juan Fernandez Islands*, *in* Carl Skottsberg (ed.), The natural history of Juan Fernandez and Easter Island II. (Botany). 551-586. 1930. Also issued separately, cover (identif.), p. 551-586. *Copies*: Gr-V, L, NY.
-(9) A *preliminary check-list* of the *Hepaticae* of *Europe* and *America*, with H.R.V. Buch, 1938, see TL-2/suppl. 3: no. 23.471.
-(10) Annales bryologici 11 (1938) is an Alexander W. Evans dedicatory volume issued on his seventieth birthday (17 Mai 1938).
+- (1) *List of liverworts from Southern Patagonia*, *in* List of plants collected by the U.S.S. Albatross in 1887-'91 along the Western Coast of America, Contr. U.S. Nat. Herb. 1(5): 140-142, *pl. 15-16.* 20 Sep 1892.
+- (2) *West Virginia liverworts*, in Millspaugh's Preliminary catalogue of the flora of West Virginia, 1892, see TL-2: no. 6068.
+- (3) *Hepaticae*, *in* Small and Vail, Report on the botanical exploration of southwestern Virginia during the season of 1892, see TL-2/5: 651.
+- (4) *Hepaticae*, *in* Robinson's Flora of the Galapagos Islands 1902, see TL-2: no. 9289.
+- (5) The *bryophytes of Connecticut*, with G.E. Nichols, 1908, see TL-2/3: no. 6782.
+- (6) *Harriman Alaska Expedition 1904*, Vol. 5 Cryptogamic Botany, Hepaticae by A.W. Evans, see below.
+- (7) *Hepaticae*, *in* Britton and Millspaugh, The Bahama Flora, 1920, see TL-2: no. 787.
+- (8) The *thallose Hepaticae of the Juan Fernandez Islands*, *in* Carl Skottsberg (ed.), The natural history of Juan Fernandez and Easter Island II. (Botany). 551-586. 1930. Also issued separately, cover (identif.), p. 551-586. *Copies*: Gr-V, L, NY.
+- (9) A *preliminary check-list* of the *Hepaticae* of *Europe* and *America*, with H.R.V. Buch, 1938, see TL-2/suppl. 3: no. 23.471.
+- (10) Annales bryologici 11 (1938) is an Alexander W. Evans dedicatory volume issued on his seventieth birthday (17 Mai 1938).
 
 ### Publications
 

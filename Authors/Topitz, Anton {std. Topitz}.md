@@ -8,7 +8,8 @@ Topitz, Anton (1857-1948), Austrian botanist and high school teacher at St. Niko
 
 #### Herbarium and types
 
-*Herbarium europaeum*, 4000 species, offered for sale Bot. Monatschr. 10: 160. 1892, now at [[Collection BC|BC]]. – Other material in [[Collection A|A]], [[Collection B|B]] (extant), [[Collection BUC|BUC]], [[Collection E|E]], [[Collection LI|LI]]. – *Exsiccatae*: *Menthotheca austro-hungarica*, fasc. 1-2, nos. 1-40, 1915 at [[Collection C|C]], [[Collection G|G]]. – *Letters* at [[Collection G|G]], [[Collection UPS|UPS]]-UB.
+*Herbarium europaeum*, 4000 species, offered for sale Bot. Monatschr. 10: 160. 1892, now at [[Collection BC|BC]]. – Other material in [[Collection A|A]], [[Collection B|B]] (extant), [[Collection BUC|BUC]], [[Collection E|E]], [[Collection LI|LI]].
+*Exsiccatae*: *Menthotheca austro-hungarica*, fasc. 1-2, nos. 1-40, 1915 at [[Collection C|C]], [[Collection G|G]]. – *Letters* at [[Collection G|G]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 

@@ -23,10 +23,10 @@ Barnhart 3: 624; BL 1: 323; BM 8: 1415; Langman p. 799; PH 209; Tucker 1: 740, 3
 
 #### Composite works
 
-(1) Contributed *Rubiaceae* (p. 39-56), *Ebenaceae* and *Apocynaceae* (p. 57-63), *Loganiaceae* (with S. Moore, p. 66-72), *Pedalineae* (p. 73), *Verbenaceae* (p. 90-92), *in* A.B. Rendle et al., *Cat. pl. Oban* 1913, TL-2/9069.
-(2) Contributed *Rubiaceae* (p. 66-79), *Goodeniaceae* (p. 88), *Vacciniaceae* (p. 89-93), *Ericaceae* (p. 93-100), *Epacridaceae* (p. 100-102), *Boraginaceae* (p. 118), *Convolvulaceae* (p. 118-119), *Solanaceae* (p. 119-120), *Scrophulariaceae* (p. 120-122), *in* H.N. Ridley et al., *Report on the botany of the Wollaston expedition*, 1926, see TL-2/9210.
-(3) Series of papers on *Tropical American Rubiaceae* in J. Bot. 49: 317-318. Oct 1911, 50: 241-244. Aug 1912, 51: 218-221. Jul 1913, 320-324. Nov 1913, 52: 225-227. Sep, 313-316. Dec 1914, 53: 15 Jan 1915, 54: 322-334. Nov 1916, 55: 169-177. Jul, 251-254. Sep, 279-285. Oct, 336-337. Dec 1917, 56 (suppl.): 1-16. Sep-Oct. 1918, 57 (suppl.): 17-24. Jan 1919, 25-32. Feb 1919, 33-44. Mar 1919, 58: 105-108. Apr 1920.
-(4) With S. Moore, *Rubiaceae in* T. Herzog, *Die von Th. Herzog auf seiner zweiten Reise durch Brasilien... gesammelten Pflanzen*, Med. Rijks Herb. Leiden 46: 21-28. 1932.
+- (1) Contributed *Rubiaceae* (p. 39-56), *Ebenaceae* and *Apocynaceae* (p. 57-63), *Loganiaceae* (with S. Moore, p. 66-72), *Pedalineae* (p. 73), *Verbenaceae* (p. 90-92), *in* A.B. Rendle et al., *Cat. pl. Oban* 1913, TL-2/9069.
+- (2) Contributed *Rubiaceae* (p. 66-79), *Goodeniaceae* (p. 88), *Vacciniaceae* (p. 89-93), *Ericaceae* (p. 93-100), *Epacridaceae* (p. 100-102), *Boraginaceae* (p. 118), *Convolvulaceae* (p. 118-119), *Solanaceae* (p. 119-120), *Scrophulariaceae* (p. 120-122), *in* H.N. Ridley et al., *Report on the botany of the Wollaston expedition*, 1926, see TL-2/9210.
+- (3) Series of papers on *Tropical American Rubiaceae* in J. Bot. 49: 317-318. Oct 1911, 50: 241-244. Aug 1912, 51: 218-221. Jul 1913, 320-324. Nov 1913, 52: 225-227. Sep, 313-316. Dec 1914, 53: 15 Jan 1915, 54: 322-334. Nov 1916, 55: 169-177. Jul, 251-254. Sep, 279-285. Oct, 336-337. Dec 1917, 56 (suppl.): 1-16. Sep-Oct. 1918, 57 (suppl.): 17-24. Jan 1919, 25-32. Feb 1919, 33-44. Mar 1919, 58: 105-108. Apr 1920.
+- (4) With S. Moore, *Rubiaceae in* T. Herzog, *Die von Th. Herzog auf seiner zweiten Reise durch Brasilien... gesammelten Pflanzen*, Med. Rijks Herb. Leiden 46: 21-28. 1932.
 
 #### Eponymy
 

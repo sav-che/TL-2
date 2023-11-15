@@ -165,7 +165,7 @@ Ainsworth p. 18, 298; Barnhart 2: 470; BM 3: 1277; CSP 4: 319, 17: 127; Dryander
 **Notes**
 *Publ*.: 1793, 2 Stücke. *Copies*: MO; IDC 1324.
 1(1): 1793, p. \[1\]-111, \[112, cont.\].
-(2): 1793, p. \[113\]-303, \[304, cont.\].
+- (2): 1793, p. \[113\]-303, \[304, cont.\].
 
 ##### n.5779. Unächter Acacien-Baum
 

@@ -30,9 +30,9 @@ Barnhart 3: 273 (b. 8 Jul 1878, d. 19 Jul 1950); BJI 2: 164; BL 1: 186, 318; BM 
 
 #### Composite works
 
-(1) With I.L. Wiggins (q.v.) *Vegetation and flora of the Sonoran Desert*, 2 vols., x, 1740 p., 27 maps, *37 pl*., 20 Feb 1964. – See Taxon 13: 147. 1964.
-(2) Shreve published *A map of the vegetation of the United States*. 12.5 x 20.0 in., Feb 1917 issued with Geogr. Rev. 3: 119-125. 1917; see e.g. R.M. Harper, Torreya 17(6): 103-107. 13 Jan 1917.
-(3) With J.C.Th. Uphof, *Sarraceniaceae in* E. Hannig & H. Winkler, ed., *Die Pflanzenareale* ser. 3(1): *pl. 1-3.* 1931.
+- (1) With I.L. Wiggins (q.v.) *Vegetation and flora of the Sonoran Desert*, 2 vols., x, 1740 p., 27 maps, *37 pl*., 20 Feb 1964. – See Taxon 13: 147. 1964.
+- (2) Shreve published *A map of the vegetation of the United States*. 12.5 x 20.0 in., Feb 1917 issued with Geogr. Rev. 3: 119-125. 1917; see e.g. R.M. Harper, Torreya 17(6): 103-107. 13 Jan 1917.
+- (3) With J.C.Th. Uphof, *Sarraceniaceae in* E. Hannig & H. Winkler, ed., *Die Pflanzenareale* ser. 3(1): *pl. 1-3.* 1931.
 
 ### Publications
 

@@ -38,8 +38,8 @@ ADB 32: 693 (W. Hess); AG 2(1): 410; Backer p. 520; Barnhart 3: 244 (b. 15 Apr 1
 
 #### Composite works
 
-(1) With Johann Jakob Roemer (1763-1819): *Systema vegetabilium*, 1807-1830, 7 vols. Oct. – See under J.J. Roemer. J.A. Schultes co-author vols. 1-4; sole author of vols. 5 and 6 (except for 6: 315-628, *Umbelliferae* by K.P.J. Sprengel and some special entries attributed to other authors). Vol. 7 by J.A. & J.H. Schultes. These authors also published the *Mantissa*, treated below.
-(2) Editor and author of preface of C.P. Thunberg, *Fl. capens.* 1823, q.v.
+- (1) With Johann Jakob Roemer (1763-1819): *Systema vegetabilium*, 1807-1830, 7 vols. Oct. – See under J.J. Roemer. J.A. Schultes co-author vols. 1-4; sole author of vols. 5 and 6 (except for 6: 315-628, *Umbelliferae* by K.P.J. Sprengel and some special entries attributed to other authors). Vol. 7 by J.A. & J.H. Schultes. These authors also published the *Mantissa*, treated below.
+- (2) Editor and author of preface of C.P. Thunberg, *Fl. capens.* 1823, q.v.
 
 #### Handwriting
 

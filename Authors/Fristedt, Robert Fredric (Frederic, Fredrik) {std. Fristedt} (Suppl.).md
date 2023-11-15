@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection C|C]], [[Collection E|E]], [[Collection GB|GB]], [[Collection M|M]] (Lich.), [[Collection S|S]], [[Collection UPS|UPS]] (orig?). – *Exsiccatae*: *Sveriges pharmaceutiska växter med pharmakologiska upplysningar*... Upsala (Edquist & Berglund \[fascs. 1-7\], Ed. Berling \[fasc. 8\])... 1863-1872 (*Sver. Pharm. Växt.*); Fascs. 1-8, nos. 1-740: [[Collection A|A]], [[Collection GB|GB]], [[Collection H|H]], [[Collection L|L]], [[Collection M|M]], [[Collection S|S]], [[Collection UPS|UPS]].
+[[Collection C|C]], [[Collection E|E]], [[Collection GB|GB]], [[Collection M|M]] (Lich.), [[Collection S|S]], [[Collection UPS|UPS]] (orig?).
+*Exsiccatae*: *Sveriges pharmaceutiska växter med pharmakologiska upplysningar*... Upsala (Edquist & Berglund \[fascs. 1-7\], Ed. Berling \[fasc. 8\])... 1863-1872 (*Sver. Pharm. Växt.*); Fascs. 1-8, nos. 1-740: [[Collection A|A]], [[Collection GB|GB]], [[Collection H|H]], [[Collection L|L]], [[Collection M|M]], [[Collection S|S]], [[Collection UPS|UPS]].
 
 #### Bibliography and biography
 

@@ -31,8 +31,8 @@ AG 3: 766; Barnhart 3: 502; BL 2: 732 \[index\]; BM 8: 1439; Desmond p. 665 (b. 
 
 #### Composite works
 
-(1) Editor (amended nomenclature, new appendix) C.C. Babington, *Man. Brit. bot.* ed. 10, 1922, TL-2/216. – See W.B. Turrill, Bull. misc. Inf. Kew 1922: 203. 19 Aug 1921 for a review.
-(2) With J. Ramsbottom, T.A. Sprague and E.M. Wakefield, *Proposals by the sub-committee on nomenclature*, appointed by the Imperial botanical conference, London 1924, *in* T.A. Sprague, ed., *Nomenclature proposals by British botanists*, London Aug 1929, p. 7-45, see also J. Bot. 67: 336-339. Dec 1929. – TL-2/12.651
-(3) Editor of vol. 3 of C.E. Moss, *Cambr. Brit. fl.*, Jun 1920, see TL-2/6358.
-(4) Editor, *British flowering plants and modern systematic methods*. Being the report of the Conference on the study of critical British groups... 21 Oct 1949, London (printed by Taylor & Francis, Ltd.,...) Oct., p. \[i\], \[1\]-102, \[104, colo.\], *pl. 1-18. Copies*: G, HH, NY, U.
+- (1) Editor (amended nomenclature, new appendix) C.C. Babington, *Man. Brit. bot.* ed. 10, 1922, TL-2/216. – See W.B. Turrill, Bull. misc. Inf. Kew 1922: 203. 19 Aug 1921 for a review.
+- (2) With J. Ramsbottom, T.A. Sprague and E.M. Wakefield, *Proposals by the sub-committee on nomenclature*, appointed by the Imperial botanical conference, London 1924, *in* T.A. Sprague, ed., *Nomenclature proposals by British botanists*, London Aug 1929, p. 7-45, see also J. Bot. 67: 336-339. Dec 1929. – TL-2/12.651
+- (3) Editor of vol. 3 of C.E. Moss, *Cambr. Brit. fl.*, Jun 1920, see TL-2/6358.
+- (4) Editor, *British flowering plants and modern systematic methods*. Being the report of the Conference on the study of critical British groups... 21 Oct 1949, London (printed by Taylor & Francis, Ltd.,...) Oct., p. \[i\], \[1\]-102, \[104, colo.\], *pl. 1-18. Copies*: G, HH, NY, U.
 

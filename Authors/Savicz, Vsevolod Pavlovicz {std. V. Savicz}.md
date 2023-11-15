@@ -8,7 +8,8 @@ Savicz, Vsevolod Pavlovicz (1885-1972), Russian lichenologist; studied at the Un
 
 #### Herbarium and types
 
-[[Collection LE|LE]]; other material at [[Collection M|M]]. – *Exsiccatae*: *Lichenotheca rossica*, dec. 1-22, 1925-1972, nos. 1-220. – Sets: [[Collection C|C]], [[Collection FH|FH]], [[Collection H|H]], [[Collection LD|LD]], [[Collection M|M]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection LE|LE]]; other material at [[Collection M|M]].
+*Exsiccatae*: *Lichenotheca rossica*, dec. 1-22, 1925-1972, nos. 1-220. – Sets: [[Collection C|C]], [[Collection FH|FH]], [[Collection H|H]], [[Collection LD|LD]], [[Collection M|M]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
 
 #### Bibliography and biography
 

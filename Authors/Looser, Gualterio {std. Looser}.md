@@ -19,6 +19,6 @@ Barnhart 2: 401; BL 1: 245, 246, 247, 306; Bossert p. 242; Hortus 3: 1198; IF (s
 
 #### Composite works
 
-(1) *Lista de plantas que han sido observadas en Chile* en 1828 por el Dr. Carlos Bcrtero; Santiago de Chile 1933-1936, p. \[1\]-71. *Copies*: U, US. – See TL-2/482.
-(2) Karl Reiche, *Geografia botánica de Chile*, traduccion del aleman de Gualterio Looser, Santiago, 2 vols., 1934-1937, see under Reiche.
+- (1) *Lista de plantas que han sido observadas en Chile* en 1828 por el Dr. Carlos Bcrtero; Santiago de Chile 1933-1936, p. \[1\]-71. *Copies*: U, US. – See TL-2/482.
+- (2) Karl Reiche, *Geografia botánica de Chile*, traduccion del aleman de Gualterio Looser, Santiago, 2 vols., 1934-1937, see under Reiche.
 

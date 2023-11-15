@@ -32,18 +32,18 @@ Barnhart 3: 518; BJI 2: 194; Bossert p. 442; Hortus 3: 1207; IH 1 (ed. 1): 90, (
 
 #### Composite works
 
-(1) Collaborator, A.C. Smith, *A collection of flowering plants from Mount Roraima* 1940, TL-2/12.172.
-(2) *Apocynaceae, in* North American Flora 29(2): 103-192. 11 Jul 1938.
-(3) Editor, and in part author, with R.J. Seibert, later R.W. Schery, *Contributions toward a Flora of Panama* 1937-1943, in Ann. Missouri bot. Gard. 24-30, 1937-1943, for full details see A. Robyns, Ann. Missouri bot. Gard. 52: 235-241. 1965.
-(4) Editor, and in part author, *Flora of Panama* parts 2, 3, 4, 5(1-3), 7(1-4). 1943-1959, for full details see A. Robyns, Ann. Missouri bot. Gard. 52: 243-245. 1965.
-(5) *Apocynaceae, in* H.A. Gleason, *Botanical results of the Tyler-Duida expedition*, Bull. Torrey bot. Club 58: 452-454. 1931.
-(6) *Apocynaceae, in* H.A. Gleason & A.C. Smith, *Plantae Krukovianae*, Bull. Torrey bot. Club 60: 392. 1933 (TL-12.164).
-(7) *Apocynaceae, in* G. Cufodontis, *Risultati della spedizione biologica austriaca in Costarica* nel 1930, Arch. Bot. Forli 10: 38-41. 1934, 11: 178, 179. 1935.
-(8) *Apocynaceae and Asclepiadaceae, in* A. Rehder, *Notes on the ligneous plants described by Léveillé* from eastern Asia. J. Arnold Arb. 15: 310-318. 1934.
-(9) *Temnadenia, in* A. Lemée, *Dict. descr. synon. Phan.* 6: 480-481. 1935 (TL-2/4389).
-(10) *Apocynaceae, in* H.A. Gleason and E.P. Killip, *The flora of Mount Auyan-Tepui, *Venezuela, Brittonia 3: 190. 1939.
-(11) *The botany of Rauwolfla, in* R.E. Woodson, Jr., H.W. Youngken, E. Schlitter, and J.A. Schneider, Rauwolfia, Boston, Toronto, 1957, p. 3-31.
-(12) For further contributions in works by others after 1940 see the bibliography by L.I. Nevling (1965).
+- (1) Collaborator, A.C. Smith, *A collection of flowering plants from Mount Roraima* 1940, TL-2/12.172.
+- (2) *Apocynaceae, in* North American Flora 29(2): 103-192. 11 Jul 1938.
+- (3) Editor, and in part author, with R.J. Seibert, later R.W. Schery, *Contributions toward a Flora of Panama* 1937-1943, in Ann. Missouri bot. Gard. 24-30, 1937-1943, for full details see A. Robyns, Ann. Missouri bot. Gard. 52: 235-241. 1965.
+- (4) Editor, and in part author, *Flora of Panama* parts 2, 3, 4, 5(1-3), 7(1-4). 1943-1959, for full details see A. Robyns, Ann. Missouri bot. Gard. 52: 243-245. 1965.
+- (5) *Apocynaceae, in* H.A. Gleason, *Botanical results of the Tyler-Duida expedition*, Bull. Torrey bot. Club 58: 452-454. 1931.
+- (6) *Apocynaceae, in* H.A. Gleason & A.C. Smith, *Plantae Krukovianae*, Bull. Torrey bot. Club 60: 392. 1933 (TL-12.164).
+- (7) *Apocynaceae, in* G. Cufodontis, *Risultati della spedizione biologica austriaca in Costarica* nel 1930, Arch. Bot. Forli 10: 38-41. 1934, 11: 178, 179. 1935.
+- (8) *Apocynaceae and Asclepiadaceae, in* A. Rehder, *Notes on the ligneous plants described by Léveillé* from eastern Asia. J. Arnold Arb. 15: 310-318. 1934.
+- (9) *Temnadenia, in* A. Lemée, *Dict. descr. synon. Phan.* 6: 480-481. 1935 (TL-2/4389).
+- (10) *Apocynaceae, in* H.A. Gleason and E.P. Killip, *The flora of Mount Auyan-Tepui, *Venezuela, Brittonia 3: 190. 1939.
+- (11) *The botany of Rauwolfla, in* R.E. Woodson, Jr., H.W. Youngken, E. Schlitter, and J.A. Schneider, Rauwolfia, Boston, Toronto, 1957, p. 3-31.
+- (12) For further contributions in works by others after 1940 see the bibliography by L.I. Nevling (1965).
 
 #### Memorial issue
 

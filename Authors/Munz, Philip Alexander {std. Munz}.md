@@ -26,8 +26,8 @@ Barnhart 2: 530; BL 1: 158, 310; BM 7: 884; Bossert p. 278; Hirsch p. 207; Hortu
 
 #### Composite works
 
-(1)*Onagraceae*, NAF ser. 2. 5: 1-231. 28 Dec 1965.
-(2) Contributed chapters on *Onagraceae* to various composite works; for a list see Carlquist (1975, Aliso).
+- (1) *Onagraceae*, NAF ser. 2. 5: 1-231. 28 Dec 1965.
+- (2) Contributed chapters on *Onagraceae* to various composite works; for a list see Carlquist (1975, Aliso).
 
 #### Eponymy
 

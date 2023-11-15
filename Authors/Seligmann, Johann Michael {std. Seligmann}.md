@@ -23,13 +23,13 @@ Barnhart 3: 258; BM 4: 1897; Dryander 3: 78; NI 1830-1831, see index; PR 9498, 9
 
 #### Composite works
 
-(1) *Sammlung verschiedener ausländischer und seltener Vögel*,... 9 vols. (in 4), Nürnberg 1749-1776, consisting of copies of plates in G. Edwards, Natural history of uncommon birds, and of M. Catesby, *Nat. Hist. Carolina* (see TL-2/1057); the plates taken from Catesby feature also plants. – Also published in Dutch: *Verzameling van uitlandsche en zeldzame vogelen*, benevens eenige vreemde dieren en plantgewassen in 't Engels naauwkeurig beschreeven en naar 't leven met kleuren afgebeeld, door G. Edwards en M. Catesby: vervolgens, ten opzichte van de plaaten merkelijk verbeterd, in 't Hoogduitsch uitgegeven door J.M. Seligmann: thans in 't Nederduits vertaald en met aanhaalingen van andere autheuren verrijkt, door M. Houttuyn,... 9 parts in 5 vols., Amsterdam (Jan Christiaan Sepp,...) 1777-1781. Fol. *Copy*: MO.
-(2) Editor and artist of C.J. Trew, *Hortus nitidissimus*, 1768-1786, for which see C.J. Trew.
-(3) Illustrations for C.J. Trew, *Der im schönsten Flor stehende Blumengarten*... 1750-1768.
-(4) Conradi Gesneri *Opera botanica*... ed. C.C. Schmiedel, Nürnberg 1753, with plates by Seligmann.
-(5) Illustrations, L. Feuillée, *Beschreibung zur Arznei dienlicher Pflanzen*, Nürnberg 1756-1758, 2 vols., *100 pl*.
-(6) Illustrations, M. Houttuyn, *Icones lignorum exoticorum*... Nürnberg 1774-1778, *48 pl*.
-(7) Plates, J.H. Knoop, *Pomologia*... aus dem Holländischen, Nürnberg 1760, see TL-2/3766.
+- (1) *Sammlung verschiedener ausländischer und seltener Vögel*,... 9 vols. (in 4), Nürnberg 1749-1776, consisting of copies of plates in G. Edwards, Natural history of uncommon birds, and of M. Catesby, *Nat. Hist. Carolina* (see TL-2/1057); the plates taken from Catesby feature also plants. – Also published in Dutch: *Verzameling van uitlandsche en zeldzame vogelen*, benevens eenige vreemde dieren en plantgewassen in 't Engels naauwkeurig beschreeven en naar 't leven met kleuren afgebeeld, door G. Edwards en M. Catesby: vervolgens, ten opzichte van de plaaten merkelijk verbeterd, in 't Hoogduitsch uitgegeven door J.M. Seligmann: thans in 't Nederduits vertaald en met aanhaalingen van andere autheuren verrijkt, door M. Houttuyn,... 9 parts in 5 vols., Amsterdam (Jan Christiaan Sepp,...) 1777-1781. Fol. *Copy*: MO.
+- (2) Editor and artist of C.J. Trew, *Hortus nitidissimus*, 1768-1786, for which see C.J. Trew.
+- (3) Illustrations for C.J. Trew, *Der im schönsten Flor stehende Blumengarten*... 1750-1768.
+- (4) Conradi Gesneri *Opera botanica*... ed. C.C. Schmiedel, Nürnberg 1753, with plates by Seligmann.
+- (5) Illustrations, L. Feuillée, *Beschreibung zur Arznei dienlicher Pflanzen*, Nürnberg 1756-1758, 2 vols., *100 pl*.
+- (6) Illustrations, M. Houttuyn, *Icones lignorum exoticorum*... Nürnberg 1774-1778, *48 pl*.
+- (7) Plates, J.H. Knoop, *Pomologia*... aus dem Holländischen, Nürnberg 1760, see TL-2/3766.
 
 ### Publications
 

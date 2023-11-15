@@ -23,12 +23,12 @@ APN p. 202; Barnhart 1: 546; BFM p. 283 (index); Biol.-Dokum. 6: 68.858-68.863; 
 
 #### Composite works
 
-(1) Co-author with O. Schmeil of:
+- (1) Co-author with O. Schmeil of:
 (a) *Pflanzen der Heimat*... ed. 1, 1896; ed. 2, 1913; & ed. 6, 1937, see TL-2/5: 232 (note).
 (b) *Fl. Deutschl.*... ed. 1, 1903-x, see TL-2/5, nr. 10.844. In 2006, the 93rd edition of this flora was published, making it the most successful publication concerning the flora of Europe.
 (c) *Die verbreitetsten Pflanzen Deutschlands* (ed. 1, 1911; ed. 36, 1938), see TL-2/5: 232 (note).
-(2) Peter Gijsbert Buekers, *Zakflora*... 1905, a Dutch pocket-flora freely adapted from O. Schmeil & J. Fitschen, *Fl. Deutschl.*... 1903, see TL-2/Suppl. 3, nr. 23.566.
-(3) Edited L. Beissner, *Handb. Nadelholzk.*, ed. 3, 1930, see TL-2/1, nr. 410.
+- (2) Peter Gijsbert Buekers, *Zakflora*... 1905, a Dutch pocket-flora freely adapted from O. Schmeil & J. Fitschen, *Fl. Deutschl.*... 1903, see TL-2/Suppl. 3, nr. 23.566.
+- (3) Edited L. Beissner, *Handb. Nadelholzk.*, ed. 3, 1930, see TL-2/1, nr. 410.
 
 ### Publications
 

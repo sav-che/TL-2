@@ -40,8 +40,8 @@ Anon., 1963. Herrn Professor Dr. Ernst Gäumann zum siebzigsten Geburtstag... 6.
 
 #### Outside our period
 
-(1) *Die Pilze*... Basel (Verlag Birkhäuser) 1949; Ed. 2,... 1964. *English transl*. \[by Frederick Lyle Wynd (1904-x)\]: *The fungi*... New York (Hafner Pub. Co.) 1952. *Chinese transl*.:... 1979.
-(2) *Die Rostpilze Mitteleuropa*s: mit besonderer Berücksichtigung der Schweiz... 1959.
+- (1) *Die Pilze*... Basel (Verlag Birkhäuser) 1949; Ed. 2,... 1964. *English transl*. \[by Frederick Lyle Wynd (1904-x)\]: *The fungi*... New York (Hafner Pub. Co.) 1952. *Chinese transl*.:... 1979.
+- (2) *Die Rostpilze Mitteleuropa*s: mit besonderer Berücksichtigung der Schweiz... 1959.
 
 #### Note
 

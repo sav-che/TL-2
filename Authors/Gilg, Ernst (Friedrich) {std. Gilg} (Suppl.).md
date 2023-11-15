@@ -37,30 +37,30 @@ Gilg published a number of papers with his wife, Charlotte Gilg-Benedict (née B
 
 #### Composite works
 
-(1) One of numerous authors with P. Ascherson, *Prop. Lois nom. bot.* ... \[1892\] (TL-2/Suppl. 1, nr. 19.614).
-(2) One of several collaborators with A. Engler, *Verzeichniss Götzen'schen Expedition Pflanzen*... \[1895\] (TL-2/Suppl. 6, nr. 33.029).
-(3) Co-author with K. Schumann of a botanical textbook, *Pflanzenr*.... \[1896\] (TL-2/5, nr.
+- (1) One of numerous authors with P. Ascherson, *Prop. Lois nom. bot.* ... \[1892\] (TL-2/Suppl. 1, nr. 19.614).
+- (2) One of several collaborators with A. Engler, *Verzeichniss Götzen'schen Expedition Pflanzen*... \[1895\] (TL-2/Suppl. 6, nr. 33.029).
+- (3) Co-author with K. Schumann of a botanical textbook, *Pflanzenr*.... \[1896\] (TL-2/5, nr.
 11.380).
-(4) One of a number of signatories to A. Engler, *Nomenclaturregeln Berlin*... 1897 (TL-2/ Suppl. 6, nr. 33.035).
-(5) Authored two monographs in A. Engler, *Monogr. afrik. Pflanzen-Fam.*... (see TL-2/1, nr. 1709), viz.:
+- (4) One of a number of signatories to A. Engler, *Nomenclaturregeln Berlin*... 1897 (TL-2/ Suppl. 6, nr. 33.035).
+- (5) Authored two monographs in A. Engler, *Monogr. afrik. Pflanzen-Fam.*... (see TL-2/1, nr. 1709), viz.:
 (a) *Melastomataceae*: 2: \[i\], \[1\]-52, *pl. 1-10.* Oct. 1898. *Copies*: G, K (n.v.), MO (n.v.).
 (b) *Strophanthus*: 7: \[i\], \[1\]-48, *pl. 1-10.* Feb 1904. *Copies*: G, K (n.v.), MO (n.v.).
-(6) Chapter 10 *in* R.E.B. Sadebeck, *Kulturgew. Deut. Kolon.*... 1899 (TL-2/4, nr. 9971).
-(7) Co-author ("Adjuvante") with I. Urban, *Monogr. Loas.*... 1900 (TL-2/6, nr. 15.689).
-(8) Collaborator with A. Zahlbruckner, *Pl. Pentherianae*... Part I, 1900 (TL-2/7, nr.
+- (6) Chapter 10 *in* R.E.B. Sadebeck, *Kulturgew. Deut. Kolon.*... 1899 (TL-2/4, nr. 9971).
+- (7) Co-author ("Adjuvante") with I. Urban, *Monogr. Loas.*... 1900 (TL-2/6, nr. 15.689).
+- (8) Collaborator with A. Zahlbruckner, *Pl. Pentherianae*... Part I, 1900 (TL-2/7, nr.
 18.507).
-(9) First author with W. Busse, *Die von W. Busse in Deutsch-Ostafrika gesammelten Strychnos Arten*... Part II, 1902) (see TL-2/Suppl. 3, nr. 23.958, Part II).
-(10) Co-author with A. Engler of 12 families in O. Warburg, *Kunene-Sambesi-Exped*.... 1903, see TL-2/7, nr. 16.665 and Suppl. 6, nrs. 33.068-33.079.
-(11) Author or co-author of several parts (e.g. Loasaceae, Malesherbiaceae, Marcgraviaceae) of I. Urban (ed.), *Plantae novae andinae*... 1906-1913 (TL-2/6, nr. 15.691).
-(12) First author with R.C. Muschler, *Phanerogamen*... Leipzig (Quelle & Meyer) 1909, see TL-2/3: 674 (sub Composite Works).
-(13) Contributed determinations to Aug. Chevalier, *Sudania*... Tome 1, 1911 \[and 2, 1914\] (see TL-2/Suppl. 4, nr. 25.839).
-(14) Assisted A. Engler \["mit Unterstützung von Dr. Ernst Gilg"\], *Syllabus*... Ed. 7, 1912, 8, 1919, & 9 and 10 (a single issue), 1924 (see TL-2/1, nr. 1707).
-(15) Authored Monimiaceae and Flacourtiaceae, at least, *in* C. Lauterbach, *Beitr. Fl. Papuas.*... 1912, 1924, see TL-2/2, nr. 4240.
-(16) Co-editor with F. Pax & L. Diels, *Engler-Fest-Band* der Botanischen Jahrbücher für Systematik... 1914.
-(17) Authored Connaraceae and Loganiaceae *in* J. Schmidt, *Flora of Koh Chang*... 1916 (TL-2/5, nr. 10.891).
-(18) Collaborated with J. Wiesner, *Rohst. Pflanzenr.*... ed. 4, 1927-1928 (TL-2/7, nr.
+- (9) First author with W. Busse, *Die von W. Busse in Deutsch-Ostafrika gesammelten Strychnos Arten*... Part II, 1902) (see TL-2/Suppl. 3, nr. 23.958, Part II).
+- (10) Co-author with A. Engler of 12 families in O. Warburg, *Kunene-Sambesi-Exped*.... 1903, see TL-2/7, nr. 16.665 and Suppl. 6, nrs. 33.068-33.079.
+- (11) Author or co-author of several parts (e.g. Loasaceae, Malesherbiaceae, Marcgraviaceae) of I. Urban (ed.), *Plantae novae andinae*... 1906-1913 (TL-2/6, nr. 15.691).
+- (12) First author with R.C. Muschler, *Phanerogamen*... Leipzig (Quelle & Meyer) 1909, see TL-2/3: 674 (sub Composite Works).
+- (13) Contributed determinations to Aug. Chevalier, *Sudania*... Tome 1, 1911 \[and 2, 1914\] (see TL-2/Suppl. 4, nr. 25.839).
+- (14) Assisted A. Engler \["mit Unterstützung von Dr. Ernst Gilg"\], *Syllabus*... Ed. 7, 1912, 8, 1919, & 9 and 10 (a single issue), 1924 (see TL-2/1, nr. 1707).
+- (15) Authored Monimiaceae and Flacourtiaceae, at least, *in* C. Lauterbach, *Beitr. Fl. Papuas.*... 1912, 1924, see TL-2/2, nr. 4240.
+- (16) Co-editor with F. Pax & L. Diels, *Engler-Fest-Band* der Botanischen Jahrbücher für Systematik... 1914.
+- (17) Authored Connaraceae and Loganiaceae *in* J. Schmidt, *Flora of Koh Chang*... 1916 (TL-2/5, nr. 10.891).
+- (18) Collaborated with J. Wiesner, *Rohst. Pflanzenr.*... ed. 4, 1927-1928 (TL-2/7, nr.
 17.545).
-(19) Authored Flacourtiaceae *in* F.L.E. Diel, *Descriptions species in British Papua*... 1929, (TL-2/Suppl. 5, nr. 30.500).
+- (19) Authored Flacourtiaceae *in* F.L.E. Diel, *Descriptions species in British Papua*... 1929, (TL-2/Suppl. 5, nr. 30.500).
 
 ### Publications
 

@@ -27,13 +27,13 @@ AG 2(1): 287-288, 3(2): 482 (!); Barnhart 1: 274; BFM 22, 23; BM 1: 274-275; 6: 
 
 #### Composite works
 
-(1) Contributed to EP., ed. 1:
+- (1) Contributed to EP., ed. 1:
 (a) *Juncaceae*, in II, 5: 1-7. 26 Mar 1887, Nachträge II-IV: 70-71 Jul 1897, Ergänzungsheft 1: g. 8 Oct 1900.
 (b) *Juncaginaceae*, II. 1: 222-227. 22 Feb 1889, Nachträge II-IV: 38. Jul 1897, Suppl. by Engler, Ergänzungsheft 1: 2.8 Oct 1900.
 Co-author: Georg Hans Emmo Wolfgang Hieronymus.
 (c) *Alismaceae*, II. 1: 227-232. 22 Feb 1889, Nachträge II-IV: 38. Jul 1897, Ergänzungsheft 1: 2-3. 8 Oct 1900.
 (d) *Butomaceae*, II. 1: 232-234. 22 Feb 1889, Nachträge II-IV: 38. Jul 1897, Ergänzungsheft 1: 3. 8 Oct. 1900.
-(2) Contributed to Engler, Pflanzenreich:
+- (2) Contributed to Engler, Pflanzenreich:
 (a) *Tropaeolaceae*, Heft 10, 36 p. 8 Jul 1902.
 (b) *Scheuchzeriaceae*, Heft 16, 20 p. 25 Aug 1903 (Buchenau: 15 Aug).
 (c) *Alismataceae*, Heft 16, 66 p. idem.

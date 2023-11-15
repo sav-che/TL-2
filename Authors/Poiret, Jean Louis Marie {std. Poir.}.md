@@ -42,8 +42,8 @@ AG 1: 214, 1 (ed. 2): 333, 5(1): 776; Backer p. 455; Barnhart 3: 95; BM 4: 1591;
 
 #### Composite works
 
-(1) See Lamarck, (*Encycl*. (TL-2/4136), vols. 3 (from P onward), 4-8, suppl. 1-5) and *Tabl. encycl.* (TL-2/4137), vols. 5(2) and tome 3.
-(2) See F.P. Chaumeton, Fl. méd., TL-2/1091.
+- (1) See Lamarck, (*Encycl*. (TL-2/4136), vols. 3 (from P onward), 4-8, suppl. 1-5) and *Tabl. encycl.* (TL-2/4137), vols. 5(2) and tome 3.
+- (2) See F.P. Chaumeton, Fl. méd., TL-2/1091.
 
 #### Handwriting
 

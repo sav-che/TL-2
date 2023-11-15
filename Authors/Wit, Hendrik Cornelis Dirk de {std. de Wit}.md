@@ -29,9 +29,9 @@ BFM 1288; Bossert p. 440; Hortus 3: 1191; IH 1 (ed. 2): 70, 125, (ed. 3): 88, 16
 
 #### Composite works
 
-(1) *History of Malaysian phytography, in* C.G.G.J. van Steenis, ed., Fl. males. ser. I. 4: lxx-clxi. 1949.
-(2) Editor, *Rumphius memorial volume*, Amsterdam 1959 (see e.g. Blumea 10: 318-319); author of *A checklist to Rumphius's Herbarium amboinense*, ib. p. 339-460; see also a further commentary in J. Arditti, ed., Orchid biology 1: 47-94. 1977, and Taxon 1: 101-110. 1952.
-(3) With M.S. Abdallah, *The Resedaceae*, Wageningen 1978, 2 vols., 416 p. and atlas (Belmontia n.s. vol. 8).
+- (1) *History of Malaysian phytography, in* C.G.G.J. van Steenis, ed., Fl. males. ser. I. 4: lxx-clxi. 1949.
+- (2) Editor, *Rumphius memorial volume*, Amsterdam 1959 (see e.g. Blumea 10: 318-319); author of *A checklist to Rumphius's Herbarium amboinense*, ib. p. 339-460; see also a further commentary in J. Arditti, ed., Orchid biology 1: 47-94. 1977, and Taxon 1: 101-110. 1952.
+- (3) With M.S. Abdallah, *The Resedaceae*, Wageningen 1978, 2 vols., 416 p. and atlas (Belmontia n.s. vol. 8).
 
 #### Festschrift
 

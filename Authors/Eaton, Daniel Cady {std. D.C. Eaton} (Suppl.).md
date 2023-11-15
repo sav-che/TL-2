@@ -53,8 +53,8 @@ Barnhart 1: 491; BL 1: 171, 294; BM 2: 502; Bossert p. 112; Clokie p. 161; CSP 2
 #### Composite works
 
 See TL-2/1: 720.
-(1) F.W. Hall, *Cat. coll. ferns* 1873, see TL-2/no. 2275.
-(2) Sereno Watson (1826-1892), *United States geological exploration* \[sic\] *of the fourtieth paralell*, see TL-2/no. 16.812.
+- (1) F.W. Hall, *Cat. coll. ferns* 1873, see TL-2/no. 2275.
+- (2) Sereno Watson (1826-1892), *United States geological exploration* \[sic\] *of the fourtieth paralell*, see TL-2/no. 16.812.
 
 ### Publications
 

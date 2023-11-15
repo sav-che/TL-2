@@ -8,8 +8,9 @@ Hübener, Johann Wilhelm Peter (1807-1847), German bryologist; collected in Norw
 
 #### Herbarium and types
 
-[[Collection LZ|LZ]] (destroyed); material at [[Collection BM|BM]], [[Collection FB|FB]], [[Collection HEID|HEID]] and [[Collection STR|STR]] (fide Sayre). – *Exsiccatae*: (1) *Deutschlands Laubmoose* in getrockneten Exemplaren fasc. 1, nos. 1-25, Mainz (Kupferberg) 1839, sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
-(2) *Deutschlands Lebermoose* in getrockneten Exemplaren fasc. 1-5, nos. 1-125, Mainz (Kupferberg) 1836-1839, fasc. 1-4 by H. and Carl Friedrich Ferdinand Genth (1810-1837), fasc. 5 by H. alone. Sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection G|G]], [[Collection GJO|GJO]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TO|TO]], [[Collection W|W]].
+[[Collection LZ|LZ]] (destroyed); material at [[Collection BM|BM]], [[Collection FB|FB]], [[Collection HEID|HEID]] and [[Collection STR|STR]] (fide Sayre).
+*Exsiccatae*: (1) *Deutschlands Laubmoose* in getrockneten Exemplaren fasc. 1, nos. 1-25, Mainz (Kupferberg) 1839, sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
+- (2) *Deutschlands Lebermoose* in getrockneten Exemplaren fasc. 1-5, nos. 1-125, Mainz (Kupferberg) 1836-1839, fasc. 1-4 by H. and Carl Friedrich Ferdinand Genth (1810-1837), fasc. 5 by H. alone. Sets at [[Collection B|B]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection G|G]], [[Collection GJO|GJO]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TO|TO]], [[Collection W|W]].
 *Ref*.: Sayre, Mem. New York Bot. Gard. 19(2): 216-217. 1971; Bryologist 80: 510. 1977 (1978).
 
 #### Bibliography and biography

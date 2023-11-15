@@ -24,8 +24,8 @@ Barnhart 2: 319; BFM 98, 546-549, 597; BJI 1: 34; BL 1: 88, 305, 2: 52, 120, 676
 
 #### Composite works
 
-(1) *Kritische Flora der Provinz Schleswig-Holstein*, 1888-1890, with P. Prahl (q.v.) and R. J. D. v. Fischer-Benzon.
-(2) J. Sturm's *Flora von Deutschland*, zweite umgearbeitete Auflage, author of vols. 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14; co-author of vol. 2.
+- (1) *Kritische Flora der Provinz Schleswig-Holstein*, 1888-1890, with P. Prahl (q.v.) and R. J. D. v. Fischer-Benzon.
+- (2) J. Sturm's *Flora von Deutschland*, zweite umgearbeitete Auflage, author of vols. 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14; co-author of vol. 2.
 
 #### Eponymy
 

@@ -49,10 +49,10 @@ Backer p. 194, 367; Barnhart 2: 479; BJI 1: 115; BL 1: 103, 104, 117, 118, 122, 
 
 #### Composite works
 
-(1) See Frank Lamson-Scribner, *Chaetochloa* and *Stud. Amer. grasses* (TL-2/4166-4167); for further publications with this author see Schwarten (1946).
-(2) Co-editor *The Philippine Journal of Science* 1906-1923.
-(3) With L. Diels and T. F. Chipp, *International address book of botanists*, 1931, xv, 605 p.
-(4) Founder of *Brittonia* (vol. 1(1) Feb 1931), in honor of Nathaniel Lord Britton.
+- (1) See Frank Lamson-Scribner, *Chaetochloa* and *Stud. Amer. grasses* (TL-2/4166-4167); for further publications with this author see Schwarten (1946).
+- (2) Co-editor *The Philippine Journal of Science* 1906-1923.
+- (3) With L. Diels and T. F. Chipp, *International address book of botanists*, 1931, xv, 605 p.
+- (4) Founder of *Brittonia* (vol. 1(1) Feb 1931), in honor of Nathaniel Lord Britton.
 
 #### Eponymy
 

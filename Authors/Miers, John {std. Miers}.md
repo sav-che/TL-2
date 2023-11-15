@@ -32,8 +32,8 @@ Barnhart 2: 487; BB p. 214; BM 3: 1309; Bossert p. 266; CSP 4: 382-383, 8: 402, 
 
 #### Composite works
 
-(1)*Apocynaceae, Solanaceae, Atropaceae, in* Seemann, *Bot. Voy. Herald*, q.v.
-(2) see W. J. Hooker, *Niger Fl*. 1849, TL-2/3014.
+- (1) *Apocynaceae, Solanaceae, Atropaceae, in* Seemann, *Bot. Voy. Herald*, q.v.
+- (2) see W. J. Hooker, *Niger Fl*. 1849, TL-2/3014.
 
 #### Handwriting
 

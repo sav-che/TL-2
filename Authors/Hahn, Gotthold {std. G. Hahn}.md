@@ -8,10 +8,11 @@ Hahn, Gotthold (*fl*. 1875-1911), German cryptogamist at Gera.
 
 #### Herbarium and types
 
-[[Collection L|L]] (lichens); other collections at [[Collection JE|JE]], [[Collection L|L]], [[Collection WA|WA]], [[Collection WRSL|WRSL]]. *Exsiccatae*:
-(1) *Flechten-Herbarium mit Beschreibung*, Gera (Kanitz) 1884, nos. 1-70, 16 p. text, publ. Apr-Jun 1884. No sets known (Nat. Nov. Apr 1884).
-(2) *Moos-Herbarium*. I. *Musci frondosi*, II. *Musci hepaticae*. Nos. 1-90. Gera (Kanitz) 1882 (Nat. Nov. Mai 1882, Bot. Zeit. 30 Jun 1882).
-(3) *Deutschlands verbreiteste wildwachsende Gräser* (100 nos., 15 p. text) 1883.
+[[Collection L|L]] (lichens); other collections at [[Collection JE|JE]], [[Collection L|L]], [[Collection WA|WA]], [[Collection WRSL|WRSL]].
+*Exsiccatae*:
+- (1) *Flechten-Herbarium mit Beschreibung*, Gera (Kanitz) 1884, nos. 1-70, 16 p. text, publ. Apr-Jun 1884. No sets known (Nat. Nov. Apr 1884).
+- (2) *Moos-Herbarium*. I. *Musci frondosi*, II. *Musci hepaticae*. Nos. 1-90. Gera (Kanitz) 1882 (Nat. Nov. Mai 1882, Bot. Zeit. 30 Jun 1882).
+- (3) *Deutschlands verbreiteste wildwachsende Gräser* (100 nos., 15 p. text) 1883.
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19(1): 128. 1969, 19(2): 210. 1971.
 
 #### Bibliography and biography

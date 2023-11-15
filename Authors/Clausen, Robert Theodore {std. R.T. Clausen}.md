@@ -23,8 +23,8 @@ Barnhart 1: 354 (b. 26 Dec 1911, N.Y. City); Hortus 3: 1190; IF suppl. 4, p. 318
 
 #### Outside our period
 
-(1) *Sedum of the trans-Mexican volcanic belt*, an exposition of taxonomic methods, New York 1959, 390 p.
-(2) *Sedum of North-America*, north of the Mexican Plateau, Cornell University Press, Ithaca and London, p. 1-742, 184 ills., ISBN 0-8014-0950-0, published 26 Mar 1976, see Taxon 25(2-3): 348. 1976, see also the review by J.J. Wurdack, Taxon 26(1): 114. 9 Mar 1977.
+- (1) *Sedum of the trans-Mexican volcanic belt*, an exposition of taxonomic methods, New York 1959, 390 p.
+- (2) *Sedum of North-America*, north of the Mexican Plateau, Cornell University Press, Ithaca and London, p. 1-742, 184 ills., ISBN 0-8014-0950-0, published 26 Mar 1976, see Taxon 25(2-3): 348. 1976, see also the review by J.J. Wurdack, Taxon 26(1): 114. 9 Mar 1977.
 
 ### Publications
 

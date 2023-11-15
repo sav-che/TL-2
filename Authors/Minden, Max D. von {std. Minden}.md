@@ -17,10 +17,10 @@ Ainsworth p. 236, 325, 345; Barnhart 2: 494; BM 3: 1317, 7: 847; CSP 17: 264; Ke
 
 #### Composite works
 
-(1)*Phycomycetes, Krypt.-Fl. Brandenburg* 5(2): \[209\]-352. 20 Apr 1911.
-(2) *Saprolegniineae, Krypt.-Fl. Brandenburg* 5: 478-496. 10 Sep 1911, 407-608. 30 Jan 1912, 609-612. 30 Jun 1915.
-(3) *Schizomycetes...*, *Krypt.-Fl. Brandenburg*, Pilze 1, 1915 (with R. Kolkwitz and E. Jahn).
-(4) *Beiträge... Phycomyceten, in* Falck, *Mykol. Unters.* 146-254. 1916.
+- (1) *Phycomycetes, Krypt.-Fl. Brandenburg* 5(2): \[209\]-352. 20 Apr 1911.
+- (2) *Saprolegniineae, Krypt.-Fl. Brandenburg* 5: 478-496. 10 Sep 1911, 407-608. 30 Jan 1912, 609-612. 30 Jun 1915.
+- (3) *Schizomycetes...*, *Krypt.-Fl. Brandenburg*, Pilze 1, 1915 (with R. Kolkwitz and E. Jahn).
+- (4) *Beiträge... Phycomyceten, in* Falck, *Mykol. Unters.* 146-254. 1916.
 
 #### Eponymy
 

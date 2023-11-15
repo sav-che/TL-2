@@ -40,14 +40,14 @@ Barnhart 1: 448 (b. 2 Jan 1864, Venezia, d. 31 Jul 1924, Modena); BM 1: 448, 6: 
 
 #### Composite works
 
-(1) *Saccharomycetaceae* and *Schizomycetaceae in* P.A. Saccardo, *Syllogo Jungorum* (TL-2/4: no. 9898). – See e.g. A. Zahlbruckner, Bot. Centralbl. 44(46): 216-228. 1890.
-(2) L'*opera lichenologica* di Abramo Massalongo. Con IX tavolo colorate e inedite aggiornate da A. Zahlbruckner, *in* Conmemorazione secolare di Abramo Massalongo I, Verona 1933, p. \[i\]-viii, \[1\]-60, (9 col. and 1 "Bildnistafel"), see also F. Mattick, Hedwigia 73(2)(Beibl.): (110)-(111). 20 Dec 1933.
-(3) With D. Levi, *Phycotheca italica*. Collezione di Alghe Italiane essiccate. Con la collaborazione di F. Balsamo, A. Borzi, A. Piccone, P.A. Saccardo, Cent. 1, Venezia 1887. – (Bot. Zeit. 25 Mai 1883, Nat. Nov. Nov (1) 1888).
-(4) with Trevison di San Leon in P.A. Saccardo *Sylloge Fungorum* vol. 8. 1889.
-(5) *Gasteromycetes* in P.A. Saccardo's Sylloge Fungorum 7: 28-180. 1888.
-(6) *Sylloge Schizomycetum*, et P.A. Saccardo, Sylloge Fungorum 8, Patavii, Dec 1889, 168 p. (Nat. Nov. Mai (i) 18 p.).
-(7) *Notarisia*: Commentarium phycologicum... Rivista trimestale consacrata allo studio delle Alghe... Redattori G.B. de Toni e D. Levi-Morenos vols. 1-5, Venezia... 1866-1890 \[vols. 6-11, 1891-1896 by D. Levi-Morenos (director) and E. De Wildeman ("Redaktore")\]. – See e.g. BM 3: 1452.
-(8) *Ustilagineae et Uredineae in* P.A. Saccardo, Sylloge Fungorum 7(2): 449-882. Padova 1888 (see TL-2/4: no. 9898 (vol. 7(2), p. 1029)).
+- (1) *Saccharomycetaceae* and *Schizomycetaceae in* P.A. Saccardo, *Syllogo Jungorum* (TL-2/4: no. 9898). – See e.g. A. Zahlbruckner, Bot. Centralbl. 44(46): 216-228. 1890.
+- (2) L'*opera lichenologica* di Abramo Massalongo. Con IX tavolo colorate e inedite aggiornate da A. Zahlbruckner, *in* Conmemorazione secolare di Abramo Massalongo I, Verona 1933, p. \[i\]-viii, \[1\]-60, (9 col. and 1 "Bildnistafel"), see also F. Mattick, Hedwigia 73(2)(Beibl.): (110)-(111). 20 Dec 1933.
+- (3) With D. Levi, *Phycotheca italica*. Collezione di Alghe Italiane essiccate. Con la collaborazione di F. Balsamo, A. Borzi, A. Piccone, P.A. Saccardo, Cent. 1, Venezia 1887. – (Bot. Zeit. 25 Mai 1883, Nat. Nov. Nov (1) 1888).
+- (4) with Trevison di San Leon in P.A. Saccardo *Sylloge Fungorum* vol. 8. 1889.
+- (5) *Gasteromycetes* in P.A. Saccardo's Sylloge Fungorum 7: 28-180. 1888.
+- (6) *Sylloge Schizomycetum*, et P.A. Saccardo, Sylloge Fungorum 8, Patavii, Dec 1889, 168 p. (Nat. Nov. Mai (i) 18 p.).
+- (7) *Notarisia*: Commentarium phycologicum... Rivista trimestale consacrata allo studio delle Alghe... Redattori G.B. de Toni e D. Levi-Morenos vols. 1-5, Venezia... 1866-1890 \[vols. 6-11, 1891-1896 by D. Levi-Morenos (director) and E. De Wildeman ("Redaktore")\]. – See e.g. BM 3: 1452.
+- (8) *Ustilagineae et Uredineae in* P.A. Saccardo, Sylloge Fungorum 7(2): 449-882. Padova 1888 (see TL-2/4: no. 9898 (vol. 7(2), p. 1029)).
 
 ### Publications
 

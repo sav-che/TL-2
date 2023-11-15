@@ -26,7 +26,7 @@ AG 6(1): 818, 12(2): 724; Barnhart 2: 531; BFM 828, 830, 836, 1269, 1270, 3210; 
 
 #### Composite works
 
-(1) *Compositae*, with K. H. Zahn & J. Poelt, *in* Reichenbach, *Icon. fl. Germ. Helv*. 19(2): \[1\]-341, *pl. 1-308*. 1904-1911.
+- (1) *Compositae*, with K. H. Zahn & J. Poelt, *in* Reichenbach, *Icon. fl. Germ. Helv*. 19(2): \[1\]-341, *pl. 1-308*. 1904-1911.
 
 ### Publications
 

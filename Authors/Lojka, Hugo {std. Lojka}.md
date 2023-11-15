@@ -9,7 +9,7 @@ Lojka, Hugo (1845-1887), Hungarian lichenologist; born in Galicia; studied in Vi
 #### Herbarium and types
 
 [[Collection W|W]]; other material [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BOL|BOL]], [[Collection BPU|BPU]], [[Collection GZU|GZU]], [[Collection H|H]], [[Collection H|H]]-NYL, [[Collection K|K]], [[Collection LD|LD]], [[Collection NTM|NTM]], [[Collection PRC|PRC]], [[Collection SAM|SAM]], [[Collection SLO|SLO]], [[Collection STU|STU]], [[Collection WU|WU]], [[Collection Z|Z]], [[Collection ZT|ZT]]. L's lichenological library was acquired by A. Zahlbruckner; the Hazslinsky lichen herbarium, owned by Lojka, was acquired by [[Collection BP|BP]]; Lojka's own lichens are at [[Collection WU|WU]] (fide Laundon, 1979); however, according to Österr. bot. Z. (40: 428. 1890) the entire Lojka lichen herbarium went to [[Collection W|W]] (see also Gyelnik 1938). Before his death [[Collection W|W]] had already acquired many other Lojka collections as is clear from the numerous notices on these acquisitions in the ÖbZ. The notice in ÖbZ (38: 183. 1888) announcing the acquisition of the lichen herbarium by [[Collection BP|BP]] must refer to the Hazslinsky collection.
-Exsiccatae:
+*Exsiccatae*:
 1. *Iter tirolense*, 1884; set at [[Collection FH|FH]].
 2. *Lichenolheca* (Lichenes) *regni hungarici exsiccati*, fasc. 1-4, nos. 1-200, 1882-1884, sets see IH (50 sets issued).
 3. *Lichenotheca universalis* continens lichenes exsiccatos totius orbis. Budapestini (ex Officina Athenaei budapestinensis), fasc. 1-5, nos. 1-248, 1885-1886, sets see IH.

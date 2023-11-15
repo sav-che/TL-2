@@ -24,21 +24,21 @@ Amer. Men Sci. ed. 10: 1458; APN p. 235; Barnhart 2: 65; Bossert p. 148; DSB 17 
 
 #### Composite works
 
-(1) *Notes on the California species of Trillium*... 1916-1917 (TL-2/ Suppl. 3, nr. 22.559) of which Goodspeed was first author of parts 1 and 2, and sole author of 4, was treated earlier under R.P. Brandt.
-(2) First (not co-) author of *F-1 sp. hybr. Nicotiana*... 1917 (TL-2/Suppl. 4, nr. 26.520), which was treated earlier under R.E. Clausen.
-(3) Co-author with R.E. Clausen, *Appar. fl. measure*... 1918 (TL-2/Suppl. 4, nr. 26.521).
-(4) First author or co-author of parts 1-6 and 8 of *Interspecific hybridization in Nicotiana* I\[-XXVIII\]... 1922\[-1957\] (TL-2/Suppl. 4, nr. 26.523), most parts of which were treated earlier under R.E. Clausen.
-(5) Co-author of various parts of *Inheritance in Nicotiana tabacum* I\[-XXVIII\]... 1922 \[-1957\], (TL-2/Suppl. 4, nr. 26.523), which was treated earlier under R.E. Clausen.
-(6) Co-author with R.H. Chipman, *Inheritance in Nicotiana tabacum* VIII... 1927 (TL-2/ Suppl. 4, nr. 25.949).
-(7) Editor, *University of California Publications in Botany* (1930-1938).
-(8) Editor, *Essays in geobotany in honor of William Albert Setchell*... 1936 (see TL-2/5: 530, sub Festschrift).
+- (1) *Notes on the California species of Trillium*... 1916-1917 (TL-2/ Suppl. 3, nr. 22.559) of which Goodspeed was first author of parts 1 and 2, and sole author of 4, was treated earlier under R.P. Brandt.
+- (2) First (not co-) author of *F-1 sp. hybr. Nicotiana*... 1917 (TL-2/Suppl. 4, nr. 26.520), which was treated earlier under R.E. Clausen.
+- (3) Co-author with R.E. Clausen, *Appar. fl. measure*... 1918 (TL-2/Suppl. 4, nr. 26.521).
+- (4) First author or co-author of parts 1-6 and 8 of *Interspecific hybridization in Nicotiana* I\[-XXVIII\]... 1922\[-1957\] (TL-2/Suppl. 4, nr. 26.523), most parts of which were treated earlier under R.E. Clausen.
+- (5) Co-author of various parts of *Inheritance in Nicotiana tabacum* I\[-XXVIII\]... 1922 \[-1957\], (TL-2/Suppl. 4, nr. 26.523), which was treated earlier under R.E. Clausen.
+- (6) Co-author with R.H. Chipman, *Inheritance in Nicotiana tabacum* VIII... 1927 (TL-2/ Suppl. 4, nr. 25.949).
+- (7) Editor, *University of California Publications in Botany* (1930-1938).
+- (8) Editor, *Essays in geobotany in honor of William Albert Setchell*... 1936 (see TL-2/5: 530, sub Festschrift).
 
 #### Outside our period
 
-(1) *Plant hunters in the Andes*... New York (Farrar and Rinehart), xvi, 429 p., \[77\] p., *pl*., maps 1941; British ed.,... \[London\] (R. Hale), xiv, 429 p., maps. 1950; Ed. 2 (rev. & enlarged)... Berkeley (Univ. of California Press), viii, 378 p., maps. 1961; 2nd British ed.,... \[London (N. Spearman)\], vii, 378 p. maps (on lining papers) 1961; and Spanish transl. (by Francisco Cortada): *Cazadores de plantas en los Andes*... Buenos Aires (Editorial Sudamericana), 564 p., *24 lvs. pl.* 1944.
-(2) *Historia de la Botánica*... Buenos Aires (Républica) 1943.
-(3) *The genus Nicotiana*: origins, relationships, and evolution of its species in the light of their distribution, morphology, and cytogenetics... 1954; Reprint:... New Delhi (A.J. Reprints Agency) 1982. (*Gen. Nicotiana*).
-(4) Goodspeed, T.H. & H.E. Stork, *The University of California Botanical Garden Expeditions to the Andes* (1935-1952), with observations on the phytogeography of Peru, Univ. Calif. Publ. Bot. 28(3): 79-142. 1955.
+- (1) *Plant hunters in the Andes*... New York (Farrar and Rinehart), xvi, 429 p., \[77\] p., *pl*., maps 1941; British ed.,... \[London\] (R. Hale), xiv, 429 p., maps. 1950; Ed. 2 (rev. & enlarged)... Berkeley (Univ. of California Press), viii, 378 p., maps. 1961; 2nd British ed.,... \[London (N. Spearman)\], vii, 378 p. maps (on lining papers) 1961; and Spanish transl. (by Francisco Cortada): *Cazadores de plantas en los Andes*... Buenos Aires (Editorial Sudamericana), 564 p., *24 lvs. pl.* 1944.
+- (2) *Historia de la Botánica*... Buenos Aires (Républica) 1943.
+- (3) *The genus Nicotiana*: origins, relationships, and evolution of its species in the light of their distribution, morphology, and cytogenetics... 1954; Reprint:... New Delhi (A.J. Reprints Agency) 1982. (*Gen. Nicotiana*).
+- (4) Goodspeed, T.H. & H.E. Stork, *The University of California Botanical Garden Expeditions to the Andes* (1935-1952), with observations on the phytogeography of Peru, Univ. Calif. Publ. Bot. 28(3): 79-142. 1955.
 
 ### Publications
 

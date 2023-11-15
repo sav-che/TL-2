@@ -28,8 +28,8 @@ Barnhart 3: 481; BM 5: 2302; Dryander 3: 587, 5: 99; GR p. 484, cat. p. 73; Hawk
 
 #### Composite works
 
-(1) Author of the Linnaean dissertation *de Ledo palustri* (1775), see TL-2/4849.
-(2) *Lichen Acharii* Westr. *in* E. Acharius, *Lich. Sv. prodr.* 33, *col. pl.* (on t.p.) 1798, TL-2/9.
+- (1) Author of the Linnaean dissertation *de Ledo palustri* (1775), see TL-2/4849.
+- (2) *Lichen Acharii* Westr. *in* E. Acharius, *Lich. Sv. prodr.* 33, *col. pl.* (on t.p.) 1798, TL-2/9.
 
 #### Eponymy
 

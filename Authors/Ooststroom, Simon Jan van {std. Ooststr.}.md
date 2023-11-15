@@ -22,10 +22,10 @@ Backer p. 663; Barnhart 3: 31; BFM no. 1419; BJI 2: 127; BL 1: 104, 311, 2:423, 
 
 #### Composite works
 
-(1) Editor and in part author of H. Heukels, *Geill. schoofl. Nederl.*eds. 13-18, 1949-1975. see TL-2/2727; idem of H. Heukels en W. H. Wachter, *Bekn. schoolfl. Nederl.* eds. 6-x, 1947-x, TL-2/2723.
-(2) *Main editor: Flora Neerlandica*, vols. 1-4, 1948-1975.
-(3) *Senior editor: Gorteria*1-7, 1961-1974.
-(4) *Convolvulaceae, in*A. A. Pulle, *Fl. Surinam*4: 66-102. Mai 1932, 468-471. Mar 1937.
+- (1) Editor and in part author of H. Heukels, *Geill. schoofl. Nederl.*eds. 13-18, 1949-1975. see TL-2/2727; idem of H. Heukels en W. H. Wachter, *Bekn. schoolfl. Nederl.* eds. 6-x, 1947-x, TL-2/2723.
+- (2) *Main editor: Flora Neerlandica*, vols. 1-4, 1948-1975.
+- (3) *Senior editor: Gorteria*1-7, 1961-1974.
+- (4) *Convolvulaceae, in*A. A. Pulle, *Fl. Surinam*4: 66-102. Mai 1932, 468-471. Mar 1937.
 
 #### Handwriting
 

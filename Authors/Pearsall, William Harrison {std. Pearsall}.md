@@ -28,9 +28,9 @@ Barnhart 3: 60; BJI 2: 132; BL 2: 252, 267, 701; Clokie p. 222; Desmond p. 485; 
 
 #### Composite works
 
-(1) edited Salmon, C.E., *Fl. Surrey*, 1931.
-(2) Edited *Bot. Soc. Exch. Club Brit. Isles, Report*, 1931-1935.
-(3) With his son, William Harold Pearsall, *Phytoplankton of the British Lakes*, J. Linn. Soc. Bot. 43: 55-73. 1925.
+- (1) edited Salmon, C.E., *Fl. Surrey*, 1931.
+- (2) Edited *Bot. Soc. Exch. Club Brit. Isles, Report*, 1931-1935.
+- (3) With his son, William Harold Pearsall, *Phytoplankton of the British Lakes*, J. Linn. Soc. Bot. 43: 55-73. 1925.
 
 #### Note
 

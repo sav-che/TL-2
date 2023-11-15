@@ -26,10 +26,10 @@ Bossert p. 436; GR p. 709; IH 1 (ed. 1): 38, (ed. 2): 56, (ed. 3): 68, 88, (ed. 
 
 #### Composite works
 
-(1) *Morphologie und Anatomie der Musci, in* F. Verdoorn, ed., *Man. bryol.* 1-40. 1932 \[facs. ed. 1967\], TL-2/16.031.
-(2)Chief editor, R. v.d. Wijk, W.D. Margadant and P.A. Florschütz, *Index Muscorum*, Utrecht 1959-1969, 5 vols, (in series Regnum vegetabile of I.A.P.T.). – Note by F.A.S.: "Chief editor" was not an empty phrase in this case: van der Wijk was the major driving power behind this undertaking and his share in the work was by far the largest. – See also his *Index bryologicus*, Taxon 5(4): 97. 1954.
-(3) Editor, J.C. Schoute, *Biomorphology in general*, Verh. Kon. Ned. Akad. Wet., Amsterdam, Nat. sect. 2. 46(1). 1949.
-(4) With W.D. Margadant, *New combinations in mosses*, 1-7, *in* Taxon 7(9): 287-290. 1958, 8(2): 70-75, 8(3): 106. 1959, 9(2): 50-52. 1960, 9(6): 189-191. 1960, 10(1): 24-26. 1961, 11(7): 221-223. 1962.
+- (1) *Morphologie und Anatomie der Musci, in* F. Verdoorn, ed., *Man. bryol.* 1-40. 1932 \[facs. ed. 1967\], TL-2/16.031.
+- (2) Chief editor, R. v.d. Wijk, W.D. Margadant and P.A. Florschütz, *Index Muscorum*, Utrecht 1959-1969, 5 vols, (in series Regnum vegetabile of I.A.P.T.). – Note by F.A.S.: "Chief editor" was not an empty phrase in this case: van der Wijk was the major driving power behind this undertaking and his share in the work was by far the largest. – See also his *Index bryologicus*, Taxon 5(4): 97. 1954.
+- (3) Editor, J.C. Schoute, *Biomorphology in general*, Verh. Kon. Ned. Akad. Wet., Amsterdam, Nat. sect. 2. 46(1). 1949.
+- (4) With W.D. Margadant, *New combinations in mosses*, 1-7, *in* Taxon 7(9): 287-290. 1958, 8(2): 70-75, 8(3): 106. 1959, 9(2): 50-52. 1960, 9(6): 189-191. 1960, 10(1): 24-26. 1961, 11(7): 221-223. 1962.
 
 #### Eponymy
 

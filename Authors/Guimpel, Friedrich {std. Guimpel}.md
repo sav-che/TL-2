@@ -22,9 +22,9 @@ Barnhart 2: 99; BM 2: 751; MW p. 148; NI 2: 252 \[index\]; PR 3651-3654.
 #### Composite works
 
 Guimpel illustrated e.g.:
-(1) Hayne, F. G., *Getreue Darstellung... in der Arzneikunde gebräuchliche Gewächse*, Berlin 1805-1846.
-(2) Schlechtendal, D. F. L. von, *Hortus halensis*, Halle 1841-1853.
-(3) Schlechtendal, D. F. L. von, *Adumbrationes plantarum*, Berlin 1825-1832.
+- (1) Hayne, F. G., *Getreue Darstellung... in der Arzneikunde gebräuchliche Gewächse*, Berlin 1805-1846.
+- (2) Schlechtendal, D. F. L. von, *Hortus halensis*, Halle 1841-1853.
+- (3) Schlechtendal, D. F. L. von, *Adumbrationes plantarum*, Berlin 1825-1832.
 
 #### Note
 

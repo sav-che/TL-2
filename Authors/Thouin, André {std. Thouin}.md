@@ -45,10 +45,10 @@ AG 5(1): 117; Backer p. 583; Barnhart 3: 381 (b. 10 Feb 1747, d. 27 Oct 1824); B
 
 #### Composite works
 
-(1) Contributed to Déterville, *Nouv. dict. hist. nat.* ed. 1, 1802-1804 and ed. 2, 1816-1819, see TL-2/1418.
-(2) Co-editor, vols. 11 and 12 (1805) of F. Rozier, *Cours compl. agric.*, see TL-2/9741a.
-(3) *Introduction* to Jaume St. Hilaire, Traité arbr. forest. 1824, see TL-2/3310.
-(4) *Instruction sur la culture des arbres et des arbrisseaux, in* Jaume Saint-Hilaire, *Traité arbr. cult. France*, 1825, see TL-2/3309.
+- (1) Contributed to Déterville, *Nouv. dict. hist. nat.* ed. 1, 1802-1804 and ed. 2, 1816-1819, see TL-2/1418.
+- (2) Co-editor, vols. 11 and 12 (1805) of F. Rozier, *Cours compl. agric.*, see TL-2/9741a.
+- (3) *Introduction* to Jaume St. Hilaire, Traité arbr. forest. 1824, see TL-2/3310.
+- (4) *Instruction sur la culture des arbres et des arbrisseaux, in* Jaume Saint-Hilaire, *Traité arbr. cult. France*, 1825, see TL-2/3309.
 
 #### Note
 

@@ -75,9 +75,9 @@ William Jackson Hooker married Maria Turner (c. 1797-1872), eldest daughter of t
 
 #### Composite works
 
-(1) J. E. Smith, *The English flora*, vol. 5, part I. (Mosses, Hepaticae, Lichens, Characeae and Algae), London 1833, by W. J. Hooker as vol. 2 of the "*British flora*". See under J. E. Smith.
-(2) Botanical descriptions in W. Woodville, *Medical botany*, ed. 3, 5 vols. 1832, q.v.
-(3) Musci, in W. Curtis, *Flora londinensis*, ed. 2, see TL-2/1286.
+- (1) J. E. Smith, *The English flora*, vol. 5, part I. (Mosses, Hepaticae, Lichens, Characeae and Algae), London 1833, by W. J. Hooker as vol. 2 of the "*British flora*". See under J. E. Smith.
+- (2) Botanical descriptions in W. Woodville, *Medical botany*, ed. 3, 5 vols. 1832, q.v.
+- (3) Musci, in W. Curtis, *Flora londinensis*, ed. 2, see TL-2/1286.
 
 #### Handwriting
 

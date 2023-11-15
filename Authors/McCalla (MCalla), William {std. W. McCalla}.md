@@ -8,7 +8,8 @@ McCalla \[M'Calla\], William (1814-1849), Irish schoolmaster and algologist at R
 
 #### Herbarium and types
 
-Material at [[Collection K|K]] and [[Collection TCD|TCD]]; types of algae at [[Collection DBN|DBN]] (Koster). Exsiccatae: *Algae hibernicae*, vol. 1, nos. 1-50, vol. 2, nos. 1-50, Dublin 1848, sets at [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection TCD|TCD]].
+Material at [[Collection K|K]] and [[Collection TCD|TCD]]; types of algae at [[Collection DBN|DBN]] (Koster).
+*Exsiccatae*: *Algae hibernicae*, vol. 1, nos. 1-50, vol. 2, nos. 1-50, Dublin 1848, sets at [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection TCD|TCD]].
 
 #### Bibliography and biography
 

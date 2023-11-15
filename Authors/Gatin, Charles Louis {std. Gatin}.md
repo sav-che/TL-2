@@ -29,7 +29,7 @@ Barnhart 2: 32; BFM p. 285 (index); BL 2: 102, 657; BM 6: 358; BN p. 174; DBF 15
 
 #### Composite works
 
-(1) Co-author with É.C. Perrot, *Les Algues marines*... 1911; see TL-2/4, nr. 7714, where no credit is given to Gatin).
+- (1) Co-author with É.C. Perrot, *Les Algues marines*... 1911; see TL-2/4, nr. 7714, where no credit is given to Gatin).
 
 ### Publications
 

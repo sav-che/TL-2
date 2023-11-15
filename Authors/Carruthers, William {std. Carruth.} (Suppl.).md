@@ -39,18 +39,18 @@ Andrews ed. 2: 244-245; Backer p. 105-106; Barnhart 1: 316 (b. 29 Mai 1830, Moff
 
 #### Composite works
 
-(1) John E. Gray, *Handbook of British water-weeds or Algae* p. iv, 123, London 1864 "Diatomaceae" by W. Carruthers, p. 75-116.
-(2) R.I. Murchison, *Siluria*. p. xv, 523, *37 pl*. London ed. 4. 1867, "*On Graptolites*" by W. Carruthers.
-(3) R.F. Burton and C.F.T. Drake, *Unexplored Syria*: visits to the Libanus,... vol. 2, App. III, *Lebanon plants* by W. Carruthers.
-(4) B.C. Seemann, *Flora vitiensis*, 1865-1873. TL-2/11.613, q.v. *Ferns* by W. Carruthers.
-(5) E.M. Plumtree, *The bible educator* 1873-1875, *Botany of the Bible* by W. Carruthers.
-(6) F. Dixon, The geology of Sussex, ed. 2. 1878, *Description of Tertiary Plant-remains from Bracklesham and Worthing, Sussex*... by W. Carruthers.
-(7) *Annals and Magazine of Natural History* ser. v, 1878 by W. Carruthers.
-(8) H.O. Forbes, *A naturalist's wanderings in the Eastern Archipelago*, Appendix VI, *Prodromus florae Timorensis* 1885 by W. Carruthers.
-(9) British Museum, Nat. Hist., *Catalogue of the African plants collected* by F. Welwitsch (TL-2/2747), *Vascular Cryptogams*, vol. 2(2): 261-279. 1901, by W. Carruthers.
-(10) *Report of the Committee*, consisting of Messrs. Carruthers, W.F.R. Weldon, J.G. Baker, G.M. Murray and W.T. Thiselton-Dyer, appointed for the purpose of *exploring the flora of the Bahamas*... Brit. Assoc. Adv. Sci. 58: 361-363. 1889. – See Rehder 1: 337 and I. Urban, Symb. ant. 1: 135-136. 1898.
-(11) *On the original portraits of Linnaeus*, Proc. Linn. Soc. London 118: 59-69, *pl. 1-8.* Oct 1906. – See also KR p. 115.
-(12) See also BM 1: 320: 9 titles with other botanists.
+- (1) John E. Gray, *Handbook of British water-weeds or Algae* p. iv, 123, London 1864 "Diatomaceae" by W. Carruthers, p. 75-116.
+- (2) R.I. Murchison, *Siluria*. p. xv, 523, *37 pl*. London ed. 4. 1867, "*On Graptolites*" by W. Carruthers.
+- (3) R.F. Burton and C.F.T. Drake, *Unexplored Syria*: visits to the Libanus,... vol. 2, App. III, *Lebanon plants* by W. Carruthers.
+- (4) B.C. Seemann, *Flora vitiensis*, 1865-1873. TL-2/11.613, q.v. *Ferns* by W. Carruthers.
+- (5) E.M. Plumtree, *The bible educator* 1873-1875, *Botany of the Bible* by W. Carruthers.
+- (6) F. Dixon, The geology of Sussex, ed. 2. 1878, *Description of Tertiary Plant-remains from Bracklesham and Worthing, Sussex*... by W. Carruthers.
+- (7) *Annals and Magazine of Natural History* ser. v, 1878 by W. Carruthers.
+- (8) H.O. Forbes, *A naturalist's wanderings in the Eastern Archipelago*, Appendix VI, *Prodromus florae Timorensis* 1885 by W. Carruthers.
+- (9) British Museum, Nat. Hist., *Catalogue of the African plants collected* by F. Welwitsch (TL-2/2747), *Vascular Cryptogams*, vol. 2(2): 261-279. 1901, by W. Carruthers.
+- (10) *Report of the Committee*, consisting of Messrs. Carruthers, W.F.R. Weldon, J.G. Baker, G.M. Murray and W.T. Thiselton-Dyer, appointed for the purpose of *exploring the flora of the Bahamas*... Brit. Assoc. Adv. Sci. 58: 361-363. 1889. – See Rehder 1: 337 and I. Urban, Symb. ant. 1: 135-136. 1898.
+- (11) *On the original portraits of Linnaeus*, Proc. Linn. Soc. London 118: 59-69, *pl. 1-8.* Oct 1906. – See also KR p. 115.
+- (12) See also BM 1: 320: 9 titles with other botanists.
 
 ### Publications
 

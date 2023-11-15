@@ -33,9 +33,9 @@ Barnhart 3: 420 (b. 24 Dec 1864, d. 17 Oct 1932); Biol.-Dokum. 18: 9505-9506; BM
 
 #### Composite works
 
-(1) Parts 2 and 3 of W.F.R. Suringar, *Ill. Melocactus*, 1903-1905; see under W.F.R. Suringar.
-(2) *De planten in het zandverstuivingsterrein bij Kootwijk* en hunne groeiwijze, *in* P. Tesch et al., *De zandverstuivingen bij Kootwijk* in woord en beeld, p. 40-70. Utrecht 1926.
-(3) *Cyperaceae, in* Nova Guinea 8 (Bot.)(4): 695-713 \[714 err.\], *pl. 113-118.* 1912.
+- (1) Parts 2 and 3 of W.F.R. Suringar, *Ill. Melocactus*, 1903-1905; see under W.F.R. Suringar.
+- (2) *De planten in het zandverstuivingsterrein bij Kootwijk* en hunne groeiwijze, *in* P. Tesch et al., *De zandverstuivingen bij Kootwijk* in woord en beeld, p. 40-70. Utrecht 1926.
+- (3) *Cyperaceae, in* Nova Guinea 8 (Bot.)(4): 695-713 \[714 err.\], *pl. 113-118.* 1912.
 
 #### Memorial volume
 

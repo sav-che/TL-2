@@ -19,8 +19,8 @@ Barnhart 2: 311 (Robert William); IH 2: 377; Kew 3: 294; Roon p. 62.
 
 #### Composite works
 
-(1) Drygalski, E. v., (edit.), *Deutsche Südpolar-Expedition* 1901-1903, with H. Herden, *Die marinen Diatomeen der deutschen Süd-Polar-Expedition* 1901-1903, vol. 8: 447-715, pl. *31-43* (1-13); Berlin, Leipzig 1928.
-(2) For further composite works see the excellent, detailed bibliography of Kolbe by Selling (1962).
+- (1) Drygalski, E. v., (edit.), *Deutsche Südpolar-Expedition* 1901-1903, with H. Herden, *Die marinen Diatomeen der deutschen Süd-Polar-Expedition* 1901-1903, vol. 8: 447-715, pl. *31-43* (1-13); Berlin, Leipzig 1928.
+- (2) For further composite works see the excellent, detailed bibliography of Kolbe by Selling (1962).
 
 #### Eponymy
 

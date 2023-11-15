@@ -27,8 +27,8 @@ Barnhart 1: 435; BM 1: 435; Bossert p. 97; GR p. 676; GR cat. p. 62; IH 2: 156; 
 
 #### Composite works
 
-(1) *Lichenes* in J.M.C. Lange, *Consp. H. Groenland* (TL-2/4185).
-(2) *Lichenes Daniae* eller Danmarks laver, 1869, see TL-2/608 sub E. Rostrup.
+- (1) *Lichenes* in J.M.C. Lange, *Consp. H. Groenland* (TL-2/4185).
+- (2) *Lichenes Daniae* eller Danmarks laver, 1869, see TL-2/608 sub E. Rostrup.
 
 ### Publications
 

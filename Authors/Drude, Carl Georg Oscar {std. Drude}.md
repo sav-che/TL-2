@@ -29,7 +29,7 @@ Barnhart 1: 472; BFM 1675; BM 1: 480, 6: 280; Bossert p. 107; CSP 9: 737, 12: 20
 
 #### Composite works
 
-(1) contributed to EP, *Die natürliche Pflanzenfamilien* ed. 1:
+- (1) contributed to EP, *Die natürliche Pflanzenfamilien* ed. 1:
 (a) *Palmae*, II(3): 1-48. 26 Mar 1887; 49-93. Jun 1887; 165. Mar 1889; Nachtr. II-IV. 1: 49-58. Jul 1897, 2: 8. 8 Oct 1900.
 (b) *Cyclanthaceae*, II(3): 93-96. Jun 1887, 97-101. Aug 1887; Nachtr. II-IV. 1: 58. Jul 1897.
 (c) *Umbelliferae*, III(8): 63-96. Apr 1897; 97-144. Dec 1897; 144-192. Mar 1898; 193-272. Jul 1898; Nachtr. II-IV. 2: 51-52. 8 Oct 1900.
@@ -39,8 +39,8 @@ Barnhart 1: 472; BFM 1675; BM 1: 480, 6: 280; Bossert p. 107; CSP 9: 737, 12: 20
 (g) *Lennoaceae*, IV(1): 12-15. Oct 1889.
 (h) *Ericaceae*, IV(1): 15-48. Oct 1889; 49-65. Dec 1889; suppl. Nachtr. II-IV. 1: 269-270. Oct 1897; 2: 52-53. 8 Oct 1900.
 (i) *Epacridaceae*, IV(1): 66-79. Dec 1889; suppl. Nachtr. II-IV. 1: 270. Oct 1897.
-(2) *Vegetation der Erde*: vol. 6. 1902. *Der hercynische Florenzenbezirk* – (see below).
-(3) Martius, *Fl. bras.*: *Cyclanthaceae* et *Palmae* I, fasc. 85, vol. 3(2): 225-460. *t. 53-106.* 1 Nov 1881; *Palmae* II, fasc. 86, vol. 3(2): 461-584. *t. 107-134.* 1 Mai 1882.
+- (2) *Vegetation der Erde*: vol. 6. 1902. *Der hercynische Florenzenbezirk* – (see below).
+- (3) Martius, *Fl. bras.*: *Cyclanthaceae* et *Palmae* I, fasc. 85, vol. 3(2): 225-460. *t. 53-106.* 1 Nov 1881; *Palmae* II, fasc. 86, vol. 3(2): 461-584. *t. 107-134.* 1 Mai 1882.
 
 #### Festschrift
 

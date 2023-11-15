@@ -8,7 +8,8 @@ Klotzsch, Johann Friedrich (1805-1860), German botanist at Berlin; curator of th
 
 #### Herbarium and types
 
-[[Collection B|B]] (mostly destroyed). Exsiccatae: *Herbarium vivum mycologicum* sistens fungorum per totam germaniam crescentium collectionem perfectam, Berlin 1832, cent. 1-2, nos. 1 -200, sets at [[Collection B|B]] (complete set, extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MSTR|MSTR]], [[Collection OXF|OXF]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection UPS|UPS]]. – For the continuation of this series see under L. Rabenhorst. A detailed review of title development and editors is given by IH and by Stevenson (1971). For an alphabetical index see Kohlmeyer (1962).
+[[Collection B|B]] (mostly destroyed).
+*Exsiccatae*: *Herbarium vivum mycologicum* sistens fungorum per totam germaniam crescentium collectionem perfectam, Berlin 1832, cent. 1-2, nos. 1 -200, sets at [[Collection B|B]] (complete set, extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MSTR|MSTR]], [[Collection OXF|OXF]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection UPS|UPS]]. – For the continuation of this series see under L. Rabenhorst. A detailed review of title development and editors is given by IH and by Stevenson (1971). For an alphabetical index see Kohlmeyer (1962).
 *Ref*.: Klotzsch, J. F., Linnaea (Lit.) 8: 17-19. 1833.
 - Kohlmeyer, J., Willdenowia 2: 785. 1961; Index alphabeticus Klotzschii et Rabenhorstii herbarii mycologici. Weinheim 1962, xvi, 230, 1 p., Beih. Nova Hedw. 4.
 - Stevenson, J., Taxon 16: 112-119. 1967; Beih. Nova Hedwigia 36: 274-296. 1971.
@@ -32,8 +33,8 @@ ADB 16: 233-235; AG 4: 709; Ainsworth p. 70, 74, 116, 315; Backer p. 304; Barnha
 
 #### Composite works
 
-(1) Link, H. F., Klotzsch, F. et Otto, F., *Icones plantarum rariorum horti regni bot. Berol.*, see under Link.
-(2) edited vol. 14 (1, 2) of Hayne, – *Getreue Darstellung*, 1846; see Hayne, F. G.
+- (1) Link, H. F., Klotzsch, F. et Otto, F., *Icones plantarum rariorum horti regni bot. Berol.*, see under Link.
+- (2) edited vol. 14 (1, 2) of Hayne, – *Getreue Darstellung*, 1846; see Hayne, F. G.
 
 #### Eponymy
 

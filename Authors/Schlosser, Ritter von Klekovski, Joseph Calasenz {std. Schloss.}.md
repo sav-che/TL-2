@@ -33,11 +33,11 @@ AG 6(1): 127, 5(2): 189; Barnhart 3: 230 (b. 25 Jan 1808, d. 27 Apr 1882); BM 4:
 #### Note
 
 Travel reports Croatia:
-(1) *Reiseflora aus Süd-Kroatien* 1852: Österr. bot. W. 2: 322-325. 7 Oct, 329-332. 14 Oct, 337-340, 21 Oct, 345-348. 28 Oct, 355-356. 4 Nov, 361-363. 11 Nov, 369-370. 18 Nov, 377-379. 25 Nov, 385-387. 2 Dec, 393-394. 9 Dec, 401-402. 16 Dec 1852.
-(2) *Maturhistorische Wanderungen* durch einige Gegenden Nord-Croatiens im Jahre 1853: Österr. bot. W. 4: 107-109. 30 Mar, 114-117. 6 Apr, 122-124. 13 Apr, 131-134. 20 Apr, 137-141. 27 Apr, 145-147. 4 Mai 1854 (with Ludwig von Farkaš Vukotinovic, 1813-1893).
-(3) *Reiseflora aus Süd-Kroatien* \[186\]: Österr. bot. W. 7: 246-248. 30 Jul, 254-256. 6 Aug, 263-265. 13 Aug, 270-272. 20 Aug, 279-281. 27 Aug 1857.
-(4) *Geognostisch-botanischer Reisebericht über das kroatische Küstenland*, das Likaner und Otocaner Grenz-Regiment, von Dr. Joseph Schloser \[sic\] and Ludwig v. Vukotinovic s.l.n.d., p. \[1\]-9. *Copy*: LC.
-(5) Not seen by us: *Bilinar. excursuria.* Upsala u sabiranje i oznacivanje bilinah u Hrvatskoj i Dalma ciji. Zagreb 1876. Oct., xxvii, 606 p.
+- (1) *Reiseflora aus Süd-Kroatien* 1852: Österr. bot. W. 2: 322-325. 7 Oct, 329-332. 14 Oct, 337-340, 21 Oct, 345-348. 28 Oct, 355-356. 4 Nov, 361-363. 11 Nov, 369-370. 18 Nov, 377-379. 25 Nov, 385-387. 2 Dec, 393-394. 9 Dec, 401-402. 16 Dec 1852.
+- (2) *Maturhistorische Wanderungen* durch einige Gegenden Nord-Croatiens im Jahre 1853: Österr. bot. W. 4: 107-109. 30 Mar, 114-117. 6 Apr, 122-124. 13 Apr, 131-134. 20 Apr, 137-141. 27 Apr, 145-147. 4 Mai 1854 (with Ludwig von Farkaš Vukotinovic, 1813-1893).
+- (3) *Reiseflora aus Süd-Kroatien* \[186\]: Österr. bot. W. 7: 246-248. 30 Jul, 254-256. 6 Aug, 263-265. 13 Aug, 270-272. 20 Aug, 279-281. 27 Aug 1857.
+- (4) *Geognostisch-botanischer Reisebericht über das kroatische Küstenland*, das Likaner und Otocaner Grenz-Regiment, von Dr. Joseph Schloser \[sic\] and Ludwig v. Vukotinovic s.l.n.d., p. \[1\]-9. *Copy*: LC.
+- (5) Not seen by us: *Bilinar. excursuria.* Upsala u sabiranje i oznacivanje bilinah u Hrvatskoj i Dalma ciji. Zagreb 1876. Oct., xxvii, 606 p.
 
 #### Eponymy
 
@@ -83,8 +83,8 @@ Dissertatio inauguralis botanica *de Papilionaceis in Germania sponte crescentib
 *Co-author*: Ludwig von Farkaš Vukotinovic (1813-1893).
 *Publ*.: 1869 (Flora 10 Sep 1869; BSbF post 15 Nov 1869; ÖbZ 1 Jun 1869), p. \[i\]-cxli, \[1\]-1362. *Copies*: B, G, MO, NY. – p. viii: "Omnium initiam est durum".
 *Preliminary publ*.: (1) J.C. Schlosser, Vorarbeiten zu einer Flora Croatiens, Österr. bot. W. 2: 322-325, 329-332, 337-340, 345-348, 353-3565 361-363, 369-370, 377-379, 385-387. 393-394, 401-402. 1852, 7: 246-248, 254-256, 263-265, 270-272, 279-281. 1857.
-(2) J.C. Schlosser & L. Vukotinovic, Naturhistorische Wanderungen durch einige Gegenden Nord-Croatiens im Jahre 1853, Österr. bot. W. 4: 107-109, 114-117, 122-124, 131-134, 137-141, 145-147. 1854.
-(3) A Croatian prepublication of the flora in Jugoslav. Akad. znan., umjet., Zagreb \[Agram\] 4, 1868 was not seen by us.
+- (2) J.C. Schlosser & L. Vukotinovic, Naturhistorische Wanderungen durch einige Gegenden Nord-Croatiens im Jahre 1853, Österr. bot. W. 4: 107-109, 114-117, 122-124, 131-134, 137-141, 145-147. 1854.
+- (3) A Croatian prepublication of the flora in Jugoslav. Akad. znan., umjet., Zagreb \[Agram\] 4, 1868 was not seen by us.
 *Additions*: A. Neilreich, *Nachtr. Veg.*-*Verh*.-*Croatien* 1869, see TL-2/6725.
 *Note*: Schlosser dedicated *Senecio Vukotinovici* (Schlosser, Österr. bot. Z. 31: 5. Jan 1881) to his co-author.
 *Ref*.: Kanitz, A., Flora 52: 317-318. 10 Jul 1869 (rev.).

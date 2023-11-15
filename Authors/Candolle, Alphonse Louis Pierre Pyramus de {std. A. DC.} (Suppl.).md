@@ -14,9 +14,9 @@ Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of A
 
 #### Notes
 
-(1) The Candolle herbarium (of all Candolles treated) is availble on IDC 800/2 microfiche.
-(2) The herbarium (400.000), contains material of all Candolles, L'Héritier, Puerari, Wallich, dupl. Lamarck, etc.
-(3) Material of collections apart from G-DC, are not specified in IH 2: 114; we have no precise informations on holdings in herbaria, but they will be found also in the herbaria listed under A.P. Candolle.
+- (1) The Candolle herbarium (of all Candolles treated) is availble on IDC 800/2 microfiche.
+- (2) The herbarium (400.000), contains material of all Candolles, L'Héritier, Puerari, Wallich, dupl. Lamarck, etc.
+- (3) Material of collections apart from G-DC, are not specified in IH 2: 114; we have no precise informations on holdings in herbaria, but they will be found also in the herbaria listed under A.P. Candolle.
 
 #### Bibliography and biography
 
@@ -100,13 +100,13 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Backer p. 18 (*Alphonsea*); Barnhart 
 
 #### Notes
 
-(1) Correspondence F.A.W. Miquel – Alph. de Candolle at U.
-(2) TL-2/ 977, *Calques fl. Mexique*: Dale Johnson informed us, that *pl. 756-794* were lacking in the copies of HU, MO, NY and US which might possibly not be published.
+- (1) Correspondence F.A.W. Miquel – Alph. de Candolle at U.
+- (2) TL-2/ 977, *Calques fl. Mexique*: Dale Johnson informed us, that *pl. 756-794* were lacking in the copies of HU, MO, NY and US which might possibly not be published.
 
 #### Composite works
 
-(1) See *Rapp. \[Not.\] pl. rar. Genève*, TL-2/997, no. 5-9, by A.P. de Candolle and Alph. de Candolle.
-(2) See F.M.J. Welwitsch, *La végétaion du la Plateau de Huilla*... 1861, TL-2/17.111. ("Lettre") from Welwitsch to Alph. de Candolle).
+- (1) See *Rapp. \[Not.\] pl. rar. Genève*, TL-2/997, no. 5-9, by A.P. de Candolle and Alph. de Candolle.
+- (2) See F.M.J. Welwitsch, *La végétaion du la Plateau de Huilla*... 1861, TL-2/17.111. ("Lettre") from Welwitsch to Alph. de Candolle).
 
 ### Publications
 

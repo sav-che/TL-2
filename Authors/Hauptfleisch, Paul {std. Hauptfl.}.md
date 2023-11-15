@@ -17,7 +17,7 @@ Barnhart 2: 139; BM 2: 801; CSP 15: 687; De Toni 1: lxii, 4: xxix; LS 11525-1152
 
 #### Composite works
 
-(1) In EP, *Die natürlichen Pflanzenfamilien*, die als *fossile Algen* (und Bakterien) beschriebenen Pfianzenreste oder Abdrücke, 1 (2): 515-569. Dec 1897 (TL-2/1710).
+- (1) In EP, *Die natürlichen Pflanzenfamilien*, die als *fossile Algen* (und Bakterien) beschriebenen Pfianzenreste oder Abdrücke, 1 (2): 515-569. Dec 1897 (TL-2/1710).
 
 ### Publications
 

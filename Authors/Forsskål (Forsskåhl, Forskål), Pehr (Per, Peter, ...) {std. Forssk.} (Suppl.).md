@@ -66,8 +66,8 @@ See TL-2/1: 856.
 
 #### Note
 
-(1) The entry for Forsskål, *Flora aegypt.-arab.*... 1775 (TL-2/1, nr. 1819), can be amended as follows:
+- (1) The entry for Forsskål, *Flora aegypt.-arab.*... 1775 (TL-2/1, nr. 1819), can be amended as follows:
 *Publ*.: Jun 1775 \[not 1 Oct 1775, as stated earlier\], see I. Friis, Kew Bull. 38: 457-467. 1983. *Microform*: (a) *Micro-opaque*: New York (Readex Microprint), 1969, 4 cards, 23×15 cm. (Landmarks of Science). *Copy*: (n.v.). (b) *Microfiche*: Zug, Switzerland (Inter Documentation Company), \[19--\]. *Copy*: HH (n.v.). (c) *Microfilm*: London (British Library), 1986, 1 reel (252 fr., 35 mm). *Copy*: (n.v.). (d) *Microfiche*: Westport, Conn. (Meckler/ Chadwyck-Healey Publishing), \[1987?\], 5 microfiches (Plant taxonomic lit. microfiche coll., "12273G5-12277F6"). *Copy*: MO (n.v.).
 *Reprint* \[of 1775 publ.\]: 1983,... Dehra Dun, India (Bishen Singh Mahendra Pal Singh),... 32, cxxvi, 219 p. *Copies*: K (n.v.), LC (n.v.), NY.
-(2) Forsskål, *Ic. rer. nat.*... 1776 (see TL-2/1, nr. 1820) is available in various microform editions: (a) *Microfiche*: IDC 433 (as noted in TL-2/1). (b) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "8139G1-8140G6"). *Copy*: MO (n.v.). (c) *Microfilm*: London (British Library), 1987, 1 reel (71 fr., 35 mm). *Copy*: (n.v.).
+- (2) Forsskål, *Ic. rer. nat.*... 1776 (see TL-2/1, nr. 1820) is available in various microform editions: (a) *Microfiche*: IDC 433 (as noted in TL-2/1). (b) *Microfiche*: Westport, Conn. (Meckler/Chadwyck-Healey Pub.), \[1987?\], 2 microfiches (Plant taxonomic lit. microfiche coll., "8139G1-8140G6"). *Copy*: MO (n.v.). (c) *Microfilm*: London (British Library), 1987, 1 reel (71 fr., 35 mm). *Copy*: (n.v.).
 

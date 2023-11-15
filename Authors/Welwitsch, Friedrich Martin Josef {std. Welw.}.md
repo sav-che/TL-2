@@ -68,8 +68,8 @@ H. Dolezal, *Friedrich Welwitsch. Leben und Werk.* 1961, reprinted from Portugal
 
 #### Composite works
 
-(1) Welwitsch distributed in Nov-Dec 1865: *Welwitschii iter angolense*: diagnoses plantarum novarum quas in Africa aequinoctiali et praesertim in regnis Angola et Benguela annis 1853-1860 collexit Fridericus Welwitsch. Sectio I. Londini: 1865. *Copy*: G, p. \[1\]-16. – Papers with this title were published in J. Bot. 2: 326-339. 1864 (J. Müller, Euphorb.), 3: 33-34. 1865 (B. Seemann, Hederac.) and 3: 329-333. 1865 (id. Bignon.).
-(2) W.P.Hiern, *Catalogue of the African plants* collected by Dr. Friedrich Welwitsch in 1853-1861... London 1896-1901, 2 vols. – See TL-2/2747 (IDC 550). – For a modern assessment and information on dates of publication see W.T. Stearn, *The catalogue of the* *African plants* collected by Dr. Friedrich Welwitsch (1896-1901) and its litigious background, *in* Garcia de Orta, Bot. 1(1-2): 101-104. 1973. – The introduction of the *Catalogue* contains a biography and bibliography of W. by Hiern on p. vii-xxv.
+- (1) Welwitsch distributed in Nov-Dec 1865: *Welwitschii iter angolense*: diagnoses plantarum novarum quas in Africa aequinoctiali et praesertim in regnis Angola et Benguela annis 1853-1860 collexit Fridericus Welwitsch. Sectio I. Londini: 1865. *Copy*: G, p. \[1\]-16. – Papers with this title were published in J. Bot. 2: 326-339. 1864 (J. Müller, Euphorb.), 3: 33-34. 1865 (B. Seemann, Hederac.) and 3: 329-333. 1865 (id. Bignon.).
+- (2) W.P.Hiern, *Catalogue of the African plants* collected by Dr. Friedrich Welwitsch in 1853-1861... London 1896-1901, 2 vols. – See TL-2/2747 (IDC 550). – For a modern assessment and information on dates of publication see W.T. Stearn, *The catalogue of the* *African plants* collected by Dr. Friedrich Welwitsch (1896-1901) and its litigious background, *in* Garcia de Orta, Bot. 1(1-2): 101-104. 1973. – The introduction of the *Catalogue* contains a biography and bibliography of W. by Hiern on p. vii-xxv.
 
 #### Handwriting
 

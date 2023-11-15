@@ -14,8 +14,8 @@
 
 #### Notes
 
-(1) For a detailed treatment see MD p. 60-67.
-(2) Published in Paris a collection of poems: "Délassements poétiques".
+- (1) For a detailed treatment see MD p. 60-67.
+- (2) Published in Paris a collection of poems: "Délassements poétiques".
 
 #### Bibliography and biography
 

@@ -22,8 +22,8 @@ BL 2: 422, 653; IH 2: 196, 549; Kew 2: 266; Morren ed. 10: 90; TL-2/3: 948 (inde
 
 #### Composite works
 
-(1) Editor for ca. 20 years of the serial *Floralia*.
-(2) Second author with J.W. Moll and W. Pijp, *Rapp. Papaver*... 1894, see TL2/3, nr. 6215.
+- (1) Editor for ca. 20 years of the serial *Floralia*.
+- (2) Second author with J.W. Moll and W. Pijp, *Rapp. Papaver*... 1894, see TL2/3, nr. 6215.
 
 ### Publications
 

@@ -10,7 +10,8 @@ Flowers, Seville (1900-1968), American bryologist.
 
 #### Herbarium and types
 
-[[Collection UT|UT]]. – Exsiccatae: *Utah mosses* (Fasc, i, nos. 1-25, Salt Lake City, Utah, 1933), set at [[Collection NY|NY]].
+[[Collection UT|UT]].
+*Exsiccatae*: *Utah mosses* (Fasc, i, nos. 1-25, Salt Lake City, Utah, 1933), set at [[Collection NY|NY]].
 *Ref*.: IH 2: 201.
 - Sayre, Mem. New York Bot. Gard. 19(2): 201. 1971.
 

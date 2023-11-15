@@ -24,10 +24,10 @@ Barnhart 3: 512 (b. 20 Oct 1857, d. 10 Apr 1919); BM 5: 2347; CSP 19: 683-684; L
 
 #### Composite works
 
-(1) With P. Holdefleiss, *Julius Kühn*, sein Leben und Wirken, Festschrift zum 80. Geburtstag. Berlin 1905.
-(2) Editor, with O. Warburg, *Zeitschrift für tropische Landwirtschaft*, der Tropenpflanzer, 1(1-12). 1897. Berlin.
-(3) Editor, with O. Warburg, *Der Tropenpflanzer*, vols. 2-22, 1898-1919. Berlin (after Apr 1919 "F. Wohltmann †").
-(4) Editor, with O. Warburg, *Beihefte zum* "*Tropenpflanzer*", vols. 1(1)-19(2-3), 1900-1919. Berlin.
+- (1) With P. Holdefleiss, *Julius Kühn*, sein Leben und Wirken, Festschrift zum 80. Geburtstag. Berlin 1905.
+- (2) Editor, with O. Warburg, *Zeitschrift für tropische Landwirtschaft*, der Tropenpflanzer, 1(1-12). 1897. Berlin.
+- (3) Editor, with O. Warburg, *Der Tropenpflanzer*, vols. 2-22, 1898-1919. Berlin (after Apr 1919 "F. Wohltmann †").
+- (4) Editor, with O. Warburg, *Beihefte zum* "*Tropenpflanzer*", vols. 1(1)-19(2-3), 1900-1919. Berlin.
 
 #### Thesis
 

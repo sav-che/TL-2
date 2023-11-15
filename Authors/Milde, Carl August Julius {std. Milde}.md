@@ -8,7 +8,8 @@ Milde, Carl August Julius (1824-1971), German high school teacher and botanist a
 
 #### Herbarium and types
 
-[[Collection FR|FR]] (Pterid.), [[Collection U|U]] (1000 Bryoph.), [[Collection S|S]] (Bryoph.), [[Collection B|B]] (*Equisetum*, 300, extant); further material at [[Collection BP|BP]], [[Collection BRNU|BRNU]], [[Collection C|C]], [[Collection G|G]], [[Collection H|H]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MW|MW]], [[Collection PC|PC]], [[Collection PR|PR]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]]. Exsiccatae: *Bryotheca silesiaca*, cent. 1-5, nos. 1-500 (after 1869) set e.g. at [[Collection NY|NY]]. Milde also offered *Gefässkryptogamen Schlesiens* for sale (1855). – Letters to D. F. L. von Schlechtendal at [[Collection HAL|HAL]].
+[[Collection FR|FR]] (Pterid.), [[Collection U|U]] (1000 Bryoph.), [[Collection S|S]] (Bryoph.), [[Collection B|B]] (*Equisetum*, 300, extant); further material at [[Collection BP|BP]], [[Collection BRNU|BRNU]], [[Collection C|C]], [[Collection G|G]], [[Collection H|H]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MW|MW]], [[Collection PC|PC]], [[Collection PR|PR]], [[Collection S|S]], [[Collection U|U]], [[Collection W|W]].
+*Exsiccatae*: *Bryotheca silesiaca*, cent. 1-5, nos. 1-500 (after 1869) set e.g. at [[Collection NY|NY]]. Milde also offered *Gefässkryptogamen Schlesiens* for sale (1855). – Letters to D. F. L. von Schlechtendal at [[Collection HAL|HAL]].
 
 #### Bibliography and biography
 
@@ -39,7 +40,8 @@ ADB 21: 729-733; Barnhart 2: 489; BM 3: 1312; Bossert p. 267; CSP 4: 385-387, 6:
 
 #### Composite works
 
-(1) *Ophioglossaceae und Equiselaceae, in* Fenzl, *Reise Novara*, Heft 4, 1870, see TL-2/1764. (2) *Equiselaceae, in* Martius, *Fl. bras.* 1(2): 629-644, *pl. 71-77.* 1 Jul 1872.
+- (1) *Ophioglossaceae und Equiselaceae, in* Fenzl, *Reise Novara*, Heft 4, 1870, see TL-2/1764.
+- (2) *Equiselaceae, in* Martius, *Fl. bras.* 1(2): 629-644, *pl. 71-77.* 1 Jul 1872.
 
 #### Eponymy
 

@@ -29,9 +29,9 @@ Barnhart 3: 52; BFM 2481; BJI 2: 130; BM 4: 1527, 8: 986; Bossert p. 302 (err. P
 
 #### Composite works
 
-(1) *Heterokonten*, x, ii, 1092 p., 1939, *in* Rabenhorst, L., *Krypt*.-*Fl. Deutschland* vol. 11.
-(2) Editor *Bot. Centralbl.* (from 1924 with Uhlworm, from 1930 alone), vols. 40 (1924)-45 (1929) and 46 (1930)-62 (1944).
-(3) Botanical co-editor *Archiv für Protistenkunde* 38 (1918)-97 (1945).
+- (1) *Heterokonten*, x, ii, 1092 p., 1939, *in* Rabenhorst, L., *Krypt*.-*Fl. Deutschland* vol. 11.
+- (2) Editor *Bot. Centralbl.* (from 1924 with Uhlworm, from 1930 alone), vols. 40 (1924)-45 (1929) and 46 (1930)-62 (1944).
+- (3) Botanical co-editor *Archiv für Protistenkunde* 38 (1918)-97 (1945).
 
 #### Eponymy
 

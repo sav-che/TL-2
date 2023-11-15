@@ -28,8 +28,8 @@ Barnhart 1: 470; BM 1: 477, 6: 279; CSP 14: 671; IF p. 693; IH 2: 167; Kew 2: 11
 
 #### Composite works
 
-(1) Drake del Castillo and 11 others: Congrès international de botanique, 2e session, *Vienne* 1905. 1. *Circulaire* concernant l'opportunité de modifications à introduire dans la *Nomenclature botanique* 1905, p. \[1-3\]. *Copy*: L.
-(2) Drake del Castillo, E., *in* A. Grandidier, *Histoire physique, naturelle et politique de Madagascar*, see TL-2/no. 2109.
+- (1) Drake del Castillo and 11 others: Congrès international de botanique, 2e session, *Vienne* 1905. 1. *Circulaire* concernant l'opportunité de modifications à introduire dans la *Nomenclature botanique* 1905, p. \[1-3\]. *Copy*: L.
+- (2) Drake del Castillo, E., *in* A. Grandidier, *Histoire physique, naturelle et politique de Madagascar*, see TL-2/no. 2109.
 
 ### Publications
 

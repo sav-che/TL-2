@@ -19,8 +19,8 @@ Backer p. 306; Barnhart 2: 311; BJI 1: 33; BM 2: 1013; Bossert p. 216; CSP 16: 4
 
 #### Composite works
 
-(1) *Kryptogamenflora der Mark Brandenburg, Schizomycetes*, 5(1): \[1\]-186. 27 Dec 1909.
-(2) Editor of *Pflanzenforschung*, Hefte 1-23, 1922-1941.
+- (1) *Kryptogamenflora der Mark Brandenburg, Schizomycetes*, 5(1): \[1\]-186. 27 Dec 1909.
+- (2) Editor of *Pflanzenforschung*, Hefte 1-23, 1922-1941.
 
 #### Eponymy
 

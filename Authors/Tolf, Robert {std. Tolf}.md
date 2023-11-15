@@ -8,7 +8,8 @@ Tolf, Robert (1849-1903), Swedish botanist and teacher; assistant dyer at Vrigst
 
 #### Herbarium and types
 
-Musci at [[Collection C|C]], [[Collection DPU|DPU]], [[Collection GB|GB]] (700), [[Collection H|H]], [[Collection LD|LD]] (600), [[Collection S|S]]. – *Exsiccatae*: *Sveriges torfbildande växter*, utgifna af Svenska Mosskulturföreningen, fasc. 1-2, nos. 1-104, Jönköping 1900-1901 (see Sayre 1969).
+Musci at [[Collection C|C]], [[Collection DPU|DPU]], [[Collection GB|GB]] (700), [[Collection H|H]], [[Collection LD|LD]] (600), [[Collection S|S]].
+*Exsiccatae*: *Sveriges torfbildande växter*, utgifna af Svenska Mosskulturföreningen, fasc. 1-2, nos. 1-104, Jönköping 1900-1901 (see Sayre 1969).
 
 #### Bibliography and biography
 

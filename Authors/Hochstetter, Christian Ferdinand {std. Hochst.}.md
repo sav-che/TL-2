@@ -34,8 +34,8 @@ AG 2(2): 465, 5(1): 687; Backer p. 269; Barnhart 2: 184; BM 2: 851; Bossert p. 1
 
 #### Composite works
 
-(1) With E. G. Steudel, *Enumeratio plantarum Germaniae*, 1826, see under Steudel.
-(2) C. F. Hochstetter Published a second edition of the part dealing with plants of G. H. v. Schubert, *Lehrbuch der Naturgeschichte*, (*Naturgeschichte des Pflanzenreiches in Bildern*), Esslingen (Verlag von J. F. Schreiber) 1865 (PR 4104). A third edition was edited by Moritz Willkomm, Esslingen (id.) 1870; this ed. was reprinted in "Stereotyp-Abdruck" at least six times (no. 6, 1879). See Schubert, G. H. v.
+- (1) With E. G. Steudel, *Enumeratio plantarum Germaniae*, 1826, see under Steudel.
+- (2) C. F. Hochstetter Published a second edition of the part dealing with plants of G. H. v. Schubert, *Lehrbuch der Naturgeschichte*, (*Naturgeschichte des Pflanzenreiches in Bildern*), Esslingen (Verlag von J. F. Schreiber) 1865 (PR 4104). A third edition was edited by Moritz Willkomm, Esslingen (id.) 1870; this ed. was reprinted in "Stereotyp-Abdruck" at least six times (no. 6, 1879). See Schubert, G. H. v.
 
 #### Handwriting
 

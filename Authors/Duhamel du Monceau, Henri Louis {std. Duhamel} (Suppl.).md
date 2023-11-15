@@ -107,5 +107,5 @@ De l'*exploitation* des *bois*, ou moyens de tirer un partie aventageux des tail
 **Notes**
 *Publ*.: 1773, p. \[i\*\*-vi\*\*\], \[i\*\]-xiv\*, i-lxxii, 1-363, *pl. 1-16* (uncol. copp. engr.). *Copy*: B.
 *Notes*: (1) This is a translation into Castilian language of TL-2/no. 1545.
-(2) There also exists a: Compendio del Tratado del celebre Duhamel du Monceau sobre siembras y plantios de árboles y de su cultivo... Madrid en la imprente real. 1805. p. \[v\*\]-xxxiii\*, \[i-xiv\], \[1\]-318. *Copy*: B.
+- (2) There also exists a: Compendio del Tratado del celebre Duhamel du Monceau sobre siembras y plantios de árboles y de su cultivo... Madrid en la imprente real. 1805. p. \[v\*\]-xxxiii\*, \[i-xiv\], \[1\]-318. *Copy*: B.
 

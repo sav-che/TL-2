@@ -51,10 +51,10 @@ ADB 33: 581-584 (E. Wunschman); AG 3: 592, 593; Backer p. 525; BB p. 271-272; Bi
 
 #### Composite works
 
-(1) Editor and translator of F.H. v. Kittlitz, *Twenty-four views of the vegetation... of the Pacific* 1861, see TL-2/3690. Was published 1-14 Aug 1862 fide Seemann, Bonplandia 9: 233. 1861 ("Vorige Woche").
-(2) *Descriptions* \[parts 20, 21; 1858, 1860\] *in* A. Hartinger, *Parad. vindob.* 1844-1860, see TL-2/2417. Additional copy seen: USDA. – Brief history of the book, mainly taken from the preface, evidently by B.C. Seemann, in Bonplandia 10: 100-102. 1862.
-(3) Editor, *Bonplandia* 1-10, 1853-1862, see below.
-(4) Editor, *Journal of Botany* 1-7, 1863-1869, see below.
+- (1) Editor and translator of F.H. v. Kittlitz, *Twenty-four views of the vegetation... of the Pacific* 1861, see TL-2/3690. Was published 1-14 Aug 1862 fide Seemann, Bonplandia 9: 233. 1861 ("Vorige Woche").
+- (2) *Descriptions* \[parts 20, 21; 1858, 1860\] *in* A. Hartinger, *Parad. vindob.* 1844-1860, see TL-2/2417. Additional copy seen: USDA. – Brief history of the book, mainly taken from the preface, evidently by B.C. Seemann, in Bonplandia 10: 100-102. 1862.
+- (3) Editor, *Bonplandia* 1-10, 1853-1862, see below.
+- (4) Editor, *Journal of Botany* 1-7, 1863-1869, see below.
 
 #### Travel reports
 
@@ -246,21 +246,21 @@ I. *Synopsis Crescentiacearum*: an enumeration of all the crescentiaceous plants
 **Notes**
 *Publ*.: in monthly parts, all dated; several volumes with independently paged supplements. *Copies*: U; IDC 399.
 *Editors*: (1) Berthold Seemann, sole editor vols. 1-7, 1863-1869, assisted by John Gilbert Baker (1834-1920) and Henry Trimen (1843-1896) for vols. 8-9, 1870-1871.
-(2) Henry Trimen, assisted by J.G. Baker, vols. 9-13, 1872-1875 (new series 1-4).
-(3) Henry Trimen, sole editor, vol. 14, 1876 (n.s. 5).
-(4) Henry Trimen, assisted by Spencer Le Marchant Moore (1850-1931), vols. 15-17, 1877-1879 (n.s. 6-8).
-(5) James Britten (1846-1924), vols. 18-62, 1880-1924 (vols. 18-20 also as n.s. 9-11).
-(6) Alfred Barton Rendle (1865-1938), vols. 63-75, 1925-1937.
-(7) John Ramsbottom (1885-1974), vols. 76-80, 1938-1945 (vol. 80, no. 956, August 1942, was published July, 1945).
+- (2) Henry Trimen, assisted by J.G. Baker, vols. 9-13, 1872-1875 (new series 1-4).
+- (3) Henry Trimen, sole editor, vol. 14, 1876 (n.s. 5).
+- (4) Henry Trimen, assisted by Spencer Le Marchant Moore (1850-1931), vols. 15-17, 1877-1879 (n.s. 6-8).
+- (5) James Britten (1846-1924), vols. 18-62, 1880-1924 (vols. 18-20 also as n.s. 9-11).
+- (6) Alfred Barton Rendle (1865-1938), vols. 63-75, 1925-1937.
+- (7) John Ramsbottom (1885-1974), vols. 76-80, 1938-1945 (vol. 80, no. 956, August 1942, was published July, 1945).
 *Title*: (1) The Journal of Botany, British and Foreign, vols. *1-17*, 1863-1879, and *21-80*, 1883-1945.
-(2) Trimen's Journal of Botany, British and Foreign, vols. 18-20, 1880-1882. For some timeafter Seemann's death the journal continued to be referred to unofficially as *Seemann's Journal of Botany*; this, however, never appeared on the official t.p.'s.
+- (2) Trimen's Journal of Botany, British and Foreign, vols. 18-20, 1880-1882. For some timeafter Seemann's death the journal continued to be referred to unofficially as *Seemann's Journal of Botany*; this, however, never appeared on the official t.p.'s.
 *Imprints*: (1) London (Robert Hardwicke,...), as in heading, vols. 1-5, 1863-1868.
-(2) London (L. Reeve and Co.,...), vols. 6-7. 1868-1869.
-(3) London (Taylor and Co.,...), vols. 8-10. 1870-1872.
-(4) London (Ranken & Co.,...), vols. 11-15. 1873-1877.
-(5) London (West, Newman & Co.,...), vols. 16-53. 1878-1915.
-(6) London (Adlard & Son and West Newman), vol. 54. 1916.
-(7) London (Taylor and Francis,...), vols. 55-80. 1917-1945.
+- (2) London (L. Reeve and Co.,...), vols. 6-7. 1868-1869.
+- (3) London (Taylor and Co.,...), vols. 8-10. 1870-1872.
+- (4) London (Ranken & Co.,...), vols. 11-15. 1873-1877.
+- (5) London (West, Newman & Co.,...), vols. 16-53. 1878-1915.
+- (6) London (Adlard & Son and West Newman), vol. 54. 1916.
+- (7) London (Taylor and Francis,...), vols. 55-80. 1917-1945.
 *Frontipiece portraits*: Berthold *Seemann*, vol. 10 (1872). Friedrich \[Martin Joseph\] *Welwitsch*, (1806-1876), vol. 11 (1873).
 John Joseph *Bennett*, vol. 14. 1876.
 Alexander \[Carl Heinrich\] *Braun*, (1805-1877), vol. 15. 1877.

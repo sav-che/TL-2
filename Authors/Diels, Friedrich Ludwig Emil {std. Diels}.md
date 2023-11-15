@@ -32,7 +32,7 @@ Barnhart 1: 454; BM 1: 459, 6: 268; BFM p. 280; Bossert p. 102; CSP 14: 604; DTS
 
 #### Composite works
 
-(1) Contributed to EP, *Nat. Pflanzenfam.* ed. 1:
+- (1) Contributed to EP, *Nat. Pflanzenfam.* ed. 1:
 (a) *Cyatheaceae*, I(4): 113-139. 21 Jul 1899 (p. 138-139 foss. by H. Potonié).
 (b) *Polypodiaceae*, I(4): 139-192. 21 Jul 1899, 193-288. 12 Sep 1899, 289-336, 6 Oct 1899. 12 Mai 1900 (notes on fossils by H. Potonié).
 (c) *Parkeriaceae*, I(4): 339-342. 12 Mai 1900.
@@ -40,13 +40,13 @@ Barnhart 1: 454; BM 1: 459, 6: 268; BFM p. 280; Bossert p. 102; CSP 14: 604; DTS
 (e) *Gleicheniaceae*, I(4): 350-356. 12 Mai 1900 (foss. by H. Potonié).
 (f) *Schizaeaceae*, I(4): 356-372. 12 Mai 1900 (p. 371-372 foss. by H. Potonié).
 (g) *Osmundaceae*, I(4): 372-380. 12 Mai 1900 (p. 380 foss. by H. Potonié).
-(2) EP, *Die natürliche Pflanzenfamilien* ed. 2:
+- (2) EP, *Die natürliche Pflanzenfamilien* ed. 2:
 (a) *Byblidaceae*, 18a: 286-288. 1930.
 (b) *Cephalotaceae*, 18a: 71-74. 1930.
 (c) *Droseraceae*, 17b: \[766\]-784. 1936.
 (d) *Roridulaceae*, 18a: 346-348. 1930.
 (e) *Iridaceae*, 15a: 463-505. 1930.
-(3) Engler, *Pflanzenreich*:
+- (3) Engler, *Pflanzenreich*:
 (a) *Droseraceae*, IV. 112: 1-136. 31 Jun 1906.
 (b) *Menispermaceae*, IV. 94: 334-345. 6 Dec 1910.
 

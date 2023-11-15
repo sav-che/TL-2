@@ -8,7 +8,8 @@ Williams, Thomas Albert (1865-1900), American agricultural botanist and lichenol
 
 #### Herbarium and types
 
-[[Collection US|US]] (19.400). – Further material at [[Collection BH|BH]], [[Collection DPU|DPU]], [[Collection DS|DS]], [[Collection E|E]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection SDC|SDC]], [[Collection WELC|WELC]], [[Collection Y|Y]]. – *Field notes*: [[Collection US|US]]. – *Letters* at [[Collection FH|FH]], [[Collection GH|GH]], [[Collection NY|NY]]. *Exsiccatae*: With C.E. Cummings and A.B. Seymour, *Lichenes boreali-americani*, see C.E. Cummings (TL-2/1: 571), A.B. Seymour (TL-2/5: 543) and Sayre (1969) p. 120; for a planned continuation after W.'s death see Bot. Gaz. 32: 444. 1901.
+[[Collection US|US]] (19.400). – Further material at [[Collection BH|BH]], [[Collection DPU|DPU]], [[Collection DS|DS]], [[Collection E|E]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection SDC|SDC]], [[Collection WELC|WELC]], [[Collection Y|Y]]. – *Field notes*: [[Collection US|US]]. – *Letters* at [[Collection FH|FH]], [[Collection GH|GH]], [[Collection NY|NY]].
+*Exsiccatae*: With C.E. Cummings and A.B. Seymour, *Lichenes boreali-americani*, see C.E. Cummings (TL-2/1: 571), A.B. Seymour (TL-2/5: 543) and Sayre (1969) p. 120; for a planned continuation after W.'s death see Bot. Gaz. 32: 444. 1901.
 
 #### Bibliography and biography
 
@@ -20,8 +21,8 @@ Barnhart 3: 500 (b. 25 Nov 1865, d. 23 Dec 1900); BM 5: 2327; Bossert p. 437; Ew
 
 #### Composite works
 
-(1) *Ascolichenes, in* A.S. Hitchcock, *List of cryptogams collected in the Bahamas, Jamaica and Grand Cayman*, Ann. Rep. Missouri Bot. Gard. 9: 112-115. 1898.
-(2) *Lichenes, in* E.L. Greene, *Plantae Bakerianae* 2(1): 30. 1901, TL-2/2142.
+- (1) *Ascolichenes, in* A.S. Hitchcock, *List of cryptogams collected in the Bahamas, Jamaica and Grand Cayman*, Ann. Rep. Missouri Bot. Gard. 9: 112-115. 1898.
+- (2) *Lichenes, in* E.L. Greene, *Plantae Bakerianae* 2(1): 30. 1901, TL-2/2142.
 
 ### Publications
 

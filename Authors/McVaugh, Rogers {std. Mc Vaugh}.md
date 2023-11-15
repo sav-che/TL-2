@@ -27,8 +27,8 @@ Barnhart 2: 433 (b. 17 Aug 1909); BFM 2344; Bossert p. 261; GR p. 231; Hortus 3:
 
 #### Composite works
 
-(1) NAF, *Campanulaceae*, 32 A(1): 1-134. 5 Jan 1943.
-(2) *Flora of Peru, Myrtaceae*, 4(2): 567-818. 1958.
+- (1) NAF, *Campanulaceae*, 32 A(1): 1-134. 5 Jan 1943.
+- (2) *Flora of Peru, Myrtaceae*, 4(2): 567-818. 1958.
 
 #### Festschrift
 

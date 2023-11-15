@@ -35,12 +35,12 @@ Barnhart 2: 482; BM 3: 1299; Bret. p. 622; Clokie p. 211; CSP 4: 360-361, 8: 392
 
 #### Composite works
 
-(1) see Ledebour, C. F. von, *Reise durch das Altai-Gebirge*.
-(2) Co-author, C. F. von Ledebour, *Flora altaica* (1829-1833), see TL-2/2: 4283.
-(3) with A. G. H. Bongard, *Verz. Saisang-nor Pfl.*, see TL-2/1: 635; was published Jun 1841, fide Ricker (1908).
-(4) with E. R. v. Trautvetter, *Florula ochotensis phaenogama*, in A. Th. v. Middendorff, *Reise in den äussersten Norden und Osten Sibiriens* 1 (2), 1856. See under Trautvetter.
-(5) *Editor, Beiträge zur Pflanzenkunde des Russischen Reiches*, 1-11, 1844-1859; Beiträge by various authors.
-(6) Co-author, with F. E. L. von Fischer and E. A. von Regel, *Sert, petrop*., see TL-2/1788. Correction: Decas 1, 1846 is by F. E. L. Fischer and C. A. Meyer. *Copy*: BR. *Copy* of decas 1 and 2 at NY, *decas 1*: 1846, p. \[i-x\], 1 plan, *pl. 1-10* (with text), *decas 2*: 1852, p. \[i-v\], 7 pl. architect. drawings, *10 pl*. (col.; with text).
+- (1) see Ledebour, C. F. von, *Reise durch das Altai-Gebirge*.
+- (2) Co-author, C. F. von Ledebour, *Flora altaica* (1829-1833), see TL-2/2: 4283.
+- (3) with A. G. H. Bongard, *Verz. Saisang-nor Pfl.*, see TL-2/1: 635; was published Jun 1841, fide Ricker (1908).
+- (4) with E. R. v. Trautvetter, *Florula ochotensis phaenogama*, in A. Th. v. Middendorff, *Reise in den äussersten Norden und Osten Sibiriens* 1 (2), 1856. See under Trautvetter.
+- (5) *Editor, Beiträge zur Pflanzenkunde des Russischen Reiches*, 1-11, 1844-1859; Beiträge by various authors.
+- (6) Co-author, with F. E. L. von Fischer and E. A. von Regel, *Sert, petrop*., see TL-2/1788. Correction: Decas 1, 1846 is by F. E. L. Fischer and C. A. Meyer. *Copy*: BR. *Copy* of decas 1 and 2 at NY, *decas 1*: 1846, p. \[i-x\], 1 plan, *pl. 1-10* (with text), *decas 2*: 1852, p. \[i-v\], 7 pl. architect. drawings, *10 pl*. (col.; with text).
 
 #### Handwriting
 

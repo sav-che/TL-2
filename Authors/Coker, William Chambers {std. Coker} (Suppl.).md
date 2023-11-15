@@ -30,12 +30,12 @@ Ainsworth p. 341; Barnhart 1: 364 (b. 24 Oct 1894, Hartsville, S.C., d. 27 Jun 1
 
 #### Composite works
 
-(1) W.C. Coker and Henry Roland Totten, *Trees* of the *Southeastern States*... Chapel-Hill, 1934, see Totten, TL-2/6: no. 14.775. – G.T. Hastings, Torreya 34(4): 98-99. 24 Aug 1934 (rev.).
-(2) *Saprolegniales*, W.C. Coker and V.D. Matthews in North American Flora 2(1): 15-76. 26 Nov 1937.
+- (1) W.C. Coker and Henry Roland Totten, *Trees* of the *Southeastern States*... Chapel-Hill, 1934, see Totten, TL-2/6: no. 14.775. – G.T. Hastings, Torreya 34(4): 98-99. 24 Aug 1934 (rev.).
+- (2) *Saprolegniales*, W.C. Coker and V.D. Matthews in North American Flora 2(1): 15-76. 26 Nov 1937.
 
 #### Outside our period
 
-(1) With Alma H. Beers. *The stipitate Hydnums of the Eastern United States*, University of North Carolina Press, Chapel Hill, 1951, 211 p., *60 pl*. – Reprinted by Verlag von J. Cramer, Bibliotheca mycologica vol. 27, 1970, 211 p., *60 pl*. – See Taxon 20: 372. 21 Mai 177. *Copy*: FAS(B).
+- (1) With Alma H. Beers. *The stipitate Hydnums of the Eastern United States*, University of North Carolina Press, Chapel Hill, 1951, 211 p., *60 pl*. – Reprinted by Verlag von J. Cramer, Bibliotheca mycologica vol. 27, 1970, 211 p., *60 pl*. – See Taxon 20: 372. 21 Mai 177. *Copy*: FAS(B).
 
 ### Publications
 

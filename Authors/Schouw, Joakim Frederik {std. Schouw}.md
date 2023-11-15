@@ -36,8 +36,8 @@ AG 5(4): 171; Barnhart 3: 239 (b. 7 Feb 1789, d. 28 Apr 1852); Biol.-Dokum. 16: 
 
 #### Composite works
 
-(1) Edited (with J.M.L. Vahl) G.C. Oeder, *Fl. dan*. fasc. 40, 1843; see TL-2/7001. – For complete bibliographic accounts of *Fl. dan*. see G. Buchheim, Huntia 3(3): 161-178. 1979 and C. Christensen, Dansk. Bot. Hist. 2: 558-560. 1926.
-(2) Editor, *Dansk Tidsskrift* vols. 1-4, and 1 fasc. (25-27), 1847-1851.
+- (1) Edited (with J.M.L. Vahl) G.C. Oeder, *Fl. dan*. fasc. 40, 1843; see TL-2/7001. – For complete bibliographic accounts of *Fl. dan*. see G. Buchheim, Huntia 3(3): 161-178. 1979 and C. Christensen, Dansk. Bot. Hist. 2: 558-560. 1926.
+- (2) Editor, *Dansk Tidsskrift* vols. 1-4, and 1 fasc. (25-27), 1847-1851.
 
 #### Note
 

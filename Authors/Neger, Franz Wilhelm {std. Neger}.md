@@ -25,8 +25,8 @@ Bamhart 2: 542; BFM 2608, 3147; BJI 1: 42, 2: 123; BM 3: 1409; Bossert p. 283; C
 
 #### Composite works
 
-(1)*Uredineae et Ustilagineae fuegianae a P. Dusén collectae*, in Wiss. Erg. Schwed. Exped. Magellansländern 1895-1897, 3(3): 59-64. 1899, also in K. Sv. Vet.-Akad. Förhandl. 1899(7).
-(2) In: *Kryptogamenflora Brandenburg*:
+- (1) *Uredineae et Ustilagineae fuegianae a P. Dusén collectae*, in Wiss. Erg. Schwed. Exped. Magellansländern 1895-1897, 3(3): 59-64. 1899, also in K. Sv. Vet.-Akad. Förhandl. 1899(7).
+- (2) In: *Kryptogamenflora Brandenburg*:
 (a) *Aspergillaceae*, 7(1): 75-88. 15 Aug 1905.
 (b) *Erysiphaceae*, 7(1): 96-135. 15 Aug 1905.
 (c) *Perisporiaceae*, 7(1): 136-146. 15 Aug 1905.

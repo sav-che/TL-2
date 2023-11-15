@@ -53,7 +53,7 @@ ADB 32: 450-452 (E. Wunschmann); AG 2(2): 428; Backer p. 520; Barnhart 3: 240 (b
 
 #### Composite works
 
-(1) With C.F.P. von Martius, *Hort. reg. monac.* 1829, TL-2/5530. *Copies*: B-S, G, H, HH, M, NY, PH, USDA. – For authorship see p. vi.
+- (1) With C.F.P. von Martius, *Hort. reg. monac.* 1829, TL-2/5530. *Copies*: B-S, G, H, HH, M, NY, PH, USDA. – For authorship see p. vi.
 
 #### Handwriting
 
@@ -61,11 +61,11 @@ Candollea 33: 179-180. 1978.
 
 #### Note
 
-(1) For an account by von Schrank himself on the history of the botanical garden at München see Flora 1: 533-559. 1818. With respect to contemporary criticism that München, because of altitude and its allegedly not very fertile soil was not a suitable location for a botanical garden ("beynahe lächerlich), v. Schrank remarks: "Man würde weniger deräsonniren, wenn mann über nichts räsonnirete, was man nicht versteht". The present glorious state of the garden bears out Schrank's early and wise judgment.
+- (1) For an account by von Schrank himself on the history of the botanical garden at München see Flora 1: 533-559. 1818. With respect to contemporary criticism that München, because of altitude and its allegedly not very fertile soil was not a suitable location for a botanical garden ("beynahe lächerlich), v. Schrank remarks: "Man würde weniger deräsonniren, wenn mann über nichts räsonnirete, was man nicht versteht". The present glorious state of the garden bears out Schrank's early and wise judgment.
 
 #### Note
 
-(2) Main biography and bibliography: Zimmermann (1981).
+- (2) Main biography and bibliography: Zimmermann (1981).
 
 #### Eponymy
 

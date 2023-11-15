@@ -10,8 +10,8 @@
 
 #### Notes
 
-(1) Joseph Burtt Davy was treated as Davy, J.B. in TL-2/1:602-603. We follow Desmond (1977) to use Burtt Davy as the family name. (He used the name *Burtt Davy* as well as *Burtt-Davy* irregularly).
-(2) For a manual of the flowering plants and ferns of the Transvaal. – London 1926, see TL-2: 602-603.
+- (1) Joseph Burtt Davy was treated as Davy, J.B. in TL-2/1:602-603. We follow Desmond (1977) to use Burtt Davy as the family name. (He used the name *Burtt Davy* as well as *Burtt-Davy* irregularly).
+- (2) For a manual of the flowering plants and ferns of the Transvaal. – London 1926, see TL-2: 602-603.
 
 #### Herbarium and types
 
@@ -44,7 +44,7 @@ Barnhart 1:289, 427; BJI 2: 23; BL1: 38, 50, 59, 61, 168; BM 1: 429, 6: 256; CSP
 
 #### Composite works
 
-(1) See L. Chalk and J. Burtt Davy, editors, *Forest trees and timbers of the British Empire*, Imperial Forest Institute, Oxford. I. Some East African Coniferae and Leguminosae, by L. Chalk (q.v.), J. Burtt Davy and H.E. Desch 1932, 68 p. *10 pl*. – See also C.R. Metcalfe, Kew Bull. 1934(3): 140-141. 16 Mai 1934, 1935 (10): 588-589. 31 Dec 1935.
+- (1) See L. Chalk and J. Burtt Davy, editors, *Forest trees and timbers of the British Empire*, Imperial Forest Institute, Oxford. I. Some East African Coniferae and Leguminosae, by L. Chalk (q.v.), J. Burtt Davy and H.E. Desch 1932, 68 p. *10 pl*. – See also C.R. Metcalfe, Kew Bull. 1934(3): 140-141. 16 Mai 1934, 1935 (10): 588-589. 31 Dec 1935.
 
 ### Publications
 

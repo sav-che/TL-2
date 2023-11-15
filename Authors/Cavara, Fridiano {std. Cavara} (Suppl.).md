@@ -36,8 +36,8 @@ Barnhart 1: 324 (b. 17 Nov 1857, Mongardino, d. 25 Jun 1929, Napoli); BJI 2: 26;
 
 #### Notes
 
-(1) Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici*, see TL-2/4: 934.
-(2) *Fungi Longobardiae exsiccatae* (see TL-2/1: 474):
+- (1) Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici*, see TL-2/4: 934.
+- (2) *Fungi Longobardiae exsiccatae* (see TL-2/1: 474):
 *1*. Ticini 1891, nos. 1-50. – Bot. Centralbl. 49(2): 42. 19 Jan 1892.
 *2*. Pavia 1892, nos. 51-100. – Bot. Centralbl. 53(7/8): 235-236. 15 Feb 1893. *3*. Pavia 1893, nos. 101-150. – Bot. Centralbl. 57(3): 71-72. 10 Jan 1894, Hedwigia Nov-Dec 1893.
 *4*. Pavia 1894, nos. 151-200. – Bot. Centralbl. 61(9): 316-317. 25 Feb 1895, ÖBZ 1 Apr 1895.

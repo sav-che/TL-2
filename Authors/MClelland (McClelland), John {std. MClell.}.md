@@ -23,7 +23,8 @@ Backer p. 343; Barnhart 2: 420 (d. 11 Jul 1883); BB p. 197; BM 3: 1206; CSP 4: 1
 
 #### Composite works
 
-(1) Edited several of the works by William Griffith (1810-1845), q.v. (2) Edited: *The Calcutta Journal of Natural History*, vols. 1-8, 1840-1847.
+- (1) Edited several of the works by William Griffith (1810-1845), q.v.
+- (2) Edited: *The Calcutta Journal of Natural History*, vols. 1-8, 1840-1847.
 
 #### Eponymy
 

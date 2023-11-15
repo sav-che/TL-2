@@ -30,8 +30,8 @@ APN p. 213; Backer p. 650; Barnhart 2: 20; Biol.-Dokum. 6: 75.743-75.749; Bosser
 
 #### Outside our period
 
-(1) Furtado, C.X., A *further commentary* on the *Rules of Nomenclature*. Gard. Bull. Singapore 12(2): 311-377. 7 Dec 1949.
-(2) Furtado, C.X. & Srisuko Montien, *A revision of Lagerstroemia* L. (*Lythraceae*). Gard. Bull. Singapore 24: 185-335. 9 Aug 1969.
+- (1) Furtado, C.X., A *further commentary* on the *Rules of Nomenclature*. Gard. Bull. Singapore 12(2): 311-377. 7 Dec 1949.
+- (2) Furtado, C.X. & Srisuko Montien, *A revision of Lagerstroemia* L. (*Lythraceae*). Gard. Bull. Singapore 24: 185-335. 9 Aug 1969.
 
 ### Publications
 

@@ -31,16 +31,20 @@ Barnhart 1: 416; BJI 2 (Generalreg.): p. 33; BL 2: 216-217; Bossert p. 93; Hortu
 
 #### Composite works
 
-(1) J.G. Millais, *Magnolias*... TL-2/6027. Dandy collaborator, as well as Henry Wilson (1878-1930).
-(2) Die *Pflanzenareale* 2. Reihe, Heft 5, Jena 1919, Dandy, J.E. and R.D'O. Good, *Magnoliaceae* Karte 41-43.
-(3) *Miscellaneous phanerogams*, *in* Index nominum genericorum plantarum 1979, 311 entries.
+- (1) J.G. Millais, *Magnolias*... TL-2/6027. Dandy collaborator, as well as Henry Wilson (1878-1930).
+- (2) Die *Pflanzenareale* 2. Reihe, Heft 5, Jena 1919, Dandy, J.E. and R.D'O. Good, *Magnoliaceae* Karte 41-43.
+- (3) *Miscellaneous phanerogams*, *in* Index nominum genericorum plantarum 1979, 311 entries.
 
 #### Outside our period
 
-(1) *The Sloane Herbarium*, Rev. ed. 1, 1958, 99. pls., 246 p. (2) *List* of *British Vascular plants*, incorporating the London catalogue, v, 176 p. Qu. Brit. Mus. 1958. – BL 2: 216-217.
-(3) A *survey* of the *genus Magnolia* together with Manglieta and Michelia, London (Horticultural Society 1950, from Report Camellia and Magnolia Conference 4-5 Apr 1950, p. 64-81).
-(4) The *type* of *Amaryllis bella-donna* L., *in* Taxon 3: 321-332. 1954. (5) *Index* of *generic names* of *vascular plants* 1753-1774, Utrecht, Regn. veg. vol. 51. 1967. (6) *Homonyms* in the *Prodromi* of *Thunberg* and *Burman*, Bothalia 7(3): 427-428. 1961. (7) *List of Necker's names* (typescript), see Note on p. 704, TL-2/3: 6871. The list is at FAS-B, BM, US.
-(8) *Watsonian vice-counties* of *Great Britain*, The Ray Society 1969 (Ray Soc. Publ. 146), see also Taxon 20: 627. 31 Aug 1971 (rev. FAS).
+- (1) *The Sloane Herbarium*, Rev. ed. 1, 1958, 99. pls., 246 p.
+- (2) *List* of *British Vascular plants*, incorporating the London catalogue, v, 176 p. Qu. Brit. Mus. 1958. – BL 2: 216-217.
+- (3) A *survey* of the *genus Magnolia* together with Manglieta and Michelia, London (Horticultural Society 1950, from Report Camellia and Magnolia Conference 4-5 Apr 1950, p. 64-81).
+- (4) The *type* of *Amaryllis bella-donna* L., *in* Taxon 3: 321-332. 1954.
+- (5) *Index* of *generic names* of *vascular plants* 1753-1774, Utrecht, Regn. veg. vol. 51. 1967.
+- (6) *Homonyms* in the *Prodromi* of *Thunberg* and *Burman*, Bothalia 7(3): 427-428. 1961.
+- (7) *List of Necker's names* (typescript), see Note on p. 704, TL-2/3: 6871. The list is at FAS-B, BM, US.
+- (8) *Watsonian vice-counties* of *Great Britain*, The Ray Society 1969 (Ray Soc. Publ. 146), see also Taxon 20: 627. 31 Aug 1971 (rev. FAS).
 
 ### Publications
 

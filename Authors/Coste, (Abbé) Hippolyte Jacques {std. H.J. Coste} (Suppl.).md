@@ -32,13 +32,13 @@ AG 6(1): 273; Barnhart 1: 385 (b. 20 Dec 1858, Balaguier-de-Sernin, Aveyron, d. 
 
 #### Note on tl-2/1250
 
-(1) *Fl. descr. France*: ed. 2, Paris 1937-1974,3 vols. and 2 supplements, 2021 p. Oct. – See Koeltz 1974, p. 235. – Duvignaud, J., "A propos de la réimpression du *Fl. descr. France*", Natura Mosana 15: 33-37. 1962.
-(2) *Premier supplément* par P. Jovet et R. de Vilmorin, Paris 1973, p. \[1\]-87. Oct.
-(3) *Second supplément* par id., Paris 1974, p. \[89\]-173. Oct.
-(4) *Troisième supplément* par id., Paris 1975, p. \[175\]-337. Oct.
-(5) *Quatrième supplément* par id., Paris 1977, p. \[339\]-478. Oct.
-(6) *Cinquième supplément* par id., Paris 1979, p. \[481\]-589. Oct.
-(7) *Sixième supplément* par id. et M. Kerguélen, Paris 1985, p. \[i-iv\], v-xviii, \[xix\], \[xxi\], \[591\]-\[746\]. Oct.
+- (1) *Fl. descr. France*: ed. 2, Paris 1937-1974,3 vols. and 2 supplements, 2021 p. Oct. – See Koeltz 1974, p. 235. – Duvignaud, J., "A propos de la réimpression du *Fl. descr. France*", Natura Mosana 15: 33-37. 1962.
+- (2) *Premier supplément* par P. Jovet et R. de Vilmorin, Paris 1973, p. \[1\]-87. Oct.
+- (3) *Second supplément* par id., Paris 1974, p. \[89\]-173. Oct.
+- (4) *Troisième supplément* par id., Paris 1975, p. \[175\]-337. Oct.
+- (5) *Quatrième supplément* par id., Paris 1977, p. \[339\]-478. Oct.
+- (6) *Cinquième supplément* par id., Paris 1979, p. \[481\]-589. Oct.
+- (7) *Sixième supplément* par id. et M. Kerguélen, Paris 1985, p. \[i-iv\], v-xviii, \[xix\], \[xxi\], \[591\]-\[746\]. Oct.
 
 ### Publications
 

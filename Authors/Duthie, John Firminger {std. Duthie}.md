@@ -10,7 +10,8 @@ Duthie, John Firmimger (1845-1922), British botanist in India.
 
 #### Herbarium and types
 
-[[Collection K|K]], also in part [[Collection BM|BM]], [[Collection CAL|CAL]] for duplicates see IH. Exsiccatae: *Musci himalayenses* (1879-1882), *Flora of Himalaya, Flora of N.-W. India.*
+[[Collection K|K]], also in part [[Collection BM|BM]], [[Collection CAL|CAL]] for duplicates see IH.
+*Exsiccatae*: *Musci himalayenses* (1879-1882), *Flora of Himalaya, Flora of N.-W. India.*
 *Ref*.: IH 2: 173.
 - Kent, Brit. herbaria 53. 1953.
 

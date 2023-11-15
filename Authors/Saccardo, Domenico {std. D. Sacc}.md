@@ -8,7 +8,8 @@ Saccardo, Domenico (1872-1952), Italian botanist; lecturer (assistant) in botany
 
 #### Herbarium and types
 
-[[Collection PAD|PAD]]; *Exsiccatae*: *Mycotheca italica*, nos. 1-1750, and 19 suppl. nos. 1897-1913. – Sets at [[Collection BM|BM]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection H|H]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]].
+[[Collection PAD|PAD]];
+*Exsiccatae*: *Mycotheca italica*, nos. 1-1750, and 19 suppl. nos. 1897-1913. – Sets at [[Collection BM|BM]], [[Collection DAO|DAO]], [[Collection FH|FH]], [[Collection H|H]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]].
 
 #### Bibliography and biography
 
@@ -24,8 +25,8 @@ Barnhart 3: 197 (b. 14 Nov 1872); BL 2: 337, 416, 712; BM 4: 1777; Bossert p. 34
 
 #### Composite works
 
-(1) For contributions to P.A. Saccardo, *Sylloge fungorum* (vols. 17, 18) see under that author.
-(2) *Supplemento micologico* alla "Flora veneta crittogamica" \[by G. Bizzozero, see TL-2/543\], 1900.
+- (1) For contributions to P.A. Saccardo, *Sylloge fungorum* (vols. 17, 18) see under that author.
+- (2) *Supplemento micologico* alla "Flora veneta crittogamica" \[by G. Bizzozero, see TL-2/543\], 1900.
 
 ### Publications
 

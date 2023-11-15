@@ -34,7 +34,7 @@ For eponyms based on the name Fischer, cf. infra sub. E. and F.E.L. Fischer (in 
 
 #### Composite works
 
-(1) Co-author with J.S. Gamble, *Fl. Madras* \[1915\]-1936, being responsible for the pref. to vol. 1 (1936) and the entirety of vol. 3 (1928-1936); see TL-2/1, nr. 1936. This earlier entry can be amended as follows:
+- (1) Co-author with J.S. Gamble, *Fl. Madras* \[1915\]-1936, being responsible for the pref. to vol. 1 (1936) and the entirety of vol. 3 (1928-1936); see TL-2/1, nr. 1936. This earlier entry can be amended as follows:
 *Microfilm*: Zug, Switzerland (Inter Documentation Company), \[19--\], \[?\] reels (35 mm). *Cop*y: (n.v.).
 *Reprint* (1) \[of orig. ed.\]: 1958,... Calcutta (Botanical Survey of India), 3 vols. *Copies*: K (n.v.), MO (n.v.).
 *Reprint* (2) \[of orig. ed.\]: 1979,... Dehra Dun, India (Bishen Singh Mahendra Pal Singh), 3 vols. *Copy*: (n.v.).

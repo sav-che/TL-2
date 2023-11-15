@@ -31,8 +31,8 @@ Barnhart 2: 54; BFM 1386; BL 1: 175, 189, 244, 261; BM 2: 379; Bossert p. 146; I
 
 #### Composite works
 
-(1) *The New Britton and Brown illustrated flora of the Northeastern United States and adjacent Canada*, 3 vols., 1968.
-(2) Contributions to *NAF*:
+- (1) *The New Britton and Brown illustrated flora of the Northeastern United States and adjacent Canada*, 3 vols., 1968.
+- (2) Contributions to *NAF*:
 (a) *Platanaceae*: 22(3): 227-229. 12 Jun 1908; 22(6): 560. 30 Dec 1918.
 (b) *Dichapetalaceae*: 25(5): 381-383. 20 Mar 1924.
 (c) *Carduaceae-Vernoniae*: 33(1): 47-110. 15 Sep 1922.

@@ -30,8 +30,8 @@ Amer. Men Sci. ed. 8: 752-753; APN p. 195; Barnhart 1: 528; BL 1: 185, 222, 295;
 
 #### Outside our period
 
-(1) Co-author with Rolla M. Tryon, Jr. (1916-2001), D.W. Dunlop & M.E. Diemer, *The ferns and fern allies of Wisconsin*... \[Madison, Wisconsin\] (Dept. of Botany, Univ. of Wisconsin), v, 158 p. 1940; Ed. 2 (revised)... 1953.
-(2) *Grasses of Wisconsin*... \[Madison, Wisconsin\] (Univ. of Wisconsin Press), 173 p. 1951, with an essay entitled "The vegetation of Wisconsin" by John Thomas Curtis (1913-1961); Ed. 2... 1997.
+- (1) Co-author with Rolla M. Tryon, Jr. (1916-2001), D.W. Dunlop & M.E. Diemer, *The ferns and fern allies of Wisconsin*... \[Madison, Wisconsin\] (Dept. of Botany, Univ. of Wisconsin), v, 158 p. 1940; Ed. 2 (revised)... 1953.
+- (2) *Grasses of Wisconsin*... \[Madison, Wisconsin\] (Univ. of Wisconsin Press), 173 p. 1951, with an essay entitled "The vegetation of Wisconsin" by John Thomas Curtis (1913-1961); Ed. 2... 1997.
 
 #### Note
 

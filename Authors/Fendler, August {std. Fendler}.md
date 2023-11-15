@@ -8,7 +8,8 @@ Fendler, August (1813-1883), German born explorer and collector in North and Sou
 
 #### Herbarium and types
 
-[[Collection GH|GH]] and [[Collection MO|MO]]. – For the location of the many Fendler sets of duplicates see IH. Fendler's collection of Venezuelan musci and hepaticae was bought by Sullivant (now at [[Collection FH|FH]]), but the hepaticae were sent on to Gottsche (later at [[Collection B|B]]). Exsiccatae: Musci fendleriani venezuelenses (fasc. 1-3, nos. 1-154), set at [[Collection FH|FH]] (compl.)
+[[Collection GH|GH]] and [[Collection MO|MO]]. – For the location of the many Fendler sets of duplicates see IH. Fendler's collection of Venezuelan musci and hepaticae was bought by Sullivant (now at [[Collection FH|FH]]), but the hepaticae were sent on to Gottsche (later at [[Collection B|B]]).
+*Exsiccatae*: Musci fendleriani venezuelenses (fasc. 1-3, nos. 1-154), set at [[Collection FH|FH]] (compl.)
 *Ref*.: IH 1 (ed. 6): 358, 2: 193.
 - Candolle, Phytographie 411. 1880.
 - Urban, Symb. ant. 3: 47. 1902.

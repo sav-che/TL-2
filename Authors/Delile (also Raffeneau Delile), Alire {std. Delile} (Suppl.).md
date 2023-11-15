@@ -49,8 +49,8 @@ AG 1: 372-373, 5(1): 196; Backer p. 165; Barnhart 1: 438 (b. 23 Jun 1778, Versai
 
 #### Composite works
 
-(1) *Les Liliacées* (see P.J. Redouté, TL-2/8747), text of vols. VII and VIII by A.R. Delile.
-(2) Sur une *Flore Byzantine* manuscripte, rapportée de Constanople *in* Andreossy, *Voyage* à l'*embouchure de la Mer noire*, Paris 1818, p. 281-283.
+- (1) *Les Liliacées* (see P.J. Redouté, TL-2/8747), text of vols. VII and VIII by A.R. Delile.
+- (2) Sur une *Flore Byzantine* manuscripte, rapportée de Constanople *in* Andreossy, *Voyage* à l'*embouchure de la Mer noire*, Paris 1818, p. 281-283.
 
 ### Publications
 
@@ -61,9 +61,9 @@ AG 1: 372-373, 5(1): 196; Backer p. 165; Barnhart 1: 438 (b. 23 Jun 1778, Versai
 
 **Notes**
 *Publ*.: (1): Sep 1799- Aug 1800, p. \[i\]-viii, \[1\]-411, 2 tab. geogr. *Copy*: G.
-(2): Id., publiés dans les années VII, VIII et IX... An. X: p. \[i\]-viii, \[1\]-398. *Copy*: G.
-(3): Id., 1802 (Jan-Sep): p. \[i\]-vii, \[1\]-387. *Copy*: G.
-(4): Id., An. XI: p. \[i\]-xii, \[1\]-240, i-cxi, 3 pl. *Copy*: G.
+- (2): Id., publiés dans les années VII, VIII et IX... An. X: p. \[i\]-viii, \[1\]-398. *Copy*: G.
+- (3): Id., 1802 (Jan-Sep): p. \[i\]-vii, \[1\]-387. *Copy*: G.
+- (4): Id., An. XI: p. \[i\]-xii, \[1\]-240, i-cxi, 3 pl. *Copy*: G.
 All this by P. Perret, Candollea 37: 595-596. 1982.
 
 ##### n.29.624. Dissertation

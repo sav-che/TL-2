@@ -58,8 +58,9 @@ See C.H. Steinberg, Webbia 32(1): 22 (no. 47). 1977.
 
 #### Outside our scope
 
-(1) \[dissertation of W. Darlington, medical, no botany\]: A *dissertation of the mutual influence of habits and disease*... Philadelphia (printed for the author) 1804, p. \[1\]-35. *Copy*: MO.
-(2) *Sertum Cestricum* III. *Catalogue of medicinal plants indigenous to Chester County*, Pennsylvania... Reprinted from the Medical Reporter, a publication of the Chester County medical Society, October 1854, Anro Press, Devon, Penn. 1972. *Copy*: MO. (3) Hush, E. Stone, A *flora* of *Chester County* Pennsylvania with especial references to the *Flora cestrica* \[TL-2/1: 1310\]... Philadelphia (Academy of Natural Sciences 1945, 2 vols. 1470 p.). *Copy*: MO.
+- (1) \[dissertation of W. Darlington, medical, no botany\]: A *dissertation of the mutual influence of habits and disease*... Philadelphia (printed for the author) 1804, p. \[1\]-35. *Copy*: MO.
+- (2) *Sertum Cestricum* III. *Catalogue of medicinal plants indigenous to Chester County*, Pennsylvania... Reprinted from the Medical Reporter, a publication of the Chester County medical Society, October 1854, Anro Press, Devon, Penn. 1972. *Copy*: MO.
+- (3) Hush, E. Stone, A *flora* of *Chester County* Pennsylvania with especial references to the *Flora cestrica* \[TL-2/1: 1310\]... Philadelphia (Academy of Natural Sciences 1945, 2 vols. 1470 p.). *Copy*: MO.
 
 ### Publications
 

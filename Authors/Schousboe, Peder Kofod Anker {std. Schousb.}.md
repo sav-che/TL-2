@@ -8,7 +8,8 @@ Schousboe, Peder Kofod Anker (1766-1832), Danish botanist and traveller; studied
 
 #### Herbarium and types
 
-[[Collection C|C]]; main set of algae (and 431 unpublished plates) acquired by Cosson; now at [[Collection PC|PC]]. Other material in [[Collection B|B]]-W (100 specim. from Portugal, extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection K|K]] (927), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection P|P]], [[Collection S|S]], [[Collection UPS|UPS]] (Thunberg), W. Sets of algae collected by Schousboe were distributed, with identifications, by Thuret and Bornet, through L. Kralik in 1883. – *Exsiccatae*: *Algae Schousboeanae*, fasc. 1-4, nos. 1-494. 1883 (see E. Bornet, Rev. gen. Bot. 1: 5. 1889).
+[[Collection C|C]]; main set of algae (and 431 unpublished plates) acquired by Cosson; now at [[Collection PC|PC]]. Other material in [[Collection B|B]]-W (100 specim. from Portugal, extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection K|K]] (927), [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection P|P]], [[Collection S|S]], [[Collection UPS|UPS]] (Thunberg), W. Sets of algae collected by Schousboe were distributed, with identifications, by Thuret and Bornet, through L. Kralik in 1883.
+*Exsiccatae*: *Algae Schousboeanae*, fasc. 1-4, nos. 1-494. 1883 (see E. Bornet, Rev. gen. Bot. 1: 5. 1889).
 
 #### Bibliography and biography
 

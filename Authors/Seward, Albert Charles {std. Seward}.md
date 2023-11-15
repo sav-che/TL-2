@@ -39,9 +39,9 @@ Andrews p. 331-332; Barnhart 3: 262 (b. 9 Oct 1863, d. 11 Apr 1941); BJI 2: 163;
 
 #### Composite works
 
-(1) Editor *Darwin and modern science* essays in commemoration of the centenary of the birth of Charles Darwin and of the fiftieth anniversary of the publication of The origin of species. Cambridge (at the University Press) 1909, xviii, 595 p., *4 pl*. (repr. 1910).
-(2) Editor *Science and the nation* essays by Cambridge graduates. Cambridge (at the University Press) 1917, xxii, 328 p.
-(3) Editor, H.H.W. Pearson, *Gnetales*, 1929, see TL-2/7582.
+- (1) Editor *Darwin and modern science* essays in commemoration of the centenary of the birth of Charles Darwin and of the fiftieth anniversary of the publication of The origin of species. Cambridge (at the University Press) 1909, xviii, 595 p., *4 pl*. (repr. 1910).
+- (2) Editor *Science and the nation* essays by Cambridge graduates. Cambridge (at the University Press) 1917, xxii, 328 p.
+- (3) Editor, H.H.W. Pearson, *Gnetales*, 1929, see TL-2/7582.
 
 #### Eponymy
 

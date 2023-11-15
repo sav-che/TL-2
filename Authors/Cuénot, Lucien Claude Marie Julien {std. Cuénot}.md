@@ -23,7 +23,7 @@ Barnhart 1: 401 (b. 21 Oct 1866, Paris, d. 8 Jan 1951, Nancy); BM 1: 404.
 
 #### Composite works
 
-(1) E. de Martonne, A. Chevalier and L. Cuénot, *Traité de Géographie physique*, ed. 4, tome 3, *Biogéographie*, Paris 1927, 457 p., *12 pl*.
+- (1) E. de Martonne, A. Chevalier and L. Cuénot, *Traité de Géographie physique*, ed. 4, tome 3, *Biogéographie*, Paris 1927, 457 p., *12 pl*.
 
 ### Publications
 

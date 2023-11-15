@@ -14,8 +14,10 @@ Treated earlier as "Grunov" (see TL-2/1: 1017).
 
 #### Herbarium and types
 
-[[Collection W|W]] (diat. and other alg.), [[Collection WU|WU]] (diat. *fide* Wornardt, 1968), [[Collection B|B]] (other collections), duplicates [[Collection AWH|AWH]] (diat.), [[Collection B|B]], [[Collection BR|BR]], [[Collection BRM|BRM]], [[Collection E|E]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PH|PH]]. – *Exsiccatae*:
-(1) See William Ferguson (1820-1887), *Algae ceylonicae*... 1850-1887, or later. (2) See Henri Ferdinand Van Heurck (1838-1909), *Types du synopsis de diatomées de Belgique* (ser. i-xxii, nrs. 1-550) 1882-1885.
+[[Collection W|W]] (diat. and other alg.), [[Collection WU|WU]] (diat. *fide* Wornardt, 1968), [[Collection B|B]] (other collections), duplicates [[Collection AWH|AWH]] (diat.), [[Collection B|B]], [[Collection BR|BR]], [[Collection BRM|BRM]], [[Collection E|E]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PH|PH]].
+*Exsiccatae*:
+- (1) See William Ferguson (1820-1887), *Algae ceylonicae*... 1850-1887, or later.
+- (2) See Henri Ferdinand Van Heurck (1838-1909), *Types du synopsis de diatomées de Belgique* (ser. i-xxii, nrs. 1-550) 1882-1885.
 
 #### Bibliography and biography
 
@@ -59,15 +61,15 @@ Die *österreichischen Diatomaceen* nebst Anschluss einiger *neuen Arten* von an
 
 #### Composite works
 
-(1) Contributed to part 2 *in* L. Rabenhorst, *Beitr. Kenntn. Alg.*... 1865 (TL-2/4, nr. 8443).
-(2) *Algen und Diatomaceen aus dem Kaspischen Meere in* O. Schneider, *Naturw. Beitr. Kaukasusländ.*... 1878 (TL-2/5, nr. 10.961 and nr. 37.373 below).
-(3) Contributed to *Rabenh. Krypt.-Fl. ed. 2*... vol. 1(1), 1880-1885 (TL-2/4, nr. 8450).
-(4) Collaborated with H.F. Van Heurck, *Syn. diatom. Belgique*... Part I, fascs. 4-5, 1881-1882 (TL-2/6, nr. 15.915).
-(5) Co-author with É. Bornet, *Mazaea*... 1882 (TL-2/Suppl. 2, nr. 22.170). – *Note: Mazaea* is dedicated to Mazé, Hippolyte Pierre (1818-1892), see TL-2/3: 391-392.
-(6) Co-author with A. Zahlbruckner, *Beitr. Fl. Neu-Caled.*... 1888 (TL-2/7, nr. 18.489).
-(7) Algae *in* K. Schumann, *Fl. Kais. Wilh. Land*... 1889 (TL-2/5, nr. 11.368).
-(8) Assisted with the text accompanying *pl. 145-212 in* A. Schmidt, *Atlas Diatom.-Kunde* ... 1890-1895 (see TL-2/5, nr. 10.871).
-(9) Co-author with P.T. Cleve, *Beitr. arct. Diat.*... 1880 (TL-2/Suppl. 4, nr. 26.638).
+- (1) Contributed to part 2 *in* L. Rabenhorst, *Beitr. Kenntn. Alg.*... 1865 (TL-2/4, nr. 8443).
+- (2) *Algen und Diatomaceen aus dem Kaspischen Meere in* O. Schneider, *Naturw. Beitr. Kaukasusländ.*... 1878 (TL-2/5, nr. 10.961 and nr. 37.373 below).
+- (3) Contributed to *Rabenh. Krypt.-Fl. ed. 2*... vol. 1(1), 1880-1885 (TL-2/4, nr. 8450).
+- (4) Collaborated with H.F. Van Heurck, *Syn. diatom. Belgique*... Part I, fascs. 4-5, 1881-1882 (TL-2/6, nr. 15.915).
+- (5) Co-author with É. Bornet, *Mazaea*... 1882 (TL-2/Suppl. 2, nr. 22.170). – *Note: Mazaea* is dedicated to Mazé, Hippolyte Pierre (1818-1892), see TL-2/3: 391-392.
+- (6) Co-author with A. Zahlbruckner, *Beitr. Fl. Neu-Caled.*... 1888 (TL-2/7, nr. 18.489).
+- (7) Algae *in* K. Schumann, *Fl. Kais. Wilh. Land*... 1889 (TL-2/5, nr. 11.368).
+- (8) Assisted with the text accompanying *pl. 145-212 in* A. Schmidt, *Atlas Diatom.-Kunde* ... 1890-1895 (see TL-2/5, nr. 10.871).
+- (9) Co-author with P.T. Cleve, *Beitr. arct. Diat.*... 1880 (TL-2/Suppl. 4, nr. 26.638).
 
 ### Publications
 

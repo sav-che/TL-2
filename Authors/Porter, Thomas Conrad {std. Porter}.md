@@ -41,9 +41,9 @@ Barnhart 3: 101 (b. 22 Jun 1822, d. 27 Apr 1901); BL 1: 210, 313; Blankinship p.
 
 #### Composite works
 
-(1) Contributed *Solidago, Aster* and *Mentha* to E.L. Rand & J.H. Redfield, *Flora of Mount Desert Island, Maine*, 1894.
-(2) Contributed to *Catalogue of plants collected in Nevada*, Utah, Colorado, New Mexico, and Arizona... by J.R. Rothrock et al., *U.S. Geogr. geol. surv. one hundr. merid.*, 6 (Bot.), chapter 4, 1878.
-(3) *Catalogue of plants, in* F.V. Hayden, *Prel. rep. U.S. geol. surv. Montana* 477-498, 1872.
+- (1) Contributed *Solidago, Aster* and *Mentha* to E.L. Rand & J.H. Redfield, *Flora of Mount Desert Island, Maine*, 1894.
+- (2) Contributed to *Catalogue of plants collected in Nevada*, Utah, Colorado, New Mexico, and Arizona... by J.R. Rothrock et al., *U.S. Geogr. geol. surv. one hundr. merid.*, 6 (Bot.), chapter 4, 1878.
+- (3) *Catalogue of plants, in* F.V. Hayden, *Prel. rep. U.S. geol. surv. Montana* 477-498, 1872.
 
 #### Eponymy
 

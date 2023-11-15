@@ -23,8 +23,8 @@ Barnhart 1: 305; BL 2: 637 \[index\]; BM 1: 306, 6: 176; Bossert p. 64; CSP 14: 
 
 #### Composite works
 
-(1) Rouy et Foucaud, *Flore de France* vols. 6, 7 (1900-1901).
-(2) Lecomte, *Flore Indochine*: *Cyperaceae* 7(1): 19-96. Nov 1912, 7(2): 97-192. Nov 1912, 7(3): 193-201. Mar 1922; *Gramineae* (with A. Camus) 7(3): 202-236. Mar 1922, 7(4): 337-480. Jul 1922, 7(5): 481-650. Jan 1923.
+- (1) Rouy et Foucaud, *Flore de France* vols. 6, 7 (1900-1901).
+- (2) Lecomte, *Flore Indochine*: *Cyperaceae* 7(1): 19-96. Nov 1912, 7(2): 97-192. Nov 1912, 7(3): 193-201. Mar 1922; *Gramineae* (with A. Camus) 7(3): 202-236. Mar 1922, 7(4): 337-480. Jul 1922, 7(5): 481-650. Jan 1923.
 
 #### Eponymy
 

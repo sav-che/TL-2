@@ -45,11 +45,11 @@ ADB 49: 551-554; AG 1: 344, 5(1): 453, 5(2): 280, 12(3): 648; Barnhart 2: 89; BM
 
 #### Composite works
 
-(1) DC, *Prodr*.: *Gentianaceae* 9: 39-141, 561-563. 1 Jan 1845.
-(2) Martius, *Fl. bras*.: *Smilaceae et Dioscoreae*: 13(1): 1-48, *t. 1-6.* 1842 (fasc. 4: 1 Apr 1842); *Malpighiaceae*: 12(1): 1-108, *t. 1-22.* 1858 (fasc. 21: 1 Jun 1858).
-(3) Meyen, *Reise um die Erde...* 1830-1832, in vol. 4 lists and descriptions *of Gentianaceae*.
-(4) Seemann, *Botany... Herald, Gentianaceae.*
-(5) Ledebour, *Flora rossica*, in vol. 4, *Gramineae of Russia*.
+- (1) DC, *Prodr*.: *Gentianaceae* 9: 39-141, 561-563. 1 Jan 1845.
+- (2) Martius, *Fl. bras*.: *Smilaceae et Dioscoreae*: 13(1): 1-48, *t. 1-6.* 1842 (fasc. 4: 1 Apr 1842); *Malpighiaceae*: 12(1): 1-108, *t. 1-22.* 1858 (fasc. 21: 1 Jun 1858).
+- (3) Meyen, *Reise um die Erde...* 1830-1832, in vol. 4 lists and descriptions *of Gentianaceae*.
+- (4) Seemann, *Botany... Herald, Gentianaceae.*
+- (5) Ledebour, *Flora rossica*, in vol. 4, *Gramineae of Russia*.
 
 #### Eponymy
 

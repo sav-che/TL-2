@@ -36,8 +36,8 @@ Ainsworth p. 230, 332, 346; Barnhart 3: 72; CSP 17: 813; Desmond p. 491; IH 2: (
 
 #### Composite works
 
-(1) Editor *Annals r. Bot. Gard. Peradeniya* vols. 5-9, 1911-1925.
-(2) with G.R. Bisby, *The fungi of Ceylon*, Colombo, Mar 1950, p. \[i-v\], map, \[1\]-111. *Copy*: BR.
+- (1) Editor *Annals r. Bot. Gard. Peradeniya* vols. 5-9, 1911-1925.
+- (2) with G.R. Bisby, *The fungi of Ceylon*, Colombo, Mar 1950, p. \[i-v\], map, \[1\]-111. *Copy*: BR.
 
 #### Eponymy
 

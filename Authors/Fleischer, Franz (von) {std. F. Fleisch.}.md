@@ -12,7 +12,8 @@ Not to be confused with the Franz Fleischer who published a thesis in Freiburg e
 
 #### Herbarium and types
 
-Austria: [[Collection B|B]] (Musc.), [[Collection FI|FI]], [[Collection KIEL|KIEL]], [[Collection OXF|OXF]], [[Collection STU|STU]] (*Carex*); Mediterranean: [[Collection B|B]], [[Collection CAM|CAM]], [[Collection CAS|CAS]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection STU|STU]], [[Collection TUB|TUB]], [[Collection W|W]]. *Exsiccatae*: *Unio Itineriae* \[Smyrna\]. nos. \[1-ca. 150\]. Esslingen, 1827 or 1828. *Note*: labels without serial numbers. Set: [[Collection M|M]].
+Austria: [[Collection B|B]] (Musc.), [[Collection FI|FI]], [[Collection KIEL|KIEL]], [[Collection OXF|OXF]], [[Collection STU|STU]] (*Carex*); Mediterranean: [[Collection B|B]], [[Collection CAM|CAM]], [[Collection CAS|CAS]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection STU|STU]], [[Collection TUB|TUB]], [[Collection W|W]].
+*Exsiccatae*: *Unio Itineriae* \[Smyrna\]. nos. \[1-ca. 150\]. Esslingen, 1827 or 1828. *Note*: labels without serial numbers. Set: [[Collection M|M]].
 
 #### Bibliography and biography
 

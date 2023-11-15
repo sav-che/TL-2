@@ -25,9 +25,9 @@ Barnhart 2: 523; BJI 1: 40; BM 3: 1365; CSP 12: 525-526, 17: 395-396; GR p. 115;
 
 #### Composite works
 
-(1) Martins, *Fl. bras., Caprifoliaceae, Valerianaceae, Calyceraceae*, 6(4): 333-360, *pl. 99-104*. 1 Jun 1885.
-(2) EP, *Nat. Pflanzenfam., Musci*, Fortpflanzungsverhältnisse, I.3(1): 142-144. Feb 1895, 145-192. Feb 1898, 193-240. Jul 1900.
-(3) with H. Potonic, *Botanik* (vol. 3. Naturw. Report.), Berlin 1893, 323 p. (publ. Mar-Apr 1893).
+- (1) Martins, *Fl. bras., Caprifoliaceae, Valerianaceae, Calyceraceae*, 6(4): 333-360, *pl. 99-104*. 1 Jun 1885.
+- (2) EP, *Nat. Pflanzenfam., Musci*, Fortpflanzungsverhältnisse, I.3(1): 142-144. Feb 1895, 145-192. Feb 1898, 193-240. Jul 1900.
+- (3) with H. Potonic, *Botanik* (vol. 3. Naturw. Report.), Berlin 1893, 323 p. (publ. Mar-Apr 1893).
 
 ### Publications
 

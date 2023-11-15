@@ -22,9 +22,9 @@ Barnhart 2: 7; BL 1: 261, 297, 2: 6, 655; BM 6: 344; Desmond p. 239, ed. 2: 264;
 
 #### Composite works
 
-(1) Co-author with H. Stone, *Timb. Brit. Guiana*... 1914 (TL-2/6, nr.
+- (1) Co-author with H. Stone, *Timb. Brit. Guiana*... 1914 (TL-2/6, nr.
 13.197).
-(2) First author with R.O. Williams, *The useful and ornamental plants of Trinidad and Tobago*... 1927 (TL-2/7, nr. 17.772).
+- (2) First author with R.O. Williams, *The useful and ornamental plants of Trinidad and Tobago*... 1927 (TL-2/7, nr. 17.772).
 
 ### Publications
 

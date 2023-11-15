@@ -33,11 +33,11 @@ Barnhart 2: 523; BJI 1: 40-41; BM 3: 1369-1370; CSP 4: 530-532, 8: 466, 10: 880,
 
 #### Composite works
 
-(1)Montagne, C. *Morphologischer Grundriss der Familie der Flechten*. 1851, transi. by Mueller.
-(2) Founder and editor, with Willi Ule (x-1836) *of Die Natur, Halle*, from 1852-1896.
-(3) Höhnel, L., *Rudolph-Stephanie-See* 1892, Musci p. 868-870, see TL-2/2867.
-(4) *Bryologia Austro-Georgiae, in Die Internationale Polarforschung* 1882-1883, Die Deutschen Expeditionen, ed. G. Neumayer, 2: 279-321. 1890. For reprint see below.
-(5) *Die Forschungsreise S. M. S., "Gazelle"...* iv. Theil Botanik, \[e\]*Laubmoose*(Musci frondosi) by K. Müller Hal., t.p. of vol. 4: \[i\], \[1\]-64. (photocopy H); preliminary Publ. Bot. Jahrb. 1(5): 76-88. 1883.
+- (1) Montagne, C. *Morphologischer Grundriss der Familie der Flechten*. 1851, transi. by Mueller.
+- (2) Founder and editor, with Willi Ule (x-1836) *of Die Natur, Halle*, from 1852-1896.
+- (3) Höhnel, L., *Rudolph-Stephanie-See* 1892, Musci p. 868-870, see TL-2/2867.
+- (4) *Bryologia Austro-Georgiae, in Die Internationale Polarforschung* 1882-1883, Die Deutschen Expeditionen, ed. G. Neumayer, 2: 279-321. 1890. For reprint see below.
+- (5) *Die Forschungsreise S. M. S., "Gazelle"...* iv. Theil Botanik, \[e\]*Laubmoose*(Musci frondosi) by K. Müller Hal., t.p. of vol. 4: \[i\], \[1\]-64. (photocopy H); preliminary Publ. Bot. Jahrb. 1(5): 76-88. 1883.
 
 #### Name
 

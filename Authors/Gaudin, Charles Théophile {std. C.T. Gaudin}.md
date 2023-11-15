@@ -28,8 +28,8 @@ For eponyms based on the name Gaudin see Jean François Aimé Philippe Gaudin (1
 #### Composite works
 
 Transl. into French the following books by Oswald Heer (1809-1883):
-(1) *Les plantes alimentaires* les plus utiles, leur distribution sur la surface du globe et leur influence sur la Civilisation... Lausanne... 1855; and
-(2) *Recherches* sur le *climat* et la *végétation* du *pays tertiare*... Paris... 1861.
+- (1) *Les plantes alimentaires* les plus utiles, leur distribution sur la surface du globe et leur influence sur la Civilisation... Lausanne... 1855; and
+- (2) *Recherches* sur le *climat* et la *végétation* du *pays tertiare*... Paris... 1861.
 
 ### Publications
 

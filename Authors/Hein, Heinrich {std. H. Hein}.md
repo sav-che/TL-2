@@ -8,7 +8,8 @@ Hein, Heinrich (*fl*. 1877), German gardener (–Kunstgärtner–) in Hamburg
 
 #### Herbarium and types
 
-Unknown. Exsiccatae: *Oekonomische Flora*, Hamburg 1881; *Sammlung von in Deutschland... angebauten... Gräsern und Scheingräsern*, Hamburg 1881.
+Unknown.
+*Exsiccatae*: *Oekonomische Flora*, Hamburg 1881; *Sammlung von in Deutschland... angebauten... Gräsern und Scheingräsern*, Hamburg 1881.
 
 #### Bibliography and biography
 

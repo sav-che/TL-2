@@ -20,8 +20,8 @@ Barnhart 3: 287; Hortus 3: 1204; NI 3: 68; Zander ed. 10, p. 717, ed. 11, p. 818
 
 #### Composite works
 
-(1) With Alain White (q.v.). *The Stapelieae* 1933, ed. 2. 1937.
-(2) With Alain White (q.v.). *The succulent Euphorbieae of South Africa*. 1941.
+- (1) With Alain White (q.v.). *The Stapelieae* 1933, ed. 2. 1937.
+- (2) With Alain White (q.v.). *The succulent Euphorbieae of South Africa*. 1941.
 
 #### Eponymy
 

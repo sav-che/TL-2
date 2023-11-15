@@ -54,10 +54,10 @@ C. Christensen, Dansk. bot. hist. 1: 617-665, 776-806. 1926 (biogr.), 2: 367-399
 
 #### Composite works
 
-(1) *Podostemaceae, in* EP, Nat. Pfl.-Fam. 3(2A): 1-22. Dec 1890. (TL-2/1710).
-(2) *Podostemaceae, in* O. Warburg, ed., *Kunene-Sambesi Exped*. \[240\]-241. 1903. (TL-2/16.665).
-(3) Editor, with L.K. Rosenvinge, *The botany of Iceland* 1-2, 1912-1923, see TL-2/9548.
-(4) *Podostemaceae, in* E.J. Schmidt, *Flora of Koh Chang* 5, 1902, see TL-2/10.891.
+- (1) *Podostemaceae, in* EP, Nat. Pfl.-Fam. 3(2A): 1-22. Dec 1890. (TL-2/1710).
+- (2) *Podostemaceae, in* O. Warburg, ed., *Kunene-Sambesi Exped*. \[240\]-241. 1903. (TL-2/16.665).
+- (3) Editor, with L.K. Rosenvinge, *The botany of Iceland* 1-2, 1912-1923, see TL-2/9548.
+- (4) *Podostemaceae, in* E.J. Schmidt, *Flora of Koh Chang* 5, 1902, see TL-2/10.891.
 
 #### Festschrift
 

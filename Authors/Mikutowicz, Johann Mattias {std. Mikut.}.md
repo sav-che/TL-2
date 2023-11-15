@@ -8,7 +8,8 @@ Mikutowicz, Johann Mattias (1872-1951), Baltic German botanist in Livonia.
 
 #### Herbarium and types
 
-[[Collection RIG|RIG]], [[Collection H|H]]. – Exsiccatae: *Bryotheca baltica*, fasc. 1-14, nos. 1-700, Riga, 1908-1914, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection RIG|RIG]] (Number of copies: 30).
+[[Collection RIG|RIG]], [[Collection H|H]].
+*Exsiccatae*: *Bryotheca baltica*, fasc. 1-14, nos. 1-700, Riga, 1908-1914, sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection RIG|RIG]] (Number of copies: 30).
 
 #### Bibliography and biography
 

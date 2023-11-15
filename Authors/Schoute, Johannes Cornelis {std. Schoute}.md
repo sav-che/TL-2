@@ -29,9 +29,9 @@ Barnhart 3: 239 (b. 16 Mai 1877); BFM no. 2443; Biol.-Dokum. 16: 8280; BJI 2: 15
 
 #### Composite works
 
-(1) Editor, J.W. Moll, *Phytography* 1934, TL-2/6219.
-(2) *Morphology, in* F. Verdoorn, ed., *Manual of Pteridology* 1-64. 1938.
-(3) *Anatomy, in* F. Verdoorn, ed., *Manual of Pteridology* 65-104. 1938.
+- (1) Editor, J.W. Moll, *Phytography* 1934, TL-2/6219.
+- (2) *Morphology, in* F. Verdoorn, ed., *Manual of Pteridology* 1-64. 1938.
+- (3) *Anatomy, in* F. Verdoorn, ed., *Manual of Pteridology* 65-104. 1938.
 
 ### Publications
 

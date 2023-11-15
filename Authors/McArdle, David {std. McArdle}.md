@@ -25,6 +25,6 @@ Barnhart 2: 417 (b. 28 Nov 1849); BM 7: 768; CSP 10: 670, 16: 941; GR p. 754 (d.
 
 #### Composite works
 
-(1) *Lichens* (p. 110-114) in Praeger, R. L., Contr. nat. hist. Lambay County, Irish Natural. 16, 1907.
-(2) *Lichens* (p. 100-102) in G. A. J. Cole and R. L. Praeger, Handb. City Dublin, Sep 1908.
+- (1) *Lichens* (p. 110-114) in Praeger, R. L., Contr. nat. hist. Lambay County, Irish Natural. 16, 1907.
+- (2) *Lichens* (p. 100-102) in G. A. J. Cole and R. L. Praeger, Handb. City Dublin, Sep 1908.
 

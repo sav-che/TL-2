@@ -25,9 +25,9 @@ Barnhart 3: 69; BJI 1: 44-45, 2: 133; BM 4: 1548, 8: 999; Bossert p. 306; CSP 17
 
 #### Composite works
 
-(1) Engler, *Pflanzenreich, Monimiaceae* iv. 101 (Heft 4): 1-122. 21 Jun 1901 (with E. Gilg); supplement iv. 101 (Heft 49): 1-67. 10 Oct 1911. – See also *Nachtrag, in* Bot. Jahrb. 31: 743-748. 29 Aug 1902 and reviews by K. Schumann; Bot. Centralbl. 89: 574-575. 1902 and G.G.P. Leeke, Bot. Centralbl. 120: 235-236. 1912.
-(2) Id. *Styracaceae* iv. 241 (Heft 30): 1-111. 3 Sep 1907; preliminary publ. in Bot. Jahrb. 31: 478-488. 1902, 43: 214-217. 1909; rev. by C. Mez, Bot. Centralbl. 107: 77. 1908.
-(3) Collaborator, J. Mildbraed, *Botanik*, Wiss. Erg. deut. Z.-Afr. Exped. 2, 1914.
+- (1) Engler, *Pflanzenreich, Monimiaceae* iv. 101 (Heft 4): 1-122. 21 Jun 1901 (with E. Gilg); supplement iv. 101 (Heft 49): 1-67. 10 Oct 1911. – See also *Nachtrag, in* Bot. Jahrb. 31: 743-748. 29 Aug 1902 and reviews by K. Schumann; Bot. Centralbl. 89: 574-575. 1902 and G.G.P. Leeke, Bot. Centralbl. 120: 235-236. 1912.
+- (2) Id. *Styracaceae* iv. 241 (Heft 30): 1-111. 3 Sep 1907; preliminary publ. in Bot. Jahrb. 31: 478-488. 1902, 43: 214-217. 1909; rev. by C. Mez, Bot. Centralbl. 107: 77. 1908.
+- (3) Collaborator, J. Mildbraed, *Botanik*, Wiss. Erg. deut. Z.-Afr. Exped. 2, 1914.
 
 ### Publications
 

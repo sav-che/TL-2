@@ -44,11 +44,11 @@ Barnhart 1: 472; BFM 1675; BM 1. 480, 6: 280; CSP 9: 737, 12: 205, 14: 683-684; 
 
 #### Composite works
 
-(1)-(3) see TL-2/1: 683.
-(4) *Palmae Australasicae*, see H. Wendland (first author) TL-2/no. 17.128.
-(5) With A. Engler, Die *Vegetation der Erde*. *Pflanzengeographische Monographien*. Unter Mitwirkung von Fachgenossen, Ankündigung und Plan, Bot. Jahrb. 1894, Beibl. 41: 55-60.
-(6) O. Drude *in* Die *Pflanzenwelt* der *Erde* \[122\]-163. *Copy*: B.
-(7) Schenk, J.A., *Handbuch* der *Botanik* with a.o. O. Drude as collaborator, see TL-2/no.
+- (1)-(3) see TL-2/1: 683.
+- (4) *Palmae Australasicae*, see H. Wendland (first author) TL-2/no. 17.128.
+- (5) With A. Engler, Die *Vegetation der Erde*. *Pflanzengeographische Monographien*. Unter Mitwirkung von Fachgenossen, Ankündigung und Plan, Bot. Jahrb. 1894, Beibl. 41: 55-60.
+- (6) O. Drude *in* Die *Pflanzenwelt* der *Erde* \[122\]-163. *Copy*: B.
+- (7) Schenk, J.A., *Handbuch* der *Botanik* with a.o. O. Drude as collaborator, see TL-2/no.
 10.561.
 
 ### Publications

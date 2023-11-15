@@ -26,8 +26,8 @@ Barnhart 3: 203; BB p. 267; BM 4: 1793; Clokie p. 236; CSP 5: 382; Desmond p. 53
 
 #### Composite works
 
-(1) Contributed Appendix A, *An outline of the flora of the neighbourhood of Godalming* to E. Newman et al. (anonymous), *The letters of Rusticus* 1849 (Edward Newman, 1801-1872, TL-2/6776-6777). Salmon plants cited in this book are at GOD (Kent 1957).
-(2) James Alexander Brewer (1818-1886), *Fl. Surrey* 1863, TL-2/750, was based on J.D. Salmon manuscripts.
+- (1) Contributed Appendix A, *An outline of the flora of the neighbourhood of Godalming* to E. Newman et al. (anonymous), *The letters of Rusticus* 1849 (Edward Newman, 1801-1872, TL-2/6776-6777). Salmon plants cited in this book are at GOD (Kent 1957).
+- (2) James Alexander Brewer (1818-1886), *Fl. Surrey* 1863, TL-2/750, was based on J.D. Salmon manuscripts.
 
 ### Publications
 

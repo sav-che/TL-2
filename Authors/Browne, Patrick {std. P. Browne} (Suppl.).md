@@ -50,6 +50,6 @@ Backer p. 85; Barnhart 1: 265; BB p. 25, 50; BM 1: 262; Dawson p. 176, 544, 868;
 
 #### Composite works
 
-(1) See C. Linnaeus, TL-2/4805, *Pl. jamaic. Pug.* 28 Nov 1759. – A description of plants presented to Linnaeus by P. Browne.
-(2) See C. Linnaeus, TL-2/4806, *Fl. jamaic.* 1759. – Mainly based on P. Browne *Civ. nat. hist. Jamaica* 1756.
+- (1) See C. Linnaeus, TL-2/4805, *Pl. jamaic. Pug.* 28 Nov 1759. – A description of plants presented to Linnaeus by P. Browne.
+- (2) See C. Linnaeus, TL-2/4806, *Fl. jamaic.* 1759. – Mainly based on P. Browne *Civ. nat. hist. Jamaica* 1756.
 

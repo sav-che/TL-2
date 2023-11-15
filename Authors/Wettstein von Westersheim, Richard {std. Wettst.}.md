@@ -59,26 +59,26 @@ E. Janchen, *Richard Wettstein, sein Leben und Wirken, * Österr. bot. Z. 82(1, 
 
 #### Composite works
 
-(1) Editor, *Österreichische botanische Zeitschrift* 1889-1931.
-(2) Contributions to EP, *Nat. Pflanzenfam.* (TL-2/1710):
+- (1) Editor, *Österreichische botanische Zeitschrift* 1889-1931.
+- (2) Contributions to EP, *Nat. Pflanzenfam.* (TL-2/1710):
 Nolanaceae, 4(3B): 1-4. Oct 1891.
 *Solanaceae*, 4(3B): 4-38. Oct 1891.
 *Scrophulariaceae*, 4(3B): 39-107. Oct and Nov 1891.
 *Globulariaceae*, 4(3B): 270-273. 12 Mar 1895.
 *Myoporaceae*, 4(3B): 354-360. Dec 1895.
-(3) Contributed to O. Stapf, *Die botanischen Ergebnisse der Polak'schen Expedition nach Persien * (see TL-2/12.800), 1(1885): *Fungi* (p. 1-4), *Borragineae* (p. 27-33), *Solanaceae* (p. 33), *Gentianaceae* (p. 69), *Campanulaceae* (p. 69); 2 (1886): *Berberideae* (p. 290), *Umbelliferae* (p. 315-3255 with Stapf).
-(4) Contributed to O. Stapf, *Beiträge zur Flora von Lycien* (see TL-2/12.801), 1(1885): *Fungi* (*p. 73*), *Borraginaceae* (p.85-88), *Solanaceae* (p. 88), *Campanulaceae* (p. 117-118); *2 * (1886): *Berberideae* (p. 356), *Umbelliferae* (p. 369-374, with O. Stapf).
-(5) Contributions to A. Kerner, *Sched. fl. exs. austro-hung.* (see TL-2/3598): in *4* (Dec 1886) nos. 1375, 1403-1410, 1411-1415, 1563-1568; in *5* (1888, publ. Jan 1889): nos. 1767-1828, 1901-2000; in *6* (1893): nos 2023-2026, 2098-2103, 2104-2106, 2134-2139, 2177-2198, 2228-2233, 2271-2281. 2362-2380; in *7* (1896): nos. 2614-2617, 2658-2660, 2775-2783; in *8* (1899): no. 2968; in *9* (1902): nos. 3284, 3285 and *editor* of 10 (Sep 1913).
-(6) Contributed to I. Dörfler, *Herbarium normale*, Schedae ad cent. *34*: p. 118-122, nos. 3352-3364; *cent 38*: p. 267-288, nos. 3736-3778.
-(7) *Sokotra, in* G. Karsten & H. Schenk, *Vegetationsbilder* ser. 3. 5: *pl. 25-30*, Nov-Dec 1905.
-(8) Contributed text to A. von Kerner, *Florenkarte von Oesterreich-Ungarn* (Phys.-stat. Handatlas von Oesterreich-Ungarn no. 14), double folio and folio, 3 p, "erläutert von ... Richard... v. Wettstein, Wien (Hölzel) 1888 (Bot. Centralbl. 13 Dec 1888).
-(9) *Botanik, in* E. Richter, *Die wissenschaftliche Erforschung der Alpen* 1894 (Festschr. deut. österr. Alpenver.).
-(10) *Die Erblichkeit der Merkmale von Knospenmutationen, in* I. Urban and P. Graebner, Festschrift P. Ascherson, Berlin 1904, p. 509-517.
-(11) With J. Wiesner & A. Zahlbruckner, *Résultats scientifiques du congrès international de botanique Vienne 1905*, Jena (G. Fischer) 1906, 440 p., 3 pl., map.
-(12) With J. Wiesner & A. Zahlbruckner, *Verhandlungen des internationalen botanischen Kongresses in Wien* 1905, Jena (G. Fischer) 1906, vi, 262 p.
-(13) *Blüte, in* Handwörterb. Naturw. 2: \[71\]-102, Jena (Gustav Fischer) 1912; *System der Pflanzen, in* id. 9: \[987\]-994. 1913; *Blütenpflanzen, in* id. ed. 2. 2: \[1\]-33. 1932.
-(14) *Das System der Pflanzen* (p. 165-175) and *Phylogenie der Pflanzen* (p. 439-452), *in* R. Hertwig and R. v. Wettstein, *Abstammungslehre. Systematik. Paläontologie. Biographie*, Die Kultur der Gegenwart 3(4.4). 1914; Vorwort by R. Hertwig and R. v. W. on p. v-vi.
-(15) Editor with others of *Zeitschrift für induktive Abstammungs- und Vererbungslehre* 1909-1931.
+- (3) Contributed to O. Stapf, *Die botanischen Ergebnisse der Polak'schen Expedition nach Persien * (see TL-2/12.800), 1(1885): *Fungi* (p. 1-4), *Borragineae* (p. 27-33), *Solanaceae* (p. 33), *Gentianaceae* (p. 69), *Campanulaceae* (p. 69); 2 (1886): *Berberideae* (p. 290), *Umbelliferae* (p. 315-3255 with Stapf).
+- (4) Contributed to O. Stapf, *Beiträge zur Flora von Lycien* (see TL-2/12.801), 1(1885): *Fungi* (*p. 73*), *Borraginaceae* (p.85-88), *Solanaceae* (p. 88), *Campanulaceae* (p. 117-118); *2 * (1886): *Berberideae* (p. 356), *Umbelliferae* (p. 369-374, with O. Stapf).
+- (5) Contributions to A. Kerner, *Sched. fl. exs. austro-hung.* (see TL-2/3598): in *4* (Dec 1886) nos. 1375, 1403-1410, 1411-1415, 1563-1568; in *5* (1888, publ. Jan 1889): nos. 1767-1828, 1901-2000; in *6* (1893): nos 2023-2026, 2098-2103, 2104-2106, 2134-2139, 2177-2198, 2228-2233, 2271-2281. 2362-2380; in *7* (1896): nos. 2614-2617, 2658-2660, 2775-2783; in *8* (1899): no. 2968; in *9* (1902): nos. 3284, 3285 and *editor* of 10 (Sep 1913).
+- (6) Contributed to I. Dörfler, *Herbarium normale*, Schedae ad cent. *34*: p. 118-122, nos. 3352-3364; *cent 38*: p. 267-288, nos. 3736-3778.
+- (7) *Sokotra, in* G. Karsten & H. Schenk, *Vegetationsbilder* ser. 3. 5: *pl. 25-30*, Nov-Dec 1905.
+- (8) Contributed text to A. von Kerner, *Florenkarte von Oesterreich-Ungarn* (Phys.-stat. Handatlas von Oesterreich-Ungarn no. 14), double folio and folio, 3 p, "erläutert von ... Richard... v. Wettstein, Wien (Hölzel) 1888 (Bot. Centralbl. 13 Dec 1888).
+- (9) *Botanik, in* E. Richter, *Die wissenschaftliche Erforschung der Alpen* 1894 (Festschr. deut. österr. Alpenver.).
+- (10) *Die Erblichkeit der Merkmale von Knospenmutationen, in* I. Urban and P. Graebner, Festschrift P. Ascherson, Berlin 1904, p. 509-517.
+- (11) With J. Wiesner & A. Zahlbruckner, *Résultats scientifiques du congrès international de botanique Vienne 1905*, Jena (G. Fischer) 1906, 440 p., 3 pl., map.
+- (12) With J. Wiesner & A. Zahlbruckner, *Verhandlungen des internationalen botanischen Kongresses in Wien* 1905, Jena (G. Fischer) 1906, vi, 262 p.
+- (13) *Blüte, in* Handwörterb. Naturw. 2: \[71\]-102, Jena (Gustav Fischer) 1912; *System der Pflanzen, in* id. 9: \[987\]-994. 1913; *Blütenpflanzen, in* id. ed. 2. 2: \[1\]-33. 1932.
+- (14) *Das System der Pflanzen* (p. 165-175) and *Phylogenie der Pflanzen* (p. 439-452), *in* R. Hertwig and R. v. Wettstein, *Abstammungslehre. Systematik. Paläontologie. Biographie*, Die Kultur der Gegenwart 3(4.4). 1914; Vorwort by R. Hertwig and R. v. W. on p. v-vi.
+- (15) Editor with others of *Zeitschrift für induktive Abstammungs- und Vererbungslehre* 1909-1931.
 
 #### Obituaries (and other biogr. contr.)
 

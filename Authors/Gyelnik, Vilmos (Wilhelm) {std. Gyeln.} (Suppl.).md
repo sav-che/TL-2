@@ -14,7 +14,9 @@ In 1934, Gyelnik changed his surname to Köfaragó-Gyelnik.
 
 #### Herbarium and types
 
-[[Collection BP|BP]], addititonal material [[Collection H|H]] (lich.), [[Collection HAL|HAL]], [[Collection M|M]]. – *Exsiccatae*: (1) Gyelnik,... *Lichenotheca*... (\[Budapest\], Fasc. 1, nrs. 1-20. 1933; Fasc. 2, nrs. 21-40. 1 Mai 1935; Fasc. 3, nrs. 41-60. 1 Jun 1935; Fasc. 4, nrs. 61-80. 1 Jul 1935; Fasc. 5-10, nrs. 91-200. 1937): [[Collection FH|FH]]. *Note*: There is a \[39\] p. Schedae... at [[Collection FH|FH]] (Fascs. 2-10); and 3 separate \[4\] p. Schedae for Fasc. 2-4 at [[Collection US|US]]-Stevenson. (2) Köfaragó-Gyelnik,... *Lichenotheca parva*... (Budapest, Fasc. 1, nrs. 1-20. 1 Mar 1937; Fasc. 2, nrs. 21-40. 1 Oct 1937): [[Collection FH|FH]], [[Collection UPS|UPS]]. *Note*: There are two \[4\] p. Schedae... at [[Collection FH|FH]].
+[[Collection BP|BP]], addititonal material [[Collection H|H]] (lich.), [[Collection HAL|HAL]], [[Collection M|M]].
+*Exsiccatae*: (1) Gyelnik,... *Lichenotheca*... (\[Budapest\], Fasc. 1, nrs. 1-20. 1933; Fasc. 2, nrs. 21-40. 1 Mai 1935; Fasc. 3, nrs. 41-60. 1 Jun 1935; Fasc. 4, nrs. 61-80. 1 Jul 1935; Fasc. 5-10, nrs. 91-200. 1937): [[Collection FH|FH]]. *Note*: There is a \[39\] p. Schedae... at [[Collection FH|FH]] (Fascs. 2-10); and 3 separate \[4\] p. Schedae for Fasc. 2-4 at [[Collection US|US]]-Stevenson.
+- (2) Köfaragó-Gyelnik,... *Lichenotheca parva*... (Budapest, Fasc. 1, nrs. 1-20. 1 Mar 1937; Fasc. 2, nrs. 21-40. 1 Oct 1937): [[Collection FH|FH]], [[Collection UPS|UPS]]. *Note*: There are two \[4\] p. Schedae... at [[Collection FH|FH]].
 
 #### Bibliography and biography
 
@@ -32,8 +34,8 @@ Ainsworth & Bisby's Dict. p. 220; APN p. 251; Barnhart 2: 104; Biol.-Dokum. 7: 8
 
 #### Composite works
 
-(1) Editor of the serial *Borbásia*, vol. 1-? (1938-1940).
-(2) "Cyanophili..." *in Rabenh*. *Krypt.-Fl. ed. 2*... Bd. 9, Abt. 2, Teil 2, 1940 (see TL-2/4, nr. 8450). *Reprint*: 1971... New York \[etc.\] (Johnson). *Copy*: (n.v.).
+- (1) Editor of the serial *Borbásia*, vol. 1-? (1938-1940).
+- (2) "Cyanophili..." *in Rabenh*. *Krypt.-Fl. ed. 2*... Bd. 9, Abt. 2, Teil 2, 1940 (see TL-2/4, nr. 8450). *Reprint*: 1971... New York \[etc.\] (Johnson). *Copy*: (n.v.).
 
 ### Publications
 

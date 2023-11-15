@@ -23,9 +23,9 @@ Barnhart 3: 171 (b. 5 Feb 1908; orig. info.); Bossert p. 336; IH 1 (ed. 1): 69, 
 
 #### Composite works
 
-(1) Managing editor *Mycologia* 1948-1957; editor-in-chief 1958-1960.
-(2) With A.M. Rogers and E.V. Seeler, Jr., *Index botanicus sistens omnes fungorum species in C.H. Persoonii Mycologia Europeae enumeratas*. Cambridge 1942, 37 p.
-(3) Bibliographic note for the reprinted edition, *in* E.M. Fries, *Systema mycologicum*, Facsimile ed., New York 1952, p. i-iv.
+- (1) Managing editor *Mycologia* 1948-1957; editor-in-chief 1958-1960.
+- (2) With A.M. Rogers and E.V. Seeler, Jr., *Index botanicus sistens omnes fungorum species in C.H. Persoonii Mycologia Europeae enumeratas*. Cambridge 1942, 37 p.
+- (3) Bibliographic note for the reprinted edition, *in* E.M. Fries, *Systema mycologicum*, Facsimile ed., New York 1952, p. i-iv.
 
 #### Eponymy
 

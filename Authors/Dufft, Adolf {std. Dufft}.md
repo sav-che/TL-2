@@ -10,7 +10,8 @@ Dufft, Adolf (1803-1875), German industrialist and lichenologist.
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: *Cladonien der Flora germanica* (grossentheils in der Umgegend von Stettin, ferner in der Mark Brandenburg gesammelt). 1863 (? 1860). *Copies*: [[Collection FH|FH]] (150 specimens), [[Collection L|L]] (at least 181 specimens).
+Unknown.
+*Exsiccatae*: *Cladonien der Flora germanica* (grossentheils in der Umgegend von Stettin, ferner in der Mark Brandenburg gesammelt). 1863 (? 1860). *Copies*: [[Collection FH|FH]] (150 specimens), [[Collection L|L]] (at least 181 specimens).
 *Ref*.: IH 2: 170.
 - Sayre, Mem. New York Bot. Gard. 19(1): 120-121. 1969.
 

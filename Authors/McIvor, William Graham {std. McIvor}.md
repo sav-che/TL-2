@@ -8,7 +8,8 @@ McIvor, William Graham (x-1876), British gardener sent to India by Kew, remained
 
 #### Herbarium and types
 
-[[Collection K|K]]. – Exsiccatae: *Hepaticae britannicae*, or pocket herbarium of british hepaticae. New Brentford (C. J. Murphy) 1847, 136 nos. (see below).
+[[Collection K|K]].
+*Exsiccatae*: *Hepaticae britannicae*, or pocket herbarium of british hepaticae. New Brentford (C. J. Murphy) 1847, 136 nos. (see below).
 
 #### Bibliography and biography
 

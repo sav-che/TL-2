@@ -8,14 +8,15 @@ Karsten, Petter \[Peter\] Adolf (1834-1917), Finnish mycologist; Ph. D. Helsinki
 
 #### Herbarium and types
 
-[[Collection H|H]] (rd. 1905); large set at [[Collection UPS|UPS]]. – Exsiccatae: (information T. Ahti)
-(1) *Fungi fenniae exsiccati*, Samling af finska svampar, nos. 1-1000, Åbo 1861-1870. (Karsten collected and distributed some specimens in this series long after the original dates of issue.) Sets at [[Collection FH|FH]], [[Collection H|H]].
-(2) *Parasilsvampar på lefvande, odlade vexter*. Första Dekaden. Nos. 1-10. Åbo 1865. (n.v., fide Saelan and LS).
-(3) *Parasitsvampar på finska skogsträd*, Nos. 1-43. (n.v., fide Saelan and LS).
-(4) *Die Pilze der finnischen Waldbäume*. Nos. 1-32 (n.v., fide Saelan and LS).
-(5) *Parasitsvampar påfinska kulturväxter*. AfP. A. Karsten I-II. No. 1-49. Labels printed. Set at [[Collection H|H]]. Undated.
-(6) *Parasit-svampar på lefvande, i Finland odlade våxter*, Af P. A. Karsten. No. 1-60. Mustiala 1876. Set at [[Collection H|H]]. Labels handwritten; bound book.
-(7) *Fungi parasitici fennici saluti hominis noxii exsiccati*. No. i-xii. Undated. Set at [[Collection H|H]]. Labels handwritten.
+[[Collection H|H]] (rd. 1905); large set at [[Collection UPS|UPS]].
+*Exsiccatae*: (information T. Ahti)
+- (1) *Fungi fenniae exsiccati*, Samling af finska svampar, nos. 1-1000, Åbo 1861-1870. (Karsten collected and distributed some specimens in this series long after the original dates of issue.) Sets at [[Collection FH|FH]], [[Collection H|H]].
+- (2) *Parasilsvampar på lefvande, odlade vexter*. Första Dekaden. Nos. 1-10. Åbo 1865. (n.v., fide Saelan and LS).
+- (3) *Parasitsvampar på finska skogsträd*, Nos. 1-43. (n.v., fide Saelan and LS).
+- (4) *Die Pilze der finnischen Waldbäume*. Nos. 1-32 (n.v., fide Saelan and LS).
+- (5) *Parasitsvampar påfinska kulturväxter*. AfP. A. Karsten I-II. No. 1-49. Labels printed. Set at [[Collection H|H]]. Undated.
+- (6) *Parasit-svampar på lefvande, i Finland odlade våxter*, Af P. A. Karsten. No. 1-60. Mustiala 1876. Set at [[Collection H|H]]. Labels handwritten; bound book.
+- (7) *Fungi parasitici fennici saluti hominis noxii exsiccati*. No. i-xii. Undated. Set at [[Collection H|H]]. Labels handwritten.
 *Ref*.: Hawksworth p. 183; IH 2: 343; LS 35236-35239; NAF 7: 1072. 1940; Saelan p. 575-576.
 
 #### Bibliography and biography

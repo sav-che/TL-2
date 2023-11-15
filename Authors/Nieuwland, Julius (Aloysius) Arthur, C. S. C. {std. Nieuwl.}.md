@@ -34,7 +34,7 @@ Aloysius was a name taken at confirmation but never used by N; Julius was his ba
 
 #### Composite works
 
-(1) Founded the *American Midland Naturalist* and was editor of vols. 1 \["Midland Naturalist"\], 2 \[Amer. Midl. Natural.\]-15, 1909-1934.
+- (1) Founded the *American Midland Naturalist* and was editor of vols. 1 \["Midland Naturalist"\], 2 \[Amer. Midl. Natural.\]-15, 1909-1934.
 
 #### Memorial volume
 

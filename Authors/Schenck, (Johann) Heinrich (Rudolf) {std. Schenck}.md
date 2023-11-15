@@ -36,10 +36,10 @@ Barnhart 3: 224 (b. 31 Jan 1860, d. 25 Jun 1927); Biol.-Dokum. 15: 7978; BJI 1: 
 
 #### Composite works
 
-(1) Eduard Strasburger, Fritz Noll, Heinrich Schenck, A.F.W. Schimper, *Lehrbuch der Botanik für Hochschulen* eds. 1-16, 1894-1923 (Schenck contributed the chapters on cryptogams). This is the famous "Bonner Lehrbuch" or "Viermännerbuch" which has served numerous continental European botanists since 1894; Schenck was one of the original foursome; see under E. Strasburger.
-(2) *Vegetationsbilder*. Herausgegeben von Dr. G. Karsten and Dr. H. Schenck. Jena (Gustav Fischer) Ser. 1-16, 1903-1924; Schenck himself provided: Ser. 1, Heft 1, 1903 ( S. Brazil), Heft 3, no. 1 (Trop. Nutzpfl.), Heft 7 (Strandveg. Bras.); Ser. 3, Heft 4 (Mittelmeerbäume); Ser. 6, Heft 5/6 (Alpine Vegetation); Ser. 8, Heft 8, no. 1 (Trop. Nutzpfl.); Ser. 12, Heft 5, 1914/15 (Flechtenbestände); Ser. 14, Heft 5/6, 1921/22 (Veg. Sierra Mixteca, Mexico).
-(3) *Lianen*, in *Handw.-Buch Naturw.* 6: 176-185. 1913.
-(4) *Wasserpflanzen*, in *Handw.-Buch Naturw.* 10: 511-528. 1913.
+- (1) Eduard Strasburger, Fritz Noll, Heinrich Schenck, A.F.W. Schimper, *Lehrbuch der Botanik für Hochschulen* eds. 1-16, 1894-1923 (Schenck contributed the chapters on cryptogams). This is the famous "Bonner Lehrbuch" or "Viermännerbuch" which has served numerous continental European botanists since 1894; Schenck was one of the original foursome; see under E. Strasburger.
+- (2) *Vegetationsbilder*. Herausgegeben von Dr. G. Karsten and Dr. H. Schenck. Jena (Gustav Fischer) Ser. 1-16, 1903-1924; Schenck himself provided: Ser. 1, Heft 1, 1903 ( S. Brazil), Heft 3, no. 1 (Trop. Nutzpfl.), Heft 7 (Strandveg. Bras.); Ser. 3, Heft 4 (Mittelmeerbäume); Ser. 6, Heft 5/6 (Alpine Vegetation); Ser. 8, Heft 8, no. 1 (Trop. Nutzpfl.); Ser. 12, Heft 5, 1914/15 (Flechtenbestände); Ser. 14, Heft 5/6, 1921/22 (Veg. Sierra Mixteca, Mexico).
+- (3) *Lianen*, in *Handw.-Buch Naturw.* 6: 176-185. 1913.
+- (4) *Wasserpflanzen*, in *Handw.-Buch Naturw.* 10: 511-528. 1913.
 
 #### Eponymy
 

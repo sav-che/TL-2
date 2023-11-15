@@ -26,7 +26,7 @@ APN p. 223 (as "Georgieff"); Barnhart 2: 39 (as "Georgieff"); Hirsch p. 96 (as "
 #### Composite works
 
 Co-author with: (1) N.A. Stojanov & B. Stefanoff, *Für die Flora Bulgariens neue und seltene Pflanzen*... 1928; and
-(2) B. Stefanoff, Prinos za razgranichenie na vidovete na roda *Centaurea* L. ot *sect. Cyanus* D.C. Beitrag zur Begrenzung der Arten der Gattung *Centaurea* L. von der *Sect. Cyanus* D.C. \[*In*\] Spis. Bulg. Akad. Nauk. 46: 133-193. 1931.
+- (2) B. Stefanoff, Prinos za razgranichenie na vidovete na roda *Centaurea* L. ot *sect. Cyanus* D.C. Beitrag zur Begrenzung der Arten der Gattung *Centaurea* L. von der *Sect. Cyanus* D.C. \[*In*\] Spis. Bulg. Akad. Nauk. 46: 133-193. 1931.
 
 ### Publications
 

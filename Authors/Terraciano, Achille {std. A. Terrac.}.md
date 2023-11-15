@@ -28,8 +28,8 @@ Barnhart 3: 368 (b. 5 Oct 1862, d. 8 Aug 1917); BJI 1: 57, 2: 176; BL 1: 34, 321
 
 #### Composite works
 
-(1) With P.R. Pirotta and U. Brizi, *Flora della provincia di Roma, in* E. Abbate, *Guida della Provincia di Roma* 171-225. 1890 (publ. before 15 Oct 1890).
-(2) Editor, *Le piante nuove* o rare descritte ed illustrate nei Delectus seminum e nell' *Hortus panormitanus* dall'anno 1856 al 1896, Boll. Orto bot. Palermo 2: 122-176. 1898, 3: 72-115. 1899. – Complete reprint of descriptions of new taxa described in seed lists Palermo 1856.
+- (1) With P.R. Pirotta and U. Brizi, *Flora della provincia di Roma, in* E. Abbate, *Guida della Provincia di Roma* 171-225. 1890 (publ. before 15 Oct 1890).
+- (2) Editor, *Le piante nuove* o rare descritte ed illustrate nei Delectus seminum e nell' *Hortus panormitanus* dall'anno 1856 al 1896, Boll. Orto bot. Palermo 2: 122-176. 1898, 3: 72-115. 1899. – Complete reprint of descriptions of new taxa described in seed lists Palermo 1856.
 
 ### Publications
 

@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-Main herbarium was acquired by Lars Romell (1854-1927, see TL-2/4: 876-877), who deposited it in [[Collection S|S]] (see Phycologia 20: 50. 1928, info D.P. Rogers). – Further material in [[Collection B|B]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection K|K]] (second set of herbarium), [[Collection M|M]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection TOR|TOR]], [[Collection TR|TR]]. – Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici* (see TL-2/4: 934). – *Exsiccatae*: *Fungi tridentini* fasc. 1 (1881) – fasc. 14 (1900).
+Main herbarium was acquired by Lars Romell (1854-1927, see TL-2/4: 876-877), who deposited it in [[Collection S|S]] (see Phycologia 20: 50. 1928, info D.P. Rogers). – Further material in [[Collection B|B]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection K|K]] (second set of herbarium), [[Collection M|M]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection TOR|TOR]], [[Collection TR|TR]]. – Contributed to C. Roumeguère, *Fungi exsiccati praecipue Gallici* (see TL-2/4: 934).
+*Exsiccatae*: *Fungi tridentini* fasc. 1 (1881) – fasc. 14 (1900).
 
 #### Bibliography and biography
 
@@ -41,13 +42,13 @@ Ainsworth p. 226, 320, 327; Barnhart 1: 247 (b. 14 Feb 1847, d. 9 Jun 1929), BJI
 
 #### Notes
 
-(1) Bresàdola used three variations of his first name: Giacopo (Italian), Jacapo and Iacapo (other languages).
-(2) In 1979 was published: *Omnia Bresadolina extracta in unum collecta*... by Gruppo micologico G. Bresàdola, Trento (in occasione del 50° della morte di G. Bresàdola), \[i-iv\], 1-1055, being a copy of all publications of this author with portrait and col. photos of all illustrations.
+- (1) Bresàdola used three variations of his first name: Giacopo (Italian), Jacapo and Iacapo (other languages).
+- (2) In 1979 was published: *Omnia Bresadolina extracta in unum collecta*... by Gruppo micologico G. Bresàdola, Trento (in occasione del 50° della morte di G. Bresàdola), \[i-iv\], 1-1055, being a copy of all publications of this author with portrait and col. photos of all illustrations.
 
 #### Composite works
 
-(1) See Berlese, *Micromycetes tridentini*, Trento 1889, see TL-2/473.
-(2) With P.A. Saccardo, *Enumerazione dei fungi della Valsesia*, see TL-2/9924.
+- (1) See Berlese, *Micromycetes tridentini*, Trento 1889, see TL-2/473.
+- (2) With P.A. Saccardo, *Enumerazione dei fungi della Valsesia*, see TL-2/9924.
 
 ### Publications
 

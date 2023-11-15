@@ -21,8 +21,8 @@ Barnhart 3: 260 (b. 29 Jul 18 1806, d. 30 Aug 1895; Biol.-Dokum. 16: 8624-8625; 
 
 #### Composite works
 
-(1) Co-editor, *Gartenflora* vols. 16-33, 1867-1884, see TL-2/8774.
-(2) Published, *Cenni bibliografici* in Il Naturalista Siciliano, 3(app.), 1884-9(app.), 1890.
+- (1) Co-editor, *Gartenflora* vols. 16-33, 1867-1884, see TL-2/8774.
+- (2) Published, *Cenni bibliografici* in Il Naturalista Siciliano, 3(app.), 1884-9(app.), 1890.
 
 ### Publications
 

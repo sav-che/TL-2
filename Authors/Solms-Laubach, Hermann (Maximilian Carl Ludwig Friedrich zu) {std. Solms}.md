@@ -47,15 +47,15 @@ Andrews p. 333; Barnhart 3: 301 (b. 23 Dec 1842, d. 25 Nov 1915); Biol.-Dokum. 1
 
 #### Composite works
 
-(1) *Chlorantaceae, in* Candolle, Prodr. 16(1): 472-485. Nov 1869, *Lennoaceae* 17: 36-38. 16 Oct 1873.
-(2) *Rafflesiaceae, in* C.F.P. von Martius, *Fl. bras.* 4(2): 117-126, *pl. 27.* 1 Jun 1878; *Caricaceae* ib. 13(3): 173-196, *pl. 49-52.* 15 Aug 1889.
-(3) *Pontederiaceae, in* Alph. de Candolle, *Monogr*. 4: 501-535. Mar 1883.
-(4) *Pandanaceae, in* EP, *Nat. Pflanzenfam.* 2(1): 186-191. 8 Nov 1887. *Hydnoraceae*, id. 3(1): 282-285. Aug 1889.
+- (1) *Chlorantaceae, in* Candolle, Prodr. 16(1): 472-485. Nov 1869, *Lennoaceae* 17: 36-38. 16 Oct 1873.
+- (2) *Rafflesiaceae, in* C.F.P. von Martius, *Fl. bras.* 4(2): 117-126, *pl. 27.* 1 Jun 1878; *Caricaceae* ib. 13(3): 173-196, *pl. 49-52.* 15 Aug 1889.
+- (3) *Pontederiaceae, in* Alph. de Candolle, *Monogr*. 4: 501-535. Mar 1883.
+- (4) *Pandanaceae, in* EP, *Nat. Pflanzenfam.* 2(1): 186-191. 8 Nov 1887. *Hydnoraceae*, id. 3(1): 282-285. Aug 1889.
 *Caricaceae*, id. 3(6a): 94-96. 28 Dec 1893, 97-99. 27 Feb 1894.
 *Rafflesiaceae*, id. 3(1): 274-282. Aug 1889.
-(5) *Rafflesiaceae, in* A. Engler, *Pflanzenreich* 4(75) (Heft 5): 1-19. 5 Nov 1901. *Hydnoraceae*, ib. 4(76) (Heft 5): 1-9. 5 Nov 1901. Facs. repr. 1958, ISBN 3-76682-2005-2.
-(6) *Caricaceae, in* E. Warming, *Symb*. 33: 336. 8 Mai 1890.
-(7) Co-editor, *Botanische Zeitung* 46-66, 1889-1908; co-founder and editor *Zeitschrift für Botanik* 1-7, 1909-1915.
+- (5) *Rafflesiaceae, in* A. Engler, *Pflanzenreich* 4(75) (Heft 5): 1-19. 5 Nov 1901. *Hydnoraceae*, ib. 4(76) (Heft 5): 1-9. 5 Nov 1901. Facs. repr. 1958, ISBN 3-76682-2005-2.
+- (6) *Caricaceae, in* E. Warming, *Symb*. 33: 336. 8 Mai 1890.
+- (7) Co-editor, *Botanische Zeitung* 46-66, 1889-1908; co-founder and editor *Zeitschrift für Botanik* 1-7, 1909-1915.
 
 #### Festschrift
 

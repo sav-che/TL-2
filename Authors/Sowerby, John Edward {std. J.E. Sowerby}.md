@@ -25,18 +25,18 @@ Barnhart 3: 305; BB p. 284; BL 2: 220, 224, 719; BM 5: 1984; Desmond p. 575; DNB
 
 #### Composite works
 
-(1) With Charles Johnston (for text), *The ferns of Great Britain* 1855 \[i.e. 1854-1855, in 8 parts\] see TL-2/3372 (line 2 of entry recte "1855").
-(2) With idem, *British poisonous plants* 1856, see TL-2/3373.
-(3) With idem, *The fern allies*, 1856, see TL-2/3374.
-(4) With idem, *The grasses of Great Britain*, 1857-1861, see TL-2/3375.
-(5) With Charles Pierpont Johnson, *The useful plants of Great Britain* 1861-1862, see TL-2/3376.
-(6) J.E. Smith and J. Sowerby, *English botany*, ed. 3, 1863-1886 "figures by J. Sowerby, ... J. de C. Sowerby,..., J.W. Salter,... and John Edward Sowerby,..."
-(7) With Charles Pierpont Johnson, *British wild flowers*, 1860, "illustrated by John E. Sowerby" n.v., various reissues: 1863, 1882 (with a supplement by John W. Salter...), 1894.
-(8) Mrs P. Lankester, *Wild flowers worth notice*, 1861, ed. 2, 1879 (n.v.), *18 pl*. by J.E.S.
-(9) T.W. Gissing, *The ferns and fern allies of Wakefield*, 1862 (n.v.), *26 pl*. by S.
-(10) G.S. Stacey, *The flora of Essex*, 1862 (n.v.), *4 pl*. by J.E.S.
-(11) M.C. Cook, *Rust, smut*, 1865, TL-2/1197, ills, by J.E.S.
-(12) J.E. Taylor, *Flowers, their origin, shapes, perfumes and colours* 1878, *8 pl*. by J.E.S.; ed. 2. 1878, ed. 4. 1880.
+- (1) With Charles Johnston (for text), *The ferns of Great Britain* 1855 \[i.e. 1854-1855, in 8 parts\] see TL-2/3372 (line 2 of entry recte "1855").
+- (2) With idem, *British poisonous plants* 1856, see TL-2/3373.
+- (3) With idem, *The fern allies*, 1856, see TL-2/3374.
+- (4) With idem, *The grasses of Great Britain*, 1857-1861, see TL-2/3375.
+- (5) With Charles Pierpont Johnson, *The useful plants of Great Britain* 1861-1862, see TL-2/3376.
+- (6) J.E. Smith and J. Sowerby, *English botany*, ed. 3, 1863-1886 "figures by J. Sowerby, ... J. de C. Sowerby,..., J.W. Salter,... and John Edward Sowerby,..."
+- (7) With Charles Pierpont Johnson, *British wild flowers*, 1860, "illustrated by John E. Sowerby" n.v., various reissues: 1863, 1882 (with a supplement by John W. Salter...), 1894.
+- (8) Mrs P. Lankester, *Wild flowers worth notice*, 1861, ed. 2, 1879 (n.v.), *18 pl*. by J.E.S.
+- (9) T.W. Gissing, *The ferns and fern allies of Wakefield*, 1862 (n.v.), *26 pl*. by S.
+- (10) G.S. Stacey, *The flora of Essex*, 1862 (n.v.), *4 pl*. by J.E.S.
+- (11) M.C. Cook, *Rust, smut*, 1865, TL-2/1197, ills, by J.E.S.
+- (12) J.E. Taylor, *Flowers, their origin, shapes, perfumes and colours* 1878, *8 pl*. by J.E.S.; ed. 2. 1878, ed. 4. 1880.
 
 ### Publications
 

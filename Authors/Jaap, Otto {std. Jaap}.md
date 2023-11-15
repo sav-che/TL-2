@@ -8,9 +8,10 @@ Jaap, Otto (1864-1922), German botanist and entomologist; from 1884-1887 high sc
 
 #### Herbarium and types
 
-[[Collection HBG|HBG]]; further material at [[Collection B|B]], [[Collection E|E]] and [[Collection H|H]]. – *Exsiccatae*:
-(1) *Fungi selecti exsiccati* (34 ser., 1903-1917, 850 nos.), sets at [[Collection B|B]](extant) and [[Collection FH|FH]] (continued by Brick, ser. 35-39, nos. 851-959, set [[Collection FH|FH]]); descriptions, notes and lists were published in the Verh. bot. Ver. Brandenburg 1905-1917. (For a detailed list see No. 3207).
-(2) *Myxomycetes exsiccati* (10 ser., 1907-1916, 200 nos.), sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]] and [[Collection FH|FH]]. Jaap also published sets of Coccidia and Zoocecidia from 1909 onward.
+[[Collection HBG|HBG]]; further material at [[Collection B|B]], [[Collection E|E]] and [[Collection H|H]].
+*Exsiccatae*:
+- (1) *Fungi selecti exsiccati* (34 ser., 1903-1917, 850 nos.), sets at [[Collection B|B]](extant) and [[Collection FH|FH]] (continued by Brick, ser. 35-39, nos. 851-959, set [[Collection FH|FH]]); descriptions, notes and lists were published in the Verh. bot. Ver. Brandenburg 1905-1917. (For a detailed list see No. 3207).
+- (2) *Myxomycetes exsiccati* (10 ser., 1907-1916, 200 nos.), sets at [[Collection B|B]] (extant), [[Collection BPI|BPI]] and [[Collection FH|FH]]. Jaap also published sets of Coccidia and Zoocecidia from 1909 onward.
 *Réf*.: Stevenson, J., Beih. Nova Hedw. 36: 202-205. 1971.
 
 #### Bibliography and biography

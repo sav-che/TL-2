@@ -22,8 +22,8 @@ BL 1: 31, 294; Bossert p. 107; IH 2: 167-168; Kew 2: 120.
 
 #### Composite works
 
-(1) Täckholm, Vivi (TL-2/6: 148-149), *Flora* of *Egypt* Täckholm and M. Drar. q.v. TL-2/no. 13.653.
-(2) Täckholm, Vivi, *A botanic expedition to the Sudan in 1938* by Mohammed Drar, edited after author's death with introductory notes. Publ. no. 3 Cairo Univ. Herb. 1970 (but preface dated May 1971, and printed 1972). *Copies*: B, U.
+- (1) Täckholm, Vivi (TL-2/6: 148-149), *Flora* of *Egypt* Täckholm and M. Drar. q.v. TL-2/no. 13.653.
+- (2) Täckholm, Vivi, *A botanic expedition to the Sudan in 1938* by Mohammed Drar, edited after author's death with introductory notes. Publ. no. 3 Cairo Univ. Herb. 1970 (but preface dated May 1971, and printed 1972). *Copies*: B, U.
 
 ### Publications
 

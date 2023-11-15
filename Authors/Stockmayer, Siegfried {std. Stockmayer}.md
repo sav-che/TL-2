@@ -22,10 +22,10 @@ Barnhart 3: 332; Biol.-Dokum. 17: 9000; Bossert p. 384; CSP 18: 970; De Toni 4: 
 
 #### Composite works
 
-(1) *Charophyta, in* I.S. Poetsch & K.B. Schiedermayr, *Nachträge, Systematische Aufzählung der im Erzherzogthume Oesterreich ob der Enns bisher beobachteten samenlosen Pflanzen*... Wien 1894, p. 60-61 (Bot. Centralbl. 30 Oct 1864), TL-2/8095.
-(2) *Algae, in* G. Beck, *Flora von Südbosnien* 1(4): 7-10. 1890, Ann. Naturh. Hofmus., Wien 4(4): 345-348. 1890.
-(3) I. Classe, *Algen, in Nachträge* zur systematischen *Aufzählung der im Herzogthum Österreich ob der Ems bisher beobachteten samenlosen Pflanzen* (Kryptogamen) p. 23-59. 1894.
-(4) *Algae, in* H. von Handel-Mazetti, *Ergebnisse einer botanischen Reise in das Pontische Randgebirge* im Sandschak Trapezunt, Ann. k.k. Naturh. Hofmuseum, Wien 23, 1909.
+- (1) *Charophyta, in* I.S. Poetsch & K.B. Schiedermayr, *Nachträge, Systematische Aufzählung der im Erzherzogthume Oesterreich ob der Enns bisher beobachteten samenlosen Pflanzen*... Wien 1894, p. 60-61 (Bot. Centralbl. 30 Oct 1864), TL-2/8095.
+- (2) *Algae, in* G. Beck, *Flora von Südbosnien* 1(4): 7-10. 1890, Ann. Naturh. Hofmus., Wien 4(4): 345-348. 1890.
+- (3) I. Classe, *Algen, in Nachträge* zur systematischen *Aufzählung der im Herzogthum Österreich ob der Ems bisher beobachteten samenlosen Pflanzen* (Kryptogamen) p. 23-59. 1894.
+- (4) *Algae, in* H. von Handel-Mazetti, *Ergebnisse einer botanischen Reise in das Pontische Randgebirge* im Sandschak Trapezunt, Ann. k.k. Naturh. Hofmuseum, Wien 23, 1909.
 
 ### Publications
 

@@ -8,7 +8,8 @@ Eiben, C. E. (*fl*. 1870), German East-Frisian cryptogamist at Aurich nr. Emden.
 
 #### Herbarium and types
 
-[[Collection GOET|GOET]] (musci). – Exsiccatae:
+[[Collection GOET|GOET]] (musci).
+*Exsiccatae*:
 1. *Die Brack- und Salzwasseralgen der ostfriesischen Inseln und Küsten* (1 dec, nos. 1-10, Aurich 1870, Emden 1872), 1870 ed.: sets [[Collection BM|BM]], [[Collection W|W]].
 2. *Die Diatomeen der ostfriesischen Inseln und Küsten* (1 dec, nos. 1-10, Aurich 1870), sets [[Collection BM|BM]], [[Collection W|W]].
 3. *Ostfrieslands Laubmoose* (fasc i-iv, nos. 1-150, Aurich, 1866-1870) sets at [[Collection BM|BM]], [[Collection CERN|CERN]], [[Collection GOET|GOET]], [[Collection KIEL|KIEL]], [[Collection M|M]].

@@ -23,9 +23,9 @@ Barnhart 2: 37; BFM 2380; GR p. 449; LS suppl. 9460; MW p. 136.
 
 #### Composite works
 
-(1) Rabenhorst, *Kryptogamen-Flora*: *Cyanophyceae*, 14: 1-288. 1930; 289-672. 1931; 673-1178. 1932.
-(2) Pascher, *Süsswasserflora, Cyanophyceae, Cyanochloridineae* 12: \[1\]-450, *figs. 1-560.* 1925, \[with Pascher:\] \[451\]-463, *fig. 1-14.* 1925.
-(3) EP, *Die natürlichen Pflanzenfamilien*, ed. 2: vol. 1b, "1942, " publ. early 1943: *Schizophyceae*, p. \[i\]-iv, \[1\]-232.
+- (1) Rabenhorst, *Kryptogamen-Flora*: *Cyanophyceae*, 14: 1-288. 1930; 289-672. 1931; 673-1178. 1932.
+- (2) Pascher, *Süsswasserflora, Cyanophyceae, Cyanochloridineae* 12: \[1\]-450, *figs. 1-560.* 1925, \[with Pascher:\] \[451\]-463, *fig. 1-14.* 1925.
+- (3) EP, *Die natürlichen Pflanzenfamilien*, ed. 2: vol. 1b, "1942, " publ. early 1943: *Schizophyceae*, p. \[i\]-iv, \[1\]-232.
 
 #### Eponymy
 

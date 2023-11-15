@@ -26,6 +26,6 @@ Barnhart 3: 82; BB p. 243; BL 2: 314, 315, 702; CSP 17: 583; Desmond p. 493; De 
 
 #### Composite works
 
-(1) *Algae*, in *Encycl. brit.* ed. 11. 1: 585-598. 1910 (also in ed. 10, 1902).
-(2) *The flora of Breconshire*, in T.R. Phillips *The Breconshire border* (publ, by D.J. Morgan, Talgarth 1926), p. 84-88 and appendix 1, p. i-xxiv (n.v.); see J. Bot. 63: 316. Nov 1926 (see also J. Bot. 30: 354-355. Dec 1892).
+- (1) *Algae*, in *Encycl. brit.* ed. 11. 1: 585-598. 1910 (also in ed. 10, 1902).
+- (2) *The flora of Breconshire*, in T.R. Phillips *The Breconshire border* (publ, by D.J. Morgan, Talgarth 1926), p. 84-88 and appendix 1, p. i-xxiv (n.v.); see J. Bot. 63: 316. Nov 1926 (see also J. Bot. 30: 354-355. Dec 1892).
 

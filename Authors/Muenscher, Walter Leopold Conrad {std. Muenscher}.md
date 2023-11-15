@@ -8,7 +8,8 @@ Muenscher, Walter Leopold Conrad (1891-1963), German-born American botanist; nat
 
 #### Herbarium and types
 
-[[Collection CU|CU]], [[Collection CUP|CUP]]; further material at [[Collection F|F]], [[Collection GH|GH]], [[Collection NEB|NEB]], [[Collection NYS|NYS]], [[Collection US|US]], [[Collection WTU|WTU]]. – *Exsiccatae*: with F. B. Wann, *North American myxomycetes*, fasc. 1, nos. 1-50. 1929.
+[[Collection CU|CU]], [[Collection CUP|CUP]]; further material at [[Collection F|F]], [[Collection GH|GH]], [[Collection NEB|NEB]], [[Collection NYS|NYS]], [[Collection US|US]], [[Collection WTU|WTU]].
+*Exsiccatae*: with F. B. Wann, *North American myxomycetes*, fasc. 1, nos. 1-50. 1929.
 
 #### Bibliography and biography
 

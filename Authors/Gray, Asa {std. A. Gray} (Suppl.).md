@@ -8,13 +8,14 @@
 \* Gray, Asa (1810-1888), American botanist, born 18 Nov 1810 in Sauquoit (Oneida Co.), New York, son of a farmer, educated at Fairfield (New York) Academy and Fairfield Medical School (M.D. 1831), science teacher at high school in Utica, New York 1832-1835, asst. to John Torrey 1833, Curator and librarian, Lyceum of Natural History, New York City 1836, Prof. of Botany, State Univ. of Michigan (now Univ. of Michigan at Ann Arbor) 1838, visited European herbaria 1838-1839, appointed to the Fisher Chair of Natural History, Harvard Univ., Cambridge, Mass. 1842, retired from teaching 1873, president A.A.A.S. 1863-1873, regent, Smithsonian Inst. 1874-1888, F.R.S. (foreign member) 1873, LL.D. Cambridge, Oxford and Edinburgh (all 1887), died 30 Jan 1888 in Cambridge, Mass. 
 **Abbreviated name**: *A. Gray*
 
-#### "... nobody did more to spread the love of natural history in america" (p. 71 in foster w. russell, mount auburn biographies
-
-a biographical listing of distinguished persons interred in Mount Auburn Cemetery, Cambridge, Massachusetts... 1953).
+"... nobody did more to spread the love of natural history in america" (p. 71 in Foster W. Russell, Mount Quburn biographies: a biographical listing of distinguished persons interred in Mount Auburn Cemetery, Cambridge, Massachusetts... 1953).
 
 #### Herbarium, types, original manuscripts, archives, correspondence
 
-[[Collection GH|GH]] (see also IH 2: 237). – *Exsiccatae*: (1) *N. Amer. Gram.*... 1834-1835 (see TL-2/1, nr. 2119 for details). (2) *Plantae Exsiccatae Grayanae*... 1902-1945, the specimens were not assembled by Gray but issued by the Gray Herb. long after his death. – Other significant sources of corr. and archival materials include [[Collection GH|Harvard Univ.]] (various collections), [[Collection K|Kew]] and [[Collection LC|LC]]; see Dupree (1959, p. 423-425) for additional sources.
+[[Collection GH|GH]] (see also IH 2: 237).
+*Exsiccatae*: (1) *N. Amer. Gram.*... 1834-1835 (see TL-2/1, nr. 2119 for details).
+- (2) *Plantae Exsiccatae Grayanae*... 1902-1945, the specimens were not assembled by Gray but issued by the Gray Herb. long after his death.
+Other significant sources of corr. and archival materials include [[Collection GH|Harvard Univ.]] (various collections), [[Collection K|Kew]] and [[Collection LC|LC]]; see Dupree (1959, p. 423-425) for additional sources.
 
 #### Bibliography and biography
 
@@ -154,9 +155,9 @@ Asa Gray Award, A.S.P.T.
 
 #### Note
 
-(1) I \[DHN\] found a fascinating review of then current botanical events by Asa Gray in Amer. J. Sci. Arts, ser. 2, 13(37): 42-53. Jan 1852 \[reprint repaged, p. 1-13\]. It touches on Alph. de Candolle, posthumous publications of Kunth and Endlicher, Brongniart, Martius, deaths of Link, Kunth, Koch, Ledebour, Bernhardi, Wahlenberg, what Webb and Weddell are doing, Montagne, Decaisne, Gaudichaud, Spach, Naudin, Claude Gay, purchase of Pavon herbarium, Richard, Boissier, Choisy, Lehmann, Blume, Wm. Hooker (noting the new Palm House), J.D. Hooker, acidulous comments on Griffith's posthumous publications, work in fossils, ferns, hepatics, mosses, algae, lichens. It shows an astounding grasp of what was going on in European botany!
-(2) Earlier a skeletal revision of *Contributions* to *North American botany*... 1846-1888 (see TL-2/1, nr. 2123) was offered; the serial but not reprints analyzed. Subsequently we have examined a number of reprints and our analyses are detailed below (each reprint analyzed also is assigned a new number in the TL-2 series).
-(3) Information on IDC microfiches not in TL-2/1:
+- (1) I \[DHN\] found a fascinating review of then current botanical events by Asa Gray in Amer. J. Sci. Arts, ser. 2, 13(37): 42-53. Jan 1852 \[reprint repaged, p. 1-13\]. It touches on Alph. de Candolle, posthumous publications of Kunth and Endlicher, Brongniart, Martius, deaths of Link, Kunth, Koch, Ledebour, Bernhardi, Wahlenberg, what Webb and Weddell are doing, Montagne, Decaisne, Gaudichaud, Spach, Naudin, Claude Gay, purchase of Pavon herbarium, Richard, Boissier, Choisy, Lehmann, Blume, Wm. Hooker (noting the new Palm House), J.D. Hooker, acidulous comments on Griffith's posthumous publications, work in fossils, ferns, hepatics, mosses, algae, lichens. It shows an astounding grasp of what was going on in European botany!
+- (2) Earlier a skeletal revision of *Contributions* to *North American botany*... 1846-1888 (see TL-2/1, nr. 2123) was offered; the serial but not reprints analyzed. Subsequently we have examined a number of reprints and our analyses are detailed below (each reprint analyzed also is assigned a new number in the TL-2 series).
+- (3) Information on IDC microfiches not in TL-2/1:
 Nr. 2123 *Contr. N. Amer. Bot.* is on IDC E-5937/2;
 Nr. 2124 *Manual* (*Gray*) is on IDC E-7546 (Ed. 1 of 1848);
 Nr. 2125 *Gen. Amer. Bor.* is on IDC E-5130;
@@ -165,13 +166,13 @@ Nr. 2132 *Syn. Fl. N. Amer.* is on IDC E7548/1.
 
 #### Composite works
 
-(1) Co-author with J. Torrey:
+- (1) Co-author with J. Torrey:
 (a) "Report on the botany of the Expedition" for the *Pacific Railr. Rep.* of J.W. Gunnison (1857, see TL-2/6, nr. 14.764) and J. Pope (med. 1857, see TL-2/6, nr. 14.765); and
 (b) *Revision of the Erigoneæ* \[sic\]... 1870, see TL-2/6, nr. 14.769.
-(2) One of several collaborators with S. Watson, *Botany* \[*fortieth parallel*\]... 1871, see TL-2/7, nr. 16.812.
-(3) "Gamopetalae" *in* S. Watson, *Bot. California*... vol. 1, 1876, see TL-2/7, nr. 16.815.
-(4) Revised "Botany. A.–Phænogamia, Filices, et Lycopodiaceæ..." *in* Jerome Henry Kidder (ed.), *Contributions* to the *natural history* of *Kerguelen Island*, made in connection with the United States Transit-of-Venus Expedition, 1874-75. II... p. 21-25, Washington, D.C. (Government Printing Office), 1876. *Copies*: K, US.
-(5) Co-author with J.H. Trumball, *Notes on the history of Helianthus tuberosus*... 1877, see TL-2/6, nr. 15.239.
+- (2) One of several collaborators with S. Watson, *Botany* \[*fortieth parallel*\]... 1871, see TL-2/7, nr. 16.812.
+- (3) "Gamopetalae" *in* S. Watson, *Bot. California*... vol. 1, 1876, see TL-2/7, nr. 16.815.
+- (4) Revised "Botany. A.–Phænogamia, Filices, et Lycopodiaceæ..." *in* Jerome Henry Kidder (ed.), *Contributions* to the *natural history* of *Kerguelen Island*, made in connection with the United States Transit-of-Venus Expedition, 1874-75. II... p. 21-25, Washington, D.C. (Government Printing Office), 1876. *Copies*: K, US.
+- (5) Co-author with J.H. Trumball, *Notes on the history of Helianthus tuberosus*... 1877, see TL-2/6, nr. 15.239.
 
 ### Publications
 

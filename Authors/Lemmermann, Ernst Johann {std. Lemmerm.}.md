@@ -21,14 +21,14 @@ BJI 2: 104; BM 3: 1088; CSP 16: 699; De Toni 4: xxxvi; IH 1(ed. 6): 361,2: 430; 
 
 #### Composite works
 
-(1) Pascher, *Süsswasserflora Deutschl. Österr., Schweiz*:
+- (1) Pascher, *Süsswasserflora Deutschl. Österr., Schweiz*:
 1. *Pantostomatineae*, 1: \[30\]-51. 1914.
 2. *Protomastiginae*, 1: \[52\]-121. 1914.
 3. *Distomatinae*, 1: \[122\]-133. 1914.
 4. *Eugleninae*, 2: \[115\]-185. 1913.
 5. *Tetrasporales*, 5: \[21\]-51. Dec 1915.
-(2) *Kryptogamenflora der Mark Brandenburg*: *Algae*, 3(1): (1)-128. 4 Mar 1907; 3(2): 129-304. 25 Sep 1907; 3(3): 305-496. 12 Jun 1908; 3(4): 497-712. \[i\]-x, \[(1)\]-(29). 15 Jun 1910; *Copy*: MO (orig. covers), main t.p. "*Algen* I (Schizophyceen, Flagellaten, Peridineen)..." Leipzig (Verlag von Gebrüder Borntraeger) 1910. Oct.
-(3) Brandt, K. und C. Apstein, *Nordische Plankton, Botanische, Teil*, part 21, p. 1 -40, *Flagellatae* et al.
+- (2) *Kryptogamenflora der Mark Brandenburg*: *Algae*, 3(1): (1)-128. 4 Mar 1907; 3(2): 129-304. 25 Sep 1907; 3(3): 305-496. 12 Jun 1908; 3(4): 497-712. \[i\]-x, \[(1)\]-(29). 15 Jun 1910; *Copy*: MO (orig. covers), main t.p. "*Algen* I (Schizophyceen, Flagellaten, Peridineen)..." Leipzig (Verlag von Gebrüder Borntraeger) 1910. Oct.
+- (3) Brandt, K. und C. Apstein, *Nordische Plankton, Botanische, Teil*, part 21, p. 1 -40, *Flagellatae* et al.
 
 #### Eponymy
 

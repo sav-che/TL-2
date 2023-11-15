@@ -28,10 +28,10 @@ Barnhart 3: 511 (b. 9 Dec 1889); BFM 2586; BL 2: 194; Bossert p. 440; Langman p.
 
 #### Composite works
 
-(1) Editor, *Bulletin Torrey botanical Club* 65(4)-67(3). 1938-1940.
-(2) Collaborator, A.C. Smith, *The American species of Myrislicaceae*. 1937 (TL-2/12.170).
-(3) Foreword, to G. Erdtman, *An introduction to pollen analysis*. Waltham, Mass. 1954.
-(4) Collaborator, H.A. Gleason, *Botanical Results of the Tyler-Duida expedition*, Bull. Torrey bot. Club 58: 277-506. 1931.
+- (1) Editor, *Bulletin Torrey botanical Club* 65(4)-67(3). 1938-1940.
+- (2) Collaborator, A.C. Smith, *The American species of Myrislicaceae*. 1937 (TL-2/12.170).
+- (3) Foreword, to G. Erdtman, *An introduction to pollen analysis*. Waltham, Mass. 1954.
+- (4) Collaborator, H.A. Gleason, *Botanical Results of the Tyler-Duida expedition*, Bull. Torrey bot. Club 58: 277-506. 1931.
 
 #### Dedication
 

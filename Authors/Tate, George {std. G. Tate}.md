@@ -24,6 +24,6 @@ Barnhart 3: 361; BB p. 296; BL 2: 261, 722; BM 1: 89, 5: 2076; CSP 5: 915, 8: 10
 
 #### Composite works
 
-(1) Contributed *The fossil flora of the mountain limestone formation*... to George Johnston (1797-1855), *Bot. East. bord*. 1853, p. 289-317; see TL-2/3378.
-(2) *A sketch of the geology of Northumberland and Durham, in* J.G. Baker & G.R. Tate, *A new flora of Northumberland and Durham*, 1869 (see below under G.R. Tate).
+- (1) Contributed *The fossil flora of the mountain limestone formation*... to George Johnston (1797-1855), *Bot. East. bord*. 1853, p. 289-317; see TL-2/3378.
+- (2) *A sketch of the geology of Northumberland and Durham, in* J.G. Baker & G.R. Tate, *A new flora of Northumberland and Durham*, 1869 (see below under G.R. Tate).
 

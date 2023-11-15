@@ -9,11 +9,11 @@ Schmidt, Robert (1826-1890), German teacher, meteorologist and botanist at Gera 
 #### Herbarium and types
 
 Unknown. – Distributed various sets of exsiccatae between 1882 and 1888.
-(1) *Lichenes selecti Germaniae mediae*, fasc. 1-2, nos. 1-50, Jena 1882-1883, sets e.g. at [[Collection L|L]] and [[Collection W|W]]. – See Sayre 1969.
-(2) *Filices selecti Germaniae mediae*, fasc. 1-2, Jena 1884.
-(3) *Equisetaceae selectae Germaniae mediae*, fasc. 1, Jena 1884. (Nat. Nov. Mai(1) 1884).
-(4) *Hepaticae selectae Germaniae mediae*, fasc. 1-2, nos. 1-30. Jena 1888 (Herbarium 77, 1927).
-(5) *Musei selecti germaniae mediae*, fasc. 1-2, nos. 1-53. Jena 1888 (Herbarium 77, 1927).
+- (1) *Lichenes selecti Germaniae mediae*, fasc. 1-2, nos. 1-50, Jena 1882-1883, sets e.g. at [[Collection L|L]] and [[Collection W|W]]. – See Sayre 1969.
+- (2) *Filices selecti Germaniae mediae*, fasc. 1-2, Jena 1884.
+- (3) *Equisetaceae selectae Germaniae mediae*, fasc. 1, Jena 1884. (Nat. Nov. Mai(1) 1884).
+- (4) *Hepaticae selectae Germaniae mediae*, fasc. 1-2, nos. 1-30. Jena 1888 (Herbarium 77, 1927).
+- (5) *Musei selecti germaniae mediae*, fasc. 1-2, nos. 1-53. Jena 1888 (Herbarium 77, 1927).
 
 #### Bibliography and biography
 

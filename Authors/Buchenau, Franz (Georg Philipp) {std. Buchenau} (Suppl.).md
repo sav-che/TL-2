@@ -42,19 +42,19 @@ AG 2(1): 287-288, 3(2): 482; Barnhart 1: 274 (b. 12 Jan 1831, Kassel, d. 23 Apr 
 
 #### Composite works
 
-(1) *Alismaceae*, *in* E. Warming, Symb. fl. Bras. centr. 13: 27. 1872.
-(2) *Juncaceae*, with M. Seubert, *in* ib. 13: 115. 1872.
-(3) *Echinodorus* (?) *Schinzii* Fr. Buchenau, *in* H. Schinz, Beitr. Kenntn. Afr. Fl. ser. 2. 4, *in *Bull. Herb. Boissier 4: 413-414. Jun 1896.
-(4) Alismataceae... *Rautanenia* Fr. Buchenau, Bull. Herb. Boissier 5: 854-856. 31 Oct 1897.
-(5) Buchenau contributed various taxa in Engler and Prantl, Nat. Pflanzenfam.: *Juncaginaceae*, II. Teil, 1. Abt., p. 222-227. 22 Feb 1889 (with G. Hieronymous), suppl. in Nachträge 2-4: 38. 1897.
+- (1) *Alismaceae*, *in* E. Warming, Symb. fl. Bras. centr. 13: 27. 1872.
+- (2) *Juncaceae*, with M. Seubert, *in* ib. 13: 115. 1872.
+- (3) *Echinodorus* (?) *Schinzii* Fr. Buchenau, *in* H. Schinz, Beitr. Kenntn. Afr. Fl. ser. 2. 4, *in *Bull. Herb. Boissier 4: 413-414. Jun 1896.
+- (4) Alismataceae... *Rautanenia* Fr. Buchenau, Bull. Herb. Boissier 5: 854-856. 31 Oct 1897.
+- (5) Buchenau contributed various taxa in Engler and Prantl, Nat. Pflanzenfam.: *Juncaginaceae*, II. Teil, 1. Abt., p. 222-227. 22 Feb 1889 (with G. Hieronymous), suppl. in Nachträge 2-4: 38. 1897.
 *Alismaceae*, II. Teil, 1. Abt., p. 227-232. 15 Jan 1889, suppl. in Nachträge 2-4: 38. 1897. *Butomaceae*, II. Teil, 1. Abt., p. 232-234. 15 Jan 1889, suppl. in Nachträge 2-4: 38. *Juncaceae*, II. Teil, 5. Abt., p. 1-7. 26 Mar 1887, suppl. in Nachträge 2-4: 70-71.
-(6) *Juncaceae*, *in* I. Urban, Symb. antill. 1(3): 495-498. 15 Jan 1900.
-(7) *Tropaeolaceae*, *in* A. Engler, Das Pflanzenreich 4(131): 1-36. 8 Jul 1902 (rev. K. Schumann, Bot. Centralbl. 90(38): 333-334. 23 Sep 1902; Nat. Nov. Aug (1) 1902).
-(8) *Scheuzeriaceae*, *in* A. Engler, Das Pflanzenreich 4(14): 1-20. 6 Jun 1903 (rev. of (8)-(10) by K. Schumann, Bot. Centralbl. 93(42): 411-412. 27 Oct 1903).
-(9) *Alismataceae*, *in* A. Engler, Das Pflanzenreich 4(15): 1-66. 25 Aug 1903.
-(10) *Butomaceae*, *in* A. Engler, Das Pflanzenreich 4(16): 1-20. 25 Aug 1903.
-(11) *Juncaceae*, *in* A. Engler, Das Pflanzenreich 4(36): 1-284. 15 Mai 1906 (rev. C. Mez, Bot. Centralbl. 102(50): 643-644. 1906, Nat. Nov. Jun (1) 1906).
-(12) Id. Nachträge II und III. zum 2.-4. Teil, 1908, *Scheuchzeriaceae* (= *Juncaginaceae*, *Alismataceae*, *Butomaceae* on p. 2-3, *Juncaceae* on p. 9).
+- (6) *Juncaceae*, *in* I. Urban, Symb. antill. 1(3): 495-498. 15 Jan 1900.
+- (7) *Tropaeolaceae*, *in* A. Engler, Das Pflanzenreich 4(131): 1-36. 8 Jul 1902 (rev. K. Schumann, Bot. Centralbl. 90(38): 333-334. 23 Sep 1902; Nat. Nov. Aug (1) 1902).
+- (8) *Scheuzeriaceae*, *in* A. Engler, Das Pflanzenreich 4(14): 1-20. 6 Jun 1903 (rev. of (8)-(10) by K. Schumann, Bot. Centralbl. 93(42): 411-412. 27 Oct 1903).
+- (9) *Alismataceae*, *in* A. Engler, Das Pflanzenreich 4(15): 1-66. 25 Aug 1903.
+- (10) *Butomaceae*, *in* A. Engler, Das Pflanzenreich 4(16): 1-20. 25 Aug 1903.
+- (11) *Juncaceae*, *in* A. Engler, Das Pflanzenreich 4(36): 1-284. 15 Mai 1906 (rev. C. Mez, Bot. Centralbl. 102(50): 643-644. 1906, Nat. Nov. Jun (1) 1906).
+- (12) Id. Nachträge II und III. zum 2.-4. Teil, 1908, *Scheuchzeriaceae* (= *Juncaginaceae*, *Alismataceae*, *Butomaceae* on p. 2-3, *Juncaceae* on p. 9).
 
 #### Note
 

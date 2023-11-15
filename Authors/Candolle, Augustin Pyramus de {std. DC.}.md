@@ -92,12 +92,12 @@ AG 2(1): 266, 4: 737, 5(1): 929, 5(2): 99; Barnhart 1: 306; BM 1: 310-311, 6: 18
 
 #### Composite works
 
-(1) Lamarck et de Candolle, *Flore française*, ed. 1, 1805,*see* Lamarck.
-(2) Lamarck et de Candolle, *Synopsis plantarum* in Florâ gallicâ descriptarum. Paris 1806, *see* under Lamarck; for revised edition *see* J. E. Duby, *Botanicon gallicum* 1828-1830.
-(3) Redouté, *Les liliacées*. Text for volume 1-4.
-(4) Delessert, *Icones selectae* text, 1820-1846.
-(5) Cuvier et al., *Dictionnaire des sciences naturelles*, contr. to vols. 18-60.
-(6) Bory de Saint-Vincent, *Dictionnaire classique d'histoire naturelle*, co-author.
+- (1) Lamarck et de Candolle, *Flore française*, ed. 1, 1805,*see* Lamarck.
+- (2) Lamarck et de Candolle, *Synopsis plantarum* in Florâ gallicâ descriptarum. Paris 1806, *see* under Lamarck; for revised edition *see* J. E. Duby, *Botanicon gallicum* 1828-1830.
+- (3) Redouté, *Les liliacées*. Text for volume 1-4.
+- (4) Delessert, *Icones selectae* text, 1820-1846.
+- (5) Cuvier et al., *Dictionnaire des sciences naturelles*, contr. to vols. 18-60.
+- (6) Bory de Saint-Vincent, *Dictionnaire classique d'histoire naturelle*, co-author.
 
 #### Eponymy (genera)
 

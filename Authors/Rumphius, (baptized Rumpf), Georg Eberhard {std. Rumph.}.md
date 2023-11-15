@@ -118,10 +118,10 @@ Georgii Everhardi Rumphii,... *Herbarium amboinense*, plurimas complectens arbor
 *Variant issues*: see Rouffaer & Muller p. 168-170.
 *Re-issue* of vols. 1-6, 1750, Amsterdam (Meinard Uytvvcrf).
 *Other indexes*: (1) J. Burman, *Index alter in omnes tomos herbarii amboinensis*, Leiden 1769, TL-2/932.
-(2) A.W.E.T. Henschel, *Vita Rumphii*, Breslau 1833, TL-2/2654; for a detailed critical discussion see Rouffaer & Müller p. 178-182.
-(3) J.K. Hasskarl, *Neuer Schlüssel zu Rumph's Herbarium amboinense*, Halle 1866, TL-2/2473.
-(4) E.D. Merrill, an interpretation of Rumphius' Herbarium amboinense, Manila 1917, TL-2/5860, see also J.H., Bull. misc. Inf. Kew 1918: 244-246.
-(5) H.C.D. de Wit, *A checklist to Rumphius's Herbarium amboinense, in* Rumphius memorial volume, Amsterdam 1959, p. 339-460.
+- (2) A.W.E.T. Henschel, *Vita Rumphii*, Breslau 1833, TL-2/2654; for a detailed critical discussion see Rouffaer & Müller p. 178-182.
+- (3) J.K. Hasskarl, *Neuer Schlüssel zu Rumph's Herbarium amboinense*, Halle 1866, TL-2/2473.
+- (4) E.D. Merrill, an interpretation of Rumphius' Herbarium amboinense, Manila 1917, TL-2/5860, see also J.H., Bull. misc. Inf. Kew 1918: 244-246.
+- (5) H.C.D. de Wit, *A checklist to Rumphius's Herbarium amboinense, in* Rumphius memorial volume, Amsterdam 1959, p. 339-460.
 *Manuscripts*: see Lotsy (1902, p. 46), Rouffaer & Muller (1902, p. 165), Targioni-Tozzetti (1903), NI 1701.
 *Linnaean study*: Herbarium amboinense, see TL-2/4777 and F.R. Fosberg, Taxon 30: 218-227. 1981.
 

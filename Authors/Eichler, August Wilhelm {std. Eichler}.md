@@ -43,7 +43,7 @@ ADB 48: 295-298; Barnhart 1: 500; BFM 626, 2327; BL 1: 239; BM 2: 517, 6: 296, 9
 
 #### Composite works
 
-(1) Eichler was general editor of the *Flora brasiliensis* from 1869-1886 (fasc. 47-99) after having been co-editor with Martius 1861-1869. His own contributions were:
+- (1) Eichler was general editor of the *Flora brasiliensis* from 1869-1886 (fasc. 47-99) after having been co-editor with Martius 1861-1869. His own contributions were:
 
 |family	|fase.	|vol./pars	|pages	|*plates*	|dates|
 |---	|---	|---	|---	|---	|---	|
@@ -61,12 +61,12 @@ ADB 48: 295-298; Barnhart 1: 500; BFM 626, 2327; BL 1: 239; BM 2: 517, 6: 296, 9
 |Sapoteae (with Miquel)	|32	|7	|36-118	|-	|15 Jan 1863|
 
 Eichler wrote the chapters on geographical distribution of a number of other families.
-(2) DC, *Prodr*.: *Balanophoraceae* 17: 117-150, 301, 321, 16 Oct 1873.
-(3) EP, *Nat. pflanzenfam.* ed. 1:
+- (2) DC, *Prodr*.: *Balanophoraceae* 17: 117-150, 301, 321, 16 Oct 1873.
+- (3) EP, *Nat. pflanzenfam.* ed. 1:
 (a) *Cycadaceae*, II. 1: 6-23. Jun 1887
 (b) *Conferae*, II. 1: 28-96. Jun 1887, 97-115. Jul 1887
 (c) *Gnetaceae*, II. 1: 116-127. Jul 1887.
-(4) *Editor*: with Garcke et Urban: *Jb. Kön. bot. Gart. bot. Mus. Berlin* 1-4, 1881-1886.
+- (4) *Editor*: with Garcke et Urban: *Jb. Kön. bot. Gart. bot. Mus. Berlin* 1-4, 1881-1886.
 
 #### Eponymy
 

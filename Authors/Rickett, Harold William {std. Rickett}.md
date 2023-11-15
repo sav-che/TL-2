@@ -24,10 +24,10 @@ Barnhart 3: 154 (b. 30 Jul 1896); BFM no. 2438, 2466; BL 1: 194, 315; Bossert p.
 
 #### Composite works
 
-(1) Editor of *North American flora* 1944-1963 (author of bibliographies of vol. 28B and ser. 2, vols. 2 and 3; treatments of *Cornaceae* 28B(2): 299-311. 28 Dec 1945, *Nyssaceae* (28B(2): 313-316. 28 Dec 1945).
-(2) Editor of Bulletin Torrey bot. Club 67(4)-76(3), Apr 1940-Apr 1949.
-(3) With W.J. Robbins, q.v., *Botany* a textbook for college and University Students, New York 1929.
-(4) Editor, K.K. Mackenzie, N. Amer. Caric. 1940, TL-2/5188.
+- (1) Editor of *North American flora* 1944-1963 (author of bibliographies of vol. 28B and ser. 2, vols. 2 and 3; treatments of *Cornaceae* 28B(2): 299-311. 28 Dec 1945, *Nyssaceae* (28B(2): 313-316. 28 Dec 1945).
+- (2) Editor of Bulletin Torrey bot. Club 67(4)-76(3), Apr 1940-Apr 1949.
+- (3) With W.J. Robbins, q.v., *Botany* a textbook for college and University Students, New York 1929.
+- (4) Editor, K.K. Mackenzie, N. Amer. Caric. 1940, TL-2/5188.
 
 #### Note
 

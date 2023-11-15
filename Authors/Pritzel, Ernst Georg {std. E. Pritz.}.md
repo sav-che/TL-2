@@ -27,9 +27,9 @@ Barnhart 3: 112; BJI 1: 47, 2: 140; BL 1: 76, 314; BM 4: 1617; Bossert p. 318; C
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, (a) *Lycopodiaceae*, 1(4): 563-576. Jan 1901, 577-606. Jan 1901.
+- (1) EP, *Die natürlichen Pflanzenfamilien*, (a) *Lycopodiaceae*, 1(4): 563-576. Jan 1901, 577-606. Jan 1901.
 (b) *Psilotaceae*, 1(4): 606-619. Jan 1901.
-(2) EP, *Die natürlichen Pflanzenfamilien* ed. 2, *Pittosporaceae* in 18a: 265-286. Mai 1930.
+- (2) EP, *Die natürlichen Pflanzenfamilien* ed. 2, *Pittosporaceae* in 18a: 265-286. Mai 1930.
 
 #### Eponymy
 

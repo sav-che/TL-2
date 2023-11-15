@@ -10,8 +10,8 @@ Spruce, Richard (1817-1893), British botanist and plant collector; schoolmaster 
 
 Main S. American collections at [[Collection K|K]]; duplicates at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BEL|BEL]], [[Collection BH|BH]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection CAS|CAS]], [[Collection CGE|CGE]], [[Collection CHR|CHR]], [[Collection DBN|DBN]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection FH|FH]], [[Collection FI|FI]] (incl. Europ.), [[Collection G|G]], [[Collection GH|GH]], [[Collection GLAM|GLAM]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection LINN|LINN]] (Brit. pl.), [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MG|MG]], [[Collection MICH|MICH]], [[Collection NY|NY]] (incl. mosses Pyrenees through Duss), [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection RB|RB]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection US|US]], [[Collection W|W]], [[Collection YRK|YRK]] (Brit. pl.). – Many of S.'s Venezuelan collections have been cited from Brazil since this is stated on the labels. – *Letters* at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GH|GH]], [[Collection H|H]], [[Collection K|K]], [[Collection NY|NY]]. Diary (1841-1863) at [[Collection LINN|LINN]]. Botanical manuscripts by Spruce at Kew include: *Plantae amazonicae* (2 vols.), *Plantae andinae* (2 vols, numerical register to his flowering plants and ferns; often with descriptions), a volume of mss. ("i") with short botanical notes; a further volume of mss. ("ii") containing his original journal 1851-1855; a memorandum book containing the journal from Tarapoto to Banos and notes on bryophytes; letters from W.J. Hooker, G. Bentham, J.D. Hooker, W. Mitten, J. Miers, Destringe and E. Bescherelle; introductory notes on Hepaticae; the correspondence with W. Borrer on European bryophytes (Bull. misc. Inf. Kew 1908: 464). – Some field notes also at [[Collection NY|NY]].
 *Exsiccatae*: (1) *Hepaticae pyrenaicae*, quas in Pyrenaeis centralibus occidentalibusque, nec non in agro syrtico, a.d. 1845-6, nos. 1-77, London 1847. Sets at [[Collection BM|BM]], [[Collection G|G]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PC|PC]].
-(2) *Musci pyrenaicae*. quos in Pyrenaeis centralibus occidentalibusque, nec non in ago syrtico, a.d. 1845-6 decerpsit. Rich. Spruce. Fascis i; nos. 1-160, ii: nos. 161-331. London 1847. Sets id. – For further details on (1) and (2) see Sayre 1971.
-(3) *Hepaticae spruceanae amazonicae et andinae*, annis 1849-1860 lectae. Malton, 1892, distributed in irregular sets. *Review*: L.M. Underwood, Bot. Gaz. 18: 112-113. Mar 1893. Further details: Sayre 1975.
+- (2) *Musci pyrenaicae*. quos in Pyrenaeis centralibus occidentalibusque, nec non in ago syrtico, a.d. 1845-6 decerpsit. Rich. Spruce. Fascis i; nos. 1-160, ii: nos. 161-331. London 1847. Sets id. – For further details on (1) and (2) see Sayre 1971.
+- (3) *Hepaticae spruceanae amazonicae et andinae*, annis 1849-1860 lectae. Malton, 1892, distributed in irregular sets. *Review*: L.M. Underwood, Bot. Gaz. 18: 112-113. Mar 1893. Further details: Sayre 1975.
 
 #### Bibliography and biography
 
@@ -72,23 +72,23 @@ Webbia 32(1): 37. 1977.
 #### Note
 
 Accounts from the field of Spruce's travels and collections were given in W.J. Hooker's botanical journals and other journals as follows:
-(1) *Plants of the Pyrénées*, London J. Bot. 4: 197-199. 1845, 5: 10-11. 1846.
-(2) *Notes on the botany of the Pyrénées*, London J. Bot. 5: 134-142, 345-350, 417-429, 535-548. 1846.
-(3) *The musci and hepaticae of the Pyrenees*. Ann. Mag. nat. Hist. ser. 2. 3: 81-106, 269-293, 358-380, 478-503. 1849, 4: 104-120. 1849; Trans. Edinb. bot. Soc. 3: 103-216. 1850.
-(4) *Announcements and news of S. Amer. journey*: J. Bot. Kew Gard. Misc. 1: 20-21, 344-347. 1849, 2: 29, 158, 351-352. 1850, 7: 31. 1855, 8: 379. 1856, 9: 310-311. 1857.
-(5) *Botanical excursion on the Amazon*, J. Bot. Kew Gard. Misc. 2: 65-70, 173-178, 193-208, 225-232, 266-276, 298-302. 1850, 3: 84-89, 139-146, 239-248, 270-278, 335-343. 1851, 4: 305-312. 1852, 6: 94. 1854.
-(6) *Letters to G. Bentham* from the Amazon, J. Bot. Kew Gard. Misc. 4: 278-285, 305-312. 1852.
-(7) *Journal of a voyage up the Amazon* and the Rio Negro, J. Bot. Kew Gard. Misc. 5: 187-192, 207-215. 1853, 6: 33;42, 107-111. 1854, 7: 1-8. 1855.
-(8) *Botanical objects communicated to the Kew Museum*, from the Amazon River in 1851-1853, J. Bot. Kew Gard. Misc. 5: 169-177, 238-247. 1853, 7: 209-210, 245-252, 273-278. 1855.
-(9) *Edible fruits from the Rio Negro*, J. Bot. Kew Gard. Misc. 5: 183-187. 1853.
-(10) *Extract of a letter relating to vegetable oils*, J. Bot. Kew Gard. Misc. 6: 333-337. 1854.
-(11) *Mr. Spruce in Peru*, J. Bot. Kew Gard. Misc. 7: 281-282, 380. 1855, 8: 177-181. 1856.
-(12) *Note on the India rubber of the Amazon*, J. Bot. Kew Gard. Misc. 7: 193-196. 1855; J. de Pharm. 28: 382-384. 1855.
-(13) *On five new plants from Eastern Peru*, J. Linn. Soc. 3 (Bot.): 191-204. 1859.
-(14) *On Leopoldina Piassuba*, J. Linn. Soc. 4 (Bot.): 58-63. 1860.
-(15) *Notes of a visit to the Cinchona forests*... J. Linn. Soc. 4 (Bot.): 176-192. 1860.
-(16) *On the mode of branching of some Amazon trees*.... Linn. Soc. 5 (Bot.): 3-14. 1861.
-(17) *Mosses of the Amazon and Andes*, J. Linn. Soc. 5 (Bot.): 45-51. 5 Jun 1860.
+- (1) *Plants of the Pyrénées*, London J. Bot. 4: 197-199. 1845, 5: 10-11. 1846.
+- (2) *Notes on the botany of the Pyrénées*, London J. Bot. 5: 134-142, 345-350, 417-429, 535-548. 1846.
+- (3) *The musci and hepaticae of the Pyrenees*. Ann. Mag. nat. Hist. ser. 2. 3: 81-106, 269-293, 358-380, 478-503. 1849, 4: 104-120. 1849; Trans. Edinb. bot. Soc. 3: 103-216. 1850.
+- (4) *Announcements and news of S. Amer. journey*: J. Bot. Kew Gard. Misc. 1: 20-21, 344-347. 1849, 2: 29, 158, 351-352. 1850, 7: 31. 1855, 8: 379. 1856, 9: 310-311. 1857.
+- (5) *Botanical excursion on the Amazon*, J. Bot. Kew Gard. Misc. 2: 65-70, 173-178, 193-208, 225-232, 266-276, 298-302. 1850, 3: 84-89, 139-146, 239-248, 270-278, 335-343. 1851, 4: 305-312. 1852, 6: 94. 1854.
+- (6) *Letters to G. Bentham* from the Amazon, J. Bot. Kew Gard. Misc. 4: 278-285, 305-312. 1852.
+- (7) *Journal of a voyage up the Amazon* and the Rio Negro, J. Bot. Kew Gard. Misc. 5: 187-192, 207-215. 1853, 6: 33;42, 107-111. 1854, 7: 1-8. 1855.
+- (8) *Botanical objects communicated to the Kew Museum*, from the Amazon River in 1851-1853, J. Bot. Kew Gard. Misc. 5: 169-177, 238-247. 1853, 7: 209-210, 245-252, 273-278. 1855.
+- (9) *Edible fruits from the Rio Negro*, J. Bot. Kew Gard. Misc. 5: 183-187. 1853.
+- (10) *Extract of a letter relating to vegetable oils*, J. Bot. Kew Gard. Misc. 6: 333-337. 1854.
+- (11) *Mr. Spruce in Peru*, J. Bot. Kew Gard. Misc. 7: 281-282, 380. 1855, 8: 177-181. 1856.
+- (12) *Note on the India rubber of the Amazon*, J. Bot. Kew Gard. Misc. 7: 193-196. 1855; J. de Pharm. 28: 382-384. 1855.
+- (13) *On five new plants from Eastern Peru*, J. Linn. Soc. 3 (Bot.): 191-204. 1859.
+- (14) *On Leopoldina Piassuba*, J. Linn. Soc. 4 (Bot.): 58-63. 1860.
+- (15) *Notes of a visit to the Cinchona forests*... J. Linn. Soc. 4 (Bot.): 176-192. 1860.
+- (16) *On the mode of branching of some Amazon trees*.... Linn. Soc. 5 (Bot.): 3-14. 1861.
+- (17) *Mosses of the Amazon and Andes*, J. Linn. Soc. 5 (Bot.): 45-51. 5 Jun 1860.
 
 #### Eponymy
 

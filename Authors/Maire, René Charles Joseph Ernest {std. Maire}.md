@@ -8,7 +8,9 @@ Maire, René Charles Joseph Ernest (1878-1949), French botanist; Dr. Sci. Paris 
 
 #### Herbarium and types
 
-[[Collection MPU|MPU]]; important sets of duplicates at [[Collection AL|AL]], [[Collection CAIM|CAIM]], [[Collection P|P]], [[Collection PC|PC]]. Exsiccatae: (1) *Mycotheca boreali-africana*, set 1-10, nos. 1-400. Set at [[Collection FH|FH]]; (2) with Félix Marquery: *Hypodermearum Galliae orientalis*, sets 1-5, nos. 1-50, le Mans, 1896-1898, with text, sets at [[Collection B|B]], [[Collection PAD|PAD]], [[Collection S|S]].
+[[Collection MPU|MPU]]; important sets of duplicates at [[Collection AL|AL]], [[Collection CAIM|CAIM]], [[Collection P|P]], [[Collection PC|PC]].
+*Exsiccatae*: (1) *Mycotheca boreali-africana*, set 1-10, nos. 1-400. Set at [[Collection FH|FH]];
+- (2) with Félix Marquery: *Hypodermearum Galliae orientalis*, sets 1-5, nos. 1-50, le Mans, 1896-1898, with text, sets at [[Collection B|B]], [[Collection PAD|PAD]], [[Collection S|S]].
 
 #### Bibliography and biography
 
@@ -38,7 +40,7 @@ AG 12(3): 103; Ainsworth p. 123, 323; Andrews p. 299; Barnhart 2: 438; BFM 1537,
 
 #### Composite works
 
-(1)with E. Jahandiez, *Cat. pl. Maroc.* 1931-1941, co-author, see TL-2/3271.
+- (1) with E. Jahandiez, *Cat. pl. Maroc.* 1931-1941, co-author, see TL-2/3271.
 
 #### Festschrift
 
@@ -125,8 +127,8 @@ AG 12(3): 103; Ainsworth p. 123, 323; Andrews p. 299; Barnhart 2: 438; BFM 1537,
 |3489-3533	|34	|3 Apr 1946|
 |3534-3566	|35	|28 Jun 1949|
 
-(1) The dates are those of the journal publications. The table stems from Lebrun et Stork (1978), who stress that in case of questions of priority further confirmation might be desirable. For a list of precise references to the journal pagination see BL 1: 18.
-(2) "Contributions" 3332-3351 remained unpublished.
+- (1) The dates are those of the journal publications. The table stems from Lebrun et Stork (1978), who stress that in case of questions of priority further confirmation might be desirable. For a list of precise references to the journal pagination see BL 1: 18.
+- (2) "Contributions" 3332-3351 remained unpublished.
 *Ref*.: Lebrun, J. P. & A. L. Stork, Index général des "Contributions à l'étude de la flore de l'Afrique du Nord" du Dr. René Maire, Institut d' élevage et de médecine vétérinaire des pays tropicaux, Étude bot. 5, Apr 1978, Maisons-Alfort (full details).
 
 ##### n.5271. Études sur la végétation et la flore du Grand Atlas

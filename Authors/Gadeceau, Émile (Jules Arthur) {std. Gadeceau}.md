@@ -27,8 +27,8 @@ Barnhart 2: 22; BL 2: 102, 172, 182, 657; BM 2: 633, 6: 352; Bossert p. 137; CSP
 
 #### Composite works
 
-(1) Published J. Lloyd, *Fl. Ouest France*... ed. 5, 1898 (see TL-2/3, nr. 4904), which also included an appendix (p. 455-459) by Gadeceau.
-(2) Co-author with D. Bois, *Végétaux*... 1909, see TL-2/Suppl. 2, nr. 21.869.
+- (1) Published J. Lloyd, *Fl. Ouest France*... ed. 5, 1898 (see TL-2/3, nr. 4904), which also included an appendix (p. 455-459) by Gadeceau.
+- (2) Co-author with D. Bois, *Végétaux*... 1909, see TL-2/Suppl. 2, nr. 21.869.
 
 ### Publications
 

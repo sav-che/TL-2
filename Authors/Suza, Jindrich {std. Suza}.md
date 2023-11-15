@@ -10,7 +10,7 @@ Suza, Jindrich (1890-1951), Moravian (later Czechoslovakian) botanist (lichenolo
 
 [[Collection BRNU|BRNU]], [[Collection BRNM|BRNM]], [[Collection P|P]], [[Collection PRC|PRC]]. – Other material at [[Collection BPI|BPI]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DAO|DAO]], [[Collection DS|DS]], [[Collection DUKE|DUKE]], [[Collection DS|DS]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection M|M]].
 *Exsiccatae*: (1) *Lichenes bohemoslovakiae exsiccati*, fasc. 1-10, nos. 1-300, 1926-1935. – Sets at [[Collection FH|FH]], [[Collection GB|GB]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MSC|MSC]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
-(2) (posthumously): *Reliquiae Suzaianae e Museo nationali Pragensi* anno 1966 distributae, nos. 1-100. Sets: [[Collection H|H]], [[Collection LD|LD]].
+- (2) (posthumously): *Reliquiae Suzaianae e Museo nationali Pragensi* anno 1966 distributae, nos. 1-100. Sets: [[Collection H|H]], [[Collection LD|LD]].
 
 #### Note
 

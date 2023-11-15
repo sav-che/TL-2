@@ -45,8 +45,8 @@ AG 2: 496, 6(2): 635; Backer p. 56, 622; BB p. 320; BL 1: 87, 323; BM 1: 153, 5:
 
 #### Composite works
 
-(1) Co-author with C.H.B.A. Moquin-Tandon, *Considérations sur la fleur des Crucifères*, 1849, TL-2/6287.
-(2) Collaborator, W.J. Hooker, *Niger Fl*. 1849, TL-2/7012.
+- (1) Co-author with C.H.B.A. Moquin-Tandon, *Considérations sur la fleur des Crucifères*, 1849, TL-2/6287.
+- (2) Collaborator, W.J. Hooker, *Niger Fl*. 1849, TL-2/7012.
 Webb contributed the *Splcilegia Gorgonea* (list pl. Cape Verde Isl.), p. \[89\]-197.
 
 #### Handwriting
@@ -55,8 +55,8 @@ Candollea 34: 199-200. 1979; Webbia 32(1): 10. 1977; Monogr. Biol. Canar. 4: 48.
 
 #### Note
 
-(1) Manuscript biography of Webb by Jaques Gay (1856) at BM.
-(2) Webb's library at Paris was among the libraries consulted by Pritzel in completing his *Thesaurus* see TL-2/8353.
+- (1) Manuscript biography of Webb by Jaques Gay (1856) at BM.
+- (2) Webb's library at Paris was among the libraries consulted by Pritzel in completing his *Thesaurus* see TL-2/8353.
 
 #### Eponymy
 

@@ -21,7 +21,7 @@ Futak-Domin p. 145; GR p. 664 (b. 27 Dec 1910).
 
 #### Note
 
-(1) With M. Servit (major author) *Flechten aus der Cechoslovakei* IV, Mém. Soc. Roy. Sci. Bohème, Cl. Sci. 1-34. 1934. (Rev. bryol. lichénol. ser. 2. 10(1-3): 113. 1937).
+- (1) With M. Servit (major author) *Flechten aus der Cechoslovakei* IV, Mém. Soc. Roy. Sci. Bohème, Cl. Sci. 1-34. 1934. (Rev. bryol. lichénol. ser. 2. 10(1-3): 113. 1937).
 
 ### Publications
 

@@ -20,16 +20,16 @@ Backer p. 334; Barnhart 2: 397; BJI 1: 37; BL 1: 151, 306; BM 3: 463, 7: 738; Bo
 
 #### Composite works
 
-(1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1:
+- (1) EP, *Die natürlichen Pflanzenfamilien*, ed. 1:
 a. *Celastraceae*, 3(5): 189-222. Dec 1892, 459. 1896, Nachtr. 2-4: 221-225. 1897, Ergänzungsheft 1: 39-40. 1900, 2: 198-202. 1908.
 b. *Hippocrateaceae*, 3(5): 220-224. Dec 1892, 225-230. Mai 1893, Nachtr. 2-4: 225. 1897, Ergänzungsheft 1: 40. 1900.
-(2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
+- (2) EP, *Die natürlichen Pflanzenfamilien*, ed. 2:
 c. *Celastraceae*, 20 b: \[87\]-197. Jan-Feb 1942.
 d. *Hippocrateaceae*, 20 b: \[198\]-231. Jan-Feb 1942.
 c. *Aquifoliaceae*, 20 b: \[36\]-86. Jan-Feb 1942.
 f. *Zingiberaceae*, 15 a: 541-640. Apr 1930.
 g. *Maranthaceae*, 15 a: 654-693. Apr 1930.
-(3) Urban, I., *Symb. ant., Aquifoliaceae*, 9(1): 69-75. 1 Jan 1923.
+- (3) Urban, I., *Symb. ant., Aquifoliaceae*, 9(1): 69-75. 1 Jan 1923.
 
 #### Eponymy
 

@@ -43,11 +43,11 @@ ADB 13: 113-114; AG 2(1): 241, 5(2): 417; Barnhart 2: 202; BM 2: 874; Bossert p.
 #### Composite works
 
 Contributed to J. Sturm, *Deutschlands Flora*:
-(1) *Cryptogamie*, Abth. 2, Hefte 3, 4, 6-8. 1709-1805.
-(2) *Cyperaceae* et *Juncaceae*, 1, Hefte 9, 10, 13, 28, 36-40, 44, 52, 71, 77, 78, 85, 86. 1801-1842.
-(3) *Die Wicken Deutschlands* \[*Vicia*\], Abth. 1, Hefte 31, 32. 1811.
-(4) *Caricologia germanica* (see no. 3038), Abth. 1, Hefte 47, 50, 53, 55, 57, 61, 69 (text reprint of 1826 ed.).
-(5) *Die Kleearten Deutschlands* \[*Trifolium*\], Abth. 1, Hefte 15, 16. 1804.
+- (1) *Cryptogamie*, Abth. 2, Hefte 3, 4, 6-8. 1709-1805.
+- (2) *Cyperaceae* et *Juncaceae*, 1, Hefte 9, 10, 13, 28, 36-40, 44, 52, 71, 77, 78, 85, 86. 1801-1842.
+- (3) *Die Wicken Deutschlands* \[*Vicia*\], Abth. 1, Hefte 31, 32. 1811.
+- (4) *Caricologia germanica* (see no. 3038), Abth. 1, Hefte 47, 50, 53, 55, 57, 61, 69 (text reprint of 1826 ed.).
+- (5) *Die Kleearten Deutschlands* \[*Trifolium*\], Abth. 1, Hefte 15, 16. 1804.
 
 #### Eponymy (genera)
 

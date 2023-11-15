@@ -12,7 +12,7 @@ Garsault, François Alexandre Pierre de (1691-1778), French botanical artist.
 
 Unknown. Garsault was an artist who stated on the title-page of his books that the drawings were "from nature." No herbarium specimens seem to exist.
 
-#### Nomenclator garsaultianus
+#### Nomenclator Garsaultianus
 
 Thellung, Bull. Herb. Boissier ser. 2. 8: 713-714, 778-793, 901-913. 1908 (see also J. Bot. 47: 322. 1909).
 

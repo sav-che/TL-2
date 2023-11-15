@@ -26,10 +26,10 @@ Barnhart 2: 297; BJI 1: 32; BM 2: 990; Bossert p. 213; CSP 3: 673, 10: 408, 16: 
 #### Composite works
 
 See Voigt (1898, cited above) for Klatt's various contributions, often on Compositae, to other works. The important are:
-(1) Martius, *Flora brasiliensis, Irideae*, 3(1): 509-548, *pl. 64-71.* 1 Jul 1871.
-(2) C. C. von der Decken, *Reisen in Ost Afrika in 1859-61*, vol. 3(3), *Irideen und Compositen*, p. 73-79. 1879 (Nat. Nov. Sep 1879).
-(3) E. Warming, *Symbolae*, 13, *Irideae*, p. 127-130, *Publ*. 26 Apr 1873.
-(4) Durand et Schinz, *Conspectus florae africae, Iridaceae africanae* 5: 143-250. Dec 1894 (see TL-2/1593).
+- (1) Martius, *Flora brasiliensis, Irideae*, 3(1): 509-548, *pl. 64-71.* 1 Jul 1871.
+- (2) C. C. von der Decken, *Reisen in Ost Afrika in 1859-61*, vol. 3(3), *Irideen und Compositen*, p. 73-79. 1879 (Nat. Nov. Sep 1879).
+- (3) E. Warming, *Symbolae*, 13, *Irideae*, p. 127-130, *Publ*. 26 Apr 1873.
+- (4) Durand et Schinz, *Conspectus florae africae, Iridaceae africanae* 5: 143-250. Dec 1894 (see TL-2/1593).
 
 #### Note
 

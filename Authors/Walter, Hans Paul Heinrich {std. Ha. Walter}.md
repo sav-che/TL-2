@@ -20,8 +20,8 @@ Backer p. 663; Biol.-Dokum. 18: 9729; BJI 2: 186; BM 5: 2260; Hortus 3: 1206; IH
 
 #### Composite works
 
-(1) *Phytolaccaceae*, p. \[i\], \[1\]-154, 1 Jun 1909, issued in A. Engler, *Pflanzenreich* Heft 39, (iv, 83), see TL-2/1713. Review: W. Wangerin, Bot. Centralbl. 113: 554-556. 24 Mai 1910.
-(2) Contributed to C. Schröter, *Lebensgesch. Bl. – Pfl. Mitteleur.* 2(1), TL-2/11.174.
+- (1) *Phytolaccaceae*, p. \[i\], \[1\]-154, 1 Jun 1909, issued in A. Engler, *Pflanzenreich* Heft 39, (iv, 83), see TL-2/1713. Review: W. Wangerin, Bot. Centralbl. 113: 554-556. 24 Mai 1910.
+- (2) Contributed to C. Schröter, *Lebensgesch. Bl. – Pfl. Mitteleur.* 2(1), TL-2/11.174.
 
 ### Publications
 

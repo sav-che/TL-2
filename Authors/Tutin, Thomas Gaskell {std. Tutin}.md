@@ -30,10 +30,10 @@ Barnhart 3: 410; BFM p. 322 \[index\]; Biol.-Dokum. 18: 9421; BL 1: 87, 322, 2: 
 
 #### Composite works
 
-(1) With A.R. Clapham and E.F. Warburg, *Flora of the British Isles*, ed. 1, 1925. ed. 2. 1962-1965 (see C.C. Townsend, Kew Bull. 17: 471-472. 1964), ed. 2. 1962 reissue in paperback 1985, ISBN 0-521-31519-0.
-(2) With A.R. Clapham and E.F. Warburg, *Excursion flora of the British Isles*, ed. I. 1959 (repr. 1965), ed. 2. 1968.
-(3) Editor, with V.H. Heywood, N.A. Burgess, D.H. Valentine, S.M. Walters and D.M. Webb, *Flora europaea* 1-5 and index vol., Cambridge 1964-1983.
-(4) *Umbellifers of the British Isles*, London 1980, 197 p., with ills. by Ann Davies.
+- (1) With A.R. Clapham and E.F. Warburg, *Flora of the British Isles*, ed. 1, 1925. ed. 2. 1962-1965 (see C.C. Townsend, Kew Bull. 17: 471-472. 1964), ed. 2. 1962 reissue in paperback 1985, ISBN 0-521-31519-0.
+- (2) With A.R. Clapham and E.F. Warburg, *Excursion flora of the British Isles*, ed. I. 1959 (repr. 1965), ed. 2. 1968.
+- (3) Editor, with V.H. Heywood, N.A. Burgess, D.H. Valentine, S.M. Walters and D.M. Webb, *Flora europaea* 1-5 and index vol., Cambridge 1964-1983.
+- (4) *Umbellifers of the British Isles*, London 1980, 197 p., with ills. by Ann Davies.
 
 ### Publications
 

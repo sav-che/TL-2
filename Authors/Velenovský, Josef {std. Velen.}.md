@@ -8,7 +8,8 @@ Velenovský, Josef (1858-1949), Bohemian botanist (taxonomist, morphologist, pal
 
 #### Herbarium and types
 
-[[Collection PRM|PRM]] (fungi [[Collection PRC|PRC]] (main herb., bryo.); further material at [[Collection B|B]] (mainly destr.), [[Collection E|E]], [[Collection MANCH|MANCH]], [[Collection PR|PR]], [[Collection W|W]]. *Exsiccatae* offered for sale: *Stribrný, Plantae bulgaricae exsiccatae* (Bot. Jahrb. 17 (Beibl. 40): 33. 1893, sets e.g. at [[Collection E|E]], [[Collection W|W]]. – *Letters* to E. Halácsy and K. Keck at [[Collection UPS|UPS]]-UB, other letters at [[Collection G|G]].
+[[Collection PRM|PRM]] (fungi [[Collection PRC|PRC]] (main herb., bryo.); further material at [[Collection B|B]] (mainly destr.), [[Collection E|E]], [[Collection MANCH|MANCH]], [[Collection PR|PR]], [[Collection W|W]].
+*Exsiccatae* offered for sale: *Stribrný, Plantae bulgaricae exsiccatae* (Bot. Jahrb. 17 (Beibl. 40): 33. 1893, sets e.g. at [[Collection E|E]], [[Collection W|W]]. – *Letters* to E. Halácsy and K. Keck at [[Collection UPS|UPS]]-UB, other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

@@ -8,7 +8,8 @@ Mohr, Daniel Matthias Heinrich (1780-1808), German botanist; from 1805 "Adjunct,
 
 #### Herbarium and types
 
-Mohr's herbarium was incorporated in the herbarium of Karl Müller at [[Collection B|B]]. Algae at [[Collection HBG|HBG]]. Hepaticae in herb. Lindenberg at [[Collection W|W]]. Exsiccatae: *Schleswig-Holsteinische algae aquaticae*, fasc. 1, nos. 1-35. 1805. Lasègue reports Mohr material in the herbarium of W.J. Hooker (at [[Collection K|K]] and [[Collection BM|BM]]).
+Mohr's herbarium was incorporated in the herbarium of Karl Müller at [[Collection B|B]]. Algae at [[Collection HBG|HBG]]. Hepaticae in herb. Lindenberg at [[Collection W|W]].
+*Exsiccatae*: *Schleswig-Holsteinische algae aquaticae*, fasc. 1, nos. 1-35. 1805. Lasègue reports Mohr material in the herbarium of W.J. Hooker (at [[Collection K|K]] and [[Collection BM|BM]]).
 
 #### Bibliography and biography
 

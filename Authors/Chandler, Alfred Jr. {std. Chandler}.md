@@ -21,6 +21,6 @@ BB p. 62; BM 1: 335-336; Bret. p. 283; Desmond p. 125 (b. Vauxhall, London, 31 J
 
 #### Composite works
 
-(1) Chandler Jr. provided the drawings of W.B. Booth, *Ill. descr. Camell.*, see TL-2/651.
-(2) Chandler Jr. illustrated *Camellia britannica* (text by E.B. Buckingham) 1825.
+- (1) Chandler Jr. provided the drawings of W.B. Booth, *Ill. descr. Camell.*, see TL-2/651.
+- (2) Chandler Jr. illustrated *Camellia britannica* (text by E.B. Buckingham) 1825.
 

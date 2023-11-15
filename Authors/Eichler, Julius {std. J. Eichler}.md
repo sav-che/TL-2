@@ -22,8 +22,8 @@ BFM 568, 626; CSP 14: 799; Kew 2: 178; LS 7724; LS suppl. 7326; TL-2/no. 3667; T
 
 #### Composite works
 
-(1) O. Kirchner and J. Eichler, *Excurs.-Fl. Württemberg*, 1900, see TL-2/2: no. 3667.
-(2) J. Eichler was the editor of Jahreshefte für vaterländische Naturkunde in Württemberg from 56 (1900) until 83 (1927).
+- (1) O. Kirchner and J. Eichler, *Excurs.-Fl. Württemberg*, 1900, see TL-2/2: no. 3667.
+- (2) J. Eichler was the editor of Jahreshefte für vaterländische Naturkunde in Württemberg from 56 (1900) until 83 (1927).
 
 ### Publications
 

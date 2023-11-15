@@ -73,7 +73,7 @@ Backer p. 627; Barnhart 3: 506; BB p. 331; Biol.-Dokum. 19: 10075; BL 2: 261, 73
 *Addenda*: 1837 (p. 159: 31 Dec 1836), p. \[151\]-159. – Reprinted from id. 151-159. 1837.
 *Copies*: G, HH, NY.
 *Note* (*1*): See also his *Remarks on the distribution of the indigenous plants of Northumberland and* *Durham, in* Trans. nat. Hist. Soc. Northumberland, Durham, Newcastle-upon Tyne 1: 50-57. 1831, preprint submitted to Geol. Soc. London by author in Nov 1830.
-(2) *A new flora of Northumberland and Durham* by J.G. Baker and G.R. Tate was published in Trans. nat. Hist. Soc. Northumberland 2: 1-316. 1868, see TL-2/13.764.
+- (2) *A new flora of Northumberland and Durham* by J.G. Baker and G.R. Tate was published in Trans. nat. Hist. Soc. Northumberland 2: 1-316. 1868, see TL-2/13.764.
 
 ##### n.17.926. Contributions to the flora of Cumberland
 

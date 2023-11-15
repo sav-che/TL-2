@@ -23,16 +23,16 @@ APN p. 230; Barnhart 2: 57; BM 6: 380; Bossert p. 146; IF suppl. 2: 36, 3: 209, 
 
 #### Note
 
-(1) In 1913, Goddijn revised R.B. van den Bosch, *Syn. Hymenophyll.*... \[1858\]-1861, with the parts appearing in 1913 & 1919. His revision was cited earlier (see TL-2/1, nr. 676), but without mention of copies seen, which is here rectified:
+- (1) In 1913, Goddijn revised R.B. van den Bosch, *Syn. Hymenophyll.*... \[1858\]-1861, with the parts appearing in 1913 & 1919. His revision was cited earlier (see TL-2/1, nr. 676), but without mention of copies seen, which is here rectified:
 *Copies*: BM, US (orig. of 1st part, copy of 2nd part.).
-(2) Co-author with W.A. Goddijn, Ein *künstlich erzeugter Bastard*, *Scrophularia Neesii*, Wirtg. ×*S. vernalis*, L.... 1913.
-(3) In 1931, Goddijn published a history of the Rijksherbarium (1830-1931) in Meded. Rijks Herb. Leiden 62a-b: 53 p., *2 pl*. and 3 portr. (no reprint seen).
+- (2) Co-author with W.A. Goddijn, Ein *künstlich erzeugter Bastard*, *Scrophularia Neesii*, Wirtg. ×*S. vernalis*, L.... 1913.
+- (3) In 1931, Goddijn published a history of the Rijksherbarium (1830-1931) in Meded. Rijks Herb. Leiden 62a-b: 53 p., *2 pl*. and 3 portr. (no reprint seen).
 
 #### Composite works
 
-(1) Editor, *Resumptio Genetica* (1927-1953).
-(2) Editor, *Genetica* (1930-1958).
-(3) Co-editor, *Bibliographia Genetica*, vols. 6-10.
+- (1) Editor, *Resumptio Genetica* (1927-1953).
+- (2) Editor, *Genetica* (1930-1958).
+- (3) Co-editor, *Bibliographia Genetica*, vols. 6-10.
 
 ### Publications
 

@@ -30,9 +30,9 @@ Barnhart 2: 116; BL 1: 197, 299; Bossert p. 160; CSP 10: 122, 14: 824, 15: 596-5
 
 #### Composite works
 
-(1) *American agriculturist*, managing editor 1879-1885.
-(2) *Bulletin Torrey bot. Club*, Associate editor (1890-1893).
-(3) Associate editor to *Systematic flora of North America* (later North American Flora) 1890-1893.
+- (1) *American agriculturist*, managing editor 1879-1885.
+- (2) *Bulletin Torrey bot. Club*, Associate editor (1890-1893).
+- (3) Associate editor to *Systematic flora of North America* (later North American Flora) 1890-1893.
 
 #### Thesis
 

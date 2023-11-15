@@ -22,9 +22,9 @@ APN p. 192; CSP 2: 542; Kew 2: 227; LS 8224; PR ed. 2: 2790; Rehder 5(index): 26
 #### Composite works
 
 Michel-Félix Dunal (1789-1856) (see TL-2/1: 700-701, Suppl. 6: 167-169 and IH 2: 171) published several papers that were based in whole, or in part, on observations made by Esprit Fabre, incl.:
-(1) *Observations d'Esprit Fabre sur Marsilea*... 1837, see TL-2/Suppl. 6, nr. 31.970.
-(2) *Mémoire sur une espèce Marsilea*... 1837, see TL-2/Suppl. 6, nr. 31.971.
-(3) *Aegylops* & *Triticum*... 1853, see TL-2/Suppl. 6, nr. 31.975.
+- (1) *Observations d'Esprit Fabre sur Marsilea*... 1837, see TL-2/Suppl. 6, nr. 31.970.
+- (2) *Mémoire sur une espèce Marsilea*... 1837, see TL-2/Suppl. 6, nr. 31.971.
+- (3) *Aegylops* & *Triticum*... 1853, see TL-2/Suppl. 6, nr. 31.975.
 
 ### Publications
 

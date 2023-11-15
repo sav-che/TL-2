@@ -107,8 +107,8 @@ Académie p. 181; APN p. 192; Barnhart 1: 522; Biol.-Dokum. 5: 64.732-64.738; BM
 
 #### Composite works
 
-(1) Fabre authored numerous botanical text books, often each with various editions.
-(2) *Les champignons de Jean-Henri Fabre*, sous la direction de Claude Caussanel... Paris (Citadelles), 446 p. 1991.
+- (1) Fabre authored numerous botanical text books, often each with various editions.
+- (2) *Les champignons de Jean-Henri Fabre*, sous la direction de Claude Caussanel... Paris (Citadelles), 446 p. 1991.
 
 ### Publications
 

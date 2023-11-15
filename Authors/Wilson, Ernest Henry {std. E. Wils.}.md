@@ -57,11 +57,11 @@ Backer p. 627; Barnhart 3: 503; BJI 2: 192; BL 1: 119, 324; BM 8: 1441; Bossert 
 
 #### Composite works
 
-(1) With A. Rehder, *A monograph of Azaleas*, 1921, TL-2/8816.
-(2) Collaborator, J.G. Millais, *Magnolias* 1927, TL-2/6027.
-(3) C.G. Sargent et al., *Plantae Wilsonianae* 1913-1917, 3 vols., see TL-2/10.303.
-(4) With W.B. Hemsley, *Chinese Rhodendrons*, Bull. misc. Inf. Kew 1910: 101-120.
-(5) Collaborator, E.E. Silva Tarouca, *Freiland Nadelgehölz*. 1913, 1923, TL-2/11.978.
+- (1) With A. Rehder, *A monograph of Azaleas*, 1921, TL-2/8816.
+- (2) Collaborator, J.G. Millais, *Magnolias* 1927, TL-2/6027.
+- (3) C.G. Sargent et al., *Plantae Wilsonianae* 1913-1917, 3 vols., see TL-2/10.303.
+- (4) With W.B. Hemsley, *Chinese Rhodendrons*, Bull. misc. Inf. Kew 1910: 101-120.
+- (5) Collaborator, E.E. Silva Tarouca, *Freiland Nadelgehölz*. 1913, 1923, TL-2/11.978.
 
 #### Handwriting
 

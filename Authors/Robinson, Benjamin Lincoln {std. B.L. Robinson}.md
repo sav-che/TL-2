@@ -35,9 +35,9 @@ Bartonia 28: *pl*. 7. 1957.
 
 #### Composite works
 
-(1) Editor-in-chief *Rhodora* 1-30, 1899-1928.
-(2) Editor and co-author A. Gray, *Man. bot.* ed. 7. 18 Sep 1908 (rev. K.K. Mackenzie, Torreya 8: 259-265. 1908, F. Gagnepain, Bull. Soc. bot. France 55: 750-751. 1908), TL-2/2124.
-(3) Editor and, in part, author, Asa Gray and Sereno Watson, *Syn.fl. N. Amer.* 1 (1, 2), 1895-1897, TL-2/2132, Reviews by H. Solms-Laubach, Bot. Zeit. 54: 308-311. 1896, and Fr. Buchenau, ib. 55: 262-263. 1897.
+- (1) Editor-in-chief *Rhodora* 1-30, 1899-1928.
+- (2) Editor and co-author A. Gray, *Man. bot.* ed. 7. 18 Sep 1908 (rev. K.K. Mackenzie, Torreya 8: 259-265. 1908, F. Gagnepain, Bull. Soc. bot. France 55: 750-751. 1908), TL-2/2124.
+- (3) Editor and, in part, author, Asa Gray and Sereno Watson, *Syn.fl. N. Amer.* 1 (1, 2), 1895-1897, TL-2/2132, Reviews by H. Solms-Laubach, Bot. Zeit. 54: 308-311. 1896, and Fr. Buchenau, ib. 55: 262-263. 1897.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection NY|NY]], [[Collection NYS|NYS]]. – *Exsiccatae*: Some fungi distributed by J.B. Ellis in his *North American Fungi* (1878-1896) and *Fungi Columbiani* (1893-1906). – Letters in [[Collection FH|FH]] (Edward Angus Burt papers) and the Lloyd Library (Curtis Gates Lloyd papers), Cincinnati, Ohio.
+[[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection NY|NY]], [[Collection NYS|NYS]].
+*Exsiccatae*: Some fungi distributed by J.B. Ellis in his *North American Fungi* (1878-1896) and *Fungi Columbiani* (1893-1906). – Letters in [[Collection FH|FH]] (Edward Angus Burt papers) and the Lloyd Library (Curtis Gates Lloyd papers), Cincinnati, Ohio.
 
 #### Bibliography and biography
 

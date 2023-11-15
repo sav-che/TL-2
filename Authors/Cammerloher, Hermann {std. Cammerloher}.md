@@ -23,9 +23,9 @@ Barnhart 1: 302 (b. 1 Jan 1885, Wien, d. 5 Apr 1940, Wien); BFM 2616; BL 1: 105;
 
 #### Notes
 
-(1) H. Cammerloher and 12 other Austrian systematic botanists published a tribute to Richard v. Wettstein on his 60-th birthday in a pamphlet of 4 pages, of which a text of 2 pages, a page of signatures and a list of the 13 botanists. *Copy*: FAS(B). – Issued 30 Jun 1923.
-(2) For Cammerloher's tribute to the "Fest-Nummer" of ÖBZ for Richard v. Wettstein see below, *Zur Biologie der Blüte von Aristolochia grandiflora*. – Issued 30 Jun 1923.
-(3) For Cammerloher, H. et al. see *Contributions* à l'étude de la flore des Indes Néerlandaises i- xxxiv, *in* Bull. Jard. bot. Buitenzorg ser. 3. 5-15, 1923-1938 (some of those treated further below).
+- (1) H. Cammerloher and 12 other Austrian systematic botanists published a tribute to Richard v. Wettstein on his 60-th birthday in a pamphlet of 4 pages, of which a text of 2 pages, a page of signatures and a list of the 13 botanists. *Copy*: FAS(B). – Issued 30 Jun 1923.
+- (2) For Cammerloher's tribute to the "Fest-Nummer" of ÖBZ for Richard v. Wettstein see below, *Zur Biologie der Blüte von Aristolochia grandiflora*. – Issued 30 Jun 1923.
+- (3) For Cammerloher, H. et al. see *Contributions* à l'étude de la flore des Indes Néerlandaises i- xxxiv, *in* Bull. Jard. bot. Buitenzorg ser. 3. 5-15, 1923-1938 (some of those treated further below).
 
 ### Publications
 

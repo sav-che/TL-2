@@ -27,8 +27,8 @@ Barnhart 1: 374 (b. 16 Feb 1909, Eugene, Ore.); BFM 3259; BL 1: 167, 291; Hortus
 
 #### Composite works
 
-(1): With M.E. Mathias, *Umbelliferae* in North American Flora 28B(1): 43-160. 30 Dec 1944; 28 B(2): 161-295. 28 Dec 1945.
-(2) With idem, *Umbelliferae* in *Fl. Peru* 5a(1): 1-97 \[for *Fl. Peru* by J.F. Macbride see TL-2/5152\].
+- (1): With M.E. Mathias, *Umbelliferae* in North American Flora 28B(1): 43-160. 30 Dec 1944; 28 B(2): 161-295. 28 Dec 1945.
+- (2) With idem, *Umbelliferae* in *Fl. Peru* 5a(1): 1-97 \[for *Fl. Peru* by J.F. Macbride see TL-2/5152\].
 
 ### Publications
 

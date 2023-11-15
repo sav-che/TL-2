@@ -21,6 +21,6 @@ Barnhart 3: 406; BL 1: 130, 306; BM 7: 751; IH 2: 464; NAF ser. 2. 6: 69; Pennel
 #### Note
 
 C. W. Lowe, *List of the flowering plants, ferns, club mosses, mosses and liverworts of Manitoba*, published by the Natural History Society of Manitoba, November, 1943 (*copy*: B. Boivin) was provided with two supplements:
-(1) *Additions and corrections to the check-list of Manitoba plants*, \[1943\], s.l.n.d., mimeographed, 3p. *Copy*: A. Löve.
-(2) Doris Löve, *An incomplete list of additions to Lowe's List of Manitoba plants*, Winnipeg, Manitoba, Dec 1953 mimeographed, 6 p. *Copy*: A. Löve.
+- (1) *Additions and corrections to the check-list of Manitoba plants*, \[1943\], s.l.n.d., mimeographed, 3p. *Copy*: A. Löve.
+- (2) Doris Löve, *An incomplete list of additions to Lowe's List of Manitoba plants*, Winnipeg, Manitoba, Dec 1953 mimeographed, 6 p. *Copy*: A. Löve.
 

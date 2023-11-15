@@ -21,8 +21,8 @@ Barnhart 3: 361 (b. 26 Aug 1851); BL 2: 403, 722; Bossert p. 394; De Toni 4: lv;
 
 #### Note
 
-(1) F. Tassi, *La botanica nel senese* (notizie storiche), Bull. Lab. Orto bot. Siena 7: 3-56. 1905 is a valuable list of botanists who worked on the flora of Siena, with indication of main publications.
-(2) For the series *Micologia della provincia senese* nos. 1-10 and ser. 2. See LS 26321, 26324, 26329, 26331, 26335, 26340a, 26343, 26346, 26358, 26361.
+- (1) F. Tassi, *La botanica nel senese* (notizie storiche), Bull. Lab. Orto bot. Siena 7: 3-56. 1905 is a valuable list of botanists who worked on the flora of Siena, with indication of main publications.
+- (2) For the series *Micologia della provincia senese* nos. 1-10 and ser. 2. See LS 26321, 26324, 26329, 26331, 26335, 26340a, 26343, 26346, 26358, 26361.
 
 #### Eponymy
 

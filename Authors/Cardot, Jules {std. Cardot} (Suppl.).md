@@ -37,17 +37,17 @@ Barnhart 1: 309 (b. 18 Aug 1860, Stenay, Meuse, d. 22 Nov 1934, Charleville); BJ
 
 #### Composite works
 
-(1) -(4) see TL-2/1: 454.
-(5) Louis Piré and J. Cardot, *Les muscinées des environs de Spa* p. \[1\]-29, \[30\]. 1885, see TL-2/7961.
-(6) E. Delamare, F. Renauld and J. Cardot, *Flora Miquelonensis*, 1888, Lyon 79 p., see sub F. Renauld, TL-2/8986. – See also rev. Anon., Rev. bryol. 15(3): 47. 1888, Anon., Bot. Gaz. 13(6): 169. Jun 1888. – See TL-2 Composite works.
-(7) F. Renauld and J. Cardot, *Musci exotici novi vel minus cogniti* 1890. TL-2/8987.
-(8) T.A. Durand and J. Cardot et al., *Primit. fl. costaric.*, 1891-1900, TL-2/1592.
-(9) Pierrot, P., J. Cardot, and A. Vaillaume, *Cat. pl. vasc. Montmédy* (1891)-1906, TL-2/4: 260, no. 7927.
-(10) F. Renauld et J. Cardot, *Musci costaricensis* 1892, see sub F. Renauld TL-2/8988.
-(11) F. Renauld and J. Cardot, *Mousses nouvelles de l'Herbier Boissier* 1894-1895, see TL-2/8990.
-(12) F. Renauld and J. Cardot, *Musci Americae septentrionalis exsiccati*. Note: Sur quelques espèces distribuées dans cette collection, 1896, TL-2/8992. – See also E.G. Britton, Bull. Herb. Boiss. 4: 476-478. 1896, "*Criticisms on Renauld and Cardot*".
-(13) I. Thériot et J. Cardot, *The mosses of Alaska* 1902, TL-2/14.107. See also Rev. bryol. 29(6): 128. 1902, Bot. Centralbl. 96(30): 92. 2 Aug 1904 (note).
-(14) F. Renauld and J. Cardot, *Mousses des Canaries*, 1902, see TL-2/8997.
+- (1) -(4) see TL-2/1: 454.
+- (5) Louis Piré and J. Cardot, *Les muscinées des environs de Spa* p. \[1\]-29, \[30\]. 1885, see TL-2/7961.
+- (6) E. Delamare, F. Renauld and J. Cardot, *Flora Miquelonensis*, 1888, Lyon 79 p., see sub F. Renauld, TL-2/8986. – See also rev. Anon., Rev. bryol. 15(3): 47. 1888, Anon., Bot. Gaz. 13(6): 169. Jun 1888. – See TL-2 Composite works.
+- (7) F. Renauld and J. Cardot, *Musci exotici novi vel minus cogniti* 1890. TL-2/8987.
+- (8) T.A. Durand and J. Cardot et al., *Primit. fl. costaric.*, 1891-1900, TL-2/1592.
+- (9) Pierrot, P., J. Cardot, and A. Vaillaume, *Cat. pl. vasc. Montmédy* (1891)-1906, TL-2/4: 260, no. 7927.
+- (10) F. Renauld et J. Cardot, *Musci costaricensis* 1892, see sub F. Renauld TL-2/8988.
+- (11) F. Renauld and J. Cardot, *Mousses nouvelles de l'Herbier Boissier* 1894-1895, see TL-2/8990.
+- (12) F. Renauld and J. Cardot, *Musci Americae septentrionalis exsiccati*. Note: Sur quelques espèces distribuées dans cette collection, 1896, TL-2/8992. – See also E.G. Britton, Bull. Herb. Boiss. 4: 476-478. 1896, "*Criticisms on Renauld and Cardot*".
+- (13) I. Thériot et J. Cardot, *The mosses of Alaska* 1902, TL-2/14.107. See also Rev. bryol. 29(6): 128. 1902, Bot. Centralbl. 96(30): 92. 2 Aug 1904 (note).
+- (14) F. Renauld and J. Cardot, *Mousses des Canaries*, 1902, see TL-2/8997.
 
 ### Publications
 
@@ -352,7 +352,7 @@ Expédition antarctique belge. Résultats du *Voyage du S.Y. Belgica* en 1897-18
 
 **Notes**
 *Publ*.: Aug-Oct 1902 (date on cover-t.p., p. \[2\]: printing finished 1 Sep 1901, sic, Nat. Nov.
-(1) 1901, sic, Bot. Centralbl. 27 Mar 1904: "1902 (reçu 1906)"); Bull. Torrey Bot. Club 27 Feb 1907), cover-t.p., p. \[1\]-48, *pl. 1-14* (uncol. liths., *1-13* of drawings by author, *14*: photograph), \[Hépatiques, see TL-2/13.004 sub Stephani\], p. \[1\]-6. *Copies*: G, MO, NY, U. – Issued as Résult. Voy. Belgica, vol. 6\[4-5\]. 1901.
+- (1) 1901, sic, Bot. Centralbl. 27 Mar 1904: "1902 (reçu 1906)"); Bull. Torrey Bot. Club 27 Feb 1907), cover-t.p., p. \[1\]-48, *pl. 1-14* (uncol. liths., *1-13* of drawings by author, *14*: photograph), \[Hépatiques, see TL-2/13.004 sub Stephani\], p. \[1\]-6. *Copies*: G, MO, NY, U. – Issued as Résult. Voy. Belgica, vol. 6\[4-5\]. 1901.
 *Ref*.: Anon., Rev. bryol. 28(6): 130. 1901 (note in journal late 1901, date of 1902 antedated on publ.?).
 - Holzinger, J.M., Bryologist 5(2): 28-29. 1 Mar 1902.
 

@@ -39,7 +39,7 @@ ADB 4: 564 (by J.F.C. Hecker); AG 6(1): 790-791; Barnhart 1: 393 (b. 24 Nov 1722
 
 #### Composite works
 
-(1) H.J.N. Crantz *in* F.X. Hartmann, *Primae lin. inst, bot.*, Lipsiae, 1766, Oct., TL-2/2431. – Also a *second issue*: 1767, p. \[1\]-94, \[i-ii index\], *pl. 1-4* (uncol. copp. engr.). *Copy*: NY. – See also BM 1: 398.
+- (1) H.J.N. Crantz *in* F.X. Hartmann, *Primae lin. inst, bot.*, Lipsiae, 1766, Oct., TL-2/2431. – Also a *second issue*: 1767, p. \[1\]-94, \[i-ii index\], *pl. 1-4* (uncol. copp. engr.). *Copy*: NY. – See also BM 1: 398.
 
 #### Note
 

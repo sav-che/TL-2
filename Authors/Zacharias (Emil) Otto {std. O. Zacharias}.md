@@ -26,8 +26,8 @@ Barnhart 3: 536 (b. 27 Jan 1846, d. 4 Oct 1916); Biol.-Dokum. 19: 10239-10246 (b
 
 #### Composite works
 
-(1) Editor, *Forschungsberichte aus der Biologischen Station zu Plan*, 1-12, 1893-1905. – Continued by Archiv für Hydrobiologie.
-(2) Editor, *Archiv für Hydrobiologie und Planktonkunde* 1-11(3), 1905-1917; suppl. vol. 1, 1911.
+- (1) Editor, *Forschungsberichte aus der Biologischen Station zu Plan*, 1-12, 1893-1905. – Continued by Archiv für Hydrobiologie.
+- (2) Editor, *Archiv für Hydrobiologie und Planktonkunde* 1-11(3), 1905-1917; suppl. vol. 1, 1911.
 
 #### Eponymy
 

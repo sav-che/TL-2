@@ -25,7 +25,7 @@ Backer p. 664; Barnhart 3: 530 (d. 8 Aug 1899); BM 5: 2373; Bossert p. 446; CSP 
 #### Composite works
 
 (I) "Supervisor", J. Matsumura, *Nippon Shokubutsameii* ed. 1, 1884, TL-2/5673.
-(2) Collector, J. Müller Arg., *Lichenes Yatabeani*... \[Florence 1892\], Nuovo Giorn. bot. ital. 24: 189-202. 1892.
+- (2) Collector, J. Müller Arg., *Lichenes Yatabeani*... \[Florence 1892\], Nuovo Giorn. bot. ital. 24: 189-202. 1892.
 
 #### Handwriting
 

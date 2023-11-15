@@ -40,8 +40,8 @@ AG 6(1): 135, 6(2): 122; Barnhart 1: 447 (b. 28 Aug 1784, Poitiers, Viennes, d. 
 
 #### Composite works
 
-(1) *Cours complet* d'*Agriculture*... rédigé par... M. Desvaux, &c., 17 Tom. 1834-1840.
-(2) With Sébastien Gérardin de Mirecourt (1757-1816), *Dictionnaire raisonné de botanie*... 1817, p. \[i\]-xvi, \[1\]-746. *Copy*: MO. *Desvaux* worked also on this Dictionnaire.
+- (1) *Cours complet* d'*Agriculture*... rédigé par... M. Desvaux, &c., 17 Tom. 1834-1840.
+- (2) With Sébastien Gérardin de Mirecourt (1757-1816), *Dictionnaire raisonné de botanie*... 1817, p. \[i\]-xvi, \[1\]-746. *Copy*: MO. *Desvaux* worked also on this Dictionnaire.
 
 ### Publications
 

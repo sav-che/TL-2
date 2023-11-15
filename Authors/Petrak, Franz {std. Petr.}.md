@@ -8,7 +8,8 @@ Petrak, Franz (1886-1973), Austrian mycologist, born in Mährisch-Weisskirchen (
 
 #### Herbarium and types
 
-[[Collection W|W]] (main parts of mycological herbarium acquired in 1967 and 1974; small part of herbarium bought 1936), [[Collection M|M]] (*Pilzherbarium* Petrak, 2. Satz, 5000, rd. 1959), [[Collection PR|PR]] (phanerogam herb. including main part of *Cirsium* coll.). *Exsiccatae* (list incomplete):
+[[Collection W|W]] (main parts of mycological herbarium acquired in 1967 and 1974; small part of herbarium bought 1936), [[Collection M|M]] (*Pilzherbarium* Petrak, 2. Satz, 5000, rd. 1959), [[Collection PR|PR]] (phanerogam herb. including main part of *Cirsium* coll.).
+*Exsiccatae* (list incomplete):
 *Mycotheca generalis*, nos. 1-2100, 41 Lieferungen, 1928-1950. Sets: [[Collection B|B]] (nos. 101-2100 extant), [[Collection BPI|BPI]], [[Collection E|E]], [[Collection FH|FH]] (compl.).
 *Flora Bohemiae et Moraviae exsiccata*; nos. 1-2575 (series 1: fungi; ser. 2, Abt. 1, fungi; 2: lichens; 3: musci; 4: algae), [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection BRNU|BRNO]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GZU|GZU]], [[Collection IBI|IBI]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection LPS|LPS]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PR|PR]], [[Collection PRC|PRC]], [[Collection RMS|RMS]], [[Collection S|S]], [[Collection SI|SI]], [[Collection TLA|TLA]], [[Collection URM|URM]], [[Collection W|W]], [[Collection WVA|WVA]].
 *Cirsiotheca universa* (fasc. 1-20, 1910-1927, 200 nos.; continued?). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection PR|PR]], [[Collection W|W]].
@@ -55,9 +56,9 @@ Petrak was a profilic writer. His enormous output is divided over nearly five hu
 
 #### Composite works
 
-(1) Collaborator Hegi, *Ill. fl. Mitteleur.* ed. 2, 3(1).
-(2) published sets 33-47 of the *Cryptogamae exsiccatae*, edited by W, see TL-2/387; accompanied by *Schedae*, in Ann. Naturhist. Mus. Wien 51: 347-373. 1941, 52: 279-300. 1942, 56: 417-433. 1948, 58: 31-43. 1951; 61: 60-73. 1951 (parts with Asiatic taxa; cited from MW suppl.).
-(3) editor of *Sydowia* 1-25, 1947-1972.
+- (1) Collaborator Hegi, *Ill. fl. Mitteleur.* ed. 2, 3(1).
+- (2) published sets 33-47 of the *Cryptogamae exsiccatae*, edited by W, see TL-2/387; accompanied by *Schedae*, in Ann. Naturhist. Mus. Wien 51: 347-373. 1941, 52: 279-300. 1942, 56: 417-433. 1948, 58: 31-43. 1951; 61: 60-73. 1951 (parts with Asiatic taxa; cited from MW suppl.).
+- (3) editor of *Sydowia* 1-25, 1947-1972.
 
 #### Handwriting
 
