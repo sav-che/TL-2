@@ -1,6 +1,8 @@
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33068632) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
+> [!example] See also [[Schaarschmidt, Julius (Gyula Istvánffi de Csík Madéfalva) {std. Schaarschmidt}|second entry]] for this author
+
 ### Author
 
 Istvánffi de Csík Madéfalva, Gyula, until 1886 Julius Schaarschmidt, (1860-1930), Hungarian botanist. 

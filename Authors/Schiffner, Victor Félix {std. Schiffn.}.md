@@ -144,7 +144,7 @@ Fl. males, ser. I. 1: clii. 1950.
 
 **Title**
 *Hepaticae* bearbeitet von Dr. Victor Schiffner. Separat-Abdruck aus *Engler-Prantl*, Die natürlichen Pflanzenfamilien I. Bd, 3. Abt. (Arbeit aus dem k.k. botanischen Institute der deutschen Universität zu Prag). Erschienen in September 1893. Leipzig (Verlag von Wilhelm Engelmann) 1893. Oct.
-**Abbreviated title**: *Hepat*. (*Engl.-Prantl*).
+**Abbreviated title**: *Hepat*. (*Engl.-Prantl*)
 
 **Notes**
 *Publ*.: Sep 1893, cover-t.p., \[3\]-141. *Copies*: BR, G(2), H. – Preprinted from Engler and Prantl, Die natürlichen Pflanzenfamilien 1(3)(1): \[3\]-141, p. 1-96 published (in main work): 10 Oct 1893, 97-144. 15 Jan 1895.

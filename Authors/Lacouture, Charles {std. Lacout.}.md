@@ -25,7 +25,7 @@ Barnhart 2: 333; BM 7: 596; Kew 3: 346; SBC p. 125 ("Lac.").
 
 **Title**
 *Hépatiques de la France*. Tableaux synoptiques des caractères saillants des tribus, des genres et des espèces avec plus de 200 figures représentant toutes les espèces de la flore française. Paris (Paul Klincksieck...) 1905. Qu.
-**Abbreviated title**: (i)Hépat. France(/i).
+**Abbreviated title**: *Hépat. France*
 
 **Notes**
 *Publ*.: prob. Sep 1905 (Rev. Bryol. Oct 1905), p. \[i\]-iv, \[5\]-78, \[1, err. slip\]. *Copies*: G, Gradstein, PC. – Half-title: *Atlas des hépatiques de la France*.

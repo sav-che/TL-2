@@ -3,7 +3,7 @@
 
 ### Author
 
-Fries family. (0000-0000) As there is much confusion about this Swedish family that produced so many well known botanists, we thought it wise to incorporate here a small chapter on their "botanical" genealogy. This is useful as several members of this family received the same given names and often published using only part of their names. A more complete genealogy can be found at Elias Fries Ättlingar (an electronic resource).
+Fries family. As there is much confusion about this Swedish family that produced so many well known botanists, we thought it wise to incorporate here a small chapter on their "botanical" genealogy. This is useful as several members of this family received the same given names and often published using only part of their names. A more complete genealogy can be found at Elias Fries Ättlingar (an electronic resource).
 
 #### Notes
 

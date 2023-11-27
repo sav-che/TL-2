@@ -3,7 +3,7 @@
 
 ### Author
 
-Chavannes, Èdouard Louis (1805-1861), Swiss botanist and religious philanthropist. 
+Chavannes, Édouard Louis (1805-1861), Swiss botanist and religious philanthropist. 
 **Abbreviated name**: *Chavannes*
 
 #### Herbarium and types

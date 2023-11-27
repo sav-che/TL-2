@@ -130,7 +130,9 @@ Backer p. 659; Barnhart 3: 79; BJI 1: 45; BM 4: 1563; Bossert p. 309; CSP 8: 612
 
 **Title**
 *Beiträge zur Systematik der Orchideen* von E. Pfitzer. \[Bot. Jahrb. 19, 1894\]. Oct.
-**Abbreviated title**: *Publ*.: 13 Apr 1894 (in journal), p. \[1\]-42. *Copy*: FI. – Reprinted and to be cited from Bot. Jahrb. 19: \[1\]-42. 13 Apr 1894. A criticism of O. Kuntze, *Rev. gen.* (1891.
+
+**Notes**
+*Publ*.: 13 Apr 1894 (in journal), p. \[1\]-42. *Copy*: FI. – Reprinted and to be cited from Bot. Jahrb. 19: \[1\]-42. 13 Apr 1894. A criticism of O. Kuntze, *Rev. gen.* (1891).
 
 ##### n.7833. Übersicht des natürlichen Systems der Pflanzen
 

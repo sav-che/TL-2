@@ -12,7 +12,7 @@ Material at [[Collection P|P]]-JU (?).
 
 #### Note
 
-The M. de Launay, mentioned in the "approbation" of "Les genres sexuels..."is not necessarily identical with Louis de Launay (1740-1805); the author may be J. Cl. M. Mordant de Launay (1750?-1816), see below under eponymy.
+The M. de Launay, mentioned in the "approbation" of "Les genres sexuels..." is not necessarily identical with Louis de Launay (1740-1805); the author may be J. Cl. M. Mordant de Launay (1750?-1816), see below under eponymy.
 
 #### Bibliography and biography
 

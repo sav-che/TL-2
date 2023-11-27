@@ -3,7 +3,7 @@
 
 ### Author
 
-Constantineanu, Ion \[Ioan, Joan\] C. (1860-1931), Romanian mycologist at the Intstitutul de Botanicǎ sistematicǎ, Muzeu şi grǎdina botanicǎ Universitatea"Regele Ferdinand I" at Bucarest, Dr. phil. Halle 1907. 
+Constantineanu, Ion \[Ioan, Joan\] C. (1860-1931), Romanian mycologist at the Intstitutul de Botanicǎ sistematicǎ, Muzeu şi grǎdina botanicǎ Universitatea "Regele Ferdinand I" at Bucarest, Dr. phil. Halle 1907. 
 **Abbreviated name**: *Const.*
 
 #### Herbarium and types

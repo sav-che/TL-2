@@ -38,9 +38,9 @@ Barnhart 3: 42; BL 2: 149, 156, 699; BM 4: 1499; CSP 8: 553; 12: 554) 17: 677; G
 
 **Title**
 *Flora Sequaniae exsiccata* ou herbier de la flore de Franche-Comté... Besançon (Imprimerie de Dodivers...) 1872. Oct.
-**Abbreviated title**: *Co-author*: Xavier Vendrely (1837-1908.
 
 **Notes**
+*Co-author*: Xavier Vendrely (1837-1908).
 *Publ*.: 1872 (t.p.), p. \[1\]-36. Text accompanying exsiccatae; to be cited from Mém. Émul. Soc. Doubs ser. 4. 6: 75-100. 1872 and 7: 514-521. 1873.
 *Continuation*: published in Mém. Soc. Émul. Doubs ser. 4. 10: 477-494. 1876, ser. 5. 5: 12-69. *2 pl*. 1881 (BSbF rd 9 Dec 1881), 6: 108-115. Jan-Mar 1890, ser. 6. 10: 353-362. 1896, ser. 7. 4: 380-388. 1900, 7: 291-309. 1903, 10: 152-156. 1906. We have seen no reprints with independent pagination (but see BM 4: 1499). – The total series consisted of parts 1-3 \[3 by Paillot alone\], 4 and 7 by Paillot & Vendrely, 5 by Paillot, Vendrely, C. Flagey and F. Renauld and parts 8-11 by Vendrely. Part 6 is lacking; its place is taken by Renauld, F. et al., Mém. Soc. Émul. Doubs ser. 5. 7: 162-200. 1883 (BSbF Nov-Dec 1883: reprint pagination 113-151).
 

@@ -32,8 +32,8 @@ With Asa Gray, *Review of de Candolle's Origin of cultivated plants*; with annot
 
 **Title**
 *Notes on the history of Helianthus tuberosus*, the so-called Jerusalem artichokes... From the American Journal of Science and Arts,... 1877. Oct.
-**Abbreviated title**: *Junior author*: Asa Gray (1810-1888.
 
 **Notes**
+*Junior author*: Asa Gray (1810-1888).
 *Publ*.: Mai 1877 (in journal), p. \[347\]-352. *Copies*: G, HH, NY. – Reprinted and to be cited from Amer. J. Sci. ser. 3. 13: 347-352. 1877.
 

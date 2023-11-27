@@ -3,7 +3,7 @@
 
 ### Author
 
-Koch, Georg Friedrich (1808)-1874), German physician and botanist in the Pfaltz (Dürkheim, Wachenheim, Sembach, Waldmohr). 
+Koch, Georg Friedrich ((1808)-1874), German physician and botanist in the Pfaltz (Dürkheim, Wachenheim, Sembach, Waldmohr). 
 **Abbreviated name**: *G. Koch*
 
 #### Herbarium and types

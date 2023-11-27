@@ -73,9 +73,9 @@ Backer p. 546; Barnhart 3: 317; Biol.-Dokum. 17: 8861; BJI 1: 55, 2: 170; BL 1: 
 
 **Title**
 *Die botanischen Ergebnisse der Polak'schen Expedition nach Persien* im Jahre 1882. Plantae collectae a dre J.E. Polak et Th. Pichler von Dr. Otto Stapf... Wien (aus der kaiserlich-königlichen Hof- und Staatsdruckerei...) 1885-1886, 2 parts. Qu.
-**Abbreviated title**: *Collectors*: J.E. Polak (d. 1891), Thomas Pichler (1828-1903.
 
 **Notes**
+*Collectors*: J.E. Polak (d. 1891), Thomas Pichler (1828-1903).
 *Authors*: R. v. Wettstein, C. Fehlner, E. Hackel, C. Richter, G. Beck, A. Heimerl, O. Stapf, J. Freyn, E. Woloszak, H. Braun, A. Zimmeter. – Types WU.
 *1*: 1885 (Bot. Jahrb. 30 Oct 1885; Nat. Nov. Sep(2) 1885; Bot. Centralbl. 28 Sep-20 Oct 1885; G copy rd Aug 1886; ÖbZ 1 Mai 1886), p. \[i-iii\], \[1\]-71. – Reprinted and to be cited from Denkschr. math.-nat. Cl. kais. Akad. Wiss., Wien 50(1): 1-72. 1885.
 *2*: 1886 (Bot. Zeit. 24 Sep 1886; Nat. Nov. Sep(2) 1886), p. \[1\]-77, \[79\]. – Id. 51(2): 271-346. 1886.

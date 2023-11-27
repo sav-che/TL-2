@@ -130,9 +130,9 @@ Ainsworth p. 318, 319; Barnhart 3: 137 (b. 10 Jun 1845, d. 14 Sep 1901); BM 2: 5
 
 **Title**
 *Untersuchungen über Bau und Lebensgeschichte der Hirschtrüffel, Elaphomyces*... Cassel (Verlag von Theodor Fischer) 1887. Qu.
-**Abbreviated title**: *Co-author*: Carl Fisch (1859-?.
 
 **Notes**
+*Co-author*: Carl Fisch (1859-?).
 *Publ*.: Jun-Aug 1887 (p. 2: Whitsun 1887; Nat. Nov. Sep(1) 1887; ÖbZ 1 Jan 1888; Bot.
 Centralbl. 23-27 Jan 1888), p. \[ii-vi\], \[1\]-24, *pl. I. Copies*: BR, FH. – Issued as Bibl.
 bot. 2(7), 1887.

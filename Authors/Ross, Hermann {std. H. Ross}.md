@@ -35,7 +35,9 @@ Barnhart 3: 180 (b. 8 Mar 1862); BFM no. 3119; Biol.-Dokum. 15: 7663; BJI 1: 49,
 
 **Title**
 *Anatomia comparata delle foglie delle Iridee* studio anatomico-sistematico... Estratto dal Giornale Malpighia, vol. vi. 1892. Genova (Tipografia di Angelo Ciminago...) 1892 \[1893\]. Oct.
-**Abbreviated title**: *Publ*.: 1892-1893 (in journal; p. 99: Jul 1893), p. \[1\]-100, *pl. 5-8* (col. liths.). *Copy*: U. – Reprinted and to be cited fom Malpighia 6(4): 90-116 (repr. 1-29), 6(5): 179-205 (reprint 29-55), 1892, 7(4): 345-390 (reprint 56-99. 1893.
+
+**Notes**
+*Publ*.: 1892-1893 (in journal; p. 99: Jul 1893), p. \[1\]-100, *pl. 5-8* (col. liths.). *Copy*: U. – Reprinted and to be cited fom Malpighia 6(4): 90-116 (repr. 1-29), 6(5): 179-205 (reprint 29-55), 1892, 7(4): 345-390 (reprint 56-99. 1893).
 
 ##### n.9565. Icones et descriptiones plantarum novarum vel rariorum horti botanici panormitani
 

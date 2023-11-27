@@ -5,7 +5,7 @@
 
 ### Author
 
-\* Coemans, Eugène-Henri-Lucien Gaëtan (1825-1871), Belgian priest and botanist, educated at the Collège St. Barbe, Gent \[Gand\], id. at the "petit Séminaire"de St. Nicolas at Gent, and in 1844 at the Grand Séminaire at Gent, priest 1848, also interested in botany with professor Kickx, studied two years at the University of Leuven \[Louvain\] with Martens, P.-J. Van Beneden and his friend Kickx 1851-1853, Vicar at Petit-Béguinage, Gent 1853-1863 also studying lichens and mycology, 1864 to Bonn working on botany with J. Sachs et al., later years again in Gent. 
+\* Coemans, Eugène-Henri-Lucien Gaëtan (1825-1871), Belgian priest and botanist, educated at the Collège St. Barbe, Gent \[Gand\], id. at the "petit Séminaire" de St. Nicolas at Gent, and in 1844 at the Grand Séminaire at Gent, priest 1848, also interested in botany with professor Kickx, studied two years at the University of Leuven \[Louvain\] with Martens, P.-J. Van Beneden and his friend Kickx 1851-1853, Vicar at Petit-Béguinage, Gent 1853-1863 also studying lichens and mycology, 1864 to Bonn working on botany with J. Sachs et al., later years again in Gent. 
 **Abbreviated name**: *Coem.*
 
 #### Herbarium and types

@@ -120,7 +120,9 @@ Trelease, W., Bot. Centralbl. 104: 184-187. 1907.
 
 **Title**
 *A study of Allocarya*... Washington (Government Printing Office) 1920. Oct.
-**Abbreviated title**: *Publ*.: 13 Mar 1920 (U.S. copy so stamped: sic, not 29 Mar 1920 as printed in volume). Published as Contr. U.S. natl. Herb. 22(2: \[i\]-v, 79-113, vii. *Copies*: MO, US.
+
+**Notes**
+*Publ*.: 13 Mar 1920 (U.S. copy so stamped: sic, not 29 Mar 1920 as printed in volume). Published as Contr. U.S. natl. Herb. 22(2: \[i\]-v, 79-113, vii). *Copies*: MO, US.
 
 ##### n.7952. The Soy bean
 

@@ -3,7 +3,7 @@
 
 ### Author
 
-Steenhauer, Anna Johanna (*fi*. 1919), Dutch pharmacist; Dr. phil. Leiden 1919. 
+Steenhauer, Anna Johanna (*fl*. 1919), Dutch pharmacist; Dr. phil. Leiden 1919. 
 **Abbreviated name**: *Steenhauer*
 
 #### Herbarium and types

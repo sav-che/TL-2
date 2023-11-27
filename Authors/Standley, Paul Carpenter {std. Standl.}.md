@@ -319,9 +319,9 @@ NOTE: Several important publications appeared outside our period (after 1939), m
 
 **Title**
 *New plants from Chiapas collected by C.A. Purpus*... Reprinted from Journal of the Washington Academy of Sciences vol. 16, no. 1... 1926. Oct.
-**Abbreviated title**: *Collector*: Carl Albert Purpus (1851-1941.
 
 **Notes**
+*Collector*: Carl Albert Purpus (1851-1941).
 *Publ*.: 4 Jan 1926, p. \[14\]-18. *Copy*: G. – Reprinted and to be cited from J. Washington Acad. Sci. 16(1): \[14\]-18. 1926.
 
 ##### n.12.780. The genus Calatola

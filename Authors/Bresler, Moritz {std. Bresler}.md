@@ -3,7 +3,7 @@
 
 ### Author
 
-Bresler, Moritz (1802-C.1851), German physician. 
+Bresler, Moritz (1802-c. 1851), German physician. 
 **Abbreviated name**: *Bresler*
 
 #### Herbarium and types

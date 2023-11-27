@@ -156,7 +156,7 @@ The 199 illustrations are lithographs after drawings by Brongniart himself, Cour
 
 **Title**
 *Recherches sur les graines fossiles silicifiées*, par Adolphe Brongniart... précédés d'une notice sur ses travaux, par J. B. Dumas. Paris (Imprimerie nationale) 1881. Qu.
-**Abbreviated title**: *Rech. (graines foss. silic.*
+**Abbreviated title**: *Rech. graines foss. silic.*
 
 **Notes**
 *Publ*.: 1 Dec 1880 (fide BF 11 Dec 1880), p. \[i\]-xiv, \[1\]-93, *pl. 1-21, A-C.* Posthumous publication edited by Renault and Grand'Eury with 24 lithographed plates (by Brongniart and Cuisin) and an excellent frontispiece portrait of Brongniart towards the end of his life. *Copy*: WAG.

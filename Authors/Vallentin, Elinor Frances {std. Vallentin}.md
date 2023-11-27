@@ -3,7 +3,7 @@
 
 ### Author
 
-Vallentin, Elinor Frances (formerly Nichol; née Bertrand) 1873-1924), Falkland Islands-born British botanical artist; married Rupert Vallentin 23 Mar 1904; to Plymouth, England 1904. 
+Vallentin, Elinor Frances (formerly Nichol; née Bertrand) (1873-1924), Falkland Islands-born British botanical artist; married Rupert Vallentin 23 Mar 1904; to Plymouth, England 1904. 
 **Abbreviated name**: *Vallentin*
 
 #### Herbarium and types

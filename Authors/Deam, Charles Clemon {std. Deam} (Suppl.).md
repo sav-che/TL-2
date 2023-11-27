@@ -53,9 +53,10 @@ Common *trees* of *Indiana*... A handy pocket manual of the common and introduce
 
 **Title**
 *Grasses* of *Indiana*... With illustrations and an article, the Grass Plant,... Indianapolis (Wm.B. Burford...) 1929. Oct.
-**Abbreviated title**: *Grasses Indiana*). *Illustrations and article*: "*The grass plant*": Paul Weatherwax (1888-1976, see TL-2/7: 116-117.
+**Abbreviated title**: *Grasses Indiana*
 
 **Notes**
+*Illustrations and article*: "*The grass plant*": Paul Weatherwax (1888-1976), see TL-2/7: 116-117.
 *Publ*.: 15 Oct 1929 (date on p. \[1\]), p. \[1\]-356. *Copies*: G, HH, L, MO, NY. – Issued as Publ. no. 82, State of Indiana, Dept. Conserv.
 
 ##### n.29.310. Plants new or rare to Indiana, xviii

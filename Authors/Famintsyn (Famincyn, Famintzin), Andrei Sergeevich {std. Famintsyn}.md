@@ -75,7 +75,7 @@ Zur *Entwickelungsgeschichte* der *Gonidien* und Zoosporenbildung der Flechten..
 
 **Title**
 Die *Symbiose* als Mittel der *Synthese* von *Organismen*... Sonderabdruck aus dem "Biologischen Centralblatt"... 1907. Oct.
-**Abbreviated title**: *Symbiose Synthese Organismen* (1*907*).
+**Abbreviated title**: *Symbiose Synthese Organismen* (*1907*)
 
 **Notes**
 *Publ*.: 1 Jun 1907 (in journal, read 25 Oct 1906), cover-t.p., p. \[353\]-364. *Copy*: B. – Reprinted and to be cited from Biol. Centralbl. 27(12): 353-364. 1907.
@@ -93,7 +93,7 @@ Beitrag zur *Kenntnis* von *Bryopsis mucosa* Lam.... Sonderabdruck aus den Beric
 
 **Title**
 Die *Symbiose* als Mittel der *Synthese* von *Organismen*... Sonderabdruck aus den Berichten der Botanischen Gesellschaft... 1912. Oct.
-**Abbreviated title**: *Symbiose Synthese Organismen* (*1912*).
+**Abbreviated title**: *Symbiose Synthese Organismen* (*1912*)
 
 **Notes**
 *Publ*.: 28 Nov 1912 (in journal, read 16 & 29 Mai 1912, submitted 11 Jun 1912), p. \[435\]-442. *Copies*: B, L. – Reprinted and to be cited from Ber. Deutsch. Bot. Ges. 30(8): 435-442. 1912.

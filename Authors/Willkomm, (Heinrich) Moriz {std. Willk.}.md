@@ -117,7 +117,7 @@ Candollea 34: 207-208. 1979; Webbia 32(1): 40. 1977.
 **Notes**
 (*Strand-Steppengeb. Iber. Halbins.* \[*thes*.\]).
 *Thesis publ*.: 12 Feb 1852 ("in Februar" Bot. Zeit. 28 Mai 1852; ÖbW 8 Jul 1852; Flora rd. Apr 1852), p. \[i, iii\], \[1\]-171, \[172, theses\]. *Copies*: B, G, MO, NY.
-*Commercial, completed edition*: Oct 1852 (p. vi: 1 Apr 1852; Bot. Zeit. 29 Oct 1852 "neu" Flora 7 Nov 1852"neu", rd. at Regensburg Oct 1852), p. \[i\]-x, \[xi\], \[1\]-275, \[276, err.\], map, chart, *1 pl*. (col. copp. auth.). *Copies*: G, HH; IDC 5448.
+*Commercial, completed edition*: Oct 1852 (p. vi: 1 Apr 1852; Bot. Zeit. 29 Oct 1852 "neu" Flora 7 Nov 1852 "neu", rd. at Regensburg Oct 1852), p. \[i\]-x, \[xi\], \[1\]-275, \[276, err.\], map, chart, *1 pl*. (col. copp. auth.). *Copies*: G, HH; IDC 5448.
 *Ref*.: Fürnrohr, A.E., Flora 36: 348-352. 14 Jan 1853 (rev.).
 - Schlechtendal, D.F.L. von, Bot. Zeit. 10: 622-623. 3 Sep 1852 (rev. thes.).
 

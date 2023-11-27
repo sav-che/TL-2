@@ -553,7 +553,7 @@ Megjegyzések néhiny keleti növényfajról. Bemerkungen über einige orientali
 
 **Notes**
 *Publ*.: 10 Oct 1926 (in journal), p. \[88\]-90. *Copy*: B. – Reprinted and to be cited from Magyar bot. Lapok 24(1-12): 88-90. 1925 \[1926\].
-*Note*: The number of these "Bemerkungen"was wrong printed as LXXXV. It should be LXXXVII.
+*Note*: The number of these "Bemerkungen" was wrong printed as LXXXV. It should be LXXXVII.
 
 ##### n.29.549. Phyllitis Scolopendrium
 
@@ -594,6 +594,6 @@ Megjegyzések néhány keleti növényfajról. Bemerkungen über einige oriental
 Megjegyzések néhány keleti növényfajról. Bemerkungen über einige orientalische Pflanzenarten. XCIV. *Colchicum Drenowskii* Degen et Rechinger fil. n.sp.... \[CI. Onobrychis pindicola Hausskn. subsp. Urumovii Deg. et. Dren.\]... Separatabdruck aus der Zeitschrift "Ungarische Botanische Blätter"... 1933. Oct.
 
 **Notes**
-*Publ*.: 18 Nov 1933 (in journal, but "Separatum editum d. 20 Jun 1933"cited on p. \[145\] of reprint), p. \[145\]-152. *Copy*: B. – Reprinted and to be cited from Magyar bot. Lapok 32(7-12): 145-152. 1933.
+*Publ*.: 18 Nov 1933 (in journal, but "Separatum editum d. 20 Jun 1933" cited on p. \[145\] of reprint), p. \[145\]-152. *Copy*: B. – Reprinted and to be cited from Magyar bot. Lapok 32(7-12): 145-152. 1933.
 *Note*: On p. 145 of the periodical a note is printed reading as follows: "Die Diagnose des ursprünglich an dieser Stelle beschriebenen und in Separatabdrücken (datiert vom 20. VI. 1933) aufgenommenen Colchicum Drenowskii Degen et Rechinger fil. musste zum Zwecke einer Ergänzung resp. Richtigstellung zurückgestellt werden". Instead of Colchicum Drenowskii the periodical gives under XCIV. Tulipa hellespontica n.sp. on p. 145-146.
 

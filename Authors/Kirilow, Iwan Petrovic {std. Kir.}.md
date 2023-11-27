@@ -3,7 +3,7 @@
 
 ### Author
 
-Kirilow, Iwan Petrovic ("Johann"), (1821-1842,, Russian botanist. 
+Kirilow, Iwan Petrovic ("Johann"), (1821-1842), Russian botanist. 
 **Abbreviated name**: *Kir.*
 
 #### Herbarium and types

@@ -3,7 +3,7 @@
 
 ### Author
 
-Pichon, Thomas (*fi*. 1811), French botanist. 
+Pichon, Thomas (*fl*. 1811), French botanist. 
 **Abbreviated name**: *T. Pichon*
 
 #### Herbarium and types

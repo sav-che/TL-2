@@ -3,7 +3,7 @@
 
 ### Author
 
-Frickhinger family. (0000-0000) Prof. Karl Mägdefrau kindly provided F.A. Stafleu (in litt., 15 Sep 1979) data on this Bavarian family that may help others sort out its four generations of botanists (and naturalists).
+Frickhinger family. Prof. Karl Mägdefrau kindly provided F.A. Stafleu (in litt., 15 Sep 1979) data on this Bavarian family that may help others sort out its four generations of botanists (and naturalists).
 
 
 #### Note

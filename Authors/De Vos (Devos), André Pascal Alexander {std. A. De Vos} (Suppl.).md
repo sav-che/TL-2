@@ -1,6 +1,8 @@
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
+> [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos) {std. De Vos}|first entry]] for this author
+
 ### Author
 
 \* De Vos \[Devos\], André Pascal Alexander (1834-?), Belgian school teacher and botanist at Aarschot, Namur and Liège, born 23 Apr 1834, Champion, Namur, curator at the state school museum at Brussels. 

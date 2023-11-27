@@ -164,9 +164,9 @@ Guillemin to A.P. de Candolle, now at Genève. Guillemin acted as an intermediar
 
 **Title**
 *Plantes nouvelles d'Abyssinie*, recueillies dans la province du Tigré par M. le Dr. Richard Quartin-Dillon, voyageur naturaliste du Muséum d'Histoire naturelle de Paris, ... \[Extrait des Annales des Sciences naturelles (Novembre 1840)\]. Oct.
-**Abbreviated title**: *Collector*: Richard Quartin-Dillon (x-1841.
 
 **Notes**
+*Collector*: Richard Quartin-Dillon (x-1841).
 *Publ*.: Nov 1840, p. \[1\]-20. *Copy*: HH. – Reprinted and to be cited from Ann. Sci. nat., Bot. ser. 2. 14: 257-276. Nov 1840.
 
 ##### n.9146. Observations sur le genre Quartinia

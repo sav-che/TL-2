@@ -77,7 +77,7 @@ Portugal I.75 esc. (1944) yv. 654; 50 c. (1944) yv. 652.
 
 **Title**
 *Phytographia Lusitaniae selectior*, seu novarum et aliarum minus cognitarum stirpium, quae in Lusitania sponte veniunt, descriptiones. Fascic. I.us Lisboa (Ad Arcum Caeci) 1800. Fol. \[n.v., title fide Sampaio\]. †.
-**Abbreviated title**: *Phytogr. Lusitan. select.*) (*n.v.*
+**Abbreviated title**: *Phytogr. Lusitan. select.* (*n.v.*)
 
 **Notes**
 *Publ*.: 1800 (t.p.) Copy at Faculdade de Ciencias, Universidade do Porto. This was the first fascicle of no. 811, with 8 plates and 35 \[?\] pages (PR mentions 84 p., Schrader 20 folio sheets, König et Sims "plag. 19"). This first edition was withdrawn by Brotero because of various deficiencies (Sampaio).

@@ -48,7 +48,7 @@ SV. bot Tidskr. 23: 168. 1929.
 
 **Title**
 *Studier öfver torfmossar* i Södra Skåne... Stockholm (Kongl. Boktryckeriet, P.A. Norstedt & Söner) 1889. Oct.
-**Abbreviated title**: *Stud. torftnoss. Skåne*). (= TL-2/122.
+**Abbreviated title**: *Stud. torftnoss. Skåne*. (= TL-2/122).
 
 **Notes**
 *Publ*.: Jun-Jul 1889 (read 8 Mai 1889; Nat. Nov. Aug 1890), p. \[1\]-43. *Copies*: B, G, L, NY, U; IDC 7670 (243-244). – Issued as Bih. k. Sv. Vet-Akad. Handl. 15 (Afd. 3), no. 3. 1889.

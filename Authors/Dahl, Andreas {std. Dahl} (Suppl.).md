@@ -5,7 +5,7 @@
 
 ### Author
 
-\* Dahl, Andreas (1751-1789), Swedish physician and botanist, born at Warnhelm, Västergötland, studied at Uppsala 1770, "med. filos. kand." 1776, at Kiel 1786, "demonstrator"and medical adjunct at Åbo (Turku) 1787-1789. 
+\* Dahl, Andreas (1751-1789), Swedish physician and botanist, born at Warnhelm, Västergötland, studied at Uppsala 1770, "med. filos. kand." 1776, at Kiel 1786, "demonstrator" and medical adjunct at Åbo (Turku) 1787-1789. 
 **Abbreviated name**: *Dahl*
 
 #### Herbarium and types

@@ -3,7 +3,7 @@
 
 ### Author
 
-Bornemann, Felix (*ft*. 1887), German phycologist. 
+Bornemann, Felix (*fl*. 1887), German phycologist. 
 **Abbreviated name**: *F. Bornemann*
 
 #### Herbarium and types

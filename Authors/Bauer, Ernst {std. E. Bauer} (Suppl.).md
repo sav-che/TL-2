@@ -24,7 +24,7 @@ Barnhart 1: 140 (b. 13 Aug 1860, Pisek); Bossert p. 29; CSP 13: 350; IH 2: 60; L
 - Maiwald, V.F., Gesch. Bot. Böhmen 234. 1904.
 - Sayre, G., Mem. New York Bot. Gard. 19(2): 181-183. 1971 (details on exsiccatae); Bryologist 80(3): 504. 1977 (main herb. at OP: 27.000 specimens).
 - Vána, J., Taxon 29: 674-675. 1980 (main herb. at OP; impt. set also at PR).
-- Van"k, R., Priroda, Praha 33: 280. 1940.
+- Vaněk, R., Priroda, Praha 33: 280. 1940.
 - Wagenitz, G., Index coll. princ. herb. Gotting. 19. 1982 (herb. mat. in GOET).
 
 ### Publications

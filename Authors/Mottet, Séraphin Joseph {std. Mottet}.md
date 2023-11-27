@@ -28,7 +28,9 @@ Editor: *Dictionnaire pratique d'horticulture et de jardinage*(1892-1893) (Frenc
 
 **Title**
 *Monographie botanico-horticole du genre Eremurus...* Paris (Imprimerie de la Cour d'Appel...) 1901.
-**Abbreviated title**: *Publ*.: Mai 1901 (presented to congress of Soc. natl. Hort. France, p. \[1\]-18. *Copy*: MO. – Reprinted from J. Soc. natl. Hort. France ser. 4. 2: 804-819. Jan 1901. To be cited from journal.
+
+**Notes**
+*Publ*.: Mai 1901 (presented to congress of Soc. natl. Hort. France, p. \[1\]-18. *Copy*: MO. – Reprinted from J. Soc. natl. Hort. France ser. 4. 2: 804-819. Jan 1901. To be cited from journal.
 
 ##### n.6367. Monographie du genre Primevère
 

@@ -344,8 +344,8 @@ there seem to have been no further centuries.
 ##### n.256. Anatomie et physiologie végétales
 
 **Title**
-*Anatomie et physiologie végétales*. Paris 1882. Oct.
-**Abbreviated title**: *n.v.*)(*Anat. phys. vég.*
+*Anatomie et physiologie végétales*. Paris 1882. Oct. (*n.v.*)
+**Abbreviated title**: *Anat. phys. vég.*
 
 **Notes**
 *Publ*.: Dec 1881 (Nat. Nov.), p. \[i\]-viii, \[1\]-300.

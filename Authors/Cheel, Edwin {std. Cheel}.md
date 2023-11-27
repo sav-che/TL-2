@@ -12,7 +12,7 @@ Cheel, Edwin (1872-1951) British (Kent) born botanist, horticulturist and forest
 
 #### Bibliography and biography
 
-Barnhart 1: 338 (b. 14 Jan 1874, Chatham, Kent, England); BL 1: 63, 67; Desmond p. 127 (b. 14 Jan 1872, Chatham, Kent, d. Sydney, Austr. 19 Sep 1951); GR p. 393 ("Edwin" (non"Edward")); Hortus 3: 1190; IH 2: 124; Kew 1: 523; LS 31.987-31.987a; KR p. 120; LS suppl. 4911, 5267, 5272, 5284.
+Barnhart 1: 338 (b. 14 Jan 1874, Chatham, Kent, England); BL 1: 63, 67; Desmond p. 127 (b. 14 Jan 1872, Chatham, Kent, d. Sydney, Austr. 19 Sep 1951); GR p. 393 ("Edwin" (non "Edward")); Hortus 3: 1190; IH 2: 124; Kew 1: 523; LS 31.987-31.987a; KR p. 120; LS suppl. 4911, 5267, 5272, 5284.
 
 #### Biofile
 

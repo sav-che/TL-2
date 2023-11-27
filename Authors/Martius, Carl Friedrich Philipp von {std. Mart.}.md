@@ -204,19 +204,20 @@ Nova *genera et species plantarum* quas in itinere per Brasiliam annis mdcccxvii
 *Vol. 3*: 1829-1832 (p.\[x\]: 25 Feb 1829, p. 198: finitum idibus Sept 1832), p.\[i, h.t.\], engr. t.p., \[iii, t.p. 1823-1832\], \[v, t.p. vol. 3\], \[vii-x\], \[1\]-198, *pl. 201-300.*
 *Copies*: FI, M, MO, NY, US, USDA, IDC 5257.
 
-|Vol. part	|pages	|*plates*	|dates|
-|---	|---	|---	|---	|
-|1(1)	|1-20	|1-12	|late 1823 or Jan-Feb 1824|
-|(2)	|21-36	|13-24	|late 1823 or Jan-Feb 1824|
-|(3)	|37-80	|25-55	|1 Oct 1824, (1)|
-|(4)	|81-158	|56-100	|Jan-Mar 1826, (2)|
-|2(1)	|1-68	|101-160	|Apr-Jun 1826|
-|(2)	|69-148	|161-200	|Jan-Jun 1827|
-|3(1)	|1-80	|201-231	|Jun-Jun 1829|
-|(2)	|81-124	|232-272	|Jan-Mar (?) 1831|
-|(3)	|125-198	|273-300	|Sep 1832, (3)|
+|Vol.	|part	|pages	|*plates*	|dates|
+|---	|---	|---	|---	|---	|
+|1|(1)	|1-20	|1-12	|late 1823 or Jan-Feb 1824|
+| |(2)	|21-36	|13-24	|late 1823 or Jan-Feb 1824|
+| |(3)	|37-80	|25-55	|1 Oct 1824, (1)|
+| |(4)	|81-158	|56-100	|Jan-Mar 1826, (2)|
+|2|(1)	|1-68	|101-160	|Apr-Jun 1826|
+| |(2)	|69-148	|161-200	|Jan-Jun 1827|
+|3|(1)	|1-80	|201-231	|Jun-Jun 1829|
+| |(2)	|81-124	|232-272	|Jan-Mar (?) 1831|
+| |(3)	|125-198	|273-300	|Sep 1832, (3)|
 
-- (1) diagnoses published earlier in Flora 7(1) Beil. (4): 129-142, between 25 Apr and 30 Jun 1824. (2) idem t. *56-74* in Flora 8(1): 27-32. 14 Jan 1825; the fascicle cover of this part was dated "1824" fide GGA 26 Jan 1829.
+- (1) diagnoses published earlier in Flora 7(1) Beil. (4): 129-142, between 25 Apr and 30 Jun 1824.
+- (2) idem t. *56-74* in Flora 8(1): 27-32. 14 Jan 1825; the fascicle cover of this part was dated "1824" fide GGA 26 Jan 1829.
 - (3) date on p. 198.
 The above information is based on reviews in GGA, Flora, Linnaea, and Isis (see also Woodward 1908). On 29 Jun 1829 Martius informed W.J. Hooker (letter at K) that the book was ready as far as *pl. 231*; from a letter dated 24 Mar 1832 it appears that 3(2) was published around Mar 1831. In the preparation of this book, especially of the plates, Martius was assisted by J. G. Zuccarini. – Sprengel (Syst. 1: 224. late 1824) cites a Martius taxon published on 1: 156, *pl. 95.* This might indicate that 2(4) was possibly published earlier than the Jan-Mar 1826 here accepted.
 For information on the artists who prepared the 300 lithographs see NI 1288.
@@ -473,38 +474,47 @@ Amoenitates botanicae monacenses. *Auswahl merkwürdiger Pflanzen* des K. botani
 Martius founded the work with Endlicher; he edited fasc. 1-46 (1840-1868). For his own contributions see 1(1): 184-185. 1906. For the plan of the work sec Martius, Fl. bras. 23(1) Int. Bl. 17-23. 1840.
 *Facsimile ed*.: Cramer (Weinheim) 1965; the complete work; vol. 3(4): 317-672, *pl. 76-133* was already reprinted full size in 1920.
 *Listing* by contents and by fascicles: see vol. 1(1). 1906.
-*1(1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-268, \[1\]-32, \[i\*\], 2 maps \[i\]-cx, *pl. 1-55.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-712, *pl. 1-82 (52, 54, 65* double), many plates are nature prints.
-*2(1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-226, *pl. 1-30.*
-(*2*): p. \[i\*-vi\*\], \[i\], col. \[11-358, *pl. 1-49.*
-(*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-342, *pl. 1-13, 14/15, 16-74.*
-*3(1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-566, *pl. 1-71.*
-(*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-610, *pl. 1-19, 20/21, 22-25, 26/27, 28/29, 30-34, 35/36, 37-45, 46/47, 48-134.*
-(*3*): p. \[i\*-vi\*\], \[i\],col. \[1\]-816, *pl. 1-128.*
-(*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-672, *pl. 1-133.*
-(*5*): p. \[i\*-vi\*\], \[i\], col. \[1\]-664, *pl. 1-119.*
-(*6*): p. \[i\*-vi\*\], \[i\], col. \[1\]-604, *pl. 1-120.*
-*4* (*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-472, *pl. 1-115, pl.* 35 and *110* double. (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-334. *pl. 1-63.*
-*5* (*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-264, *pl. 1-40, 40bis, 41-75.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-336, *pl. 1-107.*
-*6* (*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-340, *pl. 1-34, 35A, B, 36-85.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-398, *pl. 1-102.*
-(*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-442, *pl. 1-108.*
-(*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-378, *pl. 1-104.*
-(*5*): p. \[i\*-vi\*\], \[i\],col. \[1\]-486, *pl. 1-67.*
-(*6*): p. \[i\*-vi\*\], \[i\], col. \[1\]-466, *pl. 68-151.*
-*7*: p. \[i\*-vi\*\], \[i\], col. \[1\]-424, *pl. 1-131.*
-*8* (1) : p. \[i\*-vi\*\], \[i\], col. \[1\]-428, *pl. 1-68.*
-(*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-452, *pl.. 69-121.*
-*9*: p. \[i\*-vi\*\], \[i\], col. \[1\]-322, *pl. 1-31 (1) 32(2), 33-50.*
-*10*: p. \[i\*-vi\*\], \[i\], col. \[1\]-338, *pl. 1-59.*
-*11 (1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-370, *pl. 1-91.*
-(*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-752, *pl. 1-104.*
-*12 (1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-522, *pl. 1-112.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-548, *pl. 1-118.*
-(*3*): p. \[1\*-vi\*\], \[i\], col. \[1\]-624, *pl. 1-114.*
-*13 (1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-654, *pl. 1-128.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-396, *pl. 1-69.*
-(*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-680, *pl. 1-123.*
-*14 (1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-656, *pl. 1-31, 31a, 32-41, 41a, 42-47, 47a, 48-82.* (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-*418, pl. 1-91.*
-(*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-510, *pl. 1-108.*
-(*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-656, *pl. 1-130.*
-15(*1*): p. \[i\*-vi\*\], \[i\],col. \[1\]-350, *pl. 1-45, 46(1), 46(2), 47-127; pl. 23, 50, 90* double. (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-528, *pl. 1-138.*
+- *1*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-268, \[1\]-32, \[i\*\], 2 maps \[i\]-cx, *pl. 1-55.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-712, *pl. 1-82* (*52, 54, 65* double), many plates are nature prints.
+- *2*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-226, *pl. 1-30.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[11-358, *pl. 1-49.*
+	- (*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-342, *pl. 1-13, 14/15, 16-74.*
+- *3*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-566, *pl. 1-71.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-610, *pl. 1-19, 20/21, 22-25, 26/27, 28/29, 30-34, 35/36, 37-45, 46/47, 48-134.*
+	- (*3*): p. \[i\*-vi\*\], \[i\],col. \[1\]-816, *pl. 1-128.*
+	- (*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-672, *pl. 1-133.*
+	- (*5*): p. \[i\*-vi\*\], \[i\], col. \[1\]-664, *pl. 1-119.*
+	- (*6*): p. \[i\*-vi\*\], \[i\], col. \[1\]-604, *pl. 1-120.*
+- *4*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-472, *pl. 1-115, pl.* 35 and *110* double.
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-334. *pl. 1-63.*
+- *5*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-264, *pl. 1-40, 40bis, 41-75.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-336, *pl. 1-107.*
+- *6*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-340, *pl. 1-34, 35A, B, 36-85.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-398, *pl. 1-102.*
+	- (*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-442, *pl. 1-108.*
+	- (*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-378, *pl. 1-104.*
+	- (*5*): p. \[i\*-vi\*\], \[i\],col. \[1\]-486, *pl. 1-67.*
+	- (*6*): p. \[i\*-vi\*\], \[i\], col. \[1\]-466, *pl. 68-151.*
+- *7*: p. \[i\*-vi\*\], \[i\], col. \[1\]-424, *pl. 1-131.*
+- *8*(*1*) : p. \[i\*-vi\*\], \[i\], col. \[1\]-428, *pl. 1-68.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-452, *pl.. 69-121.*
+- *9*: p. \[i\*-vi\*\], \[i\], col. \[1\]-322, *pl. 1-31 (1) 32(2), 33-50.*
+- *10*: p. \[i\*-vi\*\], \[i\], col. \[1\]-338, *pl. 1-59.*
+- *11*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-370, *pl. 1-91.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-752, *pl. 1-104.*
+- *12*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-522, *pl. 1-112.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-548, *pl. 1-118.*
+	- (*3*): p. \[1\*-vi\*\], \[i\], col. \[1\]-624, *pl. 1-114.*
+- *13*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-654, *pl. 1-128.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-396, *pl. 1-69.*
+	- (*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-680, *pl. 1-123.*
+- *14*(*1*): p. \[i\*-vi\*\], \[i\], col. \[1\]-656, *pl. 1-31, 31a, 32-41, 41a, 42-47, 47a, 48-82.*
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-*418, pl. 1-91.*
+	- (*3*): p. \[i\*-vi\*\], \[i\], col. \[1\]-510, *pl. 1-108.*
+	- (*4*): p. \[i\*-vi\*\], \[i\], col. \[1\]-656, *pl. 1-130.*
+- *15*(*1*): p. \[i\*-vi\*\], \[i\],col. \[1\]-350, *pl. 1-45, 46(1), 46(2), 47-127; pl. 23, 50, 90* double.
+	- (*2*): p. \[i\*-vi\*\], \[i\], col. \[1\]-528, *pl. 1-138.*
+
 Argumentum fasciculorum i-xl, 1865, col. \[1\]-32 (also cited above with vol. 1(1)).
 
 |vol.	|pars	|columns	|*plates*	|fasc.	|dates|

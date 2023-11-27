@@ -3,7 +3,7 @@
 
 ### Author
 
-McKelvey, Susan Adams (née Delano \[Mrs. Charles Wylie McKelvey, 1907\] (1883-1964), American botanist, horticulturist, and botanical historian. 
+McKelvey, Susan Adams (née Delano \[Mrs. Charles Wylie McKelvey, 1907\]) (1883-1964), American botanist, horticulturist, and botanical historian. 
 **Abbreviated name**: *McKelv.*
 
 #### Herbarium and types

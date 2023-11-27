@@ -12,7 +12,7 @@ In the library of the Lyon Palais des Arts (fide Magnin 1906; no further details
 
 #### Bibliography and biography
 
-Backer p. 660; Barnhart 3: 187 (b. 23 Jan 1734, d. 29 Sep 1793); BM 4: 1758, 1759; Bossert p. 341; Dryander 3: 20, 459, 568, 640; Frank 3(Anh.): 86; GR p. 349"350; Herder p. 393; Kew 4: 542; KR p. 603; Lasègue p. 344; LS 23211; NI (alph.), see also 3: 95; Plesch p. 391, 392; PR 5084-5085, 7855, ed. 1: 1803, 5577-5578, 7781; 8807-8809, 11678; Rehder 5: 744; SO 282, 716, 717, 2631; Sotheby 667; TL-2/4229.
+Backer p. 660; Barnhart 3: 187 (b. 23 Jan 1734, d. 29 Sep 1793); BM 4: 1758, 1759; Bossert p. 341; Dryander 3: 20, 459, 568, 640; Frank 3(Anh.): 86; GR p. 349-350; Herder p. 393; Kew 4: 542; KR p. 603; Lasègue p. 344; LS 23211; NI (alph.), see also 3: 95; Plesch p. 391, 392; PR 5084-5085, 7855, ed. 1: 1803, 5577-5578, 7781; 8807-8809, 11678; Rehder 5: 744; SO 282, 716, 717, 2631; Sotheby 667; TL-2/4229.
 
 #### Biofile
 

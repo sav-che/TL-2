@@ -52,7 +52,7 @@ AG 3: 513-514; Barnhart 3: 396 (b. 12 Jul 1853, d. 23 Apr 1929); BJI 2: 178; BL 
 
 **Title**
 *Contributions à la florule des environs d'Alger*... supplément au catalogue de Munby (première série). Alger (Typographie Victor Aillaud et Compagnie) 1878. Oct.
-**Abbreviated title**: *(Contr.fl. Alg.*
+**Abbreviated title**: *Contr. fl. Alg.*
 
 **Notes**
 *Co-author*. Jules Aimé Battandier (1848-1922).

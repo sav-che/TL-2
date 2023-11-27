@@ -16,7 +16,7 @@ Barnhart 3: 160 (b. 7 Aug 1779, d. 28 Sep 1859); BM 4: 1708; CSP 5: 216; GR p. 1
 
 #### Biofile
 
-- Anon., Bot. Zeit. 11: 512. 1853 (portr. published with motto"Willst du ins Unendliche schreiten, geh nur im Endlichen nach allen Seiten"); Brit. Mus. gen. Cat. 203: 517-521. 1963 (Bibl., 69 nos.); Cat. gén. livr. impr. Bibl. natl. Paris 152: 651-660. 1938 (58 nos. bibl.); Flora 37: 15. 1854 (Maximilians-Orden für Kunst und Wissenschaft), 43: 16. 1860 (d.); Gartenflora 9: 29. 1860 (d.); Österr. bot. Z. 9: 370. 1859 (d. 28 Sep 1859).
+- Anon., Bot. Zeit. 11: 512. 1853 (portr. published with motto "Willst du ins Unendliche schreiten, geh nur im Endlichen nach allen Seiten"); Brit. Mus. gen. Cat. 203: 517-521. 1963 (Bibl., 69 nos.); Cat. gén. livr. impr. Bibl. natl. Paris 152: 651-660. 1938 (58 nos. bibl.); Flora 37: 15. 1854 (Maximilians-Orden für Kunst und Wissenschaft), 43: 16. 1860 (d.); Gartenflora 9: 29. 1860 (d.); Österr. bot. Z. 9: 370. 1859 (d. 28 Sep 1859).
 - Blatter, E., Rec. bot. Surv. India 8(5): 452, 469, 471. 1933.
 - Jessen, K.F.W., Bot. Gegenw. Vorz. 46, 352. 1884.
 - Müller, R.H.W. & R. Zaunick, Friedr. Traug. Kützing 234, 292. 1960.

@@ -82,6 +82,6 @@ Barnhart 2: 272; BM 2: 595; Bossert p. 205; CSP 3: 610, 16: 193; IH 2: 343; Jack
 *Ed. 6*: Münster (id.) 1895. Oct. *Publ*.: Mai 1895 (p. vi: 1 Mar 1895; Nat. Nov. Jun (1, 2) 1895; Bot. Zeit. 16 Jun 1895), p. \[i\]-lxxii, 1-431, \[432, err.\]. *Editor*: Friedrich Westhoff (x-1896). *Copy*: HH.
 *Ed. 7*: Münster (id.) 1902. Oct. *Publ*.: Apr 1905 (Nat. Nov. Apr(2) 1902), p. \[i\]-lxxvi, \[1\]-431. *Editor*: H. Brockhausen.
 *Ed. 8*: "Flora der Provinz Westfalen und der angrenzenden Gebiete. Ein Taschenbuch zu botanischen Exkursionen für Schulen und zum Selbst-Bestimmen... Achte, vielfach vermehrte und verbesserte Auflage, bearbeitet von H. Brockhausen, Oberlehrer." Münster (Westf.) (Universitäts-Buchhandlung Franz Coppenrath) 1911. Oct., *publ*.: Jul 1911 (p. vi: Jun 1911; Nat. Nov. Aug(1) 1911), p. \[i\]-lxxvi, \[1\]-391. *Copies*: B, L.
-*Ref*.: Schlechtendal, D. F. L. v., Bot. Zeit. 21: 250. 21 Aug 1863 (rev. of ed. 1"uns jetzt übersandt").
+*Ref*.: Schlechtendal, D. F. L. v., Bot. Zeit. 21: 250. 21 Aug 1863 (rev. of ed. 1 "uns jetzt übersandt").
 - N.L., Bot. Zeit. 37: 264. 18 Apr 1879 (ed. 4).
 

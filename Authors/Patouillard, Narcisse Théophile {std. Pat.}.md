@@ -513,7 +513,7 @@ Description d'une nouvelle espèce d'Auriculariacés *Septobasidium langloisii*.
 ##### n.7483. Essai taxonomique sur les familles et les genres des Hyménomycètes
 
 **Title**
-Université de Paris. École supérieure de Pharmacie Année 1900-1901. No. 2. *Essai taxonomique sur les familles et les genres des Hyménomycètes*. Thèse pour l'obtention du diplôme de docteur de l"Université de Paris (Pharmacie). Présentée et soutenue le \[\] 1900 par N. Patouillard... Lons-le-Saunier (Imprimerie et Lithographie Lucien Declume) 1900. Oct.
+Université de Paris. École supérieure de Pharmacie Année 1900-1901. No. 2. *Essai taxonomique sur les familles et les genres des Hyménomycètes*. Thèse pour l'obtention du diplôme de docteur de l'Université de Paris (Pharmacie). Présentée et soutenue le \[\] 1900 par N. Patouillard... Lons-le-Saunier (Imprimerie et Lithographie Lucien Declume) 1900. Oct.
 **Abbreviated title**: *Essai tax. Hyménomyc.*
 
 **Notes**

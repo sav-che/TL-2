@@ -3,7 +3,7 @@
 
 ### Author
 
-Gmelin family. (0000-0000) The genealogy of this family that contributed greatly to Botany is analyzed in \[Moriz Gmelin\], *Stammbaum der Familie Gmelin* 1877 (n.v.). The "botanical" Gmelins essentially begin with Johann Georg Gmelin (1674-1728) who defended a botanical thesis under Rudolf Jakob Camerarius in 1699, married in 1706, and had three "key" children and three "key" grandchildren.
+Gmelin family. The genealogy of this family that contributed greatly to Botany is analyzed in \[Moriz Gmelin\], *Stammbaum der Familie Gmelin* 1877 (n.v.). The "botanical" Gmelins essentially begin with Johann Georg Gmelin (1674-1728) who defended a botanical thesis under Rudolf Jakob Camerarius in 1699, married in 1706, and had three "key" children and three "key" grandchildren.
 
 1. Johann Konrad Gmelin (1707-1759) who had 15 children, incl.: \*Samuel Gottlieb Gmelin (1745-1774) (TL-2/1: 958) who traveled in s. Russia with P.S. Pallas and died in Persia; and Christian Gottlieb Gmelin (1749-1809) who had a connection with Goethe.
 

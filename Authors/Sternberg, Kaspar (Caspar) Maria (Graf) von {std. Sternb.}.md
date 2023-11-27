@@ -141,7 +141,7 @@ Hoppea 34(2): 419. 1976 (no. 10).
 *Heft 5-6*: 1833 (at session Bot. Ges. Regensb. 16 Oct 1833), p. \[i-ii\], \[1\]-79, \[80\], *pl. 1-26.* – Cover: Prag (gedruckt bei Johann Spurny).
 *Heft 7-8*: 1 Sep-7 Oct 1838 (Flora 7 Jan 1839; Hinrichs 7-13 Oct 1838), p. \[81\]-220, *pl*.
 *27*(*A*)-*68*(*A-B*). – Cover: Prag (Druck und Papier von Gottlieb Haase Söhne) 1838. Most genera on p. 108-207 are attributed to K.B. Presi.
-*Skizzen zur vergleichenden Phytotomie* vor- und jetztweltlicher Pflanzen-Stämme, von A.C.I. Corda,... s.d. \[1838\], p. \[i\*\], \[i\]-lxxxi \[as"lxxi"\], published Sep-Oct 1838, together with Heft 7-8.
+*Skizzen zur vergleichenden Phytotomie* vor- und jetztweltlicher Pflanzen-Stämme, von A.C.I. Corda,... s.d. \[1838\], p. \[i\*\], \[i\]-lxxxi \[as "lxxi"\], published Sep-Oct 1838, together with Heft 7-8.
 *French ed*.: 1820-1826. 4 cahiers. Came out somewhat later than the German original. The first cahier, though dated 1820, must even so be considered as having been published after the German original, notwithstanding the circumstance that the latter has the conventional date 31 Dec 1820. – Translation by François Gabriel de Bray (1765-1832). *Copies*: BR, MO, NY, PH.
 *General t.p.*: 1826, p. \[i\], *Essai d'un exposé géognostico-botanique de la flore du monde primitif* ... par le comte Gaspard Sternberg,... traduit de l'Allemand par le comte de Bray,... Ratisbonae \[Regensburg\] (imprimé chez la veuve de Christophe Ernest Brenck) 1826.
 *Cahier 1*: 1820 (to be considered as published after 31 Dec 1820), p. \[i-ii\], \[1\]-26, *pl. 1-13.* – has a t.p. of its own. Leipsic et Prague (au Musée germanique...) 1820.

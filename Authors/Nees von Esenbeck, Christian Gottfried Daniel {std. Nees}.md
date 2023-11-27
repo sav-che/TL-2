@@ -342,7 +342,7 @@ Christiani Godofredi Nees ab Esenbeck,... ad Socios cuiusque gradus et ordinis l
 
 **Title**
 *Florae Africae australioris illustrationes monographicae*. Scripsit C. G. Nees ab Esenbeck ... I. Gramineae. Glogaviae \[Glogau, Glogów\] (sumtibus Prausnitzianis) 1841. Oct.
-**Abbreviated title**: *(Fl. Afr. austral. ill.*
+**Abbreviated title**: *Fl. Afr. austral. ill.*
 
 **Notes**
 *Publ*.: 13-19 Jun 1841 (Hinrichs), p. \[i\]-xx, \[1\]-490, \[1, err.\]. *Copies*: FI, L, US, IDC 246.

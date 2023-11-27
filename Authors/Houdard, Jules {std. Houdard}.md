@@ -3,7 +3,7 @@
 
 ### Author
 
-Houdard, Jules (*fi*. 1911), French botanist. 
+Houdard, Jules (*fl*. 1911), French botanist. 
 **Abbreviated name**: *Houdard*
 
 #### Herbarium and types

@@ -3,7 +3,7 @@
 
 ### Author
 
-Sonntag, CO. (*fl*. 1894), Scottish high school teacher and botanist at Edinburgh. 
+Sonntag, C.O. (*fl*. 1894), Scottish high school teacher and botanist at Edinburgh. 
 **Abbreviated name**: *Sonntag*
 
 #### Herbarium and types

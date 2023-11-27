@@ -3,7 +3,8 @@
 
 > [!example] See also [[Fünfstück (Fuenfstueck), (Leberecht) Moritz {std. Fünfstück} (Suppl.)|second entry]] for this author
 
-Fünfstück, Leberecht Moritz (1856-1925), German botanist, professor at the Stuttgart Technological Institute. (*Fünfstück*).
+Fünfstück, Leberecht Moritz (1856-1925), German botanist, professor at the Stuttgart Technological Institute.
+**Abbreviated name**: *Fünfstück*
 
 #### Herbarium and types
 

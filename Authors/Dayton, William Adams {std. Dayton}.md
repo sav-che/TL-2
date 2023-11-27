@@ -74,9 +74,10 @@ What is *Agoseris apiculata* Greene... Proceedings of the Biological Society of 
 
 **Title**
 *Standardized plant names*, second edition... Harrisburg, Pa. (J. Horace Mc Farland Company) 1942. Oct.
-**Abbreviated title**: *Standard. pl. names*). *First author*: Harlan Page Kelsey (1872-1959.
+**Abbreviated title**: *Standard. pl. names*
 
 **Notes**
+*First author*: Harlan Page Kelsey (1872-1959).
 *Publ*.: *Ed. 1*: See F.V. Coville, Composite works (1924).
 *Ed. 2*: Feb 1942 (see also J. New York bot. gard. 43: 210-211. 1942), p. \[i\], \[iii\]-xv, \[xvi\], \[1\]-675, \[676-677\]. *Copies*: BR, HH, NY. – Edited by Kelsey and Dayton for American Joint Committee on Horticultural Nomenclature. – Named also "S.P.N.". – See also J. Forestry 40: 891-896. 1942.
 

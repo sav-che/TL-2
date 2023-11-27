@@ -1,7 +1,8 @@
 > [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-Fürnrohr, Heinrich (1841/2-1918), German physician and botanist at Regensburg, son of A. E. Fürnrohr. (*H. Fürnr.*)
+Fürnrohr, Heinrich (1841/2-1918), German physician and botanist at Regensburg, son of A. E. Fürnrohr. 
+**Abbreviated name**: *H. Fürnr.*
 
 #### Herbarium and types
 Unknown.

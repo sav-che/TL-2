@@ -9,7 +9,7 @@ Lapeyrouse, Philippe Picot Baron de (1744-1818), French mineralogist and botanis
 #### Herbarium and types
 
 [[Collection TLJ|TLJ]]; a small herbarium is also at [[Collection MPU|MPU]]. Much material also in the Thunberg herbarium ([[Collection UPS|UPS]]).
-*Ref*.: Clos, Mém. Acad. Sci. Toulouse ser. 5. 1: 221-303. 1857, also published separately under the title"Révision comparative de l'herbier et de l'Histoire abrégée des Pyrenées de Lapeyrouse", Toulouse 1857, p. \[i\], \[1\]-86. *Copy*: BR. -See also extract in Bull. Soc. bot. France 4: 418-422. 1857, 1017-1020. 1858.
+*Ref*.: Clos, Mém. Acad. Sci. Toulouse ser. 5. 1: 221-303. 1857, also published separately under the title "Révision comparative de l'herbier et de l'Histoire abrégée des Pyrenées de Lapeyrouse", Toulouse 1857, p. \[i\], \[1\]-86. *Copy*: BR. -See also extract in Bull. Soc. bot. France 4: 418-422. 1857, 1017-1020. 1858.
 - Serres, Bull. Soc. bot. France 4: 418-422 1857.
 - Roumeguère, Mém. Acad. Sci. Toulouse ser. 5. 3: 452. 1859.
 - Duchartre, Bull. Soc. bot. France 7: 17-22, 66-72. 1860.

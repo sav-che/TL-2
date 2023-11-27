@@ -3,7 +3,7 @@
 
 ### Author
 
-Jelinek, Anton (Anton?n) (*fl*. 1857-1859), Austrian naturalist on the Novara expedition. 
+Jelinek, Anton (Antonin) (*fl*. 1857-1859), Austrian naturalist on the Novara expedition. 
 **Abbreviated name**: *Jelin.*
 
 #### Herbarium and types

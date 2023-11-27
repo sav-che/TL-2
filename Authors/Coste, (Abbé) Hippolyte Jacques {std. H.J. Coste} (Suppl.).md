@@ -46,7 +46,7 @@ AG 6(1): 273; Barnhart 1: 385 (b. 20 Dec 1858, Balaguier-de-Sernin, Aveyron, d. 
 
 **Title**
 Docteur Pons & Abbé Coste. *Herbarium Rosarum* ler\[-5°\] fascicule 1894 \[-1898-1899\]. Préface & Annotations... Ille (Imprimerie Eloi Aubert) 1895-\[1900\]. Oct.
-**Abbreviated title**: *(Herb. Rosarum*.
+**Abbreviated title**: *Herb. Rosarum*
 
 **Notes**
 *First-author*: Docteur Simon Pons (1861-x).

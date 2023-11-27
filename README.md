@@ -20,7 +20,11 @@ The fonts cannot be included in the vault. If you want to see the same fonts as 
 
 ## Tips
 
-- Advanced search options including regex are explained here: https://help.obsidian.md/Plugins/Search
+- To quickly search through page names (= author names), first type `file:` in the search bar. To do so for publication numbers and titles, type `section:`.
+
+- To use regular expressions in the search, put your query between slashes, e.g. `/Charko[vw]/`
+
+- Othe useful search options are explained here: https://help.obsidian.md/Plugins/Search
 
 - All official help pages: https://help.obsidian.md/.
 

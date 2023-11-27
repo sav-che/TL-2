@@ -37,5 +37,5 @@ Barnhart 2: 357; BL 1: 241, 305; Kew 3: 393; Tucker 1: 417.
 
 **Notes**
 *Ed. 1*: 1934, p. \[i\]-viii, \[1\]-486, *13 pl. Copy*: USDA. – W. A. Archer provided a 150 p. typewritten index to ed. 1 in 1945.
-*Ed. 2*: 1947, p. \[1\]-506, *7 pl. Copy*: NY.–"2.a ediçaoilustrada"São Paulo, Rio de janeiro... (Companhia editora nacional) 1947. Oct., as Brasiliana, ser. 5, vol. 251.
+*Ed. 2*: 1947, p. \[1\]-506, *7 pl. Copy*: NY.–"2.a ediçaoilustrada" São Paulo, Rio de janeiro... (Companhia editora nacional) 1947. Oct., as Brasiliana, ser. 5, vol. 251.
 

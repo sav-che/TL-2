@@ -703,7 +703,7 @@ Les *fougères* de la *Galicie Espagnole*... \[Paris (Bulletin intern. Géograph
 Quelques mots *sur* l'article de Mr. *Underwood*: "*A much-named Fern*"... Reprinted from Torreya... 1905. Oct.
 
 **Notes**
-*Publ*.: Jul 1905 (in journal, text signed on p. 126"Bâle 16 Jun 1905"), p. \[123\]-126. *Copy*: G. – Reprinted and to be cited from Torreya 5(7): 123-126. 1905.
+*Publ*.: Jul 1905 (in journal, text signed on p. 126 "Bâle 16 Jun 1905"), p. \[123\]-126. *Copy*: G. – Reprinted and to be cited from Torreya 5(7): 123-126. 1905.
 
 ##### n.26.263. Filices Uleanae Amazonicae
 

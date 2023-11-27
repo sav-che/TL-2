@@ -18,7 +18,7 @@ Borzi, Antonino (1852-1921), Italian botanist at Messina and Palermo.
 
 BL 2: 332; BM 1: 204; Bossert p. 46; CSP 9: 299, 13: 701-702; DTS 1: 29; GR p. 514; Jackson 497; Kew 1: 311; KR p. 98; Langman p. 149; LS 3418-3429; LS Suppl. 3291; Saccardo 1: 35.
 - Cesati, Mem. Soc. ital. Sci. 4(7): 15-16. 1882.
-- Wittrock, Acta Horti Berg. 3(2): 160. 1903 (porti.), 3(3): 175. 1905.
+- Wittrock, Acta Horti Berg. 3(2): 160. 1903 (portr.), 3(3): 175. 1905.
 - Cavara, Agric. Colon., Ital. 16: 1-5. 1922 (portr.)
 
 #### Eponymy
@@ -42,8 +42,8 @@ BL 2: 332; BM 1: 204; Bossert p. 46; CSP 9: 299, 13: 701-702; DTS 1: 29; GR p. 5
 ##### n.674. Rhizomyxa, nuovo Ficomicete
 
 **Title**
-*Rhizomyxa, nuovo Ficomicete*. Messina 1884. Oct.
-**Abbreviated title**: *n. v.*) (*Rhizomyxa*.
+*Rhizomyxa, nuovo Ficomicete*. Messina 1884. Oct. (*n. v.*)
+**Abbreviated title**: *Rhizomyxa*.
 
 **Notes**
 *Publ*.: Jan-Mar 1884 (Hedwigia Apr 1884; Nat. Nov. Apr 1884), p. \[1\]-53. *2 pl*.

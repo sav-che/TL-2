@@ -89,7 +89,7 @@ De Toni, Settantesimo genetliaco del Prof. Francesco Ardissone, viii Settembre m
 
 **Title**
 *Phycologia mediterranea*. Varese 1883-1887. 2 vols. Oct.
-**Abbreviated title**: *Phycol. medit.*)(*n.v.*
+**Abbreviated title**: *Phycol. medit.* (*n.v.*)
 
 **Notes**
 *Publ*.: Issued as *Memorie della Società crittogamologica italiana*, Varese.

@@ -1119,7 +1119,7 @@ SURVEY OF APPENDICES
 |	|5	|65-80	|28 Oct 1842|
 |	|6	|81-96	|7 Nov 1842|
 |	|7	|97-112	|14 Nov 1842|
-|	|8	|113 (as "114")-128(as"123")	|21 Nov 1842|
+|	|8	|113 (as "114")-128(as "123")	|21 Nov 1842|
 
 ###### *Literaturberichte zur Flora* (*Flora Lit. Ber.*)
 

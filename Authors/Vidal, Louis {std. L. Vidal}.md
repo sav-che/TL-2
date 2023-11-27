@@ -3,7 +3,7 @@
 
 ### Author
 
-Vidal, Louis (*fi*. 1900), French botanist at the University of Grenoble. 
+Vidal, Louis (*fl*. 1900), French botanist at the University of Grenoble. 
 **Abbreviated name**: *L. Vidal*
 
 #### Herbarium and types

@@ -196,7 +196,7 @@ Botanicheskiia Izsledovaniia: *Spisok rastenii sobrannykh* v *Turkestane* v 1869
 
 **Title**
 *Conspectus florae Turkestanicae*. Übersicht sämtlicher bis jetzt für den Russischen Turkestan... Dresden-N. (Verlag C. Heinrich) 1905-1923. Oct.
-**Abbreviated title**: *Consp. Fl. Turkestan.* (*German*).
+**Abbreviated title**: *Consp. Fl. Turkestan.* (*German*)
 
 **Notes**
 *Co-author*: Fedtschenko, Boris Alexjewitsch (1872-1947), see TL-2/1: 817, IH 2: 192 and above.
@@ -226,7 +226,7 @@ Botanicheskiia Izsledovaniia: *Spisok rastenii sobrannykh* v *Turkestane* v 1869
 
 **Title**
 *Conspectus Florae Turkestanicae* \[=*Perechen rastenii* diko rastushchikh v Russkom *Turkestanie*\]... Sanktpeterburg \[St. Petersburg\] (Tipografiia Imperatorskoi Akademiia Nauk) 1906-1916, 6 vols. Oct.
-**Abbreviated title**: *Consp. Fl. Turkestan.* (*Russian*).
+**Abbreviated title**: *Consp. Fl. Turkestan.* (*Russian*)
 
 **Notes**
 *Co-author*: Fedtschenko, Boris Alexjewitsch (1872-1947), see TL-2/1: 817, IH 2: 192 and above.

@@ -196,9 +196,9 @@ II. *Lichenes* examinavit et enumera vit Edv. A. Wainio... \[in *Plantae turcoma
 
 **Title**
 *Lichenes antillarum* a W.R. Elliott collecti... \[Journal of Botany,... 1896\]. Oct.
-**Abbreviated title**: *Collector*: William Robert Elliott (1860-1908.
 
 **Notes**
+*Collector*: William Robert Elliott (1860-1908).
 *Publ*.: Jan-Jul 1896 (in journal), p. \[1\]-38. *Copies*: G, H, TUR. – Reprinted and to be cited from J. Bot. 34: 31-36. Jan, 66-72. Feb, 100-107. Mar, 204-210. Mai, 258-266. Jun, 292-297. Jul 1896.
 
 ##### n.15.764. Clathrinae herbarii Müllen

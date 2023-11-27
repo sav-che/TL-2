@@ -2,7 +2,8 @@
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 Fürnrohr, August Emanuel (1804-1861), German botanist, editor of Flora 1830-1861
-(1830-1842 with Hoppe). (*Fürnr*.)
+(1830-1842 with Hoppe).
+**Abbreviated name**: *Fürnr.*
 
 #### Herbarium and types
 

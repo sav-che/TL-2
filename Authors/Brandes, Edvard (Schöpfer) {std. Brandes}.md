@@ -3,7 +3,7 @@
 
 ### Author
 
-Brandes, Edvard (Schöpfer) (0000-0000), German plagiarist and compiler of pseudopopular medical and botanical papers. 
+Brandes, Edvard (Schöpfer), German plagiarist and compiler of pseudopopular medical and botanical papers. 
 **Abbreviated name**: *Brandes*
 
 #### Note

@@ -12,7 +12,7 @@ Rohrbach, Paul (1847-1871), German (Prussian; Berlin) botanist; studied natural 
 
 #### Bibliography and biography
 
-ADB 29: 62-64 (E. Wunschmann); AG 1: 276; Backer p. 660; Barnhart 3: 172 (b. 9 Jun 1847, d. 6 Jun 1871); Biol.-Dokum. 15: 7619; BM 4: 1723; CSP 8: 770, 12: 626; DTS 1: 247; Herder p. 119, 224, 290, 330, 331, 333, 338; Hortus 3: 1202; Kew 4: 507; Langman p. 639; MW p. 416; PR 7735"7737; Rehder 2: 320; Zander ed. 10, p. 708, ed. 11, p. 808.
+ADB 29: 62-64 (E. Wunschmann); AG 1: 276; Backer p. 660; Barnhart 3: 172 (b. 9 Jun 1847, d. 6 Jun 1871); Biol.-Dokum. 15: 7619; BM 4: 1723; CSP 8: 770, 12: 626; DTS 1: 247; Herder p. 119, 224, 290, 330, 331, 333, 338; Hortus 3: 1202; Kew 4: 507; Langman p. 639; MW p. 416; PR 7735-7737; Rehder 2: 320; Zander ed. 10, p. 708, ed. 11, p. 808.
 
 #### Biofile
 

@@ -16,7 +16,7 @@ Barnhart 3: 171 (b. 21 Jan 1866); PH 98; Tucker 1: 604.
 
 #### Biofile
 
-- Anon., Who's who in America 1908-1909: 1613, 15: 1791. 1928, 17: 974. 1932; Women's Who"s who of America 1914-1915: 693. 1976.
+- Anon., Who's who in America 1908-1909: 1613, 15: 1791. 1928, 17: 974. 1932; Women's Who's who of America 1914-1915: 693. 1976.
 - Comstock, A.B., Cornell Rural School Leaflet 17(1): 60. 1923 (portr., brief biogr. sketch).
 
 ### Publications

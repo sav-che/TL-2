@@ -62,7 +62,7 @@ Jackson p. 573-574 \[index\]; KR p. 422-463 (important bibl.); PR ed. 1: 5978-61
 - Caddy, F., Through the fields with Linnaeus, 2 vols. London 1887, v, 347 and v, 376 p. (romantic tradition).
 - Dickison, Alice, Carl Linnaeus, pioneer of modern botany. New York 1967, xii, 209 p. (popular).
 - Fée, A.L.A., Vie de Linné, rédigée sur les documens autographes. Paris 1832, iii, xi, 379, 1 p. (Mém. Soc. Sci. Agr. Arts Lille, 1832(1)) (romantic picture).
-- Fries, Th. M., Bidrag till en lefnadsteckning öfver Carl von Linné, Uppsala 1893-1898, 502 p. (in 8 parts, parts 1-7 1893-1898, as"inbjudningsskrift", part 8 as programm II, Upsala Univ. Årsskr. 1898).
+- Fries, Th. M., Bidrag till en lefnadsteckning öfver Carl von Linné, Uppsala 1893-1898, 502 p. (in 8 parts, parts 1-7 1893-1898, as "inbjudningsskrift", part 8 as programm II, Upsala Univ. Årsskr. 1898).
 - Fries, Th. M., Linné, Lefnadsteckning. Stockholm 1903, 2 vols., iv, 364, 48 and iv, 444, 46, 1 p.
 - Fries, R. E., Bot. Jahrb. 41: 1-54. 1907.
 - Gistel, J. F. X., Carolus Linnaeus, ein Lebensbild, Frankfurt a.M. 1873, p. xxiv, 372 p.
@@ -1381,7 +1381,8 @@ D. F. Dissertatio de *Cortice peruviana*, cujus partem priorem cons. experient. 
 ##### n.4797. Frutetum svecicum
 
 **Title**
-Q.F.F.Q.S. *Frutetum svecicum*, quod consens. experient. Facult. medicae in illustri Lycaeo Upsal. praeside... Carolo Linnaeo,... publico erudit. exam. modeste subjicit David Magn. Virgander, Smolandus. In Audit. carol. majori die xxiii. maji anni mdcclviii. H. A. M. S. Upsaliae (Excud. L. M. Höjer, Reg. Acad. Typogr.) \[1758\]. Qu.**Abbreviated title**: *Frut. svec.* (SO 1994, KR 18, STR 5013).
+Q.F.F.Q.S. *Frutetum svecicum*, quod consens. experient. Facult. medicae in illustri Lycaeo Upsal. praeside... Carolo Linnaeo,... publico erudit. exam. modeste subjicit David Magn. Virgander, Smolandus. In Audit. carol. majori die xxiii. maji anni mdcclviii. H. A. M. S. Upsaliae (Excud. L. M. Höjer, Reg. Acad. Typogr.) \[1758\]. Qu.
+**Abbreviated title**: *Frut. svec.* (SO 1994, KR 18, STR 5013).
 
 **Notes**
 *Publ*.: 23 Mai 1758, p. \[i-ii\], \[1\]-28. *Copies*: MO(2), US, USDA. – Other editions: SO 1995-2000; *Amoen. acad.* 5(88): 204-231. 1760, *Amoen. acad., Schreber ed.* 5(88): 204-231. 1788.

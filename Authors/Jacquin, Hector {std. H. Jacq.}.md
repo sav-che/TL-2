@@ -3,7 +3,7 @@
 
 ### Author
 
-Jacquin, Hector ("aîné") \[*fl*. 1832), French horticulturist. 
+Jacquin, Hector ("aîné") (*fl*. 1832), French horticulturist. 
 **Abbreviated name**: *H. Jacq.*
 
 #### Herbarium and types

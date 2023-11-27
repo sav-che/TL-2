@@ -32,7 +32,7 @@ Barnhart 3: 222 (b. 20 Feb 1880); BFM 883, 884, 885, 2017, 2103, 2127, 2196; Bio
 
 #### Note
 
-R. Scharfetter also published a *Lehrbuch der Botanik* für die unteren Klassen der Mittelschulen, ed. 1 (1913)-ed. 6 (1934), and idem for the "oberen"Klassen, ed. 1, 1936. – Main publications outside our period: *Pflanzenschicksale*, Wien 1952 (79 p.) and *Biographien von Pflanzensippen*, Wien 1953 (546 p.).
+R. Scharfetter also published a *Lehrbuch der Botanik* für die unteren Klassen der Mittelschulen, ed. 1 (1913)-ed. 6 (1934), and idem for the "oberen" Klassen, ed. 1, 1936. – Main publications outside our period: *Pflanzenschicksale*, Wien 1952 (79 p.) and *Biographien von Pflanzensippen*, Wien 1953 (546 p.).
 
 ### Publications
 

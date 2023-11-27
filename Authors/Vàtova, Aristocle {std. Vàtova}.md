@@ -3,7 +3,7 @@
 
 ### Author
 
-Vátova, Aristocle (1897-x), Italian botanist; Dr. phil. Torino 1924, later at the Institute for marine biology at Rovigno d'Istria. 
+Vàtova, Aristocle (1897-x), Italian botanist; Dr. phil. Torino 1924, later at the Institute for marine biology at Rovigno d'Istria. 
 **Abbreviated name**: *Vàtova*
 
 #### Herbarium and types

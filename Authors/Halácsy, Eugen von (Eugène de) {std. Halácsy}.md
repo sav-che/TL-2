@@ -42,7 +42,7 @@ AG 4: 761, 5(1): 588, 6(1): 150, 697, 12(1): 218; Backer p. 651; Barnhart 2: 112
 
 **Title**
 *Flora von Niederösterreich*. Zum Gebrauche auf Excursionen und zum Selbstunterricht bearbeitet... Prag (F. Tempsky), Wien (id.), Leipzig (G. Freytag) 1896. Oct.
-**Abbreviated title**: *(Fl. Niederösterr.*
+**Abbreviated title**: *Fl. Niederösterr.*
 
 **Notes**
 *Publ*.: Feb-Apr 1896 (p. iv: Jan 1895; Bot. Zeit. 1 Jul 1896; Nat. Nov. Mai (1) 1896), p. \[i\]-ix, \[1\]-631. *Copies*: B, G, MICH, NY.

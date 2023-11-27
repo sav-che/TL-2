@@ -18,7 +18,7 @@ Barnhart 3: 320; BFM 1506; Biol.-Dokum. 17: 8881; BJI 2: 170-171; BM 8: 1242; Hi
 
 - Kuzuharov, S.I., Taxon 29: 548. 1980 (obit.).
 - Lowden, R.M., Taxon. Index pers. names vols. 1-30. 699. 1985.
-- Stanev, S., Belezhiti b"lgarski bot. 79-89. 1982.
+- Stanev, S., Belezhiti bulgarski bot. 79-89. 1982.
 - Stefanoff, B., Personal communication to senior author, 1958 (name transcribed Stefanoff by himself; states that herbarium is at SOA).
 
 #### Composite works

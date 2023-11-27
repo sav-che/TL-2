@@ -54,7 +54,7 @@ AG 3: 86; Barnhart 1: 320; BM 1: 323; CSP 1: 813; MD 80-81; PR 1577-1578.
 
 **Title**
 *Flora der Wetterau...* Erste Abtheilung (Phanerogamie)... Hanau 1847-1849. 2 Lief. Oct. †.
-**Abbreviated title**: *Fl. Wetterau*) (*n.v.*
+**Abbreviated title**: *Fl. Wetterau* (*n.v.*)
 
 **Notes**
 *Co-author*: Gottfried Ludwig Theobald (1810-1869).

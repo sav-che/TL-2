@@ -34,8 +34,8 @@ Backer p. 484 (epon. *Reana*); Barnhart 3: 133 (b. 27 Sep 1773, d. 2 Nov 1833); 
 ##### n.8711. Flora segusiensis
 
 **Title**
-*Flora segusiensis* sive stirpium in circuitu segusiensi necnon in Montecenisio, aliisque circumeuntibus montibus sponte enascentium enumeratio secundum Linneanum systema auctore J.e Francesco Re... Taurini \[Torino\] (ex Typographia Bernardini Barberis,...) \[1805\]. Oct.
-**Abbreviated title**: *in fours*). (*Fl. segus.*
+*Flora segusiensis* sive stirpium in circuitu segusiensi necnon in Montecenisio, aliisque circumeuntibus montibus sponte enascentium enumeratio secundum Linneanum systema auctore J.e Francesco Re... Taurini \[Torino\] (ex Typographia Bernardini Barberis,...) \[1805\]. Oct. (*in fours*)
+**Abbreviated title**: *Fl. segus.*
 
 **Notes**
 *Publ*.: Sep-Dec 1805 (p. 6: 3 Sep 1805), p. \[1\]-93. \[94, err.\]. *Copies*: FI, G, NY.

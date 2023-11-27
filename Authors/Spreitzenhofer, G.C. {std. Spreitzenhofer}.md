@@ -3,7 +3,7 @@
 
 ### Author
 
-Spreitzenhofer, G.G. (1835-1883), Austrian savings bank-employee, botanist and plant collector in Vienna. 
+Spreitzenhofer, G.C. (1835-1883), Austrian savings bank-employee, botanist and plant collector in Vienna. 
 **Abbreviated name**: *Spreitzenhofer*
 
 #### Herbarium and types

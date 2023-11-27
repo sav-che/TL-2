@@ -32,9 +32,9 @@ Not to be confused with the Württemberg floristic botanist Karl Müller (Ulm), 
 
 **Title**
 *Moosflora des Feldberggebietes*. Ein Beitrag zur Kenntnis der badischen Kryptogamenflora. Herrn Dr. J. B. Jack aus Konstanz als Zeichen der Dankbarkeit gewidmet von Karl Müller in Kirchzarten. Karlsruhe (Verlag von J. J. Reiff) \[1898-\]1899. Oct.
-**Abbreviated title**: *Dedicated to*: Joseph Bernhard Jack (1818-1901.
 
 **Notes**
+*Dedicated to*: Joseph Bernhard Jack (1818-1901).
 *Publ*.: Oct 1898-Jan 1899, in 4 parts, p. \[1\]-24.
 *Copy*: G. – Reprinted from Allg. bot. Z. 4(11): 177-180. Nov, (12): 199-201. Dec 1898, 5(1): 6-7. Jan, (2): 25-26. Feb, (4): 63-65. Apr, (5): 80. Mai, (6): 97-98. 1899, (7/8): 124-127. Jul-Aug, (9): 143-147. Sep, (10): 160-161. Nov(sic), (11): 173-176. Nov 1899. To be cited from journal.
 

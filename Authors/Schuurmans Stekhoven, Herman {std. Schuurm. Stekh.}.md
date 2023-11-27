@@ -3,7 +3,7 @@
 
 ### Author
 
-Schuurmans Stekhoven, Herman (?\_1855), Dutch botanist; curator of the Leiden botanical garden. 
+Schuurmans Stekhoven, Herman (?-1855), Dutch botanist; curator of the Leiden botanical garden. 
 **Abbreviated name**: *Schuurm. Stekh.*
 
 #### Herbarium and types

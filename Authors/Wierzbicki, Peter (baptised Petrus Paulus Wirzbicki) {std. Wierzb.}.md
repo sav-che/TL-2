@@ -3,7 +3,7 @@
 
 ### Author
 
-Wierzbicki, Peter \[baptised Petrus Paulus Wirzbicki\] (0000-0000), Galician surgeon, botanist and entomologist; studied pharmacy and surgery in Hungary; surgeon's and pharmacist's diploma Pest 1828; assistant professor for botany and chemistry at Keszthely ca. 1820; regional physician in Orawiza in the mining industry in the Austrian Crownland Banat from ca. 1830; active plant collector and floristic botanist. 
+Wierzbicki, Peter \[baptised Petrus Paulus Wirzbicki\], Galician surgeon, botanist and entomologist; studied pharmacy and surgery in Hungary; surgeon's and pharmacist's diploma Pest 1828; assistant professor for botany and chemistry at Keszthely ca. 1820; regional physician in Orawiza in the mining industry in the Austrian Crownland Banat from ca. 1830; active plant collector and floristic botanist. 
 **Abbreviated name**: *Wierzb.*
 
 #### Herbarium and types

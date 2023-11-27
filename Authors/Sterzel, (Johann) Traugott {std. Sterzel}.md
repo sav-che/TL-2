@@ -75,9 +75,9 @@ Andrews p. 335; Barnhart 3: 326 (b. 4 Apr 1841, d. 15 Mai 1914); BJI 1: 56, 2: 1
 
 **Title**
 *Die Flora des Rotliegenden von Oppenau* im badischen Schwarzwalde (Blatt Petersthal-Reichenbach)... \[Heidelberg (Carl Winter's Universitätsbuchhandlung) 1895\]. Oct.
-**Abbreviated title**: *Illustrations*: C. Otto Weber (1827-1867.
 
 **Notes**
+*Illustrations*: C. Otto Weber (1827-1867).
 *Publ*.: 1895, cover.t.p., p. 261-352, *pl. 8-11* (uncol. liths.). *Copy*: USGS. – Reprinted and to be cited from Mitt. Grosh. bad. Geol. Landesanst. 3(2): 261-352, *pl. 8-11.* 1895.
 
 ##### n.13.045. Beiträge zur Kenntnis

@@ -3,7 +3,7 @@
 
 ### Author
 
-Merriam, Clinton Hart (1855-1942), American botanist, zoologist and ethnologist; M. D Columbia 1879; practicing physician in Locust Grove 1879-1885; ornithologist in the office of the"Commissioner of agriculture" (now USDA) and leader of the Bureau of Biological Survey 1885-1910; working with the support of the Harnman Trust (Smithsonian Institution) from 1910; outstanding mammalogist and zoogeographer 
+Merriam, Clinton Hart (1855-1942), American botanist, zoologist and ethnologist; M. D Columbia 1879; practicing physician in Locust Grove 1879-1885; ornithologist in the office of the "Commissioner of agriculture" (now USDA) and leader of the Bureau of Biological Survey 1885-1910; working with the support of the Harnman Trust (Smithsonian Institution) from 1910; outstanding mammalogist and zoogeographer 
 **Abbreviated name**: *Merriam*
 
 #### Herbarium and types

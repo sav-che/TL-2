@@ -88,9 +88,9 @@ Candollea 33: 153-154. 1978.
 
 **Title**
 *Catalogo delle piante vascolari del Veneto* e di quelle più estesamente coltivate compilato da R. de Visiani... P.A. Saccardo... Venezia (Stabilimento priv. di Giuseppe Antonelli) 1869. Qu.
-**Abbreviated title**: *Co-author*: Roberto de Visiani (1800-1878.
 
 **Notes**
+*Co-author*: Roberto de Visiani (1800-1878).
 *Publ*.: 1868-1869, p. \[i-ii\], \[1\]-292. *Copies*: FI, USDA. – Reprinted and to be cited from Atti Ist. venet. Sci. ser. 3. 14(1): 71-111 (for Nov 1868), 14(2): 303-349 (session 22 Nov 1868), 14(3): 479-519 (session Dec 1868), 14(3): 703-737 (session 30 Jan 1869), 14(6): 1091-1139 (session 21 Mar 1869), 14(8): 1503-1545 (session 23 Mai 1869), 14(9): 1735-1776 (session 20 Jan 1869). 1869.
 
 ##### n.9885. Della storia e letteratura della flora veneta

@@ -3,7 +3,7 @@
 
 ### Author
 
-Humpert, Friedrich (*fi*. 1887), German botanist and high school teacher at Bochum. 
+Humpert, Friedrich (*fl*. 1887), German botanist and high school teacher at Bochum. 
 **Abbreviated name**: *Hump.*
 
 #### Herbarium and types

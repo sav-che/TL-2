@@ -3,7 +3,7 @@
 
 ### Author
 
-Tang, T. (T'ang, Chin)( (x-1984), Chinese botanist at the Fan Memorial Institute, Peking. 
+Tang, T. (T'ang, Chin) (x-1984), Chinese botanist at the Fan Memorial Institute, Peking. 
 **Abbreviated name**: *T. Tang*
 
 #### Herbarium and types

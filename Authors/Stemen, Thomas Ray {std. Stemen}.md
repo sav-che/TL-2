@@ -3,8 +3,8 @@
 
 ### Author
 
-Sternen, Thomas Ray (1892-1968), American botanist; AB Huntington Coll. (Ind.) 1914, MA Univ. Okla. 1922; instructor in biology, Central High School, Oklahoma City 1915-1935, head science department 1935. 
-**Abbreviated name**: *Sternen*
+Stemen, Thomas Ray (1892-1968), American botanist; AB Huntington Coll. (Ind.) 1914, MA Univ. Okla. 1922; instructor in biology, Central High School, Oklahoma City 1915-1935, head science department 1935. 
+**Abbreviated name**: *Stemen*
 
 #### Herbarium and types
 

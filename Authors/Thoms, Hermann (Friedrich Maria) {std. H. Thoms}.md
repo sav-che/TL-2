@@ -3,8 +3,8 @@
 
 ### Author
 
-Thorns, Hermann \[Friedrich Maria\] (1859-1931), German (Mecklenburg) pharmacist and botanist; trained at pharmacies at Woldegk, Giessen and Koblenz; state pharmaceutical examination Jena 1884; Dr. phil. Erlangen 1886; pharmacist at Jena 1887-1889; in charge of a chemical factory in Berlin 1889-1893; editor of the Apotheker-Zeitung 1893; habil. Berlin for pharmaceutical chemistry 1895, professor's title 1896; director of the Institute of Pharmaceutical Chemistry of Berlin University 1902-1929; ordinary professor of pharmaceutical chemistry 1920, visited the United States and Japan 1923; Dr. med. h.c. Würzburg 1929; founder of the Deutsche Pharmazeutische Gesellschaft; botanically active as phytochemist. 
-**Abbreviated name**: *H. Thorns*
+Thoms, Hermann \[Friedrich Maria\] (1859-1931), German (Mecklenburg) pharmacist and botanist; trained at pharmacies at Woldegk, Giessen and Koblenz; state pharmaceutical examination Jena 1884; Dr. phil. Erlangen 1886; pharmacist at Jena 1887-1889; in charge of a chemical factory in Berlin 1889-1893; editor of the Apotheker-Zeitung 1893; habil. Berlin for pharmaceutical chemistry 1895, professor's title 1896; director of the Institute of Pharmaceutical Chemistry of Berlin University 1902-1929; ordinary professor of pharmaceutical chemistry 1920, visited the United States and Japan 1923; Dr. med. h.c. Würzburg 1929; founder of the Deutsche Pharmazeutische Gesellschaft; botanically active as phytochemist. 
+**Abbreviated name**: *H. Thoms*
 
 #### Herbarium and types
 

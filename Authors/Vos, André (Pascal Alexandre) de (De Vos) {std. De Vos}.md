@@ -1,7 +1,7 @@
 > [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33212824) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[De Vos, Cornelis {std. De Vos} (Suppl.)|second entry]] for this author
+> [!example] See also [[De Vos (Devos), André Pascal Alexander {std. A. De Vos} (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -76,7 +76,9 @@ Ehrendorfer, J. Hedge, D. Hillcoat, A. Huber-Morath, A. Patzak, M. Raymond, H. R
 
 **Title**
 *Die süd– und zentralamerikanischen Arten der Gattung Rumex*. Vorarbeiten zu einer Monographie der Gattung Rumex. III. \[Arkiv för Botanik Band 26 A. N:o 3) \[1934\]. Oct.
-**Abbreviated title**: *Publ*.: 11 Apr 1934, p. \[1\]-58, *pl. 1-6. Copies*: G, U. – Issued, and to be cited as, Arkiv för Botanik 26A(3: 1-58, *pl. 1-6.* 1934.
+
+**Notes**
+*Publ*.: 11 Apr 1934, p. \[1\]-58, *pl. 1-6. Copies*: G, U. – Issued, and to be cited as, Arkiv för Botanik 26A(3: 1-58, *pl. 1-6.* 1934).
 
 ##### n.8732. Ein neuer Rumex aus den Nordalbanischen Alpen
 

@@ -100,7 +100,7 @@ See Dawson Turner and Lewis Weston Dillwyn, The botanist's Guide through England
 
 **Title**
 *Hortus collinsonianus*. An account of the plants cultivated by the late Peter Collinson Esq., F.R.S., arranged alphabetically according to their modern names, from the catalogue of his garden, and other manuscripts. Not published. Swansea 1843. Qu.
-**Abbreviated title**: *(Hortus collins.*
+**Abbreviated title**: *Hortus collins.*
 
 **Notes**
 *Publ*.: 1843, after 8 March (preface), p. \[i\]-vii, \[1\]-164.*Copy*: IDC. – For the note "not published" see above. Important document for the history of plant introduction into England in the eighteenth century.

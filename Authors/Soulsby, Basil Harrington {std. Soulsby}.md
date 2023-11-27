@@ -28,7 +28,7 @@ Barnhart 3: 305 (b. 3 Nov 1864, d. 14 Jan 1933); BM 8: 1220; Desmond p. 574.
 
 **Title**
 *A catalogue of the works of Linnaeus* (and publications more immediately relating thereto) preserved in the libraries of the British Museum (Bloomsbury) and the British Museum (Natural History) (South Kensington). Second edition. London printed by order of the trustees of the British Museum... 1933. Qu.
-**Abbreviated title**: *Cat. works Linnaeus*) (SO.
+**Abbreviated title**: *Cat. works Linnaeus* (SO).
 
 **Notes**
 *Publ*.: 28 Oct 1933, \[i\], front. portr. Linnaeus, \[iii\]-xi, \[1\]-246, addenda and indexes \[(1)\]-(68). *Copy*: FAS. – Referred to in TL-1 and TL-2 as SO. This second edition was compiled by B.H. Soulsby; the first edition of this catalogue was by B.B. Woodward and W.R. Wilson, 1907, 27 p., ca. 580 entries. The main part of "Soulsby" has 3874 entries.

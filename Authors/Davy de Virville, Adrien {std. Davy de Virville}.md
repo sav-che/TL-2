@@ -171,7 +171,7 @@ La *flore marine des Iles Chausey*... Laval (Imprimerie-Librairie Goupil) 1938. 
 **Abbreviated title**: *Fl. Iles Chausey*.
 
 **Notes**
-*Publ*.: 1938, cover-t.p., *pl. 2* (frontisp. phot.), p. \[1\]-32, "fig"1 (old map, uncol.). *Copies*: B, L. – Reprinted and to be cited from Bull. Mayenne-Sci. 1938: 47-73, *2 pl*. 1938.
+*Publ*.: 1938, cover-t.p., *pl. 2* (frontisp. phot.), p. \[1\]-32, "fig" 1 (old map, uncol.). *Copies*: B, L. – Reprinted and to be cited from Bull. Mayenne-Sci. 1938: 47-73, *2 pl*. 1938.
 *Note*: On p. 30-32: *Liste des Algues* recueillies en Septembre 1937 aux Iles Chausey, by Gontian Georges Henri Hamel (1883-1944).
 
 ##### n.29.270. Contribution

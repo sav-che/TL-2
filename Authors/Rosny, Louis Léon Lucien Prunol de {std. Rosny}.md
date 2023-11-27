@@ -3,7 +3,7 @@
 
 ### Author
 
-Rosny, Louis Léon Lucien Prunol de (1837-1916), French orientalist and botanist; founder of the "Société d'ethnographie américaine et orientale", 1858; taught Japanese at the"École des langues orientales", Paris, 1868; assistant director of the École des hautes études, 1886. 
+Rosny, Louis Léon Lucien Prunol de (1837-1916), French orientalist and botanist; founder of the "Société d'ethnographie américaine et orientale", 1858; taught Japanese at the "École des langues orientales", Paris, 1868; assistant director of the École des hautes études, 1886. 
 **Abbreviated name**: *Rosny*
 
 #### Herbarium and types

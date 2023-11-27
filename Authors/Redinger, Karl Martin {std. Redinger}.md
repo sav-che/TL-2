@@ -59,7 +59,7 @@ The Swedish expedition to Brasil of 1892-1894 was named after Anders Fredrik Reg
 
 **Title**
 Dr. L. Rabenhorst's *Kryptogamen-Flora von Deutschland*, Österreich und der Schweiz. IX. Band, 2. Abteilung, I. Teil. Herausgegeben von Hofrat Dr. A. Zahlbruckner. Wien. Arthoniaceae, Graphidaceae... Lieferung 1 Arthoniaceae \[Lieferung 2 Graphidaceae 1 ...\]... Leipzig (Akademische Verlagsgesellschaft...) 1937 \[-1938\]. Oct.
-**Abbreviated title**: *Krypt. Fl. Deutschl. 4*(*2, 1*.
+**Abbreviated title**: *Krypt. Fl. Deutschl. 4*(*2, 1*).
 
 **Notes**
 *Lief. 1*: Jan 1937 (cover dated 1937; rd. at BR 11 Jan 1937), p. \[1\]-180.

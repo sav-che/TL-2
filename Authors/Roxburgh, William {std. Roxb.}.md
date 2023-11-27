@@ -70,7 +70,7 @@ Webbia 32(1): 14. 1977; Fl. males. 1: cli.
 
 #### Note
 
-James Roxburgh (1802-1884) and his brother Bruce R.(1797-1861), sons of William Roxburgh were respons\[fix\]áble for the publication of the *Flora indica*. The preface to the 1832 edition is signed by James Roxburgh. A third son, John Roxburgh (*fl*. 1777-1824) collected at the Cape (1798-1804), see Desmond p. 533, M. Gunn & L.E. Codd, Bot. Expl. S. Afr. 302 (1981); J. Britten, J. Bot. 56: 202-203. 1918 (denying John"s existence), D. Prain, J. Bot. 57: 28-34. 1919 (showing that John Roxburgh did exist) and Dawson 713 (two letters by John R. to Joseph Banks). William Roxburgh Jr. (*fl*. 1780-1806) collected in India and the Malay Archipelago.
+James Roxburgh (1802-1884) and his brother Bruce R.(1797-1861), sons of William Roxburgh were responsible for the publication of the *Flora indica*. The preface to the 1832 edition is signed by James Roxburgh. A third son, John Roxburgh (*fl*. 1777-1824) collected at the Cape (1798-1804), see Desmond p. 533, M. Gunn & L.E. Codd, Bot. Expl. S. Afr. 302 (1981); J. Britten, J. Bot. 56: 202-203. 1918 (denying John's existence), D. Prain, J. Bot. 57: 28-34. 1919 (showing that John Roxburgh did exist) and Dawson 713 (two letters by John R. to Joseph Banks). William Roxburgh Jr. (*fl*. 1780-1806) collected in India and the Malay Archipelago.
 
 #### Eponymy
 

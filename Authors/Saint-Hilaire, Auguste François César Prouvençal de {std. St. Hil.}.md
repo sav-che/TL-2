@@ -416,7 +416,9 @@ Horner (1953). Another copy is at the Bibliothèque nationale, Paris. The plates
 
 **Title**
 *Revue de la Flore du Brésil méridional*... \[Extrait des Annales des Sciences naturelles (Mars 1842)\]. Oct.
-**Abbreviated title**: *Co-author*: \[Edmond\] Louis René Tulasne (1815-1885). *Publ*.: Mar 1842 (in journal, p. \[1\]-15, *pl. 6-7. Copies*: B, FI. – Reprinted and to be cited from Ann. Sci. nat., Bot. ser. 2. 17: 129-143, *pl. 6-7.* Mar 1842.
+
+**Notes**
+*Co-author*: \[Edmond\] Louis René Tulasne (1815-1885). *Publ*.: Mar 1842 (in journal), p. \[1\]-15, *pl. 6-7. Copies*: B, FI. – Reprinted and to be cited from Ann. Sci. nat., Bot. ser. 2. 17: 129-143, *pl. 6-7.* Mar 1842.
 
 ##### n.10.053. Voyage aux sources du Rio de S. Francisco
 

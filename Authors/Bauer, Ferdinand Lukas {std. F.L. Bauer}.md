@@ -14,7 +14,7 @@ Bauer based his drawings of Australian plants mostly on material collected by, o
 *Ref*.: IH 2: 60.
 - Anon., Flora 10: 176. 21 Mar 1827 (sale herbarium).
 - Britten, J. Bot. 47: 140-146. 1909.
-- Anon., Kew Bull. 1934: 455"456.
+- Anon., Kew Bull. 1934: 455-456.
 - Clokie, Account herbaria Oxford 127. 1964.
 - Gilbert, Austral. Dict. Biogr. 1: 73. 1966.
 
