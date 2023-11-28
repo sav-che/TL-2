@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1033
+tl2_volume: vol2
+tl2_page_printed: 867
+tl2_surname: Levyns
+tl2_forenames: Margaret Rutherford Bryan (née Mitchell)
+tl2_name_abbrev: Levyns
+tl2_dates: 1890-1975
+tl2_page_id: 33069109
+author_lsid: 12649-1
+wikidata_id: Q6759640
+ipni_surname: Levyns
+ipni_forenames: Margaret Rutherford Bryan
+ipni_standard_form: Levyns
+ipni_dates: 1890-1975
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33069109) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

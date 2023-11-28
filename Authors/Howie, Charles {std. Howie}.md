@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0369
+tl2_volume: vol2
+tl2_page_printed: 351
+tl2_surname: Howie
+tl2_forenames: Charles
+tl2_name_abbrev: Howie
+tl2_dates: 1811-1899
+tl2_page_id: 33068593
+author_lsid: 4166-1
+wikidata_id: Q5764901
+ipni_surname: Howie
+ipni_forenames: Charles
+ipni_standard_form: Howie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

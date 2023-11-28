@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0834
+tl2_volume: vol5
+tl2_page_printed: 838
+tl2_surname: Stanger
+tl2_forenames: William
+tl2_name_abbrev: Stanger
+tl2_dates: 1811-1854
+tl2_page_id: 33333977
+author_lsid: 10023-1
+wikidata_id: Q8018715
+ipni_surname: Stanger
+ipni_forenames: William
+ipni_standard_form: Stanger
+ipni_dates: 1811-1854
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- Niger
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

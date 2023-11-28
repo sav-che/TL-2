@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0090
+tl2_volume: suppl1
+tl2_page_printed: 67
+tl2_surname: Allamand
+tl2_forenames: Jean Frédéric François Louis
+tl2_name_abbrev: Allam.
+tl2_dates: 1735, 1736 (baptized) – c. 1803
+tl2_page_id: 33264794
+author_lsid: 139-1
+wikidata_id: Q115721
+ipni_surname: Allamand
+ipni_forenames: Frédérique (Frédéric) Louis
+ipni_standard_form: F.Allam.
+ipni_dates: 1735-?1803
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-05-20 00:12:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

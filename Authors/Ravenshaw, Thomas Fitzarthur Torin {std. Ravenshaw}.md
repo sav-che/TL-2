@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0627
+tl2_volume: vol4
+tl2_page_printed: 599
+tl2_surname: Ravenshaw
+tl2_forenames: Thomas Fitzarthur Torin
+tl2_name_abbrev: Ravenshaw
+tl2_dates: 1829-1882
+tl2_page_id: 33190070
+author_lsid: 8182-1
+wikidata_id: Q21607011
+ipni_surname: Ravenshaw
+ipni_forenames: Thomas Fitzarthur Torin
+ipni_standard_form: Ravenshaw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33190070) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

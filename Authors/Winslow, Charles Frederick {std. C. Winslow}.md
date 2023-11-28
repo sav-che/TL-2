@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0333
+tl2_volume: vol7
+tl2_page_printed: 379
+tl2_surname: Winslow
+tl2_forenames: Charles Frederick
+tl2_name_abbrev: C. Winslow
+tl2_dates: 1811-1877
+tl2_page_id: 33066719
+author_lsid: 11770-1
+wikidata_id: Q5077574
+ipni_surname: Winslow
+ipni_forenames: Charles Frederick
+ipni_standard_form: C.Winslow
+ipni_dates: 1811-1877
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

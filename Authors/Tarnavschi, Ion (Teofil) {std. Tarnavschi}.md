@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0199
+tl2_volume: vol6
+tl2_page_printed: 171
+tl2_surname: Tarnavschi
+tl2_forenames: Ion [Teofil]
+tl2_name_abbrev: Tarnavschi
+tl2_dates: 1904-x
+tl2_page_id: 33212213
+author_lsid: 10431-1
+wikidata_id: Q21610199
+ipni_surname: Tarnavschi
+ipni_forenames: Ion (Teofil)
+ipni_standard_form: Tarn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33212213) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

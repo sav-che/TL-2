@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0134
+tl2_volume: vol5
+tl2_page_printed: 124
+tl2_surname: Scheidweiler
+tl2_forenames: Michel Joseph François
+tl2_name_abbrev: Scheidw.
+tl2_dates: 1799-1861
+tl2_page_id: 33333263
+author_lsid: 9037-1
+wikidata_id: Q2268288
+ipni_surname: Scheidweiler
+ipni_forenames: Michael Joseph François
+ipni_standard_form: Scheidw.
+ipni_dates: 1799-1861
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33333263) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

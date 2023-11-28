@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0001
+tl2_volume: suppl7
+tl2_page_printed: 1
+tl2_surname: Faber
+tl2_forenames: Friedrich Carl von
+tl2_name_abbrev: Faber
+tl2_dates: 1880-1954
+tl2_page_id: 33259505
+author_lsid: 33059-1
+wikidata_id: Q21512517
+ipni_surname: Faber
+ipni_forenames: Friedrich Carl von
+ipni_standard_form: Faber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259505) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0337
+tl2_volume: suppl8
+tl2_page_printed: 465
+tl2_surname: Guşuleac
+tl2_forenames: Mihail [Michail]
+tl2_name_abbrev: Guşuleac
+tl2_dates: 1887-1960
+tl2_page_id: 33258943
+author_lsid: 3497-1
+wikidata_id: Q4153111
+ipni_surname: Gușuleac
+ipni_forenames: Mihail
+ipni_standard_form: Gușul.
+ipni_dates: 1887-1960
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

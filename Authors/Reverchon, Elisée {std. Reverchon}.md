@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0727
+tl2_volume: vol4
+tl2_page_printed: 746
+tl2_surname: Reverchon
+tl2_forenames: Elisée
+tl2_name_abbrev: Reverchon
+tl2_dates: 1835-1914
+tl2_page_id: 33190217
+author_lsid: 8317-1
+wikidata_id: Q5573871
+ipni_surname: Reverchon
+ipni_forenames: Elisée
+ipni_standard_form: E.Rev.
+ipni_dates: 1835-1914
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

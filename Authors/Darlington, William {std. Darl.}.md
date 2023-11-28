@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0756
+tl2_volume: vol1
+tl2_page_printed: 598
+tl2_surname: Darlington
+tl2_forenames: William
+tl2_name_abbrev: Darl.
+tl2_dates: 1782-1863
+tl2_page_id: 33120729
+author_lsid: 1998-1
+wikidata_id: Q8007604
+ipni_surname: Darlington
+ipni_forenames: William
+ipni_standard_form: Darl.
+ipni_dates: 1782-1863
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

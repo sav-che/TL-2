@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0389
+tl2_volume: vol6
+tl2_page_printed: 368
+tl2_surname: Tison
+tl2_forenames: Adrien
+tl2_name_abbrev: A. Tison
+tl2_dates: fl. 1900-1909
+tl2_page_id: 33212410
+author_lsid: 10689-1
+wikidata_id: Q36512039
+ipni_surname: Tison
+ipni_forenames: Adrien
+ipni_standard_form: A.Tison
+ipni_dates: fl. 1900-1909
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33212410) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

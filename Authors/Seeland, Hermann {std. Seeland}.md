@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0452
+tl2_volume: vol5
+tl2_page_printed: 473
+tl2_surname: Seeland
+tl2_forenames: Hermann
+tl2_name_abbrev: Seeland
+tl2_dates: 1868-1954
+tl2_page_id: 33333612
+author_lsid: 9414-1
+wikidata_id: Q21393618
+ipni_surname: Seeland
+ipni_forenames: Hermann
+ipni_standard_form: Seeland
+ipni_dates: 1868-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

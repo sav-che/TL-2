@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0061
+tl2_volume: suppl1
+tl2_page_printed: 50
+tl2_surname: Ahlquist
+tl2_forenames: Abraham
+tl2_name_abbrev: Ahlquist
+tl2_dates: 1794-1844
+tl2_page_id: 33264739
+author_lsid: 98-1
+wikidata_id: Q5544152
+ipni_surname: Ahlquist
+ipni_forenames: Abraham
+ipni_standard_form: Ahlq.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0820
+tl2_volume: vol5
+tl2_page_printed: 823
+tl2_surname: Stache
+tl2_forenames: [Karl Heinrich Hector] Guido
+tl2_name_abbrev: Stache
+tl2_dates: 1833-1921
+tl2_page_id: 33333962
+author_lsid: 12881-1
+wikidata_id: Q1553673
+ipni_surname: Stache
+ipni_forenames: Karl Heinrich Hector Guido
+ipni_standard_form: Stache
+ipni_dates: 1833-1921
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

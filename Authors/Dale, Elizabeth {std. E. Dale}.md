@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0027
+tl2_volume: suppl5
+tl2_page_printed: 24
+tl2_surname: Dale
+tl2_forenames: Elizabeth
+tl2_name_abbrev: E. Dale
+tl2_dates: fl. 1899-1914
+tl2_page_id: 33259070
+author_lsid: 17653-1
+wikidata_id: Q30107575
+ipni_surname: Dale
+ipni_forenames: Elizabeth
+ipni_standard_form: E.Dale
+ipni_dates: fl. 1926
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

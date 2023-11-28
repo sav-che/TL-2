@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0467
+tl2_volume: vol6
+tl2_page_printed: 436
+tl2_surname: Trattinnick
+tl2_forenames: Leopold
+tl2_name_abbrev: Tratt.
+tl2_dates: 1764-1849
+tl2_page_id: 33212478
+author_lsid: 10793-1
+wikidata_id: Q698461
+ipni_surname: Trattinnick
+ipni_forenames: Leopold
+ipni_standard_form: Tratt.
+ipni_dates: 1764-1849
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33212478) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

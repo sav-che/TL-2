@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0682
+tl2_volume: vol3
+tl2_page_printed: 588
+tl2_surname: Moritz
+tl2_forenames: Johann Wilhelm Karl
+tl2_name_abbrev: Moritz
+tl2_dates: 1797-1866
+tl2_page_id: 33355675
+author_lsid: 6661-1
+wikidata_id: Q101052
+ipni_surname: Moritz
+ipni_forenames: Johann Wilhelm Karl
+ipni_standard_form: Moritz
+ipni_dates: 1797-1866
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33355675) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

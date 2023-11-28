@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0358
+tl2_volume: vol4
+tl2_page_printed: 303
+tl2_surname: Pluskal (Pluska-Moravicanský)
+tl2_forenames: Franiscek Sal.
+tl2_name_abbrev: Pluskal
+tl2_dates: 1811-1901
+tl2_page_id: 33189774
+author_lsid: 7767-1
+wikidata_id: Q12017419
+ipni_surname: Pluskal
+ipni_forenames: Franisček Sal.
+ipni_standard_form: Pluskal
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

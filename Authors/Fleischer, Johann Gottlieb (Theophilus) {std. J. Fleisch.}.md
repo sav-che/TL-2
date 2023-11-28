@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1042
+tl2_volume: vol1
+tl2_page_printed: 843
+tl2_surname: Fleischer
+tl2_forenames: Johann Gottlieb (Theophilus)
+tl2_name_abbrev: J. Fleisch.
+tl2_dates: 1797-1838
+tl2_page_id: 33120974
+author_lsid: 2776-1
+wikidata_id: Q6215912
+ipni_surname: Fleischer
+ipni_forenames: Johann Gottlieb (Theophilus)
+ipni_standard_form: J.Fleisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

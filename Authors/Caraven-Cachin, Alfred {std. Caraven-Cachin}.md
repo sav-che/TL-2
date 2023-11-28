@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0364
+tl2_volume: suppl3
+tl2_page_printed: 400
+tl2_surname: Caraven-Cachin
+tl2_forenames: Alfred
+tl2_name_abbrev: Caraven-Cachin
+tl2_dates: 1839-1903
+tl2_page_id: 33266707
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

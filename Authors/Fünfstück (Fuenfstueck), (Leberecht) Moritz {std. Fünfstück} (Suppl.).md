@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0052
+tl2_volume: suppl8
+tl2_page_printed: 72
+tl2_surname: Fünfstück [Fuenfstueck]
+tl2_forenames: [Leberecht] Moritz
+tl2_name_abbrev: Fünfstück
+tl2_dates: 1856-1925
+tl2_page_id: 33258550
+author_lsid: 2951-1
+wikidata_id: Q1519120
+ipni_surname: Fünfstück
+ipni_forenames: Leberecht Moritz
+ipni_standard_form: Fünfstück
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

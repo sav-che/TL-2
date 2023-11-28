@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0402
+tl2_volume: vol5
+tl2_page_printed: 423
+tl2_surname: Schwartz
+tl2_forenames: Oskar
+tl2_name_abbrev: O. Schwartz
+tl2_dates: 1901-1945
+tl2_page_id: 33333562
+author_lsid: 9354-1
+wikidata_id: Q19001899
+ipni_surname: Schwartz
+ipni_forenames: Oskar
+ipni_standard_form: O.Schwartz
+ipni_dates: 1901-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

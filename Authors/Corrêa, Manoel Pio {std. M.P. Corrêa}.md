@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0299
+tl2_volume: suppl4
+tl2_page_printed: 369
+tl2_surname: Corrêa
+tl2_forenames: Manoel Pio
+tl2_name_abbrev: M.P. Corrêa
+tl2_dates: 1874-1934
+tl2_page_id: 33266046
+author_lsid: 1811-1
+wikidata_id: Q82313
+ipni_surname: Corrêa
+ipni_forenames: Manoel Pio
+ipni_standard_form: M.P.Corrêa
+ipni_dates: 1874-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33266046) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

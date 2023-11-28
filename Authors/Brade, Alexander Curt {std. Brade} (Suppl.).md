@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0004
+tl2_volume: suppl3
+tl2_page_printed: 3
+tl2_surname: Brade
+tl2_forenames: Alexander Curt
+tl2_name_abbrev: Brade
+tl2_dates: 1881-1971
+tl2_page_id: 33266310
+author_lsid: 1056-1
+wikidata_id: Q5650096
+ipni_surname: Brade
+ipni_forenames: Alexander Curt
+ipni_standard_form: Brade
+ipni_dates: 1881-1971
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33266310) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

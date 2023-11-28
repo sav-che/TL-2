@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0175
+tl2_volume: suppl4
+tl2_page_printed: 223
+tl2_surname: Clos
+tl2_forenames: Dominique
+tl2_name_abbrev: Clos
+tl2_dates: 1821-1908
+tl2_page_id: 33265900
+author_lsid: 1703-1
+wikidata_id: Q3035078
+ipni_surname: Clos
+ipni_forenames: Dominique
+ipni_standard_form: Clos
+ipni_dates: 1821-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265900) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

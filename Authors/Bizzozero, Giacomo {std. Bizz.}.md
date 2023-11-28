@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0295
+tl2_volume: vol1
+tl2_page_printed: 224
+tl2_surname: Bizzozero
+tl2_forenames: Giacomo
+tl2_name_abbrev: Bizz.
+tl2_dates: 1852-1885
+tl2_page_id: 33120355
+author_lsid: 16177-1
+wikidata_id: Q21506156
+ipni_surname: Bizzozero
+ipni_forenames: Giacomo
+ipni_standard_form: Bizz.
+ipni_dates: 1852-1885
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

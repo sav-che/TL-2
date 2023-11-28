@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0187
+tl2_volume: vol4
+tl2_page_printed: 167
+tl2_surname: Perktold
+tl2_forenames: Josef Anton
+tl2_name_abbrev: Perktold
+tl2_dates: 1804-1870
+tl2_page_id: 33189638
+author_lsid: 24736-1
+wikidata_id: Q21522832
+ipni_surname: Perktold
+ipni_forenames: Josef Anton
+ipni_standard_form: Perktold
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33189638) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0276
+tl2_volume: suppl5
+tl2_page_printed: 239
+tl2_surname: Detmers
+tl2_forenames: Fredericka [Freda]
+tl2_name_abbrev: Detmers
+tl2_dates: 1867-1934
+tl2_page_id: 33259285
+author_lsid: 20017439-1
+wikidata_id: Q16856167
+ipni_surname: Detmers
+ipni_forenames: Freda
+ipni_standard_form: Detmers
+ipni_dates: 1867-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2011-02-24 11:07:54.0
+ipni_record_modified: 2013-05-15 11:41:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259285) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

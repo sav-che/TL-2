@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0309
+tl2_volume: suppl6
+tl2_page_printed: 275
+tl2_surname: Eichholz
+tl2_forenames: Georg
+tl2_name_abbrev: Eichholz
+tl2_dates: 1861-1886
+tl2_page_id: 33260263
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

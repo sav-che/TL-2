@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0695
+tl2_volume: vol2
+tl2_page_printed: 574
+tl2_surname: Kneiff
+tl2_forenames: Friedrich Gotthard
+tl2_name_abbrev: Kneiff
+tl2_dates: 1785-1832
+tl2_page_id: 33068816
+author_lsid: 4866-1
+wikidata_id: Q21517621
+ipni_surname: Kneiff
+ipni_forenames: Friedrich Gotthard
+ipni_standard_form: Kneiff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

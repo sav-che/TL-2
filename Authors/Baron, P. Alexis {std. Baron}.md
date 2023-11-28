@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0169
+tl2_volume: vol1
+tl2_page_printed: 123
+tl2_surname: Baron
+tl2_forenames: P. Alexis
+tl2_name_abbrev: Baron
+tl2_dates: 1754-?
+tl2_page_id: 33120254
+author_lsid: 495-1
+wikidata_id: Q21505699
+ipni_surname: Baron
+ipni_forenames: P.Alexis
+ipni_standard_form: Baron
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

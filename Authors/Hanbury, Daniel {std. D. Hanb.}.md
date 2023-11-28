@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0051
+tl2_volume: vol2
+tl2_page_printed: 39
+tl2_surname: Hanbury
+tl2_forenames: Daniel
+tl2_name_abbrev: D. Hanb.
+tl2_dates: 1825-1875
+tl2_page_id: 33068281
+author_lsid: 3607-1
+wikidata_id: Q5217417
+ipni_surname: Hanbury
+ipni_forenames: Daniel
+ipni_standard_form: D.Hanb.
+ipni_dates: 1825-1875
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

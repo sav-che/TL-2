@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0212
+tl2_volume: suppl2
+tl2_page_printed: 173
+tl2_surname: Biroli
+tl2_forenames: Giovanni
+tl2_name_abbrev: Biroli
+tl2_dates: 1772-1825
+tl2_page_id: 33265370
+author_lsid: 16151-1
+wikidata_id: Q18221407
+ipni_surname: Biroli
+ipni_forenames: Giovanni
+ipni_standard_form: Biroli
+ipni_dates: 1772-1825
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

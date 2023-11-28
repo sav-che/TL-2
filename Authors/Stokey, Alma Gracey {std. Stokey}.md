@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0020
+tl2_volume: vol6
+tl2_page_printed: 17
+tl2_surname: Stokey
+tl2_forenames: Alma Gracey
+tl2_name_abbrev: Stokey
+tl2_dates: 1877-1968
+tl2_page_id: 33212077
+author_lsid: 10168-1
+wikidata_id: Q21609881
+ipni_surname: Stokey
+ipni_forenames: Alma Gracey
+ipni_standard_form: Stokey
+ipni_dates: 1877-1968
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33212077) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

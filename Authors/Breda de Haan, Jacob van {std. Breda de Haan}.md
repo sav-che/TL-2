@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0051
+tl2_volume: suppl3
+tl2_page_printed: 46
+tl2_surname: Breda de Haan
+tl2_forenames: Jacob van
+tl2_name_abbrev: Breda de Haan
+tl2_dates: 1866-1917
+tl2_page_id: 33266353
+author_lsid: 16494-1
+wikidata_id: Q21388378
+ipni_surname: Breda de Haan
+ipni_forenames: Jacob van
+ipni_standard_form: Breda de Haan
+ipni_dates: 1866-1917
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33266353) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

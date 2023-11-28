@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0253
+tl2_volume: vol3
+tl2_page_printed: 235
+tl2_surname: Macquart
+tl2_forenames: Justin [Jean] [Pierre Marie]
+tl2_name_abbrev: Macquart
+tl2_dates: 1778-1855
+tl2_page_id: 33355322
+author_lsid: 5955-1
+wikidata_id: Q919406
+ipni_surname: Macquart
+ipni_forenames: Justin (Jean) (Pierre Marie)
+ipni_standard_form: Macquart
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

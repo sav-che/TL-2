@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0300
+tl2_volume: vol5
+tl2_page_printed: 302
+tl2_surname: Schopfer
+tl2_forenames: William Henri
+tl2_name_abbrev: Schopfer
+tl2_dates: 1900-1962
+tl2_page_id: 33333441
+author_lsid: 9233-1
+wikidata_id: Q17194423
+ipni_surname: Schopfer
+ipni_forenames: William Henri
+ipni_standard_form: W.H.Schopfer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33333441) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

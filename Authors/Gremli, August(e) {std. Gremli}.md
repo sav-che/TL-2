@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1251
+tl2_volume: vol1
+tl2_page_printed: 997
+tl2_surname: Gremli
+tl2_forenames: August(e)
+tl2_name_abbrev: Gremli
+tl2_dates: 1833-1899
+tl2_page_id: 33121128
+author_lsid: 12519-1
+wikidata_id: Q122022
+ipni_surname: Gremli
+ipni_forenames: August(e)
+ipni_standard_form: Gremli
+ipni_dates: 1833-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33121128) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

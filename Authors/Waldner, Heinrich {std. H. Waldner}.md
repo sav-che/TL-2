@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0036
+tl2_volume: vol7
+tl2_page_printed: 29
+tl2_surname: Waldner
+tl2_forenames: Heinrich
+tl2_name_abbrev: H. Waldner
+tl2_dates: fl. 1880
+tl2_page_id: 33066369
+author_lsid: 11330-1
+wikidata_id: Q36580139
+ipni_surname: Waldner
+ipni_forenames: Heinrich
+ipni_standard_form: H.Waldner
+ipni_dates: fl. 1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

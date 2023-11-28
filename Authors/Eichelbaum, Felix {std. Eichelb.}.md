@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0307
+tl2_volume: suppl6
+tl2_page_printed: 274
+tl2_surname: Eichelbaum
+tl2_forenames: Felix
+tl2_name_abbrev: Eichelb.
+tl2_dates: 1848-1922
+tl2_page_id: 33260262
+author_lsid: 34312-1
+wikidata_id: Q36553655
+ipni_surname: Eichelbaum
+ipni_forenames: F.
+ipni_standard_form: Eichelb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33260262) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

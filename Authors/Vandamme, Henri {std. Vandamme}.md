@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0639
+tl2_volume: vol6
+tl2_page_printed: 656
+tl2_surname: Vandamme
+tl2_forenames: Henri
+tl2_name_abbrev: Vandamme
+tl2_dates: 1803-?
+tl2_page_id: 33212698
+author_lsid: 11044-1
+wikidata_id: Q21611445
+ipni_surname: Vandamme
+ipni_forenames: Henri
+ipni_standard_form: Vandamme
+ipni_dates: 1803-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

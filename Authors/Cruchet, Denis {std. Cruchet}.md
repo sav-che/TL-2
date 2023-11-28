@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0400
+tl2_volume: suppl4
+tl2_page_printed: 484
+tl2_surname: Cruchet
+tl2_forenames: Denis
+tl2_name_abbrev: Cruchet
+tl2_dates: 1847-1926
+tl2_page_id: 33266161
+author_lsid: 1894-1
+wikidata_id: Q21509570
+ipni_surname: Cruchet
+ipni_forenames: Denis
+ipni_standard_form: Cruchet
+ipni_dates: 1847-1926
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

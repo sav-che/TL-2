@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0888
+tl2_volume: vol3
+tl2_page_printed: 752
+tl2_surname: Niethammer
+tl2_forenames: Anneliese
+tl2_name_abbrev: Niethammer
+tl2_dates: 1901-x
+tl2_page_id: 33355839
+author_lsid: 6982-1
+wikidata_id: Q566171
+ipni_surname: Niethammer
+ipni_forenames: Anneliese
+ipni_standard_form: Nieth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

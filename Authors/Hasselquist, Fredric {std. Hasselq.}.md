@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0109
+tl2_volume: vol2
+tl2_page_printed: 93
+tl2_surname: Hasselquist
+tl2_forenames: Fredric
+tl2_name_abbrev: Hasselq.
+tl2_dates: 1722-1752
+tl2_page_id: 33068335
+author_lsid: 3716-1
+wikidata_id: Q720017
+ipni_surname: Hasselquist
+ipni_forenames: Fredric
+ipni_standard_form: Hasselq.
+ipni_dates: 1722-1752
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33068335) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

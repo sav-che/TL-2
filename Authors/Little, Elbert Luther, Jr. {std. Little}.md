@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0073
+tl2_volume: vol3
+tl2_page_printed: 121
+tl2_surname: Little
+tl2_forenames: Elbert Luther, Jr.
+tl2_name_abbrev: Little
+tl2_dates: 1907-x
+tl2_page_id: 33355208
+author_lsid: 22433-1
+wikidata_id: Q2917869
+ipni_surname: Little
+ipni_forenames: Elbert Luther
+ipni_standard_form: Little
+ipni_dates: 1907-2004
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-01-26 09:29:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

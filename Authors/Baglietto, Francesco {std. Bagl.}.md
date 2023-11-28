@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0129
+tl2_volume: vol1
+tl2_page_printed: 90
+tl2_surname: Baglietto
+tl2_forenames: Francesco
+tl2_name_abbrev: Bagl.
+tl2_dates: 1826-1916
+tl2_page_id: 33120221
+author_lsid: 31177-1
+wikidata_id: Q3749589
+ipni_surname: Baglietto
+ipni_forenames: Francesco
+ipni_standard_form: Bagl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

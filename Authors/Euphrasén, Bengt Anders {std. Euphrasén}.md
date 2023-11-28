@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0975
+tl2_volume: vol1
+tl2_page_printed: 806
+tl2_surname: Euphrasén
+tl2_forenames: Bengt Anders
+tl2_name_abbrev: Euphrasén
+tl2_dates: 1756-1796
+tl2_page_id: 33120937
+author_lsid: 2588-1
+wikidata_id: Q456738
+ipni_surname: Euphrasén
+ipni_forenames: Bengt Anders
+ipni_standard_form: Euphrasén
+ipni_dates: 1756-1796
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0598
+tl2_volume: vol2
+tl2_page_printed: 510
+tl2_surname: Kearney
+tl2_forenames: Thomas Henry
+tl2_name_abbrev: Kearn.
+tl2_dates: 1874-1956
+tl2_page_id: 33068752
+author_lsid: 4689-1
+wikidata_id: Q15726720
+ipni_surname: Kearney
+ipni_forenames: Thomas Henry
+ipni_standard_form: Kearney
+ipni_dates: 1874-1956
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

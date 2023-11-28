@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0679
+tl2_volume: vol4
+tl2_page_printed: 694
+tl2_surname: Reichgelt
+tl2_forenames: Theodoras Johannes
+tl2_name_abbrev: Reichgelt
+tl2_dates: 1903-1966
+tl2_page_id: 33190165
+author_lsid: 8257-1
+wikidata_id: Q6145751
+ipni_surname: Reichgelt
+ipni_forenames: Theodorus Johannes
+ipni_standard_form: Reichg.
+ipni_dates: 1903-1966
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

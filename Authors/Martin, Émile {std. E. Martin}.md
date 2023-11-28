@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0375
+tl2_volume: vol3
+tl2_page_printed: 319
+tl2_surname: Martin
+tl2_forenames: Émile
+tl2_name_abbrev: E. Martin
+tl2_dates: 1810-1895
+tl2_page_id: 33355406
+author_lsid: 6157-1
+wikidata_id: Q21520007
+ipni_surname: Martin
+ipni_forenames: Émile (Pierre)
+ipni_standard_form: E.Martin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33355406) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

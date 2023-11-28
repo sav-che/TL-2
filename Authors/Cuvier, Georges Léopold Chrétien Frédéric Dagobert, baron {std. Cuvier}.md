@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0732
+tl2_volume: vol1
+tl2_page_printed: 585
+tl2_surname: Cuvier
+tl2_forenames: Georges Léopold Chrétien Frédéric Dagobert, baron
+tl2_name_abbrev: Cuvier
+tl2_dates: 1769-1832
+tl2_page_id: 33120716
+author_lsid: 1939-1
+wikidata_id: Q171969
+ipni_surname: Cuvier
+ipni_forenames: Georges Léopold Chrétien Frédéric Dagobert
+ipni_standard_form: Cuvier
+ipni_dates: 1769-1832
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33120716) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

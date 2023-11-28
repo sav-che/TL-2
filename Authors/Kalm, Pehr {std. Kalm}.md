@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0572
+tl2_volume: vol2
+tl2_page_printed: 487
+tl2_surname: Kalm
+tl2_forenames: Pehr
+tl2_name_abbrev: Kalm
+tl2_dates: 1716-1779
+tl2_page_id: 33068729
+author_lsid: 4622-1
+wikidata_id: Q719204
+ipni_surname: Kalm
+ipni_forenames: Pehr
+ipni_standard_form: Kalm
+ipni_dates: 1716-1779
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Canada
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33068729) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

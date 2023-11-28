@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0075
+tl2_volume: vol6
+tl2_page_printed: 56
+tl2_surname: Studt
+tl2_forenames: Werner
+tl2_name_abbrev: Studt
+tl2_dates: 1894-x
+tl2_page_id: 33212060
+author_lsid: 10246-1
+wikidata_id: Q21609974
+ipni_surname: Studt
+ipni_forenames: Werner
+ipni_standard_form: Studt
+ipni_dates: 1894-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33212060) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

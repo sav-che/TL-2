@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0091
+tl2_volume: suppl7
+tl2_page_printed: 140
+tl2_surname: Ferguson
+tl2_forenames: Margaret Clay
+tl2_name_abbrev: M.C. Ferguson
+tl2_dates: 1863-1951
+tl2_page_id: 33259644
+author_lsid: 2688-1
+wikidata_id: Q15998069
+ipni_surname: Ferguson
+ipni_forenames: Margaret Clay
+ipni_standard_form: M.C.Ferguson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259644) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

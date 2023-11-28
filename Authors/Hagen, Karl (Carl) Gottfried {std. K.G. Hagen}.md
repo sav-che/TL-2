@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0016
+tl2_volume: vol2
+tl2_page_printed: 11
+tl2_surname: Hagen
+tl2_forenames: Karl [Carl] Gottfried
+tl2_name_abbrev: K.G. Hagen
+tl2_dates: 1749-1829
+tl2_page_id: 33068253
+author_lsid: 3543-1
+wikidata_id: Q91918
+ipni_surname: Hagen
+ipni_forenames: Karl (Carl) Gottfried
+ipni_standard_form: K.G.Hagen
+ipni_dates: 1749-1829
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

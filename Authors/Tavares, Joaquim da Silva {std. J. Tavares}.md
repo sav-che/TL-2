@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0218
+tl2_volume: vol6
+tl2_page_printed: 185
+tl2_surname: Tavares
+tl2_forenames: Joaquim da Silva
+tl2_name_abbrev: J. Tavares
+tl2_dates: 1866-1931
+tl2_page_id: 33212227
+author_lsid: 10456-1
+wikidata_id: Q10307467
+ipni_surname: Tavares
+ipni_forenames: Joaquim(Joachim) da Silva
+ipni_standard_form: J.Tav.
+ipni_dates: 1866-1931
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

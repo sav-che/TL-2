@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0431
+tl2_volume: vol2
+tl2_page_printed: 394
+tl2_surname: Jack
+tl2_forenames: Joseph Bernhard
+tl2_name_abbrev: J.B. Jack
+tl2_dates: 1818-1901
+tl2_page_id: 33068636
+author_lsid: 4356-1
+wikidata_id: Q21516847
+ipni_surname: Jack
+ipni_forenames: Joseph Bernard (Josef Bernhard)
+ipni_standard_form: J.B.Jack
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33068636) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

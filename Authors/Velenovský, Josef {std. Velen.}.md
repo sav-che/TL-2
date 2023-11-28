@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0674
+tl2_volume: vol6
+tl2_page_printed: 691
+tl2_surname: Velenovský
+tl2_forenames: Josef
+tl2_name_abbrev: Velen.
+tl2_dates: 1858-1949
+tl2_page_id: 33212733
+author_lsid: 28305-1
+wikidata_id: Q950581
+ipni_surname: Velenovský
+ipni_forenames: Josef(Joseph)
+ipni_standard_form: Velen.
+ipni_dates: 1858-1949
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33212733) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

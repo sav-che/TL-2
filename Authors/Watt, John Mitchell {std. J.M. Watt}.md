@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0108
+tl2_volume: vol7
+tl2_page_printed: 109
+tl2_surname: Watt
+tl2_forenames: John Mitchell
+tl2_name_abbrev: J.M. Watt
+tl2_dates: 1892-1980
+tl2_page_id: 33066449
+author_lsid: 11443-1
+wikidata_id: Q21612289
+ipni_surname: Watt
+ipni_forenames: John Mitchell
+ipni_standard_form: J.M.Watt
+ipni_dates: 1892-1980
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

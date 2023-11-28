@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1066
+tl2_volume: vol4
+tl2_page_printed: 1049
+tl2_surname: Saelan
+tl2_forenames: [Anders] Thiodolf
+tl2_name_abbrev: Saelan
+tl2_dates: 1834-1921
+tl2_page_id: 33190520
+author_lsid: 8800-1
+wikidata_id: Q6088004
+ipni_surname: Saelan
+ipni_forenames: Anders Thiodolf
+ipni_standard_form: Saelan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

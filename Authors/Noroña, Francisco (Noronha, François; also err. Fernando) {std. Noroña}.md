@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0922
+tl2_volume: vol3
+tl2_page_printed: 773
+tl2_surname: Noroña
+tl2_forenames: Francisco (Noronha, François; also err. Fernando)
+tl2_name_abbrev: Noroña
+tl2_dates: ca. 1748-1788
+tl2_page_id: 33355860
+author_lsid: 7038-1
+wikidata_id: Q332408
+ipni_surname: Noroña
+ipni_forenames: Francisco
+ipni_standard_form: Noronha
+ipni_dates: c.1748-1787
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0438
+tl2_volume: vol1
+tl2_page_printed: 350
+tl2_surname: Brockmüller
+tl2_forenames: Hans Joachim Heinrich
+tl2_name_abbrev: Brockm.
+tl2_dates: 1821-1882
+tl2_page_id: 33120481
+author_lsid: 1167-1
+wikidata_id: Q18342448
+ipni_surname: Brockmüller
+ipni_forenames: Hans Joachim Heinrich
+ipni_standard_form: Brockm.
+ipni_dates: 1821-1882
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Cryptogamic
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33120481) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

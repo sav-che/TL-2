@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0105
+tl2_volume: suppl4
+tl2_page_printed: 136
+tl2_surname: Chomette
+tl2_forenames: A.
+tl2_name_abbrev: Chomette
+tl2_dates: fl. 1906
+tl2_page_id: 33265813
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33265813) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

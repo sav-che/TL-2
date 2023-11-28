@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0259
+tl2_volume: vol2
+tl2_page_printed: 212
+tl2_surname: Hisinger
+tl2_forenames: Wilhelm [von]
+tl2_name_abbrev: Hising.
+tl2_dates: 1766-1852
+tl2_page_id: 33068454
+author_lsid: 3971-1
+wikidata_id: Q900478
+ipni_surname: Hisinger
+ipni_forenames: Wilhelm
+ipni_standard_form: Hising.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

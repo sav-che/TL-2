@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0545
+tl2_volume: vol3
+tl2_page_printed: 455
+tl2_surname: Michalet
+tl2_forenames: [Louis] Eugène
+tl2_name_abbrev: Michalet
+tl2_dates: 1826-1862
+tl2_page_id: 33355542
+author_lsid: 6430-1
+wikidata_id: Q5981478
+ipni_surname: Michalet
+ipni_forenames: (Louis) Eugène
+ipni_standard_form: Michalet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

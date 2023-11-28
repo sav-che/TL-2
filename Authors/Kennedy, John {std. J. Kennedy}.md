@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0616
+tl2_volume: vol2
+tl2_page_printed: 521
+tl2_surname: Kennedy
+tl2_forenames: John
+tl2_name_abbrev: J. Kennedy
+tl2_dates: 1759-1842
+tl2_page_id: 33068763
+author_lsid: 4727-1
+wikidata_id: Q21517432
+ipni_surname: Kennedy
+ipni_forenames: John
+ipni_standard_form: J.Kenn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

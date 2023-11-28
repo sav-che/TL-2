@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0059
+tl2_volume: suppl7
+tl2_page_printed: 77
+tl2_surname: Faye
+tl2_forenames: [Antoine Honoré] Léon
+tl2_name_abbrev: Faye
+tl2_dates: 1810-1855
+tl2_page_id: 33259581
+author_lsid: 2654-1
+wikidata_id: Q21512703
+ipni_surname: Faye
+ipni_forenames: Léon
+ipni_standard_form: Faye
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

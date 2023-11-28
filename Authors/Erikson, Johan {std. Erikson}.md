@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0401
+tl2_volume: suppl6
+tl2_page_printed: 390
+tl2_surname: Erikson
+tl2_forenames: Johan
+tl2_name_abbrev: Erikson
+tl2_dates: 1862-1938
+tl2_page_id: 33260378
+author_lsid: 20031380-1
+wikidata_id: Q24019256
+ipni_surname: Erikson
+ipni_forenames: Johan
+ipni_standard_form: J.Erikson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33260378) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

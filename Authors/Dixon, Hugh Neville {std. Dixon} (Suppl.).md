@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0361
+tl2_volume: suppl5
+tl2_page_printed: 363
+tl2_surname: Dixon
+tl2_forenames: Hugh Neville
+tl2_name_abbrev: Dixon
+tl2_dates: 1861-1944
+tl2_page_id: 33259409
+author_lsid: 18076-1
+wikidata_id: Q5904348
+ipni_surname: Dixon
+ipni_forenames: Hugh Neville
+ipni_standard_form: Dixon
+ipni_dates: 1861-1944
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259409) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

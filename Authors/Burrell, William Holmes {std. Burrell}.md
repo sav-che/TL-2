@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0254
+tl2_volume: suppl3
+tl2_page_printed: 260
+tl2_surname: Burrell
+tl2_forenames: William Holmes
+tl2_name_abbrev: Burrell
+tl2_dates: 1865-1945
+tl2_page_id: 33266567
+author_lsid: 16746-1
+wikidata_id: Q21506703
+ipni_surname: Burrell
+ipni_forenames: William Holmes
+ipni_standard_form: Burrell
+ipni_dates: 1865-1945
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33266567) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

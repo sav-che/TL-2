@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0302
+tl2_volume: suppl6
+tl2_page_printed: 269
+tl2_surname: Eggler
+tl2_forenames: Josef
+tl2_name_abbrev: Eggler
+tl2_dates: 1896-x
+tl2_page_id: 33260257
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33260257) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

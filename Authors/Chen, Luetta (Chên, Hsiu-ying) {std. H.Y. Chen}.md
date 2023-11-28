@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0070
+tl2_volume: suppl4
+tl2_page_printed: 78
+tl2_surname: Chen
+tl2_forenames: Luetta (Chên, Hsiu-ying)
+tl2_name_abbrev: H.Y. Chen
+tl2_dates: fl. 1934-1939
+tl2_page_id: 33265755
+author_lsid: 13724-1
+wikidata_id: Q21340904
+ipni_surname: Chen
+ipni_forenames: Hsiu Ying
+ipni_standard_form: H.Y.Chen
+ipni_dates: fl. 1935
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-10-03 13:38:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

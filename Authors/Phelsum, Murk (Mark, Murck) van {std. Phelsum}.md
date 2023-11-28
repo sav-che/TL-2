@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0265
+tl2_volume: vol4
+tl2_page_printed: 231
+tl2_surname: Phelsum
+tl2_forenames: Murk [Mark, Murck] van
+tl2_name_abbrev: Phelsum
+tl2_dates: fl. 1769, d. ca. 1780
+tl2_page_id: 33189702
+author_lsid: 7630-1
+wikidata_id: Q389064
+ipni_surname: Phelsum
+ipni_forenames: Murk(Murck,Mark) van
+ipni_standard_form: Phelsum
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

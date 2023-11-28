@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0067
+tl2_volume: vol7
+tl2_page_printed: 55
+tl2_surname: Walz.
+tl2_forenames: Jacob Jacoblevic
+tl2_name_abbrev: J. Walz
+tl2_dates: 1840-1904
+tl2_page_id: 33066395
+author_lsid: 11379-1
+wikidata_id: Q21612127
+ipni_surname: Walz
+ipni_forenames: Jacob Jacoblevič
+ipni_standard_form: J.Walz
+ipni_dates: 1840-1904
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33066395) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

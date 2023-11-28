@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0715
+tl2_volume: vol6
+tl2_page_printed: 735
+tl2_surname: Vietz
+tl2_forenames: Ferdinand Bernhard
+tl2_name_abbrev: Vietz
+tl2_dates: 1772-1815
+tl2_page_id: 33212777
+author_lsid: 11179-1
+wikidata_id: Q5443805
+ipni_surname: Vietz
+ipni_forenames: Ferdinand Bernhard
+ipni_standard_form: Vietz
+ipni_dates: 1772-1815
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

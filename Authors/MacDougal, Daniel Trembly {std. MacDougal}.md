@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0223
+tl2_volume: vol3
+tl2_page_printed: 216
+tl2_surname: MacDougal
+tl2_forenames: Daniel Trembly
+tl2_name_abbrev: MacDougal
+tl2_dates: 1865-1958
+tl2_page_id: 33355303
+author_lsid: 35183-1
+wikidata_id: Q2677374
+ipni_surname: MacDougal
+ipni_forenames: Daniel Trembly
+ipni_standard_form: MacDougal
+ipni_dates: 1865-1958
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

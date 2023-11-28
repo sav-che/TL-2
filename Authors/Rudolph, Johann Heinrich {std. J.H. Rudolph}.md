@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1002
+tl2_volume: vol4
+tl2_page_printed: 972
+tl2_surname: Rudolph
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: J.H. Rudolph
+tl2_dates: 1744-1809
+tl2_page_id: 33190443
+author_lsid: 8710-1
+wikidata_id: Q4399726
+ipni_surname: Rudolph
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Rudolph
+ipni_dates: 1744-1809
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

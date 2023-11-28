@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0382
+tl2_volume: vol6
+tl2_page_printed: 362
+tl2_surname: Timm
+tl2_forenames: Joachim Christian
+tl2_name_abbrev: Timm
+tl2_dates: 1734-1805
+tl2_page_id: 33212404
+author_lsid: 10676-1
+wikidata_id: Q327915
+ipni_surname: Timm
+ipni_forenames: Joachim Christian
+ipni_standard_form: Timm
+ipni_dates: 1734-1805
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

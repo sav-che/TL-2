@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1235
+tl2_volume: vol1
+tl2_page_printed: 979
+tl2_surname: Gran
+tl2_forenames: Haaken Hasberg
+tl2_name_abbrev: Gran
+tl2_dates: 1870-1955
+tl2_page_id: 33121110
+author_lsid: 3323-1
+wikidata_id: Q5636481
+ipni_surname: Gran
+ipni_forenames: Haaken Hasberg
+ipni_standard_form: Gran
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

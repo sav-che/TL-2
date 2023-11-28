@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0556
+tl2_volume: vol4
+tl2_page_printed: 539
+tl2_surname: Radermacher
+tl2_forenames: Jacobus Cornelius Matthaeus
+tl2_name_abbrev: Radermacher
+tl2_dates: 1741-1783
+tl2_page_id: 33190010
+author_lsid: 8081-1
+wikidata_id: Q945130
+ipni_surname: Radermacher
+ipni_forenames: Jacobus Cornelius Matthaeus
+ipni_standard_form: Raderm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

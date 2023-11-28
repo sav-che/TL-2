@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0235
+tl2_volume: vol6
+tl2_page_printed: 199
+tl2_surname: Tehon
+tl2_forenames: Leo Roy
+tl2_name_abbrev: Tehon
+tl2_dates: 1895-1954
+tl2_page_id: 33212241
+author_lsid: 27591-1
+wikidata_id: Q21610356
+ipni_surname: Tehon
+ipni_forenames: Leo Roy
+ipni_standard_form: Tehon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0021
+tl2_volume: vol4
+tl2_page_printed: 12
+tl2_surname: Paley
+tl2_forenames: Frederick Apthorp
+tl2_name_abbrev: Paley
+tl2_dates: 1815-1888
+tl2_page_id: 33189503
+author_lsid: 7267-1
+wikidata_id: Q5497260
+ipni_surname: Paley
+ipni_forenames: Frederick Apthorp
+ipni_standard_form: Paley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

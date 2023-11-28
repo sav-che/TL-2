@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0737
+tl2_volume: vol6
+tl2_page_printed: 759
+tl2_surname: Vitman
+tl2_forenames: Fulgenzio
+tl2_name_abbrev: Vitm.
+tl2_dates: 1728-1806
+tl2_page_id: 33212801
+author_lsid: 11221-1
+wikidata_id: Q4112427
+ipni_surname: Vitman
+ipni_forenames: Fulgenzio
+ipni_standard_form: Vitman
+ipni_dates: 1728-1806
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33212801) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

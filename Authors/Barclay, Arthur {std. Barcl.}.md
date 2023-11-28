@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0365
+tl2_volume: suppl1
+tl2_page_printed: 323
+tl2_surname: Barclay
+tl2_forenames: Arthur
+tl2_name_abbrev: Barcl.
+tl2_dates: 1852-1891
+tl2_page_id: 33265050
+author_lsid: 31317-1
+wikidata_id: Q21505653
+ipni_surname: Barclay
+ipni_forenames: Arthur
+ipni_standard_form: Barclay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265050) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

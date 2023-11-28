@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0008
+tl2_volume: vol5
+tl2_page_printed: 11
+tl2_surname: Salmon
+tl2_forenames: John Drew
+tl2_name_abbrev: J.D. Salmon
+tl2_dates: ca. 1802-1859
+tl2_page_id: 33333172
+author_lsid: 8850-1
+wikidata_id: Q18071273
+ipni_surname: Salmon
+ipni_forenames: John Drew
+ipni_standard_form: Salmon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33333172) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

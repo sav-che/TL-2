@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0293
+tl2_volume: suppl8
+tl2_page_printed: 408
+tl2_surname: Grøntved [Gröntved]
+tl2_forenames: Johannes
+tl2_name_abbrev: Grøntved
+tl2_dates: 1882-1956
+tl2_page_id: 33258886
+author_lsid: 3404-1
+wikidata_id: Q6216714
+ipni_surname: Grøntved
+ipni_forenames: Johannes
+ipni_standard_form: Grøntved
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33258886) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

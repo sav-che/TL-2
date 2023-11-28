@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0292
+tl2_volume: vol2
+tl2_page_printed: 244
+tl2_surname: Hoffmann
+tl2_forenames: Johan Frederik
+tl2_name_abbrev: J.F. Hoffm.
+tl2_dates: 1823-1841
+tl2_page_id: 33068486
+author_lsid: 34852-1
+wikidata_id: Q21515923
+ipni_surname: Hoffmann
+ipni_forenames: Johan Frederik
+ipni_standard_form: J.F.Hoffm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0208
+tl2_volume: suppl4
+tl2_page_printed: 271
+tl2_surname: Collins
+tl2_forenames: Ernest Jacob
+tl2_name_abbrev: E.J. Collins
+tl2_dates: 1877-1939
+tl2_page_id: 33265948
+author_lsid: 13388-1
+wikidata_id: Q47115700
+ipni_surname: Collins
+ipni_forenames: E.J.
+ipni_standard_form: E.J.Collins
+ipni_dates: fl. 1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

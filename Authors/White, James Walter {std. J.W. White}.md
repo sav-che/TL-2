@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0233
+tl2_volume: vol7
+tl2_page_printed: 252
+tl2_surname: White
+tl2_forenames: James Walter
+tl2_name_abbrev: J.W. White
+tl2_dates: 1846-1932
+tl2_page_id: 33066592
+author_lsid: 11621-1
+wikidata_id: Q19003327
+ipni_surname: White
+ipni_forenames: James Walter
+ipni_standard_form: J.W.White
+ipni_dates: 1846-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33066592) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

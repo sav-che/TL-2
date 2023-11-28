@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0004
+tl2_volume: vol6
+tl2_page_printed: 3
+tl2_surname: Stirling
+tl2_forenames: James
+tl2_name_abbrev: J. Stirling
+tl2_dates: 1852-1909
+tl2_page_id: 33212091
+author_lsid: 27234-1
+wikidata_id: Q21609869
+ipni_surname: Stirling
+ipni_forenames: James
+ipni_standard_form: J.Stirl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

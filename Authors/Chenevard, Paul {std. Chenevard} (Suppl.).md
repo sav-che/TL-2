@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0072
+tl2_volume: suppl4
+tl2_page_printed: 78
+tl2_surname: Chenevard
+tl2_forenames: Paul
+tl2_name_abbrev: Chenevard
+tl2_dates: 1839-1919
+tl2_page_id: 33265755
+author_lsid: 1573-1
+wikidata_id: Q6067136
+ipni_surname: Chenevard
+ipni_forenames: Paul
+ipni_standard_form: Chenevard
+ipni_dates: 1839-1919
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

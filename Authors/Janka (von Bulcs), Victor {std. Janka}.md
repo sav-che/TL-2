@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0469
+tl2_volume: vol2
+tl2_page_printed: 424
+tl2_surname: Janka [von Bulcs]
+tl2_forenames: Victor
+tl2_name_abbrev: Janka
+tl2_dates: 1837-1900
+tl2_page_id: 33068666
+author_lsid: 4422-1
+wikidata_id: Q114049
+ipni_surname: Janka
+ipni_forenames: Victor von
+ipni_standard_form: Janka
+ipni_dates: 1837-1900
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

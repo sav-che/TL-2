@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0799
+tl2_volume: vol1
+tl2_page_printed: 621
+tl2_surname: Denisse
+tl2_forenames: Étienne
+tl2_name_abbrev: Denisse
+tl2_dates: fl. 1843-1846
+tl2_page_id: 33120752
+author_lsid: 2128-1
+wikidata_id: Q6174362
+ipni_surname: Denisse
+ipni_forenames: Étienne
+ipni_standard_form: Denisse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

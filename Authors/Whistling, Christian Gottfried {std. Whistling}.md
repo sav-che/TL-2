@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0226
+tl2_volume: vol7
+tl2_page_printed: 246
+tl2_surname: Whistling
+tl2_forenames: Christian Gottfried
+tl2_name_abbrev: Whistling
+tl2_dates: 1757-1807
+tl2_page_id: 33066586
+author_lsid: 11612-1
+wikidata_id: Q21612581
+ipni_surname: Whistling
+ipni_forenames: Christian Gottfried
+ipni_standard_form: Whistling
+ipni_dates: 1757-1807
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0176
+tl2_volume: vol6
+tl2_page_printed: 153
+tl2_surname: Takeda
+tl2_forenames: Hisayoshi
+tl2_name_abbrev: Takeda
+tl2_dates: 1883-1972
+tl2_page_id: 33212195
+author_lsid: 10393-1
+wikidata_id: Q6120869
+ipni_surname: Takeda
+ipni_forenames: Hisayoshi
+ipni_standard_form: Takeda
+ipni_dates: 1883-1972
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33212195) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

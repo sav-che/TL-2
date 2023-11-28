@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0019
+tl2_volume: suppl8
+tl2_page_printed: 31
+tl2_surname: Fries
+tl2_forenames: Oscar Robert
+tl2_name_abbrev: O.R. Fr.
+tl2_dates: 1840-1908
+tl2_page_id: 33258471
+author_lsid: 18991-1
+wikidata_id: Q5862534
+ipni_surname: Fries
+ipni_forenames: Oscar Robert
+ipni_standard_form: O.R.Fr.
+ipni_dates: 1840-1908
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

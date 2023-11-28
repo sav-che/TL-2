@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1248
+tl2_volume: vol1
+tl2_page_printed: 995
+tl2_surname: Grech Delicata
+tl2_forenames: Giovanni Carlo (Johann Karl)
+tl2_name_abbrev: Grech
+tl2_dates: 1811-1882
+tl2_page_id: 33121126
+author_lsid: 3361-1
+wikidata_id: Q21514239
+ipni_surname: Grech Delicata
+ipni_forenames: Giovanni Carlo (Johann Carl)
+ipni_standard_form: Grech
+ipni_dates: 1811-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Malta
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

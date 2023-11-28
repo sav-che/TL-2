@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0276
+tl2_volume: vol7
+tl2_page_printed: 295
+tl2_surname: Wilkes
+tl2_forenames: Charles
+tl2_name_abbrev: Wilkes
+tl2_dates: 1798-1877
+tl2_page_id: 33066635
+author_lsid: 11688-1
+wikidata_id: Q119329
+ipni_surname: Wilkes
+ipni_forenames: Charles
+ipni_standard_form: Wilkes
+ipni_dates: 1798-1877
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

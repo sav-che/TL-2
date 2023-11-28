@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0273
+tl2_volume: suppl1
+tl2_page_printed: 231
+tl2_surname: Bachlechner
+tl2_forenames: Gregor
+tl2_name_abbrev: Bachlechner
+tl2_dates: 1808-1873
+tl2_page_id: 33264958
+author_lsid: 364-1
+wikidata_id: Q21505477
+ipni_surname: Bachlechner
+ipni_forenames: Gregor
+ipni_standard_form: Bachl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

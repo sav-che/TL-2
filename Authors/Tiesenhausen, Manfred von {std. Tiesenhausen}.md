@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0373
+tl2_volume: vol6
+tl2_page_printed: 349
+tl2_surname: Tiesenhausen
+tl2_forenames: Manfred von
+tl2_name_abbrev: Tiesenhausen
+tl2_dates: 1875-?
+tl2_page_id: 33212391
+author_lsid: 27726-1
+wikidata_id: Q21610726
+ipni_surname: Tiesenhausen
+ipni_forenames: Manfred B.von
+ipni_standard_form: Tiesenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33212391) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

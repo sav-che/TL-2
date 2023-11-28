@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0948
+tl2_volume: vol3
+tl2_page_printed: 801
+tl2_surname: Oborný
+tl2_forenames: Adolf
+tl2_name_abbrev: Oborný
+tl2_dates: 1840-1924
+tl2_page_id: 33355888
+author_lsid: 7073-1
+wikidata_id: Q5657931
+ipni_surname: Oborny
+ipni_forenames: Adolf
+ipni_standard_form: Oborny
+ipni_dates: 1840-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33355888) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1139
+tl2_volume: vol1
+tl2_page_printed: 915
+tl2_surname: Gardner
+tl2_forenames: Charles Austin
+tl2_name_abbrev: C.A. Gardner
+tl2_dates: 1896-1970
+tl2_page_id: 33121046
+author_lsid: 3025-1
+wikidata_id: Q2067524
+ipni_surname: Gardner
+ipni_forenames: Charles Austin
+ipni_standard_form: C.A.Gardner
+ipni_dates: 1896-1970
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33121046) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

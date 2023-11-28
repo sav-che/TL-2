@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0578
+tl2_volume: vol3
+tl2_page_printed: 491
+tl2_surname: Miller
+tl2_forenames: Philip
+tl2_name_abbrev: Mill.
+tl2_dates: 1691-1771
+tl2_page_id: 33355578
+author_lsid: 6485-1
+wikidata_id: Q312678
+ipni_surname: Miller
+ipni_forenames: Philip
+ipni_standard_form: Mill.
+ipni_dates: 1691-1771
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

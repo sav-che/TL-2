@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0723
+tl2_volume: vol6
+tl2_page_printed: 743
+tl2_surname: Vilmorin
+tl2_forenames: Jacques Levêque de
+tl2_name_abbrev: J. Vilm.
+tl2_dates: 1882-1933
+tl2_page_id: 33212785
+author_lsid: 11198-1
+wikidata_id: Q21611767
+ipni_surname: Vilmorin
+ipni_forenames: Jacques Lévêque de
+ipni_standard_form: J.Vilm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

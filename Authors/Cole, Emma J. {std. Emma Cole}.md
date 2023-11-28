@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0196
+tl2_volume: suppl4
+tl2_page_printed: 263
+tl2_surname: Cole
+tl2_forenames: Emma J.
+tl2_name_abbrev: Emma Cole
+tl2_dates: 1845-1910
+tl2_page_id: 33265940
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33265940) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

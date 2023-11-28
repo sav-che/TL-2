@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0849
+tl2_volume: vol2
+tl2_page_printed: 720
+tl2_surname: Lagasca y Segura [La Gasca]
+tl2_forenames: Mariano
+tl2_name_abbrev: Lag.
+tl2_dates: 1776-1839
+tl2_page_id: 33068962
+author_lsid: 5205-1
+wikidata_id: Q891966
+ipni_surname: Lagasca y Segura
+ipni_forenames: Mariano
+ipni_standard_form: Lag.
+ipni_dates: 1776-1839
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33068962) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

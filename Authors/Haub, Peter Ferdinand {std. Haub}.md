@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0115
+tl2_volume: vol2
+tl2_page_printed: 100
+tl2_surname: Haub
+tl2_forenames: Peter Ferdinand
+tl2_name_abbrev: Haub
+tl2_dates: 1804-1867
+tl2_page_id: 33068342
+author_lsid: 3727-1
+wikidata_id: Q21515579
+ipni_surname: Haub
+ipni_forenames: Peter Ferdinand
+ipni_standard_form: Haub
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

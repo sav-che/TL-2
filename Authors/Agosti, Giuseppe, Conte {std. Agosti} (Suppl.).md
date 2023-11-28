@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0055
+tl2_volume: suppl1
+tl2_page_printed: 46
+tl2_surname: Agosti
+tl2_forenames: Giuseppe, Conte
+tl2_name_abbrev: Agosti
+tl2_dates: 1715-1786
+tl2_page_id: 33264735
+author_lsid: 90-1
+wikidata_id: Q3107968
+ipni_surname: Agosti
+ipni_forenames: Giuseppe
+ipni_standard_form: Agosti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

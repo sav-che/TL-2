@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol7_0179
+tl2_volume: vol7
+tl2_page_printed: 190
+tl2_surname: Wercklé
+tl2_forenames: Karl
+tl2_name_abbrev: Wercklé
+tl2_dates: 1860-1924
+tl2_page_id: 33066530
+author_lsid: 11559-1
+wikidata_id: Q21392078
+ipni_surname: Wercklé
+ipni_forenames: Karl(Carl)
+ipni_standard_form: Wercklé
+ipni_dates: 1860-1924
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Costa Rica
+- United States
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0443
+tl2_volume: vol1
+tl2_page_printed: 355
+tl2_surname: Bronn
+tl2_forenames: Heinrich Georg
+tl2_name_abbrev: Bronn
+tl2_dates: 1800-1862
+tl2_page_id: 33120486
+author_lsid: 1173-1
+wikidata_id: Q64395
+ipni_surname: Bronn
+ipni_forenames: Heinrich Georg
+ipni_standard_form: Bronn
+ipni_dates: 1800-1862
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33120486) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

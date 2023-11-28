@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0341
+tl2_volume: suppl8
+tl2_page_printed: 469
+tl2_surname: Guyot
+tl2_forenames: Arnaud [Arnold] Henri [Henry]
+tl2_name_abbrev: A.H. Guyot
+tl2_dates: 1807-1884
+tl2_page_id: 33258947
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33258947) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

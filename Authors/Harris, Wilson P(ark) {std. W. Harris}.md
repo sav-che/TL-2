@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0086
+tl2_volume: vol2
+tl2_page_printed: 59
+tl2_surname: Harris
+tl2_forenames: Wilson P(ark)
+tl2_name_abbrev: W. Harris
+tl2_dates: fl. 1904
+tl2_page_id: 33068301
+author_lsid: 3680-1
+wikidata_id: Q21515523
+ipni_surname: Harris
+ipni_forenames: Wilson P.
+ipni_standard_form: W.P.Harris
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

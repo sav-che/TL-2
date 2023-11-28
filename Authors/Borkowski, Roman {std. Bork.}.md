@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0399
+tl2_volume: suppl2
+tl2_page_printed: 341
+tl2_surname: Borkowski
+tl2_forenames: Roman
+tl2_name_abbrev: Bork.
+tl2_dates: 1882-?
+tl2_page_id: 33265538
+author_lsid: 34358-1
+wikidata_id: Q36659118
+ipni_surname: Borkowski
+ipni_forenames: R.
+ipni_standard_form: Bork.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

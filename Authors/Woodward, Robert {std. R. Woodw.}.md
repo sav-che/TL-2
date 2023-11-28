@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0403
+tl2_volume: vol7
+tl2_page_printed: 449
+tl2_surname: Woodward
+tl2_forenames: Robert
+tl2_name_abbrev: R. Woodw.
+tl2_dates: 1877-1915
+tl2_page_id: 33066789
+author_lsid: 11860-1
+wikidata_id: Q21612983
+ipni_surname: Woodward
+ipni_forenames: Robert
+ipni_standard_form: R.Woodw.
+ipni_dates: 1877-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33066789) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

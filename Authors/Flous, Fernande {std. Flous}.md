@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0180
+tl2_volume: suppl7
+tl2_page_printed: 271
+tl2_surname: Flous
+tl2_forenames: Fernande
+tl2_name_abbrev: Flous
+tl2_dates: 1908-1941
+tl2_page_id: 33259775
+author_lsid: 2793-1
+wikidata_id: Q5859097
+ipni_surname: Flous
+ipni_forenames: Fernande
+ipni_standard_form: Flous
+ipni_dates: 1908-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

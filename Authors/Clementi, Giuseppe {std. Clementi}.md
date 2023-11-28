@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0162
+tl2_volume: suppl4
+tl2_page_printed: 205
+tl2_surname: Clementi
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Clementi
+tl2_dates: 1812-1873
+tl2_page_id: 33265882
+author_lsid: 1688-1
+wikidata_id: Q1528198
+ipni_surname: Clementi
+ipni_forenames: Giuseppe C.
+ipni_standard_form: Clementi
+ipni_dates: 1812-1873
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

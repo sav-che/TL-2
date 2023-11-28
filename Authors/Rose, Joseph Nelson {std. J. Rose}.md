@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0910
+tl2_volume: vol4
+tl2_page_printed: 884
+tl2_surname: Rose
+tl2_forenames: Joseph Nelson
+tl2_name_abbrev: J. Rose
+tl2_dates: 1862-1928
+tl2_page_id: 33190355
+author_lsid: 8586-1
+wikidata_id: Q1336049
+ipni_surname: Rose
+ipni_forenames: Joseph Nelson
+ipni_standard_form: Rose
+ipni_dates: 1862-1928
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

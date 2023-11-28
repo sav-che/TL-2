@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0194
+tl2_volume: vol3
+tl2_page_printed: 203
+tl2_surname: Lyon
+tl2_forenames: Harold Lloyd
+tl2_name_abbrev: Lyon
+tl2_dates: 1879-1957
+tl2_page_id: 33355290
+author_lsid: 22656-1
+wikidata_id: Q18911234
+ipni_surname: Lyon
+ipni_forenames: Harold Lloyd
+ipni_standard_form: Lyon
+ipni_dates: 1879-1957
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33355290) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

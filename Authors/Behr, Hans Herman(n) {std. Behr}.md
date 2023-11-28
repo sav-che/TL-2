@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0218
+tl2_volume: vol1
+tl2_page_printed: 166
+tl2_surname: Behr
+tl2_forenames: Hans Herman[n]
+tl2_name_abbrev: Behr
+tl2_dates: 1818-1904
+tl2_page_id: 33120297
+author_lsid: 619-1
+wikidata_id: Q66934
+ipni_surname: Behr
+ipni_forenames: Hans Hermann
+ipni_standard_form: Behr
+ipni_dates: 1818-1904
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Australia
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33120297) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

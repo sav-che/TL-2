@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0306
+tl2_volume: suppl4
+tl2_page_printed: 384
+tl2_surname: Cortesi
+tl2_forenames: Fabrizio
+tl2_name_abbrev: Cortesi
+tl2_dates: 1879-1949
+tl2_page_id: 33266061
+author_lsid: 1817-1
+wikidata_id: Q5428203
+ipni_surname: Cortesi
+ipni_forenames: Fabrizio
+ipni_standard_form: Cortesi
+ipni_dates: 1879-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33266061) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

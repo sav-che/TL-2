@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0352
+tl2_volume: vol3
+tl2_page_printed: 306
+tl2_surname: Marsden
+tl2_forenames: William
+tl2_name_abbrev: Marsden
+tl2_dates: 1754-1836
+tl2_page_id: 33355393
+author_lsid: 6130-1
+wikidata_id: Q1335233
+ipni_surname: Marsden
+ipni_forenames: William
+ipni_standard_form: Marsden
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Ireland
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33355393) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

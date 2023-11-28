@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0979
+tl2_volume: vol4
+tl2_page_printed: 946
+tl2_surname: Rouy
+tl2_forenames: Georges [C.Ch.]
+tl2_name_abbrev: Rouy
+tl2_dates: 1851-1924
+tl2_page_id: 33190417
+author_lsid: 8674-1
+wikidata_id: Q3103449
+ipni_surname: Rouy
+ipni_forenames: Georges
+ipni_standard_form: Rouy
+ipni_dates: 1851-1924
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-07-13 09:58:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33190417) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0133
+tl2_volume: suppl5
+tl2_page_printed: 119
+tl2_surname: Deam
+tl2_forenames: Charles Clemon
+tl2_name_abbrev: Deam
+tl2_dates: 1865-1953
+tl2_page_id: 33259165
+author_lsid: 2050-1
+wikidata_id: Q5075976
+ipni_surname: Deam
+ipni_forenames: Charles Clemon
+ipni_standard_form: Deam
+ipni_dates: 1865-1953
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33259165) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

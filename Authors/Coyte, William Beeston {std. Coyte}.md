@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0359
+tl2_volume: suppl4
+tl2_page_printed: 439
+tl2_surname: Coyte
+tl2_forenames: William Beeston
+tl2_name_abbrev: Coyte
+tl2_dates: 1741-1810
+tl2_page_id: 33266116
+author_lsid: 20043537-1
+wikidata_id: Q18546921
+ipni_surname: Coyte
+ipni_forenames: William Beeston
+ipni_standard_form: Coyte
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

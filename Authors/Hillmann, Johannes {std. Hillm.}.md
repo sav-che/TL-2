@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0246
+tl2_volume: vol2
+tl2_page_printed: 206
+tl2_surname: Hillmann
+tl2_forenames: Johannes
+tl2_name_abbrev: Hillm.
+tl2_dates: 1881-1943
+tl2_page_id: 33068448
+author_lsid: 3952-1
+wikidata_id: Q21339391
+ipni_surname: Hillmann
+ipni_forenames: Johannes
+ipni_standard_form: Hillmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

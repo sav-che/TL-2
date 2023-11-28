@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol5_0197
+tl2_volume: vol5
+tl2_page_printed: 213
+tl2_surname: Schleicher
+tl2_forenames: Johann Christoph
+tl2_name_abbrev: Schleich.
+tl2_dates: 1768-1834
+tl2_page_id: 33333352
+author_lsid: 9118-1
+wikidata_id: Q63744
+ipni_surname: Schleicher
+ipni_forenames: Johann Christoph
+ipni_standard_form: Schleich.
+ipni_dates: 1768-1834
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33333352) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

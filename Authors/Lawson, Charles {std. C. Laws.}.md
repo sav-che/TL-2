@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0925
+tl2_volume: vol2
+tl2_page_printed: 773
+tl2_surname: Lawson
+tl2_forenames: Charles
+tl2_name_abbrev: C. Laws.
+tl2_dates: 1794-1873
+tl2_page_id: 33069015
+author_lsid: 5350-1
+wikidata_id: Q2959591
+ipni_surname: Lawson
+ipni_forenames: Charles
+ipni_standard_form: C.Lawson
+ipni_dates: 1794-1873
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

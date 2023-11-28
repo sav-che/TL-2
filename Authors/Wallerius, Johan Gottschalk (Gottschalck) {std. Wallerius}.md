@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0045
+tl2_volume: vol7
+tl2_page_printed: 36
+tl2_surname: Wallerius
+tl2_forenames: Johan Gottschalk (Gottschalck)
+tl2_name_abbrev: Wallerius
+tl2_dates: 1709-1785
+tl2_page_id: 33066376
+author_lsid: 11348-1
+wikidata_id: Q902797
+ipni_surname: Wallerius
+ipni_forenames: Johan Gottschalk
+ipni_standard_form: Wallerius
+ipni_dates: 1709-1785
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33066376) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

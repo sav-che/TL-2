@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0177
+tl2_volume: suppl1
+tl2_page_printed: 138
+tl2_surname: Applegate
+tl2_forenames: Elmer Ivan
+tl2_name_abbrev: Applegate
+tl2_dates: 1867-1949
+tl2_page_id: 33264865
+author_lsid: 245-1
+wikidata_id: Q1332940
+ipni_surname: Applegate
+ipni_forenames: Elmer Ivan
+ipni_standard_form: Applegate
+ipni_dates: 1867-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

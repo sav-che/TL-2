@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0767
+tl2_volume: vol4
+tl2_page_printed: 780
+tl2_surname: Richter
+tl2_forenames: Paul Gerhard
+tl2_name_abbrev: P.G. Richt.
+tl2_dates: 1837-1913
+tl2_page_id: 33190251
+author_lsid: 8371-1
+wikidata_id: Q21607202
+ipni_surname: Richter
+ipni_forenames: Paul Gerhard
+ipni_standard_form: P.G.Richt.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

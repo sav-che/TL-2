@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0940
+tl2_volume: vol3
+tl2_page_printed: 788
+tl2_surname: Nylander
+tl2_forenames: Fredrik
+tl2_name_abbrev: F. Nyl.
+tl2_dates: 1820-1880
+tl2_page_id: 33355875
+author_lsid: 7066-1
+wikidata_id: Q6437103
+ipni_surname: Nylander
+ipni_forenames: Fredrik(Frederick)
+ipni_standard_form: F.Nyl.
+ipni_dates: 1820-1880
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

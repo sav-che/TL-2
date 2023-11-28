@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0650
+tl2_volume: vol4
+tl2_page_printed: 620
+tl2_surname: Record
+tl2_forenames: Samuel James
+tl2_name_abbrev: Record
+tl2_dates: 1881-1945
+tl2_page_id: 33190091
+author_lsid: 8216-1
+wikidata_id: Q7411812
+ipni_surname: Record
+ipni_forenames: Samuel James
+ipni_standard_form: Record
+ipni_dates: 1881-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33190091) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

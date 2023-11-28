@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0938
+tl2_volume: vol4
+tl2_page_printed: 907
+tl2_surname: Rossmann
+tl2_forenames: [Georg Wilhelm] Julius
+tl2_name_abbrev: Rossmann
+tl2_dates: 1831-1866
+tl2_page_id: 33190378
+author_lsid: 12793-1
+wikidata_id: Q21607446
+ipni_surname: Rossmann
+ipni_forenames: (Georg Wilhelm) Julius
+ipni_standard_form: Rossmann
+ipni_dates: 1831-1866
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33190378) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

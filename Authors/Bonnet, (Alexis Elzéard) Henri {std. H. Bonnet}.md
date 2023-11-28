@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0376
+tl2_volume: suppl2
+tl2_page_printed: 318
+tl2_surname: Bonnet
+tl2_forenames: [Alexis Elzéard] Henri
+tl2_name_abbrev: H. Bonnet
+tl2_dates: 1823-1892
+tl2_page_id: 33265515
+author_lsid: 20002749-1
+wikidata_id: Q47114444
+ipni_surname: Bonnet
+ipni_forenames: H.
+ipni_standard_form: H.Bonnet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

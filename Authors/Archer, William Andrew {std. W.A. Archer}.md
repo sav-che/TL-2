@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0186
+tl2_volume: suppl1
+tl2_page_printed: 147
+tl2_surname: Archer
+tl2_forenames: William Andrew
+tl2_name_abbrev: W.A. Archer
+tl2_dates: 1894-1973
+tl2_page_id: 33264874
+author_lsid: 30949-1
+wikidata_id: Q8004431
+ipni_surname: Archer
+ipni_forenames: William Andrew
+ipni_standard_form: W.A.Archer
+ipni_dates: 1894-1973
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33264874) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

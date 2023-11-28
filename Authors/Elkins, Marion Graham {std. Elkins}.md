@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0349
+tl2_volume: suppl6
+tl2_page_printed: 307
+tl2_surname: Elkins
+tl2_forenames: Marion Graham
+tl2_name_abbrev: Elkins
+tl2_dates: 1856-x
+tl2_page_id: 33260295
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33260295) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

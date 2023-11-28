@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0223
+tl2_volume: suppl1
+tl2_page_printed: 195
+tl2_surname: Ashby
+tl2_forenames: Sydney Francis
+tl2_name_abbrev: Ashby
+tl2_dates: 1874-1954
+tl2_page_id: 33264922
+author_lsid: 31040-1
+wikidata_id: Q21505383
+ipni_surname: Ashby
+ipni_forenames: Sidney Francis
+ipni_standard_form: S.F.Ashby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33264922) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

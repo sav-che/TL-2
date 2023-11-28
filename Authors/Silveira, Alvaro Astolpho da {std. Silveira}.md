@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0594
+tl2_volume: vol5
+tl2_page_printed: 600
+tl2_surname: Silveira
+tl2_forenames: Alvaro Astolpho da
+tl2_name_abbrev: Silveira
+tl2_dates: 1867-1945
+tl2_page_id: 33333739
+author_lsid: 9650-1
+wikidata_id: Q19002102
+ipni_surname: Silveira
+ipni_forenames: Alvaro Astolpho da
+ipni_standard_form: Silveira
+ipni_dates: 1867-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33333739) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

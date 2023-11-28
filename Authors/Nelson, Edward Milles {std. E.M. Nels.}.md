@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0839
+tl2_volume: vol3
+tl2_page_printed: 724
+tl2_surname: Nelson
+tl2_forenames: Edward Milles
+tl2_name_abbrev: E.M. Nels.
+tl2_dates: 1851-1938
+tl2_page_id: 33355811
+author_lsid: 6904-1
+wikidata_id: Q21522048
+ipni_surname: Nelson
+ipni_forenames: Edward Milles
+ipni_standard_form: E.M.Nelson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33355811) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

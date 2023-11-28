@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0015
+tl2_volume: vol6
+tl2_page_printed: 13
+tl2_surname: Stojanov [Stoyanoff]
+tl2_forenames: Nikolai Andreev
+tl2_name_abbrev: Stoj.
+tl2_dates: 1883-1968
+tl2_page_id: 33212081
+author_lsid: 10192-1
+wikidata_id: Q6043036
+ipni_surname: Stojanov
+ipni_forenames: Nikolai Andreev
+ipni_standard_form: Stoj.
+ipni_dates: 1883-1968
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33212081) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

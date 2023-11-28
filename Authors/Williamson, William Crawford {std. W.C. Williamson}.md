@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0294
+tl2_volume: vol7
+tl2_page_printed: 328
+tl2_surname: Williamson
+tl2_forenames: William Crawford
+tl2_name_abbrev: W.C. Williamson
+tl2_dates: 1816-1895
+tl2_page_id: 33066668
+author_lsid: 11715-1
+wikidata_id: Q930185
+ipni_surname: Williamson
+ipni_forenames: William Crawford
+ipni_standard_form: Will.
+ipni_dates: 1816-1895
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33066668) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

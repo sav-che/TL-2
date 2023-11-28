@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0380
+tl2_volume: suppl2
+tl2_page_printed: 323
+tl2_surname: Boodle
+tl2_forenames: Leonard Alfred
+tl2_name_abbrev: Boodle
+tl2_dates: 1865-1941
+tl2_page_id: 33265520
+author_lsid: 964-1
+wikidata_id: Q21506301
+ipni_surname: Boodle
+ipni_forenames: Leonard Alfred
+ipni_standard_form: Boodle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265520) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

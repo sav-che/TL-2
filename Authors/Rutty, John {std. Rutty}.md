@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1043
+tl2_volume: vol4
+tl2_page_printed: 1011
+tl2_surname: Rutty
+tl2_forenames: John
+tl2_name_abbrev: Rutty
+tl2_dates: 1697-1775
+tl2_page_id: 33190482
+author_lsid: 8764-1
+wikidata_id: Q6256064
+ipni_surname: Rutty
+ipni_forenames: John
+ipni_standard_form: Rutty
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

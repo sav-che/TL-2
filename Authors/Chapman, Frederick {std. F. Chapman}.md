@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0596
+tl2_volume: vol1
+tl2_page_printed: 486
+tl2_surname: Chapman
+tl2_forenames: Frederick
+tl2_name_abbrev: F. Chapman
+tl2_dates: 1864-1943
+tl2_page_id: 33120617
+author_lsid: 32688-1
+wikidata_id: Q5497505
+ipni_surname: Chapman
+ipni_forenames: Frederick
+ipni_standard_form: F.Chapm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

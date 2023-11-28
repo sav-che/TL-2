@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0523
+tl2_volume: vol2
+tl2_page_printed: 458
+tl2_surname: Jongmans
+tl2_forenames: Willem Josephus
+tl2_name_abbrev: Jongm.
+tl2_dates: 1878-1957
+tl2_page_id: 33068700
+author_lsid: 21063-1
+wikidata_id: Q19587939
+ipni_surname: Jongmans
+ipni_forenames: Willem Josephus
+ipni_standard_form: Jongm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33068700) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

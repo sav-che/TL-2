@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0015
+tl2_volume: vol4
+tl2_page_printed: 9
+tl2_surname: Paine
+tl2_forenames: John Alsop
+tl2_name_abbrev: Paine
+tl2_dates: 1840-1912
+tl2_page_id: 33189506
+author_lsid: 7253-1
+wikidata_id: Q4348021
+ipni_surname: Paine
+ipni_forenames: John Alsop
+ipni_standard_form: Paine
+ipni_dates: 1840-1912
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

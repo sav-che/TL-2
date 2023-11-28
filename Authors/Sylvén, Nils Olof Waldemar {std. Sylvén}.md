@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0149
+tl2_volume: vol6
+tl2_page_printed: 136
+tl2_surname: Sylvén
+tl2_forenames: Nils Olof Waldemar
+tl2_name_abbrev: Sylvén
+tl2_dates: 1880-1969
+tl2_page_id: 33212178
+author_lsid: 10352-1
+wikidata_id: Q6200510
+ipni_surname: Sylvén
+ipni_forenames: Nils Olof Valdemar
+ipni_standard_form: Sylvén
+ipni_dates: 1880-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-04-04 14:17:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33212178) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

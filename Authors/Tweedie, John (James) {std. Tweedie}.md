@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0562
+tl2_volume: vol6
+tl2_page_printed: 558
+tl2_surname: Tweedie
+tl2_forenames: John [James]
+tl2_name_abbrev: Tweedie
+tl2_dates: 1775-1862
+tl2_page_id: 33212600
+author_lsid: 10938-1
+wikidata_id: Q5933674
+ipni_surname: Tweedie
+ipni_forenames: John (`James')
+ipni_standard_form: Tweedie
+ipni_dates: 1775-1862
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33212600) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

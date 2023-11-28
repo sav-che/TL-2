@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0260
+tl2_volume: vol3
+tl2_page_printed: 239
+tl2_surname: Mägdefrau
+tl2_forenames: Karl
+tl2_name_abbrev: Mägd.
+tl2_dates: 1907-x
+tl2_page_id: 33355326
+author_lsid: 22659-1
+wikidata_id: Q1250009
+ipni_surname: Mägdefrau
+ipni_forenames: Karl
+ipni_standard_form: Mägd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

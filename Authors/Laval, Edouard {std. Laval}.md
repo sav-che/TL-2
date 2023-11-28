@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0920
+tl2_volume: vol2
+tl2_page_printed: 771
+tl2_surname: Laval
+tl2_forenames: Edouard
+tl2_name_abbrev: Laval
+tl2_dates: 1871-x
+tl2_page_id: 33069013
+author_lsid: 5335-1
+wikidata_id: Q21518435
+ipni_surname: Laval
+ipni_forenames: Edouard
+ipni_standard_form: Laval
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

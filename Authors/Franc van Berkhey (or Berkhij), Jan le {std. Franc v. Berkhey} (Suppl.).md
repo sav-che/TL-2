@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0241
+tl2_volume: suppl7
+tl2_page_printed: 369
+tl2_surname: Franc van Berkhey [or Francq van Berkhij]
+tl2_forenames: Jan [Johannes] le
+tl2_name_abbrev: Franc v. Berkhey
+tl2_dates: 1729-1812
+tl2_page_id: 33259873
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

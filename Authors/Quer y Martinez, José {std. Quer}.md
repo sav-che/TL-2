@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0536
+tl2_volume: vol4
+tl2_page_printed: 456
+tl2_surname: Quer y Martinez
+tl2_forenames: José
+tl2_name_abbrev: Quer
+tl2_dates: 1695-1764
+tl2_page_id: 33189927
+author_lsid: 8051-1
+wikidata_id: Q957879
+ipni_surname: Quer y Martínez
+ipni_forenames: José
+ipni_standard_form: Quer
+ipni_dates: 1695-1764
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

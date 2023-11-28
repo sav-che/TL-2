@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1169
+tl2_volume: vol1
+tl2_page_printed: 933
+tl2_surname: Gepp
+tl2_forenames: Ethel Sarel (née Barton)
+tl2_name_abbrev: E. Gepp
+tl2_dates: 1864-1922
+tl2_page_id: 33121064
+author_lsid: 12513-1
+wikidata_id: Q21341607
+ipni_surname: Gepp
+ipni_forenames: Ethel Sarel Barton
+ipni_standard_form: E.Gepp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

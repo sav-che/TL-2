@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0331
+tl2_volume: vol4
+tl2_page_printed: 276
+tl2_surname: Piscicelli
+tl2_forenames: Maurizio
+tl2_name_abbrev: Piscicelli
+tl2_dates: 1871-?
+tl2_page_id: 33189747
+author_lsid: 7728-1
+wikidata_id: Q21523033
+ipni_surname: Piscicelli
+ipni_forenames: Maurizio
+ipni_standard_form: Pisc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Somalia
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0084
+tl2_volume: suppl7
+tl2_page_printed: 128
+tl2_surname: Fenaroli
+tl2_forenames: Luigi
+tl2_name_abbrev: Fen.
+tl2_dates: 1899-1980
+tl2_page_id: 33259632
+author_lsid: 2678-1
+wikidata_id: Q168643
+ipni_surname: Fenaroli
+ipni_forenames: Luigi
+ipni_standard_form: Fen.
+ipni_dates: 1899-1980
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33259632) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

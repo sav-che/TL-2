@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0444
+tl2_volume: vol2
+tl2_page_printed: 402
+tl2_surname: Jacquemart
+tl2_forenames: Albert
+tl2_name_abbrev: Jacquemart
+tl2_dates: fl. 1840
+tl2_page_id: 33068644
+author_lsid: 4382-1
+wikidata_id: Q352361
+ipni_surname: Jacquemart
+ipni_forenames: Albert
+ipni_standard_form: Jacquemart
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

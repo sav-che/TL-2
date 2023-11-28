@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0066
+tl2_volume: vol5
+tl2_page_printed: 67
+tl2_surname: Saunders
+tl2_forenames: James
+tl2_name_abbrev: J. Saunders
+tl2_dates: 1839-1925
+tl2_page_id: 33333206
+author_lsid: 8954-1
+wikidata_id: Q21607778
+ipni_surname: Saunders
+ipni_forenames: James
+ipni_standard_form: J.Saunders
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

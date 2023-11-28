@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0093
+tl2_volume: vol4
+tl2_page_printed: 83
+tl2_surname: Parsons
+tl2_forenames: Frances Theodora (formerly Mrs. William Starr Dana; née Smith)
+tl2_name_abbrev: F. Parsons
+tl2_dates: 1861-1952
+tl2_page_id: 33189554
+author_lsid: 12725-1
+wikidata_id: Q4815074
+ipni_surname: Parsons
+ipni_forenames: Frances Theodora
+ipni_standard_form: F.Parsons
+ipni_dates: 1861-1952
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

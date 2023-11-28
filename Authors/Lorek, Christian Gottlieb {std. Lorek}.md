@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0121
+tl2_volume: vol3
+tl2_page_printed: 156
+tl2_surname: Lorek
+tl2_forenames: Christian Gottlieb
+tl2_name_abbrev: Lorek
+tl2_dates: 1788-1871
+tl2_page_id: 33355243
+author_lsid: 5746-1
+wikidata_id: Q21519496
+ipni_surname: Lorek
+ipni_forenames: Christian Gottlieb
+ipni_standard_form: Lorek
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33355243) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

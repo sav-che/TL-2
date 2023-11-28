@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0118
+tl2_volume: suppl5
+tl2_page_printed: 108
+tl2_surname: Davis
+tl2_forenames: Lucius Daniel
+tl2_name_abbrev: L.D. Davis
+tl2_dates: 1826-1900
+tl2_page_id: 33259154
+author_lsid: 13936-1
+wikidata_id: Q36612054
+ipni_surname: Davis
+ipni_forenames: L.D.
+ipni_standard_form: L.D.Davis
+ipni_dates: fl. 1878
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

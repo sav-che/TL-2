@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0438
+tl2_volume: vol2
+tl2_page_printed: 400
+tl2_surname: Jackson
+tl2_forenames: Vincent Wilson
+tl2_name_abbrev: V. Jacks.
+tl2_dates: 1876-x
+tl2_page_id: 33068642
+author_lsid: 4367-1
+wikidata_id: Q21516856
+ipni_surname: Jackson
+ipni_forenames: Vincent William
+ipni_standard_form: V.W.Jacks.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

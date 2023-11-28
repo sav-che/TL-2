@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0317
+tl2_volume: vol5
+tl2_page_printed: 323
+tl2_surname: Schrank
+tl2_forenames: Franz von Paula von
+tl2_name_abbrev: Schrank
+tl2_dates: 1747-1835
+tl2_page_id: 33333462
+author_lsid: 9254-1
+wikidata_id: Q62046
+ipni_surname: Schrank
+ipni_forenames: Franz von Paula von
+ipni_standard_form: Schrank
+ipni_dates: 1747-1835
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33333462) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

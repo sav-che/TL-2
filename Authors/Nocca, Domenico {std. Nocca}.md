@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0902
+tl2_volume: vol3
+tl2_page_printed: 757
+tl2_surname: Nocca
+tl2_forenames: Domenico
+tl2_name_abbrev: Nocca
+tl2_dates: 1758-1841
+tl2_page_id: 33355844
+author_lsid: 24127-1
+wikidata_id: Q1107041
+ipni_surname: Nocca
+ipni_forenames: Domenico
+ipni_standard_form: Nocca
+ipni_dates: 1758-1841
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

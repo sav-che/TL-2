@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0190
+tl2_volume: vol4
+tl2_page_printed: 169
+tl2_surname: Pernitzsch
+tl2_forenames: Heinrich
+tl2_name_abbrev: Pernitzsch
+tl2_dates: fl. 1825
+tl2_page_id: 33189640
+author_lsid: 7526-1
+wikidata_id: Q36577392
+ipni_surname: Pernitzsch
+ipni_forenames: Heinrich
+ipni_standard_form: Pern.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

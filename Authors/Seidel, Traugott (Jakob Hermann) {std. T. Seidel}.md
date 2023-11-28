@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0470
+tl2_volume: vol5
+tl2_page_printed: 491
+tl2_surname: Seidel
+tl2_forenames: Traugott [Jakob Hermann]
+tl2_name_abbrev: T. Seidel
+tl2_dates: 1833-1896
+tl2_page_id: 33333630
+author_lsid: 9437-1
+wikidata_id: Q19285492
+ipni_surname: Seidel
+ipni_forenames: Traugott (Jacob Hermann)
+ipni_standard_form: T.Seidel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

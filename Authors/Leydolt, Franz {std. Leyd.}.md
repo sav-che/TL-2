@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1039
+tl2_volume: vol2
+tl2_page_printed: 870
+tl2_surname: Leydolt
+tl2_forenames: Franz
+tl2_name_abbrev: Leyd.
+tl2_dates: 1810-1859
+tl2_page_id: 33069112
+author_lsid: 5549-1
+wikidata_id: Q21518869
+ipni_surname: Leydolt
+ipni_forenames: Franz
+ipni_standard_form: Leyd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33069112) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0376
+tl2_volume: vol4
+tl2_page_printed: 318
+tl2_surname: Poirault
+tl2_forenames: [Marie Henri] Georges
+tl2_name_abbrev: G. Poirault
+tl2_dates: 1858-1936
+tl2_page_id: 33189789
+author_lsid: 7791-1
+wikidata_id: Q16027656
+ipni_surname: Poirault
+ipni_forenames: (Marie Henri) Georges
+ipni_standard_form: G.Poirault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33189789) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

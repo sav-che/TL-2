@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0265
+tl2_volume: vol7
+tl2_page_printed: 289
+tl2_surname: Wilczek
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Wilcz.
+tl2_dates: 1867-1948
+tl2_page_id: 33066629
+author_lsid: 11670-1
+wikidata_id: Q3057217
+ipni_surname: Wilczek
+ipni_forenames: Ernst
+ipni_standard_form: Wilczek
+ipni_dates: 1867-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33066629) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

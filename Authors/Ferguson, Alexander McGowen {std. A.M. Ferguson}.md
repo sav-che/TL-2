@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0090
+tl2_volume: suppl7
+tl2_page_printed: 139
+tl2_surname: Ferguson
+tl2_forenames: Alexander McGowen
+tl2_name_abbrev: A.M. Ferguson
+tl2_dates: 1874-1955
+tl2_page_id: 33259643
+author_lsid: 2685-1
+wikidata_id: Q2833174
+ipni_surname: Ferguson
+ipni_forenames: Alexander McGowan
+ipni_standard_form: A.M.Ferguson
+ipni_dates: 1874-1955
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33259643) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

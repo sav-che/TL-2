@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0132
+tl2_volume: vol5
+tl2_page_printed: 122
+tl2_surname: Scheer
+tl2_forenames: Friedrich (Frederick)
+tl2_name_abbrev: Scheer
+tl2_dates: 1792-1868
+tl2_page_id: 33333261
+author_lsid: 9030-1
+wikidata_id: Q1452994
+ipni_surname: Scheer
+ipni_forenames: Friedrich (Frederick)
+ipni_standard_form: Scheer
+ipni_dates: 1792-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33333261) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

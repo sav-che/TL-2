@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol6_0489
+tl2_volume: vol6
+tl2_page_printed: 480
+tl2_surname: Trevisan de Saint-Léon
+tl2_forenames: Vittore [Benedetto Antonio], Conte
+tl2_name_abbrev: Trevis.
+tl2_dates: 1818-1897
+tl2_page_id: 33212522
+author_lsid: 10816-1
+wikidata_id: Q634712
+ipni_surname: Trevisan de Saint-Léon
+ipni_forenames: Vittore Benedetto Antonio
+ipni_standard_form: Trevis.
+ipni_dates: 1818-1897
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Cryptogamic
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-08-05 14:55:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33212522) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

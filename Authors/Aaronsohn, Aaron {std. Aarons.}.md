@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0001
+tl2_volume: suppl1
+tl2_page_printed: 1
+tl2_surname: Aaronsohn
+tl2_forenames: Aaron
+tl2_name_abbrev: Aarons.
+tl2_dates: 1876/1877-1919
+tl2_page_id: 33264774
+author_lsid: 23-1
+wikidata_id: Q2086130
+ipni_surname: Aaronsohn
+ipni_forenames: Aaron
+ipni_standard_form: Aarons.
+ipni_dates: 1876-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Israel
+- United States
+ipni_version: 1.1.2.2.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

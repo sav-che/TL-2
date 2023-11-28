@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0886
+tl2_volume: vol2
+tl2_page_printed: 751
+tl2_surname: Langlois
+tl2_forenames: Auguste Barthélemy
+tl2_name_abbrev: Langl.
+tl2_dates: 1832-1900
+tl2_page_id: 33068993
+author_lsid: 22051-1
+wikidata_id: Q2871046
+ipni_surname: Langlois
+ipni_forenames: Auguste Barthélemy
+ipni_standard_form: Langl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- United States
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

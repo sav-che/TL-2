@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0430
+tl2_volume: vol3
+tl2_page_printed: 376
+tl2_surname: Mauksch
+tl2_forenames: Johann Daniel Thomas
+tl2_name_abbrev: Mauksch
+tl2_dates: 1748-1831
+tl2_page_id: 33355463
+author_lsid: 6254-1
+wikidata_id: Q739055
+ipni_surname: Mauksch
+ipni_forenames: Johann Daniel
+ipni_standard_form: Mauksch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

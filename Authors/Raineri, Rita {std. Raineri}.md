@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0571
+tl2_volume: vol4
+tl2_page_printed: 565
+tl2_surname: Raineri
+tl2_forenames: Rita
+tl2_name_abbrev: Raineri
+tl2_dates: 1896-x
+tl2_page_id: 33190036
+author_lsid: 8106-1
+wikidata_id: Q21606853
+ipni_surname: Raineri
+ipni_forenames: Rita
+ipni_standard_form: Raineri
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

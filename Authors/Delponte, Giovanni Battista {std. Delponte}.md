@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0795
+tl2_volume: vol1
+tl2_page_printed: 620
+tl2_surname: Delponte
+tl2_forenames: Giovanni Battista
+tl2_name_abbrev: Delponte
+tl2_dates: 1812-1884
+tl2_page_id: 33120751
+author_lsid: 2110-1
+wikidata_id: Q5880109
+ipni_surname: Delponte
+ipni_forenames: Giovanni Battista
+ipni_standard_form: Delponte
+ipni_dates: 1812-1884
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0342
+tl2_volume: vol4
+tl2_page_printed: 289
+tl2_surname: Planer
+tl2_forenames: Johann Jacob
+tl2_name_abbrev: Planer
+tl2_dates: 1743-1789
+tl2_page_id: 33189760
+author_lsid: 7742-1
+wikidata_id: Q16389859
+ipni_surname: Planer
+ipni_forenames: Johann Jacob
+ipni_standard_form: Planer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

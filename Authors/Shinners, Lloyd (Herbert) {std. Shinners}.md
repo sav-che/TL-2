@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0547
+tl2_volume: vol5
+tl2_page_printed: 565
+tl2_surname: Shinners
+tl2_forenames: Lloyd [Herbert]
+tl2_name_abbrev: Shinners
+tl2_dates: 1918-1971
+tl2_page_id: 33333704
+author_lsid: 9580-1
+wikidata_id: Q3257525
+ipni_surname: Shinners
+ipni_forenames: Lloyd Herbert
+ipni_standard_form: Shinners
+ipni_dates: 1918-1971
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

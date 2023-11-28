@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0773
+tl2_volume: vol2
+tl2_page_printed: 662
+tl2_surname: Krapf
+tl2_forenames: Karl J. von
+tl2_name_abbrev: Krapf
+tl2_dates: fl. 1782
+tl2_page_id: 33068904
+author_lsid: 5024-1
+wikidata_id: Q21517889
+ipni_surname: Krapf
+ipni_forenames: Karl J.von
+ipni_standard_form: Krapf
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

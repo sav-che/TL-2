@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0110
+tl2_volume: suppl8
+tl2_page_printed: 156
+tl2_surname: Gay
+tl2_forenames: Hippolyte
+tl2_name_abbrev: H. Gay
+tl2_dates: fl. 1882-1909
+tl2_page_id: 33258634
+author_lsid: 20004619-1
+wikidata_id: Q36573048
+ipni_surname: Gay
+ipni_forenames: Hippolyte
+ipni_standard_form: H.Gay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

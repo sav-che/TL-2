@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0289
+tl2_volume: vol3
+tl2_page_printed: 265
+tl2_surname: Malme [until 1891: Andersson]
+tl2_forenames: Gustaf Oskar Andersson
+tl2_name_abbrev: Malme
+tl2_dates: 1864-1937
+tl2_page_id: 33355352
+author_lsid: 22826-1
+wikidata_id: Q429017
+ipni_surname: Malme
+ipni_forenames: Gustaf Oskar Andersson
+ipni_standard_form: Malme
+ipni_dates: 1864-1937
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-10-01 13:49:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33355352) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

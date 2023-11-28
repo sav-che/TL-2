@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1056
+tl2_volume: vol4
+tl2_page_printed: 1023
+tl2_surname: Saccardo
+tl2_forenames: Domenico
+tl2_name_abbrev: D. Sacc
+tl2_dates: 1872-1952
+tl2_page_id: 33190494
+author_lsid: 8786-1
+wikidata_id: Q16334351
+ipni_surname: Saccardo
+ipni_forenames: Domenico
+ipni_standard_form: D.Sacc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33190494) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

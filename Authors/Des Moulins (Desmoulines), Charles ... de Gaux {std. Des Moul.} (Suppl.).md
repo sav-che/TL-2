@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0257
+tl2_volume: suppl5
+tl2_page_printed: 228
+tl2_surname: Des Moulins [Desmoulines]
+tl2_forenames: Charles Robert Alexander de Gaux
+tl2_name_abbrev: Des Moul.
+tl2_dates: 1798-1875
+tl2_page_id: 33259274
+author_lsid: 2156-1
+wikidata_id: Q2960744
+ipni_surname: Des Moulins
+ipni_forenames: Charles Robert Alexandre
+ipni_standard_form: Des Moul.
+ipni_dates: 1798-1875
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259274) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

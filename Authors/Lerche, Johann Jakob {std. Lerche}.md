@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1005
+tl2_volume: vol2
+tl2_page_printed: 846
+tl2_surname: Lerche
+tl2_forenames: Johann Jakob
+tl2_name_abbrev: Lerche
+tl2_dates: 1703-1780
+tl2_page_id: 33069088
+author_lsid: 5493-1
+wikidata_id: Q21518696
+ipni_surname: Lerche
+ipni_forenames: Johann Jakob(Jacob)
+ipni_standard_form: Lerche
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

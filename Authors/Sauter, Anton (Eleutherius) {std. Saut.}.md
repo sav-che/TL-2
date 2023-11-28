@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0073
+tl2_volume: vol5
+tl2_page_printed: 73
+tl2_surname: Sauter
+tl2_forenames: Anton [Eleutherius]
+tl2_name_abbrev: Saut.
+tl2_dates: 1800-1881
+tl2_page_id: 33333212
+author_lsid: 8961-1
+wikidata_id: Q29885
+ipni_surname: Sauter
+ipni_forenames: Anton Eleutherius
+ipni_standard_form: Saut.
+ipni_dates: 1800-1881
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33333212) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

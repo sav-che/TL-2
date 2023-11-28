@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0719
+tl2_volume: vol2
+tl2_page_printed: 589
+tl2_surname: Koch
+tl2_forenames: Karl [Carl] Heinrich Emil
+tl2_name_abbrev: K. Koch
+tl2_dates: 1809-1879
+tl2_page_id: 33068831
+author_lsid: 4899-1
+wikidata_id: Q65130
+ipni_surname: Koch
+ipni_forenames: Karl(Carl) Heinrich Emil (Ludwig)
+ipni_standard_form: K.Koch
+ipni_dates: 1809-1879
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33068831) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0792
+tl2_volume: vol5
+tl2_page_printed: 792
+tl2_surname: Spin
+tl2_forenames: Marquis de (Marquese di Spigno)
+tl2_name_abbrev: Spin
+tl2_dates: fl. 1809
+tl2_page_id: 33333931
+author_lsid: 9972-1
+wikidata_id: Q6133245
+ipni_surname: Spin
+ipni_forenames: (Marquis de)
+ipni_standard_form: Spin
+ipni_dates: fl. 1809
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0598
+tl2_volume: vol3
+tl2_page_printed: 522
+tl2_surname: Mitchell
+tl2_forenames: John
+tl2_name_abbrev: Mitch.
+tl2_dates: 1711-1768
+tl2_page_id: 33355609
+author_lsid: 6522-1
+wikidata_id: Q2614632
+ipni_surname: Mitchell
+ipni_forenames: John
+ipni_standard_form: Mitch.
+ipni_dates: 1711-1768
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33355609) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

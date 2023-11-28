@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0375
+tl2_volume: vol5
+tl2_page_printed: 393
+tl2_surname: Schulze
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: J.H. Schulze
+tl2_dates: 1687-1744
+tl2_page_id: 33333532
+author_lsid: 9323-1
+wikidata_id: Q76698
+ipni_surname: Schulze
+ipni_forenames: Johann Heinrich
+ipni_standard_form: J.H.Schulze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

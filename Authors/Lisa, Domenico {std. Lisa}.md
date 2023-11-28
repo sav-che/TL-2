@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0066
+tl2_volume: vol3
+tl2_page_printed: 117
+tl2_surname: Lisa
+tl2_forenames: Domenico
+tl2_name_abbrev: Lisa
+tl2_dates: 1801-1867
+tl2_page_id: 33355204
+author_lsid: 22423-1
+wikidata_id: Q21519254
+ipni_surname: Lisa
+ipni_forenames: Domenico
+ipni_standard_form: Lisa
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33355204) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

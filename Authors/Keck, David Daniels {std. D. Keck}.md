@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0600
+tl2_volume: vol2
+tl2_page_printed: 512
+tl2_surname: Keck
+tl2_forenames: David Daniels
+tl2_name_abbrev: D. Keck
+tl2_dates: 1903-x
+tl2_page_id: 33068754
+author_lsid: 4693-1
+wikidata_id: Q5232777
+ipni_surname: Keck
+ipni_forenames: David Daniels
+ipni_standard_form: D.D.Keck
+ipni_dates: 1903-1995
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2004-04-14 09:08:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33068754) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

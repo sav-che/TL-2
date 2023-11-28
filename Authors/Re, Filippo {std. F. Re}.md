@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0636
+tl2_volume: vol4
+tl2_page_printed: 611
+tl2_surname: Re
+tl2_forenames: Filippo
+tl2_name_abbrev: F. Re
+tl2_dates: 1763-1817
+tl2_page_id: 33190082
+author_lsid: 8199-1
+wikidata_id: Q3745304
+ipni_surname: Re
+ipni_forenames: Filippo
+ipni_standard_form: F.Re
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

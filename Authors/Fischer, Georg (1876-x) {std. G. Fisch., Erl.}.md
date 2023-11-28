@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0136
+tl2_volume: suppl7
+tl2_page_printed: 213
+tl2_surname: Fischer
+tl2_forenames: Georg (1876-x)
+tl2_name_abbrev: G. Fisch., Erl.
+tl2_dates: 1876-x
+tl2_page_id: 33259717
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259717) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

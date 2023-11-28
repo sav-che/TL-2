@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0594
+tl2_volume: vol2
+tl2_page_printed: 508
+tl2_surname: Kaurin
+tl2_forenames: Christian
+tl2_name_abbrev: Kaur.
+tl2_dates: 1831-1898
+tl2_page_id: 33068750
+author_lsid: 4674-1
+wikidata_id: Q21340599
+ipni_surname: Kaurin
+ipni_forenames: Christian
+ipni_standard_form: Kaurin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

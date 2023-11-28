@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl4_0190
+tl2_volume: suppl4
+tl2_page_printed: 254
+tl2_surname: Cohn
+tl2_forenames: Ferdinand Julius
+tl2_name_abbrev: Cohn
+tl2_dates: 1828-1898
+tl2_page_id: 33265931
+author_lsid: 1724-1
+wikidata_id: Q76774
+ipni_surname: Cohn
+ipni_forenames: Ferdinand Julius
+ipni_standard_form: Cohn
+ipni_dates: 1828-1898
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

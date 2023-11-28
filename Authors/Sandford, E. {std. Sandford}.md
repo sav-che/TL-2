@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0030
+tl2_volume: vol5
+tl2_page_printed: 32
+tl2_surname: Sandford
+tl2_forenames: E.
+tl2_name_abbrev: Sandford
+tl2_dates: fl. 1882
+tl2_page_id: 33333133
+author_lsid: 8887-1
+wikidata_id: Q22106656
+ipni_surname: Sandford
+ipni_forenames: E.
+ipni_standard_form: Sandford
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

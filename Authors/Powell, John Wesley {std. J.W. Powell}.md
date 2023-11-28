@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0449
+tl2_volume: vol4
+tl2_page_printed: 370
+tl2_surname: Powell
+tl2_forenames: John Wesley
+tl2_name_abbrev: J.W. Powell
+tl2_dates: 1834-1902
+tl2_page_id: 33189841
+author_lsid: 7912-1
+wikidata_id: Q348325
+ipni_surname: Powell
+ipni_forenames: John Wesley
+ipni_standard_form: J.W.Powell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

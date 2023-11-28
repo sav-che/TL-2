@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0238
+tl2_volume: suppl4
+tl2_page_printed: 301
+tl2_surname: Conklin
+tl2_forenames: George Hall
+tl2_name_abbrev: Conkl.
+tl2_dates: 1866-1940
+tl2_page_id: 33265978
+author_lsid: 17373-1
+wikidata_id: Q21508938
+ipni_surname: Conklin
+ipni_forenames: George Hall
+ipni_standard_form: Conkl.
+ipni_dates: 1866-1940
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265978) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

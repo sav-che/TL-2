@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0162
+tl2_volume: suppl7
+tl2_page_printed: 239
+tl2_surname: Flageolet
+tl2_forenames: Joseph (Abbé)
+tl2_name_abbrev: Flageolet
+tl2_dates: fl. 1889-1919
+tl2_page_id: 33259743
+author_lsid: 34124-1
+wikidata_id: Q36589967
+ipni_surname: Flageolet
+ipni_forenames: J.
+ipni_standard_form: Flageolet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1035
+tl2_volume: vol4
+tl2_page_printed: 1005
+tl2_surname: Russell
+tl2_forenames: Thomas Hawkes
+tl2_name_abbrev: T.H. Russell
+tl2_dates: 1851-1913
+tl2_page_id: 33190476
+author_lsid: 8758-1
+wikidata_id: Q21607562
+ipni_surname: Russell
+ipni_forenames: Thomas Hawkes
+ipni_standard_form: T.H.Russell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0865
+tl2_volume: vol1
+tl2_page_printed: 682
+tl2_surname: Drude
+tl2_forenames: Carl Georg Oscar
+tl2_name_abbrev: Drude
+tl2_dates: 1852-1933
+tl2_page_id: 33120813
+author_lsid: 2322-1
+wikidata_id: Q63040
+ipni_surname: Drude
+ipni_forenames: Carl Georg Oscar
+ipni_standard_form: Drude
+ipni_dates: 1852-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33120813) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

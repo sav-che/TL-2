@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0445
+tl2_volume: vol4
+tl2_page_printed: 366
+tl2_surname: Poulsen
+tl2_forenames: Viggo Albert
+tl2_name_abbrev: Poulsen
+tl2_dates: 1855-1919
+tl2_page_id: 33189837
+author_lsid: 7900-1
+wikidata_id: Q18910686
+ipni_surname: Poulsen
+ipni_forenames: Viggo Albert
+ipni_standard_form: Poulsen
+ipni_dates: 1855-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33189837) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

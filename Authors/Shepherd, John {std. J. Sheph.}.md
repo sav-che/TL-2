@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0539
+tl2_volume: vol5
+tl2_page_printed: 558
+tl2_surname: Shepherd
+tl2_forenames: John
+tl2_name_abbrev: J. Sheph.
+tl2_dates: 1764-1836
+tl2_page_id: 33333697
+author_lsid: 9561-1
+wikidata_id: Q21608783
+ipni_surname: Shepherd
+ipni_forenames: John
+ipni_standard_form: Sheph.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

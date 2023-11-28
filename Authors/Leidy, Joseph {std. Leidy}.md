@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0977
+tl2_volume: vol2
+tl2_page_printed: 826
+tl2_surname: Leidy
+tl2_forenames: Joseph
+tl2_name_abbrev: Leidy
+tl2_dates: 1823-1891
+tl2_page_id: 33069068
+author_lsid: 22209-1
+wikidata_id: Q461250
+ipni_surname: Leidy
+ipni_forenames: Joseph
+ipni_standard_form: Leidy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Fossils
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33069068) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

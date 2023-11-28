@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0271
+tl2_volume: suppl3
+tl2_page_printed: 284
+tl2_surname: Butcher
+tl2_forenames: Roger William
+tl2_name_abbrev: Butcher
+tl2_dates: 1897-1971
+tl2_page_id: 33266591
+author_lsid: 1326-1
+wikidata_id: Q21388052
+ipni_surname: Butcher
+ipni_forenames: Roger William
+ipni_standard_form: Butcher
+ipni_dates: 1897-1971
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33266591) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

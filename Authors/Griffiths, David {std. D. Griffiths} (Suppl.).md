@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0274
+tl2_volume: suppl8
+tl2_page_printed: 389
+tl2_surname: Griffiths
+tl2_forenames: David
+tl2_name_abbrev: D. Griffiths
+tl2_dates: 1867-1935
+tl2_page_id: 33258867
+author_lsid: 3388-1
+wikidata_id: Q13218562
+ipni_surname: Griffiths
+ipni_forenames: David
+ipni_standard_form: Griffiths
+ipni_dates: 1867-1935
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33258867) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

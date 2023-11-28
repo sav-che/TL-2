@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0618
+tl2_volume: vol2
+tl2_page_printed: 522
+tl2_surname: Ker
+tl2_forenames: Charles Henry Bellenden
+tl2_name_abbrev: Ker
+tl2_dates: 1785?-1871
+tl2_page_id: 33068764
+author_lsid: 4733-1
+wikidata_id: Q5764886
+ipni_surname: Ker
+ipni_forenames: Charles Henry Bellenden
+ipni_standard_form: Ker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

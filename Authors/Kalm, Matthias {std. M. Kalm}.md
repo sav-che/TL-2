@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0571
+tl2_volume: vol2
+tl2_page_printed: 486
+tl2_surname: Kalm
+tl2_forenames: Matthias
+tl2_name_abbrev: M. Kalm
+tl2_dates: 1793-1833
+tl2_page_id: 33068728
+author_lsid: 4621-1
+wikidata_id: Q21517234
+ipni_surname: Kalm
+ipni_forenames: Matthias
+ipni_standard_form: M.Kalm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33068728) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

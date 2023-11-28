@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0147
+tl2_volume: vol3
+tl2_page_printed: 178
+tl2_surname: Lowe
+tl2_forenames: Richard Thomas
+tl2_name_abbrev: R. Lowe
+tl2_dates: 1802-1874
+tl2_page_id: 33355265
+author_lsid: 5787-1
+wikidata_id: Q938919
+ipni_surname: Lowe
+ipni_forenames: Richard Thomas
+ipni_standard_form: Lowe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Morocco
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33355265) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

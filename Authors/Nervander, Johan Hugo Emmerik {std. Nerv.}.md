@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0847
+tl2_volume: vol3
+tl2_page_printed: 727
+tl2_surname: Nervander
+tl2_forenames: Johan Hugo Emmerik
+tl2_name_abbrev: Nerv.
+tl2_dates: 1827-1909
+tl2_page_id: 33355814
+author_lsid: 6917-1
+wikidata_id: Q21522067
+ipni_surname: Nervander
+ipni_forenames: Johan Hugo Emmerik
+ipni_standard_form: Nerv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0490
+tl2_volume: vol5
+tl2_page_printed: 501
+tl2_surname: Sélys-Longchamps
+tl2_forenames: Michel Edmond Baron de
+tl2_name_abbrev: Sélys-Longch.
+tl2_dates: 1813-1900
+tl2_page_id: 33333640
+author_lsid: 14152-1
+wikidata_id: Q59638
+ipni_surname: Sélys-Longchamps
+ipni_forenames: Michel Edmond de
+ipni_standard_form: Sélys-Longch.
+ipni_dates: 1813-1900
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33333640) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

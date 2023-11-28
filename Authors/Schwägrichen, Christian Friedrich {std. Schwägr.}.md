@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0395
+tl2_volume: vol5
+tl2_page_printed: 416
+tl2_surname: Schwägrichen
+tl2_forenames: Christian Friedrich
+tl2_name_abbrev: Schwägr.
+tl2_dates: 1775-1853
+tl2_page_id: 33333555
+author_lsid: 12854-1
+wikidata_id: Q55072516
+ipni_surname: Schwägrichen
+ipni_forenames: Christian Friedrich
+ipni_standard_form: Schwägr.
+ipni_dates: 1775-1853
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33333555) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

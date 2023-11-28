@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0007
+tl2_volume: suppl3
+tl2_page_printed: 5
+tl2_surname: Braeucker (Bräucker)
+tl2_forenames: Theodor
+tl2_name_abbrev: Braeucker
+tl2_dates: 1815-1882
+tl2_page_id: 33266312
+author_lsid: 36574-1
+wikidata_id: Q100523
+ipni_surname: Braeucker
+ipni_forenames: Theodor
+ipni_standard_form: Braeucker
+ipni_dates: 1815-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-05-09 11:08:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33266312) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

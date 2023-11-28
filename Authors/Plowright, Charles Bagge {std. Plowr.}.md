@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0353
+tl2_volume: vol4
+tl2_page_printed: 297
+tl2_surname: Plowright
+tl2_forenames: Charles Bagge
+tl2_name_abbrev: Plowr.
+tl2_dates: 1849-1910
+tl2_page_id: 33189768
+author_lsid: 24920-1
+wikidata_id: Q5075359
+ipni_surname: Plowright
+ipni_forenames: Charles Bagge
+ipni_standard_form: Plowr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

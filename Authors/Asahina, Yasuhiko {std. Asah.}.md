@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0103
+tl2_volume: vol1
+tl2_page_printed: 72
+tl2_surname: Asahina
+tl2_forenames: Yasuhiko
+tl2_name_abbrev: Asah.
+tl2_dates: 1881-1975
+tl2_page_id: 33120203
+author_lsid: 302-1
+wikidata_id: Q11092558
+ipni_surname: Asahina
+ipni_forenames: Yasuhiko (Jasuhiko)
+ipni_standard_form: Asahina
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

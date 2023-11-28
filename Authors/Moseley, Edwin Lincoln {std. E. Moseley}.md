@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0704
+tl2_volume: vol3
+tl2_page_printed: 599
+tl2_surname: Moseley
+tl2_forenames: Edwin Lincoln
+tl2_name_abbrev: E. Moseley
+tl2_dates: 1865-1948
+tl2_page_id: 33355686
+author_lsid: 6692-1
+wikidata_id: Q5820070
+ipni_surname: Moseley
+ipni_forenames: Edwin Lincoln
+ipni_standard_form: E.Moseley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

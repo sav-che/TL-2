@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0194
+tl2_volume: suppl7
+tl2_page_printed: 292
+tl2_surname: Folkard
+tl2_forenames: Richard, Jr.
+tl2_name_abbrev: Folkard
+tl2_dates: fl. 1884-1892
+tl2_page_id: 33259796
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

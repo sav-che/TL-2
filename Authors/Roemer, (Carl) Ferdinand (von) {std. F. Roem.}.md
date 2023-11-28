@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0851
+tl2_volume: vol4
+tl2_page_printed: 842
+tl2_surname: Roemer
+tl2_forenames: [Carl] Ferdinand [von]
+tl2_name_abbrev: F. Roem.
+tl2_dates: 1818-1891
+tl2_page_id: 33190313
+author_lsid: 8505-1
+wikidata_id: Q70854
+ipni_surname: Roemer
+ipni_forenames: Carl(Karl) Ferdinand von
+ipni_standard_form: F.Roem.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33190313) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

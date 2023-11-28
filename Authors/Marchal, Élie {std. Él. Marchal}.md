@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0324
+tl2_volume: vol3
+tl2_page_printed: 287
+tl2_surname: Marchal
+tl2_forenames: Élie
+tl2_name_abbrev: Él. Marchal
+tl2_dates: 1839-1923
+tl2_page_id: 33355374
+author_lsid: 22890-1
+wikidata_id: Q2035208
+ipni_surname: Marchal
+ipni_forenames: Élie
+ipni_standard_form: Marchal
+ipni_dates: 1839-1923
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33355374) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

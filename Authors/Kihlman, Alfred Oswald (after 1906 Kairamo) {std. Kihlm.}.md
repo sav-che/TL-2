@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0643
+tl2_volume: vol2
+tl2_page_printed: 539
+tl2_surname: Kihlman
+tl2_forenames: Alfred Oswald [after 1906 Kairamo]
+tl2_name_abbrev: Kihlm.
+tl2_dates: 1858-1938
+tl2_page_id: 33068781
+author_lsid: 12593-1
+wikidata_id: Q4348381
+ipni_surname: Kihlman
+ipni_forenames: Alfred Oswald
+ipni_standard_form: Kihlm.
+ipni_dates: 1858-1938
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33068781) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

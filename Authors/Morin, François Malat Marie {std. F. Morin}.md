@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0678
+tl2_volume: vol3
+tl2_page_printed: 584
+tl2_surname: Morin
+tl2_forenames: François Malat Marie
+tl2_name_abbrev: F. Morin
+tl2_dates: 1856-1900(?)
+tl2_page_id: 33355671
+author_lsid: 6657-1
+wikidata_id: Q21521735
+ipni_surname: Morin
+ipni_forenames: François Malat Marie
+ipni_standard_form: F.Morin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

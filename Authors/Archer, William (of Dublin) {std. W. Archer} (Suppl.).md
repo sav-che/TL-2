@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0185
+tl2_volume: suppl1
+tl2_page_printed: 146
+tl2_surname: Archer
+tl2_forenames: William (of Dublin)
+tl2_name_abbrev: W. Archer, Dubl.
+tl2_dates: 1830-1897
+tl2_page_id: 33264873
+author_lsid: 254-1
+wikidata_id: Q10426833
+ipni_surname: Archer
+ipni_forenames: William
+ipni_standard_form: W.Archer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

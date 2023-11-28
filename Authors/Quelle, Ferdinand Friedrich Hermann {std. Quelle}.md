@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0535
+tl2_volume: vol4
+tl2_page_printed: 455
+tl2_surname: Quelle
+tl2_forenames: Ferdinand Friedrich Hermann
+tl2_name_abbrev: Quelle
+tl2_dates: 1876-1963
+tl2_page_id: 33189926
+author_lsid: 8050-1
+wikidata_id: Q21606804
+ipni_surname: Quelle
+ipni_forenames: Ferdinand Friedrich Hermann
+ipni_standard_form: Quelle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33189926) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

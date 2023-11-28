@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0363
+tl2_volume: suppl6
+tl2_page_printed: 327
+tl2_surname: Elsner
+tl2_forenames: Carl Friedrich Moritz
+tl2_name_abbrev: Elsner
+tl2_dates: 1809-1894
+tl2_page_id: 33260315
+author_lsid: 20015929-1
+wikidata_id: Q1282734
+ipni_surname: Elsner
+ipni_forenames: Carl Friedrich Moritz
+ipni_standard_form: C.F.M.Elsner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

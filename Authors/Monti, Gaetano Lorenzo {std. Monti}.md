@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0649
+tl2_volume: vol3
+tl2_page_printed: 564
+tl2_surname: Monti
+tl2_forenames: Gaetano Lorenzo
+tl2_name_abbrev: Monti
+tl2_dates: 1712-1797
+tl2_page_id: 33355651
+author_lsid: 6604-1
+wikidata_id: Q4302107
+ipni_surname: Monti
+ipni_forenames: Gaetano Lorenzo
+ipni_standard_form: Monti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

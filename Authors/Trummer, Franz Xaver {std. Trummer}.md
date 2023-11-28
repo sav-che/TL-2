@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0524
+tl2_volume: vol6
+tl2_page_printed: 513
+tl2_surname: Trummer
+tl2_forenames: Franz Xaver
+tl2_name_abbrev: Trummer
+tl2_dates: x-1858
+tl2_page_id: 33212555
+author_lsid: 35141-1
+wikidata_id: Q21610983
+ipni_surname: Trummer
+ipni_forenames: Franz Xaver
+ipni_standard_form: Trummer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

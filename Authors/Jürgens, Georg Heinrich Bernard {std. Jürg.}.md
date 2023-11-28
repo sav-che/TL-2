@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0539
+tl2_volume: vol2
+tl2_page_printed: 467
+tl2_surname: Jürgens
+tl2_forenames: Georg Heinrich Bernard
+tl2_name_abbrev: Jürg.
+tl2_dates: 1771-1846
+tl2_page_id: 33068709
+author_lsid: 4570-1
+wikidata_id: Q21517177
+ipni_surname: Jürgens
+ipni_forenames: Georg Heinrich Bernhard
+ipni_standard_form: Jürg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

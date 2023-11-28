@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0810
+tl2_volume: vol1
+tl2_page_printed: 636
+tl2_surname: Déterville
+tl2_forenames: Déterville
+tl2_name_abbrev: Déterville
+tl2_dates: fl. 1800
+tl2_page_id: 33120767
+author_lsid: 2161-1
+wikidata_id: Q47116409
+ipni_surname: Déterville
+ipni_forenames: Jean-François-Pierre
+ipni_standard_form: Déterv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

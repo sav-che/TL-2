@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0455
+tl2_volume: suppl1
+tl2_page_printed: 394
+tl2_surname: Baxter
+tl2_forenames: William
+tl2_name_abbrev: Baxter
+tl2_dates: 1787-1871
+tl2_page_id: 33265121
+author_lsid: 564-1
+wikidata_id: Q3040528
+ipni_surname: Baxter
+ipni_forenames: William
+ipni_standard_form: Baxter
+ipni_dates: 1787-1871
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

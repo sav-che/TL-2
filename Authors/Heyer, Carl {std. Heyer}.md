@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0227
+tl2_volume: vol2
+tl2_page_printed: 187
+tl2_surname: Heyer
+tl2_forenames: Carl
+tl2_name_abbrev: Heyer
+tl2_dates: 1797-1856
+tl2_page_id: 33068429
+author_lsid: 3921-1
+wikidata_id: Q102556
+ipni_surname: Heyer
+ipni_forenames: Carl
+ipni_standard_form: Heyer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

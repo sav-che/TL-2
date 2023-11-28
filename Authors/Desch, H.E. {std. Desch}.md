@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0250
+tl2_volume: suppl5
+tl2_page_printed: 214
+tl2_surname: Desch
+tl2_forenames: H.E.
+tl2_name_abbrev: Desch
+tl2_dates: fl. 1936-1954
+tl2_page_id: 33259260
+author_lsid: 2143-1
+wikidata_id: Q18984201
+ipni_surname: Desch
+ipni_forenames: H.E.
+ipni_standard_form: Desch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

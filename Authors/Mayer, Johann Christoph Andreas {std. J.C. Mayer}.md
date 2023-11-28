@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0446
+tl2_volume: vol3
+tl2_page_printed: 387
+tl2_surname: Mayer
+tl2_forenames: Johann Christoph Andreas
+tl2_name_abbrev: J.C. Mayer
+tl2_dates: 1747-1801
+tl2_page_id: 33355474
+author_lsid: 6276-1
+wikidata_id: Q216295
+ipni_surname: Mayer
+ipni_forenames: Johann Christoph Andreas
+ipni_standard_form: J.C.Mayer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

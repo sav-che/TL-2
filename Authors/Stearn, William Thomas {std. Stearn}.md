@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0848
+tl2_volume: vol5
+tl2_page_printed: 850
+tl2_surname: Stearn
+tl2_forenames: William Thomas
+tl2_name_abbrev: Stearn
+tl2_dates: 1911-x
+tl2_page_id: 33333989
+author_lsid: 10044-1
+wikidata_id: Q1484289
+ipni_surname: Stearn
+ipni_forenames: William Thomas
+ipni_standard_form: Stearn
+ipni_dates: 1911-2001
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33333989) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0736
+tl2_volume: vol1
+tl2_page_printed: 589
+tl2_surname: Dahlgren
+tl2_forenames: Bror Eric
+tl2_name_abbrev: Dahlgren
+tl2_dates: 1877-1961
+tl2_page_id: 33120720
+author_lsid: 1956-1
+wikidata_id: Q5734290
+ipni_surname: Dahlgren
+ipni_forenames: Bror Eric
+ipni_standard_form: Dahlgren
+ipni_dates: 1877-1961
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

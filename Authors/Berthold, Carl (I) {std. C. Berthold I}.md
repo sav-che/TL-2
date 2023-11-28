@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0142
+tl2_volume: suppl2
+tl2_page_printed: 120
+tl2_surname: Berthold
+tl2_forenames: Carl [I]
+tl2_name_abbrev: C. Berthold I
+tl2_dates: 1834?-1884
+tl2_page_id: 33265317
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33265317) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

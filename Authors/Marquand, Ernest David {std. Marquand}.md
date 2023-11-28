@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0345
+tl2_volume: vol3
+tl2_page_printed: 302
+tl2_surname: Marquand
+tl2_forenames: Ernest David
+tl2_name_abbrev: Marquand
+tl2_dates: 1848-1918
+tl2_page_id: 33355389
+author_lsid: 22925-1
+wikidata_id: Q5836702
+ipni_surname: Marquand
+ipni_forenames: Ernest David
+ipni_standard_form: Marquand
+ipni_dates: 1848-1918
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

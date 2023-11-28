@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0459
+tl2_volume: vol2
+tl2_page_printed: 418
+tl2_surname: Jahn
+tl2_forenames: Eduard Adolf Wilhelm
+tl2_name_abbrev: E. Jahn
+tl2_dates: 1871-1942
+tl2_page_id: 33068660
+author_lsid: 4402-1
+wikidata_id: Q18222345
+ipni_surname: Jahn
+ipni_forenames: Eduard Adolf Wilhelm
+ipni_standard_form: E.Jahn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

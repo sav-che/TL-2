@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0109
+tl2_volume: suppl4
+tl2_page_printed: 138
+tl2_surname: Choux
+tl2_forenames: Pierre
+tl2_name_abbrev: Choux
+tl2_dates: 1890-1983
+tl2_page_id: 33265815
+author_lsid: 1620-1
+wikidata_id: Q6075520
+ipni_surname: Choux
+ipni_forenames: Pierre
+ipni_standard_form: Choux
+ipni_dates: 1890-1983
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265815) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

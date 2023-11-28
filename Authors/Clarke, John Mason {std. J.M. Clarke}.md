@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0629
+tl2_volume: vol1
+tl2_page_printed: 508
+tl2_surname: Clarke
+tl2_forenames: John Mason
+tl2_name_abbrev: J.M. Clarke
+tl2_dates: 1857-1925
+tl2_page_id: 33120639
+author_lsid: 1672-1
+wikidata_id: Q3809155
+ipni_surname: Clarke
+ipni_forenames: John Mason
+ipni_standard_form: J.M.Clarke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

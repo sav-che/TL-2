@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0232
+tl2_volume: vol2
+tl2_page_printed: 190
+tl2_surname: Hick
+tl2_forenames: Thomas
+tl2_name_abbrev: Hick
+tl2_dates: 1840-1896
+tl2_page_id: 33068432
+author_lsid: 3928-1
+wikidata_id: Q21515782
+ipni_surname: Hick
+ipni_forenames: Thomas
+ipni_standard_form: Hick
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

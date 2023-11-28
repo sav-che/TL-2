@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0223
+tl2_volume: vol1
+tl2_page_printed: 168
+tl2_surname: Bélanger
+tl2_forenames: Charles Paulus
+tl2_name_abbrev: Bél.
+tl2_dates: 1805-1881
+tl2_page_id: 33120299
+author_lsid: 627-1
+wikidata_id: Q2959958
+ipni_surname: Bélanger
+ipni_forenames: Charles Paulus
+ipni_standard_form: Bél.
+ipni_dates: 1805-1881
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33120299) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

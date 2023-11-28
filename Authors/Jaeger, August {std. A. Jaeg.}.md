@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0451
+tl2_volume: vol2
+tl2_page_printed: 414
+tl2_surname: Jaeger
+tl2_forenames: August
+tl2_name_abbrev: A. Jaeg.
+tl2_dates: 1842-1877
+tl2_page_id: 33068656
+author_lsid: 4391-1
+wikidata_id: Q21513395
+ipni_surname: Jaeger
+ipni_forenames: August
+ipni_standard_form: A.Jaeger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33068656) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

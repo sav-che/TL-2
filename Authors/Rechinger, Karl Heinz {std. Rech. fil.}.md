@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0649
+tl2_volume: vol4
+tl2_page_printed: 618
+tl2_surname: Rechinger
+tl2_forenames: Karl Heinz
+tl2_name_abbrev: Rech. fil.
+tl2_dates: 1906-x
+tl2_page_id: 33190089
+author_lsid: 8215-1
+wikidata_id: Q78738
+ipni_surname: Rechinger
+ipni_forenames: Karl Heinz
+ipni_standard_form: Rech.f.
+ipni_dates: 1906-1998
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33190089) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0893
+tl2_volume: vol1
+tl2_page_printed: 702
+tl2_surname: Duncan
+tl2_forenames: Peter Martin
+tl2_name_abbrev: P. Duncan
+tl2_dates: 1824-1891
+tl2_page_id: 33120833
+author_lsid: 2376-1
+wikidata_id: Q953473
+ipni_surname: Duncan
+ipni_forenames: Peter Martin
+ipni_standard_form: P.Duncan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

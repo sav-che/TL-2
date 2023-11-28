@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0987
+tl2_volume: vol4
+tl2_page_printed: 960
+tl2_surname: Royen
+tl2_forenames: David van
+tl2_name_abbrev: D. Royen
+tl2_dates: 1727-1799
+tl2_page_id: 33190431
+author_lsid: 8685-1
+wikidata_id: Q938934
+ipni_surname: Royen
+ipni_forenames: David van
+ipni_standard_form: D.Royen
+ipni_dates: 1727-1799
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33190431) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0564
+tl2_volume: vol5
+tl2_page_printed: 576
+tl2_surname: Sibree
+tl2_forenames: James
+tl2_name_abbrev: Sibree
+tl2_dates: 1836-1929
+tl2_page_id: 33333715
+author_lsid: 9604-1
+wikidata_id: Q18764259
+ipni_surname: Sibree
+ipni_forenames: James
+ipni_standard_form: Sibree
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

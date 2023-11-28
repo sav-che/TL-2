@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0529
+tl2_volume: vol1
+tl2_page_printed: 426
+tl2_surname: Calwer
+tl2_forenames: Carl Gustav
+tl2_name_abbrev: Calwer
+tl2_dates: 1821-1873
+tl2_page_id: 33120557
+author_lsid: 1365-1
+wikidata_id: Q78413
+ipni_surname: Calwer
+ipni_forenames: Carl Gustav
+ipni_standard_form: Calwer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

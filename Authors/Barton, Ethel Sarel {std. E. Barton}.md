@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0403
+tl2_volume: suppl1
+tl2_page_printed: 349
+tl2_surname: Barton
+tl2_forenames: Ethel Sarel
+tl2_name_abbrev: E. Barton
+tl2_dates: 1864-1922
+tl2_page_id: 33265076
+author_lsid: 32363-1
+wikidata_id: Q21341607
+ipni_surname: Barton
+ipni_forenames: Ethel Sarel
+ipni_standard_form: E.S.Barton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33265076) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

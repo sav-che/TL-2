@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0764
+tl2_volume: vol2
+tl2_page_printed: 657
+tl2_surname: Kováts von Szent-Lélek
+tl2_forenames: Julius
+tl2_name_abbrev: Kováts
+tl2_dates: 1815-1873
+tl2_page_id: 33068899
+author_lsid: 4998-1
+wikidata_id: Q1120552
+ipni_surname: Kováts von Szent-Lélek
+ipni_forenames: Julius
+ipni_standard_form: Kováts
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33068899) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

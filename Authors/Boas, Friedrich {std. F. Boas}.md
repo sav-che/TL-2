@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0292
+tl2_volume: suppl2
+tl2_page_printed: 237
+tl2_surname: Boas
+tl2_forenames: Friedrich
+tl2_name_abbrev: F. Boas
+tl2_dates: 1886-post 1956
+tl2_page_id: 33265434
+author_lsid: 35386-1
+wikidata_id: Q1458481
+ipni_surname: Boas
+ipni_forenames: Friedrich
+ipni_standard_form: F.Boas
+ipni_dates: fl. 1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33265434) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

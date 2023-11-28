@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0070
+tl2_volume: suppl2
+tl2_page_printed: 68
+tl2_surname: Benecke
+tl2_forenames: [Friedrich] Wilhelm
+tl2_name_abbrev: W. Benecke
+tl2_dates: 1868-1946
+tl2_page_id: 33265265
+author_lsid: 646-1
+wikidata_id: Q5569807
+ipni_surname: Benecke
+ipni_forenames: Wilhelm
+ipni_standard_form: W.Benecke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33265265) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

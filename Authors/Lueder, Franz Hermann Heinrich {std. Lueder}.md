@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0160
+tl2_volume: vol3
+tl2_page_printed: 185
+tl2_surname: Lueder
+tl2_forenames: Franz Hermann Heinrich
+tl2_name_abbrev: Lueder
+tl2_dates: x-1791
+tl2_page_id: 33355272
+author_lsid: 5812-1
+wikidata_id: Q21519576
+ipni_surname: Lueder
+ipni_forenames: Franz Hermann Heinrich
+ipni_standard_form: Lueder
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

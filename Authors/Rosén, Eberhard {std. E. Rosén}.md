@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0912
+tl2_volume: vol4
+tl2_page_printed: 887
+tl2_surname: Rosén
+tl2_forenames: Eberhard
+tl2_name_abbrev: E. Rosén
+tl2_dates: 1714-1796
+tl2_page_id: 33190358
+author_lsid: 8588-1
+wikidata_id: Q21607411
+ipni_surname: Rosén
+ipni_forenames: Eberhard
+ipni_standard_form: E.Rosén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

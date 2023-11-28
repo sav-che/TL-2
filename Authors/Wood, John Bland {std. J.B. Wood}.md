@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0388
+tl2_volume: vol7
+tl2_page_printed: 438
+tl2_surname: Wood
+tl2_forenames: John Bland
+tl2_name_abbrev: J.B. Wood
+tl2_dates: 1813-1890
+tl2_page_id: 33066778
+author_lsid: 11844-1
+wikidata_id: Q21612956
+ipni_surname: Wood
+ipni_forenames: John Bland
+ipni_standard_form: J.B.Wood
+ipni_dates: 1813-1890
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

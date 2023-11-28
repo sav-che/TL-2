@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0745
+tl2_volume: vol4
+tl2_page_printed: 756
+tl2_surname: Ricca
+tl2_forenames: Luigi
+tl2_name_abbrev: Ricca
+tl2_dates: x-1879
+tl2_page_id: 33190227
+author_lsid: 8340-1
+wikidata_id: Q21607162
+ipni_surname: Ricca
+ipni_forenames: Luigi
+ipni_standard_form: Ricca
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

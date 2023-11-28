@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0040
+tl2_volume: vol2
+tl2_page_printed: 33
+tl2_surname: Halsted
+tl2_forenames: Byron David
+tl2_name_abbrev: Halst.
+tl2_dates: 1852-1918
+tl2_page_id: 33068275
+author_lsid: 3591-1
+wikidata_id: Q5004372
+ipni_surname: Halsted
+ipni_forenames: Byron David
+ipni_standard_form: Halst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

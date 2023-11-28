@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0846
+tl2_volume: vol2
+tl2_page_printed: 719
+tl2_surname: Laffon
+tl2_forenames: J. C.
+tl2_name_abbrev: Laffon
+tl2_dates: fl. 1848
+tl2_page_id: 33068961
+author_lsid: 5202-1
+wikidata_id: Q21518296
+ipni_surname: Laffon
+ipni_forenames: Johann Conrad
+ipni_standard_form: Laffon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0527
+tl2_volume: vol1
+tl2_page_printed: 426
+tl2_surname: Callay
+tl2_forenames: Eugène Albert-Athanase
+tl2_name_abbrev: Callay
+tl2_dates: 1822-1896
+tl2_page_id: 33120557
+author_lsid: 1360-1
+wikidata_id: Q5850647
+ipni_surname: Callay
+ipni_forenames: Eugène Albert Athenase
+ipni_standard_form: Callay
+ipni_dates: 1822-1896
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

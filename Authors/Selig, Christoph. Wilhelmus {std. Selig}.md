@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0483
+tl2_volume: vol5
+tl2_page_printed: 498
+tl2_surname: Selig
+tl2_forenames: Christoph. Wilhelmus
+tl2_name_abbrev: Selig
+tl2_dates: fl. 1802
+tl2_page_id: 33333637
+author_lsid: 9455-1
+wikidata_id: Q36530706
+ipni_surname: Selig
+ipni_forenames: Christoph Wilhelmus
+ipni_standard_form: Selig
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

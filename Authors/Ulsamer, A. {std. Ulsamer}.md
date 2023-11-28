@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0591
+tl2_volume: vol6
+tl2_page_printed: 585
+tl2_surname: Ulsamer
+tl2_forenames: A.
+tl2_name_abbrev: Ulsamer
+tl2_dates: fl. 1895
+tl2_page_id: 33212627
+author_lsid: 10976-1
+wikidata_id: Q47127786
+ipni_surname: Ulsamer
+ipni_forenames: A.
+ipni_standard_form: Ulsamer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

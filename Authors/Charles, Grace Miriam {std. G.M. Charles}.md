@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0045
+tl2_volume: suppl4
+tl2_page_printed: 55
+tl2_surname: Charles
+tl2_forenames: Grace Miriam
+tl2_name_abbrev: G.M. Charles
+tl2_dates: 1876-?
+tl2_page_id: 33265732
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33265732) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

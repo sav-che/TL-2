@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0978
+tl2_volume: vol2
+tl2_page_printed: 827
+tl2_surname: Leighton
+tl2_forenames: (Rev.) William Allport
+tl2_name_abbrev: Leight.
+tl2_dates: 1805-1889
+tl2_page_id: 33069069
+author_lsid: 22210-1
+wikidata_id: Q8004384
+ipni_surname: Leighton
+ipni_forenames: William Allport
+ipni_standard_form: Leight.
+ipni_dates: 1805-1889
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33069069) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

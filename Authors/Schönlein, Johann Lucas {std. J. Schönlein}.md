@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0289
+tl2_volume: vol5
+tl2_page_printed: 291
+tl2_surname: Schönlein
+tl2_forenames: Johann Lucas
+tl2_name_abbrev: J. Schönlein
+tl2_dates: 1793-1864
+tl2_page_id: 33333430
+author_lsid: 9220-1
+wikidata_id: Q61678
+ipni_surname: Schönlein
+ipni_forenames: Johann Lucas
+ipni_standard_form: Schönl.
+ipni_dates: 1793-1864
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

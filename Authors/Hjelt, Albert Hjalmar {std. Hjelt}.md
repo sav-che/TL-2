@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0264
+tl2_volume: vol2
+tl2_page_printed: 217
+tl2_surname: Hjelt
+tl2_forenames: Albert Hjalmar
+tl2_name_abbrev: Hjelt
+tl2_dates: 1851-1925
+tl2_page_id: 33068459
+author_lsid: 3977-1
+wikidata_id: Q3450215
+ipni_surname: Hjelt
+ipni_forenames: Albert Hjalmar
+ipni_standard_form: Hjelt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

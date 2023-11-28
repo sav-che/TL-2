@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0680
+tl2_volume: vol5
+tl2_page_printed: 675
+tl2_surname: Smith
+tl2_forenames: [Karl August] Harald
+tl2_name_abbrev: Ha. Sm.
+tl2_dates: 1889-1971
+tl2_page_id: 33333814
+author_lsid: 12872-1
+wikidata_id: Q5958234
+ipni_surname: Smith
+ipni_forenames: Karl August Harald (`Harry')
+ipni_standard_form: Harry Sm.
+ipni_dates: 1889-1971
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

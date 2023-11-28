@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0091
+tl2_volume: suppl5
+tl2_page_printed: 86
+tl2_surname: Daugherty
+tl2_forenames: Charles M.
+tl2_name_abbrev: C.M. Daugherty
+tl2_dates: fl. 1903
+tl2_page_id: 33259132
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

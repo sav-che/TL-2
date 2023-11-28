@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0199
+tl2_volume: suppl6
+tl2_page_printed: 178
+tl2_surname: Durand
+tl2_forenames: Elias Judah
+tl2_name_abbrev: E.J. Durand
+tl2_dates: 1870-1922
+tl2_page_id: 33260166
+author_lsid: 2393-1
+wikidata_id: Q8774833
+ipni_surname: Durand
+ipni_forenames: Elias Judah
+ipni_standard_form: E.J.Durand
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

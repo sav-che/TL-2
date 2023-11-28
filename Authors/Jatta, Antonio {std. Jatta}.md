@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0475
+tl2_volume: vol2
+tl2_page_printed: 426
+tl2_surname: Jatta
+tl2_forenames: Antonio
+tl2_name_abbrev: Jatta
+tl2_dates: 1852-1912
+tl2_page_id: 33068668
+author_lsid: 4440-1
+wikidata_id: Q3619721
+ipni_surname: Jatta
+ipni_forenames: Antonio
+ipni_standard_form: Jatta
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

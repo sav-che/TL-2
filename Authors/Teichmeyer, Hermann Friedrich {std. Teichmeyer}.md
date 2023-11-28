@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0237
+tl2_volume: vol6
+tl2_page_printed: 200
+tl2_surname: Teichmeyer
+tl2_forenames: Hermann Friedrich
+tl2_name_abbrev: Teichmeyer
+tl2_dates: 1685-1744
+tl2_page_id: 33212242
+author_lsid: 10485-1
+wikidata_id: Q75979
+ipni_surname: Teichmeyer
+ipni_forenames: Hermann Friedrich
+ipni_standard_form: Teichm.
+ipni_dates: 1685-1744
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33212242) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

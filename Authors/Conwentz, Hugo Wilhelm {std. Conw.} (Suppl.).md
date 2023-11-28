@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0253
+tl2_volume: suppl4
+tl2_page_printed: 312
+tl2_surname: Conwentz
+tl2_forenames: Hugo Wilhelm
+tl2_name_abbrev: Conw.
+tl2_dates: 1855-1922
+tl2_page_id: 33265989
+author_lsid: 1775-1
+wikidata_id: Q73508
+ipni_surname: Conwentz
+ipni_forenames: Hugo Wilhelm
+ipni_standard_form: Conw.
+ipni_dates: 1855-1922
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

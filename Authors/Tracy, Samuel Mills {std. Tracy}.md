@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0457
+tl2_volume: vol6
+tl2_page_printed: 425
+tl2_surname: Tracy
+tl2_forenames: Samuel Mills
+tl2_name_abbrev: Tracy
+tl2_dates: 1847-1920
+tl2_page_id: 33212467
+author_lsid: 10784-1
+wikidata_id: Q6118176
+ipni_surname: Tracy
+ipni_forenames: Samuel Mills
+ipni_standard_form: Tracy
+ipni_dates: 1847-1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

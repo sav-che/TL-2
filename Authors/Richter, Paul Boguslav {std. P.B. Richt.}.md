@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0766
+tl2_volume: vol4
+tl2_page_printed: 779
+tl2_surname: Richter
+tl2_forenames: Paul Boguslav
+tl2_name_abbrev: P.B. Richt.
+tl2_dates: 1853-1911
+tl2_page_id: 33190250
+author_lsid: 8370-1
+wikidata_id: Q21607200
+ipni_surname: Richter
+ipni_forenames: Paul Boguslav
+ipni_standard_form: P.B.Richt.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33190250) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

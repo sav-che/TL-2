@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0677
+tl2_volume: vol2
+tl2_page_printed: 563
+tl2_surname: Klebs
+tl2_forenames: Georg Albrecht
+tl2_name_abbrev: Klebs
+tl2_dates: 1857-1918
+tl2_page_id: 33068805
+author_lsid: 21477-1
+wikidata_id: Q67250
+ipni_surname: Klebs
+ipni_forenames: Georg Albrecht
+ipni_standard_form: G.A.Klebs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

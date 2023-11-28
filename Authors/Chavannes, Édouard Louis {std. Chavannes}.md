@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0605
+tl2_volume: vol1
+tl2_page_printed: 490
+tl2_surname: Chavannes
+tl2_forenames: Édouard Louis
+tl2_name_abbrev: Chavannes
+tl2_dates: 1805-1861
+tl2_page_id: 33120621
+author_lsid: 1559-1
+wikidata_id: Q6174203
+ipni_surname: Chavannes
+ipni_forenames: Édouard Louis
+ipni_standard_form: Chav.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

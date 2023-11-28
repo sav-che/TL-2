@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_1032
+tl2_volume: vol3
+tl2_page_printed: 867
+tl2_surname: Owen
+tl2_forenames: Maria Louisa (née Tallant)
+tl2_name_abbrev: Owen
+tl2_dates: 1825-1913
+tl2_page_id: 33355954
+author_lsid: 12718-1
+wikidata_id: Q21522487
+ipni_surname: Owen
+ipni_forenames: Maria Louisa
+ipni_standard_form: Owen
+ipni_dates: 1825-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

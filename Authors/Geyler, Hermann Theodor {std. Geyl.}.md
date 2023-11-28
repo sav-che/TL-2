@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1182
+tl2_volume: vol1
+tl2_page_printed: 939
+tl2_surname: Geyler
+tl2_forenames: Hermann Theodor
+tl2_name_abbrev: Geyl.
+tl2_dates: 1834-1889
+tl2_page_id: 33121070
+author_lsid: 3119-1
+wikidata_id: Q3134184
+ipni_surname: Geyler
+ipni_forenames: Hermann Theodor
+ipni_standard_form: Geyl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

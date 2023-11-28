@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0456
+tl2_volume: vol3
+tl2_page_printed: 392
+tl2_surname: Mazza
+tl2_forenames: Angelo
+tl2_name_abbrev: Mazza
+tl2_dates: 1844-1929
+tl2_page_id: 33355479
+author_lsid: 6288-1
+wikidata_id: Q21520191
+ipni_surname: Mazza
+ipni_forenames: Angelo
+ipni_standard_form: Mazza
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33355479) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

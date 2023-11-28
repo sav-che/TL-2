@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0073
+tl2_volume: vol1
+tl2_page_printed: 49
+tl2_surname: Andrews
+tl2_forenames: Henry C.
+tl2_name_abbrev: Andr.
+tl2_dates: fl. 1799-1830
+tl2_page_id: 33120180
+author_lsid: 216-1
+wikidata_id: Q947133
+ipni_surname: Andrews
+ipni_forenames: Henry Charles
+ipni_standard_form: Andrews
+ipni_dates: fl. 1794-1830
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

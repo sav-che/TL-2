@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1019
+tl2_volume: vol2
+tl2_page_printed: 856
+tl2_surname: Leszczyc-Suminsky
+tl2_forenames: Michael Hieronim
+tl2_name_abbrev: Leszc.-Sum.
+tl2_dates: 1820-1898
+tl2_page_id: 33069098
+author_lsid: 5514-1
+wikidata_id: Q5593947
+ipni_surname: Leszczyc-Sumińsky
+ipni_forenames: Michał Hieronim
+ipni_standard_form: Leszcz.-Sum.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33069098) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

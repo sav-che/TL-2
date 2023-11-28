@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0100
+tl2_volume: suppl5
+tl2_page_printed: 94
+tl2_surname: Davey
+tl2_forenames: Frederick Hamilton
+tl2_name_abbrev: Davey
+tl2_dates: 1868-1915
+tl2_page_id: 33259140
+author_lsid: 2014-1
+wikidata_id: Q5497956
+ipni_surname: Davey
+ipni_forenames: Frederick Hamilton
+ipni_standard_form: Davey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0028
+tl2_volume: vol7
+tl2_page_printed: 24
+tl2_surname: Wakefield
+tl2_forenames: Elsie Maud
+tl2_name_abbrev: Wakef.
+tl2_dates: 1886-1972
+tl2_page_id: 33066364
+author_lsid: 11323-1
+wikidata_id: Q5367615
+ipni_surname: Wakefield
+ipni_forenames: Elsie Maud
+ipni_standard_form: Wakef.
+ipni_dates: 1886-1972
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33066364) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

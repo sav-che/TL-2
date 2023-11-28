@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0311
+tl2_volume: suppl5
+tl2_page_printed: 292
+tl2_surname: Didrichsen
+tl2_forenames: Didrik Ferdinand
+tl2_name_abbrev: Didr.
+tl2_dates: 1814-1887
+tl2_page_id: 33259338
+author_lsid: 2195-1
+wikidata_id: Q2986127
+ipni_surname: Didrichsen
+ipni_forenames: Didrik Ferdinand
+ipni_standard_form: Didr.
+ipni_dates: 1814-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259338) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

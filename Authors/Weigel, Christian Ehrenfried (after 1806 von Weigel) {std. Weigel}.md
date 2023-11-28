@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0142
+tl2_volume: vol7
+tl2_page_printed: 149
+tl2_surname: Weigel
+tl2_forenames: Christian Ehrenfried [after 1806 von Weigel]
+tl2_name_abbrev: Weigel
+tl2_dates: 1748-1831
+tl2_page_id: 33066489
+author_lsid: 11496-1
+wikidata_id: Q543475
+ipni_surname: Weigel
+ipni_forenames: Christian Ehrenfried (von)
+ipni_standard_form: Weigel
+ipni_dates: 1748-1831
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33066489) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

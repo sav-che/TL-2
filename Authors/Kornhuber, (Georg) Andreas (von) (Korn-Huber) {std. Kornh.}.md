@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0755
+tl2_volume: vol2
+tl2_page_printed: 650
+tl2_surname: Kornhuber
+tl2_forenames: (Georg) Andreas (von) (Korn-Huber)
+tl2_name_abbrev: Kornh.
+tl2_dates: 1825-1905
+tl2_page_id: 33068892
+author_lsid: 12623-1
+wikidata_id: Q4755496
+ipni_surname: Kornhuber
+ipni_forenames: (Georg) Andreas von
+ipni_standard_form: Kornh.
+ipni_dates: 1824-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33068892) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

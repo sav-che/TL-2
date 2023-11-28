@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0543
+tl2_volume: vol5
+tl2_page_printed: 561
+tl2_surname: Sherff
+tl2_forenames: Earl Edward
+tl2_name_abbrev: Sherff
+tl2_dates: 1886-1966
+tl2_page_id: 33333700
+author_lsid: 9566-1
+wikidata_id: Q1277047
+ipni_surname: Sherff
+ipni_forenames: Earl Edward
+ipni_standard_form: Sherff
+ipni_dates: 1886-1966
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33333700) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

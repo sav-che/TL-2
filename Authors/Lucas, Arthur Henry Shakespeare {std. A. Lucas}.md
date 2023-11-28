@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0151
+tl2_volume: vol3
+tl2_page_printed: 180
+tl2_surname: Lucas
+tl2_forenames: Arthur Henry Shakespeare
+tl2_name_abbrev: A. Lucas
+tl2_dates: 1853-1936
+tl2_page_id: 33355267
+author_lsid: 5794-1
+wikidata_id: Q2865141
+ipni_surname: Lucas
+ipni_forenames: Arthur Henry Shakespeare
+ipni_standard_form: A.H.S.Lucas
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Australia
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33355267) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

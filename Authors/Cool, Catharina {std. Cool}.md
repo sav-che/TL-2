@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0263
+tl2_volume: suppl4
+tl2_page_printed: 331
+tl2_surname: Cool
+tl2_forenames: Catharina
+tl2_name_abbrev: Cool
+tl2_dates: 1874-1928
+tl2_page_id: 33266008
+author_lsid: 17408-1
+wikidata_id: Q36523564
+ipni_surname: Cool
+ipni_forenames: Catherina
+ipni_standard_form: Cool
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

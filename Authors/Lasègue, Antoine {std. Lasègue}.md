@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0905
+tl2_volume: vol2
+tl2_page_printed: 762
+tl2_surname: Lasègue
+tl2_forenames: Antoine
+tl2_name_abbrev: Lasègue
+tl2_dates: 1793-1873
+tl2_page_id: 33069004
+author_lsid: 5301-1
+wikidata_id: Q5697409
+ipni_surname: Lasègue
+ipni_forenames: Antoine
+ipni_standard_form: Lasègue
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33069004) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

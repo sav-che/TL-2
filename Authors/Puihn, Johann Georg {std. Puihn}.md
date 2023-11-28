@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0517
+tl2_volume: vol4
+tl2_page_printed: 425
+tl2_surname: Puihn
+tl2_forenames: Johann Georg
+tl2_name_abbrev: Puihn
+tl2_dates: x-1793
+tl2_page_id: 33189896
+author_lsid: 8017-1
+wikidata_id: Q21606770
+ipni_surname: Puihn
+ipni_forenames: Johann Georg
+ipni_standard_form: Puihn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

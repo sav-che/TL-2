@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0479
+tl2_volume: vol3
+tl2_page_printed: 408
+tl2_surname: Mela
+tl2_forenames: Aukusti Juhana (until 1876 August Johan Malmberg)
+tl2_name_abbrev: Mela
+tl2_dates: 1846-1904
+tl2_page_id: 33355495
+author_lsid: 12679-1
+wikidata_id: Q11853412
+ipni_surname: Mela
+ipni_forenames: Aukusti Juhana
+ipni_standard_form: Mela
+ipni_dates: 1846-1904
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33355495) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

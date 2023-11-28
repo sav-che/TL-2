@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0325
+tl2_volume: suppl2
+tl2_page_printed: 272
+tl2_surname: Boggiani
+tl2_forenames: [Colonel] Oliviero
+tl2_name_abbrev: Boggiani
+tl2_dates: 1859-1933
+tl2_page_id: 33265469
+author_lsid: 34356-1
+wikidata_id: Q21506239
+ipni_surname: Boggiani
+ipni_forenames: Oliviero
+ipni_standard_form: Boggiani
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

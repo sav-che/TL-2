@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0155
+tl2_volume: suppl3
+tl2_page_printed: 162
+tl2_surname: Bruni
+tl2_forenames: Achille
+tl2_name_abbrev: Bruni
+tl2_dates: 1817-1881
+tl2_page_id: 33266469
+author_lsid: 34864-1
+wikidata_id: Q21506576
+ipni_surname: Bruni
+ipni_forenames: Achille
+ipni_standard_form: Bruni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

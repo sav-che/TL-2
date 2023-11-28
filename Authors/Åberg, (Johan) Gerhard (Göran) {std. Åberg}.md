@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0015
+tl2_volume: suppl1
+tl2_page_printed: 9
+tl2_surname: Åberg
+tl2_forenames: [Johan] Gerhard [Göran]
+tl2_name_abbrev: Åberg
+tl2_dates: 1868-1940
+tl2_page_id: 33264766
+author_lsid: 30618-1
+wikidata_id: Q5932938
+ipni_surname: Åberg
+ipni_forenames: Johann Gerhard (`Goran')
+ipni_standard_form: Åberg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33264766) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

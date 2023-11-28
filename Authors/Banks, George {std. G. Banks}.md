@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0157
+tl2_volume: vol1
+tl2_page_printed: 115
+tl2_surname: Banks
+tl2_forenames: George
+tl2_name_abbrev: G. Banks
+tl2_dates: fl. 1823-1832
+tl2_page_id: 33120246
+author_lsid: 447-1
+wikidata_id: Q47113644
+ipni_surname: Banks
+ipni_forenames: George
+ipni_standard_form: G.Banks
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33120246) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

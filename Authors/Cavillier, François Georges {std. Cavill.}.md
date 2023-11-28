@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0578
+tl2_volume: vol1
+tl2_page_printed: 475
+tl2_surname: Cavillier
+tl2_forenames: François Georges
+tl2_name_abbrev: Cavill.
+tl2_dates: 1868-1953
+tl2_page_id: 33120606
+author_lsid: 1468-1
+wikidata_id: Q5548443
+ipni_surname: Cavillier
+ipni_forenames: François Georges
+ipni_standard_form: Cavill.
+ipni_dates: 1868-1953
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33120606) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

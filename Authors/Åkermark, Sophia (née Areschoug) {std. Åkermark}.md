@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0027
+tl2_volume: vol1
+tl2_page_printed: 26
+tl2_surname: Åkermark
+tl2_forenames: Sophia (née Areschoug)
+tl2_name_abbrev: Åkermark
+tl2_dates: 1817-1882
+tl2_page_id: 33120157
+author_lsid: 12321-1
+wikidata_id: Q10373419
+ipni_surname: Åkermark
+ipni_forenames: Sophia
+ipni_standard_form: Åkermark
+ipni_dates: 1817-1882
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

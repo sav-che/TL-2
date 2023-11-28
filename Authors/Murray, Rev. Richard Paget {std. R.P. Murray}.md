@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0784
+tl2_volume: vol3
+tl2_page_printed: 671
+tl2_surname: Murray
+tl2_forenames: Rev. Richard Paget
+tl2_name_abbrev: R.P. Murray
+tl2_dates: 1842-1908
+tl2_page_id: 33355758
+author_lsid: 6810-1
+wikidata_id: Q20763301
+ipni_surname: Murray
+ipni_forenames: Richard Paget
+ipni_standard_form: R.P.Murray
+ipni_dates: 1842-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

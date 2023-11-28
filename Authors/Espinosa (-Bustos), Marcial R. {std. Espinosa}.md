@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl6_0417
+tl2_volume: suppl6
+tl2_page_printed: 412
+tl2_surname: Espinosa [-Bustos]
+tl2_forenames: Marcial R.
+tl2_name_abbrev: Espinosa
+tl2_dates: 1874-1959
+tl2_page_id: 33260400
+author_lsid: 18565-1
+wikidata_id: Q5996128
+ipni_surname: Espinosa Bustos
+ipni_forenames: Marcial Ramón
+ipni_standard_form: Espinosa
+ipni_dates: 1874-1959
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Ecuador
+- Chile
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-12-12 08:54:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

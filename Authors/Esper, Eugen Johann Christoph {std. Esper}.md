@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0970
+tl2_volume: vol1
+tl2_page_printed: 801
+tl2_surname: Esper
+tl2_forenames: Eugen Johann Christoph
+tl2_name_abbrev: Esper
+tl2_dates: 1742-1810
+tl2_page_id: 33120932
+author_lsid: 2577-1
+wikidata_id: Q62300
+ipni_surname: Esper
+ipni_forenames: Eugen Johann Christoph
+ipni_standard_form: Esper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33120932) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

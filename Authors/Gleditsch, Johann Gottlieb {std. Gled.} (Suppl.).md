@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0186
+tl2_volume: suppl8
+tl2_page_printed: 240
+tl2_surname: Gleditsch
+tl2_forenames: Johann Gottlieb
+tl2_name_abbrev: Gled
+tl2_dates: 1714-1786
+tl2_page_id: 33258718
+author_lsid: 3192-1
+wikidata_id: Q64257
+ipni_surname: Gleditsch
+ipni_forenames: Johann Gottlieb
+ipni_standard_form: Gled.
+ipni_dates: 1714-1786
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33258718) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

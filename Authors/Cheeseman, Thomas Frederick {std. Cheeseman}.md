@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0606
+tl2_volume: vol1
+tl2_page_printed: 491
+tl2_surname: Cheeseman
+tl2_forenames: Thomas Frederick
+tl2_name_abbrev: Cheeseman
+tl2_dates: 1846-1923
+tl2_page_id: 33120622
+author_lsid: 1563-1
+wikidata_id: Q1361590
+ipni_surname: Cheeseman
+ipni_forenames: Thomas Frederic
+ipni_standard_form: Cheeseman
+ipni_dates: 1846-1923
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- New Zealand
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33120622) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

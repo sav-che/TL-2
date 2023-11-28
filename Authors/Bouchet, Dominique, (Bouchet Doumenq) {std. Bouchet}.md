@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0378
+tl2_volume: vol1
+tl2_page_printed: 290
+tl2_surname: Bouchet
+tl2_forenames: Dominique, (Bouchet Doumenq)
+tl2_name_abbrev: Bouchet
+tl2_dates: 1770-1845
+tl2_page_id: 33120421
+author_lsid: 1018-1
+wikidata_id: Q15973827
+ipni_surname: Bouchet
+ipni_forenames: Dominique (Doumenq)
+ipni_standard_form: Bouchet
+ipni_dates: 1770-1845
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

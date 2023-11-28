@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0252
+tl2_volume: suppl5
+tl2_page_printed: 216
+tl2_surname: Descourtilz
+tl2_forenames: Michel Étienne
+tl2_name_abbrev: Descourt.
+tl2_dates: 1775-1836
+tl2_page_id: 33259262
+author_lsid: 2147-1
+wikidata_id: Q5686982
+ipni_surname: Descourtilz
+ipni_forenames: Michel Étienne
+ipni_standard_form: Descourt.
+ipni_dates: 1775-1836
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-06-13 10:36:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

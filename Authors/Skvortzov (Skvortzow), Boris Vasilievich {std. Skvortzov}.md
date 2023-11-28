@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0642
+tl2_volume: vol5
+tl2_page_printed: 642
+tl2_surname: Skvortzov [Skvortzow]
+tl2_forenames: Boris Vasilievich
+tl2_name_abbrev: Skvortzov
+tl2_dates: 1890-1980
+tl2_page_id: 33333781
+author_lsid: 9731-1
+wikidata_id: Q5732387
+ipni_surname: Skvortsov
+ipni_forenames: Boris Vassilievich
+ipni_standard_form: Skvortsov
+ipni_dates: 1896-1980
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-05-17 12:22:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/page/33333781) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

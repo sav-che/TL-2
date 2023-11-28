@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0386
+tl2_volume: vol4
+tl2_page_printed: 328
+tl2_surname: Polgár
+tl2_forenames: Sándor
+tl2_name_abbrev: Polg.
+tl2_dates: 1876-1944
+tl2_page_id: 33189799
+author_lsid: 7807-1
+wikidata_id: Q21523080
+ipni_surname: Polgár
+ipni_forenames: Sándor
+ipni_standard_form: Polg.
+ipni_dates: 1876-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

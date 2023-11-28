@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0171
+tl2_volume: suppl4
+tl2_page_printed: 219
+tl2_surname: Clinton
+tl2_forenames: George Perkins
+tl2_name_abbrev: G.P. Clinton
+tl2_dates: 1867-1937
+tl2_page_id: 33265896
+author_lsid: 1700-1
+wikidata_id: Q21508764
+ipni_surname: Clinton
+ipni_forenames: George Perkins
+ipni_standard_form: G.P.Clinton
+ipni_dates: 1867-1937
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0355
+tl2_volume: vol4
+tl2_page_printed: 298
+tl2_surname: Plukenet
+tl2_forenames: Leonard
+tl2_name_abbrev: Pluk.
+tl2_dates: 1642-1706
+tl2_page_id: 33189769
+author_lsid: 7764-1
+wikidata_id: Q354612
+ipni_surname: Plukenet
+ipni_forenames: Leonard
+ipni_standard_form: Pluk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Pre-Linnaean
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

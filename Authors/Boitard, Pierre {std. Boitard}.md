@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0339
+tl2_volume: suppl2
+tl2_page_printed: 285
+tl2_surname: Boitard
+tl2_forenames: Pierre
+tl2_name_abbrev: Boitard
+tl2_dates: 1787-1859
+tl2_page_id: 33265482
+author_lsid: 20012199-2
+wikidata_id: Q606576
+ipni_surname: Boitard
+ipni_forenames: Pierre
+ipni_standard_form: Boitard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

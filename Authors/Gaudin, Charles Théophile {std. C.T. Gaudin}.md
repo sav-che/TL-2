@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0103
+tl2_volume: suppl8
+tl2_page_printed: 148
+tl2_surname: Gaudin
+tl2_forenames: Charles Théophile
+tl2_name_abbrev: C.T. Gaudin
+tl2_dates: 1822-1866
+tl2_page_id: 33258626
+author_lsid: 20008598-1
+wikidata_id: Q2958318
+ipni_surname: Gaudin
+ipni_forenames: Charles Théophile
+ipni_standard_form: C.T.Gaudin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33258626) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

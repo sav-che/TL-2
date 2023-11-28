@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0267
+tl2_volume: suppl2
+tl2_page_printed: 216
+tl2_surname: Blochwitz
+tl2_forenames: Adalbert
+tl2_name_abbrev: Blochwitz
+tl2_dates: 1875-?
+tl2_page_id: 33265413
+author_lsid: 16215-1
+wikidata_id: Q36499590
+ipni_surname: Blochwitz
+ipni_forenames: Adalbert von
+ipni_standard_form: Blochwitz
+ipni_dates: fl. 1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33265413) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

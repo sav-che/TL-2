@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0112
+tl2_volume: vol4
+tl2_page_printed: 106
+tl2_surname: Pattison
+tl2_forenames: Samuel Rowles
+tl2_name_abbrev: Pattison
+tl2_dates: 1809-1901
+tl2_page_id: 33189577
+author_lsid: 7396-1
+wikidata_id: Q21522693
+ipni_surname: Pattison
+ipni_forenames: Samuel Rowles
+ipni_standard_form: Pattison
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33189577) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

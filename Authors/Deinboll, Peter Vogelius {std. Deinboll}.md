@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0782
+tl2_volume: vol1
+tl2_page_printed: 611
+tl2_surname: Deinboll
+tl2_forenames: Peter Vogelius
+tl2_name_abbrev: Deinboll
+tl2_dates: 1783-1874
+tl2_page_id: 33120742
+author_lsid: 2083-1
+wikidata_id: Q4566426
+ipni_surname: Deinboll
+ipni_forenames: Peter Vogelius (Wegelius)
+ipni_standard_form: Deinboll
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

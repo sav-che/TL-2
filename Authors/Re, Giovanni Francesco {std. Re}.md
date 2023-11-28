@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0637
+tl2_volume: vol4
+tl2_page_printed: 611
+tl2_surname: Re
+tl2_forenames: Giovanni Francesco
+tl2_name_abbrev: Re
+tl2_dates: 1773-1833
+tl2_page_id: 33190082
+author_lsid: 8200-1
+wikidata_id: Q5687402
+ipni_surname: Re
+ipni_forenames: Giovanni Francesco
+ipni_standard_form: Re
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

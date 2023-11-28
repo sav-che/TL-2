@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0272
+tl2_volume: vol6
+tl2_page_printed: 231
+tl2_surname: Thal
+tl2_forenames: Johannes
+tl2_name_abbrev: Thal
+tl2_dates: 1542/43-1583
+tl2_page_id: 33212273
+author_lsid: 10541-1
+wikidata_id: Q104633
+ipni_surname: Thal
+ipni_forenames: Johannes
+ipni_standard_form: Thal
+ipni_dates: 1542~3-1583
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33212273) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0021
+tl2_volume: vol5
+tl2_page_printed: 25
+tl2_surname: Sanborn
+tl2_forenames: Ethel Ida
+tl2_name_abbrev: Sanborn
+tl2_dates: 1883-1952
+tl2_page_id: 33333126
+author_lsid: 8872-1
+wikidata_id: Q21342018
+ipni_surname: Sanborn
+ipni_forenames: Ethel Ida
+ipni_standard_form: Sanborn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

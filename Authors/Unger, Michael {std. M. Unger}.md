@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0599
+tl2_volume: vol6
+tl2_page_printed: 602
+tl2_surname: Unger
+tl2_forenames: Michael
+tl2_name_abbrev: M. Unger
+tl2_dates: fl. 1806
+tl2_page_id: 33212644
+author_lsid: 10986-1
+wikidata_id: Q47127806
+ipni_surname: Unger
+ipni_forenames: Michael
+ipni_standard_form: M.Unger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33212644) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

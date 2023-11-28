@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0922
+tl2_volume: vol2
+tl2_page_printed: 771
+tl2_surname: Lavallée
+tl2_forenames: Pierre Alphonse Martin
+tl2_name_abbrev: Lavall.
+tl2_dates: 1836-1884
+tl2_page_id: 33069013
+author_lsid: 5337-1
+wikidata_id: Q2093144
+ipni_surname: Lavallée
+ipni_forenames: Pierre Alphonse Martin
+ipni_standard_form: Lavallée
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

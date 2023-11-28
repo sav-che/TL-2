@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0801
+tl2_volume: vol5
+tl2_page_printed: 797
+tl2_surname: Sprague
+tl2_forenames: Isaac
+tl2_name_abbrev: I. Sprague
+tl2_dates: 1811-1895
+tl2_page_id: 33333936
+author_lsid: 9983-1
+wikidata_id: Q3154777
+ipni_surname: Sprague
+ipni_forenames: Isaac
+ipni_standard_form: I.Sprague
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33333936) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

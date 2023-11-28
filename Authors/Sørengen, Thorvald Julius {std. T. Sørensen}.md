@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0716
+tl2_volume: vol5
+tl2_page_printed: 719
+tl2_surname: Sørengen
+tl2_forenames: Thorvald Julius
+tl2_name_abbrev: T. Sørensen
+tl2_dates: 1902-1973
+tl2_page_id: 33333858
+author_lsid: 13105-1
+wikidata_id: Q7796792
+ipni_surname: Sørensen
+ipni_forenames: Thorwald(Thorvald) Julius
+ipni_standard_form: T.J.Sørensen
+ipni_dates: 1902-1973
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-05-30 02:25:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

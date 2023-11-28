@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0613
+tl2_volume: vol2
+tl2_page_printed: 520
+tl2_surname: Kelsey
+tl2_forenames: Francis Duncan
+tl2_name_abbrev: Kelsey
+tl2_dates: 1849-1905
+tl2_page_id: 33068762
+author_lsid: 4717-1
+wikidata_id: Q21517418
+ipni_surname: Kelsey
+ipni_forenames: Francis Duncan
+ipni_standard_form: Kelsey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

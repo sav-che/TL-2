@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1083
+tl2_volume: vol4
+tl2_page_printed: 1064
+tl2_surname: Saint-Germain
+tl2_forenames: J.J. de
+tl2_name_abbrev: Saint-Germain
+tl2_dates: fl. 1784
+tl2_page_id: 33190535
+author_lsid: 8826-1
+wikidata_id: Q36598425
+ipni_surname: Saint-Germain
+ipni_forenames: Jean Joseph de
+ipni_standard_form: St.-Germ.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

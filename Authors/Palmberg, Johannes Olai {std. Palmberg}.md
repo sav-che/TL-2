@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0030
+tl2_volume: vol4
+tl2_page_printed: 27
+tl2_surname: Palmberg
+tl2_forenames: Johannes Olai
+tl2_name_abbrev: Palmberg
+tl2_dates: 1640-1691
+tl2_page_id: 33189460
+author_lsid: 7279-1
+wikidata_id: Q6033388
+ipni_surname: Palmberg
+ipni_forenames: Johannes Olai
+ipni_standard_form: Palmberg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

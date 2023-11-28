@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0025
+tl2_volume: vol2
+tl2_page_printed: 17
+tl2_surname: Hall
+tl2_forenames: Charles Albert
+tl2_name_abbrev: C.A. Hall
+tl2_dates: 1872-1965
+tl2_page_id: 33068259
+author_lsid: 3567-1
+wikidata_id: Q21514518
+ipni_surname: Hall
+ipni_forenames: Charles Albert
+ipni_standard_form: C.A.Hall
+ipni_dates: 1872-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33068259) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0150
+tl2_volume: suppl3
+tl2_page_printed: 159
+tl2_surname: Brunaud
+tl2_forenames: Paul
+tl2_name_abbrev: Brunaud
+tl2_dates: fl. 1877-1897
+tl2_page_id: 33266466
+author_lsid: 16626-1
+wikidata_id: Q21506571
+ipni_surname: Brunaud
+ipni_forenames: Paul
+ipni_standard_form: Brunaud
+ipni_dates: 18??-1903
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33266466) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

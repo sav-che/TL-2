@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0881
+tl2_volume: vol1
+tl2_page_printed: 690
+tl2_surname: Dufour
+tl2_forenames: Léon [Marie]
+tl2_name_abbrev: Dufour
+tl2_dates: 1861-1942
+tl2_page_id: 33120821
+author_lsid: 18251-1
+wikidata_id: Q2884274
+ipni_surname: Dufour
+ipni_forenames: Léon (Marie)
+ipni_standard_form: L.M.Dufour
+ipni_dates: 1862-1942
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

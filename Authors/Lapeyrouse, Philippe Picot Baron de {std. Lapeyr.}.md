@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0893
+tl2_volume: vol2
+tl2_page_printed: 756
+tl2_surname: Lapeyrouse
+tl2_forenames: Philippe Picot Baron de
+tl2_name_abbrev: Lapeyr.
+tl2_dates: 1744-1818
+tl2_page_id: 33068998
+author_lsid: 5279-1
+wikidata_id: Q55064056
+ipni_surname: Lapeyrouse
+ipni_forenames: Philippe Picot de
+ipni_standard_form: Lapeyr.
+ipni_dates: 1744-1818
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33068998) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

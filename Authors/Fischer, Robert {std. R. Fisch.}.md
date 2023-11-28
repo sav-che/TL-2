@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0142
+tl2_volume: suppl7
+tl2_page_printed: 217
+tl2_surname: Fischer
+tl2_forenames: Robert
+tl2_name_abbrev: R. Fisch.
+tl2_dates: 1894-after 1950
+tl2_page_id: 33259721
+author_lsid: 18828-1
+wikidata_id: Q47117244
+ipni_surname: Fischer
+ipni_forenames: Robert
+ipni_standard_form: R.Fisch.
+ipni_dates: fl. 1930
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

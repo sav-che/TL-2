@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol4_0829
+tl2_volume: vol4
+tl2_page_printed: 821
+tl2_surname: Roche
+tl2_forenames: François de la
+tl2_name_abbrev: F. Roche
+tl2_dates: 1782-1814
+tl2_page_id: 33190292
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

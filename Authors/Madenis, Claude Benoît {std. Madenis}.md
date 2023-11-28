@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0259
+tl2_volume: vol3
+tl2_page_printed: 239
+tl2_surname: Madenis
+tl2_forenames: Claude Benoît
+tl2_name_abbrev: Madenis
+tl2_dates: 1798-1863
+tl2_page_id: 33355326
+author_lsid: 5965-1
+wikidata_id: Q21519747
+ipni_surname: Madenis
+ipni_forenames: Claude Benoit
+ipni_standard_form: Madenis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

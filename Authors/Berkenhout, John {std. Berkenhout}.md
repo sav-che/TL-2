@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0248
+tl2_volume: vol1
+tl2_page_printed: 195
+tl2_surname: Berkenhout
+tl2_forenames: John
+tl2_name_abbrev: Berkenhout
+tl2_dates: 1730-1791
+tl2_page_id: 33120326
+author_lsid: 698-1
+wikidata_id: Q220155
+ipni_surname: Berkenhout
+ipni_forenames: John
+ipni_standard_form: Berkenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33120326) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

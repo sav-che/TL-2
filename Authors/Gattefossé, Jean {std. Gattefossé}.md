@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0100
+tl2_volume: suppl8
+tl2_page_printed: 144
+tl2_surname: Gattefossé
+tl2_forenames: Jean
+tl2_name_abbrev: Gattefossé
+tl2_dates: 1899-1960
+tl2_page_id: 33258622
+author_lsid: 3045-1
+wikidata_id: Q5928718
+ipni_surname: Gattefossé
+ipni_forenames: Jean
+ipni_standard_form: Gattef.
+ipni_dates: 1899-1960
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-11-01 09:23:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33258622) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

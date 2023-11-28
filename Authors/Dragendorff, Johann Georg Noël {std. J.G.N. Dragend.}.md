@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0086
+tl2_volume: suppl6
+tl2_page_printed: 85
+tl2_surname: Dragendorff
+tl2_forenames: Johann Georg Noël
+tl2_name_abbrev: J.G.N. Dragend.
+tl2_dates: 1836-1898
+tl2_page_id: 33260073
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33260073) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0518
+tl2_volume: vol1
+tl2_page_printed: 422
+tl2_surname: Caels
+tl2_forenames: Theodor Peter
+tl2_name_abbrev: Caels
+tl2_dates: 1739-1819
+tl2_page_id: 33120553
+author_lsid: 1347-1
+wikidata_id: Q21506815
+ipni_surname: Caels
+ipni_forenames: Theodor Peter
+ipni_standard_form: Caels
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33120553) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

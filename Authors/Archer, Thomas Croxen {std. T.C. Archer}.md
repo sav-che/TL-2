@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0184
+tl2_volume: suppl1
+tl2_page_printed: 146
+tl2_surname: Archer
+tl2_forenames: Thomas Croxen
+tl2_name_abbrev: T.C. Archer
+tl2_dates: 1817-1885
+tl2_page_id: 33264873
+author_lsid: 253-1
+wikidata_id: Q3525017
+ipni_surname: Archer
+ipni_forenames: Thomas Croxen
+ipni_standard_form: Archer
+ipni_dates: 1817-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

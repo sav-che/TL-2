@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0262
+tl2_volume: vol3
+tl2_page_printed: 240
+tl2_surname: Maerter
+tl2_forenames: Franz Joseph
+tl2_name_abbrev: Maerter
+tl2_dates: 1753-1827
+tl2_page_id: 33355327
+author_lsid: 35185-1
+wikidata_id: Q21519759
+ipni_surname: Maerter
+ipni_forenames: Franz Joseph
+ipni_standard_form: Maerter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

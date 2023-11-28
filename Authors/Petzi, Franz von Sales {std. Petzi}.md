@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0245
+tl2_volume: vol4
+tl2_page_printed: 214
+tl2_surname: Petzi
+tl2_forenames: Franz von Sales
+tl2_name_abbrev: Petzi
+tl2_dates: 1851-1928
+tl2_page_id: 33189685
+author_lsid: 7607-1
+wikidata_id: Q21522917
+ipni_surname: Petzi
+ipni_forenames: Franz von Sales
+ipni_standard_form: Petzi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

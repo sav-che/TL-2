@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0513
+tl2_volume: vol4
+tl2_page_printed: 423
+tl2_surname: Puerta y Ródenas
+tl2_forenames: Gabriel de la
+tl2_name_abbrev: Puerta
+tl2_dates: fl. 1891
+tl2_page_id: 33189894
+author_lsid: 8011-1
+wikidata_id: Q25422569
+ipni_surname: Puerta y Ródenas
+ipni_forenames: Gabriel de la
+ipni_standard_form: Puerta
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

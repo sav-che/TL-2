@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0131
+tl2_volume: suppl6
+tl2_page_printed: 127
+tl2_surname: Duchartre
+tl2_forenames: Henri
+tl2_name_abbrev: H. Duch.
+tl2_dates: fl. 1889-1892
+tl2_page_id: 33260115
+author_lsid: 2343-1
+wikidata_id: Q36572215
+ipni_surname: Duchartre
+ipni_forenames: Henri
+ipni_standard_form: H.Duch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

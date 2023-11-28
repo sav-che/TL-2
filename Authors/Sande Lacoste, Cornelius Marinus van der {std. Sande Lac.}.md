@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0025
+tl2_volume: vol5
+tl2_page_printed: 28
+tl2_surname: Sande Lacoste
+tl2_forenames: Cornelius Marinus van der
+tl2_name_abbrev: Sande Lac.
+tl2_dates: 1815-1887
+tl2_page_id: 33333129
+author_lsid: 8882-1
+wikidata_id: Q21340193
+ipni_surname: Sande Lacoste
+ipni_forenames: Cornelius Marinus van der
+ipni_standard_form: Sande Lac.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33333129) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

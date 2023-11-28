@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0948
+tl2_volume: vol2
+tl2_page_printed: 805
+tl2_surname: Ledebour
+tl2_forenames: Carl [Karl] Friedrich von
+tl2_name_abbrev: Ledeb.
+tl2_dates: 1785-1851
+tl2_page_id: 33069047
+author_lsid: 5393-1
+wikidata_id: Q64544
+ipni_surname: Ledebour
+ipni_forenames: Carl(Karl) Friedrich von
+ipni_standard_form: Ledeb.
+ipni_dates: 1785-1851
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0277
+tl2_volume: vol3
+tl2_page_printed: 257
+tl2_surname: Mains
+tl2_forenames: Edwin Butterworth
+tl2_name_abbrev: Mains
+tl2_dates: 1890-1968
+tl2_page_id: 33355344
+author_lsid: 22764-1
+wikidata_id: Q3048774
+ipni_surname: Mains
+ipni_forenames: Edwin Butterworth
+ipni_standard_form: Mains
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

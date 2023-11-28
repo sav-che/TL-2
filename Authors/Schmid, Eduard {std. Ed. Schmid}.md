@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0217
+tl2_volume: vol5
+tl2_page_printed: 235
+tl2_surname: Schmid
+tl2_forenames: Eduard
+tl2_name_abbrev: Ed. Schmid
+tl2_dates: fl. 1906
+tl2_page_id: 33333374
+author_lsid: 9141-1
+wikidata_id: Q47125742
+ipni_surname: Schmid
+ipni_forenames: Eduard
+ipni_standard_form: Ed.Schmid
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

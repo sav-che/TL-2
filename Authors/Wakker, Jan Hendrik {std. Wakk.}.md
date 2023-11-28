@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0030
+tl2_volume: vol7
+tl2_page_printed: 26
+tl2_surname: Wakker
+tl2_forenames: Jan Hendrik
+tl2_name_abbrev: Wakk.
+tl2_dates: 1859-1927
+tl2_page_id: 33066366
+author_lsid: 28498-1
+wikidata_id: Q21612020
+ipni_surname: Wakker
+ipni_forenames: Jan Hendrik
+ipni_standard_form: Wakker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33066366) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

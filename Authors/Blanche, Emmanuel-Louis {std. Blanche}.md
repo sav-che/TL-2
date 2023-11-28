@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0240
+tl2_volume: suppl2
+tl2_page_printed: 201
+tl2_surname: Blanche
+tl2_forenames: Emmanuel-Louis
+tl2_name_abbrev: Blanche
+tl2_dates: 1824-1908
+tl2_page_id: 33265398
+author_lsid: 844-1
+wikidata_id: Q5831526
+ipni_surname: Blanche
+ipni_forenames: Emmanuel-Louis
+ipni_standard_form: Blanche
+ipni_dates: 1824-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265398) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0063
+tl2_volume: vol4
+tl2_page_printed: 51
+tl2_surname: Papenfuss
+tl2_forenames: George Frederick [Frederik]
+tl2_name_abbrev: Papenfuss
+tl2_dates: 1903-1981
+tl2_page_id: 33189484
+author_lsid: 7324-1
+wikidata_id: Q21522621
+ipni_surname: Papenfuss
+ipni_forenames: George Frederick(Frederik)
+ipni_standard_form: Papenf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- South Africa
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

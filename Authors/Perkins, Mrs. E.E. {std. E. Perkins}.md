@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0184
+tl2_volume: vol4
+tl2_page_printed: 165
+tl2_surname: Perkins
+tl2_forenames: Mrs. E.E.
+tl2_name_abbrev: E. Perkins
+tl2_dates: fl. 1830-1840
+tl2_page_id: 33189636
+author_lsid: 7518-1
+wikidata_id: Q36548706
+ipni_surname: Perkins
+ipni_forenames: E.E.
+ipni_standard_form: E.Perkins
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0335
+tl2_volume: vol2
+tl2_page_printed: 302
+tl2_surname: Hoopes
+tl2_forenames: Josiah
+tl2_name_abbrev: Hoopes
+tl2_dates: 1832-1904
+tl2_page_id: 33068544
+author_lsid: 4090-1
+wikidata_id: Q21516014
+ipni_surname: Hoopes
+ipni_forenames: Josiah
+ipni_standard_form: Hoopes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

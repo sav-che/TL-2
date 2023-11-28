@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0344
+tl2_volume: vol1
+tl2_page_printed: 267
+tl2_surname: Bolus
+tl2_forenames: Harriet Margaret Louisa (née Kensit)
+tl2_name_abbrev: L. Bolus
+tl2_dates: 1877-1970
+tl2_page_id: 33120398
+author_lsid: 12352-1
+wikidata_id: Q63764
+ipni_surname: Bolus
+ipni_forenames: Harriet Margaret Louisa
+ipni_standard_form: L.Bolus
+ipni_dates: 1877-1970
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-10-10 07:11:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33120398) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

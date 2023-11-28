@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0354
+tl2_volume: suppl3
+tl2_page_printed: 394
+tl2_surname: Capellini
+tl2_forenames: Giovanni
+tl2_name_abbrev: Capellini
+tl2_dates: 1833-1922
+tl2_page_id: 33266701
+author_lsid: 1388-1
+wikidata_id: Q451416
+ipni_surname: Capellini
+ipni_forenames: Giovanni
+ipni_standard_form: Capellini
+ipni_dates: 1833-1922
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

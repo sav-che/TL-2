@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_1033
+tl2_volume: vol3
+tl2_page_printed: 867
+tl2_surname: Oye
+tl2_forenames: Paul Herman Gustave van
+tl2_name_abbrev: Oye
+tl2_dates: 1886-1969
+tl2_page_id: 33355954
+author_lsid: 7221-1
+wikidata_id: Q21522490
+ipni_surname: Oye
+ipni_forenames: Paul Hermann Gustav van
+ipni_standard_form: Oye
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Congo, the Democratic Republic of
+- Indonesia
+- Belgium
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

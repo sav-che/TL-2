@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0110
+tl2_volume: suppl4
+tl2_page_printed: 142
+tl2_surname: Chow
+tl2_forenames: Chung Hwang
+tl2_name_abbrev: C.H. Chow
+tl2_dates: fl. 1934-1936
+tl2_page_id: 33265819
+author_lsid: 17221-1
+wikidata_id: Q21508528
+ipni_surname: Chow
+ipni_forenames: Chung Hwang
+ipni_standard_form: C.H.Chow
+ipni_dates: 1903-1981
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-12-09 08:03:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

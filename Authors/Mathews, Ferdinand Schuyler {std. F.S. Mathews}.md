@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0411
+tl2_volume: vol3
+tl2_page_printed: 364
+tl2_surname: Mathews
+tl2_forenames: Ferdinand Schuyler
+tl2_name_abbrev: F.S. Mathews
+tl2_dates: 1845-1938
+tl2_page_id: 33355451
+author_lsid: 6211-1
+wikidata_id: Q18911230
+ipni_surname: Mathews
+ipni_forenames: Ferdinand Schuyler
+ipni_standard_form: F.S.Mathews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33355451) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

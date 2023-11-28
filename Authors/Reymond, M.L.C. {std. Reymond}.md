@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0736
+tl2_volume: vol4
+tl2_page_printed: 750
+tl2_surname: Reymond
+tl2_forenames: M.L.C.
+tl2_name_abbrev: Reymond
+tl2_dates: fl. 1854
+tl2_page_id: 33190221
+author_lsid: 35163-1
+wikidata_id: Q36634491
+ipni_surname: Reymond
+ipni_forenames: M.L.C.
+ipni_standard_form: Reymond
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

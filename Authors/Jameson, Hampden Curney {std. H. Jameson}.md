@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0463
+tl2_volume: vol2
+tl2_page_printed: 420
+tl2_surname: Jameson
+tl2_forenames: Hampden Curney
+tl2_name_abbrev: H. Jameson
+tl2_dates: 1852-1939
+tl2_page_id: 33068662
+author_lsid: 4414-1
+wikidata_id: Q21516906
+ipni_surname: Jameson
+ipni_forenames: Hampden Gurney
+ipni_standard_form: H.Jameson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

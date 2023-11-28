@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0318
+tl2_volume: suppl6
+tl2_page_printed: 284
+tl2_surname: Eifrig
+tl2_forenames: Helmut Ernst
+tl2_name_abbrev: Eifrig
+tl2_dates: 1911-x
+tl2_page_id: 33260272
+author_lsid: 18410-1
+wikidata_id: Q36572358
+ipni_surname: Eifrig
+ipni_forenames: H.
+ipni_standard_form: Eifrig
+ipni_dates: fl. 1937
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

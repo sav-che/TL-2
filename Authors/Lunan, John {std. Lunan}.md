@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0173
+tl2_volume: vol3
+tl2_page_printed: 192
+tl2_surname: Lunan
+tl2_forenames: John
+tl2_name_abbrev: Lunan
+tl2_dates: fl. 1814
+tl2_page_id: 33355279
+author_lsid: 5833-1
+wikidata_id: Q5933414
+ipni_surname: Lunan
+ipni_forenames: John
+ipni_standard_form: Lunan
+ipni_dates: c. 1771-1839
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Jamaica
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-01-21 14:16:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

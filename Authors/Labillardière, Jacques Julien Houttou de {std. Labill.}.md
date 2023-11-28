@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0832
+tl2_volume: vol2
+tl2_page_printed: 710
+tl2_surname: Labillardière
+tl2_forenames: Jacques Julien Houttou de
+tl2_name_abbrev: Labill.
+tl2_dates: 1775-1834
+tl2_page_id: 33068952
+author_lsid: 5175-1
+wikidata_id: Q528925
+ipni_surname: Labillardière
+ipni_forenames: Jacques Julien Houtou de
+ipni_standard_form: Labill.
+ipni_dates: 1755-1834
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2004-04-29 08:51:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

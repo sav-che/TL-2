@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0513
+tl2_volume: vol7
+tl2_page_printed: 563
+tl2_surname: Zumaglini
+tl2_forenames: Antonio Mauritio
+tl2_name_abbrev: Zumagl.
+tl2_dates: 1804-1865
+tl2_page_id: 33066903
+author_lsid: 12074-1
+wikidata_id: Q1102547
+ipni_surname: Zumaglini
+ipni_forenames: Antonio Maurizio
+ipni_standard_form: Zumagl.
+ipni_dates: 1804-1865
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33066903) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

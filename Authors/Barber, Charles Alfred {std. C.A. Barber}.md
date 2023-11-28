@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0353
+tl2_volume: suppl1
+tl2_page_printed: 314
+tl2_surname: Barber
+tl2_forenames: Charles Alfred
+tl2_name_abbrev: C.A. Barber
+tl2_dates: 1860-1933
+tl2_page_id: 33265041
+author_lsid: 32349-1
+wikidata_id: Q8344896
+ipni_surname: Barber
+ipni_forenames: Charles Alfred
+ipni_standard_form: C.A.Barber
+ipni_dates: 1860-1933
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33265041) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0672
+tl2_volume: vol4
+tl2_page_printed: 661
+tl2_surname: Reiche
+tl2_forenames: Karl Friedrich (Carlos Federico)
+tl2_name_abbrev: Reiche
+tl2_dates: 1860-1929
+tl2_page_id: 33190132
+author_lsid: 8249-1
+wikidata_id: Q77134
+ipni_surname: Reiche
+ipni_forenames: Karl Friedrich (Carlos Federico)
+ipni_standard_form: Reiche
+ipni_dates: 1860-1929
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33190132) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

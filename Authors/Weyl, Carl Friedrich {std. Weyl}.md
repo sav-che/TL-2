@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0213
+tl2_volume: vol7
+tl2_page_printed: 236
+tl2_surname: Weyl
+tl2_forenames: Carl Friedrich
+tl2_name_abbrev: Weyl
+tl2_dates: 1792-1872
+tl2_page_id: 33066576
+author_lsid: 11598-1
+wikidata_id: Q21612550
+ipni_surname: Weyl
+ipni_forenames: Carl Friedrich
+ipni_standard_form: Weyl
+ipni_dates: 1792-1872
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

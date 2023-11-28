@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0068
+tl2_volume: vol2
+tl2_page_printed: 49
+tl2_surname: Hanstein
+tl2_forenames: Johannes Ludwig Emil Robertvon
+tl2_name_abbrev: J. Hanst.
+tl2_dates: 1822-1880
+tl2_page_id: 33068291
+author_lsid: 3637-1
+wikidata_id: Q71063
+ipni_surname: Hanstein
+ipni_forenames: Johannes Ludwig Emil Robert von
+ipni_standard_form: Hanst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33068291) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

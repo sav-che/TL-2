@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0008
+tl2_volume: vol3
+tl2_page_printed: 9
+tl2_surname: Lickleder
+tl2_forenames: Max
+tl2_name_abbrev: Lickl.
+tl2_dates: 1826-1893
+tl2_page_id: 33355118
+author_lsid: 5568-1
+wikidata_id: Q21519038
+ipni_surname: Lickleder
+ipni_forenames: Max
+ipni_standard_form: Lickl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

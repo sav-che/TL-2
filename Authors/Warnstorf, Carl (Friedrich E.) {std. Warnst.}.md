@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0085
+tl2_volume: vol7
+tl2_page_printed: 83
+tl2_surname: Warnstorf
+tl2_forenames: Carl [Friedrich E.]
+tl2_name_abbrev: Warnst.
+tl2_dates: 1837-1921
+tl2_page_id: 33066423
+author_lsid: 12994-1
+wikidata_id: Q123640
+ipni_surname: Warnstorf
+ipni_forenames: Carl (Friedrich E.)
+ipni_standard_form: Warnst.
+ipni_dates: 1837-1921
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33066423) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

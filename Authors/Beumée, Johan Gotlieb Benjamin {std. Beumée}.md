@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0168
+tl2_volume: suppl2
+tl2_page_printed: 148
+tl2_surname: Beumée
+tl2_forenames: Johan Gotlieb Benjamin
+tl2_name_abbrev: Beumée
+tl2_dates: 1888-1966
+tl2_page_id: 33265345
+author_lsid: 743-1
+wikidata_id: Q21340155
+ipni_surname: Beumée
+ipni_forenames: Johan Gotlieb Benjamin
+ipni_standard_form: Beumée
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33265345) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

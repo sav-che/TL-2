@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0062
+tl2_volume: vol1
+tl2_page_printed: 43
+tl2_surname: Anders
+tl2_forenames: Joseph
+tl2_name_abbrev: Anders
+tl2_dates: 1863-1936
+tl2_page_id: 33120174
+author_lsid: 185-1
+wikidata_id: Q14912090
+ipni_surname: Anders
+ipni_forenames: Joseph
+ipni_standard_form: Anders
+ipni_dates: 1863-1936
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

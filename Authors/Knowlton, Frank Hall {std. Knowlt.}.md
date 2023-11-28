@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0708
+tl2_volume: vol2
+tl2_page_printed: 583
+tl2_surname: Knowlton
+tl2_forenames: Frank Hall
+tl2_name_abbrev: Knowlt.
+tl2_dates: 1860-1926
+tl2_page_id: 33068825
+author_lsid: 4883-1
+wikidata_id: Q15697444
+ipni_surname: Knowlton
+ipni_forenames: Frank Hall
+ipni_standard_form: Knowlt.
+ipni_dates: 1860-1926
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

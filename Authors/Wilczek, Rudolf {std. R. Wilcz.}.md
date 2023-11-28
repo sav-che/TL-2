@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0266
+tl2_volume: vol7
+tl2_page_printed: 291
+tl2_surname: Wilczek
+tl2_forenames: Rudolf
+tl2_name_abbrev: R. Wilcz.
+tl2_dates: 1903-1984
+tl2_page_id: 33066631
+author_lsid: 11671-1
+wikidata_id: Q1663463
+ipni_surname: Wilczek
+ipni_forenames: Rudolf
+ipni_standard_form: R.Wilczek
+ipni_dates: 1903-1984
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0533
+tl2_volume: vol4
+tl2_page_printed: 452
+tl2_surname: Quekett
+tl2_forenames: John Thomas
+tl2_name_abbrev: Quekett
+tl2_dates: 1815-1861
+tl2_page_id: 33189923
+author_lsid: 8048-1
+wikidata_id: Q6260615
+ipni_surname: Quekett
+ipni_forenames: John Thomas
+ipni_standard_form: J.T.Quekett
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

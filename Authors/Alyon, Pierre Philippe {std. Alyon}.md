@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0055
+tl2_volume: vol1
+tl2_page_printed: 39
+tl2_surname: Alyon
+tl2_forenames: Pierre Philippe
+tl2_name_abbrev: Alyon
+tl2_dates: 1746-1816
+tl2_page_id: 33120170
+author_lsid: 175-1
+wikidata_id: Q5574881
+ipni_surname: Alyon
+ipni_forenames: Pierre Phillipe
+ipni_standard_form: Alyon
+ipni_dates: 1746-1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33120170) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0837
+tl2_volume: vol2
+tl2_page_printed: 715
+tl2_surname: Lachmann
+tl2_forenames: Heinrich Wilhelm Ludolph
+tl2_name_abbrev: Lachm.
+tl2_dates: 1800-1861
+tl2_page_id: 33068957
+author_lsid: 5183-1
+wikidata_id: Q2573873
+ipni_surname: Lachmann
+ipni_forenames: Heinrich Wilhelm Ludolf
+ipni_standard_form: Lachm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

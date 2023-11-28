@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0184
+tl2_volume: suppl2
+tl2_page_printed: 158
+tl2_surname: Biebl
+tl2_forenames: Richard
+tl2_name_abbrev: Biebl
+tl2_dates: 1908-1974
+tl2_page_id: 33265355
+author_lsid: 32433-1
+wikidata_id: Q1477739
+ipni_surname: Biebl
+ipni_forenames: Richard
+ipni_standard_form: Biebl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33265355) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

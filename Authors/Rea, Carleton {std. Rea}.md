@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0638
+tl2_volume: vol4
+tl2_page_printed: 612
+tl2_surname: Rea
+tl2_forenames: Carleton
+tl2_name_abbrev: Rea
+tl2_dates: 1861-1946
+tl2_page_id: 33190083
+author_lsid: 25403-1
+wikidata_id: Q4394281
+ipni_surname: Rea
+ipni_forenames: Carleton
+ipni_standard_form: Rea
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33190083) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

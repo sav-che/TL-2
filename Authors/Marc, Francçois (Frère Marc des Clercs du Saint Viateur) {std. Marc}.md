@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0321
+tl2_volume: vol3
+tl2_page_printed: 285
+tl2_surname: Marc
+tl2_forenames: Francçois [Frère Marc des Clercs du Saint Viateur]
+tl2_name_abbrev: Marc
+tl2_dates: 1862-1912
+tl2_page_id: 33355372
+author_lsid: 34941-1
+wikidata_id: Q5868773
+ipni_surname: Marc
+ipni_forenames: François
+ipni_standard_form: Marc
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

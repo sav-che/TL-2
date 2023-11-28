@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0396
+tl2_volume: vol3
+tl2_page_printed: 346
+tl2_surname: Marzari-Pencati
+tl2_forenames: Giuseppe, Conte
+tl2_name_abbrev: Marzari-Pencati
+tl2_dates: 1779-1836
+tl2_page_id: 33355433
+author_lsid: 6184-1
+wikidata_id: Q5880543
+ipni_surname: Marzari-Pencati
+ipni_forenames: Giuseppe
+ipni_standard_form: Marz.-Penc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0192
+tl2_volume: vol7
+tl2_page_printed: 201
+tl2_surname: Wessén
+tl2_forenames: Carl Johan
+tl2_name_abbrev: Wessén
+tl2_dates: 1812-1843
+tl2_page_id: 33066541
+author_lsid: 11574-1
+wikidata_id: Q21612498
+ipni_surname: Wessén
+ipni_forenames: Carl Johan
+ipni_standard_form: Wessén
+ipni_dates: 1812-1843
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

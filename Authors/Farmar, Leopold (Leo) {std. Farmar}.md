@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0032
+tl2_volume: suppl7
+tl2_page_printed: 45
+tl2_surname: Farmar
+tl2_forenames: Leopold (Leo)
+tl2_name_abbrev: Farmar
+tl2_dates: 1878-1907
+tl2_page_id: 33259549
+author_lsid: 12137-1
+wikidata_id: Q65679776
+ipni_surname: Farmar
+ipni_forenames: Leo
+ipni_standard_form: Farmar
+ipni_dates: 1875-1907
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

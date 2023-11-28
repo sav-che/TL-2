@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0898
+tl2_volume: vol4
+tl2_page_printed: 877
+tl2_surname: Rondelet
+tl2_forenames: Guillaume
+tl2_name_abbrev: Rondelet
+tl2_dates: 1507-1566
+tl2_page_id: 33190348
+author_lsid: 8571-1
+wikidata_id: Q960658
+ipni_surname: Rondelet
+ipni_forenames: Guillaume
+ipni_standard_form: Rondelet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

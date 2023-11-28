@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0026
+tl2_volume: suppl6
+tl2_page_printed: 28
+tl2_surname: Doi
+tl2_forenames: Yoshio
+tl2_name_abbrev: Y. Doi
+tl2_dates: fl. 1926-1944
+tl2_page_id: 33260016
+author_lsid: 35231-1
+wikidata_id: Q17361384
+ipni_surname: Doi
+ipni_forenames: Yoshio
+ipni_standard_form: Y.Doi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

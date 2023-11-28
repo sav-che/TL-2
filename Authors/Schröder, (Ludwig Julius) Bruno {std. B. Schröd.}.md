@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0328
+tl2_volume: vol5
+tl2_page_printed: 337
+tl2_surname: Schröder
+tl2_forenames: [Ludwig Julius] Bruno
+tl2_name_abbrev: B. Schröd.
+tl2_dates: 1867-1928
+tl2_page_id: 33333476
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33333476) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

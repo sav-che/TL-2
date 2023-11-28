@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0392
+tl2_volume: suppl2
+tl2_page_printed: 335
+tl2_surname: Boresch
+tl2_forenames: Karl
+tl2_name_abbrev: Boresch
+tl2_dates: 1886-?
+tl2_page_id: 33265532
+author_lsid: 32496-1
+wikidata_id: Q21506316
+ipni_surname: Boresch
+ipni_forenames: Karl
+ipni_standard_form: Boresch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33265532) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

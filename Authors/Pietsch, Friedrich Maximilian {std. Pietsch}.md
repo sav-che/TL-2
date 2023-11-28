@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0309
+tl2_volume: vol4
+tl2_page_printed: 261
+tl2_surname: Pietsch
+tl2_forenames: Friedrich Maximilian
+tl2_name_abbrev: Pietsch
+tl2_dates: 1856-?
+tl2_page_id: 33189732
+author_lsid: 7693-1
+wikidata_id: Q5869617
+ipni_surname: Pietsch
+ipni_forenames: Friedrich Maximillian
+ipni_standard_form: Pietsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

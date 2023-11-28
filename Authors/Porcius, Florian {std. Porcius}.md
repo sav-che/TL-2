@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0412
+tl2_volume: vol4
+tl2_page_printed: 340
+tl2_surname: Porcius
+tl2_forenames: Florian
+tl2_name_abbrev: Porcius
+tl2_dates: 1816-1906
+tl2_page_id: 33189811
+author_lsid: 7856-1
+wikidata_id: Q683372
+ipni_surname: Porcius
+ipni_forenames: Florian
+ipni_standard_form: Porcius
+ipni_dates: 1816-1907
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33189811) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

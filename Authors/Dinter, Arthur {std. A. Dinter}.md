@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0346
+tl2_volume: suppl5
+tl2_page_printed: 347
+tl2_surname: Dinter
+tl2_forenames: Arthur
+tl2_name_abbrev: A. Dinter
+tl2_dates: 1876-?
+tl2_page_id: 33259393
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33259393) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

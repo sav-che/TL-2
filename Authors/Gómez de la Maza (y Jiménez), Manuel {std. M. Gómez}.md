@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0219
+tl2_volume: suppl8
+tl2_page_printed: 291
+tl2_surname: Gómez de la Maza [y Jiménez]
+tl2_forenames: Manuel
+tl2_name_abbrev: M. Gómez
+tl2_dates: 1867-1916
+tl2_page_id: 33258769
+author_lsid: 3255-1
+wikidata_id: Q3286846
+ipni_surname: Gómez de la Maza y Jiménez
+ipni_forenames: Manuel
+ipni_standard_form: M.Gómez
+ipni_dates: 1867-1916
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-07-29 14:44:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33258769) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

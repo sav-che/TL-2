@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0894
+tl2_volume: vol1
+tl2_page_printed: 702
+tl2_surname: Dunker
+tl2_forenames: Wilhelm Bernhard Rudolph Hadrian
+tl2_name_abbrev: Dunker
+tl2_dates: 1809-1885
+tl2_page_id: 33120833
+author_lsid: 2379-1
+wikidata_id: Q76155
+ipni_surname: Dunker
+ipni_forenames: Wilhelm Bernhard Rudolph Hadrian
+ipni_standard_form: Dunker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

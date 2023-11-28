@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0160
+tl2_volume: suppl7
+tl2_page_printed: 234
+tl2_surname: Fitzpatrick
+tl2_forenames: Thomas Jefferson
+tl2_name_abbrev: T.J. Fitzp.
+tl2_dates: 1868-1952
+tl2_page_id: 33259738
+author_lsid: 20012206-2
+wikidata_id: Q21513193
+ipni_surname: Fitzpatrick
+ipni_forenames: Thomas Jefferson
+ipni_standard_form: T.J.Fitzp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259738) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0965
+tl2_volume: vol1
+tl2_page_printed: 799
+tl2_surname: Ernsting
+tl2_forenames: Arthur Conrad
+tl2_name_abbrev: Ernsting
+tl2_dates: 1709-1768
+tl2_page_id: 33120930
+author_lsid: 2567-1
+wikidata_id: Q21512337
+ipni_surname: Ernsting
+ipni_forenames: Arthur Conrad
+ipni_standard_form: Ernsting
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33120930) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0172
+tl2_volume: vol3
+tl2_page_printed: 192
+tl2_surname: Lumnitzer
+tl2_forenames: István (Stephan)
+tl2_name_abbrev: Lumn.
+tl2_dates: 1747-1806
+tl2_page_id: 33355279
+author_lsid: 5832-1
+wikidata_id: Q18986780
+ipni_surname: Lumnitzer
+ipni_forenames: István(Stephan)
+ipni_standard_form: Lumn.
+ipni_dates: 1750-1806
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

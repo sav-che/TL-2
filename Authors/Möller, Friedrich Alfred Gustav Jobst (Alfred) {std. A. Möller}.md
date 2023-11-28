@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0611
+tl2_volume: vol3
+tl2_page_printed: 532
+tl2_surname: Möller
+tl2_forenames: Friedrich Alfred Gustav Jobst (Alfred)
+tl2_name_abbrev: A. Möller
+tl2_dates: 1860-1922
+tl2_page_id: 33355619
+author_lsid: 23502-1
+wikidata_id: Q2645535
+ipni_surname: Möller
+ipni_forenames: Friedrich Alfred Gustav Jobst
+ipni_standard_form: Möller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33355619) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

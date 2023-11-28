@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0371
+tl2_volume: vol6
+tl2_page_printed: 345
+tl2_surname: Tidyman
+tl2_forenames: Philipp [Philip]
+tl2_name_abbrev: Tidyman
+tl2_dates: x-1850
+tl2_page_id: 33212387
+author_lsid: 10657-1
+wikidata_id: Q21610724
+ipni_surname: Tidyman
+ipni_forenames: Philipp (Philip)
+ipni_standard_form: Tidyman
+ipni_dates: -1850
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33212387) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

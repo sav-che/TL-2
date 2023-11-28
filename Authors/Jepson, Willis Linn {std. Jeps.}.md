@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0495
+tl2_volume: vol2
+tl2_page_printed: 440
+tl2_surname: Jepson
+tl2_forenames: Willis Linn
+tl2_name_abbrev: Jeps.
+tl2_dates: 1867-1946
+tl2_page_id: 33068682
+author_lsid: 4476-1
+wikidata_id: Q324259
+ipni_surname: Jepson
+ipni_forenames: Willis Linn
+ipni_standard_form: Jeps.
+ipni_dates: 1867-1946
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33068682) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

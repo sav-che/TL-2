@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0714
+tl2_volume: vol1
+tl2_page_printed: 569
+tl2_surname: Crome
+tl2_forenames: Georg Ernst Wilhelm
+tl2_name_abbrev: Crome
+tl2_dates: 1781-1813
+tl2_page_id: 33120700
+author_lsid: 17536-1
+wikidata_id: Q1431105
+ipni_surname: Crome
+ipni_forenames: Georg Ernst Wilhelm
+ipni_standard_form: Crome
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33120700) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0998
+tl2_volume: vol3
+tl2_page_printed: 842
+tl2_surname: Orbigny
+tl2_forenames: [Alcide] Charles Victor Dessalines d
+tl2_name_abbrev: C. d'Orb.
+tl2_dates: 1806-1876
+tl2_page_id: 33355929
+author_lsid: 7158-1
+wikidata_id: Q55025963
+ipni_surname: Orbigny
+ipni_forenames: Charles Henry Dessalines d'
+ipni_standard_form: Orb.
+ipni_dates: 1806-1876
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Cryptogamic
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

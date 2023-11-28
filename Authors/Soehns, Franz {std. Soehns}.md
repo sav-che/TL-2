@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0713
+tl2_volume: vol5
+tl2_page_printed: 717
+tl2_surname: Soehns
+tl2_forenames: Franz
+tl2_name_abbrev: Soehns
+tl2_dates: fl. 1897
+tl2_page_id: 33333856
+author_lsid: 35148-1
+wikidata_id: Q36557631
+ipni_surname: Soehns
+ipni_forenames: Franz
+ipni_standard_form: Soehns
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

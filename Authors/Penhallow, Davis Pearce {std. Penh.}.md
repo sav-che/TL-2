@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0166
+tl2_volume: vol4
+tl2_page_printed: 152
+tl2_surname: Penhallow
+tl2_forenames: Davis Pearce
+tl2_name_abbrev: Penh.
+tl2_dates: 1854-1910
+tl2_page_id: 33189623
+author_lsid: 7487-1
+wikidata_id: Q5238323
+ipni_surname: Penhallow
+ipni_forenames: David Pearce
+ipni_standard_form: Penh.
+ipni_dates: 1854-1910
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+- Japan
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

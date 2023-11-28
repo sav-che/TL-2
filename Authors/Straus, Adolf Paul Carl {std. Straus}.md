@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0048
+tl2_volume: vol6
+tl2_page_printed: 42
+tl2_surname: Straus
+tl2_forenames: Adolf Paul Carl
+tl2_name_abbrev: Straus
+tl2_dates: 1901-x
+tl2_page_id: 33212046
+author_lsid: 10205-1
+wikidata_id: Q21609939
+ipni_surname: Straus
+ipni_forenames: Adolf Paul Carl
+ipni_standard_form: Straus
+ipni_dates: 1901-1986
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

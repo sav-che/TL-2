@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0726
+tl2_volume: vol3
+tl2_page_printed: 611
+tl2_surname: Moxley
+tl2_forenames: George Loucks
+tl2_name_abbrev: Moxl.
+tl2_dates: 1871-?
+tl2_page_id: 33355698
+author_lsid: 6718-1
+wikidata_id: Q21340311
+ipni_surname: Moxley
+ipni_forenames: George Loucks
+ipni_standard_form: Moxley
+ipni_dates: 1871-1963
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Liberia
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-01-31 23:55:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33355698) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

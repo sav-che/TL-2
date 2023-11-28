@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0102
+tl2_volume: vol7
+tl2_page_printed: 102
+tl2_surname: Watson
+tl2_forenames: Sereno
+tl2_name_abbrev: S. Wats.
+tl2_dates: 1826-1892
+tl2_page_id: 33066442
+author_lsid: 11437-1
+wikidata_id: Q960820
+ipni_surname: Watson
+ipni_forenames: Sereno
+ipni_standard_form: S.Watson
+ipni_dates: 1826-1892
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33066442) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

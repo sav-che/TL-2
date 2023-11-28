@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0703
+tl2_volume: vol6
+tl2_page_printed: 723
+tl2_surname: Viborg
+tl2_forenames: Erik
+tl2_name_abbrev: Viborg
+tl2_dates: 1759-1822
+tl2_page_id: 33212765
+author_lsid: 11158-1
+wikidata_id: Q353390
+ipni_surname: Viborg
+ipni_forenames: Erik Nissen
+ipni_standard_form: Viborg
+ipni_dates: 1759-1822
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33212765) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

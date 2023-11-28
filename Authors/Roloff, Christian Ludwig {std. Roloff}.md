@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0890
+tl2_volume: vol4
+tl2_page_printed: 874
+tl2_surname: Roloff
+tl2_forenames: Christian Ludwig
+tl2_name_abbrev: Roloff
+tl2_dates: 1726-1800
+tl2_page_id: 33190345
+author_lsid: 8557-1
+wikidata_id: Q21607356
+ipni_surname: Roloff
+ipni_forenames: Christian Ludwig
+ipni_standard_form: Roloff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

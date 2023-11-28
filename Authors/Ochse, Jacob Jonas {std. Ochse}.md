@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0951
+tl2_volume: vol3
+tl2_page_printed: 802
+tl2_surname: Ochse
+tl2_forenames: Jacob Jonas
+tl2_name_abbrev: Ochse
+tl2_dates: 1891-1970
+tl2_page_id: 33355889
+author_lsid: 7080-1
+wikidata_id: Q21341127
+ipni_surname: Ochse
+ipni_forenames: Jacob Jonas
+ipni_standard_form: Ochse
+ipni_dates: 1891-1970
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

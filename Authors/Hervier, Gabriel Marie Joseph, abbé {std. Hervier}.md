@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0213
+tl2_volume: vol2
+tl2_page_printed: 177
+tl2_surname: Hervier
+tl2_forenames: Gabriel Marie Joseph, abbé
+tl2_name_abbrev: Hervier
+tl2_dates: 1846-1900
+tl2_page_id: 33068419
+author_lsid: 3892-1
+wikidata_id: Q5873427
+ipni_surname: Hervier-Basson
+ipni_forenames: Gabriel Marie Joseph
+ipni_standard_form: Hervier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

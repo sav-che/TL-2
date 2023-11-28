@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0227
+tl2_volume: suppl2
+tl2_page_printed: 185
+tl2_surname: Blaauw
+tl2_forenames: Anton Hendrik
+tl2_name_abbrev: Blaauw
+tl2_dates: 1882-1942
+tl2_page_id: 33265382
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

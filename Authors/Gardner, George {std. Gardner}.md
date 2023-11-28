@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_1140
+tl2_volume: vol1
+tl2_page_printed: 915
+tl2_surname: Gardner
+tl2_forenames: George
+tl2_name_abbrev: Gardner
+tl2_dates: 1812-1849
+tl2_page_id: 33121046
+author_lsid: 3026-1
+wikidata_id: Q2404423
+ipni_surname: Gardner
+ipni_forenames: George
+ipni_standard_form: Gardner
+ipni_dates: 1812-1849
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+- Sri Lanka
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33121046) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

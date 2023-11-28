@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0118
+tl2_volume: vol3
+tl2_page_printed: 155
+tl2_surname: Loosjes
+tl2_forenames: Adriaan
+tl2_name_abbrev: Loosjes
+tl2_dates: 1761-1818
+tl2_page_id: 33355242
+author_lsid: 5736-1
+wikidata_id: Q4684780
+ipni_surname: Loosjes
+ipni_forenames: Adriaan
+ipni_standard_form: Loosjes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

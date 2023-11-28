@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0279
+tl2_volume: suppl2
+tl2_page_printed: 223
+tl2_surname: Blottner
+tl2_forenames: Karl Ludwig
+tl2_name_abbrev: Blottner
+tl2_dates: 1773-1802
+tl2_page_id: 33265420
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

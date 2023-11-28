@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0777
+tl2_volume: vol2
+tl2_page_printed: 664
+tl2_surname: Krasske
+tl2_forenames: Georg
+tl2_name_abbrev: Krasske
+tl2_dates: 1889-1951
+tl2_page_id: 33068906
+author_lsid: 5034-1
+wikidata_id: Q21517895
+ipni_surname: Krasske
+ipni_forenames: Georg
+ipni_standard_form: Krasske
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

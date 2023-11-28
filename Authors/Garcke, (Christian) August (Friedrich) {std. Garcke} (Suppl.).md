@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0087
+tl2_volume: suppl8
+tl2_page_printed: 123
+tl2_surname: Garcke
+tl2_forenames: [Christian] August [Friedrich]
+tl2_name_abbrev: Garcke
+tl2_dates: 1819-1904
+tl2_page_id: 33258601
+author_lsid: 3021-1
+wikidata_id: Q66696
+ipni_surname: Garcke
+ipni_forenames: Christian August Friedrich
+ipni_standard_form: Garcke
+ipni_dates: 1819-1904
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33258601) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

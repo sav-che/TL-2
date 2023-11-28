@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0591
+tl2_volume: vol2
+tl2_page_printed: 506
+tl2_surname: Kashyap
+tl2_forenames: Shiv Ram
+tl2_name_abbrev: Kash.
+tl2_dates: 1822-1934
+tl2_page_id: 33068748
+author_lsid: 21228-1
+wikidata_id: Q19542465
+ipni_surname: Kashyap
+ipni_forenames: Shiv Ram
+ipni_standard_form: Kashyap
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33068748) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0403
+tl2_volume: vol6
+tl2_page_printed: 378
+tl2_surname: Todaro
+tl2_forenames: Agostino
+tl2_name_abbrev: Tod.
+tl2_dates: 1818-1892
+tl2_page_id: 33212420
+author_lsid: 10704-1
+wikidata_id: Q2738798
+ipni_surname: Todaro
+ipni_forenames: Agostino
+ipni_standard_form: Tod.
+ipni_dates: 1818-1892
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

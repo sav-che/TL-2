@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0301
+tl2_volume: vol7
+tl2_page_printed: 347
+tl2_surname: Wilmott
+tl2_forenames: Alfred James
+tl2_name_abbrev: A. Wilm.
+tl2_dates: 1888-1950
+tl2_page_id: 33066687
+author_lsid: 11727-1
+wikidata_id: Q406813
+ipni_surname: Wilmott
+ipni_forenames: Alfred James
+ipni_standard_form: Wilmott
+ipni_dates: 1888-1950
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33066687) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

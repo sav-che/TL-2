@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1286
+tl2_volume: vol1
+tl2_page_printed: 1026
+tl2_surname: Gutbier
+tl2_forenames: Christian August von
+tl2_name_abbrev: Gutbier
+tl2_dates: 1798-1866
+tl2_page_id: 33121157
+author_lsid: 3498-1
+wikidata_id: Q21514424
+ipni_surname: Gutbier
+ipni_forenames: Christian August von
+ipni_standard_form: Gutbier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

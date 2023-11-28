@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0290
+tl2_volume: suppl6
+tl2_page_printed: 262
+tl2_surname: Eeden
+tl2_forenames: A.C. van
+tl2_name_abbrev: A.C. Eeden
+tl2_dates: fl. 1871-1882
+tl2_page_id: 33260250
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

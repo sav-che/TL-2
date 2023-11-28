@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0287
+tl2_volume: vol6
+tl2_page_printed: 248
+tl2_surname: Therese
+tl2_forenames: Charlotte Marianne Augusta, Prinzessin von Bayern
+tl2_name_abbrev: Therese
+tl2_dates: 1850-1925
+tl2_page_id: 33212290
+author_lsid: 10558-1
+wikidata_id: Q68918
+ipni_surname: Therese
+ipni_forenames: Charlotte Marianne Augusta von Bayern
+ipni_standard_form: Therese
+ipni_dates: 1850-1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33212290) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0311
+tl2_volume: vol5
+tl2_page_printed: 320
+tl2_surname: Schrader
+tl2_forenames: Johann Christian Carl [Karl]
+tl2_name_abbrev: J.C.C. Schrad.
+tl2_dates: 1762-1826
+tl2_page_id: 33333459
+author_lsid: 9248-1
+wikidata_id: Q21608399
+ipni_surname: Schrader
+ipni_forenames: Johann Christian Carl
+ipni_standard_form: J.C.C.Schrad.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33333459) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

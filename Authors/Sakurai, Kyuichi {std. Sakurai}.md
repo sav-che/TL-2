@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1090
+tl2_volume: vol4
+tl2_page_printed: 1080
+tl2_surname: Sakurai
+tl2_forenames: Kyuichi
+tl2_name_abbrev: Sakurai
+tl2_dates: 1889-1963
+tl2_page_id: 33190551
+author_lsid: 8839-1
+wikidata_id: Q19001625
+ipni_surname: Sakurai
+ipni_forenames: Kyuichi
+ipni_standard_form: Sakurai
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Pteridophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1080](https://www.biodiversitylibrary.org/page/33190551) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

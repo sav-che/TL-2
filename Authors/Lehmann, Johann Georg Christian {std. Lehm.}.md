@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0971
+tl2_volume: vol2
+tl2_page_printed: 819
+tl2_surname: Lehmann
+tl2_forenames: Johann Georg Christian
+tl2_name_abbrev: Lehm.
+tl2_dates: 1792-1860
+tl2_page_id: 33069061
+author_lsid: 5434-1
+wikidata_id: Q62981
+ipni_surname: Lehmann
+ipni_forenames: Johann Georg Christian
+ipni_standard_form: Lehm.
+ipni_dates: 1792-1860
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

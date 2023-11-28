@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0571
+tl2_volume: vol6
+tl2_page_printed: 562
+tl2_surname: Uechtritz
+tl2_forenames: Maximilian [Max] Friedrich Sigismund Freiherr von
+tl2_name_abbrev: Uechtr.
+tl2_dates: 1785-1851
+tl2_page_id: 33212604
+author_lsid: 10951-1
+wikidata_id: Q6007430
+ipni_surname: Uechtritz
+ipni_forenames: Maximilian(Max) Friedrich Sigismund von
+ipni_standard_form: Uechtr.
+ipni_dates: 1785-1851
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0902
+tl2_volume: vol5
+tl2_page_printed: 895
+tl2_surname: Stephens
+tl2_forenames: Edith Layard
+tl2_name_abbrev: Stephens
+tl2_dates: 1884-1966
+tl2_page_id: 33334034
+author_lsid: 10106-1
+wikidata_id: Q5338600
+ipni_surname: Stephens
+ipni_forenames: Edith Layard
+ipni_standard_form: Stephens
+ipni_dates: 1884-1966
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/page/33334034) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

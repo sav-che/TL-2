@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0206
+tl2_volume: suppl7
+tl2_page_printed: 312
+tl2_surname: Forbes
+tl2_forenames: Francis Blackwell
+tl2_name_abbrev: F.B. Forbes
+tl2_dates: 1839-1908
+tl2_page_id: 33259816
+author_lsid: 2814-1
+wikidata_id: Q4491809
+ipni_surname: Forbes
+ipni_forenames: Francis Blackwell
+ipni_standard_form: F.B.Forbes
+ipni_dates: 1839-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

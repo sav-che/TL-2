@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0558
+tl2_volume: vol3
+tl2_page_printed: 470
+tl2_surname: Miège
+tl2_forenames: Émile
+tl2_name_abbrev: É. Miège
+tl2_dates: fl. 1910
+tl2_page_id: 33355557
+author_lsid: 6448-1
+wikidata_id: Q47122601
+ipni_surname: Miège
+ipni_forenames: Émile
+ipni_standard_form: É.Miège
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

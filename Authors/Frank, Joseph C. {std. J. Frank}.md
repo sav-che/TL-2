@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1087
+tl2_volume: vol1
+tl2_page_printed: 871
+tl2_surname: Frank
+tl2_forenames: Joseph C.
+tl2_name_abbrev: J.Frank
+tl2_dates: 1782-1835
+tl2_page_id: 33121002
+author_lsid: 2876-1
+wikidata_id: Q21513475
+ipni_surname: Frank
+ipni_forenames: Joseph C.
+ipni_standard_form: Frank
+ipni_dates: 1782-1835
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33121002) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0104
+tl2_volume: vol2
+tl2_page_printed: 90
+tl2_surname: Harz
+tl2_forenames: Carl [Karl] Otto
+tl2_name_abbrev: C. Harz
+tl2_dates: 1842-1906
+tl2_page_id: 33068332
+author_lsid: 3708-1
+wikidata_id: Q104943
+ipni_surname: Harz
+ipni_forenames: Carl (Karl) Otto
+ipni_standard_form: Harz
+ipni_dates: 1842-1906
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0213
+tl2_volume: vol5
+tl2_page_printed: 230
+tl2_surname: Schmalhausen
+tl2_forenames: Johannes Theodor [Ivan Fedorovich Sch., Shmargauzen]
+tl2_name_abbrev: Schmalh.
+tl2_dates: 1849-1894
+tl2_page_id: 33333369
+author_lsid: 9136-1
+wikidata_id: Q1765161
+ipni_surname: Schmalhausen
+ipni_forenames: Johannes Theodor
+ipni_standard_form: Schmalh.
+ipni_dates: 1849-1894
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33333369) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

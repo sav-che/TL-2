@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1009
+tl2_volume: vol4
+tl2_page_printed: 976
+tl2_surname: Rüggeberg
+tl2_forenames: Hermann Karl August
+tl2_name_abbrev: Rüggeberg
+tl2_dates: 1886-?
+tl2_page_id: 33190447
+author_lsid: 8721-1
+wikidata_id: Q21607534
+ipni_surname: Rüggeberg
+ipni_forenames: Hermann Karl August
+ipni_standard_form: Rüggeb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

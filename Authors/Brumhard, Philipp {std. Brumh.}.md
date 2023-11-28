@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0147
+tl2_volume: suppl3
+tl2_page_printed: 157
+tl2_surname: Brumhard
+tl2_forenames: Philipp
+tl2_name_abbrev: Brumh.
+tl2_dates: 1879-?
+tl2_page_id: 33266464
+author_lsid: 1219-1
+wikidata_id: Q21506568
+ipni_surname: Brumhard
+ipni_forenames: Phillipp
+ipni_standard_form: Brumh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

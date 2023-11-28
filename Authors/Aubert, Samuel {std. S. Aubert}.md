@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0234
+tl2_volume: suppl1
+tl2_page_printed: 203
+tl2_surname: Aubert
+tl2_forenames: Samuel
+tl2_name_abbrev: S. Aubert
+tl2_dates: fl. 1900
+tl2_page_id: 33264930
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33264930) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

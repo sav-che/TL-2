@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0948
+tl2_volume: vol1
+tl2_page_printed: 745
+tl2_surname: Emmert
+tl2_forenames: Friedrich
+tl2_name_abbrev: Emmert
+tl2_dates: x-1868
+tl2_page_id: 33120876
+author_lsid: 34747-1
+wikidata_id: Q21512062
+ipni_surname: Emmert
+ipni_forenames: Friedrich
+ipni_standard_form: Emmert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33120876) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0830
+tl2_volume: vol5
+tl2_page_printed: 830
+tl2_surname: Stakman
+tl2_forenames: Elvin Charles
+tl2_name_abbrev: Stakman
+tl2_dates: 1885-1979
+tl2_page_id: 33333969
+author_lsid: 27120-1
+wikidata_id: Q374025
+ipni_surname: Stakman
+ipni_forenames: Elvin Charles
+ipni_standard_form: Stakman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

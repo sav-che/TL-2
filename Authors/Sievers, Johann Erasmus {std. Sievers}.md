@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0585
+tl2_volume: vol5
+tl2_page_printed: 596
+tl2_surname: Sievers
+tl2_forenames: Johann Erasmus
+tl2_name_abbrev: Sievers
+tl2_dates: x-1795
+tl2_page_id: 33333735
+author_lsid: 9630-1
+wikidata_id: Q64026
+ipni_surname: Sievers
+ipni_forenames: Johann Erasmus
+ipni_standard_form: Siev.
+ipni_dates: 1762 -1795
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0603
+tl2_volume: vol6
+tl2_page_printed: 604
+tl2_surname: Unwin
+tl2_forenames: William Charles
+tl2_name_abbrev: Unwin
+tl2_dates: 1811-1887
+tl2_page_id: 33212646
+author_lsid: 10991-1
+wikidata_id: Q21611256
+ipni_surname: Unwin
+ipni_forenames: William Charles
+ipni_standard_form: Unwin
+ipni_dates: 1811-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

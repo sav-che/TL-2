@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0078
+tl2_volume: vol2
+tl2_page_printed: 52
+tl2_surname: Hardy
+tl2_forenames: Apollon Joseph
+tl2_name_abbrev: Hardy
+tl2_dates: 1846-1929
+tl2_page_id: 33068294
+author_lsid: 3655-1
+wikidata_id: Q21394979
+ipni_surname: Hardy
+ipni_forenames: Apollon Joseph
+ipni_standard_form: A.J.Hardy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

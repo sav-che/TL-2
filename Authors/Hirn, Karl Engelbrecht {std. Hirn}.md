@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0258
+tl2_volume: vol2
+tl2_page_printed: 211
+tl2_surname: Hirn
+tl2_forenames: Karl Engelbrecht
+tl2_name_abbrev: Hirn
+tl2_dates: 1872-1907
+tl2_page_id: 33068453
+author_lsid: 3966-1
+wikidata_id: Q11870128
+ipni_surname: Hirn
+ipni_forenames: Karl Engelbrecht
+ipni_standard_form: Hirn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33068453) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

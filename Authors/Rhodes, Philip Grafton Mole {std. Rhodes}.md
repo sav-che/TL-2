@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0743
+tl2_volume: vol4
+tl2_page_printed: 755
+tl2_surname: Rhodes
+tl2_forenames: Philip Grafton Mole
+tl2_name_abbrev: Rhodes
+tl2_dates: 1885-1934
+tl2_page_id: 33190226
+author_lsid: 8337-1
+wikidata_id: Q21607156
+ipni_surname: Rhodes
+ipni_forenames: Philip Grafton Mole
+ipni_standard_form: Rhodes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

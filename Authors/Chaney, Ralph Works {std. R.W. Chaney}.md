@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0037
+tl2_volume: suppl4
+tl2_page_printed: 48
+tl2_surname: Chaney
+tl2_forenames: Ralph Works
+tl2_name_abbrev: R.W. Chaney
+tl2_dates: 1890-(fl. 1955)
+tl2_page_id: 33265725
+author_lsid: 33975-1
+wikidata_id: Q2129808
+ipni_surname: Chaney
+ipni_forenames: Ralph Works
+ipni_standard_form: R.W.Chaney
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

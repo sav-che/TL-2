@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0203
+tl2_volume: vol4
+tl2_page_printed: 185
+tl2_surname: Persson
+tl2_forenames: Nathan Petter Herman
+tl2_name_abbrev: Perss.
+tl2_dates: 1893-1978
+tl2_page_id: 33189656
+author_lsid: 7551-1
+wikidata_id: Q19832536
+ipni_surname: Persson
+ipni_forenames: Nathan Petter Herman
+ipni_standard_form: Perss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

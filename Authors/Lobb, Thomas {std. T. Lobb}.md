@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0084
+tl2_volume: vol3
+tl2_page_printed: 129
+tl2_surname: Lobb
+tl2_forenames: Thomas
+tl2_name_abbrev: T. Lobb
+tl2_dates: 1820-1894
+tl2_page_id: 33355216
+author_lsid: 5686-1
+wikidata_id: Q562900
+ipni_surname: Lobb
+ipni_forenames: Thomas
+ipni_standard_form: T.Lobb
+ipni_dates: 1820-1894
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

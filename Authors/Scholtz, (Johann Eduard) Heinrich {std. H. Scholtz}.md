@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0295
+tl2_volume: vol5
+tl2_page_printed: 294
+tl2_surname: Scholtz
+tl2_forenames: [Johann Eduard] Heinrich
+tl2_name_abbrev: H. Scholtz
+tl2_dates: 1812-1859
+tl2_page_id: 33333433
+author_lsid: 9227-1
+wikidata_id: Q21608269
+ipni_surname: Scholtz
+ipni_forenames: Johann Eduard Heinrich
+ipni_standard_form: H.Scholtz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

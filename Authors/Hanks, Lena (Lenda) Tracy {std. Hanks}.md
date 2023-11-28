@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0058
+tl2_volume: vol2
+tl2_page_printed: 45
+tl2_surname: Hanks
+tl2_forenames: Lena (Lenda) Tracy
+tl2_name_abbrev: Hanks
+tl2_dates: 1879-1944
+tl2_page_id: 33068287
+author_lsid: 3620-1
+wikidata_id: Q5972713
+ipni_surname: Hanks
+ipni_forenames: Lena(Lenda) Tracy
+ipni_standard_form: Hanks
+ipni_dates: 1879-1944
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

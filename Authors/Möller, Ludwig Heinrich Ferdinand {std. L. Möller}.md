@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0615
+tl2_volume: vol3
+tl2_page_printed: 535
+tl2_surname: Möller
+tl2_forenames: Ludwig Heinrich Ferdinand
+tl2_name_abbrev: L. Möller
+tl2_dates: 1820-1877
+tl2_page_id: 33355622
+author_lsid: 6549-1
+wikidata_id: Q21521629
+ipni_surname: Möller
+ipni_forenames: Ludwig Heinrich Ferdinand
+ipni_standard_form: L.H.F.Möller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

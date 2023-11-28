@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0352
+tl2_volume: vol1
+tl2_page_printed: 271
+tl2_surname: Bonnemaison
+tl2_forenames: Théophile
+tl2_name_abbrev: Bonnem.
+tl2_dates: 1773-1829
+tl2_page_id: 33120402
+author_lsid: 956-1
+wikidata_id: Q21506293
+ipni_surname: Bonnemaison
+ipni_forenames: Théophile
+ipni_standard_form: Bonnem.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0464
+tl2_volume: vol7
+tl2_page_printed: 514
+tl2_surname: Zalessky [Zalyesskii]
+tl2_forenames: Mikhail [Dmitrievich]
+tl2_name_abbrev: Zalessky
+tl2_dates: 1877-1946
+tl2_page_id: 33066854
+author_lsid: 13039-1
+wikidata_id: Q15997448
+ipni_surname: Zalessky
+ipni_forenames: Mikhail (Dmitrievich)
+ipni_standard_form: Zalessky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33066854) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

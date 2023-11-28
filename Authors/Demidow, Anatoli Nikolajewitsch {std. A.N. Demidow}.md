@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0796
+tl2_volume: vol1
+tl2_page_printed: 620
+tl2_surname: Demidow
+tl2_forenames: Anatoli Nikolajewitsch
+tl2_name_abbrev: A.N. Demidow
+tl2_dates: 1812-1870
+tl2_page_id: 33120751
+author_lsid: 2116-1
+wikidata_id: Q487488
+ipni_surname: Demidov
+ipni_forenames: Anatoli Nikolajewitsch
+ipni_standard_form: A.N.Demidov
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

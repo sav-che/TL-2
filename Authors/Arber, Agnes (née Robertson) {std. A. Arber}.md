@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0081
+tl2_volume: vol1
+tl2_page_printed: 56
+tl2_surname: Arber
+tl2_forenames: Agnes (née Robertson)
+tl2_name_abbrev: A. Arber
+tl2_dates: 1879-1960
+tl2_page_id: 33120187
+author_lsid: 12328-1
+wikidata_id: Q394451
+ipni_surname: Arber
+ipni_forenames: Agnes
+ipni_standard_form: A.Arber
+ipni_dates: 1879-1960
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33120187) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

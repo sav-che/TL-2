@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0843
+tl2_volume: vol1
+tl2_page_printed: 666
+tl2_surname: Doerrien
+tl2_forenames: Catherina Helena
+tl2_name_abbrev: Doerrien
+tl2_dates: 1717-1795
+tl2_page_id: 33120797
+author_lsid: 2251-1
+wikidata_id: Q1050781
+ipni_surname: Doerrien
+ipni_forenames: Catharina Helena
+ipni_standard_form: Doerr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0460
+tl2_volume: vol4
+tl2_page_printed: 383
+tl2_surname: Praschil
+tl2_forenames: Wenceslaus Wilhelm
+tl2_name_abbrev: Praschil
+tl2_dates: fl. 1840
+tl2_page_id: 33189854
+author_lsid: 7929-1
+wikidata_id: Q36703488
+ipni_surname: Praschil
+ipni_forenames: Wenceslaus Wilhelm
+ipni_standard_form: Praschil
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

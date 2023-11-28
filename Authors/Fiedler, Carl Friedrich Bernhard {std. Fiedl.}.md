@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1016
+tl2_volume: vol1
+tl2_page_printed: 828
+tl2_surname: Fiedler
+tl2_forenames: Carl Friedrich Bernhard
+tl2_name_abbrev: Fiedl.
+tl2_dates: 1807-1869
+tl2_page_id: 33120959
+author_lsid: 18780-1
+wikidata_id: Q21512986
+ipni_surname: Fiedler
+ipni_forenames: Karl Friedrich Bernhard
+ipni_standard_form: Fiedl.
+ipni_dates: 1807-1869
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

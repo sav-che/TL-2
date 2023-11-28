@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0525
+tl2_volume: vol5
+tl2_page_printed: 547
+tl2_surname: Seyot
+tl2_forenames: Pierre
+tl2_name_abbrev: Seyot
+tl2_dates: 1876-1942
+tl2_page_id: 33333686
+author_lsid: 9528-1
+wikidata_id: Q21608724
+ipni_surname: Seyot
+ipni_forenames: Pierre
+ipni_standard_form: Seyot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33333686) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

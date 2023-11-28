@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0218
+tl2_volume: suppl3
+tl2_page_printed: 216
+tl2_surname: Buisman
+tl2_forenames: Christine Johanna
+tl2_name_abbrev: Buisman
+tl2_dates: 1900-1936
+tl2_page_id: 33266523
+author_lsid: 16691-1
+wikidata_id: Q4814925
+ipni_surname: Buisman
+ipni_forenames: Christine Johanna
+ipni_standard_form: Buisman
+ipni_dates: 1900-1936
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0204
+tl2_volume: suppl2
+tl2_page_printed: 168
+tl2_surname: Binz
+tl2_forenames: August
+tl2_name_abbrev: Binz
+tl2_dates: 1870-1963
+tl2_page_id: 33265365
+author_lsid: 797-1
+wikidata_id: Q122005
+ipni_surname: Binz
+ipni_forenames: August
+ipni_standard_form: Binz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33265365) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

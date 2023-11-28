@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0746
+tl2_volume: vol6
+tl2_page_printed: 767
+tl2_surname: Vogel
+tl2_forenames: Heinrich
+tl2_name_abbrev: H. Vogel
+tl2_dates: fl. 1875
+tl2_page_id: 33212809
+author_lsid: 11234-1
+wikidata_id: Q47128196
+ipni_surname: Vogel
+ipni_forenames: Heinrich
+ipni_standard_form: H.Vogel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33212809) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

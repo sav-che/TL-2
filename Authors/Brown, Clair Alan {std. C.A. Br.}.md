@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0117
+tl2_volume: suppl3
+tl2_page_printed: 133
+tl2_surname: Brown
+tl2_forenames: Clair Alan
+tl2_name_abbrev: C.A. Br.
+tl2_dates: 1903-x
+tl2_page_id: 33266440
+author_lsid: 16593-1
+wikidata_id: Q2974959
+ipni_surname: Brown
+ipni_forenames: Clair Alan
+ipni_standard_form: C.A.Br.
+ipni_dates: 1903-1982
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

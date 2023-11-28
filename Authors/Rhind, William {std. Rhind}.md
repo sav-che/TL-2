@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0740
+tl2_volume: vol4
+tl2_page_printed: 753
+tl2_surname: Rhind
+tl2_forenames: William
+tl2_name_abbrev: Rhind
+tl2_dates: fl. 1830-1860
+tl2_page_id: 33190224
+author_lsid: 8333-1
+wikidata_id: Q9096066
+ipni_surname: Rhind
+ipni_forenames: William
+ipni_standard_form: Rhind
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

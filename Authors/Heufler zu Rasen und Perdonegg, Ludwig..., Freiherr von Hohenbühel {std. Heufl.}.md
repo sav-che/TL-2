@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0224
+tl2_volume: vol2
+tl2_page_printed: 184
+tl2_surname: Heufler zu Rasen und Perdonegg
+tl2_forenames: Ludwig Samuel..., (later) Freiherr von Hohenbühel
+tl2_name_abbrev: Heufl.
+tl2_dates: 1817-1885
+tl2_page_id: 33068426
+author_lsid: 12548-1
+wikidata_id: Q18985450
+ipni_surname: Heufler zu Rasen und Perdonneg
+ipni_forenames: Ludwig Samuel Joseph David Alexander
+ipni_standard_form: Heufl.
+ipni_dates: 1817-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33068426) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

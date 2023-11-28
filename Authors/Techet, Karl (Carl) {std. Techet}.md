@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0232
+tl2_volume: vol6
+tl2_page_printed: 198
+tl2_surname: Techet
+tl2_forenames: Karl [Carl]
+tl2_name_abbrev: Techet
+tl2_dates: 1877-1919
+tl2_page_id: 33212240
+author_lsid: 10479-1
+wikidata_id: Q112833
+ipni_surname: Techet
+ipni_forenames: Karl(Carl)
+ipni_standard_form: Techet
+ipni_dates: 1877-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

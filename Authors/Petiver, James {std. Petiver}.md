@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0229
+tl2_volume: vol4
+tl2_page_printed: 203
+tl2_surname: Petiver
+tl2_forenames: James
+tl2_name_abbrev: Petiver
+tl2_dates: 1658-1718
+tl2_page_id: 33189674
+author_lsid: 7585-1
+wikidata_id: Q1680975
+ipni_surname: Petiver
+ipni_forenames: James
+ipni_standard_form: Petiver
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33189674) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

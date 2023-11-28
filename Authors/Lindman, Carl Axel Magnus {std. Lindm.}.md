@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0046
+tl2_volume: vol3
+tl2_page_printed: 60
+tl2_surname: Lindman
+tl2_forenames: Carl Axel Magnus
+tl2_name_abbrev: Lindm.
+tl2_dates: 1856-1928
+tl2_page_id: 33355147
+author_lsid: 5620-1
+wikidata_id: Q719778
+ipni_surname: Lindman
+ipni_forenames: Carl Axel Magnus
+ipni_standard_form: Lindm.
+ipni_dates: 1856-1928
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33355147) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

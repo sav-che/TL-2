@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0986
+tl2_volume: vol3
+tl2_page_printed: 835
+tl2_surname: Olsson
+tl2_forenames: Peter [Petter]
+tl2_name_abbrev: P. Olsson, Skåne
+tl2_dates: 1838-1923
+tl2_page_id: 33355922
+author_lsid: 7141-1
+wikidata_id: Q16467531
+ipni_surname: Olsson
+ipni_forenames: Peter(Petter)
+ipni_standard_form: P.Olsson bis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

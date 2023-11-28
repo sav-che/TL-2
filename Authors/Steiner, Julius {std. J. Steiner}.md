@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0879
+tl2_volume: vol5
+tl2_page_printed: 875
+tl2_surname: Steiner
+tl2_forenames: Julius
+tl2_name_abbrev: J. Steiner
+tl2_dates: 1844-1918
+tl2_page_id: 33334014
+author_lsid: 27173-1
+wikidata_id: Q21510489
+ipni_surname: Steiner
+ipni_forenames: Julius
+ipni_standard_form: J.Steiner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33334014) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

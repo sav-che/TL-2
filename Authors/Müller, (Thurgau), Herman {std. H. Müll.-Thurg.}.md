@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0740
+tl2_volume: vol3
+tl2_page_printed: 628
+tl2_surname: Müller (Thurgau)
+tl2_forenames: Herman
+tl2_name_abbrev: H. Müll.-Thurg.
+tl2_dates: 1850-1927
+tl2_page_id: 33355715
+author_lsid: 12698-1
+wikidata_id: Q120437
+ipni_surname: Müller Thurgau
+ipni_forenames: Herman
+ipni_standard_form: Müll.-Thurg.
+ipni_dates: 1850-1927
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-01-13 14:47:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

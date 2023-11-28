@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0172
+tl2_volume: suppl4
+tl2_page_printed: 221
+tl2_surname: Clinton
+tl2_forenames: Georges William
+tl2_name_abbrev: Clinton
+tl2_dates: 1807-1885
+tl2_page_id: 33265898
+author_lsid: 1701-1
+wikidata_id: Q282329
+ipni_surname: Clinton
+ipni_forenames: George William
+ipni_standard_form: Clinton
+ipni_dates: 1807-1885
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-07-10 09:37:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

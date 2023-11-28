@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0824
+tl2_volume: vol2
+tl2_page_printed: 705
+tl2_surname: Kunze
+tl2_forenames: Karl Sebastian Heinrich
+tl2_name_abbrev: K. Kunze
+tl2_dates: 1774-1820
+tl2_page_id: 33068947
+author_lsid: 5142-1
+wikidata_id: Q18910668
+ipni_surname: Kunze
+ipni_forenames: Karl Sebastian Heinrich
+ipni_standard_form: K.Kunze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

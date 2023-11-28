@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0255
+tl2_volume: suppl8
+tl2_page_printed: 355
+tl2_surname: Greene
+tl2_forenames: Edward Lee (later Rev.)
+tl2_name_abbrev: Greene
+tl2_dates: 1843-1915
+tl2_page_id: 33258833
+author_lsid: 3366-1
+wikidata_id: Q2661665
+ipni_surname: Greene
+ipni_forenames: Edward Lee
+ipni_standard_form: Greene
+ipni_dates: 1843-1915
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

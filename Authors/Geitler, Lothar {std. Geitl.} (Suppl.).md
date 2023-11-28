@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0125
+tl2_volume: suppl8
+tl2_page_printed: 169
+tl2_surname: Geitler
+tl2_forenames: Lothar
+tl2_name_abbrev: Geitl.
+tl2_dates: 1899-1990
+tl2_page_id: 33258647
+author_lsid: 3074-1
+wikidata_id: Q1870830
+ipni_surname: Geitler
+ipni_forenames: Lothar
+ipni_standard_form: Geitler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33258647) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

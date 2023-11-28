@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0332
+tl2_volume: suppl6
+tl2_page_printed: 291
+tl2_surname: Eklund
+tl2_forenames: Ole Arthur
+tl2_name_abbrev: O.A. Eklund
+tl2_dates: 1899-1946
+tl2_page_id: 33260279
+author_lsid: 18419-1
+wikidata_id: Q11885337
+ipni_surname: Eklund
+ipni_forenames: Ole Arthur
+ipni_standard_form: O.A.Eklund
+ipni_dates: 1899-1946
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

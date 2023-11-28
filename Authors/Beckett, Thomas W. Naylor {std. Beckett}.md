@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl2_0024
+tl2_volume: suppl2
+tl2_page_printed: 35
+tl2_surname: Beckett
+tl2_forenames: Thomas W. Naylor
+tl2_name_abbrev: Beckett
+tl2_dates: 1839-1906
+tl2_page_id: 33265232
+author_lsid: 15861-1
+wikidata_id: Q15994293
+ipni_surname: Beckett
+ipni_forenames: Thomas W.Naylor
+ipni_standard_form: Beckett
+ipni_dates: 1838-1906
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sri Lanka
+- New Zealand
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

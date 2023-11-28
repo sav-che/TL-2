@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0839
+tl2_volume: vol5
+tl2_page_printed: 844
+tl2_surname: Starcs
+tl2_forenames: Karlis
+tl2_name_abbrev: Starcs
+tl2_dates: 1897-1953
+tl2_page_id: 33333983
+author_lsid: 10031-1
+wikidata_id: Q21609538
+ipni_surname: Starcs
+ipni_forenames: Karlis
+ipni_standard_form: Starcs
+ipni_dates: 1897-1953
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33333983) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

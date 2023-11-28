@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0849
+tl2_volume: vol1
+tl2_page_printed: 670
+tl2_surname: Don
+tl2_forenames: George
+tl2_name_abbrev: G. Don sr.
+tl2_dates: 1764-1814
+tl2_page_id: 33120801
+author_lsid: 31989-1
+wikidata_id: Q21510571
+ipni_surname: Don
+ipni_forenames: George
+ipni_standard_form: Don
+ipni_dates: 1764-1814
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

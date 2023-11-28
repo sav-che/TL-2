@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0813
+tl2_volume: vol3
+tl2_page_printed: 697
+tl2_surname: Naumann
+tl2_forenames: Einar Christian Leonard
+tl2_name_abbrev: Naumann
+tl2_dates: 1891-1934
+tl2_page_id: 33355784
+author_lsid: 6869-1
+wikidata_id: Q2742465
+ipni_surname: Naumann
+ipni_forenames: Einar Christian Leonard
+ipni_standard_form: Naumann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0116
+tl2_volume: vol4
+tl2_page_printed: 109
+tl2_surname: Paul
+tl2_forenames: Hermann Karl Gustav
+tl2_name_abbrev: H. Paul
+tl2_dates: 1876-1964
+tl2_page_id: 33189580
+author_lsid: 7403-1
+wikidata_id: Q21522698
+ipni_surname: Paul
+ipni_forenames: Hermann Karl Gustav
+ipni_standard_form: H.K.G.Paul
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33189580) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

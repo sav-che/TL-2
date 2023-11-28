@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0828
+tl2_volume: vol4
+tl2_page_printed: 821
+tl2_surname: Roche
+tl2_forenames: Daniel de la
+tl2_name_abbrev: D. Roche
+tl2_dates: 1743-1813
+tl2_page_id: 33190292
+author_lsid: 2095-1
+wikidata_id: Q121955
+ipni_surname: Delaroche
+ipni_forenames: Daniel
+ipni_standard_form: D.Delaroche
+ipni_dates: 1743-1813
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

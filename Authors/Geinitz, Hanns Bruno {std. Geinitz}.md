@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1159
+tl2_volume: vol1
+tl2_page_printed: 929
+tl2_surname: Geinitz
+tl2_forenames: Hanns Bruno
+tl2_name_abbrev: Geinitz
+tl2_dates: 1814-1900
+tl2_page_id: 33121060
+author_lsid: 3070-1
+wikidata_id: Q86176
+ipni_surname: Geinitz
+ipni_forenames: Hans Bruno
+ipni_standard_form: Geinitz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

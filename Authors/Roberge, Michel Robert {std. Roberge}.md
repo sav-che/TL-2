@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0812
+tl2_volume: vol4
+tl2_page_printed: 809
+tl2_surname: Roberge
+tl2_forenames: Michel Robert
+tl2_name_abbrev: Roberge
+tl2_dates: x-1864
+tl2_page_id: 33190280
+author_lsid: 8439-1
+wikidata_id: Q21393072
+ipni_surname: Roberge
+ipni_forenames: Michel(Michael) Robert
+ipni_standard_form: Roberge
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0595
+tl2_volume: vol5
+tl2_page_printed: 601
+tl2_surname: Silvestri
+tl2_forenames: Antonio de
+tl2_name_abbrev: A. Silvestri
+tl2_dates: 1836-x
+tl2_page_id: 33333740
+author_lsid: 9654-1
+wikidata_id: Q21608904
+ipni_surname: Silvestri
+ipni_forenames: Antonio de
+ipni_standard_form: A.Silvestri
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33333740) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

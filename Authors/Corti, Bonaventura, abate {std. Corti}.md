@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0689
+tl2_volume: vol1
+tl2_page_printed: 551
+tl2_surname: Corti
+tl2_forenames: Bonaventura, abate
+tl2_name_abbrev: Corti
+tl2_dates: 1729-1813
+tl2_page_id: 33120682
+author_lsid: 34743-1
+wikidata_id: Q892145
+ipni_surname: Corti
+ipni_forenames: Bonaventura
+ipni_standard_form: Corti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

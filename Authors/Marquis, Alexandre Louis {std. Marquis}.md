@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0348
+tl2_volume: vol3
+tl2_page_printed: 303
+tl2_surname: Marquis
+tl2_forenames: Alexandre Louis
+tl2_name_abbrev: Marquis
+tl2_dates: 1777-1828
+tl2_page_id: 33355390
+author_lsid: 6126-1
+wikidata_id: Q4281914
+ipni_surname: Marquis
+ipni_forenames: Alexandre Louis
+ipni_standard_form: Marquis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

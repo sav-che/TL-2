@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0975
+tl2_volume: vol4
+tl2_page_printed: 943
+tl2_surname: Roussel
+tl2_forenames: Henri François Anne de
+tl2_name_abbrev: Roussel
+tl2_dates: 1748-1812
+tl2_page_id: 33190414
+author_lsid: 8669-1
+wikidata_id: Q3130377
+ipni_surname: Roussel
+ipni_forenames: Henri François Anne de
+ipni_standard_form: Roussel
+ipni_dates: 1747-1812
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

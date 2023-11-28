@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0348
+tl2_volume: suppl6
+tl2_page_printed: 306
+tl2_surname: Ellacombe
+tl2_forenames: [Rev.] Henry Nicholson
+tl2_name_abbrev: Ellacombe
+tl2_dates: 1822-1916
+tl2_page_id: 33260294
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33260294) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

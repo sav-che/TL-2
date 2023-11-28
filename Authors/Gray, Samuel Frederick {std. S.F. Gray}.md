@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_1246
+tl2_volume: vol1
+tl2_page_printed: 994
+tl2_surname: Gray
+tl2_forenames: Samuel Frederick
+tl2_name_abbrev: S.F. Gray
+tl2_dates: 1766-1828
+tl2_page_id: 33121125
+author_lsid: 19580-1
+wikidata_id: Q540667
+ipni_surname: Gray
+ipni_forenames: Samuel Frederick
+ipni_standard_form: Gray
+ipni_dates: 1766-1828
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

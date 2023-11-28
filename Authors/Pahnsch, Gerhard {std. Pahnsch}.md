@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0010
+tl2_volume: vol4
+tl2_page_printed: 6
+tl2_surname: Pahnsch
+tl2_forenames: Gerhard
+tl2_name_abbrev: Pahnsch
+tl2_dates: x-1880
+tl2_page_id: 33189509
+author_lsid: 7247-1
+wikidata_id: Q12362983
+ipni_surname: Pahnsch
+ipni_forenames: Gerhard
+ipni_standard_form: Pahnsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

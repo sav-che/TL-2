@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0202
+tl2_volume: vol5
+tl2_page_printed: 222
+tl2_surname: Schlickum
+tl2_forenames: Julius
+tl2_name_abbrev: J. Schlickum
+tl2_dates: 1804-1884
+tl2_page_id: 33333361
+author_lsid: 9123-1
+wikidata_id: Q21608056
+ipni_surname: Schlickum
+ipni_forenames: Julius
+ipni_standard_form: J.Schlick.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0619
+tl2_volume: vol5
+tl2_page_printed: 616
+tl2_surname: Singer
+tl2_forenames: Rolf
+tl2_name_abbrev: Singer
+tl2_dates: 1906-x
+tl2_page_id: 33333755
+author_lsid: 9693-1
+wikidata_id: Q64091
+ipni_surname: Singer
+ipni_forenames: Rolf
+ipni_standard_form: Singer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

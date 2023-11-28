@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0695
+tl2_volume: vol4
+tl2_page_printed: 706
+tl2_surname: Reinsch
+tl2_forenames: Paul Friedrich
+tl2_name_abbrev: Reinsch
+tl2_dates: 1836-1914
+tl2_page_id: 33190177
+author_lsid: 8275-1
+wikidata_id: Q6067171
+ipni_surname: Reinsch
+ipni_forenames: Paul Friedrich
+ipni_standard_form: Reinsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

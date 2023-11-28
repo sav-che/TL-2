@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0113
+tl2_volume: vol7
+tl2_page_printed: 111
+tl2_surname: Wawra
+tl2_forenames: Heinrich, Ritter von Fernsee
+tl2_name_abbrev: Wawra
+tl2_dates: 1831-1887
+tl2_page_id: 33066451
+author_lsid: 11447-1
+wikidata_id: Q79184
+ipni_surname: Wawra
+ipni_forenames: Heinrich
+ipni_standard_form: Wawra
+ipni_dates: 1831-1887
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

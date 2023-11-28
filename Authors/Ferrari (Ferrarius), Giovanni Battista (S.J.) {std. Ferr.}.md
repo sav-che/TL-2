@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0100
+tl2_volume: suppl7
+tl2_page_printed: 160
+tl2_surname: Ferrari [Ferrarius]
+tl2_forenames: Giovanni Battista (S.J.)
+tl2_name_abbrev: Ferr.
+tl2_dates: 1583-1655
+tl2_page_id: 33259664
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33259664) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

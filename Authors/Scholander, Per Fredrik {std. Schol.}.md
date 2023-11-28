@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0293
+tl2_volume: vol5
+tl2_page_printed: 293
+tl2_surname: Scholander
+tl2_forenames: Per Fredrik
+tl2_name_abbrev: Schol.
+tl2_dates: 1905-1980
+tl2_page_id: 33333432
+author_lsid: 9224-1
+wikidata_id: Q6168939
+ipni_surname: Scholander
+ipni_forenames: Per Fredrik
+ipni_standard_form: Schol.
+ipni_dates: 1905-1980
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

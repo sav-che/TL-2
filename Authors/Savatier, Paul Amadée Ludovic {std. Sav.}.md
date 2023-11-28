@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0085
+tl2_volume: vol5
+tl2_page_printed: 83
+tl2_surname: Savatier
+tl2_forenames: Paul Amadée Ludovic
+tl2_name_abbrev: Sav.
+tl2_dates: 1830-1891
+tl2_page_id: 33333222
+author_lsid: 8971-1
+wikidata_id: Q246459
+ipni_surname: Savatier
+ipni_forenames: Paul Amedée Ludovic
+ipni_standard_form: Sav.
+ipni_dates: 1830-1891
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

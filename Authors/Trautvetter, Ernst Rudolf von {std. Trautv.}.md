@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0471
+tl2_volume: vol6
+tl2_page_printed: 443
+tl2_surname: Trautvetter
+tl2_forenames: Ernst Rudolf von
+tl2_name_abbrev: Trautv.
+tl2_dates: 1809-1889
+tl2_page_id: 33212485
+author_lsid: 10798-1
+wikidata_id: Q62846
+ipni_surname: Trautvetter
+ipni_forenames: Ernst Rudolf von
+ipni_standard_form: Trautv.
+ipni_dates: 1809-1889
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33212485) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

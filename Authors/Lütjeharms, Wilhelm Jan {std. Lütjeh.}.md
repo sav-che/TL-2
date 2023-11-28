@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0166
+tl2_volume: vol3
+tl2_page_printed: 189
+tl2_surname: Lütjeharms
+tl2_forenames: Wilhelm Jan
+tl2_name_abbrev: Lütjeh.
+tl2_dates: 1907-x
+tl2_page_id: 33355276
+author_lsid: 5822-1
+wikidata_id: Q21519664
+ipni_surname: Lütjeharms
+ipni_forenames: Wilhelm Jan
+ipni_standard_form: Lütjeh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33355276) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

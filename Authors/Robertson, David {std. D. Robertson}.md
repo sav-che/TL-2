@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0815
+tl2_volume: vol4
+tl2_page_printed: 811
+tl2_surname: Robertson
+tl2_forenames: David
+tl2_name_abbrev: D. Robertson
+tl2_dates: 1806-1896
+tl2_page_id: 33190282
+author_lsid: 8446-1
+wikidata_id: Q537108
+ipni_surname: Robertson
+ipni_forenames: David
+ipni_standard_form: Robertson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

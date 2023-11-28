@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0415
+tl2_volume: vol6
+tl2_page_printed: 388
+tl2_surname: Tombe
+tl2_forenames: Frans Andries des
+tl2_name_abbrev: Tombe
+tl2_dates: 1884-1926
+tl2_page_id: 33212430
+author_lsid: 10725-1
+wikidata_id: Q21610838
+ipni_surname: Tombe
+ipni_forenames: Frans Andries des
+ipni_standard_form: Tombe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

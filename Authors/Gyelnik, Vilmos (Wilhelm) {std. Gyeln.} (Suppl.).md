@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0344
+tl2_volume: suppl8
+tl2_page_printed: 473
+tl2_surname: Gyelnik
+tl2_forenames: Vilmos (Wilhelm)
+tl2_name_abbrev: Gyeln.
+tl2_dates: 1906-1945
+tl2_page_id: 33258951
+author_lsid: 3510-1
+wikidata_id: Q4171751
+ipni_surname: Gyelnik
+ipni_forenames: Vilmos Köfaragó
+ipni_standard_form: Gyeln.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33258951) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

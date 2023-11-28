@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0004
+tl2_volume: vol4
+tl2_page_printed: 3
+tl2_surname: Packard
+tl2_forenames: Alpheus Spring
+tl2_name_abbrev: Packard
+tl2_dates: 1839-1905
+tl2_page_id: 33189512
+author_lsid: 7234-1
+wikidata_id: Q2839658
+ipni_surname: Packard
+ipni_forenames: Alpheus Spring
+ipni_standard_form: Packard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33189512) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

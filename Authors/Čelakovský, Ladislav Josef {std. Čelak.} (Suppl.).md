@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0007
+tl2_volume: suppl4
+tl2_page_printed: 8
+tl2_surname: Čelakovský
+tl2_forenames: Ladislav Josef
+tl2_name_abbrev: Čelak.
+tl2_dates: 1834-1902
+tl2_page_id: 33265685
+author_lsid: 1478-1
+wikidata_id: Q743785
+ipni_surname: Čelakovský
+ipni_forenames: Ladislav Josef
+ipni_standard_form: Čelak.
+ipni_dates: 1834-1902
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265685) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

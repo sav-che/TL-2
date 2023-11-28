@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0012
+tl2_volume: suppl1
+tl2_page_printed: 6
+tl2_surname: Abeleven
+tl2_forenames: Theodorus Hendrik Arnoldus Jacobus
+tl2_name_abbrev: Abeleven
+tl2_dates: 1822-1904
+tl2_page_id: 33264769
+author_lsid: 36-1
+wikidata_id: Q10381986
+ipni_surname: Abeleven
+ipni_forenames: Theodor (Theodoor) Hendrik Arnoldus Jacobus
+ipni_standard_form: Abeleven
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33264769) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

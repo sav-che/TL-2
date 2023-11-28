@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0296
+tl2_volume: vol5
+tl2_page_printed: 295
+tl2_surname: Scholz
+tl2_forenames: Eduard
+tl2_name_abbrev: E. Scholz
+tl2_dates: 1860-?
+tl2_page_id: 33333434
+author_lsid: 9228-1
+wikidata_id: Q21608276
+ipni_surname: Scholz
+ipni_forenames: Eduard
+ipni_standard_form: E.Scholz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

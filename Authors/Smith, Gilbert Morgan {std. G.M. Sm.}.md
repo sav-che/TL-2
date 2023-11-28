@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0678
+tl2_volume: vol5
+tl2_page_printed: 672
+tl2_surname: Smith
+tl2_forenames: Gilbert Morgan
+tl2_name_abbrev: G.M. Sm.
+tl2_dates: 1885-1959
+tl2_page_id: 33333811
+author_lsid: 9795-1
+wikidata_id: Q16938452
+ipni_surname: Smith
+ipni_forenames: Gilbert Morgan
+ipni_standard_form: G.M.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

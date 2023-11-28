@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0204
+tl2_volume: vol4
+tl2_page_printed: 185
+tl2_surname: Perty
+tl2_forenames: Joseph Anton Maximilian
+tl2_name_abbrev: Perty
+tl2_dates: 1804-1884
+tl2_page_id: 33189656
+author_lsid: 7552-1
+wikidata_id: Q86450
+ipni_surname: Perty
+ipni_forenames: Joseph Anton Maximillian
+ipni_standard_form: Perty
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

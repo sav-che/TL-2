@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0527
+tl2_volume: vol5
+tl2_page_printed: 548
+tl2_surname: Shaler
+tl2_forenames: Nathaniel Southgate
+tl2_name_abbrev: Shaler
+tl2_dates: 1841-1906
+tl2_page_id: 33333687
+author_lsid: 9533-1
+wikidata_id: Q263541
+ipni_surname: Shaler
+ipni_forenames: Nathaniel Southgate
+ipni_standard_form: Shaler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

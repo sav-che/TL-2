@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0726
+tl2_volume: vol5
+tl2_page_printed: 729
+tl2_surname: Sollmann
+tl2_forenames: August
+tl2_name_abbrev: Sollm.
+tl2_dates: fl. 1862
+tl2_page_id: 33333868
+author_lsid: 9879-1
+wikidata_id: Q21390254
+ipni_surname: Sollmann
+ipni_forenames: August
+ipni_standard_form: Sollm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33333868) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

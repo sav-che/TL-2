@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0369
+tl2_volume: suppl1
+tl2_page_printed: 325
+tl2_surname: Barham
+tl2_forenames: Henry
+tl2_name_abbrev: Barham
+tl2_dates: 1670-1726
+tl2_page_id: 33265052
+author_lsid: 476-1
+wikidata_id: Q5717782
+ipni_surname: Barham
+ipni_forenames: Henry
+ipni_standard_form: Barham
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- United Kingdom
+- Jamaica
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

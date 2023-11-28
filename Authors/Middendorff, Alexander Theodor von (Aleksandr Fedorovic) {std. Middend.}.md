@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0557
+tl2_volume: vol3
+tl2_page_printed: 469
+tl2_surname: Middendorff
+tl2_forenames: Alexander Theodor von (Aleksandr Fedorovic Middendorf)
+tl2_name_abbrev: Middend.
+tl2_dates: 1815-1894
+tl2_page_id: 33355556
+author_lsid: 6445-1
+wikidata_id: Q461620
+ipni_surname: Middendorff
+ipni_forenames: Alexander Theodorowitsch
+ipni_standard_form: Middend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33355556) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

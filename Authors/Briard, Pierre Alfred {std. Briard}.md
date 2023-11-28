@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0425
+tl2_volume: vol1
+tl2_page_printed: 323
+tl2_surname: Briard
+tl2_forenames: Pierre Alfred
+tl2_name_abbrev: Briard
+tl2_dates: 1811-1896
+tl2_page_id: 33120454
+author_lsid: 31986-1
+wikidata_id: Q21506476
+ipni_surname: Briard
+ipni_forenames: Pierre Alfred
+ipni_standard_form: Briard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

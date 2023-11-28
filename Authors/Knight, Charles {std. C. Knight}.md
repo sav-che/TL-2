@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0698
+tl2_volume: vol2
+tl2_page_printed: 576
+tl2_surname: Knight
+tl2_forenames: Charles
+tl2_name_abbrev: C. Knight
+tl2_dates: 1818-1891/92
+tl2_page_id: 33068818
+author_lsid: 4870-1
+wikidata_id: Q5079846
+ipni_surname: Knight
+ipni_forenames: Charles
+ipni_standard_form: C.Knight
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

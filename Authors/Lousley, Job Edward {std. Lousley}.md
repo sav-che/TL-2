@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0141
+tl2_volume: vol3
+tl2_page_printed: 174
+tl2_surname: Lousley
+tl2_forenames: Job Edward
+tl2_name_abbrev: Lousley
+tl2_dates: 1907-1976
+tl2_page_id: 33355261
+author_lsid: 5776-1
+wikidata_id: Q6206655
+ipni_surname: Lousley
+ipni_forenames: Job Edward
+ipni_standard_form: Lousley
+ipni_dates: 1907-1976
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33355261) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0504
+tl2_volume: vol5
+tl2_page_printed: 513
+tl2_surname: Serguéeff
+tl2_forenames: Marguérite
+tl2_name_abbrev: Serguéeff
+tl2_dates: 1877-?
+tl2_page_id: 33333652
+author_lsid: 9499-1
+wikidata_id: Q21608686
+ipni_surname: Sergeeva
+ipni_forenames: Margarita
+ipni_standard_form: M.Sergeeva
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0052
+tl2_volume: vol2
+tl2_page_printed: 40
+tl2_surname: Hanbury
+tl2_forenames: Frederick Janson
+tl2_name_abbrev: F. Hanb.
+tl2_dates: 1851-1938
+tl2_page_id: 33068282
+author_lsid: 3608-1
+wikidata_id: Q21388075
+ipni_surname: Hanbury
+ipni_forenames: Frederick Janson
+ipni_standard_form: F.Hanb.
+ipni_dates: 1851-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33068282) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

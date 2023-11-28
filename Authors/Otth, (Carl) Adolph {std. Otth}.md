@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_1022
+tl2_volume: vol3
+tl2_page_printed: 857
+tl2_surname: Otth
+tl2_forenames: [Carl] Adolph
+tl2_name_abbrev: Otth
+tl2_dates: 1803-1839
+tl2_page_id: 33355944
+author_lsid: 12717-1
+wikidata_id: Q115917
+ipni_surname: Otth
+ipni_forenames: Carl(Karl) Adolph
+ipni_standard_form: Otth
+ipni_dates: 1803-1839
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Israel
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

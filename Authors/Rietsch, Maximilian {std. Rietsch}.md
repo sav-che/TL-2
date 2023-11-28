@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0779
+tl2_volume: vol4
+tl2_page_printed: 790
+tl2_surname: Rietsch
+tl2_forenames: Maximilian
+tl2_name_abbrev: Rietsch
+tl2_dates: fl. 1882
+tl2_page_id: 33190261
+author_lsid: 35158-1
+wikidata_id: Q36634574
+ipni_surname: Rietsch
+ipni_forenames: Maximilian
+ipni_standard_form: Rietsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

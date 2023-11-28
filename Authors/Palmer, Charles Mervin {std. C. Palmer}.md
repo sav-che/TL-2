@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0031
+tl2_volume: vol4
+tl2_page_printed: 28
+tl2_surname: Palmer
+tl2_forenames: Charles Mervin
+tl2_name_abbrev: C. Palmer
+tl2_dates: 1900-x
+tl2_page_id: 33189461
+author_lsid: 7280-1
+wikidata_id: Q21522569
+ipni_surname: Palmer
+ipni_forenames: Charles Mervin
+ipni_standard_form: C.Palmer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

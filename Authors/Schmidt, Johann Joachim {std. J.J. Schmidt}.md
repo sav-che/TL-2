@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0239
+tl2_volume: vol5
+tl2_page_printed: 257
+tl2_surname: Schmidt
+tl2_forenames: Johann Joachim
+tl2_name_abbrev: J.J. Schmidt
+tl2_dates: fl. 1797
+tl2_page_id: 33333396
+author_lsid: 9165-1
+wikidata_id: Q36598760
+ipni_surname: Schmidt
+ipni_forenames: Johann Joachim
+ipni_standard_form: J.J.Schmidt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33333396) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

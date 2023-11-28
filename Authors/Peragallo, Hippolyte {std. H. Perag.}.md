@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0175
+tl2_volume: vol4
+tl2_page_printed: 160
+tl2_surname: Peragallo
+tl2_forenames: Hippolyte
+tl2_name_abbrev: H. Perag.
+tl2_dates: 1851-?
+tl2_page_id: 33189631
+author_lsid: 34054-1
+wikidata_id: Q21390773
+ipni_surname: Peragallo
+ipni_forenames: Hypollyte
+ipni_standard_form: H.Perag.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33189631) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

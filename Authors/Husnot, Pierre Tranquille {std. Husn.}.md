@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0395
+tl2_volume: vol2
+tl2_page_printed: 372
+tl2_surname: Husnot
+tl2_forenames: Pierre Tranquille
+tl2_name_abbrev: Husn.
+tl2_dates: 1840-1929
+tl2_page_id: 33068614
+author_lsid: 4245-1
+wikidata_id: Q3387154
+ipni_surname: Husnot
+ipni_forenames: Pierre Tranquille
+ipni_standard_form: Husn.
+ipni_dates: 1840-1929
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

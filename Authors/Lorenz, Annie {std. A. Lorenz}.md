@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0124
+tl2_volume: vol3
+tl2_page_printed: 160
+tl2_surname: Lorenz
+tl2_forenames: Annie
+tl2_name_abbrev: A. Lorenz
+tl2_dates: 1879-1927
+tl2_page_id: 33355247
+author_lsid: 5751-1
+wikidata_id: Q21519500
+ipni_surname: Lorenz
+ipni_forenames: Annie
+ipni_standard_form: A.Lorenz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

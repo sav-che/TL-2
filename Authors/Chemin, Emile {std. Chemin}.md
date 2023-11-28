@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0069
+tl2_volume: suppl4
+tl2_page_printed: 76
+tl2_surname: Chemin
+tl2_forenames: Emile
+tl2_name_abbrev: Chemin
+tl2_dates: 1876-1945
+tl2_page_id: 33265753
+author_lsid: 17136-1
+wikidata_id: Q21508303
+ipni_surname: Chemin
+ipni_forenames: Émile
+ipni_standard_form: Chemin
+ipni_dates: 1876-1945
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265753) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

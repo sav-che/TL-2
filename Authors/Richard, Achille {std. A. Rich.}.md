@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0749
+tl2_volume: vol4
+tl2_page_printed: 758
+tl2_surname: Richard
+tl2_forenames: Achille
+tl2_name_abbrev: A. Rich.
+tl2_dates: 1794-1852
+tl2_page_id: 33190229
+author_lsid: 8349-1
+wikidata_id: Q340247
+ipni_surname: Richard
+ipni_forenames: Achille
+ipni_standard_form: A.Rich.
+ipni_dates: 1794-1852
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

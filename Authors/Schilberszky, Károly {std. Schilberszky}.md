@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0162
+tl2_volume: vol5
+tl2_page_printed: 157
+tl2_surname: Schilberszky
+tl2_forenames: Károly
+tl2_name_abbrev: Schilberszky
+tl2_dates: 1863-1935
+tl2_page_id: 33333296
+author_lsid: 9079-1
+wikidata_id: Q21607955
+ipni_surname: Schilberszky
+ipni_forenames: Károly
+ipni_standard_form: Schilb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33333296) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

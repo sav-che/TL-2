@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0558
+tl2_volume: vol1
+tl2_page_printed: 460
+tl2_surname: Carrington
+tl2_forenames: Benjamin
+tl2_name_abbrev: Carring.
+tl2_dates: 1827-1893
+tl2_page_id: 33120591
+author_lsid: 1420-1
+wikidata_id: Q21062909
+ipni_surname: Carrington
+ipni_forenames: Benjamin
+ipni_standard_form: Carrington
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

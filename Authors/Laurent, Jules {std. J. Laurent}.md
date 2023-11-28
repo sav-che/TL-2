@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0912
+tl2_volume: vol2
+tl2_page_printed: 767
+tl2_surname: Laurent
+tl2_forenames: Jules
+tl2_name_abbrev: J. Laurent
+tl2_dates: 1860-1918
+tl2_page_id: 33069009
+author_lsid: 5325-1
+wikidata_id: Q21518422
+ipni_surname: Laurent
+ipni_forenames: Jules
+ipni_standard_form: J.Laurent
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

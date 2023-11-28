@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0475
+tl2_volume: vol5
+tl2_page_printed: 494
+tl2_surname: Seiler
+tl2_forenames: Jean
+tl2_name_abbrev: Seiler
+tl2_dates: 1878-1939
+tl2_page_id: 33333633
+author_lsid: 9445-1
+wikidata_id: Q21608633
+ipni_surname: Seiler
+ipni_forenames: Jean
+ipni_standard_form: Seiler
+ipni_dates: 1878-1939
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

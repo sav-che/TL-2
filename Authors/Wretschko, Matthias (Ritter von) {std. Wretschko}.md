@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0419
+tl2_volume: vol7
+tl2_page_printed: 463
+tl2_surname: Wretschko
+tl2_forenames: Matthias [Ritter von]
+tl2_name_abbrev: Wretschko
+tl2_dates: 1834-1914
+tl2_page_id: 33066803
+author_lsid: 11879-1
+wikidata_id: Q21613044
+ipni_surname: Wretschko
+ipni_forenames: Matthias
+ipni_standard_form: Wretschko
+ipni_dates: 1834-1914
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

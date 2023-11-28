@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0474
+tl2_volume: vol4
+tl2_page_printed: 395
+tl2_surname: Prestoe
+tl2_forenames: Henry
+tl2_name_abbrev: Prestoe
+tl2_dates: 1842-1923
+tl2_page_id: 33189866
+author_lsid: 7948-1
+wikidata_id: Q17996423
+ipni_surname: Prestoe
+ipni_forenames: Henry
+ipni_standard_form: Prestoe
+ipni_dates: 1842-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Trinidad and Tobago
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

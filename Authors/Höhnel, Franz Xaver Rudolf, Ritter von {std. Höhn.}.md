@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0279
+tl2_volume: vol2
+tl2_page_printed: 229
+tl2_surname: Höhnel
+tl2_forenames: Franz Xaver Rudolf, Ritter von
+tl2_name_abbrev: Höhn.
+tl2_dates: 1852-1920
+tl2_page_id: 33068471
+author_lsid: 4001-1
+wikidata_id: Q4502879
+ipni_surname: Höhnel
+ipni_forenames: Franz Xaver Rudolf von
+ipni_standard_form: Höhn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33068471) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

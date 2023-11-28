@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0281
+tl2_volume: suppl3
+tl2_page_printed: 292
+tl2_surname: Cabanès
+tl2_forenames: Jean-Gustave
+tl2_name_abbrev: Cabanès
+tl2_dates: 1864-1944
+tl2_page_id: 33266599
+author_lsid: 1342-1
+wikidata_id: Q21506787
+ipni_surname: Cabanès
+ipni_forenames: Jean Gustave
+ipni_standard_form: Cabanès
+ipni_dates: 1864-1944
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

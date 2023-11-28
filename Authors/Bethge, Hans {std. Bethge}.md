@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0165
+tl2_volume: suppl2
+tl2_page_printed: 146
+tl2_surname: Bethge
+tl2_forenames: Hans
+tl2_name_abbrev: Bethge
+tl2_dates: 1885-1955
+tl2_page_id: 33265343
+author_lsid: 32420-1
+wikidata_id: Q21506044
+ipni_surname: Bethge
+ipni_forenames: Hans
+ipni_standard_form: Bethge
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

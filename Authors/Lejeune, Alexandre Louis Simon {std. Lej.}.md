@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0983
+tl2_volume: vol2
+tl2_page_printed: 830
+tl2_surname: Lejeune
+tl2_forenames: Alexandre Louis Simon
+tl2_name_abbrev: Lej.
+tl2_dates: 1779-1858
+tl2_page_id: 33069072
+author_lsid: 5451-1
+wikidata_id: Q8194959
+ipni_surname: Lejeune
+ipni_forenames: Alexandre Louis (Alexander Ludwig) Simon
+ipni_standard_form: Lej.
+ipni_dates: 1779-1858
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33069072) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0149
+tl2_volume: vol4
+tl2_page_printed: 144
+tl2_surname: Pedicino
+tl2_forenames: Nicola Antonio
+tl2_name_abbrev: Pedicino
+tl2_dates: 1839-1883
+tl2_page_id: 33189615
+author_lsid: 7459-1
+wikidata_id: Q21522750
+ipni_surname: Pedicino
+ipni_forenames: Nicola Antonio
+ipni_standard_form: Pedicino
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33189615) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

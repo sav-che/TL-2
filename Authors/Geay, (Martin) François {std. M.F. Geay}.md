@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0113
+tl2_volume: suppl8
+tl2_page_printed: 162
+tl2_surname: Geay
+tl2_forenames: [Martin] François
+tl2_name_abbrev: M.F. Geay
+tl2_dates: 1859-1910
+tl2_page_id: 33258640
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33258640) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

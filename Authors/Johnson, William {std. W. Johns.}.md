@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0511
+tl2_volume: vol2
+tl2_page_printed: 450
+tl2_surname: Johnson
+tl2_forenames: William
+tl2_name_abbrev: W. Johns.
+tl2_dates: 1844-1919
+tl2_page_id: 33068692
+author_lsid: 4517-1
+wikidata_id: Q21516164
+ipni_surname: Johnson
+ipni_forenames: William
+ipni_standard_form: W.Johnson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

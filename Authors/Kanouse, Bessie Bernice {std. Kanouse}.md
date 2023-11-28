@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0583
+tl2_volume: vol2
+tl2_page_printed: 496
+tl2_surname: Kanouse
+tl2_forenames: Bessie Bernice
+tl2_name_abbrev: Kanouse
+tl2_dates: 1889-1969
+tl2_page_id: 33068738
+author_lsid: 4639-1
+wikidata_id: Q21517273
+ipni_surname: Kanouse
+ipni_forenames: Bessie Bernice
+ipni_standard_form: Kanouse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0164
+tl2_volume: suppl2
+tl2_page_printed: 146
+tl2_surname: Bethel
+tl2_forenames: Ellsworth
+tl2_name_abbrev: Bethel
+tl2_dates: 1863-1925
+tl2_page_id: 33265343
+author_lsid: 16064-1
+wikidata_id: Q21506043
+ipni_surname: Bethel
+ipni_forenames: Ellsworth
+ipni_standard_form: Bethel
+ipni_dates: 1863-1925
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

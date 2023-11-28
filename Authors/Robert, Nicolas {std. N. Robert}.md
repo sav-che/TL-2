@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0814
+tl2_volume: vol4
+tl2_page_printed: 810
+tl2_surname: Robert
+tl2_forenames: Nicolas
+tl2_name_abbrev: N. Robert
+tl2_dates: 1610-1684
+tl2_page_id: 33190281
+author_lsid: 8442-1
+wikidata_id: Q3340748
+ipni_surname: Robert
+ipni_forenames: Nicolas
+ipni_standard_form: N.Robert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0402
+tl2_volume: suppl3
+tl2_page_printed: 434
+tl2_surname: Caruel
+tl2_forenames: Théodore (Teodoro)
+tl2_name_abbrev: Caruel
+tl2_dates: 1830-1898
+tl2_page_id: 33266741
+author_lsid: 1431-1
+wikidata_id: Q2738600
+ipni_surname: Caruel
+ipni_forenames: Théodore(Teodoro)
+ipni_standard_form: Caruel
+ipni_dates: 1830-1898
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266741) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0212
+tl2_volume: vol7
+tl2_page_printed: 235
+tl2_surname: Weyhe
+tl2_forenames: [M.] F.
+tl2_name_abbrev: Weyhe
+tl2_dates: 1775-1846
+tl2_page_id: 33066575
+author_lsid: 13007-1
+wikidata_id: Q21612548
+ipni_surname: Weyhe
+ipni_forenames: (M.)F.
+ipni_standard_form: Weyhe
+ipni_dates: 1775-1846
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33066575) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

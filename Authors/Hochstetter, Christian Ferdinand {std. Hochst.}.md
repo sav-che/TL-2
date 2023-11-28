@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0268
+tl2_volume: vol2
+tl2_page_printed: 220
+tl2_surname: Hochstetter
+tl2_forenames: Christian Ferdinand
+tl2_name_abbrev: Hochst.
+tl2_dates: 1787-1860
+tl2_page_id: 33068462
+author_lsid: 3983-1
+wikidata_id: Q64983
+ipni_surname: Hochstetter
+ipni_forenames: Christian Ferdinand Friedrich
+ipni_standard_form: Hochst.
+ipni_dates: 1787-1860
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33068462) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

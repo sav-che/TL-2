@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0825
+tl2_volume: vol1
+tl2_page_printed: 647
+tl2_surname: Dierbach
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: Dierb.
+tl2_dates: 1788-1845
+tl2_page_id: 33120778
+author_lsid: 2201-1
+wikidata_id: Q5932956
+ipni_surname: Dierbach
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Dierb.
+ipni_dates: 1788-1845
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33120778) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

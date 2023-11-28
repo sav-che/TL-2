@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0473
+tl2_volume: vol1
+tl2_page_printed: 385
+tl2_surname: Bryant
+tl2_forenames: Charles
+tl2_name_abbrev: Bryant
+tl2_dates: x-1799
+tl2_page_id: 33120516
+author_lsid: 1235-1
+wikidata_id: Q21506593
+ipni_surname: Bryant
+ipni_forenames: Charles
+ipni_standard_form: Bryant
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

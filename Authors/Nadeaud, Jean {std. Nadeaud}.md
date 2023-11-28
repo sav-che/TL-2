@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0797
+tl2_volume: vol3
+tl2_page_printed: 680
+tl2_surname: Nadeaud
+tl2_forenames: Jean
+tl2_name_abbrev: Nadeaud
+tl2_dates: 1834-1898
+tl2_page_id: 33355767
+author_lsid: 6830-1
+wikidata_id: Q3173667
+ipni_surname: Nadeaud
+ipni_forenames: Jean
+ipni_standard_form: Nadeaud
+ipni_dates: 1834-1898
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- French Polynesia
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33355767) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

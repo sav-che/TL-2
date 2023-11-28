@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0188
+tl2_volume: suppl6
+tl2_page_printed: 173
+tl2_surname: Dunselman
+tl2_forenames: J.
+tl2_name_abbrev: Dunselman
+tl2_dates: 1901-x
+tl2_page_id: 33260161
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

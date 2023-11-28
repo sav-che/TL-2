@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0685
+tl2_volume: vol4
+tl2_page_printed: 698
+tl2_surname: Reinbold
+tl2_forenames: Theodor
+tl2_name_abbrev: Reinbold
+tl2_dates: x-1918
+tl2_page_id: 33190169
+author_lsid: 8265-1
+wikidata_id: Q21607091
+ipni_surname: Reinbold
+ipni_forenames: Theodor
+ipni_standard_form: Reinbold
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

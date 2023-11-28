@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0509
+tl2_volume: vol1
+tl2_page_printed: 419
+tl2_surname: Burser
+tl2_forenames: Joachim
+tl2_name_abbrev: Burser
+tl2_dates: 1583-1639
+tl2_page_id: 33120550
+author_lsid: 1313-1
+wikidata_id: Q5590632
+ipni_surname: Burser
+ipni_forenames: Joachim
+ipni_standard_form: Burser
+ipni_dates: 1583-1639
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

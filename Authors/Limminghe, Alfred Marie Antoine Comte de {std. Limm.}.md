@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0024
+tl2_volume: vol3
+tl2_page_printed: 19
+tl2_surname: Limminghe
+tl2_forenames: Alfred Marie Antoine Comte de
+tl2_name_abbrev: Limm.
+tl2_dates: 1834-1861
+tl2_page_id: 33355108
+author_lsid: 5593-1
+wikidata_id: Q21519094
+ipni_surname: Limminghe
+ipni_forenames: Alfred Marie Antoine
+ipni_standard_form: Limm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33355108) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0057
+tl2_volume: suppl8
+tl2_page_printed: 76
+tl2_surname: Fulford
+tl2_forenames: Margaret Hannah
+tl2_name_abbrev: Fulford
+tl2_dates: 1904-1999
+tl2_page_id: 33258554
+author_lsid: 2957-1
+wikidata_id: Q21513629
+ipni_surname: Fulford
+ipni_forenames: Margaret Hannah
+ipni_standard_form: Fulford
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0765
+tl2_volume: vol5
+tl2_page_printed: 764
+tl2_surname: Soyaux
+tl2_forenames: Hermann
+tl2_name_abbrev: Soyaux
+tl2_dates: 1852-?
+tl2_page_id: 33333903
+author_lsid: 9937-1
+wikidata_id: Q92108
+ipni_surname: Soyaux
+ipni_forenames: Hermann
+ipni_standard_form: Soyaux
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Gabon
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

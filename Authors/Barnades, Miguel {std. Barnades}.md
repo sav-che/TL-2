@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0375
+tl2_volume: suppl1
+tl2_page_printed: 329
+tl2_surname: Barnades
+tl2_forenames: Miguel
+tl2_name_abbrev: Barnades
+tl2_dates: x-1771
+tl2_page_id: 33265056
+author_lsid: 484-1
+wikidata_id: Q4078378
+ipni_surname: Barnadez
+ipni_forenames: Miguel
+ipni_standard_form: Barnadez
+ipni_dates: c.1717-1771
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-01-24 15:02:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33265056) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

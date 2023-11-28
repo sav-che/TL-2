@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0515
+tl2_volume: vol7
+tl2_page_printed: 565
+tl2_surname: Zwackh-Holzhausen
+tl2_forenames: [Philipp Franz] Wilhelm Ritter von
+tl2_name_abbrev: Zwackh.
+tl2_dates: 1825-1903
+tl2_page_id: 33066905
+author_lsid: 29199-1
+wikidata_id: Q6074265
+ipni_surname: Zwackh-Holzhausen
+ipni_forenames: (Philipp Franz) Wilhelm von
+ipni_standard_form: Zwackh
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

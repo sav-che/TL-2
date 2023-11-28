@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0409
+tl2_volume: vol7
+tl2_page_printed: 452
+tl2_surname: Wooster
+tl2_forenames: David
+tl2_name_abbrev: Wooster
+tl2_dates: ca. 1824-1888
+tl2_page_id: 33066792
+author_lsid: 12445-1
+wikidata_id: Q21513419
+ipni_surname: Wooster
+ipni_forenames: David
+ipni_standard_form: Wooster
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

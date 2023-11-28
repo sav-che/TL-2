@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0180
+tl2_volume: suppl1
+tl2_page_printed: 141
+tl2_surname: Arber
+tl2_forenames: Edward Alexander Newell
+tl2_name_abbrev: E. Arber
+tl2_dates: 1870-1918
+tl2_page_id: 33264868
+author_lsid: 250-1
+wikidata_id: Q5341538
+ipni_surname: Arber
+ipni_forenames: Edward Alexander Newell
+ipni_standard_form: E.Arber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33264868) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

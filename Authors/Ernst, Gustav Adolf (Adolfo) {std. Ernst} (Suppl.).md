@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0407
+tl2_volume: suppl6
+tl2_page_printed: 406
+tl2_surname: Ernst
+tl2_forenames: Gustav Adolf (Adolfo)
+tl2_name_abbrev: Ernst
+tl2_dates: 1832-1899
+tl2_page_id: 33260394
+author_lsid: 2563-1
+wikidata_id: Q3208542
+ipni_surname: Ernst
+ipni_forenames: Adolf
+ipni_standard_form: Ernst
+ipni_dates: 1832-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Venezuela
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-09-13 08:23:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33260394) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

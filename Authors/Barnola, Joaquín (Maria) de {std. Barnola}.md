@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0382
+tl2_volume: suppl1
+tl2_page_printed: 336
+tl2_surname: Barnola
+tl2_forenames: Joaquín [Maria] de
+tl2_name_abbrev: Barnola
+tl2_dates: fl. 1903-1923
+tl2_page_id: 33265063
+author_lsid: 493-1
+wikidata_id: Q16175075
+ipni_surname: Barnola
+ipni_forenames: Joaquín Maria de
+ipni_standard_form: Barnola
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265063) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

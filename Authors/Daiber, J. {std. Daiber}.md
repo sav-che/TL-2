@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0738
+tl2_volume: vol1
+tl2_page_printed: 590
+tl2_surname: Daiber
+tl2_forenames: J.
+tl2_name_abbrev: Daiber
+tl2_dates: fl. 1866
+tl2_page_id: 33120721
+author_lsid: 1959-1
+wikidata_id: Q36588476
+ipni_surname: Daiber
+ipni_forenames: J.
+ipni_standard_form: Daiber
+ipni_dates: fl. 1866
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

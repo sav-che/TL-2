@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1005
+tl2_volume: vol1
+tl2_page_printed: 822
+tl2_surname: Fellman
+tl2_forenames: Nils Isak
+tl2_name_abbrev: Fellman
+tl2_dates: 1841-1919
+tl2_page_id: 33120953
+author_lsid: 2676-1
+wikidata_id: Q3450203
+ipni_surname: Fellman
+ipni_forenames: Nils Isak
+ipni_standard_form: N.I.Fellm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

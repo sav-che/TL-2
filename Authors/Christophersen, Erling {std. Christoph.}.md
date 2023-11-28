@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl4_0119
+tl2_volume: suppl4
+tl2_page_printed: 165
+tl2_surname: Christophersen
+tl2_forenames: Erling
+tl2_name_abbrev: Christoph.
+tl2_dates: 1898-x
+tl2_page_id: 33265842
+author_lsid: 1636-1
+wikidata_id: Q2037059
+ipni_surname: Christophersen
+ipni_forenames: Erling
+ipni_standard_form: Christoph.
+ipni_dates: 1898-
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

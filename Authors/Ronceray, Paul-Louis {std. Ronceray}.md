@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0897
+tl2_volume: vol4
+tl2_page_printed: 877
+tl2_surname: Ronceray
+tl2_forenames: Paul-Louis
+tl2_name_abbrev: Ronceray
+tl2_dates: 1875-1953 (?)
+tl2_page_id: 33190348
+author_lsid: 8570-1
+wikidata_id: Q21607386
+ipni_surname: Ronceray
+ipni_forenames: Paul-Louis
+ipni_standard_form: Ronceray
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

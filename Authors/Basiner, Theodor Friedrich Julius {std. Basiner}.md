@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0413
+tl2_volume: suppl1
+tl2_page_printed: 365
+tl2_surname: Basiner
+tl2_forenames: Theodor Friedrich Julius
+tl2_name_abbrev: Basiner
+tl2_dates: 1817-1862
+tl2_page_id: 33265092
+author_lsid: 527-1
+wikidata_id: Q4075270
+ipni_surname: Basiner
+ipni_forenames: Theodor Friedrich Julius
+ipni_standard_form: Basiner
+ipni_dates: 1817-1862
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ukraine
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33265092) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

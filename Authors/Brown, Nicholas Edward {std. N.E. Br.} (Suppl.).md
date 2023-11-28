@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0124
+tl2_volume: suppl3
+tl2_page_printed: 136
+tl2_surname: Brown
+tl2_forenames: Nicholas Edward
+tl2_name_abbrev: N.E. Br.
+tl2_dates: 1849-1934
+tl2_page_id: 33266443
+author_lsid: 1191-1
+wikidata_id: Q721850
+ipni_surname: Brown
+ipni_forenames: Nicholas Edward
+ipni_standard_form: N.E.Br.
+ipni_dates: 1849-1934
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-12-09 09:26:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

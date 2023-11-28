@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0243
+tl2_volume: vol3
+tl2_page_printed: 227
+tl2_surname: Mackenzie
+tl2_forenames: Kenneth Kent
+tl2_name_abbrev: Mackenz.
+tl2_dates: 1877-1934
+tl2_page_id: 33355314
+author_lsid: 5938-1
+wikidata_id: Q2340063
+ipni_surname: Mackenzie
+ipni_forenames: Kenneth Kent
+ipni_standard_form: Mack.
+ipni_dates: 1877-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33355314) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

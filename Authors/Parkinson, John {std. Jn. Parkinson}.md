@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0078
+tl2_volume: vol4
+tl2_page_printed: 63
+tl2_surname: Parkinson
+tl2_forenames: John
+tl2_name_abbrev: Jn. Parkinson
+tl2_dates: 1567-1650
+tl2_page_id: 33189534
+author_lsid: 7349-1
+wikidata_id: Q256288
+ipni_surname: Parkinson
+ipni_forenames: John
+ipni_standard_form: John Parkinson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

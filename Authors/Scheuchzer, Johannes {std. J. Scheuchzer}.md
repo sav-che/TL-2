@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0151
+tl2_volume: vol5
+tl2_page_printed: 141
+tl2_surname: Scheuchzer
+tl2_forenames: Johannes
+tl2_name_abbrev: J. Scheuchzer
+tl2_dates: 1684-1738
+tl2_page_id: 33333280
+author_lsid: 9064-1
+wikidata_id: Q21607893
+ipni_surname: Scheuchzer
+ipni_forenames: Johannes
+ipni_standard_form: Scheuchzer f.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33333280) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

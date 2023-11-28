@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0738
+tl2_volume: vol4
+tl2_page_printed: 750
+tl2_surname: Rheede tot Draakestein
+tl2_forenames: Hendrik Adriaan van
+tl2_name_abbrev: Rheede
+tl2_dates: 1637-1691
+tl2_page_id: 33190221
+author_lsid: 8331-1
+wikidata_id: Q741104
+ipni_surname: Rheede tot Draakestein
+ipni_forenames: Hendrik Adriaan von
+ipni_standard_form: Rheede
+ipni_dates: 1637-1691
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

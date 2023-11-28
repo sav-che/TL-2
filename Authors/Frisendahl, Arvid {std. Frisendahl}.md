@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0027
+tl2_volume: suppl8
+tl2_page_printed: 43
+tl2_surname: Frisendahl
+tl2_forenames: Arvid
+tl2_name_abbrev: Frisendahl
+tl2_dates: 1886-1965
+tl2_page_id: 33258483
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33258483) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

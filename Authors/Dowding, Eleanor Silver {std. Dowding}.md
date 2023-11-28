@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0076
+tl2_volume: suppl6
+tl2_page_printed: 80
+tl2_surname: Dowding
+tl2_forenames: Eleanor Silver
+tl2_name_abbrev: Dowding
+tl2_dates: 1901-x
+tl2_page_id: 33260068
+author_lsid: 18179-1
+wikidata_id: Q36544670
+ipni_surname: Dowding
+ipni_forenames: Eleanor Silver
+ipni_standard_form: Dowding
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

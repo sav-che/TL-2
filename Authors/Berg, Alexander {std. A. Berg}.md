@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0088
+tl2_volume: suppl2
+tl2_page_printed: 82
+tl2_surname: Berg
+tl2_forenames: Alexander
+tl2_name_abbrev: A. Berg
+tl2_dates: fl. 1832
+tl2_page_id: 33265279
+author_lsid: 674-1
+wikidata_id: Q17412346
+ipni_surname: Berg
+ipni_forenames: Alexander
+ipni_standard_form: A.Berg
+ipni_dates: fl. 1840
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

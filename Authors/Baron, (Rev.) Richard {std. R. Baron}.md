@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0384
+tl2_volume: suppl1
+tl2_page_printed: 337
+tl2_surname: Baron
+tl2_forenames: [Rev.] Richard
+tl2_name_abbrev: R. Baron
+tl2_dates: 1847-1907
+tl2_page_id: 33265064
+author_lsid: 20008027-1
+wikidata_id: Q3430500
+ipni_surname: Baron
+ipni_forenames: Richard
+ipni_standard_form: R.Baron
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0212
+tl2_volume: suppl8
+tl2_page_printed: 283
+tl2_surname: Goldman
+tl2_forenames: Edward Alphonso (né Goltman)
+tl2_name_abbrev: E.A. Goldman
+tl2_dates: 1873-1946
+tl2_page_id: 33258761
+author_lsid: 3240-1
+wikidata_id: Q1291546
+ipni_surname: Goldman
+ipni_forenames: Edward Alphonso
+ipni_standard_form: Goldman
+ipni_dates: 1873-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33258761) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

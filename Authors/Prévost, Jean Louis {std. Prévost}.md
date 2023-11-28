@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0479
+tl2_volume: vol4
+tl2_page_printed: 398
+tl2_surname: Prévost
+tl2_forenames: Jean Louis
+tl2_name_abbrev: Prévost
+tl2_dates: fl. 1760-1810
+tl2_page_id: 33189869
+author_lsid: 7952-1
+wikidata_id: Q47124701
+ipni_surname: Prévost
+ipni_forenames: Jean Louis
+ipni_standard_form: Prévost
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33189869) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

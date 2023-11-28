@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0184
+tl2_volume: suppl3
+tl2_page_printed: 187
+tl2_surname: Buchegger
+tl2_forenames: Josef
+tl2_name_abbrev: Buchegger
+tl2_dates: 1886-?
+tl2_page_id: 33266494
+author_lsid: 1244-1
+wikidata_id: Q21506606
+ipni_surname: Buchegger
+ipni_forenames: Josef
+ipni_standard_form: Buchegger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33266494) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

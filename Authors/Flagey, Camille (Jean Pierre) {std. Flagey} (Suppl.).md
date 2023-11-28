@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0163
+tl2_volume: suppl7
+tl2_page_printed: 239
+tl2_surname: Flagey
+tl2_forenames: Camille [Jean Pierre]
+tl2_name_abbrev: Flagey
+tl2_dates: 1834-1898
+tl2_page_id: 33259743
+author_lsid: 2768-1
+wikidata_id: Q21339591
+ipni_surname: Flagey
+ipni_forenames: Camille
+ipni_standard_form: Flagey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

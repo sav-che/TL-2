@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0106
+tl2_volume: vol2
+tl2_page_printed: 91
+tl2_surname: Harzer
+tl2_forenames: Carl August Friedrich
+tl2_name_abbrev: Harzer
+tl2_dates: 1784-1846
+tl2_page_id: 33068333
+author_lsid: 3710-1
+wikidata_id: Q21515555
+ipni_surname: Harzer
+ipni_forenames: Carl August Friedrich
+ipni_standard_form: Harzer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

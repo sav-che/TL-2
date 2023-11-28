@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0434
+tl2_volume: suppl6
+tl2_page_printed: 448
+tl2_surname: Eyferth
+tl2_forenames: Bruno
+tl2_name_abbrev: Eyferth
+tl2_dates: 1826-1897
+tl2_page_id: 33260436
+author_lsid: 20061874-1
+wikidata_id: Q56653781
+ipni_surname: Eyferth
+ipni_forenames: Bruno
+ipni_standard_form: Eyferth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

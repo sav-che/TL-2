@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0292
+tl2_volume: vol4
+tl2_page_printed: 250
+tl2_surname: Piccone
+tl2_forenames: Antonio
+tl2_name_abbrev: Picc
+tl2_dates: 1844-1901
+tl2_page_id: 33189721
+author_lsid: 24838-1
+wikidata_id: Q21522980
+ipni_surname: Piccone
+ipni_forenames: Antonio
+ipni_standard_form: Picc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

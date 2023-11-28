@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0690
+tl2_volume: vol6
+tl2_page_printed: 713
+tl2_surname: Vermeiden
+tl2_forenames: Pieter
+tl2_name_abbrev: Vermeulen
+tl2_dates: 1899-1981
+tl2_page_id: 33212755
+author_lsid: 11143-1
+wikidata_id: Q5841576
+ipni_surname: Vermeulen
+ipni_forenames: Pieter
+ipni_standard_form: Verm.
+ipni_dates: 1899-1981
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

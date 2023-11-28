@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0480
+tl2_volume: vol6
+tl2_page_printed: 458
+tl2_surname: Trelease William
+tl2_forenames: Trelease William
+tl2_name_abbrev: Trel.
+tl2_dates: 1857-1945
+tl2_page_id: 33212500
+author_lsid: 10807-1
+wikidata_id: Q1380171
+ipni_surname: Trelease
+ipni_forenames: William
+ipni_standard_form: Trel.
+ipni_dates: 1857-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33212500) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

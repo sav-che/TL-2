@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0327
+tl2_volume: vol4
+tl2_page_printed: 272
+tl2_surname: Piquet
+tl2_forenames: John
+tl2_name_abbrev: Piquet
+tl2_dates: 1825-1912
+tl2_page_id: 33189743
+author_lsid: 7722-1
+wikidata_id: Q21523023
+ipni_surname: Piquet
+ipni_forenames: John
+ipni_standard_form: Piquet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

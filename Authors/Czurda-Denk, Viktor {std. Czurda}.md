@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0453
+tl2_volume: suppl4
+tl2_page_printed: 531
+tl2_surname: Czurda-Denk
+tl2_forenames: Viktor
+tl2_name_abbrev: Czurda
+tl2_dates: 1897-1945
+tl2_page_id: 33266208
+author_lsid: 32853-1
+wikidata_id: Q21509702
+ipni_surname: Czurda
+ipni_forenames: Viktor
+ipni_standard_form: Czurda
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33266208) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

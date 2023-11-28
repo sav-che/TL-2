@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0704
+tl2_volume: vol4
+tl2_page_printed: 720
+tl2_surname: Renault
+tl2_forenames: Bernard
+tl2_name_abbrev: Renault
+tl2_dates: 1836-1904
+tl2_page_id: 33190191
+author_lsid: 8285-1
+wikidata_id: Q2898521
+ipni_surname: Renault
+ipni_forenames: Bernard
+ipni_standard_form: Renault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Fossils
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33190191) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

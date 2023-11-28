@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0686
+tl2_volume: vol3
+tl2_page_printed: 591
+tl2_surname: Morren
+tl2_forenames: Charles François Antoine
+tl2_name_abbrev: C. Morr.
+tl2_dates: 1807-1858
+tl2_page_id: 33355678
+author_lsid: 6669-1
+wikidata_id: Q2959113
+ipni_surname: Morren
+ipni_forenames: Charles François Antoine
+ipni_standard_form: C.Morren
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.2.1.1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

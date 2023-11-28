@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0201
+tl2_volume: vol6
+tl2_page_printed: 172
+tl2_surname: Taschenberg
+tl2_forenames: Ernst Ludwig
+tl2_name_abbrev: Taschenb.
+tl2_dates: 1818-1898
+tl2_page_id: 33212214
+author_lsid: 35143-1
+wikidata_id: Q73246
+ipni_surname: Taschenberg
+ipni_forenames: Ernst Ludwig
+ipni_standard_form: Taschenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

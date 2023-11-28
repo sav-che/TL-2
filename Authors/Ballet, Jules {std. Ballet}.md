@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0151
+tl2_volume: vol1
+tl2_page_printed: 113
+tl2_surname: Ballet
+tl2_forenames: Jules
+tl2_name_abbrev: Ballet
+tl2_dates: 1825-?
+tl2_page_id: 33120244
+author_lsid: 432-1
+wikidata_id: Q21505600
+ipni_surname: Ballet
+ipni_forenames: Jules
+ipni_standard_form: Ballet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

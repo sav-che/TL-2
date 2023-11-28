@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1040
+tl2_volume: vol4
+tl2_page_printed: 1009
+tl2_surname: Rutherford
+tl2_forenames: Daniel
+tl2_name_abbrev: Rutherford
+tl2_dates: 1749-1819
+tl2_page_id: 33190480
+author_lsid: 8761-1
+wikidata_id: Q313067
+ipni_surname: Rutherford
+ipni_forenames: Daniel
+ipni_standard_form: Rutherf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0759
+tl2_volume: vol3
+tl2_page_printed: 653
+tl2_surname: Münchhausen
+tl2_forenames: Otto, Freiherr von
+tl2_name_abbrev: Münchh.
+tl2_dates: 1716-1774
+tl2_page_id: 33355740
+author_lsid: 6752-1
+wikidata_id: Q63880
+ipni_surname: Münchhausen
+ipni_forenames: Otto von
+ipni_standard_form: Münchh.
+ipni_dates: 1716-1774
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

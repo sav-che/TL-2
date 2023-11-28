@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0712
+tl2_volume: vol5
+tl2_page_printed: 717
+tl2_surname: Söderberg
+tl2_forenames: Daniel Henric
+tl2_name_abbrev: Söderberg
+tl2_dates: 1750-1781
+tl2_page_id: 33333856
+author_lsid: 9852-1
+wikidata_id: Q5798433
+ipni_surname: Söderberg
+ipni_forenames: Daniel Henric
+ipni_standard_form: Söderb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

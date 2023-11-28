@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0436
+tl2_volume: suppl4
+tl2_page_printed: 515
+tl2_surname: Curtis
+tl2_forenames: Moses Ashley
+tl2_name_abbrev: M.A. Curtis
+tl2_dates: 1808-1872
+tl2_page_id: 33266192
+author_lsid: 1925-1
+wikidata_id: Q2601895
+ipni_surname: Curtis
+ipni_forenames: Moses Ashley
+ipni_standard_form: M.A.Curtis
+ipni_dates: 1808-1872
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

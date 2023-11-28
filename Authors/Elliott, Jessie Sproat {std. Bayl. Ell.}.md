@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0350
+tl2_volume: suppl6
+tl2_page_printed: 307
+tl2_surname: Elliott
+tl2_forenames: Jessie Sproat
+tl2_name_abbrev: Bayl. Ell.
+tl2_dates: 1869-ca. 1957
+tl2_page_id: 33260295
+author_lsid: 15830-1
+wikidata_id: Q36586651
+ipni_surname: Bayliss Elliott
+ipni_forenames: Jessie Sproat
+ipni_standard_form: Bayl.Ell.
+ipni_dates: fl. 1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33260295) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

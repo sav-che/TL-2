@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0221
+tl2_volume: vol1
+tl2_page_printed: 167
+tl2_surname: Beilschmied
+tl2_forenames: Carl [Karl] Traugott
+tl2_name_abbrev: Beilschm.
+tl2_dates: 1793-1848
+tl2_page_id: 33120298
+author_lsid: 15887-1
+wikidata_id: Q3658812
+ipni_surname: Beilschmied
+ipni_forenames: Carl (Karl) Traugott
+ipni_standard_form: Beilschm.
+ipni_dates: 1793-1848
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

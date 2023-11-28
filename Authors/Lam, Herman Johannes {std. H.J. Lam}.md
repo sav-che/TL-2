@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0863
+tl2_volume: vol2
+tl2_page_printed: 729
+tl2_surname: Lam
+tl2_forenames: Herman Johannes
+tl2_name_abbrev: H.J. Lam
+tl2_dates: 1892-1977
+tl2_page_id: 33068971
+author_lsid: 21994-1
+wikidata_id: Q2193621
+ipni_surname: Lam
+ipni_forenames: Herman Johannes
+ipni_standard_form: H.J.Lam
+ipni_dates: 1892-1977
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33068971) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0922
+tl2_volume: vol4
+tl2_page_printed: 894
+tl2_surname: Rosenthal
+tl2_forenames: David August
+tl2_name_abbrev: Rosenthal
+tl2_dates: 1821-1875
+tl2_page_id: 33190365
+author_lsid: 8601-1
+wikidata_id: Q1173606
+ipni_surname: Rosenthal
+ipni_forenames: David August
+ipni_standard_form: Rosenthal
+ipni_dates: 1821-1875
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33190365) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

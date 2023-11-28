@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0454
+tl2_volume: vol2
+tl2_page_printed: 416
+tl2_surname: Jäggi
+tl2_forenames: Jacob [Jakob]
+tl2_name_abbrev: Jäggi
+tl2_dates: 1829-1894
+tl2_page_id: 33068658
+author_lsid: 4395-1
+wikidata_id: Q21516887
+ipni_surname: Jäggi
+ipni_forenames: Jakob(Jacob)
+ipni_standard_form: Jäggi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33068658) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

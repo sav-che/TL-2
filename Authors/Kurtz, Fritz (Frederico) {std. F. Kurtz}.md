@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0826
+tl2_volume: vol2
+tl2_page_printed: 705
+tl2_surname: Kurtz
+tl2_forenames: Fritz (Frederico)
+tl2_name_abbrev: F.Kurtz
+tl2_dates: 1854-1920
+tl2_page_id: 33068947
+author_lsid: 12635-1
+wikidata_id: Q5441024
+ipni_surname: Kurtz
+ipni_forenames: Fritz (Federico)
+ipni_standard_form: Kurtz
+ipni_dates: 1854-1920
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

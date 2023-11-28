@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0420
+tl2_volume: vol2
+tl2_page_printed: 389
+tl2_surname: Isert
+tl2_forenames: Paul Erdmann
+tl2_name_abbrev: Isert
+tl2_dates: 1756-1789
+tl2_page_id: 33068631
+author_lsid: 4319-1
+wikidata_id: Q67873
+ipni_surname: Isert
+ipni_forenames: Paul Erdmann
+ipni_standard_form: Isert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Guinea
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

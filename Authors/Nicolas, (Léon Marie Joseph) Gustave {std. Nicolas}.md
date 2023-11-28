@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0876
+tl2_volume: vol3
+tl2_page_printed: 743
+tl2_surname: Nicolas
+tl2_forenames: [Léon Marie Joseph] Gustave
+tl2_name_abbrev: Nicolas
+tl2_dates: 1879-1955
+tl2_page_id: 33355830
+author_lsid: 24058-1
+wikidata_id: Q21522142
+ipni_surname: Nicolas
+ipni_forenames: (Léon Marie Joseph) Gustave
+ipni_standard_form: Nicolas
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

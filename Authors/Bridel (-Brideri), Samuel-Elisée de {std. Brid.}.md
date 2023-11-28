@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0427
+tl2_volume: vol1
+tl2_page_printed: 324
+tl2_surname: Bridel (-Brideri)
+tl2_forenames: Samuel-Elisée de
+tl2_name_abbrev: Brid.
+tl2_dates: 1761-1828
+tl2_page_id: 33120455
+author_lsid: 12360-1
+wikidata_id: Q946113
+ipni_surname: Bridel
+ipni_forenames: Samuel Élisée von
+ipni_standard_form: Brid.
+ipni_dates: 1761-1828
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33120455) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

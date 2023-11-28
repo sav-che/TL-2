@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0853
+tl2_volume: vol4
+tl2_page_printed: 844
+tl2_surname: Roemer
+tl2_forenames: Johann Jakob
+tl2_name_abbrev: Roem.
+tl2_dates: 1763-1819
+tl2_page_id: 33190315
+author_lsid: 8503-1
+wikidata_id: Q115659
+ipni_surname: Roemer
+ipni_forenames: Johann Jakob
+ipni_standard_form: Roem.
+ipni_dates: 1763-1819
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33190315) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

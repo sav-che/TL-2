@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0107
+tl2_volume: vol2
+tl2_page_printed: 92
+tl2_surname: Hassall
+tl2_forenames: Arthur Hill
+tl2_name_abbrev: Hassall
+tl2_dates: 1817-1894
+tl2_page_id: 33068334
+author_lsid: 3714-1
+wikidata_id: Q4134106
+ipni_surname: Hassall
+ipni_forenames: Arthur Hill
+ipni_standard_form: Hassall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

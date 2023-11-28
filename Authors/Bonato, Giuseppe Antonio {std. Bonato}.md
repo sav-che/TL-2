@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0348
+tl2_volume: vol1
+tl2_page_printed: 269
+tl2_surname: Bonato
+tl2_forenames: Giuseppe Antonio
+tl2_name_abbrev: Bonato
+tl2_dates: 1753-1836
+tl2_page_id: 33120400
+author_lsid: 946-1
+wikidata_id: Q21506276
+ipni_surname: Bonato
+ipni_forenames: Giuseppe Antonio
+ipni_standard_form: Bonato
+ipni_dates: 1753-1836
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33120400) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

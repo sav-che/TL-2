@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0270
+tl2_volume: suppl3
+tl2_page_printed: 281
+tl2_surname: Busse
+tl2_forenames: Walter [Karl Otto]
+tl2_name_abbrev: Busse
+tl2_dates: 1865-1933
+tl2_page_id: 33266588
+author_lsid: 1325-1
+wikidata_id: Q21395016
+ipni_surname: Busse
+ipni_forenames: Walter Carl Otto
+ipni_standard_form: Busse
+ipni_dates: 1865-1933
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33266588) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

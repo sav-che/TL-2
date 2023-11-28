@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0064
+tl2_volume: vol5
+tl2_page_printed: 65
+tl2_surname: Saunders
+tl2_forenames: De Alton
+tl2_name_abbrev: D.A. Saunders
+tl2_dates: 1870-1940
+tl2_page_id: 33333204
+author_lsid: 8952-1
+wikidata_id: Q21607776
+ipni_surname: Saunders
+ipni_forenames: De Alton
+ipni_standard_form: D.A.Saunders
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1050
+tl2_volume: vol4
+tl2_page_printed: 1020
+tl2_surname: Rytz
+tl2_forenames: August Rudolf Walther (Rytz-Miller)
+tl2_name_abbrev: Rytz
+tl2_dates: 1882-1966
+tl2_page_id: 33190491
+author_lsid: 8773-1
+wikidata_id: Q2547407
+ipni_surname: Rytz
+ipni_forenames: August Rudolf Walther
+ipni_standard_form: Rytz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

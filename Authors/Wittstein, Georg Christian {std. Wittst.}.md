@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0361
+tl2_volume: vol7
+tl2_page_printed: 412
+tl2_surname: Wittstein
+tl2_forenames: Georg Christian
+tl2_name_abbrev: Wittst.
+tl2_dates: 1810-1887
+tl2_page_id: 33066752
+author_lsid: 11801-1
+wikidata_id: Q19199007
+ipni_surname: Wittstein
+ipni_forenames: Georg Christian
+ipni_standard_form: Wittst.
+ipni_dates: 1810-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33066752) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

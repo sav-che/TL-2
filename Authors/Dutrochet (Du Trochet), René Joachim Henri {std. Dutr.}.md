@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0223
+tl2_volume: suppl6
+tl2_page_printed: 212
+tl2_surname: Dutrochet [Du Trochet]
+tl2_forenames: René Joachim Henri
+tl2_name_abbrev: Dutr.
+tl2_dates: 1776-1847
+tl2_page_id: 33260200
+author_lsid: 12416-1
+wikidata_id: Q1191107
+ipni_surname: Dutrochet
+ipni_forenames: René Joachim Henri
+ipni_standard_form: Dutr.
+ipni_dates: 1776-1847
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33260200) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

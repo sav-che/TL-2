@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0114
+tl2_volume: suppl4
+tl2_page_printed: 156
+tl2_surname: Christensen
+tl2_forenames: Carl Frederik Albert
+tl2_name_abbrev: C.Chr.
+tl2_dates: 1872-1942
+tl2_page_id: 33265833
+author_lsid: 1629-1
+wikidata_id: Q2114106
+ipni_surname: Christensen
+ipni_forenames: Carl Frederik Albert
+ipni_standard_form: C.Chr.
+ipni_dates: 1872-1942
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

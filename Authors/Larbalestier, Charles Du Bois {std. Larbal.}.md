@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0898
+tl2_volume: vol2
+tl2_page_printed: 759
+tl2_surname: Larbalestier
+tl2_forenames: Charles Du Bois
+tl2_name_abbrev: Larbal.
+tl2_dates: 1838-1911
+tl2_page_id: 33069001
+author_lsid: 5288-1
+wikidata_id: Q21341290
+ipni_surname: Larbalestier
+ipni_forenames: Charles du Bois
+ipni_standard_form: Larbal.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0486
+tl2_volume: vol2
+tl2_page_printed: 435
+tl2_surname: Jelliffe
+tl2_forenames: Smith Ely
+tl2_name_abbrev: Jell.
+tl2_dates: 1866-1945
+tl2_page_id: 33068677
+author_lsid: 4463-1
+wikidata_id: Q3656558
+ipni_surname: Jelliffe
+ipni_forenames: Smith Ely
+ipni_standard_form: Jell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

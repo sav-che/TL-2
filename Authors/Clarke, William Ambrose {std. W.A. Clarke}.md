@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0145
+tl2_volume: suppl4
+tl2_page_printed: 187
+tl2_surname: Clarke
+tl2_forenames: William Ambrose
+tl2_name_abbrev: W.A. Clarke
+tl2_dates: 1841-1911
+tl2_page_id: 33265864
+author_lsid: 20012695-2
+wikidata_id: Q21508691
+ipni_surname: Clarke
+ipni_forenames: William Ambrose
+ipni_standard_form: W.A.Clarke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

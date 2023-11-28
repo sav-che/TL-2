@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl4_0214
+tl2_volume: suppl4
+tl2_page_printed: 277
+tl2_surname: Colmeiro y Penido
+tl2_forenames: Don Miguel
+tl2_name_abbrev: Colm.
+tl2_dates: 1816-1901
+tl2_page_id: 33265954
+author_lsid: 17362-1
+wikidata_id: Q3330424
+ipni_surname: Colmeiro
+ipni_forenames: Miguel
+ipni_standard_form: Colmeiro
+ipni_dates: 1816-1901
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265954) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

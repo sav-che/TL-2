@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0075
+tl2_volume: suppl2
+tl2_page_printed: 73
+tl2_surname: Bennett
+tl2_forenames: George
+tl2_name_abbrev: G. Benn.
+tl2_dates: 1804-1893
+tl2_page_id: 33265270
+author_lsid: 35220-1
+wikidata_id: Q517936
+ipni_surname: Bennett
+ipni_forenames: George
+ipni_standard_form: G.Benn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33265270) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

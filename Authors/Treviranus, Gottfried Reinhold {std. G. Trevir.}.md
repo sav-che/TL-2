@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0487
+tl2_volume: vol6
+tl2_page_printed: 475
+tl2_surname: Treviranus
+tl2_forenames: Gottfried Reinhold
+tl2_name_abbrev: G. Trevir.
+tl2_dates: 1776-1837
+tl2_page_id: 33212517
+author_lsid: 10814-1
+wikidata_id: Q60309
+ipni_surname: Treviranus
+ipni_forenames: Gottfried Reinhold
+ipni_standard_form: G.Trevir.
+ipni_dates: 1776-1837
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

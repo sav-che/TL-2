@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0077
+tl2_volume: vol2
+tl2_page_printed: 52
+tl2_surname: Hardwicke
+tl2_forenames: Thomas
+tl2_name_abbrev: Hardw.
+tl2_dates: 1757-1833
+tl2_page_id: 33068294
+author_lsid: 3654-1
+wikidata_id: Q2543258
+ipni_surname: Hardwicke
+ipni_forenames: Thomas
+ipni_standard_form: Hardw.
+ipni_dates: 1757-1835
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- Mauritius
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

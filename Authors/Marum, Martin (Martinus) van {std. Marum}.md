@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0395
+tl2_volume: vol3
+tl2_page_printed: 345
+tl2_surname: Marum
+tl2_forenames: Martin [Martinus] van
+tl2_name_abbrev: Marum
+tl2_dates: 1750-1837
+tl2_page_id: 33355432
+author_lsid: 6183-1
+wikidata_id: Q474022
+ipni_surname: Marum
+ipni_forenames: Martin(Martinus) van
+ipni_standard_form: Marum
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33355432) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

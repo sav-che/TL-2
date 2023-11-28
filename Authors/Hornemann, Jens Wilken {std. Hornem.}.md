@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0344
+tl2_volume: vol2
+tl2_page_printed: 333
+tl2_surname: Hornemann
+tl2_forenames: Jens Wilken
+tl2_name_abbrev: Hornem.
+tl2_dates: 1770-1841
+tl2_page_id: 33068575
+author_lsid: 4110-1
+wikidata_id: Q1360434
+ipni_surname: Hornemann
+ipni_forenames: Jens Wilken
+ipni_standard_form: Hornem.
+ipni_dates: 1770-1841
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

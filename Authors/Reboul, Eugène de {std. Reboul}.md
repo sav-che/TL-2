@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0646
+tl2_volume: vol4
+tl2_page_printed: 616
+tl2_surname: Reboul
+tl2_forenames: Eugène de
+tl2_name_abbrev: Reboul
+tl2_dates: 1781-1851
+tl2_page_id: 33190087
+author_lsid: 8210-1
+wikidata_id: Q21607043
+ipni_surname: Reboul
+ipni_forenames: Eugène de
+ipni_standard_form: Reboul
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+- France
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

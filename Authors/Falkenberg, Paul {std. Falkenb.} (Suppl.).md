@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0023
+tl2_volume: suppl7
+tl2_page_printed: 28
+tl2_surname: Falkenberg
+tl2_forenames: Paul
+tl2_name_abbrev: Falkenb.
+tl2_dates: 1848-1925
+tl2_page_id: 33259532
+author_lsid: 2628-1
+wikidata_id: Q84485
+ipni_surname: Falkenberg
+ipni_forenames: Paul
+ipni_standard_form: Falkenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

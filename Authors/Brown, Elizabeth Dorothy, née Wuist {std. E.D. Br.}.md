@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0118
+tl2_volume: suppl3
+tl2_page_printed: 133
+tl2_surname: Brown
+tl2_forenames: Elizabeth Dorothy, née Wuist
+tl2_name_abbrev: E.D. Br.
+tl2_dates: 1880-?
+tl2_page_id: 33266440
+author_lsid: 1188-1
+wikidata_id: Q21394325
+ipni_surname: Brown
+ipni_forenames: Elizabeth Dorothy (Wuist)
+ipni_standard_form: E.D.Br.
+ipni_dates: 1880-1972
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-03-29 15:08:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

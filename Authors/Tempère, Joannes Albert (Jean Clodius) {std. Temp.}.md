@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0245
+tl2_volume: vol6
+tl2_page_printed: 207
+tl2_surname: Tempère
+tl2_forenames: Joannes Albert [Jean Clodius]
+tl2_name_abbrev: Temp.
+tl2_dates: 1847-1926
+tl2_page_id: 33212249
+author_lsid: 10496-1
+wikidata_id: Q21390270
+ipni_surname: Tempère
+ipni_forenames: Joannes Albert (Jean Clodius)
+ipni_standard_form: Temp.
+ipni_dates: 1847-1926
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33212249) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

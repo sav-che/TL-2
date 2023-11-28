@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0746
+tl2_volume: vol4
+tl2_page_printed: 757
+tl2_surname: Rich
+tl2_forenames: Obadiah
+tl2_name_abbrev: O. Rich
+tl2_dates: 1783(1782?)-1850
+tl2_page_id: 33190228
+author_lsid: 8346-1
+wikidata_id: Q5478688
+ipni_surname: Rich
+ipni_forenames: Obadiah
+ipni_standard_form: O.Rich
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

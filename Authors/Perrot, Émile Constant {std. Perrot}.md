@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0197
+tl2_volume: vol4
+tl2_page_printed: 174
+tl2_surname: Perrot
+tl2_forenames: Émile Constant
+tl2_name_abbrev: Perrot
+tl2_dates: 1867-1951
+tl2_page_id: 33189645
+author_lsid: 7540-1
+wikidata_id: Q21522846
+ipni_surname: Perrot
+ipni_forenames: Émile Constant
+ipni_standard_form: Perrot
+ipni_dates: 1867-1951
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33189645) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

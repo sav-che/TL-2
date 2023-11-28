@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0667
+tl2_volume: vol4
+tl2_page_printed: 652
+tl2_surname: Rehm
+tl2_forenames: Heinrich [Simon Ludwig Friedrich Felix]
+tl2_name_abbrev: Rehm
+tl2_dates: 1828-1916
+tl2_page_id: 33190123
+author_lsid: 25461-1
+wikidata_id: Q4393082
+ipni_surname: Rehm
+ipni_forenames: Heinrich (Simon Ludwig Friedrich Felix)
+ipni_standard_form: Rehm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33190123) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

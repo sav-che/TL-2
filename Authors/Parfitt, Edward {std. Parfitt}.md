@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0069
+tl2_volume: vol4
+tl2_page_printed: 56
+tl2_surname: Parfitt
+tl2_forenames: Edward
+tl2_name_abbrev: Parfitt
+tl2_dates: 1820-1893
+tl2_page_id: 33189489
+author_lsid: 7334-1
+wikidata_id: Q18756662
+ipni_surname: Parfitt
+ipni_forenames: Edward
+ipni_standard_form: Parfitt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

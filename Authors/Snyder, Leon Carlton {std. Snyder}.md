@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0709
+tl2_volume: vol5
+tl2_page_printed: 712
+tl2_surname: Snyder
+tl2_forenames: Leon Carlton
+tl2_name_abbrev: Snyder
+tl2_dates: 1908-x
+tl2_page_id: 33333851
+author_lsid: 26965-1
+wikidata_id: Q14954619
+ipni_surname: Snyder
+ipni_forenames: Leon Carlton
+ipni_standard_form: Snyder
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

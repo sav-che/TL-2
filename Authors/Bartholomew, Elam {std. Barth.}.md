@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0173
+tl2_volume: vol1
+tl2_page_printed: 125
+tl2_surname: Bartholomew
+tl2_forenames: Elam
+tl2_name_abbrev: Barth.
+tl2_dates: 1852-1934
+tl2_page_id: 33120256
+author_lsid: 15736-1
+wikidata_id: Q21505727
+ipni_surname: Bartholomew
+ipni_forenames: Elam
+ipni_standard_form: Barthol.
+ipni_dates: 1852-1934
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0117
+tl2_volume: vol3
+tl2_page_printed: 154
+tl2_surname: Looser
+tl2_forenames: Gualterio
+tl2_name_abbrev: Looser
+tl2_dates: 1898-x
+tl2_page_id: 33355241
+author_lsid: 5735-1
+wikidata_id: Q115731
+ipni_surname: Looser
+ipni_forenames: Gualterio
+ipni_standard_form: Looser
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Chile
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33355241) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

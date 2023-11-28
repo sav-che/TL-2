@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0202
+tl2_volume: vol1
+tl2_page_printed: 155
+tl2_surname: Beatson
+tl2_forenames: Alexander
+tl2_name_abbrev: Beatson
+tl2_dates: 1759-1833
+tl2_page_id: 33120286
+author_lsid: 584-1
+wikidata_id: Q2641792
+ipni_surname: Beatson
+ipni_forenames: Alexander
+ipni_standard_form: Beatson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

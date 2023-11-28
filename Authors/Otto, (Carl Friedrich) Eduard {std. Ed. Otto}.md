@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_1025
+tl2_volume: vol3
+tl2_page_printed: 859
+tl2_surname: Otto
+tl2_forenames: [Carl Friedrich] Eduard
+tl2_name_abbrev: Ed. Otto
+tl2_dates: 1812-1885
+tl2_page_id: 33355946
+author_lsid: 7205-1
+wikidata_id: Q5749284
+ipni_surname: Otto
+ipni_forenames: Carlos Frederico Eduardo
+ipni_standard_form: Ed.Otto
+ipni_dates: 1812-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

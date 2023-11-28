@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0641
+tl2_volume: vol5
+tl2_page_printed: 641
+tl2_surname: Skutch
+tl2_forenames: Alexander Frank
+tl2_name_abbrev: Skutch
+tl2_dates: 1904-x
+tl2_page_id: 33333780
+author_lsid: 9728-1
+wikidata_id: Q2833117
+ipni_surname: Skutch
+ipni_forenames: Alexander Frank
+ipni_standard_form: Skutch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

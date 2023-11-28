@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0621
+tl2_volume: vol5
+tl2_page_printed: 617
+tl2_surname: Sinnott
+tl2_forenames: Edmund Ware
+tl2_name_abbrev: Sinnott
+tl2_dates: 1888-1968
+tl2_page_id: 33333756
+author_lsid: 9699-1
+wikidata_id: Q5339904
+ipni_surname: Sinnott
+ipni_forenames: Edmund Ware
+ipni_standard_form: Sinnott
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 617](https://www.biodiversitylibrary.org/page/33333756) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

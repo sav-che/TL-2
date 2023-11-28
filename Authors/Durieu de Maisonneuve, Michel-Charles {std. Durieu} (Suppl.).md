@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl6_0210
+tl2_volume: suppl6
+tl2_page_printed: 198
+tl2_surname: Durieu de Maisonneuve
+tl2_forenames: Michel-Charles
+tl2_name_abbrev: Durieu
+tl2_dates: 1796-1878
+tl2_page_id: 33260186
+author_lsid: 2406-1
+wikidata_id: Q703990
+ipni_surname: Durieu de Maisonneuve
+ipni_forenames: Michel Charles
+ipni_standard_form: Durieu
+ipni_dates: 1796-1878
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-09-06 05:14:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33260186) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

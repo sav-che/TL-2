@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0088
+tl2_volume: suppl5
+tl2_page_printed: 84
+tl2_surname: Daubeny
+tl2_forenames: Charles Giles Bridle
+tl2_name_abbrev: Daubeny
+tl2_dates: 1795-1867
+tl2_page_id: 33259130
+author_lsid: 13643-1
+wikidata_id: Q1064058
+ipni_surname: Daubeny
+ipni_forenames: Charles Giles Bridle
+ipni_standard_form: Daubeny
+ipni_dates: 1795-1867
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33259130) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

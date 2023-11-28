@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0073
+tl2_volume: suppl4
+tl2_page_printed: 80
+tl2_surname: Cheney
+tl2_forenames: Lellen Sterling
+tl2_name_abbrev: Cheney
+tl2_dates: 1858-1938
+tl2_page_id: 33265757
+author_lsid: 17152-1
+wikidata_id: Q21508363
+ipni_surname: Cheney
+ipni_forenames: Lellen Stirling
+ipni_standard_form: Cheney
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265757) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

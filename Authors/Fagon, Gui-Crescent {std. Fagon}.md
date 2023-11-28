@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0985
+tl2_volume: vol1
+tl2_page_printed: 811
+tl2_surname: Fagon
+tl2_forenames: Gui-Crescent
+tl2_name_abbrev: Fagon
+tl2_dates: 1638-1718
+tl2_page_id: 33120942
+author_lsid: 2620-1
+wikidata_id: Q1333551
+ipni_surname: Fagon
+ipni_forenames: Gui-Crescent
+ipni_standard_form: Fagon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

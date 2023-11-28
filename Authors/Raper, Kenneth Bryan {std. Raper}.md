@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0598
+tl2_volume: vol4
+tl2_page_printed: 579
+tl2_surname: Raper
+tl2_forenames: Kenneth Bryan
+tl2_name_abbrev: Raper
+tl2_dates: 1908-x
+tl2_page_id: 33190050
+author_lsid: 8143-1
+wikidata_id: Q1738840
+ipni_surname: Raper
+ipni_forenames: Kenneth Bryan
+ipni_standard_form: Raper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

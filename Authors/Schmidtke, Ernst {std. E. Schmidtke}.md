@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0246
+tl2_volume: vol5
+tl2_page_printed: 261
+tl2_surname: Schmidtke
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Schmidtke
+tl2_dates: fl. 1934
+tl2_page_id: 33333400
+author_lsid: 9172-1
+wikidata_id: Q36550152
+ipni_surname: Schmidtke
+ipni_forenames: Ernst
+ipni_standard_form: Schmidtke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33333400) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

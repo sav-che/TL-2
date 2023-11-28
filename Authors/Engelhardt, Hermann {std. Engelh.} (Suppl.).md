@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0385
+tl2_volume: suppl6
+tl2_page_printed: 341
+tl2_surname: Engelhardt
+tl2_forenames: Hermann
+tl2_name_abbrev: Engelh.
+tl2_dates: 1839-1918
+tl2_page_id: 33260329
+author_lsid: 2538-1
+wikidata_id: Q21512171
+ipni_surname: Engelhardt
+ipni_forenames: Hermann
+ipni_standard_form: Engelh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

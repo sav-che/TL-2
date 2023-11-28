@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0251
+tl2_volume: suppl5
+tl2_page_printed: 215
+tl2_surname: Descole
+tl2_forenames: Horacio R.
+tl2_name_abbrev: Descole
+tl2_dates: 1910-x
+tl2_page_id: 33259261
+author_lsid: 2146-1
+wikidata_id: Q5643658
+ipni_surname: Descole
+ipni_forenames: Horacio Raul
+ipni_standard_form: Descole
+ipni_dates: 1910-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33259261) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

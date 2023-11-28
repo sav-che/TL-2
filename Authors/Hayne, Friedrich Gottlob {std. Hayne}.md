@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0131
+tl2_volume: vol2
+tl2_page_printed: 112
+tl2_surname: Hayne
+tl2_forenames: Friedrich Gottlob
+tl2_name_abbrev: Hayne
+tl2_dates: 1763-1832
+tl2_page_id: 33068354
+author_lsid: 3750-1
+wikidata_id: Q69414
+ipni_surname: Hayne
+ipni_forenames: Friedrich Gottlob
+ipni_standard_form: Hayne
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33068354) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

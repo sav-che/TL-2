@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0324
+tl2_volume: suppl5
+tl2_page_printed: 321
+tl2_surname: Dietel
+tl2_forenames: Paul
+tl2_name_abbrev: Dietel
+tl2_dates: 1860-1947
+tl2_page_id: 33259367
+author_lsid: 18034-1
+wikidata_id: Q6067159
+ipni_surname: Dietel
+ipni_forenames: Paul
+ipni_standard_form: Dietel
+ipni_dates: 1860-1947
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259367) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol7_0119
+tl2_volume: vol7
+tl2_page_printed: 118
+tl2_surname: Webb
+tl2_forenames: Philip Barker
+tl2_name_abbrev: P. Webb
+tl2_dates: 1793-1854
+tl2_page_id: 33066458
+author_lsid: 11454-1
+wikidata_id: Q1113837
+ipni_surname: Webb
+ipni_forenames: Philip Barker
+ipni_standard_form: Webb
+ipni_dates: 1793-1854
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Portugal
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33066458) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

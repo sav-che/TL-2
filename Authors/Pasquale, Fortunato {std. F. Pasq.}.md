@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0099
+tl2_volume: vol4
+tl2_page_printed: 90
+tl2_surname: Pasquale
+tl2_forenames: Fortunato
+tl2_name_abbrev: F. Pasq.
+tl2_dates: 1856-1917
+tl2_page_id: 33189561
+author_lsid: 7377-1
+wikidata_id: Q21522667
+ipni_surname: Pasquale
+ipni_forenames: Fortunato
+ipni_standard_form: F.Pasq.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

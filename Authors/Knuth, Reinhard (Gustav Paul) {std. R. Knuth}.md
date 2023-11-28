@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0710
+tl2_volume: vol2
+tl2_page_printed: 585
+tl2_surname: Knuth
+tl2_forenames: Reinhard [Gustav Paul]
+tl2_name_abbrev: R. Knuth
+tl2_dates: 1874-1957
+tl2_page_id: 33068827
+author_lsid: 4886-1
+wikidata_id: Q7310335
+ipni_surname: Knuth
+ipni_forenames: Reinhard Gustav Paul
+ipni_standard_form: R.Knuth
+ipni_dates: 1874-1957
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33068827) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

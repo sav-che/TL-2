@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0572
+tl2_volume: vol4
+tl2_page_printed: 566
+tl2_surname: Rainville
+tl2_forenames: Frédéric
+tl2_name_abbrev: Rainville
+tl2_dates: x-1779
+tl2_page_id: 33190037
+author_lsid: 34940-1
+wikidata_id: Q21606856
+ipni_surname: Rainville
+ipni_forenames: Frédéric
+ipni_standard_form: Rainv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

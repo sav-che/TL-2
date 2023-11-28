@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0520
+tl2_volume: vol5
+tl2_page_printed: 539
+tl2_surname: Seward
+tl2_forenames: Albert Charles
+tl2_name_abbrev: Seward
+tl2_dates: 1863-1941
+tl2_page_id: 33333678
+author_lsid: 26557-1
+wikidata_id: Q951610
+ipni_surname: Seward
+ipni_forenames: Albert Charles
+ipni_standard_form: Seward
+ipni_dates: 1863-1941
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

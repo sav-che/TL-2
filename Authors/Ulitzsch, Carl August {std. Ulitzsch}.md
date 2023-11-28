@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0585
+tl2_volume: vol6
+tl2_page_printed: 583
+tl2_surname: Ulitzsch
+tl2_forenames: Carl August
+tl2_name_abbrev: Ulitzsch
+tl2_dates: fl. 1796
+tl2_page_id: 33212625
+author_lsid: 10970-1
+wikidata_id: Q36531940
+ipni_surname: Ulitzsch
+ipni_forenames: Carl August
+ipni_standard_form: Ulitzsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

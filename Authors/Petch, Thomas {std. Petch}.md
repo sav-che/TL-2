@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0209
+tl2_volume: vol4
+tl2_page_printed: 188
+tl2_surname: Petch
+tl2_forenames: Thomas
+tl2_name_abbrev: Petch
+tl2_dates: 1870-1948
+tl2_page_id: 33189659
+author_lsid: 24762-1
+wikidata_id: Q7817222
+ipni_surname: Petch
+ipni_forenames: Thomas
+ipni_standard_form: Petch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33189659) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

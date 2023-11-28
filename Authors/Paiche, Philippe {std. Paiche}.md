@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0011
+tl2_volume: vol4
+tl2_page_printed: 6
+tl2_surname: Paiche
+tl2_forenames: Philippe
+tl2_name_abbrev: Paiche
+tl2_dates: 1842-1911
+tl2_page_id: 33189509
+author_lsid: 7249-1
+wikidata_id: Q21522530
+ipni_surname: Paiche
+ipni_forenames: Philippe
+ipni_standard_form: Paiche
+ipni_dates: 1842-1911
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

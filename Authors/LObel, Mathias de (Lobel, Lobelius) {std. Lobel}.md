@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0086
+tl2_volume: vol3
+tl2_page_printed: 130
+tl2_surname: L'Obel
+tl2_forenames: Mathias de [Lobel, Lobelius]
+tl2_name_abbrev: Lobel
+tl2_dates: 1538-1616
+tl2_page_id: 33355217
+author_lsid: 5688-1
+wikidata_id: Q1860320
+ipni_surname: Lobel
+ipni_forenames: Mathias de
+ipni_standard_form: Lobel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- United Kingdom
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33355217) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0840
+tl2_volume: vol2
+tl2_page_printed: 717
+tl2_surname: Lacoizqueta
+tl2_forenames: José Maria de
+tl2_name_abbrev: Lacoizq.
+tl2_dates: 1831-1891
+tl2_page_id: 33068959
+author_lsid: 5189-1
+wikidata_id: Q9014530
+ipni_surname: Lacoizqueta
+ipni_forenames: José Maria de
+ipni_standard_form: Lacoizq.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

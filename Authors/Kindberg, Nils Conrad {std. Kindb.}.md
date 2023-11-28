@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0648
+tl2_volume: vol2
+tl2_page_printed: 542
+tl2_surname: Kindberg
+tl2_forenames: Nils Conrad
+tl2_name_abbrev: Kindb.
+tl2_dates: 1832-1910
+tl2_page_id: 33068784
+author_lsid: 4795-1
+wikidata_id: Q1992294
+ipni_surname: Kindberg
+ipni_forenames: Nils Conrad
+ipni_standard_form: Kindb.
+ipni_dates: 1832-1910
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33068784) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

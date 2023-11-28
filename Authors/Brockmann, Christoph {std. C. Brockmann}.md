@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0096
+tl2_volume: suppl3
+tl2_page_printed: 109
+tl2_surname: Brockmann
+tl2_forenames: Christoph
+tl2_name_abbrev: C. Brockmann
+tl2_dates: 1878-1962
+tl2_page_id: 33266416
+author_lsid: 32548-1
+wikidata_id: Q1084623
+ipni_surname: Brockmann
+ipni_forenames: Christoph
+ipni_standard_form: C.Brockmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

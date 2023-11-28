@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0684
+tl2_volume: vol2
+tl2_page_printed: 567
+tl2_surname: Klinggräff
+tl2_forenames: Hugo Erich Meyer von
+tl2_name_abbrev: H. Klinggr.
+tl2_dates: 1820-1902
+tl2_page_id: 33068809
+author_lsid: 4847-1
+wikidata_id: Q5933938
+ipni_surname: Klinggräff
+ipni_forenames: Hugo Erich Meyer von
+ipni_standard_form: H.Klinggr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33068809) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

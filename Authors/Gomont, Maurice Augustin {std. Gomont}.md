@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1223
+tl2_volume: vol1
+tl2_page_printed: 970
+tl2_surname: Gomont
+tl2_forenames: Maurice Augustin
+tl2_name_abbrev: Gomont
+tl2_dates: 1839-1909
+tl2_page_id: 33121101
+author_lsid: 3257-1
+wikidata_id: Q39020268
+ipni_surname: Gomont
+ipni_forenames: Maurice Augustin
+ipni_standard_form: Gomont
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/page/33121101) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

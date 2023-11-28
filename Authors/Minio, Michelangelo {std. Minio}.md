@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0591
+tl2_volume: vol3
+tl2_page_printed: 506
+tl2_surname: Minio
+tl2_forenames: Michelangelo
+tl2_name_abbrev: Minio
+tl2_dates: 1872-1960
+tl2_page_id: 33355593
+author_lsid: 6504-1
+wikidata_id: Q21521534
+ipni_surname: Minio
+ipni_forenames: Michelangelo
+ipni_standard_form: Minio
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol5_0598
+tl2_volume: vol5
+tl2_page_printed: 602
+tl2_surname: Sim
+tl2_forenames: Thomas Robertson
+tl2_name_abbrev: Sim
+tl2_dates: 1856-1938
+tl2_page_id: 33333741
+author_lsid: 26761-1
+wikidata_id: Q7793599
+ipni_surname: Sim
+ipni_forenames: Thomas Robertson
+ipni_standard_form: Sim
+ipni_dates: 1856-1938
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- South Africa
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

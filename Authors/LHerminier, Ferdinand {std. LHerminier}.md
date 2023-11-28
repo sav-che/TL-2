@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0001
+tl2_volume: vol3
+tl2_page_printed: 4
+tl2_surname: L'Herminier
+tl2_forenames: Ferdinand
+tl2_name_abbrev: L'Herminier
+tl2_dates: 1802-1866
+tl2_page_id: 33355123
+author_lsid: 5550-1
+wikidata_id: Q3068597
+ipni_surname: L'Herminier
+ipni_forenames: Ferdinand
+ipni_standard_form: L'Herm.
+ipni_dates: 1802-1866
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33355123) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

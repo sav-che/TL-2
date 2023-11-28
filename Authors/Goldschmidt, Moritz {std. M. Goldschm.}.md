@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0213
+tl2_volume: suppl8
+tl2_page_printed: 284
+tl2_surname: Goldschmidt
+tl2_forenames: Moritz
+tl2_name_abbrev: M. Goldschm.
+tl2_dates: 1863-1916
+tl2_page_id: 33258762
+author_lsid: 14708-1
+wikidata_id: Q1947922
+ipni_surname: Goldschmidt
+ipni_forenames: Moritz
+ipni_standard_form: M.Goldschm.
+ipni_dates: 1863-1916
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33258762) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

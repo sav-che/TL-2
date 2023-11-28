@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol7_0430
+tl2_volume: vol7
+tl2_page_printed: 474
+tl2_surname: Wulfen
+tl2_forenames: Franz Xavier, Freiherr von
+tl2_name_abbrev: Wulfen
+tl2_dates: 1728-1805
+tl2_page_id: 33066814
+author_lsid: 28915-1
+wikidata_id: Q698014
+ipni_surname: Wulfen
+ipni_forenames: Franz Xavier von
+ipni_standard_form: Wulfen
+ipni_dates: 1728-1805
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

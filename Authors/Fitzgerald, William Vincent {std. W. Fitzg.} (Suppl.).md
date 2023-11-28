@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0157
+tl2_volume: suppl7
+tl2_page_printed: 230
+tl2_surname: Fitzgerald
+tl2_forenames: William Vincent
+tl2_name_abbrev: W. Fitzg.
+tl2_dates: 1867-1929
+tl2_page_id: 33259734
+author_lsid: 2765-1
+wikidata_id: Q6167753
+ipni_surname: Fitzgerald
+ipni_forenames: William Vincent
+ipni_standard_form: W.Fitzg.
+ipni_dates: 1867-1929
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259734) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

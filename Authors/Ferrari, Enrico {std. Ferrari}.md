@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0099
+tl2_volume: suppl7
+tl2_page_printed: 159
+tl2_surname: Ferrari
+tl2_forenames: Enrico
+tl2_name_abbrev: Ferrari
+tl2_dates: 1845-1921
+tl2_page_id: 33259663
+author_lsid: 34878-1
+wikidata_id: Q21512906
+ipni_surname: Ferrari
+ipni_forenames: Enrico
+ipni_standard_form: Ferrari
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33259663) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0243
+tl2_volume: suppl6
+tl2_page_printed: 231
+tl2_surname: Eames
+tl2_forenames: Edwin Hubert
+tl2_name_abbrev: Eames
+tl2_dates: 1865-1948
+tl2_page_id: 33260219
+author_lsid: 2439-1
+wikidata_id: Q21511285
+ipni_surname: Eames
+ipni_forenames: Edwin Hubert
+ipni_standard_form: Eames
+ipni_dates: 1865-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33260219) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

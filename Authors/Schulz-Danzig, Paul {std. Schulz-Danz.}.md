@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0369
+tl2_volume: vol5
+tl2_page_printed: 390
+tl2_surname: Schulz-Danzig
+tl2_forenames: Paul
+tl2_name_abbrev: Schulz-Danz.
+tl2_dates: fl. 1926-1935
+tl2_page_id: 33333529
+author_lsid: 9315-1
+wikidata_id: Q36655537
+ipni_surname: Schulz
+ipni_forenames: Paul
+ipni_standard_form: P.Schulz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.4
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

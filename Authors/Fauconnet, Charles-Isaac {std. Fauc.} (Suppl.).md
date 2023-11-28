@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0044
+tl2_volume: suppl7
+tl2_page_printed: 64
+tl2_surname: Fauconnet
+tl2_forenames: Charles-Isaac
+tl2_name_abbrev: Fauc.
+tl2_dates: 1811-1876
+tl2_page_id: 33259568
+author_lsid: 2644-1
+wikidata_id: Q21512667
+ipni_surname: Fauconnet
+ipni_forenames: Charles Isaac
+ipni_standard_form: Fauc.
+ipni_dates: 1811-1876
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259568) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

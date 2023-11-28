@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0221
+tl2_volume: vol5
+tl2_page_printed: 237
+tl2_surname: Schmidel
+tl2_forenames: [Schmiedel] Casimir Christoph
+tl2_name_abbrev: Schmidel
+tl2_dates: 1718-1792
+tl2_page_id: 33333376
+author_lsid: 9147-1
+wikidata_id: Q69261
+ipni_surname: Schmidel
+ipni_forenames: Casimir Christoph
+ipni_standard_form: Schmidel
+ipni_dates: 1718-1792
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33333376) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0824
+tl2_volume: vol5
+tl2_page_printed: 826
+tl2_surname: Stadlmann
+tl2_forenames: Josef
+tl2_name_abbrev: Stadlm.
+tl2_dates: 1881-x
+tl2_page_id: 33333965
+author_lsid: 10010-1
+wikidata_id: Q21609440
+ipni_surname: Stadlmann
+ipni_forenames: Josef
+ipni_standard_form: Stadlm.
+ipni_dates: 1881-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

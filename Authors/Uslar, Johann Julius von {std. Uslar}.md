@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0612
+tl2_volume: vol6
+tl2_page_printed: 621
+tl2_surname: Uslar
+tl2_forenames: Johann Julius von
+tl2_name_abbrev: Uslar
+tl2_dates: 1762-1838
+tl2_page_id: 33212663
+author_lsid: 11003-1
+wikidata_id: Q21611289
+ipni_surname: Uslar
+ipni_forenames: Johann Julius von
+ipni_standard_form: Uslar
+ipni_dates: 1752?-1829
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-12-19 01:45:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0107
+tl2_volume: suppl5
+tl2_page_printed: 97
+tl2_surname: Davidson
+tl2_forenames: Anstruther
+tl2_name_abbrev: Davidson
+tl2_dates: 1860-1932
+tl2_page_id: 33259143
+author_lsid: 2019-1
+wikidata_id: Q5696688
+ipni_surname: Davidson
+ipni_forenames: Anstruther
+ipni_standard_form: Davidson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

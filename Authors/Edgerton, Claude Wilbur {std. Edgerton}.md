@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0281
+tl2_volume: suppl6
+tl2_page_printed: 257
+tl2_surname: Edgerton
+tl2_forenames: Claude Wilbur
+tl2_name_abbrev: Edgerton
+tl2_dates: 1880-1965
+tl2_page_id: 33260245
+author_lsid: 18364-1
+wikidata_id: Q18715892
+ipni_surname: Edgerton
+ipni_forenames: Claude Wilbur
+ipni_standard_form: Edgerton
+ipni_dates: 1880-1965
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

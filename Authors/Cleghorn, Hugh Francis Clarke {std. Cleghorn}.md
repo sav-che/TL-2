@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0158
+tl2_volume: suppl4
+tl2_page_printed: 200
+tl2_surname: Cleghorn
+tl2_forenames: Hugh Francis Clarke
+tl2_name_abbrev: Cleghorn
+tl2_dates: 1820-1895
+tl2_page_id: 33265877
+author_lsid: 20017177-1
+wikidata_id: Q5930356
+ipni_surname: Cleghorn
+ipni_forenames: Hugh Francis Clarke
+ipni_standard_form: Cleghorn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265877) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

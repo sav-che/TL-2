@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0764
+tl2_volume: vol4
+tl2_page_printed: 778
+tl2_surname: Richter
+tl2_forenames: Lajos (Ludwig)
+tl2_name_abbrev: L. Richt.
+tl2_dates: 1844-1917
+tl2_page_id: 33190249
+author_lsid: 12772-1
+wikidata_id: Q5982499
+ipni_surname: Richter
+ipni_forenames: Ludwig(Lajos)
+ipni_standard_form: L.Richt.
+ipni_dates: 1844-1917
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

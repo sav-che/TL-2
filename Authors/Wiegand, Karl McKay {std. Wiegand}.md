@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0246
+tl2_volume: vol7
+tl2_page_printed: 262
+tl2_surname: Wiegand
+tl2_forenames: Karl McKay
+tl2_name_abbrev: Wiegand
+tl2_dates: 1873-1942
+tl2_page_id: 33066602
+author_lsid: 11645-1
+wikidata_id: Q5958294
+ipni_surname: Wiegand
+ipni_forenames: Karl McKay
+ipni_standard_form: Wiegand
+ipni_dates: 1873-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33066602) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

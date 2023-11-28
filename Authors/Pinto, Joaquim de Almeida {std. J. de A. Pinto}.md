@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0322
+tl2_volume: vol4
+tl2_page_printed: 269
+tl2_surname: Pinto
+tl2_forenames: Joaquim de Almeida
+tl2_name_abbrev: J. de A. Pinto
+tl2_dates: x-1870
+tl2_page_id: 33189740
+author_lsid: 161-1
+wikidata_id: Q17198523
+ipni_surname: Almeida
+ipni_forenames: Joaquim de
+ipni_standard_form: Almeida
+ipni_dates: 1823/4-1871
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-01-03 13:52:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

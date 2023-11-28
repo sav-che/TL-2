@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0675
+tl2_volume: vol4
+tl2_page_printed: 665
+tl2_surname: Reichenbach
+tl2_forenames: Carl [Karl] Ludwig [Freiherr] von
+tl2_name_abbrev: C. Rchb.
+tl2_dates: 1788-1869
+tl2_page_id: 33190136
+author_lsid: 8252-1
+wikidata_id: Q61147
+ipni_surname: Reichenbach
+ipni_forenames: Carl (Karl) Ludwig von
+ipni_standard_form: C.Rchb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

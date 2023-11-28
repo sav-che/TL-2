@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0486
+tl2_volume: vol6
+tl2_page_printed: 474
+tl2_surname: Trevelyan
+tl2_forenames: [Sir] Walter Calverley, 6th Baronet
+tl2_name_abbrev: Trevelyan
+tl2_dates: 1797-1879
+tl2_page_id: 33212516
+author_lsid: 12946-1
+wikidata_id: Q7964493
+ipni_surname: Trevelyan
+ipni_forenames: Walter Caverly
+ipni_standard_form: Trevelyan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

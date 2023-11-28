@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0633
+tl2_volume: vol4
+tl2_page_printed: 604
+tl2_surname: Ray
+tl2_forenames: John (until 1669 Wray)
+tl2_name_abbrev: Ray
+tl2_dates: 1627-1705
+tl2_page_id: 33190075
+author_lsid: 8190-1
+wikidata_id: Q316949
+ipni_surname: Ray
+ipni_forenames: John
+ipni_standard_form: Ray
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+- Algae
+- Pre-Linnaean
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

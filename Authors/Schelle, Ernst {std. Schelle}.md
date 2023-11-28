@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0136
+tl2_volume: vol5
+tl2_page_printed: 125
+tl2_surname: Schelle
+tl2_forenames: Ernst
+tl2_name_abbrev: Schelle
+tl2_dates: 1864-1929
+tl2_page_id: 33333264
+author_lsid: 9041-1
+wikidata_id: Q4522680
+ipni_surname: Schelle
+ipni_forenames: Ernst
+ipni_standard_form: Schelle
+ipni_dates: 1864-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

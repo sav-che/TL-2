@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0079
+tl2_volume: vol5
+tl2_page_printed: 80
+tl2_surname: Sauveur
+tl2_forenames: [Dieudonné] Jean Joseph
+tl2_name_abbrev: Sauveur
+tl2_dates: 1797-1862
+tl2_page_id: 33333219
+author_lsid: 12814-1
+wikidata_id: Q21607784
+ipni_surname: Sauveur
+ipni_forenames: (Dieudonné) Jean Joseph
+ipni_standard_form: Sauveur
+ipni_dates: 1797-1862
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33333219) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

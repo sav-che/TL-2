@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0190
+tl2_volume: vol1
+tl2_page_printed: 144
+tl2_surname: Batters
+tl2_forenames: Edward Arthur Lionel
+tl2_name_abbrev: Batters
+tl2_dates: 1860-1907
+tl2_page_id: 33120275
+author_lsid: 546-1
+wikidata_id: Q21505786
+ipni_surname: Batters
+ipni_forenames: Edward Arthur Lionel
+ipni_standard_form: Batters
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33120275) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

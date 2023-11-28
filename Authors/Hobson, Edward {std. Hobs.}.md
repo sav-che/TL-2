@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0266
+tl2_volume: vol2
+tl2_page_printed: 219
+tl2_surname: Hobson
+tl2_forenames: Edward
+tl2_name_abbrev: Hobs.
+tl2_dates: 1782-1830
+tl2_page_id: 33068461
+author_lsid: 34851-1
+wikidata_id: Q5343470
+ipni_surname: Hobson
+ipni_forenames: Edward
+ipni_standard_form: Hobson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

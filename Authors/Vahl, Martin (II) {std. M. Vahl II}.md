@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0622
+tl2_volume: vol6
+tl2_page_printed: 631
+tl2_surname: Vahl
+tl2_forenames: Martin [II]
+tl2_name_abbrev: M. Vahl II
+tl2_dates: 1869-1946
+tl2_page_id: 33212673
+author_lsid: 12957-1
+wikidata_id: Q4993340
+ipni_surname: Vahl
+ipni_forenames: Martin (II)
+ipni_standard_form: M.Vahl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 631](https://www.biodiversitylibrary.org/page/33212673) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

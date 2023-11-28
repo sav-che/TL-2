@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0058
+tl2_volume: suppl7
+tl2_page_printed: 75
+tl2_surname: Fawcett
+tl2_forenames: William
+tl2_name_abbrev: Fawc.
+tl2_dates: 1851-1926
+tl2_page_id: 33259579
+author_lsid: 2652-1
+wikidata_id: Q3568610
+ipni_surname: Fawcett
+ipni_forenames: William
+ipni_standard_form: Fawc.
+ipni_dates: 1851-1926
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Jamaica
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33259579) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0508
+tl2_volume: vol7
+tl2_page_printed: 558
+tl2_surname: Zschacke
+tl2_forenames: [Georg] Hermann
+tl2_name_abbrev: Zsch.
+tl2_dates: 1867-1937
+tl2_page_id: 33066898
+author_lsid: 12066-1
+wikidata_id: Q4506890
+ipni_surname: Zschacke
+ipni_forenames: (Georg)Hermann
+ipni_standard_form: Zschacke
+ipni_dates: 1867-1937
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33066898) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

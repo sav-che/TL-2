@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0139
+tl2_volume: vol3
+tl2_page_printed: 173
+tl2_surname: Lounsberry
+tl2_forenames: Alice
+tl2_name_abbrev: Lounsb.
+tl2_dates: 1872-1949
+tl2_page_id: 33355260
+author_lsid: 5773-1
+wikidata_id: Q4725973
+ipni_surname: Lounsberry
+ipni_forenames: Alice
+ipni_standard_form: Lounsb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

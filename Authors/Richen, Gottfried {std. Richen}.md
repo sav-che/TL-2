@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0757
+tl2_volume: vol4
+tl2_page_printed: 772
+tl2_surname: Richen
+tl2_forenames: Gottfried
+tl2_name_abbrev: Richen
+tl2_dates: 1863-?
+tl2_page_id: 33190243
+author_lsid: 8362-1
+wikidata_id: Q21607190
+ipni_surname: Richen
+ipni_forenames: Gottfried
+ipni_standard_form: Richen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33190243) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

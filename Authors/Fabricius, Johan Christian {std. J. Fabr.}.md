@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0983
+tl2_volume: vol1
+tl2_page_printed: 809
+tl2_surname: Fabricius
+tl2_forenames: Johan Christian
+tl2_name_abbrev: J. Fabr.
+tl2_dates: 1745-1808
+tl2_page_id: 33120940
+author_lsid: 2613-1
+wikidata_id: Q156205
+ipni_surname: Fabricius
+ipni_forenames: Johan Christian
+ipni_standard_form: J.Fabr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33120940) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

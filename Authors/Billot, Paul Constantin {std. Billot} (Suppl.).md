@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0200
+tl2_volume: suppl2
+tl2_page_printed: 166
+tl2_surname: Billot
+tl2_forenames: Paul Constantin
+tl2_name_abbrev: Billot
+tl2_dates: 1796-1863
+tl2_page_id: 33265363
+author_lsid: 793-1
+wikidata_id: Q7149945
+ipni_surname: Billot
+ipni_forenames: Paul Constant
+ipni_standard_form: Billot
+ipni_dates: 1796-1863
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

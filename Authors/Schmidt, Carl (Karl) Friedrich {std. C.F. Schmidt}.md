@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0227
+tl2_volume: vol5
+tl2_page_printed: 245
+tl2_surname: Schmidt
+tl2_forenames: Carl [Karl] Friedrich
+tl2_name_abbrev: C.F. Schmidt
+tl2_dates: 1811-1892
+tl2_page_id: 33333384
+author_lsid: 9155-1
+wikidata_id: Q2938916
+ipni_surname: Schmidt
+ipni_forenames: Carl(Karl) Friedrich
+ipni_standard_form: C.F.Schmidt
+ipni_dates: 1811-1890
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0482
+tl2_volume: vol6
+tl2_page_printed: 468
+tl2_surname: Trentepohl
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: Trentep.
+tl2_dates: 1748-1806
+tl2_page_id: 33212510
+author_lsid: 27898-1
+wikidata_id: Q21610948
+ipni_surname: Trentepohl
+ipni_forenames: Johann Friedrich
+ipni_standard_form: Trentep.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

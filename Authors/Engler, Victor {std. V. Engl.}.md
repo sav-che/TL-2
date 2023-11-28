@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0390
+tl2_volume: suppl6
+tl2_page_printed: 378
+tl2_surname: Engler
+tl2_forenames: Victor
+tl2_name_abbrev: V. Engl.
+tl2_dates: 1885-1917
+tl2_page_id: 33260366
+author_lsid: 2543-1
+wikidata_id: Q20080799
+ipni_surname: Engler
+ipni_forenames: Viktor
+ipni_standard_form: V.Engl.
+ipni_dates: 1885-1917
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33260366) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

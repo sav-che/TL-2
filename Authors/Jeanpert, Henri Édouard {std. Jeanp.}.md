@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0480
+tl2_volume: vol2
+tl2_page_printed: 433
+tl2_surname: Jeanpert
+tl2_forenames: Henri Édouard
+tl2_name_abbrev: Jeanp.
+tl2_dates: 1861-1921
+tl2_page_id: 33068675
+author_lsid: 4451-1
+wikidata_id: Q21516969
+ipni_surname: Jeanpert
+ipni_forenames: Henri Édouard
+ipni_standard_form: Jeanp.
+ipni_dates: 1861-1921
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0295
+tl2_volume: suppl5
+tl2_page_printed: 283
+tl2_surname: Deyl
+tl2_forenames: Miloš
+tl2_name_abbrev: Deyl
+tl2_dates: 1906-1985
+tl2_page_id: 33259329
+author_lsid: 2184-1
+wikidata_id: Q6016606
+ipni_surname: Deyl
+ipni_forenames: Miloš
+ipni_standard_form: Deyl
+ipni_dates: 1906-1985
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

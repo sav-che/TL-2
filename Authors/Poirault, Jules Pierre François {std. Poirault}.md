@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0377
+tl2_volume: vol4
+tl2_page_printed: 319
+tl2_surname: Poirault
+tl2_forenames: Jules Pierre François
+tl2_name_abbrev: Poirault
+tl2_dates: 1830-1907
+tl2_page_id: 33189790
+author_lsid: 7790-1
+wikidata_id: Q21523072
+ipni_surname: Poirault
+ipni_forenames: Jules Pierre François
+ipni_standard_form: Poirault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33189790) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0353
+tl2_volume: suppl5
+tl2_page_printed: 359
+tl2_surname: Dittweiler
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Dittw.
+tl2_dates: fl. 1847
+tl2_page_id: 33259405
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33259405) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

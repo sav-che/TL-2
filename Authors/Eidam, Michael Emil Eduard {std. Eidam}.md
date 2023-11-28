@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0317
+tl2_volume: suppl6
+tl2_page_printed: 284
+tl2_surname: Eidam
+tl2_forenames: Michael Emil Eduard
+tl2_name_abbrev: Eidam
+tl2_dates: 1845-1901
+tl2_page_id: 33260272
+author_lsid: 18409-1
+wikidata_id: Q21338738
+ipni_surname: Eidam
+ipni_forenames: Michael Emil Eduard
+ipni_standard_form: Eidam
+ipni_dates: 1845-1901
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

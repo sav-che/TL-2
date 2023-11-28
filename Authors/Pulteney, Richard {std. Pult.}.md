@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0519
+tl2_volume: vol4
+tl2_page_printed: 442
+tl2_surname: Pulteney
+tl2_forenames: Richard
+tl2_name_abbrev: Pult.
+tl2_dates: 1730-1801
+tl2_page_id: 33189913
+author_lsid: 8022-1
+wikidata_id: Q1378093
+ipni_surname: Pulteney
+ipni_forenames: Richard
+ipni_standard_form: Pult.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33189913) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

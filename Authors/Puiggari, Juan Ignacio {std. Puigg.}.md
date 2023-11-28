@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0516
+tl2_volume: vol4
+tl2_page_printed: 425
+tl2_surname: Puiggari
+tl2_forenames: Juan Ignacio
+tl2_name_abbrev: Puigg.
+tl2_dates: 1823-1900/1901
+tl2_page_id: 33189896
+author_lsid: 25143-1
+wikidata_id: Q21606769
+ipni_surname: Puiggari
+ipni_forenames: Juan Ignacio
+ipni_standard_form: Puigg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+- Spain
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

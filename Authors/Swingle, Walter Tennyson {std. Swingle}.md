@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0145
+tl2_volume: vol6
+tl2_page_printed: 127
+tl2_surname: Swingle
+tl2_forenames: Walter Tennyson
+tl2_name_abbrev: Swingle
+tl2_dates: 1871-1952
+tl2_page_id: 33212169
+author_lsid: 10347-1
+wikidata_id: Q378863
+ipni_surname: Swingle
+ipni_forenames: Walter Tennyson
+ipni_standard_form: Swingle
+ipni_dates: 1871-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33212169) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

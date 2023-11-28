@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0781
+tl2_volume: vol5
+tl2_page_printed: 785
+tl2_surname: Spence
+tl2_forenames: Magnus
+tl2_name_abbrev: Spence
+tl2_dates: 1853-1919
+tl2_page_id: 33333924
+author_lsid: 9959-1
+wikidata_id: Q21609274
+ipni_surname: Spence
+ipni_forenames: Magnus
+ipni_standard_form: Spence
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33333924) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

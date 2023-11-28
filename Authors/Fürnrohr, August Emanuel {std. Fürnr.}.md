@@ -1,3 +1,29 @@
+---
+tl2_entry_id: nn5
+tl2_volume: vol1
+tl2_page_printed: 897
+tl2_surname: Fürnrohr
+tl2_forenames: August Emanuel
+tl2_name_abbrev: Fürnr.
+tl2_dates: 1804-1861
+tl2_page_id: 33121028
+author_lsid: 12507-1
+wikidata_id: Q21340282
+ipni_surname: Fürnrohr
+ipni_forenames: August Emanuel
+ipni_standard_form: Fürnr.
+ipni_dates: 1804-1861
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

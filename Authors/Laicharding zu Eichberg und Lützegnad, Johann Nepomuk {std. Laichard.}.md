@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0858
+tl2_volume: vol2
+tl2_page_printed: 726
+tl2_surname: Laicharding (Laicharting) zu Eichberg und Lützegnad
+tl2_forenames: Johann Nepomuk
+tl2_name_abbrev: Laichard.
+tl2_dates: 1754-1797
+tl2_page_id: 33068968
+author_lsid: 5216-1
+wikidata_id: Q3180616
+ipni_surname: Laicharding
+ipni_forenames: Johann Nepomuk von
+ipni_standard_form: Laichard.
+ipni_dates: 1754-1797
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33068968) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

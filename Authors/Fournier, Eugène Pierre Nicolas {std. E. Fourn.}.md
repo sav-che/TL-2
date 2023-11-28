@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1079
+tl2_volume: vol1
+tl2_page_printed: 865
+tl2_surname: Fournier
+tl2_forenames: Eugène Pierre Nicolas
+tl2_name_abbrev: E. Fourn.
+tl2_dates: 1834-1884
+tl2_page_id: 33120996
+author_lsid: 2857-1
+wikidata_id: Q2616180
+ipni_surname: Fournier
+ipni_forenames: Eugène Pierre Nicolas
+ipni_standard_form: E.Fourn.
+ipni_dates: 1834-1884
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33120996) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

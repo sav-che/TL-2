@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0228
+tl2_volume: vol6
+tl2_page_printed: 191
+tl2_surname: Taylor
+tl2_forenames: Thomas (1820-1910)
+tl2_name_abbrev: T. Tayl.
+tl2_dates: 1820-1910
+tl2_page_id: 33212233
+author_lsid: 27581-1
+wikidata_id: Q18912476
+ipni_surname: Taylor
+ipni_forenames: Thomas
+ipni_standard_form: T.Taylor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33212233) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

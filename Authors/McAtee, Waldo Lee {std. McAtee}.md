@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0207
+tl2_volume: vol3
+tl2_page_printed: 209
+tl2_surname: McAtee
+tl2_forenames: Waldo Lee
+tl2_name_abbrev: McAtee
+tl2_dates: 1883-x
+tl2_page_id: 33355296
+author_lsid: 5887-1
+wikidata_id: Q19561456
+ipni_surname: McAtee
+ipni_forenames: Waldo Lee
+ipni_standard_form: McAtee
+ipni_dates: 1883-1962
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

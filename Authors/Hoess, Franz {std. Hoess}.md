@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0283
+tl2_volume: vol2
+tl2_page_printed: 233
+tl2_surname: Hoess
+tl2_forenames: Franz
+tl2_name_abbrev: Hoess
+tl2_dates: 1756-1840
+tl2_page_id: 33068475
+author_lsid: 4006-1
+wikidata_id: Q21516097
+ipni_surname: Höss
+ipni_forenames: Franz
+ipni_standard_form: Höss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

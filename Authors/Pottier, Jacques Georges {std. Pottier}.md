@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0440
+tl2_volume: vol4
+tl2_page_printed: 364
+tl2_surname: Pottier
+tl2_forenames: Jacques Georges
+tl2_name_abbrev: Pottier
+tl2_dates: 1892-x
+tl2_page_id: 33189835
+author_lsid: 7892-1
+wikidata_id: Q5924657
+ipni_surname: Pottier
+ipni_forenames: Jacques Georges
+ipni_standard_form: Pottier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

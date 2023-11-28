@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0232
+tl2_volume: suppl8
+tl2_page_printed: 311
+tl2_surname: Gosselman(n)
+tl2_forenames: Carl August
+tl2_name_abbrev: Gosselman
+tl2_dates: 1831-1893
+tl2_page_id: 33258789
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33258789) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

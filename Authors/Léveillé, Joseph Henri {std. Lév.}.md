@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1031
+tl2_volume: vol2
+tl2_page_printed: 865
+tl2_surname: Léveillé
+tl2_forenames: Joseph Henri
+tl2_name_abbrev: Lév.
+tl2_dates: 1796-1870
+tl2_page_id: 33069107
+author_lsid: 5529-1
+wikidata_id: Q1375120
+ipni_surname: Léveillé
+ipni_forenames: Joseph-Henri
+ipni_standard_form: Lév.
+ipni_dates: 1796-1870
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-07-21 12:58:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33069107) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

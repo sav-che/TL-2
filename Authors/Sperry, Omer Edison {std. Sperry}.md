@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0785
+tl2_volume: vol5
+tl2_page_printed: 788
+tl2_surname: Sperry
+tl2_forenames: Omer Edison
+tl2_name_abbrev: Sperry
+tl2_dates: 1902-1975
+tl2_page_id: 33333927
+author_lsid: 9963-1
+wikidata_id: Q21609283
+ipni_surname: Sperry
+ipni_forenames: Omer Edison
+ipni_standard_form: Sperry
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

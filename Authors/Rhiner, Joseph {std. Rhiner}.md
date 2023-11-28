@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0741
+tl2_volume: vol4
+tl2_page_printed: 754
+tl2_surname: Rhiner
+tl2_forenames: Joseph
+tl2_name_abbrev: Rhiner
+tl2_dates: 1830-1897
+tl2_page_id: 33190225
+author_lsid: 8334-1
+wikidata_id: Q21607152
+ipni_surname: Rhiner
+ipni_forenames: Joseph
+ipni_standard_form: Rhiner
+ipni_dates: 1830-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33190225) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

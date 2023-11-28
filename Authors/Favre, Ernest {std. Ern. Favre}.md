@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0054
+tl2_volume: suppl7
+tl2_page_printed: 72
+tl2_surname: Favre
+tl2_forenames: Ernest
+tl2_name_abbrev: Ern. Favre
+tl2_dates: 1845-1925
+tl2_page_id: 33259576
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259576) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

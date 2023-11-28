@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0494
+tl2_volume: vol1
+tl2_page_printed: 407
+tl2_surname: Bulnheim
+tl2_forenames: Carl Otto
+tl2_name_abbrev: Bulnheim
+tl2_dates: 1820-1865
+tl2_page_id: 33120538
+author_lsid: 1282-1
+wikidata_id: Q21506645
+ipni_surname: Bulnheim
+ipni_forenames: Carl Otto
+ipni_standard_form: Bulnh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

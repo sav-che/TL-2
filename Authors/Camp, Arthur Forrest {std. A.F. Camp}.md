@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0325
+tl2_volume: suppl3
+tl2_page_printed: 325
+tl2_surname: Camp
+tl2_forenames: Arthur Forrest
+tl2_name_abbrev: A.F. Camp
+tl2_dates: 1896-?
+tl2_page_id: 33266632
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0348
+tl2_volume: suppl2
+tl2_page_printed: 292
+tl2_surname: Boll
+tl2_forenames: Jacob
+tl2_name_abbrev: J. Boll
+tl2_dates: 1828-1880
+tl2_page_id: 33265489
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

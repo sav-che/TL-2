@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0267
+tl2_volume: vol2
+tl2_page_printed: 219
+tl2_surname: Hochreutiner
+tl2_forenames: Bénedict Pierre Georges
+tl2_name_abbrev: Hochr.
+tl2_dates: 1873-1959
+tl2_page_id: 33068461
+author_lsid: 3982-1
+wikidata_id: Q4332701
+ipni_surname: Hochreutiner
+ipni_forenames: Bénédict Pierre Georges
+ipni_standard_form: Hochr.
+ipni_dates: 1873-1959
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Algeria
+- Indonesia
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

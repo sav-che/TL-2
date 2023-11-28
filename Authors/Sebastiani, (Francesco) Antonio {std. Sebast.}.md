@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0442
+tl2_volume: vol5
+tl2_page_printed: 467
+tl2_surname: Sebastiani
+tl2_forenames: [Francesco] Antonio
+tl2_name_abbrev: Sebast.
+tl2_dates: 1782-1821
+tl2_page_id: 33333606
+author_lsid: 9405-1
+wikidata_id: Q5864745
+ipni_surname: Sebastiani
+ipni_forenames: Francesco Antonio
+ipni_standard_form: Sebast.
+ipni_dates: 1782-1821
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33333606) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0191
+tl2_volume: suppl5
+tl2_page_printed: 173
+tl2_surname: Delavigne
+tl2_forenames: Gislain Francois
+tl2_name_abbrev: Delavigne
+tl2_dates: x-1805
+tl2_page_id: 33259219
+author_lsid: 12403-1
+wikidata_id: Q21510162
+ipni_surname: Delavigne
+ipni_forenames: Gislain François
+ipni_standard_form: Delavigne
+ipni_dates: -1805
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

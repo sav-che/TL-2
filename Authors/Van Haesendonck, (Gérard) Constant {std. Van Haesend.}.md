@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0652
+tl2_volume: vol6
+tl2_page_printed: 665
+tl2_surname: Van Haesendonck
+tl2_forenames: [Gérard] Constant
+tl2_name_abbrev: Van Haesend.
+tl2_dates: 1810-1881
+tl2_page_id: 33212707
+author_lsid: 12964-1
+wikidata_id: Q21611412
+ipni_surname: Van Haesendonck
+ipni_forenames: (Gérard) Constant
+ipni_standard_form: Van Haes.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

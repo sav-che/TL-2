@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0610
+tl2_volume: vol5
+tl2_page_printed: 611
+tl2_surname: Simpson
+tl2_forenames: Charles Torrey
+tl2_name_abbrev: C. Simpson
+tl2_dates: 1826-1932
+tl2_page_id: 33333750
+author_lsid: 9680-1
+wikidata_id: Q256452
+ipni_surname: Simpson
+ipni_forenames: Charles Torrey
+ipni_standard_form: Simpson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

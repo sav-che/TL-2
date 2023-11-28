@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0170
+tl2_volume: suppl7
+tl2_page_printed: 255
+tl2_surname: Fletcher
+tl2_forenames: James
+tl2_name_abbrev: Fletcher
+tl2_dates: 1852-1908
+tl2_page_id: 33259759
+author_lsid: 2783-1
+wikidata_id: Q6133987
+ipni_surname: Fletcher
+ipni_forenames: James
+ipni_standard_form: Fletcher
+ipni_dates: 1852-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259759) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

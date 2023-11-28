@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0131
+tl2_volume: suppl8
+tl2_page_printed: 173
+tl2_surname: Géneau de Lamarlière
+tl2_forenames: [Jean Baptiste] Léon [Isidore]
+tl2_name_abbrev: Géneau
+tl2_dates: 1865-1903
+tl2_page_id: 33258651
+author_lsid: 34518-1
+wikidata_id: Q15972007
+ipni_surname: Géneau de Lamarlière
+ipni_forenames: L.
+ipni_standard_form: Géneau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33258651) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

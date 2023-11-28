@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0346
+tl2_volume: vol1
+tl2_page_printed: 268
+tl2_surname: Bommer
+tl2_forenames: Joseph (Jean) Édouard
+tl2_name_abbrev: J. Bommer
+tl2_dates: 1829-1895
+tl2_page_id: 33120399
+author_lsid: 941-1
+wikidata_id: Q5937120
+ipni_surname: Bommer
+ipni_forenames: Joseph (Jean) Édouard
+ipni_standard_form: J.Bommer
+ipni_dates: 1829-1895
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33120399) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

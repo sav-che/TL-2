@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0305
+tl2_volume: vol7
+tl2_page_printed: 349
+tl2_surname: Wilson
+tl2_forenames: Carl Louis
+tl2_name_abbrev: C.L. Wils.
+tl2_dates: 1897-x
+tl2_page_id: 33066689
+author_lsid: 11731-1
+wikidata_id: Q21612761
+ipni_surname: Wilson
+ipni_forenames: Carl Louis
+ipni_standard_form: C.L.Wilson
+ipni_dates: 1897-
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0106
+tl2_volume: suppl7
+tl2_page_printed: 166
+tl2_surname: Ferry
+tl2_forenames: René Joseph Justin
+tl2_name_abbrev: Ferry
+tl2_dates: 1845-1924
+tl2_page_id: 33259670
+author_lsid: 18766-1
+wikidata_id: Q20015041
+ipni_surname: Ferry
+ipni_forenames: René Joseph Justin
+ipni_standard_form: Ferry
+ipni_dates: 1845-1924
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259670) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

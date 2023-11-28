@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0304
+tl2_volume: vol7
+tl2_page_printed: 349
+tl2_surname: Wilson
+tl2_forenames: Albert
+tl2_name_abbrev: A. Wils.
+tl2_dates: 1862-1949
+tl2_page_id: 33066689
+author_lsid: 35138-1
+wikidata_id: Q21510506
+ipni_surname: Wilson
+ipni_forenames: Albert
+ipni_standard_form: A.Wilson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1112
+tl2_volume: vol1
+tl2_page_printed: 893
+tl2_surname: Fromentel
+tl2_forenames: Louis Édouard Gourdan de
+tl2_name_abbrev: Fromentel
+tl2_dates: 1824-x
+tl2_page_id: 33121024
+author_lsid: 2935-1
+wikidata_id: Q3263602
+ipni_surname: Fromentel
+ipni_forenames: Louis Édouard Gourdan de
+ipni_standard_form: From.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

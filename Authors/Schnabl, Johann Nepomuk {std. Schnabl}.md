@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0252
+tl2_volume: vol5
+tl2_page_printed: 266
+tl2_surname: Schnabl
+tl2_forenames: Johann Nepomuk
+tl2_name_abbrev: Schnabl
+tl2_dates: 1853-1899
+tl2_page_id: 33333405
+author_lsid: 9182-1
+wikidata_id: Q21608197
+ipni_surname: Schnabl
+ipni_forenames: Johann Nepomuk
+ipni_standard_form: Schnabl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

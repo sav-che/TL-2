@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0435
+tl2_volume: vol4
+tl2_page_printed: 357
+tl2_surname: Potier de la Varde
+tl2_forenames: Robert André Léopold
+tl2_name_abbrev: P. de la Varde
+tl2_dates: 1878-1961
+tl2_page_id: 33189828
+author_lsid: 25021-1
+wikidata_id: Q21339810
+ipni_surname: Potier de la Varde
+ipni_forenames: Robert André Léopold
+ipni_standard_form: P.de la Varde
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33189828) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

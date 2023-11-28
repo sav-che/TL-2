@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0160
+tl2_volume: vol6
+tl2_page_printed: 144
+tl2_surname: Szontágh
+tl2_forenames: Nicolaus [Miklós] (Edler von Igló) von
+tl2_name_abbrev: Szontágh
+tl2_dates: 1843-1899
+tl2_page_id: 33212186
+author_lsid: 10373-1
+wikidata_id: Q1300034
+ipni_surname: Szontágh
+ipni_forenames: Nicolaus (Miklós) von
+ipni_standard_form: Szontágh
+ipni_dates: 1843-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0320
+tl2_volume: vol2
+tl2_page_printed: 262
+tl2_surname: Holtermann
+tl2_forenames: Carl
+tl2_name_abbrev: Holterm.
+tl2_dates: 1866-1923
+tl2_page_id: 33068504
+author_lsid: 4061-1
+wikidata_id: Q4499539
+ipni_surname: Holtermann
+ipni_forenames: Carl
+ipni_standard_form: Holterm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33068504) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0973
+tl2_volume: vol4
+tl2_page_printed: 943
+tl2_surname: Roussel
+tl2_forenames: Alexandre Victor
+tl2_name_abbrev: A. Roussel
+tl2_dates: 1795-1874
+tl2_page_id: 33190414
+author_lsid: 8667-1
+wikidata_id: Q21607477
+ipni_surname: Roussel
+ipni_forenames: Alexandre Victor
+ipni_standard_form: A.Roussel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

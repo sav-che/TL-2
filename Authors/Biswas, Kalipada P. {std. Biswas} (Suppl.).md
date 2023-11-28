@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0217
+tl2_volume: suppl2
+tl2_page_printed: 177
+tl2_surname: Biswas
+tl2_forenames: Kalipada P.
+tl2_name_abbrev: Biswas
+tl2_dates: 1899-1969
+tl2_page_id: 33265374
+author_lsid: 812-1
+wikidata_id: Q18983084
+ipni_surname: Biswas
+ipni_forenames: Kalipada
+ipni_standard_form: Biswas
+ipni_dates: 1899-1969
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-12-12 13:21:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

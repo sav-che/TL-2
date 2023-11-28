@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0148
+tl2_volume: suppl2
+tl2_page_printed: 126
+tl2_surname: Bertoloni
+tl2_forenames: Giuseppe
+tl2_name_abbrev: G. Bertol.
+tl2_dates: 1804-1878
+tl2_page_id: 33265323
+author_lsid: 16043-1
+wikidata_id: Q5565354
+ipni_surname: Bertoloni
+ipni_forenames: Giuseppe
+ipni_standard_form: G.Bertol.
+ipni_dates: 1804-1879
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33265323) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0396
+tl2_volume: vol5
+tl2_page_printed: 419
+tl2_surname: Schwaighofer
+tl2_forenames: Anton
+tl2_name_abbrev: Schwaighofer
+tl2_dates: fl. 1892
+tl2_page_id: 33333558
+author_lsid: 9348-1
+wikidata_id: Q36510280
+ipni_surname: Schwaighofer
+ipni_forenames: Anton
+ipni_standard_form: Schwaigh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33333558) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

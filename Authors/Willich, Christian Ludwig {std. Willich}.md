@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0295
+tl2_volume: vol7
+tl2_page_printed: 331
+tl2_surname: Willich
+tl2_forenames: Christian Ludwig
+tl2_name_abbrev: Willich
+tl2_dates: 1718-1773
+tl2_page_id: 33066671
+author_lsid: 11716-1
+wikidata_id: Q21612740
+ipni_surname: Willich
+ipni_forenames: Christian Ludwig
+ipni_standard_form: Willich
+ipni_dates: 1718-1773
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-01-28 14:54:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

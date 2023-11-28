@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0073
+tl2_volume: suppl8
+tl2_page_printed: 94
+tl2_surname: Gage
+tl2_forenames: Andrew Thomas
+tl2_name_abbrev: A.T. Gage
+tl2_dates: 1871-1945
+tl2_page_id: 33258572
+author_lsid: 36682-1
+wikidata_id: Q442067
+ipni_surname: Gage
+ipni_forenames: Andrew Thomas
+ipni_standard_form: Gage
+ipni_dates: 1871-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33258572) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

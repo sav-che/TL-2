@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0064
+tl2_volume: suppl7
+tl2_page_printed: 80
+tl2_surname: Fedde
+tl2_forenames: Friedrich Karl Georg
+tl2_name_abbrev: Fedde
+tl2_dates: 1873-1942
+tl2_page_id: 33259584
+author_lsid: 2662-1
+wikidata_id: Q87035
+ipni_surname: Fedde
+ipni_forenames: Friedrich Karl Georg
+ipni_standard_form: Fedde
+ipni_dates: 1873-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33259584) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

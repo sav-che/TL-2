@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0762
+tl2_volume: vol2
+tl2_page_printed: 654
+tl2_surname: Kostermans
+tl2_forenames: André Joseph Guillaume Henri
+tl2_name_abbrev: Kosterm.
+tl2_dates: 1907-x
+tl2_page_id: 33068896
+author_lsid: 4984-1
+wikidata_id: Q2467467
+ipni_surname: Kostermans
+ipni_forenames: André Joseph Guillaume Henri
+ipni_standard_form: Kosterm.
+ipni_dates: 1907-1994
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Indonesia
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0161
+tl2_volume: vol2
+tl2_page_printed: 142
+tl2_surname: Heldmann
+tl2_forenames: C.
+tl2_name_abbrev: Heldmann
+tl2_dates: fl. 1837
+tl2_page_id: 33068384
+author_lsid: 3802-1
+wikidata_id: Q980331
+ipni_surname: Heldmann
+ipni_forenames: Christian
+ipni_standard_form: Heldmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

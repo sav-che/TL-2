@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0222
+tl2_volume: suppl4
+tl2_page_printed: 284
+tl2_surname: Comelli
+tl2_forenames: Franceso
+tl2_name_abbrev: Comelli
+tl2_dates: 1793-1852
+tl2_page_id: 33265961
+author_lsid: 34869-1
+wikidata_id: Q21508906
+ipni_surname: Comelli
+ipni_forenames: Francesco
+ipni_standard_form: Comelli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

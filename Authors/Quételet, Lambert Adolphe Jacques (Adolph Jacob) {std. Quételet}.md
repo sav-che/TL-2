@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0538
+tl2_volume: vol4
+tl2_page_printed: 457
+tl2_surname: Quételet
+tl2_forenames: Lambert Adolphe Jacques [Adolph Jacob]
+tl2_name_abbrev: Quételet
+tl2_dates: 1796-1874
+tl2_page_id: 33189928
+author_lsid: 8053-1
+wikidata_id: Q20012
+ipni_surname: Quételet
+ipni_forenames: Lambert Adolphe Jacques (Adolph Jacob)
+ipni_standard_form: Quételet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

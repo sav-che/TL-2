@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0626
+tl2_volume: vol3
+tl2_page_printed: 543
+tl2_surname: Mohr
+tl2_forenames: Charles Theodore (baptized Karl Theodor)
+tl2_name_abbrev: C. Mohr
+tl2_dates: 1824-1901
+tl2_page_id: 33355630
+author_lsid: 23526-1
+wikidata_id: Q5081015
+ipni_surname: Mohr
+ipni_forenames: Charles Theodore (Karl Theodor)
+ipni_standard_form: C.Mohr
+ipni_dates: 1824-1901
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

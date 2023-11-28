@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0180
+tl2_volume: vol2
+tl2_page_printed: 157
+tl2_surname: Henneguy
+tl2_forenames: Louis-Félix
+tl2_name_abbrev: Henneg.
+tl2_dates: 1850-1928
+tl2_page_id: 33068399
+author_lsid: 29507-1
+wikidata_id: Q55045295
+ipni_surname: Henneguy
+ipni_forenames: Louis-Félix
+ipni_standard_form: Henneg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

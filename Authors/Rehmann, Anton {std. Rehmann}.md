@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0668
+tl2_volume: vol4
+tl2_page_printed: 655
+tl2_surname: Rehmann
+tl2_forenames: Anton
+tl2_name_abbrev: Rehmann
+tl2_dates: 1840-1917
+tl2_page_id: 33190126
+author_lsid: 8244-1
+wikidata_id: Q84579
+ipni_surname: Rehmann
+ipni_forenames: Anton
+ipni_standard_form: Rehmann
+ipni_dates: 1840-1917
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33190126) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

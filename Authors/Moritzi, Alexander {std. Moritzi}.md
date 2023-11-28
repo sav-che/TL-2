@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0683
+tl2_volume: vol3
+tl2_page_printed: 589
+tl2_surname: Moritzi
+tl2_forenames: Alexander
+tl2_name_abbrev: Moritzi
+tl2_dates: 1806-1850
+tl2_page_id: 33355676
+author_lsid: 23642-1
+wikidata_id: Q2614546
+ipni_surname: Moritzi
+ipni_forenames: Alexandre
+ipni_standard_form: Moritzi
+ipni_dates: 1807-1850
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33355676) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

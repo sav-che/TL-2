@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0362
+tl2_volume: vol7
+tl2_page_printed: 413
+tl2_surname: Wobst
+tl2_forenames: Karl [Carl] August
+tl2_name_abbrev: Wobst
+tl2_dates: 1842-1914
+tl2_page_id: 33066753
+author_lsid: 11803-1
+wikidata_id: Q21612886
+ipni_surname: Wobst
+ipni_forenames: Karl(Carl) August
+ipni_standard_form: Wobst
+ipni_dates: 1842-1914
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33066753) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0393
+tl2_volume: vol4
+tl2_page_printed: 332
+tl2_surname: Polscher
+tl2_forenames: W.
+tl2_name_abbrev: Polscher
+tl2_dates: 1831-1861
+tl2_page_id: 33189803
+author_lsid: 7821-1
+wikidata_id: Q21523090
+ipni_surname: Polscher
+ipni_forenames: W.
+ipni_standard_form: Polscher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33189803) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

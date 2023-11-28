@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0494
+tl2_volume: vol3
+tl2_page_printed: 416
+tl2_surname: Mentz
+tl2_forenames: August
+tl2_name_abbrev: Mentz
+tl2_dates: 1867-1944
+tl2_page_id: 33355503
+author_lsid: 6359-1
+wikidata_id: Q4820779
+ipni_surname: Mentz
+ipni_forenames: August
+ipni_standard_form: Mentz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

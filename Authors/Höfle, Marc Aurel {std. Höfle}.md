@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0275
+tl2_volume: vol2
+tl2_page_printed: 226
+tl2_surname: Höfle
+tl2_forenames: Marc Aurel
+tl2_name_abbrev: Höfle
+tl2_dates: x-1855
+tl2_page_id: 33068468
+author_lsid: 3996-1
+wikidata_id: Q21515933
+ipni_surname: Höfle
+ipni_forenames: Marc Aurel
+ipni_standard_form: Höfle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

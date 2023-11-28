@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0536
+tl2_volume: vol2
+tl2_page_printed: 465
+tl2_surname: Juch
+tl2_forenames: Karl Wilhelm
+tl2_name_abbrev: Juch
+tl2_dates: 1774-1821
+tl2_page_id: 33068707
+author_lsid: 4567-1
+wikidata_id: Q55057646
+ipni_surname: Juch
+ipni_forenames: Karl (Carl) Wilhelm
+ipni_standard_form: Juch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

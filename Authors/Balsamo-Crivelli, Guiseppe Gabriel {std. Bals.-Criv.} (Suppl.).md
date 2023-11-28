@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl1_0341
+tl2_volume: suppl1
+tl2_page_printed: 308
+tl2_surname: Balsamo-Crivelli
+tl2_forenames: Guiseppe Gabriel [originally Joseph Gabriel Balsamo]
+tl2_name_abbrev: Bals.-Criv.
+tl2_dates: 1800-1874
+tl2_page_id: 33265035
+author_lsid: 31272-1
+wikidata_id: Q962745
+ipni_surname: Balsamo-Crivelli
+ipni_forenames: Giuseppe Gabriel
+ipni_standard_form: Bals.-Criv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265035) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

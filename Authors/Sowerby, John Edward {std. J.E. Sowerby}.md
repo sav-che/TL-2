@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0763
+tl2_volume: vol5
+tl2_page_printed: 763
+tl2_surname: Sowerby
+tl2_forenames: John Edward
+tl2_name_abbrev: J.E. Sowerby
+tl2_dates: 1825-1870
+tl2_page_id: 33333902
+author_lsid: 9935-1
+wikidata_id: Q5933203
+ipni_surname: Sowerby
+ipni_forenames: John Edward
+ipni_standard_form: J.E.Sowerby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33333902) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

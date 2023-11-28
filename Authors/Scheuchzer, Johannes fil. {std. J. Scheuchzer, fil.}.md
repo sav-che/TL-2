@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0153
+tl2_volume: vol5
+tl2_page_printed: 143
+tl2_surname: Scheuchzer
+tl2_forenames: Johannes fil.
+tl2_name_abbrev: J. Scheuchzer, fil.
+tl2_dates: 1738-1815
+tl2_page_id: 33333282
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33333282) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0109
+tl2_volume: suppl8
+tl2_page_printed: 155
+tl2_surname: Gay
+tl2_forenames: [Henri Félix] François
+tl2_name_abbrev: F. Gay
+tl2_dates: 1858-1898
+tl2_page_id: 33258633
+author_lsid: 3058-1
+wikidata_id: Q21513838
+ipni_surname: Gay
+ipni_forenames: (Henri Félix) François
+ipni_standard_form: F.Gay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33258633) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

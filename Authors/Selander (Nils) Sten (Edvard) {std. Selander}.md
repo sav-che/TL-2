@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0478
+tl2_volume: vol5
+tl2_page_printed: 495
+tl2_surname: Selander [Nils] Sten [Edvard]
+tl2_forenames: Selander [Nils] Sten [Edvard]
+tl2_name_abbrev: Selander
+tl2_dates: 1891-1957
+tl2_page_id: 33333634
+author_lsid: 9450-1
+wikidata_id: Q1356463
+ipni_surname: Selander
+ipni_forenames: Nils Sten Edvard
+ipni_standard_form: Selander
+ipni_dates: 1891-1957
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0406
+tl2_volume: suppl2
+tl2_page_printed: 347
+tl2_surname: Bornmüller
+tl2_forenames: Joseph [Friedrich Nicolaus]
+tl2_name_abbrev: Bornm.
+tl2_dates: 1862-1948
+tl2_page_id: 33265544
+author_lsid: 16356-1
+wikidata_id: Q68637
+ipni_surname: Bornmüller
+ipni_forenames: Joseph Friedrich Nicolaus
+ipni_standard_form: Bornm.
+ipni_dates: 1862-1948
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33265544) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

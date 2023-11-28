@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0744
+tl2_volume: vol1
+tl2_page_printed: 593
+tl2_surname: Dalzell
+tl2_forenames: Nicol (Nicholas) Alexander
+tl2_name_abbrev: Dalzell
+tl2_dates: 1817-1878
+tl2_page_id: 33120724
+author_lsid: 1968-1
+wikidata_id: Q4154159
+ipni_surname: Dalzell
+ipni_forenames: Nicol Alexander
+ipni_standard_form: Dalzell
+ipni_dates: 1817-1877
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-09-14 09:02:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

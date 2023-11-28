@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0199
+tl2_volume: suppl3
+tl2_page_printed: 204
+tl2_surname: Budde
+tl2_forenames: Herrmann
+tl2_name_abbrev: Budde
+tl2_dates: 1890-1954
+tl2_page_id: 33266511
+author_lsid: 32579-1
+wikidata_id: Q21506615
+ipni_surname: Budde
+ipni_forenames: Hermann
+ipni_standard_form: Budde
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

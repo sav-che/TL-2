@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0695
+tl2_volume: vol5
+tl2_page_printed: 704
+tl2_surname: Smith
+tl2_forenames: William Gardner
+tl2_name_abbrev: Wm.G. Sm.
+tl2_dates: 1866-1928
+tl2_page_id: 33333843
+author_lsid: 9822-1
+wikidata_id: Q3568648
+ipni_surname: Smith
+ipni_forenames: William Gardner
+ipni_standard_form: Wm.G.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33333843) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

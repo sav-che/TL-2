@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0837
+tl2_volume: vol5
+tl2_page_printed: 839
+tl2_surname: Stapf
+tl2_forenames: Otto
+tl2_name_abbrev: Stapf.
+tl2_dates: 1857-1933
+tl2_page_id: 33333978
+author_lsid: 27136-1
+wikidata_id: Q78630
+ipni_surname: Stapf
+ipni_forenames: Otto
+ipni_standard_form: Stapf
+ipni_dates: 1857-1933
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33333978) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

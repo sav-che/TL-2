@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0343
+tl2_volume: suppl1
+tl2_page_printed: 309
+tl2_surname: Bancroft
+tl2_forenames: [Claude] Keith
+tl2_name_abbrev: Bancroft
+tl2_dates: 1885-1919
+tl2_page_id: 33265036
+author_lsid: 31284-1
+wikidata_id: Q6384017
+ipni_surname: Bancroft
+ipni_forenames: Claude Keith
+ipni_standard_form: C.K.Bancr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

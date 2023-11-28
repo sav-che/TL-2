@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1045
+tl2_volume: vol4
+tl2_page_printed: 1012
+tl2_surname: Ruys
+tl2_forenames: Jan Daniel
+tl2_name_abbrev: J.D. Ruys
+tl2_dates: 1897-1954
+tl2_page_id: 33190483
+author_lsid: 8766-1
+wikidata_id: Q21607573
+ipni_surname: Ruys
+ipni_forenames: Jan Daniel
+ipni_standard_form: J.D.Ruys
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

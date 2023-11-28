@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0609
+tl2_volume: vol5
+tl2_page_printed: 610
+tl2_surname: Simonkai
+tl2_forenames: Lajos (né Ludwig Philipp Simkovics)
+tl2_name_abbrev: Simonk.
+tl2_dates: 1851-1910
+tl2_page_id: 33333749
+author_lsid: 9674-1
+wikidata_id: Q649954
+ipni_surname: Simonkai
+ipni_forenames: Lajos
+ipni_standard_form: Simonk.
+ipni_dates: 1851-1910
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.2.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33333749) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

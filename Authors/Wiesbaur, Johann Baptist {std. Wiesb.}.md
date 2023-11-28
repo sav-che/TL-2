@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0250
+tl2_volume: vol7
+tl2_page_printed: 267
+tl2_surname: Wiesbaur
+tl2_forenames: Johann Baptist
+tl2_name_abbrev: Wiesb.
+tl2_dates: 1836-1906
+tl2_page_id: 33066607
+author_lsid: 11652-1
+wikidata_id: Q114078
+ipni_surname: Wiesbaur
+ipni_forenames: Johann Baptist
+ipni_standard_form: Wiesb.
+ipni_dates: 1836-1906
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33066607) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

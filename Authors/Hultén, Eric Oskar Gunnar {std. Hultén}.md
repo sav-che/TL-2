@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0388
+tl2_volume: vol2
+tl2_page_printed: 361
+tl2_surname: Hultén
+tl2_forenames: Eric Oskar Gunnar
+tl2_name_abbrev: Hultén
+tl2_dates: 1894-x
+tl2_page_id: 33068603
+author_lsid: 4219-1
+wikidata_id: Q380741
+ipni_surname: Hultén
+ipni_forenames: Oskar Eric Gunnar
+ipni_standard_form: Hultén
+ipni_dates: 1894-1981
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-03-15 08:18:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

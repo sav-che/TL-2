@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0305
+tl2_volume: vol2
+tl2_page_printed: 253
+tl2_surname: Holandre
+tl2_forenames: Jean Joseph Jacques
+tl2_name_abbrev: Holandre
+tl2_dates: 1778-1857
+tl2_page_id: 33068495
+author_lsid: 4035-1
+wikidata_id: Q20731606
+ipni_surname: Holandre
+ipni_forenames: Jean Joseph Jacques
+ipni_standard_form: Holandre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33068495) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

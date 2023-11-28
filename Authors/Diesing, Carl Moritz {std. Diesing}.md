@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0826
+tl2_volume: vol1
+tl2_page_printed: 648
+tl2_surname: Diesing
+tl2_forenames: Carl Moritz
+tl2_name_abbrev: Diesing
+tl2_dates: 1800-1867
+tl2_page_id: 33120779
+author_lsid: 2202-1
+wikidata_id: Q2722447
+ipni_surname: Diesing
+ipni_forenames: Karl(Carl) Moritz
+ipni_standard_form: Diesing
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33120779) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0084
+tl2_volume: vol2
+tl2_page_printed: 57
+tl2_surname: Harper
+tl2_forenames: Roland McMillan
+tl2_name_abbrev: R.M. Harper
+tl2_dates: 1878-1966
+tl2_page_id: 33068299
+author_lsid: 3673-1
+wikidata_id: Q6111184
+ipni_surname: Harper
+ipni_forenames: Roland McMillan
+ipni_standard_form: R.M.Harper
+ipni_dates: 1878-1966
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

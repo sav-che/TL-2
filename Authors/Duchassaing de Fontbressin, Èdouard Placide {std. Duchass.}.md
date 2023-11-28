@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0876
+tl2_volume: vol1
+tl2_page_printed: 689
+tl2_surname: Duchassaing de Fontbressin
+tl2_forenames: Èdouard Placide
+tl2_name_abbrev: Duchass.
+tl2_dates: 1818-1873
+tl2_page_id: 33120820
+author_lsid: 2345-1
+wikidata_id: Q3579998
+ipni_surname: Duchassaing de Fontbressin
+ipni_forenames: Edmond Placide
+ipni_standard_form: Duchass.
+ipni_dates: 1818-1873
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-09-15 04:16:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0249
+tl2_volume: suppl8
+tl2_page_printed: 350
+tl2_surname: Gray
+tl2_forenames: John Edward
+tl2_name_abbrev: J.E. Gray
+tl2_dates: 1800-1875
+tl2_page_id: 33258828
+author_lsid: 3355-1
+wikidata_id: Q191963
+ipni_surname: Gray
+ipni_forenames: John Edward
+ipni_standard_form: J.E.Gray
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33258828) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

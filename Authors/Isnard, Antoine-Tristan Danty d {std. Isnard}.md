@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0421
+tl2_volume: vol2
+tl2_page_printed: 389
+tl2_surname: Isnard
+tl2_forenames: Antoine-Tristan Danty d
+tl2_name_abbrev: Isnard
+tl2_dates: 1663-1743
+tl2_page_id: 33068631
+author_lsid: 4323-1
+wikidata_id: Q585551
+ipni_surname: Isnard
+ipni_forenames: Antoine-Tristan Danty d'
+ipni_standard_form: Isnard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

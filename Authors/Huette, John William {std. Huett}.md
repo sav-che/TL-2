@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0384
+tl2_volume: vol2
+tl2_page_printed: 360
+tl2_surname: Huette
+tl2_forenames: John William
+tl2_name_abbrev: Huett
+tl2_dates: 1832/3-?
+tl2_page_id: 33068602
+author_lsid: 4208-1
+wikidata_id: Q36592052
+ipni_surname: Huett
+ipni_forenames: John William
+ipni_standard_form: Huett
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

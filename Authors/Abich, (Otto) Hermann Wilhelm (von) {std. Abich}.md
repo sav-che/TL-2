@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0004
+tl2_volume: vol1
+tl2_page_printed: 2
+tl2_surname: Abich
+tl2_forenames: [Otto] Hermann Wilhelm [von]
+tl2_name_abbrev: Abich
+tl2_dates: 1806-1886
+tl2_page_id: 33120095
+author_lsid: 12319-1
+wikidata_id: Q62860
+ipni_surname: Abich
+ipni_forenames: (Otto) Hermann Wilhelm (von)
+ipni_standard_form: Abich
+ipni_dates: 1806-1886
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

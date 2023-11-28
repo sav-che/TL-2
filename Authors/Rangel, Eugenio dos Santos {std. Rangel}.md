@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0593
+tl2_volume: vol4
+tl2_page_printed: 577
+tl2_surname: Rangel
+tl2_forenames: Eugenio dos Santos
+tl2_name_abbrev: Rangel
+tl2_dates: fl. 1931
+tl2_page_id: 33190048
+author_lsid: 8137-1
+wikidata_id: Q21606951
+ipni_surname: Rangel
+ipni_forenames: Eugenio dos Santos
+ipni_standard_form: Rangel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

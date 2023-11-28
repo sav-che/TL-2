@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0756
+tl2_volume: vol6
+tl2_page_printed: 773
+tl2_surname: Vogtherr
+tl2_forenames: Max [Adalbert Theodor Eugen]
+tl2_name_abbrev: Vogtherr
+tl2_dates: 1850-1915
+tl2_page_id: 33212815
+author_lsid: 12976-1
+wikidata_id: Q21611846
+ipni_surname: Vogtherr
+ipni_forenames: Max (Adalbert Theodor Eugen)
+ipni_standard_form: Vogtherr
+ipni_dates: 1850-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33212815) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

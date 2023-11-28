@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0271
+tl2_volume: vol2
+tl2_page_printed: 224
+tl2_surname: Hocquart
+tl2_forenames: Léopold François Joseph
+tl2_name_abbrev: Hocq.
+tl2_dates: 1760-1818
+tl2_page_id: 33068466
+author_lsid: 3988-1
+wikidata_id: Q5985311
+ipni_surname: Hocquart
+ipni_forenames: Léopold François Joseph
+ipni_standard_form: Hocq.
+ipni_dates: 1760-1818
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33068466) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

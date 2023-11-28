@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol2_0155
+tl2_volume: vol2
+tl2_page_printed: 139
+tl2_surname: Hein
+tl2_forenames: Theodor
+tl2_name_abbrev: T. Hein
+tl2_dates: fl. 1874
+tl2_page_id: 33068381
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

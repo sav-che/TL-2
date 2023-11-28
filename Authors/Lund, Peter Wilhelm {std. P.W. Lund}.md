@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0176
+tl2_volume: vol3
+tl2_page_printed: 194
+tl2_surname: Lund
+tl2_forenames: Peter Wilhelm
+tl2_name_abbrev: P.W. Lund
+tl2_dates: 1801-1880
+tl2_page_id: 33355281
+author_lsid: 5837-1
+wikidata_id: Q723809
+ipni_surname: Lund
+ipni_forenames: Peter Wilhelm
+ipni_standard_form: P.W.Lund
+ipni_dates: 1801-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

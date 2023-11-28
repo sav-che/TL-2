@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0746
+tl2_volume: vol5
+tl2_page_printed: 752
+tl2_surname: Sordelli
+tl2_forenames: Ferdinando
+tl2_name_abbrev: Sordelli
+tl2_dates: 1837-1916
+tl2_page_id: 33333891
+author_lsid: 9903-1
+wikidata_id: Q3068739
+ipni_surname: Sordelli
+ipni_forenames: Ferdinando
+ipni_standard_form: Sordelli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

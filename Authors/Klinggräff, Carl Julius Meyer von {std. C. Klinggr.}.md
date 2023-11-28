@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0683
+tl2_volume: vol2
+tl2_page_printed: 566
+tl2_surname: Klinggräff
+tl2_forenames: Carl Julius Meyer von
+tl2_name_abbrev: C. Klinggr.
+tl2_dates: 1809-1879
+tl2_page_id: 33068808
+author_lsid: 4846-1
+wikidata_id: Q5040407
+ipni_surname: Klinggräff
+ipni_forenames: Carl Julius Meyer von
+ipni_standard_form: C.Klinggr.
+ipni_dates: 1809-1879
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33068808) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0290
+tl2_volume: vol6
+tl2_page_printed: 255
+tl2_surname: Therry
+tl2_forenames: Jean Joseph [né Terri]
+tl2_name_abbrev: Therry
+tl2_dates: 1833-1888
+tl2_page_id: 33212297
+author_lsid: 12927-1
+wikidata_id: Q21610574
+ipni_surname: Therry
+ipni_forenames: Jean Joseph
+ipni_standard_form: Therry
+ipni_dates: 1833-1888
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

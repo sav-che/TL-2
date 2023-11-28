@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0988
+tl2_volume: vol3
+tl2_page_printed: 836
+tl2_surname: Oltmanns
+tl2_forenames: Friedrich
+tl2_name_abbrev: Oltm.
+tl2_dates: 1860-1945
+tl2_page_id: 33355923
+author_lsid: 7142-1
+wikidata_id: Q102707
+ipni_surname: Oltmanns
+ipni_forenames: Friedrich
+ipni_standard_form: Oltm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33355923) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0324
+tl2_volume: suppl4
+tl2_page_printed: 407
+tl2_surname: Cottet
+tl2_forenames: Michel
+tl2_name_abbrev: Cottet
+tl2_dates: 1825-1896
+tl2_page_id: 33266084
+author_lsid: 1832-1
+wikidata_id: Q21509149
+ipni_surname: Cottet
+ipni_forenames: Michel
+ipni_standard_form: Cottet
+ipni_dates: 1825-1896
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33266084) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

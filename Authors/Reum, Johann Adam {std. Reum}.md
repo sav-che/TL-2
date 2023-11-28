@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0717
+tl2_volume: vol4
+tl2_page_printed: 738
+tl2_surname: Reum
+tl2_forenames: Johann Adam
+tl2_name_abbrev: Reum
+tl2_dates: 1780-1839
+tl2_page_id: 33190209
+author_lsid: 8307-1
+wikidata_id: Q15429452
+ipni_surname: Reum
+ipni_forenames: Johann Adam
+ipni_standard_form: Reum
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

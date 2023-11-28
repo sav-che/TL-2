@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0043
+tl2_volume: vol2
+tl2_page_printed: 34
+tl2_surname: Hamilton
+tl2_forenames: Arthur
+tl2_name_abbrev: A. Ham.
+tl2_dates: fl. 1832
+tl2_page_id: 33068276
+author_lsid: 3597-1
+wikidata_id: Q5659555
+ipni_surname: Hamilton
+ipni_forenames: Arthur
+ipni_standard_form: A.Ham.
+ipni_dates: fl. 1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

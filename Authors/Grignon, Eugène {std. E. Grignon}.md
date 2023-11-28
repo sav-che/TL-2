@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0277
+tl2_volume: suppl8
+tl2_page_printed: 394
+tl2_surname: Grignon
+tl2_forenames: Eugène
+tl2_name_abbrev: E. Grignon
+tl2_dates: 1858-x
+tl2_page_id: 33258872
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33258872) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

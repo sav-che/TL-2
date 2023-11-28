@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0040
+tl2_volume: suppl8
+tl2_page_printed: 63
+tl2_surname: Fronius
+tl2_forenames: Franz Friedrich [Friedrich Franz]
+tl2_name_abbrev: Fronius
+tl2_dates: 1829-1886
+tl2_page_id: 33258541
+author_lsid: 20020317-1
+wikidata_id: Q434063
+ipni_surname: Fronius
+ipni_forenames: Franz Friedrich
+ipni_standard_form: Fronius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0039
+tl2_volume: vol3
+tl2_page_printed: 46
+tl2_surname: Linden
+tl2_forenames: Lucien
+tl2_name_abbrev: L. Linden
+tl2_dates: 1851-1940
+tl2_page_id: 33355095
+author_lsid: 5613-1
+wikidata_id: Q3246790
+ipni_surname: Linden
+ipni_forenames: Lucien
+ipni_standard_form: L.Linden
+ipni_dates: 1851-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0803
+tl2_volume: vol4
+tl2_page_printed: 804
+tl2_surname: Rivas Goday
+tl2_forenames: Salvador
+tl2_name_abbrev: Riv.-God.
+tl2_dates: 1905-1981
+tl2_page_id: 33190275
+author_lsid: 8422-1
+wikidata_id: Q6117770
+ipni_surname: Rivas Goday
+ipni_forenames: Salvador
+ipni_standard_form: Rivas Goday
+ipni_dates: 1905-1981
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

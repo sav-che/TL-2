@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0504
+tl2_volume: vol2
+tl2_page_printed: 446
+tl2_surname: Johnson
+tl2_forenames: Carl Johan
+tl2_name_abbrev: Johans.
+tl2_dates: 1858-1888
+tl2_page_id: 33068688
+author_lsid: 12581-1
+wikidata_id: Q20652193
+ipni_surname: Johanson
+ipni_forenames: Carl Johan
+ipni_standard_form: Johanson
+ipni_dates: 1858-1888
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

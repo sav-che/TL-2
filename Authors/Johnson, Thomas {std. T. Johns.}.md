@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0510
+tl2_volume: vol2
+tl2_page_printed: 449
+tl2_surname: Johnson
+tl2_forenames: Thomas
+tl2_name_abbrev: T. Johns.
+tl2_dates: 1863-1954
+tl2_page_id: 33068691
+author_lsid: 4516-1
+wikidata_id: Q3525263
+ipni_surname: Johnson
+ipni_forenames: Thomas
+ipni_standard_form: T.Johnson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

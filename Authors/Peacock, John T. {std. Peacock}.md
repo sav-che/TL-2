@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0136
+tl2_volume: vol4
+tl2_page_printed: 129
+tl2_surname: Peacock
+tl2_forenames: John T.
+tl2_name_abbrev: Peacock
+tl2_dates: fl. 1878
+tl2_page_id: 33189600
+author_lsid: 7437-1
+wikidata_id: Q36596724
+ipni_surname: Peacock
+ipni_forenames: John T.
+ipni_standard_form: Peacock
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33189600) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

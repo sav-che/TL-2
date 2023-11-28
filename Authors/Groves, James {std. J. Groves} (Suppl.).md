@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0304
+tl2_volume: suppl8
+tl2_page_printed: 424
+tl2_surname: Groves
+tl2_forenames: James
+tl2_name_abbrev: J. Groves
+tl2_dates: 1858-1933
+tl2_page_id: 33258902
+author_lsid: 3424-1
+wikidata_id: Q21512721
+ipni_surname: Groves
+ipni_forenames: James
+ipni_standard_form: J.Groves
+ipni_dates: 1858-1933
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33258902) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

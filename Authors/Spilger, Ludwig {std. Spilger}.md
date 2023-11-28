@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0790
+tl2_volume: vol5
+tl2_page_printed: 791
+tl2_surname: Spilger
+tl2_forenames: Ludwig
+tl2_name_abbrev: Spilger
+tl2_dates: 1881-1941
+tl2_page_id: 33333930
+author_lsid: 9970-1
+wikidata_id: Q21609302
+ipni_surname: Spilger
+ipni_forenames: Ludwig
+ipni_standard_form: Spilger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

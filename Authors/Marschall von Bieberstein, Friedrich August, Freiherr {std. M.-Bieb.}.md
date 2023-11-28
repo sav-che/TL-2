@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0351
+tl2_volume: vol3
+tl2_page_printed: 305
+tl2_surname: Marschall von Bieberstein
+tl2_forenames: Friedrich August, Freiherr
+tl2_name_abbrev: M.-Bieb.
+tl2_dates: 1768-1826
+tl2_page_id: 33355392
+author_lsid: 6129-1
+wikidata_id: Q66612
+ipni_surname: Marschall von Bieberstein
+ipni_forenames: Friedrich August
+ipni_standard_form: M.Bieb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33355392) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

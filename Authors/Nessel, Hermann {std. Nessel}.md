@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0848
+tl2_volume: vol3
+tl2_page_printed: 727
+tl2_surname: Nessel
+tl2_forenames: Hermann
+tl2_name_abbrev: Nessel
+tl2_dates: 1877-1949
+tl2_page_id: 33355814
+author_lsid: 6918-1
+wikidata_id: Q21522068
+ipni_surname: Nessel
+ipni_forenames: Hermann
+ipni_standard_form: Nessel
+ipni_dates: 1877-1949
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0210
+tl2_volume: suppl7
+tl2_page_printed: 316
+tl2_surname: Fóriss
+tl2_forenames: Ferenc
+tl2_name_abbrev: Fóriss
+tl2_dates: 1892-1977
+tl2_page_id: 33259820
+author_lsid: 18868-1
+wikidata_id: Q21339966
+ipni_surname: Fóriss
+ipni_forenames: Ferenc.
+ipni_standard_form: Fóriss
+ipni_dates: 1892-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

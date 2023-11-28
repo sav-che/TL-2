@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0397
+tl2_volume: vol5
+tl2_page_printed: 420
+tl2_surname: Schwalb
+tl2_forenames: Karl Josef W.
+tl2_name_abbrev: Schwalb
+tl2_dates: 1842-?
+tl2_page_id: 33333559
+author_lsid: 9349-1
+wikidata_id: Q21608523
+ipni_surname: Schwalb
+ipni_forenames: Karl Josef W.
+ipni_standard_form: Schwalb
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

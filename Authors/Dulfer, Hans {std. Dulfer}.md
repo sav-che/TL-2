@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0169
+tl2_volume: suppl6
+tl2_page_printed: 158
+tl2_surname: Dulfer
+tl2_forenames: Hans
+tl2_name_abbrev: Dulfer
+tl2_dates: 1900-1975
+tl2_page_id: 33260146
+author_lsid: 2366-1
+wikidata_id: Q21511032
+ipni_surname: Dulfer
+ipni_forenames: Hans
+ipni_standard_form: Dulfer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

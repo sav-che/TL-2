@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0236
+tl2_volume: suppl6
+tl2_page_printed: 225
+tl2_surname: Dyal
+tl2_forenames: Sarah Creecie
+tl2_name_abbrev: Dyal
+tl2_dates: 1907-x
+tl2_page_id: 33260213
+author_lsid: 2429-1
+wikidata_id: Q21393570
+ipni_surname: Dyal
+ipni_forenames: Sarah Creecie
+ipni_standard_form: Dyal
+ipni_dates: 1907-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

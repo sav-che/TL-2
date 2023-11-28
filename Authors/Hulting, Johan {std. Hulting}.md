@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0389
+tl2_volume: vol2
+tl2_page_printed: 362
+tl2_surname: Hulting
+tl2_forenames: Johan
+tl2_name_abbrev: Hulting
+tl2_dates: 1842-1929
+tl2_page_id: 33068604
+author_lsid: 4220-1
+wikidata_id: Q21341120
+ipni_surname: Hulting
+ipni_forenames: Johan
+ipni_standard_form: Hulting
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

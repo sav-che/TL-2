@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0073
+tl2_volume: suppl3
+tl2_page_printed: 71
+tl2_surname: Brez
+tl2_forenames: Jacques
+tl2_name_abbrev: Brez
+tl2_dates: 1771-1798
+tl2_page_id: 33266378
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

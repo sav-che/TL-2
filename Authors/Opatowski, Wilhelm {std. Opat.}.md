@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0994
+tl2_volume: vol3
+tl2_page_printed: 839
+tl2_surname: Opatowski
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Opat.
+tl2_dates: 1810-1838
+tl2_page_id: 33355926
+author_lsid: 24357-1
+wikidata_id: Q21522399
+ipni_surname: Opatowski
+ipni_forenames: Wilhelm(Guilelmus)
+ipni_standard_form: Opat.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

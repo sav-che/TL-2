@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0109
+tl2_volume: suppl7
+tl2_page_printed: 169
+tl2_surname: Feuillée
+tl2_forenames: Louis Éconches (Père)
+tl2_name_abbrev: Feuillée
+tl2_dates: 1660-1732
+tl2_page_id: 33259673
+author_lsid: 2707-1
+wikidata_id: Q1871688
+ipni_surname: Feuillée
+ipni_forenames: Louis Éconches
+ipni_standard_form: Feuillée
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33259673) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

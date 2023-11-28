@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0665
+tl2_volume: vol4
+tl2_page_printed: 650
+tl2_surname: Reguis
+tl2_forenames: J. Marius F.
+tl2_name_abbrev: Reguis
+tl2_dates: 1850-?
+tl2_page_id: 33190121
+author_lsid: 8241-1
+wikidata_id: Q21607069
+ipni_surname: Réguis
+ipni_forenames: Jean Marius François
+ipni_standard_form: Réguis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

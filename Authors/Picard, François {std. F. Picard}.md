@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0285
+tl2_volume: vol4
+tl2_page_printed: 247
+tl2_surname: Picard
+tl2_forenames: François
+tl2_name_abbrev: F. Picard
+tl2_dates: 1879-1939
+tl2_page_id: 33189718
+author_lsid: 24832-1
+wikidata_id: Q21516560
+ipni_surname: Picard
+ipni_forenames: François
+ipni_standard_form: F.Picard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

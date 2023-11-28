@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol5_0832
+tl2_volume: vol5
+tl2_page_printed: 831
+tl2_surname: Standley
+tl2_forenames: Paul Carpenter
+tl2_name_abbrev: Standl.
+tl2_dates: 1884-1963
+tl2_page_id: 33333970
+author_lsid: 10019-1
+wikidata_id: Q1333160
+ipni_surname: Standley
+ipni_forenames: Paul Carpenter
+ipni_standard_form: Standl.
+ipni_dates: 1884-1963
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Panama
+- Costa Rica
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0529
+tl2_volume: vol2
+tl2_page_printed: 463
+tl2_surname: Jordi
+tl2_forenames: Ernst
+tl2_name_abbrev: Jordi
+tl2_dates: 1899-1933
+tl2_page_id: 33068705
+author_lsid: 4553-1
+wikidata_id: Q21517139
+ipni_surname: Jordi
+ipni_forenames: Ernst
+ipni_standard_form: E.Jordi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

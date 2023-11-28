@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0233
+tl2_volume: vol5
+tl2_page_printed: 252
+tl2_surname: Schmidt
+tl2_forenames: Hermann of Elberfeld
+tl2_name_abbrev: H. Schmidt Elberf.
+tl2_dates: 1821/2-1905
+tl2_page_id: 33333391
+author_lsid: 9160-1
+wikidata_id: Q21608151
+ipni_surname: Schmidt
+ipni_forenames: Hermann
+ipni_standard_form: H.Schmidt Elberf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

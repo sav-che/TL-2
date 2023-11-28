@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0407
+tl2_volume: vol4
+tl2_page_printed: 338
+tl2_surname: Poplu
+tl2_forenames: Mme M.C.
+tl2_name_abbrev: Poplu
+tl2_dates: fl. 1873
+tl2_page_id: 33189809
+author_lsid: 7845-1
+wikidata_id: Q36633773
+ipni_surname: Poplu
+ipni_forenames: M.C.
+ipni_standard_form: Poplu
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

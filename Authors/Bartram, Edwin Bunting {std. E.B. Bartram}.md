@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0178
+tl2_volume: vol1
+tl2_page_printed: 131
+tl2_surname: Bartram
+tl2_forenames: Edwin Bunting
+tl2_name_abbrev: E.B. Bartram
+tl2_dates: 1878-1964
+tl2_page_id: 33120262
+author_lsid: 15746-1
+wikidata_id: Q18205408
+ipni_surname: Bartram
+ipni_forenames: Edwin Bunting
+ipni_standard_form: E.B.Bartram
+ipni_dates: 1878-1964
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33120262) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

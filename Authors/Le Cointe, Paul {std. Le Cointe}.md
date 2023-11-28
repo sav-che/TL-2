@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0943
+tl2_volume: vol2
+tl2_page_printed: 781
+tl2_surname: Le Cointe
+tl2_forenames: Paul
+tl2_name_abbrev: Le Cointe
+tl2_dates: 1870-?
+tl2_page_id: 33069023
+author_lsid: 5385-1
+wikidata_id: Q4257704
+ipni_surname: Le Cointe
+ipni_forenames: Paul
+ipni_standard_form: Le Cointe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

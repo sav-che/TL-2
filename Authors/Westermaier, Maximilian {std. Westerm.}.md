@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0203
+tl2_volume: vol7
+tl2_page_printed: 213
+tl2_surname: Westermaier
+tl2_forenames: Maximilian
+tl2_name_abbrev: Westerm.
+tl2_dates: 1852-1903
+tl2_page_id: 33066553
+author_lsid: 11589-1
+wikidata_id: Q15296208
+ipni_surname: Westermaier
+ipni_forenames: Maximilian
+ipni_standard_form: Westerm.
+ipni_dates: 1852-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33066553) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

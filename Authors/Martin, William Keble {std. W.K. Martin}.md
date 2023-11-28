@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0378
+tl2_volume: vol3
+tl2_page_printed: 321
+tl2_surname: Martin
+tl2_forenames: William Keble
+tl2_name_abbrev: W.K. Martin
+tl2_dates: 1877-1969
+tl2_page_id: 33355408
+author_lsid: 6161-1
+wikidata_id: Q14945445
+ipni_surname: Keble Martin
+ipni_forenames: William
+ipni_standard_form: Keble Martin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

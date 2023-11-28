@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0674
+tl2_volume: vol5
+tl2_page_printed: 671
+tl2_surname: Smith
+tl2_forenames: Frederick Porter
+tl2_name_abbrev: F.P. Sm.
+tl2_dates: 1833-1888
+tl2_page_id: 33333810
+author_lsid: 9791-1
+wikidata_id: Q5869085
+ipni_surname: Smith
+ipni_forenames: Frederick Porter
+ipni_standard_form: F.P.Sm.
+ipni_dates: 1833-1888
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

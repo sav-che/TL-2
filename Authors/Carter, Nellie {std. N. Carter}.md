@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0400
+tl2_volume: suppl3
+tl2_page_printed: 433
+tl2_surname: Carter
+tl2_forenames: Nellie
+tl2_name_abbrev: N. Carter
+tl2_dates: 1895-x
+tl2_page_id: 33266740
+author_lsid: 32647-1
+wikidata_id: Q21507051
+ipni_surname: Carter
+ipni_forenames: Nellie
+ipni_standard_form: N.Carter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33266740) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

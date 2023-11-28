@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0394
+tl2_volume: vol3
+tl2_page_printed: 343
+tl2_surname: Martyn
+tl2_forenames: Thomas
+tl2_name_abbrev: Martyn
+tl2_dates: 1735-1825
+tl2_page_id: 33355430
+author_lsid: 6182-1
+wikidata_id: Q2888459
+ipni_surname: Martyn
+ipni_forenames: Thomas M.
+ipni_standard_form: Martyn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33355430) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

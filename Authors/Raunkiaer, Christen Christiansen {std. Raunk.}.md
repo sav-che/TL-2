@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0618
+tl2_volume: vol4
+tl2_page_printed: 590
+tl2_surname: Raunkiaer
+tl2_forenames: Christen Christiansen
+tl2_name_abbrev: Raunk.
+tl2_dates: 1860-1938
+tl2_page_id: 33190061
+author_lsid: 25371-1
+wikidata_id: Q444984
+ipni_surname: Raunkiaer
+ipni_forenames: Christen Christiansen
+ipni_standard_form: Raunk.
+ipni_dates: 1860-1938
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33190061) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

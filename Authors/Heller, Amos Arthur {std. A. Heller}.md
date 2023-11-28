@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0165
+tl2_volume: vol2
+tl2_page_printed: 146
+tl2_surname: Heller
+tl2_forenames: Amos Arthur
+tl2_name_abbrev: A. Heller
+tl2_dates: 1867-1944
+tl2_page_id: 33068388
+author_lsid: 3806-1
+wikidata_id: Q2373009
+ipni_surname: Heller
+ipni_forenames: Amos Arthur
+ipni_standard_form: A.Heller
+ipni_dates: 1867-1944
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33068388) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

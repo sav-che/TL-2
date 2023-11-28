@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0028
+tl2_volume: suppl8
+tl2_page_printed: 44
+tl2_surname: Fristedt
+tl2_forenames: Robert Fredric [Frederic, Fredrik]
+tl2_name_abbrev: Fristedt
+tl2_dates: 1832-1893
+tl2_page_id: 33258484
+author_lsid: 2922-1
+wikidata_id: Q5745158
+ipni_surname: Fristedt
+ipni_forenames: Robert Fredric(Fredrik)
+ipni_standard_form: Fristedt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33258484) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

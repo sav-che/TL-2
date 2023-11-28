@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0999
+tl2_volume: vol1
+tl2_page_printed: 817
+tl2_surname: Fedchenko [Fedtschenko]
+tl2_forenames: Boris Alexsevič
+tl2_name_abbrev: Fedch.
+tl2_dates: 1873-1947
+tl2_page_id: 33120948
+author_lsid: 13064-1
+wikidata_id: Q2910947
+ipni_surname: Fedtschenko
+ipni_forenames: Boris Alexjewitsch(Alexeevich)
+ipni_standard_form: B.Fedtsch.
+ipni_dates: 1872-1947
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

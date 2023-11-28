@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0069
+tl2_volume: suppl2
+tl2_page_printed: 67
+tl2_surname: Benecke
+tl2_forenames: Franz
+tl2_name_abbrev: Benecke
+tl2_dates: 1857-1903
+tl2_page_id: 33265264
+author_lsid: 645-1
+wikidata_id: Q21505934
+ipni_surname: Benecke
+ipni_forenames: Franz
+ipni_standard_form: Benecke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33265264) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

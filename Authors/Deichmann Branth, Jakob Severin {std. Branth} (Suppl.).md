@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0172
+tl2_volume: suppl5
+tl2_page_printed: 164
+tl2_surname: Deichmann Branth
+tl2_forenames: Jakob Severin
+tl2_name_abbrev: Branth
+tl2_dates: 1831-1917
+tl2_page_id: 33259210
+author_lsid: 16471-1
+wikidata_id: Q5585064
+ipni_surname: Branth
+ipni_forenames: Jakob Severin Deichmann
+ipni_standard_form: Branth
+ipni_dates: 1831-1917
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33259210) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

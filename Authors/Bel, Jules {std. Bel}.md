@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0058
+tl2_volume: suppl2
+tl2_page_printed: 61
+tl2_surname: Bel
+tl2_forenames: Jules
+tl2_name_abbrev: Bel
+tl2_dates: fl. 1880-1900
+tl2_page_id: 33265258
+author_lsid: 20018981-1
+wikidata_id: Q21505895
+ipni_surname: Bel
+ipni_forenames: Jules
+ipni_standard_form: Bel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

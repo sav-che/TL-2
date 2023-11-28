@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0962
+tl2_volume: vol2
+tl2_page_printed: 816
+tl2_surname: Legget
+tl2_forenames: William Henry
+tl2_name_abbrev: Legg.
+tl2_dates: 1816-1882
+tl2_page_id: 33069058
+author_lsid: 5419-1
+wikidata_id: Q15440714
+ipni_surname: Leggett
+ipni_forenames: William Henry
+ipni_standard_form: Legg.
+ipni_dates: 1816-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

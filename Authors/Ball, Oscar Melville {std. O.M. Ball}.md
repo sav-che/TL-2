@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0336
+tl2_volume: suppl1
+tl2_page_printed: 305
+tl2_surname: Ball
+tl2_forenames: Oscar Melville
+tl2_name_abbrev: O.M. Ball
+tl2_dates: 1868-1942
+tl2_page_id: 33265032
+author_lsid: 31257-1
+wikidata_id: Q21505595
+ipni_surname: Ball
+ipni_forenames: Oscar Melville
+ipni_standard_form: O.M.Ball
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265032) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

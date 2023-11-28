@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0393
+tl2_volume: vol6
+tl2_page_printed: 370
+tl2_surname: Titford
+tl2_forenames: William Jowit (Jowett]
+tl2_name_abbrev: Titford
+tl2_dates: 1784-1823/7?
+tl2_page_id: 33212412
+author_lsid: 10693-1
+wikidata_id: Q21610781
+ipni_surname: Titford
+ipni_forenames: William Jowit(Jowett)
+ipni_standard_form: Titford
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33212412) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

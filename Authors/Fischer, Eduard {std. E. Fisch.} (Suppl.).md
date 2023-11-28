@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0134
+tl2_volume: suppl7
+tl2_page_printed: 205
+tl2_surname: Fischer
+tl2_forenames: Eduard
+tl2_name_abbrev: Ed. Fischer
+tl2_dates: 1861-1939
+tl2_page_id: 33259709
+author_lsid: 2743-1
+wikidata_id: Q115780
+ipni_surname: Fischer
+ipni_forenames: Eduard
+ipni_standard_form: E.Fisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33259709) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

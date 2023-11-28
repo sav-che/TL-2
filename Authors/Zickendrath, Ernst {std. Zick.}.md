@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0485
+tl2_volume: vol7
+tl2_page_printed: 536
+tl2_surname: Zickendrath
+tl2_forenames: Ernst
+tl2_name_abbrev: Zick.
+tl2_dates: 1846-1903
+tl2_page_id: 33066876
+author_lsid: 12026-1
+wikidata_id: Q21613644
+ipni_surname: Zickendrath
+ipni_forenames: Ernst
+ipni_standard_form: Zick.
+ipni_dates: 1846-1903
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0405
+tl2_volume: suppl2
+tl2_page_printed: 343
+tl2_surname: Bornet
+tl2_forenames: [Jean-Baptiste-] Édouard
+tl2_name_abbrev: Bornet
+tl2_dates: 1828-1911
+tl2_page_id: 33265540
+author_lsid: 16353-1
+wikidata_id: Q695467
+ipni_surname: Bornet
+ipni_forenames: Jean-Baptiste Édouard
+ipni_standard_form: Bornet
+ipni_dates: 1828-1911
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265540) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

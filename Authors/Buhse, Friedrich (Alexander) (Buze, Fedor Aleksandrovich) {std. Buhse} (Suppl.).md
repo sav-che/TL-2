@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0216
+tl2_volume: suppl3
+tl2_page_printed: 214
+tl2_surname: Buhse
+tl2_forenames: Friedrich [Alexander] (Buze, Fedor Aleksandrovich)
+tl2_name_abbrev: Buhse
+tl2_dates: 1821-1898
+tl2_page_id: 33266521
+author_lsid: 12365-1
+wikidata_id: Q71580
+ipni_surname: Buhse
+ipni_forenames: Friedrich Alexander
+ipni_standard_form: Buhse
+ipni_dates: 1821-1898
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Iran, Islamic Republic of
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33266521) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0095
+tl2_volume: vol4
+tl2_page_printed: 83
+tl2_surname: Parsons
+tl2_forenames: Thomas Henry
+tl2_name_abbrev: T Parsons
+tl2_dates: fl. 1926
+tl2_page_id: 33189554
+author_lsid: 7371-1
+wikidata_id: Q36690630
+ipni_surname: Parsons
+ipni_forenames: Thomas Henry
+ipni_standard_form: T.Parsons
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

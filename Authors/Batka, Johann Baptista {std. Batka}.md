@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0429
+tl2_volume: suppl1
+tl2_page_printed: 375
+tl2_surname: Batka
+tl2_forenames: Johann Baptista
+tl2_name_abbrev: Batka
+tl2_dates: fl. 1823-1872
+tl2_page_id: 33265102
+author_lsid: 540-1
+wikidata_id: Q36586622
+ipni_surname: Batka
+ipni_forenames: Johann Baptista
+ipni_standard_form: Batka
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265102) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

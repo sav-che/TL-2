@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0496
+tl2_volume: vol1
+tl2_page_printed: 409
+tl2_surname: Buniva
+tl2_forenames: Michele Francesco
+tl2_name_abbrev: Buniva
+tl2_dates: 1761-1834
+tl2_page_id: 33120540
+author_lsid: 1284-1
+wikidata_id: Q3856528
+ipni_surname: Buniva
+ipni_forenames: Michele Francesco
+ipni_standard_form: Buniva
+ipni_dates: 1761-1834
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0289
+tl2_volume: vol2
+tl2_page_printed: 237
+tl2_surname: Hoffmann
+tl2_forenames: Ferdinand
+tl2_name_abbrev: F. Hoffm.
+tl2_dates: 1860-1914
+tl2_page_id: 33068479
+author_lsid: 4012-1
+wikidata_id: Q5858722
+ipni_surname: Hoffmann
+ipni_forenames: Ferdinand
+ipni_standard_form: F.Hoffm.
+ipni_dates: 1860-1914
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33068479) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

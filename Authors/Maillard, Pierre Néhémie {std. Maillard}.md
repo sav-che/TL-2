@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0274
+tl2_volume: vol3
+tl2_page_printed: 255
+tl2_surname: Maillard
+tl2_forenames: Pierre Néhémie
+tl2_name_abbrev: Maillard
+tl2_dates: 1813-1883
+tl2_page_id: 33355342
+author_lsid: 5993-1
+wikidata_id: Q21519802
+ipni_surname: Maillard
+ipni_forenames: Pierre Néhémie
+ipni_standard_form: Maillard
+ipni_dates: 1813-1883
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33355342) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

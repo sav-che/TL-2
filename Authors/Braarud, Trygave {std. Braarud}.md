@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0000
+tl2_volume: suppl3
+tl2_page_printed: 1
+tl2_surname: Braarud
+tl2_forenames: Trygave
+tl2_name_abbrev: Braarud
+tl2_dates: 1903-1985
+tl2_page_id: 33266308
+author_lsid: 32518-1
+wikidata_id: Q32250
+ipni_surname: Braarud
+ipni_forenames: Trygve
+ipni_standard_form: Braarud
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33266308) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

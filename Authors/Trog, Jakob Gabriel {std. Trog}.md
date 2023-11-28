@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0505
+tl2_volume: vol6
+tl2_page_printed: 501
+tl2_surname: Trog
+tl2_forenames: Jakob Gabriel
+tl2_name_abbrev: Trog
+tl2_dates: 1781-1865
+tl2_page_id: 33212543
+author_lsid: 10837-1
+wikidata_id: Q3806305
+ipni_surname: Trog
+ipni_forenames: Jakob Gabriel
+ipni_standard_form: Trog
+ipni_dates: 1781-1865
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33212543) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

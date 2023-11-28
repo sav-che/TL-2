@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0988
+tl2_volume: vol4
+tl2_page_printed: 961
+tl2_surname: Royer
+tl2_forenames: Charles Louis Alexis
+tl2_name_abbrev: Royer
+tl2_dates: 1831-1883
+tl2_page_id: 33190432
+author_lsid: 8687-1
+wikidata_id: Q19001599
+ipni_surname: Royer
+ipni_forenames: Charles Louis Alexis
+ipni_standard_form: Royer
+ipni_dates: 1831-1883
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

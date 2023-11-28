@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0535
+tl2_volume: vol1
+tl2_page_printed: 430
+tl2_surname: Camper
+tl2_forenames: Peter (Petrus)
+tl2_name_abbrev: Camper
+tl2_dates: 1722-1789
+tl2_page_id: 33120561
+author_lsid: 1378-1
+wikidata_id: Q382682
+ipni_surname: Camper
+ipni_forenames: Peter (Petrus)
+ipni_standard_form: Camper
+ipni_dates: 1722-1789
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

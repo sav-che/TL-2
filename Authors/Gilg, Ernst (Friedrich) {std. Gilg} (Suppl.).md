@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0168
+tl2_volume: suppl8
+tl2_page_printed: 207
+tl2_surname: Gilg
+tl2_forenames: Ernst [Friedrich]
+tl2_name_abbrev: Gilg
+tl2_dates: 1867-1933
+tl2_page_id: 33258685
+author_lsid: 3144-1
+wikidata_id: Q77655
+ipni_surname: Gilg
+ipni_forenames: Ernest Friedrich
+ipni_standard_form: Gilg
+ipni_dates: 1867-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

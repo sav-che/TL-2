@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0109
+tl2_volume: vol3
+tl2_page_printed: 150
+tl2_surname: Loitlesberger
+tl2_forenames: Karl
+tl2_name_abbrev: Loitl.
+tl2_dates: 1857-1943
+tl2_page_id: 33355237
+author_lsid: 22502-1
+wikidata_id: Q21519430
+ipni_surname: Loitlesberger
+ipni_forenames: Karl
+ipni_standard_form: Loitl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

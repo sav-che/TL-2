@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0437
+tl2_volume: vol1
+tl2_page_printed: 348
+tl2_surname: Britzelmayr
+tl2_forenames: Max
+tl2_name_abbrev: Britzelm.
+tl2_dates: 1839-1909
+tl2_page_id: 33120479
+author_lsid: 1162-1
+wikidata_id: Q556528
+ipni_surname: Britzelmayr
+ipni_forenames: Max
+ipni_standard_form: Britzelm.
+ipni_dates: 1839-1909
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33120479) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

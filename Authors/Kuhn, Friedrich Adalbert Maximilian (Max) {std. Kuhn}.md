@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0816
+tl2_volume: vol2
+tl2_page_printed: 690
+tl2_surname: Kuhn
+tl2_forenames: Friedrich Adalbert Maximilian [Max]
+tl2_name_abbrev: Kuhn
+tl2_dates: 1842-1894
+tl2_page_id: 33068932
+author_lsid: 5118-1
+wikidata_id: Q85717
+ipni_surname: Kuhn
+ipni_forenames: Friedrich Adalbert Maximilian (`Max')
+ipni_standard_form: Kuhn
+ipni_dates: 1842-1894
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33068932) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

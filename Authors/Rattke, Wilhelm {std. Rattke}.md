@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0609
+tl2_volume: vol4
+tl2_page_printed: 585
+tl2_surname: Rattke
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Rattke
+tl2_dates: fl. 1884
+tl2_page_id: 33190056
+author_lsid: 8158-1
+wikidata_id: Q36703592
+ipni_surname: Rattke
+ipni_forenames: Wilhelm
+ipni_standard_form: Rattke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

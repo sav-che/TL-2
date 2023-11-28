@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0041
+tl2_volume: suppl8
+tl2_page_printed: 63
+tl2_surname: Frost
+tl2_forenames: Charles Christopher
+tl2_name_abbrev: Frost
+tl2_dates: 1805-1880
+tl2_page_id: 33258541
+author_lsid: 19017-1
+wikidata_id: Q5076250
+ipni_surname: Frost
+ipni_forenames: Charles Christopher
+ipni_standard_form: Frost
+ipni_dates: 1805-1880
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0531
+tl2_volume: vol1
+tl2_page_printed: 428
+tl2_surname: Camisola
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Camisola
+tl2_dates: 1781-1856
+tl2_page_id: 33120559
+author_lsid: 1373-1
+wikidata_id: Q21506895
+ipni_surname: Camisola
+ipni_forenames: Giuseppe
+ipni_standard_form: Camisola
+ipni_dates: 1781-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33120559) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

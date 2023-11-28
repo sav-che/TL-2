@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_1012
+tl2_volume: vol2
+tl2_page_printed: 852
+tl2_surname: Lessing
+tl2_forenames: Christian Friedrich
+tl2_name_abbrev: Less.
+tl2_dates: 1809-1862
+tl2_page_id: 33069094
+author_lsid: 22263-1
+wikidata_id: Q76352
+ipni_surname: Lessing
+ipni_forenames: Christian Friedrich
+ipni_standard_form: Less.
+ipni_dates: 1809-1862
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33069094) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

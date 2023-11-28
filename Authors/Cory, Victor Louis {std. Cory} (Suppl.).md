@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0312
+tl2_volume: suppl4
+tl2_page_printed: 386
+tl2_surname: Cory
+tl2_forenames: Victor Louis
+tl2_name_abbrev: Cory
+tl2_dates: 1880-1964
+tl2_page_id: 33266063
+author_lsid: 1819-1
+wikidata_id: Q6161483
+ipni_surname: Cory
+ipni_forenames: Victor Louis
+ipni_standard_form: Cory
+ipni_dates: 1880-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

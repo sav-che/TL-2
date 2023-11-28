@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0337
+tl2_volume: vol1
+tl2_page_printed: 261
+tl2_surname: Bojer
+tl2_forenames: Wenceslas (Wenzel)
+tl2_name_abbrev: Bojer
+tl2_dates: 1797-1856
+tl2_page_id: 33120392
+author_lsid: 921-1
+wikidata_id: Q637799
+ipni_surname: Bojer
+ipni_forenames: Wenceslaus
+ipni_standard_form: Bojer
+ipni_dates: 1797-1856
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Czech Republic
+- Mauritius
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

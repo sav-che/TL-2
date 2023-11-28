@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1080
+tl2_volume: vol4
+tl2_page_printed: 1062
+tl2_surname: St. Brody
+tl2_forenames: Gustavus A. Ornano
+tl2_name_abbrev: St. Brody
+tl2_dates: 1828-1901
+tl2_page_id: 33190533
+author_lsid: 8822-1
+wikidata_id: Q21609411
+ipni_surname: St.Brody
+ipni_forenames: Gustavus A.Ornano
+ipni_standard_form: St.Brody
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/page/33190533) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

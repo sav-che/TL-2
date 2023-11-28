@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0654
+tl2_volume: vol5
+tl2_page_printed: 657
+tl2_surname: Smarda
+tl2_forenames: Jan
+tl2_name_abbrev: Šmarda
+tl2_dates: 1904-1968
+tl2_page_id: 33333796
+author_lsid: 26899-1
+wikidata_id: Q21609041
+ipni_surname: Šmarda
+ipni_forenames: Jan
+ipni_standard_form: Šmarda
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

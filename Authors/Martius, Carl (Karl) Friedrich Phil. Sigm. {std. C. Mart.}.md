@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0387
+tl2_volume: vol3
+tl2_page_printed: 339
+tl2_surname: Martius
+tl2_forenames: Carl [Karl] Friedrich Phil. Sigm.
+tl2_name_abbrev: C. Mart.
+tl2_dates: 1829-1899
+tl2_page_id: 33355426
+author_lsid: 22978-1
+wikidata_id: Q5749288
+ipni_surname: Martius
+ipni_forenames: Carl Friedrich Phil.Sigm.
+ipni_standard_form: C.Mart.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33355426) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

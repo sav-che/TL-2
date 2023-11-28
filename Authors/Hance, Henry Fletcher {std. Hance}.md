@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0054
+tl2_volume: vol2
+tl2_page_printed: 42
+tl2_surname: Hance
+tl2_forenames: Henry Fletcher
+tl2_name_abbrev: Hance
+tl2_dates: 1827-1886
+tl2_page_id: 33068284
+author_lsid: 3609-1
+wikidata_id: Q2657692
+ipni_surname: Hance
+ipni_forenames: Henry Fletcher
+ipni_standard_form: Hance
+ipni_dates: 1827-1886
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33068284) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

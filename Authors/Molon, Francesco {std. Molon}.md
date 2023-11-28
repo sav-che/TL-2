@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0639
+tl2_volume: vol3
+tl2_page_printed: 554
+tl2_surname: Molon
+tl2_forenames: Francesco
+tl2_name_abbrev: Molon
+tl2_dates: 1820-1885
+tl2_page_id: 33355641
+author_lsid: 6581-1
+wikidata_id: Q21521634
+ipni_surname: Molon
+ipni_forenames: Francesco
+ipni_standard_form: Molon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

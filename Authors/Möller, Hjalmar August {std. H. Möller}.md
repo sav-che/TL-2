@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0613
+tl2_volume: vol3
+tl2_page_printed: 534
+tl2_surname: Möller
+tl2_forenames: Hjalmar August
+tl2_name_abbrev: H. Möller
+tl2_dates: 1866-1941
+tl2_page_id: 33355621
+author_lsid: 6547-1
+wikidata_id: Q6001018
+ipni_surname: Möller
+ipni_forenames: Hjalmar August
+ipni_standard_form: H.A.Möller
+ipni_dates: 1866-1941
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.4
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-07-16 11:09:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33355621) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0550
+tl2_volume: vol1
+tl2_page_printed: 457
+tl2_surname: Carleton
+tl2_forenames: Mark Alfred
+tl2_name_abbrev: Carleton
+tl2_dates: 1866-1925
+tl2_page_id: 33120588
+author_lsid: 16898-1
+wikidata_id: Q6766446
+ipni_surname: Carleton
+ipni_forenames: Mark Alfred
+ipni_standard_form: Carleton
+ipni_dates: 1866-1925
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

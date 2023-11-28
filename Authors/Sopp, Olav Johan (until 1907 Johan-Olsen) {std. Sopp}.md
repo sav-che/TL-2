@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0743
+tl2_volume: vol5
+tl2_page_printed: 748
+tl2_surname: Sopp
+tl2_forenames: Olav Johan (until 1907 Johan-Olsen)
+tl2_name_abbrev: Sopp
+tl2_dates: 1860-1931
+tl2_page_id: 33333887
+author_lsid: 9899-1
+wikidata_id: Q3294542
+ipni_surname: Sopp
+ipni_forenames: Olav Johan
+ipni_standard_form: Sopp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33333887) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0404
+tl2_volume: vol3
+tl2_page_printed: 349
+tl2_surname: Massalongo
+tl2_forenames: Abramo Bartolommeo
+tl2_name_abbrev: A. Massal.
+tl2_dates: 1824-1860
+tl2_page_id: 33355436
+author_lsid: 23008-1
+wikidata_id: Q4284176
+ipni_surname: Massalongo
+ipni_forenames: Abramo Bartolommeo
+ipni_standard_form: A.Massal.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Fossils
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

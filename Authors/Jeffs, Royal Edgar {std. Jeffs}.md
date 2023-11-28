@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0483
+tl2_volume: vol2
+tl2_page_printed: 434
+tl2_surname: Jeffs
+tl2_forenames: Royal Edgar
+tl2_name_abbrev: Jeffs
+tl2_dates: 1879-1933
+tl2_page_id: 33068676
+author_lsid: 4458-1
+wikidata_id: Q21516978
+ipni_surname: Jeffs
+ipni_forenames: Royal Edgar
+ipni_standard_form: Jeffs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

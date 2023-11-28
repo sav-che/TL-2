@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0016
+tl2_volume: vol4
+tl2_page_printed: 9
+tl2_surname: Painter
+tl2_forenames: William Hunt
+tl2_name_abbrev: Painter
+tl2_dates: 1835-1910
+tl2_page_id: 33189506
+author_lsid: 7256-1
+wikidata_id: Q2073273
+ipni_surname: Painter
+ipni_forenames: William Hunt
+ipni_standard_form: Painter
+ipni_dates: 1835-1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

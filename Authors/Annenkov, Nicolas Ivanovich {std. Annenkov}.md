@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0077
+tl2_volume: vol1
+tl2_page_printed: 53
+tl2_surname: Annenkov
+tl2_forenames: Nicolas Ivanovich
+tl2_name_abbrev: Annenkov
+tl2_dates: 1819-1889
+tl2_page_id: 33120184
+author_lsid: 228-1
+wikidata_id: Q21505271
+ipni_surname: Annenkov
+ipni_forenames: Nicolas Ivanovich
+ipni_standard_form: Annenkov
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

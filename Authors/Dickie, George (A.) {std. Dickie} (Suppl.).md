@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0301
+tl2_volume: suppl5
+tl2_page_printed: 285
+tl2_surname: Dickie
+tl2_forenames: George [A.]
+tl2_name_abbrev: Dickie
+tl2_dates: 1812-1882
+tl2_page_id: 33259331
+author_lsid: 18018-1
+wikidata_id: Q13108100
+ipni_surname: Dickie
+ipni_forenames: George
+ipni_standard_form: Dickie
+ipni_dates: 1812-1882
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33259331) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

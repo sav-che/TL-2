@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0060
+tl2_volume: vol3
+tl2_page_printed: 115
+tl2_surname: Liou
+tl2_forenames: Tchen-ngo
+tl2_name_abbrev: Liou
+tl2_dates: fl. 1930
+tl2_page_id: 33355202
+author_lsid: 5643-1
+wikidata_id: Q10897570
+ipni_surname: Liou
+ipni_forenames: Tchen Ngo
+ipni_standard_form: Liou
+ipni_dates: 1898-1975
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- China
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33355202) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

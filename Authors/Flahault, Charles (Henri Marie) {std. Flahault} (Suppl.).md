@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl7_0164
+tl2_volume: suppl7
+tl2_page_printed: 240
+tl2_surname: Flahault
+tl2_forenames: Charles [Henri Marie]
+tl2_name_abbrev: Flahault
+tl2_dates: 1852-1935
+tl2_page_id: 33259744
+author_lsid: 2769-1
+wikidata_id: Q1064374
+ipni_surname: Flahault
+ipni_forenames: Charles Henri Marie
+ipni_standard_form: Flahault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259744) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

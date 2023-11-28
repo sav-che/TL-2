@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0192
+tl2_volume: vol5
+tl2_page_printed: 190
+tl2_surname: Schlayer
+tl2_forenames: Philipp
+tl2_name_abbrev: Schlayer
+tl2_dates: fl. 1837
+tl2_page_id: 33333329
+author_lsid: 9113-1
+wikidata_id: Q36655514
+ipni_surname: Schlayer
+ipni_forenames: Philipp
+ipni_standard_form: Schlayer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0215
+tl2_volume: suppl8
+tl2_page_printed: 286
+tl2_surname: Gombault
+tl2_forenames: René
+tl2_name_abbrev: Gombault
+tl2_dates: 1871-1971
+tl2_page_id: 33258764
+author_lsid: 3248-1
+wikidata_id: Q6105714
+ipni_surname: Gombault
+ipni_forenames: René
+ipni_standard_form: Gomb.
+ipni_dates: 1871-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

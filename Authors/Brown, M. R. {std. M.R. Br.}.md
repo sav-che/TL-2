@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0123
+tl2_volume: suppl3
+tl2_page_printed: 136
+tl2_surname: Brown
+tl2_forenames: M. R.
+tl2_name_abbrev: M.R. Br.
+tl2_dates: fl. 1937
+tl2_page_id: 33266443
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

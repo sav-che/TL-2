@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0420
+tl2_volume: vol4
+tl2_page_printed: 346
+tl2_surname: Porter
+tl2_forenames: Lilian E. (née Baker)
+tl2_name_abbrev: L. Porter
+tl2_dates: 1885-1973
+tl2_page_id: 33189817
+author_lsid: 12745-1
+wikidata_id: Q21523128
+ipni_surname: Porter
+ipni_forenames: Lilian E.
+ipni_standard_form: L.Porter
+ipni_dates: 1885-1973
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0659
+tl2_volume: vol5
+tl2_page_printed: 658
+tl2_surname: Smiley
+tl2_forenames: Frank Jason
+tl2_name_abbrev: Smiley
+tl2_dates: 1880-?
+tl2_page_id: 33333797
+author_lsid: 9762-1
+wikidata_id: Q21341021
+ipni_surname: Smiley
+ipni_forenames: Frank Jason
+ipni_standard_form: Smiley
+ipni_dates: 1880-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

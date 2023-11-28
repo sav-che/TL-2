@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0624
+tl2_volume: vol3
+tl2_page_printed: 541
+tl2_surname: Mohl
+tl2_forenames: Hugo von
+tl2_name_abbrev: Mohl
+tl2_dates: 1805-1872
+tl2_page_id: 33355628
+author_lsid: 23524-1
+wikidata_id: Q61635
+ipni_surname: Mohl
+ipni_forenames: Hugo von
+ipni_standard_form: Mohl
+ipni_dates: 1805-1872
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33355628) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

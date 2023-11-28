@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0678
+tl2_volume: vol1
+tl2_page_printed: 544
+tl2_surname: Cooper
+tl2_forenames: Daniel
+tl2_name_abbrev: Cooper
+tl2_dates: 1817?-1842
+tl2_page_id: 33120675
+author_lsid: 1787-1
+wikidata_id: Q18534138
+ipni_surname: Cooper
+ipni_forenames: Daniel
+ipni_standard_form: Cooper
+ipni_dates: 1817?-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

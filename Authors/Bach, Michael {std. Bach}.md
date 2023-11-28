@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0119
+tl2_volume: vol1
+tl2_page_printed: 85
+tl2_surname: Bach
+tl2_forenames: Michael
+tl2_name_abbrev: Bach
+tl2_dates: 1808-1878
+tl2_page_id: 33120216
+author_lsid: 362-1
+wikidata_id: Q6828338
+ipni_surname: Bach
+ipni_forenames: Michael
+ipni_standard_form: Bach
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33120216) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

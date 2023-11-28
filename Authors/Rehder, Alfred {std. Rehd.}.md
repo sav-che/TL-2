@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0666
+tl2_volume: vol4
+tl2_page_printed: 650
+tl2_surname: Rehder
+tl2_forenames: Alfred
+tl2_name_abbrev: Rehd.
+tl2_dates: 1863-1949
+tl2_page_id: 33190121
+author_lsid: 8242-1
+wikidata_id: Q68949
+ipni_surname: Rehder
+ipni_forenames: Alfred
+ipni_standard_form: Rehder
+ipni_dates: 1863-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

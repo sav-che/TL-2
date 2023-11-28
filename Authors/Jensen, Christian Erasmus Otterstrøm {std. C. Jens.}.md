@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0493
+tl2_volume: vol2
+tl2_page_printed: 439
+tl2_surname: Jensen
+tl2_forenames: Christian Erasmus Otterstrøm
+tl2_name_abbrev: C. Jens.
+tl2_dates: 1859-1941
+tl2_page_id: 33068681
+author_lsid: 20963-1
+wikidata_id: Q5109555
+ipni_surname: Jensen
+ipni_forenames: Christian Erasmus Otterstrøm (Otterström)
+ipni_standard_form: C.E.O.Jensen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33068681) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

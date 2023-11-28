@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol4_0947
+tl2_volume: vol4
+tl2_page_printed: 915
+tl2_surname: Rot von Schreckenstein
+tl2_forenames: Friedrich, Freiherr
+tl2_name_abbrev: Rot von Schr.
+tl2_dates: 1753-1808
+tl2_page_id: 33190386
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

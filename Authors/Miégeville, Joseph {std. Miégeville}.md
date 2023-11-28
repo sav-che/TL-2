@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0559
+tl2_volume: vol3
+tl2_page_printed: 470
+tl2_surname: Miégeville
+tl2_forenames: Joseph
+tl2_name_abbrev: Miégeville
+tl2_dates: 1819-1901
+tl2_page_id: 33355557
+author_lsid: 6450-1
+wikidata_id: Q4292867
+ipni_surname: Miégeville
+ipni_forenames: Joseph
+ipni_standard_form: Miégev.
+ipni_dates: 1819-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

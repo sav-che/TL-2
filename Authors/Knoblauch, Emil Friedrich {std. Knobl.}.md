@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0702
+tl2_volume: vol2
+tl2_page_printed: 579
+tl2_surname: Knoblauch
+tl2_forenames: Emil Friedrich
+tl2_name_abbrev: Knobl.
+tl2_dates: 1864-1936
+tl2_page_id: 33068821
+author_lsid: 4875-1
+wikidata_id: Q2883249
+ipni_surname: Knoblauch
+ipni_forenames: Emil Friedrich
+ipni_standard_form: Knobl.
+ipni_dates: 1864-1936
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

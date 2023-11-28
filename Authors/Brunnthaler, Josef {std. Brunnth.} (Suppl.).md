@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0160
+tl2_volume: suppl3
+tl2_page_printed: 164
+tl2_surname: Brunnthaler
+tl2_forenames: Josef
+tl2_name_abbrev: Brunnth.
+tl2_dates: 1871-1914
+tl2_page_id: 33266471
+author_lsid: 1231-1
+wikidata_id: Q6279727
+ipni_surname: Brunnthaler
+ipni_forenames: Josef
+ipni_standard_form: Brunnth.
+ipni_dates: 1871-1914
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33266471) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

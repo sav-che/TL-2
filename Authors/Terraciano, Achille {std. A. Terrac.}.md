@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0263
+tl2_volume: vol6
+tl2_page_printed: 223
+tl2_surname: Terraciano
+tl2_forenames: Achille
+tl2_name_abbrev: A. Terrac.
+tl2_dates: 1862-1917
+tl2_page_id: 33212265
+author_lsid: 10526-1
+wikidata_id: Q5656588
+ipni_surname: Terracciano
+ipni_forenames: Achille
+ipni_standard_form: A.Terracc.
+ipni_dates: 1861-1917
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-01-03 02:24:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

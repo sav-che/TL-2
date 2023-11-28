@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0157
+tl2_volume: vol2
+tl2_page_printed: 140
+tl2_surname: Heinricher
+tl2_forenames: Emil Johann Lambert
+tl2_name_abbrev: Heinr.
+tl2_dates: 1856-1934
+tl2_page_id: 33068382
+author_lsid: 3796-1
+wikidata_id: Q86112
+ipni_surname: Heinricher
+ipni_forenames: Emil Johann Lambert
+ipni_standard_form: Heinr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

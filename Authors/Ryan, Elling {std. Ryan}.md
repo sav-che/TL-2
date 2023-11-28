@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1047
+tl2_volume: vol4
+tl2_page_printed: 1013
+tl2_surname: Ryan
+tl2_forenames: Elling
+tl2_name_abbrev: Ryan
+tl2_dates: 1849-1905
+tl2_page_id: 33190484
+author_lsid: 8768-1
+wikidata_id: Q21607578
+ipni_surname: Ryan
+ipni_forenames: Elling
+ipni_standard_form: Ryan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

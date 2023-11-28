@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0154
+tl2_volume: suppl2
+tl2_page_printed: 134
+tl2_surname: Bescherelle
+tl2_forenames: Émil
+tl2_name_abbrev: Besch.
+tl2_dates: 1828-1903
+tl2_page_id: 33265331
+author_lsid: 16055-1
+wikidata_id: Q8078265
+ipni_surname: Bescherelle
+ipni_forenames: Émile
+ipni_standard_form: Besch.
+ipni_dates: 1828-1903
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33265331) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

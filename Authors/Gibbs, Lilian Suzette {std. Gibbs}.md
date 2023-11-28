@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_1184
+tl2_volume: vol1
+tl2_page_printed: 940
+tl2_surname: Gibbs
+tl2_forenames: Lilian Suzette
+tl2_name_abbrev: Gibbs
+tl2_dates: 1870-1925
+tl2_page_id: 33121071
+author_lsid: 3128-1
+wikidata_id: Q1153115
+ipni_surname: Gibbs
+ipni_forenames: Lilian Suzette
+ipni_standard_form: Gibbs
+ipni_dates: 1870-1925
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

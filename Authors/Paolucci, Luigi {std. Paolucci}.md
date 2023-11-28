@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0061
+tl2_volume: vol4
+tl2_page_printed: 51
+tl2_surname: Paolucci
+tl2_forenames: Luigi
+tl2_name_abbrev: Paolucci
+tl2_dates: 1849-1935
+tl2_page_id: 33189484
+author_lsid: 7318-1
+wikidata_id: Q3839973
+ipni_surname: Paolucci
+ipni_forenames: Luigi
+ipni_standard_form: Paolucci
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

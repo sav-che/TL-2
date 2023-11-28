@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0999
+tl2_volume: vol2
+tl2_page_printed: 844
+tl2_surname: Lenz
+tl2_forenames: Harald Othmar
+tl2_name_abbrev: Lenz
+tl2_dates: 1798-1870
+tl2_page_id: 33069086
+author_lsid: 22236-1
+wikidata_id: Q4258659
+ipni_surname: Lenz
+ipni_forenames: Harald(Harold) Othmar
+ipni_standard_form: Lenz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33069086) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

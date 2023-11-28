@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0065
+tl2_volume: vol2
+tl2_page_printed: 47
+tl2_surname: Hansen
+tl2_forenames: Lars
+tl2_name_abbrev: L. Hans.
+tl2_dates: 1788-1876
+tl2_page_id: 33068289
+author_lsid: 3632-1
+wikidata_id: Q21514642
+ipni_surname: Hansen
+ipni_forenames: Lars
+ipni_standard_form: Hansen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

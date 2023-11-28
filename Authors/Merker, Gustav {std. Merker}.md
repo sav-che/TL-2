@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0505
+tl2_volume: vol3
+tl2_page_printed: 424
+tl2_surname: Merker
+tl2_forenames: Gustav
+tl2_name_abbrev: Merker
+tl2_dates: 1874-x
+tl2_page_id: 33355511
+author_lsid: 6371-1
+wikidata_id: Q21520445
+ipni_surname: Merker
+ipni_forenames: Gustav
+ipni_standard_form: Merker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

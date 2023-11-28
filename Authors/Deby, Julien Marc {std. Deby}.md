@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0774
+tl2_volume: vol1
+tl2_page_printed: 607
+tl2_surname: Deby
+tl2_forenames: Julien Marc
+tl2_name_abbrev: Deby
+tl2_dates: 1826-1895
+tl2_page_id: 33120738
+author_lsid: 2062-1
+wikidata_id: Q21510108
+ipni_surname: Deby
+ipni_forenames: Julien Marc
+ipni_standard_form: Deby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Belgium
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl2_0284
+tl2_volume: suppl2
+tl2_page_printed: 226
+tl2_surname: Blume
+tl2_forenames: Carl [Karl] Ludwig
+tl2_name_abbrev: Blume
+tl2_dates: 1796-1862
+tl2_page_id: 33265423
+author_lsid: 16230-1
+wikidata_id: Q76816
+ipni_surname: Blume
+ipni_forenames: Carl(Karl) Ludwig von
+ipni_standard_form: Blume
+ipni_dates: 1796-1862
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33265423) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

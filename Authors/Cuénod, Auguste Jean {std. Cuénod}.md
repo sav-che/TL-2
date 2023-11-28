@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0410
+tl2_volume: suppl4
+tl2_page_printed: 491
+tl2_surname: Cuénod
+tl2_forenames: Auguste Jean
+tl2_name_abbrev: Cuénod
+tl2_dates: 1868-1954
+tl2_page_id: 33266168
+author_lsid: 20000035-2
+wikidata_id: Q2871138
+ipni_surname: Cuénod
+ipni_forenames: Auguste Jean
+ipni_standard_form: Cuénod
+ipni_dates: 1868-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.5.1
+ipni_record_created: 2003-12-22 09:30:12.0
+ipni_record_modified: 2004-03-31 04:18:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0669
+tl2_volume: vol4
+tl2_page_printed: 656
+tl2_surname: Rehsteiner
+tl2_forenames: Hugo
+tl2_name_abbrev: Rehsteiner
+tl2_dates: 1864-1947
+tl2_page_id: 33190127
+author_lsid: 8245-1
+wikidata_id: Q21607075
+ipni_surname: Rehsteiner
+ipni_forenames: Hugo
+ipni_standard_form: Rehst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33190127) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

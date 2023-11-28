@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0455
+tl2_volume: vol5
+tl2_page_printed: 481
+tl2_surname: Seemann
+tl2_forenames: Wilhelm Eduard Gottfried
+tl2_name_abbrev: W. Seem.
+tl2_dates: x-1868
+tl2_page_id: 33333620
+author_lsid: 9418-1
+wikidata_id: Q21608604
+ipni_surname: Seemann
+ipni_forenames: Wilhelm Eduard Gottfried
+ipni_standard_form: W.Seem.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0507
+tl2_volume: vol2
+tl2_page_printed: 448
+tl2_surname: Johnson
+tl2_forenames: Charles
+tl2_name_abbrev: C. Johns.
+tl2_dates: 1791-1880
+tl2_page_id: 33068690
+author_lsid: 4509-1
+wikidata_id: Q16866780
+ipni_surname: Johnson
+ipni_forenames: Charles
+ipni_standard_form: Johnson
+ipni_dates: 1791-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33068690) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

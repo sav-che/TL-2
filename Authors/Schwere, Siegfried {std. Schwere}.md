@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0419
+tl2_volume: vol5
+tl2_page_printed: 448
+tl2_surname: Schwere
+tl2_forenames: Siegfried
+tl2_name_abbrev: Schwere
+tl2_dates: fl. 1896
+tl2_page_id: 33333587
+author_lsid: 9373-1
+wikidata_id: Q21608549
+ipni_surname: Schwere
+ipni_forenames: Siegfried
+ipni_standard_form: Schwere
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0913
+tl2_volume: vol3
+tl2_page_printed: 765
+tl2_surname: Nonne
+tl2_forenames: Johann Philipp
+tl2_name_abbrev: Nonne
+tl2_dates: 1729-1772
+tl2_page_id: 33355852
+author_lsid: 7021-1
+wikidata_id: Q15821231
+ipni_surname: Nonne
+ipni_forenames: Johann Philipp
+ipni_standard_form: Nonne
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

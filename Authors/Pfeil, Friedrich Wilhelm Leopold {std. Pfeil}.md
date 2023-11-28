@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0257
+tl2_volume: vol4
+tl2_page_printed: 225
+tl2_surname: Pfeil
+tl2_forenames: Friedrich Wilhelm Leopold
+tl2_name_abbrev: Pfeil
+tl2_dates: 1783-1859
+tl2_page_id: 33189696
+author_lsid: 7622-1
+wikidata_id: Q96749
+ipni_surname: Pfeil
+ipni_forenames: Friedrich Wilhelm Leopold
+ipni_standard_form: Pfeil
+ipni_dates: 1783-1859
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33189696) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

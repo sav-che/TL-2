@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0346
+tl2_volume: suppl1
+tl2_page_printed: 310
+tl2_surname: Bancroft
+tl2_forenames: Helen [Nellie] Holme
+tl2_name_abbrev: H.H. Bancroft
+tl2_dates: 1887-?
+tl2_page_id: 33265037
+author_lsid: 13862-1
+wikidata_id: Q21505615
+ipni_surname: Bancroft
+ipni_forenames: Helen Holme
+ipni_standard_form: H.H.Bancr.
+ipni_dates: 1887-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

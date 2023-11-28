@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0133
+tl2_volume: vol2
+tl2_page_printed: 114
+tl2_surname: Hayward
+tl2_forenames: Ida Margaret
+tl2_name_abbrev: Hayw.
+tl2_dates: 1872-1949
+tl2_page_id: 33068356
+author_lsid: 3753-1
+wikidata_id: Q21515607
+ipni_surname: Hayward
+ipni_forenames: Ida Margaret
+ipni_standard_form: Hayw.
+ipni_dates: 1872-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

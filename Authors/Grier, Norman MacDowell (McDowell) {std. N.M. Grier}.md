@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0271
+tl2_volume: suppl8
+tl2_page_printed: 384
+tl2_surname: Grier
+tl2_forenames: Norman MacDowell [McDowell]
+tl2_name_abbrev: N.M. Grier
+tl2_dates: 1890-1951
+tl2_page_id: 33258862
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33258862) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

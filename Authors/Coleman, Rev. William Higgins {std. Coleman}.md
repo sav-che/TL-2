@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0655
+tl2_volume: vol1
+tl2_page_printed: 522
+tl2_surname: Coleman
+tl2_forenames: Rev. William Higgins
+tl2_name_abbrev: Coleman
+tl2_dates: 1816?-1863
+tl2_page_id: 33120653
+author_lsid: 1735-1
+wikidata_id: Q8012324
+ipni_surname: Coleman
+ipni_forenames: William Higgins
+ipni_standard_form: Coleman
+ipni_dates: ?1816-1863
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

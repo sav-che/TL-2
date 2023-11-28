@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0438
+tl2_volume: suppl4
+tl2_page_printed: 519
+tl2_surname: Curtiss
+tl2_forenames: Allen Hiram
+tl2_name_abbrev: Curtiss
+tl2_dates: 1845-1907
+tl2_page_id: 33266196
+author_lsid: 17599-1
+wikidata_id: Q16031427
+ipni_surname: Curtiss
+ipni_forenames: Allen Hiram
+ipni_standard_form: Curtiss
+ipni_dates: 1845-1907
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-07-20 19:54:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33266196) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

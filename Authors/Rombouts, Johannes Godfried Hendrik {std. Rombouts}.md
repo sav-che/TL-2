@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0894
+tl2_volume: vol4
+tl2_page_printed: 875
+tl2_surname: Rombouts
+tl2_forenames: Johannes Godfried Hendrik
+tl2_name_abbrev: Rombouts
+tl2_dates: x-1889
+tl2_page_id: 33190346
+author_lsid: 8565-1
+wikidata_id: Q21607370
+ipni_surname: Rombouts
+ipni_forenames: Johannes Gottfried Hendrik
+ipni_standard_form: Rombouts
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0163
+tl2_volume: vol5
+tl2_page_printed: 158
+tl2_surname: Schildknecht
+tl2_forenames: J.
+tl2_name_abbrev: Schildknecht
+tl2_dates: fl. 1863
+tl2_page_id: 33333297
+author_lsid: 35154-1
+wikidata_id: Q36598717
+ipni_surname: Schildknecht
+ipni_forenames: J.
+ipni_standard_form: Schildkn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0074
+tl2_volume: vol6
+tl2_page_printed: 56
+tl2_surname: Studer-Steinhäuslin
+tl2_forenames: Bernhard
+tl2_name_abbrev: Studer
+tl2_dates: 1847-1910
+tl2_page_id: 33212060
+author_lsid: 27301-1
+wikidata_id: Q21609973
+ipni_surname: Studer-Steinhäuslin
+ipni_forenames: Bernhard
+ipni_standard_form: Stud.-Steinh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33212060) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

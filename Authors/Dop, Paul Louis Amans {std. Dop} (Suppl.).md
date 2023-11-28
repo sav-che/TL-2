@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0050
+tl2_volume: suppl6
+tl2_page_printed: 54
+tl2_surname: Dop
+tl2_forenames: Paul Louis Amans
+tl2_name_abbrev: Dop
+tl2_dates: 1876-1954
+tl2_page_id: 33260042
+author_lsid: 2279-1
+wikidata_id: Q6067226
+ipni_surname: Dop
+ipni_forenames: Paul Louis Amans
+ipni_standard_form: Dop
+ipni_dates: 1876-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

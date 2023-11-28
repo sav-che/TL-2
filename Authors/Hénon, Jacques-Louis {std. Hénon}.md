@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0183
+tl2_volume: vol2
+tl2_page_printed: 159
+tl2_surname: Hénon
+tl2_forenames: Jacques-Louis
+tl2_name_abbrev: Hénon
+tl2_dates: 1802-1872
+tl2_page_id: 33068401
+author_lsid: 3843-1
+wikidata_id: Q3157992
+ipni_surname: Hénon
+ipni_forenames: Jacques Louis
+ipni_standard_form: Hénon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

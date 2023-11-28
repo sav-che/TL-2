@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0066
+tl2_volume: vol2
+tl2_page_printed: 48
+tl2_surname: Hansgirg
+tl2_forenames: Anton (Antonin)
+tl2_name_abbrev: Hansg.
+tl2_dates: 1854-1917
+tl2_page_id: 33068290
+author_lsid: 3635-1
+wikidata_id: Q21514658
+ipni_surname: Hansgirg
+ipni_forenames: Anton(Antonin)
+ipni_standard_form: Hansg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33068290) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

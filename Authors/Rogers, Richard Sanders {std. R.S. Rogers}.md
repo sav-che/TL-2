@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0870
+tl2_volume: vol4
+tl2_page_printed: 859
+tl2_surname: Rogers
+tl2_forenames: Richard Sanders
+tl2_name_abbrev: R.S. Rogers
+tl2_dates: 1862-1942
+tl2_page_id: 33190330
+author_lsid: 8527-1
+wikidata_id: Q3281627
+ipni_surname: Rogers
+ipni_forenames: Richard Sanders
+ipni_standard_form: R.S.Rogers
+ipni_dates: 1861-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- New Zealand
+- Papua New Guinea
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

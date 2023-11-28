@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0071
+tl2_volume: suppl2
+tl2_page_printed: 69
+tl2_surname: Benedict
+tl2_forenames: Ralph Curtis
+tl2_name_abbrev: Benedict
+tl2_dates: 1883-1965
+tl2_page_id: 33265266
+author_lsid: 648-1
+wikidata_id: Q6098735
+ipni_surname: Benedict
+ipni_forenames: Ralph Curtiss
+ipni_standard_form: Benedict
+ipni_dates: 1883-1965
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265266) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

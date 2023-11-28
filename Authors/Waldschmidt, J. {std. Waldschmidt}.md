@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0038
+tl2_volume: vol7
+tl2_page_printed: 30
+tl2_surname: Waldschmidt
+tl2_forenames: J.
+tl2_name_abbrev: Waldschmidt
+tl2_dates: fl. 1865
+tl2_page_id: 33066370
+author_lsid: 11332-1
+wikidata_id: Q36601456
+ipni_surname: Waldschmidt
+ipni_forenames: J.
+ipni_standard_form: Waldschm.
+ipni_dates: fl. 1865
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

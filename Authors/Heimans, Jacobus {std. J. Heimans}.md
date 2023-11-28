@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0152
+tl2_volume: vol2
+tl2_page_printed: 138
+tl2_surname: Heimans
+tl2_forenames: Jacobus
+tl2_name_abbrev: J. Heimans
+tl2_dates: 1889-1978
+tl2_page_id: 33068380
+author_lsid: 3788-1
+wikidata_id: Q2287453
+ipni_surname: Heimans
+ipni_forenames: Jacobus
+ipni_standard_form: J.Heimans
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

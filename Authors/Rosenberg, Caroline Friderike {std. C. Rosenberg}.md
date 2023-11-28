@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0915
+tl2_volume: vol4
+tl2_page_printed: 889
+tl2_surname: Rosenberg
+tl2_forenames: Caroline Friderike
+tl2_name_abbrev: C. Rosenberg
+tl2_dates: 1810-1902
+tl2_page_id: 33190360
+author_lsid: 8592-1
+wikidata_id: Q21607416
+ipni_surname: Rosenberg
+ipni_forenames: Caroline Friderike
+ipni_standard_form: C.Rosenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

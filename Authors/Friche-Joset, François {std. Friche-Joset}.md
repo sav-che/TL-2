@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1099
+tl2_volume: vol1
+tl2_page_printed: 878
+tl2_surname: Friche-Joset
+tl2_forenames: François
+tl2_name_abbrev: Friche-Joset
+tl2_dates: 1799-1856(?)
+tl2_page_id: 33121009
+author_lsid: 2905-1
+wikidata_id: Q21513531
+ipni_surname: Friche-Joset
+ipni_forenames: François
+ipni_standard_form: Friche-Joset
+ipni_dates: 1799-1856?
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

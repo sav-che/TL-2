@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0864
+tl2_volume: vol3
+tl2_page_printed: 738
+tl2_surname: Newman
+tl2_forenames: Francis William
+tl2_name_abbrev: F. Newm.
+tl2_dates: c. 1796-1859
+tl2_page_id: 33355825
+author_lsid: 6951-1
+wikidata_id: Q21522113
+ipni_surname: Newman
+ipni_forenames: Francis William
+ipni_standard_form: F.Newman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0171
+tl2_volume: suppl8
+tl2_page_printed: 217
+tl2_surname: Gilkinet
+tl2_forenames: [Charles] Alfred
+tl2_name_abbrev: Gilkinet
+tl2_dates: 1845-1926
+tl2_page_id: 33258695
+author_lsid: 35054-1
+wikidata_id: Q47117861
+ipni_surname: Gilkinet
+ipni_forenames: A.
+ipni_standard_form: Gilkinet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33258695) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

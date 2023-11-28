@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0018
+tl2_volume: vol5
+tl2_page_printed: 19
+tl2_surname: Sampaio
+tl2_forenames: Gonçalo António da Silva Ferreira
+tl2_name_abbrev: Samp.
+tl2_dates: 1865-1937
+tl2_page_id: 33333164
+author_lsid: 8866-1
+wikidata_id: Q459037
+ipni_surname: Sampaio
+ipni_forenames: Gonçalo António da Silva Ferreira
+ipni_standard_form: Samp.
+ipni_dates: 1865-1937
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33333164) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

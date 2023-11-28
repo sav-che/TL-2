@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0491
+tl2_volume: vol6
+tl2_page_printed: 486
+tl2_surname: Triana
+tl2_forenames: José [Jéronimo]
+tl2_name_abbrev: Triana
+tl2_dates: 1834-1890
+tl2_page_id: 33212528
+author_lsid: 10818-1
+wikidata_id: Q2495258
+ipni_surname: Triana
+ipni_forenames: José Jéronimo
+ipni_standard_form: Triana
+ipni_dates: 1834-1890
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Colombia
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33212528) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

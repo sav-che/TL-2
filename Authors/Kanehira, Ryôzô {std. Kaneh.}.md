@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0580
+tl2_volume: vol2
+tl2_page_printed: 493
+tl2_surname: Kanehira
+tl2_forenames: Ryôzô
+tl2_name_abbrev: Kaneh.
+tl2_dates: 1882-1948
+tl2_page_id: 33068735
+author_lsid: 4633-1
+wikidata_id: Q5935389
+ipni_surname: Kanehira
+ipni_forenames: Ryôzô
+ipni_standard_form: Kaneh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- Japan
+- Peru
+- Papua New Guinea
+- Philippines
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

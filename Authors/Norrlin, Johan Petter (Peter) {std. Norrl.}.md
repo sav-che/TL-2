@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0923
+tl2_volume: vol3
+tl2_page_printed: 773
+tl2_surname: Norrlin
+tl2_forenames: Johan Petter [Peter]
+tl2_name_abbrev: Norrl.
+tl2_dates: 1842-1917
+tl2_page_id: 33355860
+author_lsid: 24161-1
+wikidata_id: Q3180443
+ipni_surname: Norrlin
+ipni_forenames: Johan Petter(Peter)
+ipni_standard_form: Norrl.
+ipni_dates: 1842-1917
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

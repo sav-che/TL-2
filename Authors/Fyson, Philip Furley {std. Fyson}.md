@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0065
+tl2_volume: suppl8
+tl2_page_printed: 84
+tl2_surname: Fyson
+tl2_forenames: Philip Furley
+tl2_name_abbrev: Fyson
+tl2_dates: 1877-1947
+tl2_page_id: 33258562
+author_lsid: 2967-1
+wikidata_id: Q7183579
+ipni_surname: Fyson
+ipni_forenames: Philip Furley
+ipni_standard_form: Fyson
+ipni_dates: 1877-1948
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33258562) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

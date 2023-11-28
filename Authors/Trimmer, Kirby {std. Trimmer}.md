@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0495
+tl2_volume: vol6
+tl2_page_printed: 492
+tl2_surname: Trimmer
+tl2_forenames: Kirby
+tl2_name_abbrev: Trimmer
+tl2_dates: 1804-1887
+tl2_page_id: 33212534
+author_lsid: 10824-1
+wikidata_id: Q21610957
+ipni_surname: Trimmer
+ipni_forenames: Kirby
+ipni_standard_form: Trimmer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

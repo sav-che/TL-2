@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0323
+tl2_volume: suppl8
+tl2_page_printed: 444
+tl2_surname: Gugelberg von Moos
+tl2_forenames: Maria [Marie] (Barbara Flandrina)
+tl2_name_abbrev: Gugelb.
+tl2_dates: 1836-1918
+tl2_page_id: 33258922
+author_lsid: 35389-1
+wikidata_id: Q16059509
+ipni_surname: Gugelberg von Moos
+ipni_forenames: Maria Barbara Flandrina von
+ipni_standard_form: Gugelb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

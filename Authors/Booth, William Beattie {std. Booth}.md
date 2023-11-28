@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0360
+tl2_volume: vol1
+tl2_page_printed: 277
+tl2_surname: Booth
+tl2_forenames: William Beattie
+tl2_name_abbrev: Booth
+tl2_dates: c. 1804-1874
+tl2_page_id: 33120408
+author_lsid: 970-1
+wikidata_id: Q6167569
+ipni_surname: Booth
+ipni_forenames: William Beattie
+ipni_standard_form: Booth
+ipni_dates: c.1804-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

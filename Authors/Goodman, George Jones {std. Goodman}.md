@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0227
+tl2_volume: suppl8
+tl2_page_printed: 305
+tl2_surname: Goodman
+tl2_forenames: George Jones
+tl2_name_abbrev: Goodman
+tl2_dates: 1904-1999
+tl2_page_id: 33258783
+author_lsid: 3270-1
+wikidata_id: Q21390111
+ipni_surname: Goodman
+ipni_forenames: George Jones
+ipni_standard_form: Goodman
+ipni_dates: 1904-1999
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33258783) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

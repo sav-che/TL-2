@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1015
+tl2_volume: vol2
+tl2_page_printed: 854
+tl2_surname: Lester-Garland
+tl2_forenames: Lester Vallis (né Lester)
+tl2_name_abbrev: Lest.-Garl.
+tl2_dates: 1860-1944
+tl2_page_id: 33069096
+author_lsid: 5511-1
+wikidata_id: Q9021895
+ipni_surname: Lester-Garland
+ipni_forenames: Lester Vallis
+ipni_standard_form: Lest.-Garl.
+ipni_dates: 1860-1944
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

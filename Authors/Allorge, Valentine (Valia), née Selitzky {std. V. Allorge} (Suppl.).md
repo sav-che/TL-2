@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0103
+tl2_volume: suppl1
+tl2_page_printed: 80
+tl2_surname: Allorge
+tl2_forenames: Valentine [Valia], née Selitzky
+tl2_name_abbrev: V. Allorge
+tl2_dates: 1888-1977
+tl2_page_id: 33264807
+author_lsid: 12324-1
+wikidata_id: Q10388891
+ipni_surname: Allorge
+ipni_forenames: Valia (Valentine) Selitsky
+ipni_standard_form: V.Allorge
+ipni_dates: 1888-1977
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33264807) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

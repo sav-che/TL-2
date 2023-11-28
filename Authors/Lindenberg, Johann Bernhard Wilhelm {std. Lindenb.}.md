@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0040
+tl2_volume: vol3
+tl2_page_printed: 46
+tl2_surname: Lindenberg
+tl2_forenames: Johann Bernhard Wilhelm
+tl2_name_abbrev: Lindenb.
+tl2_dates: 1781-1851
+tl2_page_id: 33355095
+author_lsid: 22374-1
+wikidata_id: Q96169
+ipni_surname: Lindenberg
+ipni_forenames: Johann Bernhard Wilhelm
+ipni_standard_form: Lindenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

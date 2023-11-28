@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0086
+tl2_volume: suppl3
+tl2_page_printed: 79
+tl2_surname: Briquet
+tl2_forenames: John Isaac
+tl2_name_abbrev: Briq.
+tl2_dates: 1870-1931
+tl2_page_id: 33266386
+author_lsid: 1152-1
+wikidata_id: Q746034
+ipni_surname: Briquet
+ipni_forenames: John Isaac
+ipni_standard_form: Briq.
+ipni_dates: 1870-1931
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33266386) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0226
+tl2_volume: vol1
+tl2_page_printed: 170
+tl2_surname: Bellynck
+tl2_forenames: August Alexis Adolphe Alexandre
+tl2_name_abbrev: Bellynck
+tl2_dates: 1814-1877
+tl2_page_id: 33120301
+author_lsid: 639-1
+wikidata_id: Q2871059
+ipni_surname: Bellynck
+ipni_forenames: Auguste Alexis Adolphe Alexandre
+ipni_standard_form: Bellynck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+- Cryptogamic
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33120301) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

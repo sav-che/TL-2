@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0886
+tl2_volume: vol1
+tl2_page_printed: 695
+tl2_surname: Dujardin
+tl2_forenames: Félix
+tl2_name_abbrev: Dujard.
+tl2_dates: 1801-1860
+tl2_page_id: 33120826
+author_lsid: 2363-1
+wikidata_id: Q1355541
+ipni_surname: Dujardin
+ipni_forenames: Félix
+ipni_standard_form: Dujard.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

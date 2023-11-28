@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0963
+tl2_volume: vol3
+tl2_page_printed: 813
+tl2_surname: Ogata
+tl2_forenames: Masasuke
+tl2_name_abbrev: Ogata
+tl2_dates: 1883-1944
+tl2_page_id: 33355900
+author_lsid: 7098-1
+wikidata_id: Q6005292
+ipni_surname: Ogata
+ipni_forenames: Masasuke
+ipni_standard_form: Ogata
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+- Indonesia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0381
+tl2_volume: vol2
+tl2_page_printed: 358
+tl2_surname: Hügel
+tl2_forenames: Karl Alexander Anselm, Freiherr von
+tl2_name_abbrev: Hügel
+tl2_dates: 1794/1796-1870
+tl2_page_id: 33068600
+author_lsid: 12565-1
+wikidata_id: Q526673
+ipni_surname: Hügel
+ipni_forenames: Carl(Karl) Alexander Anselm von
+ipni_standard_form: Hügel
+ipni_dates: 1794-1870
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33068600) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

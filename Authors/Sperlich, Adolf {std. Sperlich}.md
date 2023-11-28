@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0784
+tl2_volume: vol5
+tl2_page_printed: 787
+tl2_surname: Sperlich
+tl2_forenames: Adolf
+tl2_name_abbrev: Sperlich
+tl2_dates: 1879-1963
+tl2_page_id: 33333926
+author_lsid: 9962-1
+wikidata_id: Q21609281
+ipni_surname: Sperlich
+ipni_forenames: Adolf
+ipni_standard_form: Sperlich
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

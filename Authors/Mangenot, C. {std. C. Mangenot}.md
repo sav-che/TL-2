@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0302
+tl2_volume: vol3
+tl2_page_printed: 275
+tl2_surname: Mangenot
+tl2_forenames: C.
+tl2_name_abbrev: C. Mangenot
+tl2_dates: fl. 1883
+tl2_page_id: 33355362
+author_lsid: 6062-1
+wikidata_id: Q36527123
+ipni_surname: Mangenot
+ipni_forenames: C.
+ipni_standard_form: C.Mangenot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

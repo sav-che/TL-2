@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0194
+tl2_volume: vol5
+tl2_page_printed: 204
+tl2_surname: Schlechtendal
+tl2_forenames: Diederich Friedrich Carl von
+tl2_name_abbrev: D.F.C. Schlechtend.
+tl2_dates: 1767-1842
+tl2_page_id: 33333343
+author_lsid: 9115-1
+wikidata_id: Q21608034
+ipni_surname: Schlechtendal
+ipni_forenames: Diederich Friedrich Karl(Carl) von
+ipni_standard_form: D.F.K.Schltdl.
+ipni_dates: 1767-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-06-10 09:01:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

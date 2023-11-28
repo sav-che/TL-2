@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1088
+tl2_volume: vol4
+tl2_page_printed: 1078
+tl2_surname: Saint-Simon
+tl2_forenames: Maximilien Henri, Marquis de
+tl2_name_abbrev: Saint-Simon
+tl2_dates: 1720-1799
+tl2_page_id: 33190549
+author_lsid: 8834-1
+wikidata_id: Q1914199
+ipni_surname: Saint-Simon
+ipni_forenames: Maximilien Henri de
+ipni_standard_form: St.-Simon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

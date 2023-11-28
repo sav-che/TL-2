@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0888
+tl2_volume: vol2
+tl2_page_printed: 752
+tl2_surname: Langsdorff
+tl2_forenames: Georg Heinrich, Baron von
+tl2_name_abbrev: Langsd.
+tl2_dates: 1774-1852
+tl2_page_id: 33068994
+author_lsid: 5271-1
+wikidata_id: Q62656
+ipni_surname: Langsdorff
+ipni_forenames: Georg Heinrich von
+ipni_standard_form: Langsd.
+ipni_dates: 1774-1852
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33068994) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

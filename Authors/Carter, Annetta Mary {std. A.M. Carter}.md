@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0396
+tl2_volume: suppl3
+tl2_page_printed: 431
+tl2_surname: Carter
+tl2_forenames: Annetta Mary
+tl2_name_abbrev: A.M. Carter
+tl2_dates: 1907-1991
+tl2_page_id: 33266738
+author_lsid: 1427-1
+wikidata_id: Q21507043
+ipni_surname: Carter
+ipni_forenames: Annetta Mary
+ipni_standard_form: A.M.Carter
+ipni_dates: 1907-1991
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33266738) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0126
+tl2_volume: vol2
+tl2_page_printed: 107
+tl2_surname: Hay
+tl2_forenames: William Delisle
+tl2_name_abbrev: W. Hay
+tl2_dates: fl. 1887
+tl2_page_id: 33068349
+author_lsid: 3741-1
+wikidata_id: Q33671477
+ipni_surname: Hay
+ipni_forenames: William Delisle
+ipni_standard_form: W.D.Hay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33068349) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

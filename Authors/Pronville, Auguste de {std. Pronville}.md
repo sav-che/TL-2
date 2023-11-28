@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0502
+tl2_volume: vol4
+tl2_page_printed: 418
+tl2_surname: Pronville
+tl2_forenames: Auguste de
+tl2_name_abbrev: Pronville
+tl2_dates: fl. 1818
+tl2_page_id: 33189889
+author_lsid: 7992-1
+wikidata_id: Q36508460
+ipni_surname: Pronville
+ipni_forenames: Auguste de
+ipni_standard_form: Pronville
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

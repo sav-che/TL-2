@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0500
+tl2_volume: vol6
+tl2_page_printed: 497
+tl2_surname: Tristan
+tl2_forenames: Jules Marie Claude, Comte de
+tl2_name_abbrev: Tristan
+tl2_dates: 1776-1861
+tl2_page_id: 33212539
+author_lsid: 10831-1
+wikidata_id: Q21610962
+ipni_surname: Tristan
+ipni_forenames: Jules Marie Claude de
+ipni_standard_form: Tristan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

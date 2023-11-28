@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0508
+tl2_volume: vol1
+tl2_page_printed: 418
+tl2_surname: Burret
+tl2_forenames: Karl Ewald Maximilian
+tl2_name_abbrev: Burret
+tl2_dates: 1883-1964
+tl2_page_id: 33120549
+author_lsid: 12369-1
+wikidata_id: Q78365
+ipni_surname: Burret
+ipni_forenames: Karl Ewald Maximilian
+ipni_standard_form: Burret
+ipni_dates: 1883-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-03-15 07:20:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33120549) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

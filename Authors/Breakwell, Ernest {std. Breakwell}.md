@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0048
+tl2_volume: suppl3
+tl2_page_printed: 44
+tl2_surname: Breakwell
+tl2_forenames: Ernest
+tl2_name_abbrev: Breakwell
+tl2_dates: 1884-?
+tl2_page_id: 33266351
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33266351) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0560
+tl2_volume: vol6
+tl2_page_printed: 556
+tl2_surname: Tutin
+tl2_forenames: Thomas Gaskell
+tl2_name_abbrev: Tutin
+tl2_dates: 1908-x
+tl2_page_id: 33212598
+author_lsid: 10931-1
+wikidata_id: Q543782
+ipni_surname: Tutin
+ipni_forenames: Thomas Gaskell
+ipni_standard_form: Tutin
+ipni_dates: 1908-1987
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33212598) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

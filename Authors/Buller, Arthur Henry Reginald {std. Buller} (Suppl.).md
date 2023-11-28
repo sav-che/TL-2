@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0220
+tl2_volume: suppl3
+tl2_page_printed: 217
+tl2_surname: Buller
+tl2_forenames: Arthur Henry Reginald
+tl2_name_abbrev: Buller
+tl2_dates: 1874-1944
+tl2_page_id: 33266524
+author_lsid: 1280-1
+wikidata_id: Q4799048
+ipni_surname: Buller
+ipni_forenames: Arthur Henry Reginald
+ipni_standard_form: Buller
+ipni_dates: 1879-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Canada
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

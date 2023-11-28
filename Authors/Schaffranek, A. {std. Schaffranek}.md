@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0121
+tl2_volume: vol5
+tl2_page_printed: 114
+tl2_surname: Schaffranek
+tl2_forenames: A.
+tl2_name_abbrev: Schaffranek
+tl2_dates: fl. 1883-1894
+tl2_page_id: 33333253
+author_lsid: 9011-1
+wikidata_id: Q36510066
+ipni_surname: Schaffranek
+ipni_forenames: A.
+ipni_standard_form: Schaffr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

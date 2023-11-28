@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0105
+tl2_volume: vol7
+tl2_page_printed: 106
+tl2_surname: Watson
+tl2_forenames: William (of Kew)
+tl2_name_abbrev: Wm. Wats. (Kew)
+tl2_dates: 1858-1925
+tl2_page_id: 33066446
+author_lsid: 11439-1
+wikidata_id: Q6167759
+ipni_surname: Watson
+ipni_forenames: William
+ipni_standard_form: W.Watson
+ipni_dates: 1858-1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33066446) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

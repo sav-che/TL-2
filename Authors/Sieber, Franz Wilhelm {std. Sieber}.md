@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0571
+tl2_volume: vol5
+tl2_page_printed: 582
+tl2_surname: Sieber
+tl2_forenames: Franz Wilhelm
+tl2_name_abbrev: Sieber
+tl2_dates: 1789-1844
+tl2_page_id: 33333721
+author_lsid: 9612-1
+wikidata_id: Q78907
+ipni_surname: Sieber
+ipni_forenames: Franz(e) Wilhelm
+ipni_standard_form: Sieber
+ipni_dates: 1789-1844
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33333721) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

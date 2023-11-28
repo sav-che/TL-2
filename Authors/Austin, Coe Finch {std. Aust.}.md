@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0113
+tl2_volume: vol1
+tl2_page_printed: 81
+tl2_surname: Austin
+tl2_forenames: Coe Finch
+tl2_name_abbrev: Aust.
+tl2_dates: 1831-1880
+tl2_page_id: 33120212
+author_lsid: 338-1
+wikidata_id: Q5140488
+ipni_surname: Austin
+ipni_forenames: Coe Finch
+ipni_standard_form: Austin
+ipni_dates: 1831-1880
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-02-17 14:14:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

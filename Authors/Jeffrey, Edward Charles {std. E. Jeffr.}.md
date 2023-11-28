@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0481
+tl2_volume: vol2
+tl2_page_printed: 433
+tl2_surname: Jeffrey
+tl2_forenames: Edward Charles
+tl2_name_abbrev: E. Jeffr.
+tl2_dates: 1866-1952
+tl2_page_id: 33068675
+author_lsid: 4455-1
+wikidata_id: Q5321777
+ipni_surname: Jeffrey
+ipni_forenames: Edward Charles
+ipni_standard_form: E.Jeffrey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0079
+tl2_volume: vol7
+tl2_page_printed: 70
+tl2_surname: Warder
+tl2_forenames: John Aston
+tl2_name_abbrev: Warder
+tl2_dates: 1812-1883
+tl2_page_id: 33066410
+author_lsid: 11408-1
+wikidata_id: Q6219657
+ipni_surname: Warder
+ipni_forenames: John Aston
+ipni_standard_form: Warder
+ipni_dates: 1812-1883
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

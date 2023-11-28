@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0069
+tl2_volume: vol6
+tl2_page_printed: 53
+tl2_surname: Strong
+tl2_forenames: Asa B.
+tl2_name_abbrev: A. Strong
+tl2_dates: fl. 1850
+tl2_page_id: 33212057
+author_lsid: 10232-1
+wikidata_id: Q36511637
+ipni_surname: Strong
+ipni_forenames: Asa B.
+ipni_standard_form: Strong
+ipni_dates: fl. 1850
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

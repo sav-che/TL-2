@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0278
+tl2_volume: vol6
+tl2_page_printed: 236
+tl2_surname: Thedenius
+tl2_forenames: Knut Fredrik
+tl2_name_abbrev: Thed.
+tl2_dates: 1814-1894
+tl2_page_id: 33212278
+author_lsid: 27645-1
+wikidata_id: Q4453715
+ipni_surname: Thedenius
+ipni_forenames: Knut Fredrik
+ipni_standard_form: Thed.
+ipni_dates: 1814-1894
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

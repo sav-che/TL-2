@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0268
+tl2_volume: suppl6
+tl2_page_printed: 250
+tl2_surname: Echeandía
+tl2_forenames: Pedro Gregorio
+tl2_name_abbrev: Echeandía
+tl2_dates: 1749-1817
+tl2_page_id: 33260238
+author_lsid: 20016086-1
+wikidata_id: Q6069008
+ipni_surname: Echeandía
+ipni_forenames: Pedro Gregorio
+ipni_standard_form: Echeandía
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

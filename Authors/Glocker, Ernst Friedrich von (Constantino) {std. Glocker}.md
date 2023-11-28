@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1203
+tl2_volume: vol1
+tl2_page_printed: 953
+tl2_surname: Glocker
+tl2_forenames: Ernst Friedrich von (Constantino)
+tl2_name_abbrev: Glocker
+tl2_dates: 1793-1858
+tl2_page_id: 33121084
+author_lsid: 3196-1
+wikidata_id: Q74474
+ipni_surname: Glocker
+ipni_forenames: Ernst Friedrich (`Constantino') von
+ipni_standard_form: Glocker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

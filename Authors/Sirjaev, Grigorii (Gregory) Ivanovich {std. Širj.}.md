@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0624
+tl2_volume: vol5
+tl2_page_printed: 620
+tl2_surname: Sirjaev
+tl2_forenames: Grigorii (Gregory) Ivanovich
+tl2_name_abbrev: Širj.
+tl2_dates: 1882-1954
+tl2_page_id: 33333759
+author_lsid: 9702-1
+wikidata_id: Q4524504
+ipni_surname: Širjaev
+ipni_forenames: Grigorij(Gregory) Ivanović
+ipni_standard_form: Širj.
+ipni_dates: 1882-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33333759) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

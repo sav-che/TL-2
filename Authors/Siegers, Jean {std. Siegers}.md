@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0576
+tl2_volume: vol5
+tl2_page_printed: 592
+tl2_surname: Siegers
+tl2_forenames: Jean
+tl2_name_abbrev: Siegers
+tl2_dates: 1842-post 1904
+tl2_page_id: 33333731
+author_lsid: 9618-1
+wikidata_id: Q21608859
+ipni_surname: Siegers
+ipni_forenames: Jean
+ipni_standard_form: Siegers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

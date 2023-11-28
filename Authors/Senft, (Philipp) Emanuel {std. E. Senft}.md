@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0495
+tl2_volume: vol5
+tl2_page_printed: 507
+tl2_surname: Senft
+tl2_forenames: [Philipp] Emanuel
+tl2_name_abbrev: E. Senft
+tl2_dates: 1870-1922
+tl2_page_id: 33333646
+author_lsid: 9481-1
+wikidata_id: Q1334765
+ipni_surname: Senft
+ipni_forenames: (Philip) Emanuel
+ipni_standard_form: E.Senft
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

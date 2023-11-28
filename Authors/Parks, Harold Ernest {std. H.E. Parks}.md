@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0081
+tl2_volume: vol4
+tl2_page_printed: 65
+tl2_surname: Parks
+tl2_forenames: Harold Ernest
+tl2_name_abbrev: H.E. Parks
+tl2_dates: 1880-1967
+tl2_page_id: 33189536
+author_lsid: 24561-1
+wikidata_id: Q21522646
+ipni_surname: Parks
+ipni_forenames: Harold Ernest
+ipni_standard_form: Parks
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33189536) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

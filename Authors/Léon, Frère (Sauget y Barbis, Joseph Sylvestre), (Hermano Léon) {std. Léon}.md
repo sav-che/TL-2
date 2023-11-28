@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_1000
+tl2_volume: vol2
+tl2_page_printed: 845
+tl2_surname: Léon
+tl2_forenames: Frère [Sauget y Barbis, Joseph Sylvestre], [Hermano Léon]
+tl2_name_abbrev: Léon
+tl2_dates: 1871-1955
+tl2_page_id: 33069087
+author_lsid: 14965-1
+wikidata_id: Q928574
+ipni_surname: León
+ipni_forenames: Hermano
+ipni_standard_form: León
+ipni_dates: 1871-1955
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-03-20 09:56:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

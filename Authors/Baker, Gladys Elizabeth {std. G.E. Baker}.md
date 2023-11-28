@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0319
+tl2_volume: suppl1
+tl2_page_printed: 277
+tl2_surname: Baker
+tl2_forenames: Gladys Elizabeth
+tl2_name_abbrev: G.E. Baker
+tl2_dates: 1908-x
+tl2_page_id: 33265004
+author_lsid: 31218-1
+wikidata_id: Q16017686
+ipni_surname: Baker
+ipni_forenames: Gladys Elizabeth
+ipni_standard_form: G.E.Baker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

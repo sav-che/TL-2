@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0338
+tl2_volume: vol6
+tl2_page_printed: 286
+tl2_surname: Thomson
+tl2_forenames: Spencer
+tl2_name_abbrev: Sp. Thomson
+tl2_dates: c. 1817-1886
+tl2_page_id: 33212328
+author_lsid: 10620-1
+wikidata_id: Q21610684
+ipni_surname: Thomson
+ipni_forenames: Spencer
+ipni_standard_form: S.Thomson
+ipni_dates: c.1817-1886
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

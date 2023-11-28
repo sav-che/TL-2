@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0347
+tl2_volume: vol1
+tl2_page_printed: 269
+tl2_surname: Bonati
+tl2_forenames: Gustave Henri
+tl2_name_abbrev: Bonati
+tl2_dates: 1873-1927
+tl2_page_id: 33120400
+author_lsid: 945-1
+wikidata_id: Q3121211
+ipni_surname: Bonati
+ipni_forenames: Gustave Henri
+ipni_standard_form: Bonati
+ipni_dates: 1873-1927
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33120400) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

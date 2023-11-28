@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0496
+tl2_volume: vol4
+tl2_page_printed: 415
+tl2_surname: Procopianu-Procopovici
+tl2_forenames: Aurel
+tl2_name_abbrev: Procopianu
+tl2_dates: fl. 1890-1900
+tl2_page_id: 33189886
+author_lsid: 7981-1
+wikidata_id: Q21523284
+ipni_surname: Procopianu-Procopovici
+ipni_forenames: Aurel
+ipni_standard_form: Procop.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

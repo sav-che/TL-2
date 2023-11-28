@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0350
+tl2_volume: vol4
+tl2_page_printed: 294
+tl2_surname: Plenck
+tl2_forenames: Joseph Jacob von [Plenk]
+tl2_name_abbrev: Plenck
+tl2_dates: 1738-1807
+tl2_page_id: 33189765
+author_lsid: 7754-1
+wikidata_id: Q86133
+ipni_surname: Plenck
+ipni_forenames: Joseph Jacob von
+ipni_standard_form: Plenck
+ipni_dates: 1738-1807
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

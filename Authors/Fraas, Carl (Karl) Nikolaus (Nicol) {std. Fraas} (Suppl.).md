@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0238
+tl2_volume: suppl7
+tl2_page_printed: 366
+tl2_surname: Fraas
+tl2_forenames: Carl [Karl] Nikolaus [Nicol]
+tl2_name_abbrev: Fraas
+tl2_dates: 1810-1875
+tl2_page_id: 33259870
+author_lsid: 2864-1
+wikidata_id: Q72875
+ipni_surname: Fraas
+ipni_forenames: Carl Nicolaus
+ipni_standard_form: Fraas
+ipni_dates: 1810-1875
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Greece
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33259870) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

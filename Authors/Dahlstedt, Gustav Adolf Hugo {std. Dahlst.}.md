@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0737
+tl2_volume: vol1
+tl2_page_printed: 589
+tl2_surname: Dahlstedt
+tl2_forenames: Gustav Adolf Hugo
+tl2_name_abbrev: Dahlst.
+tl2_dates: 1856-1934
+tl2_page_id: 33120720
+author_lsid: 12493-1
+wikidata_id: Q1937128
+ipni_surname: Dahlstedt
+ipni_forenames: Gustav Adolf Hugo
+ipni_standard_form: Dahlst.
+ipni_dates: 1856-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

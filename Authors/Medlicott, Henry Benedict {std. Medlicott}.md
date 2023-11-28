@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0462
+tl2_volume: vol3
+tl2_page_printed: 397
+tl2_surname: Medlicott
+tl2_forenames: Henry Benedict
+tl2_name_abbrev: Medlicott
+tl2_dates: 1829-1905
+tl2_page_id: 33355484
+author_lsid: 6298-1
+wikidata_id: Q960625
+ipni_surname: Medlicott
+ipni_forenames: Henry Benedict
+ipni_standard_form: Medlicott
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

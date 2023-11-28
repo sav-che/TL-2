@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0055
+tl2_volume: suppl8
+tl2_page_printed: 75
+tl2_surname: Fujii
+tl2_forenames: Kenjiro
+tl2_name_abbrev: Fujii
+tl2_dates: 1866-1952
+tl2_page_id: 33258553
+author_lsid: 34911-1
+wikidata_id: Q36604341
+ipni_surname: Fujii
+ipni_forenames: K.
+ipni_standard_form: Fujii
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

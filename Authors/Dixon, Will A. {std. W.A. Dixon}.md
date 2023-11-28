@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0362
+tl2_volume: suppl5
+tl2_page_printed: 375
+tl2_surname: Dixon
+tl2_forenames: Will A.
+tl2_name_abbrev: W.A. Dixon
+tl2_dates: fl. 1906-1918
+tl2_page_id: 33259421
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33259421) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

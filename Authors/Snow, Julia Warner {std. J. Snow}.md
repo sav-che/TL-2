@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0707
+tl2_volume: vol5
+tl2_page_printed: 712
+tl2_surname: Snow
+tl2_forenames: Julia Warner
+tl2_name_abbrev: J. Snow
+tl2_dates: 1863-1927
+tl2_page_id: 33333851
+author_lsid: 9842-1
+wikidata_id: Q21609154
+ipni_surname: Snow
+ipni_forenames: Julia Warner
+ipni_standard_form: J.Snow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

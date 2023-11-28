@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0544
+tl2_volume: vol6
+tl2_page_printed: 537
+tl2_surname: Turczaninow
+tl2_forenames: Nicolai Stepanowitsch [von]
+tl2_name_abbrev: Turcz.
+tl2_dates: 1796-1863
+tl2_page_id: 33212579
+author_lsid: 10909-1
+wikidata_id: Q2640364
+ipni_surname: Turczaninow
+ipni_forenames: Nicolai Stepanowitsch
+ipni_standard_form: Turcz.
+ipni_dates: 1796-1863
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-03-06 13:11:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl1_0171
+tl2_volume: suppl1
+tl2_page_printed: 134
+tl2_surname: Anzi
+tl2_forenames: Martino
+tl2_name_abbrev: Anzi
+tl2_dates: 1812-1883
+tl2_page_id: 33264861
+author_lsid: 241-1
+wikidata_id: Q3850235
+ipni_surname: Anzi
+ipni_forenames: Martino
+ipni_standard_form: Anzi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Cryptogamic
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33264861) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

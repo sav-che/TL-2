@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0033
+tl2_volume: suppl3
+tl2_page_printed: 22
+tl2_surname: Bras
+tl2_forenames: Antoine
+tl2_name_abbrev: A. Bras
+tl2_dates: 1803(1802?)-1883
+tl2_page_id: 33266329
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33266329) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

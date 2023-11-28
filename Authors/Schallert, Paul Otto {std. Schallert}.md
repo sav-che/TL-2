@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0124
+tl2_volume: vol5
+tl2_page_printed: 116
+tl2_surname: Schallert
+tl2_forenames: Paul Otto
+tl2_name_abbrev: Schallert
+tl2_dates: 1879-1970
+tl2_page_id: 33333255
+author_lsid: 9013-1
+wikidata_id: Q21607860
+ipni_surname: Schallert
+ipni_forenames: Paul Otto
+ipni_standard_form: Schallert
+ipni_dates: 1879-1970
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0439
+tl2_volume: suppl2
+tl2_page_printed: 387
+tl2_surname: Bouloumoy
+tl2_forenames: Louis
+tl2_name_abbrev: Boul.
+tl2_dates: x-1926
+tl2_page_id: 33265584
+author_lsid: 1026-1
+wikidata_id: Q21506363
+ipni_surname: Bouloumoy
+ipni_forenames: Louis
+ipni_standard_form: Boul.
+ipni_dates: -1926
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

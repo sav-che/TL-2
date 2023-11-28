@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0272
+tl2_volume: suppl2
+tl2_page_printed: 219
+tl2_surname: Blom
+tl2_forenames: Carl [Hilding]
+tl2_name_abbrev: C.H. Blom
+tl2_dates: 1885-1972
+tl2_page_id: 33265416
+author_lsid: 860-1
+wikidata_id: Q21506202
+ipni_surname: Blom
+ipni_forenames: Carl Hilding
+ipni_standard_form: C.H.Blom
+ipni_dates: 1888-1972
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265416) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

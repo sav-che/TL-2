@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0023
+tl2_volume: suppl3
+tl2_page_printed: 17
+tl2_surname: Brandt
+tl2_forenames: Robert Percy
+tl2_name_abbrev: R.P. Brandt
+tl2_dates: 1887-1966
+tl2_page_id: 33266324
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33266324) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

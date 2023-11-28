@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0623
+tl2_volume: vol3
+tl2_page_printed: 540
+tl2_surname: Moggridge
+tl2_forenames: John Traherne
+tl2_name_abbrev: Moggr.
+tl2_dates: 1842-1874
+tl2_page_id: 33355627
+author_lsid: 6557-1
+wikidata_id: Q5932997
+ipni_surname: Moggridge
+ipni_forenames: John Traherne
+ipni_standard_form: Moggr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33355627) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

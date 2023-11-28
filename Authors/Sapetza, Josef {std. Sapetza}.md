@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0044
+tl2_volume: vol5
+tl2_page_printed: 43
+tl2_surname: Sapetza
+tl2_forenames: Josef
+tl2_name_abbrev: Sapetza
+tl2_dates: 1829-1868
+tl2_page_id: 33333144
+author_lsid: 8909-1
+wikidata_id: Q21607728
+ipni_surname: Sapetza
+ipni_forenames: Josef
+ipni_standard_form: Sapetza
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

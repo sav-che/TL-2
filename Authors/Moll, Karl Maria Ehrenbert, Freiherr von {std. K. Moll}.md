@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0638
+tl2_volume: vol3
+tl2_page_printed: 554
+tl2_surname: Moll
+tl2_forenames: Karl Maria Ehrenbert, Freiherr von
+tl2_name_abbrev: K. Moll
+tl2_dates: 1760-1838
+tl2_page_id: 33355641
+author_lsid: 6580-1
+wikidata_id: Q913253
+ipni_surname: Moll
+ipni_forenames: Karl Maria Ehrenbert von
+ipni_standard_form: K.Moll
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0518
+tl2_volume: vol5
+tl2_page_printed: 539
+tl2_surname: Seurat
+tl2_forenames: Léon Gaston
+tl2_name_abbrev: Seurat
+tl2_dates: 1872-?
+tl2_page_id: 33333678
+author_lsid: 9519-1
+wikidata_id: Q16864242
+ipni_surname: Seurat
+ipni_forenames: Léon Gaston
+ipni_standard_form: Seurat
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.4.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0440
+tl2_volume: vol5
+tl2_page_printed: 464
+tl2_surname: Seaton
+tl2_forenames: Henry Eliason
+tl2_name_abbrev: Seat.
+tl2_dates: 1869-1893
+tl2_page_id: 33333603
+author_lsid: 9402-1
+wikidata_id: Q21340418
+ipni_surname: Seaton
+ipni_forenames: Henry Eliason
+ipni_standard_form: Seaton
+ipni_dates: 1869-1893
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

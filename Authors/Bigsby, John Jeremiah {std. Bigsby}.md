@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0281
+tl2_volume: vol1
+tl2_page_printed: 214
+tl2_surname: Bigsby
+tl2_forenames: John Jeremiah
+tl2_name_abbrev: Bigsby
+tl2_dates: 1792-1881
+tl2_page_id: 33120345
+author_lsid: 785-1
+wikidata_id: Q4086441
+ipni_surname: Bigsby
+ipni_forenames: John Jeremiah
+ipni_standard_form: Bigsby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33120345) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0900
+tl2_volume: vol4
+tl2_page_printed: 878
+tl2_surname: Rooke
+tl2_forenames: Hayman
+tl2_name_abbrev: Rooke
+tl2_dates: c. 1722-1806
+tl2_page_id: 33190349
+author_lsid: 8574-1
+wikidata_id: Q5686963
+ipni_surname: Rooke
+ipni_forenames: Hayman
+ipni_standard_form: Rooke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1078
+tl2_volume: vol4
+tl2_page_printed: 1061
+tl2_surname: Sainsbury
+tl2_forenames: George Osborne King
+tl2_name_abbrev: Sainsbury
+tl2_dates: 1880-1957
+tl2_page_id: 33190532
+author_lsid: 8820-1
+wikidata_id: Q21607618
+ipni_surname: Sainsbury
+ipni_forenames: George Osborne King
+ipni_standard_form: Sainsbury
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- New Zealand
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

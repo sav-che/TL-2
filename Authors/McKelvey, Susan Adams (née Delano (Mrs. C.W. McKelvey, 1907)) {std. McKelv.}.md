@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0241
+tl2_volume: vol3
+tl2_page_printed: 226
+tl2_surname: McKelvey
+tl2_forenames: Susan Adams (née Delano [Mrs. Charles Wylie 1907]
+tl2_name_abbrev: McKelv.
+tl2_dates: 1883-1964
+tl2_page_id: 33355313
+author_lsid: 12671-1
+wikidata_id: Q2368799
+ipni_surname: McKelvey
+ipni_forenames: Susan Adams
+ipni_standard_form: McKelvey
+ipni_dates: 1888-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33355313) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0005
+tl2_volume: vol4
+tl2_page_printed: 4
+tl2_surname: Packe
+tl2_forenames: Charles
+tl2_name_abbrev: Packe
+tl2_dates: 1826-1896
+tl2_page_id: 33189511
+author_lsid: 7235-1
+wikidata_id: Q2959947
+ipni_surname: Packe
+ipni_forenames: Charles
+ipni_standard_form: Packe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

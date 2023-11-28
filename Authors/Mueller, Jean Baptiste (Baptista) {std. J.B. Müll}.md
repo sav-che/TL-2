@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0742
+tl2_volume: vol3
+tl2_page_printed: 635
+tl2_surname: Mueller
+tl2_forenames: Jean Baptiste [Baptista]
+tl2_name_abbrev: J.B. Müll
+tl2_dates: 1806-1894
+tl2_page_id: 33355722
+author_lsid: 6736-1
+wikidata_id: Q56651425
+ipni_surname: Müller
+ipni_forenames: Jean Baptiste (Baptista)
+ipni_standard_form: J.B.Müll.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33355722) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

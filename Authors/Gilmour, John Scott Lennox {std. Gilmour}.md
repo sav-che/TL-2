@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0178
+tl2_volume: suppl8
+tl2_page_printed: 226
+tl2_surname: Gilmour
+tl2_forenames: John Scott Lennox
+tl2_name_abbrev: Gilmour
+tl2_dates: 1906-1986
+tl2_page_id: 33258704
+author_lsid: 3164-1
+wikidata_id: Q13408553
+ipni_surname: Gilmour
+ipni_forenames: John Scott Lennox
+ipni_standard_form: Gilmour
+ipni_dates: 1906-1986
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33258704) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

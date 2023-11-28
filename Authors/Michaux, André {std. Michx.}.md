@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol3_0546
+tl2_volume: vol3
+tl2_page_printed: 456
+tl2_surname: Michaux
+tl2_forenames: André
+tl2_name_abbrev: Michx.
+tl2_dates: 1746-1803
+tl2_page_id: 33355543
+author_lsid: 6431-1
+wikidata_id: Q521848
+ipni_surname: Michaux
+ipni_forenames: André
+ipni_standard_form: Michx.
+ipni_dates: 1746-1802
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Iran, Islamic Republic of
+- France
+- Canada
+- United States
+ipni_version: 1.3.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-12-05 15:51:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33355543) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

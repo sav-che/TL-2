@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0005
+tl2_volume: suppl3
+tl2_page_printed: 4
+tl2_surname: Braemer
+tl2_forenames: Louis
+tl2_name_abbrev: Braemer
+tl2_dates: 1858-1935
+tl2_page_id: 33266311
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33266311) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

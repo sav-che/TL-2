@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1060
+tl2_volume: vol4
+tl2_page_printed: 1044
+tl2_surname: Sachse
+tl2_forenames: Carl Traugott
+tl2_name_abbrev: Sachse
+tl2_dates: 1815-1863
+tl2_page_id: 33190515
+author_lsid: 8792-1
+wikidata_id: Q21607597
+ipni_surname: Sachse
+ipni_forenames: Carl Traugott
+ipni_standard_form: Sachse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

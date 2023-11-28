@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0629
+tl2_volume: vol6
+tl2_page_printed: 643
+tl2_surname: Valckenier Suringar
+tl2_forenames: Jan
+tl2_name_abbrev: Valck.-Suring.
+tl2_dates: 1864-1932
+tl2_page_id: 33212685
+author_lsid: 11028-1
+wikidata_id: Q5926028
+ipni_surname: Valckenier Suringar
+ipni_forenames: Jan
+ipni_standard_form: Valck.Sur.
+ipni_dates: 1864-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33212685) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

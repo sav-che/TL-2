@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0939
+tl2_volume: vol1
+tl2_page_printed: 740
+tl2_surname: Elenkin
+tl2_forenames: Aleksander Aleksandrovitch
+tl2_name_abbrev: Elenkin
+tl2_dates: 1873-1942
+tl2_page_id: 33120871
+author_lsid: 18437-1
+wikidata_id: Q660174
+ipni_surname: Elenkin
+ipni_forenames: Alexander (Aleksander) Alexandrovich
+ipni_standard_form: Elenkin
+ipni_dates: 1873-1942
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

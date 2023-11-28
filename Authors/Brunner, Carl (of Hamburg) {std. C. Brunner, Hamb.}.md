@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0159
+tl2_volume: suppl3
+tl2_page_printed: 164
+tl2_surname: Brunner
+tl2_forenames: Carl (of Hamburg)
+tl2_name_abbrev: C. Brunner, Hamb.
+tl2_dates: 1874-?
+tl2_page_id: 33266471
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33266471) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

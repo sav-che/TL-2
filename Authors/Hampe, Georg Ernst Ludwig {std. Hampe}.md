@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0049
+tl2_volume: vol2
+tl2_page_printed: 37
+tl2_surname: Hampe
+tl2_forenames: Georg Ernst Ludwig
+tl2_name_abbrev: Hampe
+tl2_dates: 1795-1880
+tl2_page_id: 33068279
+author_lsid: 3604-1
+wikidata_id: Q64025
+ipni_surname: Hampe
+ipni_forenames: Georg Ernst Ludwig
+ipni_standard_form: Hampe
+ipni_dates: 1795-1880
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

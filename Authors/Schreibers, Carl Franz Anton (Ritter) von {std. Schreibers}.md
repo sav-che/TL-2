@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0323
+tl2_volume: vol5
+tl2_page_printed: 332
+tl2_surname: Schreibers
+tl2_forenames: Carl Franz Anton [Ritter] von
+tl2_name_abbrev: Schreibers
+tl2_dates: 1775-1852
+tl2_page_id: 33333471
+author_lsid: 9262-1
+wikidata_id: Q79159
+ipni_surname: Schreibers
+ipni_forenames: Carl Franz Anton von
+ipni_standard_form: Schreibers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

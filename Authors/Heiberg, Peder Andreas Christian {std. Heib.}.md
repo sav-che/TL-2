@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0147
+tl2_volume: vol2
+tl2_page_printed: 136
+tl2_surname: Heiberg
+tl2_forenames: Peder Andreas Christian
+tl2_name_abbrev: Heib.
+tl2_dates: 1837-1875
+tl2_page_id: 33068378
+author_lsid: 3782-1
+wikidata_id: Q5797267
+ipni_surname: Heiberg
+ipni_forenames: Peder Andreas Christian
+ipni_standard_form: Heib.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

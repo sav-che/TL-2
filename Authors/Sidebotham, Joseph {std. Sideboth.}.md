@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0570
+tl2_volume: vol5
+tl2_page_printed: 581
+tl2_surname: Sidebotham
+tl2_forenames: Joseph
+tl2_name_abbrev: Sideboth.
+tl2_dates: 1822-1884
+tl2_page_id: 33333720
+author_lsid: 9610-1
+wikidata_id: Q21608854
+ipni_surname: Sidebotham
+ipni_forenames: Joseph
+ipni_standard_form: Sideboth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0034
+tl2_volume: vol5
+tl2_page_printed: 35
+tl2_surname: Sandu-Ville
+tl2_forenames: Costantin
+tl2_name_abbrev: Sandu
+tl2_dates: fl. 1929
+tl2_page_id: 33333136
+author_lsid: 26097-1
+wikidata_id: Q18549706
+ipni_surname: Sandu-Ville
+ipni_forenames: Costantin
+ipni_standard_form: Sandu
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

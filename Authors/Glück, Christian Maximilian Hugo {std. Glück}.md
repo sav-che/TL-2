@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1206
+tl2_volume: vol1
+tl2_page_printed: 954
+tl2_surname: Glück
+tl2_forenames: Christian Maximilian Hugo
+tl2_name_abbrev: Glück
+tl2_dates: 1868-1940
+tl2_page_id: 33121085
+author_lsid: 3201-1
+wikidata_id: Q6410749
+ipni_surname: Glück
+ipni_forenames: Christian Maximilian Hugo
+ipni_standard_form: Glück
+ipni_dates: 1868-1940
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

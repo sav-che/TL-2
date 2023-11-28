@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0051
+tl2_volume: vol3
+tl2_page_printed: 65
+tl2_surname: Linhart
+tl2_forenames: Gyögy (Georg)
+tl2_name_abbrev: Linh.
+tl2_dates: 1844-1925
+tl2_page_id: 33355152
+author_lsid: 22399-1
+wikidata_id: Q1130242
+ipni_surname: Linhart
+ipni_forenames: György(Georg,George)
+ipni_standard_form: Linh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

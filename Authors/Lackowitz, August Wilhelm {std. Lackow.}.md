@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0839
+tl2_volume: vol2
+tl2_page_printed: 716
+tl2_surname: Lackowitz
+tl2_forenames: August Wilhelm
+tl2_name_abbrev: Lackow.
+tl2_dates: 1836-1916
+tl2_page_id: 33068958
+author_lsid: 5187-1
+wikidata_id: Q21518274
+ipni_surname: Lackowitz
+ipni_forenames: August Wilhelm
+ipni_standard_form: Lackow.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33068958) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

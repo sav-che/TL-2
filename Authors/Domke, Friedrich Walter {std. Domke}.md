@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0040
+tl2_volume: suppl6
+tl2_page_printed: 46
+tl2_surname: Domke
+tl2_forenames: Friedrich Walter
+tl2_name_abbrev: Domke
+tl2_dates: 1899-1988
+tl2_page_id: 33260034
+author_lsid: 2265-1
+wikidata_id: Q5807969
+ipni_surname: Domke
+ipni_forenames: Friedrich Walter
+ipni_standard_form: Domke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33260034) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

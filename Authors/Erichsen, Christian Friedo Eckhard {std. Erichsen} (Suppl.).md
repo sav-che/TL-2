@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0400
+tl2_volume: suppl6
+tl2_page_printed: 386
+tl2_surname: Erichsen
+tl2_forenames: Christian Friedo Eckhard
+tl2_name_abbrev: Erichsen
+tl2_dates: 1867-1945
+tl2_page_id: 33260374
+author_lsid: 18530-1
+wikidata_id: Q16022968
+ipni_surname: Erichsen
+ipni_forenames: Christian Friedo Eckhard
+ipni_standard_form: Erichsen
+ipni_dates: 1867-1945
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33260374) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

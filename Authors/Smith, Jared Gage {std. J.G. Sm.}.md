@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0687
+tl2_volume: vol5
+tl2_page_printed: 691
+tl2_surname: Smith
+tl2_forenames: Jared Gage
+tl2_name_abbrev: J.G. Sm.
+tl2_dates: 1866-1925
+tl2_page_id: 33333830
+author_lsid: 9803-1
+wikidata_id: Q4424865
+ipni_surname: Smith
+ipni_forenames: Jared Gage
+ipni_standard_form: J.G.Sm.
+ipni_dates: 1866-1957
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-11-18 17:48:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33333830) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

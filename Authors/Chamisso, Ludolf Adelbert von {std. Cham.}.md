@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0592
+tl2_volume: vol1
+tl2_page_printed: 482
+tl2_surname: Chamisso
+tl2_forenames: Ludolf Adelbert von
+tl2_name_abbrev: Cham.
+tl2_dates: 1781-1838
+tl2_page_id: 33120613
+author_lsid: 1504-1
+wikidata_id: Q154782
+ipni_surname: Chamisso
+ipni_forenames: Ludolf Karl Adelbert von
+ipni_standard_form: Cham.
+ipni_dates: 1781-1838
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33120613) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0604
+tl2_volume: vol6
+tl2_page_printed: 604
+tl2_surname: Upham
+tl2_forenames: Warren
+tl2_name_abbrev: Upham
+tl2_dates: 1850-1934
+tl2_page_id: 33212646
+author_lsid: 10992-1
+wikidata_id: Q7970563
+ipni_surname: Upham
+ipni_forenames: Warren
+ipni_standard_form: Upham
+ipni_dates: 1850-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0030
+tl2_volume: suppl1
+tl2_page_printed: 18
+tl2_surname: Adamović
+tl2_forenames: Lujo
+tl2_name_abbrev: Adamovic
+tl2_dates: 1864-1935
+tl2_page_id: 33264757
+author_lsid: 61-1
+wikidata_id: Q726012
+ipni_surname: Adamović
+ipni_forenames: Lujo (Lulji) (Lucian)
+ipni_standard_form: Adamović
+ipni_dates: 1864-1935
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

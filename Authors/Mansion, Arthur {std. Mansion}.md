@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0316
+tl2_volume: vol3
+tl2_page_printed: 282
+tl2_surname: Mansion
+tl2_forenames: Arthur
+tl2_name_abbrev: Mansion
+tl2_dates: 1863-1905
+tl2_page_id: 33355369
+author_lsid: 22873-1
+wikidata_id: Q21519912
+ipni_surname: Mansion
+ipni_forenames: Arthur
+ipni_standard_form: Mans.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33355369) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

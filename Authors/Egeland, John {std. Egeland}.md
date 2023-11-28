@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0292
+tl2_volume: suppl6
+tl2_page_printed: 263
+tl2_surname: Egeland
+tl2_forenames: John
+tl2_name_abbrev: Egeland
+tl2_dates: 1871-1928
+tl2_page_id: 33260251
+author_lsid: 18387-1
+wikidata_id: Q21511487
+ipni_surname: Egeland
+ipni_forenames: John
+ipni_standard_form: Egeland
+ipni_dates: 1871-1928
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33260251) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0132
+tl2_volume: vol4
+tl2_page_printed: 126
+tl2_surname: Payne
+tl2_forenames: Frederick William
+tl2_name_abbrev: Payne
+tl2_dates: 1852-1927
+tl2_page_id: 33189597
+author_lsid: 7429-1
+wikidata_id: Q21522725
+ipni_surname: Payne
+ipni_forenames: Frederick William
+ipni_standard_form: Payne
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33189597) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

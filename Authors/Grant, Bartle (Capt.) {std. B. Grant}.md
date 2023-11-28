@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0247
+tl2_volume: suppl8
+tl2_page_printed: 331
+tl2_surname: Grant
+tl2_forenames: Bartle (Capt.)
+tl2_name_abbrev: B. Grant
+tl2_dates: 1856-1924
+tl2_page_id: 33258809
+author_lsid: 20011734-2
+wikidata_id: Q21390538
+ipni_surname: Grant
+ipni_forenames: Bartle
+ipni_standard_form: B.Grant
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- India
+- Burma
+ipni_version: 1.1.2.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

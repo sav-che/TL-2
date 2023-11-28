@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0864
+tl2_volume: vol2
+tl2_page_printed: 730
+tl2_surname: Lamarck
+tl2_forenames: Jean Baptiste Antoine Pierre Monnet de
+tl2_name_abbrev: Lam.
+tl2_dates: 1744-1829
+tl2_page_id: 33068972
+author_lsid: 5227-1
+wikidata_id: Q82122
+ipni_surname: Lamarck
+ipni_forenames: Jean-Baptiste Pierre Antoine de Monet de
+ipni_standard_form: Lam.
+ipni_dates: 1744-1829
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33068972) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

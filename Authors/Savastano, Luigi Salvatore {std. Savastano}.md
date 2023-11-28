@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0083
+tl2_volume: vol5
+tl2_page_printed: 82
+tl2_surname: Savastano
+tl2_forenames: Luigi Salvatore
+tl2_name_abbrev: Savastano
+tl2_dates: 1853-?
+tl2_page_id: 33333221
+author_lsid: 26182-1
+wikidata_id: Q21607787
+ipni_surname: Savastano
+ipni_forenames: Luigi Salvatore
+ipni_standard_form: Savast.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

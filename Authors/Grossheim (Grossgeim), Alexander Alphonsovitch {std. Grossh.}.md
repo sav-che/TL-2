@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl8_0299
+tl2_volume: suppl8
+tl2_page_printed: 413
+tl2_surname: Grossheim [Grossgeim]
+tl2_forenames: Alexander Alphonsovitch
+tl2_name_abbrev: Grossh.
+tl2_dates: 1888-1948
+tl2_page_id: 33258891
+author_lsid: 3417-1
+wikidata_id: Q2368398
+ipni_surname: Grossheim
+ipni_forenames: Alexander Alfonsovich
+ipni_standard_form: Grossh.
+ipni_dates: 1888-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Georgia
+- Ukraine
+- Azerbaijan
+- Russian Federation
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-10-25 09:15:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33258891) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

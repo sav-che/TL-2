@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0183
+tl2_volume: suppl3
+tl2_page_printed: 187
+tl2_surname: Buchanan
+tl2_forenames: Robert Earle
+tl2_name_abbrev: R.E. Buchanan
+tl2_dates: 1883-1973
+tl2_page_id: 33266494
+author_lsid: 16658-1
+wikidata_id: Q21387486
+ipni_surname: Buchanan
+ipni_forenames: Robert Earle
+ipni_standard_form: R.E.Buchanan
+ipni_dates: 1883-1973
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33266494) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

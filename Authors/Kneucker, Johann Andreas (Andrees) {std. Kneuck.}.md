@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0696
+tl2_volume: vol2
+tl2_page_printed: 575
+tl2_surname: Kneucker
+tl2_forenames: Johann Andreas (Andrees)
+tl2_name_abbrev: Kneuck.
+tl2_dates: 1862-1946
+tl2_page_id: 33068817
+author_lsid: 4868-1
+wikidata_id: Q6215583
+ipni_surname: Kneucker
+ipni_forenames: Johann Andreas(`Andrees')
+ipni_standard_form: Kneuck.
+ipni_dates: 1862-1946
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33068817) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0493
+tl2_volume: vol6
+tl2_page_printed: 489
+tl2_surname: Trimen
+tl2_forenames: Henry
+tl2_name_abbrev: Trimen
+tl2_dates: 1843-1896
+tl2_page_id: 33212531
+author_lsid: 10822-1
+wikidata_id: Q2462643
+ipni_surname: Trimen
+ipni_forenames: Henry
+ipni_standard_form: Trimen
+ipni_dates: 1843-1896
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sri Lanka
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

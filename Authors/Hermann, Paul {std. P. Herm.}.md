@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0204
+tl2_volume: vol2
+tl2_page_printed: 171
+tl2_surname: Hermann
+tl2_forenames: Paul
+tl2_name_abbrev: P. Herm.
+tl2_dates: 1646-1695
+tl2_page_id: 33068413
+author_lsid: 3877-1
+wikidata_id: Q66569
+ipni_surname: Hermann
+ipni_forenames: Paul
+ipni_standard_form: Herm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- Netherlands
+- Sri Lanka
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

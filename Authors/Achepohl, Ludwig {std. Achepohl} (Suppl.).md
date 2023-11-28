@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0022
+tl2_volume: suppl1
+tl2_page_printed: 16
+tl2_surname: Achepohl
+tl2_forenames: Ludwig
+tl2_name_abbrev: Achepohl
+tl2_dates: x-1902
+tl2_page_id: 33264759
+author_lsid: 51-1
+wikidata_id: Q10320446
+ipni_surname: Achepohl
+ipni_forenames: Ludwig
+ipni_standard_form: Achepohl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

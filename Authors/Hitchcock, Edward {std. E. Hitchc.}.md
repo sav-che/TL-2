@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0262
+tl2_volume: vol2
+tl2_page_printed: 217
+tl2_surname: Hitchcock
+tl2_forenames: Edward
+tl2_name_abbrev: E. Hitchc.
+tl2_dates: 1793-1864
+tl2_page_id: 33068459
+author_lsid: 3973-1
+wikidata_id: Q322185
+ipni_surname: Hitchcock
+ipni_forenames: Edward
+ipni_standard_form: E.Hitchc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

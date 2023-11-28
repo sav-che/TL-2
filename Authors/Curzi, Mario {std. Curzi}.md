@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0439
+tl2_volume: suppl4
+tl2_page_printed: 520
+tl2_surname: Curzi
+tl2_forenames: Mario
+tl2_name_abbrev: Curzi
+tl2_dates: 1898-1944
+tl2_page_id: 33266197
+author_lsid: 17600-1
+wikidata_id: Q21392352
+ipni_surname: Curzi
+ipni_forenames: Mario
+ipni_standard_form: Curzi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33266197) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

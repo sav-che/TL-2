@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0788
+tl2_volume: vol2
+tl2_page_printed: 669
+tl2_surname: Krebs
+tl2_forenames: (Georg) Ludwig Englehard
+tl2_name_abbrev: L. Krebs
+tl2_dates: 1792-1844
+tl2_page_id: 33068911
+author_lsid: 5053-1
+wikidata_id: Q5982493
+ipni_surname: Krebs
+ipni_forenames: (Georg) Ludwig Engelhard
+ipni_standard_form: Krebs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

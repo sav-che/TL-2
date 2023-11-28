@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0722
+tl2_volume: vol4
+tl2_page_printed: 742
+tl2_surname: Reuss
+tl2_forenames: Leopold
+tl2_name_abbrev: L. Reuss
+tl2_dates: fl. 1831
+tl2_page_id: 33190213
+author_lsid: 8312-1
+wikidata_id: Q47125128
+ipni_surname: Reuss
+ipni_forenames: Leopold
+ipni_standard_form: L.Reuss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

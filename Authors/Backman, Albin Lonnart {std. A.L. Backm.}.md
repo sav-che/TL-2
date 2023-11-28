@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0286
+tl2_volume: suppl1
+tl2_page_printed: 242
+tl2_surname: Backman
+tl2_forenames: Albin Lonnart
+tl2_name_abbrev: A.L. Backm.
+tl2_dates: 1880-?
+tl2_page_id: 33264969
+author_lsid: 32324-1
+wikidata_id: Q11850619
+ipni_surname: Backman
+ipni_forenames: Albin Lennart
+ipni_standard_form: Backman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33264969) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

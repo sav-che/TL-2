@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0102
+tl2_volume: suppl2
+tl2_page_printed: 90
+tl2_surname: Berger
+tl2_forenames: Louis Guillaume den
+tl2_name_abbrev: L.G. den Berger
+tl2_dates: 1881-1945
+tl2_page_id: 33265287
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33265287) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

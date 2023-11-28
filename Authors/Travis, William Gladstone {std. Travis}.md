@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0474
+tl2_volume: vol6
+tl2_page_printed: 454
+tl2_surname: Travis
+tl2_forenames: William Gladstone
+tl2_name_abbrev: Travis
+tl2_dates: 1877-1958
+tl2_page_id: 33212496
+author_lsid: 27892-1
+wikidata_id: Q21388474
+ipni_surname: Travis
+ipni_forenames: William Gladstone
+ipni_standard_form: Travis
+ipni_dates: 1877-1958
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33212496) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

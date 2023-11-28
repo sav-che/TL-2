@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0031
+tl2_volume: suppl4
+tl2_page_printed: 46
+tl2_surname: Chamberlain
+tl2_forenames: Edward Blanchard
+tl2_name_abbrev: E.B. Chamb.
+tl2_dates: 1878-1925
+tl2_page_id: 33265723
+author_lsid: 17055-1
+wikidata_id: Q21508156
+ipni_surname: Chamberlain
+ipni_forenames: Edward Blanchard
+ipni_standard_form: E.B.Chamb.
+ipni_dates: 1878-1925
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33265723) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

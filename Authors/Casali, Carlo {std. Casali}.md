@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0404
+tl2_volume: suppl3
+tl2_page_printed: 443
+tl2_surname: Casali
+tl2_forenames: Carlo
+tl2_name_abbrev: Casali
+tl2_dates: 1865-?
+tl2_page_id: 33266750
+author_lsid: 20002736-1
+wikidata_id: Q47115160
+ipni_surname: Casali
+ipni_forenames: Carlo
+ipni_standard_form: Casali
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33266750) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

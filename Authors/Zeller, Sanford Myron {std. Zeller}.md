@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0476
+tl2_volume: vol7
+tl2_page_printed: 526
+tl2_surname: Zeller
+tl2_forenames: Sanford Myron
+tl2_name_abbrev: Zeller
+tl2_dates: 1884-1948
+tl2_page_id: 33066866
+author_lsid: 29103-1
+wikidata_id: Q4190510
+ipni_surname: Zeller
+ipni_forenames: Sanford Myron
+ipni_standard_form: Zeller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

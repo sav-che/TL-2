@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0586
+tl2_volume: vol3
+tl2_page_printed: 505
+tl2_surname: Milne-Redhead
+tl2_forenames: Edgar Wolston Bertram Handsley
+tl2_name_abbrev: Milne-Redh.
+tl2_dates: 1906-x
+tl2_page_id: 33355592
+author_lsid: 6495-1
+wikidata_id: Q5817751
+ipni_surname: Milne-Redhead
+ipni_forenames: Edgar Wolston Bertram Handsley
+ipni_standard_form: Milne-Redh.
+ipni_dates: 1906-1996
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

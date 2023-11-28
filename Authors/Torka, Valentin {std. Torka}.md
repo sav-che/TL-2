@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0430
+tl2_volume: vol6
+tl2_page_printed: 396
+tl2_surname: Torka
+tl2_forenames: Valentin
+tl2_name_abbrev: Torka
+tl2_dates: 1867-1952
+tl2_page_id: 33212438
+author_lsid: 10745-1
+wikidata_id: Q21610877
+ipni_surname: Torka
+ipni_forenames: Valentin
+ipni_standard_form: Torka
+ipni_dates: 1867-1952
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33212438) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

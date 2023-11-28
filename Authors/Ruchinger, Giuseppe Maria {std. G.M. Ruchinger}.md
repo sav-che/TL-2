@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0995
+tl2_volume: vol4
+tl2_page_printed: 967
+tl2_surname: Ruchinger
+tl2_forenames: Giuseppe Maria
+tl2_name_abbrev: G.M. Ruchinger
+tl2_dates: 1809-1879
+tl2_page_id: 33190438
+author_lsid: 8701-1
+wikidata_id: Q21607512
+ipni_surname: Ruchinger
+ipni_forenames: Giuseppe Maria
+ipni_standard_form: G.M.Ruch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

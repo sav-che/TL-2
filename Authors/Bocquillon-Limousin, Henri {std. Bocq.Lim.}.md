@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0317
+tl2_volume: vol1
+tl2_page_printed: 245
+tl2_surname: Bocquillon-Limousin
+tl2_forenames: Henri
+tl2_name_abbrev: Bocq.-Lim.
+tl2_dates: fl. 1891-1914
+tl2_page_id: 33120376
+author_lsid: 887-1
+wikidata_id: Q36571011
+ipni_surname: Bocquillon-Limousin
+ipni_forenames: Henri
+ipni_standard_form: Bocq.-Lim.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33120376) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

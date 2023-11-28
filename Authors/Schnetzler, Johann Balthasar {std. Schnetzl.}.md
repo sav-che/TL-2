@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0272
+tl2_volume: vol5
+tl2_page_printed: 278
+tl2_surname: Schnetzler
+tl2_forenames: Johann Balthasar
+tl2_name_abbrev: Schnetzl.
+tl2_dates: 1823-1896
+tl2_page_id: 33333417
+author_lsid: 9203-1
+wikidata_id: Q15428420
+ipni_surname: Schnetzler
+ipni_forenames: Johann Balthasar
+ipni_standard_form: Schnetzl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

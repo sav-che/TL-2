@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0933
+tl2_volume: vol4
+tl2_page_printed: 903
+tl2_surname: Rosshirt
+tl2_forenames: Karl
+tl2_name_abbrev: Rosshirt
+tl2_dates: fl. 1888
+tl2_page_id: 33190374
+author_lsid: 8618-1
+wikidata_id: Q47125366
+ipni_surname: Rosshirt
+ipni_forenames: Karl
+ipni_standard_form: Rosshirt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

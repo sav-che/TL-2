@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0786
+tl2_volume: vol5
+tl2_page_printed: 788
+tl2_surname: Speschnew
+tl2_forenames: Nicolai Nicolaievich von
+tl2_name_abbrev: Speschnew
+tl2_dates: 1844-1907
+tl2_page_id: 33333927
+author_lsid: 9964-1
+wikidata_id: Q18808407
+ipni_surname: Speschnew
+ipni_forenames: Nicolai Nicolaievich von
+ipni_standard_form: Speschnew
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

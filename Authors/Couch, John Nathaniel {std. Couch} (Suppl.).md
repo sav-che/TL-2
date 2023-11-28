@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0329
+tl2_volume: suppl4
+tl2_page_printed: 410
+tl2_surname: Couch
+tl2_forenames: John Nathaniel
+tl2_name_abbrev: Couch
+tl2_dates: 1896-1986
+tl2_page_id: 33266087
+author_lsid: 17466-1
+wikidata_id: Q3182159
+ipni_surname: Couch
+ipni_forenames: John Nathaniel
+ipni_standard_form: Couch
+ipni_dates: 1896-1986
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33266087) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

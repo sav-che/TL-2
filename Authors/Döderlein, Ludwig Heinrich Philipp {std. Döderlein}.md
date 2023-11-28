@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0017
+tl2_volume: suppl6
+tl2_page_printed: 20
+tl2_surname: Döderlein
+tl2_forenames: Ludwig Heinrich Philipp
+tl2_name_abbrev: Döderlein
+tl2_dates: 1855-1936
+tl2_page_id: 33260008
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33260008) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

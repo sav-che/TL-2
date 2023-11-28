@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0275
+tl2_volume: vol3
+tl2_page_printed: 256
+tl2_surname: Maille
+tl2_forenames: Alphonse
+tl2_name_abbrev: Maille
+tl2_dates: 1813-1865
+tl2_page_id: 33355343
+author_lsid: 5994-1
+wikidata_id: Q16065894
+ipni_surname: Maille
+ipni_forenames: Alphonse
+ipni_standard_form: Maille
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

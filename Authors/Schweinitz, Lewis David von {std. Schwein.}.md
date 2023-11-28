@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0415
+tl2_volume: vol5
+tl2_page_printed: 437
+tl2_surname: Schweinitz
+tl2_forenames: Lewis David von
+tl2_name_abbrev: Schwein.
+tl2_dates: 1780-1835
+tl2_page_id: 33333576
+author_lsid: 9368-1
+wikidata_id: Q1822110
+ipni_surname: Schweinitz
+ipni_forenames: Lewis(Ludwig) David von
+ipni_standard_form: Schwein.
+ipni_dates: 1780-1834
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-02-15 00:41:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33333576) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

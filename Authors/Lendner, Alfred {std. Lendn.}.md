@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0996
+tl2_volume: vol2
+tl2_page_printed: 843
+tl2_surname: Lendner
+tl2_forenames: Alfred
+tl2_name_abbrev: Lendn.
+tl2_dates: 1873-1948
+tl2_page_id: 33069085
+author_lsid: 22232-1
+wikidata_id: Q21518642
+ipni_surname: Lendner
+ipni_forenames: Alfred
+ipni_standard_form: Lendn.
+ipni_dates: 1873-1948
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

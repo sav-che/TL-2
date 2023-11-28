@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0398
+tl2_volume: vol7
+tl2_page_printed: 444
+tl2_surname: Woods
+tl2_forenames: Albert Fred
+tl2_name_abbrev: A.F. Woods
+tl2_dates: 1866-1948
+tl2_page_id: 33066784
+author_lsid: 11855-1
+wikidata_id: Q21612978
+ipni_surname: Woods
+ipni_forenames: Albert Fred
+ipni_standard_form: A.F.Woods
+ipni_dates: 1866-1948
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

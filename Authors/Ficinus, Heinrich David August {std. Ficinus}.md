@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1015
+tl2_volume: vol1
+tl2_page_printed: 827
+tl2_surname: Ficinus
+tl2_forenames: Heinrich David August
+tl2_name_abbrev: Ficinus
+tl2_dates: 1782-1857
+tl2_page_id: 33120958
+author_lsid: 18777-1
+wikidata_id: Q1597002
+ipni_surname: Ficinus
+ipni_forenames: Heinrich David August
+ipni_standard_form: Ficinus
+ipni_dates: 1782-1857
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33120958) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

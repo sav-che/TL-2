@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0466
+tl2_volume: vol5
+tl2_page_printed: 490
+tl2_surname: Seidel
+tl2_forenames: Christoph Friedrich
+tl2_name_abbrev: C.F. Seidel
+tl2_dates: fl. 1869
+tl2_page_id: 33333629
+author_lsid: 9433-1
+wikidata_id: Q47125968
+ipni_surname: Seidel
+ipni_forenames: Christoph Friedrich
+ipni_standard_form: C.F.Seidel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

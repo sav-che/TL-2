@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0957
+tl2_volume: vol2
+tl2_page_printed: 814
+tl2_surname: Lefèvre
+tl2_forenames: Édouard
+tl2_name_abbrev: Lefèv.
+tl2_dates: 1839-1894
+tl2_page_id: 33069056
+author_lsid: 5414-1
+wikidata_id: Q8078130
+ipni_surname: Lefèvre
+ipni_forenames: Édouard
+ipni_standard_form: E.Lefèvre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

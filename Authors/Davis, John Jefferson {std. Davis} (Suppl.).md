@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0116
+tl2_volume: suppl5
+tl2_page_printed: 106
+tl2_surname: Davis
+tl2_forenames: John Jefferson
+tl2_name_abbrev: Davis
+tl2_dates: 1852-1937
+tl2_page_id: 33259152
+author_lsid: 2029-1
+wikidata_id: Q21509931
+ipni_surname: Davis
+ipni_forenames: John Jefferson
+ipni_standard_form: Davis
+ipni_dates: 1852-1937
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33259152) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

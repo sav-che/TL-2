@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0139
+tl2_volume: suppl5
+tl2_page_printed: 122
+tl2_surname: Deane
+tl2_forenames: Walter
+tl2_name_abbrev: W. Deane
+tl2_dates: 1848-1930
+tl2_page_id: 33259168
+author_lsid: 2053-1
+wikidata_id: Q21510088
+ipni_surname: Deane
+ipni_forenames: Walter
+ipni_standard_form: W.Deane
+ipni_dates: 1848-1930
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259168) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0234
+tl2_volume: suppl2
+tl2_page_printed: 195
+tl2_surname: Blake
+tl2_forenames: Stanley Thatcher
+tl2_name_abbrev: S.T. Blake
+tl2_dates: 1911-1973
+tl2_page_id: 33265392
+author_lsid: 838-1
+wikidata_id: Q2984580
+ipni_surname: Blake
+ipni_forenames: Stanley Thatcher
+ipni_standard_form: S.T.Blake
+ipni_dates: 1910-1973
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265392) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

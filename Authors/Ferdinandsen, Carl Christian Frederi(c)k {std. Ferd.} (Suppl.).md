@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0089
+tl2_volume: suppl7
+tl2_page_printed: 137
+tl2_surname: Ferdinandsen
+tl2_forenames: Carl Christian Frederi[c]k
+tl2_name_abbrev: Ferd.
+tl2_dates: 1879-1944
+tl2_page_id: 33259641
+author_lsid: 18722-1
+wikidata_id: Q5728130
+ipni_surname: Ferdinandsen
+ipni_forenames: Carl Christian Frederic(k)
+ipni_standard_form: Ferd.
+ipni_dates: 1879-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33259641) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0157
+tl2_volume: suppl5
+tl2_page_printed: 143
+tl2_surname: Decuillé
+tl2_forenames: Charles
+tl2_name_abbrev: Decuillé
+tl2_dates: fl. 1892/1893
+tl2_page_id: 33259189
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259189) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

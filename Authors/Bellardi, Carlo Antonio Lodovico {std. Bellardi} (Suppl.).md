@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl2_0063
+tl2_volume: suppl2
+tl2_page_printed: 63
+tl2_surname: Bellardi
+tl2_forenames: Carlo Antonio Lodovico
+tl2_name_abbrev: Bellardi
+tl2_dates: 1741-1826
+tl2_page_id: 33265260
+author_lsid: 15904-1
+wikidata_id: Q578933
+ipni_surname: Bellardi
+ipni_forenames: Carlo Antonio Lodovico
+ipni_standard_form: Bellardi
+ipni_dates: 1741-1826
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

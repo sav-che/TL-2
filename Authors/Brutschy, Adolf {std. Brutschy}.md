@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0164
+tl2_volume: suppl3
+tl2_page_printed: 167
+tl2_surname: Brutschy
+tl2_forenames: Adolf
+tl2_name_abbrev: Brutschy
+tl2_dates: 1885-?
+tl2_page_id: 33266474
+author_lsid: 32569-1
+wikidata_id: Q21506586
+ipni_surname: Brutschy
+ipni_forenames: A.
+ipni_standard_form: Brutschy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

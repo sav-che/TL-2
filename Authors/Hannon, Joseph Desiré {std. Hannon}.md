@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0060
+tl2_volume: vol2
+tl2_page_printed: 46
+tl2_surname: Hannon
+tl2_forenames: Joseph Desiré
+tl2_name_abbrev: Hannon
+tl2_dates: 1822-1870
+tl2_page_id: 33068288
+author_lsid: 3623-1
+wikidata_id: Q3184228
+ipni_surname: Hannon
+ipni_forenames: Joseph Desiré
+ipni_standard_form: Hannon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

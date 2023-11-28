@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0672
+tl2_volume: vol3
+tl2_page_printed: 581
+tl2_surname: Morgenroth
+tl2_forenames: Eduard
+tl2_name_abbrev: Morgenroth
+tl2_dates: 1861-?
+tl2_page_id: 33355668
+author_lsid: 6648-1
+wikidata_id: Q21521726
+ipni_surname: Morgenroth
+ipni_forenames: Eduard
+ipni_standard_form: Morgenr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

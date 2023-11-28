@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0279
+tl2_volume: vol4
+tl2_page_printed: 244
+tl2_surname: Phillips
+tl2_forenames: William
+tl2_name_abbrev: W. Phillips
+tl2_dates: 1822-1905
+tl2_page_id: 33189715
+author_lsid: 7649-1
+wikidata_id: Q15994689
+ipni_surname: Phillips
+ipni_forenames: William
+ipni_standard_form: W.Phillips
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33189715) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

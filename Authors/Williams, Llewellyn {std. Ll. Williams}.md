@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0286
+tl2_volume: vol7
+tl2_page_printed: 320
+tl2_surname: Williams
+tl2_forenames: Llewellyn
+tl2_name_abbrev: Ll. Williams
+tl2_dates: 1901-1980
+tl2_page_id: 33066660
+author_lsid: 11704-1
+wikidata_id: Q11165304
+ipni_surname: Williams
+ipni_forenames: Llewelyn
+ipni_standard_form: Ll.Williams
+ipni_dates: 1901-1984
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33066660) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

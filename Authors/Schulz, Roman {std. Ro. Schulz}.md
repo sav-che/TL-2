@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0368
+tl2_volume: vol5
+tl2_page_printed: 389
+tl2_surname: Schulz
+tl2_forenames: Roman
+tl2_name_abbrev: Ro. Schulz
+tl2_dates: 1873-1926
+tl2_page_id: 33333528
+author_lsid: 9314-1
+wikidata_id: Q21608489
+ipni_surname: Schulz
+ipni_forenames: Roman
+ipni_standard_form: R.Schulz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

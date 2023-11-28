@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0691
+tl2_volume: vol4
+tl2_page_printed: 701
+tl2_surname: Reinhardt
+tl2_forenames: Ludwig
+tl2_name_abbrev: L. Reinhardt
+tl2_dates: fl. 1910
+tl2_page_id: 33190172
+author_lsid: 34973-1
+wikidata_id: Q47125092
+ipni_surname: Reinhardt
+ipni_forenames: Ludwig
+ipni_standard_form: Ludw.Reinh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

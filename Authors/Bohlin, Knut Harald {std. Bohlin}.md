@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0329
+tl2_volume: vol1
+tl2_page_printed: 253
+tl2_surname: Bohlin
+tl2_forenames: Knut Harald
+tl2_name_abbrev: Bohlin
+tl2_dates: 1869-x
+tl2_page_id: 33120384
+author_lsid: 909-1
+wikidata_id: Q5580748
+ipni_surname: Bohlin
+ipni_forenames: Knut Harald
+ipni_standard_form: Bohlin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

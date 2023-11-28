@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0456
+tl2_volume: vol4
+tl2_page_printed: 375
+tl2_surname: Prahl
+tl2_forenames: Peter
+tl2_name_abbrev: Prahl
+tl2_dates: 1843-1911
+tl2_page_id: 33189846
+author_lsid: 25047-1
+wikidata_id: Q6073468
+ipni_surname: Prahl
+ipni_forenames: Peter
+ipni_standard_form: Prahl
+ipni_dates: 1843-1911
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33189846) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

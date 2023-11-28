@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0343
+tl2_volume: suppl2
+tl2_page_printed: 288
+tl2_surname: Bolander
+tl2_forenames: Henry Nicholas
+tl2_name_abbrev: Bol.
+tl2_dates: 1831-1897
+tl2_page_id: 33265485
+author_lsid: 925-1
+wikidata_id: Q70471
+ipni_surname: Bolander
+ipni_forenames: Henry Nicholas
+ipni_standard_form: Bol.
+ipni_dates: 1832-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33265485) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

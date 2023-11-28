@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0000
+tl2_volume: suppl8
+tl2_page_printed: 1
+tl2_surname: Fresenius
+tl2_forenames: [Johann Baptist] Georg [Wolfgang]
+tl2_name_abbrev: Fresen.
+tl2_dates: 1808-1866
+tl2_page_id: 33258525
+author_lsid: 2897-1
+wikidata_id: Q77670
+ipni_surname: Fresenius
+ipni_forenames: Johann Baptist Georg (George) Wolfgang
+ipni_standard_form: Fresen.
+ipni_dates: 1808-1866
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33258525) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

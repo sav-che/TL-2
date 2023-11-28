@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0861
+tl2_volume: vol3
+tl2_page_printed: 736
+tl2_surname: Newcombe
+tl2_forenames: Frederick Charles
+tl2_name_abbrev: F.C. Newcombe
+tl2_dates: 1858-1927
+tl2_page_id: 33355823
+author_lsid: 6947-1
+wikidata_id: Q21522109
+ipni_surname: Newcombe
+ipni_forenames: Frederick Charles
+ipni_standard_form: Newc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

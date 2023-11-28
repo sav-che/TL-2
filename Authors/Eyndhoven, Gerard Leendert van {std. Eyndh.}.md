@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0438
+tl2_volume: suppl6
+tl2_page_printed: 450
+tl2_surname: Eyndhoven
+tl2_forenames: Gerard Leendert van
+tl2_name_abbrev: Eyndh.
+tl2_dates: 1906-1990
+tl2_page_id: 33260438
+author_lsid: 28196-1
+wikidata_id: Q21512498
+ipni_surname: Eyndhoven
+ipni_forenames: Gerard Leendert van
+ipni_standard_form: Eyndh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl1_0431
+tl2_volume: suppl1
+tl2_page_printed: 378
+tl2_surname: Battandier
+tl2_forenames: Jules-Aimé
+tl2_name_abbrev: Battand.
+tl2_dates: 1848-1922
+tl2_page_id: 33265105
+author_lsid: 15794-1
+wikidata_id: Q2597737
+ipni_surname: Battandier
+ipni_forenames: Jules Aimé
+ipni_standard_form: Batt.
+ipni_dates: 1848-1922
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Algeria
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33265105) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

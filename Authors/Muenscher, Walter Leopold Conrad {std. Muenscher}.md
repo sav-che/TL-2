@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0760
+tl2_volume: vol3
+tl2_page_printed: 653
+tl2_surname: Muenscher
+tl2_forenames: Walter Leopold Conrad
+tl2_name_abbrev: Muenscher
+tl2_dates: 1891-1963
+tl2_page_id: 33355740
+author_lsid: 6753-1
+wikidata_id: Q6166236
+ipni_surname: Muenscher
+ipni_forenames: Walter Leopold Conrad
+ipni_standard_form: Muenscher
+ipni_dates: 1891-1963
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

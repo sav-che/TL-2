@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0759
+tl2_volume: vol1
+tl2_page_printed: 601
+tl2_surname: Davall
+tl2_forenames: Edmund
+tl2_name_abbrev: Davall
+tl2_dates: 1763-1798
+tl2_page_id: 33120732
+author_lsid: 2010-1
+wikidata_id: Q3048095
+ipni_surname: Davall
+ipni_forenames: Edmund
+ipni_standard_form: Davall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

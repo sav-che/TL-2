@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0991
+tl2_volume: vol4
+tl2_page_printed: 964
+tl2_surname: Rozier
+tl2_forenames: François (Jean-François)
+tl2_name_abbrev: Rozier
+tl2_dates: 1734-1793
+tl2_page_id: 33190435
+author_lsid: 8692-1
+wikidata_id: Q1382849
+ipni_surname: Rozier
+ipni_forenames: François (Jean-François)
+ipni_standard_form: Rozier
+ipni_dates: 1734-1793
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.4
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-05-12 16:02:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33190435) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

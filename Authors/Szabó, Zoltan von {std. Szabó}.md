@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0154
+tl2_volume: vol6
+tl2_page_printed: 139
+tl2_surname: Szabó
+tl2_forenames: Zoltan von
+tl2_name_abbrev: Szabó
+tl2_dates: 1882-1944
+tl2_page_id: 33212181
+author_lsid: 10362-1
+wikidata_id: Q6171475
+ipni_surname: Szabó
+ipni_forenames: Zoltán von
+ipni_standard_form: Szabó
+ipni_dates: 1882-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

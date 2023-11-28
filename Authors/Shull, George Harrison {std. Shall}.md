@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0560
+tl2_volume: vol5
+tl2_page_printed: 573
+tl2_surname: Shull
+tl2_forenames: George Harrison
+tl2_name_abbrev: Shall
+tl2_dates: 1874-1954
+tl2_page_id: 33333712
+author_lsid: 9598-1
+wikidata_id: Q1507532
+ipni_surname: Shull
+ipni_forenames: George Harrison
+ipni_standard_form: Shull
+ipni_dates: 1874-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33333712) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0109
+tl2_volume: vol4
+tl2_page_printed: 104
+tl2_surname: Patterson
+tl2_forenames: Flora (née Wambaugh)
+tl2_name_abbrev: F. Patterson
+tl2_dates: 1847-1928
+tl2_page_id: 33189575
+author_lsid: 24613-1
+wikidata_id: Q5460365
+ipni_surname: Patterson
+ipni_forenames: Flora Wambaugh
+ipni_standard_form: F.Patt.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33189575) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

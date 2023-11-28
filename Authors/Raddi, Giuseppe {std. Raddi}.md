@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0554
+tl2_volume: vol4
+tl2_page_printed: 536
+tl2_surname: Raddi
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Raddi
+tl2_dates: 1770-1829
+tl2_page_id: 33190007
+author_lsid: 8078-1
+wikidata_id: Q2517998
+ipni_surname: Raddi
+ipni_forenames: Giuseppe
+ipni_standard_form: Raddi
+ipni_dates: 1770-1829
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33190007) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

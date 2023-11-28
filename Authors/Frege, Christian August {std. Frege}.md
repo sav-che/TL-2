@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0268
+tl2_volume: suppl7
+tl2_page_printed: 400
+tl2_surname: Frege
+tl2_forenames: Christian August
+tl2_name_abbrev: Frege
+tl2_dates: 1759-1834
+tl2_page_id: 33259904
+author_lsid: 18964-1
+wikidata_id: Q21388721
+ipni_surname: Frege
+ipni_forenames: Christian August
+ipni_standard_form: Frege
+ipni_dates: 1758-1834
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0765
+tl2_volume: vol4
+tl2_page_printed: 778
+tl2_surname: Richter
+tl2_forenames: Oswald
+tl2_name_abbrev: O. Richt.
+tl2_dates: 1878-1955
+tl2_page_id: 33190249
+author_lsid: 8369-1
+wikidata_id: Q2036451
+ipni_surname: Richter
+ipni_forenames: Oswald
+ipni_standard_form: O.Richt.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

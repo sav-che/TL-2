@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0514
+tl2_volume: vol7
+tl2_page_printed: 564
+tl2_surname: Zundel
+tl2_forenames: George [Lorenzo Ingram]
+tl2_name_abbrev: Zundel
+tl2_dates: 1885-1950
+tl2_page_id: 33066904
+author_lsid: 13048-1
+wikidata_id: Q4506169
+ipni_surname: Zundel
+ipni_forenames: George (Lorenzo Ingram)
+ipni_standard_form: Zundel
+ipni_dates: 1885-1950
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33066904) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0276
+tl2_volume: vol4
+tl2_page_printed: 243
+tl2_surname: Phillips
+tl2_forenames: Reginald William
+tl2_name_abbrev: R.W. Phillips
+tl2_dates: 1854-1926
+tl2_page_id: 33189714
+author_lsid: 7645-1
+wikidata_id: Q16872648
+ipni_surname: Phillips
+ipni_forenames: Reginald William
+ipni_standard_form: R.W.Phillips
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

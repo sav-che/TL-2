@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0350
+tl2_volume: vol5
+tl2_page_printed: 369
+tl2_surname: Schultz
+tl2_forenames: Arthur
+tl2_name_abbrev: Arth. Schultz
+tl2_dates: 1838-1915
+tl2_page_id: 33333508
+author_lsid: 9291-1
+wikidata_id: Q21608472
+ipni_surname: Schultz
+ipni_forenames: Arthur
+ipni_standard_form: A.Schultz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33333508) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

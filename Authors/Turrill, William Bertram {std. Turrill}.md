@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0556
+tl2_volume: vol6
+tl2_page_printed: 552
+tl2_surname: Turrill
+tl2_forenames: William Bertram
+tl2_name_abbrev: Turrill
+tl2_dates: 1890-1961
+tl2_page_id: 33212594
+author_lsid: 10927-1
+wikidata_id: Q2351077
+ipni_surname: Turrill
+ipni_forenames: William Bertram
+ipni_standard_form: Turrill
+ipni_dates: 1890-1961
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33212594) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

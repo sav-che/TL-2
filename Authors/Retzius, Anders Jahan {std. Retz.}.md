@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0715
+tl2_volume: vol4
+tl2_page_printed: 735
+tl2_surname: Retzius
+tl2_forenames: Anders Jahan
+tl2_name_abbrev: Retz.
+tl2_dates: 1742-1821
+tl2_page_id: 33190206
+author_lsid: 8305-1
+wikidata_id: Q491077
+ipni_surname: Retzius
+ipni_forenames: Anders Jahan
+ipni_standard_form: Retz.
+ipni_dates: 1742-1821
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

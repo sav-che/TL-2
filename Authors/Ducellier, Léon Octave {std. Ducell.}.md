@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0130
+tl2_volume: suppl6
+tl2_page_printed: 127
+tl2_surname: Ducellier
+tl2_forenames: Léon Octave
+tl2_name_abbrev: Ducell.
+tl2_dates: 1878-1937
+tl2_page_id: 33260115
+author_lsid: 2342-1
+wikidata_id: Q21510984
+ipni_surname: Ducellier
+ipni_forenames: Léon Octave
+ipni_standard_form: Ducell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0133
+tl2_volume: vol5
+tl2_page_printed: 123
+tl2_surname: Scheffer
+tl2_forenames: Rudolph Herman Christiaan Carel
+tl2_name_abbrev: Scheff.
+tl2_dates: 1844-1880
+tl2_page_id: 33333262
+author_lsid: 9034-1
+wikidata_id: Q2120467
+ipni_surname: Scheffer
+ipni_forenames: Rudolph Herman Christiaan Carel
+ipni_standard_form: Scheff.
+ipni_dates: 1844-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33333262) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

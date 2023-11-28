@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0567
+tl2_volume: vol1
+tl2_page_printed: 465
+tl2_surname: Cassebeer
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: Casseb.
+tl2_dates: 1785-1850
+tl2_page_id: 33120596
+author_lsid: 1441-1
+wikidata_id: Q1694365
+ipni_surname: Cassebeer
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Casseb.
+ipni_dates: 1785-1850
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33120596) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

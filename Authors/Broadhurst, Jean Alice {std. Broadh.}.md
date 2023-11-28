@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0094
+tl2_volume: suppl3
+tl2_page_printed: 109
+tl2_surname: Broadhurst
+tl2_forenames: Jean Alice
+tl2_name_abbrev: Broadh.
+tl2_dates: 1873-1954
+tl2_page_id: 33266416
+author_lsid: 1164-1
+wikidata_id: Q84447476
+ipni_surname: Broadhurst
+ipni_forenames: Jean Alice
+ipni_standard_form: Broadh.
+ipni_dates: 1873-1954
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

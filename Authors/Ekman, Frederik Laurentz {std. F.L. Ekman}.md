@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0335
+tl2_volume: suppl6
+tl2_page_printed: 296
+tl2_surname: Ekman
+tl2_forenames: Frederik Laurentz
+tl2_name_abbrev: F.L. Ekman
+tl2_dates: 1830-1890
+tl2_page_id: 33260284
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33260284) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

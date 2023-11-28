@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0634
+tl2_volume: vol1
+tl2_page_printed: 509
+tl2_surname: Clayton
+tl2_forenames: John
+tl2_name_abbrev: Clayton
+tl2_dates: 1686-1773
+tl2_page_id: 33120640
+author_lsid: 1684-1
+wikidata_id: Q17893
+ipni_surname: Clayton
+ipni_forenames: John
+ipni_standard_form: J.Clayton
+ipni_dates: 1686-1773
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

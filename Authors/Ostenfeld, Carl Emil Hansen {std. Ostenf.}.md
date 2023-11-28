@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_1017
+tl2_volume: vol3
+tl2_page_printed: 854
+tl2_surname: Ostenfeld
+tl2_forenames: Carl Emil Hansen
+tl2_name_abbrev: Ostenf.
+tl2_dates: 1873-1931
+tl2_page_id: 33355941
+author_lsid: 24407-1
+wikidata_id: Q2981163
+ipni_surname: Ostenfeld
+ipni_forenames: Carl Emil Hansen
+ipni_standard_form: Ostenf.
+ipni_dates: 1873-1931
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

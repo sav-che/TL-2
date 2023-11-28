@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0308
+tl2_volume: vol5
+tl2_page_printed: 315
+tl2_surname: Schrader
+tl2_forenames: Christian Friedrich
+tl2_name_abbrev: C. Schrad.
+tl2_dates: 174.-1816
+tl2_page_id: 33333454
+author_lsid: 9246-1
+wikidata_id: Q20243227
+ipni_surname: Schrader
+ipni_forenames: Christian Friedrich
+ipni_standard_form: C.Schrad.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

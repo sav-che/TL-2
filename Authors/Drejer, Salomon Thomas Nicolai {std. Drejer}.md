@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0862
+tl2_volume: vol1
+tl2_page_printed: 681
+tl2_surname: Drejer
+tl2_forenames: Salomon Thomas Nicolai
+tl2_name_abbrev: Drejer
+tl2_dates: 1813-1842
+tl2_page_id: 33120812
+author_lsid: 12414-1
+wikidata_id: Q3497011
+ipni_surname: Drejer
+ipni_forenames: Solomon(Salomon) Thomas Nicolai
+ipni_standard_form: Drejer
+ipni_dates: 1813-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

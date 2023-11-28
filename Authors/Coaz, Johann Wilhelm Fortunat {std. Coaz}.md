@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0179
+tl2_volume: suppl4
+tl2_page_printed: 230
+tl2_surname: Coaz
+tl2_forenames: Johann Wilhelm Fortunat
+tl2_name_abbrev: Coaz
+tl2_dates: 1822-1918
+tl2_page_id: 33265907
+author_lsid: 14652-1
+wikidata_id: Q118457
+ipni_surname: Coaz
+ipni_forenames: Johann Wilhelm Fortunat
+ipni_standard_form: Coaz
+ipni_dates: 1822-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

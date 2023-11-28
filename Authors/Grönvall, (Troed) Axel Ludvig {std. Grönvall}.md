@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0295
+tl2_volume: suppl8
+tl2_page_printed: 409
+tl2_surname: Grönvall
+tl2_forenames: [Troed] Axel Ludvig
+tl2_name_abbrev: Grönvall
+tl2_dates: 1838-1892
+tl2_page_id: 33258887
+author_lsid: 19667-1
+wikidata_id: Q21341073
+ipni_surname: Grönvall
+ipni_forenames: Troed Axel Ludwig
+ipni_standard_form: Grönvall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33258887) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0155
+tl2_volume: vol4
+tl2_page_printed: 146
+tl2_surname: Peirson
+tl2_forenames: Frank Warrington
+tl2_name_abbrev: Peirson
+tl2_dates: 1865-1951
+tl2_page_id: 33189617
+author_lsid: 7470-1
+wikidata_id: Q4363492
+ipni_surname: Peirson
+ipni_forenames: Frank Warrington
+ipni_standard_form: Peirson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

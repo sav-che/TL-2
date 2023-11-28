@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0101
+tl2_volume: suppl1
+tl2_page_printed: 77
+tl2_surname: Allman
+tl2_forenames: William
+tl2_name_abbrev: Allman
+tl2_dates: 1776-1846
+tl2_page_id: 33264804
+author_lsid: 156-1
+wikidata_id: Q4019921
+ipni_surname: Allman
+ipni_forenames: William
+ipni_standard_form: Allman
+ipni_dates: 1776-1846
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-07-25 09:15:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33264804) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

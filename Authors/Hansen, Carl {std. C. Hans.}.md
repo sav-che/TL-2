@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0061
+tl2_volume: vol2
+tl2_page_printed: 46
+tl2_surname: Hansen
+tl2_forenames: Carl
+tl2_name_abbrev: C. Hans.
+tl2_dates: 1848-1903
+tl2_page_id: 33068288
+author_lsid: 3627-1
+wikidata_id: Q21514630
+ipni_surname: Hansen
+ipni_forenames: Carl
+ipni_standard_form: Carl Hansen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

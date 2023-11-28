@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0154
+tl2_volume: vol2
+tl2_page_printed: 139
+tl2_surname: Hein
+tl2_forenames: Heinrich
+tl2_name_abbrev: H. Hein
+tl2_dates: fl. 1877
+tl2_page_id: 33068381
+author_lsid: 3790-1
+wikidata_id: Q47118708
+ipni_surname: Hein
+ipni_forenames: Heinrich
+ipni_standard_form: Hein
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

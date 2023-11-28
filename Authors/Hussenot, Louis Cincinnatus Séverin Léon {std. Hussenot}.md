@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0396
+tl2_volume: vol2
+tl2_page_printed: 375
+tl2_surname: Hussenot
+tl2_forenames: Louis Cincinnatus Séverin Léon
+tl2_name_abbrev: Hussenot
+tl2_dates: 1809-1845
+tl2_page_id: 33068617
+author_lsid: 4246-1
+wikidata_id: Q21516673
+ipni_surname: Hussenot
+ipni_forenames: Louis Cincinnatus Sévérin Léon
+ipni_standard_form: Hussenot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33068617) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

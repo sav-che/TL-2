@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1279
+tl2_volume: vol1
+tl2_page_printed: 1020
+tl2_surname: Guettard
+tl2_forenames: Jean Étienne
+tl2_name_abbrev: Guett.
+tl2_dates: 1715-1786
+tl2_page_id: 33121151
+author_lsid: 3454-1
+wikidata_id: Q43273
+ipni_surname: Guettard
+ipni_forenames: Jean Étienne
+ipni_standard_form: Guett.
+ipni_dates: 1715-1786
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

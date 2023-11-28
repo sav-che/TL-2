@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0156
+tl2_volume: vol1
+tl2_page_printed: 114
+tl2_surname: Banister
+tl2_forenames: John
+tl2_name_abbrev: Banister
+tl2_dates: 1650-1692
+tl2_page_id: 33120245
+author_lsid: 446-1
+wikidata_id: Q1375875
+ipni_surname: Banister
+ipni_forenames: John
+ipni_standard_form: Banister
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

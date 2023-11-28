@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0769
+tl2_volume: vol3
+tl2_page_printed: 660
+tl2_surname: Mundkur
+tl2_forenames: Bhalchendra Bhavanishankar
+tl2_name_abbrev: Mundk.
+tl2_dates: 1896-1952
+tl2_page_id: 33355747
+author_lsid: 23759-1
+wikidata_id: Q21521888
+ipni_surname: Mundkur
+ipni_forenames: Bhalchendra Bhavanishankar
+ipni_standard_form: Mundk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

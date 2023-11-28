@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0846
+tl2_volume: vol1
+tl2_page_printed: 667
+tl2_surname: Domin
+tl2_forenames: Karel
+tl2_name_abbrev: Domin
+tl2_dates: 1882-1953
+tl2_page_id: 33120798
+author_lsid: 2263-1
+wikidata_id: Q1109649
+ipni_surname: Domin
+ipni_forenames: Karel
+ipni_standard_form: Domin
+ipni_dates: 1882-1953
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-10-31 14:05:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

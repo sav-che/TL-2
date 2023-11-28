@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0289
+tl2_volume: vol7
+tl2_page_printed: 323
+tl2_surname: Williams
+tl2_forenames: Robert Statham
+tl2_name_abbrev: R.S. Williams
+tl2_dates: 1859-1945
+tl2_page_id: 33066663
+author_lsid: 11709-1
+wikidata_id: Q21387977
+ipni_surname: Williams
+ipni_forenames: Robert Statham
+ipni_standard_form: R.S.Williams
+ipni_dates: 1859-1945
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33066663) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

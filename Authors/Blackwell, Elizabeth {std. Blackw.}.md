@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0297
+tl2_volume: vol1
+tl2_page_printed: 224
+tl2_surname: Blackwell
+tl2_forenames: Elizabeth
+tl2_name_abbrev: Blackw.
+tl2_dates: c. 1700-1758
+tl2_page_id: 33120355
+author_lsid: 830-1
+wikidata_id: Q469844
+ipni_surname: Blackwell
+ipni_forenames: Elizabeth
+ipni_standard_form: Blackw.
+ipni_dates: 1707-1758
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-11-20 12:35:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

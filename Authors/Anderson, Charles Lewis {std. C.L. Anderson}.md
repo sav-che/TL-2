@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0064
+tl2_volume: vol1
+tl2_page_printed: 44
+tl2_surname: Anderson
+tl2_forenames: Charles Lewis
+tl2_name_abbrev: C.L. Anderson
+tl2_dates: 1827-1919
+tl2_page_id: 33120175
+author_lsid: 188-1
+wikidata_id: Q6409941
+ipni_surname: Anderson
+ipni_forenames: Charles Lewis
+ipni_standard_form: C.L.Anderson
+ipni_dates: 1827-1919
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-09-27 13:49:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

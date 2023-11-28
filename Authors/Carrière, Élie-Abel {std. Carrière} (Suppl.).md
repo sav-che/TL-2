@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0388
+tl2_volume: suppl3
+tl2_page_printed: 422
+tl2_surname: Carrière
+tl2_forenames: Élie-Abel
+tl2_name_abbrev: Carrière
+tl2_dates: 1818-1896
+tl2_page_id: 33266729
+author_lsid: 1419-1
+wikidata_id: Q274614
+ipni_surname: Carrière
+ipni_forenames: Élie Abel
+ipni_standard_form: Carrière
+ipni_dates: 1818-1896
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-08-03 07:42:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

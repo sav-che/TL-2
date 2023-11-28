@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0441
+tl2_volume: vol5
+tl2_page_printed: 465
+tl2_surname: Seaver
+tl2_forenames: Fred Jay
+tl2_name_abbrev: Seaver
+tl2_dates: 1877-1970
+tl2_page_id: 33333604
+author_lsid: 26466-1
+wikidata_id: Q3296491
+ipni_surname: Seaver
+ipni_forenames: Fred Jay
+ipni_standard_form: Seaver
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33333604) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

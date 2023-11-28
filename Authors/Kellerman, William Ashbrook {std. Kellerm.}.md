@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0609
+tl2_volume: vol2
+tl2_page_printed: 517
+tl2_surname: Kellerman
+tl2_forenames: William Ashbrook
+tl2_name_abbrev: Kellerm.
+tl2_dates: 1850-1908
+tl2_page_id: 33068759
+author_lsid: 4711-1
+wikidata_id: Q8004607
+ipni_surname: Kellerman
+ipni_forenames: William Ashbrook
+ipni_standard_form: Kellerm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33068759) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

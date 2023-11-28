@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0398
+tl2_volume: suppl6
+tl2_page_printed: 384
+tl2_surname: Erdinger
+tl2_forenames: Karl (Carl)
+tl2_name_abbrev: Erdinger
+tl2_dates: 1822-1899
+tl2_page_id: 33260372
+author_lsid: 20026466-1
+wikidata_id: Q21512269
+ipni_surname: Erdinger
+ipni_forenames: Karl
+ipni_standard_form: Erdinger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

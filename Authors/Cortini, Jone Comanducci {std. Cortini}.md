@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0311
+tl2_volume: suppl4
+tl2_page_printed: 386
+tl2_surname: Cortini
+tl2_forenames: Jone Comanducci
+tl2_name_abbrev: Cortini
+tl2_dates: fl. 1921
+tl2_page_id: 33266063
+author_lsid: 17448-1
+wikidata_id: Q36588288
+ipni_surname: Cortini
+ipni_forenames: Jone Comanducci
+ipni_standard_form: Cortini
+ipni_dates: fl. 1921
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

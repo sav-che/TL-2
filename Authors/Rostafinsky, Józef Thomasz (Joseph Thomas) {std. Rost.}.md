@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0939
+tl2_volume: vol4
+tl2_page_printed: 908
+tl2_surname: Rostafinsky
+tl2_forenames: Józef Thomasz (Joseph Thomas)
+tl2_name_abbrev: Rost.
+tl2_dates: 1850-1928
+tl2_page_id: 33190379
+author_lsid: 8627-1
+wikidata_id: Q506075
+ipni_surname: Rostafińsky
+ipni_forenames: Józef Thomasz
+ipni_standard_form: Rostaf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Poland
+- Austria
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 908](https://www.biodiversitylibrary.org/page/33190379) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

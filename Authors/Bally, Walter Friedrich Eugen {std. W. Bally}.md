@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0338
+tl2_volume: suppl1
+tl2_page_printed: 306
+tl2_surname: Bally
+tl2_forenames: Walter Friedrich Eugen
+tl2_name_abbrev: W. Bally
+tl2_dates: 1882-1959
+tl2_page_id: 33265033
+author_lsid: 31267-1
+wikidata_id: Q18638654
+ipni_surname: Bally
+ipni_forenames: Walter
+ipni_standard_form: Bally
+ipni_dates: 1882-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+- Indonesia
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265033) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

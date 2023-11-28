@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0860
+tl2_volume: vol1
+tl2_page_printed: 679
+tl2_surname: Draparnaud
+tl2_forenames: Jacques Philippe Raymond
+tl2_name_abbrev: Drap.
+tl2_dates: 1772-1804
+tl2_page_id: 33120810
+author_lsid: 2304-1
+wikidata_id: Q930547
+ipni_surname: Draparnaud
+ipni_forenames: Jacques Philippe Raymond
+ipni_standard_form: Drap.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33120810) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

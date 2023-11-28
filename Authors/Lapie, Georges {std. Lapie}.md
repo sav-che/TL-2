@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0895
+tl2_volume: vol2
+tl2_page_printed: 758
+tl2_surname: Lapie
+tl2_forenames: Georges
+tl2_name_abbrev: Lapie
+tl2_dates: fl. 1914
+tl2_page_id: 33069000
+author_lsid: 5281-1
+wikidata_id: Q36564381
+ipni_surname: Lapie
+ipni_forenames: Georges
+ipni_standard_form: Lapie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33069000) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

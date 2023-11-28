@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0525
+tl2_volume: vol4
+tl2_page_printed: 449
+tl2_surname: Purton
+tl2_forenames: Thomas
+tl2_name_abbrev: Purt.
+tl2_dates: 1768-1833
+tl2_page_id: 33189920
+author_lsid: 8036-1
+wikidata_id: Q18935104
+ipni_surname: Purton
+ipni_forenames: Thomas
+ipni_standard_form: Purton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33189920) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

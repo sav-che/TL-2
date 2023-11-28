@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0023
+tl2_volume: vol2
+tl2_page_printed: 15
+tl2_surname: Haines
+tl2_forenames: Henry Haselfoot
+tl2_name_abbrev: Haines
+tl2_dates: 1867-1945
+tl2_page_id: 33068257
+author_lsid: 3559-1
+wikidata_id: Q5894532
+ipni_surname: Haines
+ipni_forenames: Henry Haselfoot
+ipni_standard_form: Haines
+ipni_dates: 1867-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

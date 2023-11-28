@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0155
+tl2_volume: vol6
+tl2_page_printed: 141
+tl2_surname: Szafer
+tl2_forenames: Wladyslaw
+tl2_name_abbrev: Szafer
+tl2_dates: 1886-1970
+tl2_page_id: 33212183
+author_lsid: 10363-1
+wikidata_id: Q322052
+ipni_surname: Szafer
+ipni_forenames: Władysław
+ipni_standard_form: Szafer
+ipni_dates: 1886-1970
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33212183) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

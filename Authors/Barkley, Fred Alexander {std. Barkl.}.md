@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0373
+tl2_volume: suppl1
+tl2_page_printed: 327
+tl2_surname: Barkley
+tl2_forenames: Fred Alexander
+tl2_name_abbrev: Barkl.
+tl2_dates: 1908-1989
+tl2_page_id: 33265054
+author_lsid: 479-1
+wikidata_id: Q4078297
+ipni_surname: Barkley
+ipni_forenames: Fred Alexander
+ipni_standard_form: F.A.Barkley
+ipni_dates: 1908-1989
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265054) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

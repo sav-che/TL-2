@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0555
+tl2_volume: vol2
+tl2_page_printed: 474
+tl2_surname: Juratzka
+tl2_forenames: Jakob
+tl2_name_abbrev: Jur.
+tl2_dates: 1821-1878
+tl2_page_id: 33068716
+author_lsid: 4588-1
+wikidata_id: Q5924438
+ipni_surname: Juratzka
+ipni_forenames: Jakob (Jacob)
+ipni_standard_form: Jur.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

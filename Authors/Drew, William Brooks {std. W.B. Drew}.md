@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0104
+tl2_volume: suppl6
+tl2_page_printed: 97
+tl2_surname: Drew
+tl2_forenames: William Brooks
+tl2_name_abbrev: W.B. Drew
+tl2_dates: 1908-x
+tl2_page_id: 33260085
+author_lsid: 18198-1
+wikidata_id: Q21510911
+ipni_surname: Drew
+ipni_forenames: William Brooks
+ipni_standard_form: W.B.Drew
+ipni_dates: 1908-
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33260085) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0651
+tl2_volume: vol5
+tl2_page_printed: 649
+tl2_surname: Slosson
+tl2_forenames: Margaret
+tl2_name_abbrev: Sloss.
+tl2_dates: 1872-?
+tl2_page_id: 33333788
+author_lsid: 9751-1
+wikidata_id: Q18911661
+ipni_surname: Slosson
+ipni_forenames: Margaret
+ipni_standard_form: Sloss.
+ipni_dates: 1872-
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33333788) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

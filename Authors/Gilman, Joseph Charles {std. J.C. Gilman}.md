@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0177
+tl2_volume: suppl8
+tl2_page_printed: 226
+tl2_surname: Gilman
+tl2_forenames: Joseph Charles
+tl2_name_abbrev: J.C. Gilman
+tl2_dates: 1890-1966
+tl2_page_id: 33258704
+author_lsid: 19353-1
+wikidata_id: Q21514013
+ipni_surname: Gilman
+ipni_forenames: Joseph Charles
+ipni_standard_form: J.C.Gilman
+ipni_dates: 1890-1966
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33258704) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

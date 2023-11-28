@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0380
+tl2_volume: vol5
+tl2_page_printed: 395
+tl2_surname: Schulze-Menz
+tl2_forenames: Georg Karl Wilhelm
+tl2_name_abbrev: Schulze-Menz
+tl2_dates: 1908-1978
+tl2_page_id: 33333534
+author_lsid: 9327-1
+wikidata_id: Q21338538
+ipni_surname: Schulze-Menz
+ipni_forenames: Georg Karl Wilhelm
+ipni_standard_form: Schulze-Menz
+ipni_dates: 1908-1978
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

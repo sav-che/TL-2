@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0714
+tl2_volume: vol4
+tl2_page_printed: 735
+tl2_surname: Retzdorff
+tl2_forenames: Adolf Eduard Willy
+tl2_name_abbrev: Retzdorff
+tl2_dates: 1856-1910
+tl2_page_id: 33190206
+author_lsid: 8304-1
+wikidata_id: Q21607127
+ipni_surname: Retzdorff
+ipni_forenames: Adolf Eduard Willy
+ipni_standard_form: Retzd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

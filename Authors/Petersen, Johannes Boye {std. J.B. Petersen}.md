@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0218
+tl2_volume: vol4
+tl2_page_printed: 196
+tl2_surname: Petersen
+tl2_forenames: Johannes Boye
+tl2_name_abbrev: J.B. Petersen
+tl2_dates: 1887-1961
+tl2_page_id: 33189667
+author_lsid: 7570-1
+wikidata_id: Q11927180
+ipni_surname: Petersen
+ipni_forenames: Johannes Boye
+ipni_standard_form: J.B.Petersen
+ipni_dates: 1887-1961
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

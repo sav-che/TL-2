@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0302
+tl2_volume: suppl1
+tl2_page_printed: 253
+tl2_surname: Bagnis
+tl2_forenames: Carlo
+tl2_name_abbrev: Bagnis
+tl2_dates: 1854-1879
+tl2_page_id: 33264980
+author_lsid: 31180-1
+wikidata_id: Q21505530
+ipni_surname: Bagnis
+ipni_forenames: Carlo
+ipni_standard_form: Bagnis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33264980) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0969
+tl2_volume: vol2
+tl2_page_printed: 819
+tl2_surname: Lehmann
+tl2_forenames: Ernst
+tl2_name_abbrev: Ernst Lehm.
+tl2_dates: 1880-1957
+tl2_page_id: 33069061
+author_lsid: 5431-1
+wikidata_id: Q1359205
+ipni_surname: Lehmann
+ipni_forenames: Ernst B.Johann
+ipni_standard_form: E.B.J.Lehm.
+ipni_dates: 1880-1957
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

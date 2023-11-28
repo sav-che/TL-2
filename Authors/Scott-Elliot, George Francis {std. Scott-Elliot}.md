@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol5_0434
+tl2_volume: vol5
+tl2_page_printed: 461
+tl2_surname: Scott-Elliot
+tl2_forenames: George Francis
+tl2_name_abbrev: Scott-Elliot
+tl2_dates: 1862-1934
+tl2_page_id: 33333600
+author_lsid: 9393-1
+wikidata_id: Q5877823
+ipni_surname: Scott Elliot
+ipni_forenames: George Francis
+ipni_standard_form: Scott Elliot
+ipni_dates: 1862-1934
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Uganda
+- Sierra Leone
+- Tanzania, United Republic of
+- South Africa
+- Madagascar
+ipni_version: 1.1.1.4
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-04-22 13:34:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33333600) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

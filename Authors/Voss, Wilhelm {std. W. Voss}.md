@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0770
+tl2_volume: vol6
+tl2_page_printed: 784
+tl2_surname: Voss
+tl2_forenames: Wilhelm
+tl2_name_abbrev: W. Voss
+tl2_dates: 1849-1895
+tl2_page_id: 33212826
+author_lsid: 11270-1
+wikidata_id: Q21611900
+ipni_surname: Voss
+ipni_forenames: Wilhelm(Guglielmo)
+ipni_standard_form: W.Voss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

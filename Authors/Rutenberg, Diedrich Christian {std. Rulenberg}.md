@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1037
+tl2_volume: vol4
+tl2_page_printed: 1007
+tl2_surname: Rutenberg
+tl2_forenames: Diedrich Christian
+tl2_name_abbrev: Rulenberg
+tl2_dates: 1851-1878
+tl2_page_id: 33190478
+author_lsid: 8759-1
+wikidata_id: Q15624698
+ipni_surname: Rutenberg
+ipni_forenames: Diedrich Christian
+ipni_standard_form: Rutenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33190478) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

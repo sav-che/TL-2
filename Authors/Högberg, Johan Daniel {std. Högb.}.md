@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0277
+tl2_volume: vol2
+tl2_page_printed: 227
+tl2_surname: Högberg
+tl2_forenames: Johan Daniel
+tl2_name_abbrev: Högb.
+tl2_dates: 1823-1843
+tl2_page_id: 33068469
+author_lsid: 3998-1
+wikidata_id: Q21515942
+ipni_surname: Högberg
+ipni_forenames: Johan Daniel
+ipni_standard_form: Högb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

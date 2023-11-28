@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0833
+tl2_volume: vol3
+tl2_page_printed: 718
+tl2_surname: Neill
+tl2_forenames: Patrick
+tl2_name_abbrev: Neill
+tl2_dates: 1776-1851
+tl2_page_id: 33355805
+author_lsid: 6898-1
+wikidata_id: Q7147324
+ipni_surname: Neill
+ipni_forenames: Patrick
+ipni_standard_form: Neill
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33355805) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

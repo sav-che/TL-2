@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0890
+tl2_volume: vol3
+tl2_page_printed: 753
+tl2_surname: Nilson
+tl2_forenames: Birger (from 1909 Kajanus, Birger)
+tl2_name_abbrev: Nilson
+tl2_dates: 1882-1931
+tl2_page_id: 33355840
+author_lsid: 6991-1
+wikidata_id: Q5897484
+ipni_surname: Nilson
+ipni_forenames: Birger
+ipni_standard_form: Nilson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

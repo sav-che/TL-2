@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0776
+tl2_volume: vol5
+tl2_page_printed: 773
+tl2_surname: Sparrman
+tl2_forenames: Anders
+tl2_name_abbrev: Sparrm.
+tl2_dates: 1748-1820
+tl2_page_id: 33333912
+author_lsid: 9952-1
+wikidata_id: Q433984
+ipni_surname: Sparrman
+ipni_forenames: Anders
+ipni_standard_form: Sparrm.
+ipni_dates: 1748-1820
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

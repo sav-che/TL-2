@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0153
+tl2_volume: suppl6
+tl2_page_printed: 147
+tl2_surname: Duffort
+tl2_forenames: Louis
+tl2_name_abbrev: Duffort
+tl2_dates: 1846-1923
+tl2_page_id: 33260135
+author_lsid: 2355-1
+wikidata_id: Q21391810
+ipni_surname: Duffort
+ipni_forenames: Louis
+ipni_standard_form: Duffort
+ipni_dates: 1846-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

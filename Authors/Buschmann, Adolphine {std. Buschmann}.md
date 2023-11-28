@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0265
+tl2_volume: suppl3
+tl2_page_printed: 276
+tl2_surname: Buschmann
+tl2_forenames: Adolphine
+tl2_name_abbrev: Buschmann
+tl2_dates: 1908-1989
+tl2_page_id: 33266583
+author_lsid: 1320-1
+wikidata_id: Q18983404
+ipni_surname: Buschmann
+ipni_forenames: Adolphine
+ipni_standard_form: Buschm.
+ipni_dates: 1908-1989
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33266583) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0074
+tl2_volume: vol5
+tl2_page_printed: 75
+tl2_surname: Sauvage
+tl2_forenames: Charles [Philippe Felix]
+tl2_name_abbrev: Sauvage
+tl2_dates: 1909-1980
+tl2_page_id: 33333214
+author_lsid: 8962-1
+wikidata_id: Q2960192
+ipni_surname: Sauvage
+ipni_forenames: Charles Philippe Félix
+ipni_standard_form: Sauvage
+ipni_dates: 1909-1980
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Morocco
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33333214) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

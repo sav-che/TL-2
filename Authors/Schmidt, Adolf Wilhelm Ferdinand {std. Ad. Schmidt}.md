@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0225
+tl2_volume: vol5
+tl2_page_printed: 242
+tl2_surname: Schmidt
+tl2_forenames: Adolf Wilhelm Ferdinand
+tl2_name_abbrev: Ad. Schmidt
+tl2_dates: 1812-1899
+tl2_page_id: 33333381
+author_lsid: 9152-1
+wikidata_id: Q364540
+ipni_surname: Schmidt
+ipni_forenames: Adolf Wilhelm Ferdinand
+ipni_standard_form: A.W.F.Schmidt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33333381) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

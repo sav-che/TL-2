@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0533
+tl2_volume: vol5
+tl2_page_printed: 553
+tl2_surname: Shaw
+tl2_forenames: Henry
+tl2_name_abbrev: H. Shaw
+tl2_dates: 1800-1889
+tl2_page_id: 33333692
+author_lsid: 9551-1
+wikidata_id: Q1991246
+ipni_surname: Shaw
+ipni_forenames: Henry
+ipni_standard_form: H.Shaw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33333692) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0664
+tl2_volume: vol2
+tl2_page_printed: 555
+tl2_surname: Kirtikar
+tl2_forenames: Kanhoba Ranchoddâs
+tl2_name_abbrev: Kirt.
+tl2_dates: 1849/1850-1917
+tl2_page_id: 33068797
+author_lsid: 4816-1
+wikidata_id: Q21517551
+ipni_surname: Kirtikar
+ipni_forenames: Kanhoba (Kanoba) Ranchoddâs
+ipni_standard_form: Kirt.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

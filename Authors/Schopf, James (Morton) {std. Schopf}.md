@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0299
+tl2_volume: vol5
+tl2_page_printed: 301
+tl2_surname: Schopf
+tl2_forenames: James [Morton]
+tl2_name_abbrev: Schopf
+tl2_dates: 1911-1978
+tl2_page_id: 33333440
+author_lsid: 13087-1
+wikidata_id: Q15437658
+ipni_surname: Schopf
+ipni_forenames: James Morton
+ipni_standard_form: J.M.Schopf
+ipni_dates: 1911-1978
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33333440) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

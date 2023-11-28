@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0398
+tl2_volume: suppl1
+tl2_page_printed: 344
+tl2_surname: Bartholomew
+tl2_forenames: Elbert Thomas
+tl2_name_abbrev: E.T. Barth.
+tl2_dates: 1878-?
+tl2_page_id: 33265071
+author_lsid: 15737-1
+wikidata_id: Q21505728
+ipni_surname: Bartholomew
+ipni_forenames: Elbert Thomas
+ipni_standard_form: E.T.Barthol.
+ipni_dates: 1878-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

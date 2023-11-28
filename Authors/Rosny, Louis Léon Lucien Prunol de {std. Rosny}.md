@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0925
+tl2_volume: vol4
+tl2_page_printed: 898
+tl2_surname: Rosny
+tl2_forenames: Louis Léon Lucien Prunol de
+tl2_name_abbrev: Rosny
+tl2_dates: 1837-1916
+tl2_page_id: 33190369
+author_lsid: 8606-1
+wikidata_id: Q21607426
+ipni_surname: Rosny
+ipni_forenames: Louis Léon Lucien Prunol de
+ipni_standard_form: Rosny
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33190369) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

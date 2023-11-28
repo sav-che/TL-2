@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0734
+tl2_volume: vol6
+tl2_page_printed: 752
+tl2_surname: Vischer
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Vischer
+tl2_dates: 1890-1960
+tl2_page_id: 33212794
+author_lsid: 11216-1
+wikidata_id: Q6167476
+ipni_surname: Vischer
+ipni_forenames: Wilhelm
+ipni_standard_form: Vischer
+ipni_dates: 1890-1960
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33212794) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

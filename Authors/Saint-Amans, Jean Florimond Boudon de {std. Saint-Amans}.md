@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1079
+tl2_volume: vol4
+tl2_page_printed: 1061
+tl2_surname: Saint-Amans
+tl2_forenames: Jean Florimond Boudon de
+tl2_name_abbrev: Saint-Amans
+tl2_dates: 1748-1831
+tl2_page_id: 33190532
+author_lsid: 26009-1
+wikidata_id: Q2464225
+ipni_surname: Saint-Amans
+ipni_forenames: Jean Florimond Boudon de
+ipni_standard_form: St.-Amans
+ipni_dates: 1748-1831
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

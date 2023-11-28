@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0738
+tl2_volume: vol6
+tl2_page_printed: 760
+tl2_surname: Vittadini
+tl2_forenames: Carlo
+tl2_name_abbrev: Vittad.
+tl2_dates: 1800-1865
+tl2_page_id: 33212802
+author_lsid: 28402-1
+wikidata_id: Q2572302
+ipni_surname: Vittadini
+ipni_forenames: Carlo
+ipni_standard_form: Vittad.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33212802) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

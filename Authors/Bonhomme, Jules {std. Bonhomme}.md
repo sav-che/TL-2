@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0372
+tl2_volume: suppl2
+tl2_page_printed: 312
+tl2_surname: Bonhomme
+tl2_forenames: Jules
+tl2_name_abbrev: Bonhomme
+tl2_dates: fl. 1858-1880
+tl2_page_id: 33265509
+author_lsid: 32492-1
+wikidata_id: Q17631254
+ipni_surname: Bonhomme
+ipni_forenames: J.
+ipni_standard_form: Bonhomme
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

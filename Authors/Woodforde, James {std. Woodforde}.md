@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0394
+tl2_volume: vol7
+tl2_page_printed: 442
+tl2_surname: Woodforde
+tl2_forenames: James
+tl2_name_abbrev: Woodforde
+tl2_dates: 1771-1837
+tl2_page_id: 33066782
+author_lsid: 11852-1
+wikidata_id: Q21612964
+ipni_surname: Woodforde
+ipni_forenames: James
+ipni_standard_form: Woodf.
+ipni_dates: 1771-1837
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33066782) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

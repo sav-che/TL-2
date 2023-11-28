@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1064
+tl2_volume: vol1
+tl2_page_printed: 854
+tl2_surname: Forchhammer
+tl2_forenames: Johan Georg
+tl2_name_abbrev: Forchhammer
+tl2_dates: 1794-1865
+tl2_page_id: 33120985
+author_lsid: 2819-1
+wikidata_id: Q1392483
+ipni_surname: Forchhammer
+ipni_forenames: Johan Georg
+ipni_standard_form: Forchh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

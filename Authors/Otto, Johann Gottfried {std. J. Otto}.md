@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_1027
+tl2_volume: vol3
+tl2_page_printed: 860
+tl2_surname: Otto
+tl2_forenames: Johann Gottfried
+tl2_name_abbrev: J. Otto
+tl2_dates: 1761-1832
+tl2_page_id: 33355947
+author_lsid: 24426-1
+wikidata_id: Q5932942
+ipni_surname: Otto
+ipni_forenames: Johann Gottfried
+ipni_standard_form: J.Otto
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

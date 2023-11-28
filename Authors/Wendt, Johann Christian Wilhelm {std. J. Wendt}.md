@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0174
+tl2_volume: vol7
+tl2_page_printed: 184
+tl2_surname: Wendt
+tl2_forenames: Johann Christian Wilhelm
+tl2_name_abbrev: J. Wendt
+tl2_dates: 1778-1838
+tl2_page_id: 33066524
+author_lsid: 11551-1
+wikidata_id: Q21612454
+ipni_surname: Wendt
+ipni_forenames: Johann Christian Wilhelm
+ipni_standard_form: J.Wendt
+ipni_dates: 1778-1838
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33066524) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

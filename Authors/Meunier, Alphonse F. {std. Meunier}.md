@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0523
+tl2_volume: vol3
+tl2_page_printed: 436
+tl2_surname: Meunier
+tl2_forenames: Alphonse F.
+tl2_name_abbrev: Meunier
+tl2_dates: 1857-1918
+tl2_page_id: 33355523
+author_lsid: 6399-1
+wikidata_id: Q2423490
+ipni_surname: Meunier
+ipni_forenames: Alphonse F.
+ipni_standard_form: Meunier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

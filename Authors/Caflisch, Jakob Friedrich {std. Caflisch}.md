@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0520
+tl2_volume: vol1
+tl2_page_printed: 423
+tl2_surname: Caflisch
+tl2_forenames: Jakob Friedrich
+tl2_name_abbrev: Caflisch
+tl2_dates: 1817-1882
+tl2_page_id: 33120554
+author_lsid: 1349-1
+wikidata_id: Q15229276
+ipni_surname: Caflisch
+ipni_forenames: Jakob Friedrich
+ipni_standard_form: Caflisch
+ipni_dates: 1817-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-06-30 07:57:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33120554) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

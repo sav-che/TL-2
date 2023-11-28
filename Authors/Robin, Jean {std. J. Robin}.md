@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0818
+tl2_volume: vol4
+tl2_page_printed: 812
+tl2_surname: Robin
+tl2_forenames: Jean
+tl2_name_abbrev: J. Robin
+tl2_dates: 1550-1629
+tl2_page_id: 33190283
+author_lsid: 8453-1
+wikidata_id: Q324150
+ipni_surname: Robin
+ipni_forenames: Jean
+ipni_standard_form: J.Robin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0209
+tl2_volume: vol3
+tl2_page_printed: 210
+tl2_surname: Macbride
+tl2_forenames: James Francis
+tl2_name_abbrev: Macbr.
+tl2_dates: 1892-1976
+tl2_page_id: 33355297
+author_lsid: 5889-1
+wikidata_id: Q3046674
+ipni_surname: Macbride
+ipni_forenames: James Francis
+ipni_standard_form: J.F.Macbr.
+ipni_dates: 1892-1976
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33355297) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

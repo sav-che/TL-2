@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0061
+tl2_volume: suppl3
+tl2_page_printed: 57
+tl2_surname: Brenchley
+tl2_forenames: Winifred Elsie
+tl2_name_abbrev: Brenchley
+tl2_dates: 1883-1953
+tl2_page_id: 33266364
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

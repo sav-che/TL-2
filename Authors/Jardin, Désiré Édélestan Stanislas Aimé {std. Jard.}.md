@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0473
+tl2_volume: vol2
+tl2_page_printed: 425
+tl2_surname: Jardin
+tl2_forenames: Désiré Édélestan Stanislas Aimé
+tl2_name_abbrev: Jard.
+tl2_dates: 1822-1896
+tl2_page_id: 33068667
+author_lsid: 4431-1
+wikidata_id: Q2880493
+ipni_surname: Jardin
+ipni_forenames: Désiré Édélestan Stanislas Aimé
+ipni_standard_form: Jard.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

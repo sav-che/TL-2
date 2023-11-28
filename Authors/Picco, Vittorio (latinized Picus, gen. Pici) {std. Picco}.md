@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0291
+tl2_volume: vol4
+tl2_page_printed: 250
+tl2_surname: Picco
+tl2_forenames: Vittorio (latinized Picus, gen. Pici)
+tl2_name_abbrev: Picco
+tl2_dates: fl. 1788
+tl2_page_id: 33189721
+author_lsid: 7665-1
+wikidata_id: Q36697985
+ipni_surname: Picco
+ipni_forenames: Vittorio
+ipni_standard_form: Picco
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

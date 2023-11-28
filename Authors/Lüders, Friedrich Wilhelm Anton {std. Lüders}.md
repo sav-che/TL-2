@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0161
+tl2_volume: vol3
+tl2_page_printed: 185
+tl2_surname: Lüders
+tl2_forenames: Friedrich Wilhelm Anton
+tl2_name_abbrev: Lüders
+tl2_dates: 1751-1810
+tl2_page_id: 33355272
+author_lsid: 5813-1
+wikidata_id: Q16941971
+ipni_surname: Lüders
+ipni_forenames: Friedrich Wilhelm Anton
+ipni_standard_form: Lüders
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

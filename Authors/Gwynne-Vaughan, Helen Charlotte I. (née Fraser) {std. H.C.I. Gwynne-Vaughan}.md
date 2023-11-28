@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0343
+tl2_volume: suppl8
+tl2_page_printed: 471
+tl2_surname: Gwynne-Vaughan
+tl2_forenames: Helen Charlotte Isabelle (Dame) (née Fraser)
+tl2_name_abbrev: H.C.I. Gwynne-Vaughan
+tl2_dates: 1879-1967
+tl2_page_id: 33258949
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33258949) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

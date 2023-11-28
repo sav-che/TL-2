@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0398
+tl2_volume: vol3
+tl2_page_printed: 347
+tl2_surname: Masamune
+tl2_forenames: Genkei
+tl2_name_abbrev: Masam.
+tl2_dates: 1899-x
+tl2_page_id: 33355434
+author_lsid: 6186-1
+wikidata_id: Q2445064
+ipni_surname: Masamune
+ipni_forenames: Genkei
+ipni_standard_form: Masam.
+ipni_dates: 1899-1993
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-04-15 05:15:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0216
+tl2_volume: suppl5
+tl2_page_printed: 197
+tl2_surname: Demelius
+tl2_forenames: Paula (née von Bach)
+tl2_name_abbrev: Demelius
+tl2_dates: 1862-1923
+tl2_page_id: 33259243
+author_lsid: 17920-1
+wikidata_id: Q36649733
+ipni_surname: Demelius
+ipni_forenames: P.
+ipni_standard_form: Demelius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

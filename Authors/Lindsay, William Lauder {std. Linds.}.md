@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0048
+tl2_volume: vol3
+tl2_page_printed: 63
+tl2_surname: Lindsay
+tl2_forenames: William Lauder
+tl2_name_abbrev: Linds.
+tl2_dates: 1829-1880
+tl2_page_id: 33355150
+author_lsid: 22391-1
+wikidata_id: Q18672913
+ipni_surname: Lindsay
+ipni_forenames: William Lauder
+ipni_standard_form: Linds.
+ipni_dates: 1829-1880
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33355150) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

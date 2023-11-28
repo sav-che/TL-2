@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0866
+tl2_volume: vol4
+tl2_page_printed: 857
+tl2_surname: Rogers
+tl2_forenames: Donald Philip
+tl2_name_abbrev: D.P. Rogers
+tl2_dates: 1908-x
+tl2_page_id: 33190328
+author_lsid: 8523-1
+wikidata_id: Q21391685
+ipni_surname: Rogers
+ipni_forenames: Donald Philip
+ipni_standard_form: D.P.Rogers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

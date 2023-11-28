@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0257
+tl2_volume: vol2
+tl2_page_printed: 210
+tl2_surname: Hirmer
+tl2_forenames: Max
+tl2_name_abbrev: Hirmer
+tl2_dates: 1893-x
+tl2_page_id: 33068452
+author_lsid: 3965-1
+wikidata_id: Q1293097
+ipni_surname: Hirmer
+ipni_forenames: Max
+ipni_standard_form: Hirmer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

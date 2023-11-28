@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0903
+tl2_volume: vol2
+tl2_page_printed: 761
+tl2_surname: Larter
+tl2_forenames: Clara Ethelinda
+tl2_name_abbrev: Larter
+tl2_dates: 1847-1936
+tl2_page_id: 33069003
+author_lsid: 22076-1
+wikidata_id: Q15450242
+ipni_surname: Larter
+ipni_forenames: Clara Ethelinda
+ipni_standard_form: Larter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

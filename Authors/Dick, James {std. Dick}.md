@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0818
+tl2_volume: vol1
+tl2_page_printed: 643
+tl2_surname: Dick
+tl2_forenames: James
+tl2_name_abbrev: Dick
+tl2_dates: x-1775
+tl2_page_id: 33120774
+author_lsid: 2189-1
+wikidata_id: Q21510351
+ipni_surname: Dick
+ipni_forenames: James
+ipni_standard_form: Dick
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

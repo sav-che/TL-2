@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0201
+tl2_volume: suppl7
+tl2_page_printed: 300
+tl2_surname: Fontell
+tl2_forenames: Carl Wilhelm
+tl2_name_abbrev: Fontell
+tl2_dates: 1873-1936
+tl2_page_id: 33259804
+author_lsid: 33129-1
+wikidata_id: Q21513310
+ipni_surname: Fontell
+ipni_forenames: Carl Wilhelm
+ipni_standard_form: Fontell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

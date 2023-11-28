@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0273
+tl2_volume: vol1
+tl2_page_printed: 210
+tl2_surname: Beyschlag
+tl2_forenames: Franz Heinrich August
+tl2_name_abbrev: Beyschlag
+tl2_dates: 1856-?
+tl2_page_id: 33120341
+author_lsid: 755-1
+wikidata_id: Q21506055
+ipni_surname: Beyschlag
+ipni_forenames: Franz Heinrich August
+ipni_standard_form: Beyschl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33120341) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0869
+tl2_volume: vol2
+tl2_page_printed: 738
+tl2_surname: Lambotte
+tl2_forenames: Jean Baptiste Émile
+tl2_name_abbrev: Lambotte
+tl2_dates: 1832-1905
+tl2_page_id: 33068980
+author_lsid: 5236-1
+wikidata_id: Q17361894
+ipni_surname: Lambotte
+ipni_forenames: Jean Baptiste Émil (Ernest)
+ipni_standard_form: Lambotte
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

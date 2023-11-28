@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0541
+tl2_volume: vol1
+tl2_page_printed: 452
+tl2_surname: Candolle
+tl2_forenames: Richard Émile Augustin de
+tl2_name_abbrev: Aug. DC
+tl2_dates: 1868-1920
+tl2_page_id: 33120583
+author_lsid: 2067-1
+wikidata_id: Q3431395
+ipni_surname: Candolle
+ipni_forenames: Richard Émile Augustin de
+ipni_standard_form: Aug.DC.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33120583) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

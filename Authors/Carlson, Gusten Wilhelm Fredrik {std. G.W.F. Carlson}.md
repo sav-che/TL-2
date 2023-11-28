@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0381
+tl2_volume: suppl3
+tl2_page_printed: 418
+tl2_surname: Carlson
+tl2_forenames: Gusten Wilhelm Fredrik
+tl2_name_abbrev: G.W.F. Carlson
+tl2_dates: 1877-1947
+tl2_page_id: 33266725
+author_lsid: 32636-1
+wikidata_id: Q36560607
+ipni_surname: Carlson
+ipni_forenames: G.W.F.
+ipni_standard_form: G.W.F.Carlson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33266725) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

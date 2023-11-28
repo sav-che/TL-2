@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0361
+tl2_volume: vol3
+tl2_page_printed: 311
+tl2_surname: Marsili
+tl2_forenames: Giovanni
+tl2_name_abbrev: Marsili
+tl2_dates: 1727-1794
+tl2_page_id: 33355398
+author_lsid: 6141-1
+wikidata_id: Q3767693
+ipni_surname: Marsili
+ipni_forenames: Giovanni M.
+ipni_standard_form: Marsili
+ipni_dates: 1727-1794
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

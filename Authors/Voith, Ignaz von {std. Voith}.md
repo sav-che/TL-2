@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0763
+tl2_volume: vol6
+tl2_page_printed: 777
+tl2_surname: Voith
+tl2_forenames: Ignaz von
+tl2_name_abbrev: Voith
+tl2_dates: 1759-1848
+tl2_page_id: 33212819
+author_lsid: 11248-1
+wikidata_id: Q21611863
+ipni_surname: Voith
+ipni_forenames: Ignaz von
+ipni_standard_form: Voith
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33212819) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

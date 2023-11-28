@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0684
+tl2_volume: vol4
+tl2_page_printed: 697
+tl2_surname: Rein
+tl2_forenames: Johannes Justus
+tl2_name_abbrev: Rein
+tl2_dates: 1835-1918
+tl2_page_id: 33190168
+author_lsid: 8263-1
+wikidata_id: Q87900
+ipni_surname: Rein
+ipni_forenames: Johannes Justus
+ipni_standard_form: Rein
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33190168) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

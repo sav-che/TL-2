@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0188
+tl2_volume: suppl4
+tl2_page_printed: 248
+tl2_surname: Cogniaux
+tl2_forenames: [Célestin] Alfred
+tl2_name_abbrev: Cogn.
+tl2_dates: 1841-1916
+tl2_page_id: 33265925
+author_lsid: 1722-1
+wikidata_id: Q655719
+ipni_surname: Cogniaux
+ipni_forenames: Célestin Alfred
+ipni_standard_form: Cogn.
+ipni_dates: 1841-1916
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-08-11 09:48:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33265925) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

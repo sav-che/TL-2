@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1024
+tl2_volume: vol1
+tl2_page_printed: 832
+tl2_surname: Fingerhuth
+tl2_forenames: Carl Anton
+tl2_name_abbrev: Fingerh.
+tl2_dates: 1798-1876
+tl2_page_id: 33120963
+author_lsid: 2735-1
+wikidata_id: Q5749262
+ipni_surname: Fingerhuth
+ipni_forenames: Carl Anton
+ipni_standard_form: Fingerh.
+ipni_dates: 1802-1876
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

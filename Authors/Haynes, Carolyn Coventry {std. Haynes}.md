@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0132
+tl2_volume: vol2
+tl2_page_printed: 114
+tl2_surname: Haynes
+tl2_forenames: Carolyn Coventry
+tl2_name_abbrev: Haynes
+tl2_dates: 1858-1951
+tl2_page_id: 33068356
+author_lsid: 3751-1
+wikidata_id: Q21391528
+ipni_surname: Haynes
+ipni_forenames: Caroline Coventry
+ipni_standard_form: Haynes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

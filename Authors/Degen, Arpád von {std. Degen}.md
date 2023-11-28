@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0780
+tl2_volume: vol1
+tl2_page_printed: 610
+tl2_surname: Degen
+tl2_forenames: Arpád von
+tl2_name_abbrev: Degen
+tl2_dates: 1866-1934
+tl2_page_id: 33120741
+author_lsid: 2079-1
+wikidata_id: Q840188
+ipni_surname: Degen
+ipni_forenames: Árpád von
+ipni_standard_form: Degen
+ipni_dates: 1866-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

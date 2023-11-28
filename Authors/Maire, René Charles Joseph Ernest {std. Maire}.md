@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol3_0279
+tl2_volume: vol3
+tl2_page_printed: 257
+tl2_surname: Maire
+tl2_forenames: René Charles Joseph Ernest
+tl2_name_abbrev: Maire
+tl2_dates: 1878-1949
+tl2_page_id: 33355344
+author_lsid: 6001-1
+wikidata_id: Q2661320
+ipni_surname: Maire
+ipni_forenames: René Charles Joseph Ernest
+ipni_standard_form: Maire
+ipni_dates: 1878-1949
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Algeria
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-05-12 19:02:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

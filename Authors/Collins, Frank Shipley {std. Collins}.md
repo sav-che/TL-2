@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0661
+tl2_volume: vol1
+tl2_page_printed: 527
+tl2_surname: Collins
+tl2_forenames: Frank Shipley
+tl2_name_abbrev: Collins
+tl2_dates: 1848-1920
+tl2_page_id: 33120658
+author_lsid: 1743-1
+wikidata_id: Q18154321
+ipni_surname: Collins
+ipni_forenames: Frank Shipley
+ipni_standard_form: Collins
+ipni_dates: 1848-1920
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33120658) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0553
+tl2_volume: vol5
+tl2_page_printed: 568
+tl2_surname: Shoolbred
+tl2_forenames: William Andrew
+tl2_name_abbrev: Shoolbred
+tl2_dates: 1852-1928
+tl2_page_id: 33333707
+author_lsid: 9589-1
+wikidata_id: Q21608819
+ipni_surname: Shoolbred
+ipni_forenames: William Andrew
+ipni_standard_form: Shoolbred
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

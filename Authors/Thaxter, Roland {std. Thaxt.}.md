@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0275
+tl2_volume: vol6
+tl2_page_printed: 232
+tl2_surname: Thaxter
+tl2_forenames: Roland
+tl2_name_abbrev: Thaxt.
+tl2_dates: 1858-1932
+tl2_page_id: 33212274
+author_lsid: 10544-1
+wikidata_id: Q2086486
+ipni_surname: Thaxter
+ipni_forenames: Roland
+ipni_standard_form: Thaxt.
+ipni_dates: 1858-1932
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

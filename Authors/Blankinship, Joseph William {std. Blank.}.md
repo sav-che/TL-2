@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0247
+tl2_volume: suppl2
+tl2_page_printed: 204
+tl2_surname: Blankinship
+tl2_forenames: Joseph William
+tl2_name_abbrev: Blank.
+tl2_dates: 1862-1938
+tl2_page_id: 33265401
+author_lsid: 851-1
+wikidata_id: Q21340162
+ipni_surname: Blankinship
+ipni_forenames: Joseph William
+ipni_standard_form: Blank.
+ipni_dates: 1862-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-11-17 22:35:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33265401) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

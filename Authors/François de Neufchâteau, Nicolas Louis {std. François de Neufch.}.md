@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0250
+tl2_volume: suppl7
+tl2_page_printed: 385
+tl2_surname: François de Neufchâteau
+tl2_forenames: Nicolas Louis (Comte de l Empire)
+tl2_name_abbrev: François de Neufch.
+tl2_dates: 1750-1828
+tl2_page_id: 33259889
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33259889) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

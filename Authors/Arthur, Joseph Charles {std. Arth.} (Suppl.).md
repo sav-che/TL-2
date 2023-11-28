@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0215
+tl2_volume: suppl1
+tl2_page_printed: 173
+tl2_surname: Arthur
+tl2_forenames: Joseph Charles
+tl2_name_abbrev: Arth.
+tl2_dates: 1850-1942
+tl2_page_id: 33264900
+author_lsid: 294-1
+wikidata_id: Q1706753
+ipni_surname: Arthur
+ipni_forenames: Joseph Charles
+ipni_standard_form: Arthur
+ipni_dates: 1850-1942
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

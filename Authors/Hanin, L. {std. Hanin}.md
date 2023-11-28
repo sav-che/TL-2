@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0057
+tl2_volume: vol2
+tl2_page_printed: 45
+tl2_surname: Hanin
+tl2_forenames: L.
+tl2_name_abbrev: Hanin
+tl2_dates: fl. 1800
+tl2_page_id: 33068287
+author_lsid: 3619-1
+wikidata_id: Q18753610
+ipni_surname: Hanin
+ipni_forenames: L.
+ipni_standard_form: Hanin
+ipni_dates: fl. 1800
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-07-25 18:46:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

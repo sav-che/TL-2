@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0598
+tl2_volume: vol1
+tl2_page_printed: 486
+tl2_surname: Charpentier
+tl2_forenames: Jean G. F. de
+tl2_name_abbrev: Charpentier
+tl2_dates: 1786-1855
+tl2_page_id: 33120617
+author_lsid: 1539-1
+wikidata_id: Q68023
+ipni_surname: Charpentier
+ipni_forenames: Jean G.F.de
+ipni_standard_form: Charpent.
+ipni_dates: 1786-1855
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

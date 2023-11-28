@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0085
+tl2_volume: vol6
+tl2_page_printed: 64
+tl2_surname: Sturgis
+tl2_forenames: William Codman
+tl2_name_abbrev: Sturgis
+tl2_dates: 1886-1942
+tl2_page_id: 33212106
+author_lsid: 10253-1
+wikidata_id: Q21609981
+ipni_surname: Sturgis
+ipni_forenames: William Codman
+ipni_standard_form: Sturgis
+ipni_dates: 1886-1942
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33212106) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

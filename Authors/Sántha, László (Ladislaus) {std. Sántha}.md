@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0042
+tl2_volume: vol5
+tl2_page_printed: 41
+tl2_surname: Sántha
+tl2_forenames: László (Ladislaus)
+tl2_name_abbrev: Sántha
+tl2_dates: 1886-1954
+tl2_page_id: 33333142
+author_lsid: 8904-1
+wikidata_id: Q21516332
+ipni_surname: Sántha
+ipni_forenames: László(Ladislaus)
+ipni_standard_form: Sántha
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33333142) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

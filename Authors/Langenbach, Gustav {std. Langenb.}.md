@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0882
+tl2_volume: vol2
+tl2_page_printed: 749
+tl2_surname: Langenbach
+tl2_forenames: Gustav
+tl2_name_abbrev: Langenb.
+tl2_dates: 1831-1873
+tl2_page_id: 33068991
+author_lsid: 5263-1
+wikidata_id: Q21518370
+ipni_surname: Langenbach
+ipni_forenames: Gustav
+ipni_standard_form: Langenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33068991) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

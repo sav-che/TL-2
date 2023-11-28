@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0128
+tl2_volume: suppl1
+tl2_page_printed: 98
+tl2_surname: Ames
+tl2_forenames: Oakes
+tl2_name_abbrev: Ames
+tl2_dates: 1874-1950
+tl2_page_id: 33264825
+author_lsid: 179-1
+wikidata_id: Q1669326
+ipni_surname: Ames
+ipni_forenames: Oakes
+ipni_standard_form: Ames
+ipni_dates: 1874-1950
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

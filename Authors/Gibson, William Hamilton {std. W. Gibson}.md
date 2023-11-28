@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1186
+tl2_volume: vol1
+tl2_page_printed: 940
+tl2_surname: Gibson
+tl2_forenames: William Hamilton
+tl2_name_abbrev: W. Gibson
+tl2_dates: 1850-1896
+tl2_page_id: 33121071
+author_lsid: 19310-1
+wikidata_id: Q8010768
+ipni_surname: Gibson
+ipni_forenames: William Hamilton
+ipni_standard_form: W.H.Gibson
+ipni_dates: 1850-1896
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

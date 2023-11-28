@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0810
+tl2_volume: vol2
+tl2_page_printed: 683
+tl2_surname: Kühner
+tl2_forenames: Robert
+tl2_name_abbrev: Kühner
+tl2_dates: 1904-x
+tl2_page_id: 33068925
+author_lsid: 21788-1
+wikidata_id: Q2226482
+ipni_surname: Kühner
+ipni_forenames: Robert
+ipni_standard_form: Kühner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33068925) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0230
+tl2_volume: vol3
+tl2_page_printed: 220
+tl2_surname: McGibbon [MacGibbon]
+tl2_forenames: James
+tl2_name_abbrev: McGibb.
+tl2_dates: fl. 1848-1864
+tl2_page_id: 33355307
+author_lsid: 5917-1
+wikidata_id: Q47122315
+ipni_surname: McGibbon
+ipni_forenames: James
+ipni_standard_form: McGibb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- South Africa
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

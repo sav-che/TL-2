@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0013
+tl2_volume: vol5
+tl2_page_printed: 15
+tl2_surname: Salter
+tl2_forenames: Thomas Bell
+tl2_name_abbrev: T.B. Salter
+tl2_dates: 1814-1858
+tl2_page_id: 33333168
+author_lsid: 638-1
+wikidata_id: Q19001652
+ipni_surname: Salter
+ipni_forenames: Thomas Bell
+ipni_standard_form: T.B.Salter
+ipni_dates: 1814-1858
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

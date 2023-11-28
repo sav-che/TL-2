@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0815
+tl2_volume: vol5
+tl2_page_printed: 820
+tl2_surname: Squier
+tl2_forenames: Ephraim George
+tl2_name_abbrev: Squier
+tl2_dates: 1821-1888
+tl2_page_id: 33333959
+author_lsid: 9998-1
+wikidata_id: Q721839
+ipni_surname: Squier
+ipni_forenames: Ephraim George
+ipni_standard_form: Squier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

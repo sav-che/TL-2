@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0426
+tl2_volume: suppl4
+tl2_page_printed: 510
+tl2_surname: Cunningham
+tl2_forenames: Robert Oliver
+tl2_name_abbrev: R.O. Cunn.
+tl2_dates: 1841-1918
+tl2_page_id: 33266187
+author_lsid: 35756-1
+wikidata_id: Q7348142
+ipni_surname: Cunningham
+ipni_forenames: Robert Oliver
+ipni_standard_form: R.O.Cunn.
+ipni_dates: 1841-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33266187) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

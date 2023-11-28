@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0676
+tl2_volume: vol3
+tl2_page_printed: 582
+tl2_surname: Moricand
+tl2_forenames: Moïse Étienne, called Stefano
+tl2_name_abbrev: Moric.
+tl2_dates: 1779-1854
+tl2_page_id: 33355669
+author_lsid: 12691-1
+wikidata_id: Q4302711
+ipni_surname: Moricand
+ipni_forenames: Stefano
+ipni_standard_form: Moric.
+ipni_dates: 1779-1854
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-01-07 09:59:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33355669) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

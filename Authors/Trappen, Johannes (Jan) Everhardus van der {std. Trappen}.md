@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0466
+tl2_volume: vol6
+tl2_page_printed: 435
+tl2_surname: Trappen
+tl2_forenames: Johannes [Jan] Everhardus van der
+tl2_name_abbrev: Trappen
+tl2_dates: fl. 1834-1849
+tl2_page_id: 33212477
+author_lsid: 10792-1
+wikidata_id: Q36600759
+ipni_surname: Trappen
+ipni_forenames: Johannes(Jan) Everhardus van der
+ipni_standard_form: Trappen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33212477) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

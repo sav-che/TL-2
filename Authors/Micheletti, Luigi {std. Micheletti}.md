@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0550
+tl2_volume: vol3
+tl2_page_printed: 464
+tl2_surname: Micheletti
+tl2_forenames: Luigi
+tl2_name_abbrev: Micheletti
+tl2_dates: 1844-1912
+tl2_page_id: 33355551
+author_lsid: 6435-1
+wikidata_id: Q21520517
+ipni_surname: Micheletti
+ipni_forenames: Luigi
+ipni_standard_form: Micheletti
+ipni_dates: 1844-1912
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

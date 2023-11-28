@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0117
+tl2_volume: suppl6
+tl2_page_printed: 116
+tl2_surname: Druery
+tl2_forenames: Charles Thomas
+tl2_name_abbrev: Druery
+tl2_dates: 1843-1917
+tl2_page_id: 33260104
+author_lsid: 34378-1
+wikidata_id: Q16944219
+ipni_surname: Druery
+ipni_forenames: Charles Thomas
+ipni_standard_form: Druery
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33260104) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

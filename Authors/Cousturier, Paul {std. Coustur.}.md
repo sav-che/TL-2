@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0342
+tl2_volume: suppl4
+tl2_page_printed: 425
+tl2_surname: Cousturier
+tl2_forenames: Paul
+tl2_name_abbrev: Coustur.
+tl2_dates: 1849-1921
+tl2_page_id: 33266102
+author_lsid: 1844-1
+wikidata_id: Q7149988
+ipni_surname: Cousturier
+ipni_forenames: Paul
+ipni_standard_form: Coustur.
+ipni_dates: -1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

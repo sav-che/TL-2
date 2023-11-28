@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0489
+tl2_volume: vol7
+tl2_page_printed: 538
+tl2_surname: Zillig
+tl2_forenames: Hermann
+tl2_name_abbrev: H. Zillig
+tl2_dates: 1893-1952
+tl2_page_id: 33066878
+author_lsid: 12032-1
+wikidata_id: Q18335125
+ipni_surname: Zillig
+ipni_forenames: Hermann
+ipni_standard_form: Zillig
+ipni_dates: 1893-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

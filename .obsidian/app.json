@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden"
 }

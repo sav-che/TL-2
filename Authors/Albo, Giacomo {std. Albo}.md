@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0081
+tl2_volume: suppl1
+tl2_page_printed: 61
+tl2_surname: Albo
+tl2_forenames: Giacomo
+tl2_name_abbrev: Albo
+tl2_dates: 1872-?
+tl2_page_id: 33264788
+author_lsid: 34854-1
+wikidata_id: Q21505027
+ipni_surname: Albo
+ipni_forenames: Giacomo
+ipni_standard_form: Albo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

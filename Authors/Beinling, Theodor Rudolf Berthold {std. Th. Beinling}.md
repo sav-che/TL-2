@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0056
+tl2_volume: suppl2
+tl2_page_printed: 60
+tl2_surname: Beinling
+tl2_forenames: Theodor Rudolf Berthold
+tl2_name_abbrev: Th. Beinling
+tl2_dates: 1825-1900
+tl2_page_id: 33265257
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

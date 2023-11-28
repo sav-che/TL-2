@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0593
+tl2_volume: vol3
+tl2_page_printed: 508
+tl2_surname: Minuart
+tl2_forenames: Juan
+tl2_name_abbrev: Minuart
+tl2_dates: 1693-1768
+tl2_page_id: 33355595
+author_lsid: 6508-1
+wikidata_id: Q9011987
+ipni_surname: Minuart
+ipni_forenames: Juan
+ipni_standard_form: Minuart
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

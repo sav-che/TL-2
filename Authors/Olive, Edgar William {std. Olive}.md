@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0975
+tl2_volume: vol3
+tl2_page_printed: 819
+tl2_surname: Olive
+tl2_forenames: Edgar William
+tl2_name_abbrev: Olive
+tl2_dates: 1870-1971
+tl2_page_id: 33355906
+author_lsid: 24320-1
+wikidata_id: Q15440835
+ipni_surname: Olive
+ipni_forenames: Edgar William
+ipni_standard_form: Olive
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

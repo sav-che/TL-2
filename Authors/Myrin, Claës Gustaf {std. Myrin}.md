@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0793
+tl2_volume: vol3
+tl2_page_printed: 678
+tl2_surname: Myrin
+tl2_forenames: Claës Gustaf
+tl2_name_abbrev: Myrin
+tl2_dates: 1803-1835
+tl2_page_id: 33355765
+author_lsid: 6823-1
+wikidata_id: Q21340690
+ipni_surname: Myrin
+ipni_forenames: Claus (Claës) Gustaf
+ipni_standard_form: Myrin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

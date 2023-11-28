@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0928
+tl2_volume: vol3
+tl2_page_printed: 777
+tl2_surname: Notø
+tl2_forenames: Andreas
+tl2_name_abbrev: Notø
+tl2_dates: 1865-1948
+tl2_page_id: 33355864
+author_lsid: 7043-1
+wikidata_id: Q21522248
+ipni_surname: Notø
+ipni_forenames: Andreas
+ipni_standard_form: Notø
+ipni_dates: 1865-1948
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-06-17 08:57:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

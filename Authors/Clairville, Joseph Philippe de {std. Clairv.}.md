@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0624
+tl2_volume: vol1
+tl2_page_printed: 505
+tl2_surname: Clairville
+tl2_forenames: Joseph Philippe de
+tl2_name_abbrev: Clairv.
+tl2_dates: 1742-1830
+tl2_page_id: 33120636
+author_lsid: 1658-1
+wikidata_id: Q689684
+ipni_surname: Clairville
+ipni_forenames: Joseph Philippe de
+ipni_standard_form: Clairv.
+ipni_dates: 1742-1830
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

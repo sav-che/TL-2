@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1242
+tl2_volume: vol1
+tl2_page_printed: 983
+tl2_surname: Graves
+tl2_forenames: Louis
+tl2_name_abbrev: L. Graves
+tl2_dates: 1791-1857
+tl2_page_id: 33121114
+author_lsid: 3348-1
+wikidata_id: Q3262073
+ipni_surname: Graves
+ipni_forenames: Louis
+ipni_standard_form: L.Graves
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

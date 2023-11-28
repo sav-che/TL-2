@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1095
+tl2_volume: vol1
+tl2_page_printed: 876
+tl2_surname: Frey
+tl2_forenames: Eduard [-Stauffer]
+tl2_name_abbrev: Frey
+tl2_dates: 1888-x
+tl2_page_id: 33121007
+author_lsid: 18977-1
+wikidata_id: Q5818904
+ipni_surname: Frey
+ipni_forenames: Eduard
+ipni_standard_form: Frey
+ipni_dates: 1888-1974
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.2.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-03-22 15:37:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33121007) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0093
+tl2_volume: vol3
+tl2_page_printed: 139
+tl2_surname: Loehr
+tl2_forenames: Egid von
+tl2_name_abbrev: E. Loehr
+tl2_dates: fl. 1848
+tl2_page_id: 33355226
+author_lsid: 5697-1
+wikidata_id: Q36547363
+ipni_surname: Loehr
+ipni_forenames: Egid von
+ipni_standard_form: E.Loehr
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33355226) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

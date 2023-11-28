@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0859
+tl2_volume: vol1
+tl2_page_printed: 678
+tl2_surname: Drake del Castillo
+tl2_forenames: Emmanuel
+tl2_name_abbrev: Drake
+tl2_dates: 1855-1904
+tl2_page_id: 33120809
+author_lsid: 2302-1
+wikidata_id: Q1338265
+ipni_surname: Drake del Castillo
+ipni_forenames: Emmanuel
+ipni_standard_form: Drake
+ipni_dates: 1855-1904
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33120809) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

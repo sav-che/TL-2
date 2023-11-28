@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0014
+tl2_volume: vol7
+tl2_page_printed: 10
+tl2_surname: Wagner
+tl2_forenames: Hermann (of Hadamar)
+tl2_name_abbrev: H. Wagner II
+tl2_dates: 1824-1908 (1882?)
+tl2_page_id: 33066312
+author_lsid: 12983-1
+wikidata_id: Q21611972
+ipni_surname: Wagner
+ipni_forenames: Hermann (of Hadamar)
+ipni_standard_form: H.Wagner bis
+ipni_dates: 1824-1904
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33066312) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

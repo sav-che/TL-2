@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0157
+tl2_volume: vol7
+tl2_page_printed: 166
+tl2_surname: Weiss
+tl2_forenames: Frederick Ernest
+tl2_name_abbrev: F.E. Weiss
+tl2_dates: 1865-1953
+tl2_page_id: 33066506
+author_lsid: 11522-1
+wikidata_id: Q5497728
+ipni_surname: Weiss
+ipni_forenames: Frederick Ernest
+ipni_standard_form: F.E.Weiss
+ipni_dates: 1865-1953
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33066506) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

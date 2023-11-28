@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0728
+tl2_volume: vol3
+tl2_page_printed: 612
+tl2_surname: Moyer
+tl2_forenames: Isaac Shoemaker
+tl2_name_abbrev: Moyer
+tl2_dates: 1838-1898
+tl2_page_id: 33355699
+author_lsid: 35194-1
+wikidata_id: Q21521814
+ipni_surname: Moyer
+ipni_forenames: Isaac Shoemaker
+ipni_standard_form: Moyer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0203
+tl2_volume: suppl1
+tl2_page_printed: 160
+tl2_surname: Arnaud
+tl2_forenames: Gabriel
+tl2_name_abbrev: G. Arnaud
+tl2_dates: 1882-1957
+tl2_page_id: 33264887
+author_lsid: 272-1
+wikidata_id: Q21338864
+ipni_surname: Arnaud
+ipni_forenames: Gabriel
+ipni_standard_form: G.Arnaud
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

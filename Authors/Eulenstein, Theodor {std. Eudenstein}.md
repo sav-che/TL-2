@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0974
+tl2_volume: vol1
+tl2_page_printed: 805
+tl2_surname: Eulenstein
+tl2_forenames: Theodor
+tl2_name_abbrev: Eudenstein
+tl2_dates: x-1875
+tl2_page_id: 33120936
+author_lsid: 2587-1
+wikidata_id: Q21512422
+ipni_surname: Eulenstein
+ipni_forenames: Theodor
+ipni_standard_form: Eulenst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33120936) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

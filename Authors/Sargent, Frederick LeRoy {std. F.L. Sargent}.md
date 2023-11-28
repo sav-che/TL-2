@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0050
+tl2_volume: vol5
+tl2_page_printed: 56
+tl2_surname: Sargent
+tl2_forenames: Frederick LeRoy
+tl2_name_abbrev: F.L. Sargent
+tl2_dates: 1863-1928
+tl2_page_id: 33333157
+author_lsid: 8918-1
+wikidata_id: Q18911820
+ipni_surname: Sargent
+ipni_forenames: Frederick LeRoy
+ipni_standard_form: F.L.Sarg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33333157) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0131
+tl2_volume: suppl1
+tl2_page_printed: 103
+tl2_surname: Amoreux
+tl2_forenames: Pierre-Joseph
+tl2_name_abbrev: Amoreux
+tl2_dates: 1741-1824
+tl2_page_id: 33264830
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33264830) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0296
+tl2_volume: suppl6
+tl2_page_printed: 265
+tl2_surname: Eggeling
+tl2_forenames: William Julius
+tl2_name_abbrev: Eggeling
+tl2_dates: 1909-x
+tl2_page_id: 33260253
+author_lsid: 20012934-2
+wikidata_id: Q15994422
+ipni_surname: Eggeling
+ipni_forenames: William Julius
+ipni_standard_form: Eggeling
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Uganda
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

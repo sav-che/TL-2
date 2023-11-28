@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0009
+tl2_volume: vol5
+tl2_page_printed: 12
+tl2_surname: Salomon
+tl2_forenames: Carl
+tl2_name_abbrev: Salomon
+tl2_dates: 1829-1899
+tl2_page_id: 33333171
+author_lsid: 8851-1
+wikidata_id: Q6403624
+ipni_surname: Salomon
+ipni_forenames: Carl E.
+ipni_standard_form: Salomon
+ipni_dates: 1829-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33333171) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

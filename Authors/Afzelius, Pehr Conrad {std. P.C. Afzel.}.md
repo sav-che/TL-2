@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0049
+tl2_volume: suppl1
+tl2_page_printed: 37
+tl2_surname: Afzelius
+tl2_forenames: Pehr Conrad
+tl2_name_abbrev: P.C. Afzel.
+tl2_dates: 1817-1850
+tl2_page_id: 33264726
+author_lsid: 82-1
+wikidata_id: Q21504600
+ipni_surname: Afzelius
+ipni_forenames: Pehr Conrad
+ipni_standard_form: P.Afzel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

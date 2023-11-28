@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0050
+tl2_volume: vol7
+tl2_page_printed: 42
+tl2_surname: Wallman
+tl2_forenames: Johan Haquin
+tl2_name_abbrev: Wallman
+tl2_dates: 1792-1853
+tl2_page_id: 33066382
+author_lsid: 11352-1
+wikidata_id: Q21612077
+ipni_surname: Wallman
+ipni_forenames: Johan Haquin
+ipni_standard_form: Wallman
+ipni_dates: 1792-1853
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0225
+tl2_volume: suppl3
+tl2_page_printed: 225
+tl2_surname: Burchard
+tl2_forenames: Gertrud Anna
+tl2_name_abbrev: G. Burchard
+tl2_dates: 1906-x
+tl2_page_id: 33266532
+author_lsid: 35022-1
+wikidata_id: Q47114837
+ipni_surname: Burchard
+ipni_forenames: G.
+ipni_standard_form: G.Burchard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33266532) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

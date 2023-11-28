@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0621
+tl2_volume: vol4
+tl2_page_printed: 593
+tl2_surname: Rauth
+tl2_forenames: Franz
+tl2_name_abbrev: Rauth
+tl2_dates: 1874-?
+tl2_page_id: 33190064
+author_lsid: 8171-1
+wikidata_id: Q21607001
+ipni_surname: Rauth
+ipni_forenames: Franz
+ipni_standard_form: Rauth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

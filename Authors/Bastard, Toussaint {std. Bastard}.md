@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0183
+tl2_volume: vol1
+tl2_page_printed: 137
+tl2_surname: Bastard
+tl2_forenames: Toussaint
+tl2_name_abbrev: Bastard
+tl2_dates: 1784-1846
+tl2_page_id: 33120268
+author_lsid: 12339-1
+wikidata_id: Q6151253
+ipni_surname: Bastard
+ipni_forenames: Toussaint
+ipni_standard_form: Bastard
+ipni_dates: 1784-1846
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33120268) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

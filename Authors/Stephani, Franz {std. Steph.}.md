@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0900
+tl2_volume: vol5
+tl2_page_printed: 889
+tl2_surname: Stephani
+tl2_forenames: Franz
+tl2_name_abbrev: Steph.
+tl2_dates: 1842-1927
+tl2_page_id: 33334028
+author_lsid: 10104-1
+wikidata_id: Q4526859
+ipni_surname: Stephani
+ipni_forenames: Franz
+ipni_standard_form: Steph.
+ipni_dates: 1842-1927
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

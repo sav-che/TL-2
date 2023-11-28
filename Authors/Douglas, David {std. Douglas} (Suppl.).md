@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl6_0063
+tl2_volume: suppl6
+tl2_page_printed: 66
+tl2_surname: Douglas
+tl2_forenames: David
+tl2_name_abbrev: Douglas
+tl2_dates: 1799-1834
+tl2_page_id: 33260054
+author_lsid: 2290-1
+wikidata_id: Q669028
+ipni_surname: Douglas
+ipni_forenames: David
+ipni_standard_form: Douglas
+ipni_dates: 1799-1834
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- China
+- United States
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-09-18 10:01:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33260054) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

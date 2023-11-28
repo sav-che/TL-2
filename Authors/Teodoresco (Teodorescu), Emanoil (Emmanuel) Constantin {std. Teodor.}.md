@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0255
+tl2_volume: vol6
+tl2_page_printed: 219
+tl2_surname: Teodoresco [Teodorescu]
+tl2_forenames: Emanoil [Emmanuel] Constantin
+tl2_name_abbrev: Teodor.
+tl2_dates: 1866-1949
+tl2_page_id: 33212261
+author_lsid: 10510-1
+wikidata_id: Q18548524
+ipni_surname: Teodoresco
+ipni_forenames: Emanoil Constantin
+ipni_standard_form: Teodor.
+ipni_dates: 1866-1949
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

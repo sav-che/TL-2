@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0789
+tl2_volume: vol2
+tl2_page_printed: 670
+tl2_surname: Krebs
+tl2_forenames: F. L.
+tl2_name_abbrev: F. Krebs
+tl2_dates: fl. 1827-1835
+tl2_page_id: 33068912
+author_lsid: 5054-1
+wikidata_id: Q36555206
+ipni_surname: Krebs
+ipni_forenames: F.L.
+ipni_standard_form: F.Krebs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0066
+tl2_volume: suppl1
+tl2_page_printed: 52
+tl2_surname: Aiken
+tl2_forenames: Walter Harris
+tl2_name_abbrev: Aiken
+tl2_dates: 1856-1935
+tl2_page_id: 33264741
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33264741) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

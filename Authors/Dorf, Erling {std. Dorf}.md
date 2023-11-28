@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0053
+tl2_volume: suppl6
+tl2_page_printed: 59
+tl2_surname: Dorf
+tl2_forenames: Erling
+tl2_name_abbrev: Dorf
+tl2_dates: 1905-x
+tl2_page_id: 33260047
+author_lsid: 33995-1
+wikidata_id: Q5389800
+ipni_surname: Dorf
+ipni_forenames: Erling
+ipni_standard_form: Dorf
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33260047) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

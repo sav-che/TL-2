@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0128
+tl2_volume: suppl8
+tl2_page_printed: 171
+tl2_surname: Gelmi
+tl2_forenames: Enrico
+tl2_name_abbrev: Gelmi
+tl2_dates: 1855-1901
+tl2_page_id: 33258649
+author_lsid: 34883-1
+wikidata_id: Q21513861
+ipni_surname: Gelmi
+ipni_forenames: Enrico
+ipni_standard_form: Gelmi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33258649) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

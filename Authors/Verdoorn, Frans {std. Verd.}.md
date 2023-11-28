@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0684
+tl2_volume: vol6
+tl2_page_printed: 704
+tl2_surname: Verdoorn
+tl2_forenames: Frans
+tl2_name_abbrev: Verd.
+tl2_dates: 1906-1984
+tl2_page_id: 33212746
+author_lsid: 11133-1
+wikidata_id: Q5657736
+ipni_surname: Verdoorn
+ipni_forenames: Frans
+ipni_standard_form: Verd.
+ipni_dates: 1906-1984
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+- Netherlands
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

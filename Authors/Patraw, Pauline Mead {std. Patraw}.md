@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0106
+tl2_volume: vol4
+tl2_page_printed: 103
+tl2_surname: Patraw
+tl2_forenames: Pauline Mead
+tl2_name_abbrev: Patraw
+tl2_dates: fl. 1936
+tl2_page_id: 33189574
+author_lsid: 7388-1
+wikidata_id: Q23071326
+ipni_surname: Patraw
+ipni_forenames: Pauline Mead
+ipni_standard_form: Patraw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

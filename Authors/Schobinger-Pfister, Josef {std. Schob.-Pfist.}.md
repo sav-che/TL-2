@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0278
+tl2_volume: vol5
+tl2_page_printed: 285
+tl2_surname: Schobinger-Pfister
+tl2_forenames: Josef
+tl2_name_abbrev: Schob.-Pfist.
+tl2_dates: 1810-1874
+tl2_page_id: 33333424
+author_lsid: 9208-1
+wikidata_id: Q21608234
+ipni_surname: Schobinger-Pfister
+ipni_forenames: Josef
+ipni_standard_form: Schob.-Pfist.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

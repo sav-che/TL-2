@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0997
+tl2_volume: vol3
+tl2_page_printed: 842
+tl2_surname: Orbigny
+tl2_forenames: Alcide Dessalines d
+tl2_name_abbrev: A.D. d'Orb.
+tl2_dates: 1802-1857
+tl2_page_id: 33355929
+author_lsid: 31988-1
+wikidata_id: Q344661
+ipni_surname: Orbigny
+ipni_forenames: Alcide Charles Victor Marie Dessalines d'
+ipni_standard_form: A.D.Orb.
+ipni_dates: 1802-1857
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

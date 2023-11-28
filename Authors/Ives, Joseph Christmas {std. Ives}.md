@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0427
+tl2_volume: vol2
+tl2_page_printed: 392
+tl2_surname: Ives
+tl2_forenames: Joseph Christmas
+tl2_name_abbrev: Ives
+tl2_dates: 1828-1868
+tl2_page_id: 33068634
+author_lsid: 4346-1
+wikidata_id: Q6282120
+ipni_surname: Ives
+ipni_forenames: Joseph Christmas
+ipni_standard_form: Ives
+ipni_dates: 1828-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

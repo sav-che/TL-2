@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0993
+tl2_volume: vol3
+tl2_page_printed: 839
+tl2_surname: Opatowski
+tl2_forenames: Heinrich
+tl2_name_abbrev: H. Opat.
+tl2_dates: 1812-?
+tl2_page_id: 33355926
+author_lsid: 7152-1
+wikidata_id: Q21522398
+ipni_surname: Opatowski
+ipni_forenames: Heinrich
+ipni_standard_form: H.Opat.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0446
+tl2_volume: vol4
+tl2_page_printed: 367
+tl2_surname: Pound
+tl2_forenames: Roscoe
+tl2_name_abbrev: Pound
+tl2_dates: 1870-1964
+tl2_page_id: 33189838
+author_lsid: 25031-1
+wikidata_id: Q1149723
+ipni_surname: Pound
+ipni_forenames: Nathan Roscoe
+ipni_standard_form: Pound
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33189838) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

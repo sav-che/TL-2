@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0793
+tl2_volume: vol5
+tl2_page_printed: 792
+tl2_surname: Spinner
+tl2_forenames: Henri
+tl2_name_abbrev: Spinner
+tl2_dates: 1875-1962
+tl2_page_id: 33333931
+author_lsid: 9974-1
+wikidata_id: Q21609324
+ipni_surname: Spinner
+ipni_forenames: Henri
+ipni_standard_form: Spinner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

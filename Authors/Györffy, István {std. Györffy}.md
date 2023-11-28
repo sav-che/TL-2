@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1288
+tl2_volume: vol1
+tl2_page_printed: 1027
+tl2_surname: Györffy
+tl2_forenames: István
+tl2_name_abbrev: Györffy
+tl2_dates: 1880-1959
+tl2_page_id: 33121158
+author_lsid: 3512-1
+wikidata_id: Q3155761
+ipni_surname: Györffy
+ipni_forenames: Istvan
+ipni_standard_form: Györffy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1027](https://www.biodiversitylibrary.org/page/33121158) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

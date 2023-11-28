@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0113
+tl2_volume: vol4
+tl2_page_printed: 107
+tl2_surname: Patze
+tl2_forenames: Carl August
+tl2_name_abbrev: Patze
+tl2_dates: 1808-1892
+tl2_page_id: 33189578
+author_lsid: 7398-1
+wikidata_id: Q21394096
+ipni_surname: Patze
+ipni_forenames: Carl August
+ipni_standard_form: Patze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

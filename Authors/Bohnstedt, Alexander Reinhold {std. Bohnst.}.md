@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0330
+tl2_volume: vol1
+tl2_page_printed: 253
+tl2_surname: Bohnstedt
+tl2_forenames: Alexander Reinhold
+tl2_name_abbrev: Bohnstedt
+tl2_dates: 1839-1903
+tl2_page_id: 33120384
+author_lsid: 910-1
+wikidata_id: Q21506249
+ipni_surname: Bohnstedt
+ipni_forenames: Alexander Reinhold
+ipni_standard_form: Bohnst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

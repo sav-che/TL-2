@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0274
+tl2_volume: suppl4
+tl2_page_printed: 338
+tl2_surname: Cooper
+tl2_forenames: James Graham
+tl2_name_abbrev: J.G. Cooper
+tl2_dates: 1830-1902
+tl2_page_id: 33266015
+author_lsid: 13571-1
+wikidata_id: Q3161112
+ipni_surname: Cooper
+ipni_forenames: James Graham
+ipni_standard_form: J.G.Cooper
+ipni_dates: 1830-1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0965
+tl2_volume: vol4
+tl2_page_printed: 933
+tl2_surname: Rottler
+tl2_forenames: Johan Peter
+tl2_name_abbrev: Rottler
+tl2_dates: 1749-1836
+tl2_page_id: 33190404
+author_lsid: 8656-1
+wikidata_id: Q2615068
+ipni_surname: Rottler
+ipni_forenames: Johan Peter
+ipni_standard_form: Rottler
+ipni_dates: 1749-1836
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sri Lanka
+- India
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

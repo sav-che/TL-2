@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0874
+tl2_volume: vol2
+tl2_page_printed: 742
+tl2_surname: Lamson-Scribner
+tl2_forenames: Frank (originally Franklin Pierce Lamson)
+tl2_name_abbrev: Lams.-Scribn.
+tl2_dates: 1851-1938
+tl2_page_id: 33068984
+author_lsid: 9397-1
+wikidata_id: Q2458459
+ipni_surname: Scribner
+ipni_forenames: Frank Lamson
+ipni_standard_form: Scribn.
+ipni_dates: 1851-1938
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-10-26 09:16:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33068984) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

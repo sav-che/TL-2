@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0189
+tl2_volume: vol4
+tl2_page_printed: 169
+tl2_surname: Pernhoffer
+tl2_forenames: Gustav, Edler von Bärnkron
+tl2_name_abbrev: Pernh.
+tl2_dates: ca. 1830-1899
+tl2_page_id: 33189640
+author_lsid: 7525-1
+wikidata_id: Q21522834
+ipni_surname: Pernhoffer
+ipni_forenames: Gustav von
+ipni_standard_form: Pernh.
+ipni_dates: 1831-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

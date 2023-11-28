@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0502
+tl2_volume: vol3
+tl2_page_printed: 422
+tl2_surname: Meredith
+tl2_forenames: Louisa Anne, née Twamley
+tl2_name_abbrev: Meredith
+tl2_dates: 1812-1895
+tl2_page_id: 33355509
+author_lsid: 12681-1
+wikidata_id: Q531358
+ipni_surname: Meredith
+ipni_forenames: Louisa Anne
+ipni_standard_form: Meredith
+ipni_dates: 1812-1895
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33355509) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

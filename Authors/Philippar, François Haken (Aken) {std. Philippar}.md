@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0269
+tl2_volume: vol4
+tl2_page_printed: 233
+tl2_surname: Philippar
+tl2_forenames: François Haken [Aken]
+tl2_name_abbrev: Philippar
+tl2_dates: 1802-1849
+tl2_page_id: 33189704
+author_lsid: 7636-1
+wikidata_id: Q18736785
+ipni_surname: Philippar
+ipni_forenames: François Haken(Aken)
+ipni_standard_form: Philippar
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

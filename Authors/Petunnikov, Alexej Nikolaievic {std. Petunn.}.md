@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0243
+tl2_volume: vol4
+tl2_page_printed: 213
+tl2_surname: Petunnikov
+tl2_forenames: Alexej Nikolaievic
+tl2_name_abbrev: Petunn.
+tl2_dates: 1842-1919
+tl2_page_id: 33189684
+author_lsid: 7605-1
+wikidata_id: Q16003958
+ipni_surname: Petunnikow
+ipni_forenames: Alexej Nikolaievič
+ipni_standard_form: Petunn.
+ipni_dates: 1842-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.1.1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

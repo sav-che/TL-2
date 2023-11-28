@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0132
+tl2_volume: suppl3
+tl2_page_printed: 147
+tl2_surname: Bruce
+tl2_forenames: James
+tl2_name_abbrev: Bruce
+tl2_dates: 1730-1794
+tl2_page_id: 33266454
+author_lsid: 1204-1
+wikidata_id: Q348489
+ipni_surname: Bruce
+ipni_forenames: James
+ipni_standard_form: Bruce
+ipni_dates: 1730-1794
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33266454) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

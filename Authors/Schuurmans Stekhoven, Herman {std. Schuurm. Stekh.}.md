@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0392
+tl2_volume: vol5
+tl2_page_printed: 414
+tl2_surname: Schuurmans Stekhoven
+tl2_forenames: Herman
+tl2_name_abbrev: Schuurm. Stekh.
+tl2_dates: ?-1855
+tl2_page_id: 33333553
+author_lsid: 9344-1
+wikidata_id: Q21505774
+ipni_surname: Schuurmans Stekhoven
+ipni_forenames: Jacobus Hermanus(Herman)
+ipni_standard_form: Schuurm.Stekh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33333553) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

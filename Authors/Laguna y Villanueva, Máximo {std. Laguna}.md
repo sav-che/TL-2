@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0854
+tl2_volume: vol2
+tl2_page_printed: 725
+tl2_surname: Laguna y Villanueva
+tl2_forenames: Máximo
+tl2_name_abbrev: Laguna
+tl2_dates: 1826-1902
+tl2_page_id: 33068967
+author_lsid: 5211-1
+wikidata_id: Q4889495
+ipni_surname: Laguna y Villanueva
+ipni_forenames: Máximo
+ipni_standard_form: Laguna
+ipni_dates: 1826-1902
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

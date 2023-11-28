@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0700
+tl2_volume: vol3
+tl2_page_printed: 598
+tl2_surname: Morton
+tl2_forenames: Conrad Vernon
+tl2_name_abbrev: C. Morton
+tl2_dates: 1905-1972
+tl2_page_id: 33355685
+author_lsid: 6685-1
+wikidata_id: Q1127029
+ipni_surname: Morton
+ipni_forenames: Conrad Vernon
+ipni_standard_form: C.V.Morton
+ipni_dates: 1905-1972
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

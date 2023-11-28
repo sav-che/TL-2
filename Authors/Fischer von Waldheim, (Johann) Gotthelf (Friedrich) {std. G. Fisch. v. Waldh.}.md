@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1035
+tl2_volume: vol1
+tl2_page_printed: 840
+tl2_surname: Fischer von Waldheim
+tl2_forenames: [Johann] Gotthelf [Friedrich]
+tl2_name_abbrev: G. Fisch. v. Waldh.
+tl2_dates: 1771-1853
+tl2_page_id: 33120971
+author_lsid: 2754-1
+wikidata_id: Q57802
+ipni_surname: Fischer von Waldheim
+ipni_forenames: (Johann) Gotthelf (Friedrich)
+ipni_standard_form: G.Fisch.Waldh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

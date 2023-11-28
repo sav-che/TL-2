@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0695
+tl2_volume: vol1
+tl2_page_printed: 557
+tl2_surname: Cothenius
+tl2_forenames: Christian Andreas von
+tl2_name_abbrev: Cothen.
+tl2_dates: 1708-1789
+tl2_page_id: 33120688
+author_lsid: 1830-1
+wikidata_id: Q107200
+ipni_surname: Cothenius
+ipni_forenames: Christian Andreas von
+ipni_standard_form: Cothen.
+ipni_dates: 1708-1789
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0435
+tl2_volume: vol6
+tl2_page_printed: 408
+tl2_surname: Torrey
+tl2_forenames: Ray Ethan
+tl2_name_abbrev: R.E. Torr.
+tl2_dates: 1887-1956
+tl2_page_id: 33212450
+author_lsid: 10755-1
+wikidata_id: Q21610893
+ipni_surname: Torrey
+ipni_forenames: Ray Ethan
+ipni_standard_form: R.E.Torr.
+ipni_dates: 1887-1956
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

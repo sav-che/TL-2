@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0260
+tl2_volume: vol7
+tl2_page_printed: 283
+tl2_surname: Wikström
+tl2_forenames: Johan Emanuel
+tl2_name_abbrev: Wikstr.
+tl2_dates: 1789-1856
+tl2_page_id: 33066623
+author_lsid: 11663-1
+wikidata_id: Q433354
+ipni_surname: Wikström
+ipni_forenames: Johan Emanuel
+ipni_standard_form: Wikstr.
+ipni_dates: 1789-1856
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

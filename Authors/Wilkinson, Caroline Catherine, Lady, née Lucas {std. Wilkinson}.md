@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0278
+tl2_volume: vol7
+tl2_page_printed: 298
+tl2_surname: Wilkinson
+tl2_forenames: Caroline Catherine, Lady, née Lucas
+tl2_name_abbrev: Wilkinson
+tl2_dates: 1822-1881
+tl2_page_id: 33066638
+author_lsid: 13018-1
+wikidata_id: Q21612711
+ipni_surname: Wilkinson
+ipni_forenames: Caroline Catharine
+ipni_standard_form: Wilk.
+ipni_dates: 1822-1881
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

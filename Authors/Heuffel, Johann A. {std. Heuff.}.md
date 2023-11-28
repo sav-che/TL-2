@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0223
+tl2_volume: vol2
+tl2_page_printed: 183
+tl2_surname: Heuffel
+tl2_forenames: Johann A.
+tl2_name_abbrev: Heuff.
+tl2_dates: 1800-1857
+tl2_page_id: 33068425
+author_lsid: 3911-1
+wikidata_id: Q1036002
+ipni_surname: Heuffel
+ipni_forenames: János(Johann) A.
+ipni_standard_form: Heuff.
+ipni_dates: 1800-1857
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33068425) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

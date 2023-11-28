@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0966
+tl2_volume: vol4
+tl2_page_printed: 933
+tl2_surname: Roucel
+tl2_forenames: François Antoine
+tl2_name_abbrev: Roucel
+tl2_dates: 1736-1831
+tl2_page_id: 33190404
+author_lsid: 8657-1
+wikidata_id: Q3083826
+ipni_surname: Roucel
+ipni_forenames: François Antoine
+ipni_standard_form: Roucel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

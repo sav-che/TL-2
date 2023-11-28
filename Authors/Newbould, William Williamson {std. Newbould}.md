@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0860
+tl2_volume: vol3
+tl2_page_printed: 735
+tl2_surname: Newbould
+tl2_forenames: William Williamson
+tl2_name_abbrev: Newbould
+tl2_dates: 1819-1886
+tl2_page_id: 33355822
+author_lsid: 6946-1
+wikidata_id: Q18736114
+ipni_surname: Newbould
+ipni_forenames: William Williamson
+ipni_standard_form: Newbould
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33355822) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

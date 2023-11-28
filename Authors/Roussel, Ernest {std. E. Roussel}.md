@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0974
+tl2_volume: vol4
+tl2_page_printed: 943
+tl2_surname: Roussel
+tl2_forenames: Ernest
+tl2_name_abbrev: E. Roussel
+tl2_dates: fl. 1860
+tl2_page_id: 33190414
+author_lsid: 8668-1
+wikidata_id: Q47125386
+ipni_surname: Roussel
+ipni_forenames: Ernest
+ipni_standard_form: E.Roussel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

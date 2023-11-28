@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0773
+tl2_volume: vol5
+tl2_page_printed: 772
+tl2_surname: Spalowsky
+tl2_forenames: Joachim Johann Nepomuk
+tl2_name_abbrev: Spalowsky
+tl2_dates: 1752-1797
+tl2_page_id: 33333911
+author_lsid: 9947-1
+wikidata_id: Q6204573
+ipni_surname: Spalowsky
+ipni_forenames: Joachim Johann Nepomuk
+ipni_standard_form: Spalowsky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

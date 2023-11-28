@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0884
+tl2_volume: vol2
+tl2_page_printed: 750
+tl2_surname: Langethal
+tl2_forenames: Christian Eduard
+tl2_name_abbrev: Langeth.
+tl2_dates: 1806-1878
+tl2_page_id: 33068992
+author_lsid: 5267-1
+wikidata_id: Q67415
+ipni_surname: Langethal
+ipni_forenames: Christian Eduard
+ipni_standard_form: Langeth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

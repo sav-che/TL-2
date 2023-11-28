@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0219
+tl2_volume: vol5
+tl2_page_printed: 235
+tl2_surname: Schmid
+tl2_forenames: Ernst Ehrhard Friedrich Wilhelm
+tl2_name_abbrev: E.E. Schmid
+tl2_dates: 1815-1885
+tl2_page_id: 33333374
+author_lsid: 9143-1
+wikidata_id: Q19001819
+ipni_surname: Schmid
+ipni_forenames: Ernst Ehrhard Friedrich Wilhelm
+ipni_standard_form: Schmid
+ipni_dates: 1815-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

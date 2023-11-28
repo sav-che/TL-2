@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0222
+tl2_volume: suppl7
+tl2_page_printed: 329
+tl2_surname: Forsyth-Major [Major]
+tl2_forenames: Charles Immanuel
+tl2_name_abbrev: Fors.-Major
+tl2_dates: 1843-1923
+tl2_page_id: 33259833
+author_lsid: 2838-1
+wikidata_id: Q116027
+ipni_surname: Forsyth-Major
+ipni_forenames: Charles Immanuel
+ipni_standard_form: Fors.-Major
+ipni_dates: 1843-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0209
+tl2_volume: vol5
+tl2_page_printed: 226
+tl2_surname: Schlotheim
+tl2_forenames: Ernst Friedrich [Freiherr, baron] von
+tl2_name_abbrev: Schloth.
+tl2_dates: 1764-1832
+tl2_page_id: 33333365
+author_lsid: 9131-1
+wikidata_id: Q215728
+ipni_surname: Schlotheim
+ipni_forenames: Ernst Friedrich von
+ipni_standard_form: Schloth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33333365) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

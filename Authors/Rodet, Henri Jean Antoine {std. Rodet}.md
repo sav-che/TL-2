@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0837
+tl2_volume: vol4
+tl2_page_printed: 828
+tl2_surname: Rodet
+tl2_forenames: Henri Jean Antoine
+tl2_name_abbrev: Rodet
+tl2_dates: 1810-1875
+tl2_page_id: 33190299
+author_lsid: 8479-1
+wikidata_id: Q21607297
+ipni_surname: Rodet
+ipni_forenames: Henri Jean Antoine
+ipni_standard_form: Rodet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

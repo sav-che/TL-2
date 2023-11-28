@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0276
+tl2_volume: vol1
+tl2_page_printed: 212
+tl2_surname: Bicknell
+tl2_forenames: Eugene Pintard
+tl2_name_abbrev: E.P. Bicknell
+tl2_dates: 1859-1925
+tl2_page_id: 33120343
+author_lsid: 773-1
+wikidata_id: Q5407654
+ipni_surname: Bicknell
+ipni_forenames: Eugene Pintard
+ipni_standard_form: E.P.Bicknell
+ipni_dates: 1859-1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

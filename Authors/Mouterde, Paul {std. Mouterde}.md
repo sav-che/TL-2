@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0723
+tl2_volume: vol3
+tl2_page_printed: 610
+tl2_surname: Mouterde
+tl2_forenames: Paul
+tl2_name_abbrev: Mouterde
+tl2_dates: 1892-1972
+tl2_page_id: 33355697
+author_lsid: 6715-1
+wikidata_id: Q6067241
+ipni_surname: Mouterde
+ipni_forenames: Paul
+ipni_standard_form: Mouterde
+ipni_dates: 1892-1972
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

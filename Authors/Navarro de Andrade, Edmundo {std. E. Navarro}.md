@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0816
+tl2_volume: vol3
+tl2_page_printed: 698
+tl2_surname: Navarro de Andrade
+tl2_forenames: Edmundo
+tl2_name_abbrev: E. Navarro
+tl2_dates: 1881-1941
+tl2_page_id: 33355785
+author_lsid: 206-1
+wikidata_id: Q47123309
+ipni_surname: Navarro
+ipni_forenames: Edmundo
+ipni_standard_form: Navarro
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

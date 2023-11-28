@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0390
+tl2_volume: vol3
+tl2_page_printed: 340
+tl2_surname: Martius
+tl2_forenames: Theodor Wilhelm Christian
+tl2_name_abbrev: T. Mart.
+tl2_dates: 1796-1863
+tl2_page_id: 33355427
+author_lsid: 6179-1
+wikidata_id: Q21520053
+ipni_surname: Martius
+ipni_forenames: Theodor Wilhelm Christian
+ipni_standard_form: T.Mart.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

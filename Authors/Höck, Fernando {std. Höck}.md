@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0273
+tl2_volume: vol2
+tl2_page_printed: 225
+tl2_surname: Höck
+tl2_forenames: Fernando
+tl2_name_abbrev: Höck
+tl2_dates: 1858-1915
+tl2_page_id: 33068467
+author_lsid: 3993-1
+wikidata_id: Q5859719
+ipni_surname: Höck
+ipni_forenames: Fernando
+ipni_standard_form: Höck
+ipni_dates: 1858-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33068467) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

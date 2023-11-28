@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0724
+tl2_volume: vol2
+tl2_page_printed: 597
+tl2_surname: Kolbing
+tl2_forenames: F, W.
+tl2_name_abbrev: Kölb.
+tl2_dates: x-1840
+tl2_page_id: 33068839
+author_lsid: 4914-1
+wikidata_id: Q21517694
+ipni_surname: Kölbing
+ipni_forenames: Friedrich Wilhelm
+ipni_standard_form: Kölbing
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

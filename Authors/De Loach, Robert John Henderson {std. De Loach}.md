@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0204
+tl2_volume: suppl5
+tl2_page_printed: 182
+tl2_surname: De Loach
+tl2_forenames: Robert John Henderson
+tl2_name_abbrev: De Loach
+tl2_dates: 1873-?
+tl2_page_id: 33259228
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

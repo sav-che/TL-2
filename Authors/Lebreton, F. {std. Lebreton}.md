@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0939
+tl2_volume: vol2
+tl2_page_printed: 779
+tl2_surname: Lebreton
+tl2_forenames: F.
+tl2_name_abbrev: Lebreton
+tl2_dates: fl. 1787
+tl2_page_id: 33069021
+author_lsid: 5379-1
+wikidata_id: Q36555386
+ipni_surname: Lebreton
+ipni_forenames: F.
+ipni_standard_form: Lebreton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0302
+tl2_volume: vol4
+tl2_page_printed: 257
+tl2_surname: Pieper
+tl2_forenames: Gustav Robert
+tl2_name_abbrev: G. Piep.
+tl2_dates: fl. 1908
+tl2_page_id: 33189728
+author_lsid: 7680-1
+wikidata_id: Q36566484
+ipni_surname: Pieper
+ipni_forenames: Gustav Robert
+ipni_standard_form: G.Piep.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

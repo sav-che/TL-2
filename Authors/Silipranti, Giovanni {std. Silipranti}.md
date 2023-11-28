@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0590
+tl2_volume: vol5
+tl2_page_printed: 597
+tl2_surname: Silipranti
+tl2_forenames: Giovanni
+tl2_name_abbrev: Silipranti
+tl2_dates: fl. 1887
+tl2_page_id: 33333736
+author_lsid: 9638-1
+wikidata_id: Q36568478
+ipni_surname: Silipranti
+ipni_forenames: Giovanni
+ipni_standard_form: Silipr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

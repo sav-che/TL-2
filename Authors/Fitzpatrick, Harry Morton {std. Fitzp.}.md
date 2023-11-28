@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1039
+tl2_volume: vol1
+tl2_page_printed: 842
+tl2_surname: Fitzpatrick
+tl2_forenames: Harry Morton
+tl2_name_abbrev: Fitzp.
+tl2_dates: 1886-1949
+tl2_page_id: 33120973
+author_lsid: 18837-1
+wikidata_id: Q4485145
+ipni_surname: Fitzpatrick
+ipni_forenames: Harry Morton
+ipni_standard_form: Fitzp.
+ipni_dates: 1886-1949
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

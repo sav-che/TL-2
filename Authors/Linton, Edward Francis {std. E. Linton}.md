@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0057
+tl2_volume: vol3
+tl2_page_printed: 113
+tl2_surname: Linton
+tl2_forenames: Edward Francis
+tl2_name_abbrev: E. Linton
+tl2_dates: 1848-1928
+tl2_page_id: 33355200
+author_lsid: 5638-1
+wikidata_id: Q21341899
+ipni_surname: Linton
+ipni_forenames: Edward Francis
+ipni_standard_form: E.F.Linton
+ipni_dates: 1848-1928
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

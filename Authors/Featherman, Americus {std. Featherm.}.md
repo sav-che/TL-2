@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0062
+tl2_volume: suppl7
+tl2_page_printed: 79
+tl2_surname: Featherman
+tl2_forenames: Americus
+tl2_name_abbrev: Featherm.
+tl2_dates: 1822-1891, or later
+tl2_page_id: 33259583
+author_lsid: 13402-1
+wikidata_id: Q21512731
+ipni_surname: Featherman
+ipni_forenames: Americus
+ipni_standard_form: Featherm.
+ipni_dates: 1822-c.1880
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259583) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

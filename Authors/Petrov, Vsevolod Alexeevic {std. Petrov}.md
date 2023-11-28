@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0236
+tl2_volume: vol4
+tl2_page_printed: 210
+tl2_surname: Petrov
+tl2_forenames: Vsevolod Alexeevic
+tl2_name_abbrev: Petrov
+tl2_dates: 1896-x
+tl2_page_id: 33189681
+author_lsid: 7594-1
+wikidata_id: Q19001494
+ipni_surname: Petrov
+ipni_forenames: Vsevolod Alexeevič
+ipni_standard_form: Petrov
+ipni_dates: 1896-1955
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33189681) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0434
+tl2_volume: vol4
+tl2_page_printed: 356
+tl2_surname: Potanin
+tl2_forenames: Grigorii Nikolajevic
+tl2_name_abbrev: Potanin
+tl2_dates: 1835-1920
+tl2_page_id: 33189827
+author_lsid: 7885-1
+wikidata_id: Q1377569
+ipni_surname: Potanin
+ipni_forenames: Grigorii Nikolaevich
+ipni_standard_form: Potanin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33189827) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

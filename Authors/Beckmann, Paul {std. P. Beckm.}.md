@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0029
+tl2_volume: suppl2
+tl2_page_printed: 37
+tl2_surname: Beckmann
+tl2_forenames: Paul
+tl2_name_abbrev: P. Beckm.
+tl2_dates: 1881-?
+tl2_page_id: 33265234
+author_lsid: 15867-1
+wikidata_id: Q21505863
+ipni_surname: Beckmann
+ipni_forenames: Paul
+ipni_standard_form: P.Beckm.
+ipni_dates: 1881-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

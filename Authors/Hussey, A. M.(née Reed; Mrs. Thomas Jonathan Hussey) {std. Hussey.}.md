@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol2_0397
+tl2_volume: vol2
+tl2_page_printed: 376
+tl2_surname: Hussey
+tl2_forenames: A. M.(née Reed; Mrs. Thomas Jonathan Hussey)
+tl2_name_abbrev: Hussey.
+tl2_dates: fl. 1820-1877
+tl2_page_id: 33068618
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33068618) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

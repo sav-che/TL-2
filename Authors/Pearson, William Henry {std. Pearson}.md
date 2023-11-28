@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0141
+tl2_volume: vol4
+tl2_page_printed: 132
+tl2_surname: Pearson
+tl2_forenames: William Henry
+tl2_name_abbrev: Pearson
+tl2_dates: 1849-1923
+tl2_page_id: 33189603
+author_lsid: 24673-1
+wikidata_id: Q21522736
+ipni_surname: Pearson
+ipni_forenames: William Henry
+ipni_standard_form: Pearson
+ipni_dates: 1849-1923
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33189603) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

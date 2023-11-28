@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0023
+tl2_volume: vol7
+tl2_page_printed: 21
+tl2_surname: Wahlstedt
+tl2_forenames: Lars Johan
+tl2_name_abbrev: Wahlstedt
+tl2_dates: 1836-1917
+tl2_page_id: 33066361
+author_lsid: 11317-1
+wikidata_id: Q16650555
+ipni_surname: Wahlstedt
+ipni_forenames: Lars Johan
+ipni_standard_form: Wahlst.
+ipni_dates: 1836-1917
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33066361) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

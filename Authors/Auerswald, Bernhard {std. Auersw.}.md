@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0112
+tl2_volume: vol1
+tl2_page_printed: 81
+tl2_surname: Auerswald
+tl2_forenames: Bernhard
+tl2_name_abbrev: Auersw.
+tl2_dates: 1818-1870
+tl2_page_id: 33120212
+author_lsid: 31082-1
+wikidata_id: Q5727033
+ipni_surname: Auerswald
+ipni_forenames: Bernhard
+ipni_standard_form: Auersw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

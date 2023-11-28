@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0988
+tl2_volume: vol1
+tl2_page_printed: 812
+tl2_surname: Falconer
+tl2_forenames: Hugh
+tl2_name_abbrev: Falc.
+tl2_dates: 1808-1865
+tl2_page_id: 33120943
+author_lsid: 2626-1
+wikidata_id: Q223013
+ipni_surname: Falconer
+ipni_forenames: Hugh
+ipni_standard_form: Falc.
+ipni_dates: 1808-1865
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- India
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-08-27 13:38:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

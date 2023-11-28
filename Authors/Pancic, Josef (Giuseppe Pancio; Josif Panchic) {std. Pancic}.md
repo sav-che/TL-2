@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0049
+tl2_volume: vol4
+tl2_page_printed: 42
+tl2_surname: Pancic
+tl2_forenames: Josef (Giuseppe Pancio; Josif Panchic)
+tl2_name_abbrev: Pancic
+tl2_dates: 1814-1888
+tl2_page_id: 33189475
+author_lsid: 7303-1
+wikidata_id: Q543250
+ipni_surname: Pančić
+ipni_forenames: Joseph
+ipni_standard_form: Pančić
+ipni_dates: 1814-1888
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33189475) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

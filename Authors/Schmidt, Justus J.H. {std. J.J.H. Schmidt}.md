@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0240
+tl2_volume: vol5
+tl2_page_printed: 258
+tl2_surname: Schmidt
+tl2_forenames: Justus J.H.
+tl2_name_abbrev: J.J.H. Schmidt
+tl2_dates: 1851-1930
+tl2_page_id: 33333397
+author_lsid: 9166-1
+wikidata_id: Q21608164
+ipni_surname: Schmidt
+ipni_forenames: Justus J.H.
+ipni_standard_form: J.J.H.Schmidt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33333397) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

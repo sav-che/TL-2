@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0319
+tl2_volume: vol4
+tl2_page_printed: 268
+tl2_surname: Pinatzis
+tl2_forenames: Leonidas
+tl2_name_abbrev: Pinatzis
+tl2_dates: 1891-1964
+tl2_page_id: 33189739
+author_lsid: 7710-1
+wikidata_id: Q21523017
+ipni_surname: Pinatzis
+ipni_forenames: Leonidas
+ipni_standard_form: Pinatzis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Greece
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

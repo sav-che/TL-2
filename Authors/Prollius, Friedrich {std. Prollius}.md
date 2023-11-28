@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0501
+tl2_volume: vol4
+tl2_page_printed: 417
+tl2_surname: Prollius
+tl2_forenames: Friedrich
+tl2_name_abbrev: Prollius
+tl2_dates: fl. 1882
+tl2_page_id: 33189888
+author_lsid: 7990-1
+wikidata_id: Q36556734
+ipni_surname: Prollius
+ipni_forenames: Friedrich
+ipni_standard_form: Prollius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

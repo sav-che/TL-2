@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0350
+tl2_volume: vol3
+tl2_page_printed: 304
+tl2_surname: Marret
+tl2_forenames: Léon
+tl2_name_abbrev: Marret
+tl2_dates: fl. 1900-1929
+tl2_page_id: 33355391
+author_lsid: 6128-1
+wikidata_id: Q36615337
+ipni_surname: Marret
+ipni_forenames: Léon
+ipni_standard_form: Marret
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

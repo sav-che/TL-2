@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0131
+tl2_volume: vol5
+tl2_page_printed: 121
+tl2_surname: Scheele
+tl2_forenames: [Georg Heinrich] Adolf
+tl2_name_abbrev: Scheele
+tl2_dates: 1808-1864
+tl2_page_id: 33333260
+author_lsid: 9029-1
+wikidata_id: Q4522370
+ipni_surname: Scheele
+ipni_forenames: George Heinrich Adolf
+ipni_standard_form: Scheele
+ipni_dates: 1808-1864
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

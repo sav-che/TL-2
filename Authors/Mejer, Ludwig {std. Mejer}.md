@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0478
+tl2_volume: vol3
+tl2_page_printed: 408
+tl2_surname: Mejer
+tl2_forenames: Ludwig
+tl2_name_abbrev: Mejer
+tl2_dates: 1825-1895
+tl2_page_id: 33355495
+author_lsid: 6325-1
+wikidata_id: Q19218325
+ipni_surname: Mejer
+ipni_forenames: Ludwig
+ipni_standard_form: Mejer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33355495) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

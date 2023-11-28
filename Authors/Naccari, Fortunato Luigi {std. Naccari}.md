@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0795
+tl2_volume: vol3
+tl2_page_printed: 679
+tl2_surname: Naccari
+tl2_forenames: Fortunato Luigi
+tl2_name_abbrev: Naccari
+tl2_dates: 1793-1860
+tl2_page_id: 33355766
+author_lsid: 6827-1
+wikidata_id: Q21521947
+ipni_surname: Naccari
+ipni_forenames: Fortunato Luigi
+ipni_standard_form: Naccari
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33355766) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

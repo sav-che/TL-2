@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0892
+tl2_volume: vol4
+tl2_page_printed: 874
+tl2_surname: Romano
+tl2_forenames: Girolamo (Gerolamo)
+tl2_name_abbrev: Romano
+tl2_dates: 1765-1841
+tl2_page_id: 33190345
+author_lsid: 8562-1
+wikidata_id: Q21607365
+ipni_surname: Romano
+ipni_forenames: Girolamo(Gerolamo)
+ipni_standard_form: Romano
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

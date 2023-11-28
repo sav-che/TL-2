@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0703
+tl2_volume: vol1
+tl2_page_printed: 561
+tl2_surname: Coville
+tl2_forenames: Frederick Vernon
+tl2_name_abbrev: Coville
+tl2_dates: 1867-1937
+tl2_page_id: 33120692
+author_lsid: 17479-1
+wikidata_id: Q535104
+ipni_surname: Coville
+ipni_forenames: Frederick Vernon
+ipni_standard_form: Coville
+ipni_dates: 1867-1937
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33120692) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

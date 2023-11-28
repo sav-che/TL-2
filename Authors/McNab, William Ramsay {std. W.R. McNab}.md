@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0249
+tl2_volume: vol3
+tl2_page_printed: 231
+tl2_surname: McNab
+tl2_forenames: William Ramsay
+tl2_name_abbrev: W.R. McNab
+tl2_dates: 1844-1889
+tl2_page_id: 33355318
+author_lsid: 5952-1
+wikidata_id: Q14948981
+ipni_surname: McNab
+ipni_forenames: William Ramsay
+ipni_standard_form: W.R.McNab
+ipni_dates: 1844-1889
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33355318) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

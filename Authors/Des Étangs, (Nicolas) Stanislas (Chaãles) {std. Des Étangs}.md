@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0254
+tl2_volume: suppl5
+tl2_page_printed: 219
+tl2_surname: Des Étangs
+tl2_forenames: [Nicolas] Stanislas [Chaãles]
+tl2_name_abbrev: Des Étangs
+tl2_dates: 1801-1876
+tl2_page_id: 33259265
+author_lsid: 2149-1
+wikidata_id: Q21510267
+ipni_surname: Des Étangs
+ipni_forenames: Nicolas Stanislas Chaâles
+ipni_standard_form: Des Étangs
+ipni_dates: 1801-1876
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259265) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

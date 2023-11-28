@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1053
+tl2_volume: vol4
+tl2_page_printed: 1021
+tl2_surname: Sabine
+tl2_forenames: [Sir] Edward
+tl2_name_abbrev: E. Sabine
+tl2_dates: 1788-1883
+tl2_page_id: 33190492
+author_lsid: 12806-1
+wikidata_id: Q311223
+ipni_surname: Sabine
+ipni_forenames: Edward
+ipni_standard_form: E.Sabine
+ipni_dates: 1788-1883
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

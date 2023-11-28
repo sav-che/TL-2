@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0021
+tl2_volume: vol2
+tl2_page_printed: 15
+tl2_surname: Hahn
+tl2_forenames: Otto
+tl2_name_abbrev: O. Hahn
+tl2_dates: 1828-1904
+tl2_page_id: 33068257
+author_lsid: 3556-1
+wikidata_id: Q21514502
+ipni_surname: Hahn
+ipni_forenames: Otto
+ipni_standard_form: Hahn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

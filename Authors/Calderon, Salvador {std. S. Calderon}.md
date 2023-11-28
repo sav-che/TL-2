@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0303
+tl2_volume: suppl3
+tl2_page_printed: 309
+tl2_surname: Calderon
+tl2_forenames: Salvador
+tl2_name_abbrev: S. Calderon
+tl2_dates: 1884-1940
+tl2_page_id: 33266616
+author_lsid: 20005048-2
+wikidata_id: Q21505762
+ipni_surname: Calderón
+ipni_forenames: Salvador
+ipni_standard_form: S.Calderón
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- El Salvador
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

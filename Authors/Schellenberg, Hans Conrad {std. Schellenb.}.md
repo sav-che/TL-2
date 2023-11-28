@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0138
+tl2_volume: vol5
+tl2_page_printed: 127
+tl2_surname: Schellenberg
+tl2_forenames: Hans Conrad
+tl2_name_abbrev: Schellenb.
+tl2_dates: 1872-1923
+tl2_page_id: 33333266
+author_lsid: 26247-1
+wikidata_id: Q1579059
+ipni_surname: Schellenberg
+ipni_forenames: Hans Conrad
+ipni_standard_form: Schellenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33333266) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

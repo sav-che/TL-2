@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0577
+tl2_volume: vol5
+tl2_page_printed: 592
+tl2_surname: Siegert
+tl2_forenames: Gottlob
+tl2_name_abbrev: Siegert
+tl2_dates: 1789-1868
+tl2_page_id: 33333731
+author_lsid: 9619-1
+wikidata_id: Q21608860
+ipni_surname: Siegert
+ipni_forenames: Gottlob
+ipni_standard_form: Siegert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

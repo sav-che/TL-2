@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0305
+tl2_volume: suppl2
+tl2_page_printed: 243
+tl2_surname: Bodmer
+tl2_forenames: Helen
+tl2_name_abbrev: H. Bodmer
+tl2_dates: 1897-x
+tl2_page_id: 33265440
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

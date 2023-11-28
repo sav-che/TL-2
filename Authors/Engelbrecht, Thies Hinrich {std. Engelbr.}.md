@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0384
+tl2_volume: suppl6
+tl2_page_printed: 341
+tl2_surname: Engelbrecht
+tl2_forenames: Thies Hinrich
+tl2_name_abbrev: Engelbr.
+tl2_dates: fl. 1899-1933
+tl2_page_id: 33260329
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

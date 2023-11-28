@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0387
+tl2_volume: vol2
+tl2_page_printed: 361
+tl2_surname: Hult
+tl2_forenames: Ragnar
+tl2_name_abbrev: Hult
+tl2_dates: 1857-1899
+tl2_page_id: 33068603
+author_lsid: 4218-1
+wikidata_id: Q446745
+ipni_surname: Hult
+ipni_forenames: Ragnar
+ipni_standard_form: Hult
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

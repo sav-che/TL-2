@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0431
+tl2_volume: suppl2
+tl2_page_printed: 380
+tl2_surname: Bouillat
+tl2_forenames: Maurice E.
+tl2_name_abbrev: Bouillat
+tl2_dates: fl. 1928
+tl2_page_id: 33265577
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265577) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

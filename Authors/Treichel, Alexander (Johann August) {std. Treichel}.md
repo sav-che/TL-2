@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0479
+tl2_volume: vol6
+tl2_page_printed: 457
+tl2_surname: Treichel
+tl2_forenames: Alexander [Johann August]
+tl2_name_abbrev: Treichel
+tl2_dates: 1837-1901
+tl2_page_id: 33212499
+author_lsid: 12945-1
+wikidata_id: Q15453411
+ipni_surname: Treichel
+ipni_forenames: Alexander (Johann August)
+ipni_standard_form: Treich.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

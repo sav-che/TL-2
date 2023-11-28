@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0604
+tl2_volume: vol3
+tl2_page_printed: 527
+tl2_surname: Miyabe
+tl2_forenames: Kingo
+tl2_name_abbrev: Miyabe
+tl2_dates: 1860-1951
+tl2_page_id: 33355614
+author_lsid: 6531-1
+wikidata_id: Q11455300
+ipni_surname: Miyabe
+ipni_forenames: Kingo
+ipni_standard_form: Miyabe
+ipni_dates: 1860-1951
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33355614) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

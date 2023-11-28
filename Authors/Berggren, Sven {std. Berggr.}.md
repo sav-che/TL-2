@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol1_0245
+tl2_volume: vol1
+tl2_page_printed: 190
+tl2_surname: Berggren
+tl2_forenames: Sven
+tl2_name_abbrev: Berggr.
+tl2_dates: 1837-1917
+tl2_page_id: 33120321
+author_lsid: 15984-1
+wikidata_id: Q2600462
+ipni_surname: Berggren
+ipni_forenames: Sven
+ipni_standard_form: Berggr.
+ipni_dates: 1837-1917
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- New Zealand
+- Greenland
+- Norway
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

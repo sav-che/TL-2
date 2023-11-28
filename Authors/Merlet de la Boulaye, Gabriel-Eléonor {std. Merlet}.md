@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0507
+tl2_volume: vol3
+tl2_page_printed: 424
+tl2_surname: Merlet de la Boulaye
+tl2_forenames: Gabriel-Eléonor
+tl2_name_abbrev: Merlet
+tl2_dates: 1736-1807
+tl2_page_id: 33355511
+author_lsid: 6373-1
+wikidata_id: Q3094040
+ipni_surname: Merlet de la Boulaye
+ipni_forenames: Gabriel-Eléonor
+ipni_standard_form: Merlet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

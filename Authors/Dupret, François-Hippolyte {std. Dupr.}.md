@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0195
+tl2_volume: suppl6
+tl2_page_printed: 177
+tl2_surname: Dupret
+tl2_forenames: François-Hippolyte
+tl2_name_abbrev: Dupr.
+tl2_dates: 1853-1932
+tl2_page_id: 33260165
+author_lsid: 18287-1
+wikidata_id: Q21511117
+ipni_surname: Dupret
+ipni_forenames: François Hippolyte
+ipni_standard_form: Dupr.
+ipni_dates: 1853-1932
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+- Canada
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

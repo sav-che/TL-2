@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0352
+tl2_volume: suppl4
+tl2_page_printed: 436
+tl2_surname: Cowles
+tl2_forenames: Henry Chandler
+tl2_name_abbrev: Cowles
+tl2_dates: 1869-1939
+tl2_page_id: 33266113
+author_lsid: 20005053-2
+wikidata_id: Q324510
+ipni_surname: Cowles
+ipni_forenames: Henry Chandler
+ipni_standard_form: Cowles
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33266113) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0160
+tl2_volume: vol7
+tl2_page_printed: 169
+tl2_surname: Weiss
+tl2_forenames: Johann Evangelista
+tl2_name_abbrev: J. Weiss
+tl2_dates: 1850-1918
+tl2_page_id: 33066509
+author_lsid: 11525-1
+wikidata_id: Q9012380
+ipni_surname: Weiss
+ipni_forenames: Johann Evangelista
+ipni_standard_form: J.Weiss
+ipni_dates: 1850-1918
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33066509) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

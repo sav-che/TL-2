@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0330
+tl2_volume: suppl4
+tl2_page_printed: 411
+tl2_surname: Couderc
+tl2_forenames: Georges
+tl2_name_abbrev: Couderc
+tl2_dates: 1850-1928
+tl2_page_id: 33266088
+author_lsid: 17467-1
+wikidata_id: Q21339307
+ipni_surname: Couderc
+ipni_forenames: George
+ipni_standard_form: Couderc
+ipni_dates: 1850-1928
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266088) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

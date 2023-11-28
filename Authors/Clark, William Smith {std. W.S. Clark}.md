@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0140
+tl2_volume: suppl4
+tl2_page_printed: 182
+tl2_surname: Clark
+tl2_forenames: William Smith
+tl2_name_abbrev: W.S. Clark
+tl2_dates: 1826-1886
+tl2_page_id: 33265859
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33265859) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

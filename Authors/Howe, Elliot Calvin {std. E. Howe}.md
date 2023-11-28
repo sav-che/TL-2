@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0363
+tl2_volume: vol2
+tl2_page_printed: 347
+tl2_surname: Howe
+tl2_forenames: Elliot Calvin
+tl2_name_abbrev: E. Howe
+tl2_dates: 1829-1899
+tl2_page_id: 33068589
+author_lsid: 4159-1
+wikidata_id: Q21516434
+ipni_surname: Howe
+ipni_forenames: Elliot Calvin
+ipni_standard_form: Howe
+ipni_dates: 1828-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

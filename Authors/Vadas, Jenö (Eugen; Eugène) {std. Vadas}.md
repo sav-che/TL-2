@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0619
+tl2_volume: vol6
+tl2_page_printed: 627
+tl2_surname: Vadas
+tl2_forenames: Jenö [Eugen; Eugène]
+tl2_name_abbrev: Vadas
+tl2_dates: 1857-?
+tl2_page_id: 33212669
+author_lsid: 11018-1
+wikidata_id: Q21611321
+ipni_surname: Vadas
+ipni_forenames: Jenö (Eugen,Eugène)
+ipni_standard_form: Vadas
+ipni_dates: 1857-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33212669) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

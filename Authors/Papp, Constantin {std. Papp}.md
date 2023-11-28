@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0064
+tl2_volume: vol4
+tl2_page_printed: 52
+tl2_surname: Papp
+tl2_forenames: Constantin
+tl2_name_abbrev: Papp
+tl2_dates: 1896-1972
+tl2_page_id: 33189485
+author_lsid: 7325-1
+wikidata_id: Q18545180
+ipni_surname: Papp
+ipni_forenames: Constantin
+ipni_standard_form: Papp
+ipni_dates: 1896-1972
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33189485) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

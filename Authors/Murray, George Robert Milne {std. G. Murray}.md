@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0782
+tl2_volume: vol3
+tl2_page_printed: 668
+tl2_surname: Murray
+tl2_forenames: George Robert Milne
+tl2_name_abbrev: G. Murray
+tl2_dates: 1858-1911
+tl2_page_id: 33355755
+author_lsid: 6808-1
+wikidata_id: Q2003863
+ipni_surname: Murray
+ipni_forenames: George Robert Milne
+ipni_standard_form: G.Murray
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Cryptogamic
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33355755) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

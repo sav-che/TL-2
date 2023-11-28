@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0264
+tl2_volume: suppl3
+tl2_page_printed: 276
+tl2_surname: Buschbaum
+tl2_forenames: Heinrich
+tl2_name_abbrev: Buschbaum
+tl2_dates: 1836-1924
+tl2_page_id: 33266583
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33266583) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0335
+tl2_volume: vol7
+tl2_page_printed: 380
+tl2_surname: Winter
+tl2_forenames: Ferdinand
+tl2_name_abbrev: F. Wint.
+tl2_dates: 1835-1888
+tl2_page_id: 33066720
+author_lsid: 11773-1
+wikidata_id: Q21612837
+ipni_surname: Winter
+ipni_forenames: Ferdinand
+ipni_standard_form: F.Winter
+ipni_dates: 1835-1888
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

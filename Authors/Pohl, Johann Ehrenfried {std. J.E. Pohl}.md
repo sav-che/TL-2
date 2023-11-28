@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0373
+tl2_volume: vol4
+tl2_page_printed: 317
+tl2_surname: Pohl
+tl2_forenames: Johann Ehrenfried
+tl2_name_abbrev: J.E. Pohl
+tl2_dates: 1746-1800
+tl2_page_id: 33189788
+author_lsid: 7784-1
+wikidata_id: Q1674510
+ipni_surname: Pohl
+ipni_forenames: Johann Ehrenfried
+ipni_standard_form: J.E.Pohl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

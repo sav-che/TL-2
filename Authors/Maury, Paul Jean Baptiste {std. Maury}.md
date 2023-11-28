@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0436
+tl2_volume: vol3
+tl2_page_printed: 379
+tl2_surname: Maury
+tl2_forenames: Paul Jean Baptiste
+tl2_name_abbrev: Maury
+tl2_dates: 1858-1893
+tl2_page_id: 33355466
+author_lsid: 6262-1
+wikidata_id: Q21520151
+ipni_surname: Maury
+ipni_forenames: Paul Jean Baptiste
+ipni_standard_form: Maury
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33355466) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

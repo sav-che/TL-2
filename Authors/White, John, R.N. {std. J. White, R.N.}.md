@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0235
+tl2_volume: vol7
+tl2_page_printed: 254
+tl2_surname: White
+tl2_forenames: John, R.N.
+tl2_name_abbrev: J. White, R.N.
+tl2_dates: 1756(?)-1832
+tl2_page_id: 33066594
+author_lsid: 13079-1
+wikidata_id: Q1387000
+ipni_surname: White
+ipni_forenames: John
+ipni_standard_form: J.White
+ipni_dates: 1757-1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Australia
+ipni_version: 1.5.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-11-28 17:07:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33066594) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

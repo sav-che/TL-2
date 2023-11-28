@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0054
+tl2_volume: suppl2
+tl2_page_printed: 59
+tl2_surname: Beinert
+tl2_forenames: Carl Christian
+tl2_name_abbrev: Beinert
+tl2_dates: 1793-1868
+tl2_page_id: 33265256
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33265256) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

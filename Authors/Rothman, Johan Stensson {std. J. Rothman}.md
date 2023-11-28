@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0958
+tl2_volume: vol4
+tl2_page_printed: 926
+tl2_surname: Rothman
+tl2_forenames: Johan Stensson
+tl2_name_abbrev: J. Rothman
+tl2_dates: 1684-1763
+tl2_page_id: 33190397
+author_lsid: 8648-1
+wikidata_id: Q365301
+ipni_surname: Rothman
+ipni_forenames: Johan Stensson
+ipni_standard_form: J.Rothman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33190397) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

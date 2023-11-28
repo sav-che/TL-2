@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0247
+tl2_volume: vol5
+tl2_page_printed: 262
+tl2_surname: Schmitt
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Schmitt
+tl2_dates: 1862-1915
+tl2_page_id: 33333401
+author_lsid: 9173-1
+wikidata_id: Q21608186
+ipni_surname: Schmitt
+ipni_forenames: Joseph
+ipni_standard_form: Schmitt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

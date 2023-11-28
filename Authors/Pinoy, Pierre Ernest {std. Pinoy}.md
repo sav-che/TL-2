@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0321
+tl2_volume: vol4
+tl2_page_printed: 268
+tl2_surname: Pinoy
+tl2_forenames: Pierre Ernest
+tl2_name_abbrev: Pinoy
+tl2_dates: 1873-1948
+tl2_page_id: 33189739
+author_lsid: 24876-1
+wikidata_id: Q21523019
+ipni_surname: Pinoy
+ipni_forenames: Pierre Ernest
+ipni_standard_form: Pinoy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

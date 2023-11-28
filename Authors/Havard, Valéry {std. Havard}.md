@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0123
+tl2_volume: vol2
+tl2_page_printed: 105
+tl2_surname: Havard
+tl2_forenames: Valéry
+tl2_name_abbrev: Havard
+tl2_dates: 1846-1927
+tl2_page_id: 33068347
+author_lsid: 34830-1
+wikidata_id: Q7911480
+ipni_surname: Havard
+ipni_forenames: Valéry
+ipni_standard_form: Havard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

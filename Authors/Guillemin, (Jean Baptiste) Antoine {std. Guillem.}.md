@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1281
+tl2_volume: vol1
+tl2_page_printed: 1021
+tl2_surname: Guillemin
+tl2_forenames: [Jean Baptiste] Antoine
+tl2_name_abbrev: Guillemin
+tl2_dates: 1796-1842
+tl2_page_id: 33121152
+author_lsid: 3466-1
+wikidata_id: Q532500
+ipni_surname: Guillemin
+ipni_forenames: Jean Baptiste Antoine
+ipni_standard_form: Guill.
+ipni_dates: 1796-1842
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33121152) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

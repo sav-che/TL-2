@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0009
+tl2_volume: vol7
+tl2_page_printed: 7
+tl2_surname: Wager
+tl2_forenames: Horace Athelstan
+tl2_name_abbrev: Wager
+tl2_dates: 1876-1951
+tl2_page_id: 33066309
+author_lsid: 11300-1
+wikidata_id: Q21611955
+ipni_surname: Wager
+ipni_forenames: Horace Athelstan
+ipni_standard_form: Wager
+ipni_dates: 1876-1951
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33066309) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

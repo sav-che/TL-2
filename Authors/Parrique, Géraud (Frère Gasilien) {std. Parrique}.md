@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0089
+tl2_volume: vol4
+tl2_page_printed: 77
+tl2_surname: Parrique
+tl2_forenames: Géraud (Frère Gasilien)
+tl2_name_abbrev: Parrique
+tl2_dates: 1851-1907
+tl2_page_id: 33189548
+author_lsid: 7365-1
+wikidata_id: Q21339522
+ipni_surname: Parrique
+ipni_forenames: Géraud
+ipni_standard_form: Parrique
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33189548) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

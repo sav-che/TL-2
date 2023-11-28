@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0198
+tl2_volume: suppl3
+tl2_page_printed: 204
+tl2_surname: Bucknall
+tl2_forenames: Cedric
+tl2_name_abbrev: Buckn.
+tl2_dates: 1849-1921
+tl2_page_id: 33266511
+author_lsid: 1259-1
+wikidata_id: Q5057079
+ipni_surname: Bucknall
+ipni_forenames: Cedric
+ipni_standard_form: Buckn.
+ipni_dates: 1849-1921
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

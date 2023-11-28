@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0549
+tl2_volume: vol2
+tl2_page_printed: 470
+tl2_surname: Jungck
+tl2_forenames: Max
+tl2_name_abbrev: Jungck
+tl2_dates: 1849-?
+tl2_page_id: 33068712
+author_lsid: 4581-1
+wikidata_id: Q21517173
+ipni_surname: Jungck
+ipni_forenames: Max
+ipni_standard_form: Jungck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0841
+tl2_volume: vol1
+tl2_page_printed: 665
+tl2_surname: Döll
+tl2_forenames: Johann Christoph
+tl2_name_abbrev: Döll
+tl2_dates: 1808-1885
+tl2_page_id: 33120796
+author_lsid: 12410-1
+wikidata_id: Q86721
+ipni_surname: Döll
+ipni_forenames: Johann(es) Christoph (Christian)
+ipni_standard_form: Döll
+ipni_dates: 1808-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33120796) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

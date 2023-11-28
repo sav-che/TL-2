@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0411
+tl2_volume: vol7
+tl2_page_printed: 455
+tl2_surname: Woronin
+tl2_forenames: Michael [Stephanovitch]
+tl2_name_abbrev: Woronin
+tl2_dates: 1838-1903
+tl2_page_id: 33066795
+author_lsid: 28892-1
+wikidata_id: Q923476
+ipni_surname: Woronin
+ipni_forenames: Michael Stepanovitch
+ipni_standard_form: Woronin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33066795) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0250
+tl2_volume: suppl1
+tl2_page_printed: 214
+tl2_surname: Autenrieth
+tl2_forenames: Hermann Friedrich
+tl2_name_abbrev: Autenrieth
+tl2_dates: 1799-1874
+tl2_page_id: 33264941
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33264941) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0989
+tl2_volume: vol2
+tl2_page_printed: 837
+tl2_surname: Le Maout
+tl2_forenames: Jean Emmanuel Maurice
+tl2_name_abbrev: Le Maout
+tl2_dates: 1799-1877
+tl2_page_id: 33069079
+author_lsid: 5459-1
+wikidata_id: Q2329183
+ipni_surname: Le Maout
+ipni_forenames: Jean Emmanuel Maurice
+ipni_standard_form: Le Maout
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

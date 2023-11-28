@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0612
+tl2_volume: vol4
+tl2_page_printed: 586
+tl2_surname: Ratzeburg
+tl2_forenames: Julius Theodor Christian
+tl2_name_abbrev: Ratzeb.
+tl2_dates: 1801-1871
+tl2_page_id: 33190057
+author_lsid: 8161-1
+wikidata_id: Q64655
+ipni_surname: Ratzeburg
+ipni_forenames: Julius Theodor Christian
+ipni_standard_form: Ratzeb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33190057) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

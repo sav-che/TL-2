@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0104
+tl2_volume: vol3
+tl2_page_printed: 145
+tl2_surname: Loew
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Loew
+tl2_dates: 1843-1908
+tl2_page_id: 33355232
+author_lsid: 5711-1
+wikidata_id: Q21519414
+ipni_surname: Loew
+ipni_forenames: Ernst
+ipni_standard_form: Loew
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

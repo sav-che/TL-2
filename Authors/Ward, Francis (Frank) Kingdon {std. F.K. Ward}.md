@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol7_0075
+tl2_volume: vol7
+tl2_page_printed: 63
+tl2_surname: Ward
+tl2_forenames: Francis [Frank] Kingdon
+tl2_name_abbrev: F.K. Ward
+tl2_dates: 1885-1958
+tl2_page_id: 33066403
+author_lsid: 12607-1
+wikidata_id: Q321094
+ipni_surname: Kingdon-Ward
+ipni_forenames: Francis
+ipni_standard_form: Kingdon-Ward
+ipni_dates: 1885-1958
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- Thailand
+- India
+- Burma
+- United Kingdom
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-10-05 08:32:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33066403) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0391
+tl2_volume: suppl3
+tl2_page_printed: 425
+tl2_surname: Carroll
+tl2_forenames: Isaac
+tl2_name_abbrev: Carroll
+tl2_dates: 1828-1880
+tl2_page_id: 33266732
+author_lsid: 1422-1
+wikidata_id: Q21340726
+ipni_surname: Carroll
+ipni_forenames: Isaac
+ipni_standard_form: Carroll
+ipni_dates: 1828-1880
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

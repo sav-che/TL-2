@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0548
+tl2_volume: vol5
+tl2_page_printed: 565
+tl2_surname: Shipley
+tl2_forenames: Arthur Everett
+tl2_name_abbrev: Shipley
+tl2_dates: 1861-1927
+tl2_page_id: 33333704
+author_lsid: 35151-1
+wikidata_id: Q2343873
+ipni_surname: Shipley
+ipni_forenames: Arthur Everett
+ipni_standard_form: Shipley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

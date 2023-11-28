@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0610
+tl2_volume: vol3
+tl2_page_printed: 531
+tl2_surname: Möhring
+tl2_forenames: Paul Heinrich Gerhard
+tl2_name_abbrev: Möhring
+tl2_dates: 1710-1792
+tl2_page_id: 33355618
+author_lsid: 6543-1
+wikidata_id: Q77457
+ipni_surname: Möhring
+ipni_forenames: Paul Heinrich Gerhard
+ipni_standard_form: Möhring
+ipni_dates: 1710-1792
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

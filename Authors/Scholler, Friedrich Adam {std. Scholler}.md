@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0294
+tl2_volume: vol5
+tl2_page_printed: 294
+tl2_surname: Scholler
+tl2_forenames: Friedrich Adam
+tl2_name_abbrev: Scholler
+tl2_dates: 1718-1795
+tl2_page_id: 33333433
+author_lsid: 9226-1
+wikidata_id: Q3087686
+ipni_surname: Scholler
+ipni_forenames: Friedrich Adam
+ipni_standard_form: Scholler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

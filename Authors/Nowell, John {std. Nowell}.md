@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0933
+tl2_volume: vol3
+tl2_page_printed: 779
+tl2_surname: Nowell
+tl2_forenames: John
+tl2_name_abbrev: Nowell
+tl2_dates: 1802-1867
+tl2_page_id: 33355866
+author_lsid: 7055-1
+wikidata_id: Q18917408
+ipni_surname: Nowell
+ipni_forenames: John
+ipni_standard_form: Nowell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

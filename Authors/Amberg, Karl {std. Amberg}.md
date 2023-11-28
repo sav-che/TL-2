@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0121
+tl2_volume: suppl1
+tl2_page_printed: 95
+tl2_surname: Amberg
+tl2_forenames: Karl
+tl2_name_abbrev: Amberg
+tl2_dates: 1886-1940
+tl2_page_id: 33264822
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33264822) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

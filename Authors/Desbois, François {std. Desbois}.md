@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0249
+tl2_volume: suppl5
+tl2_page_printed: 214
+tl2_surname: Desbois
+tl2_forenames: François
+tl2_name_abbrev: Desbois
+tl2_dates: 1827-1902
+tl2_page_id: 33259260
+author_lsid: 13949-1
+wikidata_id: Q21510272
+ipni_surname: Desbois
+ipni_forenames: François
+ipni_standard_form: Desbois
+ipni_dates: 1827-1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

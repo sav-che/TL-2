@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0583
+tl2_volume: vol6
+tl2_page_printed: 578
+tl2_surname: Ule
+tl2_forenames: Ernst Heinrich Georg
+tl2_name_abbrev: Ule
+tl2_dates: 1854-1915
+tl2_page_id: 33212620
+author_lsid: 10968-1
+wikidata_id: Q72701
+ipni_surname: Ule
+ipni_forenames: Ernst Heinrich Georg
+ipni_standard_form: Ule
+ipni_dates: 1854-1915
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33212620) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

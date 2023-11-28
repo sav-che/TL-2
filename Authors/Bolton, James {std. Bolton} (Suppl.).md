@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0354
+tl2_volume: suppl2
+tl2_page_printed: 296
+tl2_surname: Bolton
+tl2_forenames: James
+tl2_name_abbrev: Bolton
+tl2_dates: ca. 1758-1799
+tl2_page_id: 33265493
+author_lsid: 16309-1
+wikidata_id: Q2556630
+ipni_surname: Bolton
+ipni_forenames: James
+ipni_standard_form: Bolton
+ipni_dates: c. 1735-1799
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-05-06 15:20:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

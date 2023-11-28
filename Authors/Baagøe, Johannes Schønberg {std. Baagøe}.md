@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0261
+tl2_volume: suppl1
+tl2_page_printed: 221
+tl2_surname: Baagøe
+tl2_forenames: Johannes Schønberg
+tl2_name_abbrev: Baagøe
+tl2_dates: 1838-1905
+tl2_page_id: 33264948
+author_lsid: 356-1
+wikidata_id: Q18982718
+ipni_surname: Baagøe
+ipni_forenames: Johannes Schønberg
+ipni_standard_form: Baagøe
+ipni_dates: 1838-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-08-02 08:33:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

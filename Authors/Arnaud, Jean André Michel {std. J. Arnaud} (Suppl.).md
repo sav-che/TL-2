@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0204
+tl2_volume: suppl1
+tl2_page_printed: 161
+tl2_surname: Arnaud
+tl2_forenames: Jean André Michel
+tl2_name_abbrev: J. Arnaud
+tl2_dates: 1760-1831
+tl2_page_id: 33264888
+author_lsid: 273-1
+wikidata_id: Q21505339
+ipni_surname: Arnaud
+ipni_forenames: Jean André Michel
+ipni_standard_form: Arnaud
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

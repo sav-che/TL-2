@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0739
+tl2_volume: vol2
+tl2_page_printed: 606
+tl2_surname: Kohl
+tl2_forenames: Friedrich Georg
+tl2_name_abbrev: Kohl
+tl2_dates: 1855-1910
+tl2_page_id: 33068848
+author_lsid: 4926-1
+wikidata_id: Q4228911
+ipni_surname: Kohl
+ipni_forenames: Friedrich Georg
+ipni_standard_form: Kohl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

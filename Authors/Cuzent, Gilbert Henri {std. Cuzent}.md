@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0446
+tl2_volume: suppl4
+tl2_page_printed: 526
+tl2_surname: Cuzent
+tl2_forenames: Gilbert Henri
+tl2_name_abbrev: Cuzent
+tl2_dates: 1820-1891
+tl2_page_id: 33266203
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33266203) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

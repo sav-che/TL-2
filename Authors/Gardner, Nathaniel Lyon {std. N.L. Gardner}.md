@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1141
+tl2_volume: vol1
+tl2_page_printed: 916
+tl2_surname: Gardner
+tl2_forenames: Nathaniel Lyon
+tl2_name_abbrev: N.L. Gardner
+tl2_dates: 1864-1937
+tl2_page_id: 33121047
+author_lsid: 3027-1
+wikidata_id: Q21513795
+ipni_surname: Gardner
+ipni_forenames: Nathaniel Lyon
+ipni_standard_form: N.L.Gardner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

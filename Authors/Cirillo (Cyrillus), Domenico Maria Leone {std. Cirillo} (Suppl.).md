@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0130
+tl2_volume: suppl4
+tl2_page_printed: 178
+tl2_surname: Cirillo [Cyrillus]
+tl2_forenames: Domenico Maria Leone
+tl2_name_abbrev: Cirillo
+tl2_dates: 1739-1799
+tl2_page_id: 33265855
+author_lsid: 1653-1
+wikidata_id: Q2524905
+ipni_surname: Cirillo
+ipni_forenames: Domenico Maria Leone
+ipni_standard_form: Cirillo
+ipni_dates: 1739-1799
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

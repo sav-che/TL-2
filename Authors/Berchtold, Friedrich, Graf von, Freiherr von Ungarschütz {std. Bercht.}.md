@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0234
+tl2_volume: vol1
+tl2_page_printed: 182
+tl2_surname: Berchtold
+tl2_forenames: Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic)
+tl2_name_abbrev: Bercht.
+tl2_dates: 1781-1876
+tl2_page_id: 33120313
+author_lsid: 671-1
+wikidata_id: Q940150
+ipni_surname: Berchtold
+ipni_forenames: Bedřich (Friedrich) Všemír (Wssemjr) von
+ipni_standard_form: Bercht.
+ipni_dates: 1781-1876
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33120313) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

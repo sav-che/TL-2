@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0953
+tl2_volume: vol3
+tl2_page_printed: 803
+tl2_surname: O'Connor
+tl2_forenames: Patrick
+tl2_name_abbrev: O'Connor
+tl2_dates: 1889-1969
+tl2_page_id: 33355890
+author_lsid: 7083-1
+wikidata_id: Q21522296
+ipni_surname: O'Connor
+ipni_forenames: Patrick
+ipni_standard_form: O'Connor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

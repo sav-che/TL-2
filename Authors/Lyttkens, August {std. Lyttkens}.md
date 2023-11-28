@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0198
+tl2_volume: vol3
+tl2_page_printed: 205
+tl2_surname: Lyttkens
+tl2_forenames: August
+tl2_name_abbrev: Lyttkens
+tl2_dates: 1845-1925
+tl2_page_id: 33355292
+author_lsid: 5874-1
+wikidata_id: Q5969076
+ipni_surname: Lyttkens
+ipni_forenames: August
+ipni_standard_form: Lyttkens
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

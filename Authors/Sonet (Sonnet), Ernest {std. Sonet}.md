@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0737
+tl2_volume: vol5
+tl2_page_printed: 743
+tl2_surname: Sonet [Sonnet]
+tl2_forenames: Ernest
+tl2_name_abbrev: Sonet
+tl2_dates: fl. 1872
+tl2_page_id: 33333882
+author_lsid: 9892-1
+wikidata_id: Q36550576
+ipni_surname: Sonet
+ipni_forenames: Ernest
+ipni_standard_form: Sonet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33333882) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

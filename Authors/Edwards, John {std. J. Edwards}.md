@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0920
+tl2_volume: vol1
+tl2_page_printed: 723
+tl2_surname: Edwards
+tl2_forenames: John
+tl2_name_abbrev: J. Edwards
+tl2_dates: fl. 1763-1806
+tl2_page_id: 33120854
+author_lsid: 2469-1
+wikidata_id: Q11685183
+ipni_surname: Edwards
+ipni_forenames: John
+ipni_standard_form: J.Edwards
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0208
+tl2_volume: vol6
+tl2_page_printed: 176
+tl2_surname: Tate
+tl2_forenames: Ralph
+tl2_name_abbrev: Tate
+tl2_dates: 1840-1901
+tl2_page_id: 33212218
+author_lsid: 10443-1
+wikidata_id: Q7288153
+ipni_surname: Tate
+ipni_forenames: Ralph
+ipni_standard_form: Tate
+ipni_dates: 1840-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Venezuela
+- Nicaragua
+- Australia
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33212218) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

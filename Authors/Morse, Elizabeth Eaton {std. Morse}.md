@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0695
+tl2_volume: vol3
+tl2_page_printed: 596
+tl2_surname: Morse
+tl2_forenames: Elizabeth Eaton
+tl2_name_abbrev: Morse
+tl2_dates: 1864-1955
+tl2_page_id: 33355683
+author_lsid: 23659-1
+wikidata_id: Q21521762
+ipni_surname: Morse
+ipni_forenames: Elizabeth Eaton
+ipni_standard_form: Morse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

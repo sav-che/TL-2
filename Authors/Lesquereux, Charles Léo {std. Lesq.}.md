@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_1011
+tl2_volume: vol2
+tl2_page_printed: 849
+tl2_surname: Lesquereux
+tl2_forenames: Charles Léo
+tl2_name_abbrev: Lesq.
+tl2_dates: 1806-1889
+tl2_page_id: 33069091
+author_lsid: 22261-1
+wikidata_id: Q2959722
+ipni_surname: Lesquereux
+ipni_forenames: Charles Léo
+ipni_standard_form: Lesq.
+ipni_dates: 1806-1889
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33069091) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

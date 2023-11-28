@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0403
+tl2_volume: vol5
+tl2_page_printed: 423
+tl2_surname: Schwarz
+tl2_forenames: August Friedrich
+tl2_name_abbrev: A.F. Schwarz
+tl2_dates: 1852-1915
+tl2_page_id: 33333562
+author_lsid: 9355-1
+wikidata_id: Q17310399
+ipni_surname: Schwarz
+ipni_forenames: August Friedrich
+ipni_standard_form: A.F.Schwarz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

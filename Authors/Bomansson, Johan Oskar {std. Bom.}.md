@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0358
+tl2_volume: suppl2
+tl2_page_printed: 301
+tl2_surname: Bomansson
+tl2_forenames: Johan Oskar
+tl2_name_abbrev: Bom.
+tl2_dates: 1838-1906
+tl2_page_id: 33265498
+author_lsid: 16312-1
+wikidata_id: Q21506270
+ipni_surname: Bomansson
+ipni_forenames: Johan Oskar
+ipni_standard_form: Bom.
+ipni_dates: 1838-1906
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265498) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

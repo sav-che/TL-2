@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1004
+tl2_volume: vol2
+tl2_page_printed: 846
+tl2_surname: Lepechin
+tl2_forenames: Ivan Ivanovich
+tl2_name_abbrev: Lepech.
+tl2_dates: 1737-1802
+tl2_page_id: 33069088
+author_lsid: 5487-1
+wikidata_id: Q935498
+ipni_surname: Lepechin
+ipni_forenames: Ivan Ivanovich
+ipni_standard_form: Lepech.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0290
+tl2_volume: vol5
+tl2_page_printed: 291
+tl2_surname: Schoenlein
+tl2_forenames: Philipp
+tl2_name_abbrev: P. Schoenlein
+tl2_dates: 1834-1856
+tl2_page_id: 33333430
+author_lsid: 9221-1
+wikidata_id: Q21608256
+ipni_surname: Schoenlein
+ipni_forenames: Philipp
+ipni_standard_form: P.Schoenl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

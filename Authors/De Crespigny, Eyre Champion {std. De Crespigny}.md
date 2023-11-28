@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0155
+tl2_volume: suppl5
+tl2_page_printed: 142
+tl2_surname: De Crespigny
+tl2_forenames: Eyre Champion
+tl2_name_abbrev: De Crespigny
+tl2_dates: 1821-1895
+tl2_page_id: 33259188
+author_lsid: 20043183-1
+wikidata_id: Q66659241
+ipni_surname: De Crespigny
+ipni_forenames: Eyre Champion
+ipni_standard_form: Cresp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

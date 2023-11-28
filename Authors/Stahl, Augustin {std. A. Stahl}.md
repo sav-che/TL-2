@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0827
+tl2_volume: vol5
+tl2_page_printed: 827
+tl2_surname: Stahl
+tl2_forenames: Augustin
+tl2_name_abbrev: A. Stahl
+tl2_dates: 1842-1917
+tl2_page_id: 33333966
+author_lsid: 10014-1
+wikidata_id: Q399442
+ipni_surname: Stahl
+ipni_forenames: Augustin
+ipni_standard_form: A.Stahl
+ipni_dates: 1842-1917
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

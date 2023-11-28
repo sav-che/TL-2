@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0588
+tl2_volume: vol4
+tl2_page_printed: 574
+tl2_surname: Ramsbottom
+tl2_forenames: John
+tl2_name_abbrev: Ramsb.
+tl2_dates: 1885-1974
+tl2_page_id: 33190045
+author_lsid: 8130-1
+wikidata_id: Q6254165
+ipni_surname: Ramsbottom
+ipni_forenames: John
+ipni_standard_form: Ramsb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33190045) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

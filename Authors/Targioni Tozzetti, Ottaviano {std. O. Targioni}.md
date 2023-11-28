@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0198
+tl2_volume: vol6
+tl2_page_printed: 170
+tl2_surname: Targioni Tozzetti
+tl2_forenames: Ottaviano
+tl2_name_abbrev: O. Targioni
+tl2_dates: 1755-1829
+tl2_page_id: 33212212
+author_lsid: 10430-1
+wikidata_id: Q2327338
+ipni_surname: Targioni Tozzetti
+ipni_forenames: Ottaviano
+ipni_standard_form: O.Targ.Tozz.
+ipni_dates: 1755-1829
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-02-22 14:57:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33212212) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0340
+tl2_volume: suppl3
+tl2_page_printed: 356
+tl2_surname: Candargy
+tl2_forenames: Paléologos C.
+tl2_name_abbrev: P.C. Candargy
+tl2_dates: 1870-(unknown)
+tl2_page_id: 33266663
+author_lsid: 1383-1
+wikidata_id: Q5404505
+ipni_surname: Candargy
+ipni_forenames: Paléologos C.
+ipni_standard_form: P.Candargy
+ipni_dates: 1870-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

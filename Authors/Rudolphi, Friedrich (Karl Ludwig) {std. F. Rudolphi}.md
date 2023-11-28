@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1005
+tl2_volume: vol4
+tl2_page_printed: 974
+tl2_surname: Rudolphi
+tl2_forenames: Friedrich [Karl Ludwig]
+tl2_name_abbrev: F. Rudolphi
+tl2_dates: 1801-1849
+tl2_page_id: 33190445
+author_lsid: 8713-1
+wikidata_id: Q3087740
+ipni_surname: Rudolphi
+ipni_forenames: Friedrich Karl Ludwig
+ipni_standard_form: F.Rudolphi
+ipni_dates: 1801-1849
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

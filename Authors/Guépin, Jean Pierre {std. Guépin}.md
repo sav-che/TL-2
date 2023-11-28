@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1277
+tl2_volume: vol1
+tl2_page_printed: 1019
+tl2_surname: Guépin
+tl2_forenames: Jean Pierre
+tl2_name_abbrev: Guépin
+tl2_dates: 1779-1858
+tl2_page_id: 33121150
+author_lsid: 3449-1
+wikidata_id: Q5928824
+ipni_surname: Guépin
+ipni_forenames: Jean Pierre
+ipni_standard_form: Guépin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

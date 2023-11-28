@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0346
+tl2_volume: suppl3
+tl2_page_printed: 391
+tl2_surname: Cannarella
+tl2_forenames: Pietro
+tl2_name_abbrev: Cannarella
+tl2_dates: fl. 1899-1910
+tl2_page_id: 33266698
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33266698) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

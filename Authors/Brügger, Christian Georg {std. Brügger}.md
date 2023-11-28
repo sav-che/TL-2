@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0139
+tl2_volume: suppl3
+tl2_page_printed: 152
+tl2_surname: Brügger
+tl2_forenames: Christian Georg
+tl2_name_abbrev: Brügger
+tl2_dates: 1833-1899
+tl2_page_id: 33266459
+author_lsid: 12364-1
+wikidata_id: Q5767436
+ipni_surname: Brügger
+ipni_forenames: Christian Georg
+ipni_standard_form: Brügger
+ipni_dates: 1833-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33266459) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

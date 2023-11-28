@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0073
+tl2_volume: vol4
+tl2_page_printed: 61
+tl2_surname: Parke
+tl2_forenames: Mary
+tl2_name_abbrev: Parke
+tl2_dates: 1908-x
+tl2_page_id: 33189532
+author_lsid: 7340-1
+wikidata_id: Q6780481
+ipni_surname: Parke
+ipni_forenames: Mary
+ipni_standard_form: Parke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

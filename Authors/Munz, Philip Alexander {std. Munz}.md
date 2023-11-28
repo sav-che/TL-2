@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0773
+tl2_volume: vol3
+tl2_page_printed: 662
+tl2_surname: Munz
+tl2_forenames: Philip Alexander
+tl2_name_abbrev: Munz
+tl2_dates: 1892-1974
+tl2_page_id: 33355749
+author_lsid: 6787-1
+wikidata_id: Q4280785
+ipni_surname: Munz
+ipni_forenames: Philip Alexander
+ipni_standard_form: Munz
+ipni_dates: 1892-1974
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

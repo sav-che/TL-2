@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0152
+tl2_volume: suppl2
+tl2_page_printed: 131
+tl2_surname: Bertrand
+tl2_forenames: Paul Charles Edouard
+tl2_name_abbrev: P.C.E. Bertrand
+tl2_dates: 1879-1944
+tl2_page_id: 33265328
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265328) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

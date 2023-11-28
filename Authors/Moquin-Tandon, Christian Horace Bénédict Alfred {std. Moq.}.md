@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0662
+tl2_volume: vol3
+tl2_page_printed: 573
+tl2_surname: Moquin-Tandon
+tl2_forenames: Christian Horace Bénédict Alfred
+tl2_name_abbrev: Moq.
+tl2_dates: 1804-1863
+tl2_page_id: 33355660
+author_lsid: 6624-1
+wikidata_id: Q55068622
+ipni_surname: Moquin-Tandon
+ipni_forenames: Christian Horace Bénédict Alfred
+ipni_standard_form: Moq.
+ipni_dates: 1804-1863
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33355660) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

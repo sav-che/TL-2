@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_1022
+tl2_volume: vol2
+tl2_page_printed: 858
+tl2_surname: Letourneux
+tl2_forenames: Aristide-Horace
+tl2_name_abbrev: Letourn.
+tl2_dates: 1820-1890
+tl2_page_id: 33069100
+author_lsid: 5518-1
+wikidata_id: Q2861363
+ipni_surname: Letourneux
+ipni_forenames: Aristide-Horace
+ipni_standard_form: Letourn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+- Egypt
+- Algeria
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

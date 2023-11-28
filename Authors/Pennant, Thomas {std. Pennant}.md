@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0168
+tl2_volume: vol4
+tl2_page_printed: 153
+tl2_surname: Pennant
+tl2_forenames: Thomas
+tl2_name_abbrev: Pennant
+tl2_dates: 1726-1798
+tl2_page_id: 33189624
+author_lsid: 7490-1
+wikidata_id: Q545123
+ipni_surname: Pennant
+ipni_forenames: Thomas
+ipni_standard_form: Pennant
+ipni_dates: 1726-1798
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33189624) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

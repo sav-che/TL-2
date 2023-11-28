@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0623
+tl2_volume: vol4
+tl2_page_printed: 595
+tl2_surname: Rauwolff
+tl2_forenames: Leonhart [Leonhard Rauwolf]
+tl2_name_abbrev: Rauwolff
+tl2_dates: 1535-1596
+tl2_page_id: 33190066
+author_lsid: 8173-1
+wikidata_id: Q66514
+ipni_surname: Rauwolff
+ipni_forenames: Leonhart
+ipni_standard_form: Rauwolff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33190066) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

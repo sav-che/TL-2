@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0967
+tl2_volume: vol1
+tl2_page_printed: 800
+tl2_surname: Eschenbach
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: Eschenbach
+tl2_dates: 1757-x
+tl2_page_id: 33120931
+author_lsid: 2570-1
+wikidata_id: Q21512350
+ipni_surname: Eschenbach
+ipni_forenames: Johann Friedrich
+ipni_standard_form: Eschenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0377
+tl2_volume: vol6
+tl2_page_printed: 354
+tl2_surname: Tiling [Tilling]
+tl2_forenames: Heinrich Sylvester Theodor
+tl2_name_abbrev: Tiling
+tl2_dates: 1818-1871
+tl2_page_id: 33212396
+author_lsid: 10669-1
+wikidata_id: Q72297
+ipni_surname: Tiling
+ipni_forenames: Heinrich Sylvester Theodor
+ipni_standard_form: Tiling
+ipni_dates: 1818-1871
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33212396) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

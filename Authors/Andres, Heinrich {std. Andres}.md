@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0072
+tl2_volume: vol1
+tl2_page_printed: 49
+tl2_surname: Andres
+tl2_forenames: Heinrich
+tl2_name_abbrev: Andres
+tl2_dates: 1883-1970
+tl2_page_id: 33120180
+author_lsid: 210-1
+wikidata_id: Q5893518
+ipni_surname: Andres
+ipni_forenames: Heinrich
+ipni_standard_form: Andres
+ipni_dates: 1883-1970
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

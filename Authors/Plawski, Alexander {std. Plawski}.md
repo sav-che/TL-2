@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0344
+tl2_volume: vol4
+tl2_page_printed: 291
+tl2_surname: Plawski
+tl2_forenames: Alexander
+tl2_name_abbrev: Plawski
+tl2_dates: fl. 1830
+tl2_page_id: 33189762
+author_lsid: 7748-1
+wikidata_id: Q36508176
+ipni_surname: Plawski
+ipni_forenames: Alexander
+ipni_standard_form: Plawski
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

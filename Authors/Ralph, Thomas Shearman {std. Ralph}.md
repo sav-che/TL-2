@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0575
+tl2_volume: vol4
+tl2_page_printed: 568
+tl2_surname: Ralph
+tl2_forenames: Thomas Shearman
+tl2_name_abbrev: Ralph
+tl2_dates: 1813-1891
+tl2_page_id: 33190039
+author_lsid: 8112-1
+wikidata_id: Q21606908
+ipni_surname: Ralph
+ipni_forenames: Thomas Shearman
+ipni_standard_form: Ralph
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- New Zealand
+- United Kingdom
+- Australia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

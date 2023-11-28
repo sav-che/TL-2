@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0722
+tl2_volume: vol2
+tl2_page_printed: 595
+tl2_surname: Köhler
+tl2_forenames: Hermann Adolph
+tl2_name_abbrev: Köhl.
+tl2_dates: 1834-1879
+tl2_page_id: 33068837
+author_lsid: 4910-1
+wikidata_id: Q1279282
+ipni_surname: Köhler
+ipni_forenames: Hermann Adolph
+ipni_standard_form: H.A.Köhler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0618
+tl2_volume: vol5
+tl2_page_printed: 616
+tl2_surname: Singer
+tl2_forenames: Max
+tl2_name_abbrev: M. Singer
+tl2_dates: fl. 1885
+tl2_page_id: 33333755
+author_lsid: 9692-1
+wikidata_id: Q47126256
+ipni_surname: Singer
+ipni_forenames: Max
+ipni_standard_form: M.Singer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

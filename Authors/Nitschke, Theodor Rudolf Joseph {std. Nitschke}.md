@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0898
+tl2_volume: vol3
+tl2_page_printed: 756
+tl2_surname: Nitschke
+tl2_forenames: Theodor Rudolf Joseph
+tl2_name_abbrev: Nitschke
+tl2_dates: 1834-1883
+tl2_page_id: 33355843
+author_lsid: 7002-1
+wikidata_id: Q13107636
+ipni_surname: Nitschke
+ipni_forenames: Theodor Rudolph Joseph
+ipni_standard_form: Nitschke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

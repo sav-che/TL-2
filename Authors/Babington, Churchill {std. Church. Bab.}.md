@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0269
+tl2_volume: suppl1
+tl2_page_printed: 228
+tl2_surname: Babington
+tl2_forenames: Churchill
+tl2_name_abbrev: Church. Bab.
+tl2_dates: 1821-1889
+tl2_page_id: 33264955
+author_lsid: 31138-1
+wikidata_id: Q2754985
+ipni_surname: Babington
+ipni_forenames: Churchill
+ipni_standard_form: C.Bab.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

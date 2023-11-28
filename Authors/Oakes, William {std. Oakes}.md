@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0945
+tl2_volume: vol3
+tl2_page_printed: 799
+tl2_surname: Oakes
+tl2_forenames: William
+tl2_name_abbrev: Oakes
+tl2_dates: 1799-1848
+tl2_page_id: 33355886
+author_lsid: 24233-1
+wikidata_id: Q3568858
+ipni_surname: Oakes
+ipni_forenames: William
+ipni_standard_form: Oakes
+ipni_dates: 1799-1848
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

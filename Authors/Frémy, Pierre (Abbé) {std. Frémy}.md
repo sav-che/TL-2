@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1093
+tl2_volume: vol1
+tl2_page_printed: 875
+tl2_surname: Frémy
+tl2_forenames: Pierre (Abbé)
+tl2_name_abbrev: Frémy
+tl2_dates: 1880-1944
+tl2_page_id: 33121006
+author_lsid: 33144-1
+wikidata_id: Q21513524
+ipni_surname: Frémy
+ipni_forenames: Pierre
+ipni_standard_form: Frémy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

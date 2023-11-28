@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0331
+tl2_volume: suppl8
+tl2_page_printed: 456
+tl2_surname: Guinet
+tl2_forenames: [Jean Étienne] Auguste
+tl2_name_abbrev: Guinet
+tl2_dates: 1846-1928
+tl2_page_id: 33258934
+author_lsid: 19743-1
+wikidata_id: Q21514383
+ipni_surname: Guinet
+ipni_forenames: Jean Étienne Auguste
+ipni_standard_form: Guinet
+ipni_dates: 1846-1928
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33258934) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

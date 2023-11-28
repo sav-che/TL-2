@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0324
+tl2_volume: suppl8
+tl2_page_printed: 444
+tl2_surname: Gugerli
+tl2_forenames: Karl
+tl2_name_abbrev: Gugerli
+tl2_dates: 1910-x
+tl2_page_id: 33258922
+author_lsid: 3456-1
+wikidata_id: Q18985155
+ipni_surname: Gugerli
+ipni_forenames: Karl
+ipni_standard_form: Gugerli
+ipni_dates: fl. 1939
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

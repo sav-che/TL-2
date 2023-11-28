@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0009
+tl2_volume: suppl4
+tl2_page_printed: 19
+tl2_surname: Cels
+tl2_forenames: François
+tl2_name_abbrev: F. Cels
+tl2_dates: 1771-1832
+tl2_page_id: 33265696
+author_lsid: 13272-1
+wikidata_id: Q14944337
+ipni_surname: Cels
+ipni_forenames: François
+ipni_standard_form: F.Cels
+ipni_dates: 1771-1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

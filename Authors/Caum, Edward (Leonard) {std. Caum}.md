@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0429
+tl2_volume: suppl3
+tl2_page_printed: 464
+tl2_surname: Caum
+tl2_forenames: Edward [Leonard]
+tl2_name_abbrev: Caum
+tl2_dates: 1893-x
+tl2_page_id: 33266771
+author_lsid: 16998-1
+wikidata_id: Q5344117
+ipni_surname: Caum
+ipni_forenames: Edward Leonard
+ipni_standard_form: Caum
+ipni_dates: 1893-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0412
+tl2_volume: suppl1
+tl2_page_printed: 359
+tl2_surname: Bary
+tl2_forenames: [Heinrich] Anton de
+tl2_name_abbrev: de Bary
+tl2_dates: 1831-1888
+tl2_page_id: 33265086
+author_lsid: 15750-1
+wikidata_id: Q58806
+ipni_surname: de Bary
+ipni_forenames: Heinrich Anton
+ipni_standard_form: de Bary
+ipni_dates: 1831-1888
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-08-05 12:12:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

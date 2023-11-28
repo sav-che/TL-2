@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0418
+tl2_volume: vol4
+tl2_page_printed: 345
+tl2_surname: Porter
+tl2_forenames: Carlos Emilio
+tl2_name_abbrev: C.E. Porter
+tl2_dates: 1868-1942
+tl2_page_id: 33189816
+author_lsid: 7862-1
+wikidata_id: Q21030376
+ipni_surname: Porter
+ipni_forenames: Carlos Emilio
+ipni_standard_form: C.E.Porter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33189816) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

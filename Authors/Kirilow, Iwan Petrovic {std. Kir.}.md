@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0656
+tl2_volume: vol2
+tl2_page_printed: 550
+tl2_surname: Kirilow
+tl2_forenames: Iwan Petrovic
+tl2_name_abbrev: Kir.
+tl2_dates: 1821-1842
+tl2_page_id: 33068792
+author_lsid: 4806-1
+wikidata_id: Q4221435
+ipni_surname: Kirilov
+ipni_forenames: Ivan Petrovich
+ipni_standard_form: Kir.
+ipni_dates: 1821-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-11-25 14:43:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

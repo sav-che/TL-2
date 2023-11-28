@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0224
+tl2_volume: suppl4
+tl2_page_printed: 286
+tl2_surname: Comes
+tl2_forenames: Orazio
+tl2_name_abbrev: Comes
+tl2_dates: 1848-1923
+tl2_page_id: 33265963
+author_lsid: 13921-1
+wikidata_id: Q3884907
+ipni_surname: Comes
+ipni_forenames: Orazio
+ipni_standard_form: Comes
+ipni_dates: 1848-1923
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265963) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

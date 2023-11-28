@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0467
+tl2_volume: vol2
+tl2_page_printed: 423
+tl2_surname: Janczewski
+tl2_forenames: Eduard von Glinka
+tl2_name_abbrev: Jancz.
+tl2_dates: 1846-1918
+tl2_page_id: 33068665
+author_lsid: 4418-1
+wikidata_id: Q942550
+ipni_surname: Janczewski
+ipni_forenames: Eduard von Glinka
+ipni_standard_form: Jancz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Poland
+- Austria
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

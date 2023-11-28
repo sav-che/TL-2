@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0410
+tl2_volume: vol2
+tl2_page_printed: 384
+tl2_surname: Imhof
+tl2_forenames: Franz Jakob
+tl2_name_abbrev: Imhof
+tl2_dates: fl. 1784
+tl2_page_id: 33068626
+author_lsid: 4288-1
+wikidata_id: Q36554902
+ipni_surname: Imhof
+ipni_forenames: Franz Jacob
+ipni_standard_form: Imhof
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

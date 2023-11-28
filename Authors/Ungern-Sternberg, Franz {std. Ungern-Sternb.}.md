@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0600
+tl2_volume: vol6
+tl2_page_printed: 602
+tl2_surname: Ungern-Sternberg
+tl2_forenames: Franz
+tl2_name_abbrev: Ungern-Sternb.
+tl2_dates: x-1885
+tl2_page_id: 33212644
+author_lsid: 10987-1
+wikidata_id: Q5868698
+ipni_surname: Ungern-Sternberg
+ipni_forenames: Franz
+ipni_standard_form: Ung.-Sternb.
+ipni_dates: 1808-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33212644) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

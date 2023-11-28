@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0138
+tl2_volume: suppl4
+tl2_page_printed: 181
+tl2_surname: Clark
+tl2_forenames: Josephine Adelaide
+tl2_name_abbrev: J.A. Clark
+tl2_dates: 1856-x
+tl2_page_id: 33265858
+author_lsid: 20014442-2
+wikidata_id: Q21508662
+ipni_surname: Clark
+ipni_forenames: Josephine Adelaide
+ipni_standard_form: J.A.Clark
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

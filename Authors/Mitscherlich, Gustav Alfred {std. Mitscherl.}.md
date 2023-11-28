@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0601
+tl2_volume: vol3
+tl2_page_printed: 525
+tl2_surname: Mitscherlich
+tl2_forenames: Gustav Alfred
+tl2_name_abbrev: Mitscherl.
+tl2_dates: 1832-?
+tl2_page_id: 33355612
+author_lsid: 6526-1
+wikidata_id: Q21521577
+ipni_surname: Mitscherlich
+ipni_forenames: Gustav Alfred
+ipni_standard_form: Mitscherl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33355612) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

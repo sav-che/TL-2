@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0203
+tl2_volume: suppl6
+tl2_page_printed: 183
+tl2_surname: Durand
+tl2_forenames: Philippe [labbé]
+tl2_name_abbrev: P. Durand
+tl2_dates: fl. 1795-1815
+tl2_page_id: 33260171
+author_lsid: 2399-1
+wikidata_id: Q33670376
+ipni_surname: Durand
+ipni_forenames: Philippe
+ipni_standard_form: P.Durand
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0187
+tl2_volume: vol3
+tl2_page_printed: 199
+tl2_surname: Luxford
+tl2_forenames: George
+tl2_name_abbrev: Luxf.
+tl2_dates: 1807-1854
+tl2_page_id: 33355286
+author_lsid: 5856-1
+wikidata_id: Q18671314
+ipni_surname: Luxford
+ipni_forenames: George
+ipni_standard_form: Luxf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

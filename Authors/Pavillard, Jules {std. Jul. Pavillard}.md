@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0125
+tl2_volume: vol4
+tl2_page_printed: 115
+tl2_surname: Pavillard
+tl2_forenames: Jules
+tl2_name_abbrev: Jul. Pavillard
+tl2_dates: 1868-1961
+tl2_page_id: 33189586
+author_lsid: 7417-1
+wikidata_id: Q16027655
+ipni_surname: Pavillard
+ipni_forenames: Jules
+ipni_standard_form: Pavill.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

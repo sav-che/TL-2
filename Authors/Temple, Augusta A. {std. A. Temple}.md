@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0246
+tl2_volume: vol6
+tl2_page_printed: 208
+tl2_surname: Temple
+tl2_forenames: Augusta A.
+tl2_name_abbrev: A. Temple
+tl2_dates: fl. 1907
+tl2_page_id: 33212250
+author_lsid: 10497-1
+wikidata_id: Q47127300
+ipni_surname: Temple
+ipni_forenames: Augusta A.
+ipni_standard_form: A.Temple
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

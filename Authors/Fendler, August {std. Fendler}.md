@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1007
+tl2_volume: vol1
+tl2_page_printed: 822
+tl2_surname: Fendler
+tl2_forenames: August
+tl2_name_abbrev: Fendler
+tl2_dates: 1813-1883
+tl2_page_id: 33120953
+author_lsid: 2679-1
+wikidata_id: Q216437
+ipni_surname: Fendler
+ipni_forenames: August
+ipni_standard_form: Fendler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- Venezuela
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

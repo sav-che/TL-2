@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl7_0031
+tl2_volume: suppl7
+tl2_page_printed: 36
+tl2_surname: Farlow
+tl2_forenames: William Gilson [sometimes miscited as Gibson]
+tl2_name_abbrev: Farl.
+tl2_dates: 1844-1919
+tl2_page_id: 33259540
+author_lsid: 18653-1
+wikidata_id: Q2701736
+ipni_surname: Farlow
+ipni_forenames: William Gilson
+ipni_standard_form: Farl.
+ipni_dates: 1844-1919
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

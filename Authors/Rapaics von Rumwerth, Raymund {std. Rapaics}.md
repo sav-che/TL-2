@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0597
+tl2_volume: vol4
+tl2_page_printed: 579
+tl2_surname: Rapaics von Rumwerth
+tl2_forenames: Raymund
+tl2_name_abbrev: Rapaics
+tl2_dates: 1885-1954
+tl2_page_id: 33190050
+author_lsid: 12757-1
+wikidata_id: Q4390008
+ipni_surname: Rapaics
+ipni_forenames: Raymund
+ipni_standard_form: Rapaics
+ipni_dates: 1885-1953
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

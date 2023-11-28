@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0006
+tl2_volume: vol3
+tl2_page_printed: 8
+tl2_surname: Lichtenstein
+tl2_forenames: August Gerhard Gottfried
+tl2_name_abbrev: A. Licht.
+tl2_dates: 1780(?)-1851
+tl2_page_id: 33355119
+author_lsid: 5564-1
+wikidata_id: Q21519027
+ipni_surname: Lichtenstein
+ipni_forenames: August Gerhard Gottfried
+ipni_standard_form: A.Licht.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33355119) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl6_0157
+tl2_volume: suppl6
+tl2_page_printed: 149
+tl2_surname: Dufour
+tl2_forenames: Jean Marie Léon
+tl2_name_abbrev: Dufour
+tl2_dates: 1780-1865
+tl2_page_id: 33260137
+author_lsid: 18249-1
+wikidata_id: Q941677
+ipni_surname: Dufour
+ipni_forenames: Jean-Marie Léon
+ipni_standard_form: Dufour
+ipni_dates: 1780-1865
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33260137) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

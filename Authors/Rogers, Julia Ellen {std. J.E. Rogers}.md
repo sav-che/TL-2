@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0869
+tl2_volume: vol4
+tl2_page_printed: 859
+tl2_surname: Rogers
+tl2_forenames: Julia Ellen
+tl2_name_abbrev: J.E. Rogers
+tl2_dates: 1866-?
+tl2_page_id: 33190330
+author_lsid: 8526-1
+wikidata_id: Q21607334
+ipni_surname: Rogers
+ipni_forenames: Julia Ellen
+ipni_standard_form: J.E.Rogers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

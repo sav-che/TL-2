@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0308
+tl2_volume: vol4
+tl2_page_printed: 261
+tl2_surname: Pieters
+tl2_forenames: Adrian John
+tl2_name_abbrev: Pieters
+tl2_dates: 1866-1940
+tl2_page_id: 33189732
+author_lsid: 7692-1
+wikidata_id: Q5658282
+ipni_surname: Pieters
+ipni_forenames: Adrian John
+ipni_standard_form: Pieters
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

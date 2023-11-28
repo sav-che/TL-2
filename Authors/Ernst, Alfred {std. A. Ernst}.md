@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0406
+tl2_volume: suppl6
+tl2_page_printed: 400
+tl2_surname: Ernst
+tl2_forenames: Alfred
+tl2_name_abbrev: A. Ernst
+tl2_dates: 1875-1968
+tl2_page_id: 33260388
+author_lsid: 2564-1
+wikidata_id: Q2644933
+ipni_surname: Ernst
+ipni_forenames: Alfred
+ipni_standard_form: A.Ernst
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33260388) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

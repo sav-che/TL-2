@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0093
+tl2_volume: vol5
+tl2_page_printed: 92
+tl2_surname: Sawada
+tl2_forenames: Kaneyoshi (Kenkichi)
+tl2_name_abbrev: Sawada
+tl2_dates: fl. 1920
+tl2_page_id: 33333231
+author_lsid: 26195-1
+wikidata_id: Q21607805
+ipni_surname: Sawada
+ipni_forenames: Kaneyoshi (Kenkichi)
+ipni_standard_form: Sawada
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33333231) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

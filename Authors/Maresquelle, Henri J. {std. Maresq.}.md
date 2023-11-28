@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0332
+tl2_volume: vol3
+tl2_page_printed: 292
+tl2_surname: Maresquelle
+tl2_forenames: Henri J.
+tl2_name_abbrev: Maresq.
+tl2_dates: fl. 1929
+tl2_page_id: 33355379
+author_lsid: 22908-1
+wikidata_id: Q3131338
+ipni_surname: Maresquelle
+ipni_forenames: Henri J.
+ipni_standard_form: Maresq.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33355379) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

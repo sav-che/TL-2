@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0215
+tl2_volume: vol2
+tl2_page_printed: 178
+tl2_surname: Herzfeld
+tl2_forenames: Stephanie
+tl2_name_abbrev: Herzfeld
+tl2_dates: 1868-1930
+tl2_page_id: 33068420
+author_lsid: 3893-1
+wikidata_id: Q21515761
+ipni_surname: Herzfeld
+ipni_forenames: Stephanie
+ipni_standard_form: Herzfeld
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

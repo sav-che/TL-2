@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0960
+tl2_volume: vol4
+tl2_page_printed: 927
+tl2_surname: Rothpletz
+tl2_forenames: [Friedrich] August
+tl2_name_abbrev: Rothpletz
+tl2_dates: 1853-1918
+tl2_page_id: 33190398
+author_lsid: 12796-1
+wikidata_id: Q14799294
+ipni_surname: Rothpletz
+ipni_forenames: (Friedrich) August
+ipni_standard_form: Rothpletz
+ipni_dates: 1853-1918
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33190398) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

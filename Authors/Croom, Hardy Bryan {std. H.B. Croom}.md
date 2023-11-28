@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0391
+tl2_volume: suppl4
+tl2_page_printed: 477
+tl2_surname: Croom
+tl2_forenames: Hardy Bryan
+tl2_name_abbrev: H.B. Croom
+tl2_dates: 1797-1837
+tl2_page_id: 33266154
+author_lsid: 1887-1
+wikidata_id: Q5640675
+ipni_surname: Croom
+ipni_forenames: Hardy Bryan
+ipni_standard_form: Croom
+ipni_dates: 1797-1837
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266154) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

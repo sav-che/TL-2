@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0519
+tl2_volume: vol5
+tl2_page_printed: 539
+tl2_surname: Severini
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Severini
+tl2_dates: 1878-1918
+tl2_page_id: 33333678
+author_lsid: 9521-1
+wikidata_id: Q21608717
+ipni_surname: Severini
+ipni_forenames: Giuseppe
+ipni_standard_form: Severini
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

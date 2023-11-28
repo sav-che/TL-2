@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0492
+tl2_volume: vol6
+tl2_page_printed: 489
+tl2_surname: Trier
+tl2_forenames: Georg
+tl2_name_abbrev: Trier
+tl2_dates: 1884-1944
+tl2_page_id: 33212531
+author_lsid: 10821-1
+wikidata_id: Q21610954
+ipni_surname: Trier
+ipni_forenames: Georg
+ipni_standard_form: Trier
+ipni_dates: 1884-1944
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

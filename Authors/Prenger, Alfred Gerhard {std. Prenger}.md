@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0469
+tl2_volume: vol4
+tl2_page_printed: 387
+tl2_surname: Prenger
+tl2_forenames: Alfred Gerhard
+tl2_name_abbrev: Prenger
+tl2_dates: 1860-?
+tl2_page_id: 33189858
+author_lsid: 7940-1
+wikidata_id: Q21523215
+ipni_surname: Prenger
+ipni_forenames: Alfred Gerhard
+ipni_standard_form: Prenger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33189858) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

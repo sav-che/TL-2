@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0679
+tl2_volume: vol3
+tl2_page_printed: 584
+tl2_surname: Morini
+tl2_forenames: Fausto
+tl2_name_abbrev: Morini
+tl2_dates: 1858-1927
+tl2_page_id: 33355671
+author_lsid: 23639-1
+wikidata_id: Q21521736
+ipni_surname: Morini
+ipni_forenames: Fausto
+ipni_standard_form: Morini
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0314
+tl2_volume: vol5
+tl2_page_printed: 322
+tl2_surname: Schramm
+tl2_forenames: Alphons
+tl2_name_abbrev: Schramm
+tl2_dates: 1823-1875
+tl2_page_id: 33333461
+author_lsid: 9252-1
+wikidata_id: Q21608414
+ipni_surname: Schramm
+ipni_forenames: Alphons
+ipni_standard_form: Schramm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

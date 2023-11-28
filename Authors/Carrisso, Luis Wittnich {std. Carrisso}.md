@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0390
+tl2_volume: suppl3
+tl2_page_printed: 425
+tl2_surname: Carrisso
+tl2_forenames: Luis Wittnich
+tl2_name_abbrev: Carrisso
+tl2_dates: 1886-1937
+tl2_page_id: 33266732
+author_lsid: 1421-1
+wikidata_id: Q10321691
+ipni_surname: Luis Wittnich
+ipni_forenames: Carrisso
+ipni_standard_form: Carrisso
+ipni_dates: 1886-1937
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-09-18 09:59:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

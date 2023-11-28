@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0784
+tl2_volume: vol2
+tl2_page_printed: 667
+tl2_surname: Krause
+tl2_forenames: Kurt
+tl2_name_abbrev: K. Krause
+tl2_dates: 1883-1963
+tl2_page_id: 33068909
+author_lsid: 5045-1
+wikidata_id: Q5961003
+ipni_surname: Krause
+ipni_forenames: Kurt
+ipni_standard_form: K.Krause
+ipni_dates: 1883-1963
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33068909) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

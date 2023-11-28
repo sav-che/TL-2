@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0336
+tl2_volume: vol6
+tl2_page_printed: 285
+tl2_surname: Thomson
+tl2_forenames: Paul William
+tl2_name_abbrev: P.W. Thomson
+tl2_dates: 1892-1957
+tl2_page_id: 33212327
+author_lsid: 27698-1
+wikidata_id: Q12372096
+ipni_surname: Thomson
+ipni_forenames: Paul William
+ipni_standard_form: P.W.Thomson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33212327) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

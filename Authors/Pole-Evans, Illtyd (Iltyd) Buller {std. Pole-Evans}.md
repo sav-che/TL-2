@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0385
+tl2_volume: vol4
+tl2_page_printed: 327
+tl2_surname: Pole-Evans
+tl2_forenames: Illtyd (Iltyd) Buller
+tl2_name_abbrev: Pole-Evans
+tl2_dates: 1879-1968
+tl2_page_id: 33189798
+author_lsid: 24956-1
+wikidata_id: Q6000246
+ipni_surname: Pole-Evans
+ipni_forenames: Illtyd(Iltyd) Buller
+ipni_standard_form: Pole-Evans
+ipni_dates: 1879-1968
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33189798) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

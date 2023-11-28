@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0021
+tl2_volume: suppl8
+tl2_page_printed: 35
+tl2_surname: Fries
+tl2_forenames: Thore Christian Elias
+tl2_name_abbrev: T.C.E. Fr.
+tl2_dates: 1886-1930
+tl2_page_id: 33258475
+author_lsid: 2918-1
+wikidata_id: Q15417
+ipni_surname: Fries
+ipni_forenames: Thore Christian Elias
+ipni_standard_form: T.C.E.Fr.
+ipni_dates: 1886-1930
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33258475) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

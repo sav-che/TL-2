@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0040
+tl2_volume: vol1
+tl2_page_printed: 31
+tl2_surname: Allen
+tl2_forenames: Timothy Field
+tl2_name_abbrev: T.F. Allen
+tl2_dates: 1837-1902
+tl2_page_id: 33120162
+author_lsid: 152-1
+wikidata_id: Q6147077
+ipni_surname: Allen
+ipni_forenames: Timothy Field
+ipni_standard_form: Allen
+ipni_dates: 1837-1902
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl2_0012
+tl2_volume: suppl2
+tl2_page_printed: 19
+tl2_surname: Beck
+tl2_forenames: Ritter von Mannagetta und Lerchenau, Günther
+tl2_name_abbrev: Beck
+tl2_dates: 1856-1931
+tl2_page_id: 33265216
+author_lsid: 12341-1
+wikidata_id: Q78986
+ipni_surname: Beck von Mannagetta und Lerchenau
+ipni_forenames: Günther
+ipni_standard_form: Beck
+ipni_dates: 1856-1931
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-09-27 11:29:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265216) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

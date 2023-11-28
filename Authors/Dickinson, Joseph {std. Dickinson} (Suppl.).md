@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0303
+tl2_volume: suppl5
+tl2_page_printed: 287
+tl2_surname: Dickinson
+tl2_forenames: Joseph
+tl2_name_abbrev: Dickinson
+tl2_dates: about 1805-1865
+tl2_page_id: 33259333
+author_lsid: 2191-1
+wikidata_id: Q18576577
+ipni_surname: Dickinson
+ipni_forenames: Joseph
+ipni_standard_form: Dickinson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

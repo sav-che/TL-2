@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0181
+tl2_volume: vol2
+tl2_page_printed: 157
+tl2_surname: Hennert
+tl2_forenames: Carl Wilhelm
+tl2_name_abbrev: Hennert
+tl2_dates: 1739-1800
+tl2_page_id: 33068399
+author_lsid: 3841-1
+wikidata_id: Q1688693
+ipni_surname: Hennert
+ipni_forenames: Carl Wilhelm
+ipni_standard_form: Hennert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

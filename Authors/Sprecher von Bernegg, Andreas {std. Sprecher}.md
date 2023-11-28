@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0806
+tl2_volume: vol5
+tl2_page_printed: 803
+tl2_surname: Sprecher von Bernegg
+tl2_forenames: Andreas
+tl2_name_abbrev: Sprecher
+tl2_dates: fl. 1907-1930
+tl2_page_id: 33333942
+author_lsid: 9988-1
+wikidata_id: Q122009
+ipni_surname: Sprecher von Bernegg
+ipni_forenames: Andreas
+ipni_standard_form: Sprecher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

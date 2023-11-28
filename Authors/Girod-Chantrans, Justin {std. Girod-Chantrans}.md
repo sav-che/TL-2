@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1197
+tl2_volume: vol1
+tl2_page_printed: 949
+tl2_surname: Girod-Chantrans
+tl2_forenames: Justin
+tl2_name_abbrev: Girod-Chantrans
+tl2_dates: 1750-1841
+tl2_page_id: 33121080
+author_lsid: 3178-1
+wikidata_id: Q263505
+ipni_surname: Girod-Chantrans
+ipni_forenames: Justin
+ipni_standard_form: Gir.-Chantr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1194
+tl2_volume: vol1
+tl2_page_printed: 947
+tl2_surname: Ginanni
+tl2_forenames: Giuseppe, conte
+tl2_name_abbrev: Ginanni
+tl2_dates: 1692-1753
+tl2_page_id: 33121078
+author_lsid: 3167-1
+wikidata_id: Q3108176
+ipni_surname: Ginanni
+ipni_forenames: Giuseppe
+ipni_standard_form: Ginanni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

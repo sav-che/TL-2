@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0217
+tl2_volume: suppl1
+tl2_page_printed: 180
+tl2_surname: Artzt
+tl2_forenames: Franz Friedrich Anton
+tl2_name_abbrev: Artzt
+tl2_dates: 1844-1922
+tl2_page_id: 33264907
+author_lsid: 40068-1
+wikidata_id: Q21505367
+ipni_surname: Artzt
+ipni_forenames: Franz Friedrich Anton
+ipni_standard_form: Artzt
+ipni_dates: 1844-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

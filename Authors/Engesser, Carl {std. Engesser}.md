@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0957
+tl2_volume: vol1
+tl2_page_printed: 756
+tl2_surname: Engesser
+tl2_forenames: Carl
+tl2_name_abbrev: Engesser
+tl2_dates: fl. 1852
+tl2_page_id: 33120887
+author_lsid: 2541-1
+wikidata_id: Q36524295
+ipni_surname: Engesser
+ipni_forenames: Carl
+ipni_standard_form: Engesser
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33120887) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

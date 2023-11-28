@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0167
+tl2_volume: suppl7
+tl2_page_printed: 250
+tl2_surname: Fleischmann
+tl2_forenames: Hans
+tl2_name_abbrev: H. Fleischm.
+tl2_dates: x-1925
+tl2_page_id: 33259754
+author_lsid: 2779-1
+wikidata_id: Q5891876
+ipni_surname: Fleischmann
+ipni_forenames: Hans
+ipni_standard_form: H.Fleischm.
+ipni_dates: 1875-1928
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-05-18 13:00:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259754) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

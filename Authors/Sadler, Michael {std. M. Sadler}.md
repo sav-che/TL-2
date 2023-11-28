@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1065
+tl2_volume: vol4
+tl2_page_printed: 1049
+tl2_surname: Sadler
+tl2_forenames: Michael
+tl2_name_abbrev: M. Sadler
+tl2_dates: fl. 1831
+tl2_page_id: 33190520
+author_lsid: 8798-1
+wikidata_id: Q36635030
+ipni_surname: Sadler
+ipni_forenames: Michael (Michal)
+ipni_standard_form: M.Sadler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

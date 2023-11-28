@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0617
+tl2_volume: vol5
+tl2_page_printed: 615
+tl2_surname: Singer
+tl2_forenames: Jakob
+tl2_name_abbrev: J. Singer
+tl2_dates: 1834-1901
+tl2_page_id: 33333754
+author_lsid: 9691-1
+wikidata_id: Q21608957
+ipni_surname: Singer
+ipni_forenames: Jakob
+ipni_standard_form: J.Singer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33333754) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

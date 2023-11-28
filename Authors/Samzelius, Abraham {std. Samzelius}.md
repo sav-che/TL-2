@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0020
+tl2_volume: vol5
+tl2_page_printed: 25
+tl2_surname: Samzelius
+tl2_forenames: Abraham
+tl2_name_abbrev: Samzelius
+tl2_dates: 1723-1773
+tl2_page_id: 33333126
+author_lsid: 8870-1
+wikidata_id: Q21607670
+ipni_surname: Samzelius
+ipni_forenames: Abraham
+ipni_standard_form: Samzelius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

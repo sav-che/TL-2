@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0217
+tl2_volume: vol6
+tl2_page_printed: 184
+tl2_surname: Tavares
+tl2_forenames: Carlos das Neves
+tl2_name_abbrev: Tavares
+tl2_dates: 1914-1972
+tl2_page_id: 33212226
+author_lsid: 27558-1
+wikidata_id: Q21387836
+ipni_surname: Tavares
+ipni_forenames: Carlos das Neves
+ipni_standard_form: Tav.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33212226) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

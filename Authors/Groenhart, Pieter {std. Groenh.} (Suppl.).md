@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0290
+tl2_volume: suppl8
+tl2_page_printed: 405
+tl2_surname: Groenhart
+tl2_forenames: Pieter
+tl2_name_abbrev: Groenh.
+tl2_dates: 1894-1965
+tl2_page_id: 33258883
+author_lsid: 3402-1
+wikidata_id: Q19560623
+ipni_surname: Groenhart
+ipni_forenames: Pieter
+ipni_standard_form: Groenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

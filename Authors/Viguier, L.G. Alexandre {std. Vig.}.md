@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0717
+tl2_volume: vol6
+tl2_page_printed: 736
+tl2_surname: Viguier
+tl2_forenames: L.G. Alexandre
+tl2_name_abbrev: Vig.
+tl2_dates: 1790-1867
+tl2_page_id: 33212778
+author_lsid: 11186-1
+wikidata_id: Q2919045
+ipni_surname: Viguier
+ipni_forenames: Louis Guillaume Alexandre
+ipni_standard_form: Vig.
+ipni_dates: 1790-1867
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0422
+tl2_volume: vol1
+tl2_page_printed: 320
+tl2_surname: Breutel
+tl2_forenames: Johann Christian
+tl2_name_abbrev: Breut.
+tl2_dates: 1788-1875
+tl2_page_id: 33120451
+author_lsid: 1128-1
+wikidata_id: Q21415674
+ipni_surname: Breutel
+ipni_forenames: Johann Christian
+ipni_standard_form: Breutel
+ipni_dates: 1788-1875
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

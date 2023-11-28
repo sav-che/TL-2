@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0226
+tl2_volume: vol2
+tl2_page_printed: 187
+tl2_surname: Heydrich
+tl2_forenames: Franz
+tl2_name_abbrev: Heydr.
+tl2_dates: x-1911
+tl2_page_id: 33068429
+author_lsid: 3919-1
+wikidata_id: Q21515776
+ipni_surname: Heydrich
+ipni_forenames: Franz
+ipni_standard_form: Heydr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

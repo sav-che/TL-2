@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0205
+tl2_volume: suppl7
+tl2_page_printed: 310
+tl2_surname: Forbes
+tl2_forenames: Edward
+tl2_name_abbrev: E. Forbes
+tl2_dates: 1815-1854
+tl2_page_id: 33259814
+author_lsid: 2812-1
+wikidata_id: Q1248394
+ipni_surname: Forbes
+ipni_forenames: Edward
+ipni_standard_form: E.Forbes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33259814) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

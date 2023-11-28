@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0238
+tl2_volume: suppl6
+tl2_page_printed: 226
+tl2_surname: Dyer
+tl2_forenames: Robert Allen
+tl2_name_abbrev: R.A. Dyer
+tl2_dates: 1900-1987
+tl2_page_id: 33260214
+author_lsid: 2431-1
+wikidata_id: Q2062617
+ipni_surname: Dyer
+ipni_forenames: Robert Allen
+ipni_standard_form: R.A.Dyer
+ipni_dates: 1900-1987
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

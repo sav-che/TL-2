@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0249
+tl2_volume: vol2
+tl2_page_printed: 207
+tl2_surname: Himpel
+tl2_forenames: J. Stephan
+tl2_name_abbrev: Himp.
+tl2_dates: fl. 1891
+tl2_page_id: 33068449
+author_lsid: 34849-1
+wikidata_id: Q36591678
+ipni_surname: Himpel
+ipni_forenames: J.Stephan
+ipni_standard_form: Himpel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

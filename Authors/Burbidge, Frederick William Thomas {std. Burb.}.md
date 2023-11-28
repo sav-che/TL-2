@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0497
+tl2_volume: vol1
+tl2_page_printed: 409
+tl2_surname: Burbidge
+tl2_forenames: Frederick William Thomas
+tl2_name_abbrev: Burbidge
+tl2_dates: 1847-1905
+tl2_page_id: 33120540
+author_lsid: 1286-1
+wikidata_id: Q5499059
+ipni_surname: Burbidge
+ipni_forenames: Frederick William Thomas
+ipni_standard_form: Burb.
+ipni_dates: 1847-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

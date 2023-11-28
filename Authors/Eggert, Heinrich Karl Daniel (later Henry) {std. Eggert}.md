@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0300
+tl2_volume: suppl6
+tl2_page_printed: 268
+tl2_surname: Eggert
+tl2_forenames: Heinrich Karl Daniel (later Henry)
+tl2_name_abbrev: Eggert
+tl2_dates: 1841-1904
+tl2_page_id: 33260256
+author_lsid: 2475-1
+wikidata_id: Q21511521
+ipni_surname: Eggert
+ipni_forenames: Heinrich Karl Daniel
+ipni_standard_form: Eggert
+ipni_dates: 1841-1904
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33260256) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0984
+tl2_volume: vol3
+tl2_page_printed: 834
+tl2_surname: Olney
+tl2_forenames: Stephen Thayer
+tl2_name_abbrev: Olney
+tl2_dates: 1812-1878
+tl2_page_id: 33355921
+author_lsid: 7137-1
+wikidata_id: Q4333951
+ipni_surname: Olney
+ipni_forenames: Stephen Thayer
+ipni_standard_form: Olney
+ipni_dates: 1812-1878
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33355921) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

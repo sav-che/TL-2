@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0177
+tl2_volume: suppl7
+tl2_page_printed: 269
+tl2_surname: Florschütz
+tl2_forenames: Frans
+tl2_name_abbrev: F. Florsch.
+tl2_dates: 1887-1965
+tl2_page_id: 33259773
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33259773) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

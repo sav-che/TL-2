@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0114
+tl2_volume: vol5
+tl2_page_printed: 104
+tl2_surname: Schaeffer
+tl2_forenames: Gottlieb August Herrich [Herrich-Schaeffer]
+tl2_name_abbrev: Herr.-Schaeff.
+tl2_dates: 1799-1874
+tl2_page_id: 33333243
+author_lsid: 12817-1
+wikidata_id: Q64830
+ipni_surname: Herrich-Schaeffer
+ipni_forenames: Gottlieb August
+ipni_standard_form: Herr.-Schaeff.
+ipni_dates: 1799-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0027
+tl2_volume: suppl6
+tl2_page_printed: 28
+tl2_surname: Doidge
+tl2_forenames: Ethel Mary
+tl2_name_abbrev: Doidge
+tl2_dates: 1887-1965
+tl2_page_id: 33260016
+author_lsid: 18116-1
+wikidata_id: Q18640601
+ipni_surname: Doidge
+ipni_forenames: Ethel Mary
+ipni_standard_form: Doidge
+ipni_dates: 1887-1965
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

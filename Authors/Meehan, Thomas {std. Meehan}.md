@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0463
+tl2_volume: vol3
+tl2_page_printed: 397
+tl2_surname: Meehan
+tl2_forenames: Thomas
+tl2_name_abbrev: Meehan
+tl2_dates: 1826-1901
+tl2_page_id: 33355484
+author_lsid: 6301-1
+wikidata_id: Q8213940
+ipni_surname: Meehan
+ipni_forenames: Thomas
+ipni_standard_form: Meehan
+ipni_dates: 1826-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

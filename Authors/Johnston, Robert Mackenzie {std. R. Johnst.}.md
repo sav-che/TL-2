@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0514
+tl2_volume: vol2
+tl2_page_printed: 451
+tl2_surname: Johnston
+tl2_forenames: Robert Mackenzie
+tl2_name_abbrev: R. Johnst.
+tl2_dates: 1844-1918
+tl2_page_id: 33068693
+author_lsid: 4523-1
+wikidata_id: Q7347255
+ipni_surname: Johnston
+ipni_forenames: Robert Mackenzie
+ipni_standard_form: R.M.Johnst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33068693) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

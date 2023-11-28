@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0208
+tl2_volume: suppl1
+tl2_page_printed: 167
+tl2_surname: Arnoldi
+tl2_forenames: Wladimir Mitrofanowitsch
+tl2_name_abbrev: Arnoldi
+tl2_dates: 1871-1924
+tl2_page_id: 33264894
+author_lsid: 32296-1
+wikidata_id: Q634344
+ipni_surname: Arnoldi
+ipni_forenames: Wladimir Mitrofanowitsch
+ipni_standard_form: Arnoldi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33264894) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

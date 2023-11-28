@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0750
+tl2_volume: vol5
+tl2_page_printed: 754
+tl2_surname: Souché
+tl2_forenames: Baptiste
+tl2_name_abbrev: Souché
+tl2_dates: 1846-1915
+tl2_page_id: 33333893
+author_lsid: 9913-1
+wikidata_id: Q21609232
+ipni_surname: Souché
+ipni_forenames: Baptiste
+ipni_standard_form: Souché
+ipni_dates: 1846-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33333893) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

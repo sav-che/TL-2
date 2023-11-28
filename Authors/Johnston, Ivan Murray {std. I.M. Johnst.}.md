@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0513
+tl2_volume: vol2
+tl2_page_printed: 450
+tl2_surname: Johnston
+tl2_forenames: Ivan Murray
+tl2_name_abbrev: I.M. Johnst.
+tl2_dates: 1898-1960
+tl2_page_id: 33068692
+author_lsid: 4519-1
+wikidata_id: Q729850
+ipni_surname: Johnston
+ipni_forenames: Ivan Murray
+ipni_standard_form: I.M.Johnst.
+ipni_dates: 1898-1960
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

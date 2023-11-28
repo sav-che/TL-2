@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0266
+tl2_volume: vol4
+tl2_page_printed: 231
+tl2_surname: Philibert
+tl2_forenames: Henri
+tl2_name_abbrev: H. Philib.
+tl2_dates: 1822-1901
+tl2_page_id: 33189702
+author_lsid: 24811-1
+wikidata_id: Q21522944
+ipni_surname: Philibert
+ipni_forenames: Henri
+ipni_standard_form: H.Philib.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

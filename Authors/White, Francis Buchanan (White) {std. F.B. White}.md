@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0231
+tl2_volume: vol7
+tl2_page_printed: 250
+tl2_surname: White
+tl2_forenames: Francis Buchanan [White]
+tl2_name_abbrev: F.B. White
+tl2_dates: 1842-1894
+tl2_page_id: 33066590
+author_lsid: 11617-1
+wikidata_id: Q769117
+ipni_surname: White
+ipni_forenames: Francis Buchanan
+ipni_standard_form: F.B.White
+ipni_dates: 1842-1894
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol7_0512
+tl2_volume: vol7
+tl2_page_printed: 562
+tl2_surname: Zukal
+tl2_forenames: Hugo
+tl2_name_abbrev: Zukal
+tl2_dates: 1845-1900
+tl2_page_id: 33066902
+author_lsid: 12071-1
+wikidata_id: Q21339494
+ipni_surname: Zukal
+ipni_forenames: Hugo
+ipni_standard_form: Zukal
+ipni_dates: 1845-1900
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

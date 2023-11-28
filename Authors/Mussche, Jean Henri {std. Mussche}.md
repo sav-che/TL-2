@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0788
+tl2_volume: vol3
+tl2_page_printed: 674
+tl2_surname: Mussche
+tl2_forenames: Jean Henri
+tl2_name_abbrev: Mussche
+tl2_dates: 1765-1834
+tl2_page_id: 33355761
+author_lsid: 6815-1
+wikidata_id: Q21521926
+ipni_surname: Mussche
+ipni_forenames: Jean Henri
+ipni_standard_form: Mussche
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

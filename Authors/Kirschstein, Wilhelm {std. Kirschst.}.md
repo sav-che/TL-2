@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0663
+tl2_volume: vol2
+tl2_page_printed: 554
+tl2_surname: Kirschstein
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Kirschst.
+tl2_dates: 1863-1946
+tl2_page_id: 33068796
+author_lsid: 21459-1
+wikidata_id: Q15989573
+ipni_surname: Kirschstein
+ipni_forenames: Wilhelm
+ipni_standard_form: Kirschst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33068796) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0451
+tl2_volume: suppl2
+tl2_page_printed: 397
+tl2_surname: Bowdich
+tl2_forenames: Sarah (née Wallis; afterwards Lee)
+tl2_name_abbrev: Bowdich
+tl2_dates: 1791-1856
+tl2_page_id: 33265594
+author_lsid: 12358-1
+wikidata_id: Q2375893
+ipni_surname: Bowdich
+ipni_forenames: Sarah
+ipni_standard_form: Bowdich
+ipni_dates: 1791-1856
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-11-11 08:12:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0459
+tl2_volume: suppl1
+tl2_page_printed: 396
+tl2_surname: Bayer
+tl2_forenames: Edvin
+tl2_name_abbrev: E. Bayer
+tl2_dates: 1862-1927
+tl2_page_id: 33265123
+author_lsid: 565-1
+wikidata_id: Q11875020
+ipni_surname: Bayer
+ipni_forenames: Edvin
+ipni_standard_form: E.Bayer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

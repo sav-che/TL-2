@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0424
+tl2_volume: vol1
+tl2_page_printed: 321
+tl2_surname: Breyne
+tl2_forenames: Jacob
+tl2_name_abbrev: Breyne
+tl2_dates: 1637-1697
+tl2_page_id: 33120452
+author_lsid: 1132-1
+wikidata_id: Q77266
+ipni_surname: Breyne
+ipni_forenames: Jacob
+ipni_standard_form: Breyne
+ipni_dates: 1637-1697
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

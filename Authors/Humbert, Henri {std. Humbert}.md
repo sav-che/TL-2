@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0390
+tl2_volume: vol2
+tl2_page_printed: 362
+tl2_surname: Humbert
+tl2_forenames: Henri
+tl2_name_abbrev: Humbert
+tl2_dates: 1887-1967
+tl2_page_id: 33068604
+author_lsid: 4221-1
+wikidata_id: Q2738811
+ipni_surname: Humbert
+ipni_forenames: Jean-Henri
+ipni_standard_form: Humbert
+ipni_dates: 1887-1967
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0282
+tl2_volume: vol3
+tl2_page_printed: 261
+tl2_surname: Makino
+tl2_forenames: Tomitaro
+tl2_name_abbrev: Makino
+tl2_dates: 1862-1957
+tl2_page_id: 33355348
+author_lsid: 6013-1
+wikidata_id: Q729955
+ipni_surname: Makino
+ipni_forenames: Tomitarô
+ipni_standard_form: Makino
+ipni_dates: 1862-1957
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33355348) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0340
+tl2_volume: vol2
+tl2_page_printed: 304
+tl2_surname: Hoppe
+tl2_forenames: David Heinrich
+tl2_name_abbrev: Hoppe
+tl2_dates: 1760-1846
+tl2_page_id: 33068546
+author_lsid: 4099-1
+wikidata_id: Q66205
+ipni_surname: Hoppe
+ipni_forenames: David Heinrich
+ipni_standard_form: Hoppe
+ipni_dates: 1760-1846
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33068546) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

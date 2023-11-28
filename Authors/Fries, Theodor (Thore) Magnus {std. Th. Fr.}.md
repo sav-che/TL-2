@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1106
+tl2_volume: vol1
+tl2_page_printed: 889
+tl2_surname: Fries
+tl2_forenames: Theodor [Thore] Magnus
+tl2_name_abbrev: Th. Fr.
+tl2_dates: 1832-1913
+tl2_page_id: 33121020
+author_lsid: 2917-1
+wikidata_id: Q15410
+ipni_surname: Fries
+ipni_forenames: Theodor Magnus
+ipni_standard_form: Th.Fr.
+ipni_dates: 1832-1913
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-02-05 07:23:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

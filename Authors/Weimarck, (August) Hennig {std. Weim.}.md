@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0146
+tl2_volume: vol7
+tl2_page_printed: 152
+tl2_surname: Weimarck
+tl2_forenames: [August] Hennig
+tl2_name_abbrev: Weim.
+tl2_dates: 1903-1980
+tl2_page_id: 33066492
+author_lsid: 11506-1
+wikidata_id: Q6234591
+ipni_surname: Weimarck
+ipni_forenames: August Henning
+ipni_standard_form: Weim.
+ipni_dates: 1903-1980
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33066492) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

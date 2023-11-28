@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1031
+tl2_volume: vol4
+tl2_page_printed: 1003
+tl2_surname: Russell
+tl2_forenames: John sixth duke of Bedford
+tl2_name_abbrev: J. Russell
+tl2_dates: 1766-1839
+tl2_page_id: 33190474
+author_lsid: 8752-1
+wikidata_id: Q25690
+ipni_surname: Russell
+ipni_forenames: John
+ipni_standard_form: J.Russell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/page/33190474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

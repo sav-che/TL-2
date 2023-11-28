@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0020
+tl2_volume: suppl5
+tl2_page_printed: 21
+tl2_surname: Dahnke
+tl2_forenames: Walter Wilhelm Ludwig
+tl2_name_abbrev: Dahnke
+tl2_dates: 1890-1972
+tl2_page_id: 33259067
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33259067) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

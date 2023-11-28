@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0086
+tl2_volume: suppl7
+tl2_page_printed: 130
+tl2_surname: Fenzi
+tl2_forenames: Emanuele Orazio [Emanuelino]
+tl2_name_abbrev: Franceschi
+tl2_dates: 1843-1924
+tl2_page_id: 33259634
+author_lsid: 13542-1
+wikidata_id: Q5864759
+ipni_surname: Franceschi
+ipni_forenames: Francesco
+ipni_standard_form: Franceschi
+ipni_dates: 1843-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259634) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

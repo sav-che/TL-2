@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0902
+tl2_volume: vol1
+tl2_page_printed: 708
+tl2_surname: Durand
+tl2_forenames: Théophile Alexis
+tl2_name_abbrev: Th. Durand
+tl2_dates: 1855-1912
+tl2_page_id: 33120839
+author_lsid: 2400-1
+wikidata_id: Q1839687
+ipni_surname: Durand
+ipni_forenames: Théophile Alexis
+ipni_standard_form: T.Durand
+ipni_dates: 1855-1912
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

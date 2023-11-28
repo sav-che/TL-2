@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0070
+tl2_volume: vol1
+tl2_page_printed: 48
+tl2_surname: André
+tl2_forenames: Édouard François
+tl2_name_abbrev: André
+tl2_dates: 1840-1911
+tl2_page_id: 33120179
+author_lsid: 207-1
+wikidata_id: Q274317
+ipni_surname: André
+ipni_forenames: Édouard-François
+ipni_standard_form: André
+ipni_dates: 1840-1911
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-11-26 09:03:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

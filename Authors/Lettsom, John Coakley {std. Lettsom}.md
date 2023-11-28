@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1025
+tl2_volume: vol2
+tl2_page_printed: 859
+tl2_surname: Lettsom
+tl2_forenames: John Coakley
+tl2_name_abbrev: Lettsom
+tl2_dates: 1744-1815
+tl2_page_id: 33069101
+author_lsid: 5522-1
+wikidata_id: Q6224512
+ipni_surname: Lettsom
+ipni_forenames: John Coakley
+ipni_standard_form: Lettsom
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

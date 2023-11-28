@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0070
+tl2_volume: vol6
+tl2_page_printed: 54
+tl2_surname: Strutt
+tl2_forenames: Jacob George
+tl2_name_abbrev: Strutt
+tl2_dates: fl. 1820-1850
+tl2_page_id: 33212058
+author_lsid: 10236-1
+wikidata_id: Q6118669
+ipni_surname: Strutt
+ipni_forenames: Jacob George
+ipni_standard_form: Strutt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

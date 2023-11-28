@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0364
+tl2_volume: suppl1
+tl2_page_printed: 323
+tl2_surname: Barckhausen
+tl2_forenames: Justus Christian Gottlieb Willibald
+tl2_name_abbrev: Barckhausen
+tl2_dates: 1748-1783
+tl2_page_id: 33265050
+author_lsid: 473-1
+wikidata_id: Q36559839
+ipni_surname: Barckhausen
+ipni_forenames: Justus Christian Gottlieb Willibald
+ipni_standard_form: Barckh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265050) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

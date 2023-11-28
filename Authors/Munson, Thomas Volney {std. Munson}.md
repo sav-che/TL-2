@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0771
+tl2_volume: vol3
+tl2_page_printed: 661
+tl2_surname: Munson
+tl2_forenames: Thomas Volney
+tl2_name_abbrev: Munson
+tl2_dates: 1843-1913
+tl2_page_id: 33355748
+author_lsid: 6785-1
+wikidata_id: Q6146110
+ipni_surname: Munson
+ipni_forenames: Thomas Volney
+ipni_standard_form: Munson
+ipni_dates: 1843-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33355748) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

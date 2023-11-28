@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0212
+tl2_volume: vol6
+tl2_page_printed: 179
+tl2_surname: Taubenhaus
+tl2_forenames: Jacob Joseph
+tl2_name_abbrev: Taubenhaus
+tl2_dates: 1884-1937
+tl2_page_id: 33212221
+author_lsid: 27552-1
+wikidata_id: Q15453057
+ipni_surname: Taubenhaus
+ipni_forenames: Jacob Joseph
+ipni_standard_form: Taubenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol5_0727
+tl2_volume: vol5
+tl2_page_printed: 729
+tl2_surname: Solms-Laubach
+tl2_forenames: Hermann [Maximilian Carl Ludwig Friedrich zu]
+tl2_name_abbrev: Solms
+tl2_dates: 1842-1915
+tl2_page_id: 33333868
+author_lsid: 9880-1
+wikidata_id: Q67692
+ipni_surname: Solms-Laubach
+ipni_forenames: Hermann Maximilian Carl Ludwig Friedrich zu
+ipni_standard_form: Solms
+ipni_dates: 1842-1915
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33333868) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

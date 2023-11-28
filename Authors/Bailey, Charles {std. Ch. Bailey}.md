@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0305
+tl2_volume: suppl1
+tl2_page_printed: 256
+tl2_surname: Bailey
+tl2_forenames: Charles
+tl2_name_abbrev: Ch. Bailey
+tl2_dates: 1838-1924
+tl2_page_id: 33264983
+author_lsid: 13860-1
+wikidata_id: Q21505546
+ipni_surname: Bailey
+ipni_forenames: Charles
+ipni_standard_form: C.Bailey
+ipni_dates: 1838-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33264983) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

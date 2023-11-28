@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0207
+tl2_volume: vol7
+tl2_page_printed: 216
+tl2_surname: Weston
+tl2_forenames: Richard
+tl2_name_abbrev: Weston
+tl2_dates: 1733-1806
+tl2_page_id: 33066556
+author_lsid: 11592-1
+wikidata_id: Q4479837
+ipni_surname: Weston
+ipni_forenames: Richard
+ipni_standard_form: Weston
+ipni_dates: 1733-1806
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33066556) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

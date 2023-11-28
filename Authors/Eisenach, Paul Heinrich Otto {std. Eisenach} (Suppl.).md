@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0326
+tl2_volume: suppl6
+tl2_page_printed: 289
+tl2_surname: Eisenach
+tl2_forenames: Paul Heinrich Otto
+tl2_name_abbrev: Eisenach
+tl2_dates: 1847-1917
+tl2_page_id: 33260277
+author_lsid: 2494-1
+wikidata_id: Q5644009
+ipni_surname: Eisenach
+ipni_forenames: Paul Heinrich Otto
+ipni_standard_form: Eisenach
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33260277) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

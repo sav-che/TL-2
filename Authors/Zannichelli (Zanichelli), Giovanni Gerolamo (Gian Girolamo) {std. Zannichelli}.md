@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0469
+tl2_volume: vol7
+tl2_page_printed: 520
+tl2_surname: Zannichelli [Zanichelli]
+tl2_forenames: Giovanni Gerolamo [Gian Girolamo]
+tl2_name_abbrev: Zannichelli
+tl2_dates: 1662-1729
+tl2_page_id: 33066860
+author_lsid: 11986-1
+wikidata_id: Q1522301
+ipni_surname: Zannichelli
+ipni_forenames: Giovanni Gerolamo (Gian Girolamo)
+ipni_standard_form: Zannich.
+ipni_dates: 1662-1729
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33066860) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

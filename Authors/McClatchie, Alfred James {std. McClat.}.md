@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0216
+tl2_volume: vol3
+tl2_page_printed: 213
+tl2_surname: McClatchie
+tl2_forenames: Alfred James
+tl2_name_abbrev: McClat.
+tl2_dates: 1861-1906
+tl2_page_id: 33355300
+author_lsid: 5898-1
+wikidata_id: Q5667435
+ipni_surname: McClatchie
+ipni_forenames: Alfred James
+ipni_standard_form: McClatchie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

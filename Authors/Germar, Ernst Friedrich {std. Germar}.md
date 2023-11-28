@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1175
+tl2_volume: vol1
+tl2_page_printed: 936
+tl2_surname: Germar
+tl2_forenames: Ernst Friedrich
+tl2_name_abbrev: Germar
+tl2_dates: 1786-1853
+tl2_page_id: 33121067
+author_lsid: 3107-1
+wikidata_id: Q65715
+ipni_surname: Germar
+ipni_forenames: Ernst Freidrich
+ipni_standard_form: Germar
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

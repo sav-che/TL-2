@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0883
+tl2_volume: vol2
+tl2_page_printed: 750
+tl2_surname: Langeron
+tl2_forenames: Maurice Charles Pierre
+tl2_name_abbrev: Langer.
+tl2_dates: 1874-1950
+tl2_page_id: 33068992
+author_lsid: 22049-1
+wikidata_id: Q2879861
+ipni_surname: Langeron
+ipni_forenames: Maurice Charles Pierre
+ipni_standard_form: Langeron
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Fossils
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0274
+tl2_volume: suppl2
+tl2_page_printed: 221
+tl2_surname: Blomberg
+tl2_forenames: Olof Gotthard
+tl2_name_abbrev: Blomb.
+tl2_dates: 1838-1901
+tl2_page_id: 33265418
+author_lsid: 16220-1
+wikidata_id: Q21340725
+ipni_surname: Blomberg
+ipni_forenames: Olof Gotthard
+ipni_standard_form: Blomb.
+ipni_dates: 1838-1901
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265418) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

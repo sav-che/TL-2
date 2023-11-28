@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0266
+tl2_volume: suppl2
+tl2_page_printed: 215
+tl2_surname: Blochmann
+tl2_forenames: Friedrich
+tl2_name_abbrev: Blochm.
+tl2_dates: 1858-1931
+tl2_page_id: 33265412
+author_lsid: 32468-1
+wikidata_id: Q1458469
+ipni_surname: Blochmann
+ipni_forenames: Friedrich
+ipni_standard_form: Blochm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

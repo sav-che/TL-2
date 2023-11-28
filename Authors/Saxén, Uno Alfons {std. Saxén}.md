@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0096
+tl2_volume: vol5
+tl2_page_printed: 94
+tl2_surname: Saxén
+tl2_forenames: Uno Alfons
+tl2_name_abbrev: Saxén
+tl2_dates: 1863-1948
+tl2_page_id: 33333233
+author_lsid: 8986-1
+wikidata_id: Q17383673
+ipni_surname: Saxén
+ipni_forenames: Uno Alfons
+ipni_standard_form: Saxén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

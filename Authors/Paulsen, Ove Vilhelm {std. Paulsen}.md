@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0121
+tl2_volume: vol4
+tl2_page_printed: 113
+tl2_surname: Paulsen
+tl2_forenames: Ove Vilhelm
+tl2_name_abbrev: Paulsen
+tl2_dates: 1874-1947
+tl2_page_id: 33189584
+author_lsid: 7410-1
+wikidata_id: Q2654979
+ipni_surname: Paulsen
+ipni_forenames: Ove Wilhelm
+ipni_standard_form: Paulsen
+ipni_dates: 1874-1947
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

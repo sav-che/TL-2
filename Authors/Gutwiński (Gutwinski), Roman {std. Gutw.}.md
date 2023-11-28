@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0339
+tl2_volume: suppl8
+tl2_page_printed: 466
+tl2_surname: Gutwiński [Gutwinski]
+tl2_forenames: Roman
+tl2_name_abbrev: Gutw.
+tl2_dates: 1860-1932
+tl2_page_id: 33258944
+author_lsid: 29411-1
+wikidata_id: Q21514438
+ipni_surname: Gutwinski
+ipni_forenames: Roman
+ipni_standard_form: Gutw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

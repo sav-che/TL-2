@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0326
+tl2_volume: vol4
+tl2_page_printed: 272
+tl2_surname: Piper
+tl2_forenames: Richard Upton
+tl2_name_abbrev: R. Piper
+tl2_dates: 1818-1897
+tl2_page_id: 33189743
+author_lsid: 7721-1
+wikidata_id: Q6108718
+ipni_surname: Piper
+ipni_forenames: Richard Upton
+ipni_standard_form: R.Piper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0706
+tl2_volume: vol5
+tl2_page_printed: 711
+tl2_surname: Snow
+tl2_forenames: Charles Henry
+tl2_name_abbrev: C. Snow
+tl2_dates: 1863-1957
+tl2_page_id: 33333850
+author_lsid: 9841-1
+wikidata_id: Q21609153
+ipni_surname: Snow
+ipni_forenames: Charles Henry
+ipni_standard_form: C.Snow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1199
+tl2_volume: vol1
+tl2_page_printed: 950
+tl2_surname: Glaziou
+tl2_forenames: Auguste François Marie
+tl2_name_abbrev: Glaz.
+tl2_dates: 1828-1906
+tl2_page_id: 33121081
+author_lsid: 3189-1
+wikidata_id: Q440696
+ipni_surname: Glaziou
+ipni_forenames: Auguste François Marie
+ipni_standard_form: Glaz.
+ipni_dates: 1828-1906
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 950](https://www.biodiversitylibrary.org/page/33121081) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

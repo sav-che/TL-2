@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0368
+tl2_volume: vol4
+tl2_page_printed: 310
+tl2_surname: Poeppig
+tl2_forenames: Eduard Friedrich
+tl2_name_abbrev: Poepp.
+tl2_dates: 1798-1868
+tl2_page_id: 33189781
+author_lsid: 24937-1
+wikidata_id: Q61501
+ipni_surname: Poeppig
+ipni_forenames: Eduard Friedrich
+ipni_standard_form: Poepp.
+ipni_dates: 1798-1868
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33189781) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

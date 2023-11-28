@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0118
+tl2_volume: vol5
+tl2_page_printed: 111
+tl2_surname: Schaffner
+tl2_forenames: John Henry
+tl2_name_abbrev: J.H. Schaffn.
+tl2_dates: 1866-1939
+tl2_page_id: 33333250
+author_lsid: 9009-1
+wikidata_id: Q16027658
+ipni_surname: Schaffner
+ipni_forenames: John Henry
+ipni_standard_form: J.H.Schaffn.
+ipni_dates: 1866-1939
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33333250) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0632
+tl2_volume: vol5
+tl2_page_printed: 625
+tl2_surname: Skeels
+tl2_forenames: Homer Collar
+tl2_name_abbrev: Skeels
+tl2_dates: 1873-1934
+tl2_page_id: 33333764
+author_lsid: 9714-1
+wikidata_id: Q4421859
+ipni_surname: Skeels
+ipni_forenames: Homer Collar
+ipni_standard_form: Skeels
+ipni_dates: 1873-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

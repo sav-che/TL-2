@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0036
+tl2_volume: suppl7
+tl2_page_printed: 49
+tl2_surname: Farr
+tl2_forenames: Clifford Harrison
+tl2_name_abbrev: C.H. Farr
+tl2_dates: 1888-1928
+tl2_page_id: 33259553
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259553) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

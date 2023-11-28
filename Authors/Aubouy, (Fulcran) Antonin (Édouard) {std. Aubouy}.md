@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0236
+tl2_volume: suppl1
+tl2_page_printed: 205
+tl2_surname: Aubouy
+tl2_forenames: [Fulcran] Antonin [Édouard]
+tl2_name_abbrev: Aubouy
+tl2_dates: fl. 1871-1903
+tl2_page_id: 33264932
+author_lsid: 20000039-2
+wikidata_id: Q5870844
+ipni_surname: Aubouy
+ipni_forenames: Fulcran Antonin Edouard
+ipni_standard_form: Aubouy
+ipni_dates: fl. 1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.5.1
+ipni_record_created: 2003-12-23 05:28:25.0
+ipni_record_modified: 2004-03-31 04:19:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33264932) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

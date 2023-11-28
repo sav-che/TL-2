@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0155
+tl2_volume: suppl8
+tl2_page_printed: 194
+tl2_surname: Giard
+tl2_forenames: Alfred-Mathieu
+tl2_name_abbrev: Giard
+tl2_dates: 1846-1908
+tl2_page_id: 33258672
+author_lsid: 19301-1
+wikidata_id: Q322638
+ipni_surname: Giard
+ipni_forenames: Alfred-Mathieu
+ipni_standard_form: Giard
+ipni_dates: 1846-1908
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33258672) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

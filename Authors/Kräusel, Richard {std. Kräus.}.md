@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0768
+tl2_volume: vol2
+tl2_page_printed: 660
+tl2_surname: Kräusel
+tl2_forenames: Richard
+tl2_name_abbrev: Kräus.
+tl2_dates: 1890-1966
+tl2_page_id: 33068902
+author_lsid: 5014-1
+wikidata_id: Q2149987
+ipni_surname: Kräusel
+ipni_forenames: Richard Oswald Karl
+ipni_standard_form: Kräusel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+- Bryophytes
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

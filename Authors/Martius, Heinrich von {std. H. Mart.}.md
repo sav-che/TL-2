@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0389
+tl2_volume: vol3
+tl2_page_printed: 340
+tl2_surname: Martius
+tl2_forenames: Heinrich von
+tl2_name_abbrev: H. Mart.
+tl2_dates: 1781-1831
+tl2_page_id: 33355427
+author_lsid: 22981-1
+wikidata_id: Q21520051
+ipni_surname: Martius
+ipni_forenames: Heinrich von
+ipni_standard_form: H.Mart.
+ipni_dates: 1781-1831
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1178
+tl2_volume: vol1
+tl2_page_printed: 937
+tl2_surname: Geuns
+tl2_forenames: Matthias van
+tl2_name_abbrev: M. Geuns
+tl2_dates: 1735-1817
+tl2_page_id: 33121068
+author_lsid: 3115-1
+wikidata_id: Q1614331
+ipni_surname: Geuns
+ipni_forenames: Matthias
+ipni_standard_form: M.Geuns
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

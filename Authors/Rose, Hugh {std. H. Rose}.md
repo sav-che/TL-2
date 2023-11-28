@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0909
+tl2_volume: vol4
+tl2_page_printed: 884
+tl2_surname: Rose
+tl2_forenames: Hugh
+tl2_name_abbrev: H. Rose
+tl2_dates: ca. 1717-1792
+tl2_page_id: 33190355
+author_lsid: 8585-1
+wikidata_id: Q18534182
+ipni_surname: Rose
+ipni_forenames: Hugh
+ipni_standard_form: H.Rose
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

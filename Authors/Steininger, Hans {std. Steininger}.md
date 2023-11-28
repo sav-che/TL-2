@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0882
+tl2_volume: vol5
+tl2_page_printed: 878
+tl2_surname: Steininger
+tl2_forenames: Hans
+tl2_name_abbrev: Steininger
+tl2_dates: 1856-1891
+tl2_page_id: 33334017
+author_lsid: 10084-1
+wikidata_id: Q21609734
+ipni_surname: Steininger
+ipni_forenames: Hans
+ipni_standard_form: Steininger
+ipni_dates: 1856-1891
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33334017) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

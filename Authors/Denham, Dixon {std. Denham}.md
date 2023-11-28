@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0798
+tl2_volume: vol1
+tl2_page_printed: 621
+tl2_surname: Denham
+tl2_forenames: Dixon
+tl2_name_abbrev: Denham
+tl2_dates: 1786-1828
+tl2_page_id: 33120752
+author_lsid: 2126-1
+wikidata_id: Q1231777
+ipni_surname: Denham
+ipni_forenames: Dixon
+ipni_standard_form: Denham
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

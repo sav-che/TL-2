@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0173
+tl2_volume: suppl2
+tl2_page_printed: 151
+tl2_surname: Beyer
+tl2_forenames: Harry Rudolf
+tl2_name_abbrev: H.R. Beyer
+tl2_dates: 1874-?
+tl2_page_id: 33265348
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33265348) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

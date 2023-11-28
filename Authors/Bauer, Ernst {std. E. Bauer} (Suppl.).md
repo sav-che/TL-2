@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0437
+tl2_volume: suppl1
+tl2_page_printed: 382
+tl2_surname: Bauer
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Bauer
+tl2_dates: 1860-1942
+tl2_page_id: 33265109
+author_lsid: 15804-1
+wikidata_id: Q21505794
+ipni_surname: Bauer
+ipni_forenames: Ernst
+ipni_standard_form: E.Bauer
+ipni_dates: 1860-1942
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

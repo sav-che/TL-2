@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0277
+tl2_volume: vol6
+tl2_page_printed: 236
+tl2_surname: Thays
+tl2_forenames: Carlos [baptized Charles]
+tl2_name_abbrev: Thays
+tl2_dates: 1849-1934
+tl2_page_id: 33212278
+author_lsid: 10545-1
+wikidata_id: Q866729
+ipni_surname: Thays
+ipni_forenames: Carlos(Charles)
+ipni_standard_form: Thays
+ipni_dates: 1849-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

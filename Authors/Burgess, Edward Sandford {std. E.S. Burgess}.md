@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0234
+tl2_volume: suppl3
+tl2_page_printed: 239
+tl2_surname: Burgess
+tl2_forenames: Edward Sandford
+tl2_name_abbrev: E.S. Burgess
+tl2_dates: 1855-1928
+tl2_page_id: 33266546
+author_lsid: 1298-1
+wikidata_id: Q5820022
+ipni_surname: Burgess
+ipni_forenames: Edward Sandford
+ipni_standard_form: E.S.Burgess
+ipni_dates: 1855-1928
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33266546) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

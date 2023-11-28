@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0015
+tl2_volume: vol2
+tl2_page_printed: 11
+tl2_surname: Hagen
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: F. Hagen
+tl2_dates: 1738-1775
+tl2_page_id: 33068253
+author_lsid: 3545-1
+wikidata_id: Q21514487
+ipni_surname: Hagen
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Hagen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

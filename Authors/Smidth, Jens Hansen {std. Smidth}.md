@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0657
+tl2_volume: vol5
+tl2_page_printed: 658
+tl2_surname: Smidth
+tl2_forenames: Jens Hansen
+tl2_name_abbrev: Smidth
+tl2_dates: 1769-1847
+tl2_page_id: 33333797
+author_lsid: 9760-1
+wikidata_id: Q21609050
+ipni_surname: Smidth
+ipni_forenames: Jens Hansen
+ipni_standard_form: Smidth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

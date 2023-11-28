@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0059
+tl2_volume: vol5
+tl2_page_printed: 63
+tl2_surname: Sass
+tl2_forenames: Arthur Ferdinand, baron von
+tl2_name_abbrev: Sass
+tl2_dates: 1837-1870
+tl2_page_id: 33333202
+author_lsid: 8932-1
+wikidata_id: Q21607757
+ipni_surname: Sass
+ipni_forenames: Arthur Ferdinand von
+ipni_standard_form: Sass
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

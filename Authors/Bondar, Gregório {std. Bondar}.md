@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0370
+tl2_volume: suppl2
+tl2_page_printed: 310
+tl2_surname: Bondar
+tl2_forenames: Gregório
+tl2_name_abbrev: Bondar
+tl2_dates: 1881-1959
+tl2_page_id: 33265507
+author_lsid: 16319-1
+wikidata_id: Q8965083
+ipni_surname: Bondar
+ipni_forenames: Gregório Gregorievich
+ipni_standard_form: Bondar
+ipni_dates: 1881-1959
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

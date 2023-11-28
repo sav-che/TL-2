@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1253
+tl2_volume: vol1
+tl2_page_printed: 1000
+tl2_surname: Greschik
+tl2_forenames: Victor
+tl2_name_abbrev: Greschik
+tl2_dates: 1862-1946
+tl2_page_id: 33121131
+author_lsid: 3376-1
+wikidata_id: Q21514266
+ipni_surname: Greschik
+ipni_forenames: Victor
+ipni_standard_form: Greschik
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1000](https://www.biodiversitylibrary.org/page/33121131) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

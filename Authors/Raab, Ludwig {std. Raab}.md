@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0543
+tl2_volume: vol4
+tl2_page_printed: 459
+tl2_surname: Raab
+tl2_forenames: Ludwig
+tl2_name_abbrev: Raab
+tl2_dates: fl. 1900
+tl2_page_id: 33189930
+author_lsid: 8061-1
+wikidata_id: Q47124832
+ipni_surname: Raab
+ipni_forenames: Ludwig
+ipni_standard_form: L.Raab
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33189930) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

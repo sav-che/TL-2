@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0086
+tl2_volume: vol4
+tl2_page_printed: 74
+tl2_surname: Parnell
+tl2_forenames: Richard
+tl2_name_abbrev: Parn.
+tl2_dates: 1810-1882
+tl2_page_id: 33189545
+author_lsid: 7360-1
+wikidata_id: Q6108682
+ipni_surname: Parnell
+ipni_forenames: Richard
+ipni_standard_form: Parn.
+ipni_dates: 1810-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33189545) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

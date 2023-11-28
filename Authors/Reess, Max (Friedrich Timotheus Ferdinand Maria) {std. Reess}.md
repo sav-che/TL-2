@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0659
+tl2_volume: vol4
+tl2_page_printed: 635
+tl2_surname: Reess
+tl2_forenames: Max [Friedrich Timotheus Ferdinand Maria]
+tl2_name_abbrev: Reess
+tl2_dates: 1845-1901
+tl2_page_id: 33190106
+author_lsid: 12762-1
+wikidata_id: Q1412370
+ipni_surname: Reess
+ipni_forenames: Maximilian (Friedrich Timotheus Ferdinand Maria)
+ipni_standard_form: Reess
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33190106) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

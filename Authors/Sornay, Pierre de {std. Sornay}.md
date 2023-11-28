@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0747
+tl2_volume: vol5
+tl2_page_printed: 752
+tl2_surname: Sornay
+tl2_forenames: Pierre de
+tl2_name_abbrev: Sornay
+tl2_dates: fl. 1913
+tl2_page_id: 33333891
+author_lsid: 9907-1
+wikidata_id: Q36655895
+ipni_surname: Sornay
+ipni_forenames: Pierre de
+ipni_standard_form: Sornay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Mauritius
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

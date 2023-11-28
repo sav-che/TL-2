@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0521
+tl2_volume: vol6
+tl2_page_printed: 512
+tl2_surname: True
+tl2_forenames: Rodney Howard
+tl2_name_abbrev: True
+tl2_dates: 1866-1940
+tl2_page_id: 33212554
+author_lsid: 10860-1
+wikidata_id: Q18911692
+ipni_surname: True
+ipni_forenames: Rodney Howard
+ipni_standard_form: True
+ipni_dates: 1866-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33212554) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

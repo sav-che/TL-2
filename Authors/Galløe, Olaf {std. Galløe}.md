@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1130
+tl2_volume: vol1
+tl2_page_printed: 907
+tl2_surname: Galløe
+tl2_forenames: Olaf
+tl2_name_abbrev: Galløe
+tl2_dates: 1881-1965
+tl2_page_id: 33121038
+author_lsid: 2997-1
+wikidata_id: Q12329973
+ipni_surname: Galløe
+ipni_forenames: Olaf
+ipni_standard_form: Galløe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33121038) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

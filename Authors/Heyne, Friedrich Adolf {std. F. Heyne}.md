@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0229
+tl2_volume: vol2
+tl2_page_printed: 188
+tl2_surname: Heyne
+tl2_forenames: Friedrich Adolf
+tl2_name_abbrev: F. Heyne
+tl2_dates: 1760-1826
+tl2_page_id: 33068430
+author_lsid: 3924-1
+wikidata_id: Q6437245
+ipni_surname: Heyne
+ipni_forenames: Friedrich Adolf
+ipni_standard_form: F.Heyne
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33068430) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

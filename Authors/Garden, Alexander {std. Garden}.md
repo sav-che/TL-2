@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1137
+tl2_volume: vol1
+tl2_page_printed: 914
+tl2_surname: Garden
+tl2_forenames: Alexander
+tl2_name_abbrev: Garden
+tl2_dates: 1730-1791
+tl2_page_id: 33121045
+author_lsid: 3022-1
+wikidata_id: Q683772
+ipni_surname: Garden
+ipni_forenames: Alexander
+ipni_standard_form: Garden
+ipni_dates: 1730-1792
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/page/33121045) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

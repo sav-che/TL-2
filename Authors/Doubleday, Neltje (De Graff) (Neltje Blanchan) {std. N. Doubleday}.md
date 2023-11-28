@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0062
+tl2_volume: suppl6
+tl2_page_printed: 65
+tl2_surname: Doubleday
+tl2_forenames: Neltje (De Graff) (Neltje Blanchan)
+tl2_name_abbrev: N. Doubleday
+tl2_dates: 1865-1918
+tl2_page_id: 33260053
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33260053) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

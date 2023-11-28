@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl5_0150
+tl2_volume: suppl5
+tl2_page_printed: 134
+tl2_surname: Decaisne
+tl2_forenames: Joseph
+tl2_name_abbrev: Decne.
+tl2_dates: 1807-1882
+tl2_page_id: 33259180
+author_lsid: 2063-1
+wikidata_id: Q966069
+ipni_surname: Decaisne
+ipni_forenames: Joseph
+ipni_standard_form: Decne.
+ipni_dates: 1807-1882
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-14 13:28:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

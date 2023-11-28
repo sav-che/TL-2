@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0362
+tl2_volume: suppl1
+tl2_page_printed: 322
+tl2_surname: Bárcena
+tl2_forenames: Mariano [de la]
+tl2_name_abbrev: Bárcena
+tl2_dates: 1842-1899
+tl2_page_id: 33265049
+author_lsid: 472-1
+wikidata_id: Q6762425
+ipni_surname: Bárcena
+ipni_forenames: Mariano de la
+ipni_standard_form: Bárcena
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

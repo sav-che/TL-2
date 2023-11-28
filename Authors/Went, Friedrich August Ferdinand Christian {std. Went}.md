@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0176
+tl2_volume: vol7
+tl2_page_printed: 185
+tl2_surname: Went
+tl2_forenames: Friedrich August Ferdinand Christian
+tl2_name_abbrev: Went
+tl2_dates: 1863-1935
+tl2_page_id: 33066525
+author_lsid: 11554-1
+wikidata_id: Q1465275
+ipni_surname: Went
+ipni_forenames: Friedrich August Ferdinand Christian
+ipni_standard_form: Went
+ipni_dates: 1863-1935
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33066525) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

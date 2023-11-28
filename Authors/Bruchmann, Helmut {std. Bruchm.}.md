@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0135
+tl2_volume: suppl3
+tl2_page_printed: 149
+tl2_surname: Bruchmann
+tl2_forenames: Helmut
+tl2_name_abbrev: Bruchm.
+tl2_dates: 1847-1920
+tl2_page_id: 33266456
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33266456) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

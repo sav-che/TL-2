@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0234
+tl2_volume: suppl5
+tl2_page_printed: 206
+tl2_surname: Dennstedt
+tl2_forenames: August Wilhelm
+tl2_name_abbrev: Dennst.
+tl2_dates: 1776-1826
+tl2_page_id: 33259252
+author_lsid: 2130-1
+wikidata_id: Q5711541
+ipni_surname: Dennstedt
+ipni_forenames: August Wilhelm
+ipni_standard_form: Dennst.
+ipni_dates: 1776-1826
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33259252) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

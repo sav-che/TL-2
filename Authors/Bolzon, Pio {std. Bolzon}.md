@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0357
+tl2_volume: suppl2
+tl2_page_printed: 300
+tl2_surname: Bolzon
+tl2_forenames: Pio
+tl2_name_abbrev: Bolzon
+tl2_dates: 1867-1940
+tl2_page_id: 33265497
+author_lsid: 939-1
+wikidata_id: Q16590753
+ipni_surname: Bolzon
+ipni_forenames: Pio
+ipni_standard_form: Bolzon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265497) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

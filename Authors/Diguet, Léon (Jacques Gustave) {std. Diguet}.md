@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0337
+tl2_volume: suppl5
+tl2_page_printed: 338
+tl2_surname: Diguet
+tl2_forenames: Léon [Jacques Gustave]
+tl2_name_abbrev: Diguet
+tl2_dates: 1859-1926
+tl2_page_id: 33259384
+author_lsid: 12131-1
+wikidata_id: Q3270911
+ipni_surname: Diguet
+ipni_forenames: Léon
+ipni_standard_form: Diguet
+ipni_dates: fl. 1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259384) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0206
+tl2_volume: suppl1
+tl2_page_printed: 165
+tl2_surname: Arnold
+tl2_forenames: Ferdinand [Christian Gustav] (von Eichstätt)
+tl2_name_abbrev: Arnold
+tl2_dates: 1828-1901
+tl2_page_id: 33264892
+author_lsid: 276-1
+wikidata_id: Q2460005
+ipni_surname: Arnold
+ipni_forenames: Ferdinand Christian Gustav
+ipni_standard_form: Arnold
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33264892) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

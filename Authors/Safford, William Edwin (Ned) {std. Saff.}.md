@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1068
+tl2_volume: vol4
+tl2_page_printed: 1051
+tl2_surname: Safford
+tl2_forenames: William Edwin (Ned)
+tl2_name_abbrev: Saff.
+tl2_dates: 1859-1926
+tl2_page_id: 33190522
+author_lsid: 8805-1
+wikidata_id: Q3568593
+ipni_surname: Safford
+ipni_forenames: William Edwin (`Ned')
+ipni_standard_form: Saff.
+ipni_dates: 1859-1926
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/page/33190522) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

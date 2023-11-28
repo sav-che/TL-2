@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0337
+tl2_volume: suppl6
+tl2_page_printed: 298
+tl2_surname: Ekstrand
+tl2_forenames: Emil Viktor
+tl2_name_abbrev: Ekstr.
+tl2_dates: 1841-1884
+tl2_page_id: 33260286
+author_lsid: 18421-1
+wikidata_id: Q5830789
+ipni_surname: Ekstrand
+ipni_forenames: Emil Viktor
+ipni_standard_form: Ekstr.
+ipni_dates: 1841-1884
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

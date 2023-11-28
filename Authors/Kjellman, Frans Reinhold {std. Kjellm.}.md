@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0672
+tl2_volume: vol2
+tl2_page_printed: 559
+tl2_surname: Kjellman
+tl2_forenames: Frans Reinhold
+tl2_name_abbrev: Kjellm.
+tl2_dates: 1846-1907
+tl2_page_id: 33068801
+author_lsid: 4827-1
+wikidata_id: Q2364486
+ipni_surname: Kjellman
+ipni_forenames: Frans Reinhold
+ipni_standard_form: Kjellm.
+ipni_dates: 1846-1907
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33068801) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

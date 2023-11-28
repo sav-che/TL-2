@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0612
+tl2_volume: vol3
+tl2_page_printed: 533
+tl2_surname: Møller
+tl2_forenames: Birgitte Christina
+tl2_name_abbrev: B. Møller
+tl2_dates: 1857-1934
+tl2_page_id: 33355620
+author_lsid: 6545-1
+wikidata_id: Q21521625
+ipni_surname: Møller
+ipni_forenames: Birgitte Christina
+ipni_standard_form: B.Møller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33355620) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

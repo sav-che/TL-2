@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0025
+tl2_volume: suppl7
+tl2_page_printed: 31
+tl2_surname: Familler
+tl2_forenames: Ignaz
+tl2_name_abbrev: Fam.
+tl2_dates: 1863-1923
+tl2_page_id: 33259535
+author_lsid: 18640-1
+wikidata_id: Q21512574
+ipni_surname: Familler
+ipni_forenames: Ignaz
+ipni_standard_form: Fam.
+ipni_dates: 1863-1923
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259535) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

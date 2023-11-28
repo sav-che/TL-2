@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0310
+tl2_volume: vol3
+tl2_page_printed: 279
+tl2_surname: Mann
+tl2_forenames: Johann Gottlieb
+tl2_name_abbrev: J.G. Mann
+tl2_dates: fl. 1829
+tl2_page_id: 33355366
+author_lsid: 6072-1
+wikidata_id: Q47121831
+ipni_surname: Mann
+ipni_forenames: Johann Gottlieb
+ipni_standard_form: J.G.Mann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33355366) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

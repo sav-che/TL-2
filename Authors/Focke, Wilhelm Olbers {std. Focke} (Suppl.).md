@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0185
+tl2_volume: suppl7
+tl2_page_printed: 280
+tl2_surname: Focke
+tl2_forenames: Wilhelm Olbers
+tl2_name_abbrev: Focke
+tl2_dates: 1834-1922
+tl2_page_id: 33259784
+author_lsid: 2798-1
+wikidata_id: Q67774
+ipni_surname: Focke
+ipni_forenames: Wilhelm Olbers
+ipni_standard_form: Focke
+ipni_dates: 1834-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33259784) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

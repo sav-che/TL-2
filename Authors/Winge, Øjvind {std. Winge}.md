@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0323
+tl2_volume: vol7
+tl2_page_printed: 365
+tl2_surname: Winge
+tl2_forenames: Øjvind
+tl2_name_abbrev: Winge
+tl2_dates: 1886-1964
+tl2_page_id: 33066705
+author_lsid: 11761-1
+wikidata_id: Q1451734
+ipni_surname: Winge
+ipni_forenames: Øjvind
+ipni_standard_form: Winge
+ipni_dates: 1886-1964
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33066705) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

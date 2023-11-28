@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol7_0210
+tl2_volume: vol7
+tl2_page_printed: 219
+tl2_surname: Wettstein von Westersheim
+tl2_forenames: Fritz [Friedrich]
+tl2_name_abbrev: F. Wettst.
+tl2_dates: 1895-1945
+tl2_page_id: 33066559
+author_lsid: 13006-1
+wikidata_id: Q86471
+ipni_surname: Wettstein
+ipni_forenames: Fritz (Friedrich)
+ipni_standard_form: F.Wettst.
+ipni_dates: 1895-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-05-01 12:36:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33066559) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

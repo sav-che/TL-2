@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0996
+tl2_volume: vol4
+tl2_page_printed: 968
+tl2_surname: Rudbeck
+tl2_forenames: Johan Olof
+tl2_name_abbrev: J.O. Rudbeck
+tl2_dates: 1711-1790
+tl2_page_id: 33190439
+author_lsid: 8702-1
+wikidata_id: Q21607514
+ipni_surname: Rudbeck
+ipni_forenames: Johan Olof
+ipni_standard_form: J.O.Rudbeck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

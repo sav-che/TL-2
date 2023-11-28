@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0146
+tl2_volume: suppl1
+tl2_page_printed: 115
+tl2_surname: Andersson
+tl2_forenames: Nils Johan
+tl2_name_abbrev: N.J. Anderss.
+tl2_dates: 1821-1880
+tl2_page_id: 33264842
+author_lsid: 203-1
+wikidata_id: Q1348854
+ipni_surname: Andersson
+ipni_forenames: Nils Johan
+ipni_standard_form: Andersson
+ipni_dates: 1821-1880
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

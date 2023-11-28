@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0745
+tl2_volume: vol5
+tl2_page_printed: 749
+tl2_surname: Sorauer
+tl2_forenames: Paul Carl Moritz
+tl2_name_abbrev: Sorauer
+tl2_dates: 1839-1916
+tl2_page_id: 33333888
+author_lsid: 9902-1
+wikidata_id: Q74131
+ipni_surname: Sorauer
+ipni_forenames: Paul Carl Moritz
+ipni_standard_form: Sorauer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

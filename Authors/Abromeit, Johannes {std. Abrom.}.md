@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0006
+tl2_volume: vol1
+tl2_page_printed: 3
+tl2_surname: Abromeit
+tl2_forenames: Johannes
+tl2_name_abbrev: Abrom.
+tl2_dates: 1857-1946
+tl2_page_id: 33120096
+author_lsid: 47-1
+wikidata_id: Q73227
+ipni_surname: Abromeit
+ipni_forenames: Johannes
+ipni_standard_form: Abrom.
+ipni_dates: 1857-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33120096) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

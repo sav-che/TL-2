@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0363
+tl2_volume: suppl2
+tl2_page_printed: 305
+tl2_surname: Bonaparte
+tl2_forenames: [Prince] Roland Napoléon
+tl2_name_abbrev: Bonap.
+tl2_dates: 1858-1924
+tl2_page_id: 33265502
+author_lsid: 944-1
+wikidata_id: Q721000
+ipni_surname: Bonaparte
+ipni_forenames: Roland Napoléon
+ipni_standard_form: Bonap.
+ipni_dates: 1858-1924
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265502) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

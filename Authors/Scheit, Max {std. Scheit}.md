@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0135
+tl2_volume: vol5
+tl2_page_printed: 125
+tl2_surname: Scheit
+tl2_forenames: Max
+tl2_name_abbrev: Scheit
+tl2_dates: 1858-1888
+tl2_page_id: 33333264
+author_lsid: 9039-1
+wikidata_id: Q21607879
+ipni_surname: Scheit
+ipni_forenames: Max
+ipni_standard_form: Scheit
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

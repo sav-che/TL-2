@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0708
+tl2_volume: vol4
+tl2_page_printed: 731
+tl2_surname: Renier
+tl2_forenames: Armand-Marie-Vincent-Joseph
+tl2_name_abbrev: Renier
+tl2_dates: 1876-1951
+tl2_page_id: 33190202
+author_lsid: 8291-1
+wikidata_id: Q5704383
+ipni_surname: Renier
+ipni_forenames: Armand-Marie-Vincent-Joseph
+ipni_standard_form: Renier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0097
+tl2_volume: vol7
+tl2_page_printed: 97
+tl2_surname: Watson [recte: Beatson]
+tl2_forenames: Alexander
+tl2_name_abbrev: Beatson
+tl2_dates: 1759-1833
+tl2_page_id: 33066437
+author_lsid: 584-1
+wikidata_id: Q2641792
+ipni_surname: Beatson
+ipni_forenames: Alexander
+ipni_standard_form: Beatson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33066437) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

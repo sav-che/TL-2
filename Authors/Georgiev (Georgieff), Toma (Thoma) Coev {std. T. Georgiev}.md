@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0141
+tl2_volume: suppl8
+tl2_page_printed: 183
+tl2_surname: Georgiev [Georgieff]
+tl2_forenames: Toma [Thoma] Coev
+tl2_name_abbrev: T. Georgiev
+tl2_dates: 1883-x
+tl2_page_id: 33258661
+author_lsid: 3096-1
+wikidata_id: Q21513904
+ipni_surname: Georgiev
+ipni_forenames: Toma Coev
+ipni_standard_form: T.Georgiev
+ipni_dates: 1883-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

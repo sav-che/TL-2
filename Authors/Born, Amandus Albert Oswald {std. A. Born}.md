@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0402
+tl2_volume: suppl2
+tl2_page_printed: 341
+tl2_surname: Born
+tl2_forenames: Amandus Albert Oswald
+tl2_name_abbrev: A. Born
+tl2_dates: 1861-1920
+tl2_page_id: 33265538
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

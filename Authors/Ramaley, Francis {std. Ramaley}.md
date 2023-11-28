@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0576
+tl2_volume: vol4
+tl2_page_printed: 568
+tl2_surname: Ramaley
+tl2_forenames: Francis
+tl2_name_abbrev: Ramaley
+tl2_dates: 1870-1942
+tl2_page_id: 33190039
+author_lsid: 8114-1
+wikidata_id: Q21606918
+ipni_surname: Ramaley
+ipni_forenames: Francis
+ipni_standard_form: Ramaley
+ipni_dates: 1870-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

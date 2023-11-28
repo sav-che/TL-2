@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1030
+tl2_volume: vol1
+tl2_page_printed: 837
+tl2_surname: Fischer
+tl2_forenames: George William
+tl2_name_abbrev: G. Fisch.
+tl2_dates: 1906-x
+tl2_page_id: 33120968
+author_lsid: 2746-1
+wikidata_id: Q21513149
+ipni_surname: Fischer
+ipni_forenames: George William
+ipni_standard_form: G.W.Fisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0209
+tl2_volume: vol2
+tl2_page_printed: 176
+tl2_surname: Herrmann
+tl2_forenames: Johan (Jean)
+tl2_name_abbrev: Herrm.
+tl2_dates: 1738-1800
+tl2_page_id: 33068418
+author_lsid: 12544-1
+wikidata_id: Q241422
+ipni_surname: Herrmann
+ipni_forenames: Johann(Jean)
+ipni_standard_form: Herrm.
+ipni_dates: 1738-1800
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

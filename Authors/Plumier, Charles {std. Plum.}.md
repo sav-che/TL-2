@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0356
+tl2_volume: vol4
+tl2_page_printed: 301
+tl2_surname: Plumier
+tl2_forenames: Charles
+tl2_name_abbrev: Plum.
+tl2_dates: 1646-1704
+tl2_page_id: 33189772
+author_lsid: 7765-1
+wikidata_id: Q468460
+ipni_surname: Plumier
+ipni_forenames: Charles
+ipni_standard_form: Plum.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Pteridophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33189772) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

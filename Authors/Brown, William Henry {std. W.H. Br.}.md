@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0128
+tl2_volume: suppl3
+tl2_page_printed: 143
+tl2_surname: Brown
+tl2_forenames: William Henry
+tl2_name_abbrev: W.H. Br.
+tl2_dates: 1884-1939
+tl2_page_id: 33266450
+author_lsid: 39274-1
+wikidata_id: Q21506552
+ipni_surname: Brown
+ipni_forenames: William Henry
+ipni_standard_form: W.H.Br.
+ipni_dates: 1884-1939
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33266450) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

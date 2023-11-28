@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0311
+tl2_volume: vol2
+tl2_page_printed: 256
+tl2_surname: Hollerbach (Gollerbach)
+tl2_forenames: Maksimilian Maksimilianovitsch
+tl2_name_abbrev: Hollerb.
+tl2_dates: 1907-x
+tl2_page_id: 33068498
+author_lsid: 29324-1
+wikidata_id: Q7286453
+ipni_surname: Hollerbach
+ipni_forenames: Maximilian Maximilianovich
+ipni_standard_form: Hollerb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

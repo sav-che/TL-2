@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0028
+tl2_volume: vol6
+tl2_page_printed: 20
+tl2_surname: Stolz
+tl2_forenames: Friedrich
+tl2_name_abbrev: F. Stolz
+tl2_dates: 1878-1899
+tl2_page_id: 33212074
+author_lsid: 27251-1
+wikidata_id: Q21609894
+ipni_surname: Stolz
+ipni_forenames: Friedrich
+ipni_standard_form: F.Stolz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Cryptogamic
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

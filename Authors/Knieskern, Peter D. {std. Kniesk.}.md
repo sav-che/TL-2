@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0697
+tl2_volume: vol2
+tl2_page_printed: 576
+tl2_surname: Knieskern
+tl2_forenames: Peter D.
+tl2_name_abbrev: Kniesk.
+tl2_dates: 1798-1871
+tl2_page_id: 33068818
+author_lsid: 4869-1
+wikidata_id: Q21517622
+ipni_surname: Knieskern
+ipni_forenames: Peter D.
+ipni_standard_form: Kniesk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

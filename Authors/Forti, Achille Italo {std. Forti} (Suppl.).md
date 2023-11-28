@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0223
+tl2_volume: suppl7
+tl2_page_printed: 331
+tl2_surname: Forti
+tl2_forenames: Achille Italo
+tl2_name_abbrev: Forti
+tl2_dates: 1878-1937
+tl2_page_id: 33259835
+author_lsid: 2840-1
+wikidata_id: Q18758633
+ipni_surname: Forti
+ipni_forenames: Achille Italo
+ipni_standard_form: Forti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259835) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

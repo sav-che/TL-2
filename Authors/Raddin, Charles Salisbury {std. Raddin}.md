@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0555
+tl2_volume: vol4
+tl2_page_printed: 539
+tl2_surname: Raddin
+tl2_forenames: Charles Salisbury
+tl2_name_abbrev: Raddin
+tl2_dates: 1863-1930
+tl2_page_id: 33190010
+author_lsid: 8079-1
+wikidata_id: Q21606827
+ipni_surname: Raddin
+ipni_forenames: Charles Salisbury
+ipni_standard_form: Raddin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

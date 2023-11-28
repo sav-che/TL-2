@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0166
+tl2_volume: suppl2
+tl2_page_printed: 147
+tl2_surname: Bethke
+tl2_forenames: Albert
+tl2_name_abbrev: Bethke
+tl2_dates: 1849-1890
+tl2_page_id: 33265344
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33265344) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

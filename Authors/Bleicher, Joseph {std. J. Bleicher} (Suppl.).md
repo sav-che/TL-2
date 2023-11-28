@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0255
+tl2_volume: suppl2
+tl2_page_printed: 211
+tl2_surname: Bleicher
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Bleicher
+tl2_dates: fl. 1899
+tl2_page_id: 33265408
+author_lsid: 855-1
+wikidata_id: Q36587061
+ipni_surname: Bleicher
+ipni_forenames: Joseph
+ipni_standard_form: J.Bleicher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

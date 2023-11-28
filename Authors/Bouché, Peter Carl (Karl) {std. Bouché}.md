@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0427
+tl2_volume: suppl2
+tl2_page_printed: 376
+tl2_surname: Bouché
+tl2_forenames: Peter Carl [Karl]
+tl2_name_abbrev: Bouché
+tl2_dates: 1784-1856
+tl2_page_id: 33265573
+author_lsid: 1016-1
+wikidata_id: Q71571
+ipni_surname: Bouché
+ipni_forenames: Peter Carl
+ipni_standard_form: Bouché
+ipni_dates: 1783-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-07-10 11:33:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

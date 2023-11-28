@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0359
+tl2_volume: vol5
+tl2_page_printed: 382
+tl2_surname: Schultze
+tl2_forenames: Maximilian Johann Siegmund [Max Sigmund]
+tl2_name_abbrev: M. Schultze
+tl2_dates: 1825-1874
+tl2_page_id: 33333521
+author_lsid: 9302-1
+wikidata_id: Q65833
+ipni_surname: Schultze
+ipni_forenames: Maximilian Johann Siegmund (Max Sigmund)
+ipni_standard_form: M.Schultze
+ipni_dates: 1825-1874
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

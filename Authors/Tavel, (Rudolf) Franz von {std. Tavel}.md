@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0220
+tl2_volume: vol6
+tl2_page_printed: 185
+tl2_surname: Tavel
+tl2_forenames: [Rudolf] Franz von
+tl2_name_abbrev: Tavel
+tl2_dates: 1863-1941
+tl2_page_id: 33212227
+author_lsid: 12920-1
+wikidata_id: Q21610280
+ipni_surname: Tavel
+ipni_forenames: (Rudolf) Franz von
+ipni_standard_form: Tavel
+ipni_dates: 1863-1941
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

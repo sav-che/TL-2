@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1063
+tl2_volume: vol4
+tl2_page_printed: 1047
+tl2_surname: Sadler
+tl2_forenames: John
+tl2_name_abbrev: John Sadler
+tl2_dates: 1837-1882
+tl2_page_id: 33190518
+author_lsid: 8796-1
+wikidata_id: Q21607602
+ipni_surname: Sadler
+ipni_forenames: John
+ipni_standard_form: J.Sadler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1047](https://www.biodiversitylibrary.org/page/33190518) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

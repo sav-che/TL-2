@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0110
+tl2_volume: vol7
+tl2_page_printed: 110
+tl2_surname: Watzel
+tl2_forenames: Kajetán [Cajetan]
+tl2_name_abbrev: Watzel
+tl2_dates: 1812-1885
+tl2_page_id: 33066450
+author_lsid: 12996-1
+wikidata_id: Q21612291
+ipni_surname: Watzel
+ipni_forenames: Kajetán(Cajetán)
+ipni_standard_form: Watzel
+ipni_dates: 1812-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33066450) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

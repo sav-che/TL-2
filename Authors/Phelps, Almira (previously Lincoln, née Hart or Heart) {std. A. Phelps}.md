@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0263
+tl2_volume: vol4
+tl2_page_printed: 230
+tl2_surname: Phelps
+tl2_forenames: Almira (previously Lincoln, née Hart or Heart)
+tl2_name_abbrev: A. Phelps
+tl2_dates: 1793-1884
+tl2_page_id: 33189701
+author_lsid: 12733-1
+wikidata_id: Q4733834
+ipni_surname: Phelps
+ipni_forenames: Almira
+ipni_standard_form: A.Phelps
+ipni_dates: 1793-1884
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33189701) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

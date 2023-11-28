@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0367
+tl2_volume: suppl2
+tl2_page_printed: 309
+tl2_surname: Bonavia
+tl2_forenames: Emanuel
+tl2_name_abbrev: Bonavia
+tl2_dates: 1826-1908
+tl2_page_id: 33265506
+author_lsid: 947-1
+wikidata_id: Q21506278
+ipni_surname: Bonavia
+ipni_forenames: Emanuel
+ipni_standard_form: Bonavia
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0351
+tl2_volume: vol2
+tl2_page_printed: 338
+tl2_surname: Hosius
+tl2_forenames: August
+tl2_name_abbrev: Hosius
+tl2_dates: 1825-1896
+tl2_page_id: 33068580
+author_lsid: 4127-1
+wikidata_id: Q21516083
+ipni_surname: Hosius
+ipni_forenames: August
+ipni_standard_form: Hosius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33068580) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

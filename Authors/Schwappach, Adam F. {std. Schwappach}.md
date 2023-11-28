@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0401
+tl2_volume: vol5
+tl2_page_printed: 422
+tl2_surname: Schwappach
+tl2_forenames: Adam F.
+tl2_name_abbrev: Schwappach
+tl2_dates: 1851-1932
+tl2_page_id: 33333561
+author_lsid: 9353-1
+wikidata_id: Q106152
+ipni_surname: Schwappach
+ipni_forenames: Adam F.
+ipni_standard_form: Schwapp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

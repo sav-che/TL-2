@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0872
+tl2_volume: vol1
+tl2_page_printed: 686
+tl2_surname: Dryander
+tl2_forenames: Jonas Carlsson
+tl2_name_abbrev: Dryander
+tl2_dates: 1748-1810
+tl2_page_id: 33120817
+author_lsid: 2332-1
+wikidata_id: Q2500507
+ipni_surname: Dryander
+ipni_forenames: Jonas Carlsson
+ipni_standard_form: Dryand.
+ipni_dates: 1748-1810
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

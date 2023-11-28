@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0135
+tl2_volume: vol3
+tl2_page_printed: 165
+tl2_surname: Lotsy
+tl2_forenames: Johannes Paulus
+tl2_name_abbrev: Lotsy
+tl2_dates: 1867-1931
+tl2_page_id: 33355252
+author_lsid: 5770-1
+wikidata_id: Q2718138
+ipni_surname: Lotsy
+ipni_forenames: Johannes Paulus
+ipni_standard_form: Lotsy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+- Netherlands
+- Indonesia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33355252) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0379
+tl2_volume: suppl3
+tl2_page_printed: 417
+tl2_surname: Carlier
+tl2_forenames: Leon
+tl2_name_abbrev: Carlier
+tl2_dates: 1821-1901
+tl2_page_id: 33266724
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33266724) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

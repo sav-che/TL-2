@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0182
+tl2_volume: vol1
+tl2_page_printed: 136
+tl2_surname: Bassi
+tl2_forenames: Ferdinando
+tl2_name_abbrev: Bassi
+tl2_dates: 1710-1774
+tl2_page_id: 33120267
+author_lsid: 528-1
+wikidata_id: Q3742551
+ipni_surname: Bassi
+ipni_forenames: Ferdinando
+ipni_standard_form: Bassi
+ipni_dates: 1710-1774
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33120267) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

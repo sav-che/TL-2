@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0105
+tl2_volume: suppl2
+tl2_page_printed: 93
+tl2_surname: Bergh
+tl2_forenames: Rudolph Sophus
+tl2_name_abbrev: Bergh
+tl2_dates: 1859-1924
+tl2_page_id: 33265290
+author_lsid: 32412-1
+wikidata_id: Q710699
+ipni_surname: Bergh
+ipni_forenames: Rudolph Sophus
+ipni_standard_form: Bergh
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

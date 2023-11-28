@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0657
+tl2_volume: vol4
+tl2_page_printed: 630
+tl2_surname: Redtenbacher
+tl2_forenames: Joseph
+tl2_name_abbrev: Redtenbacher
+tl2_dates: 1810-1870
+tl2_page_id: 33190101
+author_lsid: 8225-1
+wikidata_id: Q89508
+ipni_surname: Redtenbacher
+ipni_forenames: Joseph
+ipni_standard_form: Redtenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33190101) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

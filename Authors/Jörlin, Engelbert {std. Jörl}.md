@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol2_0501
+tl2_volume: vol2
+tl2_page_printed: 445
+tl2_surname: Jörlin
+tl2_forenames: Engelbert
+tl2_name_abbrev: Jörl
+tl2_dates: 1733-1810
+tl2_page_id: 33068687
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

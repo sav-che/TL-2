@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0094
+tl2_volume: vol2
+tl2_page_printed: 67
+tl2_surname: Hartman
+tl2_forenames: Carl Vilhelm
+tl2_name_abbrev: C.V. Hartm.
+tl2_dates: 1862-1941
+tl2_page_id: 33068309
+author_lsid: 3692-1
+wikidata_id: Q5006910
+ipni_surname: Hartman
+ipni_forenames: Carl Vilhelm
+ipni_standard_form: C.V.Hartm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

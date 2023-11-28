@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0166
+tl2_volume: vol2
+tl2_page_printed: 147
+tl2_surname: Heller
+tl2_forenames: Carl Bartholomäus
+tl2_name_abbrev: C. Heller
+tl2_dates: 1824-1880
+tl2_page_id: 33068389
+author_lsid: 3808-1
+wikidata_id: Q1730425
+ipni_surname: Heller
+ipni_forenames: Carl Bartholomäus
+ipni_standard_form: C.Heller
+ipni_dates: 1824-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33068389) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0886
+tl2_volume: vol3
+tl2_page_printed: 751
+tl2_surname: Niessen
+tl2_forenames: Joseph
+tl2_name_abbrev: Niessen
+tl2_dates: 1864-?
+tl2_page_id: 33355838
+author_lsid: 6980-1
+wikidata_id: Q21522156
+ipni_surname: Niessen
+ipni_forenames: Joseph
+ipni_standard_form: Niessen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33355838) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

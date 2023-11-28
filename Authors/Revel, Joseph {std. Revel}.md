@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0725
+tl2_volume: vol4
+tl2_page_printed: 745
+tl2_surname: Revel
+tl2_forenames: Joseph
+tl2_name_abbrev: Revel
+tl2_dates: 1811-1883
+tl2_page_id: 33190216
+author_lsid: 8315-1
+wikidata_id: Q19004116
+ipni_surname: Revel
+ipni_forenames: Joseph
+ipni_standard_form: Revel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33190216) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

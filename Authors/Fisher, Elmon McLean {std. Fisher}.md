@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0149
+tl2_volume: suppl7
+tl2_page_printed: 223
+tl2_surname: Fisher
+tl2_forenames: Elmon McLean
+tl2_name_abbrev: Fisher
+tl2_dates: 1861-1938
+tl2_page_id: 33259727
+author_lsid: 13382-1
+wikidata_id: Q21339689
+ipni_surname: Fisher
+ipni_forenames: Elmon McLean
+ipni_standard_form: Fisher
+ipni_dates: 1861-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

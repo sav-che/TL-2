@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0707
+tl2_volume: vol2
+tl2_page_printed: 583
+tl2_surname: Knowles
+tl2_forenames: Matilda Cullen
+tl2_name_abbrev: M. Knowles
+tl2_dates: 1864-1933
+tl2_page_id: 33068825
+author_lsid: 4882-1
+wikidata_id: Q6006151
+ipni_surname: Knowles
+ipni_forenames: Matilda Cullen
+ipni_standard_form: M.Knowles
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

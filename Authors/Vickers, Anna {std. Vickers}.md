@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0705
+tl2_volume: vol6
+tl2_page_printed: 724
+tl2_surname: Vickers
+tl2_forenames: Anna
+tl2_name_abbrev: Vickers
+tl2_dates: 1852-1906
+tl2_page_id: 33212766
+author_lsid: 11164-1
+wikidata_id: Q21611711
+ipni_surname: Vickers
+ipni_forenames: Anna
+ipni_standard_form: Vickers
+ipni_dates: 1852-1906
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33212766) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

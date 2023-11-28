@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0422
+tl2_volume: vol3
+tl2_page_printed: 371
+tl2_surname: Matthews
+tl2_forenames: Velma Dare
+tl2_name_abbrev: Matthews
+tl2_dates: 1904-1958
+tl2_page_id: 33355458
+author_lsid: 23064-1
+wikidata_id: Q21520138
+ipni_surname: Matthews
+ipni_forenames: Velma Dare
+ipni_standard_form: V.D.Matthews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33355458) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

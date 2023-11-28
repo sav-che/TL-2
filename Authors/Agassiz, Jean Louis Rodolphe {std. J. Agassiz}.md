@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0019
+tl2_volume: vol1
+tl2_page_printed: 21
+tl2_surname: Agassiz
+tl2_forenames: Jean Louis Rodolphe
+tl2_name_abbrev: J. Agassiz
+tl2_dates: 1807-1873
+tl2_page_id: 33120114
+author_lsid: 87-1
+wikidata_id: Q122972
+ipni_surname: Agassiz
+ipni_forenames: Jean Louis Rodolphe
+ipni_standard_form: Agassiz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33120114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

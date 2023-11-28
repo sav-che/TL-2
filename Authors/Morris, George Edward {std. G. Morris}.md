@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0690
+tl2_volume: vol3
+tl2_page_printed: 595
+tl2_surname: Morris
+tl2_forenames: George Edward
+tl2_name_abbrev: G. Morris
+tl2_dates: 1853-1916
+tl2_page_id: 33355682
+author_lsid: 6674-1
+wikidata_id: Q21521756
+ipni_surname: Morris
+ipni_forenames: George Edward
+ipni_standard_form: G.Morris
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

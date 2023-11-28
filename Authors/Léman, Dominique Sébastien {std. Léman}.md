@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0988
+tl2_volume: vol2
+tl2_page_printed: 837
+tl2_surname: Léman
+tl2_forenames: Dominique Sébastien
+tl2_name_abbrev: Léman
+tl2_dates: 1781-1829
+tl2_page_id: 33069079
+author_lsid: 5458-1
+wikidata_id: Q5551287
+ipni_surname: Léman
+ipni_forenames: Dominique Sébastien
+ipni_standard_form: Léman
+ipni_dates: 1781-1829
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Cryptogamic
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

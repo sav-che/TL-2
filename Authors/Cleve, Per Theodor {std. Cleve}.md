@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0637
+tl2_volume: vol1
+tl2_page_printed: 511
+tl2_surname: Cleve
+tl2_forenames: Per Theodor
+tl2_name_abbrev: Cleve
+tl2_dates: 1840-1905
+tl2_page_id: 33120642
+author_lsid: 1693-1
+wikidata_id: Q377822
+ipni_surname: Cleve
+ipni_forenames: Per Theodor
+ipni_standard_form: Cleve
+ipni_dates: 1840-1905
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

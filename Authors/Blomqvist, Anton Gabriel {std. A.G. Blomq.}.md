@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0276
+tl2_volume: suppl2
+tl2_page_printed: 222
+tl2_surname: Blomqvist
+tl2_forenames: Anton Gabriel
+tl2_name_abbrev: A.G. Blomq.
+tl2_dates: 1836-1904
+tl2_page_id: 33265419
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265419) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

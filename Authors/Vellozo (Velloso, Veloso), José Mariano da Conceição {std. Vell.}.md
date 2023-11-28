@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0676
+tl2_volume: vol6
+tl2_page_printed: 696
+tl2_surname: Vellozo [Velloso, Veloso]
+tl2_forenames: José Mariano da Conceição
+tl2_name_abbrev: Vell.
+tl2_dates: 1742-1811
+tl2_page_id: 33212738
+author_lsid: 11122-1
+wikidata_id: Q44907
+ipni_surname: Vellozo
+ipni_forenames: José Mariano da Conceição
+ipni_standard_form: Vell.
+ipni_dates: 1742-1811
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-09-19 08:19:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1085
+tl2_volume: vol4
+tl2_page_printed: 1072
+tl2_surname: St. John
+tl2_forenames: Harold
+tl2_name_abbrev: St. John
+tl2_dates: 1892-x
+tl2_page_id: 33190543
+author_lsid: 8830-1
+wikidata_id: Q2840308
+ipni_surname: St.John
+ipni_forenames: Harold
+ipni_standard_form: H.St.John
+ipni_dates: 1892-1991
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1072](https://www.biodiversitylibrary.org/page/33190543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

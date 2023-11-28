@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0251
+tl2_volume: vol4
+tl2_page_printed: 217
+tl2_surname: Peyronel
+tl2_forenames: Beniamino
+tl2_name_abbrev: Peyronel
+tl2_dates: 1890-x
+tl2_page_id: 33189688
+author_lsid: 24798-1
+wikidata_id: Q21390604
+ipni_surname: Peyronel
+ipni_forenames: Beniamino
+ipni_standard_form: Peyronel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33189688) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

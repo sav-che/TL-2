@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0075
+tl2_volume: vol4
+tl2_page_printed: 62
+tl2_surname: Parkhurst
+tl2_forenames: Howard Elmore
+tl2_name_abbrev: Parkhurst
+tl2_dates: 1848-1916
+tl2_page_id: 33189533
+author_lsid: 7345-1
+wikidata_id: Q21522645
+ipni_surname: Parkhurst
+ipni_forenames: Howard Elmore
+ipni_standard_form: Parkhurst
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33189533) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

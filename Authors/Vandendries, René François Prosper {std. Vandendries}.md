@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0642
+tl2_volume: vol6
+tl2_page_printed: 659
+tl2_surname: Vandendries
+tl2_forenames: René François Prosper
+tl2_name_abbrev: Vandendries
+tl2_dates: 1874-1952
+tl2_page_id: 33212701
+author_lsid: 11049-1
+wikidata_id: Q21611449
+ipni_surname: Vandendries
+ipni_forenames: René François Prosper
+ipni_standard_form: Vandendr.
+ipni_dates: 1874-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33212701) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

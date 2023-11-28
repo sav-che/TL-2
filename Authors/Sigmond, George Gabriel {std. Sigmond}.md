@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0587
+tl2_volume: vol5
+tl2_page_printed: 597
+tl2_surname: Sigmond
+tl2_forenames: George Gabriel
+tl2_name_abbrev: Sigmond
+tl2_dates: fl. 1840
+tl2_page_id: 33333736
+author_lsid: 9633-1
+wikidata_id: Q36568463
+ipni_surname: Sigmond
+ipni_forenames: George Gabriel
+ipni_standard_form: Sigmond
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

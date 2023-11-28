@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0653
+tl2_volume: vol1
+tl2_page_printed: 521
+tl2_surname: Golden
+tl2_forenames: Jane, later Farquhar
+tl2_name_abbrev: Colden
+tl2_dates: 1724-1759
+tl2_page_id: 33120652
+author_lsid: 1730-1
+wikidata_id: Q2504068
+ipni_surname: Colden
+ipni_forenames: Jane
+ipni_standard_form: Colden
+ipni_dates: 1724-1766
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33120652) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

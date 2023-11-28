@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0129
+tl2_volume: suppl4
+tl2_page_printed: 178
+tl2_surname: Cilleuls
+tl2_forenames: J. des
+tl2_name_abbrev: Cilleuls
+tl2_dates: fl. 1928-1932
+tl2_page_id: 33265855
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

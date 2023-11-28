@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0137
+tl2_volume: suppl2
+tl2_page_printed: 113
+tl2_surname: Berry
+tl2_forenames: Edward Cain
+tl2_name_abbrev: E.C. Berry
+tl2_dates: 1898-x
+tl2_page_id: 33265310
+author_lsid: 16025-1
+wikidata_id: Q21388017
+ipni_surname: Berry
+ipni_forenames: Edward Cain
+ipni_standard_form: E.C.Berry
+ipni_dates: 1898-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

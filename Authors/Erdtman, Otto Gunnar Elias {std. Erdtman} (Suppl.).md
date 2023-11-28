@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0399
+tl2_volume: suppl6
+tl2_page_printed: 384
+tl2_surname: Erdtman
+tl2_forenames: Otto Gunnar Elias
+tl2_name_abbrev: Erdtman
+tl2_dates: 1897-1973
+tl2_page_id: 33260372
+author_lsid: 18525-1
+wikidata_id: Q1554730
+ipni_surname: Erdtman
+ipni_forenames: Otto Gunnar Elias
+ipni_standard_form: Erdtman
+ipni_dates: 1897-1973
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

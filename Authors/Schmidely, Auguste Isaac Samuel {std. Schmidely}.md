@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0222
+tl2_volume: vol5
+tl2_page_printed: 240
+tl2_surname: Schmidely
+tl2_forenames: Auguste Isaac Samuel
+tl2_name_abbrev: Schmidely
+tl2_dates: 1838-1918
+tl2_page_id: 33333379
+author_lsid: 9148-1
+wikidata_id: Q5711567
+ipni_surname: Schmidely
+ipni_forenames: Auguste Isaac Samuel
+ipni_standard_form: Schmidely
+ipni_dates: 1838-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

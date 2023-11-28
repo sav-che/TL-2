@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0528
+tl2_volume: vol4
+tl2_page_printed: 451
+tl2_surname: Puymaly
+tl2_forenames: André Henri Laurent de
+tl2_name_abbrev: Puym.
+tl2_dates: 1883-?
+tl2_page_id: 33189922
+author_lsid: 8038-1
+wikidata_id: Q21606790
+ipni_surname: Puymaly
+ipni_forenames: André Henri Laurent de
+ipni_standard_form: Puym.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

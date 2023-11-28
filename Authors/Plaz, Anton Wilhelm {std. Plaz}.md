@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0346
+tl2_volume: vol4
+tl2_page_printed: 292
+tl2_surname: Plaz
+tl2_forenames: Anton Wilhelm
+tl2_name_abbrev: Plaz
+tl2_dates: 1708-1784
+tl2_page_id: 33189763
+author_lsid: 7750-1
+wikidata_id: Q595496
+ipni_surname: Plaz
+ipni_forenames: Anton Wilhelm
+ipni_standard_form: Plaz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33189763) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

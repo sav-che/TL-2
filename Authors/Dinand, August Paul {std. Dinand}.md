@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0343
+tl2_volume: suppl5
+tl2_page_printed: 341
+tl2_surname: Dinand
+tl2_forenames: August Paul
+tl2_name_abbrev: Dinand
+tl2_dates: 1865-x
+tl2_page_id: 33259387
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33259387) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

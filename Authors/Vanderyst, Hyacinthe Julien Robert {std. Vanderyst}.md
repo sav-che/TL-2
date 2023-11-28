@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0646
+tl2_volume: vol6
+tl2_page_printed: 662
+tl2_surname: Vanderyst
+tl2_forenames: Hyacinthe Julien Robert
+tl2_name_abbrev: Vanderyst
+tl2_dates: 1860-1934
+tl2_page_id: 33212704
+author_lsid: 11056-1
+wikidata_id: Q5905512
+ipni_surname: Vanderyst
+ipni_forenames: Hyacinthe Julien Robert
+ipni_standard_form: Vanderyst
+ipni_dates: 1860-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33212704) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

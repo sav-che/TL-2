@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0370
+tl2_volume: vol7
+tl2_page_printed: 419
+tl2_surname: Wojinowic
+tl2_forenames: Welislaw P.
+tl2_name_abbrev: Wojinowic
+tl2_dates: 1864-1892
+tl2_page_id: 33066759
+author_lsid: 11810-1
+wikidata_id: Q21612904
+ipni_surname: Wojinowić
+ipni_forenames: Wenislaw P.
+ipni_standard_form: Wojinowić
+ipni_dates: 1864-1892
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0878
+tl2_volume: vol3
+tl2_page_printed: 744
+tl2_surname: Nicolucci
+tl2_forenames: Giustiniano
+tl2_name_abbrev: Nicolucci
+tl2_dates: 1818-1904
+tl2_page_id: 33355831
+author_lsid: 6969-1
+wikidata_id: Q3771719
+ipni_surname: Nicolucci
+ipni_forenames: Giustiniano
+ipni_standard_form: Nicolucci
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

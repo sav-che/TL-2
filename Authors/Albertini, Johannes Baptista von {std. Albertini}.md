@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0029
+tl2_volume: vol1
+tl2_page_printed: 27
+tl2_surname: Albertini
+tl2_forenames: Johannes Baptista von
+tl2_name_abbrev: Albertini
+tl2_dates: 1769-1831
+tl2_page_id: 33120158
+author_lsid: 123-1
+wikidata_id: Q62241
+ipni_surname: Albertini
+ipni_forenames: Johannes Baptista von
+ipni_standard_form: Alb.
+ipni_dates: 1769-1831
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

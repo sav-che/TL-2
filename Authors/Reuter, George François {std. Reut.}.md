@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0723
+tl2_volume: vol4
+tl2_page_printed: 742
+tl2_surname: Reuter
+tl2_forenames: George François
+tl2_name_abbrev: Reut.
+tl2_dates: 1805-1872
+tl2_page_id: 33190213
+author_lsid: 8313-1
+wikidata_id: Q2609755
+ipni_surname: Reuter
+ipni_forenames: George François
+ipni_standard_form: Reut.
+ipni_dates: 1805-1872
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

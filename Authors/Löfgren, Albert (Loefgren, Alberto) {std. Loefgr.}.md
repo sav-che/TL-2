@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0091
+tl2_volume: vol3
+tl2_page_printed: 137
+tl2_surname: Löfgren
+tl2_forenames: Albert [Loefgren, Alberto]
+tl2_name_abbrev: Loefgr.
+tl2_dates: 1854-1918
+tl2_page_id: 33355224
+author_lsid: 12658-1
+wikidata_id: Q6214875
+ipni_surname: Loefgren
+ipni_forenames: (Johan) Albert(o) (Constantin)
+ipni_standard_form: Loefgr.
+ipni_dates: 1854-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33355224) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0116
+tl2_volume: vol2
+tl2_page_printed: 100
+tl2_surname: Hauck
+tl2_forenames: Ferdinand
+tl2_name_abbrev: Hauck
+tl2_dates: 1845-1889
+tl2_page_id: 33068342
+author_lsid: 3728-1
+wikidata_id: Q21515580
+ipni_surname: Hauck
+ipni_forenames: Ferdinand
+ipni_standard_form: Hauck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

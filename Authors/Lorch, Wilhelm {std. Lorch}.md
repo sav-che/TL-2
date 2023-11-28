@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0120
+tl2_volume: vol3
+tl2_page_printed: 155
+tl2_surname: Lorch
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Lorch
+tl2_dates: 1867-1954
+tl2_page_id: 33355242
+author_lsid: 22532-1
+wikidata_id: Q15989582
+ipni_surname: Lorch
+ipni_forenames: Wilhelm
+ipni_standard_form: Lorch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

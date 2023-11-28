@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0097
+tl2_volume: vol1
+tl2_page_printed: 69
+tl2_surname: Arrhenius
+tl2_forenames: Johan Peter (Pehr, Petter)
+tl2_name_abbrev: Arrh.
+tl2_dates: 1811-1889
+tl2_page_id: 33120200
+author_lsid: 285-1
+wikidata_id: Q4069879
+ipni_surname: Arrhenius
+ipni_forenames: Johan Peter (Pehr, Petter)
+ipni_standard_form: Arrh.
+ipni_dates: 1811-1889
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33120200) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

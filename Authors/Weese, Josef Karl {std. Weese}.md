@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0135
+tl2_volume: vol7
+tl2_page_printed: 143
+tl2_surname: Weese
+tl2_forenames: Josef Karl
+tl2_name_abbrev: Weese
+tl2_dates: 1888-1962
+tl2_page_id: 33066483
+author_lsid: 11483-1
+wikidata_id: Q4105915
+ipni_surname: Weese
+ipni_forenames: Josef Karl
+ipni_standard_form: Weese
+ipni_dates: 1888-1962
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33066483) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

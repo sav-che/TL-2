@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0851
+tl2_volume: vol2
+tl2_page_printed: 722
+tl2_surname: Lagerheim
+tl2_forenames: Nils Gustaf (von, de)
+tl2_name_abbrev: Lagerh.
+tl2_dates: 1860-1926
+tl2_page_id: 33068964
+author_lsid: 5207-1
+wikidata_id: Q5931225
+ipni_surname: Lagerheim
+ipni_forenames: Nils Gustaf (von, de)
+ipni_standard_form: Lagerh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+- Cryptogamic
+ipni_geo_scope: 
+- Ecuador
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33068964) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

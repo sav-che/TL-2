@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0477
+tl2_volume: vol1
+tl2_page_printed: 387
+tl2_surname: Buch
+tl2_forenames: Christian Leopold von, Freiherr von Gelmersdorf etc.
+tl2_name_abbrev: L. v. Buch
+tl2_dates: 1774-1853
+tl2_page_id: 33120518
+author_lsid: 1240-1
+wikidata_id: Q194214
+ipni_surname: Buch
+ipni_forenames: Hans Robert Viktor
+ipni_standard_form: H.Buch
+ipni_dates: 1883-1964
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33120518) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

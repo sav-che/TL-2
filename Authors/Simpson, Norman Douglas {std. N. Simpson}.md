@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0611
+tl2_volume: vol5
+tl2_page_printed: 611
+tl2_surname: Simpson
+tl2_forenames: Norman Douglas
+tl2_name_abbrev: N. Simpson
+tl2_dates: 1890-1974
+tl2_page_id: 33333750
+author_lsid: 9685-1
+wikidata_id: Q19002158
+ipni_surname: Simpson
+ipni_forenames: Norman Douglas
+ipni_standard_form: N.D.Simpson
+ipni_dates: 1890-1974
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

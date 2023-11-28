@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0555
+tl2_volume: vol6
+tl2_page_printed: 551
+tl2_surname: Turra
+tl2_forenames: Antonio
+tl2_name_abbrev: Turra
+tl2_dates: 1730-1796
+tl2_page_id: 33212593
+author_lsid: 10924-1
+wikidata_id: Q2337938
+ipni_surname: Turra
+ipni_forenames: Antonio
+ipni_standard_form: Turra
+ipni_dates: 1730-1796
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

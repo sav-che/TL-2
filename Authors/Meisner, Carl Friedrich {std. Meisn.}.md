@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0475
+tl2_volume: vol3
+tl2_page_printed: 405
+tl2_surname: Meisner
+tl2_forenames: Carl Friedrich
+tl2_name_abbrev: Meisn.
+tl2_dates: 1800-1874
+tl2_page_id: 33355492
+author_lsid: 12678-1
+wikidata_id: Q115909
+ipni_surname: Meisner
+ipni_forenames: Carl Daniel Friedrich
+ipni_standard_form: Meisn.
+ipni_dates: 1800-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-04-28 14:48:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33355492) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

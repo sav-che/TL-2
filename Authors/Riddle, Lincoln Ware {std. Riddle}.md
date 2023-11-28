@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0775
+tl2_volume: vol4
+tl2_page_printed: 785
+tl2_surname: Riddle
+tl2_forenames: Lincoln Ware
+tl2_name_abbrev: Riddle
+tl2_dates: 1880-1921
+tl2_page_id: 33190256
+author_lsid: 8380-1
+wikidata_id: Q21339106
+ipni_surname: Riddle
+ipni_forenames: Lincoln Ware
+ipni_standard_form: Riddle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33190256) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

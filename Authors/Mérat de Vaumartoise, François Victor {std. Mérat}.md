@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0498
+tl2_volume: vol3
+tl2_page_printed: 419
+tl2_surname: Mérat de Vaumartoise
+tl2_forenames: François Victor
+tl2_name_abbrev: Mérat
+tl2_dates: 1780-1851
+tl2_page_id: 33355506
+author_lsid: 28284-1
+wikidata_id: Q3086016
+ipni_surname: Mérat de Vaumartoise
+ipni_forenames: François Victor
+ipni_standard_form: Mérat
+ipni_dates: 1780-1851
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33355506) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

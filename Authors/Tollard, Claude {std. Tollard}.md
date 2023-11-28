@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0410
+tl2_volume: vol6
+tl2_page_printed: 385
+tl2_surname: Tollard
+tl2_forenames: Claude
+tl2_name_abbrev: Tollard
+tl2_dates: fl. 1805
+tl2_page_id: 33212427
+author_lsid: 10718-1
+wikidata_id: Q47127493
+ipni_surname: Tollard
+ipni_forenames: Claude
+ipni_standard_form: Tollard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0019
+tl2_volume: suppl7
+tl2_page_printed: 24
+tl2_surname: Falck
+tl2_forenames: Richard [Ryszard]
+tl2_name_abbrev: Falck
+tl2_dates: 1873-1955
+tl2_page_id: 33259528
+author_lsid: 18635-1
+wikidata_id: Q2149439
+ipni_surname: Falck
+ipni_forenames: Richard
+ipni_standard_form: Falck
+ipni_dates: 1868-1955
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259528) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

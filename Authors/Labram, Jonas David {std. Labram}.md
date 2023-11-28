@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0834
+tl2_volume: vol2
+tl2_page_printed: 713
+tl2_surname: Labram
+tl2_forenames: Jonas David
+tl2_name_abbrev: Labram
+tl2_dates: 1785-1852
+tl2_page_id: 33068955
+author_lsid: 5177-1
+wikidata_id: Q21341225
+ipni_surname: Labram
+ipni_forenames: Jonas David
+ipni_standard_form: Labram
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

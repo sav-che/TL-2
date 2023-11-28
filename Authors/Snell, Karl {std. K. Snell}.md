@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0702
+tl2_volume: vol5
+tl2_page_printed: 709
+tl2_surname: Snell
+tl2_forenames: Karl
+tl2_name_abbrev: K. Snell
+tl2_dates: 1881-1956
+tl2_page_id: 33333848
+author_lsid: 9835-1
+wikidata_id: Q1733033
+ipni_surname: Snell
+ipni_forenames: Karl
+ipni_standard_form: K.Snell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

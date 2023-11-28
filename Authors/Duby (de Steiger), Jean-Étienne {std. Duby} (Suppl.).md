@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl6_0126
+tl2_volume: suppl6
+tl2_page_printed: 122
+tl2_surname: Duby [de Steiger]
+tl2_forenames: Jean-Étienne
+tl2_name_abbrev: Duby
+tl2_dates: 1798-1885
+tl2_page_id: 33260110
+author_lsid: 18234-1
+wikidata_id: Q4172141
+ipni_surname: Duby
+ipni_forenames: Jean Étienne
+ipni_standard_form: Duby
+ipni_dates: 1798-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

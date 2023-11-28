@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0625
+tl2_volume: vol1
+tl2_page_printed: 505
+tl2_surname: Claparède
+tl2_forenames: Jean Louis René Antoine Édouard
+tl2_name_abbrev: Claparède
+tl2_dates: 1830-1871
+tl2_page_id: 33120636
+author_lsid: 1659-1
+wikidata_id: Q116148
+ipni_surname: Claparède
+ipni_forenames: Jean Louis René Antoine Édouard
+ipni_standard_form: Clap.
+ipni_dates: 1832-1871
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-08-20 15:11:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

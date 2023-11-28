@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0681
+tl2_volume: vol5
+tl2_page_printed: 675
+tl2_surname: Smith
+tl2_forenames: Henry (fl. 1810)
+tl2_name_abbrev: He. Sm.
+tl2_dates: fl. 1810
+tl2_page_id: 33333814
+author_lsid: 9798-1
+wikidata_id: Q21609111
+ipni_surname: Smith
+ipni_forenames: Henry
+ipni_standard_form: H.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

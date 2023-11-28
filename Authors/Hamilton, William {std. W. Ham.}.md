@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0045
+tl2_volume: vol2
+tl2_page_printed: 35
+tl2_surname: Hamilton
+tl2_forenames: William
+tl2_name_abbrev: W. Ham.
+tl2_dates: 1783-1856
+tl2_page_id: 33068277
+author_lsid: 3599-1
+wikidata_id: Q15443
+ipni_surname: Hamilton
+ipni_forenames: William
+ipni_standard_form: Ham.
+ipni_dates: 1783-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

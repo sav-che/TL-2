@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0493
+tl2_volume: vol1
+tl2_page_printed: 402
+tl2_surname: Bulliard
+tl2_forenames: Jean Baptiste François, called Pierre
+tl2_name_abbrev: Bull.
+tl2_dates: 1752-1793
+tl2_page_id: 33120533
+author_lsid: 12366-1
+wikidata_id: Q1246173
+ipni_surname: Bulliard
+ipni_forenames: Jean Baptiste François (`Pierre')
+ipni_standard_form: Bull.
+ipni_dates: 1752-1793
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-11-17 00:02:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33120533) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

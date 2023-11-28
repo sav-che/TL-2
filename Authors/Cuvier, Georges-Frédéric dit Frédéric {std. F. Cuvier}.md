@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0733
+tl2_volume: vol1
+tl2_page_printed: 585
+tl2_surname: Cuvier
+tl2_forenames: Georges-Frédéric dit Frédéric
+tl2_name_abbrev: F. Cuvier
+tl2_dates: 1773-1838
+tl2_page_id: 33120716
+author_lsid: 13057-1
+wikidata_id: Q467962
+ipni_surname: Cuvier
+ipni_forenames: Georges-Frédéric
+ipni_standard_form: F.Cuvier
+ipni_dates: 1773-1838
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33120716) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

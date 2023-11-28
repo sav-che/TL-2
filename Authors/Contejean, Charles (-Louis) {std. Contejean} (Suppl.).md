@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0250
+tl2_volume: suppl4
+tl2_page_printed: 309
+tl2_surname: Contejean
+tl2_forenames: Charles [-Louis]
+tl2_name_abbrev: Contejean
+tl2_dates: 1824-1907
+tl2_page_id: 33265986
+author_lsid: 1772-1
+wikidata_id: Q2959668
+ipni_surname: Contejean
+ipni_forenames: Charles Louis
+ipni_standard_form: Contejean
+ipni_dates: 1824-1907
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265986) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

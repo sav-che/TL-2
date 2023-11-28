@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0645
+tl2_volume: vol2
+tl2_page_printed: 541
+tl2_surname: Killias
+tl2_forenames: Eduard
+tl2_name_abbrev: Killias
+tl2_dates: 1829-1891
+tl2_page_id: 33068783
+author_lsid: 4788-1
+wikidata_id: Q5818908
+ipni_surname: Killias
+ipni_forenames: Eduard
+ipni_standard_form: Killias
+ipni_dates: 1829-1891
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33068783) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

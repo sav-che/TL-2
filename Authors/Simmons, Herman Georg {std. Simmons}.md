@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0604
+tl2_volume: vol5
+tl2_page_printed: 606
+tl2_surname: Simmons
+tl2_forenames: Herman Georg
+tl2_name_abbrev: Simmons
+tl2_dates: 1866-1943
+tl2_page_id: 33333745
+author_lsid: 9665-1
+wikidata_id: Q5894907
+ipni_surname: Simmons
+ipni_forenames: Herman George
+ipni_standard_form: Simmons
+ipni_dates: 1866-1943
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

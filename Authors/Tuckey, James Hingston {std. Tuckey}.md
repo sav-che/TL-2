@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0534
+tl2_volume: vol6
+tl2_page_printed: 527
+tl2_surname: Tuckey
+tl2_forenames: James Hingston
+tl2_name_abbrev: Tuckey
+tl2_dates: 1776-1816
+tl2_page_id: 33212569
+author_lsid: 10892-1
+wikidata_id: Q746453
+ipni_surname: Tuckey
+ipni_forenames: James Hingston
+ipni_standard_form: Tuckey
+ipni_dates: 1776-1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Zaire
+- Congo
+- Australia
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0605
+tl2_volume: vol5
+tl2_page_printed: 608
+tl2_surname: Simon
+tl2_forenames: Eugène [Ernest]
+tl2_name_abbrev: E. Simon
+tl2_dates: 1871-1967
+tl2_page_id: 33333747
+author_lsid: 9668-1
+wikidata_id: Q19002138
+ipni_surname: Simon
+ipni_forenames: Eugène Ernest
+ipni_standard_form: E.Simon
+ipni_dates: 1871-1967
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33333747) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

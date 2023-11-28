@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0133
+tl2_volume: vol4
+tl2_page_printed: 127
+tl2_surname: Payot
+tl2_forenames: Venance
+tl2_name_abbrev: Payot
+tl2_dates: 1826-1902
+tl2_page_id: 33189598
+author_lsid: 24660-1
+wikidata_id: Q3555389
+ipni_surname: Payot
+ipni_forenames: Vénance Marie
+ipni_standard_form: Payot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33189598) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

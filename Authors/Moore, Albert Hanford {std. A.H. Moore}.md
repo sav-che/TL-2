@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0654
+tl2_volume: vol3
+tl2_page_printed: 566
+tl2_surname: Moore
+tl2_forenames: Albert Hanford
+tl2_name_abbrev: A.H. Moore
+tl2_dates: 1883-?
+tl2_page_id: 33355653
+author_lsid: 6611-1
+wikidata_id: Q21521673
+ipni_surname: Moore
+ipni_forenames: Albert Hanford
+ipni_standard_form: A.H.Moore
+ipni_dates: 1883-
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0067
+tl2_volume: suppl7
+tl2_page_printed: 98
+tl2_surname: Fedtschenko [Fedchenko]
+tl2_forenames: Olga Alexandrovna (née Armfeld)
+tl2_name_abbrev: O. Fedtsch.
+tl2_dates: 1845-1921
+tl2_page_id: 33259602
+author_lsid: 12497-1
+wikidata_id: Q3350415
+ipni_surname: Fedtschenko
+ipni_forenames: Olga Alexandrowna
+ipni_standard_form: O.Fedtsch.
+ipni_dates: 1845-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259602) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

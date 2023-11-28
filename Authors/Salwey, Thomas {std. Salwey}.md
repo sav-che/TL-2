@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0014
+tl2_volume: vol5
+tl2_page_printed: 16
+tl2_surname: Salwey
+tl2_forenames: Thomas
+tl2_name_abbrev: Salwey
+tl2_dates: 1791-1877
+tl2_page_id: 33333167
+author_lsid: 8859-1
+wikidata_id: Q21337757
+ipni_surname: Salwey
+ipni_forenames: Thomas
+ipni_standard_form: Salwey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

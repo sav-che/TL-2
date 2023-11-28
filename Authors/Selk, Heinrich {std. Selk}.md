@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0487
+tl2_volume: vol5
+tl2_page_printed: 499
+tl2_surname: Selk
+tl2_forenames: Heinrich
+tl2_name_abbrev: Selk
+tl2_dates: fl. 1908
+tl2_page_id: 33333638
+author_lsid: 9460-1
+wikidata_id: Q36578912
+ipni_surname: Selk
+ipni_forenames: Heinrich
+ipni_standard_form: Selk
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

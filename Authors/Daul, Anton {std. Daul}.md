@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0092
+tl2_volume: suppl5
+tl2_page_printed: 86
+tl2_surname: Daul
+tl2_forenames: Anton
+tl2_name_abbrev: Daul
+tl2_dates: 1821-?
+tl2_page_id: 33259132
+author_lsid: 20016247-2
+wikidata_id: Q21509877
+ipni_surname: Daul
+ipni_forenames: Anton
+ipni_standard_form: Daul
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1122
+tl2_volume: vol1
+tl2_page_printed: 903
+tl2_surname: Gäumann
+tl2_forenames: Ernest Albert
+tl2_name_abbrev: Gäum.
+tl2_dates: 1893-1963
+tl2_page_id: 33121034
+author_lsid: 19197-1
+wikidata_id: Q125144
+ipni_surname: Gäumann
+ipni_forenames: Ernest (Ernst) Albert
+ipni_standard_form: Gäum.
+ipni_dates: 1893-1963
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33121034) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

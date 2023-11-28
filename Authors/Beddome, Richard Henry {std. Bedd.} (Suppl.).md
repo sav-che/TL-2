@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0030
+tl2_volume: suppl2
+tl2_page_printed: 38
+tl2_surname: Beddome
+tl2_forenames: Richard Henry
+tl2_name_abbrev: Bedd.
+tl2_dates: 1830-1911
+tl2_page_id: 33265235
+author_lsid: 607-1
+wikidata_id: Q2985757
+ipni_surname: Beddome
+ipni_forenames: Richard Henry
+ipni_standard_form: Bedd.
+ipni_dates: 1830-1911
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0596
+tl2_volume: vol4
+tl2_page_printed: 579
+tl2_surname: Raoul
+tl2_forenames: Édouard François Armand
+tl2_name_abbrev: E.F.A. Raoul
+tl2_dates: 1845-1898
+tl2_page_id: 33190050
+author_lsid: 8141-1
+wikidata_id: Q3579852
+ipni_surname: Raoul
+ipni_forenames: Édouard François Armand
+ipni_standard_form: É.F.A.Raoul
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

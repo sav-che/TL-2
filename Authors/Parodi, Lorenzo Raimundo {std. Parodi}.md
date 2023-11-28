@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0088
+tl2_volume: vol4
+tl2_page_printed: 76
+tl2_surname: Parodi
+tl2_forenames: Lorenzo Raimundo
+tl2_name_abbrev: Parodi
+tl2_dates: 1895-1966
+tl2_page_id: 33189547
+author_lsid: 7362-1
+wikidata_id: Q359462
+ipni_surname: Parodi
+ipni_forenames: Lorenzo Raimundo
+ipni_standard_form: Parodi
+ipni_dates: 1895-1966
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33189547) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

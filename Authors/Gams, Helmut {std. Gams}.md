@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl8_0085
+tl2_volume: suppl8
+tl2_page_printed: 114
+tl2_surname: Gams
+tl2_forenames: Helmut
+tl2_name_abbrev: Gams
+tl2_dates: 1893-1976
+tl2_page_id: 33258592
+author_lsid: 19117-1
+wikidata_id: Q86513
+ipni_surname: Gams
+ipni_forenames: Helmut
+ipni_standard_form: Gams
+ipni_dates: 1893-1976
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33258592) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

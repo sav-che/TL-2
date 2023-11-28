@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0029
+tl2_volume: vol2
+tl2_page_printed: 19
+tl2_surname: Hall
+tl2_forenames: Herman Christiaan van
+tl2_name_abbrev: H.C. Hall
+tl2_dates: 1801-1874
+tl2_page_id: 33068261
+author_lsid: 3574-1
+wikidata_id: Q2619918
+ipni_surname: Hall
+ipni_forenames: Herman (Hermanus) Christiaan van
+ipni_standard_form: H.C.Hall
+ipni_dates: 1801-1874
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33068261) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

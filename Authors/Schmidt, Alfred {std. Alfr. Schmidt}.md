@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0226
+tl2_volume: vol5
+tl2_page_printed: 245
+tl2_surname: Schmidt
+tl2_forenames: Alfred
+tl2_name_abbrev: Alfr. Schmidt
+tl2_dates: 1886-?
+tl2_page_id: 33333384
+author_lsid: 9153-1
+wikidata_id: Q21608133
+ipni_surname: Schmidt
+ipni_forenames: Alfred
+ipni_standard_form: Alf.Schmidt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

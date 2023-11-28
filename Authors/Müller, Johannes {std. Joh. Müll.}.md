@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0743
+tl2_volume: vol3
+tl2_page_printed: 636
+tl2_surname: Müller
+tl2_forenames: Johannes
+tl2_name_abbrev: Joh. Müll.
+tl2_dates: 1861-1920
+tl2_page_id: 33355723
+author_lsid: 6737-1
+wikidata_id: Q21521870
+ipni_surname: Müller
+ipni_forenames: Johannes
+ipni_standard_form: Joh.Müll.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33355723) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

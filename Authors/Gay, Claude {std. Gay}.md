@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_1152
+tl2_volume: vol1
+tl2_page_printed: 925
+tl2_surname: Gay
+tl2_forenames: Claude
+tl2_name_abbrev: Gay
+tl2_dates: 1800-1873
+tl2_page_id: 33121056
+author_lsid: 3057-1
+wikidata_id: Q1096785
+ipni_surname: Gay
+ipni_forenames: Claude
+ipni_standard_form: Gay
+ipni_dates: 1800-1873
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33121056) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

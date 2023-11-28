@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0083
+tl2_volume: suppl3
+tl2_page_printed: 77
+tl2_surname: Brinkman
+tl2_forenames: Alfred Henry
+tl2_name_abbrev: Brinkm.
+tl2_dates: 1873-1945
+tl2_page_id: 33266384
+author_lsid: 16544-1
+wikidata_id: Q21506491
+ipni_surname: Brinkman
+ipni_forenames: Alfred Henry
+ipni_standard_form: Brinkm.
+ipni_dates: 1873-1945
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+- Canada
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-21 20:58:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

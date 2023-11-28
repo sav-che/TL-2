@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1043
+tl2_volume: vol1
+tl2_page_printed: 844
+tl2_surname: Fleischer
+tl2_forenames: Max
+tl2_name_abbrev: M. Fleisch.
+tl2_dates: 1861-1930
+tl2_page_id: 33120975
+author_lsid: 18843-1
+wikidata_id: Q11771859
+ipni_surname: Fleischer
+ipni_forenames: Max
+ipni_standard_form: M.Fleisch.
+ipni_dates: 1861-1930
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33120975) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

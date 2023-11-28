@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0785
+tl2_volume: vol2
+tl2_page_printed: 668
+tl2_surname: Krauss
+tl2_forenames: Christian Ferdinand Friedrich von
+tl2_name_abbrev: C. Krauss
+tl2_dates: 1812-1890
+tl2_page_id: 33068910
+author_lsid: 5047-1
+wikidata_id: Q5109597
+ipni_surname: Krauss
+ipni_forenames: Christian Ferdinand Friedrich von
+ipni_standard_form: C.Krauss
+ipni_dates: 1812-1890
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33068910) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

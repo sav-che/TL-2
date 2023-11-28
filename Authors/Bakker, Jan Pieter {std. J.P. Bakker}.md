@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0324
+tl2_volume: suppl1
+tl2_page_printed: 286
+tl2_surname: Bakker
+tl2_forenames: Jan Pieter
+tl2_name_abbrev: J.P. Bakker
+tl2_dates: fl. 1833
+tl2_page_id: 33265013
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

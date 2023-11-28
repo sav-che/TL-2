@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0453
+tl2_volume: suppl1
+tl2_page_printed: 393
+tl2_surname: Bavoux
+tl2_forenames: [Eugène] Vital
+tl2_name_abbrev: Bavoux
+tl2_dates: 1821-1909
+tl2_page_id: 33265120
+author_lsid: 37975-1
+wikidata_id: Q21505810
+ipni_surname: Bavoux
+ipni_forenames: Vital
+ipni_standard_form: Bavoux
+ipni_dates: 1821-1909
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

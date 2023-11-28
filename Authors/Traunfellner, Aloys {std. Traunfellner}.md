@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0469
+tl2_volume: vol6
+tl2_page_printed: 442
+tl2_surname: Traunfellner
+tl2_forenames: Aloys
+tl2_name_abbrev: Traunfellner
+tl2_dates: 1782-1840
+tl2_page_id: 33212484
+author_lsid: 10795-1
+wikidata_id: Q5670474
+ipni_surname: Traunfellner
+ipni_forenames: Aloys
+ipni_standard_form: Traunf.
+ipni_dates: 1782-1840
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

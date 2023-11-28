@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0635
+tl2_volume: vol4
+tl2_page_printed: 610
+tl2_surname: Rayss
+tl2_forenames: Tscharna
+tl2_name_abbrev: Rayss
+tl2_dates: 1890-1965
+tl2_page_id: 33190081
+author_lsid: 8197-1
+wikidata_id: Q18224792
+ipni_surname: Rayss
+ipni_forenames: Tscharna
+ipni_standard_form: Rayss
+ipni_dates: 1890-1965
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Israel
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

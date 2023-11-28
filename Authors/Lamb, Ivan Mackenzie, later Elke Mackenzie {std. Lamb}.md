@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0865
+tl2_volume: vol2
+tl2_page_printed: 735
+tl2_surname: Lamb
+tl2_forenames: Ivan Mackenzie, later Elke Mackenzie
+tl2_name_abbrev: Lamb
+tl2_dates: 1911-x
+tl2_page_id: 33068977
+author_lsid: 5230-1
+wikidata_id: Q16003604
+ipni_surname: Lamb
+ipni_forenames: Ivan Mackenzie
+ipni_standard_form: I.M.Lamb
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

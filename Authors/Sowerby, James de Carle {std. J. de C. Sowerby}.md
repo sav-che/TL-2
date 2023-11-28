@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0762
+tl2_volume: vol5
+tl2_page_printed: 762
+tl2_surname: Sowerby
+tl2_forenames: James de Carle
+tl2_name_abbrev: J. de C. Sowerby
+tl2_dates: 1787-1871
+tl2_page_id: 33333901
+author_lsid: 9934-1
+wikidata_id: Q1233369
+ipni_surname: Sowerby
+ipni_forenames: James de Carle
+ipni_standard_form: J.C.Sowerby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0075
+tl2_volume: suppl7
+tl2_page_printed: 116
+tl2_surname: Feldmann
+tl2_forenames: Jean
+tl2_name_abbrev: Feldmann
+tl2_dates: 1905-1978
+tl2_page_id: 33259620
+author_lsid: 33082-1
+wikidata_id: Q21512765
+ipni_surname: Feldmann
+ipni_forenames: Jean
+ipni_standard_form: Feldmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259620) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

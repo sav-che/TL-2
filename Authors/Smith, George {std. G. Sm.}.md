@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0676
+tl2_volume: vol5
+tl2_page_printed: 671
+tl2_surname: Smith
+tl2_forenames: George
+tl2_name_abbrev: G. Sm.
+tl2_dates: 1895-1967
+tl2_page_id: 33333810
+author_lsid: 26929-1
+wikidata_id: Q5877939
+ipni_surname: Smith
+ipni_forenames: George
+ipni_standard_form: G.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

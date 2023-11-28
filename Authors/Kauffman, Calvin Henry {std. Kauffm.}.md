@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0592
+tl2_volume: vol2
+tl2_page_printed: 507
+tl2_surname: Kauffman
+tl2_forenames: Calvin Henry
+tl2_name_abbrev: Kauffm.
+tl2_dates: 1869-1931
+tl2_page_id: 33068749
+author_lsid: 4671-1
+wikidata_id: Q4217653
+ipni_surname: Kauffman
+ipni_forenames: Calvin Henry
+ipni_standard_form: Kauffman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33068749) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

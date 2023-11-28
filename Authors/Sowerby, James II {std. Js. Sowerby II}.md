@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0761
+tl2_volume: vol5
+tl2_page_printed: 762
+tl2_surname: Sowerby
+tl2_forenames: James II
+tl2_name_abbrev: Js. Sowerby II
+tl2_dates: 1815-1834
+tl2_page_id: 33333901
+author_lsid: 35147-1
+wikidata_id: Q21391147
+ipni_surname: Sowerby
+ipni_forenames: James
+ipni_standard_form: J.Sowerby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

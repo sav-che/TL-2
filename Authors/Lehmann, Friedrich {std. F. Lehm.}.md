@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0970
+tl2_volume: vol2
+tl2_page_printed: 819
+tl2_surname: Lehmann
+tl2_forenames: Friedrich
+tl2_name_abbrev: F. Lehm.
+tl2_dates: fl. 1886
+tl2_page_id: 33069061
+author_lsid: 5432-1
+wikidata_id: Q5869592
+ipni_surname: Lehmann
+ipni_forenames: Friedrich Carl
+ipni_standard_form: F.Lehm.
+ipni_dates: 1850-1903
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-02-04 07:08:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

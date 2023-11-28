@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0740
+tl2_volume: vol5
+tl2_page_printed: 746
+tl2_surname: Sonnini de Manoncour
+tl2_forenames: Charles Nicolas Sigisbert
+tl2_name_abbrev: Sonnini
+tl2_dates: 1751-1812
+tl2_page_id: 33333885
+author_lsid: 9895-1
+wikidata_id: Q2459283
+ipni_surname: Sonnini de Manoncour
+ipni_forenames: Charles Nicolas Sigisbert
+ipni_standard_form: Sonnini
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33333885) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

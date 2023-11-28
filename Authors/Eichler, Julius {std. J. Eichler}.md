@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0315
+tl2_volume: suppl6
+tl2_page_printed: 282
+tl2_surname: Eichler
+tl2_forenames: Julius
+tl2_name_abbrev: J. Eichler
+tl2_dates: 1859-1929
+tl2_page_id: 33260270
+author_lsid: 20000048-2
+wikidata_id: Q21511599
+ipni_surname: Eichler
+ipni_forenames: Julius
+ipni_standard_form: J.Eichler
+ipni_dates: 1859-1929
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.5.1.1.1.1.1
+ipni_record_created: 2003-12-23 09:04:31.0
+ipni_record_modified: 2013-05-15 11:31:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

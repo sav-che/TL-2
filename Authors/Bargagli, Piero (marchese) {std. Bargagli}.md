@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0367
+tl2_volume: suppl1
+tl2_page_printed: 325
+tl2_surname: Bargagli
+tl2_forenames: Piero (marchese)
+tl2_name_abbrev: Bargagli
+tl2_dates: 1844-1918
+tl2_page_id: 33265052
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0404
+tl2_volume: vol5
+tl2_page_printed: 424
+tl2_surname: Schwarz
+tl2_forenames: [Erich] Frank
+tl2_name_abbrev: F. Schwarz
+tl2_dates: 1857-1928
+tl2_page_id: 33333563
+author_lsid: 12855-1
+wikidata_id: Q21608529
+ipni_surname: Schwarz
+ipni_forenames: Frank
+ipni_standard_form: F.Schwarz
+ipni_dates: 1857-1928
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33333563) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

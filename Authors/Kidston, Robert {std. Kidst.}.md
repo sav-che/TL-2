@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0636
+tl2_volume: vol2
+tl2_page_printed: 536
+tl2_surname: Kidston
+tl2_forenames: Robert
+tl2_name_abbrev: Kidst.
+tl2_dates: 1852-1924
+tl2_page_id: 33068778
+author_lsid: 4770-1
+wikidata_id: Q1507909
+ipni_surname: Kidston
+ipni_forenames: Robert
+ipni_standard_form: Kidst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+- Spermatophytes
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33068778) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

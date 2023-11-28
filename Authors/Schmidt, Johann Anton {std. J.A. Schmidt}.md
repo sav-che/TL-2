@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0236
+tl2_volume: vol5
+tl2_page_printed: 254
+tl2_surname: Schmidt
+tl2_forenames: Johann Anton
+tl2_name_abbrev: J.A. Schmidt
+tl2_dates: 1823-1905
+tl2_page_id: 33333393
+author_lsid: 9162-1
+wikidata_id: Q2650527
+ipni_surname: Schmidt
+ipni_forenames: Johann Anton
+ipni_standard_form: J.A.Schmidt
+ipni_dates: 1823-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33333393) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

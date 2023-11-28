@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0545
+tl2_volume: vol4
+tl2_page_printed: 460
+tl2_surname: Rabanus
+tl2_forenames: Adolf
+tl2_name_abbrev: Rabanus
+tl2_dates: 1890-?
+tl2_page_id: 33189931
+author_lsid: 8067-1
+wikidata_id: Q21606818
+ipni_surname: Rabanus
+ipni_forenames: Adolf
+ipni_standard_form: Rabanus
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

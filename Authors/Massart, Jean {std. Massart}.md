@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0407
+tl2_volume: vol3
+tl2_page_printed: 358
+tl2_surname: Massart
+tl2_forenames: Jean
+tl2_name_abbrev: Massart
+tl2_dates: 1865-1925
+tl2_page_id: 33355445
+author_lsid: 6201-1
+wikidata_id: Q2482340
+ipni_surname: Massart
+ipni_forenames: Jean
+ipni_standard_form: Massart
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33355445) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0514
+tl2_volume: vol1
+tl2_page_printed: 421
+tl2_surname: Buser
+tl2_forenames: Robert
+tl2_name_abbrev: Buser
+tl2_dates: 1857-1931
+tl2_page_id: 33120552
+author_lsid: 1322-1
+wikidata_id: Q117248
+ipni_surname: Buser
+ipni_forenames: Robert
+ipni_standard_form: Buser
+ipni_dates: 1857-1931
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

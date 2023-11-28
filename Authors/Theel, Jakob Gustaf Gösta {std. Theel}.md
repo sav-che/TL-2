@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0279
+tl2_volume: vol6
+tl2_page_printed: 239
+tl2_surname: Theel
+tl2_forenames: Jakob Gustaf Gösta
+tl2_name_abbrev: Theel
+tl2_dates: 1846-1885
+tl2_page_id: 33212281
+author_lsid: 10548-1
+wikidata_id: Q21610529
+ipni_surname: Theel
+ipni_forenames: Jakob Gustaf Gösta
+ipni_standard_form: Theel
+ipni_dates: 1846-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

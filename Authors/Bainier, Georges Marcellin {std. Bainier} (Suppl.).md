@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0316
+tl2_volume: suppl1
+tl2_page_printed: 273
+tl2_surname: Bainier
+tl2_forenames: Georges Marcellin
+tl2_name_abbrev: Bainier
+tl2_dates: 1848-1920
+tl2_page_id: 33265000
+author_lsid: 31208-1
+wikidata_id: Q21505565
+ipni_surname: Bainier
+ipni_forenames: Georges
+ipni_standard_form: Bainier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

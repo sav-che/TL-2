@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0687
+tl2_volume: vol3
+tl2_page_printed: 592
+tl2_surname: Morren
+tl2_forenames: Charles Jacques Édouard
+tl2_name_abbrev: E. Morr.
+tl2_dates: 1833-1886
+tl2_page_id: 33355679
+author_lsid: 6670-1
+wikidata_id: Q1065034
+ipni_surname: Morren
+ipni_forenames: Charles Jacques Édouard
+ipni_standard_form: É.Morren
+ipni_dates: 1833-1886
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-12-21 14:48:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33355679) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0572
+tl2_volume: vol1
+tl2_page_printed: 468
+tl2_surname: Castelnau
+tl2_forenames: François Louis Nompar de Caumont de Laporte, Comte de
+tl2_name_abbrev: Castelnau
+tl2_dates: 1810-1880
+tl2_page_id: 33120599
+author_lsid: 1447-1
+wikidata_id: Q741590
+ipni_surname: Castelnau
+ipni_forenames: François Louis Nompar de Caumat de Laporte
+ipni_standard_form: Castelnau
+ipni_dates: 1810-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

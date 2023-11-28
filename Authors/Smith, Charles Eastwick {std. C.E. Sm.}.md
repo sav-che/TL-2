@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0667
+tl2_volume: vol5
+tl2_page_printed: 666
+tl2_surname: Smith
+tl2_forenames: Charles Eastwick
+tl2_name_abbrev: C.E. Sm.
+tl2_dates: 1820-1900
+tl2_page_id: 33333805
+author_lsid: 9776-1
+wikidata_id: Q21388759
+ipni_surname: Smith
+ipni_forenames: Charles Eastwick
+ipni_standard_form: C.E.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

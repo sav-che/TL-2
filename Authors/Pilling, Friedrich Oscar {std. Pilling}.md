@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0317
+tl2_volume: vol4
+tl2_page_printed: 267
+tl2_surname: Pilling
+tl2_forenames: Friedrich Oscar
+tl2_name_abbrev: Pilling
+tl2_dates: 1824-1897
+tl2_page_id: 33189738
+author_lsid: 7705-1
+wikidata_id: Q21523014
+ipni_surname: Pilling
+ipni_forenames: Friedrich Oscar
+ipni_standard_form: Pilling
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

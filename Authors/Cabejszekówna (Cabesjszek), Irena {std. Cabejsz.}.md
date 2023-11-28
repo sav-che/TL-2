@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0282
+tl2_volume: suppl3
+tl2_page_printed: 292
+tl2_surname: Cabejszekówna [Cabesjszek]
+tl2_forenames: Irena
+tl2_name_abbrev: Cabejsz.
+tl2_dates: 1910-1972
+tl2_page_id: 33266599
+author_lsid: 32613-1
+wikidata_id: Q21506789
+ipni_surname: Cabejszekówna
+ipni_forenames: Irena
+ipni_standard_form: Cabejsz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

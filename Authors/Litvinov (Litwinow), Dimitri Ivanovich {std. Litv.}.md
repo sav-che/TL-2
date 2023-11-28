@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0074
+tl2_volume: vol3
+tl2_page_printed: 121
+tl2_surname: Litvinov [Litwinow]
+tl2_forenames: Dimitri Ivanovich
+tl2_name_abbrev: Litv.
+tl2_dates: 1854-1929
+tl2_page_id: 33355208
+author_lsid: 5663-1
+wikidata_id: Q4263637
+ipni_surname: Litvinov
+ipni_forenames: Dimitri Ivanovich
+ipni_standard_form: Litv.
+ipni_dates: 1854-1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-12-15 13:49:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

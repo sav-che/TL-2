@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0281
+tl2_volume: suppl4
+tl2_page_printed: 350
+tl2_surname: Coppey
+tl2_forenames: Amédée
+tl2_name_abbrev: Copp.
+tl2_dates: 1874-1913
+tl2_page_id: 33266027
+author_lsid: 17418-1
+wikidata_id: Q21337772
+ipni_surname: Coppey
+ipni_forenames: Amedee
+ipni_standard_form: Copp.
+ipni_dates: 1874-1913
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

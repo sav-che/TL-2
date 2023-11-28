@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0287
+tl2_volume: vol5
+tl2_page_printed: 288
+tl2_surname: Schoenichen
+tl2_forenames: Walther
+tl2_name_abbrev: Schoenichen
+tl2_dates: 1876-1956
+tl2_page_id: 33333427
+author_lsid: 9218-1
+wikidata_id: Q1606759
+ipni_surname: Schoenichen
+ipni_forenames: Walther
+ipni_standard_form: Schoen.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33333427) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

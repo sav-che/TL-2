@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0410
+tl2_volume: vol7
+tl2_page_printed: 453
+tl2_surname: Wooton
+tl2_forenames: Elmer Ottis
+tl2_name_abbrev: Woot.
+tl2_dates: 1865-1945
+tl2_page_id: 33066793
+author_lsid: 11868-1
+wikidata_id: Q1332980
+ipni_surname: Wooton
+ipni_forenames: Elmer Ottis
+ipni_standard_form: Wooton
+ipni_dates: 1865-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33066793) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

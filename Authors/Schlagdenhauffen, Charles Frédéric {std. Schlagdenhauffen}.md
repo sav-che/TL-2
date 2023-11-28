@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0187
+tl2_volume: vol5
+tl2_page_printed: 186
+tl2_surname: Schlagdenhauffen
+tl2_forenames: Charles Frédéric
+tl2_name_abbrev: Schlagdenhauffen
+tl2_dates: 1830-1907
+tl2_page_id: 33333325
+author_lsid: 9109-1
+wikidata_id: Q21608015
+ipni_surname: Schlagdenhauffen
+ipni_forenames: Charles Frédéric
+ipni_standard_form: Schlagd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0042
+tl2_volume: vol6
+tl2_page_printed: 30
+tl2_surname: Strähler
+tl2_forenames: Adolf
+tl2_name_abbrev: Straehler
+tl2_dates: 1829-1897
+tl2_page_id: 33212034
+author_lsid: 12893-1
+wikidata_id: Q21609930
+ipni_surname: Strähler
+ipni_forenames: Adolf
+ipni_standard_form: Strähler
+ipni_dates: 1829-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33212034) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

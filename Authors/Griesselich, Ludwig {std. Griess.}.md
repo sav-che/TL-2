@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1256
+tl2_volume: vol1
+tl2_page_printed: 1004
+tl2_surname: Griesselich
+tl2_forenames: Ludwig
+tl2_name_abbrev: Griess.
+tl2_dates: 1804-1848
+tl2_page_id: 33121135
+author_lsid: 3385-1
+wikidata_id: Q5982494
+ipni_surname: Griesselich
+ipni_forenames: Ludwig
+ipni_standard_form: Griess.
+ipni_dates: 1804-1848
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33121135) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

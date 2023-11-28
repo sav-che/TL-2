@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0456
+tl2_volume: vol2
+tl2_page_printed: 417
+tl2_surname: Jahandiez
+tl2_forenames: Émile
+tl2_name_abbrev: Jahand.
+tl2_dates: 1876-1938
+tl2_page_id: 33068659
+author_lsid: 4398-1
+wikidata_id: Q2754091
+ipni_surname: Jahandiez
+ipni_forenames: Émile
+ipni_standard_form: Jahand.
+ipni_dates: 1876-1938
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+- Spain
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

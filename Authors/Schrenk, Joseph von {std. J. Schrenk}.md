@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0326
+tl2_volume: vol5
+tl2_page_printed: 336
+tl2_surname: Schrenk
+tl2_forenames: Joseph von
+tl2_name_abbrev: J. Schrenk
+tl2_dates: 1842-1890
+tl2_page_id: 33333475
+author_lsid: 9265-1
+wikidata_id: Q21608442
+ipni_surname: Schrenk
+ipni_forenames: Joseph (von)
+ipni_standard_form: J.Schrenk
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33333475) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

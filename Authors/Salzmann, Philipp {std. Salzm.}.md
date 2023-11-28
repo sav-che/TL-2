@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0015
+tl2_volume: vol5
+tl2_page_printed: 16
+tl2_surname: Salzmann
+tl2_forenames: Philipp
+tl2_name_abbrev: Salzm.
+tl2_dates: 1781-1851
+tl2_page_id: 33333167
+author_lsid: 8860-1
+wikidata_id: Q2329444
+ipni_surname: Salzmann
+ipni_forenames: Philipp
+ipni_standard_form: Salzm.
+ipni_dates: 1781-1851
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

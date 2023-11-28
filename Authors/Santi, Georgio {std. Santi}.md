@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0043
+tl2_volume: vol5
+tl2_page_printed: 42
+tl2_surname: Santi
+tl2_forenames: Georgio
+tl2_name_abbrev: Santi
+tl2_dates: 1746-1822
+tl2_page_id: 33333143
+author_lsid: 8905-1
+wikidata_id: Q2882195
+ipni_surname: Santi
+ipni_forenames: Giorgio
+ipni_standard_form: Santi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33333143) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

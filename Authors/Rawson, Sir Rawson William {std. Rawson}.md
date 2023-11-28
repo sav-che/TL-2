@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0631
+tl2_volume: vol4
+tl2_page_printed: 603
+tl2_surname: Rawson
+tl2_forenames: Sir Rawson William
+tl2_name_abbrev: Rawson
+tl2_dates: 1812-1899
+tl2_page_id: 33190074
+author_lsid: 8188-1
+wikidata_id: Q4398741
+ipni_surname: Rawson
+ipni_forenames: Rawson William
+ipni_standard_form: Rawson
+ipni_dates: 1812-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- South Africa
+- Mauritius
+- Jamaica
+- Bahamas
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

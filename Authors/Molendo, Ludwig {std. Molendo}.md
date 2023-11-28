@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0633
+tl2_volume: vol3
+tl2_page_printed: 547
+tl2_surname: Molendo
+tl2_forenames: Ludwig
+tl2_name_abbrev: Molendo
+tl2_dates: 1833-1902
+tl2_page_id: 33355634
+author_lsid: 23533-1
+wikidata_id: Q21521617
+ipni_surname: Molendo
+ipni_forenames: Ludwig
+ipni_standard_form: Molendo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33355634) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

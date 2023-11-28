@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0084
+tl2_volume: suppl1
+tl2_page_printed: 64
+tl2_surname: Alcock
+tl2_forenames: Randal Hibbert
+tl2_name_abbrev: Alcock
+tl2_dates: 1833-1885
+tl2_page_id: 33264791
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

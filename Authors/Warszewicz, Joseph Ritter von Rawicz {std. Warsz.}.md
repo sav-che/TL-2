@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0087
+tl2_volume: vol7
+tl2_page_printed: 92
+tl2_surname: Warszewicz
+tl2_forenames: Joseph Ritter von Rawicz
+tl2_name_abbrev: Warsz.
+tl2_dates: 1812-1866
+tl2_page_id: 33066432
+author_lsid: 11417-1
+wikidata_id: Q963084
+ipni_surname: Warszewicz
+ipni_forenames: Josef Ritter von Rawicz
+ipni_standard_form: Warsz.
+ipni_dates: 1812-1866
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33066432) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

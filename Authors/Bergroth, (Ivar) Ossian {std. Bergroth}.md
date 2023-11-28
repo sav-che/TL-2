@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0110
+tl2_volume: suppl2
+tl2_page_printed: 96
+tl2_surname: Bergroth
+tl2_forenames: [Ivar] Ossian
+tl2_name_abbrev: Bergroth
+tl2_dates: 1868-1904
+tl2_page_id: 33265293
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33265293) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

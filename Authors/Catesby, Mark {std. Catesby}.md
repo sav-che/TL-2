@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0575
+tl2_volume: vol1
+tl2_page_printed: 469
+tl2_surname: Catesby
+tl2_forenames: Mark
+tl2_name_abbrev: Catesby
+tl2_dates: 1683-1749
+tl2_page_id: 33120600
+author_lsid: 1457-1
+wikidata_id: Q334914
+ipni_surname: Catesby
+ipni_forenames: Mark
+ipni_standard_form: Catesby
+ipni_dates: 1683-1749
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- United Kingdom
+- United States
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

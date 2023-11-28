@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0590
+tl2_volume: vol4
+tl2_page_printed: 575
+tl2_surname: Rand
+tl2_forenames: Eduard Sprague
+tl2_name_abbrev: E.S. Rand
+tl2_dates: 1834-1897
+tl2_page_id: 33190046
+author_lsid: 8132-1
+wikidata_id: Q3048678
+ipni_surname: Rand
+ipni_forenames: Edward Sprague
+ipni_standard_form: E.S.Rand
+ipni_dates: 1834-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

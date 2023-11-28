@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0990
+tl2_volume: vol4
+tl2_page_printed: 963
+tl2_surname: Roze
+tl2_forenames: Ernest
+tl2_name_abbrev: Roze
+tl2_dates: 1833-1900
+tl2_page_id: 33190434
+author_lsid: 8690-1
+wikidata_id: Q6430761
+ipni_surname: Roze
+ipni_forenames: Ernest
+ipni_standard_form: Roze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33190434) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

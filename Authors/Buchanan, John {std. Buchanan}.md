@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl3_0181
+tl2_volume: suppl3
+tl2_page_printed: 186
+tl2_surname: Buchanan
+tl2_forenames: John
+tl2_name_abbrev: Buchanan
+tl2_dates: 1819-1898
+tl2_page_id: 33266493
+author_lsid: 16656-1
+wikidata_id: Q6223729
+ipni_surname: Buchanan
+ipni_forenames: John
+ipni_standard_form: Buchanan
+ipni_dates: 1819-1898
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- New Zealand
+ipni_version: 1.1.2.1.1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

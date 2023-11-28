@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0233
+tl2_volume: suppl3
+tl2_page_printed: 238
+tl2_surname: Burges
+tl2_forenames: Norman Alan
+tl2_name_abbrev: Burges
+tl2_dates: 1911-x
+tl2_page_id: 33266545
+author_lsid: 16726-1
+wikidata_id: Q11925778
+ipni_surname: Burges
+ipni_forenames: Norman Alan
+ipni_standard_form: Burges
+ipni_dates: 1911-2002
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33266545) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

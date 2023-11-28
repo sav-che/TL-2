@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0139
+tl2_volume: suppl7
+tl2_page_printed: 214
+tl2_surname: Fischer
+tl2_forenames: [Carl Albert] Hugo
+tl2_name_abbrev: H. Fisch.
+tl2_dates: 1865-1939
+tl2_page_id: 33259718
+author_lsid: 34396-1
+wikidata_id: Q21513154
+ipni_surname: Fischer
+ipni_forenames: Hugo
+ipni_standard_form: H.Fisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259718) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

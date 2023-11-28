@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0600
+tl2_volume: vol4
+tl2_page_printed: 580
+tl2_surname: Rapp
+tl2_forenames: Arthur Roman
+tl2_name_abbrev: Rapp
+tl2_dates: 1854-after 1894
+tl2_page_id: 33190051
+author_lsid: 8145-1
+wikidata_id: Q21606974
+ipni_surname: Rapp
+ipni_forenames: Arthur Roman
+ipni_standard_form: Rapp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

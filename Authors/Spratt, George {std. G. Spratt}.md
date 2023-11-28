@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0804
+tl2_volume: vol5
+tl2_page_printed: 802
+tl2_surname: Spratt
+tl2_forenames: George
+tl2_name_abbrev: G. Spratt
+tl2_dates: fl. 1830
+tl2_page_id: 33333941
+author_lsid: 9986-1
+wikidata_id: Q47126616
+ipni_surname: Spratt
+ipni_forenames: George
+ipni_standard_form: G.Spratt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

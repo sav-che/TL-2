@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0293
+tl2_volume: suppl6
+tl2_page_printed: 264
+tl2_surname: Egeling
+tl2_forenames: [B.F.] Gustav
+tl2_name_abbrev: Egeling
+tl2_dates: 1858-after 1922
+tl2_page_id: 33260252
+author_lsid: 18388-1
+wikidata_id: Q21511493
+ipni_surname: Egeling
+ipni_forenames: Gustav
+ipni_standard_form: Egeling
+ipni_dates: 1858-1922
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33260252) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

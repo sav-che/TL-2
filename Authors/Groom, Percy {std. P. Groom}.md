@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0298
+tl2_volume: suppl8
+tl2_page_printed: 412
+tl2_surname: Groom
+tl2_forenames: Percy
+tl2_name_abbrev: P. Groom
+tl2_dates: 1865-1931
+tl2_page_id: 33258890
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33258890) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

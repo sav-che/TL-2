@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0408
+tl2_volume: suppl2
+tl2_page_printed: 360
+tl2_surname: Borrer
+tl2_forenames: William
+tl2_name_abbrev: Borrer
+tl2_dates: 1781-1862
+tl2_page_id: 33265557
+author_lsid: 16359-1
+wikidata_id: Q3568447
+ipni_surname: Borrer
+ipni_forenames: William J.
+ipni_standard_form: Borrer
+ipni_dates: 1781-1862
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33265557) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

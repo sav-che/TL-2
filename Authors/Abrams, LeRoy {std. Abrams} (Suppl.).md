@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0018
+tl2_volume: suppl1
+tl2_page_printed: 10
+tl2_surname: Abrams
+tl2_forenames: LeRoy
+tl2_name_abbrev: Abrams
+tl2_dates: 1874-1956
+tl2_page_id: 33264765
+author_lsid: 46-1
+wikidata_id: Q2698829
+ipni_surname: Abrams
+ipni_forenames: LeRoy
+ipni_standard_form: Abrams
+ipni_dates: 1874-1956
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33264765) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

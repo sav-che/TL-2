@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0402
+tl2_volume: vol2
+tl2_page_printed: 380
+tl2_surname: Hutton
+tl2_forenames: William
+tl2_name_abbrev: Hutton
+tl2_dates: 1798-1860
+tl2_page_id: 33068622
+author_lsid: 20654-1
+wikidata_id: Q8012751
+ipni_surname: Hutton
+ipni_forenames: William
+ipni_standard_form: Hutton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Fossils
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0339
+tl2_volume: suppl4
+tl2_page_printed: 424
+tl2_surname: Couret-Villeneuve
+tl2_forenames: Louis Pierre
+tl2_name_abbrev: Couret-Villeneuve
+tl2_dates: 1749-1806
+tl2_page_id: 33266101
+author_lsid: 20020198-2
+wikidata_id: Q20084499
+ipni_surname: Couret-Villeneuve
+ipni_forenames: Louis Pierre
+ipni_standard_form: Couret-Vill.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

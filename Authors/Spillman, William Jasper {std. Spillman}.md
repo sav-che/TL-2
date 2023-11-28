@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0791
+tl2_volume: vol5
+tl2_page_printed: 791
+tl2_surname: Spillman
+tl2_forenames: William Jasper
+tl2_name_abbrev: Spillman
+tl2_dates: 1863-1931
+tl2_page_id: 33333930
+author_lsid: 9971-1
+wikidata_id: Q8013515
+ipni_surname: Spillman
+ipni_forenames: William Jasper
+ipni_standard_form: Spillman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

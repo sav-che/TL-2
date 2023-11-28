@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0711
+tl2_volume: vol2
+tl2_page_printed: 586
+tl2_surname: Kny
+tl2_forenames: Carl Ignaz Leopold
+tl2_name_abbrev: Kny
+tl2_dates: 1841-1916
+tl2_page_id: 33068828
+author_lsid: 4887-1
+wikidata_id: Q4224659
+ipni_surname: Kny
+ipni_forenames: Carl Ignaz Leopold
+ipni_standard_form: Kny
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33068828) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

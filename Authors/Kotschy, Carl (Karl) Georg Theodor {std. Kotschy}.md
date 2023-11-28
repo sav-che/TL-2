@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0763
+tl2_volume: vol2
+tl2_page_printed: 655
+tl2_surname: Kotschy
+tl2_forenames: Carl (Karl) Georg Theodor
+tl2_name_abbrev: Kotschy
+tl2_dates: 1813-1866
+tl2_page_id: 33068897
+author_lsid: 4989-1
+wikidata_id: Q113299
+ipni_surname: Kotschy
+ipni_forenames: Carl(Karl) Georg Theodor
+ipni_standard_form: Kotschy
+ipni_dates: 1813-1866
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33068897) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

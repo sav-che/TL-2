@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0276
+tl2_volume: vol5
+tl2_page_printed: 284
+tl2_surname: Schnyder
+tl2_forenames: Albert
+tl2_name_abbrev: A. Schnyd.
+tl2_dates: 1856-1938
+tl2_page_id: 33333423
+author_lsid: 9206-1
+wikidata_id: Q21608233
+ipni_surname: Schnyder
+ipni_forenames: Albert
+ipni_standard_form: A.Schnyd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0604
+tl2_volume: vol1
+tl2_page_printed: 490
+tl2_surname: Chauvin
+tl2_forenames: François Joseph
+tl2_name_abbrev: Chauv.
+tl2_dates: 1797-1859
+tl2_page_id: 33120621
+author_lsid: 1558-1
+wikidata_id: Q21508289
+ipni_surname: Chauvin
+ipni_forenames: François Joseph
+ipni_standard_form: Chauv.
+ipni_dates: 1797-1859
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

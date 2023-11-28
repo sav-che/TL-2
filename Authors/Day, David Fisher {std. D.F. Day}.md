@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0128
+tl2_volume: suppl5
+tl2_page_printed: 115
+tl2_surname: Day
+tl2_forenames: David Fisher
+tl2_name_abbrev: D.F. Day
+tl2_dates: 1829-1900
+tl2_page_id: 33259161
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259161) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

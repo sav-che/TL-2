@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_0454
+tl2_volume: vol1
+tl2_page_printed: 364
+tl2_surname: Brown
+tl2_forenames: Robert
+tl2_name_abbrev: R. Br.
+tl2_dates: 1773-1858
+tl2_page_id: 33120495
+author_lsid: 1192-1
+wikidata_id: Q155764
+ipni_surname: Brown
+ipni_forenames: Robert
+ipni_standard_form: R.Br.
+ipni_dates: 1773-1858
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- United States
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-01-31 17:05:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33120495) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

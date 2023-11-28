@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0090
+tl2_volume: vol5
+tl2_page_printed: 90
+tl2_surname: Savicz
+tl2_forenames: Vsevolod Pavlovicz
+tl2_name_abbrev: V. Savicz
+tl2_dates: 1885-1972
+tl2_page_id: 33333229
+author_lsid: 26188-1
+wikidata_id: Q4404104
+ipni_surname: Savicz
+ipni_forenames: Vsevolod Pavlovicz
+ipni_standard_form: Savicz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

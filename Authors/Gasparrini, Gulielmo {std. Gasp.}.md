@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1145
+tl2_volume: vol1
+tl2_page_printed: 919
+tl2_surname: Gasparrini
+tl2_forenames: Gulielmo
+tl2_name_abbrev: Gasp.
+tl2_dates: 1804-1866
+tl2_page_id: 33121050
+author_lsid: 3038-1
+wikidata_id: Q3119279
+ipni_surname: Gasparrini
+ipni_forenames: Guglielmo
+ipni_standard_form: Gasp.
+ipni_dates: 1804-1866
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33121050) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

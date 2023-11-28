@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0969
+tl2_volume: vol4
+tl2_page_printed: 938
+tl2_surname: Rouppert
+tl2_forenames: Kazimierz (Stefan)
+tl2_name_abbrev: Rouppert
+tl2_dates: 1885-1963
+tl2_page_id: 33190409
+author_lsid: 8662-1
+wikidata_id: Q11738286
+ipni_surname: Rouppert
+ipni_forenames: Kasimierz(s) Stefan
+ipni_standard_form: Rouppert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

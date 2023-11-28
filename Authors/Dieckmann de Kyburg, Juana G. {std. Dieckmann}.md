@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0313
+tl2_volume: suppl5
+tl2_page_printed: 294
+tl2_surname: Dieckmann de Kyburg
+tl2_forenames: Juana G.
+tl2_name_abbrev: Dieckmann
+tl2_dates: fl. 1916
+tl2_page_id: 33259340
+author_lsid: 20011717-2
+wikidata_id: Q5953793
+ipni_surname: Dieckmann
+ipni_forenames: Juana G.
+ipni_standard_form: Dieckmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33259340) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

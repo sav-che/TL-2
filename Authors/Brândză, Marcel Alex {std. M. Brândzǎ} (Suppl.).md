@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0028
+tl2_volume: suppl3
+tl2_page_printed: 19
+tl2_surname: Brândză
+tl2_forenames: Marcel Alex
+tl2_name_abbrev: Brândză
+tl2_dates: 1868-1934
+tl2_page_id: 33266326
+author_lsid: 1082-1
+wikidata_id: Q18538276
+ipni_surname: Brândză
+ipni_forenames: Marcel Alex
+ipni_standard_form: Brândză
+ipni_dates: 1868-1934
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33266326) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

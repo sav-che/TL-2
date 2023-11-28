@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0896
+tl2_volume: vol2
+tl2_page_printed: 759
+tl2_surname: Laplanche
+tl2_forenames: Maurice Counjard de
+tl2_name_abbrev: Lapl.
+tl2_dates: 1843-1904
+tl2_page_id: 33069001
+author_lsid: 5283-1
+wikidata_id: Q21518385
+ipni_surname: Laplanche
+ipni_forenames: Maurice Counjard de
+ipni_standard_form: Lapl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1198
+tl2_volume: vol1
+tl2_page_printed: 949
+tl2_surname: Giseke
+tl2_forenames: Paul Dietrich
+tl2_name_abbrev: Giseke
+tl2_dates: 1741-1796
+tl2_page_id: 33121080
+author_lsid: 3180-1
+wikidata_id: Q67011
+ipni_surname: Giseke
+ipni_forenames: Paul Dietrich
+ipni_standard_form: Giseke
+ipni_dates: 1741-1796
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

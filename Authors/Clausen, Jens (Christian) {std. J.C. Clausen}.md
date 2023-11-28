@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0150
+tl2_volume: suppl4
+tl2_page_printed: 190
+tl2_surname: Clausen
+tl2_forenames: Jens [Christian]
+tl2_name_abbrev: J.C. Clausen
+tl2_dates: 1891-1969
+tl2_page_id: 33265867
+author_lsid: 1675-1
+wikidata_id: Q1687144
+ipni_surname: Clausen
+ipni_forenames: Jens Christian
+ipni_standard_form: J.C.Clausen
+ipni_dates: 1891-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265867) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

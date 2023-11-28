@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0312
+tl2_volume: vol4
+tl2_page_printed: 263
+tl2_surname: Pilar
+tl2_forenames: Georg [Gjuro]
+tl2_name_abbrev: Pilar
+tl2_dates: 1847-1893
+tl2_page_id: 33189734
+author_lsid: 7698-1
+wikidata_id: Q21523012
+ipni_surname: Pilar
+ipni_forenames: Georg(Gjuro)
+ipni_standard_form: Pilar
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Yugoslavia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

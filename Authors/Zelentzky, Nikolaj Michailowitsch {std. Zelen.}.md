@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0475
+tl2_volume: vol7
+tl2_page_printed: 526
+tl2_surname: Zelentzky
+tl2_forenames: Nikolaj Michailowitsch
+tl2_name_abbrev: Zelen.
+tl2_dates: 1859-1923
+tl2_page_id: 33066866
+author_lsid: 12005-1
+wikidata_id: Q16611872
+ipni_surname: Zelenetzky
+ipni_forenames: Nikolaj Michailowitsch
+ipni_standard_form: Zelen.
+ipni_dates: 1859-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

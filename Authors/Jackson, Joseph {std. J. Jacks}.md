@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0437
+tl2_volume: vol2
+tl2_page_printed: 400
+tl2_surname: Jackson
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Jacks
+tl2_dates: 1847-1924
+tl2_page_id: 33068642
+author_lsid: 4365-1
+wikidata_id: Q21516853
+ipni_surname: Jackson
+ipni_forenames: Joseph
+ipni_standard_form: J.Jacks.
+ipni_dates: 1847-1924
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

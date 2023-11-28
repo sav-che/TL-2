@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0258
+tl2_volume: vol6
+tl2_page_printed: 221
+tl2_surname: Tepper
+tl2_forenames: Johann Gottlieb Otto
+tl2_name_abbrev: Tepper
+tl2_dates: 1841-1923
+tl2_page_id: 33212263
+author_lsid: 10515-1
+wikidata_id: Q2891010
+ipni_surname: Tepper
+ipni_forenames: Johann Gottlieb Otto
+ipni_standard_form: Tepper
+ipni_dates: 1841-1923
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33212263) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0046
+tl2_volume: vol4
+tl2_page_printed: 40
+tl2_surname: Pamplin
+tl2_forenames: William
+tl2_name_abbrev: Pamplin
+tl2_dates: 1806-1899
+tl2_page_id: 33189473
+author_lsid: 7299-1
+wikidata_id: Q20734693
+ipni_surname: Pamplin
+ipni_forenames: William
+ipni_standard_form: Pamplin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33189473) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

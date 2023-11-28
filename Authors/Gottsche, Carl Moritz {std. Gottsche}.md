@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1228
+tl2_volume: vol1
+tl2_page_printed: 974
+tl2_surname: Gottsche
+tl2_forenames: Carl Moritz
+tl2_name_abbrev: Gottsche
+tl2_dates: 1808-1892
+tl2_page_id: 33121105
+author_lsid: 19524-1
+wikidata_id: Q115257
+ipni_surname: Gottsche
+ipni_forenames: Carl Moritz
+ipni_standard_form: Gottsche
+ipni_dates: 1808-1892
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33121105) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

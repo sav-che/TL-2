@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0435
+tl2_volume: suppl4
+tl2_page_printed: 515
+tl2_surname: Curtis
+tl2_forenames: Kathleen Maisey
+tl2_name_abbrev: K.M. Curtis
+tl2_dates: fl. 1900-1930
+tl2_page_id: 33266192
+author_lsid: 17592-1
+wikidata_id: Q6376816
+ipni_surname: Curtis
+ipni_forenames: K.M.
+ipni_standard_form: K.M.Curtis
+ipni_dates: fl. 1926
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

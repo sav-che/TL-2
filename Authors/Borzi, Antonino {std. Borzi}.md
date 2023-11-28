@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0373
+tl2_volume: vol1
+tl2_page_printed: 287
+tl2_surname: Borzi
+tl2_forenames: Antonino
+tl2_name_abbrev: Borzi
+tl2_dates: 1852-1921
+tl2_page_id: 33120418
+author_lsid: 1002-1
+wikidata_id: Q599173
+ipni_surname: Borzì
+ipni_forenames: Antonino
+ipni_standard_form: Borzì
+ipni_dates: 1852-1921
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-02-02 14:14:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33120418) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

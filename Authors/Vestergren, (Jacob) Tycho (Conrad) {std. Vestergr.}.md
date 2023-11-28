@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0696
+tl2_volume: vol6
+tl2_page_printed: 718
+tl2_surname: Vestergren
+tl2_forenames: [Jacob] Tycho [Conrad]
+tl2_name_abbrev: Vestergr.
+tl2_dates: 1875-1930
+tl2_page_id: 33212760
+author_lsid: 11151-1
+wikidata_id: Q19002970
+ipni_surname: Vestergren
+ipni_forenames: (Jacob) Tycho (Conrad)
+ipni_standard_form: Vestergr.
+ipni_dates: 1875-1930
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33212760) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

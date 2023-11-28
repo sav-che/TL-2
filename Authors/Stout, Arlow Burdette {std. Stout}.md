@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0040
+tl2_volume: vol6
+tl2_page_printed: 29
+tl2_surname: Stout
+tl2_forenames: Arlow Burdette
+tl2_name_abbrev: Stout
+tl2_dates: 1876-1957
+tl2_page_id: 33212033
+author_lsid: 10191-1
+wikidata_id: Q2879263
+ipni_surname: Stout
+ipni_forenames: Arlow Burdette
+ipni_standard_form: Stout
+ipni_dates: 1876-1957
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0443
+tl2_volume: vol2
+tl2_page_printed: 402
+tl2_surname: Jacobsen
+tl2_forenames: Jens Peter
+tl2_name_abbrev: J. Jacobsen
+tl2_dates: 1847-1885
+tl2_page_id: 33068644
+author_lsid: 4380-1
+wikidata_id: Q370246
+ipni_surname: Jacobsen
+ipni_forenames: Jens Peter
+ipni_standard_form: J.Jacobsen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

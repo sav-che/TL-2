@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0951
+tl2_volume: vol4
+tl2_page_printed: 920
+tl2_surname: Roth
+tl2_forenames: Georg
+tl2_name_abbrev: G. Roth
+tl2_dates: 1842-1915
+tl2_page_id: 33190391
+author_lsid: 8638-1
+wikidata_id: Q12313728
+ipni_surname: Roth
+ipni_forenames: Georg
+ipni_standard_form: G.Roth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33190391) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

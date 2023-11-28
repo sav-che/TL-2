@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0633
+tl2_volume: vol1
+tl2_page_printed: 509
+tl2_surname: Claypole
+tl2_forenames: Edward Waller
+tl2_name_abbrev: Claypole
+tl2_dates: 1835-1901
+tl2_page_id: 33120640
+author_lsid: 1683-1
+wikidata_id: Q18910584
+ipni_surname: Claypole
+ipni_forenames: Edward Waller
+ipni_standard_form: Claypole
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

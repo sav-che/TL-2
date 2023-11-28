@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0753
+tl2_volume: vol5
+tl2_page_printed: 756
+tl2_surname: Soulat-Ribette
+tl2_forenames: Soulat-Ribette
+tl2_name_abbrev: Soulat-Ribetté
+tl2_dates: fl. 1892
+tl2_page_id: 33333895
+author_lsid: 9917-1
+wikidata_id: Q47126558
+ipni_surname: Soulat-Ribette
+ipni_forenames: 
+ipni_standard_form: Soulat-Rib.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0913
+tl2_volume: vol5
+tl2_page_printed: 906
+tl2_surname: Sterzel
+tl2_forenames: [Johann] Traugott
+tl2_name_abbrev: Sterzel
+tl2_dates: 1841-1914
+tl2_page_id: 33334045
+author_lsid: 12889-1
+wikidata_id: Q1696404
+ipni_surname: Sterzel
+ipni_forenames: Johann Traugott
+ipni_standard_form: Sterzel
+ipni_dates: 1841-1914
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33334045) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

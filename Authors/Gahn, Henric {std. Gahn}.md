@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1125
+tl2_volume: vol1
+tl2_page_printed: 904
+tl2_surname: Gahn
+tl2_forenames: Henric
+tl2_name_abbrev: Gahn
+tl2_dates: 1747-1816
+tl2_page_id: 33121035
+author_lsid: 2981-1
+wikidata_id: Q5749461
+ipni_surname: Gahn
+ipni_forenames: Henric
+ipni_standard_form: Gahn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

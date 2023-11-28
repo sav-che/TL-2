@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0232
+tl2_volume: suppl3
+tl2_page_printed: 236
+tl2_surname: Burgerstein
+tl2_forenames: Alfred
+tl2_name_abbrev: Burgerstein
+tl2_dates: 1850-1929
+tl2_page_id: 33266543
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33266543) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0490
+tl2_volume: vol3
+tl2_page_printed: 413
+tl2_surname: Meneghini
+tl2_forenames: Giuseppe Giovanni Antonio
+tl2_name_abbrev: Menegh.
+tl2_dates: 1811-1889
+tl2_page_id: 33355500
+author_lsid: 6349-1
+wikidata_id: Q560042
+ipni_surname: Meneghini
+ipni_forenames: Giuseppe Giovanni Antonio
+ipni_standard_form: Menegh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Fossils
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

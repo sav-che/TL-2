@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0630
+tl2_volume: vol2
+tl2_page_printed: 532
+tl2_surname: Keyserling
+tl2_forenames: Alexander Friedrich Michael Leberecht Arthur von
+tl2_name_abbrev: Keyserl.
+tl2_dates: 1815-1891
+tl2_page_id: 33068774
+author_lsid: 4756-1
+wikidata_id: Q63106
+ipni_surname: Keyserling
+ipni_forenames: (Andreëvich) Alexander Friedrich Michael Leberecht Arthur von
+ipni_standard_form: Keyserl.
+ipni_dates: 1815-1891
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

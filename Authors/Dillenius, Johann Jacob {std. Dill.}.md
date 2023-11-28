@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0832
+tl2_volume: vol1
+tl2_page_printed: 655
+tl2_surname: Dillenius
+tl2_forenames: Johann Jacob
+tl2_name_abbrev: Dill.
+tl2_dates: 1684-1747
+tl2_page_id: 33120786
+author_lsid: 18050-1
+wikidata_id: Q61031
+ipni_surname: Dillenius
+ipni_forenames: Johann Jacob
+ipni_standard_form: Dill.
+ipni_dates: 1684-1747
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Pre-Linnaean
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33120786) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

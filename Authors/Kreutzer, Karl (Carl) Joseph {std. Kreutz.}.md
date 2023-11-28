@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0793
+tl2_volume: vol2
+tl2_page_printed: 673
+tl2_surname: Kreutzer
+tl2_forenames: Karl (Carl) Joseph
+tl2_name_abbrev: Kreutz.
+tl2_dates: 1809-1866
+tl2_page_id: 33068915
+author_lsid: 5060-1
+wikidata_id: Q13414858
+ipni_surname: Kreutzer
+ipni_forenames: Karl(Carl) Joseph
+ipni_standard_form: Kreutzer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 673](https://www.biodiversitylibrary.org/page/33068915) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

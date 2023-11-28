@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0240
+tl2_volume: suppl4
+tl2_page_printed: 302
+tl2_surname: Conn
+tl2_forenames: Herbert William
+tl2_name_abbrev: Conn
+tl2_dates: 1859-1917
+tl2_page_id: 33265979
+author_lsid: 32795-1
+wikidata_id: Q14946759
+ipni_surname: Conn
+ipni_forenames: Herbert William
+ipni_standard_form: Conn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

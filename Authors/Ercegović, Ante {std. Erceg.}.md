@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0397
+tl2_volume: suppl6
+tl2_page_printed: 383
+tl2_surname: Ercegovic
+tl2_forenames: Ante
+tl2_name_abbrev: Erceg.
+tl2_dates: 1895-1969
+tl2_page_id: 33260371
+author_lsid: 33042-1
+wikidata_id: Q12626984
+ipni_surname: Ercegović
+ipni_forenames: Ante
+ipni_standard_form: Erceg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33260371) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

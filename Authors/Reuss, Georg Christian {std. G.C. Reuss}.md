@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0720
+tl2_volume: vol4
+tl2_page_printed: 741
+tl2_surname: Reuss
+tl2_forenames: Georg Christian
+tl2_name_abbrev: G.C. Reuss
+tl2_dates: fl. 1869
+tl2_page_id: 33190212
+author_lsid: 8310-1
+wikidata_id: Q36567798
+ipni_surname: Reuss
+ipni_forenames: Georg Christian
+ipni_standard_form: G.C.Reuss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

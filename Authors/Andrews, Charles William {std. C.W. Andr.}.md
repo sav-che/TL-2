@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0156
+tl2_volume: suppl1
+tl2_page_printed: 125
+tl2_surname: Andrews
+tl2_forenames: Charles William
+tl2_name_abbrev: C.W. Andr.
+tl2_dates: 1866-1924
+tl2_page_id: 33264852
+author_lsid: 213-1
+wikidata_id: Q2960456
+ipni_surname: Andrews
+ipni_forenames: Charles William
+ipni_standard_form: C.W.Andrews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

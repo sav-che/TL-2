@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0821
+tl2_volume: vol4
+tl2_page_printed: 816
+tl2_surname: Robinson
+tl2_forenames: James Fraser
+tl2_name_abbrev: J.F. Robinson
+tl2_dates: 1857-1927
+tl2_page_id: 33190287
+author_lsid: 8458-1
+wikidata_id: Q21607289
+ipni_surname: Robinson
+ipni_forenames: James Fraser
+ipni_standard_form: J.F.Rob.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33190287) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

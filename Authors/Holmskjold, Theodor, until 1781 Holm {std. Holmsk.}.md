@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0319
+tl2_volume: vol2
+tl2_page_printed: 261
+tl2_surname: Holmskjold
+tl2_forenames: Theodor, until 1781 Holm
+tl2_name_abbrev: Holmsk.
+tl2_dates: 1732-1794
+tl2_page_id: 33068503
+author_lsid: 4060-1
+wikidata_id: Q1101232
+ipni_surname: Holmskjold
+ipni_forenames: Theodor
+ipni_standard_form: Holmsk.
+ipni_dates: 1732-1794
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33068503) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

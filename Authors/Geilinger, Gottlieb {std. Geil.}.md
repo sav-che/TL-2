@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0122
+tl2_volume: suppl8
+tl2_page_printed: 168
+tl2_surname: Geilinger
+tl2_forenames: Gottlieb
+tl2_name_abbrev: Geil.
+tl2_dates: 1881-1955
+tl2_page_id: 33258646
+author_lsid: 3068-1
+wikidata_id: Q21513850
+ipni_surname: Geilinger
+ipni_forenames: Gottlieb
+ipni_standard_form: Geil.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33258646) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

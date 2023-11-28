@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0771
+tl2_volume: vol2
+tl2_page_printed: 662
+tl2_surname: Kramer
+tl2_forenames: Wilhelm Heinrich
+tl2_name_abbrev: W. Kram.
+tl2_dates: x-1765
+tl2_page_id: 33068904
+author_lsid: 5022-1
+wikidata_id: Q3568262
+ipni_surname: Kramer
+ipni_forenames: Wilhelm Heinrich
+ipni_standard_form: Kramer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

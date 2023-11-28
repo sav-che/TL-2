@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0538
+tl2_volume: vol5
+tl2_page_printed: 558
+tl2_surname: Sheldon
+tl2_forenames: John Lewis
+tl2_name_abbrev: J. Sheld.
+tl2_dates: 1865-1947
+tl2_page_id: 33333697
+author_lsid: 9558-1
+wikidata_id: Q21608772
+ipni_surname: Sheldon
+ipni_forenames: John Lewis
+ipni_standard_form: J.Sheld.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

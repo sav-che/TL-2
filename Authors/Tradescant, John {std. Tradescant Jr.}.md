@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0458
+tl2_volume: vol6
+tl2_page_printed: 427
+tl2_surname: Tradescant
+tl2_forenames: John
+tl2_name_abbrev: Tradescant Jr.
+tl2_dates: 1608-1662
+tl2_page_id: 33212469
+author_lsid: 10785-1
+wikidata_id: Q1701960
+ipni_surname: Tradescant
+ipni_forenames: John
+ipni_standard_form: Trad.
+ipni_dates: 1608-1662
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33212469) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

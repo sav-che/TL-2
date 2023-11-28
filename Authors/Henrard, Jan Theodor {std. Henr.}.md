@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0184
+tl2_volume: vol2
+tl2_page_printed: 159
+tl2_surname: Henrard
+tl2_forenames: Jan Theodor
+tl2_name_abbrev: Henr.
+tl2_dates: 1881-1974
+tl2_page_id: 33068401
+author_lsid: 3844-1
+wikidata_id: Q4497250
+ipni_surname: Henrard
+ipni_forenames: Johannes(Jan) Theodoor
+ipni_standard_form: Henrard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

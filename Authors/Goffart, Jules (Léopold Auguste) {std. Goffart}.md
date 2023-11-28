@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0206
+tl2_volume: suppl8
+tl2_page_printed: 275
+tl2_surname: Goffart
+tl2_forenames: Jules [Léopold Auguste]
+tl2_name_abbrev: Goffart
+tl2_dates: 1864-1955
+tl2_page_id: 33258753
+author_lsid: 3231-1
+wikidata_id: Q21514077
+ipni_surname: Goffart
+ipni_forenames: Jules
+ipni_standard_form: Goffart
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33258753) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

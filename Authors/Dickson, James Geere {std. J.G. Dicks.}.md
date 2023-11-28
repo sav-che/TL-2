@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0307
+tl2_volume: suppl5
+tl2_page_printed: 290
+tl2_surname: Dickson
+tl2_forenames: James Geere
+tl2_name_abbrev: J.G. Dicks.
+tl2_dates: 1891-1962
+tl2_page_id: 33259336
+author_lsid: 20002205-1
+wikidata_id: Q6134338
+ipni_surname: Dickson
+ipni_forenames: James G.
+ipni_standard_form: J.G.Dicks.
+ipni_dates: fl. 1949
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2005-01-07 11:05:06.0
+ipni_record_modified: 2005-01-07 11:05:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33259336) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

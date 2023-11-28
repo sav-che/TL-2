@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0567
+tl2_volume: vol5
+tl2_page_printed: 580
+tl2_surname: Sicard
+tl2_forenames: Guillaume
+tl2_name_abbrev: Sicard
+tl2_dates: 1829-1886
+tl2_page_id: 33333719
+author_lsid: 9607-1
+wikidata_id: Q21608849
+ipni_surname: Sicard
+ipni_forenames: Guillaume
+ipni_standard_form: Sicard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

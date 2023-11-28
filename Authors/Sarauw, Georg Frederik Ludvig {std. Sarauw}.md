@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0047
+tl2_volume: vol5
+tl2_page_printed: 50
+tl2_surname: Sarauw
+tl2_forenames: Georg Frederik Ludvig
+tl2_name_abbrev: Sarauw
+tl2_dates: 1862-1928
+tl2_page_id: 33333151
+author_lsid: 8914-1
+wikidata_id: Q706613
+ipni_surname: Sarauw
+ipni_forenames: Georg Frederik Ludvig
+ipni_standard_form: Sarauw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

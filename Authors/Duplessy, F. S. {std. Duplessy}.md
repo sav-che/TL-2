@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol1_0898
+tl2_volume: vol1
+tl2_page_printed: 706
+tl2_surname: Duplessy
+tl2_forenames: F. S.
+tl2_name_abbrev: Duplessy
+tl2_dates: fl. 1800
+tl2_page_id: 33120837
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33120837) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0366
+tl2_volume: vol3
+tl2_page_printed: 313
+tl2_surname: Martelli
+tl2_forenames: Niccolo [Martellius Nicolaus]
+tl2_name_abbrev: N. Martelli
+tl2_dates: x-1829
+tl2_page_id: 33355400
+author_lsid: 6146-1
+wikidata_id: Q21520000
+ipni_surname: Martelli
+ipni_forenames: Niccolo
+ipni_standard_form: N.Martelli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

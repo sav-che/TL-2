@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0436
+tl2_volume: suppl6
+tl2_page_printed: 449
+tl2_surname: Eyles
+tl2_forenames: Frederick
+tl2_name_abbrev: Eyles
+tl2_dates: 1864-1937
+tl2_page_id: 33260437
+author_lsid: 2608-1
+wikidata_id: Q5869066
+ipni_surname: Eyles
+ipni_forenames: Frederick
+ipni_standard_form: Eyles
+ipni_dates: 1864-1937
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33260437) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

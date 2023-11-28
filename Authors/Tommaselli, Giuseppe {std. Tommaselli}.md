@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0418
+tl2_volume: vol6
+tl2_page_printed: 389
+tl2_surname: Tommaselli
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Tommaselli
+tl2_dates: 1733-1818
+tl2_page_id: 33212431
+author_lsid: 10730-1
+wikidata_id: Q21610842
+ipni_surname: Tommaselli
+ipni_forenames: Giuseppe
+ipni_standard_form: Tommas.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0522
+tl2_volume: vol3
+tl2_page_printed: 436
+tl2_surname: Meulenhoff
+tl2_forenames: J. S.
+tl2_name_abbrev: Meulenhoff
+tl2_dates: 1867-1936
+tl2_page_id: 33355523
+author_lsid: 6398-1
+wikidata_id: Q21520481
+ipni_surname: Meulenhoff
+ipni_forenames: Jurriaan Stephanus
+ipni_standard_form: Meulenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0189
+tl2_volume: suppl6
+tl2_page_printed: 173
+tl2_surname: Dupain
+tl2_forenames: Victor Augustin
+tl2_name_abbrev: Dupain
+tl2_dates: 1857-1940
+tl2_page_id: 33260161
+author_lsid: 34805-1
+wikidata_id: Q4011246
+ipni_surname: Dupain
+ipni_forenames: Victor
+ipni_standard_form: Dupain
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0247
+tl2_volume: vol1
+tl2_page_printed: 192
+tl2_surname: Berkeley
+tl2_forenames: Rev. Miles Joseph
+tl2_name_abbrev: Berk.
+tl2_dates: 1803-1889
+tl2_page_id: 33120323
+author_lsid: 15996-1
+wikidata_id: Q662338
+ipni_surname: Berkeley
+ipni_forenames: Miles Joseph
+ipni_standard_form: Berk.
+ipni_dates: 1803-1889
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33120323) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

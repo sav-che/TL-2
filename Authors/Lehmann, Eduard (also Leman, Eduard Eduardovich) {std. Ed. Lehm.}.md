@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0968
+tl2_volume: vol2
+tl2_page_printed: 818
+tl2_surname: Lehmann
+tl2_forenames: Eduard (also Leman, Eduard Eduardovich)
+tl2_name_abbrev: Ed. Lehm.
+tl2_dates: 1841-1902
+tl2_page_id: 33069060
+author_lsid: 5430-1
+wikidata_id: Q21518591
+ipni_surname: Lehmann
+ipni_forenames: Eduard
+ipni_standard_form: E.Lehm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

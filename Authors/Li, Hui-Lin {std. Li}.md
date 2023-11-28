@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0003
+tl2_volume: vol3
+tl2_page_printed: 6
+tl2_surname: Li
+tl2_forenames: Hui-Lin
+tl2_name_abbrev: Li
+tl2_dates: 1911-x
+tl2_page_id: 33355121
+author_lsid: 5552-1
+wikidata_id: Q5904719
+ipni_surname: Li
+ipni_forenames: Hui Lin
+ipni_standard_form: H.L.Li
+ipni_dates: 1911-2002
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- United States
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

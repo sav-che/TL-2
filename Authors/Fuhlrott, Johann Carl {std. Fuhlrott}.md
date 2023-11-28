@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1116
+tl2_volume: vol1
+tl2_page_printed: 898
+tl2_surname: Fuhlrott
+tl2_forenames: Johann Carl
+tl2_name_abbrev: Fuhlrott
+tl2_dates: 1804-1877
+tl2_page_id: 33121029
+author_lsid: 2954-1
+wikidata_id: Q76705
+ipni_surname: Fuhlrott
+ipni_forenames: Johann Carl
+ipni_standard_form: Fuhlrott
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33121029) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

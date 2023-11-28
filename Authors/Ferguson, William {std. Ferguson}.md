@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1010
+tl2_volume: vol1
+tl2_page_printed: 825
+tl2_surname: Ferguson
+tl2_forenames: William
+tl2_name_abbrev: Ferguson
+tl2_dates: 1820-1887
+tl2_page_id: 33120956
+author_lsid: 2689-1
+wikidata_id: Q8008992
+ipni_surname: Ferguson
+ipni_forenames: William
+ipni_standard_form: Ferguson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Sri Lanka
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

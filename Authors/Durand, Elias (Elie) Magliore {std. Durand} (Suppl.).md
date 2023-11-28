@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl6_0200
+tl2_volume: suppl6
+tl2_page_printed: 181
+tl2_surname: Durand
+tl2_forenames: Elias (Elie) Magliore
+tl2_name_abbrev: Durand
+tl2_dates: 1794-1873
+tl2_page_id: 33260169
+author_lsid: 2394-1
+wikidata_id: Q949682
+ipni_surname: Durand
+ipni_forenames: Elias (Elie) Magloire
+ipni_standard_form: Durand
+ipni_dates: 1794-1873
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33260169) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

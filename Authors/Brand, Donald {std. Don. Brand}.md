@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0011
+tl2_volume: suppl3
+tl2_page_printed: 9
+tl2_surname: Brand
+tl2_forenames: Donald
+tl2_name_abbrev: Don. Brand
+tl2_dates: 1915-x
+tl2_page_id: 33266316
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

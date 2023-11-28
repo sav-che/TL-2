@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0227
+tl2_volume: suppl7
+tl2_page_printed: 351
+tl2_surname: Foster
+tl2_forenames: Adriance Sherwood
+tl2_name_abbrev: A.S. Foster
+tl2_dates: 1901-1973
+tl2_page_id: 33259855
+author_lsid: 2845-1
+wikidata_id: Q4492105
+ipni_surname: Foster
+ipni_forenames: Adriance Sherwood
+ipni_standard_form: A.S.Foster
+ipni_dates: 1901-1973
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259855) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

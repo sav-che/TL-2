@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0063
+tl2_volume: vol5
+tl2_page_printed: 64
+tl2_surname: Sauerbeck
+tl2_forenames: Friedrich Wilhelm
+tl2_name_abbrev: Sauerb.
+tl2_dates: 1801-1882
+tl2_page_id: 33333203
+author_lsid: 26174-1
+wikidata_id: Q21607774
+ipni_surname: Sauerbeck
+ipni_forenames: Friedrich Wilhelm
+ipni_standard_form: Sauerb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

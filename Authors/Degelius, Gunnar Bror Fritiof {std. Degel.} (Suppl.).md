@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0162
+tl2_volume: suppl5
+tl2_page_printed: 148
+tl2_surname: Degelius
+tl2_forenames: Gunnar Bror Fritiof
+tl2_name_abbrev: Degel.
+tl2_dates: 1903-1993
+tl2_page_id: 33259194
+author_lsid: 2078-1
+wikidata_id: Q21339039
+ipni_surname: Degelius
+ipni_forenames: Gunnar Bror Fritiof
+ipni_standard_form: Degel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33259194) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

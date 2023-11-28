@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0328
+tl2_volume: suppl5
+tl2_page_printed: 332
+tl2_surname: Dietrich
+tl2_forenames: David Nathanael Friedrich
+tl2_name_abbrev: D. Dietr.
+tl2_dates: 1799-1881
+tl2_page_id: 33259378
+author_lsid: 2207-1
+wikidata_id: Q73233
+ipni_surname: Dietrich
+ipni_forenames: David Nathaniel Friedrich
+ipni_standard_form: D.Dietr.
+ipni_dates: 1799-1888
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33259378) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

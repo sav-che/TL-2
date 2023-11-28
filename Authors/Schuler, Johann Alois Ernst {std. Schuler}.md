@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0346
+tl2_volume: vol5
+tl2_page_printed: 365
+tl2_surname: Schuler
+tl2_forenames: Johann Alois Ernst
+tl2_name_abbrev: Schuler
+tl2_dates: 1853-1946
+tl2_page_id: 33333504
+author_lsid: 9287-1
+wikidata_id: Q21388478
+ipni_surname: Schuler
+ipni_forenames: Johann Alois Ernst
+ipni_standard_form: Schuler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

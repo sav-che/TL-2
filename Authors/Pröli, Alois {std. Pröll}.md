@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol4_0498
+tl2_volume: vol4
+tl2_page_printed: 416
+tl2_surname: Pröli
+tl2_forenames: Alois
+tl2_name_abbrev: Pröll
+tl2_dates: fl. 1839
+tl2_page_id: 33189887
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33189887) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

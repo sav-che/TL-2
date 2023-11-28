@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0711
+tl2_volume: vol5
+tl2_page_printed: 713
+tl2_surname: Sodiro
+tl2_forenames: Luigi [Aloysius, Luis]
+tl2_name_abbrev: Sodiro
+tl2_dates: 1836-1909
+tl2_page_id: 33333852
+author_lsid: 9851-1
+wikidata_id: Q3266829
+ipni_surname: Sodiro
+ipni_forenames: Luis (Aloysius, Luigi)
+ipni_standard_form: Sodiro
+ipni_dates: 1836-1909
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Ecuador
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33333852) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

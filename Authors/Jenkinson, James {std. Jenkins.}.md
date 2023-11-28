@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0488
+tl2_volume: vol2
+tl2_page_printed: 436
+tl2_surname: Jenkinson
+tl2_forenames: James
+tl2_name_abbrev: Jenkins.
+tl2_dates: 1739?-1808
+tl2_page_id: 33068678
+author_lsid: 4467-1
+wikidata_id: Q21516990
+ipni_surname: Jenkinson
+ipni_forenames: James
+ipni_standard_form: Jenk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

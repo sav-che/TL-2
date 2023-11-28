@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0917
+tl2_volume: vol2
+tl2_page_printed: 770
+tl2_surname: Lauterer
+tl2_forenames: Joseph
+tl2_name_abbrev: Lauterer
+tl2_dates: 1848-1911
+tl2_page_id: 33069012
+author_lsid: 31433-1
+wikidata_id: Q1707480
+ipni_surname: Lauterer
+ipni_forenames: Joseph
+ipni_standard_form: Lauterer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0322
+tl2_volume: vol3
+tl2_page_printed: 285
+tl2_surname: Marcailhou d'Ayméric
+tl2_forenames: Alexandre Lucien Marie
+tl2_name_abbrev: Marcailhou
+tl2_dates: 1839-1897
+tl2_page_id: 33355372
+author_lsid: 34942-1
+wikidata_id: Q21519942
+ipni_surname: Marcailhou d'Ayméric
+ipni_forenames: Alexandre Lucien Marie
+ipni_standard_form: Marcailhou
+ipni_dates: 1839-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

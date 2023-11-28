@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0534
+tl2_volume: vol1
+tl2_page_printed: 430
+tl2_surname: Campdera
+tl2_forenames: Francisco
+tl2_name_abbrev: Campd.
+tl2_dates: fl. 1819
+tl2_page_id: 33120561
+author_lsid: 1377-1
+wikidata_id: Q5865362
+ipni_surname: Campderá
+ipni_forenames: Francisco (François)
+ipni_standard_form: Campd.
+ipni_dates: 1793-1862
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

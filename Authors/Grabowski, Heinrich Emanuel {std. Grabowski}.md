@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1231
+tl2_volume: vol1
+tl2_page_printed: 977
+tl2_surname: Grabowski
+tl2_forenames: Heinrich Emanuel
+tl2_name_abbrev: Grabowski
+tl2_dates: 1792-1842
+tl2_page_id: 33121108
+author_lsid: 3306-1
+wikidata_id: Q2619980
+ipni_surname: Grabowski
+ipni_forenames: Heinrich Emanuel
+ipni_standard_form: Grab.
+ipni_dates: 1792-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33121108) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

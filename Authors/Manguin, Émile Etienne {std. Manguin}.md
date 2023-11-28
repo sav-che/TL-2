@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0305
+tl2_volume: vol3
+tl2_page_printed: 276
+tl2_surname: Manguin
+tl2_forenames: Émile Etienne
+tl2_name_abbrev: Manguin
+tl2_dates: 1893-1966
+tl2_page_id: 33355363
+author_lsid: 6066-1
+wikidata_id: Q21519896
+ipni_surname: Manguin
+ipni_forenames: Émile Etienne
+ipni_standard_form: Manguin
+ipni_dates: 1893-1966
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

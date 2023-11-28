@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0532
+tl2_volume: vol1
+tl2_page_printed: 429
+tl2_surname: Camp
+tl2_forenames: Wendel Holmes
+tl2_name_abbrev: Camp
+tl2_dates: 1904-1963
+tl2_page_id: 33120560
+author_lsid: 1374-1
+wikidata_id: Q21506896
+ipni_surname: Camp
+ipni_forenames: Wendell Holmes
+ipni_standard_form: Camp
+ipni_dates: 1904-1963
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33120560) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0936
+tl2_volume: vol2
+tl2_page_printed: 778
+tl2_surname: Lebert
+tl2_forenames: Hermann
+tl2_name_abbrev: Lebert
+tl2_dates: 1813-1878
+tl2_page_id: 33069020
+author_lsid: 22162-1
+wikidata_id: Q66902
+ipni_surname: Lebert
+ipni_forenames: Hermann
+ipni_standard_form: Lebert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

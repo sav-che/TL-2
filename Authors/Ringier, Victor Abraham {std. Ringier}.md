@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0787
+tl2_volume: vol4
+tl2_page_printed: 795
+tl2_surname: Ringier
+tl2_forenames: Victor Abraham
+tl2_name_abbrev: Ringier
+tl2_dates: fl. 1823
+tl2_page_id: 33190266
+author_lsid: 8401-1
+wikidata_id: Q36698139
+ipni_surname: Ringier
+ipni_forenames: Victor Abraham
+ipni_standard_form: Ringier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

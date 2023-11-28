@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0330
+tl2_volume: suppl8
+tl2_page_printed: 455
+tl2_surname: Guilliermond
+tl2_forenames: [Marie Antoine] Alexandre
+tl2_name_abbrev: Guillierm.
+tl2_dates: 1876-1945
+tl2_page_id: 33258933
+author_lsid: 19737-1
+wikidata_id: Q3292362
+ipni_surname: Guilliermond
+ipni_forenames: Marie Antoine Alexandre
+ipni_standard_form: Guillierm.
+ipni_dates: 1876-1945
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33258933) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

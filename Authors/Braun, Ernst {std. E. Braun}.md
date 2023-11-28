@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0038
+tl2_volume: suppl3
+tl2_page_printed: 33
+tl2_surname: Braun
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Braun
+tl2_dates: fl. 1933
+tl2_page_id: 33266340
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33266340) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

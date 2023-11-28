@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0449
+tl2_volume: vol7
+tl2_page_printed: 490
+tl2_surname: Yendo
+tl2_forenames: Kichisaburo
+tl2_name_abbrev: Yendo
+tl2_dates: 1874-1921
+tl2_page_id: 33066830
+author_lsid: 11938-1
+wikidata_id: Q11642198
+ipni_surname: Yendo
+ipni_forenames: Kichisaburo
+ipni_standard_form: Yendo
+ipni_dates: 1874-1921
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33066830) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

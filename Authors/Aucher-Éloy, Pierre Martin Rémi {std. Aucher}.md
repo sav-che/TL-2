@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0111
+tl2_volume: vol1
+tl2_page_printed: 80
+tl2_surname: Aucher-Éloy
+tl2_forenames: Pierre Martin Rémi
+tl2_name_abbrev: Aucher
+tl2_dates: 1793-1838
+tl2_page_id: 33120211
+author_lsid: 330-1
+wikidata_id: Q351508
+ipni_surname: Aucher-Éloy
+ipni_forenames: Pierre Martin Rémi
+ipni_standard_form: Aucher
+ipni_dates: 1793-1838
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-03-29 14:41:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

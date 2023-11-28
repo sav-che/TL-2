@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0595
+tl2_volume: vol1
+tl2_page_printed: 485
+tl2_surname: Chapman
+tl2_forenames: Alvan Wentworth
+tl2_name_abbrev: Chapm.
+tl2_dates: 1809-1899
+tl2_page_id: 33120616
+author_lsid: 1530-1
+wikidata_id: Q448279
+ipni_surname: Chapman
+ipni_forenames: Alvan(Alvin) Wentworth
+ipni_standard_form: Chapm.
+ipni_dates: 1809-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33120616) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

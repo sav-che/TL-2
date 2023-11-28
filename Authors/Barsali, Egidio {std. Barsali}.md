@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0389
+tl2_volume: suppl1
+tl2_page_printed: 340
+tl2_surname: Barsali
+tl2_forenames: Egidio
+tl2_name_abbrev: Barsali
+tl2_dates: 1876-1945
+tl2_page_id: 33265067
+author_lsid: 31374-1
+wikidata_id: Q21505724
+ipni_surname: Barsali
+ipni_forenames: Egidio
+ipni_standard_form: Bars.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265067) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

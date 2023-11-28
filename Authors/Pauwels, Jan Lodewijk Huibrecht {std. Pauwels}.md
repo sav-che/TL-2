@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0124
+tl2_volume: vol4
+tl2_page_printed: 115
+tl2_surname: Pauwels
+tl2_forenames: Jan Lodewijk Huibrecht
+tl2_name_abbrev: Pauwels
+tl2_dates: 1899-x
+tl2_page_id: 33189586
+author_lsid: 7415-1
+wikidata_id: Q21522708
+ipni_surname: Pauwels
+ipni_forenames: Jan Lodewijk Haibrecht
+ipni_standard_form: Pauwels
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

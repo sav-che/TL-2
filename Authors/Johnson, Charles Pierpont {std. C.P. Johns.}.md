@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0508
+tl2_volume: vol2
+tl2_page_printed: 449
+tl2_surname: Johnson
+tl2_forenames: Charles Pierpont
+tl2_name_abbrev: C.P. Johns.
+tl2_dates: x-1893
+tl2_page_id: 33068691
+author_lsid: 4510-1
+wikidata_id: Q21517065
+ipni_surname: Johnson
+ipni_forenames: Charles Pierpont
+ipni_standard_form: C.P.Johnson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

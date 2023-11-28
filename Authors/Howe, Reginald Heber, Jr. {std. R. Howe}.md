@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0365
+tl2_volume: vol2
+tl2_page_printed: 348
+tl2_surname: Howe
+tl2_forenames: Reginald Heber, Jr.
+tl2_name_abbrev: R. Howe
+tl2_dates: 1875-1932
+tl2_page_id: 33068590
+author_lsid: 4161-1
+wikidata_id: Q21339552
+ipni_surname: Howe
+ipni_forenames: Reginald Heber
+ipni_standard_form: R.Howe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33068590) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

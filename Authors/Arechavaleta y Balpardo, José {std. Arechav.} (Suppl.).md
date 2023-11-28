@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0193
+tl2_volume: suppl1
+tl2_page_printed: 152
+tl2_surname: Arechavaleta y Balpardo
+tl2_forenames: José
+tl2_name_abbrev: Arechav.
+tl2_dates: 1838-1912
+tl2_page_id: 33264879
+author_lsid: 259-1
+wikidata_id: Q724785
+ipni_surname: Arechavaleta
+ipni_forenames: José
+ipni_standard_form: Arechav.
+ipni_dates: 1838-1912
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Uruguay
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33264879) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

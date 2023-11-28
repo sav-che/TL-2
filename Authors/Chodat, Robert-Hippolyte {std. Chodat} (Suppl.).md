@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl4_0101
+tl2_volume: suppl4
+tl2_page_printed: 114
+tl2_surname: Chodat
+tl2_forenames: Robert-Hippolyte
+tl2_name_abbrev: Chodat
+tl2_dates: 1865-1934
+tl2_page_id: 33265791
+author_lsid: 1611-1
+wikidata_id: Q2613173
+ipni_surname: Chodat
+ipni_forenames: Robert Hippolyte
+ipni_standard_form: Chodat
+ipni_dates: 1865-1934
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- Paraguay
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-01-25 14:08:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33265791) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

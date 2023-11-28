@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0060
+tl2_volume: vol5
+tl2_page_printed: 63
+tl2_surname: Sassenfeld
+tl2_forenames: Joseph
+tl2_name_abbrev: Sassenfeld
+tl2_dates: fl. 1884
+tl2_page_id: 33333202
+author_lsid: 8933-1
+wikidata_id: Q36598606
+ipni_surname: Sassenfeld
+ipni_forenames: Joseph
+ipni_standard_form: Sassenf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

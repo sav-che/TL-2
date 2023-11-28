@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0391
+tl2_volume: vol5
+tl2_page_printed: 412
+tl2_surname: Schuster
+tl2_forenames: Julius
+tl2_name_abbrev: J. Schust.
+tl2_dates: 1886-1949
+tl2_page_id: 33333551
+author_lsid: 9339-1
+wikidata_id: Q6457504
+ipni_surname: Schuster
+ipni_forenames: Julius
+ipni_standard_form: J.Schust.
+ipni_dates: 1886-1949
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

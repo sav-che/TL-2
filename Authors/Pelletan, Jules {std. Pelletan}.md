@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0158
+tl2_volume: vol4
+tl2_page_printed: 148
+tl2_surname: Pelletan
+tl2_forenames: Jules
+tl2_name_abbrev: Pelletan
+tl2_dates: 1833-1892
+tl2_page_id: 33189619
+author_lsid: 7475-1
+wikidata_id: Q21522781
+ipni_surname: Pelletan
+ipni_forenames: Jules
+ipni_standard_form: Pelletan
+ipni_dates: 1833-1892
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33189619) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

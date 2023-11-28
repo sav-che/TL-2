@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0083
+tl2_volume: suppl1
+tl2_page_printed: 63
+tl2_surname: Alcenius
+tl2_forenames: Otto Alfred
+tl2_name_abbrev: Alcenius
+tl2_dates: 1838-1913
+tl2_page_id: 33264790
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33264790) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

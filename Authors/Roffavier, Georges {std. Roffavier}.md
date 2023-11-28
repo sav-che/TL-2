@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0863
+tl2_volume: vol4
+tl2_page_printed: 856
+tl2_surname: Roffavier
+tl2_forenames: Georges
+tl2_name_abbrev: Roffavier
+tl2_dates: 1775-1866
+tl2_page_id: 33190327
+author_lsid: 8517-1
+wikidata_id: Q2886286
+ipni_surname: Roffavier
+ipni_forenames: Georges
+ipni_standard_form: Roffavier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33190327) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

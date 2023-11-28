@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0172
+tl2_volume: suppl2
+tl2_page_printed: 150
+tl2_surname: Bews
+tl2_forenames: John William
+tl2_name_abbrev: Bews
+tl2_dates: 1884-1938
+tl2_page_id: 33265347
+author_lsid: 752-1
+wikidata_id: Q42143225
+ipni_surname: Bews
+ipni_forenames: John William
+ipni_standard_form: Bews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- South Africa
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

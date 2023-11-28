@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0384
+tl2_volume: vol3
+tl2_page_printed: 323
+tl2_surname: Martinov
+tl2_forenames: Ivan Ivanovic
+tl2_name_abbrev: Martinov
+tl2_dates: fl. 1826
+tl2_page_id: 33355410
+author_lsid: 6170-1
+wikidata_id: Q2412021
+ipni_surname: Martinov
+ipni_forenames: Ivan Ivanovič
+ipni_standard_form: Martinov
+ipni_dates: 1771-1833
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-03-04 18:53:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33355410) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

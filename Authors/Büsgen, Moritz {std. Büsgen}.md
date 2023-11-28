@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0209
+tl2_volume: suppl3
+tl2_page_printed: 209
+tl2_surname: Büsgen
+tl2_forenames: Moritz
+tl2_name_abbrev: Büsgen
+tl2_dates: 1858-1921
+tl2_page_id: 33266516
+author_lsid: 16647-1
+wikidata_id: Q18912194
+ipni_surname: Büsgen
+ipni_forenames: Moritz
+ipni_standard_form: Büsgen
+ipni_dates: 1858-1921
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33266516) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0075
+tl2_volume: vol1
+tl2_page_printed: 53
+tl2_surname: Andrzeiovski
+tl2_forenames: Antoni Lukianovich
+tl2_name_abbrev: Andrzeiovski
+tl2_dates: 1785-1868
+tl2_page_id: 33120184
+author_lsid: 220-1
+wikidata_id: Q2090424
+ipni_surname: Andrzejowski
+ipni_forenames: Antoni Lukianowicz
+ipni_standard_form: Andrz.
+ipni_dates: 1785-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

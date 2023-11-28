@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0506
+tl2_volume: vol1
+tl2_page_printed: 416
+tl2_surname: Burman
+tl2_forenames: Nicolaas Laurens
+tl2_name_abbrev: N.L. Burm.
+tl2_dates: 1773-1793
+tl2_page_id: 33120547
+author_lsid: 12368-1
+wikidata_id: Q716978
+ipni_surname: Burman
+ipni_forenames: Nicolaas Laurens (Nicolaus Laurent)
+ipni_standard_form: Burm.f.
+ipni_dates: 1734-1793
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33120547) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

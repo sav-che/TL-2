@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0163
+tl2_volume: vol2
+tl2_page_printed: 144
+tl2_surname: Hellbom
+tl2_forenames: Pehr Johan
+tl2_name_abbrev: Hellb.
+tl2_dates: 1827-1903
+tl2_page_id: 33068386
+author_lsid: 3804-1
+wikidata_id: Q5798956
+ipni_surname: Hellbom
+ipni_forenames: Pehr(Per) Johan
+ipni_standard_form: Hellb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33068386) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0001
+tl2_volume: suppl6
+tl2_page_printed: 1
+tl2_surname: Doassans
+tl2_forenames: [Jacques-]Emíle
+tl2_name_abbrev: Doass.
+tl2_dates: 1852-1908
+tl2_page_id: 33259989
+author_lsid: 18088-1
+wikidata_id: Q21510463
+ipni_surname: Doassans
+ipni_forenames: Jacques Emile
+ipni_standard_form: Doass.
+ipni_dates: 1852-1908
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0043
+tl2_volume: suppl5
+tl2_page_printed: 35
+tl2_surname: Damazio
+tl2_forenames: Léonidas Bothelo
+tl2_name_abbrev: Damazio
+tl2_dates: 1854-1922
+tl2_page_id: 33259081
+author_lsid: 1971-1
+wikidata_id: Q21509758
+ipni_surname: Damazio
+ipni_forenames: Léonidas Botelho
+ipni_standard_form: Damazio
+ipni_dates: 1854-1922
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

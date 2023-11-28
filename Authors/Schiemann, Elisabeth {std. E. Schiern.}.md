@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0160
+tl2_volume: vol5
+tl2_page_printed: 148
+tl2_surname: Schiemann
+tl2_forenames: Elisabeth
+tl2_name_abbrev: E. Schiern.
+tl2_dates: 1881-1972
+tl2_page_id: 33333287
+author_lsid: 9077-1
+wikidata_id: Q1330249
+ipni_surname: Schiemann
+ipni_forenames: Elisabeth
+ipni_standard_form: E.Schiem.
+ipni_dates: 1881-1972
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33333287) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

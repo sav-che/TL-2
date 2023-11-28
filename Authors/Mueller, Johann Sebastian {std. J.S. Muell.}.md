@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0744
+tl2_volume: vol3
+tl2_page_printed: 636
+tl2_surname: Mueller
+tl2_forenames: Johann Sebastian
+tl2_name_abbrev: J.S. Muell.
+tl2_dates: 1715-1780
+tl2_page_id: 33355723
+author_lsid: 6738-1
+wikidata_id: Q3182444
+ipni_surname: Mueller
+ipni_forenames: Johann Sebastian
+ipni_standard_form: J.S.Muell.
+ipni_dates: 1715-c.1790
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-08-08 11:14:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33355723) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

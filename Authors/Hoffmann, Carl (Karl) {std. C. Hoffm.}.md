@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0288
+tl2_volume: vol2
+tl2_page_printed: 236
+tl2_surname: Hoffmann
+tl2_forenames: Carl [Karl]
+tl2_name_abbrev: C. Hoffm.
+tl2_dates: 1802-1883
+tl2_page_id: 33068478
+author_lsid: 4011-1
+wikidata_id: Q21515921
+ipni_surname: Hoffmann
+ipni_forenames: Carl(Karl)
+ipni_standard_form: C.Hoffm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33068478) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

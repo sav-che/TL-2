@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0300
+tl2_volume: suppl4
+tl2_page_printed: 369
+tl2_surname: Corrêa [Correira] da Serra
+tl2_forenames: José Francisco
+tl2_name_abbrev: Corrêa
+tl2_dates: 1751-1823
+tl2_page_id: 33266046
+author_lsid: 1812-1
+wikidata_id: Q2656605
+ipni_surname: Corrêa da Serra
+ipni_forenames: José Francisco
+ipni_standard_form: Corrêa
+ipni_dates: 1751-1823
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-12-11 09:57:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33266046) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

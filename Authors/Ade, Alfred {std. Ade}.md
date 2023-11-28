@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0038
+tl2_volume: suppl1
+tl2_page_printed: 28
+tl2_surname: Ade
+tl2_forenames: Alfred
+tl2_name_abbrev: Ade
+tl2_dates: 1876-1968
+tl2_page_id: 33264717
+author_lsid: 30651-1
+wikidata_id: Q8195254
+ipni_surname: Ade
+ipni_forenames: Alfred
+ipni_standard_form: Ade
+ipni_dates: 1876-1968
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33264717) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0158
+tl2_volume: vol5
+tl2_page_printed: 147
+tl2_surname: Schiedermayr
+tl2_forenames: Karl [Carl] B.
+tl2_name_abbrev: Schiederm.
+tl2_dates: 1818-1895
+tl2_page_id: 33333286
+author_lsid: 26261-1
+wikidata_id: Q21337644
+ipni_surname: Schiedermayr
+ipni_forenames: Karl(Carl) B.
+ipni_standard_form: Schied.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

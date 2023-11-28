@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0219
+tl2_volume: vol2
+tl2_page_printed: 182
+tl2_surname: Hesse
+tl2_forenames: Rudolph
+tl2_name_abbrev: R. Hesse
+tl2_dates: 1844-1912
+tl2_page_id: 33068424
+author_lsid: 3907-1
+wikidata_id: Q4137664
+ipni_surname: Hesse
+ipni_forenames: Rudolph(Rudolf)
+ipni_standard_form: R.Hesse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0234
+tl2_volume: suppl4
+tl2_page_printed: 299
+tl2_surname: Condit
+tl2_forenames: Carlton
+tl2_name_abbrev: Condit
+tl2_dates: 1906-x
+tl2_page_id: 33265976
+author_lsid: 33979-1
+wikidata_id: Q36523548
+ipni_surname: Condit
+ipni_forenames: C.
+ipni_standard_form: Condit
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

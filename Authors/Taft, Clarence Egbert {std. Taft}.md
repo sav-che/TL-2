@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0168
+tl2_volume: vol6
+tl2_page_printed: 150
+tl2_surname: Taft
+tl2_forenames: Clarence Egbert
+tl2_name_abbrev: Taft
+tl2_dates: 1906-x
+tl2_page_id: 33212192
+author_lsid: 10383-1
+wikidata_id: Q21610145
+ipni_surname: Taft
+ipni_forenames: Clarence Egbert
+ipni_standard_form: Taft
+ipni_dates: 1906-1986
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

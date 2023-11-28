@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0224
+tl2_volume: vol5
+tl2_page_printed: 241
+tl2_surname: Schmidlin
+tl2_forenames: Eduard
+tl2_name_abbrev: Schmidlin
+tl2_dates: 1808?-1890
+tl2_page_id: 33333380
+author_lsid: 9150-1
+wikidata_id: Q15457716
+ipni_surname: Schmidlin
+ipni_forenames: Eduard
+ipni_standard_form: Schmidlin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33333380) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

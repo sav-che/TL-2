@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0565
+tl2_volume: vol1
+tl2_page_printed: 463
+tl2_surname: Casaretto
+tl2_forenames: Giovanni
+tl2_name_abbrev: Casar.
+tl2_dates: 1812-1879
+tl2_page_id: 33120594
+author_lsid: 1435-1
+wikidata_id: Q3107130
+ipni_surname: Casaretto
+ipni_forenames: Giovanni
+ipni_standard_form: Casar.
+ipni_dates: 1812-1879
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33120594) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0835
+tl2_volume: vol2
+tl2_page_printed: 714
+tl2_surname: Lacaita
+tl2_forenames: Charles Carmichael
+tl2_name_abbrev: Lacaita
+tl2_dates: 1853-1933
+tl2_page_id: 33068956
+author_lsid: 5179-1
+wikidata_id: Q1634164
+ipni_surname: Lacaita
+ipni_forenames: Charles Carmichael
+ipni_standard_form: Lacaita
+ipni_dates: 1853-1933
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

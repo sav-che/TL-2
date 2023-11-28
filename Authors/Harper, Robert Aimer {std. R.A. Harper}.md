@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0083
+tl2_volume: vol2
+tl2_page_printed: 57
+tl2_surname: Harper
+tl2_forenames: Robert Aimer
+tl2_name_abbrev: R.A. Harper
+tl2_dates: 1862-1946
+tl2_page_id: 33068299
+author_lsid: 3672-1
+wikidata_id: Q15997345
+ipni_surname: Harper
+ipni_forenames: Robert Almer
+ipni_standard_form: R.A.Harper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

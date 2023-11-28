@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1082
+tl2_volume: vol4
+tl2_page_printed: 1063
+tl2_surname: Saint-Gal
+tl2_forenames: Marie Joseph
+tl2_name_abbrev: Saint-Gal
+tl2_dates: 1841-1932
+tl2_page_id: 33190534
+author_lsid: 8825-1
+wikidata_id: Q21607621
+ipni_surname: Saint-Gal
+ipni_forenames: Marie Joseph
+ipni_standard_form: St.-Gal
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

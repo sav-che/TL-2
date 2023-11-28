@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0241
+tl2_volume: vol7
+tl2_page_printed: 257
+tl2_surname: Wichura
+tl2_forenames: Max Ernst
+tl2_name_abbrev: Wich.
+tl2_dates: 1817-1866
+tl2_page_id: 33066597
+author_lsid: 11637-1
+wikidata_id: Q1912473
+ipni_surname: Wichura
+ipni_forenames: Max Ernst
+ipni_standard_form: Wich.
+ipni_dates: 1817-1866
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0800
+tl2_volume: vol2
+tl2_page_printed: 678
+tl2_surname: Krombholz
+tl2_forenames: Julius Vincenz von
+tl2_name_abbrev: Krombh.
+tl2_dates: 1782-1843
+tl2_page_id: 33068920
+author_lsid: 5075-1
+wikidata_id: Q2506142
+ipni_surname: Krombholz
+ipni_forenames: Julius Vincenz von
+ipni_standard_form: Krombh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

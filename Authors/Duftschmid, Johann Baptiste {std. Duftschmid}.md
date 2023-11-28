@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0883
+tl2_volume: vol1
+tl2_page_printed: 691
+tl2_surname: Duftschmid
+tl2_forenames: Johann Baptiste
+tl2_name_abbrev: Duftschmid
+tl2_dates: 1804-1866
+tl2_page_id: 33120822
+author_lsid: 2359-1
+wikidata_id: Q21511020
+ipni_surname: Duftschmid
+ipni_forenames: Johann Baptiste
+ipni_standard_form: Duftschmid
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33120822) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

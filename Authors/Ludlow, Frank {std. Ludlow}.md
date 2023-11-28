@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0153
+tl2_volume: vol3
+tl2_page_printed: 181
+tl2_surname: Ludlow
+tl2_forenames: Frank
+tl2_name_abbrev: Ludlow
+tl2_dates: 1886-1972
+tl2_page_id: 33355268
+author_lsid: 5801-1
+wikidata_id: Q221912
+ipni_surname: Ludlow
+ipni_forenames: Frank
+ipni_standard_form: Ludlow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- China
+- Bhutan
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

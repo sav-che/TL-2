@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0759
+tl2_volume: vol4
+tl2_page_printed: 773
+tl2_surname: Richon
+tl2_forenames: Charles Édouard
+tl2_name_abbrev: Richon
+tl2_dates: 1820-1893
+tl2_page_id: 33190244
+author_lsid: 8364-1
+wikidata_id: Q21607192
+ipni_surname: Richon
+ipni_forenames: Charles Édouard
+ipni_standard_form: Richon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

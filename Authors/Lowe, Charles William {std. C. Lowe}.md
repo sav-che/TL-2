@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0143
+tl2_volume: vol3
+tl2_page_printed: 175
+tl2_surname: Lowe
+tl2_forenames: Charles William
+tl2_name_abbrev: C. Lowe
+tl2_dates: 1885-1969
+tl2_page_id: 33355262
+author_lsid: 5783-1
+wikidata_id: Q21519532
+ipni_surname: Lowe
+ipni_forenames: Charles William
+ipni_standard_form: C.Lowe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

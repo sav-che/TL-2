@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0162
+tl2_volume: suppl6
+tl2_page_printed: 152
+tl2_surname: Dugas
+tl2_forenames: Marguerite
+tl2_name_abbrev: Dugas
+tl2_dates: fl. 1928
+tl2_page_id: 33260140
+author_lsid: 18253-1
+wikidata_id: Q23044261
+ipni_surname: Dugas
+ipni_forenames: Marguerite
+ipni_standard_form: Dugas
+ipni_dates: fl. 1928
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0352
+tl2_volume: suppl5
+tl2_page_printed: 358
+tl2_surname: Dittrich
+tl2_forenames: Georg Gustav
+tl2_name_abbrev: G.G. Dittrich
+tl2_dates: 1875-?
+tl2_page_id: 33259404
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259404) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0239
+tl2_volume: suppl8
+tl2_page_printed: 322
+tl2_surname: Graebner
+tl2_forenames: Paul
+tl2_name_abbrev: Graebn. f.
+tl2_dates: 1900-1978
+tl2_page_id: 33258800
+author_lsid: 3309-1
+wikidata_id: Q21514188
+ipni_surname: Graebner
+ipni_forenames: Paul
+ipni_standard_form: P.Graebn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0512
+tl2_volume: vol1
+tl2_page_printed: 420
+tl2_surname: Busch
+tl2_forenames: Nicolaj Adolfowitsch
+tl2_name_abbrev: N. Busch
+tl2_dates: 1869-1941
+tl2_page_id: 33120551
+author_lsid: 1318-1
+wikidata_id: Q2001947
+ipni_surname: Busch
+ipni_forenames: Nicolaĭ Adolfowitsch (Nikolaj Adolfovich)
+ipni_standard_form: N.Busch
+ipni_dates: 1869-1941
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33120551) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

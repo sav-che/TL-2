@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1268
+tl2_volume: vol1
+tl2_page_printed: 1015
+tl2_surname: Groves
+tl2_forenames: Henry [of Clapham]
+tl2_name_abbrev: H. Groves
+tl2_dates: 1855-1912
+tl2_page_id: 33121146
+author_lsid: 3423-1
+wikidata_id: Q5894527
+ipni_surname: Groves
+ipni_forenames: Henry
+ipni_standard_form: H.Groves
+ipni_dates: 1855-1912
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

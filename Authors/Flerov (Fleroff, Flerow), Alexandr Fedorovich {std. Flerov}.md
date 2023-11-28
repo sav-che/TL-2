@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0169
+tl2_volume: suppl7
+tl2_page_printed: 252
+tl2_surname: Flerov [Fleroff, Flerow]
+tl2_forenames: Alexandr Fedorovich
+tl2_name_abbrev: Flerov
+tl2_dates: 1872-1960
+tl2_page_id: 33259756
+author_lsid: 20035717-1
+wikidata_id: Q88822605
+ipni_surname: Flerov
+ipni_forenames: Aleksandr [Alexander] Fedorovitch [Fedorovic, Theodorovich, Theodorowitsch]
+ipni_standard_form: Flerov
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33259756) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

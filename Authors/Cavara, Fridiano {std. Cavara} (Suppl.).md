@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0433
+tl2_volume: suppl3
+tl2_page_printed: 468
+tl2_surname: Cavara
+tl2_forenames: Fridiano
+tl2_name_abbrev: Cavara
+tl2_dates: 1857-1929
+tl2_page_id: 33266775
+author_lsid: 1466-1
+wikidata_id: Q4206900
+ipni_surname: Cavara
+ipni_forenames: Fridiano
+ipni_standard_form: Cavara
+ipni_dates: 1857-1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266775) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0079
+tl2_volume: suppl5
+tl2_page_printed: 76
+tl2_surname: Darrah
+tl2_forenames: William Culp
+tl2_name_abbrev: Darrah
+tl2_dates: 1909-1989
+tl2_page_id: 33259122
+author_lsid: 20032292-1
+wikidata_id: Q18738925
+ipni_surname: Darrah
+ipni_forenames: William Culp
+ipni_standard_form: Darrah
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33259122) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

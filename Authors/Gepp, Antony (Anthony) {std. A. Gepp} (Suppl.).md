@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0143
+tl2_volume: suppl8
+tl2_page_printed: 183
+tl2_surname: Gepp
+tl2_forenames: Antony [Anthony]
+tl2_name_abbrev: A. Gepp
+tl2_dates: 1862-1955
+tl2_page_id: 33258661
+author_lsid: 3097-1
+wikidata_id: Q21341604
+ipni_surname: Gepp
+ipni_forenames: Anthony(Antony)
+ipni_standard_form: A.Gepp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

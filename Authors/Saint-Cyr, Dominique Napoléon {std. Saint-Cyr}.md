@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1081
+tl2_volume: vol4
+tl2_page_printed: 1063
+tl2_surname: Saint-Cyr
+tl2_forenames: Dominique Napoléon
+tl2_name_abbrev: Saint-Cyr
+tl2_dates: 1826-1899
+tl2_page_id: 33190534
+author_lsid: 8824-1
+wikidata_id: Q3035361
+ipni_surname: Saint-Cyr
+ipni_forenames: Dominique Napoleon Deshayes
+ipni_standard_form: St.-Cyr
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

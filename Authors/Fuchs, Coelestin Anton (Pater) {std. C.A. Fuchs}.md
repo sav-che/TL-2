@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0046
+tl2_volume: suppl8
+tl2_page_printed: 70
+tl2_surname: Fuchs
+tl2_forenames: Coelestin Anton (Pater)
+tl2_name_abbrev: C.A. Fuchs
+tl2_dates: fl. 1898-1909
+tl2_page_id: 33258548
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33258548) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

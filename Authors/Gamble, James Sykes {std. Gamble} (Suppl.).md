@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0083
+tl2_volume: suppl8
+tl2_page_printed: 110
+tl2_surname: Gamble
+tl2_forenames: James Sykes
+tl2_name_abbrev: Gamble
+tl2_dates: 1847-1925
+tl2_page_id: 33258588
+author_lsid: 3003-1
+wikidata_id: Q1461150
+ipni_surname: Gamble
+ipni_forenames: James Sykes
+ipni_standard_form: Gamble
+ipni_dates: 1847-1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33258588) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

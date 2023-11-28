@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0132
+tl2_volume: suppl7
+tl2_page_printed: 202
+tl2_surname: Fischer
+tl2_forenames: Bernhard
+tl2_name_abbrev: B. Fischer
+tl2_dates: 1852-1915
+tl2_page_id: 33259706
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33259706) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

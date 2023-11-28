@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0418
+tl2_volume: vol1
+tl2_page_printed: 316
+tl2_surname: Brereton
+tl2_forenames: John Andrew
+tl2_name_abbrev: Brereton
+tl2_dates: 1787-1839
+tl2_page_id: 33120447
+author_lsid: 1123-1
+wikidata_id: Q21506467
+ipni_surname: Brereton
+ipni_forenames: John Andrew
+ipni_standard_form: Brereton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

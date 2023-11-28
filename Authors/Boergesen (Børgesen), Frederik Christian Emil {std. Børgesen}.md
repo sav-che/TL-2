@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0323
+tl2_volume: vol1
+tl2_page_printed: 248
+tl2_surname: Boergesen (Børgesen)
+tl2_forenames: Frederik Christian Emil
+tl2_name_abbrev: Boerg.
+tl2_dates: 1866-1956
+tl2_page_id: 33120379
+author_lsid: 16345-1
+wikidata_id: Q4992249
+ipni_surname: Børgesen
+ipni_forenames: Fredrik Christian Emil
+ipni_standard_form: Børgesen
+ipni_dates: 1866-1956
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.4
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-02-13 11:38:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

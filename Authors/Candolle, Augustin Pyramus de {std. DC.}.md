@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_0540
+tl2_volume: vol1
+tl2_page_printed: 438
+tl2_surname: Candolle
+tl2_forenames: Augustin Pyramus de
+tl2_name_abbrev: DC
+tl2_dates: 1778-1841
+tl2_page_id: 33120569
+author_lsid: 16855-1
+wikidata_id: Q123057
+ipni_surname: Candolle
+ipni_forenames: Augustin Pyramus de
+ipni_standard_form: DC.
+ipni_dates: 1778-1841
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-01-07 07:49:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33120569) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

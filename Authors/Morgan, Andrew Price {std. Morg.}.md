@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0670
+tl2_volume: vol3
+tl2_page_printed: 579
+tl2_surname: Morgan
+tl2_forenames: Andrew Price
+tl2_name_abbrev: Morg.
+tl2_dates: 1836-1907
+tl2_page_id: 33355666
+author_lsid: 23629-1
+wikidata_id: Q323098
+ipni_surname: Morgan
+ipni_forenames: Andrew Price
+ipni_standard_form: Morgan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33355666) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

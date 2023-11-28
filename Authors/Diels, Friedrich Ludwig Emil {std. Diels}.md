@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0824
+tl2_volume: vol1
+tl2_page_printed: 646
+tl2_surname: Diels
+tl2_forenames: Friedrich Ludwig Emil
+tl2_name_abbrev: Diels
+tl2_dates: 1874-1945
+tl2_page_id: 33120777
+author_lsid: 18030-1
+wikidata_id: Q77123
+ipni_surname: Diels
+ipni_forenames: Friedrich Ludwig Emil
+ipni_standard_form: Diels
+ipni_dates: 1874-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 646](https://www.biodiversitylibrary.org/page/33120777) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

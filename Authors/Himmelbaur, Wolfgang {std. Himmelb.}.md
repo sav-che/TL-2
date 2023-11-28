@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0248
+tl2_volume: vol2
+tl2_page_printed: 207
+tl2_surname: Himmelbaur
+tl2_forenames: Wolfgang
+tl2_name_abbrev: Himmelb.
+tl2_dates: 1886-1937
+tl2_page_id: 33068449
+author_lsid: 3957-1
+wikidata_id: Q21515834
+ipni_surname: Himmelbauer
+ipni_forenames: Wolfgang
+ipni_standard_form: Himmelb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

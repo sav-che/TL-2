@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0003
+tl2_volume: vol5
+tl2_page_printed: 6
+tl2_surname: Salisbury
+tl2_forenames: William
+tl2_name_abbrev: W. Salisb.
+tl2_dates: x-1823
+tl2_page_id: 33333177
+author_lsid: 8843-1
+wikidata_id: Q18811409
+ipni_surname: Salisbury
+ipni_forenames: William
+ipni_standard_form: W.Salisb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

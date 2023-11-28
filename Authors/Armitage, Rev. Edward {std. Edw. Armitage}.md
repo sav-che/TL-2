@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0201
+tl2_volume: suppl1
+tl2_page_printed: 159
+tl2_surname: Armitage
+tl2_forenames: Rev. Edward
+tl2_name_abbrev: Edw. Armitage
+tl2_dates: 1822-1906
+tl2_page_id: 33264886
+author_lsid: 13856-1
+wikidata_id: Q1291558
+ipni_surname: Armitage
+ipni_forenames: Edward
+ipni_standard_form: Arm.
+ipni_dates: 1822-1906
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- Algeria
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33264886) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

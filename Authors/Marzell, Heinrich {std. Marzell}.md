@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0397
+tl2_volume: vol3
+tl2_page_printed: 346
+tl2_surname: Marzell
+tl2_forenames: Heinrich
+tl2_name_abbrev: Marzell
+tl2_dates: 1885-1970
+tl2_page_id: 33355433
+author_lsid: 6185-1
+wikidata_id: Q1507103
+ipni_surname: Marzell
+ipni_forenames: Heinrich
+ipni_standard_form: Marzell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

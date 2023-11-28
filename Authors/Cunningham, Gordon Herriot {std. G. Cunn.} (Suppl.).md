@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0424
+tl2_volume: suppl4
+tl2_page_printed: 506
+tl2_surname: Cunningham
+tl2_forenames: Gordon Herriot
+tl2_name_abbrev: G. Cunn.
+tl2_dates: 1892-1962
+tl2_page_id: 33266183
+author_lsid: 17582-1
+wikidata_id: Q4212529
+ipni_surname: Cunningham
+ipni_forenames: Gordon Herriott (Heriot)
+ipni_standard_form: G.Cunn.
+ipni_dates: 1892-1962
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33266183) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

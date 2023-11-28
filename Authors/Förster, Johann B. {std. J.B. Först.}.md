@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0190
+tl2_volume: suppl7
+tl2_page_printed: 289
+tl2_surname: Förster
+tl2_forenames: Johann B.
+tl2_name_abbrev: J.B. Först.
+tl2_dates: 1843/4-1907
+tl2_page_id: 33259793
+author_lsid: 20043491-1
+wikidata_id: Q88830143
+ipni_surname: Förster
+ipni_forenames: Johann B.
+ipni_standard_form: J.B.Först.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

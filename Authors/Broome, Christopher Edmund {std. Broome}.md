@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0444
+tl2_volume: vol1
+tl2_page_printed: 357
+tl2_surname: Broome
+tl2_forenames: Christopher Edmund
+tl2_name_abbrev: Broome
+tl2_dates: 1812-1886
+tl2_page_id: 33120488
+author_lsid: 1177-1
+wikidata_id: Q1932460
+ipni_surname: Broome
+ipni_forenames: Christopher Edmund
+ipni_standard_form: Broome
+ipni_dates: 1812-1886
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

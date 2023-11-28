@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0062
+tl2_volume: suppl8
+tl2_page_printed: 79
+tl2_surname: Furrer
+tl2_forenames: Ernst
+tl2_name_abbrev: Furrer
+tl2_dates: 1888-1976
+tl2_page_id: 33258557
+author_lsid: 20011936-1
+wikidata_id: Q47117568
+ipni_surname: Furrer
+ipni_forenames: Ernst
+ipni_standard_form: Furrer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33258557) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

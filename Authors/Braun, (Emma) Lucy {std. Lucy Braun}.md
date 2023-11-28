@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0041
+tl2_volume: suppl3
+tl2_page_printed: 35
+tl2_surname: Braun
+tl2_forenames: [Emma] Lucy
+tl2_name_abbrev: Lucy Braun
+tl2_dates: 1889-1971
+tl2_page_id: 33266342
+author_lsid: 1087-1
+wikidata_id: Q5372895
+ipni_surname: Braun
+ipni_forenames: Emma Lucy
+ipni_standard_form: E.L.Braun
+ipni_dates: 1889-1971
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33266342) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0483
+tl2_volume: vol1
+tl2_page_printed: 397
+tl2_surname: Buckley
+tl2_forenames: Samuel Botsford
+tl2_name_abbrev: Buckley
+tl2_dates: 1809-1884
+tl2_page_id: 33120528
+author_lsid: 1257-1
+wikidata_id: Q2605955
+ipni_surname: Buckley
+ipni_forenames: Samuel Botsford
+ipni_standard_form: Buckley
+ipni_dates: 1809-1884
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33120528) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

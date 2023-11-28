@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0517
+tl2_volume: vol2
+tl2_page_printed: 453
+tl2_surname: Jolyclerc
+tl2_forenames: Nicolas-Marie-Thérèse
+tl2_name_abbrev: Jolycl.
+tl2_dates: 1746-1817
+tl2_page_id: 33068695
+author_lsid: 21041-1
+wikidata_id: Q3340570
+ipni_surname: Jolyclerc
+ipni_forenames: Nicolas Marie Thérèse
+ipni_standard_form: Jolycl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33068695) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

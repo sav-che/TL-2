@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0495
+tl2_volume: vol4
+tl2_page_printed: 414
+tl2_surname: Procházka
+tl2_forenames: Jan Svatopluk
+tl2_name_abbrev: Proch.
+tl2_dates: 1891-1933
+tl2_page_id: 33189885
+author_lsid: 7980-1
+wikidata_id: Q15632163
+ipni_surname: Procházka
+ipni_forenames: Jan Svatopluk
+ipni_standard_form: Proch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33189885) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

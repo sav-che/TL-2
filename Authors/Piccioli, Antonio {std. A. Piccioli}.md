@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0287
+tl2_volume: vol4
+tl2_page_printed: 248
+tl2_surname: Piccioli
+tl2_forenames: Antonio
+tl2_name_abbrev: A. Piccioli
+tl2_dates: 1741-1842
+tl2_page_id: 33189719
+author_lsid: 7660-1
+wikidata_id: Q21522978
+ipni_surname: Piccioli
+ipni_forenames: Antonio
+ipni_standard_form: Piccioli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

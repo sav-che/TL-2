@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0118
+tl2_volume: suppl2
+tl2_page_printed: 101
+tl2_surname: Berlese
+tl2_forenames: Augusto Napoleone
+tl2_name_abbrev: Berl.
+tl2_dates: 1864-1903
+tl2_page_id: 33265298
+author_lsid: 16001-1
+wikidata_id: Q3629679
+ipni_surname: Berlese
+ipni_forenames: Augusto Napoleone
+ipni_standard_form: Berl.
+ipni_dates: 1864-1903
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

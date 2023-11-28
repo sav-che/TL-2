@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0213
+tl2_volume: suppl5
+tl2_page_printed: 196
+tl2_surname: Dematra
+tl2_forenames: ...
+tl2_name_abbrev: Dematra
+tl2_dates: 1742-1824
+tl2_page_id: 33259242
+author_lsid: 2115-1
+wikidata_id: Q21510200
+ipni_surname: Dematra
+ipni_forenames: Jean-Antoine
+ipni_standard_form: Dematra
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

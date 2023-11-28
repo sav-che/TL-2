@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0098
+tl2_volume: suppl2
+tl2_page_printed: 87
+tl2_surname: Bergen
+tl2_forenames: Heinrich von
+tl2_name_abbrev: H. Bergen
+tl2_dates: fl. 1826
+tl2_page_id: 33265284
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33265284) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

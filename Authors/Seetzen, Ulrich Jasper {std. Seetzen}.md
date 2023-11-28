@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0458
+tl2_volume: vol5
+tl2_page_printed: 483
+tl2_surname: Seetzen
+tl2_forenames: Ulrich Jasper
+tl2_name_abbrev: Seetzen
+tl2_dates: 1767-1811
+tl2_page_id: 33333622
+author_lsid: 9421-1
+wikidata_id: Q215751
+ipni_surname: Seetzen
+ipni_forenames: Ulrich Jaspar
+ipni_standard_form: Seetzen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

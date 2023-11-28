@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl3_0424
+tl2_volume: suppl3
+tl2_page_printed: 462
+tl2_surname: Catcheside
+tl2_forenames: David Guthrie
+tl2_name_abbrev: Catcheside
+tl2_dates: 1907-x
+tl2_page_id: 33266769
+author_lsid: 1456-1
+wikidata_id: Q21165808
+ipni_surname: Catcheside
+ipni_forenames: David Guthrie
+ipni_standard_form: Catches.
+ipni_dates: 1907-1994
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

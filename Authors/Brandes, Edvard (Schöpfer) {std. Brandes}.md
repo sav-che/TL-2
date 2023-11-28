@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0400
+tl2_volume: vol1
+tl2_page_printed: 303
+tl2_surname: Brandes
+tl2_forenames: Edvard (Schöpfer)
+tl2_name_abbrev: Brandes
+tl2_dates: 
+tl2_page_id: 33120434
+author_lsid: 1072-1
+wikidata_id: Q33665068
+ipni_surname: Brandes
+ipni_forenames: Edvard
+ipni_standard_form: Brandes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

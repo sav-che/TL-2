@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0526
+tl2_volume: vol3
+tl2_page_printed: 437
+tl2_surname: Meurling
+tl2_forenames: Petrus
+tl2_name_abbrev: Meurling
+tl2_dates: fl. 1820
+tl2_page_id: 33355524
+author_lsid: 6403-1
+wikidata_id: Q36653463
+ipni_surname: Meurling
+ipni_forenames: Petrus
+ipni_standard_form: Meurling
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

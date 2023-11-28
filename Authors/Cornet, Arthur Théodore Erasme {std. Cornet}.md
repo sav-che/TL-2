@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0295
+tl2_volume: suppl4
+tl2_page_printed: 364
+tl2_surname: Cornet
+tl2_forenames: Arthur Théodore Erasme
+tl2_name_abbrev: Cornet
+tl2_dates: 1863-1939
+tl2_page_id: 33266041
+author_lsid: 40207-1
+wikidata_id: Q21509082
+ipni_surname: Cornet
+ipni_forenames: Arthur Theodore Erasme
+ipni_standard_form: Cornet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Belgium
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

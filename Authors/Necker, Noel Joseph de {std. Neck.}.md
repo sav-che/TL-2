@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0824
+tl2_volume: vol3
+tl2_page_printed: 701
+tl2_surname: Necker
+tl2_forenames: Noel Joseph de
+tl2_name_abbrev: Neck.
+tl2_dates: 1730-1793
+tl2_page_id: 33355788
+author_lsid: 23973-1
+wikidata_id: Q77700
+ipni_surname: Necker
+ipni_forenames: Noel Martin Joseph de
+ipni_standard_form: Neck.
+ipni_dates: 1730-1793
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

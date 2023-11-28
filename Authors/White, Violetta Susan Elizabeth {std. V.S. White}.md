@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0237
+tl2_volume: vol7
+tl2_page_printed: 255
+tl2_surname: White
+tl2_forenames: Violetta Susan Elizabeth
+tl2_name_abbrev: V.S. White
+tl2_dates: 1875-1949
+tl2_page_id: 33066595
+author_lsid: 11624-1
+wikidata_id: Q21612598
+ipni_surname: White
+ipni_forenames: Violetta Susan Elizabeth
+ipni_standard_form: V.S.White
+ipni_dates: 1875-1949
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

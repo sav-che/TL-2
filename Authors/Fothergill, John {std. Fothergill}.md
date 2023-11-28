@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1076
+tl2_volume: vol1
+tl2_page_printed: 864
+tl2_surname: Fothergill
+tl2_forenames: John
+tl2_name_abbrev: Fothergill
+tl2_dates: 1712-1780
+tl2_page_id: 33120995
+author_lsid: 2849-1
+wikidata_id: Q1232397
+ipni_surname: Fothergill
+ipni_forenames: John
+ipni_standard_form: Foth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

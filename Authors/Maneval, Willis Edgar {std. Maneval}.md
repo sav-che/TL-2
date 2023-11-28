@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0300
+tl2_volume: vol3
+tl2_page_printed: 274
+tl2_surname: Maneval
+tl2_forenames: Willis Edgar
+tl2_name_abbrev: Maneval
+tl2_dates: 1877-1956
+tl2_page_id: 33355361
+author_lsid: 22841-1
+wikidata_id: Q21519887
+ipni_surname: Maneval
+ipni_forenames: Willis Edgar
+ipni_standard_form: Maneval
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

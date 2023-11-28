@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0334
+tl2_volume: vol2
+tl2_page_printed: 301
+tl2_surname: Hooper
+tl2_forenames: John
+tl2_name_abbrev: Hooper
+tl2_dates: 1802-1869
+tl2_page_id: 33068543
+author_lsid: 4088-1
+wikidata_id: Q21516012
+ipni_surname: Hooper
+ipni_forenames: John
+ipni_standard_form: Hooper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

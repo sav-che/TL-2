@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0612
+tl2_volume: vol5
+tl2_page_printed: 612
+tl2_surname: Sims
+tl2_forenames: John
+tl2_name_abbrev: Sims
+tl2_dates: 1749-1831
+tl2_page_id: 33333751
+author_lsid: 9686-1
+wikidata_id: Q2430593
+ipni_surname: Sims
+ipni_forenames: John
+ipni_standard_form: Sims
+ipni_dates: 1749-1831
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

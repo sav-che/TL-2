@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0673
+tl2_volume: vol3
+tl2_page_printed: 581
+tl2_surname: Mori
+tl2_forenames: Antonio
+tl2_name_abbrev: A. Mori
+tl2_dates: 1847-1902
+tl2_page_id: 33355668
+author_lsid: 6650-1
+wikidata_id: Q5699154
+ipni_surname: Mori
+ipni_forenames: Antonio
+ipni_standard_form: Mori
+ipni_dates: 1847-1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

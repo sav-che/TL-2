@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0218
+tl2_volume: suppl1
+tl2_page_printed: 181
+tl2_surname: Arvet-Touvet
+tl2_forenames: [Jean Maurice] Casimir
+tl2_name_abbrev: Arv.-Touv.
+tl2_dates: 1841-1913
+tl2_page_id: 33264908
+author_lsid: 298-1
+wikidata_id: Q1226882
+ipni_surname: Arvet-Touvet
+ipni_forenames: Jean Maurice Casimir
+ipni_standard_form: Arv.-Touv.
+ipni_dates: 1841-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33264908) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

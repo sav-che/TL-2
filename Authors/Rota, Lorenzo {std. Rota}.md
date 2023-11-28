@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0948
+tl2_volume: vol4
+tl2_page_printed: 916
+tl2_surname: Rota
+tl2_forenames: Lorenzo
+tl2_name_abbrev: Rota
+tl2_dates: 1819-1855
+tl2_page_id: 33190387
+author_lsid: 8636-1
+wikidata_id: Q21607455
+ipni_surname: Rota
+ipni_forenames: Lorenzo
+ipni_standard_form: Rota
+ipni_dates: 1819-1855
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

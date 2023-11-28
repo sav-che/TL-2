@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0621
+tl2_volume: vol1
+tl2_page_printed: 503
+tl2_surname: Cienkowski
+tl2_forenames: Leo de (Tzenkovskii, Lev Semenovich)
+tl2_name_abbrev: Cienk.
+tl2_dates: 1822-1887
+tl2_page_id: 33120634
+author_lsid: 17263-1
+wikidata_id: Q4503903
+ipni_surname: Cienkowski
+ipni_forenames: Leo de
+ipni_standard_form: Cienk.
+ipni_dates: 1822-1887
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33120634) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0183
+tl2_volume: suppl8
+tl2_page_printed: 230
+tl2_surname: Gislén
+tl2_forenames: Torsten Rikard [Richard] Emanuel
+tl2_name_abbrev: Gislén
+tl2_dates: 1893-1954
+tl2_page_id: 33258708
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

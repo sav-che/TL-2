@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0306
+tl2_volume: suppl2
+tl2_page_printed: 243
+tl2_surname: Böcher
+tl2_forenames: Tyge Wittrock
+tl2_name_abbrev: Böcher
+tl2_dates: 1909-1983
+tl2_page_id: 33265440
+author_lsid: 891-1
+wikidata_id: Q3181594
+ipni_surname: Böcher
+ipni_forenames: Tyge Wittrock
+ipni_standard_form: Böcher
+ipni_dates: 1909-1983
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

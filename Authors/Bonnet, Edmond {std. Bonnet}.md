@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0354
+tl2_volume: vol1
+tl2_page_printed: 272
+tl2_surname: Bonnet
+tl2_forenames: Edmond
+tl2_name_abbrev: Bonnet
+tl2_dates: 1848-1922
+tl2_page_id: 33120403
+author_lsid: 958-1
+wikidata_id: Q5818752
+ipni_surname: Bonnet
+ipni_forenames: Edmond
+ipni_standard_form: Bonnet
+ipni_dates: 1848-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33120403) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

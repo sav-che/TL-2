@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0794
+tl2_volume: vol2
+tl2_page_printed: 674
+tl2_surname: Krieger
+tl2_forenames: Karl Wilhelm
+tl2_name_abbrev: K. Krieg.
+tl2_dates: 1848-1921
+tl2_page_id: 33068916
+author_lsid: 5064-1
+wikidata_id: Q21517929
+ipni_surname: Krieger
+ipni_forenames: Karl Wilhelm
+ipni_standard_form: Krieg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

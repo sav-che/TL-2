@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0418
+tl2_volume: suppl1
+tl2_page_printed: 368
+tl2_surname: Baster
+tl2_forenames: Job
+tl2_name_abbrev: Baster
+tl2_dates: 1711-1775
+tl2_page_id: 33265095
+author_lsid: 530-1
+wikidata_id: Q5256253
+ipni_surname: Baster
+ipni_forenames: Job
+ipni_standard_form: Baster
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

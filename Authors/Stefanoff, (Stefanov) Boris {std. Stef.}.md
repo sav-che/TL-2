@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0867
+tl2_volume: vol5
+tl2_page_printed: 867
+tl2_surname: Stefanoff
+tl2_forenames: [Stefanov] Boris
+tl2_name_abbrev: Stef.
+tl2_dates: 1894-1979
+tl2_page_id: 33334006
+author_lsid: 10066-1
+wikidata_id: Q6397749
+ipni_surname: Stefanoff
+ipni_forenames: Boris
+ipni_standard_form: Stef.
+ipni_dates: 1894-1979
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Bulgaria
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

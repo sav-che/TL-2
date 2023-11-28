@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0085
+tl2_volume: suppl6
+tl2_page_printed: 84
+tl2_surname: Dracinschi
+tl2_forenames: Margit
+tl2_name_abbrev: Dracinschi
+tl2_dates: fl. 1926-1932
+tl2_page_id: 33260072
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33260072) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

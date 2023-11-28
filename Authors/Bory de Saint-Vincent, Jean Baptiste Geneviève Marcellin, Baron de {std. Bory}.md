@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0371
+tl2_volume: vol1
+tl2_page_printed: 284
+tl2_surname: Bory de Saint-Vincent
+tl2_forenames: Jean Baptiste Geneviève Marcellin, Baron de
+tl2_name_abbrev: Bory
+tl2_dates: 1778-1846
+tl2_page_id: 33120415
+author_lsid: 16366-1
+wikidata_id: Q1345319
+ipni_surname: Bory
+ipni_forenames: Jean Baptiste Geneviève Marcellin
+ipni_standard_form: Bory
+ipni_dates: 1778-1846
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-04-18 06:48:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33120415) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0135
+tl2_volume: vol2
+tl2_page_printed: 115
+tl2_surname: Hebenstreit
+tl2_forenames: Johann Christian
+tl2_name_abbrev: Hebenstr.
+tl2_dates: 1720-1795
+tl2_page_id: 33068357
+author_lsid: 3759-1
+wikidata_id: Q1692922
+ipni_surname: Hebenstreit
+ipni_forenames: Johann Christian
+ipni_standard_form: Hebenstr.
+ipni_dates: 1720-1795
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33068357) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

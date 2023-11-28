@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0979
+tl2_volume: vol2
+tl2_page_printed: 828
+tl2_surname: Leimer
+tl2_forenames: Franz
+tl2_name_abbrev: Leim.
+tl2_dates: fl. 1854
+tl2_page_id: 33069070
+author_lsid: 5443-1
+wikidata_id: Q36555437
+ipni_surname: Leimer
+ipni_forenames: Franz
+ipni_standard_form: Leimer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33069070) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1029
+tl2_volume: vol4
+tl2_page_printed: 1002
+tl2_surname: Russell
+tl2_forenames: Alexander
+tl2_name_abbrev: Al. Russell
+tl2_dates: ca. 1715-1768
+tl2_page_id: 33190473
+author_lsid: 8755-1
+wikidata_id: Q4719991
+ipni_surname: Russell
+ipni_forenames: Alexander
+ipni_standard_form: Russell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1002](https://www.biodiversitylibrary.org/page/33190473) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

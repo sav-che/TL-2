@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0928
+tl2_volume: vol4
+tl2_page_printed: 900
+tl2_surname: Ross
+tl2_forenames: Hermann
+tl2_name_abbrev: H. Ross
+tl2_dates: 1862-1942
+tl2_page_id: 33190371
+author_lsid: 8608-1
+wikidata_id: Q21607429
+ipni_surname: Ross
+ipni_forenames: Herman
+ipni_standard_form: H.Ross
+ipni_dates: 1863-1942
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33190371) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

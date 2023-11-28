@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0014
+tl2_volume: vol2
+tl2_page_printed: 10
+tl2_surname: Hagen
+tl2_forenames: Ingebrigt Severin
+tl2_name_abbrev: I. Hagen
+tl2_dates: 1852-1917
+tl2_page_id: 33068252
+author_lsid: 3544-1
+wikidata_id: Q16649316
+ipni_surname: Hagen
+ipni_forenames: Ingebrigt Severin
+ipni_standard_form: I.Hagen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33068252) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

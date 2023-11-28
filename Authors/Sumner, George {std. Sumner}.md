@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0113
+tl2_volume: vol6
+tl2_page_printed: 92
+tl2_surname: Sumner
+tl2_forenames: George
+tl2_name_abbrev: Sumner
+tl2_dates: 1793-1855
+tl2_page_id: 33212134
+author_lsid: 10293-1
+wikidata_id: Q21610041
+ipni_surname: Sumner
+ipni_forenames: George
+ipni_standard_form: Sumner
+ipni_dates: 1793-1855
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

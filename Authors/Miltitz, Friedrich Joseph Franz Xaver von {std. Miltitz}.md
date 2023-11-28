@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0587
+tl2_volume: vol3
+tl2_page_printed: 505
+tl2_surname: Miltitz
+tl2_forenames: Friedrich Joseph Franz Xaver von
+tl2_name_abbrev: Miltitz
+tl2_dates: x-1840
+tl2_page_id: 33355592
+author_lsid: 6496-1
+wikidata_id: Q21521528
+ipni_surname: Miltitz
+ipni_forenames: Friedrich Joseph Franz Xaver von
+ipni_standard_form: Miltitz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

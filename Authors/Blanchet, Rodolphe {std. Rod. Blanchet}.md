@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0243
+tl2_volume: suppl2
+tl2_page_printed: 202
+tl2_surname: Blanchet
+tl2_forenames: Rodolphe
+tl2_name_abbrev: Rod. Blanchet
+tl2_dates: 1807-1860
+tl2_page_id: 33265399
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

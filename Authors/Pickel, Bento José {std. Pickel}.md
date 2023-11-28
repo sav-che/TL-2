@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0296
+tl2_volume: vol4
+tl2_page_printed: 253
+tl2_surname: Pickel
+tl2_forenames: Bento José
+tl2_name_abbrev: Pickel
+tl2_dates: 1890-1963
+tl2_page_id: 33189724
+author_lsid: 7671-1
+wikidata_id: Q21337951
+ipni_surname: Pickel
+ipni_forenames: Bento José
+ipni_standard_form: Pickel
+ipni_dates: 1906-1963
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

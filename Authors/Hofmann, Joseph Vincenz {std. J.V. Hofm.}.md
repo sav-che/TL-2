@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0301
+tl2_volume: vol2
+tl2_page_printed: 249
+tl2_surname: Hofmann
+tl2_forenames: Joseph Vincenz
+tl2_name_abbrev: J.V. Hofm.
+tl2_dates: 1800-1863
+tl2_page_id: 33068491
+author_lsid: 4029-1
+wikidata_id: Q21515941
+ipni_surname: Hofmann
+ipni_forenames: Joseph Vincenz
+ipni_standard_form: J.V.Hofm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33068491) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

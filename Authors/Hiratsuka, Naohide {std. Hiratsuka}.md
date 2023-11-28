@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0256
+tl2_volume: vol2
+tl2_page_printed: 210
+tl2_surname: Hiratsuka
+tl2_forenames: Naohide
+tl2_name_abbrev: Hiratsuka
+tl2_dates: 1903-x
+tl2_page_id: 33068452
+author_lsid: 20335-1
+wikidata_id: Q21391508
+ipni_surname: Hiratsuka
+ipni_forenames: Naohide
+ipni_standard_form: Hirats.f.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

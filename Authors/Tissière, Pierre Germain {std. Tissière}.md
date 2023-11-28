@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0391
+tl2_volume: vol6
+tl2_page_printed: 369
+tl2_surname: Tissière
+tl2_forenames: Pierre Germain
+tl2_name_abbrev: Tissière
+tl2_dates: 1828-1868
+tl2_page_id: 33212411
+author_lsid: 10691-1
+wikidata_id: Q21610777
+ipni_surname: Tissière
+ipni_forenames: Pierre Germain
+ipni_standard_form: Tissière
+ipni_dates: 1828-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0757
+tl2_volume: vol1
+tl2_page_printed: 600
+tl2_surname: Darwin
+tl2_forenames: Charles Robert
+tl2_name_abbrev: Darwin
+tl2_dates: 1809-1882
+tl2_page_id: 33120731
+author_lsid: 2001-1
+wikidata_id: Q1035
+ipni_surname: Darwin
+ipni_forenames: Charles Robert
+ipni_standard_form: Darwin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

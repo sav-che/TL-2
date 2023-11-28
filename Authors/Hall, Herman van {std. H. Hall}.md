@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0030
+tl2_volume: vol2
+tl2_page_printed: 21
+tl2_surname: Hall
+tl2_forenames: Herman van
+tl2_name_abbrev: H. Hall
+tl2_dates: 1830-1890
+tl2_page_id: 33068263
+author_lsid: 3573-1
+wikidata_id: Q2489137
+ipni_surname: Hall
+ipni_forenames: Herman van
+ipni_standard_form: H.Hall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33068263) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

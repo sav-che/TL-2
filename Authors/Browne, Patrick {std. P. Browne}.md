@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0458
+tl2_volume: vol1
+tl2_page_printed: 371
+tl2_surname: Browne
+tl2_forenames: Patrick
+tl2_name_abbrev: P. Br.
+tl2_dates: 1720-1790
+tl2_page_id: 33120502
+author_lsid: 1201-1
+wikidata_id: Q15480
+ipni_surname: Browne
+ipni_forenames: Patrick
+ipni_standard_form: P.Browne
+ipni_dates: 1720-1790
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33120502) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

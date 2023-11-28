@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0088
+tl2_volume: vol2
+tl2_page_printed: 60
+tl2_surname: Hart
+tl2_forenames: Henry Chichester
+tl2_name_abbrev: Hart
+tl2_dates: 1847-1908
+tl2_page_id: 33068302
+author_lsid: 34829-1
+wikidata_id: Q21515533
+ipni_surname: Hart
+ipni_forenames: Henry Chichester
+ipni_standard_form: Hart
+ipni_dates: 1847-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33068302) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

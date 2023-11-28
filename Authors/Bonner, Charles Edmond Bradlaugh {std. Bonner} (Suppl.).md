@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0373
+tl2_volume: suppl2
+tl2_page_printed: 312
+tl2_surname: Bonner
+tl2_forenames: Charles Edmond Bradlaugh
+tl2_name_abbrev: Bonner
+tl2_dates: 1915-1976
+tl2_page_id: 33265509
+author_lsid: 957-1
+wikidata_id: Q21506294
+ipni_surname: Bonner
+ipni_forenames: Charles Edmond Bradlaugh
+ipni_standard_form: Bonner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Cryptogamic
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

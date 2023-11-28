@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1115
+tl2_volume: vol1
+tl2_page_printed: 894
+tl2_surname: Fuchs
+tl2_forenames: Leonhard
+tl2_name_abbrev: Fuchs
+tl2_dates: 1501-1566
+tl2_page_id: 33121025
+author_lsid: 2949-1
+wikidata_id: Q60756
+ipni_surname: Fuchs
+ipni_forenames: Leonard
+ipni_standard_form: L.Fuchs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

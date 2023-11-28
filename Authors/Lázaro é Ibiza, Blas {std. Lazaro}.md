@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0930
+tl2_volume: vol2
+tl2_page_printed: 776
+tl2_surname: Lázaro é Ibiza
+tl2_forenames: Blas
+tl2_name_abbrev: Lazaro
+tl2_dates: 1858-1921
+tl2_page_id: 33069018
+author_lsid: 5362-1
+wikidata_id: Q4254726
+ipni_surname: Lázaro é Ibiza
+ipni_forenames: Blas
+ipni_standard_form: Lázaro Ibiza
+ipni_dates: 1858-1921
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

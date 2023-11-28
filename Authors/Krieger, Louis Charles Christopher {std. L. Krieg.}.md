@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0795
+tl2_volume: vol2
+tl2_page_printed: 674
+tl2_surname: Krieger
+tl2_forenames: Louis Charles Christopher
+tl2_name_abbrev: L. Krieg.
+tl2_dates: 1873-1940
+tl2_page_id: 33068916
+author_lsid: 5065-1
+wikidata_id: Q15030481
+ipni_surname: Krieger
+ipni_forenames: Louis Charles Christopher
+ipni_standard_form: L.Krieg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

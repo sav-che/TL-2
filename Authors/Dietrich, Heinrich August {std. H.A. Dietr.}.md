@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0331
+tl2_volume: suppl5
+tl2_page_printed: 336
+tl2_surname: Dietrich
+tl2_forenames: Heinrich August
+tl2_name_abbrev: H.A. Dietr.
+tl2_dates: fl. 1852-1883
+tl2_page_id: 33259382
+author_lsid: 18040-1
+wikidata_id: Q1596595
+ipni_surname: Dietrich
+ipni_forenames: Heinrich August
+ipni_standard_form: H.A.Dietr.
+ipni_dates: fl. 1852
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33259382) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

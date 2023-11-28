@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0236
+tl2_volume: suppl2
+tl2_page_printed: 196
+tl2_surname: Blakeslee
+tl2_forenames: Albert Francis
+tl2_name_abbrev: Blakeslee
+tl2_dates: 1874-1954
+tl2_page_id: 33265393
+author_lsid: 841-1
+wikidata_id: Q728749
+ipni_surname: Blakeslee
+ipni_forenames: Albert Francis
+ipni_standard_form: Blakeslee
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33265393) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

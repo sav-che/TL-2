@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0356
+tl2_volume: vol6
+tl2_page_printed: 301
+tl2_surname: Thümen [-Gräfendorf]
+tl2_forenames: Felix [Karl Albert Ernst Joachim baron] von
+tl2_name_abbrev: Thuem.
+tl2_dates: 1839-1892
+tl2_page_id: 33212343
+author_lsid: 27708-1
+wikidata_id: Q4467468
+ipni_surname: Thümen
+ipni_forenames: Felix (Karl Albert Ernst Joachim) von
+ipni_standard_form: Thüm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33212343) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

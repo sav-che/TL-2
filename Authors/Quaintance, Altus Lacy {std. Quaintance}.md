@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0529
+tl2_volume: vol4
+tl2_page_printed: 451
+tl2_surname: Quaintance
+tl2_forenames: Altus Lacy
+tl2_name_abbrev: Quaintance
+tl2_dates: 1870-1958
+tl2_page_id: 33189922
+author_lsid: 8042-1
+wikidata_id: Q2363566
+ipni_surname: Quaintance
+ipni_forenames: Altus Lacy
+ipni_standard_form: Quaint.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

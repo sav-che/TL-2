@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0335
+tl2_volume: vol6
+tl2_page_printed: 284
+tl2_surname: Thomson
+tl2_forenames: John Walter
+tl2_name_abbrev: J.W. Thomson
+tl2_dates: 1913-x
+tl2_page_id: 33212326
+author_lsid: 27697-1
+wikidata_id: Q21387738
+ipni_surname: Thomson
+ipni_forenames: John Walter
+ipni_standard_form: J.W.Thomson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

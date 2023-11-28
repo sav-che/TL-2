@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1046
+tl2_volume: vol1
+tl2_page_printed: 846
+tl2_surname: Fliche
+tl2_forenames: Paul Henri Maria Thérèse André
+tl2_name_abbrev: Fliche
+tl2_dates: 1836-1908
+tl2_page_id: 33120977
+author_lsid: 2784-1
+wikidata_id: Q2377559
+ipni_surname: Fliche
+ipni_forenames: Paul Henri Maria Thérèse André
+ipni_standard_form: Fliche
+ipni_dates: 1836-1908
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33120977) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

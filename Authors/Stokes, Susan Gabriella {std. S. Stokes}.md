@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0018
+tl2_volume: vol6
+tl2_page_printed: 16
+tl2_surname: Stokes
+tl2_forenames: Susan Gabriella
+tl2_name_abbrev: S. Stokes
+tl2_dates: 1868-1954
+tl2_page_id: 33212078
+author_lsid: 10166-1
+wikidata_id: Q21609879
+ipni_surname: Stokes
+ipni_forenames: Susan Gabriella
+ipni_standard_form: S.Stokes
+ipni_dates: 1868-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33212078) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

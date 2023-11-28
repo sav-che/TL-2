@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1241
+tl2_volume: vol1
+tl2_page_printed: 982
+tl2_surname: Graves
+tl2_forenames: George
+tl2_name_abbrev: G. Graves
+tl2_dates: 1784-1839
+tl2_page_id: 33121113
+author_lsid: 3347-1
+wikidata_id: Q5539867
+ipni_surname: Graves
+ipni_forenames: George
+ipni_standard_form: Graves
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

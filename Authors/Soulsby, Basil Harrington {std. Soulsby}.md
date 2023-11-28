@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0757
+tl2_volume: vol5
+tl2_page_printed: 757
+tl2_surname: Soulsby
+tl2_forenames: Basil Harrington
+tl2_name_abbrev: Soulsby
+tl2_dates: 1864-1933
+tl2_page_id: 33333896
+author_lsid: 9921-1
+wikidata_id: Q2886799
+ipni_surname: Soulsby
+ipni_forenames: Basil Harrington
+ipni_standard_form: Soulsby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- New Zealand
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0827
+tl2_volume: vol4
+tl2_page_printed: 819
+tl2_surname: Robyns
+tl2_forenames: [Frans Hubert Edouard Arthur] Walter
+tl2_name_abbrev: Robyns
+tl2_dates: 1901-x
+tl2_page_id: 33190290
+author_lsid: 8466-1
+wikidata_id: Q5492362
+ipni_surname: Robyns
+ipni_forenames: Frans Hubert Edouard Arthur Walter
+ipni_standard_form: Robyns
+ipni_dates: 1901-1986
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

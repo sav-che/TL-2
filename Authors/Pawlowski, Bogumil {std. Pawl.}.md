@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0128
+tl2_volume: vol4
+tl2_page_printed: 118
+tl2_surname: Pawlowski
+tl2_forenames: Bogumil
+tl2_name_abbrev: Pawl.
+tl2_dates: 1898-1971
+tl2_page_id: 33189589
+author_lsid: 7424-1
+wikidata_id: Q9175591
+ipni_surname: Pawłowski
+ipni_forenames: Bogumił
+ipni_standard_form: Pawł.
+ipni_dates: 1898-1971
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-02-08 12:55:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33189589) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

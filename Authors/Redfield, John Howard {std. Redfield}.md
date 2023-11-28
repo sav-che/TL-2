@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0652
+tl2_volume: vol4
+tl2_page_printed: 621
+tl2_surname: Redfield
+tl2_forenames: John Howard
+tl2_name_abbrev: Redfield
+tl2_dates: 1815-1895
+tl2_page_id: 33190092
+author_lsid: 8219-1
+wikidata_id: Q19359323
+ipni_surname: Redfield
+ipni_forenames: John Howard
+ipni_standard_form: Redfield
+ipni_dates: 1815-1895
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

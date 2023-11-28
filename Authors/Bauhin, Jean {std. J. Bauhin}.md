@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0195
+tl2_volume: vol1
+tl2_page_printed: 149
+tl2_surname: Bauhin
+tl2_forenames: Jean
+tl2_name_abbrev: J. Bauhin
+tl2_dates: 1541-1612
+tl2_page_id: 33120280
+author_lsid: 15807-1
+wikidata_id: Q123660
+ipni_surname: Bauhin
+ipni_forenames: Jean Johannes
+ipni_standard_form: J.Bauhin
+ipni_dates: 1541-1613
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Pre-Linnaean
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33120280) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

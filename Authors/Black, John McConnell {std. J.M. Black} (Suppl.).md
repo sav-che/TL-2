@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0228
+tl2_volume: suppl2
+tl2_page_printed: 186
+tl2_surname: Black
+tl2_forenames: John McConnell
+tl2_name_abbrev: J.M. Black
+tl2_dates: 1855-1951
+tl2_page_id: 33265383
+author_lsid: 828-1
+wikidata_id: Q924556
+ipni_surname: Black
+ipni_forenames: John McConnell
+ipni_standard_form: J.M.Black
+ipni_dates: 1855-1951
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33265383) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

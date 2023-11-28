@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0683
+tl2_volume: vol1
+tl2_page_printed: 548
+tl2_surname: Cordier
+tl2_forenames: François Simon
+tl2_name_abbrev: Cordier
+tl2_dates: 1797-1874
+tl2_page_id: 33120679
+author_lsid: 17431-1
+wikidata_id: Q3752277
+ipni_surname: Cordier
+ipni_forenames: François Simon
+ipni_standard_form: Cordier
+ipni_dates: 1797-1874
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33120679) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

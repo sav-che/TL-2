@@ -1,3 +1,27 @@
+---
+tl2_entry_id: tl2_suppl6_0308
+tl2_volume: suppl6
+tl2_page_printed: 275
+tl2_surname: Eichenfeld
+tl2_forenames: Michael Ritter von
+tl2_name_abbrev: Eichenfeld
+tl2_dates: 1839-1916
+tl2_page_id: 33260263
+author_lsid: 20016683-1
+wikidata_id: Q21511574
+ipni_surname: Eichenfeld
+ipni_forenames: Michael Ritter von
+ipni_standard_form: Eichenf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0108
+tl2_volume: vol2
+tl2_page_printed: 92
+tl2_surname: Hasse
+tl2_forenames: Hermann Edward
+tl2_name_abbrev: Hasse
+tl2_dates: 1836-1915
+tl2_page_id: 33068334
+author_lsid: 3715-1
+wikidata_id: Q18349258
+ipni_surname: Hasse
+ipni_forenames: Hermann Edward
+ipni_standard_form: Hasse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

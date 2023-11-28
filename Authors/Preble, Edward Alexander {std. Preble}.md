@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0464
+tl2_volume: vol4
+tl2_page_printed: 385
+tl2_surname: Preble
+tl2_forenames: Edward Alexander
+tl2_name_abbrev: Preble
+tl2_dates: 1871-1957
+tl2_page_id: 33189856
+author_lsid: 7935-1
+wikidata_id: Q3048430
+ipni_surname: Preble
+ipni_forenames: Edward Alexander
+ipni_standard_form: Preble
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

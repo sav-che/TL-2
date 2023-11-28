@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0067
+tl2_volume: suppl4
+tl2_page_printed: 75
+tl2_surname: Cheesman
+tl2_forenames: Ernest Entwisle
+tl2_name_abbrev: Cheesman
+tl2_dates: 1888-?
+tl2_page_id: 33265752
+author_lsid: 1564-1
+wikidata_id: Q2916950
+ipni_surname: Cheesman
+ipni_forenames: Ernest Entwistle
+ipni_standard_form: Cheesman
+ipni_dates: 1898-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33265752) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0040
+tl2_volume: vol5
+tl2_page_printed: 38
+tl2_surname: Sanio
+tl2_forenames: Carl Gustav
+tl2_name_abbrev: Sanio
+tl2_dates: 1832-1891
+tl2_page_id: 33333139
+author_lsid: 8898-1
+wikidata_id: Q3813045
+ipni_surname: Sanio
+ipni_forenames: Carl (Karl) Gustav
+ipni_standard_form: Sanio
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33333139) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

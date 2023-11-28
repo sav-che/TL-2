@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0014
+tl2_volume: suppl4
+tl2_page_printed: 24
+tl2_surname: Cerio
+tl2_forenames: Ignazio
+tl2_name_abbrev: Cerio
+tl2_dates: fl. 1900
+tl2_page_id: 33265701
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

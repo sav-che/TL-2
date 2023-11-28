@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0242
+tl2_volume: vol2
+tl2_page_printed: 197
+tl2_surname: Hill
+tl2_forenames: Ellsworth Jerome
+tl2_name_abbrev: E.J. Hill
+tl2_dates: 1833-1917
+tl2_page_id: 33068439
+author_lsid: 3945-1
+wikidata_id: Q19955677
+ipni_surname: Hill
+ipni_forenames: Ellsworth Jerome
+ipni_standard_form: E.J.Hill
+ipni_dates: 1833-1917
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

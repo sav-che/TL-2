@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0255
+tl2_volume: suppl7
+tl2_page_printed: 389
+tl2_surname: Franzoni
+tl2_forenames: Alberto
+tl2_name_abbrev: Franzoni
+tl2_dates: 1816-1886
+tl2_page_id: 33259893
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

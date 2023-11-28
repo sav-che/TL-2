@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0288
+tl2_volume: vol3
+tl2_page_printed: 264
+tl2_surname: Malinvaud
+tl2_forenames: Louis Jules Ernest
+tl2_name_abbrev: Malinv.
+tl2_dates: 1836-1913
+tl2_page_id: 33355351
+author_lsid: 6032-1
+wikidata_id: Q950512
+ipni_surname: Malinvaud
+ipni_forenames: Louis Jules Ernst
+ipni_standard_form: Malinv.
+ipni_dates: 1836-1913
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

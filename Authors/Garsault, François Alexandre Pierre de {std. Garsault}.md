@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1144
+tl2_volume: vol1
+tl2_page_printed: 918
+tl2_surname: Garsault
+tl2_forenames: François Alexandre Pierre de
+tl2_name_abbrev: Garsault
+tl2_dates: 1691-1778
+tl2_page_id: 33121049
+author_lsid: 3033-1
+wikidata_id: Q5493154
+ipni_surname: Garsault
+ipni_forenames: François Alexandre Pierre de
+ipni_standard_form: Garsault
+ipni_dates: 1691-1778
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33121049) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0245
+tl2_volume: vol2
+tl2_page_printed: 206
+tl2_surname: Hillhouse
+tl2_forenames: William
+tl2_name_abbrev: Hillh.
+tl2_dates: 1850-1910
+tl2_page_id: 33068448
+author_lsid: 3950-1
+wikidata_id: Q3568702
+ipni_surname: Hillhouse
+ipni_forenames: William
+ipni_standard_form: Hillh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0226
+tl2_volume: suppl3
+tl2_page_printed: 225
+tl2_surname: Burchard
+tl2_forenames: Oscar
+tl2_name_abbrev: Burchard
+tl2_dates: c. 1864-1949
+tl2_page_id: 33266532
+author_lsid: 16715-1
+wikidata_id: Q16494220
+ipni_surname: Burchard
+ipni_forenames: Oscar
+ipni_standard_form: Burchard
+ipni_dates: 1863-1949
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33266532) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

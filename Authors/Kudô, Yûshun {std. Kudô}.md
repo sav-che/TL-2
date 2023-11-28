@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0808
+tl2_volume: vol2
+tl2_page_printed: 682
+tl2_surname: Kudô
+tl2_forenames: Yûshun
+tl2_name_abbrev: Kudô
+tl2_dates: 1887-1932
+tl2_page_id: 33068924
+author_lsid: 5103-1
+wikidata_id: Q5958921
+ipni_surname: Kudô
+ipni_forenames: Yûshun
+ipni_standard_form: Kudô
+ipni_dates: 1887-1932
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

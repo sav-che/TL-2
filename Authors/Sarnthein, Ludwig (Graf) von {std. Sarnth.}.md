@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0051
+tl2_volume: vol5
+tl2_page_printed: 57
+tl2_surname: Sarnthein
+tl2_forenames: Ludwig (Graf) von
+tl2_name_abbrev: Sarnth.
+tl2_dates: 1861-1914
+tl2_page_id: 33333158
+author_lsid: 8922-1
+wikidata_id: Q56175
+ipni_surname: Sarnthein
+ipni_forenames: Ludwig von
+ipni_standard_form: Sarnth.
+ipni_dates: 1861-1914
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

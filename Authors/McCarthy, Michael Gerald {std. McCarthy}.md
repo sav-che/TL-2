@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0213
+tl2_volume: vol3
+tl2_page_printed: 212
+tl2_surname: McCarthy
+tl2_forenames: Michael Gerald
+tl2_name_abbrev: McCarthy
+tl2_dates: 1858-1915
+tl2_page_id: 33355299
+author_lsid: 5895-1
+wikidata_id: Q21520209
+ipni_surname: McCarthy
+ipni_forenames: Gerald
+ipni_standard_form: McCarthy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Canada
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

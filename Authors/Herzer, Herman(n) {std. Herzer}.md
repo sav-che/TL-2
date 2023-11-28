@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0214
+tl2_volume: vol2
+tl2_page_printed: 178
+tl2_surname: Herzer
+tl2_forenames: Herman[n]
+tl2_name_abbrev: Herzer
+tl2_dates: 1833-1912
+tl2_page_id: 33068420
+author_lsid: 12546-1
+wikidata_id: Q21515760
+ipni_surname: Herzer
+ipni_forenames: Herman(n)
+ipni_standard_form: Herzer
+ipni_dates: 1833-1912
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0897
+tl2_volume: vol3
+tl2_page_printed: 755
+tl2_surname: Nitsche
+tl2_forenames: Walter
+tl2_name_abbrev: Nitsche
+tl2_dates: 1883-?
+tl2_page_id: 33355842
+author_lsid: 7001-1
+wikidata_id: Q21513436
+ipni_surname: Nitsche
+ipni_forenames: Walter
+ipni_standard_form: Nitsche
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

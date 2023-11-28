@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0937
+tl2_volume: vol4
+tl2_page_printed: 905
+tl2_surname: Rossmässler
+tl2_forenames: Emil Adolph
+tl2_name_abbrev: Rossmässler
+tl2_dates: 1806-1867
+tl2_page_id: 33190376
+author_lsid: 8625-1
+wikidata_id: Q76238
+ipni_surname: Rossmässler
+ipni_forenames: Emil Adolph
+ipni_standard_form: Rossm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33190376) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0159
+tl2_volume: vol4
+tl2_page_printed: 148
+tl2_surname: Pelletier
+tl2_forenames: [Pierre] Joseph
+tl2_name_abbrev: Pellet.
+tl2_dates: 1788-1842
+tl2_page_id: 33189619
+author_lsid: 7476-1
+wikidata_id: Q715164
+ipni_surname: Pelletier
+ipni_forenames: Pierre Joseph
+ipni_standard_form: Pellet.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33189619) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

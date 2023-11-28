@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0257
+tl2_volume: vol1
+tl2_page_printed: 200
+tl2_surname: Bernstein
+tl2_forenames: Heinrich Agathon
+tl2_name_abbrev: Bernstein
+tl2_dates: 1822-1865
+tl2_page_id: 33120331
+author_lsid: 716-1
+wikidata_id: Q73244
+ipni_surname: Bernstein
+ipni_forenames: Heinrich Agathon
+ipni_standard_form: Bernstein
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

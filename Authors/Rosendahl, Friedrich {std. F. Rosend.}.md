@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0919
+tl2_volume: vol4
+tl2_page_printed: 892
+tl2_surname: Rosendahl
+tl2_forenames: Friedrich
+tl2_name_abbrev: F. Rosend.
+tl2_dates: 1881-1942
+tl2_page_id: 33190363
+author_lsid: 8596-1
+wikidata_id: Q21342003
+ipni_surname: Rosendahl
+ipni_forenames: Friedrich
+ipni_standard_form: F.Rosend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/page/33190363) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

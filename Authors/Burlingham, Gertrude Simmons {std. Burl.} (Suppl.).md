@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0245
+tl2_volume: suppl3
+tl2_page_printed: 251
+tl2_surname: Burlingham
+tl2_forenames: Gertrude Simmons
+tl2_name_abbrev: Burl.
+tl2_dates: 1872-1952
+tl2_page_id: 33266558
+author_lsid: 16737-1
+wikidata_id: Q3298330
+ipni_surname: Burlingham
+ipni_forenames: Gertrude Simmons
+ipni_standard_form: Burl.
+ipni_dates: 1872-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

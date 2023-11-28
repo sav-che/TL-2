@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0640
+tl2_volume: vol2
+tl2_page_printed: 538
+tl2_surname: Kienitz-Gerloff
+tl2_forenames: Johann Heinrich Emil Felix
+tl2_name_abbrev: Kien.-Gerl.
+tl2_dates: 1851-1914
+tl2_page_id: 33068780
+author_lsid: 4775-1
+wikidata_id: Q21517488
+ipni_surname: Kienitz-Gerloff
+ipni_forenames: Johann Heinrich Emil Felix
+ipni_standard_form: Kien.-Gerl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

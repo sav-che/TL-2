@@ -1,3 +1,36 @@
+---
+tl2_entry_id: tl2_vol7_0047
+tl2_volume: vol7
+tl2_page_printed: 37
+tl2_surname: Wallich
+tl2_forenames: Nathaniel (b. Nathan Wulff [Wolff]
+tl2_name_abbrev: Wallich
+tl2_dates: 1786-1854
+tl2_page_id: 33066377
+author_lsid: 12990-1
+wikidata_id: Q730310
+ipni_surname: Wallich
+ipni_forenames: Nathaniel
+ipni_standard_form: Wall.
+ipni_dates: 1786-1854
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- Nepal
+- Mauritius
+- United Kingdom
+- Singapore
+- Denmark
+- South Africa
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33066377) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

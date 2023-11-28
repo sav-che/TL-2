@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0758
+tl2_volume: vol3
+tl2_page_printed: 652
+tl2_surname: Münch
+tl2_forenames: Ernst
+tl2_name_abbrev: Münch
+tl2_dates: 1876-1946
+tl2_page_id: 33355739
+author_lsid: 23716-1
+wikidata_id: Q115431
+ipni_surname: Münch
+ipni_forenames: Ernst
+ipni_standard_form: Münch
+ipni_dates: 1876-1946
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

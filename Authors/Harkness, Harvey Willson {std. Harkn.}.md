@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0080
+tl2_volume: vol2
+tl2_page_printed: 54
+tl2_surname: Harkness
+tl2_forenames: Harvey Willson
+tl2_name_abbrev: Harkn.
+tl2_dates: 1821-1901
+tl2_page_id: 33068296
+author_lsid: 3660-1
+wikidata_id: Q4495965
+ipni_surname: Harkness
+ipni_forenames: Harvey Wilson
+ipni_standard_form: Harkn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

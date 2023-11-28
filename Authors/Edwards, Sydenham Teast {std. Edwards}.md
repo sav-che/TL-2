@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0921
+tl2_volume: vol1
+tl2_page_printed: 724
+tl2_surname: Edwards
+tl2_forenames: Sydenham Teast
+tl2_name_abbrev: Edwards
+tl2_dates: 1769(?)-1819
+tl2_page_id: 33120855
+author_lsid: 2470-1
+wikidata_id: Q1118055
+ipni_surname: Edwards
+ipni_forenames: Sydenham Teast
+ipni_standard_form: Edwards
+ipni_dates: 1769-1819
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33120855) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

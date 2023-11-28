@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol5_0637
+tl2_volume: vol5
+tl2_page_printed: 627
+tl2_surname: Skottsberg
+tl2_forenames: Carl Johan Fredrik
+tl2_name_abbrev: Skottsb.
+tl2_dates: 1880-1963
+tl2_page_id: 33333766
+author_lsid: 9724-1
+wikidata_id: Q942078
+ipni_surname: Skottsberg
+ipni_forenames: Carl Johan Fredrik
+ipni_standard_form: Skottsb.
+ipni_dates: 1880-1963
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33333766) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

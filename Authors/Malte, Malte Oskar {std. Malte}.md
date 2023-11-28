@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0292
+tl2_volume: vol3
+tl2_page_printed: 270
+tl2_surname: Malte
+tl2_forenames: Malte Oskar
+tl2_name_abbrev: Malte
+tl2_dates: 1880-1933
+tl2_page_id: 33355357
+author_lsid: 6041-1
+wikidata_id: Q13490369
+ipni_surname: Malte
+ipni_forenames: Malte Oscar
+ipni_standard_form: Malte
+ipni_dates: 1880-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

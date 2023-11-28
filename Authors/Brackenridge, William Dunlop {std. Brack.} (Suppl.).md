@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl3_0003
+tl2_volume: suppl3
+tl2_page_printed: 2
+tl2_surname: Brackenridge
+tl2_forenames: William Dunlop
+tl2_name_abbrev: Brack.
+tl2_dates: 1810-1893
+tl2_page_id: 33266309
+author_lsid: 1054-1
+wikidata_id: Q3568580
+ipni_surname: Brackenridge
+ipni_forenames: William Dunlop
+ipni_standard_form: Brack.
+ipni_dates: 1810-1893
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

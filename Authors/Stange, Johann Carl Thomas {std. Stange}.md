@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0833
+tl2_volume: vol5
+tl2_page_printed: 837
+tl2_surname: Stange
+tl2_forenames: Johann Carl Thomas
+tl2_name_abbrev: Stange
+tl2_dates: 1792-1854
+tl2_page_id: 33333976
+author_lsid: 10022-1
+wikidata_id: Q21609486
+ipni_surname: Stange
+ipni_forenames: Johann Carl(Karl) Thomas
+ipni_standard_form: Stange
+ipni_dates: 1792-1854
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33333976) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

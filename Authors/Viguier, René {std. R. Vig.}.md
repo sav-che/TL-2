@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0718
+tl2_volume: vol6
+tl2_page_printed: 736
+tl2_surname: Viguier
+tl2_forenames: René
+tl2_name_abbrev: R. Vig.
+tl2_dates: 1880-1931
+tl2_page_id: 33212778
+author_lsid: 11188-1
+wikidata_id: Q4110557
+ipni_surname: Viguier
+ipni_forenames: René
+ipni_standard_form: R.Vig.
+ipni_dates: 1880-1931
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Madagascar
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

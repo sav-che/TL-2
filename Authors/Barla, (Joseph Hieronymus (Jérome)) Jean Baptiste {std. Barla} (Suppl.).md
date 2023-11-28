@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0374
+tl2_volume: suppl1
+tl2_page_printed: 328
+tl2_surname: Barla
+tl2_forenames: [Joseph Hieronymus (Jérome)] Jean Baptiste (Giambattista)
+tl2_name_abbrev: Barla
+tl2_dates: 1817-1896
+tl2_page_id: 33265055
+author_lsid: 31333-1
+wikidata_id: Q2415098
+ipni_surname: Barla
+ipni_forenames: Joseph Hieronymus (Jérome) Jean Baptiste (Giambattista)
+ipni_standard_form: Barla
+ipni_dates: 1817-1896
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33265055) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

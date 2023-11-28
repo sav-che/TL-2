@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0070
+tl2_volume: vol5
+tl2_page_printed: 70
+tl2_surname: Saupe
+tl2_forenames: Karl Alwin
+tl2_name_abbrev: Saupe
+tl2_dates: 1861 -?
+tl2_page_id: 33333209
+author_lsid: 8958-1
+wikidata_id: Q21607780
+ipni_surname: Saupe
+ipni_forenames: Karl Alwin
+ipni_standard_form: Saupe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

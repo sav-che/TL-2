@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0023
+tl2_volume: vol6
+tl2_page_printed: 18
+tl2_surname: Stolley
+tl2_forenames: Ernst
+tl2_name_abbrev: Stolley
+tl2_dates: 1869-?
+tl2_page_id: 33212076
+author_lsid: 10172-1
+wikidata_id: Q19279295
+ipni_surname: Stolley
+ipni_forenames: Ernst
+ipni_standard_form: Stolley
+ipni_dates: 1869-
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

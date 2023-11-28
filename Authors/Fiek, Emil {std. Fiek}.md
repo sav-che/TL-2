@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1017
+tl2_volume: vol1
+tl2_page_printed: 828
+tl2_surname: Fiek
+tl2_forenames: Emil
+tl2_name_abbrev: Fiek
+tl2_dates: 1840-1897
+tl2_page_id: 33120959
+author_lsid: 2714-1
+wikidata_id: Q5830772
+ipni_surname: Fiek
+ipni_forenames: Emil
+ipni_standard_form: Fiek
+ipni_dates: 1840-1897
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

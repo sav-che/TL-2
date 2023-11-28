@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0366
+tl2_volume: vol1
+tl2_page_printed: 280
+tl2_surname: Borkhausen
+tl2_forenames: Moriz Balthasar
+tl2_name_abbrev: Borkh.
+tl2_dates: 1760-1806
+tl2_page_id: 33120411
+author_lsid: 16350-1
+wikidata_id: Q63324
+ipni_surname: Borkhausen
+ipni_forenames: Moritz (Moriz) Balthasar
+ipni_standard_form: Borkh.
+ipni_dates: 1760-1806
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33120411) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

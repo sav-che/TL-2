@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1126
+tl2_volume: vol1
+tl2_page_printed: 905
+tl2_surname: Gaillard
+tl2_forenames: Albert
+tl2_name_abbrev: Gaillard
+tl2_dates: 1858-1903
+tl2_page_id: 33121036
+author_lsid: 2983-1
+wikidata_id: Q16030789
+ipni_surname: Gaillard
+ipni_forenames: Albert
+ipni_standard_form: Gaillard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0094
+tl2_volume: vol7
+tl2_page_printed: 95
+tl2_surname: Waterfall
+tl2_forenames: Umaldy Theodore
+tl2_name_abbrev: Waterf.
+tl2_dates: 1910-1971
+tl2_page_id: 33066435
+author_lsid: 11428-1
+wikidata_id: Q2478021
+ipni_surname: Waterfall
+ipni_forenames: Umaldy Theodore
+ipni_standard_form: Waterf.
+ipni_dates: 1910-1971
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

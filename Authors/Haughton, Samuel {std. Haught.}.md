@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0117
+tl2_volume: vol2
+tl2_page_printed: 101
+tl2_surname: Haughton
+tl2_forenames: Samuel
+tl2_name_abbrev: Haught.
+tl2_dates: 1821-1897
+tl2_page_id: 33068343
+author_lsid: 3729-1
+wikidata_id: Q5793510
+ipni_surname: Haughton
+ipni_forenames: Samuel
+ipni_standard_form: Haught.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

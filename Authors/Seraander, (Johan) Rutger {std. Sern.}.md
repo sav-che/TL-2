@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0507
+tl2_volume: vol5
+tl2_page_printed: 520
+tl2_surname: Seraander
+tl2_forenames: [Johan] Rutger
+tl2_name_abbrev: Sern.
+tl2_dates: 1866-1944
+tl2_page_id: 33333659
+author_lsid: 26534-1
+wikidata_id: Q919826
+ipni_surname: Sernander
+ipni_forenames: Johan Rutger
+ipni_standard_form: Sern.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33333659) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

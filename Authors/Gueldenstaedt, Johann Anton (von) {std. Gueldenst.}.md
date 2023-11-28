@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1274
+tl2_volume: vol1
+tl2_page_printed: 1018
+tl2_surname: Gueldenstaedt
+tl2_forenames: Johann Anton [von]
+tl2_name_abbrev: Gueldenst.
+tl2_dates: 1745-1781
+tl2_page_id: 33121149
+author_lsid: 12522-1
+wikidata_id: Q529222
+ipni_surname: Gueldenstaedt
+ipni_forenames: Anton Johann von
+ipni_standard_form: Gueldenst.
+ipni_dates: 1745-1781
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

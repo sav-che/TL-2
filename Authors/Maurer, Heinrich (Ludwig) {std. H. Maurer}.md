@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0433
+tl2_volume: vol3
+tl2_page_printed: 378
+tl2_surname: Maurer
+tl2_forenames: Heinrich [Ludwig]
+tl2_name_abbrev: H. Maurer
+tl2_dates: 1818-1885
+tl2_page_id: 33355465
+author_lsid: 12676-1
+wikidata_id: Q15782560
+ipni_surname: Maurer
+ipni_forenames: Heinrich (Ludwig)
+ipni_standard_form: Maurer
+ipni_dates: 1818-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33355465) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

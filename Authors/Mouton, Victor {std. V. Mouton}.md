@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0724
+tl2_volume: vol3
+tl2_page_printed: 610
+tl2_surname: Mouton
+tl2_forenames: Victor
+tl2_name_abbrev: V. Mouton
+tl2_dates: fl. 1875-1901
+tl2_page_id: 33355697
+author_lsid: 23692-1
+wikidata_id: Q21341344
+ipni_surname: Mouton
+ipni_forenames: Victor
+ipni_standard_form: Mouton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

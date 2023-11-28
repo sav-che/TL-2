@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0285
+tl2_volume: suppl8
+tl2_page_printed: 397
+tl2_surname: Grinţescu [Grintescu]
+tl2_forenames: Joan [Ioan, Ion, Jean, Johann]
+tl2_name_abbrev: J. Grinţ.
+tl2_dates: 1874-1963
+tl2_page_id: 33258875
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33258875) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0241
+tl2_volume: vol1
+tl2_page_printed: 188
+tl2_surname: Berger
+tl2_forenames: H. A. C.
+tl2_name_abbrev: H. Berger
+tl2_dates: fl. 1832
+tl2_page_id: 33120319
+author_lsid: 682-1
+wikidata_id: Q19502531
+ipni_surname: Berger
+ipni_forenames: Heinrich Anton Carl
+ipni_standard_form: H.Berger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33120319) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

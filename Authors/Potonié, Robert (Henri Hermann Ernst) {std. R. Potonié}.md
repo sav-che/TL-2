@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0437
+tl2_volume: vol4
+tl2_page_printed: 362
+tl2_surname: Potonié
+tl2_forenames: Robert [Henri Hermann Ernst]
+tl2_name_abbrev: R. Potonié
+tl2_dates: 1889-1974
+tl2_page_id: 33189833
+author_lsid: 25023-1
+wikidata_id: Q19513669
+ipni_surname: Potonié
+ipni_forenames: Robert Henri Hermann Ernst
+ipni_standard_form: R.Potonié
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33189833) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

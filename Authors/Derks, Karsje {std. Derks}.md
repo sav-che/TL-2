@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0246
+tl2_volume: suppl5
+tl2_page_printed: 213
+tl2_surname: Derks
+tl2_forenames: Karsje
+tl2_name_abbrev: Derks
+tl2_dates: 1868-1929
+tl2_page_id: 33259259
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259259) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0418
+tl2_volume: vol7
+tl2_page_printed: 462
+tl2_surname: Wredow
+tl2_forenames: Johann Christian Ludwig [Ludewig]
+tl2_name_abbrev: Wredow
+tl2_dates: 1773-1823
+tl2_page_id: 33066802
+author_lsid: 11878-1
+wikidata_id: Q21613037
+ipni_surname: Wredow
+ipni_forenames: Johann Christian Ludwig(Ludewig)
+ipni_standard_form: Wredow
+ipni_dates: 1773-1823
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33066802) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

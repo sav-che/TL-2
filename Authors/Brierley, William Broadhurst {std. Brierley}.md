@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0078
+tl2_volume: suppl3
+tl2_page_printed: 74
+tl2_surname: Brierley
+tl2_forenames: William Broadhurst
+tl2_name_abbrev: Brierley
+tl2_dates: 1889-1963
+tl2_page_id: 33266381
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33266381) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

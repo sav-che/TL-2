@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0751
+tl2_volume: vol3
+tl2_page_printed: 649
+tl2_surname: Mueller
+tl2_forenames: Nicolaus Jacob Carl
+tl2_name_abbrev: N.J.C. Muell.
+tl2_dates: 1842-1901
+tl2_page_id: 33355736
+author_lsid: 6746-1
+wikidata_id: Q21521837
+ipni_surname: Mueller
+ipni_forenames: Nicolaus Jacob Carl
+ipni_standard_form: N.J.C.Muell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

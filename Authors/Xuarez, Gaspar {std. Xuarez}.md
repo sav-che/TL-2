@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0442
+tl2_volume: vol7
+tl2_page_printed: 483
+tl2_surname: Xuarez
+tl2_forenames: Gaspar
+tl2_name_abbrev: Xuarez
+tl2_dates: 1731-1804
+tl2_page_id: 33066823
+author_lsid: 11914-1
+wikidata_id: Q3776039
+ipni_surname: Xuarez
+ipni_forenames: Gaspar
+ipni_standard_form: Xuarez
+ipni_dates: 1731-1804
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33066823) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

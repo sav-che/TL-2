@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0713
+tl2_volume: vol4
+tl2_page_printed: 734
+tl2_surname: Resvoll-Holmsen
+tl2_forenames: Hanna [Marie]
+tl2_name_abbrev: Resvoll-Holmsen
+tl2_dates: 1873-1943
+tl2_page_id: 33190205
+author_lsid: 8303-1
+wikidata_id: Q3126829
+ipni_surname: Resvoll-Holmsen
+ipni_forenames: Hanna (Marie)
+ipni_standard_form: Resv.-Holms.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

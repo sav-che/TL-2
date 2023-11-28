@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0891
+tl2_volume: vol5
+tl2_page_printed: 883
+tl2_surname: Stenfort
+tl2_forenames: F.
+tl2_name_abbrev: Stenfort
+tl2_dates: fl. 1874
+tl2_page_id: 33334022
+author_lsid: 10094-1
+wikidata_id: Q36557823
+ipni_surname: Stenfort
+ipni_forenames: F.
+ipni_standard_form: Stenfort
+ipni_dates: fl. 1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

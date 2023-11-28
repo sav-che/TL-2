@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0321
+tl2_volume: vol1
+tl2_page_printed: 247
+tl2_surname: Boehmer
+tl2_forenames: Georg Rudolph
+tl2_name_abbrev: Boehmer
+tl2_dates: 1723-1803
+tl2_page_id: 33120378
+author_lsid: 16257-1
+wikidata_id: Q66907
+ipni_surname: Boehmer
+ipni_forenames: Georg Rudolf
+ipni_standard_form: Boehm.
+ipni_dates: 1723-1803
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33120378) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0578
+tl2_volume: vol5
+tl2_page_printed: 592
+tl2_surname: Siegesbeck
+tl2_forenames: Johann Georg
+tl2_name_abbrev: Siegesb.
+tl2_dates: 1686-1755
+tl2_page_id: 33333731
+author_lsid: 9620-1
+wikidata_id: Q92216
+ipni_surname: Siegesbeck
+ipni_forenames: Johann Georg
+ipni_standard_form: Siegesb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

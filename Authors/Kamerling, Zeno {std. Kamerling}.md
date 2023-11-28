@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0575
+tl2_volume: vol2
+tl2_page_printed: 492
+tl2_surname: Kamerling
+tl2_forenames: Zeno
+tl2_name_abbrev: Kamerling
+tl2_dates: 1872-?
+tl2_page_id: 33068734
+author_lsid: 4626-1
+wikidata_id: Q21517249
+ipni_surname: Kamerling
+ipni_forenames: Zeno
+ipni_standard_form: Kamerling
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

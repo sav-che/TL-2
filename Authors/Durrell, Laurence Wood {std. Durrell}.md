@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0212
+tl2_volume: suppl6
+tl2_page_printed: 200
+tl2_surname: Durrell
+tl2_forenames: Laurence Wood
+tl2_name_abbrev: Durrell
+tl2_dates: 1888-x
+tl2_page_id: 33260188
+author_lsid: 18300-1
+wikidata_id: Q36612318
+ipni_surname: Durrell
+ipni_forenames: L.W.
+ipni_standard_form: Durrell
+ipni_dates: fl. 1966
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33260188) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

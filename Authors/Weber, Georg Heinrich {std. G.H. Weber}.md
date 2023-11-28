@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol7_0125
+tl2_volume: vol7
+tl2_page_printed: 128
+tl2_surname: Weber
+tl2_forenames: Georg Heinrich
+tl2_name_abbrev: G.H. Weber
+tl2_dates: 1752-1828
+tl2_page_id: 33066468
+author_lsid: 11465-1
+wikidata_id: Q63875
+ipni_surname: Weber
+ipni_forenames: George Heinrich
+ipni_standard_form: Weber
+ipni_dates: 1752-1828
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33066468) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

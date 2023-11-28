@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0797
+tl2_volume: vol2
+tl2_page_printed: 675
+tl2_surname: Krocker
+tl2_forenames: Anton Johann
+tl2_name_abbrev: Krock.
+tl2_dates: 1744-1823
+tl2_page_id: 33068917
+author_lsid: 5072-1
+wikidata_id: Q5101615
+ipni_surname: Krocker
+ipni_forenames: Anton Johann
+ipni_standard_form: Krock.
+ipni_dates: 1744-1823
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

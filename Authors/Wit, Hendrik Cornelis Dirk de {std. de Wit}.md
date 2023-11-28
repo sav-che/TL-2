@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0352
+tl2_volume: vol7
+tl2_page_printed: 395
+tl2_surname: Wit
+tl2_forenames: Hendrik Cornelis Dirk de
+tl2_name_abbrev: de Wit
+tl2_dates: 1909-x
+tl2_page_id: 33066735
+author_lsid: 2180-1
+wikidata_id: Q957174
+ipni_surname: de Wit
+ipni_forenames: Hendrik Cornelis Dirk
+ipni_standard_form: de Wit
+ipni_dates: 1909-1999
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33066735) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

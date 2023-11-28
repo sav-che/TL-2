@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0496
+tl2_volume: vol6
+tl2_page_printed: 493
+tl2_surname: Trinchinetti
+tl2_forenames: Augusto
+tl2_name_abbrev: Trinchinetti
+tl2_dates: 1813-1847
+tl2_page_id: 33212535
+author_lsid: 10826-1
+wikidata_id: Q21610958
+ipni_surname: Trinchinetti
+ipni_forenames: Augusto
+ipni_standard_form: Trinch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

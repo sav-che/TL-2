@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0238
+tl2_volume: vol6
+tl2_page_printed: 201
+tl2_surname: Teijsmann [Teysmann]
+tl2_forenames: Johannes Elias
+tl2_name_abbrev: Teijsm.
+tl2_dates: 1809-1882
+tl2_page_id: 33212243
+author_lsid: 10486-1
+wikidata_id: Q969548
+ipni_surname: Teijsmann
+ipni_forenames: Johannes Elias
+ipni_standard_form: Teijsm.
+ipni_dates: 1809-1882
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33212243) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

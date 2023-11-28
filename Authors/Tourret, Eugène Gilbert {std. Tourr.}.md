@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0445
+tl2_volume: vol6
+tl2_page_printed: 416
+tl2_surname: Tourret
+tl2_forenames: Eugène Gilbert
+tl2_name_abbrev: Tourr.
+tl2_dates: 1881-1914
+tl2_page_id: 33212458
+author_lsid: 10766-1
+wikidata_id: Q21610904
+ipni_surname: Tourret
+ipni_forenames: Eugène Gilbert
+ipni_standard_form: Tourret
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33212458) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0096
+tl2_volume: vol4
+tl2_page_printed: 84
+tl2_surname: Parvela
+tl2_forenames: August Armas
+tl2_name_abbrev: Parvela
+tl2_dates: 1885-1953
+tl2_page_id: 33189555
+author_lsid: 7373-1
+wikidata_id: Q21522663
+ipni_surname: Parvela
+ipni_forenames: August Armas
+ipni_standard_form: Parvela
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

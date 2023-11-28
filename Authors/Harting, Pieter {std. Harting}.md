@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0090
+tl2_volume: vol2
+tl2_page_printed: 62
+tl2_surname: Harting
+tl2_forenames: Pieter
+tl2_name_abbrev: Harting
+tl2_dates: 1812-1885
+tl2_page_id: 33068304
+author_lsid: 3685-1
+wikidata_id: Q2328219
+ipni_surname: Harting
+ipni_forenames: Pieter
+ipni_standard_form: Harting
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Pteridophytes
+- Algae
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

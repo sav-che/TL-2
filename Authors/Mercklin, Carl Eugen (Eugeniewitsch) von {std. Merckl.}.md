@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0501
+tl2_volume: vol3
+tl2_page_printed: 421
+tl2_surname: Mercklin
+tl2_forenames: Carl Eugen [Eugeniewitsch] von
+tl2_name_abbrev: Merckl.
+tl2_dates: 1821-1904
+tl2_page_id: 33355508
+author_lsid: 6368-1
+wikidata_id: Q4290975
+ipni_surname: Mercklin
+ipni_forenames: Karl Eugen(Eugeniewitsch) von
+ipni_standard_form: Merckl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33355508) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

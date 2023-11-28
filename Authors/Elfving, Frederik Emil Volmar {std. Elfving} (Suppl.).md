@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0341
+tl2_volume: suppl6
+tl2_page_printed: 301
+tl2_surname: Elfving
+tl2_forenames: Frederik Emil Volmar
+tl2_name_abbrev: Elfving
+tl2_dates: 1854-1942
+tl2_page_id: 33260289
+author_lsid: 33028-1
+wikidata_id: Q4411433
+ipni_surname: Elfving
+ipni_forenames: Frederik Emil Volmar
+ipni_standard_form: Elfving
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33260289) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

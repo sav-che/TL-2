@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0172
+tl2_volume: suppl1
+tl2_page_printed: 135
+tl2_surname: Apgar
+tl2_forenames: Austin Craig
+tl2_name_abbrev: A.C. Apgar
+tl2_dates: 1838-1908
+tl2_page_id: 33264862
+author_lsid: 20009104-1
+wikidata_id: Q21505292
+ipni_surname: Apgar
+ipni_forenames: Austin Craig
+ipni_standard_form: Apgar
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33264862) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0435
+tl2_volume: vol5
+tl2_page_printed: 462
+tl2_surname: Scotti
+tl2_forenames: Gilberto
+tl2_name_abbrev: Scotti
+tl2_dates: 1818-1880
+tl2_page_id: 33333601
+author_lsid: 9394-1
+wikidata_id: Q21608572
+ipni_surname: Scotti
+ipni_forenames: Gilberto
+ipni_standard_form: Scotti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

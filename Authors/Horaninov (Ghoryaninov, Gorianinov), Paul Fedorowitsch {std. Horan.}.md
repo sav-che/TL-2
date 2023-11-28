@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0342
+tl2_volume: vol2
+tl2_page_printed: 332
+tl2_surname: Horaninov (Ghoryaninov, Gorianinov)
+tl2_forenames: Paul Fedorowitsch
+tl2_name_abbrev: Horan.
+tl2_dates: 1796-1865
+tl2_page_id: 33068574
+author_lsid: 4102-1
+wikidata_id: Q719091
+ipni_surname: Horaninow
+ipni_forenames: Paul (Paulus) Fedorowitsch
+ipni_standard_form: Horan.
+ipni_dates: 1796-1865
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33068574) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

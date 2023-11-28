@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0055
+tl2_volume: vol5
+tl2_page_printed: 58
+tl2_surname: Sartorius
+tl2_forenames: Carl [Christian Wilhelm], (later Carlos)
+tl2_name_abbrev: Sartorius
+tl2_dates: 1796-1872
+tl2_page_id: 33333197
+author_lsid: 12813-1
+wikidata_id: Q1081683
+ipni_surname: Sartorius
+ipni_forenames: Carl(Carlos) (Christian Wilhelm)
+ipni_standard_form: Sartorius
+ipni_dates: 1796-1872
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33333197) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

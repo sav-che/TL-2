@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0780
+tl2_volume: vol2
+tl2_page_printed: 665
+tl2_surname: Krause
+tl2_forenames: Christian Ludwig
+tl2_name_abbrev: C. Krause
+tl2_dates: fl. 1753
+tl2_page_id: 33068907
+author_lsid: 5038-1
+wikidata_id: Q21517900
+ipni_surname: Krause
+ipni_forenames: Christian Ludwig
+ipni_standard_form: C.Krause
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

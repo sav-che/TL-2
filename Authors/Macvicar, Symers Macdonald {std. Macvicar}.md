@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0257
+tl2_volume: vol3
+tl2_page_printed: 237
+tl2_surname: Macvicar
+tl2_forenames: Symers Macdonald
+tl2_name_abbrev: Macvicar
+tl2_dates: 1857-1932
+tl2_page_id: 33355324
+author_lsid: 22709-1
+wikidata_id: Q21519742
+ipni_surname: Macvicar
+ipni_forenames: Symers Macdonald
+ipni_standard_form: Macvicar
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

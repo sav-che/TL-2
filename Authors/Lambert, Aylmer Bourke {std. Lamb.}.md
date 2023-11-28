@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0866
+tl2_volume: vol2
+tl2_page_printed: 735
+tl2_surname: Lambert
+tl2_forenames: Aylmer Bourke
+tl2_name_abbrev: Lamb.
+tl2_dates: 1761-1842
+tl2_page_id: 33068977
+author_lsid: 5231-1
+wikidata_id: Q374894
+ipni_surname: Lambert
+ipni_forenames: Aylmer Bourke
+ipni_standard_form: Lamb.
+ipni_dates: 1761-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

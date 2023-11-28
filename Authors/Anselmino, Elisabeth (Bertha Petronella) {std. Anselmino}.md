@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0165
+tl2_volume: suppl1
+tl2_page_printed: 129
+tl2_surname: Anselmino
+tl2_forenames: Elisabeth [Bertha Petronella]
+tl2_name_abbrev: Anselmino
+tl2_dates: 1905-x
+tl2_page_id: 33264856
+author_lsid: 232-1
+wikidata_id: Q26713823
+ipni_surname: Anselmino
+ipni_forenames: Elizabeth
+ipni_standard_form: Anselmino
+ipni_dates: fl. 1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33264856) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

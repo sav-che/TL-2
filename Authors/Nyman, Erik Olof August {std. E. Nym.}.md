@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0943
+tl2_volume: vol3
+tl2_page_printed: 799
+tl2_surname: Nyman
+tl2_forenames: Erik Olof August
+tl2_name_abbrev: E. Nym.
+tl2_dates: 1866-1900
+tl2_page_id: 33355886
+author_lsid: 24208-1
+wikidata_id: Q15732417
+ipni_surname: Nyman
+ipni_forenames: Erik Olof August
+ipni_standard_form: E.Nyman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

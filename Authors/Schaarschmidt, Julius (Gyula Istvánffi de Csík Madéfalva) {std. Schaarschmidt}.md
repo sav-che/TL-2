@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0104
+tl2_volume: vol5
+tl2_page_printed: 98
+tl2_surname: Schaarschmidt
+tl2_forenames: Julius (after 1886 Gyula [von] Istvánffi de Csík Madéfalva)
+tl2_name_abbrev: Schaarschmidt
+tl2_dates: 1860-1930
+tl2_page_id: 33333237
+author_lsid: 12574-1
+wikidata_id: Q21516807
+ipni_surname: Istvanfy de Csík Madéfalva
+ipni_forenames: Gyula von
+ipni_standard_form: Istv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

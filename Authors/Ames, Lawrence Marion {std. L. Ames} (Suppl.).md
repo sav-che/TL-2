@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0127
+tl2_volume: suppl1
+tl2_page_printed: 98
+tl2_surname: Ames
+tl2_forenames: Lawrence Marion
+tl2_name_abbrev: L. Ames
+tl2_dates: 1900-1966
+tl2_page_id: 33264825
+author_lsid: 178-1
+wikidata_id: Q21340902
+ipni_surname: Ames
+ipni_forenames: Lawrence Marion
+ipni_standard_form: L.M.Ames
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

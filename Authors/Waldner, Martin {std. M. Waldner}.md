@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0037
+tl2_volume: vol7
+tl2_page_printed: 30
+tl2_surname: Waldner
+tl2_forenames: Martin
+tl2_name_abbrev: M. Waldner
+tl2_dates: fl. 1887
+tl2_page_id: 33066370
+author_lsid: 11331-1
+wikidata_id: Q47128295
+ipni_surname: Waldner
+ipni_forenames: Martin
+ipni_standard_form: M.Waldner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

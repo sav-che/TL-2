@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0120
+tl2_volume: vol4
+tl2_page_printed: 113
+tl2_surname: Paulli [Pauli]
+tl2_forenames: Johan
+tl2_name_abbrev: Paulli
+tl2_dates: 1732-1804
+tl2_page_id: 33189584
+author_lsid: 7409-1
+wikidata_id: Q21522703
+ipni_surname: Paulli
+ipni_forenames: Johan
+ipni_standard_form: Paulli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0718
+tl2_volume: vol2
+tl2_page_printed: 588
+tl2_surname: Koch
+tl2_forenames: Karl
+tl2_name_abbrev: K. Koch Osnabr.
+tl2_dates: fl. 1934
+tl2_page_id: 33068830
+author_lsid: 35178-1
+wikidata_id: Q15428858
+ipni_surname: Koch
+ipni_forenames: Karl
+ipni_standard_form: K.Koch bis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

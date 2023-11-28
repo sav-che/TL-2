@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0127
+tl2_volume: vol5
+tl2_page_printed: 118
+tl2_surname: Schatz
+tl2_forenames: [Jakob] Wilhelm
+tl2_name_abbrev: W. Schatz
+tl2_dates: 1802-1867
+tl2_page_id: 33333257
+author_lsid: 9019-1
+wikidata_id: Q21607870
+ipni_surname: Schatz
+ipni_forenames: Jacob Wilhelm
+ipni_standard_form: Schatz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

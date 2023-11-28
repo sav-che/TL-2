@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0927
+tl2_volume: vol1
+tl2_page_printed: 730
+tl2_surname: Ehret
+tl2_forenames: Georg Diomys(ius)
+tl2_name_abbrev: Ehret
+tl2_dates: 1708-1770
+tl2_page_id: 33120861
+author_lsid: 2484-1
+wikidata_id: Q62952
+ipni_surname: Ehret
+ipni_forenames: Georg Dionysius
+ipni_standard_form: Ehret
+ipni_dates: 1708-1770
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33120861) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

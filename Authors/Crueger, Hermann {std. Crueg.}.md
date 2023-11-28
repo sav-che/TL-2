@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0718
+tl2_volume: vol1
+tl2_page_printed: 570
+tl2_surname: Crueger
+tl2_forenames: Hermann
+tl2_name_abbrev: Crueg.
+tl2_dates: 1818-1864
+tl2_page_id: 33120701
+author_lsid: 1896-1
+wikidata_id: Q20987271
+ipni_surname: Crueger
+ipni_forenames: Hermann
+ipni_standard_form: Crueg.
+ipni_dates: 1818-1864
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33120701) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

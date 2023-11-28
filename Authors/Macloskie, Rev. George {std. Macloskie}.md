@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0245
+tl2_volume: vol3
+tl2_page_printed: 229
+tl2_surname: Macloskie
+tl2_forenames: Rev. George
+tl2_name_abbrev: Macloskie
+tl2_dates: 1834-1919
+tl2_page_id: 33355316
+author_lsid: 5946-1
+wikidata_id: Q8963834
+ipni_surname: Macloskie
+ipni_forenames: George
+ipni_standard_form: Macloskie
+ipni_dates: 1834-1919
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

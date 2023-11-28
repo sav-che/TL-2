@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0663
+tl2_volume: vol4
+tl2_page_printed: 648
+tl2_surname: Regnault
+tl2_forenames: Nicolas François
+tl2_name_abbrev: Regnault
+tl2_dates: 1746-?
+tl2_page_id: 33190119
+author_lsid: 8239-1
+wikidata_id: Q21607068
+ipni_surname: Regnault
+ipni_forenames: Nicolas François
+ipni_standard_form: Regnault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33190119) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

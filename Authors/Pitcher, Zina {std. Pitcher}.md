@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0334
+tl2_volume: vol4
+tl2_page_printed: 278
+tl2_surname: Pitcher
+tl2_forenames: Zina
+tl2_name_abbrev: Pitcher
+tl2_dates: 1797-1872
+tl2_page_id: 33189749
+author_lsid: 7733-1
+wikidata_id: Q8072235
+ipni_surname: Pitcher
+ipni_forenames: Zina
+ipni_standard_form: Pitcher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33189749) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

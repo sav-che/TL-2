@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0220
+tl2_volume: vol5
+tl2_page_printed: 236
+tl2_surname: Schmid
+tl2_forenames: Günther
+tl2_name_abbrev: G. Schmid
+tl2_dates: 1888-1949
+tl2_page_id: 33333375
+author_lsid: 9144-1
+wikidata_id: Q20733712
+ipni_surname: Schmid
+ipni_forenames: Wilhelm Gustav Günther
+ipni_standard_form: W.G.G.Schmid
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33333375) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

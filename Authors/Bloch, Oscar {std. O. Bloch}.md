@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0265
+tl2_volume: suppl2
+tl2_page_printed: 215
+tl2_surname: Bloch
+tl2_forenames: Oscar
+tl2_name_abbrev: O. Bloch
+tl2_dates: 1856-?
+tl2_page_id: 33265412
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

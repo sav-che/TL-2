@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0110
+tl2_volume: vol1
+tl2_page_printed: 80
+tl2_surname: Aubriot
+tl2_forenames: L. J.
+tl2_name_abbrev: Aubriot
+tl2_dates: fl. 1885
+tl2_page_id: 33120211
+author_lsid: 329-1
+wikidata_id: Q36610870
+ipni_surname: Aubriot
+ipni_forenames: L.J.
+ipni_standard_form: Aubriot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

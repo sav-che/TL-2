@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0189
+tl2_volume: vol2
+tl2_page_printed: 162
+tl2_surname: Henschen
+tl2_forenames: Salomon Eberhard
+tl2_name_abbrev: Henschen
+tl2_dates: 1847-1930
+tl2_page_id: 33068404
+author_lsid: 3856-1
+wikidata_id: Q2214976
+ipni_surname: Henschen
+ipni_forenames: Salomon Eberhard
+ipni_standard_form: Henschen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

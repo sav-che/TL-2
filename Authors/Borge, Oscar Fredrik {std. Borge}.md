@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0394
+tl2_volume: suppl2
+tl2_page_printed: 336
+tl2_surname: Borge
+tl2_forenames: Oscar Fredrik
+tl2_name_abbrev: Borge
+tl2_dates: 1862-1938
+tl2_page_id: 33265533
+author_lsid: 20026780-1
+wikidata_id: Q5582439
+ipni_surname: Borge
+ipni_forenames: Oskar Fredrik
+ipni_standard_form: Borge
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265533) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0289
+tl2_volume: suppl5
+tl2_page_printed: 253
+tl2_surname: Dewalque
+tl2_forenames: Gilles Joseph Gustave
+tl2_name_abbrev: Dewalque
+tl2_dates: 1828-1905
+tl2_page_id: 33259299
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

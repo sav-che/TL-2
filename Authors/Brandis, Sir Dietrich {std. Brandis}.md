@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0402
+tl2_volume: vol1
+tl2_page_printed: 304
+tl2_surname: Brandis
+tl2_forenames: Sir Dietrich
+tl2_name_abbrev: Brandis
+tl2_dates: 1824-1907
+tl2_page_id: 33120435
+author_lsid: 1076-1
+wikidata_id: Q71069
+ipni_surname: Brandis
+ipni_forenames: Dietrich
+ipni_standard_form: Brandis
+ipni_dates: 1824-1907
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33120435) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

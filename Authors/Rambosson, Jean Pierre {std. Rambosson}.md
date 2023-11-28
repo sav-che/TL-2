@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0580
+tl2_volume: vol4
+tl2_page_printed: 570
+tl2_surname: Rambosson
+tl2_forenames: Jean Pierre
+tl2_name_abbrev: Rambosson
+tl2_dates: 1827-1886
+tl2_page_id: 33190041
+author_lsid: 35199-1
+wikidata_id: Q15074313
+ipni_surname: Rambosson
+ipni_forenames: Jean Pierre
+ipni_standard_form: Rambosson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

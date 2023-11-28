@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl4_0104
+tl2_volume: suppl4
+tl2_page_printed: 133
+tl2_surname: Cholnoky
+tl2_forenames: Béla Jenö
+tl2_name_abbrev: Cholnoky
+tl2_dates: 1899-1972
+tl2_page_id: 33265810
+author_lsid: 32731-1
+wikidata_id: Q21508499
+ipni_surname: Cholnoky
+ipni_forenames: Béla Jenö
+ipni_standard_form: Cholnoky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- South Africa
+- Hungary
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33265810) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

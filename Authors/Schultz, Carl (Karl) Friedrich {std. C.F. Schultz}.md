@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0351
+tl2_volume: vol5
+tl2_page_printed: 370
+tl2_surname: Schultz
+tl2_forenames: Carl [Karl] Friedrich
+tl2_name_abbrev: C.F. Schultz
+tl2_dates: 1765 (1766?)-1837
+tl2_page_id: 33333509
+author_lsid: 26392-1
+wikidata_id: Q8263441
+ipni_surname: Schultz
+ipni_forenames: Carl(Karl) Friedrich
+ipni_standard_form: Schultz
+ipni_dates: 1765~6-1837
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33333509) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0328
+tl2_volume: vol7
+tl2_page_printed: 371
+tl2_surname: Winkler
+tl2_forenames: Hans Karl Albert
+tl2_name_abbrev: Ha. Winkl.
+tl2_dates: 1877-1945
+tl2_page_id: 33066711
+author_lsid: 11766-1
+wikidata_id: Q77892
+ipni_surname: Winkler
+ipni_forenames: Hans Karl Albert
+ipni_standard_form: H.K.A.Winkl.
+ipni_dates: 1877-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33066711) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

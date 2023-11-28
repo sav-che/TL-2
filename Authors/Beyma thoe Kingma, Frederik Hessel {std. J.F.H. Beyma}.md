@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0175
+tl2_volume: suppl2
+tl2_page_printed: 152
+tl2_surname: Beyma thoe Kingma
+tl2_forenames: Frederik Hessel
+tl2_name_abbrev: J.F.H. Beyma
+tl2_dates: 1885-1966
+tl2_page_id: 33265349
+author_lsid: 28164-1
+wikidata_id: Q21506052
+ipni_surname: Beyma
+ipni_forenames: J.F.H.van
+ipni_standard_form: J.F.H.Beyma
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33265349) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

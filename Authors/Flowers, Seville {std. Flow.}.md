@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1051
+tl2_volume: vol1
+tl2_page_printed: 848
+tl2_surname: Flowers
+tl2_forenames: Seville
+tl2_name_abbrev: Flow.
+tl2_dates: 1900-1968
+tl2_page_id: 33120979
+author_lsid: 2794-1
+wikidata_id: Q21390716
+ipni_surname: Flowers
+ipni_forenames: Seville
+ipni_standard_form: Flowers
+ipni_dates: 1900-1968
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

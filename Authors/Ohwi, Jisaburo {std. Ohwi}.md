@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0967
+tl2_volume: vol3
+tl2_page_printed: 814
+tl2_surname: Ohwi
+tl2_forenames: Jisaburo
+tl2_name_abbrev: Ohwi
+tl2_dates: 1905-1977
+tl2_page_id: 33355901
+author_lsid: 7112-1
+wikidata_id: Q4332375
+ipni_surname: Ohwi
+ipni_forenames: Jisaburo
+ipni_standard_form: Ohwi
+ipni_dates: 1905-1977
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

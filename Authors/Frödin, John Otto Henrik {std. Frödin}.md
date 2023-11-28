@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0035
+tl2_volume: suppl8
+tl2_page_printed: 60
+tl2_surname: Frödin
+tl2_forenames: John Otto Henrik
+tl2_name_abbrev: Frödin
+tl2_dates: 1879-1960
+tl2_page_id: 33258538
+author_lsid: 20027965-1
+wikidata_id: Q5746418
+ipni_surname: Frödin
+ipni_forenames: John
+ipni_standard_form: J.Frödin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33258538) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0462
+tl2_volume: vol5
+tl2_page_printed: 488
+tl2_surname: Segura
+tl2_forenames: José Carmen
+tl2_name_abbrev: Segura
+tl2_dates: 1846-1906
+tl2_page_id: 33333627
+author_lsid: 9427-1
+wikidata_id: Q21608619
+ipni_surname: Segura
+ipni_forenames: José Carmen
+ipni_standard_form: Segura
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33333627) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

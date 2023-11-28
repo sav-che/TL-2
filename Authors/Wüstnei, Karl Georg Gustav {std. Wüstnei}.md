@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0428
+tl2_volume: vol7
+tl2_page_printed: 474
+tl2_surname: Wüstnei
+tl2_forenames: Karl Georg Gustav
+tl2_name_abbrev: Wüstnei
+tl2_dates: 1810-1858
+tl2_page_id: 33066814
+author_lsid: 11896-1
+wikidata_id: Q21613123
+ipni_surname: Wüstnei
+ipni_forenames: Karl Georg Gustav
+ipni_standard_form: Wüstnei
+ipni_dates: 1810-1858
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

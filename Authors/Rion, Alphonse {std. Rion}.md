@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0791
+tl2_volume: vol4
+tl2_page_printed: 797
+tl2_surname: Rion
+tl2_forenames: Alphonse
+tl2_name_abbrev: Rion
+tl2_dates: 1809-1856
+tl2_page_id: 33190268
+author_lsid: 8404-1
+wikidata_id: Q21607233
+ipni_surname: Rion
+ipni_forenames: Alphonse
+ipni_standard_form: Rion
+ipni_dates: 1809-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

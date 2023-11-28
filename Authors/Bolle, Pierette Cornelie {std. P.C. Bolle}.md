@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0352
+tl2_volume: suppl2
+tl2_page_printed: 296
+tl2_surname: Bolle
+tl2_forenames: Pierette Cornelie
+tl2_name_abbrev: P.C. Bolle
+tl2_dates: 1893-1945
+tl2_page_id: 33265493
+author_lsid: 16301-1
+wikidata_id: Q6075431
+ipni_surname: Bolle
+ipni_forenames: Pierette Cornelie
+ipni_standard_form: P.C.Bolle
+ipni_dates: 1893-1945
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

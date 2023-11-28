@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0167
+tl2_volume: suppl1
+tl2_page_printed: 131
+tl2_surname: Antevs
+tl2_forenames: Ernst Valdemar
+tl2_name_abbrev: Antevs
+tl2_dates: 1888-?
+tl2_page_id: 33264858
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33264858) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

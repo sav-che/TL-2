@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0653
+tl2_volume: vol2
+tl2_page_printed: 548
+tl2_surname: Kirby
+tl2_forenames: Mary (1860 Mrs. H. Gregg)
+tl2_name_abbrev: Kirby
+tl2_dates: 1817-1893
+tl2_page_id: 33068790
+author_lsid: 12608-1
+wikidata_id: Q18576728
+ipni_surname: Kirby
+ipni_forenames: Mary
+ipni_standard_form: Kirby
+ipni_dates: 1817-1893
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

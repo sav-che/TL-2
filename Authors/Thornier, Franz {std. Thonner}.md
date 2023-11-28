@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0340
+tl2_volume: vol6
+tl2_page_printed: 288
+tl2_surname: Thornier
+tl2_forenames: Franz
+tl2_name_abbrev: Thonner
+tl2_dates: 1863-1928
+tl2_page_id: 33212330
+author_lsid: 10622-1
+wikidata_id: Q3083161
+ipni_surname: Thonner
+ipni_forenames: Franz
+ipni_standard_form: Thonner
+ipni_dates: 1863-1928
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33212330) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

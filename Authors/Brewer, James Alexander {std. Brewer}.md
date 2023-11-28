@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0423
+tl2_volume: vol1
+tl2_page_printed: 321
+tl2_surname: Brewer
+tl2_forenames: James Alexander
+tl2_name_abbrev: Brewer
+tl2_dates: 1818-1886
+tl2_page_id: 33120452
+author_lsid: 1129-1
+wikidata_id: Q10305051
+ipni_surname: Brewer
+ipni_forenames: James Alexander
+ipni_standard_form: Brewer
+ipni_dates: 1818-1886
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0310
+tl2_volume: vol4
+tl2_page_printed: 262
+tl2_surname: Pijl
+tl2_forenames: Leendert van der
+tl2_name_abbrev: v.d. Pijl
+tl2_dates: 1903-x
+tl2_page_id: 33189733
+author_lsid: 7695-1
+wikidata_id: Q1812134
+ipni_surname: Pijl
+ipni_forenames: Leendert van der
+ipni_standard_form: Pijl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Indonesia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

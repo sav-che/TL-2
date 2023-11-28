@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0360
+tl2_volume: suppl6
+tl2_page_printed: 326
+tl2_surname: Eloffe
+tl2_forenames: Arthur
+tl2_name_abbrev: Eloffe
+tl2_dates: 1826-x
+tl2_page_id: 33260314
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33260314) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

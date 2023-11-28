@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0087
+tl2_volume: vol6
+tl2_page_printed: 72
+tl2_surname: Sturm
+tl2_forenames: Johann Wilhelm
+tl2_name_abbrev: J.W. Sturm
+tl2_dates: 1808-1865
+tl2_page_id: 33212114
+author_lsid: 10254-1
+wikidata_id: Q1447354
+ipni_surname: Sturm
+ipni_forenames: Johann Wilhelm
+ipni_standard_form: J.W.Sturm
+ipni_dates: 1808-1865
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33212114) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

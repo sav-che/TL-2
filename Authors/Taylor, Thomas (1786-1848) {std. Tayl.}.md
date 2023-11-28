@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0227
+tl2_volume: vol6
+tl2_page_printed: 190
+tl2_surname: Taylor
+tl2_forenames: Thomas (1786-1848)
+tl2_name_abbrev: Tayl.
+tl2_dates: 1786-1848
+tl2_page_id: 33212232
+author_lsid: 10473-1
+wikidata_id: Q7794377
+ipni_surname: Taylor
+ipni_forenames: Thomas
+ipni_standard_form: Taylor
+ipni_dates: 1775-1848
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33212232) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

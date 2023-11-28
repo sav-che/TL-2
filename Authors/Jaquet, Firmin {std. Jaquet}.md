@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0472
+tl2_volume: vol2
+tl2_page_printed: 425
+tl2_surname: Jaquet
+tl2_forenames: Firmin
+tl2_name_abbrev: Jaquet
+tl2_dates: 1858-1933
+tl2_page_id: 33068667
+author_lsid: 4430-1
+wikidata_id: Q21516938
+ipni_surname: Jaquet
+ipni_forenames: Firmin
+ipni_standard_form: Jaquet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

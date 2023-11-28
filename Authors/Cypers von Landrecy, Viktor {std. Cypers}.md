@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0448
+tl2_volume: suppl4
+tl2_page_printed: 527
+tl2_surname: Cypers von Landrecy
+tl2_forenames: Viktor
+tl2_name_abbrev: Cypers
+tl2_dates: 1857-1930
+tl2_page_id: 33266204
+author_lsid: 22024-1
+wikidata_id: Q21509684
+ipni_surname: Cypers von Landrecy
+ipni_forenames: Viktor
+ipni_standard_form: Cypers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

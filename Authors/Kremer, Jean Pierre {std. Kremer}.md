@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0791
+tl2_volume: vol2
+tl2_page_printed: 670
+tl2_surname: Kremer
+tl2_forenames: Jean Pierre
+tl2_name_abbrev: Kremer
+tl2_dates: 1812-1867
+tl2_page_id: 33068912
+author_lsid: 21736-1
+wikidata_id: Q21517928
+ipni_surname: Kremer
+ipni_forenames: Jean Pierre
+ipni_standard_form: Kremer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

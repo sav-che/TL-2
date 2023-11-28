@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0503
+tl2_volume: vol2
+tl2_page_printed: 446
+tl2_surname: Johann Baptist
+tl2_forenames: Fabian Sebastian, Archduke of Austria
+tl2_name_abbrev: Johann Baptist
+tl2_dates: 1782-1859
+tl2_page_id: 33068688
+author_lsid: 4500-1
+wikidata_id: Q21517043
+ipni_surname: Johann Baptist
+ipni_forenames: Fabian Sebastian
+ipni_standard_form: Joh.Baptist
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

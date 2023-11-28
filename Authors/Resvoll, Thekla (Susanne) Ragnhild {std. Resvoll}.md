@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0712
+tl2_volume: vol4
+tl2_page_printed: 734
+tl2_surname: Resvoll
+tl2_forenames: Thekla [Susanne] Ragnhild
+tl2_name_abbrev: Resvoll
+tl2_dates: 1871-1948
+tl2_page_id: 33190205
+author_lsid: 8302-1
+wikidata_id: Q500677
+ipni_surname: Resvoll
+ipni_forenames: Thekla Susanne Ragnhild
+ipni_standard_form: Resvoll
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

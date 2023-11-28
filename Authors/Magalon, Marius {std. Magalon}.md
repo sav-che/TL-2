@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0263
+tl2_volume: vol3
+tl2_page_printed: 241
+tl2_surname: Magalon
+tl2_forenames: Marius
+tl2_name_abbrev: Magalon
+tl2_dates: fl. 1929
+tl2_page_id: 33355328
+author_lsid: 5978-1
+wikidata_id: Q33683218
+ipni_surname: Magalon
+ipni_forenames: Maurius
+ipni_standard_form: Magalon
+ipni_dates: fl. 1929
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Viet Nam
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

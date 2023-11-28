@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0814
+tl2_volume: vol5
+tl2_page_printed: 820
+tl2_surname: Spruner
+tl2_forenames: Wilhelm von
+tl2_name_abbrev: Sprun.
+tl2_dates: 1805-1874
+tl2_page_id: 33333959
+author_lsid: 9996-1
+wikidata_id: Q6167479
+ipni_surname: Spruner
+ipni_forenames: Wilhelm von
+ipni_standard_form: Spruner
+ipni_dates: 1805-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

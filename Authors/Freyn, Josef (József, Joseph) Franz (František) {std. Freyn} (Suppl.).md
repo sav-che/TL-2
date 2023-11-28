@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0003
+tl2_volume: suppl8
+tl2_page_printed: 5
+tl2_surname: Freyn
+tl2_forenames: Josef [József, Joseph] Franz [František]
+tl2_name_abbrev: Freyn
+tl2_dates: 1845-1903
+tl2_page_id: 33258521
+author_lsid: 2901-1
+wikidata_id: Q2502575
+ipni_surname: Freyn
+ipni_forenames: Josef Franz
+ipni_standard_form: Freyn
+ipni_dates: 1845-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33258521) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

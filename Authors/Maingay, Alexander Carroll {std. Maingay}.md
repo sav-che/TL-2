@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0276
+tl2_volume: vol3
+tl2_page_printed: 256
+tl2_surname: Maingay
+tl2_forenames: Alexander Carroll
+tl2_name_abbrev: Maingay
+tl2_dates: 1836-1869
+tl2_page_id: 33355343
+author_lsid: 5996-1
+wikidata_id: Q5666129
+ipni_surname: Maingay
+ipni_forenames: Alexander Carroll
+ipni_standard_form: Maingay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Burma
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

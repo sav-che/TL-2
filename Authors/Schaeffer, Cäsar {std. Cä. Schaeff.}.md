@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0113
+tl2_volume: vol5
+tl2_page_printed: 104
+tl2_surname: Schaeffer
+tl2_forenames: Cäsar
+tl2_name_abbrev: Cä. Schaeff.
+tl2_dates: 1867-1944
+tl2_page_id: 33333243
+author_lsid: 9003-1
+wikidata_id: Q21607851
+ipni_surname: Schaeffer
+ipni_forenames: Cäsar
+ipni_standard_form: C.Schaeff.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

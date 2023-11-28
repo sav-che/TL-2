@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0457
+tl2_volume: vol5
+tl2_page_printed: 482
+tl2_surname: Seenus
+tl2_forenames: Joseph Freiherr von
+tl2_name_abbrev: Seenus
+tl2_dates: fl. 1805
+tl2_page_id: 33333621
+author_lsid: 9420-1
+wikidata_id: Q19001937
+ipni_surname: Seenus
+ipni_forenames: Josef von
+ipni_standard_form: Seenus
+ipni_dates: fl. 1799-1805
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33333621) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

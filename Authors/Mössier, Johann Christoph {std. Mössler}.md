@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0620
+tl2_volume: vol3
+tl2_page_printed: 538
+tl2_surname: Mössier
+tl2_forenames: Johann Christoph
+tl2_name_abbrev: Mössler
+tl2_dates: fl. 1815
+tl2_page_id: 33355625
+author_lsid: 12687-1
+wikidata_id: Q5932921
+ipni_surname: Mössler
+ipni_forenames: Johann Christoph
+ipni_standard_form: Mössler
+ipni_dates: fl. 1805-1835
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33355625) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

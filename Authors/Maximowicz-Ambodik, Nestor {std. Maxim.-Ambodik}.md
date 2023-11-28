@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0439
+tl2_volume: vol3
+tl2_page_printed: 381
+tl2_surname: Maximowicz-Ambodik
+tl2_forenames: Nestor
+tl2_name_abbrev: Maxim.-Ambodik
+tl2_dates: 1740-1812
+tl2_page_id: 33355468
+author_lsid: 6267-1
+wikidata_id: Q21520158
+ipni_surname: Maximowicz-Ambodik
+ipni_forenames: Nestor
+ipni_standard_form: Maxim.-Amb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33355468) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

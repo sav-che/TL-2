@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0152
+tl2_volume: vol5
+tl2_page_printed: 142
+tl2_surname: Scheuchzer
+tl2_forenames: Johann Jakob
+tl2_name_abbrev: J.J. Scheuchzer
+tl2_dates: 1672-1733
+tl2_page_id: 33333281
+author_lsid: 9063-1
+wikidata_id: Q123900
+ipni_surname: Scheuchzer
+ipni_forenames: Johann Jacob(Jakob)
+ipni_standard_form: J.J.Scheuchzer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33333281) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

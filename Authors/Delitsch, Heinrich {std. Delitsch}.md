@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0200
+tl2_volume: suppl5
+tl2_page_printed: 181
+tl2_surname: Delitsch
+tl2_forenames: Heinrich
+tl2_name_abbrev: Delitsch
+tl2_dates: 1899-x
+tl2_page_id: 33259227
+author_lsid: 17911-1
+wikidata_id: Q36572006
+ipni_surname: Delitsch
+ipni_forenames: Heinrich
+ipni_standard_form: Delitsch
+ipni_dates: fl. 1943
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

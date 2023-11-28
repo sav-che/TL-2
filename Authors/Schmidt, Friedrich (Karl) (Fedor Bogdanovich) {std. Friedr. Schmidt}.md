@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0231
+tl2_volume: vol5
+tl2_page_printed: 250
+tl2_surname: Schmidt
+tl2_forenames: Friedrich [Karl] [Fedor Bogdanovich]
+tl2_name_abbrev: Friedr. Schmidt
+tl2_dates: 1832-1908
+tl2_page_id: 33333389
+author_lsid: 9159-1
+wikidata_id: Q283881
+ipni_surname: Schmidt
+ipni_forenames: Friedrich (Karl) (Fedor Bogdanovich)
+ipni_standard_form: F.Schmidt
+ipni_dates: 1832-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33333389) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

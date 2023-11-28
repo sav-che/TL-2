@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1029
+tl2_volume: vol2
+tl2_page_printed: 862
+tl2_surname: Leunis
+tl2_forenames: Johannis
+tl2_name_abbrev: Leunis
+tl2_dates: 1802-1873
+tl2_page_id: 33069104
+author_lsid: 5527-1
+wikidata_id: Q102540
+ipni_surname: Leunis
+ipni_forenames: Johannis
+ipni_standard_form: Leunis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33069104) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

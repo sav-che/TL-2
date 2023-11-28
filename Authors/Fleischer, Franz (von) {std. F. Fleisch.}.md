@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0165
+tl2_volume: suppl7
+tl2_page_printed: 246
+tl2_surname: Fleischer
+tl2_forenames: Franz (von)
+tl2_name_abbrev: F. Fleisch.
+tl2_dates: 1801-1878
+tl2_page_id: 33259750
+author_lsid: 2775-1
+wikidata_id: Q1449900
+ipni_surname: Fleischer
+ipni_forenames: Franz von
+ipni_standard_form: F.Fleisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33259750) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

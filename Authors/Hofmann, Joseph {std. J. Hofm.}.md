@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0300
+tl2_volume: vol2
+tl2_page_printed: 248
+tl2_surname: Hofmann
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Hofm.
+tl2_dates: 1822-1901
+tl2_page_id: 33068490
+author_lsid: 4028-1
+wikidata_id: Q21515940
+ipni_surname: Hofmann
+ipni_forenames: Joseph
+ipni_standard_form: J.Hofm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

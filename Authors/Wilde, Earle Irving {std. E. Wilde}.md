@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0267
+tl2_volume: vol7
+tl2_page_printed: 291
+tl2_surname: Wilde
+tl2_forenames: Earle Irving
+tl2_name_abbrev: E. Wilde
+tl2_dates: 1888-1949
+tl2_page_id: 33066631
+author_lsid: 11674-1
+wikidata_id: Q21612682
+ipni_surname: Wilde
+ipni_forenames: Earle Irving
+ipni_standard_form: E.Wilde
+ipni_dates: 1888-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

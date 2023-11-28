@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0060
+tl2_volume: vol1
+tl2_page_printed: 42
+tl2_surname: Amo y Mora
+tl2_forenames: Mariano del
+tl2_name_abbrev: Amo
+tl2_dates: 1820-1896
+tl2_page_id: 33120173
+author_lsid: 182-1
+wikidata_id: Q9029033
+ipni_surname: Amo y Mora
+ipni_forenames: Mariano del
+ipni_standard_form: Amo
+ipni_dates: 1809-1896
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0803
+tl2_volume: vol1
+tl2_page_printed: 626
+tl2_surname: Deschamps
+tl2_forenames: Louis Auguste
+tl2_name_abbrev: Deschamps
+tl2_dates: 1765-1842
+tl2_page_id: 33120757
+author_lsid: 2144-1
+wikidata_id: Q3261136
+ipni_surname: Deschamps
+ipni_forenames: Louis Auguste
+ipni_standard_form: Deschamps
+ipni_dates: 1765-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33120757) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0788
+tl2_volume: vol5
+tl2_page_printed: 789
+tl2_surname: Spieler
+tl2_forenames: Alexander Julius Theodor
+tl2_name_abbrev: Spieler
+tl2_dates: 1817-?
+tl2_page_id: 33333928
+author_lsid: 9968-1
+wikidata_id: Q21609292
+ipni_surname: Spieler
+ipni_forenames: Alexander Julius Theodor
+ipni_standard_form: Spieler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

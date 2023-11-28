@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0994
+tl2_volume: vol2
+tl2_page_printed: 841
+tl2_surname: Lemoine (Pierre Louis) Victor
+tl2_forenames: Lemoine (Pierre Louis) Victor
+tl2_name_abbrev: Lemoine
+tl2_dates: 1823-1911
+tl2_page_id: 33069083
+author_lsid: 5468-1
+wikidata_id: Q1974313
+ipni_surname: Lemoine
+ipni_forenames: (Pierre Louis) Victor
+ipni_standard_form: Lemoine
+ipni_dates: 1823-1911
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-01-04 07:42:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33069083) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

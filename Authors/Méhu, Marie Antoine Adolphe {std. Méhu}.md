@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0466
+tl2_volume: vol3
+tl2_page_printed: 400
+tl2_surname: Méhu
+tl2_forenames: Marie Antoine Adolphe
+tl2_name_abbrev: Méhu
+tl2_dates: 1840-1881
+tl2_page_id: 33355487
+author_lsid: 6310-1
+wikidata_id: Q21520326
+ipni_surname: Méhu
+ipni_forenames: Marie Antoine Adolphe
+ipni_standard_form: Méhu
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

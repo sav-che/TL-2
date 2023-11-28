@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0079
+tl2_volume: suppl4
+tl2_page_printed: 89
+tl2_surname: Chesters
+tl2_forenames: Charles Geddes Coull
+tl2_name_abbrev: Chesters
+tl2_dates: 1904-x
+tl2_page_id: 33265766
+author_lsid: 17168-1
+wikidata_id: Q21077871
+ipni_surname: Chesters
+ipni_forenames: Charles Geddes Coull
+ipni_standard_form: Chesters
+ipni_dates: 1904-1993
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

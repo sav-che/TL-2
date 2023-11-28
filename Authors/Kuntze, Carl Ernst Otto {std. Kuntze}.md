@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0821
+tl2_volume: vol2
+tl2_page_printed: 698
+tl2_surname: Kuntze
+tl2_forenames: Carl Ernst Otto
+tl2_name_abbrev: Kuntze
+tl2_dates: 1843-1907
+tl2_page_id: 33068940
+author_lsid: 12634-1
+wikidata_id: Q62853
+ipni_surname: Kuntze
+ipni_forenames: Carl Ernst Otto
+ipni_standard_form: Kuntze
+ipni_dates: 1843-1907
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33068940) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

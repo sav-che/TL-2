@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0358
+tl2_volume: vol5
+tl2_page_printed: 382
+tl2_surname: Schultze
+tl2_forenames: Johannes Dominik
+tl2_name_abbrev: J.D. Schultze
+tl2_dates: 1752-1790
+tl2_page_id: 33333521
+author_lsid: 9301-1
+wikidata_id: Q21608479
+ipni_surname: Schultze
+ipni_forenames: Johannes Dominik (Johann Dominicus)
+ipni_standard_form: J.D.Schultze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

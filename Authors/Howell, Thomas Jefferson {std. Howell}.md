@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0368
+tl2_volume: vol2
+tl2_page_printed: 350
+tl2_surname: Howell
+tl2_forenames: Thomas Jefferson
+tl2_name_abbrev: Howell
+tl2_dates: 1842-1912
+tl2_page_id: 33068592
+author_lsid: 4165-1
+wikidata_id: Q1763905
+ipni_surname: Howell
+ipni_forenames: Thomas Jefferson
+ipni_standard_form: Howell
+ipni_dates: 1842-1912
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33068592) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

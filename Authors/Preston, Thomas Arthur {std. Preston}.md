@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0475
+tl2_volume: vol4
+tl2_page_printed: 395
+tl2_surname: Preston
+tl2_forenames: Thomas Arthur
+tl2_name_abbrev: Preston
+tl2_dates: 1838-1905
+tl2_page_id: 33189866
+author_lsid: 7949-1
+wikidata_id: Q21523232
+ipni_surname: Preston
+ipni_forenames: Thomas Arthur
+ipni_standard_form: Preston
+ipni_dates: 1838-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

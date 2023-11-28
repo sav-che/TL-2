@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0171
+tl2_volume: suppl7
+tl2_page_printed: 256
+tl2_surname: Flett
+tl2_forenames: John Bakkie
+tl2_name_abbrev: Flett
+tl2_dates: 1857-1942
+tl2_page_id: 33259760
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

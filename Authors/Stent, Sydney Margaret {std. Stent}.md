@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0895
+tl2_volume: vol5
+tl2_page_printed: 886
+tl2_surname: Stent
+tl2_forenames: Sydney Margaret
+tl2_name_abbrev: Stent
+tl2_dates: 1875-1942
+tl2_page_id: 33334025
+author_lsid: 10098-1
+wikidata_id: Q2868331
+ipni_surname: Stent
+ipni_forenames: Sydney Margaret
+ipni_standard_form: Stent
+ipni_dates: 1875-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

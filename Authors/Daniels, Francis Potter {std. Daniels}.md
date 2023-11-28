@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0752
+tl2_volume: vol1
+tl2_page_printed: 597
+tl2_surname: Daniels
+tl2_forenames: Francis Potter
+tl2_name_abbrev: F.P. Daniels
+tl2_dates: 1869-1947
+tl2_page_id: 33120728
+author_lsid: 1986-1
+wikidata_id: Q21509778
+ipni_surname: Daniels
+ipni_forenames: Francis Potter
+ipni_standard_form: Daniels
+ipni_dates: 1869-1947
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

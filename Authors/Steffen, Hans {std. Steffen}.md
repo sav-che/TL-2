@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0869
+tl2_volume: vol5
+tl2_page_printed: 869
+tl2_surname: Steffen
+tl2_forenames: Hans
+tl2_name_abbrev: Steffen
+tl2_dates: 1891-?
+tl2_page_id: 33334008
+author_lsid: 10068-1
+wikidata_id: Q21609671
+ipni_surname: Steffen
+ipni_forenames: Hans Hermann
+ipni_standard_form: Steffen
+ipni_dates: 1882-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-04-26 02:45:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0333
+tl2_volume: vol3
+tl2_page_printed: 293
+tl2_surname: Margot
+tl2_forenames: Henri
+tl2_name_abbrev: Margot
+tl2_dates: 1807-1894
+tl2_page_id: 33355380
+author_lsid: 6103-1
+wikidata_id: Q3131568
+ipni_surname: Margot
+ipni_forenames: Henri
+ipni_standard_form: Margot
+ipni_dates: 1807-1894
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

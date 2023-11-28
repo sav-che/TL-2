@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0245
+tl2_volume: suppl2
+tl2_page_printed: 203
+tl2_surname: Blanford
+tl2_forenames: Henry Francis
+tl2_name_abbrev: Blanf.
+tl2_dates: 1834-1893
+tl2_page_id: 33265400
+author_lsid: 850-1
+wikidata_id: Q4088004
+ipni_surname: Blanford
+ipni_forenames: H.F.
+ipni_standard_form: Blanf.
+ipni_dates: 1834-1893
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

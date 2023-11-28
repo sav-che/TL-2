@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1052
+tl2_volume: vol4
+tl2_page_printed: 1021
+tl2_surname: Sabbati
+tl2_forenames: Liberato
+tl2_name_abbrev: Sabbati
+tl2_dates: ca. 1714-?
+tl2_page_id: 33190492
+author_lsid: 8780-1
+wikidata_id: Q21607594
+ipni_surname: Sabbati
+ipni_forenames: Liberato
+ipni_standard_form: Sabbati
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

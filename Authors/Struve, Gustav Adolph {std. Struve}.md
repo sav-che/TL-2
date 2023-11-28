@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0072
+tl2_volume: vol6
+tl2_page_printed: 55
+tl2_surname: Struve
+tl2_forenames: Gustav Adolph
+tl2_name_abbrev: Struve
+tl2_dates: 1811-1889
+tl2_page_id: 33212059
+author_lsid: 10238-1
+wikidata_id: Q5889374
+ipni_surname: Struve
+ipni_forenames: Gustav Adolph
+ipni_standard_form: Struve
+ipni_dates: 1811-1889
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

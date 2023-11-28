@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0944
+tl2_volume: vol2
+tl2_page_printed: 781
+tl2_surname: Lecomte
+tl2_forenames: (Paul) Henri
+tl2_name_abbrev: Lecomte
+tl2_dates: 1856-1934
+tl2_page_id: 33069023
+author_lsid: 5388-1
+wikidata_id: Q1230990
+ipni_surname: Lecomte
+ipni_forenames: Paul Henri
+ipni_standard_form: Lecomte
+ipni_dates: 1856-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-12-30 14:26:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

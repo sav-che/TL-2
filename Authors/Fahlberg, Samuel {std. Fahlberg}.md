@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0986
+tl2_volume: vol1
+tl2_page_printed: 811
+tl2_surname: Fahlberg
+tl2_forenames: Samuel
+tl2_name_abbrev: Fahlberg
+tl2_dates: 1758-1834
+tl2_page_id: 33120942
+author_lsid: 2621-1
+wikidata_id: Q5723123
+ipni_surname: Fahlberg
+ipni_forenames: Samuel
+ipni_standard_form: Fahlberg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

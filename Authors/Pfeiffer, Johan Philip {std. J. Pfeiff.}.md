@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0254
+tl2_volume: vol4
+tl2_page_printed: 220
+tl2_surname: Pfeiffer
+tl2_forenames: Johan Philip
+tl2_name_abbrev: J. Pfeiff.
+tl2_dates: 1888-1947
+tl2_page_id: 33189691
+author_lsid: 7619-1
+wikidata_id: Q21522926
+ipni_surname: Pfeiffer
+ipni_forenames: Johan Philip
+ipni_standard_form: J.Pfeiff.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33189691) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

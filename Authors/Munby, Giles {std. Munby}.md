@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0768
+tl2_volume: vol3
+tl2_page_printed: 659
+tl2_surname: Munby
+tl2_forenames: Giles
+tl2_name_abbrev: Munby
+tl2_dates: 1813-1876
+tl2_page_id: 33355746
+author_lsid: 6777-1
+wikidata_id: Q5879729
+ipni_surname: Munby
+ipni_forenames: Giles
+ipni_standard_form: Munby
+ipni_dates: 1813-1876
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Algeria
+- France
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

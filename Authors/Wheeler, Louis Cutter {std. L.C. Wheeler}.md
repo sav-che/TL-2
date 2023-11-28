@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0220
+tl2_volume: vol7
+tl2_page_printed: 239
+tl2_surname: Wheeler
+tl2_forenames: Louis Cutter
+tl2_name_abbrev: L.C. Wheeler
+tl2_dates: 1910-1980
+tl2_page_id: 33066579
+author_lsid: 11605-1
+wikidata_id: Q2878904
+ipni_surname: Wheeler
+ipni_forenames: Louis Cutter
+ipni_standard_form: L.C.Wheeler
+ipni_dates: 1910-1980
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

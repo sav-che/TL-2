@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0369
+tl2_volume: vol3
+tl2_page_printed: 315
+tl2_surname: Martens
+tl2_forenames: Georg Matthias von
+tl2_name_abbrev: G. Martens
+tl2_dates: 1788-1872
+tl2_page_id: 33355402
+author_lsid: 22943-1
+wikidata_id: Q1506633
+ipni_surname: Martens
+ipni_forenames: Georg Matthias von
+ipni_standard_form: G.Martens
+ipni_dates: 1788-1872
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33355402) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0004
+tl2_volume: suppl1
+tl2_page_printed: 2
+tl2_surname: Abbayes
+tl2_forenames: Henri [Robert] Nicollon des
+tl2_name_abbrev: Abbayes
+tl2_dates: 1898-1974
+tl2_page_id: 33264773
+author_lsid: 25-1
+wikidata_id: Q953305
+ipni_surname: Abbayes
+ipni_forenames: Henri Robert Nicollon des
+ipni_standard_form: Abbayes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

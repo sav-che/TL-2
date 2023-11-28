@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0322
+tl2_volume: vol2
+tl2_page_printed: 263
+tl2_surname: Holtz
+tl2_forenames: Johann Friedrich Ludwig
+tl2_name_abbrev: Holtz
+tl2_dates: 1824-1907
+tl2_page_id: 33068505
+author_lsid: 4064-1
+wikidata_id: Q21515990
+ipni_surname: Holtz
+ipni_forenames: Johann Friedrich Ludwig
+ipni_standard_form: Holtz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33068505) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

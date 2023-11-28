@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0437
+tl2_volume: suppl2
+tl2_page_printed: 385
+tl2_surname: Boulger
+tl2_forenames: George [Edward] Simmonds
+tl2_name_abbrev: Boulger
+tl2_dates: 1853-1922
+tl2_page_id: 33265582
+author_lsid: 1023-1
+wikidata_id: Q5544565
+ipni_surname: Boulger
+ipni_forenames: George Edward Simmonds
+ipni_standard_form: Boulger
+ipni_dates: 1853-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265582) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0603
+tl2_volume: vol5
+tl2_page_printed: 606
+tl2_surname: Simmonds (Simmons)
+tl2_forenames: Peter Lund (né Lund)
+tl2_name_abbrev: P. Simmonds
+tl2_dates: 1814-1897
+tl2_page_id: 33333745
+author_lsid: 12866-1
+wikidata_id: Q18674331
+ipni_surname: Simmonds
+ipni_forenames: Peter Lund
+ipni_standard_form: P.Simmonds
+ipni_dates: 1814-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

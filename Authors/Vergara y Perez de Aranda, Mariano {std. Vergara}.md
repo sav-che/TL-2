@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0686
+tl2_volume: vol6
+tl2_page_printed: 710
+tl2_surname: Vergara y Perez de Aranda
+tl2_forenames: Mariano
+tl2_name_abbrev: Vergara
+tl2_dates: 1833-?
+tl2_page_id: 33212752
+author_lsid: 11135-1
+wikidata_id: Q21611646
+ipni_surname: Vergara y Perez de Arandu
+ipni_forenames: Mariano
+ipni_standard_form: Vergara
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0315
+tl2_volume: suppl8
+tl2_page_printed: 436
+tl2_surname: Guebhard
+tl2_forenames: Ch.
+tl2_name_abbrev: Guebhard
+tl2_dates: fl. 1829-1850
+tl2_page_id: 33258914
+author_lsid: 13485-1
+wikidata_id: Q36524890
+ipni_surname: Guebhard
+ipni_forenames: Ch.
+ipni_standard_form: Guebhard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

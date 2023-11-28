@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0149
+tl2_volume: vol3
+tl2_page_printed: 179
+tl2_surname: Lucae
+tl2_forenames: August Friedrich Theodor
+tl2_name_abbrev: Lucae
+tl2_dates: 1800-1848
+tl2_page_id: 33355266
+author_lsid: 5792-1
+wikidata_id: Q21519556
+ipni_surname: Lucae
+ipni_forenames: August Friedrich Theodor
+ipni_standard_form: Lucae
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

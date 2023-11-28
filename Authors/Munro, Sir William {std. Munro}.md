@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0770
+tl2_volume: vol3
+tl2_page_printed: 660
+tl2_surname: Munro
+tl2_forenames: Sir William
+tl2_name_abbrev: Munro
+tl2_dates: 1818-1880
+tl2_page_id: 33355747
+author_lsid: 6784-1
+wikidata_id: Q2004878
+ipni_surname: Munro
+ipni_forenames: William
+ipni_standard_form: Munro
+ipni_dates: 1818-1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- Barbados
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

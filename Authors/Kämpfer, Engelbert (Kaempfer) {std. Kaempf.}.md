@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0568
+tl2_volume: vol2
+tl2_page_printed: 484
+tl2_surname: Kämpfer
+tl2_forenames: Engelbert [Kaempfer]
+tl2_name_abbrev: Kaempf.
+tl2_dates: 1651-1716
+tl2_page_id: 33068726
+author_lsid: 4611-1
+wikidata_id: Q58042
+ipni_surname: Kaempfer
+ipni_forenames: Engelbert
+ipni_standard_form: Kaempf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Spermatophytes
+ipni_geo_scope: 
+- Iran, Islamic Republic of
+- Sweden
+- Japan
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33068726) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0153
+tl2_volume: suppl7
+tl2_page_printed: 226
+tl2_surname: Fitschen
+tl2_forenames: Jost
+tl2_name_abbrev: Fitschen
+tl2_dates: 1869-1947
+tl2_page_id: 33259730
+author_lsid: 2761-1
+wikidata_id: Q123099
+ipni_surname: Fitschen
+ipni_forenames: Jost
+ipni_standard_form: Fitschen
+ipni_dates: 1869-1947
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33259730) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

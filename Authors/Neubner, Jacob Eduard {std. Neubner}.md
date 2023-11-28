@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0852
+tl2_volume: vol3
+tl2_page_printed: 730
+tl2_surname: Neubner
+tl2_forenames: Jacob Eduard
+tl2_name_abbrev: Neubner
+tl2_dates: 1855-?
+tl2_page_id: 33355817
+author_lsid: 6924-1
+wikidata_id: Q21522076
+ipni_surname: Neubner
+ipni_forenames: Jacob Eduard
+ipni_standard_form: Neubner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

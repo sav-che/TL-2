@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0022
+tl2_volume: vol2
+tl2_page_printed: 15
+tl2_surname: Haillant
+tl2_forenames: Nicolas
+tl2_name_abbrev: Haill.
+tl2_dates: fl. 1886
+tl2_page_id: 33068257
+author_lsid: 3558-1
+wikidata_id: Q36641731
+ipni_surname: Haillant
+ipni_forenames: Nicolas
+ipni_standard_form: Haill.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

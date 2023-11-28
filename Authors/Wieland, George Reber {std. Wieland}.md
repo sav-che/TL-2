@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0248
+tl2_volume: vol7
+tl2_page_printed: 265
+tl2_surname: Wieland
+tl2_forenames: George Reber
+tl2_name_abbrev: Wieland
+tl2_dates: 1865-1953
+tl2_page_id: 33066605
+author_lsid: 11648-1
+wikidata_id: Q3101852
+ipni_surname: Wieland
+ipni_forenames: George Reber
+ipni_standard_form: Wieland
+ipni_dates: 1865-1953
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33066605) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

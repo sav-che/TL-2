@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0387
+tl2_volume: vol4
+tl2_page_printed: 328
+tl2_surname: Polívka
+tl2_forenames: Frantisek
+tl2_name_abbrev: Polívka
+tl2_dates: 1860-1923
+tl2_page_id: 33189799
+author_lsid: 7809-1
+wikidata_id: Q12017426
+ipni_surname: Polívka
+ipni_forenames: František
+ipni_standard_form: Polívka
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

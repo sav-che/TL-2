@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0266
+tl2_volume: vol1
+tl2_page_printed: 207
+tl2_surname: Bessa
+tl2_forenames: Pancrace
+tl2_name_abbrev: Bessa
+tl2_dates: 1772-1835
+tl2_page_id: 33120338
+author_lsid: 735-1
+wikidata_id: Q2559115
+ipni_surname: Bessa
+ipni_forenames: Pancrace
+ipni_standard_form: Bessa
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

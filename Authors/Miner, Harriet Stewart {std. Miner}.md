@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0590
+tl2_volume: vol3
+tl2_page_printed: 506
+tl2_surname: Miner
+tl2_forenames: Harriet Stewart
+tl2_name_abbrev: Miner
+tl2_dates: fl. 1885
+tl2_page_id: 33355593
+author_lsid: 6502-1
+wikidata_id: Q36576539
+ipni_surname: Miner
+ipni_forenames: Harriet Stewart
+ipni_standard_form: Miner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

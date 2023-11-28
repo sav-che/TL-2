@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0601
+tl2_volume: vol1
+tl2_page_printed: 487
+tl2_surname: Chatin
+tl2_forenames: Gaspard Adolphe
+tl2_name_abbrev: Chatin
+tl2_dates: 1813-1901
+tl2_page_id: 33120618
+author_lsid: 1549-1
+wikidata_id: Q365693
+ipni_surname: Chatin
+ipni_forenames: Gaspard Adolphe
+ipni_standard_form: Chatin
+ipni_dates: 1813-1901
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

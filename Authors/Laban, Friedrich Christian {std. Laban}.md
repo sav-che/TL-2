@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0831
+tl2_volume: vol2
+tl2_page_printed: 710
+tl2_surname: Laban
+tl2_forenames: Friedrich Christian
+tl2_name_abbrev: Laban
+tl2_dates: fl. 1866
+tl2_page_id: 33068952
+author_lsid: 5174-1
+wikidata_id: Q36555222
+ipni_surname: Laban
+ipni_forenames: Friedrich Christian
+ipni_standard_form: Laban
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

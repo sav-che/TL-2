@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0155
+tl2_volume: vol3
+tl2_page_printed: 182
+tl2_surname: Ludwig
+tl2_forenames: Christian Gottlieb
+tl2_name_abbrev: Ludw.
+tl2_dates: 1709-1773
+tl2_page_id: 33355269
+author_lsid: 5804-1
+wikidata_id: Q66324
+ipni_surname: Ludwig
+ipni_forenames: Christian Gottlieb
+ipni_standard_form: Ludw.
+ipni_dates: 1709-1773
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33355269) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

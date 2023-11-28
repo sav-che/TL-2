@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl8_0200
+tl2_volume: suppl8
+tl2_page_printed: 266
+tl2_surname: Goeppert [Göppert]
+tl2_forenames: [Johann] Heinrich [Robert]
+tl2_name_abbrev: Goepp.
+tl2_dates: 1800-1884
+tl2_page_id: 33258744
+author_lsid: 3224-1
+wikidata_id: Q62670
+ipni_surname: Göppert
+ipni_forenames: Johann Heinrich Robert
+ipni_standard_form: Göpp.
+ipni_dates: 1800-1884
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33258744) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

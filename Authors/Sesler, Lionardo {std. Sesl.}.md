@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0514
+tl2_volume: vol5
+tl2_page_printed: 525
+tl2_surname: Sesler
+tl2_forenames: Lionardo
+tl2_name_abbrev: Sesl.
+tl2_dates: x-1785
+tl2_page_id: 33333664
+author_lsid: 9513-1
+wikidata_id: Q1827205
+ipni_surname: Sesler
+ipni_forenames: Leonard
+ipni_standard_form: Sesl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

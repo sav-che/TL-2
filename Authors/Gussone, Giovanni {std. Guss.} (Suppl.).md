@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0335
+tl2_volume: suppl8
+tl2_page_printed: 463
+tl2_surname: Gussone
+tl2_forenames: Giovanni
+tl2_name_abbrev: Guss.
+tl2_dates: 1787-1866
+tl2_page_id: 33258941
+author_lsid: 3492-1
+wikidata_id: Q1361112
+ipni_surname: Gussone
+ipni_forenames: Giovanni
+ipni_standard_form: Guss.
+ipni_dates: 1787-1866
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33258941) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

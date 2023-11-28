@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0108
+tl2_volume: vol5
+tl2_page_printed: 102
+tl2_surname: Schade
+tl2_forenames: [Friedrich] Alwin
+tl2_name_abbrev: Schade
+tl2_dates: 1881-1976
+tl2_page_id: 33333241
+author_lsid: 26220-1
+wikidata_id: Q1458093
+ipni_surname: Schade
+ipni_forenames: Friedrich Alwin
+ipni_standard_form: Schade
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33333241) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

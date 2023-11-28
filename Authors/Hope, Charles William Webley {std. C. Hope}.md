@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0336
+tl2_volume: vol2
+tl2_page_printed: 302
+tl2_surname: Hope
+tl2_forenames: Charles William Webley
+tl2_name_abbrev: C. Hope
+tl2_dates: 1832-1904
+tl2_page_id: 33068544
+author_lsid: 4093-1
+wikidata_id: Q5765023
+ipni_surname: Hope
+ipni_forenames: Charles William Webley
+ipni_standard_form: C.Hope
+ipni_dates: 1832-1904
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0142
+tl2_volume: suppl1
+tl2_page_printed: 110
+tl2_surname: Anderson
+tl2_forenames: Thomas
+tl2_name_abbrev: Th. Anderson
+tl2_dates: 1832-1870
+tl2_page_id: 33264837
+author_lsid: 199-1
+wikidata_id: Q371504
+ipni_surname: Anderson
+ipni_forenames: Thomas
+ipni_standard_form: T.Anderson
+ipni_dates: 1832-1870
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

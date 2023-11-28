@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0225
+tl2_volume: vol4
+tl2_page_printed: 200
+tl2_surname: Petit
+tl2_forenames: Emil Charles Nicolai [Nicolai Emil Charles]
+tl2_name_abbrev: Petit, E.
+tl2_dates: 1817-1893
+tl2_page_id: 33189671
+author_lsid: 7579-1
+wikidata_id: Q21522893
+ipni_surname: Petit
+ipni_forenames: Emil Charles Nicolai
+ipni_standard_form: E.Petit
+ipni_dates: 1817-1893
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0921
+tl2_volume: vol2
+tl2_page_printed: 771
+tl2_surname: Lavalle
+tl2_forenames: Jean
+tl2_name_abbrev: Lavalle
+tl2_dates: 1820-?
+tl2_page_id: 33069013
+author_lsid: 5336-1
+wikidata_id: Q21518438
+ipni_surname: Lavalle
+ipni_forenames: Jean
+ipni_standard_form: Lavalle
+ipni_dates: 1820-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

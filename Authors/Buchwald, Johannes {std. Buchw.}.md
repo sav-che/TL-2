@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0194
+tl2_volume: suppl3
+tl2_page_printed: 199
+tl2_surname: Buchwald
+tl2_forenames: Johannes
+tl2_name_abbrev: Buchw.
+tl2_dates: 1869-1927
+tl2_page_id: 33266506
+author_lsid: 13897-1
+wikidata_id: Q21506609
+ipni_surname: Buchwald
+ipni_forenames: Johannes
+ipni_standard_form: Buchw.
+ipni_dates: 1869-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33266506) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

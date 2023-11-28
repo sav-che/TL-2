@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0359
+tl2_volume: suppl5
+tl2_page_printed: 361
+tl2_surname: Dixit
+tl2_forenames: S.C.
+tl2_name_abbrev: S.C. Dixit
+tl2_dates: fl. 1931-1940
+tl2_page_id: 33259407
+author_lsid: 32938-1
+wikidata_id: Q36674763
+ipni_surname: Dixit
+ipni_forenames: S.C.
+ipni_standard_form: S.C.Dixit
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259407) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

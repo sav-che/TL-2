@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl5_0290
+tl2_volume: suppl5
+tl2_page_printed: 253
+tl2_surname: Dewèvre
+tl2_forenames: Alfred
+tl2_name_abbrev: Dewèvre
+tl2_dates: 1866-1897
+tl2_page_id: 33259299
+author_lsid: 2176-1
+wikidata_id: Q18984207
+ipni_surname: Dewèvre
+ipni_forenames: Alfred Prosper
+ipni_standard_form: Dewèvre
+ipni_dates: 1866-1897
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+- Congo, the Democratic Republic of
+ipni_version: 1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-09-20 20:24:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1024
+tl2_volume: vol2
+tl2_page_printed: 859
+tl2_surname: Lettau
+tl2_forenames: Georg
+tl2_name_abbrev: Lettau
+tl2_dates: 1878-1951
+tl2_page_id: 33069101
+author_lsid: 22272-1
+wikidata_id: Q21338878
+ipni_surname: Lettau
+ipni_forenames: Georg
+ipni_standard_form: Lettau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

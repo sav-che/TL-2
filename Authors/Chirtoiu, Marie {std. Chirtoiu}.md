@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0095
+tl2_volume: suppl4
+tl2_page_printed: 111
+tl2_surname: Chirtoiu
+tl2_forenames: Marie
+tl2_name_abbrev: Chirtoiu
+tl2_dates: 1892-x
+tl2_page_id: 33265788
+author_lsid: 20012474-1
+wikidata_id: Q21508460
+ipni_surname: Chirtoiu
+ipni_forenames: Marie
+ipni_standard_form: Chirtoiu
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

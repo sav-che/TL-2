@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1028
+tl2_volume: vol4
+tl2_page_printed: 1001
+tl2_surname: Russegger
+tl2_forenames: Joseph von
+tl2_name_abbrev: Russegger
+tl2_dates: 1802-1863
+tl2_page_id: 33190472
+author_lsid: 8751-1
+wikidata_id: Q668522
+ipni_surname: Russegger
+ipni_forenames: Joseph von
+ipni_standard_form: Russegger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

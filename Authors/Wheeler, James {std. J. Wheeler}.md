@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0218
+tl2_volume: vol7
+tl2_page_printed: 238
+tl2_surname: Wheeler
+tl2_forenames: James
+tl2_name_abbrev: J. Wheeler
+tl2_dates: fl. 1763
+tl2_page_id: 33066578
+author_lsid: 11603-1
+wikidata_id: Q33698800
+ipni_surname: Wheeler
+ipni_forenames: James
+ipni_standard_form: Wheeler
+ipni_dates: fl. 1763
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

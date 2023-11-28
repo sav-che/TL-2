@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0449
+tl2_volume: vol3
+tl2_page_printed: 388
+tl2_surname: Mayor
+tl2_forenames: Eugène
+tl2_name_abbrev: Mayor
+tl2_dates: 1877-1976
+tl2_page_id: 33355475
+author_lsid: 23101-1
+wikidata_id: Q21502929
+ipni_surname: Mayor
+ipni_forenames: Eugéne
+ipni_standard_form: Mayor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0943
+tl2_volume: vol1
+tl2_page_printed: 741
+tl2_surname: Elliott
+tl2_forenames: Stephen
+tl2_name_abbrev: Elliott
+tl2_dates: 1771-1830
+tl2_page_id: 33120872
+author_lsid: 2516-1
+wikidata_id: Q2982922
+ipni_surname: Elliott
+ipni_forenames: Stephen
+ipni_standard_form: Elliott
+ipni_dates: 1771-1830
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33120872) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

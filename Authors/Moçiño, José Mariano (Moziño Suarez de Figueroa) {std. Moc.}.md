@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0606
+tl2_volume: vol3
+tl2_page_printed: 529
+tl2_surname: Moçiño
+tl2_forenames: José Mariano [Moziño Suarez de Figueroa]
+tl2_name_abbrev: Moc.
+tl2_dates: 1757-1820
+tl2_page_id: 33355616
+author_lsid: 6539-1
+wikidata_id: Q2983655
+ipni_surname: Mociño
+ipni_forenames: José Mariano
+ipni_standard_form: Moc.
+ipni_dates: 1757-1820
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33355616) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

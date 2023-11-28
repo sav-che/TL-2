@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0000
+tl2_volume: vol3
+tl2_page_printed: 1
+tl2_surname: L'Héritier de Brutelle
+tl2_forenames: Charles-Louis
+tl2_name_abbrev: L'Hér.
+tl2_dates: 1746-1800
+tl2_page_id: 33355126
+author_lsid: 12652-1
+wikidata_id: Q465834
+ipni_surname: L'Héritier de Brutelle
+ipni_forenames: Charles Louis
+ipni_standard_form: L'Hér.
+ipni_dates: 1746-1800
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33355126) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0137
+tl2_volume: vol3
+tl2_page_printed: 168
+tl2_surname: Loudon
+tl2_forenames: John Claudius
+tl2_name_abbrev: Loud.
+tl2_dates: 1783-1843
+tl2_page_id: 33355255
+author_lsid: 5771-1
+wikidata_id: Q1346111
+ipni_surname: Loudon
+ipni_forenames: John Claudius
+ipni_standard_form: Loudon
+ipni_dates: 1783-1843
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33355255) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

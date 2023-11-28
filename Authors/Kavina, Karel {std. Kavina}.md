@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0596
+tl2_volume: vol2
+tl2_page_printed: 509
+tl2_surname: Kavina
+tl2_forenames: Karel
+tl2_name_abbrev: Kavina
+tl2_dates: 1890-1948
+tl2_page_id: 33068751
+author_lsid: 4677-1
+wikidata_id: Q3566168
+ipni_surname: Kavina
+ipni_forenames: Karel
+ipni_standard_form: Kavina
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

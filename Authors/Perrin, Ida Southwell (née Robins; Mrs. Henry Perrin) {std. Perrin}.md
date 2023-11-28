@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0195
+tl2_volume: vol4
+tl2_page_printed: 173
+tl2_surname: Perrin
+tl2_forenames: Ida Southwell (née Robins; Mrs. Henry Perrin)
+tl2_name_abbrev: Perrin
+tl2_dates: 1860-?
+tl2_page_id: 33189644
+author_lsid: 12731-1
+wikidata_id: Q21455186
+ipni_surname: Perrin
+ipni_forenames: Ida Southwell
+ipni_standard_form: Perrin
+ipni_dates: 1860-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

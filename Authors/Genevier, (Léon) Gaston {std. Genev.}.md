@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0132
+tl2_volume: suppl8
+tl2_page_printed: 174
+tl2_surname: Genevier
+tl2_forenames: [Léon] Gaston
+tl2_name_abbrev: Genev.
+tl2_dates: 1830-1880
+tl2_page_id: 33258652
+author_lsid: 3077-1
+wikidata_id: Q3099020
+ipni_surname: Genevier
+ipni_forenames: Léon Gaston
+ipni_standard_form: Genev.
+ipni_dates: 1830-1880
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33258652) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

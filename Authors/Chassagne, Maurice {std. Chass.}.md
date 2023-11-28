@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0053
+tl2_volume: suppl4
+tl2_page_printed: 60
+tl2_surname: Chassagne
+tl2_forenames: Maurice
+tl2_name_abbrev: Chass.
+tl2_dates: fl. 1904-1957
+tl2_page_id: 33265737
+author_lsid: 1544-1
+wikidata_id: Q16027635
+ipni_surname: Chassagne
+ipni_forenames: Maurice
+ipni_standard_form: Chass.
+ipni_dates: 1880-1960
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265737) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

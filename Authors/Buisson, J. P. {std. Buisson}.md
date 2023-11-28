@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0491
+tl2_volume: vol1
+tl2_page_printed: 401
+tl2_surname: Buisson
+tl2_forenames: J. P.
+tl2_name_abbrev: Buisson
+tl2_dates: fl. 1779
+tl2_page_id: 33120532
+author_lsid: 1275-1
+wikidata_id: Q36587446
+ipni_surname: Buisson
+ipni_forenames: J.P.
+ipni_standard_form: Buisson
+ipni_dates: fl. 1779
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

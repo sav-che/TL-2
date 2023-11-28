@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0884
+tl2_volume: vol1
+tl2_page_printed: 692
+tl2_surname: Dugès
+tl2_forenames: Alfred Auguste Dalsescantz
+tl2_name_abbrev: Dugès
+tl2_dates: 1826-1910
+tl2_page_id: 33120823
+author_lsid: 2361-1
+wikidata_id: Q2835593
+ipni_surname: Dugès
+ipni_forenames: Alfred Auguste Dalsescantz
+ipni_standard_form: Dugès
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

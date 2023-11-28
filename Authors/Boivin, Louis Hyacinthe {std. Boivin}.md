@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0336
+tl2_volume: vol1
+tl2_page_printed: 261
+tl2_surname: Boivin
+tl2_forenames: Louis Hyacinthe
+tl2_name_abbrev: Boivin
+tl2_dates: 1808-1852
+tl2_page_id: 33120392
+author_lsid: 920-1
+wikidata_id: Q2382236
+ipni_surname: Boivin
+ipni_forenames: Louis Hyacinthe
+ipni_standard_form: Boivin
+ipni_dates: 1808-1852
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

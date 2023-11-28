@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0474
+tl2_volume: vol2
+tl2_page_printed: 426
+tl2_surname: Jaroscz
+tl2_forenames: Franz Eduard Felix
+tl2_name_abbrev: Jaroscz
+tl2_dates: 1799-?
+tl2_page_id: 33068668
+author_lsid: 4435-1
+wikidata_id: Q21516950
+ipni_surname: Jaroscz
+ipni_forenames: Franz Eduard Felix
+ipni_standard_form: Jaroscz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

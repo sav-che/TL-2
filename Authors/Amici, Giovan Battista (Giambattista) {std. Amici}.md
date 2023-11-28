@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0129
+tl2_volume: suppl1
+tl2_page_printed: 102
+tl2_surname: Amici
+tl2_forenames: Giovan Battista [Giambattista]
+tl2_name_abbrev: Amici
+tl2_dates: 1786-1863
+tl2_page_id: 33264829
+author_lsid: 32247-1
+wikidata_id: Q178412
+ipni_surname: Amici
+ipni_forenames: Giovanni Battista
+ipni_standard_form: Amici
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33264829) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

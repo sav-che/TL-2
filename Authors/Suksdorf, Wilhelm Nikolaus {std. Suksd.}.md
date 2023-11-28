@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0108
+tl2_volume: vol6
+tl2_page_printed: 85
+tl2_surname: Suksdorf
+tl2_forenames: Wilhelm Nikolaus
+tl2_name_abbrev: Suksd.
+tl2_dates: 1850-1932
+tl2_page_id: 33212127
+author_lsid: 10288-1
+wikidata_id: Q3700186
+ipni_surname: Suksdorf
+ipni_forenames: Wilhelm Nikolaus
+ipni_standard_form: Suksd.
+ipni_dates: 1850-1932
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

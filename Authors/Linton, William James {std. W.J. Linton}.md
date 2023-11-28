@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0058
+tl2_volume: vol3
+tl2_page_printed: 114
+tl2_surname: Linton
+tl2_forenames: William James
+tl2_name_abbrev: W.J. Linton
+tl2_dates: 1812-1898
+tl2_page_id: 33355201
+author_lsid: 5639-1
+wikidata_id: Q2066530
+ipni_surname: Linton
+ipni_forenames: William James
+ipni_standard_form: Linton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0496
+tl2_volume: vol2
+tl2_page_printed: 442
+tl2_surname: Jessen
+tl2_forenames: Karl Friedrich Wilhelm
+tl2_name_abbrev: Jess.
+tl2_dates: 1821-1889
+tl2_page_id: 33068684
+author_lsid: 4480-1
+wikidata_id: Q96744
+ipni_surname: Jessen
+ipni_forenames: Karl Friedrich Wilhelm
+ipni_standard_form: Jess.
+ipni_dates: 1821-1889
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33068684) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

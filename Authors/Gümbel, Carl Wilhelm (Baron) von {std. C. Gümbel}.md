@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1275
+tl2_volume: vol1
+tl2_page_printed: 1018
+tl2_surname: Gümbel
+tl2_forenames: Carl Wilhelm (Baron) von
+tl2_name_abbrev: C. Gümbel
+tl2_dates: 1823-1898
+tl2_page_id: 33121149
+author_lsid: 3446-1
+wikidata_id: Q96287
+ipni_surname: Gümbel
+ipni_forenames: Carl Wilhelm von
+ipni_standard_form: C.Gümbel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

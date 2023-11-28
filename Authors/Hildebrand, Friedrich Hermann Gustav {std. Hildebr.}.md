@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0239
+tl2_volume: vol2
+tl2_page_printed: 195
+tl2_surname: Hildebrand
+tl2_forenames: Friedrich Hermann Gustav
+tl2_name_abbrev: Hildebr.
+tl2_dates: 1835-1915
+tl2_page_id: 33068437
+author_lsid: 3937-1
+wikidata_id: Q96766
+ipni_surname: Hildebrand
+ipni_forenames: Friedrich Hermann Gustav
+ipni_standard_form: Hildebr.
+ipni_dates: 1835-1915
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

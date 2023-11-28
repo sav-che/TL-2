@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0895
+tl2_volume: vol3
+tl2_page_printed: 755
+tl2_surname: Nisbet
+tl2_forenames: John
+tl2_name_abbrev: Nisbet
+tl2_dates: 1853-1914
+tl2_page_id: 33355842
+author_lsid: 6998-1
+wikidata_id: Q5933493
+ipni_surname: Nisbet
+ipni_forenames: John
+ipni_standard_form: Nisbet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Burma
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

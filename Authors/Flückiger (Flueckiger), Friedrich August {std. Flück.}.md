@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0183
+tl2_volume: suppl7
+tl2_page_printed: 277
+tl2_surname: Flückiger [Flueckiger]
+tl2_forenames: Friedrich August
+tl2_name_abbrev: Flück.
+tl2_dates: 1828-1894
+tl2_page_id: 33259781
+author_lsid: 13647-1
+wikidata_id: Q124877
+ipni_surname: Flückiger
+ipni_forenames: Friedrich August
+ipni_standard_form: Flück.
+ipni_dates: 1828-1894
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-02-20 10:23:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33259781) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

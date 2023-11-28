@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0872
+tl2_volume: vol5
+tl2_page_printed: 870
+tl2_surname: Stehlé
+tl2_forenames: Henri
+tl2_name_abbrev: Stehlé
+tl2_dates: 1909-1983
+tl2_page_id: 33334009
+author_lsid: 10071-1
+wikidata_id: Q5486682
+ipni_surname: Stehlé
+ipni_forenames: Henri
+ipni_standard_form: Stehlé
+ipni_dates: 1909-1983
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33334009) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

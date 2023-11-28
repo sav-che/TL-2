@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0228
+tl2_volume: suppl7
+tl2_page_printed: 352
+tl2_surname: Fott
+tl2_forenames: Bohuslav
+tl2_name_abbrev: Fott
+tl2_dates: 1908-1976
+tl2_page_id: 33259856
+author_lsid: 33136-1
+wikidata_id: Q5731269
+ipni_surname: Fott
+ipni_forenames: Bohuslav
+ipni_standard_form: Fott
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33259856) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol2_0721
+tl2_volume: vol2
+tl2_page_printed: 594
+tl2_surname: Koehler
+tl2_forenames: Alexander Daniel
+tl2_name_abbrev: 
+tl2_dates: 1762-1828
+tl2_page_id: 33068836
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33068836) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

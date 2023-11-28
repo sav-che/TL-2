@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0204
+tl2_volume: vol6
+tl2_page_printed: 174
+tl2_surname: Tassi
+tl2_forenames: Flaminio
+tl2_name_abbrev: Tassi
+tl2_dates: 1851-?
+tl2_page_id: 33212216
+author_lsid: 27543-1
+wikidata_id: Q21392362
+ipni_surname: Tassi
+ipni_forenames: Flaminio
+ipni_standard_form: Tassi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

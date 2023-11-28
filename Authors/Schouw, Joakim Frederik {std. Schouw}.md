@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0307
+tl2_volume: vol5
+tl2_page_printed: 312
+tl2_surname: Schouw
+tl2_forenames: Joakim Frederik
+tl2_name_abbrev: Schouw
+tl2_dates: 1789-1852
+tl2_page_id: 33333451
+author_lsid: 9245-1
+wikidata_id: Q920389
+ipni_surname: Schouw
+ipni_forenames: Joakim(Joachim) Frederik
+ipni_standard_form: Schouw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33333451) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

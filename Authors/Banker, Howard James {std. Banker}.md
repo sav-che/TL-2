@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0349
+tl2_volume: suppl1
+tl2_page_printed: 312
+tl2_surname: Banker
+tl2_forenames: Howard James
+tl2_name_abbrev: Banker
+tl2_dates: 1866-1940
+tl2_page_id: 33265039
+author_lsid: 31292-1
+wikidata_id: Q5919988
+ipni_surname: Banker
+ipni_forenames: Howard James
+ipni_standard_form: Banker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265039) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

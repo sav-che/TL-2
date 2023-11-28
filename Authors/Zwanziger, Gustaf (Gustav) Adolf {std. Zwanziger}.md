@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0516
+tl2_volume: vol7
+tl2_page_printed: 565
+tl2_surname: Zwanziger
+tl2_forenames: Gustaf [Gustav] Adolf
+tl2_name_abbrev: Zwanziger
+tl2_dates: 1839-1893
+tl2_page_id: 33066905
+author_lsid: 12077-1
+wikidata_id: Q16062255
+ipni_surname: Zwanziger
+ipni_forenames: Gustaf Adolf
+ipni_standard_form: Zwanziger
+ipni_dates: 1839-1893
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

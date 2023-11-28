@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0267
+tl2_volume: vol6
+tl2_page_printed: 228
+tl2_surname: Tessmann
+tl2_forenames: Günther
+tl2_name_abbrev: Tessmann
+tl2_dates: fl. 1904-1926
+tl2_page_id: 33212270
+author_lsid: 10534-1
+wikidata_id: Q1561875
+ipni_surname: Tessmann
+ipni_forenames: Günther
+ipni_standard_form: Tessmann
+ipni_dates: 1884-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-06-19 18:12:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

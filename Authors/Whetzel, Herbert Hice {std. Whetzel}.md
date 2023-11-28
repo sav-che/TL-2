@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0225
+tl2_volume: vol7
+tl2_page_printed: 245
+tl2_surname: Whetzel
+tl2_forenames: Herbert Hice
+tl2_name_abbrev: Whetzel
+tl2_dates: 1877-1944
+tl2_page_id: 33066585
+author_lsid: 11610-1
+wikidata_id: Q4479843
+ipni_surname: Whetzel
+ipni_forenames: Herbert Hice
+ipni_standard_form: Whetzel
+ipni_dates: 1877-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Bermuda
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33066585) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

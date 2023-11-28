@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0211
+tl2_volume: suppl4
+tl2_page_printed: 275
+tl2_surname: Collins
+tl2_forenames: James Franklin
+tl2_name_abbrev: J.F. Collins
+tl2_dates: 1863-1940
+tl2_page_id: 33265952
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265952) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

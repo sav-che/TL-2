@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0952
+tl2_volume: vol4
+tl2_page_printed: 922
+tl2_surname: Roth
+tl2_forenames: Johannes Rudolph
+tl2_name_abbrev: J. Roth
+tl2_dates: 1814-1858
+tl2_page_id: 33190393
+author_lsid: 8639-1
+wikidata_id: Q111301
+ipni_surname: Roth
+ipni_forenames: Johannes Rudolph
+ipni_standard_form: J.Roth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33190393) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

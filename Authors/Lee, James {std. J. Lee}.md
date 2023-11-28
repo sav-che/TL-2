@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0950
+tl2_volume: vol2
+tl2_page_printed: 809
+tl2_surname: Lee
+tl2_forenames: James
+tl2_name_abbrev: J. Lee
+tl2_dates: 1715-1795
+tl2_page_id: 33069051
+author_lsid: 5400-1
+wikidata_id: Q3161222
+ipni_surname: Lee
+ipni_forenames: James
+ipni_standard_form: J.Lee
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33069051) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

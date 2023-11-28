@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1023
+tl2_volume: vol1
+tl2_page_printed: 831
+tl2_surname: Finet
+tl2_forenames: Eugène Achille
+tl2_name_abbrev: Finet
+tl2_dates: 1863-1913
+tl2_page_id: 33120962
+author_lsid: 2734-1
+wikidata_id: Q1657041
+ipni_surname: Finet
+ipni_forenames: Achille Eugène
+ipni_standard_form: Finet
+ipni_dates: 1863-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0290
+tl2_volume: vol4
+tl2_page_printed: 249
+tl2_surname: Piccioli
+tl2_forenames: Ludovico
+tl2_name_abbrev: L. Piccioli
+tl2_dates: 1867-?
+tl2_page_id: 33189720
+author_lsid: 7663-1
+wikidata_id: Q21522979
+ipni_surname: Piccioli
+ipni_forenames: Ludovico
+ipni_standard_form: L.Piccioli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33189720) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

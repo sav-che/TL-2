@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0412
+tl2_volume: vol6
+tl2_page_printed: 386
+tl2_surname: Tolmachev
+tl2_forenames: Alexsandr Innokentevich
+tl2_name_abbrev: Tolm.
+tl2_dates: 1903-1979
+tl2_page_id: 33212428
+author_lsid: 12938-1
+wikidata_id: Q1976970
+ipni_surname: Tolmatchew
+ipni_forenames: Alexandr Innokentevich
+ipni_standard_form: Tolm.
+ipni_dates: 1903-1979
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

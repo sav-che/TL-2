@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0936
+tl2_volume: vol1
+tl2_page_printed: 739
+tl2_surname: Eisengrein
+tl2_forenames: Georg Adolf
+tl2_name_abbrev: Eisengrein
+tl2_dates: 1799-1857
+tl2_page_id: 33120870
+author_lsid: 2495-1
+wikidata_id: Q21511653
+ipni_surname: Eisengrein
+ipni_forenames: Georg Adolf
+ipni_standard_form: Eisengr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

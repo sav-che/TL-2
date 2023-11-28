@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0258
+tl2_volume: vol3
+tl2_page_printed: 238
+tl2_surname: Madden
+tl2_forenames: Edward
+tl2_name_abbrev: Madden
+tl2_dates: 1805-1856
+tl2_page_id: 33355325
+author_lsid: 5964-1
+wikidata_id: Q21519745
+ipni_surname: Madden
+ipni_forenames: Edward
+ipni_standard_form: Madden
+ipni_dates: 1805-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+- Ireland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33355325) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

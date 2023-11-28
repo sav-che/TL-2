@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0400
+tl2_volume: vol4
+tl2_page_printed: 335
+tl2_surname: Pontén
+tl2_forenames: Johan (Jon) Peter
+tl2_name_abbrev: Pontén
+tl2_dates: 1776-1857
+tl2_page_id: 33189806
+author_lsid: 12740-1
+wikidata_id: Q6053351
+ipni_surname: Pontén
+ipni_forenames: Johan (Jon) Peter
+ipni_standard_form: Pontén
+ipni_dates: 1776-1857
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

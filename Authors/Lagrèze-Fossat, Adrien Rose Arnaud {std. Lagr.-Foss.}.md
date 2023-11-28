@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0853
+tl2_volume: vol2
+tl2_page_printed: 724
+tl2_surname: Lagrèze-Fossat
+tl2_forenames: Adrien Rose Arnaud
+tl2_name_abbrev: Lagr.-Foss.
+tl2_dates: 1814-1874
+tl2_page_id: 33068966
+author_lsid: 5210-1
+wikidata_id: Q5658293
+ipni_surname: Lagrèze-Fossat
+ipni_forenames: Adrian Rose Arnaud
+ipni_standard_form: Lagr.-Foss.
+ipni_dates: 1818-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

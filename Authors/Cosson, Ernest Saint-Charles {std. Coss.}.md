@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_0691
+tl2_volume: vol1
+tl2_page_printed: 552
+tl2_surname: Cosson
+tl2_forenames: Ernest Saint-Charles
+tl2_name_abbrev: Coss.
+tl2_dates: 1819-1889
+tl2_page_id: 33120683
+author_lsid: 17452-1
+wikidata_id: Q1276939
+ipni_surname: Cosson
+ipni_forenames: Ernest Saint-Charles
+ipni_standard_form: Coss.
+ipni_dates: 1819-1889
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-02-23 07:31:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33120683) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

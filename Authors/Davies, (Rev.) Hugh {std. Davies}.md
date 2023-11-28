@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl5_0110
+tl2_volume: suppl5
+tl2_page_printed: 99
+tl2_surname: Davies
+tl2_forenames: (Rev.) Hugh
+tl2_name_abbrev: Davies
+tl2_dates: 1739-1821
+tl2_page_id: 33259145
+author_lsid: 2025-1
+wikidata_id: Q56170
+ipni_surname: Davies
+ipni_forenames: Hugh
+ipni_standard_form: Davies
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

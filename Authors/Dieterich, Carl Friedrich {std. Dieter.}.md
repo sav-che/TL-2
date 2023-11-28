@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0828
+tl2_volume: vol1
+tl2_page_printed: 649
+tl2_surname: Dieterich
+tl2_forenames: Carl Friedrich
+tl2_name_abbrev: Dieterich
+tl2_dates: 1734-1805
+tl2_page_id: 33120780
+author_lsid: 2204-1
+wikidata_id: Q21510391
+ipni_surname: Dieterich
+ipni_forenames: Carl Friedrich
+ipni_standard_form: Dieter.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

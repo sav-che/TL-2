@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0597
+tl2_volume: vol5
+tl2_page_printed: 602
+tl2_surname: Silveus
+tl2_forenames: William Arents
+tl2_name_abbrev: Silveus
+tl2_dates: 1875-1953
+tl2_page_id: 33333741
+author_lsid: 9656-1
+wikidata_id: Q21608906
+ipni_surname: Silveus
+ipni_forenames: William Arents
+ipni_standard_form: Silveus
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0397
+tl2_volume: suppl2
+tl2_page_printed: 339
+tl2_surname: Borgman
+tl2_forenames: Johan Alfred
+tl2_name_abbrev: Borgman
+tl2_dates: 1850-1912
+tl2_page_id: 33265536
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265536) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

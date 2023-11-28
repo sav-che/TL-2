@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0585
+tl2_volume: vol3
+tl2_page_printed: 504
+tl2_surname: Milne-Edwards
+tl2_forenames: Alphonse
+tl2_name_abbrev: Milne-Edw.
+tl2_dates: 1835-1900
+tl2_page_id: 33355591
+author_lsid: 6494-1
+wikidata_id: Q542059
+ipni_surname: Milne-Edwards
+ipni_forenames: Alphonse
+ipni_standard_form: Milne-Edw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33355591) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

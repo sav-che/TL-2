@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0713
+tl2_volume: vol3
+tl2_page_printed: 604
+tl2_surname: Mott
+tl2_forenames: Frederick Thompson
+tl2_name_abbrev: Mott
+tl2_dates: 1825-1908
+tl2_page_id: 33355691
+author_lsid: 6704-1
+wikidata_id: Q21521792
+ipni_surname: Mott
+ipni_forenames: Frederick Thompson
+ipni_standard_form: Mott
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33355691) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

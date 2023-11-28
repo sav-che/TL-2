@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0270
+tl2_volume: vol7
+tl2_page_printed: 292
+tl2_surname: Wildt
+tl2_forenames: Albin
+tl2_name_abbrev: A. Wildt
+tl2_dates: 1845-1927
+tl2_page_id: 33066632
+author_lsid: 11682-1
+wikidata_id: Q21612692
+ipni_surname: Wildt
+ipni_forenames: Albin
+ipni_standard_form: A.Wildt
+ipni_dates: 1845-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0120
+tl2_volume: suppl3
+tl2_page_printed: 135
+tl2_surname: Brown
+tl2_forenames: Harry Philip
+tl2_name_abbrev: H.P. Br.
+tl2_dates: 1887-x
+tl2_page_id: 33266442
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33266442) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

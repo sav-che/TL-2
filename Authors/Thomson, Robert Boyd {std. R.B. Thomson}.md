@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0337
+tl2_volume: vol6
+tl2_page_printed: 286
+tl2_surname: Thomson
+tl2_forenames: Robert Boyd
+tl2_name_abbrev: R.B. Thomson
+tl2_dates: 1870-1947
+tl2_page_id: 33212328
+author_lsid: 10619-1
+wikidata_id: Q21610681
+ipni_surname: Thomson
+ipni_forenames: Robert Boyd
+ipni_standard_form: R.B.Thomson
+ipni_dates: 1870-1947
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

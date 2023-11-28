@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1155
+tl2_volume: vol1
+tl2_page_printed: 927
+tl2_surname: Gebhard
+tl2_forenames: Johann Nepomuk [von]
+tl2_name_abbrev: Gebh.
+tl2_dates: 1764/1774-1827
+tl2_page_id: 33121058
+author_lsid: 3060-1
+wikidata_id: Q21513844
+ipni_surname: Gebhard
+ipni_forenames: Johann Nepomuk
+ipni_standard_form: Gebh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33121058) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

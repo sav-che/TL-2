@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0698
+tl2_volume: vol6
+tl2_page_printed: 720
+tl2_surname: Veulliot
+tl2_forenames: Charles
+tl2_name_abbrev: Veulliot
+tl2_dates: 1829-1890
+tl2_page_id: 33212762
+author_lsid: 11153-1
+wikidata_id: Q21611691
+ipni_surname: Veulliot
+ipni_forenames: Charles
+ipni_standard_form: Veull.
+ipni_dates: 1829-1890
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33212762) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

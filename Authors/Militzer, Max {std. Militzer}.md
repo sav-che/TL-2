@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0572
+tl2_volume: vol3
+tl2_page_printed: 488
+tl2_surname: Militzer
+tl2_forenames: Max
+tl2_name_abbrev: Militzer
+tl2_dates: 1894-1971
+tl2_page_id: 33355575
+author_lsid: 35192-1
+wikidata_id: Q21521494
+ipni_surname: Militzer
+ipni_forenames: Max
+ipni_standard_form: Militzer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

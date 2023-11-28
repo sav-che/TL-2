@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0633
+tl2_volume: vol2
+tl2_page_printed: 534
+tl2_surname: Kickx
+tl2_forenames: Jean, Sr.
+tl2_name_abbrev: J. Kickx
+tl2_dates: 1775-1831
+tl2_page_id: 33068776
+author_lsid: 4768-1
+wikidata_id: Q1685618
+ipni_surname: Kickx
+ipni_forenames: Jean
+ipni_standard_form: J.Kickx
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

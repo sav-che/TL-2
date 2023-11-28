@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0175
+tl2_volume: suppl1
+tl2_page_printed: 136
+tl2_surname: Appel
+tl2_forenames: [Friedrich Carl Louis] Otto
+tl2_name_abbrev: O. Appel
+tl2_dates: 1867-1952
+tl2_page_id: 33264863
+author_lsid: 244-1
+wikidata_id: Q96152
+ipni_surname: Appel
+ipni_forenames: Friedrich Carl Louis Otto
+ipni_standard_form: Appel
+ipni_dates: 1867-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33264863) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

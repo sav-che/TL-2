@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0691
+tl2_volume: vol6
+tl2_page_printed: 713
+tl2_surname: Vermoesen
+tl2_forenames: [François Marie] Camille
+tl2_name_abbrev: Vermoesen
+tl2_dates: 1882-1922
+tl2_page_id: 33212755
+author_lsid: 11144-1
+wikidata_id: Q5742024
+ipni_surname: Vermoesen
+ipni_forenames: (François Marie) Camille
+ipni_standard_form: Vermoesen
+ipni_dates: 1882-1922
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

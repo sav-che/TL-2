@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0816
+tl2_volume: vol5
+tl2_page_printed: 821
+tl2_surname: Squinabol
+tl2_forenames: Senofonte [Xenofonte]
+tl2_name_abbrev: Squinab.
+tl2_dates: 1861-?
+tl2_page_id: 33333960
+author_lsid: 9999-1
+wikidata_id: Q21392849
+ipni_surname: Squinabol
+ipni_forenames: Senofonte(Xenofonte)
+ipni_standard_form: Squinab.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33333960) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

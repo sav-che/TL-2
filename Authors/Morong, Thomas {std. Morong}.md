@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0684
+tl2_volume: vol3
+tl2_page_printed: 590
+tl2_surname: Morong
+tl2_forenames: Thomas
+tl2_name_abbrev: Morong
+tl2_dates: 1827-1894
+tl2_page_id: 33355677
+author_lsid: 6667-1
+wikidata_id: Q3525431
+ipni_surname: Morong
+ipni_forenames: Thomas
+ipni_standard_form: Morong
+ipni_dates: 1827-1894
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33355677) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

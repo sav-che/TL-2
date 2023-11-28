@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0304
+tl2_volume: vol4
+tl2_page_printed: 258
+tl2_surname: Pierce
+tl2_forenames: Newton Barris
+tl2_name_abbrev: N. Pierce
+tl2_dates: 1856-1916
+tl2_page_id: 33189729
+author_lsid: 24855-1
+wikidata_id: Q21522996
+ipni_surname: Pierce
+ipni_forenames: Newton Barris
+ipni_standard_form: N.Pierce
+ipni_dates: 1856-1916
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-06-16 15:41:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

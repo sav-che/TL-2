@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0152
+tl2_volume: suppl4
+tl2_page_printed: 195
+tl2_surname: Clausen
+tl2_forenames: Robert Theodore
+tl2_name_abbrev: R.T. Clausen
+tl2_dates: 1911-1981
+tl2_page_id: 33265872
+author_lsid: 1677-1
+wikidata_id: Q6109537
+ipni_surname: Clausen
+ipni_forenames: Robert Theodore
+ipni_standard_form: R.T.Clausen
+ipni_dates: 1911-1981
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

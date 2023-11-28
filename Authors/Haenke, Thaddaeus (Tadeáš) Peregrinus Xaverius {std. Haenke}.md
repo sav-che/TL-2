@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0009
+tl2_volume: vol2
+tl2_page_printed: 6
+tl2_surname: Haenke
+tl2_forenames: Thaddaeus (Tadeáš) Peregrinus Xaverius
+tl2_name_abbrev: Haenke
+tl2_dates: 1761-1816
+tl2_page_id: 33068248
+author_lsid: 3535-1
+wikidata_id: Q79107
+ipni_surname: Haenke
+ipni_forenames: Thaddäus(Tadeáš) Peregrinus Xaverius
+ipni_standard_form: Haenke
+ipni_dates: 1761-1817
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

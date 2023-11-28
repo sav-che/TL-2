@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0595
+tl2_volume: vol4
+tl2_page_printed: 578
+tl2_surname: Raoul
+tl2_forenames: Édouard Fiacre Louis
+tl2_name_abbrev: Raoul
+tl2_dates: 1815-1852
+tl2_page_id: 33190049
+author_lsid: 8142-1
+wikidata_id: Q633323
+ipni_surname: Raoul
+ipni_forenames: Etienne Fiacre Louis
+ipni_standard_form: Raoul
+ipni_dates: 1815-1852
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

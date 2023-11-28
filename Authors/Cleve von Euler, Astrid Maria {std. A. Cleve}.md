@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0167
+tl2_volume: suppl4
+tl2_page_printed: 212
+tl2_surname: Cleve von Euler
+tl2_forenames: Astrid Maria
+tl2_name_abbrev: A. Cleve
+tl2_dates: 1875-1968
+tl2_page_id: 33265889
+author_lsid: 32762-1
+wikidata_id: Q4811427
+ipni_surname: Cleve
+ipni_forenames: Astrid Maria
+ipni_standard_form: A.Cleve
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265889) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

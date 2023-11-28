@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0146
+tl2_volume: vol1
+tl2_page_printed: 109
+tl2_surname: Baldinger
+tl2_forenames: Ernst Gottfried
+tl2_name_abbrev: Baldinger
+tl2_dates: 1738-1804
+tl2_page_id: 33120240
+author_lsid: 419-1
+wikidata_id: Q214752
+ipni_surname: Baldinger
+ipni_forenames: Ernst Gottfried
+ipni_standard_form: Baldinger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33120240) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

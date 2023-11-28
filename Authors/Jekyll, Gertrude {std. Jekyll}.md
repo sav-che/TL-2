@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0484
+tl2_volume: vol2
+tl2_page_printed: 434
+tl2_surname: Jekyll
+tl2_forenames: Gertrude
+tl2_name_abbrev: Jekyll
+tl2_dates: 1843-1932
+tl2_page_id: 33068676
+author_lsid: 4460-1
+wikidata_id: Q452354
+ipni_surname: Jekyll
+ipni_forenames: Gertrude
+ipni_standard_form: Jekyll
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

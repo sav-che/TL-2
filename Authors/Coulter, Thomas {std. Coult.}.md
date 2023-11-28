@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0700
+tl2_volume: vol1
+tl2_page_printed: 559
+tl2_surname: Coulter
+tl2_forenames: Thomas
+tl2_name_abbrev: T. Coulter
+tl2_dates: 1793-1846
+tl2_page_id: 33120690
+author_lsid: 1839-1
+wikidata_id: Q2029038
+ipni_surname: Coulter
+ipni_forenames: Thomas
+ipni_standard_form: Coult.
+ipni_dates: 1793-1843
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+- Ireland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33120690) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

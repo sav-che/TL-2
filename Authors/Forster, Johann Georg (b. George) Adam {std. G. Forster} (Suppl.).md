@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0220
+tl2_volume: suppl7
+tl2_page_printed: 325
+tl2_surname: Forster
+tl2_forenames: Johann Georg [b. George] Adam
+tl2_name_abbrev: G. Forst.
+tl2_dates: 1754-1794
+tl2_page_id: 33259829
+author_lsid: 2835-1
+wikidata_id: Q58062
+ipni_surname: Forster
+ipni_forenames: Johann Georg Adam
+ipni_standard_form: G.Forst.
+ipni_dates: 1754-1794
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-01-10 11:45:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

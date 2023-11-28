@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0307
+tl2_volume: suppl8
+tl2_page_printed: 427
+tl2_surname: Gruber
+tl2_forenames: Eduard A.
+tl2_name_abbrev: E. Gruber
+tl2_dates: fl. 1896
+tl2_page_id: 33258905
+author_lsid: 29383-1
+wikidata_id: Q38536833
+ipni_surname: Gruber
+ipni_forenames: Eduard
+ipni_standard_form: E.Gruber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33258905) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

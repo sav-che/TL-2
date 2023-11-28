@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0122
+tl2_volume: vol5
+tl2_page_printed: 114
+tl2_surname: Schafhäutl
+tl2_forenames: [Karl Franz] Emil
+tl2_name_abbrev: Schafhäutl
+tl2_dates: 1803-1890
+tl2_page_id: 33333253
+author_lsid: 12822-1
+wikidata_id: Q73167
+ipni_surname: Schafhäutl
+ipni_forenames: (Karl Franz) Emil
+ipni_standard_form: Schafh.
+ipni_dates: 1803-1890
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

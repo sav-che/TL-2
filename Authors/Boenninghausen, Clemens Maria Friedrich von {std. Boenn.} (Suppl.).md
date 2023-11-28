@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0315
+tl2_volume: suppl2
+tl2_page_printed: 255
+tl2_surname: Boenninghausen
+tl2_forenames: Clemens Maria Friedrich von
+tl2_name_abbrev: Boenn.
+tl2_dates: 1785-1864
+tl2_page_id: 33265452
+author_lsid: 12349-1
+wikidata_id: Q540253
+ipni_surname: Boenninghausen
+ipni_forenames: Clemens Maria Friedrich von
+ipni_standard_form: Boenn.
+ipni_dates: 1785-1864
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-05-29 08:29:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33265452) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

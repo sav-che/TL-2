@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0231
+tl2_volume: suppl7
+tl2_page_printed: 356
+tl2_surname: Fourcade
+tl2_forenames: Henry [Henri] Georges [George]
+tl2_name_abbrev: Fourc.
+tl2_dates: 1865-1948
+tl2_page_id: 33259860
+author_lsid: 2856-1
+wikidata_id: Q3679573
+ipni_surname: Fourcade
+ipni_forenames: Henry Georges
+ipni_standard_form: Fourc.
+ipni_dates: 1866-1948
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33259860) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

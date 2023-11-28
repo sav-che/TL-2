@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0023
+tl2_volume: suppl8
+tl2_page_printed: 40
+tl2_surname: Friesner
+tl2_forenames: Ray Clarence
+tl2_name_abbrev: Friesner
+tl2_dates: 1894-1952
+tl2_page_id: 33258480
+author_lsid: 2920-1
+wikidata_id: Q21513553
+ipni_surname: Friesner
+ipni_forenames: Ray Clarence
+ipni_standard_form: Friesner
+ipni_dates: 1894-1952
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33258480) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

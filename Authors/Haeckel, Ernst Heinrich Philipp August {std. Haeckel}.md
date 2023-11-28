@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0006
+tl2_volume: vol2
+tl2_page_printed: 4
+tl2_surname: Haeckel
+tl2_forenames: Ernst Heinrich Philipp August
+tl2_name_abbrev: Haeckel
+tl2_dates: 1834-1919
+tl2_page_id: 33068246
+author_lsid: 3530-1
+wikidata_id: Q48246
+ipni_surname: Haeckel
+ipni_forenames: Ernst Heinrich Philipp August
+ipni_standard_form: Haeckel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33068246) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

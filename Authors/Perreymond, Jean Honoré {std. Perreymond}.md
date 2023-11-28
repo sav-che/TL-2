@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0191
+tl2_volume: vol4
+tl2_page_printed: 169
+tl2_surname: Perreymond
+tl2_forenames: Jean Honoré
+tl2_name_abbrev: Perreymond
+tl2_dates: 1794-1843
+tl2_page_id: 33189640
+author_lsid: 7530-1
+wikidata_id: Q21522840
+ipni_surname: Perreymond
+ipni_forenames: Jean Honoré
+ipni_standard_form: Perreym.
+ipni_dates: 1794-1843
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0899
+tl2_volume: vol3
+tl2_page_printed: 756
+tl2_surname: Nitzsch
+tl2_forenames: Christian Ludwig
+tl2_name_abbrev: Nitzsch
+tl2_dates: 1782-1837
+tl2_page_id: 33355843
+author_lsid: 7004-1
+wikidata_id: Q63822
+ipni_surname: Nitzsch
+ipni_forenames: Christian Ludwig
+ipni_standard_form: Nitzsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

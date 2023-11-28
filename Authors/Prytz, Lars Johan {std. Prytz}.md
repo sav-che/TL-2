@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0507
+tl2_volume: vol4
+tl2_page_printed: 421
+tl2_surname: Prytz
+tl2_forenames: Lars Johan
+tl2_name_abbrev: Prytz
+tl2_dates: 1789-1823
+tl2_page_id: 33189892
+author_lsid: 8003-1
+wikidata_id: Q17383242
+ipni_surname: Prytz
+ipni_forenames: Lars Johan
+ipni_standard_form: Prytz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

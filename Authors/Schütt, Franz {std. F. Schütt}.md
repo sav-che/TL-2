@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0343
+tl2_volume: vol5
+tl2_page_printed: 362
+tl2_surname: Schütt
+tl2_forenames: Franz
+tl2_name_abbrev: F. Schütt
+tl2_dates: 1859-1921
+tl2_page_id: 33333501
+author_lsid: 9283-1
+wikidata_id: Q1449024
+ipni_surname: Schütt
+ipni_forenames: Franz
+ipni_standard_form: F.Schütt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

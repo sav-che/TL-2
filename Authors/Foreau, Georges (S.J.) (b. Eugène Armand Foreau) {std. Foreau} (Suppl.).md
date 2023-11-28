@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0208
+tl2_volume: suppl7
+tl2_page_printed: 314
+tl2_surname: Foreau
+tl2_forenames: Georges (S.J.) [b. Eugène Armand Foreau]
+tl2_name_abbrev: Foreau
+tl2_dates: 1882-1967
+tl2_page_id: 33259818
+author_lsid: 2822-1
+wikidata_id: Q21513337
+ipni_surname: Foreau
+ipni_forenames: Georges
+ipni_standard_form: Foreau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33259818) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0628
+tl2_volume: vol6
+tl2_page_printed: 642
+tl2_surname: Vaizey
+tl2_forenames: John Reynolds
+tl2_name_abbrev: Vaiz.
+tl2_dates: 1862-1889
+tl2_page_id: 33212684
+author_lsid: 11024-1
+wikidata_id: Q21611329
+ipni_surname: Vaizey
+ipni_forenames: John Reynolds
+ipni_standard_form: Vaiz.
+ipni_dates: 1862-1889
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/page/33212684) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

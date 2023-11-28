@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0069
+tl2_volume: vol2
+tl2_page_printed: 50
+tl2_surname: Hantschel
+tl2_forenames: Franz
+tl2_name_abbrev: Hantsch.
+tl2_dates: 1884-?
+tl2_page_id: 33068292
+author_lsid: 3638-1
+wikidata_id: Q21514663
+ipni_surname: Hantschel
+ipni_forenames: Franz
+ipni_standard_form: Hantsch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0247
+tl2_volume: vol2
+tl2_page_printed: 206
+tl2_surname: Hilpert
+tl2_forenames: Friedrich Wilhelm
+tl2_name_abbrev: Hilp.
+tl2_dates: 1907-X
+tl2_page_id: 33068448
+author_lsid: 3953-1
+wikidata_id: Q19410338
+ipni_surname: Hilpert
+ipni_forenames: Friedrich Wilhelm
+ipni_standard_form: Hilp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

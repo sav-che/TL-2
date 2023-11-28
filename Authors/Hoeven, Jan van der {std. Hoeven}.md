@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0284
+tl2_volume: vol2
+tl2_page_printed: 234
+tl2_surname: Hoeven
+tl2_forenames: Jan van der
+tl2_name_abbrev: Hoeven
+tl2_dates: 1801-1868
+tl2_page_id: 33068476
+author_lsid: 4007-1
+wikidata_id: Q322636
+ipni_surname: Hoeven
+ipni_forenames: Jan van der
+ipni_standard_form: Hoeven
+ipni_dates: 1801-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33068476) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

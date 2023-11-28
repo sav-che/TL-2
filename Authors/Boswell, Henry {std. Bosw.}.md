@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0423
+tl2_volume: suppl2
+tl2_page_printed: 372
+tl2_surname: Boswell
+tl2_forenames: Henry
+tl2_name_abbrev: Bosw.
+tl2_dates: 1837-1897
+tl2_page_id: 33265569
+author_lsid: 16381-1
+wikidata_id: Q21506347
+ipni_surname: Boswell
+ipni_forenames: Henry
+ipni_standard_form: Bosw.
+ipni_dates: 1837-1897
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265569) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

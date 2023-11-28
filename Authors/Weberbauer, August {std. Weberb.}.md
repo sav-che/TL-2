@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol7_0129
+tl2_volume: vol7
+tl2_page_printed: 134
+tl2_surname: Weberbauer
+tl2_forenames: August
+tl2_name_abbrev: Weberb.
+tl2_dates: 1871-1948
+tl2_page_id: 33066474
+author_lsid: 11473-1
+wikidata_id: Q216034
+ipni_surname: Weberbauer
+ipni_forenames: August
+ipni_standard_form: Weberb.
+ipni_dates: 1871-1948
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Peru
+- Cameroon
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33066474) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

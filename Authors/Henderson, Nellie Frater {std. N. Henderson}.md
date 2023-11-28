@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0175
+tl2_volume: vol2
+tl2_page_printed: 154
+tl2_surname: Henderson
+tl2_forenames: Nellie Frater
+tl2_name_abbrev: N. Henderson
+tl2_dates: 1885-1952
+tl2_page_id: 33068396
+author_lsid: 3833-1
+wikidata_id: Q21515698
+ipni_surname: Henderson
+ipni_forenames: Nellie Frater
+ipni_standard_form: N.F.Hend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

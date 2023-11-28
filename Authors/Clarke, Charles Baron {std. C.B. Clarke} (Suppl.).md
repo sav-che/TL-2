@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0142
+tl2_volume: suppl4
+tl2_page_printed: 183
+tl2_surname: Clarke
+tl2_forenames: Charles Baron
+tl2_name_abbrev: C.B. Clarke
+tl2_dates: 1832-1906
+tl2_page_id: 33265860
+author_lsid: 1669-1
+wikidata_id: Q2659116
+ipni_surname: Clarke
+ipni_forenames: Charles Baron
+ipni_standard_form: C.B.Clarke
+ipni_dates: 1832-1906
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

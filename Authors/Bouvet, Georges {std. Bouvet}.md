@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0448
+tl2_volume: suppl2
+tl2_page_printed: 394
+tl2_surname: Bouvet
+tl2_forenames: Georges
+tl2_name_abbrev: Bouvet
+tl2_dates: 1850-1929
+tl2_page_id: 33265591
+author_lsid: 1039-1
+wikidata_id: Q3102355
+ipni_surname: Bouvet
+ipni_forenames: Georges
+ipni_standard_form: Bouvet
+ipni_dates: 1850-1929
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265591) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0310
+tl2_volume: vol6
+tl2_page_printed: 268
+tl2_surname: Thom
+tl2_forenames: Charles
+tl2_name_abbrev: Thom
+tl2_dates: 1872-1956
+tl2_page_id: 33212310
+author_lsid: 27673-1
+wikidata_id: Q2960311
+ipni_surname: Thom
+ipni_forenames: Charles
+ipni_standard_form: Thom
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33212310) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

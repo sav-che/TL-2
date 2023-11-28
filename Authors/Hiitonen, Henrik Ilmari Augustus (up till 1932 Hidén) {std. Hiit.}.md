@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0238
+tl2_volume: vol2
+tl2_page_printed: 195
+tl2_surname: Hiitonen
+tl2_forenames: Henrik Ilmari Augustus (up till 1932 Hidén)
+tl2_name_abbrev: Hiit.
+tl2_dates: 1898-x
+tl2_page_id: 33068437
+author_lsid: 12550-1
+wikidata_id: Q4844570
+ipni_surname: Hiitonen
+ipni_forenames: Henrik Ilmari Augustus
+ipni_standard_form: Hiitonen
+ipni_dates: 1898-1986
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

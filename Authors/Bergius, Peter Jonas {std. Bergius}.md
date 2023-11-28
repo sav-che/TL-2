@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0246
+tl2_volume: vol1
+tl2_page_printed: 190
+tl2_surname: Bergius
+tl2_forenames: Peter Jonas
+tl2_name_abbrev: Bergius
+tl2_dates: 1730-1790
+tl2_page_id: 33120321
+author_lsid: 690-1
+wikidata_id: Q2612272
+ipni_surname: Bergius
+ipni_forenames: Peter Jonas
+ipni_standard_form: P.J.Bergius
+ipni_dates: 1730-1790
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

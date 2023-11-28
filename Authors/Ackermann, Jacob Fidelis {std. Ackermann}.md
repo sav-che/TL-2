@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0024
+tl2_volume: suppl1
+tl2_page_printed: 16
+tl2_surname: Ackermann
+tl2_forenames: Jacob Fidelis
+tl2_name_abbrev: Ackermann
+tl2_dates: 1765-1815
+tl2_page_id: 33264759
+author_lsid: 40524-1
+wikidata_id: Q98053
+ipni_surname: Ackermann
+ipni_forenames: Jacob Fidelis
+ipni_standard_form: Ackermann
+ipni_dates: 1765-1815
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

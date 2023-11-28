@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0257
+tl2_volume: suppl3
+tl2_page_printed: 267
+tl2_surname: Bursa
+tl2_forenames: Adam Stanislaw
+tl2_name_abbrev: Bursa
+tl2_dates: 1908-x
+tl2_page_id: 33266574
+author_lsid: 32601-1
+wikidata_id: Q21506709
+ipni_surname: Bursa
+ipni_forenames: Adam Stanislaw
+ipni_standard_form: Bursa
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Canada
+- Poland
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

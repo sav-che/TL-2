@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0042
+tl2_volume: suppl2
+tl2_page_printed: 49
+tl2_surname: Behlau
+tl2_forenames: Joachim Arthur
+tl2_name_abbrev: Behlau
+tl2_dates: 1910-x
+tl2_page_id: 33265246
+author_lsid: 32391-1
+wikidata_id: Q36586725
+ipni_surname: Behlau
+ipni_forenames: Joachim
+ipni_standard_form: Behlau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

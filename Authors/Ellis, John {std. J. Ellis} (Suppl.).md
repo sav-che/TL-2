@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0354
+tl2_volume: suppl6
+tl2_page_printed: 313
+tl2_surname: Ellis
+tl2_forenames: John
+tl2_name_abbrev: J. Ellis
+tl2_dates: ± 1705-1776
+tl2_page_id: 33260301
+author_lsid: 2518-1
+wikidata_id: Q934747
+ipni_surname: Ellis
+ipni_forenames: John
+ipni_standard_form: J.Ellis
+ipni_dates: 1710-1776
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33260301) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

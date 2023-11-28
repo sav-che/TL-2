@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0057
+tl2_volume: suppl2
+tl2_page_printed: 60
+tl2_surname: Beissner
+tl2_forenames: Ludwig
+tl2_name_abbrev: Beissn.
+tl2_dates: 1843-1927
+tl2_page_id: 33265257
+author_lsid: 625-1
+wikidata_id: Q65688
+ipni_surname: Beissner
+ipni_forenames: Ludwig
+ipni_standard_form: Beissn.
+ipni_dates: 1843-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

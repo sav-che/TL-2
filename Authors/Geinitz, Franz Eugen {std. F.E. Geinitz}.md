@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1158
+tl2_volume: vol1
+tl2_page_printed: 929
+tl2_surname: Geinitz
+tl2_forenames: Franz Eugen
+tl2_name_abbrev: F.E. Geinitz
+tl2_dates: 1854-1925
+tl2_page_id: 33121060
+author_lsid: 3069-1
+wikidata_id: Q98686
+ipni_surname: Geinitz
+ipni_forenames: Franz Eugen
+ipni_standard_form: F.E.Geinitz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

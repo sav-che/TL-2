@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0465
+tl2_volume: vol4
+tl2_page_printed: 385
+tl2_surname: Preda
+tl2_forenames: Agilulfo
+tl2_name_abbrev: Preda
+tl2_dates: 1870-1941
+tl2_page_id: 33189856
+author_lsid: 7936-1
+wikidata_id: Q21523204
+ipni_surname: Preda
+ipni_forenames: Agilulfo
+ipni_standard_form: Preda
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

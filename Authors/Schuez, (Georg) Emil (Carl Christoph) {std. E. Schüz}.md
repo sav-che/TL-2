@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0345
+tl2_volume: vol5
+tl2_page_printed: 364
+tl2_surname: Schuez
+tl2_forenames: [Georg] Emil [Carl Christoph]
+tl2_name_abbrev: E. Schüz
+tl2_dates: 1828-1877
+tl2_page_id: 33333503
+author_lsid: 12850-1
+wikidata_id: Q21608465
+ipni_surname: Schuez
+ipni_forenames: (Georg) Emil (Carl Christoph)
+ipni_standard_form: Schuez
+ipni_dates: 1828-1877
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

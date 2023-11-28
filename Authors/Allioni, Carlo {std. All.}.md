@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0042
+tl2_volume: vol1
+tl2_page_printed: 34
+tl2_surname: Allioni
+tl2_forenames: Carlo
+tl2_name_abbrev: All.
+tl2_dates: 1728-1804
+tl2_page_id: 33120165
+author_lsid: 154-1
+wikidata_id: Q161420
+ipni_surname: Allioni
+ipni_forenames: Carlo
+ipni_standard_form: All.
+ipni_dates: 1728-1804
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33120165) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

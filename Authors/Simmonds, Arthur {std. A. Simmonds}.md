@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0601
+tl2_volume: vol5
+tl2_page_printed: 605
+tl2_surname: Simmonds
+tl2_forenames: Arthur
+tl2_name_abbrev: A. Simmonds
+tl2_dates: 1892-1968
+tl2_page_id: 33333744
+author_lsid: 9662-1
+wikidata_id: Q21338250
+ipni_surname: Simmonds
+ipni_forenames: Arthur
+ipni_standard_form: A.Simmonds
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

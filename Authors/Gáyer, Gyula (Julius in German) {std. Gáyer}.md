@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0112
+tl2_volume: suppl8
+tl2_page_printed: 160
+tl2_surname: Gáyer
+tl2_forenames: Gyula [Julius in German]
+tl2_name_abbrev: Gáyer
+tl2_dates: 1883-1932
+tl2_page_id: 33258638
+author_lsid: 12509-1
+wikidata_id: Q1031241
+ipni_surname: Gáyer
+ipni_forenames: Gyula
+ipni_standard_form: Gáyer
+ipni_dates: 1883-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-07-02 14:32:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33258638) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

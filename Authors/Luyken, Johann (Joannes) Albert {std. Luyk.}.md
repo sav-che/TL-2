@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0188
+tl2_volume: vol3
+tl2_page_printed: 199
+tl2_surname: Luyken
+tl2_forenames: Johann (Joannes) Albert
+tl2_name_abbrev: Luyk.
+tl2_dates: 1785-1867
+tl2_page_id: 33355286
+author_lsid: 22645-1
+wikidata_id: Q21519671
+ipni_surname: Luyken
+ipni_forenames: Johann(Joannes) Albert
+ipni_standard_form: Luyk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

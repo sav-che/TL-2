@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0673
+tl2_volume: vol1
+tl2_page_printed: 535
+tl2_surname: Conzatti
+tl2_forenames: Cassiano
+tl2_name_abbrev: Conzatti
+tl2_dates: 1862-1951
+tl2_page_id: 33120666
+author_lsid: 1776-1
+wikidata_id: Q16243314
+ipni_surname: Conzatti
+ipni_forenames: Cassiano
+ipni_standard_form: Conz.
+ipni_dates: 1862-1951
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

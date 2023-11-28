@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0484
+tl2_volume: vol4
+tl2_page_printed: 400
+tl2_surname: Prince
+tl2_forenames: William
+tl2_name_abbrev: W. Prince
+tl2_dates: 1766-1842
+tl2_page_id: 33189871
+author_lsid: 7962-1
+wikidata_id: Q14954617
+ipni_surname: Prince
+ipni_forenames: William
+ipni_standard_form: Prince
+ipni_dates: 1766-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33189871) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

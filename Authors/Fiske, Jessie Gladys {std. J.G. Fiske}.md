@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0152
+tl2_volume: suppl7
+tl2_page_printed: 225
+tl2_surname: Fiske
+tl2_forenames: Jessie Gladys
+tl2_name_abbrev: J.G. Fiske
+tl2_dates: 1895-1966
+tl2_page_id: 33259729
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33259729) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

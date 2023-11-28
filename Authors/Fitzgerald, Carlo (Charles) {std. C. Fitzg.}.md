@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0155
+tl2_volume: suppl7
+tl2_page_printed: 228
+tl2_surname: Fitzgerald
+tl2_forenames: Carlo [Charles]
+tl2_name_abbrev: C. Fitzg.
+tl2_dates: 1850-1894?
+tl2_page_id: 33259732
+author_lsid: 20043492-1
+wikidata_id: Q88815891
+ipni_surname: Fitzgerald
+ipni_forenames: Carlo
+ipni_standard_form: C.Fitzg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259732) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

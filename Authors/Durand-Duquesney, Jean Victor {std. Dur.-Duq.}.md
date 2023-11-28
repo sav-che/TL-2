@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0205
+tl2_volume: suppl6
+tl2_page_printed: 188
+tl2_surname: Durand-Duquesney
+tl2_forenames: Jean Victor
+tl2_name_abbrev: Dur.-Duq.
+tl2_dates: 1785-1862
+tl2_page_id: 33260176
+author_lsid: 2401-1
+wikidata_id: Q21393613
+ipni_surname: Durand-Duquesney
+ipni_forenames: Jean Victor
+ipni_standard_form: Dur.-Duq.
+ipni_dates: 1785-1862
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33260176) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

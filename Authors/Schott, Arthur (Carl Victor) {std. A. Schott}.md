@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0302
+tl2_volume: vol5
+tl2_page_printed: 303
+tl2_surname: Schott
+tl2_forenames: Arthur [Carl Victor]
+tl2_name_abbrev: A. Schott
+tl2_dates: 1814-1875
+tl2_page_id: 33333442
+author_lsid: 9239-1
+wikidata_id: Q4798203
+ipni_surname: Schott
+ipni_forenames: Arthur Carl Victor
+ipni_standard_form: A.Schott
+ipni_dates: 1814-1875
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

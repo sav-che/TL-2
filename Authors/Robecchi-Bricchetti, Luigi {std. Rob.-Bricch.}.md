@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0810
+tl2_volume: vol4
+tl2_page_printed: 808
+tl2_surname: Robecchi-Bricchetti
+tl2_forenames: Luigi
+tl2_name_abbrev: Rob.-Bricch.
+tl2_dates: 1855-1926
+tl2_page_id: 33190279
+author_lsid: 8437-1
+wikidata_id: Q5396650
+ipni_surname: Robecchi-Bricchetti
+ipni_forenames: Luigi
+ipni_standard_form: Rob.-Bricch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ethiopia
+- Italy
+- Somalia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

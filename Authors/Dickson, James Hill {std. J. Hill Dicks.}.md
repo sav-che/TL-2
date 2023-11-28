@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0308
+tl2_volume: suppl5
+tl2_page_printed: 291
+tl2_surname: Dickson
+tl2_forenames: James Hill
+tl2_name_abbrev: J. Hill Dicks.
+tl2_dates: c. 1795-1867
+tl2_page_id: 33259337
+author_lsid: 20019477-1
+wikidata_id: Q21510373
+ipni_surname: Dickson
+ipni_forenames: James Hill
+ipni_standard_form: J.Hill Dicks.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0503
+tl2_volume: vol3
+tl2_page_printed: 423
+tl2_surname: Mereschkowski
+tl2_forenames: Konstantin Sergejewicz [pseudonym Kuno Mower]
+tl2_name_abbrev: Mereschk.
+tl2_dates: 1854 (1855?)-1921
+tl2_page_id: 33355510
+author_lsid: 23283-1
+wikidata_id: Q784856
+ipni_surname: Mereschkowski
+ipni_forenames: Konstantin Sergejewicz
+ipni_standard_form: Mereschk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

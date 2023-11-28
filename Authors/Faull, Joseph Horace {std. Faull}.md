@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl7_0045
+tl2_volume: suppl7
+tl2_page_printed: 65
+tl2_surname: Faull
+tl2_forenames: Joseph Horace
+tl2_name_abbrev: Faull
+tl2_dates: 1870-1961
+tl2_page_id: 33259569
+author_lsid: 2645-1
+wikidata_id: Q21512673
+ipni_surname: Faull
+ipni_forenames: Joseph Horace
+ipni_standard_form: Faull
+ipni_dates: 1876-1961
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33259569) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

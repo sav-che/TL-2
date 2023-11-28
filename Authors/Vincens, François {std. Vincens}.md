@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0729
+tl2_volume: vol6
+tl2_page_printed: 748
+tl2_surname: Vincens
+tl2_forenames: François
+tl2_name_abbrev: Vincens
+tl2_dates: 1880-1925
+tl2_page_id: 33212790
+author_lsid: 28383-1
+wikidata_id: Q21611775
+ipni_surname: Vincens
+ipni_forenames: François
+ipni_standard_form: Vincens
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

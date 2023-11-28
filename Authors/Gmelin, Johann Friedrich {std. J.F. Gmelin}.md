@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_1208
+tl2_volume: vol1
+tl2_page_printed: 955
+tl2_surname: Gmelin
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: J.F. Gmelin
+tl2_dates: 1748-1804
+tl2_page_id: 33121086
+author_lsid: 3203-1
+wikidata_id: Q57230
+ipni_surname: Gmelin
+ipni_forenames: Johann Friedrich
+ipni_standard_form: J.F.Gmel.
+ipni_dates: 1748-1804
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 955](https://www.biodiversitylibrary.org/page/33121086) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

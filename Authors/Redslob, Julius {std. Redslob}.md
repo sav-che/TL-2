@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0656
+tl2_volume: vol4
+tl2_page_printed: 629
+tl2_surname: Redslob
+tl2_forenames: Julius
+tl2_name_abbrev: Redslob
+tl2_dates: fl. 1863
+tl2_page_id: 33190100
+author_lsid: 8224-1
+wikidata_id: Q36597723
+ipni_surname: Redslob
+ipni_forenames: Julius
+ipni_standard_form: Redslob
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 629](https://www.biodiversitylibrary.org/page/33190100) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

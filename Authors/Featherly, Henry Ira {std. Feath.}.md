@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0061
+tl2_volume: suppl7
+tl2_page_printed: 78
+tl2_surname: Featherly
+tl2_forenames: Henry Ira
+tl2_name_abbrev: Feath.
+tl2_dates: 1893-1978
+tl2_page_id: 33259582
+author_lsid: 2658-1
+wikidata_id: Q21512728
+ipni_surname: Featherly
+ipni_forenames: Henry Ira
+ipni_standard_form: Feath.
+ipni_dates: 1893-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33259582) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

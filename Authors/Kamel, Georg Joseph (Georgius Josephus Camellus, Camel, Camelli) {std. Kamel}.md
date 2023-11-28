@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0574
+tl2_volume: vol2
+tl2_page_printed: 491
+tl2_surname: Kamel
+tl2_forenames: Georg Joseph (Georgius Josephus Camellus, Camel, Camelli)
+tl2_name_abbrev: Kamel
+tl2_dates: 1661-1706
+tl2_page_id: 33068733
+author_lsid: 35176-1
+wikidata_id: Q552049
+ipni_surname: Kamel
+ipni_forenames: Georg Joseph
+ipni_standard_form: Kamel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- Philippines
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

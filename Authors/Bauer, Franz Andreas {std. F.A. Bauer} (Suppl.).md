@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0439
+tl2_volume: suppl1
+tl2_page_printed: 384
+tl2_surname: Bauer
+tl2_forenames: Franz Andreas
+tl2_name_abbrev: F.A. Bauer
+tl2_dates: 1758-1840
+tl2_page_id: 33265111
+author_lsid: 552-1
+wikidata_id: Q938823
+ipni_surname: Bauer
+ipni_forenames: Franz (Francis) Andreas
+ipni_standard_form: F.A.Bauer
+ipni_dates: 1758-1840
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265111) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

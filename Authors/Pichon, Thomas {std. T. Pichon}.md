@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0294
+tl2_volume: vol4
+tl2_page_printed: 253
+tl2_surname: Pichon
+tl2_forenames: Thomas
+tl2_name_abbrev: T. Pichon
+tl2_dates: fl. 1811
+tl2_page_id: 33189724
+author_lsid: 7669-1
+wikidata_id: Q47124445
+ipni_surname: Pichon
+ipni_forenames: Thomas
+ipni_standard_form: T.Pichon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0065
+tl2_volume: vol5
+tl2_page_printed: 66
+tl2_surname: Saunders
+tl2_forenames: Edith Rebecca
+tl2_name_abbrev: E.R. Saunders
+tl2_dates: 1865-1945
+tl2_page_id: 33333205
+author_lsid: 8953-1
+wikidata_id: Q15989780
+ipni_surname: Saunders
+ipni_forenames: Edith Rebecca
+ipni_standard_form: E.R.Saunders
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33333205) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

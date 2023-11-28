@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0150
+tl2_volume: vol2
+tl2_page_printed: 137
+tl2_surname: Heim
+tl2_forenames: Roger Jean
+tl2_name_abbrev: R. Heim
+tl2_dates: 1900-x
+tl2_page_id: 33068379
+author_lsid: 3786-1
+wikidata_id: Q2582566
+ipni_surname: Heim
+ipni_forenames: Roger (Jean)
+ipni_standard_form: R.Heim
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

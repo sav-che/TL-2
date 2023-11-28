@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1124
+tl2_volume: vol1
+tl2_page_printed: 904
+tl2_surname: Gagnepain
+tl2_forenames: François
+tl2_name_abbrev: Gagnep.
+tl2_dates: 1866-1952
+tl2_page_id: 33121035
+author_lsid: 2978-1
+wikidata_id: Q599122
+ipni_surname: Gagnepain
+ipni_forenames: François
+ipni_standard_form: Gagnep.
+ipni_dates: 1866-1952
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

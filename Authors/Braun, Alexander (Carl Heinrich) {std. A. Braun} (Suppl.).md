@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl3_0036
+tl2_volume: suppl3
+tl2_page_printed: 23
+tl2_surname: Braun
+tl2_forenames: Alexander [Carl Heinrich]
+tl2_name_abbrev: A. Braun
+tl2_dates: 1805-1877
+tl2_page_id: 33266330
+author_lsid: 16476-1
+wikidata_id: Q62855
+ipni_surname: Braun
+ipni_forenames: Alexander Karl (Carl) Heinrich
+ipni_standard_form: A.Braun
+ipni_dates: 1805-1877
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33266330) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0424
+tl2_volume: suppl6
+tl2_page_printed: 434
+tl2_surname: Evans
+tl2_forenames: Arthur Humble
+tl2_name_abbrev: A.H. Evans
+tl2_dates: 1855-1943
+tl2_page_id: 33260422
+author_lsid: 2590-1
+wikidata_id: Q2865160
+ipni_surname: Evans
+ipni_forenames: Arthur Humble
+ipni_standard_form: A.H.Evans
+ipni_dates: 1855-1943
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33260422) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

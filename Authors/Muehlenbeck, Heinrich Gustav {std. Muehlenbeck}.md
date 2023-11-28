@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0733
+tl2_volume: vol3
+tl2_page_printed: 614
+tl2_surname: Muehlenbeck
+tl2_forenames: Heinrich Gustav
+tl2_name_abbrev: Muehlenbeck
+tl2_dates: 1798-1845
+tl2_page_id: 33355701
+author_lsid: 6727-1
+wikidata_id: Q16858069
+ipni_surname: Muehlenbeck
+ipni_forenames: Heinrich Gustav
+ipni_standard_form: Muehlenbeck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1017
+tl2_volume: vol4
+tl2_page_printed: 981
+tl2_surname: Ruijs (Ruys)
+tl2_forenames: Johannes Marinus
+tl2_name_abbrev: Ruijs
+tl2_dates: fl. 1884
+tl2_page_id: 33190452
+author_lsid: 8729-1
+wikidata_id: Q36598296
+ipni_surname: Ruijs
+ipni_forenames: Johannes Marinus
+ipni_standard_form: Ruijs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

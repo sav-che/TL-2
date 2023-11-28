@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0022
+tl2_volume: vol5
+tl2_page_printed: 26
+tl2_surname: Sand
+tl2_forenames: Austin Westman William
+tl2_name_abbrev: Sand
+tl2_dates: fl. 1926
+tl2_page_id: 33333127
+author_lsid: 8877-1
+wikidata_id: Q36509798
+ipni_surname: Sand
+ipni_forenames: Austin Westman William
+ipni_standard_form: A.W.W.Sand
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

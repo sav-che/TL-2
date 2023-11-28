@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1280
+tl2_volume: vol1
+tl2_page_printed: 1021
+tl2_surname: Guillaumin
+tl2_forenames: André
+tl2_name_abbrev: Guillaumin
+tl2_dates: 1885-1974
+tl2_page_id: 33121152
+author_lsid: 3465-1
+wikidata_id: Q2847911
+ipni_surname: Guillaumin
+ipni_forenames: André
+ipni_standard_form: Guillaumin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33121152) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0338
+tl2_volume: suppl6
+tl2_page_printed: 298
+tl2_surname: Elbert
+tl2_forenames: Johannes [Eugen Wilhelm]
+tl2_name_abbrev: Elbert
+tl2_dates: 1878-1915
+tl2_page_id: 33260286
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

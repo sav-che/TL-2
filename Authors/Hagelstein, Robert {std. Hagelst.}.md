@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0013
+tl2_volume: vol2
+tl2_page_printed: 9
+tl2_surname: Hagelstein
+tl2_forenames: Robert
+tl2_name_abbrev: Hagelst.
+tl2_dates: 1870-1945
+tl2_page_id: 33068251
+author_lsid: 3542-1
+wikidata_id: Q21514482
+ipni_surname: Hagelstein
+ipni_forenames: Robert
+ipni_standard_form: Hagelst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

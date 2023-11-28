@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0115
+tl2_volume: vol3
+tl2_page_printed: 154
+tl2_surname: Longyear
+tl2_forenames: Burton Orange
+tl2_name_abbrev: Longyear
+tl2_dates: 1868-1969
+tl2_page_id: 33355241
+author_lsid: 5732-1
+wikidata_id: Q21519459
+ipni_surname: Longyear
+ipni_forenames: Burton Orange
+ipni_standard_form: Longyear
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33355241) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

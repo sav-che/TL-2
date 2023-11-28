@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0521
+tl2_volume: vol5
+tl2_page_printed: 543
+tl2_surname: Seydler
+tl2_forenames: Friedrich Wilhelm
+tl2_name_abbrev: Seydler
+tl2_dates: 1811-1897
+tl2_page_id: 33333682
+author_lsid: 9523-1
+wikidata_id: Q21608718
+ipni_surname: Seydler
+ipni_forenames: Friedrich Wilhelm
+ipni_standard_form: Seydler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

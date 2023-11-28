@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0132
+tl2_volume: vol3
+tl2_page_printed: 164
+tl2_surname: Lortet
+tl2_forenames: Mme. Clémence, née Richard
+tl2_name_abbrev: C. Lortet
+tl2_dates: 1772-1835
+tl2_page_id: 33355251
+author_lsid: 12666-1
+wikidata_id: Q21519514
+ipni_surname: Lortet
+ipni_forenames: Clémence
+ipni_standard_form: Lortet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

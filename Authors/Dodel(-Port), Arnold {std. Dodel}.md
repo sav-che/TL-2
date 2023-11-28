@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0009
+tl2_volume: suppl6
+tl2_page_printed: 13
+tl2_surname: Dodel[-Port]
+tl2_forenames: Arnold
+tl2_name_abbrev: Dodel
+tl2_dates: 1843-1908
+tl2_page_id: 33260001
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33260001) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

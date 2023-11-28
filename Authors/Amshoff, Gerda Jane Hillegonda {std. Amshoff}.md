@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0061
+tl2_volume: vol1
+tl2_page_printed: 43
+tl2_surname: Amshoff
+tl2_forenames: Gerda Jane Hillegonda
+tl2_name_abbrev: Amshoff
+tl2_dates: fl. 1939
+tl2_page_id: 33120174
+author_lsid: 183-1
+wikidata_id: Q5878463
+ipni_surname: Amshoff
+ipni_forenames: Gerda Jane Hillegonda
+ipni_standard_form: Amshoff
+ipni_dates: 1913-1985
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

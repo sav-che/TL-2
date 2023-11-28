@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0409
+tl2_volume: vol1
+tl2_page_printed: 311
+tl2_surname: Braune
+tl2_forenames: Franz Anton Alexander von
+tl2_name_abbrev: F. Braune
+tl2_dates: 1766-1853
+tl2_page_id: 33120442
+author_lsid: 1091-1
+wikidata_id: Q1446043
+ipni_surname: Braune
+ipni_forenames: Franz Anton Alexander von
+ipni_standard_form: Braune
+ipni_dates: 1766-1853
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33120442) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

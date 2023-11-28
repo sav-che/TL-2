@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0266
+tl2_volume: suppl5
+tl2_page_printed: 233
+tl2_surname: Destrée
+tl2_forenames: Caroline Élisa
+tl2_name_abbrev: E. Bommer
+tl2_dates: 1832-1910
+tl2_page_id: 33259279
+author_lsid: 16313-1
+wikidata_id: Q5361352
+ipni_surname: Bommer
+ipni_forenames: Elisa Caroline
+ipni_standard_form: E.Bommer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

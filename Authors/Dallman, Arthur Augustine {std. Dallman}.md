@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0037
+tl2_volume: suppl5
+tl2_page_printed: 32
+tl2_surname: Dallman
+tl2_forenames: Arthur Augustine
+tl2_name_abbrev: Dallman
+tl2_dates: 1883-1963
+tl2_page_id: 33259078
+author_lsid: 14660-1
+wikidata_id: Q21509738
+ipni_surname: Dallman
+ipni_forenames: Arthur Augustine
+ipni_standard_form: Dallman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259078) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

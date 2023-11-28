@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0892
+tl2_volume: vol2
+tl2_page_printed: 754
+tl2_surname: Lanzi
+tl2_forenames: Matteo
+tl2_name_abbrev: Lanzi
+tl2_dates: 1824-1907
+tl2_page_id: 33068996
+author_lsid: 22059-1
+wikidata_id: Q21518381
+ipni_surname: Lanzi
+ipni_forenames: Matteo
+ipni_standard_form: Lanzi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

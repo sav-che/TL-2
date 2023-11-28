@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0484
+tl2_volume: vol6
+tl2_page_printed: 474
+tl2_surname: Treuinfels
+tl2_forenames: Leo M.
+tl2_name_abbrev: Treuinf.
+tl2_dates: 1848-?
+tl2_page_id: 33212516
+author_lsid: 10812-1
+wikidata_id: Q18419607
+ipni_surname: Treuinfels
+ipni_forenames: Leo M.
+ipni_standard_form: Treuinf.
+ipni_dates: 1848-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

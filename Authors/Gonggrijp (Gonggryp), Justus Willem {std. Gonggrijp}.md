@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0221
+tl2_volume: suppl8
+tl2_page_printed: 295
+tl2_surname: Gonggrijp [Gonggryp]
+tl2_forenames: Justus Willem
+tl2_name_abbrev: Gonggrijp
+tl2_dates: 1885-1974
+tl2_page_id: 33258773
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33258773) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

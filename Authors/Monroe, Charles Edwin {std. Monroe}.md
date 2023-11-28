@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0646
+tl2_volume: vol3
+tl2_page_printed: 557
+tl2_surname: Monroe
+tl2_forenames: Charles Edwin
+tl2_name_abbrev: Monroe
+tl2_dates: 1857-1931
+tl2_page_id: 33355644
+author_lsid: 6598-1
+wikidata_id: Q21521659
+ipni_surname: Monroe
+ipni_forenames: Charles Edwin
+ipni_standard_form: Monroe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

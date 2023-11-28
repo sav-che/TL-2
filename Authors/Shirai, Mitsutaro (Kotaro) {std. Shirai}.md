@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0549
+tl2_volume: vol5
+tl2_page_printed: 566
+tl2_surname: Shirai
+tl2_forenames: Mitsutaro (Kotaro)
+tl2_name_abbrev: Shirai
+tl2_dates: 1863-1962
+tl2_page_id: 33333705
+author_lsid: 9582-1
+wikidata_id: Q5926602
+ipni_surname: Shirai
+ipni_forenames: Mitsutarô (`Kotaro')
+ipni_standard_form: Shirai
+ipni_dates: 1863-1932
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

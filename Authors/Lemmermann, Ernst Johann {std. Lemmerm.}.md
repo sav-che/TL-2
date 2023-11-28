@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0992
+tl2_volume: vol2
+tl2_page_printed: 840
+tl2_surname: Lemmermann
+tl2_forenames: Ernst Johann
+tl2_name_abbrev: Lemmerm.
+tl2_dates: 1867-1915
+tl2_page_id: 33069082
+author_lsid: 5464-1
+wikidata_id: Q5395066
+ipni_surname: Lemmermann
+ipni_forenames: Ernst Johann
+ipni_standard_form: Lemmerm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

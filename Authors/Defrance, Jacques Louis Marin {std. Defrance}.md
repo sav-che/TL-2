@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0778
+tl2_volume: vol1
+tl2_page_printed: 610
+tl2_surname: Defrance
+tl2_forenames: Jacques Louis Marin
+tl2_name_abbrev: Defrance
+tl2_dates: 1758-1850
+tl2_page_id: 33120741
+author_lsid: 2077-1
+wikidata_id: Q20171550
+ipni_surname: Defrance
+ipni_forenames: Jacques Louis Marin
+ipni_standard_form: Defrance
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

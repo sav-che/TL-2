@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0376
+tl2_volume: vol7
+tl2_page_printed: 423
+tl2_surname: Wolff
+tl2_forenames: [Karl Friedrich August] Hermann
+tl2_name_abbrev: H. Wolff
+tl2_dates: 1866-1929
+tl2_page_id: 33066763
+author_lsid: 11821-1
+wikidata_id: Q4124761
+ipni_surname: Wolff
+ipni_forenames: Karl Friedrich August Hermann
+ipni_standard_form: H.Wolff
+ipni_dates: 1866-1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

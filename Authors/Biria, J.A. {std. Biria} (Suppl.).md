@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0208
+tl2_volume: suppl2
+tl2_page_printed: 172
+tl2_surname: Biria
+tl2_forenames: J.A.
+tl2_name_abbrev: Biria
+tl2_dates: fl. 1811
+tl2_page_id: 33265369
+author_lsid: 803-1
+wikidata_id: Q13409387
+ipni_surname: Biria
+ipni_forenames: J.A.J.
+ipni_standard_form: Biria
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

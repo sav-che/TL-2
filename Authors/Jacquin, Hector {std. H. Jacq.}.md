@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0447
+tl2_volume: vol2
+tl2_page_printed: 405
+tl2_surname: Jacquin
+tl2_forenames: Hector
+tl2_name_abbrev: H. Jacq.
+tl2_dates: fl. 1832
+tl2_page_id: 33068647
+author_lsid: 4387-1
+wikidata_id: Q36574228
+ipni_surname: Jacquin
+ipni_forenames: Hector
+ipni_standard_form: H.Jacq.
+ipni_dates: fl. 1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

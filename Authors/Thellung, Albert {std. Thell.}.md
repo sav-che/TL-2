@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0282
+tl2_volume: vol6
+tl2_page_printed: 242
+tl2_surname: Thellung
+tl2_forenames: Albert
+tl2_name_abbrev: Thell.
+tl2_dates: 1881-1928
+tl2_page_id: 33212284
+author_lsid: 10550-1
+wikidata_id: Q124109
+ipni_surname: Thellung
+ipni_forenames: Albert
+ipni_standard_form: Thell.
+ipni_dates: 1881-1928
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33212284) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

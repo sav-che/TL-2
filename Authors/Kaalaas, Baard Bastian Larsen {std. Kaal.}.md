@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0562
+tl2_volume: vol2
+tl2_page_printed: 481
+tl2_surname: Kaalaas
+tl2_forenames: Baard Bastian Larsen
+tl2_name_abbrev: Kaal.
+tl2_dates: 1851-1918
+tl2_page_id: 33068723
+author_lsid: 21113-1
+wikidata_id: Q11959947
+ipni_surname: Kaalaas
+ipni_forenames: Baard Bastian Larsen
+ipni_standard_form: Kaal.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

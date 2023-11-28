@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0645
+tl2_volume: vol6
+tl2_page_printed: 661
+tl2_surname: Van Dersal
+tl2_forenames: William Richard
+tl2_name_abbrev: Van Dersal
+tl2_dates: 1907-x
+tl2_page_id: 33212703
+author_lsid: 11054-1
+wikidata_id: Q21611404
+ipni_surname: Van Dersal
+ipni_forenames: William Richard
+ipni_standard_form: Van Dersal
+ipni_dates: 1907-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

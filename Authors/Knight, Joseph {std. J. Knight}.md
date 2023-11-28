@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0699
+tl2_volume: vol2
+tl2_page_printed: 577
+tl2_surname: Knight
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Knight
+tl2_dates: c. 1777-1855
+tl2_page_id: 33068819
+author_lsid: 4871-1
+wikidata_id: Q6284642
+ipni_surname: Knight
+ipni_forenames: Joseph
+ipni_standard_form: Knight
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

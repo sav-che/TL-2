@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0194
+tl2_volume: suppl6
+tl2_page_printed: 176
+tl2_surname: Duppa
+tl2_forenames: Richard
+tl2_name_abbrev: Duppa
+tl2_dates: 1770-1831
+tl2_page_id: 33260164
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33260164) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

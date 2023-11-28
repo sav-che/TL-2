@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0594
+tl2_volume: vol4
+tl2_page_printed: 578
+tl2_surname: Ranojevic
+tl2_forenames: Nikola
+tl2_name_abbrev: Ranoj.
+tl2_dates: fl. 1905
+tl2_page_id: 33190049
+author_lsid: 25320-1
+wikidata_id: Q36644048
+ipni_surname: Ranojević
+ipni_forenames: Nikola
+ipni_standard_form: Ranoj.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- New Zealand
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

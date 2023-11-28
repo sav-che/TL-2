@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0181
+tl2_volume: vol4
+tl2_page_printed: 163
+tl2_surname: Pérez Arbeláez
+tl2_forenames: Enrique
+tl2_name_abbrev: Perez Arb.
+tl2_dates: 1896-1972
+tl2_page_id: 33189634
+author_lsid: 7510-1
+wikidata_id: Q21522815
+ipni_surname: Pérez Arbeláez
+ipni_forenames: Enrique
+ipni_standard_form: Pérez Arbel.
+ipni_dates: 1896-1972
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0148
+tl2_volume: suppl5
+tl2_page_printed: 132
+tl2_surname: Debray
+tl2_forenames: Marcel
+tl2_name_abbrev: Debray
+tl2_dates: fl. 1923-1971
+tl2_page_id: 33259178
+author_lsid: 2060-1
+wikidata_id: Q28035033
+ipni_surname: Debray
+ipni_forenames: Marcel M.
+ipni_standard_form: Debray
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

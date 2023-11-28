@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0007
+tl2_volume: suppl1
+tl2_page_printed: 5
+tl2_surname: Abbott
+tl2_forenames: Francis, Jr.
+tl2_name_abbrev: F. Abbott
+tl2_dates: 1834-1903
+tl2_page_id: 33264770
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33264770) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

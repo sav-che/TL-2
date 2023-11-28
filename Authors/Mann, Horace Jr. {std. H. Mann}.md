@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0309
+tl2_volume: vol3
+tl2_page_printed: 278
+tl2_surname: Mann
+tl2_forenames: Horace Jr.
+tl2_name_abbrev: H. Mann
+tl2_dates: 1844-1868
+tl2_page_id: 33355365
+author_lsid: 22861-1
+wikidata_id: Q1166908
+ipni_surname: Mann
+ipni_forenames: Horace
+ipni_standard_form: H.Mann
+ipni_dates: 1844-1868
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33355365) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

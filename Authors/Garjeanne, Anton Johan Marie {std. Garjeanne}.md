@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0090
+tl2_volume: suppl8
+tl2_page_printed: 128
+tl2_surname: Garjeanne
+tl2_forenames: Anton Johan Marie
+tl2_name_abbrev: Garjeanne
+tl2_dates: 1875-1965
+tl2_page_id: 33258606
+author_lsid: 20001194-1
+wikidata_id: Q36502007
+ipni_surname: Garjeanne
+ipni_forenames: A.J.M.
+ipni_standard_form: Garjeanne
+ipni_dates: fl. 1911
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2004-09-23 09:13:19.0
+ipni_record_modified: 2004-09-23 09:13:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

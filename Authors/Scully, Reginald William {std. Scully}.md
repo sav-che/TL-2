@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0439
+tl2_volume: vol5
+tl2_page_printed: 464
+tl2_surname: Scully
+tl2_forenames: Reginald William
+tl2_name_abbrev: Scully
+tl2_dates: 1858-1935
+tl2_page_id: 33333603
+author_lsid: 9398-1
+wikidata_id: Q21608576
+ipni_surname: Scully
+ipni_forenames: Reginald William
+ipni_standard_form: Scully
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

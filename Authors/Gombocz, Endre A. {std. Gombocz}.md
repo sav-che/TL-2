@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0216
+tl2_volume: suppl8
+tl2_page_printed: 286
+tl2_surname: Gombocz
+tl2_forenames: Endre A.
+tl2_name_abbrev: Gombocz
+tl2_dates: 1882-1945
+tl2_page_id: 33258764
+author_lsid: 3249-1
+wikidata_id: Q1011740
+ipni_surname: Gombócz
+ipni_forenames: Endre
+ipni_standard_form: Gombócz
+ipni_dates: 1882-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

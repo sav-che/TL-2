@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0103
+tl2_volume: vol2
+tl2_page_printed: 90
+tl2_surname: Harvey-Gibson
+tl2_forenames: Robert John
+tl2_name_abbrev: Harv.-Gib.
+tl2_dates: 1860-1929
+tl2_page_id: 33068332
+author_lsid: 3706-1
+wikidata_id: Q21515549
+ipni_surname: Harvey-Gibson
+ipni_forenames: Robert John
+ipni_standard_form: Harv.-Gibs.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

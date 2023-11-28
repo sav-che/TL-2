@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0597
+tl2_volume: vol2
+tl2_page_printed: 510
+tl2_surname: Kawakami
+tl2_forenames: Takiya
+tl2_name_abbrev: Kawak.
+tl2_dates: 1871-1915
+tl2_page_id: 33068752
+author_lsid: 4679-1
+wikidata_id: Q11054892
+ipni_surname: Kawakami
+ipni_forenames: Takiya
+ipni_standard_form: Kawak.
+ipni_dates: 1871-1915
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

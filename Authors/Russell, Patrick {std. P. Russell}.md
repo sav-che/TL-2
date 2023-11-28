@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1033
+tl2_volume: vol4
+tl2_page_printed: 1004
+tl2_surname: Russell
+tl2_forenames: Patrick
+tl2_name_abbrev: P. Russell
+tl2_dates: 1727-1805
+tl2_page_id: 33190475
+author_lsid: 8756-1
+wikidata_id: Q921856
+ipni_surname: Russell
+ipni_forenames: Patrick
+ipni_standard_form: P.Russell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

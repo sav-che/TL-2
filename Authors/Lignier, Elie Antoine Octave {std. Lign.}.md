@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0020
+tl2_volume: vol3
+tl2_page_printed: 16
+tl2_surname: Lignier
+tl2_forenames: Elie Antoine Octave
+tl2_name_abbrev: Lign.
+tl2_dates: 1855-1916
+tl2_page_id: 33355111
+author_lsid: 22342-1
+wikidata_id: Q3587717
+ipni_surname: Lignier
+ipni_forenames: Elie Antoine Octave
+ipni_standard_form: Lign.
+ipni_dates: 1855-1916
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33355111) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

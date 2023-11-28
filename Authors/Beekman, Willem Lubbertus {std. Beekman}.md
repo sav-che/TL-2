@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0034
+tl2_volume: suppl2
+tl2_page_printed: 40
+tl2_surname: Beekman
+tl2_forenames: Willem Lubbertus
+tl2_name_abbrev: Beekman
+tl2_dates: 1895-x
+tl2_page_id: 33265237
+author_lsid: 34352-1
+wikidata_id: Q36699778
+ipni_surname: Beekman
+ipni_forenames: W.L.
+ipni_standard_form: Beekman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33265237) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

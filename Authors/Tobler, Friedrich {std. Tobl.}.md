@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0400
+tl2_volume: vol6
+tl2_page_printed: 373
+tl2_surname: Tobler
+tl2_forenames: Friedrich
+tl2_name_abbrev: Tobl.
+tl2_dates: 1879-1957
+tl2_page_id: 33212415
+author_lsid: 10702-1
+wikidata_id: Q17389381
+ipni_surname: Tobler
+ipni_forenames: Friedrich
+ipni_standard_form: Tobler
+ipni_dates: 1879-1957
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

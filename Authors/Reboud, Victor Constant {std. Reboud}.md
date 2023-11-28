@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0645
+tl2_volume: vol4
+tl2_page_printed: 615
+tl2_surname: Reboud
+tl2_forenames: Victor Constant
+tl2_name_abbrev: Reboud
+tl2_dates: 1821-1889
+tl2_page_id: 33190086
+author_lsid: 8209-1
+wikidata_id: Q21607042
+ipni_surname: Reboud
+ipni_forenames: Victor Constant
+ipni_standard_form: Reboud
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Algeria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

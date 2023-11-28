@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0428
+tl2_volume: vol1
+tl2_page_printed: 325
+tl2_surname: Briganti
+tl2_forenames: Vincenzo
+tl2_name_abbrev: V. Briganti
+tl2_dates: 1766-1836
+tl2_page_id: 33120456
+author_lsid: 1141-1
+wikidata_id: Q15435
+ipni_surname: Briganti
+ipni_forenames: Vincenzo
+ipni_standard_form: V.Brig.
+ipni_dates: 1766-1836
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33120456) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

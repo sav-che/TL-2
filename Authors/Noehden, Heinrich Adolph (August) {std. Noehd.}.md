@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0905
+tl2_volume: vol3
+tl2_page_printed: 761
+tl2_surname: Noehden
+tl2_forenames: Heinrich Adolph [August]
+tl2_name_abbrev: Noehd.
+tl2_dates: 1775-1804
+tl2_page_id: 33355848
+author_lsid: 12709-1
+wikidata_id: Q21522211
+ipni_surname: Noehden
+ipni_forenames: Heinrich Adolph (August)
+ipni_standard_form: Noehd.
+ipni_dates: 1775-1804
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

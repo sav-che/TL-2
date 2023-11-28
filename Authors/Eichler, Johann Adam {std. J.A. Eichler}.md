@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0314
+tl2_volume: suppl6
+tl2_page_printed: 282
+tl2_surname: Eichler
+tl2_forenames: Johann Adam
+tl2_name_abbrev: J.A. Eichler
+tl2_dates: fl. 1883
+tl2_page_id: 33260270
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

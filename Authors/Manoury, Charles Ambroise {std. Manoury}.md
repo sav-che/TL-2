@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0313
+tl2_volume: vol3
+tl2_page_printed: 281
+tl2_surname: Manoury
+tl2_forenames: Charles Ambroise
+tl2_name_abbrev: Manoury
+tl2_dates: fl. 1869
+tl2_page_id: 33355368
+author_lsid: 6076-1
+wikidata_id: Q36527167
+ipni_surname: Manoury
+ipni_forenames: Charles Ambroise
+ipni_standard_form: Manoury
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0000
+tl2_volume: vol4
+tl2_page_printed: 1
+tl2_surname: Pabst
+tl2_forenames: Carl
+tl2_name_abbrev: C. Pabst
+tl2_dates: 1825/6-1863
+tl2_page_id: 33189514
+author_lsid: 7227-1
+wikidata_id: Q21522497
+ipni_surname: Pabst
+ipni_forenames: Carl
+ipni_standard_form: C.Pabst
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

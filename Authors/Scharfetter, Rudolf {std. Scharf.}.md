@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0125
+tl2_volume: vol5
+tl2_page_printed: 116
+tl2_surname: Scharfetter
+tl2_forenames: Rudolf
+tl2_name_abbrev: Scharf.
+tl2_dates: 1880-1956
+tl2_page_id: 33333255
+author_lsid: 9018-1
+wikidata_id: Q1236335
+ipni_surname: Scharfetter
+ipni_forenames: Rudolf
+ipni_standard_form: Scharf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

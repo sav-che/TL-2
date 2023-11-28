@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0143
+tl2_volume: suppl6
+tl2_page_printed: 142
+tl2_surname: Ducomet
+tl2_forenames: Vital
+tl2_name_abbrev: Ducomet
+tl2_dates: fl. 1899-1931
+tl2_page_id: 33260130
+author_lsid: 34309-1
+wikidata_id: Q36695352
+ipni_surname: Ducomet
+ipni_forenames: V.
+ipni_standard_form: Ducomet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0573
+tl2_volume: vol6
+tl2_page_printed: 564
+tl2_surname: Uehlinger
+tl2_forenames: Arthur Bernhard
+tl2_name_abbrev: Uehlinger
+tl2_dates: 1896-x
+tl2_page_id: 33212606
+author_lsid: 10953-1
+wikidata_id: Q21611167
+ipni_surname: Uehlinger
+ipni_forenames: Arthur Bernhard
+ipni_standard_form: Uehl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33212606) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

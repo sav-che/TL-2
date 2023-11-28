@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0247
+tl2_volume: vol4
+tl2_page_printed: 215
+tl2_surname: Petzold
+tl2_forenames: [Karl] Wilhelm
+tl2_name_abbrev: W. Petzold
+tl2_dates: 1848-1897
+tl2_page_id: 33189686
+author_lsid: 35197-1
+wikidata_id: Q21522918
+ipni_surname: Petzold
+ipni_forenames: (Karl) Wilhelm
+ipni_standard_form: W.Petz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

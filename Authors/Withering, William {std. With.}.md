@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol7_0355
+tl2_volume: vol7
+tl2_page_printed: 398
+tl2_surname: Withering
+tl2_forenames: William
+tl2_name_abbrev: With.
+tl2_dates: 1741-1799
+tl2_page_id: 33066738
+author_lsid: 11795-1
+wikidata_id: Q715949
+ipni_surname: Withering
+ipni_forenames: William
+ipni_standard_form: With.
+ipni_dates: 1741-1799
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33066738) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

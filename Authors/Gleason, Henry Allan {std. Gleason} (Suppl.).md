@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0185
+tl2_volume: suppl8
+tl2_page_printed: 231
+tl2_surname: Gleason
+tl2_forenames: Henry Allan
+tl2_name_abbrev: Gleason
+tl2_dates: 1882-1975
+tl2_page_id: 33258709
+author_lsid: 3190-1
+wikidata_id: Q1360735
+ipni_surname: Gleason
+ipni_forenames: Henry Allan
+ipni_standard_form: Gleason
+ipni_dates: 1882-1975
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

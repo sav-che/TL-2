@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0780
+tl2_volume: vol4
+tl2_page_printed: 790
+tl2_surname: Rietz
+tl2_forenames: Gustaf Einar Du
+tl2_name_abbrev: Du Rietz
+tl2_dates: 1895-1967
+tl2_page_id: 33190261
+author_lsid: 2405-1
+wikidata_id: Q912007
+ipni_surname: Du Rietz
+ipni_forenames: Gustaf Einar
+ipni_standard_form: Du Rietz
+ipni_dates: 1895-1967
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

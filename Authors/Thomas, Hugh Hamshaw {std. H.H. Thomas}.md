@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0320
+tl2_volume: vol6
+tl2_page_printed: 274
+tl2_surname: Thomas
+tl2_forenames: Hugh Hamshaw
+tl2_name_abbrev: H.H. Thomas
+tl2_dates: 1885-1962
+tl2_page_id: 33212316
+author_lsid: 10593-1
+wikidata_id: Q950806
+ipni_surname: Thomas
+ipni_forenames: Hugh Hamshaw
+ipni_standard_form: H.H.Thomas
+ipni_dates: 1885-1962
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33212316) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

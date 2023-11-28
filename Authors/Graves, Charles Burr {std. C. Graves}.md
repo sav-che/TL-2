@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1240
+tl2_volume: vol1
+tl2_page_printed: 982
+tl2_surname: Graves
+tl2_forenames: Charles Burr
+tl2_name_abbrev: C. Graves
+tl2_dates: 1860-1936
+tl2_page_id: 33121113
+author_lsid: 3346-1
+wikidata_id: Q21514225
+ipni_surname: Graves
+ipni_forenames: Charles Burr
+ipni_standard_form: C.Graves
+ipni_dates: 1860-1936
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

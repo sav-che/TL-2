@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0432
+tl2_volume: vol4
+tl2_page_printed: 354
+tl2_surname: Postels
+tl2_forenames: Alexander Philipou
+tl2_name_abbrev: Postels
+tl2_dates: 1801-1871
+tl2_page_id: 33189825
+author_lsid: 7882-1
+wikidata_id: Q4170769
+ipni_surname: Postels
+ipni_forenames: Alexander Philipou
+ipni_standard_form: Postels
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

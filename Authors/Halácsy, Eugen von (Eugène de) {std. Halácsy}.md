@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0024
+tl2_volume: vol2
+tl2_page_printed: 16
+tl2_surname: Halácsy
+tl2_forenames: Eugen von [Eugène de]
+tl2_name_abbrev: Halácsy
+tl2_dates: 1842-1913
+tl2_page_id: 33068258
+author_lsid: 3563-1
+wikidata_id: Q4494983
+ipni_surname: Halácsy
+ipni_forenames: Eugen von
+ipni_standard_form: Halácsy
+ipni_dates: 1842-1913
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+- Greece
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-02-07 12:06:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33068258) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

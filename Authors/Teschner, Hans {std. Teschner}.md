@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0265
+tl2_volume: vol6
+tl2_page_printed: 228
+tl2_surname: Teschner
+tl2_forenames: Hans
+tl2_name_abbrev: Teschner
+tl2_dates: 1894-x
+tl2_page_id: 33212270
+author_lsid: 10530-1
+wikidata_id: Q5891949
+ipni_surname: Teschner
+ipni_forenames: Hans
+ipni_standard_form: Teschner
+ipni_dates: 1894-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

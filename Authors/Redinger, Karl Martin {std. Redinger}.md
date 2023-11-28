@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0653
+tl2_volume: vol4
+tl2_page_printed: 622
+tl2_surname: Redinger
+tl2_forenames: Karl Martin
+tl2_name_abbrev: Redinger
+tl2_dates: 1907-1940
+tl2_page_id: 33190093
+author_lsid: 25435-1
+wikidata_id: Q21338774
+ipni_surname: Redinger
+ipni_forenames: Karl Martin
+ipni_standard_form: Redinger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33190093) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

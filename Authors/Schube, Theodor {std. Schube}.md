@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0334
+tl2_volume: vol5
+tl2_page_printed: 350
+tl2_surname: Schube
+tl2_forenames: Theodor
+tl2_name_abbrev: Schube
+tl2_dates: 1860-1934
+tl2_page_id: 33333489
+author_lsid: 9275-1
+wikidata_id: Q2803289
+ipni_surname: Schube
+ipni_forenames: Theodor
+ipni_standard_form: Schube
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33333489) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

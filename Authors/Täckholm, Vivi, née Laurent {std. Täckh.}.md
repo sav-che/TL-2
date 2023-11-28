@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0165
+tl2_volume: vol6
+tl2_page_printed: 148
+tl2_surname: Täckholm
+tl2_forenames: Vivi, née Laurent
+tl2_name_abbrev: Täckh.
+tl2_dates: 1898-1978
+tl2_page_id: 33212190
+author_lsid: 12919-1
+wikidata_id: Q4983741
+ipni_surname: Täckholm
+ipni_forenames: Vivi
+ipni_standard_form: Täckh.
+ipni_dates: 1898-1978
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Egypt
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33212190) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

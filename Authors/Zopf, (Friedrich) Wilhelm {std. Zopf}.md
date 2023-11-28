@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0505
+tl2_volume: vol7
+tl2_page_printed: 553
+tl2_surname: Zopf
+tl2_forenames: [Friedrich] Wilhelm
+tl2_name_abbrev: Zopf
+tl2_dates: 1846-1909
+tl2_page_id: 33066893
+author_lsid: 29184-1
+wikidata_id: Q68099
+ipni_surname: Zopf
+ipni_forenames: (Friederich) Wilhelm
+ipni_standard_form: Zopf
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33066893) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

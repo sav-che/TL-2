@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0153
+tl2_volume: vol7
+tl2_page_printed: 162
+tl2_surname: Weise
+tl2_forenames: Johann Christoph Gottlob
+tl2_name_abbrev: Weise
+tl2_dates: 1762-1840
+tl2_page_id: 33066502
+author_lsid: 11519-1
+wikidata_id: Q21612400
+ipni_surname: Weise
+ipni_forenames: Johann Gottlob Christoph
+ipni_standard_form: Weise
+ipni_dates: 1762-1840
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

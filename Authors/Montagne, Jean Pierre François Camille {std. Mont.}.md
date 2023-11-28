@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0647
+tl2_volume: vol3
+tl2_page_printed: 557
+tl2_surname: Montagne
+tl2_forenames: Jean Pierre François Camille
+tl2_name_abbrev: Mont.
+tl2_dates: 1784-1866
+tl2_page_id: 33355644
+author_lsid: 23560-1
+wikidata_id: Q1029228
+ipni_surname: Montagne
+ipni_forenames: Jean Pierre François Camille
+ipni_standard_form: Mont.
+ipni_dates: 1784-1866
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

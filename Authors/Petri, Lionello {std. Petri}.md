@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0234
+tl2_volume: vol4
+tl2_page_printed: 209
+tl2_surname: Petri
+tl2_forenames: Lionello
+tl2_name_abbrev: Petri
+tl2_dates: 1875-1946
+tl2_page_id: 33189680
+author_lsid: 14480-1
+wikidata_id: Q5976847
+ipni_surname: Petri
+ipni_forenames: Lionello
+ipni_standard_form: Petri
+ipni_dates: 1875-1946
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0239
+tl2_volume: vol3
+tl2_page_printed: 225
+tl2_surname: Mackay
+tl2_forenames: Alexander Howard
+tl2_name_abbrev: A. Mackay
+tl2_dates: 1848-1929
+tl2_page_id: 33355312
+author_lsid: 5933-1
+wikidata_id: Q21519727
+ipni_surname: Mackay
+ipni_forenames: Alexander Howard
+ipni_standard_form: A.Mackay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

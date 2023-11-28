@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0113
+tl2_volume: suppl4
+tl2_page_printed: 156
+tl2_surname: Christener
+tl2_forenames: Christian
+tl2_name_abbrev: Christener
+tl2_dates: 1810-1872
+tl2_page_id: 33265833
+author_lsid: 1628-1
+wikidata_id: Q21508536
+ipni_surname: Christener
+ipni_forenames: Christian
+ipni_standard_form: Christener
+ipni_dates: 1810-1872
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

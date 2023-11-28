@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0052
+tl2_volume: suppl7
+tl2_page_printed: 71
+tl2_surname: Favrat
+tl2_forenames: Louis
+tl2_name_abbrev: Favrat
+tl2_dates: 1827-1893
+tl2_page_id: 33259575
+author_lsid: 2650-1
+wikidata_id: Q3261879
+ipni_surname: Favrat
+ipni_forenames: Louis
+ipni_standard_form: Favrat
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33259575) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

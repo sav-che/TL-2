@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0705
+tl2_volume: vol2
+tl2_page_printed: 582
+tl2_surname: Knorr
+tl2_forenames: Georg Wolfgang
+tl2_name_abbrev: Knorr
+tl2_dates: 1705-1761
+tl2_page_id: 33068824
+author_lsid: 4880-1
+wikidata_id: Q1167823
+ipni_surname: Knorr
+ipni_forenames: Georg Wolfgang
+ipni_standard_form: Knorr
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

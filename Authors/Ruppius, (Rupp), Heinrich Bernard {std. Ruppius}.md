@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1023
+tl2_volume: vol4
+tl2_page_printed: 991
+tl2_surname: Ruppius (Rupp)
+tl2_forenames: Heinrich Bernard
+tl2_name_abbrev: Ruppius
+tl2_dates: 1688-1719
+tl2_page_id: 33190462
+author_lsid: 12801-1
+wikidata_id: Q87491
+ipni_surname: Ruppius
+ipni_forenames: Heinrich Bernard
+ipni_standard_form: Ruppius
+ipni_dates: 1688-1719
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 991](https://www.biodiversitylibrary.org/page/33190462) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

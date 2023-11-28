@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0101
+tl2_volume: suppl8
+tl2_page_printed: 145
+tl2_surname: Gattinger
+tl2_forenames: Augustin (August)
+tl2_name_abbrev: Gattinger
+tl2_dates: 1825-1903
+tl2_page_id: 33258623
+author_lsid: 3047-1
+wikidata_id: Q327720
+ipni_surname: Gattinger
+ipni_forenames: Augustin
+ipni_standard_form: Gatt.
+ipni_dates: 1825-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33258623) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

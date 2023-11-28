@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0315
+tl2_volume: vol2
+tl2_page_printed: 259
+tl2_surname: Holm
+tl2_forenames: Jørgen Tyche (Georg Tycho)
+tl2_name_abbrev: J. Holm
+tl2_dates: 1726-1759
+tl2_page_id: 33068501
+author_lsid: 4047-1
+wikidata_id: Q5810443
+ipni_surname: Holm
+ipni_forenames: Jørgen Tyche
+ipni_standard_form: J.T.Holm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

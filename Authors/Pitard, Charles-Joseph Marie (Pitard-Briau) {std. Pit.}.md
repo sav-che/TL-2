@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0333
+tl2_volume: vol4
+tl2_page_printed: 277
+tl2_surname: Pitard
+tl2_forenames: Charles-Joseph Marie (Pitard-Briau)
+tl2_name_abbrev: Pit.
+tl2_dates: 1873-1927
+tl2_page_id: 33189748
+author_lsid: 24898-1
+wikidata_id: Q2958169
+ipni_surname: Pitard
+ipni_forenames: Charles-Joseph Marie
+ipni_standard_form: Pit.
+ipni_dates: 1873-1927
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33189748) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

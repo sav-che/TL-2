@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0971
+tl2_volume: vol4
+tl2_page_printed: 941
+tl2_surname: Rousseau
+tl2_forenames: [Joseph Jules Jean] Jacques
+tl2_name_abbrev: J. Rousseau
+tl2_dates: 1905-1970
+tl2_page_id: 33190412
+author_lsid: 8666-1
+wikidata_id: Q3159927
+ipni_surname: Rousseau
+ipni_forenames: (Joseph Jules Jean) Jacques
+ipni_standard_form: J.Rousseau
+ipni_dates: 1905-1970
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33190412) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

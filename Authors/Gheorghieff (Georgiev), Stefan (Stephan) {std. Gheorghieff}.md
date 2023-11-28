@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0153
+tl2_volume: suppl8
+tl2_page_printed: 193
+tl2_surname: Gheorghieff [Georgiev]
+tl2_forenames: Stefan [Stephan]
+tl2_name_abbrev: Gheorghieff
+tl2_dates: 1859-1900
+tl2_page_id: 33258671
+author_lsid: 3095-1
+wikidata_id: Q12295170
+ipni_surname: Georgiev
+ipni_forenames: Stephan
+ipni_standard_form: Georgiev
+ipni_dates: 1859-1900
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

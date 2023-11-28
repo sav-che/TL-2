@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0001
+tl2_volume: vol6
+tl2_page_printed: 1
+tl2_surname: Stiefelhagen
+tl2_forenames: Heinz
+tl2_name_abbrev: Stiefelh.
+tl2_dates: fl. 1911
+tl2_page_id: 33212093
+author_lsid: 10145-1
+wikidata_id: Q26714575
+ipni_surname: Stiefelhagen
+ipni_forenames: Heinz
+ipni_standard_form: Stiefelh.
+ipni_dates: fl. 1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

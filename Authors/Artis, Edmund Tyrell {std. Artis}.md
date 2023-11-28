@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0101
+tl2_volume: vol1
+tl2_page_printed: 71
+tl2_surname: Artis
+tl2_forenames: Edmund Tyrell
+tl2_name_abbrev: Artis
+tl2_dates: 1789-1847
+tl2_page_id: 33120202
+author_lsid: 295-1
+wikidata_id: Q19958863
+ipni_surname: Artis
+ipni_forenames: Edmund Tyrell
+ipni_standard_form: Artis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0395
+tl2_volume: suppl4
+tl2_page_printed: 479
+tl2_surname: Crouan
+tl2_forenames: Hippolyte Marie
+tl2_name_abbrev: H. Crouan
+tl2_dates: 1802-1871
+tl2_page_id: 33266156
+author_lsid: 17543-1
+wikidata_id: Q3136004
+ipni_surname: Crouan
+ipni_forenames: Hippolyte Marie
+ipni_standard_form: H.Crouan
+ipni_dates: 1802-1871
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33266156) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0798
+tl2_volume: vol2
+tl2_page_printed: 676
+tl2_surname: Krok
+tl2_forenames: Thorgny Ossian Bolivar Napoleon
+tl2_name_abbrev: Krok
+tl2_dates: 1834-1921
+tl2_page_id: 33068918
+author_lsid: 5073-1
+wikidata_id: Q5923884
+ipni_surname: Krok
+ipni_forenames: Thorgny Ossian Bolivar Napoleon
+ipni_standard_form: Krok
+ipni_dates: 1834-1921
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33068918) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0291
+tl2_volume: suppl2
+tl2_page_printed: 236
+tl2_surname: Blytt
+tl2_forenames: Matthias Numsen
+tl2_name_abbrev: Blytt
+tl2_dates: 1789-1862
+tl2_page_id: 33265433
+author_lsid: 878-1
+wikidata_id: Q2037491
+ipni_surname: Blytt
+ipni_forenames: Mathias Numsen
+ipni_standard_form: Blytt
+ipni_dates: 1789-1862
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33265433) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

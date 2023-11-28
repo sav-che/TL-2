@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0301
+tl2_volume: vol4
+tl2_page_printed: 257
+tl2_surname: Piepenbring
+tl2_forenames: Georg Heinrich
+tl2_name_abbrev: Piepenbr.
+tl2_dates: 1763-1806
+tl2_page_id: 33189728
+author_lsid: 7679-1
+wikidata_id: Q21522992
+ipni_surname: Piepenbring
+ipni_forenames: Georg Heinrich
+ipni_standard_form: Piepenbr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

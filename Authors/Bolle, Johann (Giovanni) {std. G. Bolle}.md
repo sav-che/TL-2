@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0351
+tl2_volume: suppl2
+tl2_page_printed: 296
+tl2_surname: Bolle
+tl2_forenames: Johann [Giovanni]
+tl2_name_abbrev: G. Bolle
+tl2_dates: 1850-?
+tl2_page_id: 33265493
+author_lsid: 20002750-1
+wikidata_id: Q21506260
+ipni_surname: Bolle
+ipni_forenames: Giovanni
+ipni_standard_form: G.Bolle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

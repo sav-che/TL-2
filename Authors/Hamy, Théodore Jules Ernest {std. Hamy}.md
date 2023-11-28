@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0050
+tl2_volume: vol2
+tl2_page_printed: 39
+tl2_surname: Hamy
+tl2_forenames: Théodore Jules Ernest
+tl2_name_abbrev: Hamy
+tl2_dates: 1842-1908
+tl2_page_id: 33068281
+author_lsid: 3605-1
+wikidata_id: Q1356363
+ipni_surname: Hamy
+ipni_forenames: Théodor Jules Ernest
+ipni_standard_form: Hamy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0375
+tl2_volume: suppl4
+tl2_page_printed: 450
+tl2_surname: Cratty
+tl2_forenames: Robert Irvin
+tl2_name_abbrev: Cratty
+tl2_dates: 1853-1940
+tl2_page_id: 33266127
+author_lsid: 1867-1
+wikidata_id: Q21509223
+ipni_surname: Cratty
+ipni_forenames: Robert Irvin
+ipni_standard_form: Cratty
+ipni_dates: 1853-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

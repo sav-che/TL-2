@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0827
+tl2_volume: vol3
+tl2_page_printed: 705
+tl2_surname: Née
+tl2_forenames: Luis
+tl2_name_abbrev: Née
+tl2_dates: 17..-18..
+tl2_page_id: 33355792
+author_lsid: 6887-1
+wikidata_id: Q1848893
+ipni_surname: Née
+ipni_forenames: Luis
+ipni_standard_form: Née
+ipni_dates: 1734-1807
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+- Spain
+ipni_version: 1.1.2.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-01-22 10:37:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

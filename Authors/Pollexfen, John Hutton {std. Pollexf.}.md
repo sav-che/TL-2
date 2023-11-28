@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0390
+tl2_volume: vol4
+tl2_page_printed: 330
+tl2_surname: Pollexfen
+tl2_forenames: John Hutton
+tl2_name_abbrev: Pollexf.
+tl2_dates: 1813-1899
+tl2_page_id: 33189801
+author_lsid: 7817-1
+wikidata_id: Q21523088
+ipni_surname: Pollexfen
+ipni_forenames: John Hutton
+ipni_standard_form: Pollexf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

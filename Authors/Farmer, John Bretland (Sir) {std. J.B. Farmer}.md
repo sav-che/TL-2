@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0033
+tl2_volume: suppl7
+tl2_page_printed: 45
+tl2_surname: Farmer
+tl2_forenames: John Bretland (Sir)
+tl2_name_abbrev: J.B. Farmer
+tl2_dates: 1865-1944
+tl2_page_id: 33259549
+author_lsid: 20016438-1
+wikidata_id: Q6223090
+ipni_surname: Farmer
+ipni_forenames: John Bretland
+ipni_standard_form: J.B.Farmer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

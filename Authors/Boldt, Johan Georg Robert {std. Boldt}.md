@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0346
+tl2_volume: suppl2
+tl2_page_printed: 290
+tl2_surname: Boldt
+tl2_forenames: Johan Georg Robert
+tl2_name_abbrev: Boldt
+tl2_dates: 1861-1923
+tl2_page_id: 33265487
+author_lsid: 32481-1
+wikidata_id: Q5409215
+ipni_surname: Boldt
+ipni_forenames: (Johan Georg) Robert
+ipni_standard_form: Boldt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265487) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0171
+tl2_volume: vol1
+tl2_page_printed: 124
+tl2_surname: Barrande
+tl2_forenames: Joachim
+tl2_name_abbrev: Barrande
+tl2_dates: 1799-1883
+tl2_page_id: 33120255
+author_lsid: 498-1
+wikidata_id: Q547714
+ipni_surname: Barrande
+ipni_forenames: Joachim
+ipni_standard_form: Barrande
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

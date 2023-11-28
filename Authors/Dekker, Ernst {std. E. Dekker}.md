@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0177
+tl2_volume: suppl5
+tl2_page_printed: 166
+tl2_surname: Dekker
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Dekker
+tl2_dates: fl. 1929
+tl2_page_id: 33259212
+author_lsid: 32900-1
+wikidata_id: Q36544503
+ipni_surname: Dekker
+ipni_forenames: Ernst
+ipni_standard_form: E.Dekker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0899
+tl2_volume: vol5
+tl2_page_printed: 889
+tl2_surname: Stephan
+tl2_forenames: [Christian] Friedrich
+tl2_name_abbrev: Stephan
+tl2_dates: 1757-1814
+tl2_page_id: 33334028
+author_lsid: 10102-1
+wikidata_id: Q4442415
+ipni_surname: Stephan
+ipni_forenames: Christian Friedrich
+ipni_standard_form: Stephan
+ipni_dates: 1757-1814
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

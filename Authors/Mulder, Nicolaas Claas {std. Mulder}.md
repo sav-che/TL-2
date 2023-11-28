@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0765
+tl2_volume: vol3
+tl2_page_printed: 658
+tl2_surname: Mulder
+tl2_forenames: Nicolaas Claas
+tl2_name_abbrev: Mulder
+tl2_dates: 1796-1867
+tl2_page_id: 33355745
+author_lsid: 6764-1
+wikidata_id: Q13135033
+ipni_surname: Mulder
+ipni_forenames: Nicolaas (`Claas')
+ipni_standard_form: Mulder
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33355745) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

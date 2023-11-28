@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0636
+tl2_volume: vol3
+tl2_page_printed: 551
+tl2_surname: Molkenboer
+tl2_forenames: Julianus Hendrik
+tl2_name_abbrev: Molk.
+tl2_dates: 1816-1854
+tl2_page_id: 33355638
+author_lsid: 23539-1
+wikidata_id: Q18986922
+ipni_surname: Molkenboer
+ipni_forenames: Julian(us) Hendrik
+ipni_standard_form: Molk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33355638) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

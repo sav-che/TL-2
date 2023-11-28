@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0277
+tl2_volume: suppl1
+tl2_page_printed: 235
+tl2_surname: Bachmann
+tl2_forenames: Hans
+tl2_name_abbrev: H. Bachm.
+tl2_dates: 1866-1940
+tl2_page_id: 33264962
+author_lsid: 32323-1
+wikidata_id: Q1578536
+ipni_surname: Bachmann
+ipni_forenames: Hans
+ipni_standard_form: H.Bachm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33264962) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

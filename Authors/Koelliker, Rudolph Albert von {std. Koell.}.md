@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0728
+tl2_volume: vol2
+tl2_page_printed: 598
+tl2_surname: Koelliker
+tl2_forenames: Rudolph Albert von
+tl2_name_abbrev: Koell.
+tl2_dates: 1817-1905
+tl2_page_id: 33068840
+author_lsid: 12618-1
+wikidata_id: Q123528
+ipni_surname: Koelliker
+ipni_forenames: Rudolf Albert von
+ipni_standard_form: Koell.
+ipni_dates: 1817-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

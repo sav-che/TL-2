@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0909
+tl2_volume: vol5
+tl2_page_printed: 903
+tl2_surname: Sterne
+tl2_forenames: Carus [pseudonym for Ernst Ludwig Krause]
+tl2_name_abbrev: Sterne
+tl2_dates: 1839-1903
+tl2_page_id: 33334042
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

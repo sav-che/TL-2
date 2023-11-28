@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0174
+tl2_volume: suppl1
+tl2_page_printed: 136
+tl2_surname: Aphonin
+tl2_forenames: Matheus [Matwey]
+tl2_name_abbrev: Aphonin
+tl2_dates: 1740- post 1777
+tl2_page_id: 33264863
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33264863) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

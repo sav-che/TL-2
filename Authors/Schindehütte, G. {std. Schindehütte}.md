@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0173
+tl2_volume: vol5
+tl2_page_printed: 172
+tl2_surname: Schindehütte
+tl2_forenames: G.
+tl2_name_abbrev: Schindehütte
+tl2_dates: fl. 1907
+tl2_page_id: 33333311
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

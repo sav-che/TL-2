@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0774
+tl2_volume: vol3
+tl2_page_printed: 662
+tl2_surname: Murbeck
+tl2_forenames: Svante Samuel
+tl2_name_abbrev: Murb.
+tl2_dates: 1859-1946
+tl2_page_id: 33355749
+author_lsid: 6793-1
+wikidata_id: Q2616431
+ipni_surname: Murbeck
+ipni_forenames: Svante Samuel
+ipni_standard_form: Murb.
+ipni_dates: 1859-1946
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

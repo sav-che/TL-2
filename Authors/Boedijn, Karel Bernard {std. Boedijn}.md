@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0320
+tl2_volume: vol1
+tl2_page_printed: 247
+tl2_surname: Boedijn
+tl2_forenames: Karel Bernard
+tl2_name_abbrev: Boedijn
+tl2_dates: 1893-1964
+tl2_page_id: 33120378
+author_lsid: 16256-1
+wikidata_id: Q4098011
+ipni_surname: Boedijn
+ipni_forenames: Karel Bernard
+ipni_standard_form: Boedijn
+ipni_dates: 1893-1964
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33120378) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

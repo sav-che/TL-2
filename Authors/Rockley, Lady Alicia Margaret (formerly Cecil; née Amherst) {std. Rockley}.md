@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol4_0834
+tl2_volume: vol4
+tl2_page_printed: 826
+tl2_surname: Rockley
+tl2_forenames: Lady Alicia Margaret (formerly Cecil; née Amherst)
+tl2_name_abbrev: Rockley
+tl2_dates: 1865-1941
+tl2_page_id: 33190297
+author_lsid: 12778-1
+wikidata_id: Q19324976
+ipni_surname: Rockley
+ipni_forenames: Alicia Margaret Amherst Cecil
+ipni_standard_form: Rockley
+ipni_dates: 1865-1941
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+- New Zealand
+- Australia
+- Sri Lanka
+- Zimbabwe
+- Mozambique
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33190297) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

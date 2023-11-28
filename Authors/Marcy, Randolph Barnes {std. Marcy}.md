@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0330
+tl2_volume: vol3
+tl2_page_printed: 291
+tl2_surname: Marcy
+tl2_forenames: Randolph Barnes
+tl2_name_abbrev: Marcy
+tl2_dates: 1812-1887
+tl2_page_id: 33355378
+author_lsid: 6099-1
+wikidata_id: Q3418824
+ipni_surname: Marcy
+ipni_forenames: Randolph Barnes
+ipni_standard_form: Marcy
+ipni_dates: 1812-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

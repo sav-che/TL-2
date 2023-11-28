@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1012
+tl2_volume: vol1
+tl2_page_printed: 826
+tl2_surname: Fernandez-Villar
+tl2_forenames: Celestino
+tl2_name_abbrev: Fern.-Vill.
+tl2_dates: 1838-1907
+tl2_page_id: 33120957
+author_lsid: 2698-1
+wikidata_id: Q5760146
+ipni_surname: Fernández-Villar
+ipni_forenames: Celestino
+ipni_standard_form: Fern.-Vill.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Philippines
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

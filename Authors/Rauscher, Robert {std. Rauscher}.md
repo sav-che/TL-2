@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0620
+tl2_volume: vol4
+tl2_page_printed: 593
+tl2_surname: Rauscher
+tl2_forenames: Robert
+tl2_name_abbrev: Rauscher
+tl2_dates: 1806-1890
+tl2_page_id: 33190064
+author_lsid: 8169-1
+wikidata_id: Q21607000
+ipni_surname: Rauscher
+ipni_forenames: Robert
+ipni_standard_form: Rauscher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

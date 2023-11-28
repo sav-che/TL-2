@@ -1,10 +1,35 @@
+---
+tl2_entry_id: tl2_vol7_0473
+tl2_volume: vol7
+tl2_page_printed: 522
+tl2_surname: Zederbauer
+tl2_forenames: Emmerich
+tl2_name_abbrev: Zederb.
+tl2_dates: 1877-1950
+tl2_page_id: 33066862
+author_lsid: 12000-1
+wikidata_id: Q21613423
+ipni_surname: Zederbauer
+ipni_forenames: Emmerich
+ipni_standard_form: Zederb.
+ipni_dates: 1877-1950
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33066862) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
 Zederbauer, Emmerich (1877-1950), Austrian botanist; Dr. phil. Wien 1903; botanical demonstrator Bot. Inst. Univ. Wien 1901-1902, assistant ib. 1903-1905; assistant at the Forestry Station Maria-Brunn 1905, adjunct ib. 1906, inspector 1913, "Oberinspektor" 1919; Habil. Hochschule für Bodenkultur Wien 1912; e.o. professor of botany ib. 1921, ordinary professor from 1924-1938. 
-**Abbreviated name**: *Zederb*
+**Abbreviated name**: *Zederb.*
 
 #### Herbarium and types
 

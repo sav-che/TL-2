@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0999
+tl2_volume: vol4
+tl2_page_printed: 970
+tl2_surname: Rudberg
+tl2_forenames: August
+tl2_name_abbrev: Rudberg
+tl2_dates: 1842-1912
+tl2_page_id: 33190441
+author_lsid: 8705-1
+wikidata_id: Q21607515
+ipni_surname: Rudberg
+ipni_forenames: August
+ipni_standard_form: Rudberg
+ipni_dates: 1842-1912
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/page/33190441) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

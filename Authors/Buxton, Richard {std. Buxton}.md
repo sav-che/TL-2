@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0516
+tl2_volume: vol1
+tl2_page_printed: 421
+tl2_surname: Buxton
+tl2_forenames: Richard
+tl2_name_abbrev: Buxton
+tl2_dates: 1786-1865
+tl2_page_id: 33120552
+author_lsid: 1336-1
+wikidata_id: Q7324509
+ipni_surname: Buxton
+ipni_forenames: Richard
+ipni_standard_form: Buxton
+ipni_dates: 1786-1865
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0313
+tl2_volume: vol2
+tl2_page_printed: 258
+tl2_surname: Hollós
+tl2_forenames: Ladislaus (Lászlo)
+tl2_name_abbrev: Hollós
+tl2_dates: 1859-1940
+tl2_page_id: 33068500
+author_lsid: 4044-1
+wikidata_id: Q1037876
+ipni_surname: Hollós
+ipni_forenames: Ladislaus(Lászlo)
+ipni_standard_form: Hollós
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

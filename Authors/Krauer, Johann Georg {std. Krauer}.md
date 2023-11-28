@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0778
+tl2_volume: vol2
+tl2_page_printed: 664
+tl2_surname: Krauer
+tl2_forenames: Johann Georg
+tl2_name_abbrev: Krauer
+tl2_dates: 1794-1845
+tl2_page_id: 33068906
+author_lsid: 35181-1
+wikidata_id: Q21517899
+ipni_surname: Krauer
+ipni_forenames: Johann George
+ipni_standard_form: Krauer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

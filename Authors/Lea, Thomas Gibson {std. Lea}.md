@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0931
+tl2_volume: vol2
+tl2_page_printed: 776
+tl2_surname: Lea
+tl2_forenames: Thomas Gibson
+tl2_name_abbrev: Lea
+tl2_dates: 1785-1844
+tl2_page_id: 33069018
+author_lsid: 22141-1
+wikidata_id: Q6146042
+ipni_surname: Lea
+ipni_forenames: Thomas Gibson
+ipni_standard_form: Lea
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

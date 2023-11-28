@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0807
+tl2_volume: vol3
+tl2_page_printed: 690
+tl2_surname: Nardo
+tl2_forenames: Giovanni Domenico (Giandomenico)
+tl2_name_abbrev: Nardo
+tl2_dates: 1802-1877
+tl2_page_id: 33355777
+author_lsid: 6857-1
+wikidata_id: Q55069062
+ipni_surname: Nardo
+ipni_forenames: Giovanni Domenico (Giandomenico)
+ipni_standard_form: Nardo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

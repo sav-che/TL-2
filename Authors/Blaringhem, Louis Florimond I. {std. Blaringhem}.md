@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0248
+tl2_volume: suppl2
+tl2_page_printed: 205
+tl2_surname: Blaringhem
+tl2_forenames: Louis Florimond I.
+tl2_name_abbrev: Blaringhem
+tl2_dates: 1878-?
+tl2_page_id: 33265402
+author_lsid: 20016087-1
+wikidata_id: Q550783
+ipni_surname: Blaringhem
+ipni_forenames: Louis Florimond Joseph
+ipni_standard_form: Blaringhem
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265402) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

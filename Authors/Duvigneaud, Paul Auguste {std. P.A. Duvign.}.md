@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl6_0233
+tl2_volume: suppl6
+tl2_page_printed: 224
+tl2_surname: Duvigneaud
+tl2_forenames: Paul Auguste
+tl2_name_abbrev: P.A. Duvign.
+tl2_dates: 1913-x
+tl2_page_id: 33260212
+author_lsid: 18318-1
+wikidata_id: Q3371153
+ipni_surname: Duvigneaud
+ipni_forenames: Paul Auguste
+ipni_standard_form: P.A.Duvign.
+ipni_dates: 1913-1991
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

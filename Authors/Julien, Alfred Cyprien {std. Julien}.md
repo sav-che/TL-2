@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0543
+tl2_volume: vol2
+tl2_page_printed: 468
+tl2_surname: Julien
+tl2_forenames: Alfred Cyprien
+tl2_name_abbrev: Julien
+tl2_dates: x-1902
+tl2_page_id: 33068710
+author_lsid: 4574-1
+wikidata_id: Q21517166
+ipni_surname: Julien
+ipni_forenames: Alfred Cyprien
+ipni_standard_form: Julien
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

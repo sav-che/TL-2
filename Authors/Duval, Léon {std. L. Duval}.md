@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0228
+tl2_volume: suppl6
+tl2_page_printed: 215
+tl2_surname: Duval
+tl2_forenames: Léon
+tl2_name_abbrev: L. Duval
+tl2_dates: 1844-1907
+tl2_page_id: 33260203
+author_lsid: 20031140-1
+wikidata_id: Q47116743
+ipni_surname: Duval
+ipni_forenames: L.
+ipni_standard_form: L.Duval
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

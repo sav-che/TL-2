@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0604
+tl2_volume: vol4
+tl2_page_printed: 582
+tl2_surname: Raspail
+tl2_forenames: François Vincent
+tl2_name_abbrev: Raspail
+tl2_dates: 1791-1878
+tl2_page_id: 33190053
+author_lsid: 8150-1
+wikidata_id: Q682230
+ipni_surname: Raspail
+ipni_forenames: François Vincent
+ipni_standard_form: Raspail
+ipni_dates: 1794-1878
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33190053) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

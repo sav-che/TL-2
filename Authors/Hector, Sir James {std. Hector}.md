@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0138
+tl2_volume: vol2
+tl2_page_printed: 118
+tl2_surname: Hector
+tl2_forenames: Sir James
+tl2_name_abbrev: Hector
+tl2_dates: 1834-1907
+tl2_page_id: 33068360
+author_lsid: 3765-1
+wikidata_id: Q675726
+ipni_surname: Hector
+ipni_forenames: James
+ipni_standard_form: Hector
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33068360) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

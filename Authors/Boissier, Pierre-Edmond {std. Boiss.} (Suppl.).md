@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0335
+tl2_volume: suppl2
+tl2_page_printed: 279
+tl2_surname: Boissier
+tl2_forenames: Pierre-Edmond
+tl2_name_abbrev: Boiss.
+tl2_dates: 1810-1885
+tl2_page_id: 33265476
+author_lsid: 16284-1
+wikidata_id: Q34430
+ipni_surname: Boissier
+ipni_forenames: Pierre Edmond
+ipni_standard_form: Boiss.
+ipni_dates: 1810-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33265476) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

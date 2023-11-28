@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0196
+tl2_volume: suppl3
+tl2_page_printed: 201
+tl2_surname: Buckland
+tl2_forenames: Rev. William
+tl2_name_abbrev: Buckland
+tl2_dates: 1784-1856
+tl2_page_id: 33266508
+author_lsid: 1256-1
+wikidata_id: Q312389
+ipni_surname: Buckland
+ipni_forenames: William
+ipni_standard_form: Buckland
+ipni_dates: 1784-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33266508) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

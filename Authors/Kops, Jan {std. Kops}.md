@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0754
+tl2_volume: vol2
+tl2_page_printed: 649
+tl2_surname: Kops
+tl2_forenames: Jan
+tl2_name_abbrev: Kops
+tl2_dates: 1765-1849
+tl2_page_id: 33068891
+author_lsid: 4959-1
+wikidata_id: Q2372924
+ipni_surname: Kops
+ipni_forenames: Jan
+ipni_standard_form: Kops
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

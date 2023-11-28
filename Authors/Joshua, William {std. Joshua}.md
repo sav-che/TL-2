@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0531
+tl2_volume: vol2
+tl2_page_printed: 463
+tl2_surname: Joshua
+tl2_forenames: William
+tl2_name_abbrev: Joshua
+tl2_dates: 1828-1898
+tl2_page_id: 33068705
+author_lsid: 4558-1
+wikidata_id: Q21517154
+ipni_surname: Joshua
+ipni_forenames: William
+ipni_standard_form: Joshua
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

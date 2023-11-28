@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0027
+tl2_volume: suppl2
+tl2_page_printed: 36
+tl2_surname: Beckmann
+tl2_forenames: Johann
+tl2_name_abbrev: Beckm.
+tl2_dates: 1739-1811
+tl2_page_id: 33265233
+author_lsid: 15866-1
+wikidata_id: Q215979
+ipni_surname: Beckmann
+ipni_forenames: Johann
+ipni_standard_form: Beckm.
+ipni_dates: 1739-1811
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265233) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

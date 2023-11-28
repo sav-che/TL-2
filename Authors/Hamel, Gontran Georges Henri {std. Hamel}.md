@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0042
+tl2_volume: vol2
+tl2_page_printed: 34
+tl2_surname: Hamel
+tl2_forenames: Gontran Georges Henri
+tl2_name_abbrev: Hamel
+tl2_dates: 1883-1944
+tl2_page_id: 33068276
+author_lsid: 3594-1
+wikidata_id: Q5582115
+ipni_surname: Hamel
+ipni_forenames: Gontran Georges Henri
+ipni_standard_form: Hamel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

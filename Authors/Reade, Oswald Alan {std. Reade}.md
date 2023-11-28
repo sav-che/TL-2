@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0639
+tl2_volume: vol4
+tl2_page_printed: 613
+tl2_surname: Reade
+tl2_forenames: Oswald Alan
+tl2_name_abbrev: Reade
+tl2_dates: 1848-1929
+tl2_page_id: 33190084
+author_lsid: 8204-1
+wikidata_id: Q21607038
+ipni_surname: Reade
+ipni_forenames: Oswald Alan
+ipni_standard_form: Reade
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Bermuda
+- Malta
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33190084) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

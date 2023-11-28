@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0011
+tl2_volume: vol3
+tl2_page_printed: 10
+tl2_surname: Lidbeck
+tl2_forenames: Eric Gustaf
+tl2_name_abbrev: Lidb.
+tl2_dates: 1724-1803
+tl2_page_id: 33355117
+author_lsid: 5572-1
+wikidata_id: Q1353945
+ipni_surname: Lidbeck
+ipni_forenames: Eric Gustav
+ipni_standard_form: Lidb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

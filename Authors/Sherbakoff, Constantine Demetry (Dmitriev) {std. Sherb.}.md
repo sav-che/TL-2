@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0542
+tl2_volume: vol5
+tl2_page_printed: 560
+tl2_surname: Sherbakoff
+tl2_forenames: Constantine Demetry [Dmitriev]
+tl2_name_abbrev: Sherb.
+tl2_dates: 1878-1965
+tl2_page_id: 33333699
+author_lsid: 9565-1
+wikidata_id: Q21608787
+ipni_surname: Sherbakoff
+ipni_forenames: Constantine Demetry(Dmitriev)
+ipni_standard_form: Sherb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33333699) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

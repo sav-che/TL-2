@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1075
+tl2_volume: vol4
+tl2_page_printed: 1059
+tl2_surname: Sahni
+tl2_forenames: Birbal
+tl2_name_abbrev: Sahni
+tl2_dates: 1891-1949
+tl2_page_id: 33190530
+author_lsid: 8815-1
+wikidata_id: Q2688170
+ipni_surname: Sahni
+ipni_forenames: Birbal
+ipni_standard_form: Sahni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/page/33190530) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

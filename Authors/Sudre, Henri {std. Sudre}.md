@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0099
+tl2_volume: vol6
+tl2_page_printed: 77
+tl2_surname: Sudre
+tl2_forenames: Henri
+tl2_name_abbrev: Sudre
+tl2_dates: 1862-1918
+tl2_page_id: 33212119
+author_lsid: 10273-1
+wikidata_id: Q3132046
+ipni_surname: Sudre
+ipni_forenames: Henri L.
+ipni_standard_form: Sudre
+ipni_dates: 1862-1918
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

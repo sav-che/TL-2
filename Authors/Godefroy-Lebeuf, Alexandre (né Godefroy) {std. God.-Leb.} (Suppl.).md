@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0194
+tl2_volume: suppl8
+tl2_page_printed: 250
+tl2_surname: Godefroy-Lebeuf
+tl2_forenames: Alexandre (né Godefroy)
+tl2_name_abbrev: God.-Leb.
+tl2_dates: 1852-1903
+tl2_page_id: 33258728
+author_lsid: 3213-1
+wikidata_id: Q2833709
+ipni_surname: Godefroy-Lebeuf
+ipni_forenames: Alexandre
+ipni_standard_form: God.-Leb.
+ipni_dates: 1852-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33258728) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0219
+tl2_volume: suppl3
+tl2_page_printed: 217
+tl2_surname: Bujack
+tl2_forenames: Johann Gottlieb
+tl2_name_abbrev: Bujack
+tl2_dates: 1787-1840
+tl2_page_id: 33266524
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

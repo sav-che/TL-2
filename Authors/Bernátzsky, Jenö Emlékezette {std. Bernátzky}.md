@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0127
+tl2_volume: suppl2
+tl2_page_printed: 108
+tl2_surname: Bernátzsky
+tl2_forenames: Jenö Emlékezette
+tl2_name_abbrev: Bernátzky
+tl2_dates: 1873-1945
+tl2_page_id: 33265305
+author_lsid: 13461-1
+wikidata_id: Q21506014
+ipni_surname: Bernátsky
+ipni_forenames: Jenő
+ipni_standard_form: Bernátsky
+ipni_dates: 1873-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-09-15 16:02:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33265305) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

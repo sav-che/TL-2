@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0891
+tl2_volume: vol4
+tl2_page_printed: 874
+tl2_surname: Romagnesi
+tl2_forenames: Henri Charles Louis
+tl2_name_abbrev: Romagnesi
+tl2_dates: 1912-x
+tl2_page_id: 33190345
+author_lsid: 8558-1
+wikidata_id: Q631036
+ipni_surname: Romagnesi
+ipni_forenames: Henri Charles Louis(Lewis)
+ipni_standard_form: Romagn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

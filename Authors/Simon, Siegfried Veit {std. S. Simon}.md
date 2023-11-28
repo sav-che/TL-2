@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0607
+tl2_volume: vol5
+tl2_page_printed: 609
+tl2_surname: Simon
+tl2_forenames: Siegfried Veit
+tl2_name_abbrev: S. Simon
+tl2_dates: 1877-1934
+tl2_page_id: 33333748
+author_lsid: 9669-1
+wikidata_id: Q21608922
+ipni_surname: Simon
+ipni_forenames: Siegfried Veit
+ipni_standard_form: S.V.Simon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

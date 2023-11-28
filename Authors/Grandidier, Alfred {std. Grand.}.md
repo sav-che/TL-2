@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1237
+tl2_volume: vol1
+tl2_page_printed: 979
+tl2_surname: Grandidier
+tl2_forenames: Alfred
+tl2_name_abbrev: Grand.
+tl2_dates: 1836-1921
+tl2_page_id: 33121110
+author_lsid: 3327-1
+wikidata_id: Q727876
+ipni_surname: Grandidier
+ipni_forenames: Alfred
+ipni_standard_form: Grandid.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

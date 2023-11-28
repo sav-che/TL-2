@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0296
+tl2_volume: vol2
+tl2_page_printed: 245
+tl2_surname: Hoffmannsegg
+tl2_forenames: Johann Centurius, Graf von
+tl2_name_abbrev: Hoffmanns.
+tl2_dates: 1766-1849
+tl2_page_id: 33068487
+author_lsid: 4021-1
+wikidata_id: Q76697
+ipni_surname: Hoffmannsegg
+ipni_forenames: Johann Centurius von
+ipni_standard_form: Hoffmanns.
+ipni_dates: 1766-1849
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

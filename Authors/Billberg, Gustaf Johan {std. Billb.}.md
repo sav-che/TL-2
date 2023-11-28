@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0282
+tl2_volume: vol1
+tl2_page_printed: 215
+tl2_surname: Billberg
+tl2_forenames: Gustaf Johan
+tl2_name_abbrev: Billb.
+tl2_dates: 1772-1844
+tl2_page_id: 33120346
+author_lsid: 790-1
+wikidata_id: Q725590
+ipni_surname: Billberg
+ipni_forenames: Gustaf Johan
+ipni_standard_form: Billb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

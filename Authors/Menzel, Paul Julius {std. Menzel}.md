@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0496
+tl2_volume: vol3
+tl2_page_printed: 417
+tl2_surname: Menzel
+tl2_forenames: Paul Julius
+tl2_name_abbrev: Menzel
+tl2_dates: 1864-1927
+tl2_page_id: 33355504
+author_lsid: 6361-1
+wikidata_id: Q2061260
+ipni_surname: Menzel
+ipni_forenames: Paul Julius
+ipni_standard_form: Menzel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

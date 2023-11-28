@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0368
+tl2_volume: suppl1
+tl2_page_printed: 325
+tl2_surname: Bargagli-Petrucci
+tl2_forenames: Gino
+tl2_name_abbrev: Bargagli-Petrucci
+tl2_dates: 1878-?
+tl2_page_id: 33265052
+author_lsid: 475-1
+wikidata_id: Q18982862
+ipni_surname: Bargagli-Petrucci
+ipni_forenames: Gino
+ipni_standard_form: Barg.-Petr.
+ipni_dates: 1878-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

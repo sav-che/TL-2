@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0187
+tl2_volume: vol7
+tl2_page_printed: 197
+tl2_surname: Wesenburg-Lund
+tl2_forenames: Carl Jørgen
+tl2_name_abbrev: Wesenb.-Lund
+tl2_dates: 1867-1955
+tl2_page_id: 33066537
+author_lsid: 11569-1
+wikidata_id: Q21612492
+ipni_surname: Wesenburg-Lund
+ipni_forenames: Carl Jørgen
+ipni_standard_form: Wesenb.-Lund
+ipni_dates: 1867-1955
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33066537) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

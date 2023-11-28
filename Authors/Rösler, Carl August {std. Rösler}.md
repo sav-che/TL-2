@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0860
+tl2_volume: vol4
+tl2_page_printed: 853
+tl2_surname: Rösler
+tl2_forenames: Carl August
+tl2_name_abbrev: Rösler
+tl2_dates: 1770-1858
+tl2_page_id: 33190324
+author_lsid: 8512-1
+wikidata_id: Q21607424
+ipni_surname: Rösler
+ipni_forenames: Carl August
+ipni_standard_form: Rösler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

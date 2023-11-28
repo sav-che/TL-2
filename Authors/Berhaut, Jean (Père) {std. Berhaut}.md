@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0113
+tl2_volume: suppl2
+tl2_page_printed: 97
+tl2_surname: Berhaut
+tl2_forenames: Jean [Père]
+tl2_name_abbrev: Berhaut
+tl2_dates: 1902-1977
+tl2_page_id: 33265294
+author_lsid: 694-1
+wikidata_id: Q5928644
+ipni_surname: Berhaut
+ipni_forenames: Jean
+ipni_standard_form: Berhaut
+ipni_dates: 1902-1977
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Senegal
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

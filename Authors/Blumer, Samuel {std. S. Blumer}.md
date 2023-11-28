@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0288
+tl2_volume: suppl2
+tl2_page_printed: 231
+tl2_surname: Blumer
+tl2_forenames: Samuel
+tl2_name_abbrev: S. Blumer
+tl2_dates: fl. 1920-1967
+tl2_page_id: 33265428
+author_lsid: 16233-1
+wikidata_id: Q36673052
+ipni_surname: Blumer
+ipni_forenames: Samuel von
+ipni_standard_form: S.Blumer
+ipni_dates: fl. 1926
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265428) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0547
+tl2_volume: vol2
+tl2_page_printed: 469
+tl2_surname: Jung
+tl2_forenames: Joachim [Jungius]
+tl2_name_abbrev: J. Jung
+tl2_dates: 1587-1657
+tl2_page_id: 33068711
+author_lsid: 4579-1
+wikidata_id: Q71026
+ipni_surname: Jung
+ipni_forenames: Joachim
+ipni_standard_form: Jung
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

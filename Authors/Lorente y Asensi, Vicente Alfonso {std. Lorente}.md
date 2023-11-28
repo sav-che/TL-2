@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0122
+tl2_volume: vol3
+tl2_page_printed: 157
+tl2_surname: Lorente y Asensi
+tl2_forenames: Vicente Alfonso
+tl2_name_abbrev: Lorente
+tl2_dates: 1758-1813
+tl2_page_id: 33355244
+author_lsid: 5748-1
+wikidata_id: Q21519499
+ipni_surname: Lorente y Asensi
+ipni_forenames: Vincente Alfonso
+ipni_standard_form: Lorente
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0573
+tl2_volume: vol1
+tl2_page_printed: 468
+tl2_surname: Castiglioni
+tl2_forenames: Luigi, Conte
+tl2_name_abbrev: Castigl.
+tl2_dates: 1757-1832
+tl2_page_id: 33120599
+author_lsid: 1451-1
+wikidata_id: Q5982582
+ipni_surname: Castiglioni
+ipni_forenames: Luigi Gomes
+ipni_standard_form: Castigl.
+ipni_dates: 1757-1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

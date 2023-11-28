@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0270
+tl2_volume: vol5
+tl2_page_printed: 278
+tl2_surname: Schneider
+tl2_forenames: Wilhelm Gottlieb
+tl2_name_abbrev: W.G. Schneid.
+tl2_dates: 1814-1889
+tl2_page_id: 33333417
+author_lsid: 9200-1
+wikidata_id: Q3568233
+ipni_surname: Schneider
+ipni_forenames: Wilhelm Gottlieb
+ipni_standard_form: W.G.Schneid.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

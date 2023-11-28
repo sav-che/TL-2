@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0076
+tl2_volume: suppl8
+tl2_page_printed: 104
+tl2_surname: Gain
+tl2_forenames: Louis
+tl2_name_abbrev: Gain
+tl2_dates: 1883-1963
+tl2_page_id: 33258582
+author_lsid: 29243-1
+wikidata_id: Q36612925
+ipni_surname: Gain
+ipni_forenames: Luis(Louis)
+ipni_standard_form: Gain
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33258582) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

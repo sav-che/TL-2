@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0143
+tl2_volume: suppl3
+tl2_page_printed: 155
+tl2_surname: Bruhin
+tl2_forenames: Thomas Aquinas (baptized Gottfried)
+tl2_name_abbrev: Bruhin
+tl2_dates: 1835-1896
+tl2_page_id: 33266462
+author_lsid: 14624-1
+wikidata_id: Q21506562
+ipni_surname: Bruhin
+ipni_forenames: Peter Thomas van Aquinas
+ipni_standard_form: Bruhin
+ipni_dates: 1835-1895
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- United States
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33266462) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

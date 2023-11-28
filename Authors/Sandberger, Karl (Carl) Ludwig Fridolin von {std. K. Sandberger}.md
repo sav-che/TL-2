@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0024
+tl2_volume: vol5
+tl2_page_printed: 27
+tl2_surname: Sandberger
+tl2_forenames: Karl [Carl] Ludwig Fridolin von
+tl2_name_abbrev: K. Sandberger
+tl2_dates: 1826-1898
+tl2_page_id: 33333128
+author_lsid: 8881-1
+wikidata_id: Q84736
+ipni_surname: Sandberger
+ipni_forenames: Karl (Carl) Ludwig Fridolin von
+ipni_standard_form: Sandb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33333128) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

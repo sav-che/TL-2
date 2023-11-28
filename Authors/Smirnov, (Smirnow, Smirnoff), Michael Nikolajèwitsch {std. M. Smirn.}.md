@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0660
+tl2_volume: vol5
+tl2_page_printed: 659
+tl2_surname: Smirnov [Smirnow, Smirnoff]
+tl2_forenames: Michael Nikolajèwitsch
+tl2_name_abbrev: M. Smirn.
+tl2_dates: 1849-1889
+tl2_page_id: 33333798
+author_lsid: 9763-1
+wikidata_id: Q61739290
+ipni_surname: Smirnov
+ipni_forenames: Mikhail Nikolaevich
+ipni_standard_form: M.Smirn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

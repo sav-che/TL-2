@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1069
+tl2_volume: vol1
+tl2_page_printed: 857
+tl2_surname: Forsström
+tl2_forenames: Johan Eric
+tl2_name_abbrev: Forsström
+tl2_dates: 1775-1824
+tl2_page_id: 33120988
+author_lsid: 2832-1
+wikidata_id: Q6215032
+ipni_surname: Forsström
+ipni_forenames: Johan Eric
+ipni_standard_form: Forsstr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

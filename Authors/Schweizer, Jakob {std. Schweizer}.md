@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0416
+tl2_volume: vol5
+tl2_page_printed: 442
+tl2_surname: Schweizer
+tl2_forenames: Jakob
+tl2_name_abbrev: Schweizer
+tl2_dates: 1885-?
+tl2_page_id: 33333581
+author_lsid: 9369-1
+wikidata_id: Q21608545
+ipni_surname: Schweizer
+ipni_forenames: Jakob
+ipni_standard_form: Schweiz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

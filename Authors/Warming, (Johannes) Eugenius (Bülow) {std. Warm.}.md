@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol7_0082
+tl2_volume: vol7
+tl2_page_printed: 71
+tl2_surname: Warming
+tl2_forenames: [Johannes] Eugenius [Bülow]
+tl2_name_abbrev: Warm.
+tl2_dates: 1841-1924
+tl2_page_id: 33066411
+author_lsid: 11411-1
+wikidata_id: Q355888
+ipni_surname: Warming
+ipni_forenames: Johannes Eugen(ius) Bülow
+ipni_standard_form: Warm.
+ipni_dates: 1841-1924
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Greenland
+- Norway
+- Sweden
+- Brazil
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

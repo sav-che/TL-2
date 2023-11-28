@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0146
+tl2_volume: vol5
+tl2_page_printed: 138
+tl2_surname: Schenk
+tl2_forenames: Ernst
+tl2_name_abbrev: E. Schenk
+tl2_dates: 1796-1859
+tl2_page_id: 33333277
+author_lsid: 9054-1
+wikidata_id: Q10274128
+ipni_surname: Schenk
+ipni_forenames: Ernst
+ipni_standard_form: E.Schenk
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33333277) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

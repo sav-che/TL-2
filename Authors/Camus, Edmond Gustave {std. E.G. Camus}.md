@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0537
+tl2_volume: vol1
+tl2_page_printed: 432
+tl2_surname: Camus
+tl2_forenames: Edmond Gustave
+tl2_name_abbrev: E.G. Camus
+tl2_dates: 1852-1915
+tl2_page_id: 33120563
+author_lsid: 12373-1
+wikidata_id: Q3823236
+ipni_surname: Camus
+ipni_forenames: Edmond Gustav(e)
+ipni_standard_form: E.G.Camus
+ipni_dates: 1852-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33120563) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

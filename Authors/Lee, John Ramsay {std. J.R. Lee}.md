@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0951
+tl2_volume: vol2
+tl2_page_printed: 810
+tl2_surname: Lee
+tl2_forenames: John Ramsay
+tl2_name_abbrev: J.R. Lee
+tl2_dates: 1868-1959
+tl2_page_id: 33069052
+author_lsid: 5401-1
+wikidata_id: Q21518549
+ipni_surname: Lee
+ipni_forenames: John Ramsay
+ipni_standard_form: J.R.Lee
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33069052) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0048
+tl2_volume: vol1
+tl2_page_printed: 37
+tl2_surname: Almquist
+tl2_forenames: Sigfrid Oscar Immanuel
+tl2_name_abbrev: Almq.
+tl2_dates: 1844-1923
+tl2_page_id: 33120168
+author_lsid: 30799-1
+wikidata_id: Q5547566
+ipni_surname: Almquist
+ipni_forenames: Sigfrid Oscar Immanuel
+ipni_standard_form: Almq.
+ipni_dates: 1844-1923
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-08-26 00:40:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33120168) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

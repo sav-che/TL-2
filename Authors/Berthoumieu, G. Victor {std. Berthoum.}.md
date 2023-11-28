@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0145
+tl2_volume: suppl2
+tl2_page_printed: 122
+tl2_surname: Berthoumieu
+tl2_forenames: G. Victor
+tl2_name_abbrev: Berthoum.
+tl2_dates: 1840-1916
+tl2_page_id: 33265319
+author_lsid: 16038-1
+wikidata_id: Q21506028
+ipni_surname: Berthoumieu
+ipni_forenames: G.Victor
+ipni_standard_form: Berthoum.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33265319) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

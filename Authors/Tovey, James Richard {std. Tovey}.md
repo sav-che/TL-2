@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0448
+tl2_volume: vol6
+tl2_page_printed: 418
+tl2_surname: Tovey
+tl2_forenames: James Richard
+tl2_name_abbrev: Tovey
+tl2_dates: 1873-1922
+tl2_page_id: 33212460
+author_lsid: 10771-1
+wikidata_id: Q21610906
+ipni_surname: Tovey
+ipni_forenames: James Richard
+ipni_standard_form: Tovey
+ipni_dates: 1873-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33212460) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

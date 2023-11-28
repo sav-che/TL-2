@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0751
+tl2_volume: vol6
+tl2_page_printed: 770
+tl2_surname: Vogl
+tl2_forenames: Balthasar
+tl2_name_abbrev: B. Vogl
+tl2_dates: fl. 1888
+tl2_page_id: 33212812
+author_lsid: 11239-1
+wikidata_id: Q36520224
+ipni_surname: Vogl
+ipni_forenames: Balthasar
+ipni_standard_form: B.Vogl
+ipni_dates: fl. 1888
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33212812) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

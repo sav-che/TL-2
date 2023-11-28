@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0197
+tl2_volume: suppl4
+tl2_page_printed: 264
+tl2_surname: Colebrook [Colebrooke]
+tl2_forenames: Henry Thomas
+tl2_name_abbrev: Colebr.
+tl2_dates: 1765-1837
+tl2_page_id: 33265941
+author_lsid: 1732-1
+wikidata_id: Q237271
+ipni_surname: Colebrooke
+ipni_forenames: Henry Thomas
+ipni_standard_form: Colebr.
+ipni_dates: 1765-1837
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

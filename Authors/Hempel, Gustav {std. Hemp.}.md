@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0171
+tl2_volume: vol2
+tl2_page_printed: 149
+tl2_surname: Hempel
+tl2_forenames: Gustav
+tl2_name_abbrev: Hemp.
+tl2_dates: 1842-1904
+tl2_page_id: 33068391
+author_lsid: 3822-1
+wikidata_id: Q15444962
+ipni_surname: Hempel
+ipni_forenames: Gustav
+ipni_standard_form: Hempel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

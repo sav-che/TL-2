@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0916
+tl2_volume: vol2
+tl2_page_printed: 770
+tl2_surname: Lauterborn
+tl2_forenames: Robert
+tl2_name_abbrev: Lauterborn
+tl2_dates: 1869-1952
+tl2_page_id: 33069012
+author_lsid: 5330-1
+wikidata_id: Q101029
+ipni_surname: Lauterborn
+ipni_forenames: Robert
+ipni_standard_form: Lauterborn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

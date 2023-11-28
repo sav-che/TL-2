@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0631
+tl2_volume: vol2
+tl2_page_printed: 533
+tl2_surname: Kiaer
+tl2_forenames: Frantz Casper
+tl2_name_abbrev: Kiaer
+tl2_dates: 1835-1893
+tl2_page_id: 33068775
+author_lsid: 4766-1
+wikidata_id: Q6143368
+ipni_surname: Kiaer
+ipni_forenames: Frantz Caspar
+ipni_standard_form: Kiaer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

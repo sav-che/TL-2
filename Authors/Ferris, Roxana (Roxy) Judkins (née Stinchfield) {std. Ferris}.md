@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0105
+tl2_volume: suppl7
+tl2_page_printed: 165
+tl2_surname: Ferris
+tl2_forenames: Roxana (Roxy) Judkins (née Stinchfield)
+tl2_name_abbrev: Ferris
+tl2_dates: 1895-1978
+tl2_page_id: 33259669
+author_lsid: 12498-1
+wikidata_id: Q7372334
+ipni_surname: Ferris
+ipni_forenames: Roxana Stinchfield
+ipni_standard_form: Ferris
+ipni_dates: 1895-1978
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

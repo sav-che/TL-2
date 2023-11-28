@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0389
+tl2_volume: vol4
+tl2_page_printed: 329
+tl2_surname: Pollard
+tl2_forenames: Charles Louis
+tl2_name_abbrev: Pollard
+tl2_dates: 1872-1945
+tl2_page_id: 33189800
+author_lsid: 7815-1
+wikidata_id: Q5764928
+ipni_surname: Pollard
+ipni_forenames: Charles Louis
+ipni_standard_form: Pollard
+ipni_dates: 1872-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

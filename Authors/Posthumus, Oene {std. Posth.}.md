@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0433
+tl2_volume: vol4
+tl2_page_printed: 355
+tl2_surname: Posthumus
+tl2_forenames: Oene
+tl2_name_abbrev: Posth.
+tl2_dates: 1898-1945
+tl2_page_id: 33189826
+author_lsid: 7883-1
+wikidata_id: Q19004273
+ipni_surname: Posthumus
+ipni_forenames: Oene
+ipni_standard_form: Posth.
+ipni_dates: 1898-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33189826) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

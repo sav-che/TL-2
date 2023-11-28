@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0273
+tl2_volume: vol5
+tl2_page_printed: 278
+tl2_surname: Schnittspahn
+tl2_forenames: Georg Friedrich
+tl2_name_abbrev: Schnittsp.
+tl2_dates: 1810-1865
+tl2_page_id: 33333417
+author_lsid: 9204-1
+wikidata_id: Q13377580
+ipni_surname: Schnittspahn
+ipni_forenames: Georg Friedrich
+ipni_standard_form: Schnittsp.
+ipni_dates: 1810-1865
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

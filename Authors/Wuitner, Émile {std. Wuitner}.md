@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0429
+tl2_volume: vol7
+tl2_page_printed: 474
+tl2_surname: Wuitner
+tl2_forenames: Émile
+tl2_name_abbrev: Wuitner
+tl2_dates: 1865-1946
+tl2_page_id: 33066814
+author_lsid: 11897-1
+wikidata_id: Q20972195
+ipni_surname: Wuitner
+ipni_forenames: Émile
+ipni_standard_form: Wuitner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0320
+tl2_volume: suppl8
+tl2_page_printed: 441
+tl2_surname: Guest
+tl2_forenames: Evan Rhuvon
+tl2_name_abbrev: Guest
+tl2_dates: 1902-1992
+tl2_page_id: 33258919
+author_lsid: 14224-1
+wikidata_id: Q21514359
+ipni_surname: Guest
+ipni_forenames: Evan Rhuvon
+ipni_standard_form: Guest
+ipni_dates: 1902-1992
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33258919) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

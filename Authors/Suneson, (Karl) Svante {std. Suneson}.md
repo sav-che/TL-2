@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0115
+tl2_volume: vol6
+tl2_page_printed: 93
+tl2_surname: Suneson
+tl2_forenames: [Karl] Svante
+tl2_name_abbrev: Suneson
+tl2_dates: 1904-x
+tl2_page_id: 33212135
+author_lsid: 12904-1
+wikidata_id: Q21610055
+ipni_surname: Suneson
+ipni_forenames: Karl Svante
+ipni_standard_form: Suneson
+ipni_dates: 1904-1997
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33212135) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

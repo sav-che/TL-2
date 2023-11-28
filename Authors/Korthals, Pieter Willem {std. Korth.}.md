@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0757
+tl2_volume: vol2
+tl2_page_printed: 651
+tl2_surname: Korthals
+tl2_forenames: Pieter Willem
+tl2_name_abbrev: Korth.
+tl2_dates: 1807-1892
+tl2_page_id: 33068893
+author_lsid: 4975-1
+wikidata_id: Q442109
+ipni_surname: Korthals
+ipni_forenames: Pieter Willem
+ipni_standard_form: Korth.
+ipni_dates: 1807-1892
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0575
+tl2_volume: vol6
+tl2_page_printed: 565
+tl2_surname: Ugolini
+tl2_forenames: Ugolino
+tl2_name_abbrev: Ugolini
+tl2_dates: 1856-1942
+tl2_page_id: 33212607
+author_lsid: 10958-1
+wikidata_id: Q21611190
+ipni_surname: Ugolini
+ipni_forenames: Ugolino
+ipni_standard_form: Ugolini
+ipni_dates: 1856-1942
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33212607) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

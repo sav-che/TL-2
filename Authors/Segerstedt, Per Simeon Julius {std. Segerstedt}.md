@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0459
+tl2_volume: vol5
+tl2_page_printed: 483
+tl2_surname: Segerstedt
+tl2_forenames: Per Simeon Julius
+tl2_name_abbrev: Segerstedt
+tl2_dates: 1866-ca. 1930
+tl2_page_id: 33333622
+author_lsid: 9424-1
+wikidata_id: Q21608613
+ipni_surname: Segerstedt
+ipni_forenames: Per Simeon Julius
+ipni_standard_form: Segerst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

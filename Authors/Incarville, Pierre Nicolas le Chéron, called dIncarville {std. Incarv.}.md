@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0411
+tl2_volume: vol2
+tl2_page_printed: 384
+tl2_surname: Incarville
+tl2_forenames: Pierre Nicolas le Chéron, called dIncarville
+tl2_name_abbrev: Incarv.
+tl2_dates: 1706-1757
+tl2_page_id: 33068626
+author_lsid: 4291-1
+wikidata_id: Q3386443
+ipni_surname: Incarville
+ipni_forenames: Pierre Nicolas le Chéron
+ipni_standard_form: Incarv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+- France
+- China
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

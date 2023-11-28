@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0873
+tl2_volume: vol2
+tl2_page_printed: 741
+tl2_surname: Lamouroux
+tl2_forenames: Jean [Jeanin,] Pierre Péthion
+tl2_name_abbrev: J.P. Lamour.
+tl2_dates: 1797-1866
+tl2_page_id: 33068983
+author_lsid: 5242-1
+wikidata_id: Q21518342
+ipni_surname: Lamouroux
+ipni_forenames: Jean(Jeanin) Pierre Péthion
+ipni_standard_form: J.P.Lamour.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33068983) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0456
+tl2_volume: vol1
+tl2_page_printed: 370
+tl2_surname: Brown
+tl2_forenames: Stewardson
+tl2_name_abbrev: S. Brown
+tl2_dates: 1867-1921
+tl2_page_id: 33120501
+author_lsid: 1198-1
+wikidata_id: Q6134299
+ipni_surname: Brown
+ipni_forenames: Stewardson
+ipni_standard_form: S.Br.
+ipni_dates: 1867-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33120501) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

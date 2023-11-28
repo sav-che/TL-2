@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0381
+tl2_volume: vol7
+tl2_page_printed: 426
+tl2_surname: Wollenweber
+tl2_forenames: Hans Wilhelm
+tl2_name_abbrev: Wollenweb.
+tl2_dates: 1879-1949
+tl2_page_id: 33066766
+author_lsid: 11828-1
+wikidata_id: Q21612926
+ipni_surname: Wollenweber
+ipni_forenames: Hans Wilhelm
+ipni_standard_form: Wollenw.
+ipni_dates: 1879-1949
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33066766) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

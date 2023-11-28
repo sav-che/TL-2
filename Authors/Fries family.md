@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0014
+tl2_volume: suppl8
+tl2_page_printed: 16
+tl2_surname: 
+tl2_forenames: Fries family
+tl2_name_abbrev: 
+tl2_dates: 
+tl2_page_id: 33258510
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

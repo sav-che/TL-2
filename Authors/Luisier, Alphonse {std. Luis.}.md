@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0170
+tl2_volume: vol3
+tl2_page_printed: 191
+tl2_surname: Luisier
+tl2_forenames: Alphonse
+tl2_name_abbrev: Luis.
+tl2_dates: 1872-1957
+tl2_page_id: 33355278
+author_lsid: 22603-1
+wikidata_id: Q16488973
+ipni_surname: Luisier
+ipni_forenames: Alphonse
+ipni_standard_form: Luisier
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

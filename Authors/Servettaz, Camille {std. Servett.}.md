@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0512
+tl2_volume: vol5
+tl2_page_printed: 524
+tl2_surname: Servettaz
+tl2_forenames: Camille
+tl2_name_abbrev: Servett.
+tl2_dates: 1870-1947
+tl2_page_id: 33333663
+author_lsid: 9511-1
+wikidata_id: Q21608707
+ipni_surname: Servettaz
+ipni_forenames: Camille
+ipni_standard_form: Servett.
+ipni_dates: 1870-1947
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0085
+tl2_volume: vol1
+tl2_page_printed: 58
+tl2_surname: Ardissone
+tl2_forenames: Francesco
+tl2_name_abbrev: Ardiss.
+tl2_dates: 1837-1910
+tl2_page_id: 33120189
+author_lsid: 14303-1
+wikidata_id: Q3749571
+ipni_surname: Ardissone
+ipni_forenames: Francesco
+ipni_standard_form: Ardiss.
+ipni_dates: 1837-1910
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33120189) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

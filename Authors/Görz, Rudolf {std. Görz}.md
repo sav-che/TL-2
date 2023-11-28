@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0201
+tl2_volume: suppl8
+tl2_page_printed: 271
+tl2_surname: Görz
+tl2_forenames: Rudolf
+tl2_name_abbrev: Görz
+tl2_dates: 1879-1935
+tl2_page_id: 33258749
+author_lsid: 3227-1
+wikidata_id: Q14326929
+ipni_surname: Goerz
+ipni_forenames: Rudolf
+ipni_standard_form: Goerz
+ipni_dates: 1879-1935
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33258749) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

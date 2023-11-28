@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0100
+tl2_volume: vol3
+tl2_page_printed: 141
+tl2_surname: Lösecke
+tl2_forenames: August Georg von
+tl2_name_abbrev: Lösecke
+tl2_dates: 1837-1912
+tl2_page_id: 33355228
+author_lsid: 5704-1
+wikidata_id: Q21519518
+ipni_surname: Lösecke
+ipni_forenames: August Georg von
+ipni_standard_form: Lösecke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

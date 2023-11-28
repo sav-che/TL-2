@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0841
+tl2_volume: vol2
+tl2_page_printed: 717
+tl2_surname: Lacouture
+tl2_forenames: Charles
+tl2_name_abbrev: Lacout.
+tl2_dates: 1832-1908
+tl2_page_id: 33068959
+author_lsid: 21947-1
+wikidata_id: Q21518279
+ipni_surname: Lacouture
+ipni_forenames: Charles
+ipni_standard_form: Lacout.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

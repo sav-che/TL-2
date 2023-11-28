@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0670
+tl2_volume: vol1
+tl2_page_printed: 533
+tl2_surname: Conard
+tl2_forenames: Henry Shoemaker
+tl2_name_abbrev: Conard
+tl2_dates: 1874-1971
+tl2_page_id: 33120664
+author_lsid: 17371-1
+wikidata_id: Q9002968
+ipni_surname: Conard
+ipni_forenames: Henry Shoemaker
+ipni_standard_form: Conard
+ipni_dates: 1874-1971
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33120664) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

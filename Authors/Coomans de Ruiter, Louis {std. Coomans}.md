@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0267
+tl2_volume: suppl4
+tl2_page_printed: 335
+tl2_surname: Coomans de Ruiter
+tl2_forenames: Louis
+tl2_name_abbrev: Coomans
+tl2_dates: 1898-1972
+tl2_page_id: 33266012
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

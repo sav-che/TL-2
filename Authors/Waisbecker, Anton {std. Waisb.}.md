@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0027
+tl2_volume: vol7
+tl2_page_printed: 23
+tl2_surname: Waisbecker
+tl2_forenames: Anton
+tl2_name_abbrev: Waisb.
+tl2_dates: 1835-1916
+tl2_page_id: 33066363
+author_lsid: 11319-1
+wikidata_id: Q5697511
+ipni_surname: Waisbecker
+ipni_forenames: Anton
+ipni_standard_form: Waisb.
+ipni_dates: 1835-1916
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

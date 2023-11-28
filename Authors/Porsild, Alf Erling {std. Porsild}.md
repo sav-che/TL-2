@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0414
+tl2_volume: vol4
+tl2_page_printed: 342
+tl2_surname: Porsild
+tl2_forenames: Alf Erling
+tl2_name_abbrev: Porsild
+tl2_dates: 1901-1977
+tl2_page_id: 33189813
+author_lsid: 7859-1
+wikidata_id: Q4994357
+ipni_surname: Porsild
+ipni_forenames: Alf Erling
+ipni_standard_form: A.E.Porsild
+ipni_dates: 1901-1977
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33189813) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

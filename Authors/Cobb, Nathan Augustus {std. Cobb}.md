@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0180
+tl2_volume: suppl4
+tl2_page_printed: 231
+tl2_surname: Cobb
+tl2_forenames: Nathan Augustus
+tl2_name_abbrev: Cobb
+tl2_dates: 1859-1932
+tl2_page_id: 33265908
+author_lsid: 17319-1
+wikidata_id: Q1664295
+ipni_surname: Cobb
+ipni_forenames: Nathan Augustus
+ipni_standard_form: Cobb
+ipni_dates: 1859-1932
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265908) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0410
+tl2_volume: vol4
+tl2_page_printed: 339
+tl2_surname: Popp
+tl2_forenames: Bonifaz
+tl2_name_abbrev: Popp
+tl2_dates: x-1892
+tl2_page_id: 33189810
+author_lsid: 7853-1
+wikidata_id: Q21523111
+ipni_surname: Popp
+ipni_forenames: Bonifaz
+ipni_standard_form: Popp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0276
+tl2_volume: vol6
+tl2_page_printed: 236
+tl2_surname: Thayer
+tl2_forenames: Emma, née Homan
+tl2_name_abbrev: Thayer
+tl2_dates: 1842-1908
+tl2_page_id: 33212278
+author_lsid: 12925-1
+wikidata_id: Q20979248
+ipni_surname: Thayer
+ipni_forenames: Emma
+ipni_standard_form: Thayer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

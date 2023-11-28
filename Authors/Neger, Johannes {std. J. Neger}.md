@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0831
+tl2_volume: vol3
+tl2_page_printed: 717
+tl2_surname: Neger
+tl2_forenames: Johannes
+tl2_name_abbrev: J. Neger
+tl2_dates: fl. 1871
+tl2_page_id: 33355804
+author_lsid: 6891-1
+wikidata_id: Q36595919
+ipni_surname: Neger
+ipni_forenames: Johannes
+ipni_standard_form: J.Neger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

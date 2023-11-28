@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0114
+tl2_volume: vol4
+tl2_page_printed: 107
+tl2_surname: Patzelt
+tl2_forenames: Joseph Eduard
+tl2_name_abbrev: Patzelt
+tl2_dates: fl. 1842
+tl2_page_id: 33189578
+author_lsid: 7399-1
+wikidata_id: Q36596677
+ipni_surname: Patzelt
+ipni_forenames: Joseph Eduard
+ipni_standard_form: Patzelt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0081
+tl2_volume: suppl3
+tl2_page_printed: 76
+tl2_surname: Brignoli di Brunnhoff
+tl2_forenames: Giovanni de
+tl2_name_abbrev: Brign.
+tl2_dates: 1774-1857
+tl2_page_id: 33266383
+author_lsid: 1148-1
+wikidata_id: Q5880193
+ipni_surname: Brignoli di Brunnhoff
+ipni_forenames: Giovanni de
+ipni_standard_form: Brign.
+ipni_dates: 1774-1857
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-05-18 14:48:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

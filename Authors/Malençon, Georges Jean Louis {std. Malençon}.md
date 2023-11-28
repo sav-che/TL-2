@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0286
+tl2_volume: vol3
+tl2_page_printed: 264
+tl2_surname: Malençon
+tl2_forenames: Georges Jean Louis
+tl2_name_abbrev: Malençon
+tl2_dates: 1898-x
+tl2_page_id: 33355351
+author_lsid: 22811-1
+wikidata_id: Q4277650
+ipni_surname: Malençon
+ipni_forenames: Georges Jean Louis
+ipni_standard_form: Malençon
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

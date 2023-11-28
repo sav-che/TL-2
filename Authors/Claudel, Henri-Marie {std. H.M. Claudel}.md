@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0147
+tl2_volume: suppl4
+tl2_page_printed: 188
+tl2_surname: Claudel
+tl2_forenames: Henri-Marie
+tl2_name_abbrev: H.M. Claudel
+tl2_dates: 1865-1909
+tl2_page_id: 33265865
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33265865) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

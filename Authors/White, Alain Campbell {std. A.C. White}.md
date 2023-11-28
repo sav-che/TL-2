@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0227
+tl2_volume: vol7
+tl2_page_printed: 246
+tl2_surname: White
+tl2_forenames: Alain Campbell
+tl2_name_abbrev: A.C. White
+tl2_dates: 1880-?
+tl2_page_id: 33066586
+author_lsid: 11614-1
+wikidata_id: Q117088
+ipni_surname: White
+ipni_forenames: Alain Campbell
+ipni_standard_form: A.C.White
+ipni_dates: 1880-1951
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

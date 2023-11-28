@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0001
+tl2_volume: vol5
+tl2_page_printed: 2
+tl2_surname: Salisbury
+tl2_forenames: Edward James
+tl2_name_abbrev: E. Salisb.
+tl2_dates: 1886-1978
+tl2_page_id: 33333181
+author_lsid: 8841-1
+wikidata_id: Q3048575
+ipni_surname: Salisbury
+ipni_forenames: Edward James
+ipni_standard_form: E.Salisb.
+ipni_dates: 1886-1978
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33333181) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

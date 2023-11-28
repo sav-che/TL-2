@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0425
+tl2_volume: vol5
+tl2_page_printed: 451
+tl2_surname: Schwilgué
+tl2_forenames: Charles Joseph Antoine
+tl2_name_abbrev: Schwilgué
+tl2_dates: 1774-1808
+tl2_page_id: 33333590
+author_lsid: 9379-1
+wikidata_id: Q21608554
+ipni_surname: Schwilgué
+ipni_forenames: Charles Joseph Antoine
+ipni_standard_form: Schwilgué
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

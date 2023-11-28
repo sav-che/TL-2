@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0636
+tl2_volume: vol5
+tl2_page_printed: 626
+tl2_surname: Skofitz
+tl2_forenames: Alexander
+tl2_name_abbrev: Skofitz
+tl2_dates: 1822-1892
+tl2_page_id: 33333765
+author_lsid: 9721-1
+wikidata_id: Q21556309
+ipni_surname: Skofitz
+ipni_forenames: Alexander
+ipni_standard_form: Skofitz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

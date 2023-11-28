@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0524
+tl2_volume: vol2
+tl2_page_printed: 459
+tl2_surname: Jonker
+tl2_forenames: Fredrik Pieter
+tl2_name_abbrev: Jonk.
+tl2_dates: 1912-x
+tl2_page_id: 33068701
+author_lsid: 4545-1
+wikidata_id: Q13462454
+ipni_surname: Jonker
+ipni_forenames: Fredrik Pieter
+ipni_standard_form: Jonker
+ipni_dates: 1912-1995
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Suriname
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33068701) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

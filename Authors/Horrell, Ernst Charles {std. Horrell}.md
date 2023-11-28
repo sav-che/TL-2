@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0347
+tl2_volume: vol2
+tl2_page_printed: 336
+tl2_surname: Horrell
+tl2_forenames: Ernst Charles
+tl2_name_abbrev: Horrell
+tl2_dates: 1870-1937
+tl2_page_id: 33068578
+author_lsid: 4116-1
+wikidata_id: Q21516044
+ipni_surname: Horrell
+ipni_forenames: Ernst Charles
+ipni_standard_form: Horrell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

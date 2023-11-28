@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0165
+tl2_volume: vol5
+tl2_page_printed: 158
+tl2_surname: Schiller
+tl2_forenames: Josef
+tl2_name_abbrev: J. Schiller
+tl2_dates: 1877-1960
+tl2_page_id: 33333297
+author_lsid: 9082-1
+wikidata_id: Q15999513
+ipni_surname: Schiller
+ipni_forenames: Josef
+ipni_standard_form: J.Schiller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

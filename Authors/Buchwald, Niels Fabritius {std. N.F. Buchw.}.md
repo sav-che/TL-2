@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0195
+tl2_volume: suppl3
+tl2_page_printed: 200
+tl2_surname: Buchwald
+tl2_forenames: Niels Fabritius
+tl2_name_abbrev: N.F. Buchw.
+tl2_dates: 1898-x
+tl2_page_id: 33266507
+author_lsid: 16667-1
+wikidata_id: Q19842613
+ipni_surname: Buchwald
+ipni_forenames: Niels Fabritius
+ipni_standard_form: N.F.Buchw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33266507) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

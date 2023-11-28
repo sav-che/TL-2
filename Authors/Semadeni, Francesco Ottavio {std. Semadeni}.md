@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0491
+tl2_volume: vol5
+tl2_page_printed: 502
+tl2_surname: Semadeni
+tl2_forenames: Francesco Ottavio
+tl2_name_abbrev: Semadeni
+tl2_dates: fl. 1904
+tl2_page_id: 33333641
+author_lsid: 9466-1
+wikidata_id: Q36557445
+ipni_surname: Semadeni
+ipni_forenames: Francesco Ottavio
+ipni_standard_form: Semadeni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

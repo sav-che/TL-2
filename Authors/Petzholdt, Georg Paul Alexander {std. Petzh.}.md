@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0244
+tl2_volume: vol4
+tl2_page_printed: 213
+tl2_surname: Petzholdt
+tl2_forenames: Georg Paul Alexander
+tl2_name_abbrev: Petzh.
+tl2_dates: 1810-1889
+tl2_page_id: 33189684
+author_lsid: 7606-1
+wikidata_id: Q21522916
+ipni_surname: Petzhold
+ipni_forenames: Georg Paul Alexander
+ipni_standard_form: Petzh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

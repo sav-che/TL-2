@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0012
+tl2_volume: vol5
+tl2_page_printed: 15
+tl2_surname: Salter
+tl2_forenames: Terence Macleane
+tl2_name_abbrev: T.M. Salter
+tl2_dates: 1883-1969
+tl2_page_id: 33333168
+author_lsid: 8855-1
+wikidata_id: Q13503778
+ipni_surname: Salter
+ipni_forenames: Terence Macleane
+ipni_standard_form: T.M.Salter
+ipni_dates: 1883-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

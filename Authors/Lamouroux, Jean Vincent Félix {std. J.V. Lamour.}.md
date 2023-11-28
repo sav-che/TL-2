@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0872
+tl2_volume: vol2
+tl2_page_printed: 740
+tl2_surname: Lamouroux
+tl2_forenames: Jean Vincent Félix
+tl2_name_abbrev: J.V. Lamour.
+tl2_dates: 1779-1825
+tl2_page_id: 33068982
+author_lsid: 5243-1
+wikidata_id: Q2366296
+ipni_surname: Lamouroux
+ipni_forenames: Jean Vincent Félix
+ipni_standard_form: J.V.Lamour.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33068982) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

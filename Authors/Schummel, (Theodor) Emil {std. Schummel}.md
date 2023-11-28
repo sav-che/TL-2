@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0386
+tl2_volume: vol5
+tl2_page_printed: 408
+tl2_surname: Schummel
+tl2_forenames: [Theodor] Emil
+tl2_name_abbrev: Schummel
+tl2_dates: 1785-1848
+tl2_page_id: 33333547
+author_lsid: 9334-1
+wikidata_id: Q7781581
+ipni_surname: Schummel
+ipni_forenames: Theodor Emil
+ipni_standard_form: Schummel
+ipni_dates: 1785-1848
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33333547) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

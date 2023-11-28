@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0312
+tl2_volume: suppl6
+tl2_page_printed: 276
+tl2_surname: Eichler
+tl2_forenames: August Wilhelm
+tl2_name_abbrev: Eichler
+tl2_dates: 1839-1887
+tl2_page_id: 33260264
+author_lsid: 2488-1
+wikidata_id: Q62142
+ipni_surname: Eichler
+ipni_forenames: August Wilhelm
+ipni_standard_form: Eichler
+ipni_dates: 1839-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33260264) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

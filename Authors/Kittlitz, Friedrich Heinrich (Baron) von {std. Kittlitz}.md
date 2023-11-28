@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0670
+tl2_volume: vol2
+tl2_page_printed: 558
+tl2_surname: Kittlitz
+tl2_forenames: Friedrich Heinrich [Baron] von
+tl2_name_abbrev: Kittlitz
+tl2_dates: 1799-1871
+tl2_page_id: 33068800
+author_lsid: 4823-1
+wikidata_id: Q62794
+ipni_surname: Kittlitz
+ipni_forenames: Friedrich Heinrich von
+ipni_standard_form: Kittlitz
+ipni_dates: 1799-1871
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

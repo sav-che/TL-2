@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0758
+tl2_volume: vol4
+tl2_page_printed: 773
+tl2_surname: Richer de Belleval
+tl2_forenames: Pierre
+tl2_name_abbrev: Richer de Belleval
+tl2_dates: 1564-1632
+tl2_page_id: 33190244
+author_lsid: 8363-1
+wikidata_id: Q249386
+ipni_surname: Richer de Belleval
+ipni_forenames: Pierre
+ipni_standard_form: Rich.Bell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

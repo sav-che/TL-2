@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0639
+tl2_volume: vol5
+tl2_page_printed: 640
+tl2_surname: Skuja
+tl2_forenames: Heinrich Leonhards
+tl2_name_abbrev: Skuja
+tl2_dates: 1892-1972
+tl2_page_id: 33333779
+author_lsid: 9726-1
+wikidata_id: Q4422784
+ipni_surname: Skuja
+ipni_forenames: Heinrich Leonhards
+ipni_standard_form: Skuja
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 640](https://www.biodiversitylibrary.org/page/33333779) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

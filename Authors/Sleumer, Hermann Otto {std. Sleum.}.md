@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0645
+tl2_volume: vol5
+tl2_page_printed: 643
+tl2_surname: Sleumer
+tl2_forenames: Hermann Otto
+tl2_name_abbrev: Sleum.
+tl2_dates: 1906-x
+tl2_page_id: 33333782
+author_lsid: 9742-1
+wikidata_id: Q73160
+ipni_surname: Sleumer
+ipni_forenames: Hermann Otto
+ipni_standard_form: Sleumer
+ipni_dates: 1906-1993
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Argentina
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

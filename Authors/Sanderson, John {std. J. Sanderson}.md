@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0029
+tl2_volume: vol5
+tl2_page_printed: 32
+tl2_surname: Sanderson
+tl2_forenames: John
+tl2_name_abbrev: J. Sanderson
+tl2_dates: 1820/21-1881
+tl2_page_id: 33333133
+author_lsid: 35156-1
+wikidata_id: Q21607697
+ipni_surname: Sanderson
+ipni_forenames: John
+ipni_standard_form: Sand.
+ipni_dates: 1820-1881
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- South Africa
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

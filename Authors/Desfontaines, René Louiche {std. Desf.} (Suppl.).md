@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl5_0255
+tl2_volume: suppl5
+tl2_page_printed: 220
+tl2_surname: Desfontaines
+tl2_forenames: René Louiche
+tl2_name_abbrev: Desf.
+tl2_dates: 1750-1833
+tl2_page_id: 33259266
+author_lsid: 17958-1
+wikidata_id: Q545953
+ipni_surname: Desfontaines
+ipni_forenames: René Louiche
+ipni_standard_form: Desf.
+ipni_dates: 1750-1833
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259266) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1010
+tl2_volume: vol4
+tl2_page_printed: 977
+tl2_surname: Rueling
+tl2_forenames: Johann Philipp
+tl2_name_abbrev: Ruel.
+tl2_dates: 1741-?
+tl2_page_id: 33190448
+author_lsid: 8722-1
+wikidata_id: Q21607529
+ipni_surname: Rueling
+ipni_forenames: Johann Philipp
+ipni_standard_form: Ruel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

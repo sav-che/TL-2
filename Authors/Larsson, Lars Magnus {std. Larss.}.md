@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0902
+tl2_volume: vol2
+tl2_page_printed: 761
+tl2_surname: Larsson
+tl2_forenames: Lars Magnus
+tl2_name_abbrev: Larss.
+tl2_dates: 1882-1884
+tl2_page_id: 33069003
+author_lsid: 5297-1
+wikidata_id: Q21518404
+ipni_surname: Larsson
+ipni_forenames: Lars Magnus
+ipni_standard_form: Larss.
+ipni_dates: 1822-1884
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

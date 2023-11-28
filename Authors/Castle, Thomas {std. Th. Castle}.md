@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0421
+tl2_volume: suppl3
+tl2_page_printed: 459
+tl2_surname: Castle
+tl2_forenames: Thomas
+tl2_name_abbrev: Th. Castle
+tl2_dates: c. 1804-c. 1840
+tl2_page_id: 33266766
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

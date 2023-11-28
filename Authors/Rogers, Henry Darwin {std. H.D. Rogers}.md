@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0868
+tl2_volume: vol4
+tl2_page_printed: 858
+tl2_surname: Rogers
+tl2_forenames: Henry Darwin
+tl2_name_abbrev: H.D. Rogers
+tl2_dates: 1809-1866
+tl2_page_id: 33190329
+author_lsid: 8525-1
+wikidata_id: Q5720192
+ipni_surname: Rogers
+ipni_forenames: Henry Darwin
+ipni_standard_form: H.D.Rogers
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33190329) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

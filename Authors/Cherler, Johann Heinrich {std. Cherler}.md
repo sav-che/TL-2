@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0608
+tl2_volume: vol1
+tl2_page_printed: 492
+tl2_surname: Cherler
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: Cherler
+tl2_dates: 1570-1610
+tl2_page_id: 33120623
+author_lsid: 34741-1
+wikidata_id: Q1694368
+ipni_surname: Cherler
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Cherler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0221
+tl2_volume: vol3
+tl2_page_printed: 215
+tl2_surname: McCoy
+tl2_forenames: (Sir) Frederick
+tl2_name_abbrev: McCoy
+tl2_dates: 1817-1899
+tl2_page_id: 33355302
+author_lsid: 12670-1
+wikidata_id: Q347883
+ipni_surname: McCoy
+ipni_forenames: Frederick
+ipni_standard_form: McCoy
+ipni_dates: 1817-1899
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+- Australia
+- Ireland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

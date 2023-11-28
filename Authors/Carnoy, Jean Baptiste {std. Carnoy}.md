@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0383
+tl2_volume: suppl3
+tl2_page_printed: 419
+tl2_surname: Carnoy
+tl2_forenames: Jean Baptiste
+tl2_name_abbrev: Carnoy
+tl2_dates: 1836-1899
+tl2_page_id: 33266726
+author_lsid: 20001200-1
+wikidata_id: Q423006
+ipni_surname: Carnoy
+ipni_forenames: J.-B.
+ipni_standard_form: Carnoy
+ipni_dates: fl. 1870
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2004-09-23 09:13:21.0
+ipni_record_modified: 2004-09-23 09:13:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33266726) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

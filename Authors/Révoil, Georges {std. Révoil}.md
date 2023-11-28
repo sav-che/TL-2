@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0730
+tl2_volume: vol4
+tl2_page_printed: 747
+tl2_surname: Révoil
+tl2_forenames: Georges
+tl2_name_abbrev: Révoil
+tl2_dates: fl. 1878-1880
+tl2_page_id: 33190218
+author_lsid: 8321-1
+wikidata_id: Q47125130
+ipni_surname: Révoil
+ipni_forenames: Georges
+ipni_standard_form: Révoil
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

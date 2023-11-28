@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol6_0231
+tl2_volume: vol6
+tl2_page_printed: 196
+tl2_surname: Tchihatcheff
+tl2_forenames: Pierre de [Chikhachef Petr Aleksandrovich; Tschihatcheff]
+tl2_name_abbrev: Tchihatcheff
+tl2_dates: 1812-1890
+tl2_page_id: 33212238
+author_lsid: 10477-1
+wikidata_id: Q936950
+ipni_surname: Tchichatscheff
+ipni_forenames: Petr Aleksandrovich
+ipni_standard_form: Tchich.
+ipni_dates: 1812-1890
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Tunisia
+- Spain
+- Egypt
+- Algeria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33212238) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

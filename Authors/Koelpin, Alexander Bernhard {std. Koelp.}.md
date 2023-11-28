@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0729
+tl2_volume: vol2
+tl2_page_printed: 599
+tl2_surname: Koelpin
+tl2_forenames: Alexander Bernhard
+tl2_name_abbrev: Koelp.
+tl2_dates: 1739-1801
+tl2_page_id: 33068841
+author_lsid: 4918-1
+wikidata_id: Q1287925
+ipni_surname: Koelpin
+ipni_forenames: Alexander Bernhard
+ipni_standard_form: Koelp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

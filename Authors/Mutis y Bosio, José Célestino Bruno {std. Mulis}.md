@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0791
+tl2_volume: vol3
+tl2_page_printed: 676
+tl2_surname: Mutis y Bosio
+tl2_forenames: José Célestino Bruno
+tl2_name_abbrev: Mulis
+tl2_dates: 1732-1808
+tl2_page_id: 33355763
+author_lsid: 6819-1
+wikidata_id: Q731937
+ipni_surname: Mutis
+ipni_forenames: José Celestino Bruno
+ipni_standard_form: Mutis
+ipni_dates: 1732-1808
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Colombia
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33355763) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

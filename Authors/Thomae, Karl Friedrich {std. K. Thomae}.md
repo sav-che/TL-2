@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0312
+tl2_volume: vol6
+tl2_page_printed: 269
+tl2_surname: Thomae
+tl2_forenames: Karl Friedrich
+tl2_name_abbrev: K. Thomae
+tl2_dates: 1863-?
+tl2_page_id: 33212311
+author_lsid: 10583-1
+wikidata_id: Q21610610
+ipni_surname: Thomae
+ipni_forenames: Karl Friedrich
+ipni_standard_form: K.Thomae
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

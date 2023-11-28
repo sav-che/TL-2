@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0233
+tl2_volume: vol1
+tl2_page_printed: 181
+tl2_surname: Bentley
+tl2_forenames: Robert
+tl2_name_abbrev: Bentley
+tl2_dates: 1821-1893
+tl2_page_id: 33120312
+author_lsid: 666-1
+wikidata_id: Q2635211
+ipni_surname: Bentley
+ipni_forenames: Robert
+ipni_standard_form: Bentley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33120312) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

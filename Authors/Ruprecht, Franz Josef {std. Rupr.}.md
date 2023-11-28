@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_1025
+tl2_volume: vol4
+tl2_page_printed: 993
+tl2_surname: Ruprecht
+tl2_forenames: Franz Josef
+tl2_name_abbrev: Rupr.
+tl2_dates: 1814-1870
+tl2_page_id: 33190464
+author_lsid: 12802-1
+wikidata_id: Q62887
+ipni_surname: Ruprecht
+ipni_forenames: Franz Josef (Ivanovich)
+ipni_standard_form: Rupr.
+ipni_dates: 1814-1870
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-02-12 12:26:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33190464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

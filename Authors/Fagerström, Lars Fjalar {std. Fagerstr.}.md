@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0009
+tl2_volume: suppl7
+tl2_page_printed: 13
+tl2_surname: Fagerström
+tl2_forenames: Lars Fjalar
+tl2_name_abbrev: Fagerstr.
+tl2_dates: 1914-2001
+tl2_page_id: 33259517
+author_lsid: 2619-1
+wikidata_id: Q21512540
+ipni_surname: Fagerström
+ipni_forenames: Lars Fjalar
+ipni_standard_form: Fagerstr.
+ipni_dates: 1914-2001
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.2.2.1.5
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-06-19 09:30:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33259517) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

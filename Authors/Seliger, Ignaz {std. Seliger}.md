@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0484
+tl2_volume: vol5
+tl2_page_printed: 498
+tl2_surname: Seliger
+tl2_forenames: Ignaz
+tl2_name_abbrev: Seliger
+tl2_dates: 1752-1812
+tl2_page_id: 33333637
+author_lsid: 9456-1
+wikidata_id: Q12318106
+ipni_surname: Seliger
+ipni_forenames: Ignaz
+ipni_standard_form: Seliger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

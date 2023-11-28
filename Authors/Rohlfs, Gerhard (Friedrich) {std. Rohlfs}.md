@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0875
+tl2_volume: vol4
+tl2_page_printed: 863
+tl2_surname: Rohlfs
+tl2_forenames: Gerhard [Friedrich]
+tl2_name_abbrev: Rohlfs
+tl2_dates: 1831-1896
+tl2_page_id: 33190334
+author_lsid: 8534-1
+wikidata_id: Q63209
+ipni_surname: Rohlfs
+ipni_forenames: Gerhard
+ipni_standard_form: Rohlfs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33190334) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

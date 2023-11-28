@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_1023
+tl2_volume: vol3
+tl2_page_printed: 858
+tl2_surname: Otto
+tl2_forenames: Bernhard Christian
+tl2_name_abbrev: B. Otto
+tl2_dates: 1745-1835
+tl2_page_id: 33355945
+author_lsid: 7203-1
+wikidata_id: Q101027
+ipni_surname: Otto
+ipni_forenames: Bernhard Christian
+ipni_standard_form: B.Otto
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33355945) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0036
+tl2_volume: vol4
+tl2_page_printed: 31
+tl2_surname: Palmér
+tl2_forenames: Johan Ernst
+tl2_name_abbrev: J.E. Palmér
+tl2_dates: 1863-1946
+tl2_page_id: 33189464
+author_lsid: 7285-1
+wikidata_id: Q21522573
+ipni_surname: Palmér
+ipni_forenames: Johan Ernst
+ipni_standard_form: J.E.Palmér
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

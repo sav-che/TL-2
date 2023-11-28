@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0098
+tl2_volume: vol5
+tl2_page_printed: 95
+tl2_surname: Sayre
+tl2_forenames: Geneva
+tl2_name_abbrev: Sayre
+tl2_dates: 1911-x
+tl2_page_id: 33333234
+author_lsid: 8989-1
+wikidata_id: Q21607825
+ipni_surname: Sayre
+ipni_forenames: Geneva
+ipni_standard_form: Sayre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33333234) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

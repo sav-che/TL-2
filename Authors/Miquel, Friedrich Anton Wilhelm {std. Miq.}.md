@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0594
+tl2_volume: vol3
+tl2_page_printed: 508
+tl2_surname: Miquel
+tl2_forenames: Friedrich Anton Wilhelm
+tl2_name_abbrev: Miq.
+tl2_dates: 1811-1871
+tl2_page_id: 33355595
+author_lsid: 6509-1
+wikidata_id: Q76742
+ipni_surname: Miquel
+ipni_forenames: Friedrich Anton Wilhelm
+ipni_standard_form: Miq.
+ipni_dates: 1811-1871
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

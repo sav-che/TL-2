@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0141
+tl2_volume: suppl4
+tl2_page_printed: 183
+tl2_surname: Clarke
+tl2_forenames: Alfred Ernest
+tl2_name_abbrev: A.E. Clarke
+tl2_dates: 1903-?
+tl2_page_id: 33265860
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

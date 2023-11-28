@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0057
+tl2_volume: vol5
+tl2_page_printed: 62
+tl2_surname: Sartwell
+tl2_forenames: Henry Parker
+tl2_name_abbrev: Sartwell
+tl2_dates: 1792-1867
+tl2_page_id: 33333201
+author_lsid: 8929-1
+wikidata_id: Q18155169
+ipni_surname: Sartwell
+ipni_forenames: Henry Parker
+ipni_standard_form: Sartwell
+ipni_dates: 1792-1867
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

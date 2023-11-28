@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0835
+tl2_volume: vol4
+tl2_page_printed: 827
+tl2_surname: Rodati
+tl2_forenames: Aloysius (Luigi)
+tl2_name_abbrev: Rodati
+tl2_dates: 1762-1832
+tl2_page_id: 33190298
+author_lsid: 8476-1
+wikidata_id: Q5670481
+ipni_surname: Rodati
+ipni_forenames: Aloysius(Luigi)
+ipni_standard_form: Rodati
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

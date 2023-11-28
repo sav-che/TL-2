@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0873
+tl2_volume: vol1
+tl2_page_printed: 687
+tl2_surname: Dubois
+tl2_forenames: François Noel Alexandre
+tl2_name_abbrev: Dubois
+tl2_dates: 1752-1824
+tl2_page_id: 33120818
+author_lsid: 18231-1
+wikidata_id: Q18984355
+ipni_surname: Dubois
+ipni_forenames: François Noel Alexandre
+ipni_standard_form: Dubois
+ipni_dates: 1752-1824
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33120818) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0178
+tl2_volume: suppl7
+tl2_page_printed: 270
+tl2_surname: Florström
+tl2_forenames: Bruno Leonhard
+tl2_name_abbrev: Florstr.
+tl2_dates: 1879-1914
+tl2_page_id: 33259774
+author_lsid: 12500-1
+wikidata_id: Q16498064
+ipni_surname: Florström
+ipni_forenames: Bruno Leonard(Leonhard)
+ipni_standard_form: Florstr.
+ipni_dates: 1879-1914
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33259774) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

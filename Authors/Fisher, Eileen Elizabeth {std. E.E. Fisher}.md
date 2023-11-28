@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0148
+tl2_volume: suppl7
+tl2_page_printed: 223
+tl2_surname: Fisher
+tl2_forenames: Eileen Elizabeth
+tl2_name_abbrev: E.E. Fisher
+tl2_dates: 1909-x
+tl2_page_id: 33259727
+author_lsid: 18833-1
+wikidata_id: Q36544989
+ipni_surname: Fisher
+ipni_forenames: Eileen E.
+ipni_standard_form: E.E.Fisher
+ipni_dates: fl. 1940
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

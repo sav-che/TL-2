@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0240
+tl2_volume: vol2
+tl2_page_printed: 196
+tl2_surname: Hildt
+tl2_forenames: Johann Adolph
+tl2_name_abbrev: Hildt
+tl2_dates: x-1805
+tl2_page_id: 33068438
+author_lsid: 3940-1
+wikidata_id: Q21515807
+ipni_surname: Hildt
+ipni_forenames: Johann Adolph
+ipni_standard_form: Hildt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33068438) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0386
+tl2_volume: suppl3
+tl2_page_printed: 420
+tl2_surname: Carpentier
+tl2_forenames: Alfred
+tl2_name_abbrev: Carpentier
+tl2_dates: 1878-1952
+tl2_page_id: 33266727
+author_lsid: 1412-1
+wikidata_id: Q21507012
+ipni_surname: Carpentier
+ipni_forenames: Alfred
+ipni_standard_form: Carpentier
+ipni_dates: 1878-1952
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

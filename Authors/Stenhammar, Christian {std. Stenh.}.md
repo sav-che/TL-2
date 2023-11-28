@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0892
+tl2_volume: vol5
+tl2_page_printed: 883
+tl2_surname: Stenhammar
+tl2_forenames: Christian
+tl2_name_abbrev: Stenh.
+tl2_dates: 1783-1866
+tl2_page_id: 33334022
+author_lsid: 10095-1
+wikidata_id: Q6189095
+ipni_surname: Stenhammar
+ipni_forenames: Christian
+ipni_standard_form: Stenh.
+ipni_dates: 1783-1866
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

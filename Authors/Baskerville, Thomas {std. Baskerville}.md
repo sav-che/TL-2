@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0414
+tl2_volume: suppl1
+tl2_page_printed: 366
+tl2_surname: Baskerville
+tl2_forenames: Thomas
+tl2_name_abbrev: Baskerville
+tl2_dates: 1812-1840
+tl2_page_id: 33265093
+author_lsid: 20008581-2
+wikidata_id: Q3990580
+ipni_surname: Baskerville
+ipni_forenames: Thomas
+ipni_standard_form: T.Baskerv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

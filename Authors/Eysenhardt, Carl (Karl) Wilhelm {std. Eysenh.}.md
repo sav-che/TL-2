@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0442
+tl2_volume: suppl6
+tl2_page_printed: 451
+tl2_surname: Eysenhardt
+tl2_forenames: Carl (Karl) Wilhelm
+tl2_name_abbrev: Eysenh.
+tl2_dates: 1794-1825
+tl2_page_id: 33260439
+author_lsid: 2610-1
+wikidata_id: Q21338512
+ipni_surname: Eysenhardt
+ipni_forenames: Carl Wilhelm
+ipni_standard_form: Eysenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

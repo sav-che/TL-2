@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0324
+tl2_volume: suppl3
+tl2_page_printed: 322
+tl2_surname: Cammerloher
+tl2_forenames: Hermann
+tl2_name_abbrev: Cammerloher
+tl2_dates: 1885-1940
+tl2_page_id: 33266629
+author_lsid: 35755-1
+wikidata_id: Q18983480
+ipni_surname: Cammerloher
+ipni_forenames: Herman
+ipni_standard_form: Cammerl.
+ipni_dates: fl. 1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33266629) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

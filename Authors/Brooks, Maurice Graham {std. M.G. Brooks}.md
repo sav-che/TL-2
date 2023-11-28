@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0110
+tl2_volume: suppl3
+tl2_page_printed: 123
+tl2_surname: Brooks
+tl2_forenames: Maurice Graham
+tl2_name_abbrev: M.G. Brooks
+tl2_dates: 1900-x
+tl2_page_id: 33266430
+author_lsid: 14622-1
+wikidata_id: Q6792916
+ipni_surname: Brooks
+ipni_forenames: Maurice Graham
+ipni_standard_form: M.G.Brooks
+ipni_dates: 1900-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

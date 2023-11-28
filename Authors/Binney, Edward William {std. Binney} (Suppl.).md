@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0203
+tl2_volume: suppl2
+tl2_page_printed: 168
+tl2_surname: Binney
+tl2_forenames: Edward William
+tl2_name_abbrev: Binney
+tl2_dates: 1812-1881
+tl2_page_id: 33265365
+author_lsid: 796-1
+wikidata_id: Q3298684
+ipni_surname: Binney
+ipni_forenames: Edward William
+ipni_standard_form: Binney
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33265365) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

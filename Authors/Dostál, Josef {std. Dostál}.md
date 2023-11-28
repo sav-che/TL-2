@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0060
+tl2_volume: suppl6
+tl2_page_printed: 62
+tl2_surname: Dostál
+tl2_forenames: Josef
+tl2_name_abbrev: Dostál
+tl2_dates: 1903-x
+tl2_page_id: 33260050
+author_lsid: 2288-1
+wikidata_id: Q3506448
+ipni_surname: Dostál
+ipni_forenames: Josef
+ipni_standard_form: Dostál
+ipni_dates: 1903-1999
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

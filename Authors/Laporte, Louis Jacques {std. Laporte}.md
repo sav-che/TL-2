@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0897
+tl2_volume: vol2
+tl2_page_printed: 759
+tl2_surname: Laporte
+tl2_forenames: Louis Jacques
+tl2_name_abbrev: Laporte
+tl2_dates: fl. 1930
+tl2_page_id: 33069001
+author_lsid: 5285-1
+wikidata_id: Q36614823
+ipni_surname: Laporte
+ipni_forenames: Louis Jacques
+ipni_standard_form: Laporte
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

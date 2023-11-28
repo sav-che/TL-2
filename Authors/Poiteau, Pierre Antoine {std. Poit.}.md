@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0381
+tl2_volume: vol4
+tl2_page_printed: 323
+tl2_surname: Poiteau
+tl2_forenames: Pierre Antoine
+tl2_name_abbrev: Poit.
+tl2_dates: 1766-1854
+tl2_page_id: 33189794
+author_lsid: 24948-1
+wikidata_id: Q1968431
+ipni_surname: Poiteau
+ipni_forenames: Pierre Antoine
+ipni_standard_form: Poit.
+ipni_dates: 1766-1854
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- French Guiana
+- France
+- Haiti
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-02-11 10:16:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33189794) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

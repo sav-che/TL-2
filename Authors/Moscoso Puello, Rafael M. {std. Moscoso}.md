@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0703
+tl2_volume: vol3
+tl2_page_printed: 599
+tl2_surname: Moscoso Puello
+tl2_forenames: Rafael M.
+tl2_name_abbrev: Moscoso
+tl2_dates: 1874-1951
+tl2_page_id: 33355686
+author_lsid: 6691-1
+wikidata_id: Q6097619
+ipni_surname: Moscoso
+ipni_forenames: Rafael M.
+ipni_standard_form: Moscoso
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

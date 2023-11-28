@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1034
+tl2_volume: vol2
+tl2_page_printed: 868
+tl2_surname: Lewis
+tl2_forenames: Francis West
+tl2_name_abbrev: F.W. Lewis
+tl2_dates: 1825-1902
+tl2_page_id: 33069110
+author_lsid: 5534-1
+wikidata_id: Q21518793
+ipni_surname: Lewis
+ipni_forenames: Francis West
+ipni_standard_form: F.W.Lewis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

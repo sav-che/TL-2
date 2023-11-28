@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0169
+tl2_volume: vol2
+tl2_page_printed: 149
+tl2_surname: Helmrich
+tl2_forenames: Carl
+tl2_name_abbrev: Helmr.
+tl2_dates: 1833-1868
+tl2_page_id: 33068391
+author_lsid: 3817-1
+wikidata_id: Q21515682
+ipni_surname: Helmrich
+ipni_forenames: Carl
+ipni_standard_form: Helmr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

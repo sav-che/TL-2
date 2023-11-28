@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0038
+tl2_volume: vol6
+tl2_page_printed: 28
+tl2_surname: Storm
+tl2_forenames: Vilhelm [Ferdinand Johan]
+tl2_name_abbrev: Storm
+tl2_dates: 1835-1913
+tl2_page_id: 33212066
+author_lsid: 10188-1
+wikidata_id: Q19723432
+ipni_surname: Storm
+ipni_forenames: Vilhelm (Ferdinand Johan)
+ipni_standard_form: Storm
+ipni_dates: 1835-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

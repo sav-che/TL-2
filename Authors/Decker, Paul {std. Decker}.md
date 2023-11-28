@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0154
+tl2_volume: suppl5
+tl2_page_printed: 141
+tl2_surname: Decker
+tl2_forenames: Paul
+tl2_name_abbrev: Decker
+tl2_dates: 1867-x
+tl2_page_id: 33259187
+author_lsid: 2072-1
+wikidata_id: Q21510112
+ipni_surname: Decker
+ipni_forenames: Paul
+ipni_standard_form: Decker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

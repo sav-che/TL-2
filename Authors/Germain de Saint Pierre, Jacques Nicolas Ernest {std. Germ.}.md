@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_1174
+tl2_volume: vol1
+tl2_page_printed: 935
+tl2_surname: Germain de Saint Pierre
+tl2_forenames: Jacques Nicolas Ernest
+tl2_name_abbrev: Germ.
+tl2_dates: 1815-1882
+tl2_page_id: 33121066
+author_lsid: 3105-1
+wikidata_id: Q2601930
+ipni_surname: Germain de Saint-Pierre
+ipni_forenames: Jacques Nicolas Ernest
+ipni_standard_form: Germ.
+ipni_dates: 1815-1882
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 935](https://www.biodiversitylibrary.org/page/33121066) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

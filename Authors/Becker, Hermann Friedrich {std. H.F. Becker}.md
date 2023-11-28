@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0018
+tl2_volume: suppl2
+tl2_page_printed: 30
+tl2_surname: Becker
+tl2_forenames: Hermann Friedrich
+tl2_name_abbrev: H.F. Becker
+tl2_dates: fl. 1791
+tl2_page_id: 33265227
+author_lsid: 20031078-1
+wikidata_id: Q21516329
+ipni_surname: Becker
+ipni_forenames: Herman F.
+ipni_standard_form: H.F.Becker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265227) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

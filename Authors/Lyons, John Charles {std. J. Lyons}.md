@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0197
+tl2_volume: vol3
+tl2_page_printed: 205
+tl2_surname: Lyons
+tl2_forenames: John Charles
+tl2_name_abbrev: J. Lyons
+tl2_dates: 1792-1874
+tl2_page_id: 33355292
+author_lsid: 5872-1
+wikidata_id: Q18731332
+ipni_surname: Lyons
+ipni_forenames: John Charles
+ipni_standard_form: J.Lyons
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

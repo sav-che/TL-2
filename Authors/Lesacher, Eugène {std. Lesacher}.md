@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1007
+tl2_volume: vol2
+tl2_page_printed: 847
+tl2_surname: Lesacher
+tl2_forenames: Eugène
+tl2_name_abbrev: Lesacher
+tl2_dates: 1824-?
+tl2_page_id: 33069089
+author_lsid: 5500-1
+wikidata_id: Q21518704
+ipni_surname: Lesacher
+ipni_forenames: Eugène
+ipni_standard_form: Lesacher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

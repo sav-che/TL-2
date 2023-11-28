@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0887
+tl2_volume: vol1
+tl2_page_printed: 695
+tl2_surname: Dulac
+tl2_forenames: Joseph
+tl2_name_abbrev: Dulac
+tl2_dates: fl. 1867
+tl2_page_id: 33120826
+author_lsid: 2365-1
+wikidata_id: Q3184885
+ipni_surname: Dulac
+ipni_forenames: Joseph
+ipni_standard_form: Dulac
+ipni_dates: 1827-1897
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0042
+tl2_volume: suppl1
+tl2_page_printed: 30
+tl2_surname: Adlerz
+tl2_forenames: Ernst
+tl2_name_abbrev: Adlerz
+tl2_dates: 1854-1918
+tl2_page_id: 33264719
+author_lsid: 74-1
+wikidata_id: Q5542908
+ipni_surname: Adlerz
+ipni_forenames: Ernst
+ipni_standard_form: Adlerz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

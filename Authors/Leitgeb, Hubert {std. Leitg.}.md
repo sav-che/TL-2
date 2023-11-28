@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0981
+tl2_volume: vol2
+tl2_page_printed: 829
+tl2_surname: Leitgeb
+tl2_forenames: Hubert
+tl2_name_abbrev: Leitg.
+tl2_dates: 1835-1888
+tl2_page_id: 33069071
+author_lsid: 22217-1
+wikidata_id: Q7028669
+ipni_surname: Leitgeb
+ipni_forenames: Hubert
+ipni_standard_form: Leitg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33069071) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0160
+tl2_volume: suppl4
+tl2_page_printed: 203
+tl2_surname: Cleland
+tl2_forenames: Ralph Erskine
+tl2_name_abbrev: R.E. Cleland
+tl2_dates: 1892-1971
+tl2_page_id: 33265880
+author_lsid: 1686-1
+wikidata_id: Q7287465
+ipni_surname: Cleland
+ipni_forenames: Ralph Erskine
+ipni_standard_form: R.E.Cleland
+ipni_dates: 1892-1971
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265880) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

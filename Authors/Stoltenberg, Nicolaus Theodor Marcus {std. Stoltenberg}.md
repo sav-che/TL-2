@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0025
+tl2_volume: vol6
+tl2_page_printed: 19
+tl2_surname: Stoltenberg
+tl2_forenames: Nicolaus Theodor Marcus
+tl2_name_abbrev: Stoltenberg
+tl2_dates: 1844-?
+tl2_page_id: 33212075
+author_lsid: 10173-1
+wikidata_id: Q21609889
+ipni_surname: Stoltenberg
+ipni_forenames: Nicolaus Theodor Marcus
+ipni_standard_form: Stoltenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33212075) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

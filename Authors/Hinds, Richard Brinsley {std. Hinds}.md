@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0251
+tl2_volume: vol2
+tl2_page_printed: 208
+tl2_surname: Hinds
+tl2_forenames: Richard Brinsley
+tl2_name_abbrev: Hinds
+tl2_dates: 1812-1847
+tl2_page_id: 33068450
+author_lsid: 3960-1
+wikidata_id: Q21515839
+ipni_surname: Hinds
+ipni_forenames: Richard Brinsley
+ipni_standard_form: Hinds
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33068450) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

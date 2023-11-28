@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0673
+tl2_volume: vol4
+tl2_page_printed: 664
+tl2_surname: Reichel
+tl2_forenames: Georg Christian
+tl2_name_abbrev: G. Reichel
+tl2_dates: 1727-1771
+tl2_page_id: 33190135
+author_lsid: 8250-1
+wikidata_id: Q5877728
+ipni_surname: Reichel
+ipni_forenames: Georg Christian
+ipni_standard_form: Reichel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33190135) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

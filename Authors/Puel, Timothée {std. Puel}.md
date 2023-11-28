@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0511
+tl2_volume: vol4
+tl2_page_printed: 423
+tl2_surname: Puel
+tl2_forenames: Timothée
+tl2_name_abbrev: Puel
+tl2_dates: 1812-1890
+tl2_page_id: 33189894
+author_lsid: 8009-1
+wikidata_id: Q16062567
+ipni_surname: Puel
+ipni_forenames: Timothée
+ipni_standard_form: Puel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

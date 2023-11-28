@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0992
+tl2_volume: vol1
+tl2_page_printed: 814
+tl2_surname: Farwell
+tl2_forenames: Oliver Atkins
+tl2_name_abbrev: Farw.
+tl2_dates: 1867-1944
+tl2_page_id: 33120945
+author_lsid: 2639-1
+wikidata_id: Q4481339
+ipni_surname: Farwell
+ipni_forenames: Oliver Atkins
+ipni_standard_form: Farw.
+ipni_dates: 1867-1944
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33120945) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

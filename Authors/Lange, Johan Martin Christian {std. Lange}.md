@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0881
+tl2_volume: vol2
+tl2_page_printed: 746
+tl2_surname: Lange
+tl2_forenames: Johan Martin Christian
+tl2_name_abbrev: Lange
+tl2_dates: 1818-1898
+tl2_page_id: 33068988
+author_lsid: 5261-1
+wikidata_id: Q978477
+ipni_surname: Lange
+ipni_forenames: Johan Martin Christian
+ipni_standard_form: Lange
+ipni_dates: 1818-1898
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33068988) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0436
+tl2_volume: vol5
+tl2_page_printed: 462
+tl2_surname: Scouler
+tl2_forenames: John
+tl2_name_abbrev: Scouler
+tl2_dates: 1804-1871
+tl2_page_id: 33333601
+author_lsid: 9395-1
+wikidata_id: Q6257130
+ipni_surname: Scouler
+ipni_forenames: John
+ipni_standard_form: Scouler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

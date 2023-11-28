@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0122
+tl2_volume: vol1
+tl2_page_printed: 86
+tl2_surname: Backeberg
+tl2_forenames: Curt
+tl2_name_abbrev: Backeb.
+tl2_dates: 1894-1966
+tl2_page_id: 33120217
+author_lsid: 368-1
+wikidata_id: Q61900
+ipni_surname: Backeberg
+ipni_forenames: Curt
+ipni_standard_form: Backeb.
+ipni_dates: 1894-1966
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33120217) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

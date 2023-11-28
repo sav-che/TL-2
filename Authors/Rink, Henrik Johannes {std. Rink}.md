@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0789
+tl2_volume: vol4
+tl2_page_printed: 796
+tl2_surname: Rink
+tl2_forenames: Henrik Johannes
+tl2_name_abbrev: Rink
+tl2_dates: 1819-1893
+tl2_page_id: 33190267
+author_lsid: 8403-1
+wikidata_id: Q1619503
+ipni_surname: Rink
+ipni_forenames: Henrik Johannes
+ipni_standard_form: Rink
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Greenland
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

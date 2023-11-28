@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0195
+tl2_volume: suppl8
+tl2_page_printed: 251
+tl2_surname: Godet
+tl2_forenames: Charles Henri
+tl2_name_abbrev: Godet
+tl2_dates: 1797-1879
+tl2_page_id: 33258729
+author_lsid: 3214-1
+wikidata_id: Q5764884
+ipni_surname: Godet
+ipni_forenames: Charles Henri
+ipni_standard_form: Godet
+ipni_dates: 1797-1879
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0167
+tl2_volume: vol5
+tl2_page_printed: 159
+tl2_surname: Schilling
+tl2_forenames: August Jakob
+tl2_name_abbrev: A. Schilling
+tl2_dates: 1865-?
+tl2_page_id: 33333298
+author_lsid: 9084-1
+wikidata_id: Q21607960
+ipni_surname: Schilling
+ipni_forenames: August Jacob
+ipni_standard_form: A.J.Schill.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

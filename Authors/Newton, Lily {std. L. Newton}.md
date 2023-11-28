@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0867
+tl2_volume: vol3
+tl2_page_printed: 739
+tl2_surname: Newton (née Batten)
+tl2_forenames: Lily
+tl2_name_abbrev: L. Newton
+tl2_dates: 
+tl2_page_id: 33355826
+author_lsid: 13093-1
+wikidata_id: Q21522120
+ipni_surname: Newton
+ipni_forenames: Lily
+ipni_standard_form: L.Newton
+ipni_dates: -1981
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

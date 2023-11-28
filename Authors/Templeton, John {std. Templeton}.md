@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0247
+tl2_volume: vol6
+tl2_page_printed: 208
+tl2_surname: Templeton
+tl2_forenames: John
+tl2_name_abbrev: Templeton
+tl2_dates: 1766-1825
+tl2_page_id: 33212250
+author_lsid: 10500-1
+wikidata_id: Q6260437
+ipni_surname: Templeton
+ipni_forenames: John
+ipni_standard_form: Templeton
+ipni_dates: 1766-1825
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

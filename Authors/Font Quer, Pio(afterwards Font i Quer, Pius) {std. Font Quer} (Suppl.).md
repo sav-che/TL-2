@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl7_0202
+tl2_volume: suppl7
+tl2_page_printed: 300
+tl2_surname: Font Quer
+tl2_forenames: Pio [afterwards Font i Quer, Pius]
+tl2_name_abbrev: Font Quer
+tl2_dates: 1888-1964
+tl2_page_id: 33259804
+author_lsid: 2810-1
+wikidata_id: Q2987664
+ipni_surname: Font Quer
+ipni_forenames: Pio(Pius)
+ipni_standard_form: Font Quer
+ipni_dates: 1888-1964
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

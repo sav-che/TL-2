@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0160
+tl2_volume: vol2
+tl2_page_printed: 141
+tl2_surname: Heister
+tl2_forenames: Lorenz
+tl2_name_abbrev: Heist.
+tl2_dates: 1683-1758
+tl2_page_id: 33068383
+author_lsid: 3800-1
+wikidata_id: Q63829
+ipni_surname: Heister
+ipni_forenames: Lorenz
+ipni_standard_form: Heist.
+ipni_dates: 1683-1758
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33068383) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

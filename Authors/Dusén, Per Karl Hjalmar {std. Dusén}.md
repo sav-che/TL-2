@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0907
+tl2_volume: vol1
+tl2_page_printed: 712
+tl2_surname: Dusén
+tl2_forenames: Per Karl Hjalmar
+tl2_name_abbrev: Dusén
+tl2_dates: 1855-1926
+tl2_page_id: 33120843
+author_lsid: 18304-1
+wikidata_id: Q5625930
+ipni_surname: Dusén
+ipni_forenames: Per Karl Hjalmar
+ipni_standard_form: Dusén
+ipni_dates: 1855-1926
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

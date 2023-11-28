@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0707
+tl2_volume: vol3
+tl2_page_printed: 601
+tl2_surname: Moser
+tl2_forenames: Heinrich Christoph
+tl2_name_abbrev: Moser
+tl2_dates: fl. 1794
+tl2_page_id: 33355688
+author_lsid: 6695-1
+wikidata_id: Q33685605
+ipni_surname: Moser
+ipni_forenames: Heinrich Christoph
+ipni_standard_form: Moser
+ipni_dates: fl. 1794
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0076
+tl2_volume: vol5
+tl2_page_printed: 77
+tl2_surname: Sauvages
+tl2_forenames: François Boissier de la Croix de
+tl2_name_abbrev: Sauvages
+tl2_dates: 1706-1767
+tl2_page_id: 33333216
+author_lsid: 8963-1
+wikidata_id: Q3084030
+ipni_surname: Sauvages
+ipni_forenames: François Boissier de la Croix de
+ipni_standard_form: Sauvages
+ipni_dates: 1706-1767
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33333216) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

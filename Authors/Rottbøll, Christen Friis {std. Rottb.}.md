@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0963
+tl2_volume: vol4
+tl2_page_printed: 930
+tl2_surname: Rottbøll
+tl2_forenames: Christen Friis
+tl2_name_abbrev: Rottb.
+tl2_dates: 1727-1797
+tl2_page_id: 33190401
+author_lsid: 12797-1
+wikidata_id: Q2615816
+ipni_surname: Rottbøll
+ipni_forenames: Christen Friis
+ipni_standard_form: Rottb.
+ipni_dates: 1727-1797
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-06-16 04:27:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

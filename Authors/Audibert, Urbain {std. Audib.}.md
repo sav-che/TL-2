@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0241
+tl2_volume: suppl1
+tl2_page_printed: 209
+tl2_surname: Audibert
+tl2_forenames: Urbain
+tl2_name_abbrev: Audib.
+tl2_dates: 1791-1846
+tl2_page_id: 33264936
+author_lsid: 331-1
+wikidata_id: Q6161518
+ipni_surname: Audibert
+ipni_forenames: Urbain
+ipni_standard_form: Audib.
+ipni_dates: 1791-1846
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33264936) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

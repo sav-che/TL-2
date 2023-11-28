@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1057
+tl2_volume: vol4
+tl2_page_printed: 1024
+tl2_surname: Saccardo
+tl2_forenames: Francesco
+tl2_name_abbrev: F. Sacc.
+tl2_dates: 1869-1896
+tl2_page_id: 33190495
+author_lsid: 8787-1
+wikidata_id: Q17140072
+ipni_surname: Saccardo
+ipni_forenames: Francesco
+ipni_standard_form: F.Sacc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

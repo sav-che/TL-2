@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0796
+tl2_volume: vol2
+tl2_page_printed: 675
+tl2_surname: Krieger
+tl2_forenames: Willi
+tl2_name_abbrev: W. Krieg.
+tl2_dates: 1886-1954
+tl2_page_id: 33068917
+author_lsid: 21750-1
+wikidata_id: Q21517933
+ipni_surname: Krieger
+ipni_forenames: Willi
+ipni_standard_form: Willi Krieg.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0741
+tl2_volume: vol2
+tl2_page_printed: 608
+tl2_surname: Koidzumi
+tl2_forenames: Gen-Iti (Genichi)
+tl2_name_abbrev: Koidz.
+tl2_dates: 1883-1953
+tl2_page_id: 33068850
+author_lsid: 4931-1
+wikidata_id: Q941892
+ipni_surname: Koidzumi
+ipni_forenames: Gen'ichi
+ipni_standard_form: Koidz.
+ipni_dates: 1883-1953
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

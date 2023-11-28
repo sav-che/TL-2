@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0072
+tl2_volume: vol5
+tl2_page_printed: 72
+tl2_surname: Saussure
+tl2_forenames: Nicolas Théodore de
+tl2_name_abbrev: N.T. Saussure
+tl2_dates: 1767-1845
+tl2_page_id: 33333211
+author_lsid: 8960-1
+wikidata_id: Q116058
+ipni_surname: Saussure
+ipni_forenames: Nicolas Théodore de
+ipni_standard_form: N.T.Sauss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33333211) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

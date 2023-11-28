@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0698
+tl2_volume: vol5
+tl2_page_printed: 707
+tl2_surname: Smitt
+tl2_forenames: Johan Wilhelm
+tl2_name_abbrev: Smitt
+tl2_dates: 1821-1904
+tl2_page_id: 33333846
+author_lsid: 9826-1
+wikidata_id: Q6182318
+ipni_surname: Smitt
+ipni_forenames: Johan Wilhelm
+ipni_standard_form: Smitt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33333846) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0047
+tl2_volume: vol6
+tl2_page_printed: 41
+tl2_surname: Stratton
+tl2_forenames: Frederic
+tl2_name_abbrev: Stratton
+tl2_dates: 1840-1916
+tl2_page_id: 33212045
+author_lsid: 10203-1
+wikidata_id: Q21609937
+ipni_surname: Stratton
+ipni_forenames: Frederic
+ipni_standard_form: Stratton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

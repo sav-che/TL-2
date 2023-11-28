@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0089
+tl2_volume: suppl8
+tl2_page_printed: 128
+tl2_surname: Gareiso
+tl2_forenames: Joseph (Abbé)
+tl2_name_abbrev: Gareiso
+tl2_dates: 1805-1885
+tl2_page_id: 33258606
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0114
+tl2_volume: suppl7
+tl2_page_printed: 175
+tl2_surname: Fickel
+tl2_forenames: Johannes Friedrich
+tl2_name_abbrev: Fickel
+tl2_dates: 1850-x
+tl2_page_id: 33259679
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

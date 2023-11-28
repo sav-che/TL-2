@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0013
+tl2_volume: suppl1
+tl2_page_printed: 7
+tl2_surname: Abendroth
+tl2_forenames: Wilhelm Friedrich
+tl2_name_abbrev: Abendroth
+tl2_dates: 1802-1863
+tl2_page_id: 33264768
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33264768) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

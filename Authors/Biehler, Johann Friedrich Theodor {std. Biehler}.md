@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0277
+tl2_volume: vol1
+tl2_page_printed: 212
+tl2_surname: Biehler
+tl2_forenames: Johann Friedrich Theodor
+tl2_name_abbrev: Biehler
+tl2_dates: fl. 1807
+tl2_page_id: 33120343
+author_lsid: 776-1
+wikidata_id: Q21340159
+ipni_surname: Biehler
+ipni_forenames: Johann Friedrich Theodor
+ipni_standard_form: Biehler
+ipni_dates: c.1785-18??
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

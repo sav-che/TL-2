@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol7_0001
+tl2_volume: vol7
+tl2_page_printed: 1
+tl2_surname: Wachter
+tl2_forenames: Willem Hendrik
+tl2_name_abbrev: Wacht.
+tl2_dates: 1882-1946
+tl2_page_id: 33066303
+author_lsid: 11285-1
+wikidata_id: Q6167526
+ipni_surname: Wachter
+ipni_forenames: Willem Hendrik
+ipni_standard_form: Wacht.
+ipni_dates: 1882-1946
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

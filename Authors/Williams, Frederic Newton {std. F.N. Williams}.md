@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0285
+tl2_volume: vol7
+tl2_page_printed: 316
+tl2_surname: Williams
+tl2_forenames: Frederic Newton
+tl2_name_abbrev: F.N. Williams
+tl2_dates: 1862-1923
+tl2_page_id: 33066656
+author_lsid: 11701-1
+wikidata_id: Q1452959
+ipni_surname: Williams
+ipni_forenames: Frederic Newton
+ipni_standard_form: F.N.Williams
+ipni_dates: 1862-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33066656) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

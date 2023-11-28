@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0463
+tl2_volume: vol1
+tl2_page_printed: 380
+tl2_surname: Brugmans
+tl2_forenames: Sebald Justinus
+tl2_name_abbrev: Brugmans
+tl2_dates: 1763-1819
+tl2_page_id: 33120511
+author_lsid: 1214-1
+wikidata_id: Q438016
+ipni_surname: Brugmans
+ipni_forenames: Sebald Justinus
+ipni_standard_form: Brugmans
+ipni_dates: 1763-1819
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33120511) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

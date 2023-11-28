@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0333
+tl2_volume: suppl2
+tl2_page_printed: 276
+tl2_surname: Bois
+tl2_forenames: Désiré [Georges Jean Marie]
+tl2_name_abbrev: Bois
+tl2_dates: 1856-1946
+tl2_page_id: 33265473
+author_lsid: 911-1
+wikidata_id: Q3045181
+ipni_surname: Bois
+ipni_forenames: Désiré Georges Jean Marie
+ipni_standard_form: Bois
+ipni_dates: 1856-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33265473) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

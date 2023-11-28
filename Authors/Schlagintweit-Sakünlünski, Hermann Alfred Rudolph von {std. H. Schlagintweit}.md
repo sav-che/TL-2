@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0189
+tl2_volume: vol5
+tl2_page_printed: 188
+tl2_surname: Schlagintweit-Sakünlünski
+tl2_forenames: Hermann Alfred Rudolph von
+tl2_name_abbrev: H. Schlagintweit
+tl2_dates: 1826-1882
+tl2_page_id: 33333327
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33333327) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

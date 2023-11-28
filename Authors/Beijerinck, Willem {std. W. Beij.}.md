@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0220
+tl2_volume: vol1
+tl2_page_printed: 167
+tl2_surname: Beijerinck
+tl2_forenames: Willem
+tl2_name_abbrev: W. Beijerinck
+tl2_dates: 1891-1960
+tl2_page_id: 33120298
+author_lsid: 622-1
+wikidata_id: Q21505890
+ipni_surname: Beijerinck
+ipni_forenames: Willem
+ipni_standard_form: W.Beij.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

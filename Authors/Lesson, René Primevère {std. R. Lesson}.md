@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1014
+tl2_volume: vol2
+tl2_page_printed: 853
+tl2_surname: Lesson
+tl2_forenames: René Primevère
+tl2_name_abbrev: R. Lesson
+tl2_dates: 1794-1849
+tl2_page_id: 33069095
+author_lsid: 5510-1
+wikidata_id: Q318217
+ipni_surname: Lesson
+ipni_forenames: René Primivère
+ipni_standard_form: R.Lesson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33069095) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0695
+tl2_volume: vol6
+tl2_page_printed: 717
+tl2_surname: Vestal
+tl2_forenames: Arthur Gibson
+tl2_name_abbrev: Vestal
+tl2_dates: 1888-1964
+tl2_page_id: 33212759
+author_lsid: 11150-1
+wikidata_id: Q21611681
+ipni_surname: Vestal
+ipni_forenames: Arthur Gibson
+ipni_standard_form: Vestal
+ipni_dates: 1888-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33212759) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

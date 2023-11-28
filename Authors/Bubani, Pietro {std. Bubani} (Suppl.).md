@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl3_0175
+tl2_volume: suppl3
+tl2_page_printed: 179
+tl2_surname: Bubani
+tl2_forenames: Pietro
+tl2_name_abbrev: Bubani
+tl2_dates: 1806-1888
+tl2_page_id: 33266486
+author_lsid: 1238-1
+wikidata_id: Q684026
+ipni_surname: Bubani
+ipni_forenames: Pietro
+ipni_standard_form: Bubani
+ipni_dates: 1806-1888
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33266486) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

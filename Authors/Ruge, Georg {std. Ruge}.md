@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1013
+tl2_volume: vol4
+tl2_page_printed: 979
+tl2_surname: Ruge
+tl2_forenames: Georg
+tl2_name_abbrev: Ruge
+tl2_dates: fl. 1893
+tl2_page_id: 33190450
+author_lsid: 8724-1
+wikidata_id: Q47125440
+ipni_surname: Ruge
+ipni_forenames: Georg
+ipni_standard_form: Ruge
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

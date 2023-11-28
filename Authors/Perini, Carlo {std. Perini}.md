@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0183
+tl2_volume: vol4
+tl2_page_printed: 164
+tl2_surname: Perini
+tl2_forenames: Carlo
+tl2_name_abbrev: Perini
+tl2_dates: 1817-1883
+tl2_page_id: 33189635
+author_lsid: 7517-1
+wikidata_id: Q2939234
+ipni_surname: Perini
+ipni_forenames: Carlo
+ipni_standard_form: Perini
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

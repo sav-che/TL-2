@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0135
+tl2_volume: vol4
+tl2_page_printed: 128
+tl2_surname: Payson
+tl2_forenames: Edwin Blake
+tl2_name_abbrev: Payson
+tl2_dates: 1893-1927
+tl2_page_id: 33189599
+author_lsid: 7433-1
+wikidata_id: Q5820043
+ipni_surname: Payson
+ipni_forenames: Edwin Blake
+ipni_standard_form: Payson
+ipni_dates: 1893-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-07-10 18:20:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

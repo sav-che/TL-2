@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0240
+tl2_volume: vol3
+tl2_page_printed: 225
+tl2_surname: Mackay
+tl2_forenames: James Townsend
+tl2_name_abbrev: J. Mackay
+tl2_dates: 1775-1862
+tl2_page_id: 33355312
+author_lsid: 22690-1
+wikidata_id: Q6144382
+ipni_surname: Mackay
+ipni_forenames: James Townsend
+ipni_standard_form: J.Mackay
+ipni_dates: 1775-1862
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

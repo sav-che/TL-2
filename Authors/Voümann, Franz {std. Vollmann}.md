@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0766
+tl2_volume: vol6
+tl2_page_printed: 781
+tl2_surname: Voümann
+tl2_forenames: Franz
+tl2_name_abbrev: Vollmann
+tl2_dates: 1858-1917
+tl2_page_id: 33212823
+author_lsid: 11257-1
+wikidata_id: Q5868701
+ipni_surname: Vollmann
+ipni_forenames: Franz
+ipni_standard_form: Vollm.
+ipni_dates: 1858-1917
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33212823) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

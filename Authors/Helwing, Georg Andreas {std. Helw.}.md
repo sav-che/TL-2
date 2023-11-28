@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0170
+tl2_volume: vol2
+tl2_page_printed: 149
+tl2_surname: Helwing
+tl2_forenames: Georg Andreas
+tl2_name_abbrev: Helw.
+tl2_dates: 1668-1748
+tl2_page_id: 33068391
+author_lsid: 3819-1
+wikidata_id: Q88202
+ipni_surname: Helwing
+ipni_forenames: Georg Andreas
+ipni_standard_form: Helwing
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

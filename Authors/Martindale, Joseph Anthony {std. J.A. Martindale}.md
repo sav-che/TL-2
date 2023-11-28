@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0381
+tl2_volume: vol3
+tl2_page_printed: 322
+tl2_surname: Martindale
+tl2_forenames: Joseph Anthony
+tl2_name_abbrev: J.A. Martindale
+tl2_dates: 1837-1914
+tl2_page_id: 33355409
+author_lsid: 6164-1
+wikidata_id: Q21340621
+ipni_surname: Martindale
+ipni_forenames: Joseph Anthony
+ipni_standard_form: J.A.Martind.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33355409) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

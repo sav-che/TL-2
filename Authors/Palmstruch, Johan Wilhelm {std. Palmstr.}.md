@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0040
+tl2_volume: vol4
+tl2_page_printed: 33
+tl2_surname: Palmstruch
+tl2_forenames: Johan Wilhelm
+tl2_name_abbrev: Palmstr.
+tl2_dates: 1770-1811
+tl2_page_id: 33189466
+author_lsid: 7292-1
+wikidata_id: Q921951
+ipni_surname: Palmstruch
+ipni_forenames: Johan Wilhelm
+ipni_standard_form: Palmstr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33189466) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

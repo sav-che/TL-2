@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0565
+tl2_volume: vol6
+tl2_page_printed: 559
+tl2_surname: Twining
+tl2_forenames: Elizabeth
+tl2_name_abbrev: E. Twining
+tl2_dates: 1805-1889
+tl2_page_id: 33212601
+author_lsid: 10941-1
+wikidata_id: Q3723429
+ipni_surname: Twining
+ipni_forenames: Elizabeth
+ipni_standard_form: Twining
+ipni_dates: 1805-1889
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33212601) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

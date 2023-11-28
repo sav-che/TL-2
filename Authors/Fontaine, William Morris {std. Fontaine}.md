@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1059
+tl2_volume: vol1
+tl2_page_printed: 851
+tl2_surname: Fontaine
+tl2_forenames: William Morris
+tl2_name_abbrev: Fontaine
+tl2_dates: 1835-1913
+tl2_page_id: 33120982
+author_lsid: 2807-1
+wikidata_id: Q21513303
+ipni_surname: Fontaine
+ipni_forenames: William Morris
+ipni_standard_form: Fontaine
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33120982) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0076
+tl2_volume: suppl1
+tl2_page_printed: 58
+tl2_surname: Akiyama
+tl2_forenames: Shigeo
+tl2_name_abbrev: Akiyama
+tl2_dates: 1906-x
+tl2_page_id: 33264747
+author_lsid: 118-1
+wikidata_id: Q10371059
+ipni_surname: Akiyama
+ipni_forenames: Shigeo
+ipni_standard_form: Akiyama
+ipni_dates: 1906-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33264747) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

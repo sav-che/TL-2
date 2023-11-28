@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0311
+tl2_volume: suppl1
+tl2_page_printed: 265
+tl2_surname: Bailey
+tl2_forenames: Liberty Hyde
+tl2_name_abbrev: L.H. Bailey
+tl2_dates: 1858-1954
+tl2_page_id: 33264992
+author_lsid: 395-1
+wikidata_id: Q152366
+ipni_surname: Bailey
+ipni_forenames: Liberty Hyde
+ipni_standard_form: L.H.Bailey
+ipni_dates: 1858-1954
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-12-01 06:57:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

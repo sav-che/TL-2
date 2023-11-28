@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0182
+tl2_volume: vol2
+tl2_page_printed: 157
+tl2_surname: Hennings
+tl2_forenames: Paul Christoph
+tl2_name_abbrev: Henn.
+tl2_dates: 1841-1908
+tl2_page_id: 33068399
+author_lsid: 3842-1
+wikidata_id: Q4497246
+ipni_surname: Hennings
+ipni_forenames: Paul Christoph
+ipni_standard_form: Henn.
+ipni_dates: 1841-1908
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0092
+tl2_volume: vol6
+tl2_page_printed: 75
+tl2_surname: Suard
+tl2_forenames: V.
+tl2_name_abbrev: Suard
+tl2_dates: fl. 1843
+tl2_page_id: 33212117
+author_lsid: 10263-1
+wikidata_id: Q36698778
+ipni_surname: Suard
+ipni_forenames: V.
+ipni_standard_form: Suard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0384
+tl2_volume: vol7
+tl2_page_printed: 431
+tl2_surname: Woloszynska
+tl2_forenames: Jadwiga
+tl2_name_abbrev: Woloszynska
+tl2_dates: 1882-1951
+tl2_page_id: 33066771
+author_lsid: 11832-1
+wikidata_id: Q11715998
+ipni_surname: Wołoszyńska
+ipni_forenames: Jadwiga
+ipni_standard_form: Wołosz.
+ipni_dates: 1882-1951
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33066771) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0016
+tl2_volume: vol5
+tl2_page_printed: 17
+tl2_surname: Sambuc
+tl2_forenames: Camille
+tl2_name_abbrev: Sambuc
+tl2_dates: 1859-?
+tl2_page_id: 33333166
+author_lsid: 8861-1
+wikidata_id: Q21607662
+ipni_surname: Sambuc
+ipni_forenames: Camille
+ipni_standard_form: Sambuc
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

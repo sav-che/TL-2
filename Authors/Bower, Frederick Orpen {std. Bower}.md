@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0389
+tl2_volume: vol1
+tl2_page_printed: 297
+tl2_surname: Bower
+tl2_forenames: Frederick Orpen
+tl2_name_abbrev: Bower
+tl2_dates: 1855-1948
+tl2_page_id: 33120428
+author_lsid: 1044-1
+wikidata_id: Q571615
+ipni_surname: Bower
+ipni_forenames: Frederick Orpen
+ipni_standard_form: Bower
+ipni_dates: 1855-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33120428) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

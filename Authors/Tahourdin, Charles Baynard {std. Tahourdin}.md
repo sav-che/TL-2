@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0172
+tl2_volume: vol6
+tl2_page_printed: 151
+tl2_surname: Tahourdin
+tl2_forenames: Charles Baynard
+tl2_name_abbrev: Tahourdin
+tl2_dates: 1872-1942
+tl2_page_id: 33212193
+author_lsid: 10387-1
+wikidata_id: Q21610150
+ipni_surname: Tahourdin
+ipni_forenames: Charles Baynard
+ipni_standard_form: Tahourdin
+ipni_dates: 1872-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0075
+tl2_volume: suppl4
+tl2_page_printed: 82
+tl2_surname: Chermezon
+tl2_forenames: Henri
+tl2_name_abbrev: Cherm.
+tl2_dates: 1885-1939
+tl2_page_id: 33265759
+author_lsid: 1581-1
+wikidata_id: Q2754088
+ipni_surname: Chermezon
+ipni_forenames: Henri
+ipni_standard_form: Cherm.
+ipni_dates: 1885-1939
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265759) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

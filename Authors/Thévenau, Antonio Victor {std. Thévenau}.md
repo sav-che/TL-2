@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0294
+tl2_volume: vol6
+tl2_page_printed: 256
+tl2_surname: Thévenau
+tl2_forenames: Antonio Victor
+tl2_name_abbrev: Thévenau
+tl2_dates: 1814/1815-1876
+tl2_page_id: 33212298
+author_lsid: 10564-1
+wikidata_id: Q16943809
+ipni_surname: Thévenau
+ipni_forenames: Antonin Victor
+ipni_standard_form: Thévenau
+ipni_dates: 1815-1876
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

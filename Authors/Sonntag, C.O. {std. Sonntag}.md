@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0741
+tl2_volume: vol5
+tl2_page_printed: 747
+tl2_surname: Sonntag
+tl2_forenames: C.O.
+tl2_name_abbrev: Sonntag
+tl2_dates: fl. 1894
+tl2_page_id: 33333886
+author_lsid: 9896-1
+wikidata_id: Q36531118
+ipni_surname: Sonntag
+ipni_forenames: C.O.
+ipni_standard_form: Sonntag
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

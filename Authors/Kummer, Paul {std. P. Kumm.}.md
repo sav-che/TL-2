@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0818
+tl2_volume: vol2
+tl2_page_printed: 691
+tl2_surname: Kummer
+tl2_forenames: Paul
+tl2_name_abbrev: P. Kumm.
+tl2_dates: 1834-1912
+tl2_page_id: 33068933
+author_lsid: 5134-1
+wikidata_id: Q64009
+ipni_surname: Kummer
+ipni_forenames: Paul
+ipni_standard_form: P.Kumm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33068933) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

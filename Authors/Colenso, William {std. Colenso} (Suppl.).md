@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl4_0199
+tl2_volume: suppl4
+tl2_page_printed: 264
+tl2_surname: Colenso
+tl2_forenames: William
+tl2_name_abbrev: Colenso
+tl2_dates: 1811-1899
+tl2_page_id: 33265941
+author_lsid: 1736-1
+wikidata_id: Q2624463
+ipni_surname: Colenso
+ipni_forenames: John William
+ipni_standard_form: Colenso
+ipni_dates: 1811-1899
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- New Zealand
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-10-12 06:52:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

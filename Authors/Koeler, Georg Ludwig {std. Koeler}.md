@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0726
+tl2_volume: vol2
+tl2_page_printed: 597
+tl2_surname: Koeler
+tl2_forenames: Georg Ludwig
+tl2_name_abbrev: Koeler
+tl2_dates: 1765-1807
+tl2_page_id: 33068839
+author_lsid: 4916-1
+wikidata_id: Q97012
+ipni_surname: Koeler
+ipni_forenames: Georg Ludwig
+ipni_standard_form: Koeler
+ipni_dates: 1765-1807
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

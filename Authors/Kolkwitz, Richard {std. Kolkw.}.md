@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0747
+tl2_volume: vol2
+tl2_page_printed: 610
+tl2_surname: Kolkwitz
+tl2_forenames: Richard
+tl2_name_abbrev: Kolkw.
+tl2_dates: 1873-1956
+tl2_page_id: 33068852
+author_lsid: 4944-1
+wikidata_id: Q84701
+ipni_surname: Kolkwitz
+ipni_forenames: Richard
+ipni_standard_form: Kolkw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0776
+tl2_volume: vol1
+tl2_page_printed: 610
+tl2_surname: Deecke
+tl2_forenames: Johannes Ernst Wilhelm
+tl2_name_abbrev: Deecke
+tl2_dates: 1862-1934
+tl2_page_id: 33120741
+author_lsid: 2074-1
+wikidata_id: Q98276
+ipni_surname: Deecke
+ipni_forenames: Johannes Ernst Wilhelm
+ipni_standard_form: Deecke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

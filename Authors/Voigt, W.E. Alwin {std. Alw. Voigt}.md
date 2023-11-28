@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0759
+tl2_volume: vol6
+tl2_page_printed: 774
+tl2_surname: Voigt
+tl2_forenames: W.E. Alwin
+tl2_name_abbrev: Alw. Voigt
+tl2_dates: 1852-ca. 1927
+tl2_page_id: 33212816
+author_lsid: 11245-1
+wikidata_id: Q21611859
+ipni_surname: Voigt
+ipni_forenames: W.E.Alwin
+ipni_standard_form: Alw.Voigt
+ipni_dates: 1852-c.1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

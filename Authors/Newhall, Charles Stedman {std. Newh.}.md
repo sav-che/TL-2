@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0862
+tl2_volume: vol3
+tl2_page_printed: 736
+tl2_surname: Newhall
+tl2_forenames: Charles Stedman
+tl2_name_abbrev: Newh.
+tl2_dates: 1842-1935
+tl2_page_id: 33355823
+author_lsid: 6949-1
+wikidata_id: Q21522112
+ipni_surname: Newhall
+ipni_forenames: Charles Stedman
+ipni_standard_form: Newhall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

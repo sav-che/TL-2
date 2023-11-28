@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0574
+tl2_volume: vol4
+tl2_page_printed: 567
+tl2_surname: Rallet
+tl2_forenames: Louis
+tl2_name_abbrev: Rallet
+tl2_dates: 1897-1969
+tl2_page_id: 33190038
+author_lsid: 8111-1
+wikidata_id: Q21606907
+ipni_surname: Rallet
+ipni_forenames: Louis
+ipni_standard_form: Rallet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33190038) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

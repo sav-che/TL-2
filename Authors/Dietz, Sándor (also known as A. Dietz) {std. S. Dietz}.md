@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0333
+tl2_volume: suppl5
+tl2_page_printed: 337
+tl2_surname: Dietz
+tl2_forenames: Sándor (also known as A. Dietz)
+tl2_name_abbrev: S. Dietz
+tl2_dates: fl. 1887
+tl2_page_id: 33259383
+author_lsid: 20010977-1
+wikidata_id: Q47116470
+ipni_surname: Dietz
+ipni_forenames: Sandor
+ipni_standard_form: S.Dietz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0168
+tl2_volume: vol2
+tl2_page_printed: 148
+tl2_surname: Hellwig
+tl2_forenames: Franz Carl
+tl2_name_abbrev: Hellw.
+tl2_dates: 1861-1889
+tl2_page_id: 33068390
+author_lsid: 3814-1
+wikidata_id: Q21515676
+ipni_surname: Hellwig
+ipni_forenames: Franz Carl
+ipni_standard_form: Hellw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- Papua New Guinea
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

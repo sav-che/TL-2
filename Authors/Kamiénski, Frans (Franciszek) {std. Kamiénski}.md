@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0576
+tl2_volume: vol2
+tl2_page_printed: 492
+tl2_surname: Kamiénski
+tl2_forenames: Frans (Franciszek)
+tl2_name_abbrev: Kamiénski
+tl2_dates: 1851-1912
+tl2_page_id: 33068734
+author_lsid: 4627-1
+wikidata_id: Q5484291
+ipni_surname: Kamieński
+ipni_forenames: Franciszek Michailow von
+ipni_standard_form: Kamieński
+ipni_dates: 1851-1912
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-07-31 09:29:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

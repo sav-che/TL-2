@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0642
+tl2_volume: vol2
+tl2_page_printed: 538
+tl2_surname: Kiggelaer
+tl2_forenames: François (Franciscus)
+tl2_name_abbrev: Kiggel.
+tl2_dates: 1648-1722
+tl2_page_id: 33068780
+author_lsid: 4782-1
+wikidata_id: Q1375945
+ipni_surname: Kiggelaer
+ipni_forenames: François(Franciscus)
+ipni_standard_form: Kiggel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pre-Linnaean
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

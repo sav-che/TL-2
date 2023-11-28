@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0358
+tl2_volume: vol2
+tl2_page_printed: 342
+tl2_surname: Houstoun
+tl2_forenames: William
+tl2_name_abbrev: Houst.
+tl2_dates: 1695-1733
+tl2_page_id: 33068584
+author_lsid: 13408-1
+wikidata_id: Q2579338
+ipni_surname: Houstoun
+ipni_forenames: William
+ipni_standard_form: Houst.
+ipni_dates: 1695-1733
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33068584) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

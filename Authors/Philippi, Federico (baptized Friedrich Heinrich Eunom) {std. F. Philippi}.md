@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0271
+tl2_volume: vol4
+tl2_page_printed: 234
+tl2_surname: Philippi
+tl2_forenames: Federico (baptized Friedrich Heinrich Eunom)
+tl2_name_abbrev: F. Philippi
+tl2_dates: 1838-1910
+tl2_page_id: 33189705
+author_lsid: 12734-1
+wikidata_id: Q55070761
+ipni_surname: Philippi
+ipni_forenames: Federico
+ipni_standard_form: F.Phil.
+ipni_dates: 1838-1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Chile
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

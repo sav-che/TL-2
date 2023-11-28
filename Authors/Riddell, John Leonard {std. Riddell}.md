@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0773
+tl2_volume: vol4
+tl2_page_printed: 784
+tl2_surname: Riddell
+tl2_forenames: John Leonard
+tl2_name_abbrev: Riddell
+tl2_dates: 1807-1865
+tl2_page_id: 33190255
+author_lsid: 8378-1
+wikidata_id: Q976793
+ipni_surname: Riddell
+ipni_forenames: John Leonard
+ipni_standard_form: Riddell
+ipni_dates: 1807-1865
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33190255) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

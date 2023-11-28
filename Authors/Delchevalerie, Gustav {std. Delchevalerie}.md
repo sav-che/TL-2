@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0194
+tl2_volume: suppl5
+tl2_page_printed: 175
+tl2_surname: Delchevalerie
+tl2_forenames: Gustav
+tl2_name_abbrev: Delchevalerie
+tl2_dates: fl. 1868-1889
+tl2_page_id: 33259221
+author_lsid: 20009099-1
+wikidata_id: Q12175693
+ipni_surname: Delchevalerie
+ipni_forenames: Gustave
+ipni_standard_form: Delchev.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.5
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

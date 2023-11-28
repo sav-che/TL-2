@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0710
+tl2_volume: vol5
+tl2_page_printed: 713
+tl2_surname: Sobolewskiy
+tl2_forenames: Gregor [Grigoriy Fedorowich]
+tl2_name_abbrev: Sobol.
+tl2_dates: 1741-1807
+tl2_page_id: 33333852
+author_lsid: 9849-1
+wikidata_id: Q4425867
+ipni_surname: Sobolewsky
+ipni_forenames: Gregor Fedorovitch (Grigoriy Fedorowich)
+ipni_standard_form: Sobol.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33333852) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

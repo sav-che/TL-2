@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0906
+tl2_volume: vol2
+tl2_page_printed: 763
+tl2_surname: Lassimonne
+tl2_forenames: Simon Etienne
+tl2_name_abbrev: Lassim.
+tl2_dates: fl. 1932
+tl2_page_id: 33069005
+author_lsid: 5304-1
+wikidata_id: Q36678468
+ipni_surname: Lassimonne
+ipni_forenames: Simon Etienne
+ipni_standard_form: Lassim.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

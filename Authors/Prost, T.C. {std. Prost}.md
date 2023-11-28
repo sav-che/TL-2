@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0503
+tl2_volume: vol4
+tl2_page_printed: 418
+tl2_surname: Prost
+tl2_forenames: T.C.
+tl2_name_abbrev: Prost
+tl2_dates: x-1848
+tl2_page_id: 33189889
+author_lsid: 25125-1
+wikidata_id: Q21523293
+ipni_surname: Prost
+ipni_forenames: Théodose Cyriaque
+ipni_standard_form: Prost
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

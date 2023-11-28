@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0964
+tl2_volume: vol2
+tl2_page_printed: 817
+tl2_surname: Legré
+tl2_forenames: Ludovic
+tl2_name_abbrev: Legré
+tl2_dates: 1838-1904
+tl2_page_id: 33069059
+author_lsid: 5424-1
+wikidata_id: Q18590031
+ipni_surname: Legré
+ipni_forenames: Ludovic
+ipni_standard_form: Legré
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

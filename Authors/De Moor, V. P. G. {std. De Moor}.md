@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0797
+tl2_volume: vol1
+tl2_page_printed: 621
+tl2_surname: De Moor
+tl2_forenames: V. P. G.
+tl2_name_abbrev: De Moor
+tl2_dates: 1827-1895
+tl2_page_id: 33120752
+author_lsid: 2122-1
+wikidata_id: Q3557502
+ipni_surname: De Moor
+ipni_forenames: V.P.G.
+ipni_standard_form: De Moor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

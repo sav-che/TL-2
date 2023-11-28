@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0436
+tl2_volume: vol4
+tl2_page_printed: 358
+tl2_surname: Potonié
+tl2_forenames: Henry
+tl2_name_abbrev: Potonié
+tl2_dates: 1857-1913
+tl2_page_id: 33189829
+author_lsid: 7888-1
+wikidata_id: Q97218
+ipni_surname: Potonié
+ipni_forenames: Henry
+ipni_standard_form: Potonié
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33189829) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

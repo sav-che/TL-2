@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0035
+tl2_volume: vol3
+tl2_page_printed: 39
+tl2_surname: Lindblom
+tl2_forenames: Alexis Edvard
+tl2_name_abbrev: Lindblom
+tl2_dates: 1807-1853
+tl2_page_id: 33355088
+author_lsid: 5607-1
+wikidata_id: Q5954302
+ipni_surname: Lindblom
+ipni_forenames: Alexis Edvard(Eduard)
+ipni_standard_form: Lindblom
+ipni_dates: 1807-1853
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33355088) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

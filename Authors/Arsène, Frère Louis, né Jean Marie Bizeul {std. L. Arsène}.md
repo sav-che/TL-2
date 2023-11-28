@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0213
+tl2_volume: suppl1
+tl2_page_printed: 172
+tl2_surname: Arsène
+tl2_forenames: Frère Louis, né Jean Marie Bizeul
+tl2_name_abbrev: L. Arsène
+tl2_dates: 1875-1959
+tl2_page_id: 33264899
+author_lsid: 20000190-1
+wikidata_id: Q21505357
+ipni_surname: Arsène
+ipni_forenames: Louis
+ipni_standard_form: L.Arsène
+ipni_dates: 1875-1959
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 2003-11-17 06:24:48.0
+ipni_record_modified: 2010-03-15 09:19:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

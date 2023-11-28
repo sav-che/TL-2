@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0905
+tl2_volume: vol4
+tl2_page_printed: 881
+tl2_surname: Rosanoff
+tl2_forenames: Sergei Matveevic
+tl2_name_abbrev: Rosanoff
+tl2_dates: 1840-1870
+tl2_page_id: 33190352
+author_lsid: 8581-1
+wikidata_id: Q21607404
+ipni_surname: Rosanoff
+ipni_forenames: Sergei Matveevich
+ipni_standard_form: Rosanoff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.1.1.4
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

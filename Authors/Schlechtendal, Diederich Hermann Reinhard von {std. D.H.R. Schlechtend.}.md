@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0195
+tl2_volume: vol5
+tl2_page_printed: 204
+tl2_surname: Schlechtendal
+tl2_forenames: Diederich [Dietrich] Hermann Reinhard von
+tl2_name_abbrev: D.H.R. Schlechtend.
+tl2_dates: 1834-1916
+tl2_page_id: 33333343
+author_lsid: 9116-1
+wikidata_id: Q5275207
+ipni_surname: Schlechtendal
+ipni_forenames: Diederich(Dietrich) Hermann Reinhard von
+ipni_standard_form: D.H.R.Schltdl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

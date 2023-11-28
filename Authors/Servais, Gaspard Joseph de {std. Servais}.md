@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0511
+tl2_volume: vol5
+tl2_page_printed: 523
+tl2_surname: Servais
+tl2_forenames: Gaspard Joseph de
+tl2_name_abbrev: Servais
+tl2_dates: 1735-1807
+tl2_page_id: 33333662
+author_lsid: 9509-1
+wikidata_id: Q21608705
+ipni_surname: Servais
+ipni_forenames: Gaspard Joseph de
+ipni_standard_form: Servais
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0468
+tl2_volume: vol2
+tl2_page_printed: 423
+tl2_surname: Janet
+tl2_forenames: Charles
+tl2_name_abbrev: Janet
+tl2_dates: 1849-1932
+tl2_page_id: 33068665
+author_lsid: 4419-1
+wikidata_id: Q2959440
+ipni_surname: Janet
+ipni_forenames: Charles
+ipni_standard_form: Janet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

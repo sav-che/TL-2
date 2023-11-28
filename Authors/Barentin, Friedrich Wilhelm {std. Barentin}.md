@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0366
+tl2_volume: suppl1
+tl2_page_printed: 324
+tl2_surname: Barentin
+tl2_forenames: Friedrich Wilhelm
+tl2_name_abbrev: Barentin
+tl2_dates: 1810-1886
+tl2_page_id: 33265051
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33265051) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

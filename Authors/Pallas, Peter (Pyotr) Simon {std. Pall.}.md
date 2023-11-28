@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0028
+tl2_volume: vol4
+tl2_page_printed: 20
+tl2_surname: Pallas
+tl2_forenames: Peter [Pyotr] Simon
+tl2_name_abbrev: Pall.
+tl2_dates: 1741-1811
+tl2_page_id: 33189495
+author_lsid: 7276-1
+wikidata_id: Q155914
+ipni_surname: Pallas
+ipni_forenames: Peter(Pyotr) Simon von
+ipni_standard_form: Pall.
+ipni_dates: 1741-1811
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

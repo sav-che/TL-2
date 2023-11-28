@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0004
+tl2_volume: suppl6
+tl2_page_printed: 2
+tl2_surname: Dobrowolski
+tl2_forenames: Jan Marjan
+tl2_name_abbrev: Dobrowolski
+tl2_dates: 1886-1958
+tl2_page_id: 33259990
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259990) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0462
+tl2_volume: vol2
+tl2_page_printed: 420
+tl2_surname: James
+tl2_forenames: Thomas Potts
+tl2_name_abbrev: T. James
+tl2_dates: 1803-1882
+tl2_page_id: 33068662
+author_lsid: 20878-1
+wikidata_id: Q3525492
+ipni_surname: James
+ipni_forenames: Thomas Potts
+ipni_standard_form: James
+ipni_dates: 1803-1882
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0259
+tl2_volume: vol1
+tl2_page_printed: 202
+tl2_surname: Berthelot
+tl2_forenames: Sabin
+tl2_name_abbrev: Berthel.
+tl2_dates: 1794-1880
+tl2_page_id: 33120333
+author_lsid: 16032-1
+wikidata_id: Q204261
+ipni_surname: Berthelot
+ipni_forenames: Sabin
+ipni_standard_form: Berthel.
+ipni_dates: 1794-1880
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0077
+tl2_volume: suppl3
+tl2_page_printed: 73
+tl2_surname: Brieger
+tl2_forenames: Friedrich Gustav
+tl2_name_abbrev: Brieger
+tl2_dates: 1900-x
+tl2_page_id: 33266380
+author_lsid: 1140-1
+wikidata_id: Q2314714
+ipni_surname: Brieger
+ipni_forenames: Friedrich Gustav
+ipni_standard_form: Brieger
+ipni_dates: 1900-1985
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33266380) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

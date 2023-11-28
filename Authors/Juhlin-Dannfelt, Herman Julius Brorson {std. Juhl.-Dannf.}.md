@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0541
+tl2_volume: vol2
+tl2_page_printed: 467
+tl2_surname: Juhlin-Dannfelt
+tl2_forenames: Herman Julius Brorson
+tl2_name_abbrev: Juhl.-Dannf.
+tl2_dates: 1852-1937
+tl2_page_id: 33068709
+author_lsid: 4572-1
+wikidata_id: Q5893733
+ipni_surname: Juhlin-Dannfelt
+ipni_forenames: Hermann Julius Brorson
+ipni_standard_form: Juhl.-Dannf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

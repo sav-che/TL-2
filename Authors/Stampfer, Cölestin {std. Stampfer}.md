@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0831
+tl2_volume: vol5
+tl2_page_printed: 831
+tl2_surname: Stampfer
+tl2_forenames: Cölestin
+tl2_name_abbrev: Stampfer
+tl2_dates: 1823-1895
+tl2_page_id: 33333970
+author_lsid: 10018-1
+wikidata_id: Q15804183
+ipni_surname: Stampfer
+ipni_forenames: Cölestin
+ipni_standard_form: Stampfer
+ipni_dates: 1823-1895
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

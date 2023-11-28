@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0035
+tl2_volume: vol7
+tl2_page_printed: 29
+tl2_surname: Waldheim
+tl2_forenames: Stig [Gunnar Anton]
+tl2_name_abbrev: Waldh.
+tl2_dates: 1911-1976
+tl2_page_id: 33066369
+author_lsid: 12988-1
+wikidata_id: Q21612031
+ipni_surname: Waldheim
+ipni_forenames: Stig (Gunnar Anton)
+ipni_standard_form: Waldh.
+ipni_dates: 1911-1976
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

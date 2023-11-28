@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0127
+tl2_volume: vol6
+tl2_page_printed: 109
+tl2_surname: Svenson
+tl2_forenames: Henry Knute [Knut]
+tl2_name_abbrev: Svens.
+tl2_dates: 1897-x
+tl2_page_id: 33212151
+author_lsid: 10325-1
+wikidata_id: Q13423965
+ipni_surname: Svenson
+ipni_forenames: Henry Knute(Knut)
+ipni_standard_form: Svenson
+ipni_dates: 1897-1986
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33212151) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

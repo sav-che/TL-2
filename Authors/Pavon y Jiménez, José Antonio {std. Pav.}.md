@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0127
+tl2_volume: vol4
+tl2_page_printed: 117
+tl2_surname: Pavon y Jiménez
+tl2_forenames: José Antonio
+tl2_name_abbrev: Pav.
+tl2_dates: 1754-1844
+tl2_page_id: 33189588
+author_lsid: 7422-1
+wikidata_id: Q332058
+ipni_surname: Pavon
+ipni_forenames: José Antonio
+ipni_standard_form: Pav.
+ipni_dates: 1754-1844
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-02-26 08:04:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33189588) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

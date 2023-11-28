@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0186
+tl2_volume: vol3
+tl2_page_printed: 198
+tl2_surname: Lutze
+tl2_forenames: Günther
+tl2_name_abbrev: Lutze
+tl2_dates: 1840-1930
+tl2_page_id: 33355285
+author_lsid: 5855-1
+wikidata_id: Q21519668
+ipni_surname: Lutze
+ipni_forenames: Günther
+ipni_standard_form: Lutze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

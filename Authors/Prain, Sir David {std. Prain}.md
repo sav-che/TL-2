@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0458
+tl2_volume: vol4
+tl2_page_printed: 376
+tl2_surname: Prain
+tl2_forenames: Sir David
+tl2_name_abbrev: Prain
+tl2_dates: 1857-1944
+tl2_page_id: 33189847
+author_lsid: 7925-1
+wikidata_id: Q689862
+ipni_surname: Prain
+ipni_forenames: David
+ipni_standard_form: Prain
+ipni_dates: 1857-1944
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0515
+tl2_volume: vol5
+tl2_page_printed: 525
+tl2_surname: Sessé y Lacasta
+tl2_forenames: Martin de
+tl2_name_abbrev: Sessé
+tl2_dates: 1751-1808
+tl2_page_id: 33333664
+author_lsid: 9514-1
+wikidata_id: Q2983613
+ipni_surname: Sessé y Lacasta
+ipni_forenames: Martín
+ipni_standard_form: Sessé
+ipni_dates: 1751-1808
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0043
+tl2_volume: suppl8
+tl2_page_printed: 65
+tl2_surname: Fry
+tl2_forenames: Edward (Sir)
+tl2_name_abbrev: E. Fry
+tl2_dates: 1827-1918
+tl2_page_id: 33258543
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33258543) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

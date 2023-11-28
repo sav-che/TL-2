@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0708
+tl2_volume: vol5
+tl2_page_printed: 712
+tl2_surname: Snowden
+tl2_forenames: Joseph Davenport
+tl2_name_abbrev: Snowden
+tl2_dates: 1886-1973
+tl2_page_id: 33333851
+author_lsid: 9843-1
+wikidata_id: Q5936994
+ipni_surname: Snowden
+ipni_forenames: Joseph Davenport
+ipni_standard_form: Snowden
+ipni_dates: 1886-1973
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

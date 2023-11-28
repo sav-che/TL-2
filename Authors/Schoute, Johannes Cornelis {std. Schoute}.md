@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0306
+tl2_volume: vol5
+tl2_page_printed: 310
+tl2_surname: Schoute
+tl2_forenames: Johannes Cornelis
+tl2_name_abbrev: Schoute
+tl2_dates: 1877-1942
+tl2_page_id: 33333449
+author_lsid: 9244-1
+wikidata_id: Q19214249
+ipni_surname: Schoute
+ipni_forenames: Johannes Cornelis
+ipni_standard_form: Schoute
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33333449) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

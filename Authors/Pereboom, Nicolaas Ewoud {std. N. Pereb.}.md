@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0179
+tl2_volume: vol4
+tl2_page_printed: 163
+tl2_surname: Pereboom
+tl2_forenames: Nicolaas Ewoud
+tl2_name_abbrev: N. Pereb.
+tl2_dates: fl. 1787
+tl2_page_id: 33189634
+author_lsid: 7504-1
+wikidata_id: Q36643665
+ipni_surname: Pereboom
+ipni_forenames: Nicolaas Ewoud
+ipni_standard_form: Pereb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

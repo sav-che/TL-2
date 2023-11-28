@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0333
+tl2_volume: vol2
+tl2_page_printed: 301
+tl2_surname: Hoola van Nooten-van Dolder
+tl2_forenames: Bertha
+tl2_name_abbrev: Hoola van Nooten
+tl2_dates: fl. 1863
+tl2_page_id: 33068543
+author_lsid: 13367-1
+wikidata_id: Q4895535
+ipni_surname: Hoola van Nooten
+ipni_forenames: Bertha
+ipni_standard_form: Hoola van Nooten
+ipni_dates: 1817-1892
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-02-03 15:38:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

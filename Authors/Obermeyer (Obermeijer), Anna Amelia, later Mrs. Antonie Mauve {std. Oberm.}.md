@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0946
+tl2_volume: vol3
+tl2_page_printed: 800
+tl2_surname: Obermeyer [Obermeijer]
+tl2_forenames: Anna Amelia, later Mrs. Antonie Mauve
+tl2_name_abbrev: Oberm.
+tl2_dates: 1907-x
+tl2_page_id: 33355887
+author_lsid: 12712-1
+wikidata_id: Q4766821
+ipni_surname: Obermeyer
+ipni_forenames: Anna Amelia
+ipni_standard_form: Oberm.
+ipni_dates: 1907-2001
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-01-26 05:58:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

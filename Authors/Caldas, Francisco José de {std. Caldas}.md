@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0523
+tl2_volume: vol1
+tl2_page_printed: 424
+tl2_surname: Caldas
+tl2_forenames: Francisco José de
+tl2_name_abbrev: Caldas
+tl2_dates: 1768-1816
+tl2_page_id: 33120555
+author_lsid: 12108-1
+wikidata_id: Q1442069
+ipni_surname: Caldas
+ipni_forenames: Francisco José de
+ipni_standard_form: Caldas
+ipni_dates: 1768-1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-02-21 11:51:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

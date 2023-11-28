@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0243
+tl2_volume: suppl8
+tl2_page_printed: 326
+tl2_surname: Graham
+tl2_forenames: Robert James Douglas
+tl2_name_abbrev: R.J.D. Graham
+tl2_dates: 1884-1950
+tl2_page_id: 33258804
+author_lsid: 3321-1
+wikidata_id: Q21514202
+ipni_surname: Graham
+ipni_forenames: Robert James Douglas
+ipni_standard_form: R.J.D.Graham
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33258804) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

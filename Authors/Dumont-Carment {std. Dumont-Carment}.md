@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0175
+tl2_volume: suppl6
+tl2_page_printed: 162
+tl2_surname: Dumont-Carment
+tl2_forenames: Dumont-Carment
+tl2_name_abbrev: Dumont-Carment
+tl2_dates: fl. 1859
+tl2_page_id: 33260150
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33260150) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

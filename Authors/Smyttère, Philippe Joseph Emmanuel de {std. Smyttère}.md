@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0701
+tl2_volume: vol5
+tl2_page_printed: 709
+tl2_surname: Smyttère
+tl2_forenames: Philippe Joseph Emmanuel de
+tl2_name_abbrev: Smyttère
+tl2_dates: 1800-?
+tl2_page_id: 33333848
+author_lsid: 9832-1
+wikidata_id: Q21609146
+ipni_surname: Smyttère
+ipni_forenames: Philippe Joseph Emmanuel de
+ipni_standard_form: Smyttère
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0196
+tl2_volume: vol3
+tl2_page_printed: 204
+tl2_surname: Lyons
+tl2_forenames: Israel
+tl2_name_abbrev: I. Lyons
+tl2_dates: 1739-1775
+tl2_page_id: 33355291
+author_lsid: 5871-1
+wikidata_id: Q510592
+ipni_surname: Lyons
+ipni_forenames: Israel
+ipni_standard_form: Lyons
+ipni_dates: 1739-1775
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33355291) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

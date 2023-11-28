@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0089
+tl2_volume: vol5
+tl2_page_printed: 89
+tl2_surname: Savicz [-Ljubitzkaja]
+tl2_forenames: Lydia Ivanovna
+tl2_name_abbrev: Savicz
+tl2_dates: 1886-1982
+tl2_page_id: 33333228
+author_lsid: 26187-1
+wikidata_id: Q19862926
+ipni_surname: Savicz-Lubitskaya
+ipni_forenames: Lydia Ivanovna
+ipni_standard_form: L.I.Savicz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33333228) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

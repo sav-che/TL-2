@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0225
+tl2_volume: vol3
+tl2_page_printed: 218
+tl2_surname: McDougall
+tl2_forenames: Walter Byron
+tl2_name_abbrev: W. McDougall
+tl2_dates: 1883-x
+tl2_page_id: 33355305
+author_lsid: 5910-1
+wikidata_id: Q21520232
+ipni_surname: McDougall
+ipni_forenames: Walter Byron
+ipni_standard_form: W.McDougall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

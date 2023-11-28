@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0077
+tl2_volume: vol5
+tl2_page_printed: 78
+tl2_surname: Sauvaigo
+tl2_forenames: Émile
+tl2_name_abbrev: Sauvaigo
+tl2_dates: 1856-1927
+tl2_page_id: 33333217
+author_lsid: 8964-1
+wikidata_id: Q3588748
+ipni_surname: Sauvaigo
+ipni_forenames: Émile
+ipni_standard_form: Sauvaigo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33333217) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0391
+tl2_volume: vol1
+tl2_page_printed: 298
+tl2_surname: Bowman
+tl2_forenames: John Eddowes
+tl2_name_abbrev: Bowman
+tl2_dates: 1785-1841
+tl2_page_id: 33120429
+author_lsid: 1046-1
+wikidata_id: Q6231133
+ipni_surname: Bowman
+ipni_forenames: John Eddowes
+ipni_standard_form: Bowman
+ipni_dates: 1785-1841
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

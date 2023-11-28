@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0546
+tl2_volume: vol2
+tl2_page_printed: 469
+tl2_surname: Jundzill
+tl2_forenames: Stanislaw Bonifacy
+tl2_name_abbrev: S.B. Jundz.
+tl2_dates: 1761-1847
+tl2_page_id: 33068711
+author_lsid: 4577-1
+wikidata_id: Q2362764
+ipni_surname: Jundzill
+ipni_forenames: Stanislaw Bonifacy
+ipni_standard_form: S.B.Jundz.
+ipni_dates: 1761-1847
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

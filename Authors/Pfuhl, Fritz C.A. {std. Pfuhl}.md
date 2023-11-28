@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0260
+tl2_volume: vol4
+tl2_page_printed: 228
+tl2_surname: Pfuhl
+tl2_forenames: Fritz C.A.
+tl2_name_abbrev: Pfuhl
+tl2_dates: 1853-1913
+tl2_page_id: 33189699
+author_lsid: 7626-1
+wikidata_id: Q21337948
+ipni_surname: Pfuhl
+ipni_forenames: Fritz C.A.
+ipni_standard_form: Pfuhl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

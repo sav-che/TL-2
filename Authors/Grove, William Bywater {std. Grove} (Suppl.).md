@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0301
+tl2_volume: suppl8
+tl2_page_printed: 419
+tl2_surname: Grove
+tl2_forenames: William Bywater
+tl2_name_abbrev: Grove
+tl2_dates: 1848-1938
+tl2_page_id: 33258897
+author_lsid: 3421-1
+wikidata_id: Q19666664
+ipni_surname: Grove
+ipni_forenames: William Bywater
+ipni_standard_form: Grove
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33258897) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

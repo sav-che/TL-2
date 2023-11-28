@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0049
+tl2_volume: suppl7
+tl2_page_printed: 69
+tl2_surname: Fauth
+tl2_forenames: Adolf Heinrich
+tl2_name_abbrev: Fauth
+tl2_dates: 1873-1959
+tl2_page_id: 33259573
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259573) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

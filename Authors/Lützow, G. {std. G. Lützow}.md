@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol3_0169
+tl2_volume: vol3
+tl2_page_printed: 191
+tl2_surname: Lützow
+tl2_forenames: G.
+tl2_name_abbrev: G. Lützow
+tl2_dates: fl. 1895
+tl2_page_id: 33355278
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

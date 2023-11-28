@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1236
+tl2_volume: vol1
+tl2_page_printed: 979
+tl2_surname: Grand'Eury
+tl2_forenames: François Cyrille
+tl2_name_abbrev: Grand'Eury
+tl2_dates: 1839-1917
+tl2_page_id: 33121110
+author_lsid: 3325-1
+wikidata_id: Q5768115
+ipni_surname: Grand'Eury
+ipni_forenames: François Cyrille
+ipni_standard_form: Grand'Eury
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

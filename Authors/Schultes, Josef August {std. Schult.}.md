@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0347
+tl2_volume: vol5
+tl2_page_printed: 365
+tl2_surname: Schultes
+tl2_forenames: Josef August
+tl2_name_abbrev: Schult.
+tl2_dates: 1773-1831
+tl2_page_id: 33333504
+author_lsid: 9288-1
+wikidata_id: Q78881
+ipni_surname: Schultes
+ipni_forenames: Josef (Joseph) August
+ipni_standard_form: Schult.
+ipni_dates: 1773-1831
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

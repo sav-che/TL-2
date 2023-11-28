@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0434
+tl2_volume: suppl2
+tl2_page_printed: 381
+tl2_surname: Boulanger
+tl2_forenames: Émile
+tl2_name_abbrev: Boulanger
+tl2_dates: fl. 1890-1905
+tl2_page_id: 33265578
+author_lsid: 34089-1
+wikidata_id: Q27064230
+ipni_surname: Boulanger
+ipni_forenames: Émile
+ipni_standard_form: Boulanger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265578) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

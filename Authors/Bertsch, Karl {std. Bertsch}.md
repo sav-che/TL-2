@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0153
+tl2_volume: suppl2
+tl2_page_printed: 132
+tl2_surname: Bertsch
+tl2_forenames: Karl
+tl2_name_abbrev: Bertsch
+tl2_dates: 1878-1965
+tl2_page_id: 33265329
+author_lsid: 16049-1
+wikidata_id: Q91376
+ipni_surname: Bertsch
+ipni_forenames: Karl
+ipni_standard_form: Bertsch
+ipni_dates: 1878-1965
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265329) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0011
+tl2_volume: suppl4
+tl2_page_printed: 20
+tl2_surname: Cengia-Sambo
+tl2_forenames: Maria
+tl2_name_abbrev: Sambo
+tl2_dates: 1888-1939
+tl2_page_id: 33265697
+author_lsid: 26053-1
+wikidata_id: Q5997323
+ipni_surname: Sambo
+ipni_forenames: Maria
+ipni_standard_form: Sambo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0325
+tl2_volume: vol3
+tl2_page_printed: 288
+tl2_surname: Marchal
+tl2_forenames: Émile Jules Joseph
+tl2_name_abbrev: Ém. Marchal
+tl2_dates: 1871-1954
+tl2_page_id: 33355375
+author_lsid: 22894-1
+wikidata_id: Q18753081
+ipni_surname: Marchal
+ipni_forenames: Émile Jules Joseph
+ipni_standard_form: É.J.Marchal
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

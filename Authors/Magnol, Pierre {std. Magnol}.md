@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0267
+tl2_volume: vol3
+tl2_page_printed: 243
+tl2_surname: Magnol
+tl2_forenames: Pierre
+tl2_name_abbrev: Magnol
+tl2_dates: 1638-1715
+tl2_page_id: 33355330
+author_lsid: 5982-1
+wikidata_id: Q522664
+ipni_surname: Magnol
+ipni_forenames: Pierre
+ipni_standard_form: Magnol
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33355330) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0333
+tl2_volume: suppl6
+tl2_page_printed: 292
+tl2_surname: Ekman
+tl2_forenames: Hedda Maria Emerence Adelaïde Elisabeth
+tl2_name_abbrev: E. Ekman
+tl2_dates: 1862-1936
+tl2_page_id: 33260280
+author_lsid: 12422-1
+wikidata_id: Q5893410
+ipni_surname: Ekman
+ipni_forenames: Hedda Maria Emerence Adelaïde Elisabeth
+ipni_standard_form: E.Ekman
+ipni_dates: 1862-1936
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33260280) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

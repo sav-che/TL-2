@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0144
+tl2_volume: vol6
+tl2_page_printed: 126
+tl2_surname: Swingle
+tl2_forenames: Deane Bret
+tl2_name_abbrev: D. Swingle
+tl2_dates: 1879-1944
+tl2_page_id: 33212168
+author_lsid: 27414-1
+wikidata_id: Q21610115
+ipni_surname: Swingle
+ipni_forenames: Deane Bret
+ipni_standard_form: D.B.Swingle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33212168) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

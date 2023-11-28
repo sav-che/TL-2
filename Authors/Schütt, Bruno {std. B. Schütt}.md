@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0342
+tl2_volume: vol5
+tl2_page_printed: 362
+tl2_surname: Schütt
+tl2_forenames: Bruno
+tl2_name_abbrev: B. Schütt
+tl2_dates: 1876-1956
+tl2_page_id: 33333501
+author_lsid: 9282-1
+wikidata_id: Q9667736
+ipni_surname: Schütt
+ipni_forenames: Bruno
+ipni_standard_form: B.Schütt
+ipni_dates: 1876-1956
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-11-16 13:29:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

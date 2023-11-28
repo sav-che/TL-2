@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0077
+tl2_volume: suppl7
+tl2_page_printed: 123
+tl2_surname: Felix
+tl2_forenames: Johannes Paul
+tl2_name_abbrev: Felix
+tl2_dates: 1859-1941
+tl2_page_id: 33259627
+author_lsid: 2673-1
+wikidata_id: Q1616906
+ipni_surname: Felix
+ipni_forenames: Johannes Paul
+ipni_standard_form: Felix
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.3.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259627) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

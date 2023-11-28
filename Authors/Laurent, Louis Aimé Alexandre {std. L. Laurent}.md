@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0913
+tl2_volume: vol2
+tl2_page_printed: 767
+tl2_surname: Laurent
+tl2_forenames: Louis Aimé Alexandre
+tl2_name_abbrev: L. Laurent
+tl2_dates: 1873-1947
+tl2_page_id: 33069009
+author_lsid: 5326-1
+wikidata_id: Q17370842
+ipni_surname: Laurent
+ipni_forenames: Louis Aimé Alexandre
+ipni_standard_form: L.Laurent
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1260
+tl2_volume: vol1
+tl2_page_printed: 1007
+tl2_surname: Grisebach
+tl2_forenames: August Heinrich Rudolph
+tl2_name_abbrev: Griseb.
+tl2_dates: 1814-1879
+tl2_page_id: 33121138
+author_lsid: 3397-1
+wikidata_id: Q76351
+ipni_surname: Grisebach
+ipni_forenames: August Heinrich Rudolf
+ipni_standard_form: Griseb.
+ipni_dates: 1814-1879
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0407
+tl2_volume: vol2
+tl2_page_printed: 382
+tl2_surname: Ibbotson
+tl2_forenames: Henry
+tl2_name_abbrev: Ibbots.
+tl2_dates: 1814-1886
+tl2_page_id: 33068624
+author_lsid: 4269-1
+wikidata_id: Q5723574
+ipni_surname: Ibbotson
+ipni_forenames: Henry
+ipni_standard_form: Ibbots.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33068624) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

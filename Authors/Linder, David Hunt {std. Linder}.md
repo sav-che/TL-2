@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0041
+tl2_volume: vol3
+tl2_page_printed: 47
+tl2_surname: Linder
+tl2_forenames: David Hunt
+tl2_name_abbrev: Linder
+tl2_dates: 1899-1946
+tl2_page_id: 33355096
+author_lsid: 22375-1
+wikidata_id: Q5800069
+ipni_surname: Linder
+ipni_forenames: David Hunt
+ipni_standard_form: Linder
+ipni_dates: 1899-1946
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33355096) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

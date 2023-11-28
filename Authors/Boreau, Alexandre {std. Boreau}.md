@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0364
+tl2_volume: vol1
+tl2_page_printed: 279
+tl2_surname: Boreau
+tl2_forenames: Alexandre
+tl2_name_abbrev: Boreau
+tl2_dates: 1801-1875
+tl2_page_id: 33120410
+author_lsid: 981-1
+wikidata_id: Q2833488
+ipni_surname: Boreau
+ipni_forenames: Alexandre
+ipni_standard_form: Boreau
+ipni_dates: 1803-1875
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33120410) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

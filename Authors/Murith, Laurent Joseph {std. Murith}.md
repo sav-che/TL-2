@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0777
+tl2_volume: vol3
+tl2_page_printed: 665
+tl2_surname: Murith
+tl2_forenames: Laurent Joseph
+tl2_name_abbrev: Murith
+tl2_dates: 1742-1818
+tl2_page_id: 33355752
+author_lsid: 6798-1
+wikidata_id: Q13400448
+ipni_surname: Murith
+ipni_forenames: Laurent Joseph
+ipni_standard_form: Murith
+ipni_dates: 1742-1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

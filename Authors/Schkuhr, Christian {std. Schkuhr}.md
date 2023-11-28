@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0185
+tl2_volume: vol5
+tl2_page_printed: 184
+tl2_surname: Schkuhr
+tl2_forenames: Christian
+tl2_name_abbrev: Schkuhr
+tl2_dates: 1741-1811
+tl2_page_id: 33333323
+author_lsid: 9106-1
+wikidata_id: Q2612777
+ipni_surname: Schkuhr
+ipni_forenames: Christian
+ipni_standard_form: Schkuhr
+ipni_dates: 1741-1811
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33333323) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

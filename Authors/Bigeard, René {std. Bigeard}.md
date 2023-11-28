@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0189
+tl2_volume: suppl2
+tl2_page_printed: 161
+tl2_surname: Bigeard
+tl2_forenames: René
+tl2_name_abbrev: Bigeard
+tl2_dates: 1840-1917
+tl2_page_id: 33265358
+author_lsid: 16123-1
+wikidata_id: Q21506110
+ipni_surname: Bigeard
+ipni_forenames: René
+ipni_standard_form: Bigeard
+ipni_dates: 1840-1917
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

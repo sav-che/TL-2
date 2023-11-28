@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0109
+tl2_volume: suppl5
+tl2_page_printed: 98
+tl2_surname: Davie
+tl2_forenames: Robert Chapman
+tl2_name_abbrev: Davie
+tl2_dates: 1887-1919
+tl2_page_id: 33259144
+author_lsid: 20045466-1
+wikidata_id: Q106889647
+ipni_surname: Davie
+ipni_forenames: Robert Chapman
+ipni_standard_form: R.C.Davie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259144) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

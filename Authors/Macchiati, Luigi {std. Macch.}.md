@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0215
+tl2_volume: vol3
+tl2_page_printed: 213
+tl2_surname: Macchiati
+tl2_forenames: Luigi
+tl2_name_abbrev: Macch.
+tl2_dates: 1852-1921
+tl2_page_id: 33355300
+author_lsid: 22676-1
+wikidata_id: Q13503194
+ipni_surname: Macchiati
+ipni_forenames: Luigi
+ipni_standard_form: Macch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

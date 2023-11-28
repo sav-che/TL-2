@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0997
+tl2_volume: vol2
+tl2_page_printed: 843
+tl2_surname: Lenoble
+tl2_forenames: Félix
+tl2_name_abbrev: Lenoble
+tl2_dates: 1867-1949
+tl2_page_id: 33069085
+author_lsid: 5475-1
+wikidata_id: Q21518663
+ipni_surname: Lenoble
+ipni_forenames: Félix
+ipni_standard_form: Lenoble
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

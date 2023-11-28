@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0159
+tl2_volume: vol3
+tl2_page_printed: 185
+tl2_surname: Lüben
+tl2_forenames: August Heinrich Philipp
+tl2_name_abbrev: Lüben
+tl2_dates: 1804-1874
+tl2_page_id: 33355272
+author_lsid: 5810-1
+wikidata_id: Q21519555
+ipni_surname: Lüben
+ipni_forenames: August Heinrich Philipp
+ipni_standard_form: Lüben
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

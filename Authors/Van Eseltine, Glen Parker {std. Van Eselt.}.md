@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0649
+tl2_volume: vol6
+tl2_page_printed: 664
+tl2_surname: Van Eseltine
+tl2_forenames: Glen Parker
+tl2_name_abbrev: Van Eselt.
+tl2_dates: 1888-1938
+tl2_page_id: 33212706
+author_lsid: 2573-1
+wikidata_id: Q4103245
+ipni_surname: Van Eseltine
+ipni_forenames: Glen Parker
+ipni_standard_form: Van Eselt.
+ipni_dates: 1888-1938
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

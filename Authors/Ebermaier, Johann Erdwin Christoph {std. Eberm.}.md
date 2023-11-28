@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0263
+tl2_volume: suppl6
+tl2_page_printed: 249
+tl2_surname: Ebermaier
+tl2_forenames: Johann Erdwin Christoph
+tl2_name_abbrev: Eberm.
+tl2_dates: 1768-1825
+tl2_page_id: 33260237
+author_lsid: 2454-1
+wikidata_id: Q16857300
+ipni_surname: Ebermaier
+ipni_forenames: Johann Erdwin Christopher
+ipni_standard_form: Eberm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

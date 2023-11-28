@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0381
+tl2_volume: vol6
+tl2_page_printed: 361
+tl2_surname: Timm
+tl2_forenames: Carl Theodor
+tl2_name_abbrev: C. Timm
+tl2_dates: 1824-1907
+tl2_page_id: 33212403
+author_lsid: 10674-1
+wikidata_id: Q21610751
+ipni_surname: Timm
+ipni_forenames: Carl Theodor
+ipni_standard_form: C.Timm
+ipni_dates: 1824-1907
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

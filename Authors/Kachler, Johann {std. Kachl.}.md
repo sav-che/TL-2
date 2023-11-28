@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0567
+tl2_volume: vol2
+tl2_page_printed: 483
+tl2_surname: Kachler
+tl2_forenames: Johann
+tl2_name_abbrev: Kachl.
+tl2_dates: 1782-1863, or later
+tl2_page_id: 33068725
+author_lsid: 4610-1
+wikidata_id: Q21517205
+ipni_surname: Kachler
+ipni_forenames: Johann
+ipni_standard_form: Kachl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

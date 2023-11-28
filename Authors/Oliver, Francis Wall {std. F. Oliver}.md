@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0977
+tl2_volume: vol3
+tl2_page_printed: 828
+tl2_surname: Oliver
+tl2_forenames: Francis Wall
+tl2_name_abbrev: F. Oliver
+tl2_dates: 1864-1951
+tl2_page_id: 33355915
+author_lsid: 7130-1
+wikidata_id: Q5482698
+ipni_surname: Oliver
+ipni_forenames: Francis Wall
+ipni_standard_form: F.Oliv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33355915) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

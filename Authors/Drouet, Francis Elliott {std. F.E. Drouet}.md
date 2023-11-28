@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0113
+tl2_volume: suppl6
+tl2_page_printed: 100
+tl2_surname: Drouet
+tl2_forenames: Francis Elliott
+tl2_name_abbrev: F.E. Drouet
+tl2_dates: 1907-1982
+tl2_page_id: 33260088
+author_lsid: 32980-1
+wikidata_id: Q3081418
+ipni_surname: Drouet
+ipni_forenames: Francis Elliott
+ipni_standard_form: F.E.Drouet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0434
+tl2_volume: vol7
+tl2_page_printed: 479
+tl2_surname: Wulfsberg
+tl2_forenames: Nils Gregers Ingvald
+tl2_name_abbrev: Wulfsb.
+tl2_dates: 1847-1888
+tl2_page_id: 33066819
+author_lsid: 11903-1
+wikidata_id: Q16650632
+ipni_surname: Wulfsberg
+ipni_forenames: Nils Gregers Ingvald
+ipni_standard_form: Wulfsb.
+ipni_dates: 1847-1888
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

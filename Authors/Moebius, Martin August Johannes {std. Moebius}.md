@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0609
+tl2_volume: vol3
+tl2_page_printed: 531
+tl2_surname: Moebius
+tl2_forenames: Martin August Johannes
+tl2_name_abbrev: Moebius
+tl2_dates: 1859-1946
+tl2_page_id: 33355618
+author_lsid: 6542-1
+wikidata_id: Q6000689
+ipni_surname: Moebius
+ipni_forenames: Martin August Johannes
+ipni_standard_form: Moebius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

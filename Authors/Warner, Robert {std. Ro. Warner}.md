@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0084
+tl2_volume: vol7
+tl2_page_printed: 82
+tl2_surname: Warner
+tl2_forenames: Robert
+tl2_name_abbrev: Ro. Warner
+tl2_dates: c. 1815-1896
+tl2_page_id: 33066422
+author_lsid: 11413-1
+wikidata_id: Q2885507
+ipni_surname: Warner
+ipni_forenames: Robert
+ipni_standard_form: R.Warner
+ipni_dates: c.1815-1896
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33066422) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

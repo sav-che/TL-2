@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0195
+tl2_volume: suppl5
+tl2_page_printed: 175
+tl2_surname: Deleuze
+tl2_forenames: Joseph Philippe François
+tl2_name_abbrev: Deleuze
+tl2_dates: 1753-1835
+tl2_page_id: 33259221
+author_lsid: 2101-1
+wikidata_id: Q277326
+ipni_surname: Deleuze
+ipni_forenames: Joseph Philippe François
+ipni_standard_form: Deleuze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

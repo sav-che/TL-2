@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0182
+tl2_volume: vol3
+tl2_page_printed: 197
+tl2_surname: Lundqvist
+tl2_forenames: [Adolf] Gösta
+tl2_name_abbrev: Lundqvist
+tl2_dates: 1894-1967
+tl2_page_id: 33355284
+author_lsid: 5845-1
+wikidata_id: Q5967534
+ipni_surname: Lundqvist
+ipni_forenames: (Adolf) Gösta
+ipni_standard_form: Lundq.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

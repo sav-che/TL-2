@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0173
+tl2_volume: suppl3
+tl2_page_printed: 172
+tl2_surname: Brzeziński
+tl2_forenames: Józef Piotr
+tl2_name_abbrev: Brzez.
+tl2_dates: 1862-1939
+tl2_page_id: 33266479
+author_lsid: 34279-1
+wikidata_id: Q16588031
+ipni_surname: Brzezinski
+ipni_forenames: Józef
+ipni_standard_form: Brzez.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33266479) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

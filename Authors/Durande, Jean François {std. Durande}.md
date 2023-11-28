@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0903
+tl2_volume: vol1
+tl2_page_printed: 710
+tl2_surname: Durande
+tl2_forenames: Jean François
+tl2_name_abbrev: Durande
+tl2_dates: 1732-1794
+tl2_page_id: 33120841
+author_lsid: 2402-1
+wikidata_id: Q2459271
+ipni_surname: Durande
+ipni_forenames: Jean François
+ipni_standard_form: Durande
+ipni_dates: 1732-1794
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0266
+tl2_volume: suppl8
+tl2_page_printed: 376
+tl2_surname: Greter
+tl2_forenames: Fintan (Pater)
+tl2_name_abbrev: Greter
+tl2_dates: 1899-1984
+tl2_page_id: 33258854
+author_lsid: 19617-1
+wikidata_id: Q21514269
+ipni_surname: Greter
+ipni_forenames: P.Fintan
+ipni_standard_form: Greter
+ipni_dates: 1899-
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

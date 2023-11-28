@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl4_0326
+tl2_volume: suppl4
+tl2_page_printed: 408
+tl2_surname: Cotton
+tl2_forenames: Arthur Disbrowe
+tl2_name_abbrev: Cotton
+tl2_dates: 1879-1962
+tl2_page_id: 33266085
+author_lsid: 1833-1
+wikidata_id: Q4798468
+ipni_surname: Cotton
+ipni_forenames: Arthur Disbrowe
+ipni_standard_form: Cotton
+ipni_dates: 1879-1962
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33266085) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

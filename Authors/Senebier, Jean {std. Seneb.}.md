@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0494
+tl2_volume: vol5
+tl2_page_printed: 504
+tl2_surname: Senebier
+tl2_forenames: Jean
+tl2_name_abbrev: Seneb.
+tl2_dates: 1742-1809
+tl2_page_id: 33333643
+author_lsid: 9480-1
+wikidata_id: Q115704
+ipni_surname: Senebier
+ipni_forenames: Jean
+ipni_standard_form: Seneb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33333643) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

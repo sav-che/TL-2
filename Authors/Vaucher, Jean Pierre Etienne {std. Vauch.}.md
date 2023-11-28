@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0663
+tl2_volume: vol6
+tl2_page_printed: 680
+tl2_surname: Vaucher
+tl2_forenames: Jean Pierre Etienne
+tl2_name_abbrev: Vauch.
+tl2_dates: 1763-1841
+tl2_page_id: 33212722
+author_lsid: 11091-1
+wikidata_id: Q117200
+ipni_surname: Vaucher
+ipni_forenames: Jean Pierre Étienne
+ipni_standard_form: Vaucher
+ipni_dates: 1763-1841
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33212722) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

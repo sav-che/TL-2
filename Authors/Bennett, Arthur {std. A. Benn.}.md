@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0074
+tl2_volume: suppl2
+tl2_page_printed: 72
+tl2_surname: Bennett
+tl2_forenames: Arthur
+tl2_name_abbrev: A. Benn.
+tl2_dates: 1843-1929
+tl2_page_id: 33265269
+author_lsid: 655-1
+wikidata_id: Q5706955
+ipni_surname: Bennett
+ipni_forenames: Arthur
+ipni_standard_form: A.Benn.
+ipni_dates: 1843-1929
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33265269) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

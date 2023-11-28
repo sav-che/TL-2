@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0469
+tl2_volume: vol3
+tl2_page_printed: 402
+tl2_surname: Meijer
+tl2_forenames: Frans Nicholaas (after 1908 Frank Nicholas Meyer)
+tl2_name_abbrev: F.N. Meyer
+tl2_dates: 1875-1918
+tl2_page_id: 33355489
+author_lsid: 12677-1
+wikidata_id: Q3082749
+ipni_surname: Meijer
+ipni_forenames: Frans Nicholaas
+ipni_standard_form: F.N.Meijer
+ipni_dates: 1875-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- China
+- United States
+ipni_version: 1.1.1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-05-17 16:09:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

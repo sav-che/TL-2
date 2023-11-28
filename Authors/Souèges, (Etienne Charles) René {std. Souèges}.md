@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0751
+tl2_volume: vol5
+tl2_page_printed: 755
+tl2_surname: Souèges
+tl2_forenames: [Etienne Charles] René
+tl2_name_abbrev: Souèges
+tl2_dates: 1876-1967
+tl2_page_id: 33333894
+author_lsid: 12875-1
+wikidata_id: Q6174361
+ipni_surname: Souèges
+ipni_forenames: Etienne Charles René
+ipni_standard_form: Souèges
+ipni_dates: 1876-1967
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

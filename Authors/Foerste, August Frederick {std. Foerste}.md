@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1055
+tl2_volume: vol1
+tl2_page_printed: 850
+tl2_surname: Foerste
+tl2_forenames: August Frederick
+tl2_name_abbrev: Foerste
+tl2_dates: 1862-1936
+tl2_page_id: 33120981
+author_lsid: 2799-1
+wikidata_id: Q4820694
+ipni_surname: Foerste
+ipni_forenames: August Frederick
+ipni_standard_form: Foerste
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

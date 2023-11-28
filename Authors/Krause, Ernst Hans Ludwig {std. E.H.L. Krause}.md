@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0781
+tl2_volume: vol2
+tl2_page_printed: 665
+tl2_surname: Krause
+tl2_forenames: Ernst Hans Ludwig
+tl2_name_abbrev: E.H.L. Krause
+tl2_dates: 1859-1942
+tl2_page_id: 33068907
+author_lsid: 5041-1
+wikidata_id: Q3057351
+ipni_surname: Krause
+ipni_forenames: Ernst Hans Ludwig
+ipni_standard_form: E.H.L.Krause
+ipni_dates: 1859-1942
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

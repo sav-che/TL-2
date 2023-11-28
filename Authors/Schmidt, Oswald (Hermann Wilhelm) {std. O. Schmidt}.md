@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0242
+tl2_volume: vol5
+tl2_page_printed: 259
+tl2_surname: Schmidt
+tl2_forenames: Oswald [Hermann Wilhelm]
+tl2_name_abbrev: O. Schmidt
+tl2_dates: 1907-x
+tl2_page_id: 33333398
+author_lsid: 12833-1
+wikidata_id: Q6054355
+ipni_surname: Schmidt
+ipni_forenames: Oswald (Hermann Wilhelm)
+ipni_standard_form: O.Schmidt
+ipni_dates: 1907-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

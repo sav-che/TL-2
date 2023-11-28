@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0017
+tl2_volume: vol5
+tl2_page_printed: 17
+tl2_surname: Sampaio
+tl2_forenames: Alberto José de
+tl2_name_abbrev: A. Samp.
+tl2_dates: 1881-1946
+tl2_page_id: 33333166
+author_lsid: 8865-1
+wikidata_id: Q5663189
+ipni_surname: Sampaio
+ipni_forenames: Alberto José de
+ipni_standard_form: A.Samp.
+ipni_dates: 1881-1946
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0183
+tl2_volume: vol5
+tl2_page_printed: 182
+tl2_surname: Schipp
+tl2_forenames: William August
+tl2_name_abbrev: Schipp
+tl2_dates: 1891-1967
+tl2_page_id: 33333321
+author_lsid: 9103-1
+wikidata_id: Q21607992
+ipni_surname: Schipp
+ipni_forenames: William August
+ipni_standard_form: Schipp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

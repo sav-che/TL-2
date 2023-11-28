@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1036
+tl2_volume: vol1
+tl2_page_printed: 840
+tl2_surname: Fitch
+tl2_forenames: Walter Hood
+tl2_name_abbrev: W. Fitch
+tl2_dates: 1817-1892
+tl2_page_id: 33120971
+author_lsid: 2760-1
+wikidata_id: Q1102060
+ipni_surname: Fitch
+ipni_forenames: Walter Hood
+ipni_standard_form: Fitch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

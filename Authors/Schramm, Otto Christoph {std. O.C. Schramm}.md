@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0316
+tl2_volume: vol5
+tl2_page_printed: 322
+tl2_surname: Schramm
+tl2_forenames: Otto Christoph
+tl2_name_abbrev: O.C. Schramm
+tl2_dates: 1791-1863
+tl2_page_id: 33333461
+author_lsid: 9253-1
+wikidata_id: Q21608421
+ipni_surname: Schramm
+ipni_forenames: Otto Christoph
+ipni_standard_form: O.C.Schramm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0899
+tl2_volume: vol4
+tl2_page_printed: 878
+tl2_surname: Ronniger
+tl2_forenames: Karl
+tl2_name_abbrev: Ronniger
+tl2_dates: 1871-1954
+tl2_page_id: 33190349
+author_lsid: 8572-1
+wikidata_id: Q5958320
+ipni_surname: Ronniger
+ipni_forenames: Karl(Carl)
+ipni_standard_form: Ronniger
+ipni_dates: 1871-1954
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

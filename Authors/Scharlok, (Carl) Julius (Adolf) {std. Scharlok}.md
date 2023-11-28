@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0126
+tl2_volume: vol5
+tl2_page_printed: 117
+tl2_surname: Scharlok
+tl2_forenames: [Carl] Julius [Adolf]
+tl2_name_abbrev: Scharlok
+tl2_dates: 1809-1899
+tl2_page_id: 33333256
+author_lsid: 12823-1
+wikidata_id: Q21607868
+ipni_surname: Scharlock
+ipni_forenames: (Carl) Julius (Adolf)
+ipni_standard_form: Scharlock
+ipni_dates: 1809-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33333256) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

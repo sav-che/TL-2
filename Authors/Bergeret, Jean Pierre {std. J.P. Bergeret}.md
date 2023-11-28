@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0244
+tl2_volume: vol1
+tl2_page_printed: 190
+tl2_surname: Bergeret
+tl2_forenames: Jean Pierre
+tl2_name_abbrev: J.P. Bergeret
+tl2_dates: 1751-1813
+tl2_page_id: 33120321
+author_lsid: 684-1
+wikidata_id: Q2843926
+ipni_surname: Bergeret
+ipni_forenames: Jean Pierre
+ipni_standard_form: J.P.Bergeret
+ipni_dates: 1751-1813
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-11-25 14:15:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

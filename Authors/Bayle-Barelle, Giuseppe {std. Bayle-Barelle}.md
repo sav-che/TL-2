@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0461
+tl2_volume: suppl1
+tl2_page_printed: 398
+tl2_surname: Bayle-Barelle
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Bayle-Barelle
+tl2_dates: 1768-1811
+tl2_page_id: 33265125
+author_lsid: 568-1
+wikidata_id: Q21505817
+ipni_surname: Bayle-Barelle
+ipni_forenames: Giuseppe
+ipni_standard_form: Bayle-Bar.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

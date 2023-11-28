@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0010
+tl2_volume: vol1
+tl2_page_printed: 7
+tl2_surname: Acosta
+tl2_forenames: Christobal (Christóvão da Costa)
+tl2_name_abbrev: C. Acosta
+tl2_dates: 1512-1580
+tl2_page_id: 33120100
+author_lsid: 57-1
+wikidata_id: Q384460
+ipni_surname: Acosta
+ipni_forenames: Christobal
+ipni_standard_form: C.Acosta
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33120100) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

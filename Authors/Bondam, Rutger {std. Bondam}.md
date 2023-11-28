@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0349
+tl2_volume: vol1
+tl2_page_printed: 270
+tl2_surname: Bondam
+tl2_forenames: Rutger
+tl2_name_abbrev: Bondam
+tl2_dates: 1817-1896
+tl2_page_id: 33120401
+author_lsid: 949-1
+wikidata_id: Q21506281
+ipni_surname: Bondam
+ipni_forenames: Rutger
+ipni_standard_form: Bondam
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33120401) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0478
+tl2_volume: vol2
+tl2_page_printed: 431
+tl2_surname: Jàvorka
+tl2_forenames: Sandor A.
+tl2_name_abbrev: Jáv.
+tl2_dates: 1883-1961
+tl2_page_id: 33068673
+author_lsid: 12580-1
+wikidata_id: Q447834
+ipni_surname: Jávorka
+ipni_forenames: Sándor(Alexander)
+ipni_standard_form: Jáv.
+ipni_dates: 1883-1961
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33068673) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

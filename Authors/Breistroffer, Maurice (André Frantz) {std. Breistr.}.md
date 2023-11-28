@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0057
+tl2_volume: suppl3
+tl2_page_printed: 51
+tl2_surname: Breistroffer
+tl2_forenames: Maurice [André Frantz]
+tl2_name_abbrev: Breistr.
+tl2_dates: 1910-1986
+tl2_page_id: 33266358
+author_lsid: 1110-1
+wikidata_id: Q6006821
+ipni_surname: Breistroffer
+ipni_forenames: Maurice A.F.
+ipni_standard_form: Breistr.
+ipni_dates: 1910-1986
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33266358) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

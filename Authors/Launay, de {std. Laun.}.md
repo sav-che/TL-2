@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0911
+tl2_volume: vol2
+tl2_page_printed: 766
+tl2_surname: Launay
+tl2_forenames: de
+tl2_name_abbrev: Laun.
+tl2_dates: fl. 1993
+tl2_page_id: 33069008
+author_lsid: 5321-1
+wikidata_id: Q3164795
+ipni_surname: Launay
+ipni_forenames: Jean Claude Michel Mordant de
+ipni_standard_form: Laun.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

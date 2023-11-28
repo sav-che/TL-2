@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0171
+tl2_volume: vol7
+tl2_page_printed: 181
+tl2_surname: Wendland
+tl2_forenames: Hermann
+tl2_name_abbrev: H. Wendl.
+tl2_dates: 1825-1903
+tl2_page_id: 33066521
+author_lsid: 11546-1
+wikidata_id: Q66720
+ipni_surname: Wendland
+ipni_forenames: Hermann
+ipni_standard_form: H.Wendl.
+ipni_dates: 1825-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33066521) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

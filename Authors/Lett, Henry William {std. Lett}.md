@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_1023
+tl2_volume: vol2
+tl2_page_printed: 858
+tl2_surname: Lett
+tl2_forenames: Henry William
+tl2_name_abbrev: Lett
+tl2_dates: 1836-1920
+tl2_page_id: 33069100
+author_lsid: 22270-1
+wikidata_id: Q16999734
+ipni_surname: Lett
+ipni_forenames: Henry William
+ipni_standard_form: Lett
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

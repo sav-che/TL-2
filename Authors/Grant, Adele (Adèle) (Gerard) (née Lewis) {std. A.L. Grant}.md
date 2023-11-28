@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0246
+tl2_volume: suppl8
+tl2_page_printed: 330
+tl2_surname: Grant
+tl2_forenames: Adele [Adèle] [Gerard] (née Lewis)
+tl2_name_abbrev: A.L. Grant
+tl2_dates: 1881-1969
+tl2_page_id: 33258808
+author_lsid: 3330-1
+wikidata_id: Q21606742
+ipni_surname: Grant
+ipni_forenames: Adele Lewis
+ipni_standard_form: A.L.Grant
+ipni_dates: 1881-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33258808) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

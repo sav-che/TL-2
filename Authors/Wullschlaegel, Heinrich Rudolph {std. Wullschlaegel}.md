@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0435
+tl2_volume: vol7
+tl2_page_printed: 479
+tl2_surname: Wullschlaegel
+tl2_forenames: Heinrich Rudolph
+tl2_name_abbrev: Wullschlaegel
+tl2_dates: 1805-1864
+tl2_page_id: 33066819
+author_lsid: 11904-1
+wikidata_id: Q205828
+ipni_surname: Wullschlaegel
+ipni_forenames: Heinrich Rudolph
+ipni_standard_form: Wullschl.
+ipni_dates: 1805-1864
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-03-28 15:13:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

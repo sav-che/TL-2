@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0394
+tl2_volume: suppl4
+tl2_page_printed: 478
+tl2_surname: Crossland
+tl2_forenames: Charles
+tl2_name_abbrev: Crossl.
+tl2_dates: 1844-1916
+tl2_page_id: 33266155
+author_lsid: 17542-1
+wikidata_id: Q5076566
+ipni_surname: Crossland
+ipni_forenames: Charles
+ipni_standard_form: Crossl.
+ipni_dates: 1844-1916
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266155) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

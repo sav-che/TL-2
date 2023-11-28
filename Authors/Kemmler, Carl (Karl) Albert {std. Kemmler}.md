@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0614
+tl2_volume: vol2
+tl2_page_printed: 521
+tl2_surname: Kemmler
+tl2_forenames: Carl [Karl] Albert
+tl2_name_abbrev: Kemmler
+tl2_dates: 1813-1888
+tl2_page_id: 33068763
+author_lsid: 4721-1
+wikidata_id: Q15989572
+ipni_surname: Kemmler
+ipni_forenames: Carl(Karl) Albert
+ipni_standard_form: Kemmler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0179
+tl2_volume: suppl5
+tl2_page_printed: 167
+tl2_surname: Delabarre
+tl2_forenames: Edmund Burke
+tl2_name_abbrev: Delabarre
+tl2_dates: 1863-x
+tl2_page_id: 33259213
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259213) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

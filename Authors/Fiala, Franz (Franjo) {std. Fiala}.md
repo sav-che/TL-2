@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0111
+tl2_volume: suppl7
+tl2_page_printed: 171
+tl2_surname: Fiala
+tl2_forenames: Franz [Franjo]
+tl2_name_abbrev: Fiala
+tl2_dates: 1861-1898
+tl2_page_id: 33259675
+author_lsid: 2708-1
+wikidata_id: Q1446766
+ipni_surname: Fiala
+ipni_forenames: Franz
+ipni_standard_form: Fiala
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259675) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

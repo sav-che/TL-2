@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0669
+tl2_volume: vol3
+tl2_page_printed: 577
+tl2_surname: Moretti
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Moretti
+tl2_dates: 1782-1853
+tl2_page_id: 33355664
+author_lsid: 6645-1
+wikidata_id: Q2267751
+ipni_surname: Moretti
+ipni_forenames: Giuseppe L.
+ipni_standard_form: Moretti
+ipni_dates: 1782-1853
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

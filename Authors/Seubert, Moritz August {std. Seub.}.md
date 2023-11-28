@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0517
+tl2_volume: vol5
+tl2_page_printed: 535
+tl2_surname: Seubert
+tl2_forenames: Moritz August
+tl2_name_abbrev: Seub.
+tl2_dates: 1818-1878
+tl2_page_id: 33333674
+author_lsid: 9518-1
+wikidata_id: Q67355
+ipni_surname: Seubert
+ipni_forenames: Moritz August
+ipni_standard_form: Seub.
+ipni_dates: 1818-1878
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33333674) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

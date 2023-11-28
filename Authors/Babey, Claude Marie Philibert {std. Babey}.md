@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0117
+tl2_volume: vol1
+tl2_page_printed: 83
+tl2_surname: Babey
+tl2_forenames: Claude Marie Philibert
+tl2_name_abbrev: Babey
+tl2_dates: 1786-1848
+tl2_page_id: 33120214
+author_lsid: 358-1
+wikidata_id: Q5409645
+ipni_surname: Babey
+ipni_forenames: Claude Marie Philibert
+ipni_standard_form: Babey
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

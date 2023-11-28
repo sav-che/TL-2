@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0279
+tl2_volume: suppl5
+tl2_page_printed: 248
+tl2_surname: De Toni
+tl2_forenames: Giuseppe [Joseph]
+tl2_name_abbrev: G. De Toni
+tl2_dates: fl. 1934-1939
+tl2_page_id: 33259294
+author_lsid: 2166-1
+wikidata_id: Q36561288
+ipni_surname: De Toni
+ipni_forenames: Giuseppe
+ipni_standard_form: G.De Toni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33259294) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

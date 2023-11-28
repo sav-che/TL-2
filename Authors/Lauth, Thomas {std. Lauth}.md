@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0918
+tl2_volume: vol2
+tl2_page_printed: 770
+tl2_surname: Lauth
+tl2_forenames: Thomas
+tl2_name_abbrev: Lauth
+tl2_dates: 1758-1826
+tl2_page_id: 33069012
+author_lsid: 5332-1
+wikidata_id: Q7791731
+ipni_surname: Lauth
+ipni_forenames: Thomas
+ipni_standard_form: Lauth
+ipni_dates: 1758-1826
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

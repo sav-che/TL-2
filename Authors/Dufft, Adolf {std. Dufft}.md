@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0880
+tl2_volume: vol1
+tl2_page_printed: 690
+tl2_surname: Dufft
+tl2_forenames: Adolf
+tl2_name_abbrev: Dufft
+tl2_dates: 1803-1875
+tl2_page_id: 33120821
+author_lsid: 2356-1
+wikidata_id: Q21511008
+ipni_surname: Dufft
+ipni_forenames: Adolf
+ipni_standard_form: Dufft
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

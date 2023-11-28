@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0554
+tl2_volume: vol6
+tl2_page_printed: 551
+tl2_surname: Turquet
+tl2_forenames: Jean
+tl2_name_abbrev: Turquet
+tl2_dates: fl. 1910
+tl2_page_id: 33212593
+author_lsid: 10923-1
+wikidata_id: Q21611073
+ipni_surname: Turquet
+ipni_forenames: Jean
+ipni_standard_form: Turquet
+ipni_dates: 1867-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-11-02 09:58:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0284
+tl2_volume: suppl5
+tl2_page_printed: 251
+tl2_surname: Deventer
+tl2_forenames: Wilhelmina Frederike von
+tl2_name_abbrev: Deventer
+tl2_dates: fl. 1930
+tl2_page_id: 33259297
+author_lsid: 20021246-1
+wikidata_id: Q21502843
+ipni_surname: Deventer
+ipni_forenames: W.
+ipni_standard_form: Deventer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

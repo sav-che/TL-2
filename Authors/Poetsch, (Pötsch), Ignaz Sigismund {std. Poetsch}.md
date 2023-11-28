@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0369
+tl2_volume: vol4
+tl2_page_printed: 312
+tl2_surname: Poetsch [Pötsch]
+tl2_forenames: Ignaz Sigismund
+tl2_name_abbrev: Poetsch
+tl2_dates: 1823-1884
+tl2_page_id: 33189783
+author_lsid: 7780-1
+wikidata_id: Q21341243
+ipni_surname: Poetsch
+ipni_forenames: Ignaz Sigismund
+ipni_standard_form: Poetsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33189783) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

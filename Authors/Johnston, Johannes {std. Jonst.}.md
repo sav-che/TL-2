@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0527
+tl2_volume: vol2
+tl2_page_printed: 460
+tl2_surname: Johnston
+tl2_forenames: Johannes
+tl2_name_abbrev: Jonst.
+tl2_dates: 1603-1675
+tl2_page_id: 33068702
+author_lsid: 12586-1
+wikidata_id: Q1700641
+ipni_surname: Jonston
+ipni_forenames: Johannes
+ipni_standard_form: Jonst.
+ipni_dates: 1603-1675
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

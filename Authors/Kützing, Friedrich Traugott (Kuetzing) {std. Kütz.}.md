@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0812
+tl2_volume: vol2
+tl2_page_printed: 684
+tl2_surname: Kützing
+tl2_forenames: Friedrich Traugott (Kuetzing)
+tl2_name_abbrev: Kütz.
+tl2_dates: 1807-1893
+tl2_page_id: 33068926
+author_lsid: 5113-1
+wikidata_id: Q72181
+ipni_surname: Kützing
+ipni_forenames: Friedrich Traugott
+ipni_standard_form: Kütz.
+ipni_dates: 1807-1893
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

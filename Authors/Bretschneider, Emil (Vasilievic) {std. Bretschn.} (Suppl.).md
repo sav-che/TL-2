@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0070
+tl2_volume: suppl3
+tl2_page_printed: 70
+tl2_surname: Bretschneider
+tl2_forenames: Emil [Vasilievic]
+tl2_name_abbrev: Bretschn.
+tl2_dates: 1833-1901
+tl2_page_id: 33266377
+author_lsid: 1126-1
+wikidata_id: Q551845
+ipni_surname: Bretschneider
+ipni_forenames: Emil (Vasilievic)
+ipni_standard_form: Bretschn.
+ipni_dates: 1833-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33266377) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

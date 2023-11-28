@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl6_0387
+tl2_volume: suppl6
+tl2_page_printed: 345
+tl2_surname: Engelmann
+tl2_forenames: George (Georg)
+tl2_name_abbrev: Engelm.
+tl2_dates: 1809-1884
+tl2_page_id: 33260333
+author_lsid: 18505-1
+wikidata_id: Q214946
+ipni_surname: Engelmann
+ipni_forenames: Georg (George)
+ipni_standard_form: Engelm.
+ipni_dates: 1809-1884
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33260333) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

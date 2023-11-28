@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0556
+tl2_volume: vol1
+tl2_page_printed: 459
+tl2_surname: Carradori
+tl2_forenames: Giovacchino
+tl2_name_abbrev: Carradori
+tl2_dates: 1758-1818
+tl2_page_id: 33120590
+author_lsid: 1417-1
+wikidata_id: Q5659206
+ipni_surname: Carradori
+ipni_forenames: Giovacchino
+ipni_standard_form: Carradori
+ipni_dates: 1758-1818
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0224
+tl2_volume: suppl6
+tl2_page_printed: 213
+tl2_surname: Duursma
+tl2_forenames: G.D.
+tl2_name_abbrev: Duursma
+tl2_dates: fl. 1930
+tl2_page_id: 33260201
+author_lsid: 20014021-1
+wikidata_id: Q14954725
+ipni_surname: Duursma
+ipni_forenames: G.D.
+ipni_standard_form: Duursma
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33260201) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

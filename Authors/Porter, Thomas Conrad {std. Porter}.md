@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0421
+tl2_volume: vol4
+tl2_page_printed: 346
+tl2_surname: Porter
+tl2_forenames: Thomas Conrad
+tl2_name_abbrev: Porter
+tl2_dates: 1822-1901
+tl2_page_id: 33189817
+author_lsid: 7866-1
+wikidata_id: Q48627
+ipni_surname: Porter
+ipni_forenames: Thomas Conrad
+ipni_standard_form: Porter
+ipni_dates: 1822-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

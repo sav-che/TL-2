@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0268
+tl2_volume: vol4
+tl2_page_printed: 233
+tl2_surname: Philip
+tl2_forenames: Robert Harris
+tl2_name_abbrev: Philip
+tl2_dates: 1852-1912
+tl2_page_id: 33189704
+author_lsid: 7635-1
+wikidata_id: Q21522945
+ipni_surname: Philip
+ipni_forenames: Robert Harris
+ipni_standard_form: Philip
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

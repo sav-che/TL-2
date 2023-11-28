@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0320
+tl2_volume: vol3
+tl2_page_printed: 284
+tl2_surname: Maratti
+tl2_forenames: Giovanni Francesco
+tl2_name_abbrev: Maratti
+tl2_dates: 1723-1777
+tl2_page_id: 33355371
+author_lsid: 6084-1
+wikidata_id: Q4281099
+ipni_surname: Maratti
+ipni_forenames: Giovanni Francesco
+ipni_standard_form: Maratti
+ipni_dates: 1723-1777
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-12-03 02:49:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

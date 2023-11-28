@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0413
+tl2_volume: vol2
+tl2_page_printed: 385
+tl2_surname: Ingham
+tl2_forenames: William
+tl2_name_abbrev: Ingh.
+tl2_dates: 1854-1923
+tl2_page_id: 33068627
+author_lsid: 4294-1
+wikidata_id: Q21516758
+ipni_surname: Ingham
+ipni_forenames: William
+ipni_standard_form: Ingham
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

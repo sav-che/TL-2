@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0320
+tl2_volume: vol4
+tl2_page_printed: 268
+tl2_surname: Pinchot
+tl2_forenames: Gifford
+tl2_name_abbrev: Pinchot
+tl2_dates: 1865-1946
+tl2_page_id: 33189739
+author_lsid: 7711-1
+wikidata_id: Q534301
+ipni_surname: Pinchot
+ipni_forenames: Giffard
+ipni_standard_form: Pinchot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

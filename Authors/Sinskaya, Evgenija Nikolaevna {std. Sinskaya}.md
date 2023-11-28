@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0622
+tl2_volume: vol5
+tl2_page_printed: 618
+tl2_surname: Sinskaya
+tl2_forenames: Evgenija Nikolaevna
+tl2_name_abbrev: Sinskaya
+tl2_dates: 1889-1965
+tl2_page_id: 33333757
+author_lsid: 12868-1
+wikidata_id: Q4420417
+ipni_surname: Sinskaya
+ipni_forenames: Eugeniya Nikolayevna
+ipni_standard_form: Sinskaya
+ipni_dates: 1889-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33333757) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

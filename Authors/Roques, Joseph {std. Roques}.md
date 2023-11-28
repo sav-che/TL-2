@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0903
+tl2_volume: vol4
+tl2_page_printed: 880
+tl2_surname: Roques
+tl2_forenames: Joseph
+tl2_name_abbrev: Roques
+tl2_dates: 1772-1850
+tl2_page_id: 33190351
+author_lsid: 8579-1
+wikidata_id: Q16066417
+ipni_surname: Roques
+ipni_forenames: Joseph
+ipni_standard_form: Roques
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33190351) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

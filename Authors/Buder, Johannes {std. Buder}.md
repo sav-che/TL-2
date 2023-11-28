@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0202
+tl2_volume: suppl3
+tl2_page_printed: 205
+tl2_surname: Buder
+tl2_forenames: Johannes
+tl2_name_abbrev: Buder
+tl2_dates: 1884-1966
+tl2_page_id: 33266512
+author_lsid: 32580-1
+wikidata_id: Q99587
+ipni_surname: Buder
+ipni_forenames: Johannes
+ipni_standard_form: Buder
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

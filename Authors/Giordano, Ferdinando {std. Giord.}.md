@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0180
+tl2_volume: suppl8
+tl2_page_printed: 229
+tl2_surname: Giordano
+tl2_forenames: Ferdinando
+tl2_name_abbrev: Giord.
+tl2_dates: fl. 1833-1842
+tl2_page_id: 33258707
+author_lsid: 3170-1
+wikidata_id: Q5858732
+ipni_surname: Giordano
+ipni_forenames: Ferdinando
+ipni_standard_form: Giord.
+ipni_dates: fl. early 19th Cent.
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

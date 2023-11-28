@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0238
+tl2_volume: vol4
+tl2_page_printed: 211
+tl2_surname: Petrowsky [Petrowski, Petrovsky]
+tl2_forenames: Andrei [Andreas] Stanislavovic
+tl2_name_abbrev: Petrowsky
+tl2_dates: 1832-1882
+tl2_page_id: 33189682
+author_lsid: 7597-1
+wikidata_id: Q21522909
+ipni_surname: Petrovsky
+ipni_forenames: Andrei (Andreas) Stanislavovič
+ipni_standard_form: Petrovsky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

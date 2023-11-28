@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0277
+tl2_volume: suppl2
+tl2_page_printed: 223
+tl2_surname: Blomqvist
+tl2_forenames: Sven Gustaf Krister Gustafson
+tl2_name_abbrev: Blomq.
+tl2_dates: 1882-1953
+tl2_page_id: 33265420
+author_lsid: 864-1
+wikidata_id: Q21506209
+ipni_surname: Blomquist
+ipni_forenames: Sven Gustaf Krister Gustafson
+ipni_standard_form: Blomq.
+ipni_dates: 1882-1953
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

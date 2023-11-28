@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0471
+tl2_volume: vol7
+tl2_page_printed: 521
+tl2_surname: Zawadzki [Zawadzsky]
+tl2_forenames: Alexander [Jan Antoni]
+tl2_name_abbrev: Zaw.
+tl2_dates: 1798-1868
+tl2_page_id: 33066861
+author_lsid: 11996-1
+wikidata_id: Q2355765
+ipni_surname: Zawadski
+ipni_forenames: Aleksander (Jan Antoni)
+ipni_standard_form: Zaw.
+ipni_dates: 1798-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-12-29 15:37:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

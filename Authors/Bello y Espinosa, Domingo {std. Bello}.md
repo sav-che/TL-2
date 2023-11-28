@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0225
+tl2_volume: vol1
+tl2_page_printed: 170
+tl2_surname: Bello y Espinosa
+tl2_forenames: Domingo
+tl2_name_abbrev: Bello
+tl2_dates: 1817-1884
+tl2_page_id: 33120301
+author_lsid: 636-1
+wikidata_id: Q1237477
+ipni_surname: Bello y Espinosa
+ipni_forenames: Domingo
+ipni_standard_form: Bello
+ipni_dates: 1817-1884
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33120301) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

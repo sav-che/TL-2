@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0187
+tl2_volume: vol1
+tl2_page_printed: 140
+tl2_surname: Batsch
+tl2_forenames: August Johann Georg Carl
+tl2_name_abbrev: Batsch
+tl2_dates: 1761-1802
+tl2_page_id: 33120271
+author_lsid: 15791-1
+wikidata_id: Q213687
+ipni_surname: Batsch
+ipni_forenames: August Johann Georg Karl
+ipni_standard_form: Batsch
+ipni_dates: 1761-1802
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33120271) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

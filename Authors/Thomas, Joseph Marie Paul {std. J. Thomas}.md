@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0321
+tl2_volume: vol6
+tl2_page_printed: 275
+tl2_surname: Thomas
+tl2_forenames: Joseph Marie Paul
+tl2_name_abbrev: J. Thomas
+tl2_dates: 1872-?
+tl2_page_id: 33212317
+author_lsid: 10596-1
+wikidata_id: Q21610627
+ipni_surname: Thomas
+ipni_forenames: Joseph Marie Paul
+ipni_standard_form: J.Thomas
+ipni_dates: 1872-
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

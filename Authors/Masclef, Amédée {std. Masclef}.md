@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0399
+tl2_volume: vol3
+tl2_page_printed: 347
+tl2_surname: Masclef
+tl2_forenames: Amédée
+tl2_name_abbrev: Masclef
+tl2_dates: 1858-?
+tl2_page_id: 33355434
+author_lsid: 6188-1
+wikidata_id: Q18507759
+ipni_surname: Masclef
+ipni_forenames: Amédée
+ipni_standard_form: Masclef
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

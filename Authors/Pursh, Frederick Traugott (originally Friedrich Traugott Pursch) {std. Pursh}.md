@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0524
+tl2_volume: vol4
+tl2_page_printed: 446
+tl2_surname: Pursh
+tl2_forenames: Frederick Traugott [originally Friedrich Traugott Pursch]
+tl2_name_abbrev: Pursh
+tl2_dates: 1774-1820
+tl2_page_id: 33189917
+author_lsid: 8035-1
+wikidata_id: Q67353
+ipni_surname: Pursh
+ipni_forenames: Frederick Traugott
+ipni_standard_form: Pursh
+ipni_dates: 1774-1820
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33189917) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

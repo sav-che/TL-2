@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0107
+tl2_volume: suppl4
+tl2_page_printed: 137
+tl2_surname: Chopra
+tl2_forenames: Ram Saran
+tl2_name_abbrev: R.S. Chopra
+tl2_dates: 1904-1973
+tl2_page_id: 33265814
+author_lsid: 17215-1
+wikidata_id: Q21508516
+ipni_surname: Chopra
+ipni_forenames: Ram Saran
+ipni_standard_form: R.S.Chopra
+ipni_dates: 1904-
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

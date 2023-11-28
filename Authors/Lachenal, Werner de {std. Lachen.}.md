@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0836
+tl2_volume: vol2
+tl2_page_printed: 714
+tl2_surname: Lachenal
+tl2_forenames: Werner de
+tl2_name_abbrev: Lachen.
+tl2_dates: 1736-1800
+tl2_page_id: 33068956
+author_lsid: 5182-1
+wikidata_id: Q21518266
+ipni_surname: Lachenal
+ipni_forenames: Werner de
+ipni_standard_form: Lachen.
+ipni_dates: 1736-1800
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

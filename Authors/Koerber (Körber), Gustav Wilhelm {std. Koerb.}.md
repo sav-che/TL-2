@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0736
+tl2_volume: vol2
+tl2_page_printed: 603
+tl2_surname: Koerber (Körber)
+tl2_forenames: Gustav Wilhelm
+tl2_name_abbrev: Koerb.
+tl2_dates: 1817-1885
+tl2_page_id: 33068845
+author_lsid: 4923-1
+wikidata_id: Q4251443
+ipni_surname: Körber
+ipni_forenames: Gustav Wilhelm
+ipni_standard_form: Körb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33068845) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

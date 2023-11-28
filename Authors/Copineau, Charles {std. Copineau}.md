@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0280
+tl2_volume: suppl4
+tl2_page_printed: 350
+tl2_surname: Copineau
+tl2_forenames: Charles
+tl2_name_abbrev: Copineau
+tl2_dates: fl. 1866-1898
+tl2_page_id: 33266027
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0361
+tl2_volume: vol4
+tl2_page_printed: 304
+tl2_surname: Pobéguin
+tl2_forenames: Charles Henri Oliver
+tl2_name_abbrev: Pobég.
+tl2_dates: 1856-1951
+tl2_page_id: 33189775
+author_lsid: 7770-1
+wikidata_id: Q8343509
+ipni_surname: Pobéguin
+ipni_forenames: Charles Henri Oliver
+ipni_standard_form: Pobég.
+ipni_dates: 1856-1951
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-06-13 05:18:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

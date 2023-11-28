@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0041
+tl2_volume: suppl4
+tl2_page_printed: 51
+tl2_surname: Chapman
+tl2_forenames: Valentine Jackson
+tl2_name_abbrev: V.J. Chapm.
+tl2_dates: 1910-1980
+tl2_page_id: 33265728
+author_lsid: 32689-1
+wikidata_id: Q7910974
+ipni_surname: Chapman
+ipni_forenames: Valentine Jackson
+ipni_standard_form: V.J.Chapm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33265728) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

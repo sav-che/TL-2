@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0292
+tl2_volume: vol5
+tl2_page_printed: 293
+tl2_surname: Schöpfer
+tl2_forenames: Franz Xaver
+tl2_name_abbrev: Schöpfer
+tl2_dates: 1777-1855
+tl2_page_id: 33333432
+author_lsid: 9223-1
+wikidata_id: Q21608321
+ipni_surname: Schöpfer
+ipni_forenames: Franz Xaver
+ipni_standard_form: Schöpfer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

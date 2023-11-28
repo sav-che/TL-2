@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0671
+tl2_volume: vol2
+tl2_page_printed: 558
+tl2_surname: Kitton
+tl2_forenames: Frederic
+tl2_name_abbrev: Kitton
+tl2_dates: 1827-1895
+tl2_page_id: 33068800
+author_lsid: 4824-1
+wikidata_id: Q21517571
+ipni_surname: Kitton
+ipni_forenames: Frederic
+ipni_standard_form: Kitton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0024
+tl2_volume: vol1
+tl2_page_printed: 24
+tl2_surname: Aitchison
+tl2_forenames: James Edward Tierney
+tl2_name_abbrev: Aitch.
+tl2_dates: 1836-1898
+tl2_page_id: 33120155
+author_lsid: 108-1
+wikidata_id: Q1680330
+ipni_surname: Aitchison
+ipni_forenames: James Edward Tierney
+ipni_standard_form: Aitch.
+ipni_dates: 1836-1898
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33120155) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

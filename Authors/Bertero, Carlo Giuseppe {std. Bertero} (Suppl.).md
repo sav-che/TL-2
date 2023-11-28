@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl2_0139
+tl2_volume: suppl2
+tl2_page_printed: 118
+tl2_surname: Bertero
+tl2_forenames: Carlo Giuseppe
+tl2_name_abbrev: Bertero
+tl2_dates: 1789-1831
+tl2_page_id: 33265315
+author_lsid: 16031-1
+wikidata_id: Q522467
+ipni_surname: Bertero
+ipni_forenames: Carlo Luigi Giuseppe
+ipni_standard_form: Bertero
+ipni_dates: 1789-1831
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+- Chile
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-11-28 09:47:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33265315) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

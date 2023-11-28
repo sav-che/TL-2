@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1179
+tl2_volume: vol1
+tl2_page_printed: 937
+tl2_surname: Geuns
+tl2_forenames: Steven Jan van
+tl2_name_abbrev: S. Geuns
+tl2_dates: 1767-1795
+tl2_page_id: 33121068
+author_lsid: 3116-1
+wikidata_id: Q6134284
+ipni_surname: Geuns
+ipni_forenames: Steven Jan van
+ipni_standard_form: S.Geuns
+ipni_dates: 1767-1795
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

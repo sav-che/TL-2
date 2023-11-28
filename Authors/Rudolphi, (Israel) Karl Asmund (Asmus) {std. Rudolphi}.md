@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1006
+tl2_volume: vol4
+tl2_page_printed: 974
+tl2_surname: Rudolphi
+tl2_forenames: [Israel] Karl Asmund [Asmus]
+tl2_name_abbrev: Rudolphi
+tl2_dates: 1771-1832
+tl2_page_id: 33190445
+author_lsid: 8714-1
+wikidata_id: Q63159
+ipni_surname: Rudolphi
+ipni_forenames: (Israel) Karl Asmund (Carl Asmunt(Asmus))
+ipni_standard_form: Rudolphi
+ipni_dates: 1771-1832
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

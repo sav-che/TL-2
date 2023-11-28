@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0429
+tl2_volume: vol3
+tl2_page_printed: 375
+tl2_surname: Maublanc
+tl2_forenames: André
+tl2_name_abbrev: Maubl.
+tl2_dates: 1880-1958
+tl2_page_id: 33355462
+author_lsid: 23078-1
+wikidata_id: Q2848277
+ipni_surname: Maublanc
+ipni_forenames: André
+ipni_standard_form: Maubl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

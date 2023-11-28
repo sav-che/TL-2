@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0063
+tl2_volume: suppl4
+tl2_page_printed: 69
+tl2_surname: Chavan
+tl2_forenames: Appasahet Ramchandrarao
+tl2_name_abbrev: Chavan
+tl2_dates: fl. 1930-1970
+tl2_page_id: 33265746
+author_lsid: 17123-1
+wikidata_id: Q36500449
+ipni_surname: Chavan
+ipni_forenames: Appasaheb Ramachandaroo
+ipni_standard_form: Chavan
+ipni_dates: fl. 1937
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265746) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0626
+tl2_volume: vol5
+tl2_page_printed: 622
+tl2_surname: Sirodot
+tl2_forenames: Simon
+tl2_name_abbrev: Sirodot
+tl2_dates: 1825-1903
+tl2_page_id: 33333761
+author_lsid: 30427-1
+wikidata_id: Q16945443
+ipni_surname: Sirodot
+ipni_forenames: Simon
+ipni_standard_form: Sirodot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33333761) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

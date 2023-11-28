@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0632
+tl2_volume: vol3
+tl2_page_printed: 546
+tl2_surname: Moldenke
+tl2_forenames: Harold Norman
+tl2_name_abbrev: Moldenke
+tl2_dates: 1909-x
+tl2_page_id: 33355633
+author_lsid: 6570-1
+wikidata_id: Q3127627
+ipni_surname: Moldenke
+ipni_forenames: Harold Norman
+ipni_standard_form: Moldenke
+ipni_dates: 1909-1996
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

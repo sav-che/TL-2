@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0229
+tl2_volume: suppl8
+tl2_page_printed: 308
+tl2_surname: Goor
+tl2_forenames: Andreas Cornelis Joseph van
+tl2_name_abbrev: Goor
+tl2_dates: 1881-1925
+tl2_page_id: 33258786
+author_lsid: 3273-1
+wikidata_id: Q21514128
+ipni_surname: Goor
+ipni_forenames: Andreas Cornelis Joseph van
+ipni_standard_form: Goor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33258786) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

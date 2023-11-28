@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0324
+tl2_volume: vol7
+tl2_page_printed: 366
+tl2_surname: Winkelmann
+tl2_forenames: Johannes
+tl2_name_abbrev: Winkelmann
+tl2_dates: 1842-1921
+tl2_page_id: 33066706
+author_lsid: 11763-1
+wikidata_id: Q21612826
+ipni_surname: Winkelmann
+ipni_forenames: Johannes
+ipni_standard_form: Wink.
+ipni_dates: 1842-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33066706) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

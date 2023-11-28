@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0822
+tl2_volume: vol2
+tl2_page_printed: 702
+tl2_surname: Kunze
+tl2_forenames: Gustav
+tl2_name_abbrev: Kunze
+tl2_dates: 1793-1851
+tl2_page_id: 33068944
+author_lsid: 21870-1
+wikidata_id: Q65400
+ipni_surname: Kunze
+ipni_forenames: Gustav
+ipni_standard_form: Kunze
+ipni_dates: 1793-1851
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33068944) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0203
+tl2_volume: suppl7
+tl2_page_printed: 307
+tl2_surname: Fonvert
+tl2_forenames: Amédée de [Alexandre Jean Baptiste Am. Reinaud de Fonvert]
+tl2_name_abbrev: Rein. Fonv.
+tl2_dates: 1797-1872
+tl2_page_id: 33259811
+author_lsid: 8264-1
+wikidata_id: Q21607090
+ipni_surname: Reinaud de Fonvert
+ipni_forenames: Alexandre Jean Baptiste
+ipni_standard_form: Rein.Fonv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33259811) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0063
+tl2_volume: vol6
+tl2_page_printed: 51
+tl2_surname: Ströse
+tl2_forenames: Karl
+tl2_name_abbrev: Ströse
+tl2_dates: 1853-?
+tl2_page_id: 33212055
+author_lsid: 10225-1
+wikidata_id: Q21609962
+ipni_surname: Ströse
+ipni_forenames: Karl
+ipni_standard_form: Ströse
+ipni_dates: 1853-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33212055) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

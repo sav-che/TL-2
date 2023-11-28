@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0589
+tl2_volume: vol3
+tl2_page_printed: 506
+tl2_surname: Minden
+tl2_forenames: Max D. von
+tl2_name_abbrev: Minden
+tl2_dates: 1871-?
+tl2_page_id: 33355593
+author_lsid: 23422-1
+wikidata_id: Q21521530
+ipni_surname: Minden
+ipni_forenames: Max D.von
+ipni_standard_form: Minden
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

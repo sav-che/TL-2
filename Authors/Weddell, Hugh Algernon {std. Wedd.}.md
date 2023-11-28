@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol7_0132
+tl2_volume: vol7
+tl2_page_printed: 137
+tl2_surname: Weddell
+tl2_forenames: Hugh Algernon
+tl2_name_abbrev: Wedd.
+tl2_dates: 1819-1877
+tl2_page_id: 33066477
+author_lsid: 11480-1
+wikidata_id: Q983408
+ipni_surname: Weddell
+ipni_forenames: Hugh Algernon
+ipni_standard_form: Wedd.
+ipni_dates: 1819-1877
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Peru
+- Brazil
+- Bolivia
+- France
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33066477) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

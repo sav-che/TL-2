@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0634
+tl2_volume: vol4
+tl2_page_printed: 610
+tl2_surname: Rayner
+tl2_forenames: John Frederick
+tl2_name_abbrev: Rayner
+tl2_dates: 1854-1947
+tl2_page_id: 33190081
+author_lsid: 8196-1
+wikidata_id: Q21607030
+ipni_surname: Rayner
+ipni_forenames: John Frederick
+ipni_standard_form: Rayner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

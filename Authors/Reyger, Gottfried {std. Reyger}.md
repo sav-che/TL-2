@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0735
+tl2_volume: vol4
+tl2_page_printed: 749
+tl2_surname: Reyger
+tl2_forenames: Gottfried
+tl2_name_abbrev: Reyger
+tl2_dates: 1704-1788
+tl2_page_id: 33190220
+author_lsid: 8325-1
+wikidata_id: Q610570
+ipni_surname: Reyger
+ipni_forenames: Gottfried
+ipni_standard_form: Reyger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

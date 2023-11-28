@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0493
+tl2_volume: vol7
+tl2_page_printed: 541
+tl2_surname: Zimmermann
+tl2_forenames: Oscar Emil Reinhold
+tl2_name_abbrev: O.E.R. Zimmerm.
+tl2_dates: x-1902
+tl2_page_id: 33066881
+author_lsid: 12039-1
+wikidata_id: Q21613675
+ipni_surname: Zimmermann
+ipni_forenames: Oscar Emil Reinhold
+ipni_standard_form: O.E.R.Zimm.
+ipni_dates: -1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33066881) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0419
+tl2_volume: suppl3
+tl2_page_printed: 458
+tl2_surname: Castle
+tl2_forenames: Hempstead
+tl2_name_abbrev: H. Castle
+tl2_dates: 1894-x
+tl2_page_id: 33266765
+author_lsid: 16984-1
+wikidata_id: Q21508012
+ipni_surname: Castle
+ipni_forenames: Hempstead
+ipni_standard_form: Castle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33266765) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

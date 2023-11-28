@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0762
+tl2_volume: vol3
+tl2_page_printed: 655
+tl2_surname: Münter
+tl2_forenames: Johann Andreas Heinrich August Julius
+tl2_name_abbrev: Münter
+tl2_dates: 1815-1885
+tl2_page_id: 33355742
+author_lsid: 6755-1
+wikidata_id: Q110261
+ipni_surname: Münter
+ipni_forenames: Johann Andreas Heinrich August Julius
+ipni_standard_form: Münter
+ipni_dates: 1815-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

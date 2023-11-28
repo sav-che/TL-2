@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0102
+tl2_volume: suppl4
+tl2_page_printed: 131
+tl2_surname: Choisy
+tl2_forenames: Jacques-Denis
+tl2_name_abbrev: Choisy
+tl2_dates: 1799-1859
+tl2_page_id: 33265808
+author_lsid: 12379-1
+wikidata_id: Q4527095
+ipni_surname: Choisy
+ipni_forenames: Jacques Denys (Denis)
+ipni_standard_form: Choisy
+ipni_dates: 1799-1859
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265808) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

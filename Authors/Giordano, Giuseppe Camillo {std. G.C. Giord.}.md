@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0181
+tl2_volume: suppl8
+tl2_page_printed: 229
+tl2_surname: Giordano
+tl2_forenames: Giuseppe Camillo
+tl2_name_abbrev: G.C. Giord.
+tl2_dates: 1841-1901
+tl2_page_id: 33258707
+author_lsid: 19366-1
+wikidata_id: Q17284981
+ipni_surname: Giordano
+ipni_forenames: Giuseppe Camillo
+ipni_standard_form: G.C.Giord.
+ipni_dates: 1841-1901
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

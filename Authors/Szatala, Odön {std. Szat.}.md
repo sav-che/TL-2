@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0157
+tl2_volume: vol6
+tl2_page_printed: 143
+tl2_surname: Szatala
+tl2_forenames: Odön
+tl2_name_abbrev: Szat.
+tl2_dates: 1889-1958
+tl2_page_id: 33212185
+author_lsid: 27435-1
+wikidata_id: Q21338840
+ipni_surname: Szatala
+ipni_forenames: Ödön
+ipni_standard_form: Szatala
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0206
+tl2_volume: suppl4
+tl2_page_printed: 270
+tl2_surname: Collinder
+tl2_forenames: Erik
+tl2_name_abbrev: Collinder
+tl2_dates: 1848-1920
+tl2_page_id: 33265947
+author_lsid: 1742-1
+wikidata_id: Q18238178
+ipni_surname: Collinder
+ipni_forenames: Erik
+ipni_standard_form: Collinder
+ipni_dates: 1848-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0180
+tl2_volume: suppl6
+tl2_page_printed: 169
+tl2_surname: Duncan
+tl2_forenames: Andrew
+tl2_name_abbrev: A. Duncan
+tl2_dates: 1773-1832
+tl2_page_id: 33260157
+author_lsid: 2375-1
+wikidata_id: Q21511051
+ipni_surname: Duncan
+ipni_forenames: Andrew
+ipni_standard_form: A.Duncan
+ipni_dates: 1773-1828
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33260157) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

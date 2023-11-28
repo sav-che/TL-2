@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0381
+tl2_volume: suppl4
+tl2_page_printed: 453
+tl2_surname: Creevey
+tl2_forenames: Caroline Alathea (neé Stickney)
+tl2_name_abbrev: Creevey
+tl2_dates: 1843-1920
+tl2_page_id: 33266130
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

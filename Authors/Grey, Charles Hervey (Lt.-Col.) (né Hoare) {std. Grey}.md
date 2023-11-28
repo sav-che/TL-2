@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0270
+tl2_volume: suppl8
+tl2_page_printed: 383
+tl2_surname: Grey
+tl2_forenames: Charles Hervey (Lt.-Col.) (né Hoare)
+tl2_name_abbrev: Grey
+tl2_dates: 1875-1955
+tl2_page_id: 33258861
+author_lsid: 3382-1
+wikidata_id: Q5764898
+ipni_surname: Grey
+ipni_forenames: Charles Hervey
+ipni_standard_form: Grey
+ipni_dates: 1875-1955
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33258861) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0273
+tl2_volume: suppl4
+tl2_page_printed: 338
+tl2_surname: Cooper
+tl2_forenames: George Proctor
+tl2_name_abbrev: G.P. Cooper
+tl2_dates: 1896-x
+tl2_page_id: 33266015
+author_lsid: 20013194-1
+wikidata_id: Q21509011
+ipni_surname: Cooper
+ipni_forenames: George Proctor
+ipni_standard_form: G.P.Cooper
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

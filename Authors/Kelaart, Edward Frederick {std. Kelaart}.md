@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0604
+tl2_volume: vol2
+tl2_page_printed: 514
+tl2_surname: Kelaart
+tl2_forenames: Edward Frederick
+tl2_name_abbrev: Kelaart
+tl2_dates: 1818?-1860
+tl2_page_id: 33068756
+author_lsid: 4699-1
+wikidata_id: Q766062
+ipni_surname: Kelaart
+ipni_forenames: Edward Frederick (Eduard Frederik)
+ipni_standard_form: Kelaart
+ipni_dates: 1818?-1860
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+- Sri Lanka
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0464
+tl2_volume: vol2
+tl2_page_printed: 421
+tl2_surname: Jameson
+tl2_forenames: William (in S. America Guilielmo)
+tl2_name_abbrev: W. Jameson
+tl2_dates: 1796-1873
+tl2_page_id: 33068663
+author_lsid: 4415-1
+wikidata_id: Q8013504
+ipni_surname: Jameson
+ipni_forenames: William
+ipni_standard_form: Jameson
+ipni_dates: 1796-1873
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ecuador
+- Greenland
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

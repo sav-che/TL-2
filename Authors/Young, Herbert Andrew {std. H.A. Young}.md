@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0452
+tl2_volume: vol7
+tl2_page_printed: 492
+tl2_surname: Young
+tl2_forenames: Herbert Andrew
+tl2_name_abbrev: H.A. Young
+tl2_dates: 1857-1894
+tl2_page_id: 33066832
+author_lsid: 11948-1
+wikidata_id: Q21613309
+ipni_surname: Young
+ipni_forenames: Herbert Andrew
+ipni_standard_form: H.A.Young
+ipni_dates: 1857-1894
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33066832) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0091
+tl2_volume: vol2
+tl2_page_printed: 62
+tl2_surname: Hartinger
+tl2_forenames: Anton
+tl2_name_abbrev: Hartinger
+tl2_dates: 1806-1890
+tl2_page_id: 33068304
+author_lsid: 3686-1
+wikidata_id: Q4775791
+ipni_surname: Hartinger
+ipni_forenames: Anton
+ipni_standard_form: Hartinger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

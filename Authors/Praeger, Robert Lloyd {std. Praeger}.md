@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0453
+tl2_volume: vol4
+tl2_page_printed: 372
+tl2_surname: Praeger
+tl2_forenames: Robert Lloyd
+tl2_name_abbrev: Praeger
+tl2_dates: 1865-1953
+tl2_page_id: 33189843
+author_lsid: 7920-1
+wikidata_id: Q3776786
+ipni_surname: Praeger
+ipni_forenames: Robert Lloyd
+ipni_standard_form: Praeger
+ipni_dates: 1865-1953
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

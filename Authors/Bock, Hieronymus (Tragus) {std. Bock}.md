@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0315
+tl2_volume: vol1
+tl2_page_printed: 243
+tl2_surname: Bock
+tl2_forenames: Hieronymus (Tragus)
+tl2_name_abbrev: Bock
+tl2_dates: 1498-1554
+tl2_page_id: 33120374
+author_lsid: 882-1
+wikidata_id: Q60769
+ipni_surname: Bock
+ipni_forenames: Hieronymous (Tragus)
+ipni_standard_form: H.Bock
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

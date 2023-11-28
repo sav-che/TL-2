@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0395
+tl2_volume: suppl3
+tl2_page_printed: 430
+tl2_surname: Carson
+tl2_forenames: Joseph
+tl2_name_abbrev: Carson
+tl2_dates: 1808-1876
+tl2_page_id: 33266737
+author_lsid: 1426-1
+wikidata_id: Q15677195
+ipni_surname: Carson
+ipni_forenames: Joseph
+ipni_standard_form: Carson
+ipni_dates: 1808-1876
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266737) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0648
+tl2_volume: vol1
+tl2_page_printed: 517
+tl2_surname: Coemans
+tl2_forenames: Abbé Henri Eugène Lucien Gaëtan
+tl2_name_abbrev: Coem.
+tl2_dates: 1825-1871
+tl2_page_id: 33120648
+author_lsid: 1718-1
+wikidata_id: Q4251070
+ipni_surname: Coemans
+ipni_forenames: Henri Eugène Lucien Gaëtan
+ipni_standard_form: Coem.
+ipni_dates: 1825-1871
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

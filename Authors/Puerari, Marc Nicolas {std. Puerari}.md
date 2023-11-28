@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0512
+tl2_volume: vol4
+tl2_page_printed: 423
+tl2_surname: Puerari
+tl2_forenames: Marc Nicolas
+tl2_name_abbrev: Puerari
+tl2_dates: 1766-1845
+tl2_page_id: 33189894
+author_lsid: 8010-1
+wikidata_id: Q3288287
+ipni_surname: Puerari
+ipni_forenames: Marc Nicolas
+ipni_standard_form: Puerari
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0351
+tl2_volume: vol7
+tl2_page_printed: 394
+tl2_surname: Wiström
+tl2_forenames: Per Wilhelm
+tl2_name_abbrev: P. Wiström
+tl2_dates: 1865-1926
+tl2_page_id: 33066734
+author_lsid: 11792-1
+wikidata_id: Q21612872
+ipni_surname: Wiström
+ipni_forenames: Per Wilhelm
+ipni_standard_form: P.Wiström
+ipni_dates: 1865-1926
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

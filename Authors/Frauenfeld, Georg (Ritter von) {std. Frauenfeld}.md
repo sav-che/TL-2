@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1091
+tl2_volume: vol1
+tl2_page_printed: 873
+tl2_surname: Frauenfeld
+tl2_forenames: Georg [Ritter von]
+tl2_name_abbrev: Frauenfeld
+tl2_dates: 1807-1873
+tl2_page_id: 33121004
+author_lsid: 2889-1
+wikidata_id: Q78681
+ipni_surname: Frauenfeld
+ipni_forenames: Georg von
+ipni_standard_form: Frauenf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

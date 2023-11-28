@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0048
+tl2_volume: vol4
+tl2_page_printed: 41
+tl2_surname: Pancher
+tl2_forenames: Jean Armand Isidore
+tl2_name_abbrev: Pancher
+tl2_dates: 1814-1877
+tl2_page_id: 33189474
+author_lsid: 7302-1
+wikidata_id: Q3170415
+ipni_surname: Pancher
+ipni_forenames: Jean Armand Isidore
+ipni_standard_form: Pancher
+ipni_dates: 1814-1877
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- New Caledonia
+- French Polynesia
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

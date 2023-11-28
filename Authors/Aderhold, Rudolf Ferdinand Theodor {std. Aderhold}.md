@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0039
+tl2_volume: suppl1
+tl2_page_printed: 29
+tl2_surname: Aderhold
+tl2_forenames: Rudolf Ferdinand Theodor
+tl2_name_abbrev: Aderhold
+tl2_dates: 1865-1907
+tl2_page_id: 33264718
+author_lsid: 30653-1
+wikidata_id: Q2172302
+ipni_surname: Aderhold
+ipni_forenames: Rudolph Ferdinand Theodor
+ipni_standard_form: Aderh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33264718) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0242
+tl2_volume: suppl7
+tl2_page_printed: 369
+tl2_surname: Francé [Franzé]
+tl2_forenames: Raoul [Rudolf, Reszö] Heinrich
+tl2_name_abbrev: Francé
+tl2_dates: 1874-1943
+tl2_page_id: 33259873
+author_lsid: 2867-1
+wikidata_id: Q88918
+ipni_surname: Francé
+ipni_forenames: Raoul Heinrich
+ipni_standard_form: Francé
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0664
+tl2_volume: vol4
+tl2_page_printed: 649
+tl2_surname: Regneil
+tl2_forenames: Anders Fredrik
+tl2_name_abbrev: Regnell
+tl2_dates: 1807-1884
+tl2_page_id: 33190120
+author_lsid: 8240-1
+wikidata_id: Q4753777
+ipni_surname: Regnell
+ipni_forenames: Anders Fredrik
+ipni_standard_form: Regnell
+ipni_dates: 1807-1884
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33190120) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

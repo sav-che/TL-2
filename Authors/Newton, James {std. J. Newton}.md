@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0866
+tl2_volume: vol3
+tl2_page_printed: 738
+tl2_surname: Newton
+tl2_forenames: James
+tl2_name_abbrev: J. Newton
+tl2_dates: 1639-1718
+tl2_page_id: 33355825
+author_lsid: 6954-1
+wikidata_id: Q21522119
+ipni_surname: Newton
+ipni_forenames: James
+ipni_standard_form: J.Newton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

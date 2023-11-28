@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1202
+tl2_volume: vol1
+tl2_page_printed: 953
+tl2_surname: Gleichen
+tl2_forenames: Wilhelm Friedrich, Freiherr von, genannt Rusworm [Russwurm]
+tl2_name_abbrev: Gleichen
+tl2_dates: 1717-1783
+tl2_page_id: 33121084
+author_lsid: 3194-1
+wikidata_id: Q8002161
+ipni_surname: Gleichen
+ipni_forenames: Wilhelm Friedrich von
+ipni_standard_form: Gleichen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

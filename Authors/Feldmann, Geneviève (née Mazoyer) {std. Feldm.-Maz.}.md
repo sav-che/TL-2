@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0074
+tl2_volume: suppl7
+tl2_page_printed: 115
+tl2_surname: Feldmann
+tl2_forenames: Geneviève (née Mazoyer)
+tl2_name_abbrev: Feldm.-Maz.
+tl2_dates: 1910-1994
+tl2_page_id: 33259619
+author_lsid: 33083-1
+wikidata_id: Q21512769
+ipni_surname: Feldmann-Mazoyer
+ipni_forenames: Geneviève
+ipni_standard_form: Feldm.-Maz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

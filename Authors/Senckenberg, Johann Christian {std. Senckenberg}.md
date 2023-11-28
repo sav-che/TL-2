@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0492
+tl2_volume: vol5
+tl2_page_printed: 502
+tl2_surname: Senckenberg
+tl2_forenames: Johann Christian
+tl2_name_abbrev: Senckenberg
+tl2_dates: 1707-1772
+tl2_page_id: 33333641
+author_lsid: 9477-1
+wikidata_id: Q98077
+ipni_surname: Senckenberg
+ipni_forenames: Johann Christian
+ipni_standard_form: Senck.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

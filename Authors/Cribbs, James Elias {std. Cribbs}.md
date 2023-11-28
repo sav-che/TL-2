@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0385
+tl2_volume: suppl4
+tl2_page_printed: 468
+tl2_surname: Cribbs
+tl2_forenames: James Elias
+tl2_name_abbrev: Cribbs
+tl2_dates: 1891-x
+tl2_page_id: 33266145
+author_lsid: 33982-1
+wikidata_id: Q36588371
+ipni_surname: Cribbs
+ipni_forenames: J.E.
+ipni_standard_form: Cribbs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

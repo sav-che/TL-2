@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0709
+tl2_volume: vol3
+tl2_page_printed: 602
+tl2_surname: Moss
+tl2_forenames: Ezra Henry
+tl2_name_abbrev: E. Moss
+tl2_dates: 1892-1963
+tl2_page_id: 33355689
+author_lsid: 6699-1
+wikidata_id: Q20722972
+ipni_surname: Moss
+ipni_forenames: Ezra Henry
+ipni_standard_form: E.Moss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33355689) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

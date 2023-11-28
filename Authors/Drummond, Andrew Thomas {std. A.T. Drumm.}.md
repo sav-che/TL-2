@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0118
+tl2_volume: suppl6
+tl2_page_printed: 117
+tl2_surname: Drummond
+tl2_forenames: Andrew Thomas
+tl2_name_abbrev: A.T. Drumm.
+tl2_dates: 1843-?
+tl2_page_id: 33260105
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33260105) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

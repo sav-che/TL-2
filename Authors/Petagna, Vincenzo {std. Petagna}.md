@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0208
+tl2_volume: vol4
+tl2_page_printed: 187
+tl2_surname: Petagna
+tl2_forenames: Vincenzo
+tl2_name_abbrev: Petagna
+tl2_dates: 1734-1810
+tl2_page_id: 33189658
+author_lsid: 7559-1
+wikidata_id: Q1089652
+ipni_surname: Petagna
+ipni_forenames: Vincenzo
+ipni_standard_form: Petagna
+ipni_dates: 1734-1810
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

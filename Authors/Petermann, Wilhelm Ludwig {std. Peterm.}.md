@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0213
+tl2_volume: vol4
+tl2_page_printed: 192
+tl2_surname: Petermann
+tl2_forenames: Wilhelm Ludwig
+tl2_name_abbrev: Peterm.
+tl2_dates: 1806-1855
+tl2_page_id: 33189663
+author_lsid: 7565-1
+wikidata_id: Q2574012
+ipni_surname: Petermann
+ipni_forenames: Wilhelm Ludwig
+ipni_standard_form: Peterm.
+ipni_dates: 1806-1855
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

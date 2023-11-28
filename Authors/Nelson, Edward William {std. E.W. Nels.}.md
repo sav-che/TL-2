@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0840
+tl2_volume: vol3
+tl2_page_printed: 724
+tl2_surname: Nelson
+tl2_forenames: Edward William
+tl2_name_abbrev: E.W. Nels.
+tl2_dates: 1855-1934
+tl2_page_id: 33355811
+author_lsid: 6905-1
+wikidata_id: Q536268
+ipni_surname: Nelson
+ipni_forenames: Edward William
+ipni_standard_form: E.W.Nelson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33355811) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

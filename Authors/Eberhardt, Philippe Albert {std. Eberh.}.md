@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0259
+tl2_volume: suppl6
+tl2_page_printed: 247
+tl2_surname: Eberhardt
+tl2_forenames: Philippe Albert
+tl2_name_abbrev: Eberh.
+tl2_dates: 1874-1942
+tl2_page_id: 33260235
+author_lsid: 18348-1
+wikidata_id: Q21511319
+ipni_surname: Eberhardt
+ipni_forenames: Philippe Albert
+ipni_standard_form: Eberh.
+ipni_dates: 1874-1942
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

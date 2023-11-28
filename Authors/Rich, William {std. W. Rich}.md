@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0747
+tl2_volume: vol4
+tl2_page_printed: 757
+tl2_surname: Rich
+tl2_forenames: William
+tl2_name_abbrev: W. Rich
+tl2_dates: fl. 1830-1850
+tl2_page_id: 33190228
+author_lsid: 8347-1
+wikidata_id: Q8017516
+ipni_surname: Rich
+ipni_forenames: William
+ipni_standard_form: W.Rich
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

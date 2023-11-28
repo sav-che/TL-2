@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1210
+tl2_volume: vol1
+tl2_page_printed: 957
+tl2_surname: Gmelin
+tl2_forenames: Philipp Friedrich
+tl2_name_abbrev: P.F. Gmelin
+tl2_dates: 1721-1768
+tl2_page_id: 33121088
+author_lsid: 3205-1
+wikidata_id: Q98731
+ipni_surname: Gmelin
+ipni_forenames: Philipp Friedrich
+ipni_standard_form: P.F.Gmel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 957](https://www.biodiversitylibrary.org/page/33121088) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0821
+tl2_volume: vol3
+tl2_page_printed: 700
+tl2_surname: Neal
+tl2_forenames: Adam
+tl2_name_abbrev: A. Neal
+tl2_dates: fl. 1770's
+tl2_page_id: 33355787
+author_lsid: 6878-1
+wikidata_id: Q33686344
+ipni_surname: Neale
+ipni_forenames: Adam
+ipni_standard_form: Neale
+ipni_dates: fl. 1770
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33355787) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

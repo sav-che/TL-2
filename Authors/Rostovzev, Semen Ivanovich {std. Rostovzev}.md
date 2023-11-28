@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0944
+tl2_volume: vol4
+tl2_page_printed: 912
+tl2_surname: Rostovzev
+tl2_forenames: Semen Ivanovich
+tl2_name_abbrev: Rostovzev
+tl2_dates: ca. 1862-1916
+tl2_page_id: 33190383
+author_lsid: 8633-1
+wikidata_id: Q4398540
+ipni_surname: Rostovzev
+ipni_forenames: Semen Ivanovich
+ipni_standard_form: Rostovzev
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

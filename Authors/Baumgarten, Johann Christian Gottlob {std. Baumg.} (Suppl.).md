@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0446
+tl2_volume: suppl1
+tl2_page_printed: 388
+tl2_surname: Baumgarten
+tl2_forenames: Johann Christian Gottlob
+tl2_name_abbrev: Baumg.
+tl2_dates: 1765-1843
+tl2_page_id: 33265115
+author_lsid: 561-1
+wikidata_id: Q64999
+ipni_surname: Baumgarten
+ipni_forenames: Johann Christian Gottlob
+ipni_standard_form: Baumg.
+ipni_dates: 1765-1843
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

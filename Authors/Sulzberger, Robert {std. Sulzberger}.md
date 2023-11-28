@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0111
+tl2_volume: vol6
+tl2_page_printed: 91
+tl2_surname: Sulzberger
+tl2_forenames: Robert
+tl2_name_abbrev: Sulzberger
+tl2_dates: fl. 1888
+tl2_page_id: 33212133
+author_lsid: 35146-1
+wikidata_id: Q36670393
+ipni_surname: Sulzberger
+ipni_forenames: Robert
+ipni_standard_form: Sulzb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33212133) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

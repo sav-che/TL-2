@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0789
+tl2_volume: vol3
+tl2_page_printed: 675
+tl2_surname: Musset
+tl2_forenames: Charles Raymond
+tl2_name_abbrev: Musset
+tl2_dates: 1826-1892
+tl2_page_id: 33355762
+author_lsid: 6816-1
+wikidata_id: Q21521927
+ipni_surname: Musset
+ipni_forenames: Charles Raymond
+ipni_standard_form: Musset
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

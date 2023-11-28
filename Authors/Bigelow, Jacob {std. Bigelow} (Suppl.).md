@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0190
+tl2_volume: suppl2
+tl2_page_printed: 161
+tl2_surname: Bigelow
+tl2_forenames: Jacob
+tl2_name_abbrev: Bigelow
+tl2_dates: 1787-1879
+tl2_page_id: 33265358
+author_lsid: 783-1
+wikidata_id: Q1236142
+ipni_surname: Bigelow
+ipni_forenames: Jacob
+ipni_standard_form: Bigelow
+ipni_dates: 1787-1879
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

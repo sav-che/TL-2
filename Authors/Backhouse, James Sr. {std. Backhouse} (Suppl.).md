@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0284
+tl2_volume: suppl1
+tl2_page_printed: 241
+tl2_surname: Backhouse
+tl2_forenames: James Sr.
+tl2_name_abbrev: Backhouse
+tl2_dates: 1794-1869
+tl2_page_id: 33264968
+author_lsid: 370-1
+wikidata_id: Q2587046
+ipni_surname: Backhouse
+ipni_forenames: James
+ipni_standard_form: Backh.
+ipni_dates: 1794-1869
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33264968) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

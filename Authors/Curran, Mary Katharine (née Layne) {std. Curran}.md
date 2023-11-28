@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0429
+tl2_volume: suppl4
+tl2_page_printed: 511
+tl2_surname: Curran
+tl2_forenames: Mary Katharine (née Layne)
+tl2_name_abbrev: Curran
+tl2_dates: 1844-1920
+tl2_page_id: 33266188
+author_lsid: 12389-1
+wikidata_id: Q451753
+ipni_surname: Curran
+ipni_forenames: Mary Katharine
+ipni_standard_form: Curran
+ipni_dates: 1844-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-09-28 13:32:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

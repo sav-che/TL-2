@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0901
+tl2_volume: vol5
+tl2_page_printed: 895
+tl2_surname: Stephanitz
+tl2_forenames: Alexander Ludwig
+tl2_name_abbrev: Stephanitz
+tl2_dates: fl. 1838
+tl2_page_id: 33334034
+author_lsid: 10105-1
+wikidata_id: Q36511534
+ipni_surname: Stephanitz
+ipni_forenames: Alexander Ludwig
+ipni_standard_form: Stephanitz
+ipni_dates: fl. 1838
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/page/33334034) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

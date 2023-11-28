@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0347
+tl2_volume: suppl2
+tl2_page_printed: 291
+tl2_surname: Boll
+tl2_forenames: Ernst Friedrich August
+tl2_name_abbrev: Boll
+tl2_dates: 1817-1868
+tl2_page_id: 33265488
+author_lsid: 929-1
+wikidata_id: Q105708
+ipni_surname: Boll
+ipni_forenames: Ernst Friedrich August
+ipni_standard_form: Boll
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265488) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

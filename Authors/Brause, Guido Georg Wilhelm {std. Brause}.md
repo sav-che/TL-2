@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0044
+tl2_volume: suppl3
+tl2_page_printed: 41
+tl2_surname: Brause
+tl2_forenames: Guido Georg Wilhelm
+tl2_name_abbrev: Brause
+tl2_dates: 1847-1922
+tl2_page_id: 33266348
+author_lsid: 1092-1
+wikidata_id: Q3119431
+ipni_surname: Brause
+ipni_forenames: Guido Georg Wilhelm
+ipni_standard_form: Brause
+ipni_dates: 1847-1922
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33266348) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol3_0140
+tl2_volume: vol3
+tl2_page_printed: 173
+tl2_surname: Loureiro
+tl2_forenames: João de
+tl2_name_abbrev: Lour.
+tl2_dates: 1717-1791
+tl2_page_id: 33355260
+author_lsid: 22557-1
+wikidata_id: Q729917
+ipni_surname: Loureiro
+ipni_forenames: João de
+ipni_standard_form: Lour.
+ipni_dates: 1717-1791
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Viet Nam
+- Mozambique
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0144
+tl2_volume: vol7
+tl2_page_printed: 150
+tl2_surname: Weigelt
+tl2_forenames: Christoph
+tl2_name_abbrev: Weigelt
+tl2_dates: x-1828
+tl2_page_id: 33066490
+author_lsid: 11498-1
+wikidata_id: Q21612383
+ipni_surname: Weigelt
+ipni_forenames: Christoph
+ipni_standard_form: Weigelt
+ipni_dates: -1828
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33066490) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0572
+tl2_volume: vol5
+tl2_page_printed: 584
+tl2_surname: Sieber
+tl2_forenames: Johann
+tl2_name_abbrev: J. Sieber
+tl2_dates: x-1880
+tl2_page_id: 33333723
+author_lsid: 9613-1
+wikidata_id: Q21608856
+ipni_surname: Sieber
+ipni_forenames: Johann
+ipni_standard_form: J.Sieber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

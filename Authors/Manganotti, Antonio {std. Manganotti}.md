@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0301
+tl2_volume: vol3
+tl2_page_printed: 275
+tl2_surname: Manganotti
+tl2_forenames: Antonio
+tl2_name_abbrev: Manganotti
+tl2_dates: 1810-1892
+tl2_page_id: 33355362
+author_lsid: 6060-1
+wikidata_id: Q21519890
+ipni_surname: Manganotti
+ipni_forenames: Antonio
+ipni_standard_form: Mangan.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

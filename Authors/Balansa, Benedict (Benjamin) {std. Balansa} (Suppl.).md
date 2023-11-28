@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_suppl1_0325
+tl2_volume: suppl1
+tl2_page_printed: 286
+tl2_surname: Balansa
+tl2_forenames: Benedict (Benjamin)
+tl2_name_abbrev: Balansa
+tl2_dates: 1825-1891
+tl2_page_id: 33265013
+author_lsid: 416-1
+wikidata_id: Q536946
+ipni_surname: Balansa
+ipni_forenames: Benedict
+ipni_standard_form: Balansa
+ipni_dates: 1825-1891
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Paraguay
+- France
+- Morocco
+- Viet Nam
+- New Caledonia
+- Algeria
+ipni_version: 1.4
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-01-19 09:14:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

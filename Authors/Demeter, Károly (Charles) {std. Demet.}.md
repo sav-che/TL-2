@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0219
+tl2_volume: suppl5
+tl2_page_printed: 197
+tl2_surname: Demeter
+tl2_forenames: Károly [Charles]
+tl2_name_abbrev: Demet.
+tl2_dates: 1852-1890
+tl2_page_id: 33259243
+author_lsid: 17921-1
+wikidata_id: Q12351009
+ipni_surname: Demeter
+ipni_forenames: Karoly(Charles)
+ipni_standard_form: Demet.
+ipni_dates: 1852-1890
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

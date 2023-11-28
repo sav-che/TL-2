@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0543
+tl2_volume: vol3
+tl2_page_printed: 453
+tl2_surname: Michael
+tl2_forenames: Edmund
+tl2_name_abbrev: Michael
+tl2_dates: 1849-1920
+tl2_page_id: 33355540
+author_lsid: 23341-1
+wikidata_id: Q1286635
+ipni_surname: Michael
+ipni_forenames: Edmund
+ipni_standard_form: Michael
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

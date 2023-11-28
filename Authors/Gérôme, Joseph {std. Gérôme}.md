@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0150
+tl2_volume: suppl8
+tl2_page_printed: 190
+tl2_surname: Gérôme
+tl2_forenames: Joseph
+tl2_name_abbrev: Gérôme
+tl2_dates: 1863-1928
+tl2_page_id: 33258668
+author_lsid: 12146-1
+wikidata_id: Q5937012
+ipni_surname: Gérôme
+ipni_forenames: Joseph
+ipni_standard_form: Gérôme
+ipni_dates: 1863-1928
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33258668) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

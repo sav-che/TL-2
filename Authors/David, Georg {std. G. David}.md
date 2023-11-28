@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0103
+tl2_volume: suppl5
+tl2_page_printed: 96
+tl2_surname: David
+tl2_forenames: Georg
+tl2_name_abbrev: G. David
+tl2_dates: 1848-?
+tl2_page_id: 33259142
+author_lsid: 20002716-1
+wikidata_id: Q47116049
+ipni_surname: David
+ipni_forenames: Georg
+ipni_standard_form: G.David
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

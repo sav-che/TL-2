@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0798
+tl2_volume: vol3
+tl2_page_printed: 681
+tl2_surname: Nádvornik
+tl2_forenames: Joseph (Josef)
+tl2_name_abbrev: Nádv.
+tl2_dates: 1906-1977
+tl2_page_id: 33355768
+author_lsid: 6832-1
+wikidata_id: Q21339575
+ipni_surname: Nádvorník
+ipni_forenames: Josef
+ipni_standard_form: Nádv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

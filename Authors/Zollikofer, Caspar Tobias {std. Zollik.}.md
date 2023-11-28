@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0503
+tl2_volume: vol7
+tl2_page_printed: 550
+tl2_surname: Zollikofer
+tl2_forenames: Caspar Tobias
+tl2_name_abbrev: Zollik.
+tl2_dates: 1774-1843
+tl2_page_id: 33066890
+author_lsid: 12058-1
+wikidata_id: Q122596
+ipni_surname: Zollikofer
+ipni_forenames: Caspar Tobias
+ipni_standard_form: Zollik.
+ipni_dates: 1774-1843
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

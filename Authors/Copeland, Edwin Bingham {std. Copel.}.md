@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0679
+tl2_volume: vol1
+tl2_page_printed: 545
+tl2_surname: Copeland
+tl2_forenames: Edwin Bingham
+tl2_name_abbrev: Copeland
+tl2_dates: 1873-1964
+tl2_page_id: 33120676
+author_lsid: 17415-1
+wikidata_id: Q2618968
+ipni_surname: Copeland
+ipni_forenames: Edwin Bingham
+ipni_standard_form: Copel.
+ipni_dates: 1873-1964
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+ipni_geo_scope: 
+- Philippines
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

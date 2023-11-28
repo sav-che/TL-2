@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0081
+tl2_volume: vol5
+tl2_page_printed: 81
+tl2_surname: Sava
+tl2_forenames: Roberto
+tl2_name_abbrev: Sava
+tl2_dates: fl. 1844
+tl2_page_id: 33333220
+author_lsid: 8967-1
+wikidata_id: Q47125681
+ipni_surname: Sava
+ipni_forenames: Roberto
+ipni_standard_form: Sava
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

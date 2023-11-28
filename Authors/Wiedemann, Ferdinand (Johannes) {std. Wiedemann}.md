@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0245
+tl2_volume: vol7
+tl2_page_printed: 261
+tl2_surname: Wiedemann
+tl2_forenames: Ferdinand [Johannes]
+tl2_name_abbrev: Wiedemann
+tl2_dates: 1805-1887
+tl2_page_id: 33066601
+author_lsid: 13011-1
+wikidata_id: Q705843
+ipni_surname: Wiedemann
+ipni_forenames: Ferdinand (Johannes)
+ipni_standard_form: Wiedem.
+ipni_dates: 1805-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

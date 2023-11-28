@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0970
+tl2_volume: vol4
+tl2_page_printed: 938
+tl2_surname: Rousseau
+tl2_forenames: Jean Jacques
+tl2_name_abbrev: Rousseau
+tl2_dates: 1712-1778
+tl2_page_id: 33190409
+author_lsid: 8665-1
+wikidata_id: Q6527
+ipni_surname: Rousseau
+ipni_forenames: Jean-Jacques
+ipni_standard_form: Rousseau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

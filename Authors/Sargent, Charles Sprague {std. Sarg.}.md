@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0049
+tl2_volume: vol5
+tl2_page_printed: 51
+tl2_surname: Sargent
+tl2_forenames: Charles Sprague
+tl2_name_abbrev: Sarg.
+tl2_dates: 1841-1927
+tl2_page_id: 33333152
+author_lsid: 8917-1
+wikidata_id: Q1066128
+ipni_surname: Sargent
+ipni_forenames: Charles Sprague
+ipni_standard_form: Sarg.
+ipni_dates: 1841-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+- Japan
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33333152) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

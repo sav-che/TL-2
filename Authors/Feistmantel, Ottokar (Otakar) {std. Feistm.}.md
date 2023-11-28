@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0072
+tl2_volume: suppl7
+tl2_page_printed: 110
+tl2_surname: Feistmantel
+tl2_forenames: Ottokar [Otakar]
+tl2_name_abbrev: Feistm.
+tl2_dates: 1848-1891
+tl2_page_id: 33259614
+author_lsid: 34001-1
+wikidata_id: Q12043170
+ipni_surname: Feistmantel
+ipni_forenames: Ottokar
+ipni_standard_form: Feistm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33259614) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1244
+tl2_volume: vol1
+tl2_page_printed: 983
+tl2_surname: Gray
+tl2_forenames: Asa
+tl2_name_abbrev: A. Gray
+tl2_dates: 1810-1888
+tl2_page_id: 33121114
+author_lsid: 19574-1
+wikidata_id: Q347356
+ipni_surname: Gray
+ipni_forenames: Asa
+ipni_standard_form: A.Gray
+ipni_dates: 1810-1888
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

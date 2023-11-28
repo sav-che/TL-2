@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0093
+tl2_volume: vol7
+tl2_page_printed: 95
+tl2_surname: Watelet
+tl2_forenames: [Jean-François] Adolphe
+tl2_name_abbrev: Watelet
+tl2_dates: 1811-1879
+tl2_page_id: 33066435
+author_lsid: 11427-1
+wikidata_id: Q21612269
+ipni_surname: Watelet
+ipni_forenames: (Jean-François) Adolphe
+ipni_standard_form: Watelet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

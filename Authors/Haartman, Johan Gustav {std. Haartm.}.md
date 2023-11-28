@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0001
+tl2_volume: vol2
+tl2_page_printed: 1
+tl2_surname: Haartman
+tl2_forenames: Johan Gustav
+tl2_name_abbrev: Haartm.
+tl2_dates: 1777-1799
+tl2_page_id: 33068243
+author_lsid: 3518-1
+wikidata_id: Q21514449
+ipni_surname: Haartman
+ipni_forenames: Johan Gustav
+ipni_standard_form: Haartm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

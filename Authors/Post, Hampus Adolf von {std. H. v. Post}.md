@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0429
+tl2_volume: vol4
+tl2_page_printed: 352
+tl2_surname: Post
+tl2_forenames: Hampus Adolf von
+tl2_name_abbrev: H. v. Post
+tl2_dates: 1822-1911
+tl2_page_id: 33189823
+author_lsid: 7879-1
+wikidata_id: Q21523139
+ipni_surname: Post
+ipni_forenames: Hampus Adolf von
+ipni_standard_form: H.Post
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33189823) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

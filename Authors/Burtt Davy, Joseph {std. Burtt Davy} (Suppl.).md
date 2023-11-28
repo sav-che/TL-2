@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0261
+tl2_volume: suppl3
+tl2_page_printed: 271
+tl2_surname: Burtt Davy
+tl2_forenames: Joseph
+tl2_name_abbrev: Burtt Davy
+tl2_dates: 1870-1940
+tl2_page_id: 33266578
+author_lsid: 2039-1
+wikidata_id: Q513218
+ipni_surname: Burtt Davy
+ipni_forenames: Joseph
+ipni_standard_form: Burtt Davy
+ipni_dates: 1870-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0530
+tl2_volume: vol4
+tl2_page_printed: 451
+tl2_surname: Quandt
+tl2_forenames: Christian
+tl2_name_abbrev: Quandt
+tl2_dates: 1720-post 1807
+tl2_page_id: 33189922
+author_lsid: 8043-1
+wikidata_id: Q21606799
+ipni_surname: Quandt
+ipni_forenames: Christian
+ipni_standard_form: Quandt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

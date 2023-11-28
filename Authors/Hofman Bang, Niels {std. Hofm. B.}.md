@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0298
+tl2_volume: vol2
+tl2_page_printed: 248
+tl2_surname: Hofman Bang
+tl2_forenames: Niels
+tl2_name_abbrev: Hofm. B.
+tl2_dates: 1776-1855
+tl2_page_id: 33068490
+author_lsid: 4024-1
+wikidata_id: Q20033347
+ipni_surname: Bang
+ipni_forenames: Niels
+ipni_standard_form: Bang
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

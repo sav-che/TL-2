@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0956
+tl2_volume: vol2
+tl2_page_printed: 813
+tl2_surname: Lefébure
+tl2_forenames: Louis F. Henri
+tl2_name_abbrev: Leféb.
+tl2_dates: 1754-1839
+tl2_page_id: 33069055
+author_lsid: 5413-1
+wikidata_id: Q21518567
+ipni_surname: Lefébure
+ipni_forenames: Louis F.Henri
+ipni_standard_form: Leféb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33069055) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

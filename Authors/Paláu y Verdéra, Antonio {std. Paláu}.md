@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0020
+tl2_volume: vol4
+tl2_page_printed: 12
+tl2_surname: Paláu y Verdéra
+tl2_forenames: Antonio
+tl2_name_abbrev: Paláu
+tl2_dates: x-1793
+tl2_page_id: 33189503
+author_lsid: 7266-1
+wikidata_id: Q548758
+ipni_surname: Paláu y Verdera
+ipni_forenames: Antonio
+ipni_standard_form: Paláu
+ipni_dates: 1734-1793
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-07-08 13:14:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0417
+tl2_volume: vol7
+tl2_page_printed: 462
+tl2_surname: Woynar
+tl2_forenames: Heinrich Karl
+tl2_name_abbrev: Woyn.
+tl2_dates: 1865-1917
+tl2_page_id: 33066802
+author_lsid: 11876-1
+wikidata_id: Q90157
+ipni_surname: Woynar
+ipni_forenames: Heinrich Karl
+ipni_standard_form: Woyn.
+ipni_dates: 1865-1917
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33066802) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

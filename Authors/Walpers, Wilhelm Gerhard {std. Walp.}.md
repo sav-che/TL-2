@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0053
+tl2_volume: vol7
+tl2_page_printed: 45
+tl2_surname: Walpers
+tl2_forenames: Wilhelm Gerhard
+tl2_name_abbrev: Walp.
+tl2_dates: 1816-1853
+tl2_page_id: 33066385
+author_lsid: 11355-1
+wikidata_id: Q77671
+ipni_surname: Walpers
+ipni_forenames: Wilhelm Gerhard
+ipni_standard_form: Walp.
+ipni_dates: 1816-1853
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33066385) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

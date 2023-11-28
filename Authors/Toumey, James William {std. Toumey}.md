@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0441
+tl2_volume: vol6
+tl2_page_printed: 410
+tl2_surname: Toumey
+tl2_forenames: James William
+tl2_name_abbrev: Toumey
+tl2_dates: 1865-1932
+tl2_page_id: 33212452
+author_lsid: 10761-1
+wikidata_id: Q5558302
+ipni_surname: Toumey
+ipni_forenames: James William
+ipni_standard_form: Toumey
+ipni_dates: 1865-1932
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

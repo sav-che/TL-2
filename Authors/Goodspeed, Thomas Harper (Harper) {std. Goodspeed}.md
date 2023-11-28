@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0228
+tl2_volume: suppl8
+tl2_page_printed: 306
+tl2_surname: Goodspeed
+tl2_forenames: Thomas Harper (Harper)
+tl2_name_abbrev: Goodspeed
+tl2_dates: 1887-1966
+tl2_page_id: 33258784
+author_lsid: 3271-1
+wikidata_id: Q7790438
+ipni_surname: Goodspeed
+ipni_forenames: Thomas Harper
+ipni_standard_form: Goodsp.
+ipni_dates: 1887-1966
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33258784) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0949
+tl2_volume: vol2
+tl2_page_printed: 808
+tl2_surname: Ledermüller
+tl2_forenames: Martin Frobenius
+tl2_name_abbrev: Lederm.
+tl2_dates: 1719-1769
+tl2_page_id: 33069050
+author_lsid: 5395-1
+wikidata_id: Q6002262
+ipni_surname: Ledermüller
+ipni_forenames: Martin Frobenius
+ipni_standard_form: Lederm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33069050) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

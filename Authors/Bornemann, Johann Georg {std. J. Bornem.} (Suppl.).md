@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0404
+tl2_volume: suppl2
+tl2_page_printed: 342
+tl2_surname: Bornemann
+tl2_forenames: Johann Georg
+tl2_name_abbrev: J. Bornem.
+tl2_dates: 1831-1896
+tl2_page_id: 33265539
+author_lsid: 991-1
+wikidata_id: Q1693783
+ipni_surname: Bornemann
+ipni_forenames: Johann Georg
+ipni_standard_form: Bornem.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265539) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

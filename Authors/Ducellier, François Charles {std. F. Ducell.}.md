@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0129
+tl2_volume: suppl6
+tl2_page_printed: 125
+tl2_surname: Ducellier
+tl2_forenames: François Charles
+tl2_name_abbrev: F. Ducell.
+tl2_dates: 1866-1940
+tl2_page_id: 33260113
+author_lsid: 32985-1
+wikidata_id: Q36553538
+ipni_surname: Ducellier
+ipni_forenames: François Charles
+ipni_standard_form: F.Ducell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33260113) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

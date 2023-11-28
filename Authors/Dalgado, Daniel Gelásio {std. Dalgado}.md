@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0029
+tl2_volume: suppl5
+tl2_page_printed: 26
+tl2_surname: Dalgado
+tl2_forenames: Daniel Gelásio
+tl2_name_abbrev: Dalgado
+tl2_dates: 1850-1923
+tl2_page_id: 33259072
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259072) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0914
+tl2_volume: vol5
+tl2_page_printed: 907
+tl2_surname: Sterzing
+tl2_forenames: J.
+tl2_name_abbrev: Sterzing
+tl2_dates: fl. 1860
+tl2_page_id: 33334046
+author_lsid: 10121-1
+wikidata_id: Q36599663
+ipni_surname: Sterzing
+ipni_forenames: J.
+ipni_standard_form: Sterzing
+ipni_dates: fl. 1860
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

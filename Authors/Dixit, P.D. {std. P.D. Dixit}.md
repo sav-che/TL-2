@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0358
+tl2_volume: suppl5
+tl2_page_printed: 360
+tl2_surname: Dixit
+tl2_forenames: P.D.
+tl2_name_abbrev: P.D. Dixit
+tl2_dates: fl. 1832
+tl2_page_id: 33259406
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33259406) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

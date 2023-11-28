@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0352
+tl2_volume: suppl6
+tl2_page_printed: 308
+tl2_surname: Elliott
+tl2_forenames: William Thomas
+tl2_name_abbrev: W.T. Elliott
+tl2_dates: 1855-1938
+tl2_page_id: 33260296
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33260296) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

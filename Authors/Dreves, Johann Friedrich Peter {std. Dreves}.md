@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0101
+tl2_volume: suppl6
+tl2_page_printed: 95
+tl2_surname: Dreves
+tl2_forenames: Johann Friedrich Peter
+tl2_name_abbrev: Dreves
+tl2_dates: 1772-1816
+tl2_page_id: 33260083
+author_lsid: 2312-1
+wikidata_id: Q10307767
+ipni_surname: Dreves
+ipni_forenames: Johann Friedrich Peter
+ipni_standard_form: Dreves
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

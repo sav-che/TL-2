@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0374
+tl2_volume: vol6
+tl2_page_printed: 350
+tl2_surname: Tiffany
+tl2_forenames: Lewis Hanford
+tl2_name_abbrev: Tiffany
+tl2_dates: 1894-1965
+tl2_page_id: 33212392
+author_lsid: 10662-1
+wikidata_id: Q21610728
+ipni_surname: Tiffany
+ipni_forenames: Lewis Hanford
+ipni_standard_form: Tiffany
+ipni_dates: 1894-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33212392) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

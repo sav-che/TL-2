@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0111
+tl2_volume: suppl5
+tl2_page_printed: 99
+tl2_surname: Davies
+tl2_forenames: William
+tl2_name_abbrev: W. Davies
+tl2_dates: 1899-1968
+tl2_page_id: 33259145
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

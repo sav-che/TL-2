@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0557
+tl2_volume: vol5
+tl2_page_printed: 571
+tl2_surname: Shreve
+tl2_forenames: Forrest
+tl2_name_abbrev: Shreve
+tl2_dates: 1878-1950
+tl2_page_id: 33333710
+author_lsid: 12270-1
+wikidata_id: Q2051280
+ipni_surname: Shreve
+ipni_forenames: Forrest
+ipni_standard_form: Shreve
+ipni_dates: 1878-1950
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33333710) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

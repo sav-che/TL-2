@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0139
+tl2_volume: suppl4
+tl2_page_printed: 181
+tl2_surname: Clark
+tl2_forenames: Lois
+tl2_name_abbrev: L. Clark
+tl2_dates: 1884-1967
+tl2_page_id: 33265858
+author_lsid: 17287-1
+wikidata_id: Q21508666
+ipni_surname: Clark
+ipni_forenames: Lois
+ipni_standard_form: L.Clark
+ipni_dates: 1884-1967
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

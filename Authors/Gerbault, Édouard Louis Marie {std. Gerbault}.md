@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0147
+tl2_volume: suppl8
+tl2_page_printed: 188
+tl2_surname: Gerbault
+tl2_forenames: Édouard Louis Marie
+tl2_name_abbrev: Gerbault
+tl2_dates: 1866-1923
+tl2_page_id: 33258666
+author_lsid: 39991-1
+wikidata_id: Q21513919
+ipni_surname: Gerbault
+ipni_forenames: E.L
+ipni_standard_form: Gerbault
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33258666) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0481
+tl2_volume: vol1
+tl2_page_printed: 396
+tl2_surname: Buchtien
+tl2_forenames: Otto
+tl2_name_abbrev: Buchtien
+tl2_dates: 1859-x
+tl2_page_id: 33120527
+author_lsid: 1255-1
+wikidata_id: Q6054688
+ipni_surname: Buchtien
+ipni_forenames: Otto
+ipni_standard_form: Buchtien
+ipni_dates: 1859-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Chile
+- Bolivia
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33120527) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0649
+tl2_volume: vol2
+tl2_page_printed: 544
+tl2_surname: Kindt
+tl2_forenames: Christian Sommer
+tl2_name_abbrev: Kindt
+tl2_dates: 1816-1903
+tl2_page_id: 33068786
+author_lsid: 4796-1
+wikidata_id: Q15430086
+ipni_surname: Kindt
+ipni_forenames: Christian Sommer
+ipni_standard_form: Kindt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33068786) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

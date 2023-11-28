@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0809
+tl2_volume: vol5
+tl2_page_printed: 804
+tl2_surname: Sprengel
+tl2_forenames: Christian Konrad
+tl2_name_abbrev: CK. Spreng.
+tl2_dates: 1750-1816
+tl2_page_id: 33333943
+author_lsid: 9991-1
+wikidata_id: Q64331
+ipni_surname: Sprengel
+ipni_forenames: Christian Konrad (Conrad)
+ipni_standard_form: C.K.Spreng.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

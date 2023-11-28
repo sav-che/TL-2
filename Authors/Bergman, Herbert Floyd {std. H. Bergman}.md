@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0109
+tl2_volume: suppl2
+tl2_page_printed: 95
+tl2_surname: Bergman
+tl2_forenames: Herbert Floyd
+tl2_name_abbrev: H. Bergman
+tl2_dates: 1883-?
+tl2_page_id: 33265292
+author_lsid: 692-1
+wikidata_id: Q21505995
+ipni_surname: Bergman
+ipni_forenames: Herbert Floyd
+ipni_standard_form: H.Bergman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33265292) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

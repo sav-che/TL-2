@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0063
+tl2_volume: suppl8
+tl2_page_printed: 81
+tl2_surname: Furtado
+tl2_forenames: Caetano [Cajetano] Xavier dos Remedios
+tl2_name_abbrev: Furtado
+tl2_dates: 1897-1980
+tl2_page_id: 33258559
+author_lsid: 13065-1
+wikidata_id: Q5739033
+ipni_surname: Furtado
+ipni_forenames: Caetano Xavier
+ipni_standard_form: Furtado
+ipni_dates: 1897-1980
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33258559) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

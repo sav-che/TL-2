@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0327
+tl2_volume: vol1
+tl2_page_printed: 252
+tl2_surname: Bogenhard
+tl2_forenames: Carl
+tl2_name_abbrev: Bogenh.
+tl2_dates: 1811-1853?
+tl2_page_id: 33120383
+author_lsid: 905-1
+wikidata_id: Q5749270
+ipni_surname: Bogenhard
+ipni_forenames: Carl
+ipni_standard_form: Bogenh.
+ipni_dates: 1811-?1853
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0664
+tl2_volume: vol5
+tl2_page_printed: 663
+tl2_surname: Smith
+tl2_forenames: Annie Lorrain
+tl2_name_abbrev: A.L. Sm.
+tl2_dates: 1854-1937
+tl2_page_id: 33333802
+author_lsid: 9773-1
+wikidata_id: Q4267084
+ipni_surname: Smith
+ipni_forenames: Annie Lorrain
+ipni_standard_form: A.L.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33333802) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0090
+tl2_volume: suppl2
+tl2_page_printed: 83
+tl2_surname: Berg
+tl2_forenames: Ernst von (1782-1855)
+tl2_name_abbrev: Berg
+tl2_dates: 1782-1855
+tl2_page_id: 33265280
+author_lsid: 675-1
+wikidata_id: Q20066995
+ipni_surname: Berg
+ipni_forenames: Ernst von
+ipni_standard_form: Berg
+ipni_dates: 1782-1855
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

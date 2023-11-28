@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0450
+tl2_volume: vol2
+tl2_page_printed: 413
+tl2_surname: Jaczewski
+tl2_forenames: Arthur Louis Arthurovic de
+tl2_name_abbrev: Jacz.
+tl2_dates: 1863-1932
+tl2_page_id: 33068655
+author_lsid: 34754-1
+wikidata_id: Q4539853
+ipni_surname: Jaczewski
+ipni_forenames: Arthur Arthurovič
+ipni_standard_form: Jacz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33068655) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

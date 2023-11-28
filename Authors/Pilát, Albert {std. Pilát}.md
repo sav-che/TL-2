@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0313
+tl2_volume: vol4
+tl2_page_printed: 263
+tl2_surname: Pilát
+tl2_forenames: Albert
+tl2_name_abbrev: Pilát
+tl2_dates: 1903-1974
+tl2_page_id: 33189734
+author_lsid: 24865-1
+wikidata_id: Q329324
+ipni_surname: Pilát
+ipni_forenames: Albert
+ipni_standard_form: Pilát
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

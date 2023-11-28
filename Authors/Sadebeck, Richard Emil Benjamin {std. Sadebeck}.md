@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1062
+tl2_volume: vol4
+tl2_page_printed: 1045
+tl2_surname: Sadebeck
+tl2_forenames: Richard Emil Benjamin
+tl2_name_abbrev: Sadebeck
+tl2_dates: 1839-1905
+tl2_page_id: 33190516
+author_lsid: 8795-1
+wikidata_id: Q15925485
+ipni_surname: Sadebeck
+ipni_forenames: Richard Emil Benjamin
+ipni_standard_form: Sadeb.
+ipni_dates: 1839-1905
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1045](https://www.biodiversitylibrary.org/page/33190516) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

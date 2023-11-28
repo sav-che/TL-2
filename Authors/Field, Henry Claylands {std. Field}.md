@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1018
+tl2_volume: vol1
+tl2_page_printed: 829
+tl2_surname: Field
+tl2_forenames: Henry Claylands
+tl2_name_abbrev: Field
+tl2_dates: 1825-1911
+tl2_page_id: 33120960
+author_lsid: 2716-1
+wikidata_id: Q21512991
+ipni_surname: Field
+ipni_forenames: Henry Claylands
+ipni_standard_form: Field
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+- New Zealand
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

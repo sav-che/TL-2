@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0348
+tl2_volume: vol2
+tl2_page_printed: 336
+tl2_surname: Horsfield
+tl2_forenames: Thomas
+tl2_name_abbrev: Horsf
+tl2_dates: 1773-1859
+tl2_page_id: 33068578
+author_lsid: 4117-1
+wikidata_id: Q507763
+ipni_surname: Horsfield
+ipni_forenames: Thomas
+ipni_standard_form: Horsf.
+ipni_dates: 1773-1859
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

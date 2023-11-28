@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0276
+tl2_volume: vol2
+tl2_page_printed: 226
+tl2_surname: Höeg
+tl2_forenames: Ove Arbo
+tl2_name_abbrev: Höeg
+tl2_dates: 1898-x
+tl2_page_id: 33068468
+author_lsid: 3997-1
+wikidata_id: Q7113291
+ipni_surname: Høeg
+ipni_forenames: Ove Arbo
+ipni_standard_form: Høeg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

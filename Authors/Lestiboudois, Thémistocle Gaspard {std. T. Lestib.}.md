@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_1018
+tl2_volume: vol2
+tl2_page_printed: 855
+tl2_surname: Lestiboudois
+tl2_forenames: Thémistocle Gaspard
+tl2_name_abbrev: T. Lestib.
+tl2_dates: 1797-1876
+tl2_page_id: 33069097
+author_lsid: 12646-1
+wikidata_id: Q3087987
+ipni_surname: Lestiboudois
+ipni_forenames: Thémistocle Gaspard
+ipni_standard_form: T.Lestib.
+ipni_dates: 1797-1876
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:26.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33069097) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

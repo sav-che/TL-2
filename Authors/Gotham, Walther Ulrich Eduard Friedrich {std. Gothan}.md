@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1227
+tl2_volume: vol1
+tl2_page_printed: 973
+tl2_surname: Gotham
+tl2_forenames: Walther Ulrich Eduard Friedrich
+tl2_name_abbrev: Gothan
+tl2_dates: 1879-1954
+tl2_page_id: 33121104
+author_lsid: 3287-1
+wikidata_id: Q105203
+ipni_surname: Gothan
+ipni_forenames: Walther Ulrich Eduard Friedrich
+ipni_standard_form: Gothan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33121104) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

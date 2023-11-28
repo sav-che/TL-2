@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0145
+tl2_volume: vol4
+tl2_page_printed: 141
+tl2_surname: Peck
+tl2_forenames: Franz Gustav Magnus
+tl2_name_abbrev: F. Peck
+tl2_dates: 1817-1892
+tl2_page_id: 33189612
+author_lsid: 7450-1
+wikidata_id: Q21522740
+ipni_surname: Peck
+ipni_forenames: Franz Gustav Magnus
+ipni_standard_form: F.Peck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33189612) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

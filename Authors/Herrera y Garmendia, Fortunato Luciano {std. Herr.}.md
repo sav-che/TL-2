@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0208
+tl2_volume: vol2
+tl2_page_printed: 175
+tl2_surname: Herrera y Garmendia
+tl2_forenames: Fortunato Luciano
+tl2_name_abbrev: Herr.
+tl2_dates: 1875-1945
+tl2_page_id: 33068417
+author_lsid: 3885-1
+wikidata_id: Q5561447
+ipni_surname: Herrera y Garmendia
+ipni_forenames: Fortunato Luciano
+ipni_standard_form: Herrera
+ipni_dates: 1875-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Peru
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-01-20 16:20:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33068417) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

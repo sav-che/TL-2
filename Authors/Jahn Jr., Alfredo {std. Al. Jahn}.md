@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0457
+tl2_volume: vol2
+tl2_page_printed: 417
+tl2_surname: Jahn Jr.
+tl2_forenames: Alfredo
+tl2_name_abbrev: Al. Jahn
+tl2_dates: 1867-1940
+tl2_page_id: 33068659
+author_lsid: 4400-1
+wikidata_id: Q3647966
+ipni_surname: Jahn
+ipni_forenames: Alfredo
+ipni_standard_form: Al.Jahn
+ipni_dates: 1867-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

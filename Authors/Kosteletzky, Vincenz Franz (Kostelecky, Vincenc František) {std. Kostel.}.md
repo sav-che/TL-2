@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0759
+tl2_volume: vol2
+tl2_page_printed: 652
+tl2_surname: Kosteletzky
+tl2_forenames: Vincenz Franz (Kostelecky, Vincenc František)
+tl2_name_abbrev: Kostel.
+tl2_dates: 1801-1887
+tl2_page_id: 33068894
+author_lsid: 4981-1
+wikidata_id: Q4235284
+ipni_surname: Kosteletzky
+ipni_forenames: Vincenz Franz
+ipni_standard_form: Kostel.
+ipni_dates: 1801-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33068894) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: nn3
+tl2_volume: vol3
+tl2_page_printed: 742
+tl2_surname: Nicholson
+tl2_forenames: William Alexander
+tl2_name_abbrev: W.A. Nichols.
+tl2_dates: 1858-1935
+tl2_page_id: 33355829
+author_lsid: 6962-1
+wikidata_id: Q21522134
+ipni_surname: Nicholson
+ipni_forenames: William Alexander
+ipni_standard_form: W.A.Nicholson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

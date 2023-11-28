@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0173
+tl2_volume: suppl5
+tl2_page_printed: 165
+tl2_surname: Deigthon
+tl2_forenames: Frederick Claude
+tl2_name_abbrev: Deigthon
+tl2_dates: 1903-1992
+tl2_page_id: 33259211
+author_lsid: 17887-1
+wikidata_id: Q21392050
+ipni_surname: Deighton
+ipni_forenames: Frederick Claude
+ipni_standard_form: Deighton
+ipni_dates: 1903-1992
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

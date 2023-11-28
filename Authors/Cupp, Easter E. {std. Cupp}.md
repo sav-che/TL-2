@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0428
+tl2_volume: suppl4
+tl2_page_printed: 511
+tl2_surname: Cupp
+tl2_forenames: Easter E.
+tl2_name_abbrev: Cupp
+tl2_dates: 1904-?
+tl2_page_id: 33266188
+author_lsid: 32846-1
+wikidata_id: Q21509657
+ipni_surname: Cupp
+ipni_forenames: Easter E.
+ipni_standard_form: Cupp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

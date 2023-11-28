@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0747
+tl2_volume: vol3
+tl2_page_printed: 638
+tl2_surname: Mueller
+tl2_forenames: Karl (Carl)
+tl2_name_abbrev: K. Muell. berol.
+tl2_dates: 1817-1870
+tl2_page_id: 33355725
+author_lsid: 23707-1
+wikidata_id: Q5958299
+ipni_surname: Müller
+ipni_forenames: Karl
+ipni_standard_form: Müll.Berol.
+ipni_dates: 1817-1870
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-08-03 11:21:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33355725) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

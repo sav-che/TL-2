@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0489
+tl2_volume: vol1
+tl2_page_printed: 400
+tl2_surname: Buffon
+tl2_forenames: Georges Louis Leclercq de
+tl2_name_abbrev: Buffon
+tl2_dates: 1707-1788
+tl2_page_id: 33120531
+author_lsid: 1270-1
+wikidata_id: Q229264
+ipni_surname: Buffon
+ipni_forenames: Georges Louis Leclerc de
+ipni_standard_form: Buffon
+ipni_dates: 1707-1788
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33120531) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

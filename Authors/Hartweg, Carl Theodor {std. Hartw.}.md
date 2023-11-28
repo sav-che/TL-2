@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol2_0101
+tl2_volume: vol2
+tl2_page_printed: 70
+tl2_surname: Hartweg
+tl2_forenames: Carl Theodor
+tl2_name_abbrev: Hartw.
+tl2_dates: 1812-1871
+tl2_page_id: 33068312
+author_lsid: 3701-1
+wikidata_id: Q73237
+ipni_surname: Hartweg
+ipni_forenames: Karl Theodor
+ipni_standard_form: Hartw.
+ipni_dates: 1812-1871
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+- Mexico
+- Guatemala
+- Ecuador
+- Peru
+- Jamaica
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

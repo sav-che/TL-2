@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0178
+tl2_volume: vol3
+tl2_page_printed: 195
+tl2_surname: Lundell
+tl2_forenames: Peter Magnus [Manne]
+tl2_name_abbrev: P. Lundell.
+tl2_dates: 1841-1930
+tl2_page_id: 33355282
+author_lsid: 5839-1
+wikidata_id: Q21519606
+ipni_surname: Lundell
+ipni_forenames: Peter Magnus(Manne)
+ipni_standard_form: P.Lundell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33355282) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

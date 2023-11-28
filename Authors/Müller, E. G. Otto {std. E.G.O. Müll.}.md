@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0735
+tl2_volume: vol3
+tl2_page_printed: 615
+tl2_surname: Müller
+tl2_forenames: E. G. Otto
+tl2_name_abbrev: E.G.O. Müll.
+tl2_dates: 1857-?
+tl2_page_id: 33355702
+author_lsid: 6731-1
+wikidata_id: Q21521862
+ipni_surname: Müller
+ipni_forenames: E.G.Otto
+ipni_standard_form: E.G.O.Müll.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

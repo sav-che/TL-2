@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0545
+tl2_volume: vol2
+tl2_page_printed: 468
+tl2_surname: Jundzill
+tl2_forenames: Jozef
+tl2_name_abbrev: J. Jundz.
+tl2_dates: x-1877
+tl2_page_id: 33068710
+author_lsid: 4576-1
+wikidata_id: Q16454183
+ipni_surname: Jundzill
+ipni_forenames: Józef
+ipni_standard_form: J.Jundz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

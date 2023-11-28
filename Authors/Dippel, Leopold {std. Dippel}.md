@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0835
+tl2_volume: vol1
+tl2_page_printed: 659
+tl2_surname: Dippel
+tl2_forenames: Leopold
+tl2_name_abbrev: Dippel
+tl2_dates: 1827-1914
+tl2_page_id: 33120790
+author_lsid: 2226-1
+wikidata_id: Q85194
+ipni_surname: Dippel
+ipni_forenames: Leopold
+ipni_standard_form: Dippel
+ipni_dates: 1827-1914
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33120790) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

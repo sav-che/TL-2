@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0046
+tl2_volume: suppl1
+tl2_page_printed: 33
+tl2_surname: Afzelius
+tl2_forenames: Adam
+tl2_name_abbrev: Afzel.
+tl2_dates: 1750-1837
+tl2_page_id: 33264722
+author_lsid: 30666-1
+wikidata_id: Q347903
+ipni_surname: Afzelius
+ipni_forenames: Adam
+ipni_standard_form: Afzel.
+ipni_dates: 1750-1837
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33264722) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

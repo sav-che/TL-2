@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0349
+tl2_volume: vol3
+tl2_page_printed: 304
+tl2_surname: Marrat
+tl2_forenames: Frederick Price
+tl2_name_abbrev: Marrat
+tl2_dates: 1820-1904
+tl2_page_id: 33355391
+author_lsid: 6127-1
+wikidata_id: Q21519978
+ipni_surname: Marrat
+ipni_forenames: Frederick Price
+ipni_standard_form: Marrat
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

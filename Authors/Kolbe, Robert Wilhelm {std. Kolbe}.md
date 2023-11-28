@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0745
+tl2_volume: vol2
+tl2_page_printed: 609
+tl2_surname: Kolbe
+tl2_forenames: Robert Wilhelm
+tl2_name_abbrev: Kolbe
+tl2_dates: 1882-1960
+tl2_page_id: 33068851
+author_lsid: 4940-1
+wikidata_id: Q5561664
+ipni_surname: Kolbe
+ipni_forenames: Robert Wilhelm
+ipni_standard_form: Kolbe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0261
+tl2_volume: suppl5
+tl2_page_printed: 231
+tl2_surname: Despréaux
+tl2_forenames: J.M.
+tl2_name_abbrev: Despr.
+tl2_dates: 1794-1843
+tl2_page_id: 33259277
+author_lsid: 17968-1
+wikidata_id: Q3261721
+ipni_surname: Despreaux
+ipni_forenames: J.M.
+ipni_standard_form: Despr.
+ipni_dates: 1794-1843
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

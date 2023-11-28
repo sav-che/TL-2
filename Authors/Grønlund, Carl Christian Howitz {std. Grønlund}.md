@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1262
+tl2_volume: vol1
+tl2_page_printed: 1011
+tl2_surname: Grønlund
+tl2_forenames: Carl Christian Howitz
+tl2_name_abbrev: Grønlund
+tl2_dates: 1825-1901
+tl2_page_id: 33121142
+author_lsid: 3403-1
+wikidata_id: Q5774578
+ipni_surname: Grønlund
+ipni_forenames: Carl Christian Howitz
+ipni_standard_form: Grønlund
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

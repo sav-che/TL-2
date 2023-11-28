@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0363
+tl2_volume: vol4
+tl2_page_printed: 305
+tl2_surname: Podpera
+tl2_forenames: Josef
+tl2_name_abbrev: Podp.
+tl2_dates: 1878-1954
+tl2_page_id: 33189776
+author_lsid: 24931-1
+wikidata_id: Q4368181
+ipni_surname: Podpěra
+ipni_forenames: Josef
+ipni_standard_form: Podp.
+ipni_dates: 1878-1954
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

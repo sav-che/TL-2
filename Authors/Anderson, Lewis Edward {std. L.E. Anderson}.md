@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0140
+tl2_volume: suppl1
+tl2_page_printed: 109
+tl2_surname: Anderson
+tl2_forenames: Lewis Edward
+tl2_name_abbrev: L.E. Anderson
+tl2_dates: 1912-x
+tl2_page_id: 33264836
+author_lsid: 30867-1
+wikidata_id: Q19945558
+ipni_surname: Anderson
+ipni_forenames: Lewis Edward
+ipni_standard_form: L.E.Anderson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33264836) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

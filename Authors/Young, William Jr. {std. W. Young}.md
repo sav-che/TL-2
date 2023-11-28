@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0454
+tl2_volume: vol7
+tl2_page_printed: 493
+tl2_surname: Young
+tl2_forenames: William Jr.
+tl2_name_abbrev: W. Young
+tl2_dates: 1742-1785
+tl2_page_id: 33066833
+author_lsid: 11954-1
+wikidata_id: Q21613321
+ipni_surname: Young
+ipni_forenames: William
+ipni_standard_form: W.Young
+ipni_dates: 1742-1785
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33066833) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

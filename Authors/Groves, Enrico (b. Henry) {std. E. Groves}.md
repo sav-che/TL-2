@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0302
+tl2_volume: suppl8
+tl2_page_printed: 422
+tl2_surname: Groves
+tl2_forenames: Enrico (b. Henry)
+tl2_name_abbrev: E. Groves
+tl2_dates: 1835-1891
+tl2_page_id: 33258900
+author_lsid: 20027188-1
+wikidata_id: Q21514319
+ipni_surname: Groves
+ipni_forenames: Enrico
+ipni_standard_form: E.Groves
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33258900) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0569
+tl2_volume: vol5
+tl2_page_printed: 581
+tl2_surname: Sickmann
+tl2_forenames: Johann Rudolph
+tl2_name_abbrev: Sickmann
+tl2_dates: 1779-1849
+tl2_page_id: 33333720
+author_lsid: 9609-1
+wikidata_id: Q21608851
+ipni_surname: Sickmann
+ipni_forenames: Johann Rudolph
+ipni_standard_form: Sickmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

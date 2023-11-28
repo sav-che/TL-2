@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0062
+tl2_volume: vol2
+tl2_page_printed: 46
+tl2_surname: Hansen
+tl2_forenames: Emil Christian
+tl2_name_abbrev: E. Hans.
+tl2_dates: 1842-1909
+tl2_page_id: 33068288
+author_lsid: 19938-1
+wikidata_id: Q603858
+ipni_surname: Hansen
+ipni_forenames: Emil Christian
+ipni_standard_form: E.C.Hansen
+ipni_dates: 1842-1909
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

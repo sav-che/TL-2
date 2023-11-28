@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol1_0441
+tl2_volume: vol1
+tl2_page_printed: 352
+tl2_surname: Brongniart
+tl2_forenames: Adolphe Théodore
+tl2_name_abbrev: Brongn.
+tl2_dates: 1801-1876
+tl2_page_id: 33120483
+author_lsid: 16574-1
+wikidata_id: Q73990
+ipni_surname: Brongniart
+ipni_forenames: Adolphe Théodore (de)
+ipni_standard_form: Brongn.
+ipni_dates: 1801-1876
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-01-06 13:41:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33120483) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

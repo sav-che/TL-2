@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0261
+tl2_volume: vol6
+tl2_page_printed: 223
+tl2_surname: Ternetz
+tl2_forenames: Charlotte
+tl2_name_abbrev: Ternetz
+tl2_dates: fl. 1900
+tl2_page_id: 33212265
+author_lsid: 10522-1
+wikidata_id: Q36531684
+ipni_surname: Ternetz
+ipni_forenames: Charlotte
+ipni_standard_form: Ternetz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

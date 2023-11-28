@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0323
+tl2_volume: suppl3
+tl2_page_printed: 321
+tl2_surname: Caminhoá
+tl2_forenames: Joaquim Monteiro
+tl2_name_abbrev: Caminhoá
+tl2_dates: 1835-?
+tl2_page_id: 33266628
+author_lsid: 1372-1
+wikidata_id: Q10307320
+ipni_surname: Caminhoá
+ipni_forenames: Joaquim Monteiro
+ipni_standard_form: Caminhoá
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33266628) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

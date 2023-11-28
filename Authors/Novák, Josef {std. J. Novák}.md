@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0932
+tl2_volume: vol3
+tl2_page_printed: 779
+tl2_surname: Novák
+tl2_forenames: Josef
+tl2_name_abbrev: J. Novák
+tl2_dates: 1846-1917
+tl2_page_id: 33355866
+author_lsid: 7050-1
+wikidata_id: Q21516229
+ipni_surname: Novák
+ipni_forenames: Josef
+ipni_standard_form: J.Novák
+ipni_dates: 1846-1917
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

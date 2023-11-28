@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0764
+tl2_volume: vol1
+tl2_page_printed: 603
+tl2_surname: Dawson
+tl2_forenames: [Sir] John William
+tl2_name_abbrev: J.W. Dawson
+tl2_dates: 1820-1899
+tl2_page_id: 33120734
+author_lsid: 2042-1
+wikidata_id: Q1702168
+ipni_surname: Dawson
+ipni_forenames: John William
+ipni_standard_form: Dawson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Fossils
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

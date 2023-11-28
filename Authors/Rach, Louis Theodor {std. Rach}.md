@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0549
+tl2_volume: vol4
+tl2_page_printed: 473
+tl2_surname: Rach
+tl2_forenames: Louis Theodor
+tl2_name_abbrev: Rach
+tl2_dates: 1821-1859
+tl2_page_id: 33189944
+author_lsid: 12250-1
+wikidata_id: Q5981499
+ipni_surname: Rach
+ipni_forenames: Louis Theodor
+ipni_standard_form: Rach
+ipni_dates: 1821-1859
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

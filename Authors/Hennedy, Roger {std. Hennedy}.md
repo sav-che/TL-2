@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0179
+tl2_volume: vol2
+tl2_page_printed: 156
+tl2_surname: Hennedy
+tl2_forenames: Roger
+tl2_name_abbrev: Hennedy
+tl2_dates: 1809-1877
+tl2_page_id: 33068398
+author_lsid: 3839-1
+wikidata_id: Q18672261
+ipni_surname: Hennedy
+ipni_forenames: Roger
+ipni_standard_form: Hennedy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33068398) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

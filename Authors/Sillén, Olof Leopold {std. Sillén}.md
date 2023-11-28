@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0591
+tl2_volume: vol5
+tl2_page_printed: 598
+tl2_surname: Sillén
+tl2_forenames: Olof Leopold
+tl2_name_abbrev: Sillén
+tl2_dates: 1813-1894
+tl2_page_id: 33333737
+author_lsid: 9640-1
+wikidata_id: Q21608886
+ipni_surname: Sillén
+ipni_forenames: Olof Leopold
+ipni_standard_form: Sillén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

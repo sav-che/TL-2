@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0001
+tl2_volume: suppl5
+tl2_page_printed: 2
+tl2_surname: Dade
+tl2_forenames: Harry Arthur
+tl2_name_abbrev: Dade
+tl2_dates: 1895-1978
+tl2_page_id: 33259048
+author_lsid: 17636-1
+wikidata_id: Q5892497
+ipni_surname: Dade
+ipni_forenames: Harry Arthur
+ipni_standard_form: Dade
+ipni_dates: 1895-1978
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259048) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0217
+tl2_volume: vol2
+tl2_page_printed: 181
+tl2_surname: Hesler
+tl2_forenames: Lexemuel Ray
+tl2_name_abbrev: Hesler
+tl2_dates: 1888-1977
+tl2_page_id: 33068423
+author_lsid: 3896-1
+wikidata_id: Q3237341
+ipni_surname: Hesler
+ipni_forenames: Lexemuel Ray
+ipni_standard_form: Hesler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

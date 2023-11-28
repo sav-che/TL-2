@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_1142
+tl2_volume: vol1
+tl2_page_printed: 916
+tl2_surname: Garovaglio
+tl2_forenames: Santo
+tl2_name_abbrev: Garov.
+tl2_dates: 1805-1882
+tl2_page_id: 33121047
+author_lsid: 19178-1
+wikidata_id: Q15253517
+ipni_surname: Garovaglio
+ipni_forenames: Santo
+ipni_standard_form: Garov.
+ipni_dates: 1805-1882
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

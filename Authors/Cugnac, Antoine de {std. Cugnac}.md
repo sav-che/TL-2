@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0416
+tl2_volume: suppl4
+tl2_page_printed: 495
+tl2_surname: Cugnac
+tl2_forenames: Antoine de
+tl2_name_abbrev: Cugnac
+tl2_dates: 1895-?
+tl2_page_id: 33266172
+author_lsid: 1909-1
+wikidata_id: Q21509617
+ipni_surname: Cugnac
+ipni_forenames: Antoine de
+ipni_standard_form: Cugnac
+ipni_dates: 1895-1987
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-07-26 12:24:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

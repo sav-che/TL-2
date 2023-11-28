@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0149
+tl2_volume: suppl3
+tl2_page_printed: 158
+tl2_surname: Brun
+tl2_forenames: Jacques-Joseph
+tl2_name_abbrev: Brun
+tl2_dates: 1826-1908
+tl2_page_id: 33266465
+author_lsid: 1223-1
+wikidata_id: Q21506570
+ipni_surname: Brun
+ipni_forenames: Jacques-Joseph
+ipni_standard_form: Brun
+ipni_dates: 1826-1908
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33266465) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

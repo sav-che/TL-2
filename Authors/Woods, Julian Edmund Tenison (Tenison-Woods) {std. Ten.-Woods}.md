@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0400
+tl2_volume: vol7
+tl2_page_printed: 445
+tl2_surname: Woods
+tl2_forenames: Julian Edmund Tenison [Tenison-Woods]
+tl2_name_abbrev: Ten.-Woods
+tl2_dates: 1832-1889
+tl2_page_id: 33066785
+author_lsid: 10504-1
+wikidata_id: Q970015
+ipni_surname: Tenison-Woods
+ipni_forenames: Julian Edmund
+ipni_standard_form: Ten.-Woods
+ipni_dates: 1832-1889
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33066785) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

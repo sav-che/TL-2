@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0054
+tl2_volume: vol3
+tl2_page_printed: 71
+tl2_surname: Linnaeus
+tl2_forenames: Carl (from 1761 Carl von Linné)
+tl2_name_abbrev: L.
+tl2_dates: 1707-1778
+tl2_page_id: 33355158
+author_lsid: 12653-1
+wikidata_id: Q1043
+ipni_surname: Linnaeus
+ipni_forenames: Carl
+ipni_standard_form: L.
+ipni_dates: 1707-1778
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33355158) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

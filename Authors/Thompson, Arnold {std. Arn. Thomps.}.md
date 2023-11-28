@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0326
+tl2_volume: vol6
+tl2_page_printed: 279
+tl2_surname: Thompson
+tl2_forenames: Arnold
+tl2_name_abbrev: Arn. Thomps.
+tl2_dates: 1876-1959
+tl2_page_id: 33212321
+author_lsid: 27687-1
+wikidata_id: Q21610647
+ipni_surname: Thompson
+ipni_forenames: Arnold
+ipni_standard_form: A.Thomps.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

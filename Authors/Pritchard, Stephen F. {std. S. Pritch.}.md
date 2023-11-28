@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0491
+tl2_volume: vol4
+tl2_page_printed: 409
+tl2_surname: Pritchard
+tl2_forenames: Stephen F.
+tl2_name_abbrev: S. Pritch.
+tl2_dates: fl. 1836
+tl2_page_id: 33189880
+author_lsid: 7973-1
+wikidata_id: Q36681482
+ipni_surname: Pritchard
+ipni_forenames: Stephen F.
+ipni_standard_form: S.Pritch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

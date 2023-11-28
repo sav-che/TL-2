@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0221
+tl2_volume: vol7
+tl2_page_printed: 240
+tl2_surname: Wheeler
+tl2_forenames: William Archie
+tl2_name_abbrev: W.A. Wheeler
+tl2_dates: 1876-1968
+tl2_page_id: 33066580
+author_lsid: 11606-1
+wikidata_id: Q21612569
+ipni_surname: Wheeler
+ipni_forenames: William Archie
+ipni_standard_form: W.A.Wheeler
+ipni_dates: 1876-1968
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33066580) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

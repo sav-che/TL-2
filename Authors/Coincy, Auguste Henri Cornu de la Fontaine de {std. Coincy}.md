@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0651
+tl2_volume: vol1
+tl2_page_printed: 520
+tl2_surname: Coincy
+tl2_forenames: Auguste Henri Cornu de la Fontaine de
+tl2_name_abbrev: Coincy
+tl2_dates: 1837-1903
+tl2_page_id: 33120651
+author_lsid: 1726-1
+wikidata_id: Q615827
+ipni_surname: Coincy
+ipni_forenames: Auguste Henri Cornut de
+ipni_standard_form: Coincy
+ipni_dates: 1837-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33120651) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

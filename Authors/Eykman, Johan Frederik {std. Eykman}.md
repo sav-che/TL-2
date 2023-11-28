@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0435
+tl2_volume: suppl6
+tl2_page_printed: 448
+tl2_surname: Eykman
+tl2_forenames: Johan Frederik
+tl2_name_abbrev: Eykman
+tl2_dates: 1851-1915
+tl2_page_id: 33260436
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

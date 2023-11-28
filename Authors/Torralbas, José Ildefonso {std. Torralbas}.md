@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0432
+tl2_volume: vol6
+tl2_page_printed: 399
+tl2_surname: Torralbas
+tl2_forenames: José Ildefonso
+tl2_name_abbrev: Torralbas
+tl2_dates: 1842-1903
+tl2_page_id: 33212441
+author_lsid: 10748-1
+wikidata_id: Q21610888
+ipni_surname: Torralbas
+ipni_forenames: José Ildefonso
+ipni_standard_form: Torralbas
+ipni_dates: 1842-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

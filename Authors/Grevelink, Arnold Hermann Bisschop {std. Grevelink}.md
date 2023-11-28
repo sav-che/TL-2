@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0268
+tl2_volume: suppl8
+tl2_page_printed: 377
+tl2_surname: Grevelink
+tl2_forenames: Arnold Hermann Bisschop (a.k.a. Bisschop A.H.)
+tl2_name_abbrev: Grevelink
+tl2_dates: 1811-1882
+tl2_page_id: 33258855
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33258855) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

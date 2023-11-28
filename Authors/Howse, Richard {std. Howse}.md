@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0371
+tl2_volume: vol2
+tl2_page_printed: 351
+tl2_surname: Howse
+tl2_forenames: Richard
+tl2_name_abbrev: Howse
+tl2_dates: 1821-1901
+tl2_page_id: 33068593
+author_lsid: 4169-1
+wikidata_id: Q21516511
+ipni_surname: Howse
+ipni_forenames: Richard
+ipni_standard_form: Howse
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

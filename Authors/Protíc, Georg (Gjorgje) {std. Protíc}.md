@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0504
+tl2_volume: vol4
+tl2_page_printed: 418
+tl2_surname: Protíc
+tl2_forenames: Georg (Gjorgje)
+tl2_name_abbrev: Protíc
+tl2_dates: 1864-?
+tl2_page_id: 33189889
+author_lsid: 7998-1
+wikidata_id: Q21523295
+ipni_surname: Protíc
+ipni_forenames: Georg(Gjorgje)
+ipni_standard_form: Protíc
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

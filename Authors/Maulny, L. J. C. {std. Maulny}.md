@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0431
+tl2_volume: vol3
+tl2_page_printed: 376
+tl2_surname: Maulny
+tl2_forenames: L. J. C.
+tl2_name_abbrev: Maulny
+tl2_dates: ca. 1760-ca. 1830
+tl2_page_id: 33355463
+author_lsid: 6255-1
+wikidata_id: Q21520144
+ipni_surname: Maulny
+ipni_forenames: Louis J.C.
+ipni_standard_form: Maulny
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

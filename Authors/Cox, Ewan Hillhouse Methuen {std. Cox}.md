@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0354
+tl2_volume: suppl4
+tl2_page_printed: 437
+tl2_surname: Cox
+tl2_forenames: Ewan Hillhouse Methuen
+tl2_name_abbrev: Cox
+tl2_dates: 1893-1977
+tl2_page_id: 33266114
+author_lsid: 1854-1
+wikidata_id: Q6433624
+ipni_surname: Cox
+ipni_forenames: Euan Hillhouse Methven
+ipni_standard_form: Cox
+ipni_dates: 1893-1977
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33266114) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

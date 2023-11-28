@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0471
+tl2_volume: vol2
+tl2_page_printed: 424
+tl2_surname: Jao
+tl2_forenames: Chin-chih
+tl2_name_abbrev: Jao
+tl2_dates: 1900-x
+tl2_page_id: 33068666
+author_lsid: 4429-1
+wikidata_id: Q21516937
+ipni_surname: Jao
+ipni_forenames: Chin Chih
+ipni_standard_form: C.C.Jao
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

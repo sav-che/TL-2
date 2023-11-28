@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0278
+tl2_volume: vol1
+tl2_page_printed: 212
+tl2_surname: Bielefeld
+tl2_forenames: Rudolf
+tl2_name_abbrev: Bielefeld
+tl2_dates: fl. 1900
+tl2_page_id: 33120343
+author_lsid: 779-1
+wikidata_id: Q21506105
+ipni_surname: Bielefeld
+ipni_forenames: Rudolf
+ipni_standard_form: Bielef.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0082
+tl2_volume: suppl1
+tl2_page_printed: 61
+tl2_surname: Alboff
+tl2_forenames: Nicolas Michailowitch
+tl2_name_abbrev: Alboff
+tl2_dates: 1866-1897
+tl2_page_id: 33264788
+author_lsid: 12323-1
+wikidata_id: Q724538
+ipni_surname: Albov
+ipni_forenames: Nikolai Michailovich
+ipni_standard_form: Albov
+ipni_dates: 1866-1897
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-02-18 11:51:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

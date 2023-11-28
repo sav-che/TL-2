@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0182
+tl2_volume: suppl3
+tl2_page_printed: 186
+tl2_surname: Buchanan
+tl2_forenames: John, Rev. C.M.G.
+tl2_name_abbrev: J. Buchanan, C.M.G.
+tl2_dates: 1855-1896
+tl2_page_id: 33266493
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

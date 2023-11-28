@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0880
+tl2_volume: vol2
+tl2_page_printed: 745
+tl2_surname: Lange
+tl2_forenames: Jakob Emanuel
+tl2_name_abbrev: J.E. Lange
+tl2_dates: 1864-1941
+tl2_page_id: 33068987
+author_lsid: 5260-1
+wikidata_id: Q2628991
+ipni_surname: Lange
+ipni_forenames: Jakob Emanuel
+ipni_standard_form: J.E.Lange
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

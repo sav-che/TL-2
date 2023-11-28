@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1167
+tl2_volume: vol1
+tl2_page_printed: 932
+tl2_surname: Georgia
+tl2_forenames: Ada E.
+tl2_name_abbrev: Georgia
+tl2_dates: x-1921
+tl2_page_id: 33121063
+author_lsid: 3094-1
+wikidata_id: Q21513902
+ipni_surname: Georgia
+ipni_forenames: Ada E.
+ipni_standard_form: Georgia
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

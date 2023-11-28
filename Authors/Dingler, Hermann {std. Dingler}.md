@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0344
+tl2_volume: suppl5
+tl2_page_printed: 342
+tl2_surname: Dingler
+tl2_forenames: Hermann
+tl2_name_abbrev: Dingler
+tl2_dates: 1846-1935
+tl2_page_id: 33259388
+author_lsid: 2220-1
+wikidata_id: Q1563946
+ipni_surname: Dingler
+ipni_forenames: Hermann
+ipni_standard_form: Dingler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33259388) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

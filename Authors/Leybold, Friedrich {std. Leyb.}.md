@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1038
+tl2_volume: vol2
+tl2_page_printed: 869
+tl2_surname: Leybold
+tl2_forenames: Friedrich
+tl2_name_abbrev: Leyb.
+tl2_dates: 1827-1879
+tl2_page_id: 33069111
+author_lsid: 5548-1
+wikidata_id: Q71523
+ipni_surname: Leybold
+ipni_forenames: Friedrich
+ipni_standard_form: Leyb.
+ipni_dates: 1827-1879
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

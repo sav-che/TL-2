@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0769
+tl2_volume: vol6
+tl2_page_printed: 784
+tl2_surname: Voss
+tl2_forenames: Andreas
+tl2_name_abbrev: Voss
+tl2_dates: 1857-1924
+tl2_page_id: 33212826
+author_lsid: 11267-1
+wikidata_id: Q68251
+ipni_surname: Voss
+ipni_forenames: Andreas
+ipni_standard_form: Voss
+ipni_dates: 1857-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

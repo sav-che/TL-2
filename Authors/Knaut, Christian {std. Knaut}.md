@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0692
+tl2_volume: vol2
+tl2_page_printed: 573
+tl2_surname: Knaut
+tl2_forenames: Christian
+tl2_name_abbrev: Knaut
+tl2_dates: 1654-1716
+tl2_page_id: 33068815
+author_lsid: 4864-1
+wikidata_id: Q89822
+ipni_surname: Knaut
+ipni_forenames: Christian
+ipni_standard_form: Knaut
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33068815) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

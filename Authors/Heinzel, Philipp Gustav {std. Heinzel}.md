@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0159
+tl2_volume: vol2
+tl2_page_printed: 141
+tl2_surname: Heinzel
+tl2_forenames: Philipp Gustav
+tl2_name_abbrev: Heinzel
+tl2_dates: 1816-?
+tl2_page_id: 33068383
+author_lsid: 3798-1
+wikidata_id: Q21515663
+ipni_surname: Heinzel
+ipni_forenames: Philipp Gustav
+ipni_standard_form: Heinzel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33068383) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

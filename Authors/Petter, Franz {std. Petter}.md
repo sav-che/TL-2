@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0240
+tl2_volume: vol4
+tl2_page_printed: 211
+tl2_surname: Petter
+tl2_forenames: Franz
+tl2_name_abbrev: Petter
+tl2_dates: 1798-1853
+tl2_page_id: 33189682
+author_lsid: 7600-1
+wikidata_id: Q21510492
+ipni_surname: Petter
+ipni_forenames: Franz
+ipni_standard_form: Petter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

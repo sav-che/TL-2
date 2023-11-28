@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0703
+tl2_volume: vol5
+tl2_page_printed: 710
+tl2_surname: Snell
+tl2_forenames: Walter Henry
+tl2_name_abbrev: Snell
+tl2_dates: 1889-1980
+tl2_page_id: 33333849
+author_lsid: 26959-1
+wikidata_id: Q4425579
+ipni_surname: Snell
+ipni_forenames: Walter Henry
+ipni_standard_form: Snell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33333849) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

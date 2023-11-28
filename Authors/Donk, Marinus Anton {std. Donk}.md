@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0851
+tl2_volume: vol1
+tl2_page_printed: 671
+tl2_surname: Donk
+tl2_forenames: Marinus Anton
+tl2_name_abbrev: Donk
+tl2_dates: 1908-1972
+tl2_page_id: 33120802
+author_lsid: 18142-1
+wikidata_id: Q449688
+ipni_surname: Donk
+ipni_forenames: Marinus Anton
+ipni_standard_form: Donk
+ipni_dates: 1908-1972
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33120802) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

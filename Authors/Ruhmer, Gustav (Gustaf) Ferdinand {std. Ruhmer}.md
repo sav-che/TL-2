@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1016
+tl2_volume: vol4
+tl2_page_printed: 981
+tl2_surname: Ruhmer
+tl2_forenames: Gustav [Gustaf] Ferdinand
+tl2_name_abbrev: Ruhmer
+tl2_dates: 1853-1883
+tl2_page_id: 33190452
+author_lsid: 8728-1
+wikidata_id: Q5889380
+ipni_surname: Ruhmer
+ipni_forenames: Gustav (Gustaf) Ferdinand
+ipni_standard_form: Ruhmer
+ipni_dates: 1853-1883
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

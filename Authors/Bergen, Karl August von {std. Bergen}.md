@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0238
+tl2_volume: vol1
+tl2_page_printed: 186
+tl2_surname: Bergen
+tl2_forenames: Karl August von
+tl2_name_abbrev: Bergen
+tl2_dates: 1704-1759
+tl2_page_id: 33120317
+author_lsid: 679-1
+wikidata_id: Q110731
+ipni_surname: Bergen
+ipni_forenames: Karl August von
+ipni_standard_form: Bergen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33120317) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

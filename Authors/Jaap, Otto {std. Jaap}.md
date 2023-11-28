@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0429
+tl2_volume: vol2
+tl2_page_printed: 393
+tl2_surname: Jaap
+tl2_forenames: Otto
+tl2_name_abbrev: Jaap
+tl2_dates: 1864-1922
+tl2_page_id: 33068635
+author_lsid: 4352-1
+wikidata_id: Q21392340
+ipni_surname: Jaap
+ipni_forenames: Otto
+ipni_standard_form: Jaap
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

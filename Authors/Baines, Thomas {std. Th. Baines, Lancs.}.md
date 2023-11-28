@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0315
+tl2_volume: suppl1
+tl2_page_printed: 273
+tl2_surname: Baines
+tl2_forenames: Thomas
+tl2_name_abbrev: Th. Baines, Lancs.
+tl2_dates: 1823-1895
+tl2_page_id: 33265000
+author_lsid: 20004620-1
+wikidata_id: Q21505564
+ipni_surname: Baines
+ipni_forenames: Thomas
+ipni_standard_form: T.Baines
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0214
+tl2_volume: vol5
+tl2_page_printed: 231
+tl2_surname: Schmalz
+tl2_forenames: Eduard
+tl2_name_abbrev: Schmalz
+tl2_dates: 1801-1871
+tl2_page_id: 33333370
+author_lsid: 9138-1
+wikidata_id: Q16720638
+ipni_surname: Schmalz
+ipni_forenames: Eduard
+ipni_standard_form: Schmalz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33333370) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

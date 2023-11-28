@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0523
+tl2_volume: vol4
+tl2_page_printed: 445
+tl2_surname: Purpus
+tl2_forenames: Carl [Karl] Albert
+tl2_name_abbrev: Purpus
+tl2_dates: 1851-1941
+tl2_page_id: 33189916
+author_lsid: 8032-1
+wikidata_id: Q104661
+ipni_surname: Purpus
+ipni_forenames: Carl(Karl) Albert
+ipni_standard_form: Purpus
+ipni_dates: 1851-1941
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Mexico
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

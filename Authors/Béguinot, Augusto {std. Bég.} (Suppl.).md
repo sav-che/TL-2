@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0040
+tl2_volume: suppl2
+tl2_page_printed: 43
+tl2_surname: Béguinot
+tl2_forenames: Augusto
+tl2_name_abbrev: Bég.
+tl2_dates: 1875-1940
+tl2_page_id: 33265240
+author_lsid: 615-1
+wikidata_id: Q4080467
+ipni_surname: Béguinot
+ipni_forenames: Augusto
+ipni_standard_form: Bég.
+ipni_dates: 1875-1940
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-06-16 08:29:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33265240) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

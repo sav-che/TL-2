@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0360
+tl2_volume: suppl5
+tl2_page_printed: 362
+tl2_surname: Dixon
+tl2_forenames: Henry Horatio
+tl2_name_abbrev: H.H. Dixon
+tl2_dates: 1869-1953
+tl2_page_id: 33259408
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259408) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

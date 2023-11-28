@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_1006
+tl2_volume: vol2
+tl2_page_printed: 847
+tl2_surname: Leresche
+tl2_forenames: Louis François Jules Rodolphe
+tl2_name_abbrev: Leresche
+tl2_dates: 1808-1885
+tl2_page_id: 33069089
+author_lsid: 5496-1
+wikidata_id: Q4273123
+ipni_surname: Leresche
+ipni_forenames: Louis François Jules Rodolphe
+ipni_standard_form: Leresche
+ipni_dates: 1808-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

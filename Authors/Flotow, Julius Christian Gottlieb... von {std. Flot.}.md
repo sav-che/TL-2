@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1050
+tl2_volume: vol1
+tl2_page_printed: 848
+tl2_surname: Flotow
+tl2_forenames: Julius Christian Gottlieb... von
+tl2_name_abbrev: Flot.
+tl2_dates: 1788-1856
+tl2_page_id: 33120979
+author_lsid: 2792-1
+wikidata_id: Q4491206
+ipni_surname: Flotow
+ipni_forenames: Julius Christian Gottlieb Ulrich Gustav Georg Adam Ernst Friedrich von
+ipni_standard_form: Flot.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

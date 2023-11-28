@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0841
+tl2_volume: vol4
+tl2_page_printed: 829
+tl2_surname: Rodrigues
+tl2_forenames: João Barbosa
+tl2_name_abbrev: Barb. Rodr.
+tl2_dates: 1842-1909
+tl2_page_id: 33190300
+author_lsid: 465-1
+wikidata_id: Q45374
+ipni_surname: Barbosa Rodrigues
+ipni_forenames: João
+ipni_standard_form: Barb.Rodr.
+ipni_dates: 1842-1909
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-12-01 11:38:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

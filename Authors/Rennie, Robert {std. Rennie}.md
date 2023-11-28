@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0710
+tl2_volume: vol4
+tl2_page_printed: 732
+tl2_surname: Rennie
+tl2_forenames: Robert
+tl2_name_abbrev: Rennie
+tl2_dates: x-1820
+tl2_page_id: 33190203
+author_lsid: 35201-1
+wikidata_id: Q21607115
+ipni_surname: Rennie
+ipni_forenames: Robert
+ipni_standard_form: Rennie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/page/33190203) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

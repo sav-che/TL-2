@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0018
+tl2_volume: suppl8
+tl2_page_printed: 21
+tl2_surname: Fries
+tl2_forenames: (Klas) Robert Elias
+tl2_name_abbrev: R.E. Fr.
+tl2_dates: 1876-1966
+tl2_page_id: 33258505
+author_lsid: 2916-1
+wikidata_id: Q15414
+ipni_surname: Fries
+ipni_forenames: Robert Elias
+ipni_standard_form: R.E.Fr.
+ipni_dates: 1876-1966
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0958
+tl2_volume: vol3
+tl2_page_printed: 808
+tl2_surname: Örsted
+tl2_forenames: Anders Sandö (Ørsted, Oersted)
+tl2_name_abbrev: Örst.
+tl2_dates: 1816-1872
+tl2_page_id: 33355895
+author_lsid: 24229-1
+wikidata_id: Q491270
+ipni_surname: Oersted
+ipni_forenames: Anders Sandoe
+ipni_standard_form: Oerst.
+ipni_dates: 1816-1872
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2004-04-15 08:14:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33355895) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

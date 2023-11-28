@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0008
+tl2_volume: suppl8
+tl2_page_printed: 12
+tl2_surname: Fridtz
+tl2_forenames: Randor Eretius
+tl2_name_abbrev: Fridtz
+tl2_dates: 1845-1921
+tl2_page_id: 33258514
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33258514) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0294
+tl2_volume: vol3
+tl2_page_printed: 270
+tl2_surname: Maly
+tl2_forenames: Joseph Karl [Carl]
+tl2_name_abbrev: Maly
+tl2_dates: 1797-1866
+tl2_page_id: 33355357
+author_lsid: 6044-1
+wikidata_id: Q5937032
+ipni_surname: Maly
+ipni_forenames: Joseph Karl(Carl)
+ipni_standard_form: Maly
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

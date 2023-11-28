@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0697
+tl2_volume: vol4
+tl2_page_printed: 711
+tl2_surname: Reissek (Reisseck)
+tl2_forenames: Siegfried
+tl2_name_abbrev: Reissek
+tl2_dates: 1819-1871
+tl2_page_id: 33190182
+author_lsid: 8279-1
+wikidata_id: Q7510683
+ipni_surname: Reissek
+ipni_forenames: Siegfried
+ipni_standard_form: Reissek
+ipni_dates: 1819-1871
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33190182) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

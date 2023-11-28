@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0094
+tl2_volume: suppl4
+tl2_page_printed: 111
+tl2_surname: Chirat du Vernay
+tl2_forenames: Ludovic Charles Antoine
+tl2_name_abbrev: Chirat
+tl2_dates: 1805-1856
+tl2_page_id: 33265788
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

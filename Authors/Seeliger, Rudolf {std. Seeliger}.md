@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0453
+tl2_volume: vol5
+tl2_page_printed: 473
+tl2_surname: Seeliger
+tl2_forenames: Rudolf
+tl2_name_abbrev: Seeliger
+tl2_dates: 1889-1943
+tl2_page_id: 33333612
+author_lsid: 9415-1
+wikidata_id: Q21608600
+ipni_surname: Seeliger
+ipni_forenames: Rudolf Heinrich
+ipni_standard_form: Seeliger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

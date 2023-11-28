@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1025
+tl2_volume: vol1
+tl2_page_printed: 832
+tl2_surname: Fink
+tl2_forenames: Bruce
+tl2_name_abbrev: Fink
+tl2_dates: 1861-1927
+tl2_page_id: 33120963
+author_lsid: 18809-1
+wikidata_id: Q18631681
+ipni_surname: Fink
+ipni_forenames: Bruce
+ipni_standard_form: Fink
+ipni_dates: 1861-1927
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

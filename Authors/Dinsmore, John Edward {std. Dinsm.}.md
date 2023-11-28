@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0345
+tl2_volume: suppl5
+tl2_page_printed: 346
+tl2_surname: Dinsmore
+tl2_forenames: John Edward
+tl2_name_abbrev: Dinsm.
+tl2_dates: 1862-1951
+tl2_page_id: 33259392
+author_lsid: 2223-1
+wikidata_id: Q20389757
+ipni_surname: Dinsmore
+ipni_forenames: John Edward
+ipni_standard_form: Dinsm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33259392) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0383
+tl2_volume: suppl2
+tl2_page_printed: 325
+tl2_surname: Boorsma
+tl2_forenames: Willem Gerbrand
+tl2_name_abbrev: Boorsma
+tl2_dates: 1867-1937
+tl2_page_id: 33265522
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265522) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

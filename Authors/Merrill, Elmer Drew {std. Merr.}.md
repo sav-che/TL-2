@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0510
+tl2_volume: vol3
+tl2_page_printed: 425
+tl2_surname: Merrill
+tl2_forenames: Elmer Drew
+tl2_name_abbrev: Merr.
+tl2_dates: 1876-1956
+tl2_page_id: 33355512
+author_lsid: 6376-1
+wikidata_id: Q729926
+ipni_surname: Merrill
+ipni_forenames: Elmer Drew
+ipni_standard_form: Merr.
+ipni_dates: 1876-1956
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- Philippines
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

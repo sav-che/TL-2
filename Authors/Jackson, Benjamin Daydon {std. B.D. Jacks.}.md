@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0434
+tl2_volume: vol2
+tl2_page_printed: 396
+tl2_surname: Jackson
+tl2_forenames: Benjamin Daydon
+tl2_name_abbrev: B.D. Jacks.
+tl2_dates: 1846-1927
+tl2_page_id: 33068638
+author_lsid: 4362-1
+wikidata_id: Q817450
+ipni_surname: Jackson
+ipni_forenames: Benjamin Daydon
+ipni_standard_form: B.D.Jacks.
+ipni_dates: 1846-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33068638) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

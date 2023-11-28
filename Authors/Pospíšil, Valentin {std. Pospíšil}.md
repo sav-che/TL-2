@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0426
+tl2_volume: vol4
+tl2_page_printed: 350
+tl2_surname: Pospíšil
+tl2_forenames: Valentin
+tl2_name_abbrev: Pospíšil
+tl2_dates: 1913-x
+tl2_page_id: 33189821
+author_lsid: 7874-1
+wikidata_id: Q21523135
+ipni_surname: Pospíšil
+ipni_forenames: Valentin
+ipni_standard_form: Pospíšil
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

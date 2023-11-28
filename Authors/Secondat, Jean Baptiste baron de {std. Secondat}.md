@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0449
+tl2_volume: vol5
+tl2_page_printed: 471
+tl2_surname: Secondat
+tl2_forenames: Jean Baptiste baron de
+tl2_name_abbrev: Secondat
+tl2_dates: 1716-1796
+tl2_page_id: 33333610
+author_lsid: 9411-1
+wikidata_id: Q5928631
+ipni_surname: Secondat
+ipni_forenames: Jean Baptiste de
+ipni_standard_form: Secondat
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

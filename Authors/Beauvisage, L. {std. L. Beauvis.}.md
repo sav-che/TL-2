@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0007
+tl2_volume: suppl2
+tl2_page_printed: 9
+tl2_surname: Beauvisage
+tl2_forenames: L.
+tl2_name_abbrev: L. Beauvis.
+tl2_dates: fl. 1918-1920
+tl2_page_id: 33265206
+author_lsid: 35502-1
+wikidata_id: Q14178088
+ipni_surname: Beauvisage
+ipni_forenames: L.
+ipni_standard_form: L.Beauvis.
+ipni_dates: fl. 1959-
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33265206) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

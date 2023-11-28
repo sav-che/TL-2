@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0409
+tl2_volume: suppl4
+tl2_page_printed: 490
+tl2_surname: Cuboni
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Cub.
+tl2_dates: 1852-1920
+tl2_page_id: 33266167
+author_lsid: 17564-1
+wikidata_id: Q3770376
+ipni_surname: Cuboni
+ipni_forenames: Giuseppe
+ipni_standard_form: Cub.
+ipni_dates: 1852-1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33266167) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

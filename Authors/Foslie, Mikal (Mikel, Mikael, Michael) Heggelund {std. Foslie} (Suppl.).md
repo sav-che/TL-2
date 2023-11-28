@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0226
+tl2_volume: suppl7
+tl2_page_printed: 343
+tl2_surname: Foslie
+tl2_forenames: Mikal [Mikel, Mikael, Michael] Heggelund
+tl2_name_abbrev: Foslie
+tl2_dates: 1855-1909
+tl2_page_id: 33259847
+author_lsid: 2844-1
+wikidata_id: Q3290287
+ipni_surname: Foslie
+ipni_forenames: Michael(Mikal) Heggelund
+ipni_standard_form: Foslie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33259847) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

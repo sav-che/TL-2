@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0256
+tl2_volume: suppl8
+tl2_page_printed: 363
+tl2_surname: Greene
+tl2_forenames: Henry Campbell
+tl2_name_abbrev: H.C. Greene
+tl2_dates: 1904-1967
+tl2_page_id: 33258841
+author_lsid: 19598-1
+wikidata_id: Q21514250
+ipni_surname: Greene
+ipni_forenames: Henry Campbell
+ipni_standard_form: H.C.Greene
+ipni_dates: 1904-1967
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33258841) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

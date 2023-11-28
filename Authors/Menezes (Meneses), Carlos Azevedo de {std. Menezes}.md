@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0491
+tl2_volume: vol3
+tl2_page_printed: 415
+tl2_surname: Menezes (Meneses)
+tl2_forenames: Carlos Azevedo de
+tl2_name_abbrev: Menezes
+tl2_dates: 1863-1928
+tl2_page_id: 33355502
+author_lsid: 6353-1
+wikidata_id: Q21393819
+ipni_surname: Menezes
+ipni_forenames: Carlos Azevedo de
+ipni_standard_form: Menezes
+ipni_dates: 1863-1928
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0454
+tl2_volume: vol4
+tl2_page_printed: 374
+tl2_surname: Praetorius
+tl2_forenames: Ignaz
+tl2_name_abbrev: Praet.
+tl2_dates: 1836-1908
+tl2_page_id: 33189845
+author_lsid: 7921-1
+wikidata_id: Q21523179
+ipni_surname: Praetorius
+ipni_forenames: Ignaz
+ipni_standard_form: Praet.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

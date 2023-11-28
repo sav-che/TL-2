@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0497
+tl2_volume: vol4
+tl2_page_printed: 415
+tl2_surname: Prodan
+tl2_forenames: Iuliu [Julius]
+tl2_name_abbrev: Prodan
+tl2_dates: 1875-1959
+tl2_page_id: 33189886
+author_lsid: 7985-1
+wikidata_id: Q9010119
+ipni_surname: Prodan
+ipni_forenames: Iuliu
+ipni_standard_form: Prodan
+ipni_dates: 1875-1959
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0169
+tl2_volume: vol4
+tl2_page_printed: 154
+tl2_surname: Pennell
+tl2_forenames: Francis Whittier
+tl2_name_abbrev: Pennell
+tl2_dates: 1886-1952
+tl2_page_id: 33189625
+author_lsid: 7491-1
+wikidata_id: Q3297757
+ipni_surname: Pennell
+ipni_forenames: Francis Whittier
+ipni_standard_form: Pennell
+ipni_dates: 1886-1952
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33189625) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

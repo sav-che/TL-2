@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0323
+tl2_volume: vol2
+tl2_page_printed: 264
+tl2_surname: Holway
+tl2_forenames: Edward Willet Dorland
+tl2_name_abbrev: Holw.
+tl2_dates: 1853-1923
+tl2_page_id: 33068506
+author_lsid: 4066-1
+wikidata_id: Q16509052
+ipni_surname: Holway
+ipni_forenames: Edward Willet Dorland
+ipni_standard_form: Holw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0385
+tl2_volume: vol2
+tl2_page_printed: 360
+tl2_surname: Hüttig
+tl2_forenames: Heinrich
+tl2_name_abbrev: Hüttig
+tl2_dates: fl. 1872-1890
+tl2_page_id: 33068602
+author_lsid: 4209-1
+wikidata_id: Q36574112
+ipni_surname: Hüttig
+ipni_forenames: Heinrich
+ipni_standard_form: Hüttig
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

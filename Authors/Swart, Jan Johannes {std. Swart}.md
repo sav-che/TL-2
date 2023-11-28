@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0136
+tl2_volume: vol6
+tl2_page_printed: 116
+tl2_surname: Swart
+tl2_forenames: Jan Johannes
+tl2_name_abbrev: Swart
+tl2_dates: 1901-1974
+tl2_page_id: 33212158
+author_lsid: 10336-1
+wikidata_id: Q5926004
+ipni_surname: Swart
+ipni_forenames: Jan Johannes
+ipni_standard_form: Swart
+ipni_dates: 1901-1974
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

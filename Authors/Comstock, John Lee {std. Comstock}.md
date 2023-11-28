@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0229
+tl2_volume: suppl4
+tl2_page_printed: 292
+tl2_surname: Comstock
+tl2_forenames: John Lee
+tl2_name_abbrev: Comstock
+tl2_dates: 1789-1858
+tl2_page_id: 33265969
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265969) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

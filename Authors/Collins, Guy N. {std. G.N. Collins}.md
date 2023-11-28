@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0210
+tl2_volume: suppl4
+tl2_page_printed: 274
+tl2_surname: Collins
+tl2_forenames: Guy N.
+tl2_name_abbrev: G.N. Collins
+tl2_dates: 1872-1938
+tl2_page_id: 33265951
+author_lsid: 1744-1
+wikidata_id: Q20973529
+ipni_surname: Collins
+ipni_forenames: Guy N.
+ipni_standard_form: G.N.Collins
+ipni_dates: 1872-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265951) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

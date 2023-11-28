@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0037
+tl2_volume: suppl8
+tl2_page_printed: 61
+tl2_surname: Froehner
+tl2_forenames: Albrecht
+tl2_name_abbrev: A. Froehner
+tl2_dates: fl. 1896-1898
+tl2_page_id: 33258539
+author_lsid: 2931-1
+wikidata_id: Q5663847
+ipni_surname: Froehner
+ipni_forenames: Albrecht
+ipni_standard_form: A.Froehner
+ipni_dates: fl. 1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0418
+tl2_volume: vol5
+tl2_page_printed: 443
+tl2_surname: Schwendener
+tl2_forenames: Simon
+tl2_name_abbrev: Schwend.
+tl2_dates: 1829-1919
+tl2_page_id: 33333582
+author_lsid: 9371-1
+wikidata_id: Q115641
+ipni_surname: Schwendener
+ipni_forenames: Simon
+ipni_standard_form: Schwend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33333582) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

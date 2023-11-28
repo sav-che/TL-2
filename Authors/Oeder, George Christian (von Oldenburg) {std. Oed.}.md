@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0955
+tl2_volume: vol3
+tl2_page_printed: 803
+tl2_surname: Oeder
+tl2_forenames: George Christian [von Oldenburg]
+tl2_name_abbrev: Oed.
+tl2_dates: 1728-1791
+tl2_page_id: 33355890
+author_lsid: 24254-1
+wikidata_id: Q64346
+ipni_surname: Oeder
+ipni_forenames: George Christian Edler von Oldenburg
+ipni_standard_form: Oeder
+ipni_dates: 1728-1791
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

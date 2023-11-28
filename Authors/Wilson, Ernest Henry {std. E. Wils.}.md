@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0306
+tl2_volume: vol7
+tl2_page_printed: 350
+tl2_surname: Wilson
+tl2_forenames: Ernest Henry
+tl2_name_abbrev: E. Wils.
+tl2_dates: 1876-1930
+tl2_page_id: 33066690
+author_lsid: 11732-1
+wikidata_id: Q1356381
+ipni_surname: Wilson
+ipni_forenames: Ernest Henry
+ipni_standard_form: E.H.Wilson
+ipni_dates: 1876-1930
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33066690) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

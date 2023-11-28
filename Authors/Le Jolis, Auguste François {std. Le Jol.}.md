@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0984
+tl2_volume: vol2
+tl2_page_printed: 831
+tl2_surname: Le Jolis
+tl2_forenames: Auguste François
+tl2_name_abbrev: Le Jol.
+tl2_dates: 1823-1904
+tl2_page_id: 33069073
+author_lsid: 5452-1
+wikidata_id: Q55056984
+ipni_surname: Le Jolis
+ipni_forenames: Auguste François
+ipni_standard_form: Le Jol.
+ipni_dates: 1823-1904
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33069073) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

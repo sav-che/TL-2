@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0850
+tl2_volume: vol4
+tl2_page_printed: 841
+tl2_surname: Römer
+tl2_forenames: Carl
+tl2_name_abbrev: C. Röm.
+tl2_dates: 1815-1881
+tl2_page_id: 33190312
+author_lsid: 8501-1
+wikidata_id: Q21607374
+ipni_surname: Römer
+ipni_forenames: Carl
+ipni_standard_form: C.Römer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

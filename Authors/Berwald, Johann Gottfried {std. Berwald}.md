@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0263
+tl2_volume: vol1
+tl2_page_printed: 206
+tl2_surname: Berwald
+tl2_forenames: Johann Gottfried
+tl2_name_abbrev: Berwald
+tl2_dates: fl. 1778
+tl2_page_id: 33120337
+author_lsid: 732-1
+wikidata_id: Q47114179
+ipni_surname: Berwald
+ipni_forenames: Johann Gottfried
+ipni_standard_form: Berwald
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

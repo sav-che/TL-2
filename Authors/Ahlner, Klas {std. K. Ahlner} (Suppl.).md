@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0059
+tl2_volume: suppl1
+tl2_page_printed: 48
+tl2_surname: Ahlner
+tl2_forenames: Klas
+tl2_name_abbrev: K. Ahlner
+tl2_dates: 1845-1932
+tl2_page_id: 33264737
+author_lsid: 97-1
+wikidata_id: Q10314484
+ipni_surname: Ahlner
+ipni_forenames: Klas
+ipni_standard_form: K.Ahlner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

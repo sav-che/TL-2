@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0445
+tl2_volume: vol1
+tl2_page_printed: 357
+tl2_surname: Brotero
+tl2_forenames: Felix de Avellar
+tl2_name_abbrev: Brot.
+tl2_dates: 1744-1828
+tl2_page_id: 33120488
+author_lsid: 16584-1
+wikidata_id: Q1032088
+ipni_surname: Brotero
+ipni_forenames: Felix de (Silva) Avellar
+ipni_standard_form: Brot.
+ipni_dates: 1744-1828
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0295
+tl2_volume: suppl3
+tl2_page_printed: 301
+tl2_surname: Cain
+tl2_forenames: Stanley Adair
+tl2_name_abbrev: S.A. Cain
+tl2_dates: 1902-x
+tl2_page_id: 33266608
+author_lsid: 16804-1
+wikidata_id: Q21506834
+ipni_surname: Cain
+ipni_forenames: Stanley Adair
+ipni_standard_form: S.A.Cain
+ipni_dates: 1902-1995
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33266608) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

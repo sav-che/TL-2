@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0439
+tl2_volume: vol6
+tl2_page_printed: 409
+tl2_surname: Totten
+tl2_forenames: Henry Roland
+tl2_name_abbrev: Totten
+tl2_dates: 1892-1974
+tl2_page_id: 33212451
+author_lsid: 10759-1
+wikidata_id: Q21610900
+ipni_surname: Totten
+ipni_forenames: Henry Roland
+ipni_standard_form: Totten
+ipni_dates: 1892-1974
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

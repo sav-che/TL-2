@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0838
+tl2_volume: vol3
+tl2_page_printed: 723
+tl2_surname: Nelson
+tl2_forenames: David
+tl2_name_abbrev: D. Nels.
+tl2_dates: x-1789
+tl2_page_id: 33355810
+author_lsid: 6903-1
+wikidata_id: Q1175873
+ipni_surname: Nelson
+ipni_forenames: David
+ipni_standard_form: Nelson
+ipni_dates: c.1740-1789
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33355810) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

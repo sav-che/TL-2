@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0446
+tl2_volume: vol2
+tl2_page_printed: 404
+tl2_surname: Jacques
+tl2_forenames: Henri Antoine
+tl2_name_abbrev: Jacques
+tl2_dates: 1782-1866
+tl2_page_id: 33068646
+author_lsid: 4384-1
+wikidata_id: Q3130337
+ipni_surname: Jacques
+ipni_forenames: Henri Antoine
+ipni_standard_form: Jacques
+ipni_dates: 1782-1866
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33068646) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

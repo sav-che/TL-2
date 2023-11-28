@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0361
+tl2_volume: suppl2
+tl2_page_printed: 304
+tl2_surname: Bonafous
+tl2_forenames: Matthieu
+tl2_name_abbrev: Bonaf.
+tl2_dates: 1793-1852
+tl2_page_id: 33265501
+author_lsid: 942-1
+wikidata_id: Q1107072
+ipni_surname: Bonafous
+ipni_forenames: Matthieu
+ipni_standard_form: Bonaf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

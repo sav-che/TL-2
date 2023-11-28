@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0129
+tl2_volume: suppl2
+tl2_page_printed: 109
+tl2_surname: Bernet
+tl2_forenames: Henri
+tl2_name_abbrev: Bernet
+tl2_dates: 1850-1904
+tl2_page_id: 33265306
+author_lsid: 16014-1
+wikidata_id: Q21506020
+ipni_surname: Bernet
+ipni_forenames: Henri
+ipni_standard_form: Bernet
+ipni_dates: 1850-1904
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33265306) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

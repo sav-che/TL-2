@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0752
+tl2_volume: vol4
+tl2_page_printed: 767
+tl2_surname: Richard
+tl2_forenames: Olivier Jules
+tl2_name_abbrev: O.J. Rich.
+tl2_dates: 1836-1896
+tl2_page_id: 33190238
+author_lsid: 8351-1
+wikidata_id: Q7088161
+ipni_surname: Richard
+ipni_forenames: Olivier Jules
+ipni_standard_form: O.J.Rich.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33190238) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

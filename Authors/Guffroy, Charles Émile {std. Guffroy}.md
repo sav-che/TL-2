@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0322
+tl2_volume: suppl8
+tl2_page_printed: 443
+tl2_surname: Guffroy
+tl2_forenames: Charles Émile
+tl2_name_abbrev: Guffroy
+tl2_dates: 1875-1954
+tl2_page_id: 33258921
+author_lsid: 3455-1
+wikidata_id: Q36524903
+ipni_surname: Guffroy
+ipni_forenames: Charles-Émile
+ipni_standard_form: Guffroy
+ipni_dates: fl. 1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33258921) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0288
+tl2_volume: vol6
+tl2_page_printed: 249
+tl2_surname: Thériot
+tl2_forenames: [Marie Hypolite] Irénée
+tl2_name_abbrev: Thér.
+tl2_dates: 1859-1947
+tl2_page_id: 33212291
+author_lsid: 10559-1
+wikidata_id: Q19060997
+ipni_surname: Thériot
+ipni_forenames: (Marie Hypolite) Irénée
+ipni_standard_form: Thér.
+ipni_dates: 1859-1947
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33212291) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

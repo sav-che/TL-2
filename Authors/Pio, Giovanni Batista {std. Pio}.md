@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0324
+tl2_volume: vol4
+tl2_page_printed: 269
+tl2_surname: Pio
+tl2_forenames: Giovanni Batista
+tl2_name_abbrev: Pio
+tl2_dates: fl. 1813
+tl2_page_id: 33189740
+author_lsid: 7718-1
+wikidata_id: Q36566512
+ipni_surname: Pio
+ipni_forenames: Giovanni Battista
+ipni_standard_form: Pio
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

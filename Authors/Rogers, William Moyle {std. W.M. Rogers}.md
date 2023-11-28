@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0872
+tl2_volume: vol4
+tl2_page_printed: 860
+tl2_surname: Rogers
+tl2_forenames: William Moyle
+tl2_name_abbrev: W.M. Rogers
+tl2_dates: 1835-1920
+tl2_page_id: 33190331
+author_lsid: 8529-1
+wikidata_id: Q21387727
+ipni_surname: Rogers
+ipni_forenames: William Moyle
+ipni_standard_form: W.M.Rogers
+ipni_dates: 1835-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

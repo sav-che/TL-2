@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0204
+tl2_volume: suppl8
+tl2_page_printed: 273
+tl2_surname: Goethe
+tl2_forenames: Johann Wolfgang (von)
+tl2_name_abbrev: Goethe
+tl2_dates: 1749-1832
+tl2_page_id: 33258751
+author_lsid: 3229-1
+wikidata_id: Q5879
+ipni_surname: Goethe
+ipni_forenames: Johann Wolfgang von
+ipni_standard_form: Goethe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

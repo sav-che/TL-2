@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0684
+tl2_volume: vol5
+tl2_page_printed: 676
+tl2_surname: Smith
+tl2_forenames: Herbert Huntington
+tl2_name_abbrev: H.H. Sm.
+tl2_dates: 1852-1919
+tl2_page_id: 33333815
+author_lsid: 9800-1
+wikidata_id: Q456472
+ipni_surname: Smith
+ipni_forenames: Herbert Huntingdon
+ipni_standard_form: Herb.H.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

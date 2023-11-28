@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0007
+tl2_volume: vol4
+tl2_page_printed: 5
+tl2_surname: Page
+tl2_forenames: William Bridgewater
+tl2_name_abbrev: Page
+tl2_dates: 1790-1871
+tl2_page_id: 33189510
+author_lsid: 7245-1
+wikidata_id: Q21522526
+ipni_surname: Page
+ipni_forenames: William Bridgewater
+ipni_standard_form: Page
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

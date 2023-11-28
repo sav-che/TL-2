@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0381
+tl2_volume: suppl1
+tl2_page_printed: 333
+tl2_surname: Barnhart
+tl2_forenames: John Hendley
+tl2_name_abbrev: Barnhart
+tl2_dates: 1871-1949
+tl2_page_id: 33265060
+author_lsid: 492-1
+wikidata_id: Q3394812
+ipni_surname: Barnhart
+ipni_forenames: John Hendley
+ipni_standard_form: Barnhart
+ipni_dates: 1871-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265060) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

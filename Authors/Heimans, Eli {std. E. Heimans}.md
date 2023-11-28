@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0151
+tl2_volume: vol2
+tl2_page_printed: 137
+tl2_surname: Heimans
+tl2_forenames: Eli
+tl2_name_abbrev: E. Heimans
+tl2_dates: 1861-1914
+tl2_page_id: 33068379
+author_lsid: 3787-1
+wikidata_id: Q2529493
+ipni_surname: Heimans
+ipni_forenames: Eli
+ipni_standard_form: E.Heimans
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

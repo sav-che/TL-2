@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0112
+tl2_volume: vol5
+tl2_page_printed: 103
+tl2_surname: Schaefer
+tl2_forenames: Michael
+tl2_name_abbrev: M. Schaefer
+tl2_dates: 1790-1846
+tl2_page_id: 33333242
+author_lsid: 9005-1
+wikidata_id: Q21607849
+ipni_surname: Schaefer
+ipni_forenames: Michael
+ipni_standard_form: Schaef.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

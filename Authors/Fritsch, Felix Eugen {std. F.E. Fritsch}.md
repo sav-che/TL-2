@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1108
+tl2_volume: vol1
+tl2_page_printed: 891
+tl2_surname: Fritsch
+tl2_forenames: Felix Eugen
+tl2_name_abbrev: F.E. Fritsch
+tl2_dates: 1879-1954
+tl2_page_id: 33121022
+author_lsid: 2923-1
+wikidata_id: Q4011595
+ipni_surname: Fritsch
+ipni_forenames: Felix Eugen
+ipni_standard_form: F.E.Fritsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0095
+tl2_volume: suppl2
+tl2_page_printed: 86
+tl2_surname: Bergdolt
+tl2_forenames: Ernst
+tl2_name_abbrev: Bergdolt
+tl2_dates: 1902-x
+tl2_page_id: 33265283
+author_lsid: 678-1
+wikidata_id: Q21505987
+ipni_surname: Bergdolt
+ipni_forenames: Ernst
+ipni_standard_form: Bergdolt
+ipni_dates: 1902-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33265283) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

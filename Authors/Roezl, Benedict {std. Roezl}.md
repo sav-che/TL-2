@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_0862
+tl2_volume: vol4
+tl2_page_printed: 854
+tl2_surname: Roezl
+tl2_forenames: Benedict
+tl2_name_abbrev: Roezl
+tl2_dates: 1824-1885
+tl2_page_id: 33190325
+author_lsid: 8516-1
+wikidata_id: Q79112
+ipni_surname: Roezl
+ipni_forenames: Benedikt
+ipni_standard_form: Roezl
+ipni_dates: 1824-1885
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+- United States
+- Mexico
+- Cuba
+- Czech Republic
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33190325) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

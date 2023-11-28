@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0126
+tl2_volume: suppl1
+tl2_page_printed: 97
+tl2_surname: Ames
+tl2_forenames: Adeline Sarah
+tl2_name_abbrev: A. Ames
+tl2_dates: 1879-?
+tl2_page_id: 33264824
+author_lsid: 30830-1
+wikidata_id: Q17478945
+ipni_surname: Ames
+ipni_forenames: Adeline
+ipni_standard_form: A.Ames
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33264824) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

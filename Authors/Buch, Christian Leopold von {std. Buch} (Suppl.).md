@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0178
+tl2_volume: suppl3
+tl2_page_printed: 180
+tl2_surname: Buch
+tl2_forenames: Christian Leopold von
+tl2_name_abbrev: Buch
+tl2_dates: 1774-1853
+tl2_page_id: 33266487
+author_lsid: 1239-1
+wikidata_id: Q55021352
+ipni_surname: Buch
+ipni_forenames: Christian Leopold von
+ipni_standard_form: Buch
+ipni_dates: 1774-1853
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

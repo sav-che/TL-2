@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0395
+tl2_volume: vol4
+tl2_page_printed: 333
+tl2_surname: Pomata y Gisbert
+tl2_forenames: Eladio
+tl2_name_abbrev: Pomata
+tl2_dates: fl. 1880
+tl2_page_id: 33189804
+author_lsid: 7822-1
+wikidata_id: Q36548857
+ipni_surname: Pomata y Gisbert
+ipni_forenames: Eladio
+ipni_standard_form: Pomata
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

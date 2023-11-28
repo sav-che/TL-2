@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0546
+tl2_volume: vol4
+tl2_page_printed: 460
+tl2_surname: Rabenau
+tl2_forenames: [Benno Carl August] Hugo von
+tl2_name_abbrev: Rabenau
+tl2_dates: 1845-1921
+tl2_page_id: 33189931
+author_lsid: 12753-1
+wikidata_id: Q21606821
+ipni_surname: Rabenau
+ipni_forenames: (Benno Carl August) Hugo von
+ipni_standard_form: Rabenau
+ipni_dates: 1845-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

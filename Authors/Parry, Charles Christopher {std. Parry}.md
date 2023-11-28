@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0091
+tl2_volume: vol4
+tl2_page_printed: 79
+tl2_surname: Parry
+tl2_forenames: Charles Christopher
+tl2_name_abbrev: Parry
+tl2_dates: 1823-1890
+tl2_page_id: 33189550
+author_lsid: 7369-1
+wikidata_id: Q650220
+ipni_surname: Parry
+ipni_forenames: Charles Christopher
+ipni_standard_form: Parry
+ipni_dates: 1823-1890
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33189550) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

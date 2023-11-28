@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0906
+tl2_volume: vol4
+tl2_page_printed: 882
+tl2_surname: Rosbach
+tl2_forenames: Heinrich
+tl2_name_abbrev: Rosbach
+tl2_dates: fl. 1880
+tl2_page_id: 33190353
+author_lsid: 8582-1
+wikidata_id: Q5893536
+ipni_surname: Rosbach
+ipni_forenames: Heinrich
+ipni_standard_form: Rosbach
+ipni_dates: fl. 1880
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

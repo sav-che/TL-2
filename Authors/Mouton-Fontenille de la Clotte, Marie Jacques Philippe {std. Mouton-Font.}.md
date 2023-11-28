@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0725
+tl2_volume: vol3
+tl2_page_printed: 610
+tl2_surname: Mouton-Fontenille de la Clotte
+tl2_forenames: Marie Jacques Philippe
+tl2_name_abbrev: Mouton-Font.
+tl2_dates: 1769-1837
+tl2_page_id: 33355697
+author_lsid: 6717-1
+wikidata_id: Q3292585
+ipni_surname: Mouton-Fontenille de la Clotte
+ipni_forenames: Marie Jacques Phillipe
+ipni_standard_form: Mouton-Font.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

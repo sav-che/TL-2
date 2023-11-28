@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0208
+tl2_volume: vol1
+tl2_page_printed: 160
+tl2_surname: Beck
+tl2_forenames: [Carl] Richard
+tl2_name_abbrev: R. Beck
+tl2_dates: 1858-1919
+tl2_page_id: 33120291
+author_lsid: 34328-1
+wikidata_id: Q2149046
+ipni_surname: Beck
+ipni_forenames: (Carl) Richard
+ipni_standard_form: R.Beck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33120291) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

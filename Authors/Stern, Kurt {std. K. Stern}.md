@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0907
+tl2_volume: vol5
+tl2_page_printed: 898
+tl2_surname: Stern
+tl2_forenames: Kurt
+tl2_name_abbrev: K. Stern
+tl2_dates: 1892-x
+tl2_page_id: 33334037
+author_lsid: 10115-1
+wikidata_id: Q21609818
+ipni_surname: Stern
+ipni_forenames: Kurt
+ipni_standard_form: K.Stern
+ipni_dates: 1892-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

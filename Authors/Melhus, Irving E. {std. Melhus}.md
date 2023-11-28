@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0482
+tl2_volume: vol3
+tl2_page_printed: 409
+tl2_surname: Melhus
+tl2_forenames: Irving E.
+tl2_name_abbrev: Melhus
+tl2_dates: 1881-1969
+tl2_page_id: 33355496
+author_lsid: 23235-1
+wikidata_id: Q21520345
+ipni_surname: Melhus
+ipni_forenames: Irving E.
+ipni_standard_form: Melhus
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0215
+tl2_volume: vol7
+tl2_page_printed: 237
+tl2_surname: Weymayr
+tl2_forenames: Thassilo
+tl2_name_abbrev: Weymayr
+tl2_dates: fl. 1867
+tl2_page_id: 33066577
+author_lsid: 11599-1
+wikidata_id: Q36692778
+ipni_surname: Weymayr
+ipni_forenames: Thassilo
+ipni_standard_form: Weymayr
+ipni_dates: fl. 1867
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

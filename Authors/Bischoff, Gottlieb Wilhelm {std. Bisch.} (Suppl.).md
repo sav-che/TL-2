@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0215
+tl2_volume: suppl2
+tl2_page_printed: 175
+tl2_surname: Bischoff
+tl2_forenames: Gottlieb Wilhelm
+tl2_name_abbrev: Bisch.
+tl2_dates: 1797-1854
+tl2_page_id: 33265372
+author_lsid: 16158-1
+wikidata_id: Q68493
+ipni_surname: Bischoff
+ipni_forenames: Gottlieb Wilhelm T.G.
+ipni_standard_form: Bisch.
+ipni_dates: 1797-1854
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33265372) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

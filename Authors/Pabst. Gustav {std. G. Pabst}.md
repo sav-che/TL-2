@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0001
+tl2_volume: vol4
+tl2_page_printed: 1
+tl2_surname: Pabst. Gustav
+tl2_forenames: Pabst. Gustav
+tl2_name_abbrev: G. Pabst
+tl2_dates: x-1911
+tl2_page_id: 33189514
+author_lsid: 7229-1
+wikidata_id: Q21522498
+ipni_surname: Pabst
+ipni_forenames: Gustav
+ipni_standard_form: G.Pabst
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

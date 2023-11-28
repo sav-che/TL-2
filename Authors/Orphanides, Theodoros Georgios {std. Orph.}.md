@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_1003
+tl2_volume: vol3
+tl2_page_printed: 846
+tl2_surname: Orphanides
+tl2_forenames: Theodoros Georgios
+tl2_name_abbrev: Orph.
+tl2_dates: 1817-1886
+tl2_page_id: 33355933
+author_lsid: 7167-1
+wikidata_id: Q712566
+ipni_surname: Orphanides
+ipni_forenames: Theodhoros Georgios
+ipni_standard_form: Orph.
+ipni_dates: 1817-1886
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Greece
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0136
+tl2_volume: suppl8
+tl2_page_printed: 179
+tl2_surname: Gentil
+tl2_forenames: Louis [Théodore Auguste François]
+tl2_name_abbrev: L. Gentil
+tl2_dates: 1874-1949
+tl2_page_id: 33258657
+author_lsid: 3083-1
+wikidata_id: Q21394877
+ipni_surname: Gentil
+ipni_forenames: Théodore August Louis François
+ipni_standard_form: L.Gentil
+ipni_dates: 1874-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33258657) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

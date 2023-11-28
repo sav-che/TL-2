@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0569
+tl2_volume: vol2
+tl2_page_printed: 485
+tl2_surname: Kain
+tl2_forenames: Charles Henri
+tl2_name_abbrev: Kain
+tl2_dates: x-1913
+tl2_page_id: 33068727
+author_lsid: 4615-1
+wikidata_id: Q21517216
+ipni_surname: Kain
+ipni_forenames: Charles Henri
+ipni_standard_form: Kain
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0576
+tl2_volume: vol6
+tl2_page_printed: 566
+tl2_surname: Uhlworm
+tl2_forenames: Oskar
+tl2_name_abbrev: Uhlworm
+tl2_dates: 1849-1929
+tl2_page_id: 33212608
+author_lsid: 10960-1
+wikidata_id: Q6218957
+ipni_surname: Uhlworm
+ipni_forenames: Oskar
+ipni_standard_form: Uhlworm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33212608) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

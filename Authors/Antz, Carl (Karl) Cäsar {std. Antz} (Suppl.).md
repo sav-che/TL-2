@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0170
+tl2_volume: suppl1
+tl2_page_printed: 133
+tl2_surname: Antz
+tl2_forenames: Carl [Karl] Cäsar
+tl2_name_abbrev: Antz
+tl2_dates: 1805-1859
+tl2_page_id: 33264860
+author_lsid: 239-1
+wikidata_id: Q16500057
+ipni_surname: Antz
+ipni_forenames: Carl Cäsar
+ipni_standard_form: Antz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

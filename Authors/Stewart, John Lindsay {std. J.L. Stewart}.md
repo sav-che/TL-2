@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0928
+tl2_volume: vol5
+tl2_page_printed: 922
+tl2_surname: Stewart
+tl2_forenames: John Lindsay
+tl2_name_abbrev: J.L. Stewart
+tl2_dates: ca. 1832-1873
+tl2_page_id: 33334061
+author_lsid: 10137-1
+wikidata_id: Q21388768
+ipni_surname: Stewart
+ipni_forenames: John Lindsay
+ipni_standard_form: J.L.Stewart
+ipni_dates: 1832-1873
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33334061) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

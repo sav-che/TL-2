@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0110
+tl2_volume: vol2
+tl2_page_printed: 94
+tl2_surname: Hasselt
+tl2_forenames: Arend Ludolf van
+tl2_name_abbrev: A. Hasselt
+tl2_dates: 1848-1909
+tl2_page_id: 33068336
+author_lsid: 3717-1
+wikidata_id: Q21515567
+ipni_surname: Hasselt
+ipni_forenames: Arend Ludolf van
+ipni_standard_form: A.Hasselt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33068336) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

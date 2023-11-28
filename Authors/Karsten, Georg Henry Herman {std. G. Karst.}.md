@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0588
+tl2_volume: vol2
+tl2_page_printed: 499
+tl2_surname: Karsten
+tl2_forenames: Georg Henry Herman
+tl2_name_abbrev: G. Karst.
+tl2_dates: 1863-1937
+tl2_page_id: 33068741
+author_lsid: 4657-1
+wikidata_id: Q96783
+ipni_surname: Karsten
+ipni_forenames: George Henry Herman
+ipni_standard_form: G.Karst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.3.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33068741) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

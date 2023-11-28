@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0844
+tl2_volume: vol2
+tl2_page_printed: 718
+tl2_surname: Laestadius
+tl2_forenames: Carl Petter
+tl2_name_abbrev: C. Laest.
+tl2_dates: 1835-1920
+tl2_page_id: 33068960
+author_lsid: 21962-1
+wikidata_id: Q21518293
+ipni_surname: Laestadius
+ipni_forenames: Carl Petter
+ipni_standard_form: C.Laest.
+ipni_dates: 1835-1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

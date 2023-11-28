@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0321
+tl2_volume: vol7
+tl2_page_printed: 364
+tl2_surname: Windsor
+tl2_forenames: John
+tl2_name_abbrev: Windsor
+tl2_dates: 1787-1868
+tl2_page_id: 33066704
+author_lsid: 11759-1
+wikidata_id: Q21612815
+ipni_surname: Windsor
+ipni_forenames: John
+ipni_standard_form: Windsor
+ipni_dates: 1787-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

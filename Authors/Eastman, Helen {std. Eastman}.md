@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0247
+tl2_volume: suppl6
+tl2_page_printed: 237
+tl2_surname: Eastman
+tl2_forenames: Helen
+tl2_name_abbrev: Eastman
+tl2_dates: 1863-?
+tl2_page_id: 33260225
+author_lsid: 34389-1
+wikidata_id: Q18984381
+ipni_surname: Eastman
+ipni_forenames: Helen
+ipni_standard_form: Eastman
+ipni_dates: 1863-1953
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-11-24 15:43:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

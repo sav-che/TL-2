@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0566
+tl2_volume: vol2
+tl2_page_printed: 483
+tl2_surname: Kabsch
+tl2_forenames: Wilhelm Albert Walter
+tl2_name_abbrev: Kabsch
+tl2_dates: 1835-1864
+tl2_page_id: 33068725
+author_lsid: 4607-1
+wikidata_id: Q21517200
+ipni_surname: Kabsch
+ipni_forenames: Wilhelm August Walther
+ipni_standard_form: Kabsch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

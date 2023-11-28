@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0227
+tl2_volume: suppl6
+tl2_page_printed: 215
+tl2_surname: Duval
+tl2_forenames: Henri Auguste
+tl2_name_abbrev: Duval
+tl2_dates: 1777-1814
+tl2_page_id: 33260203
+author_lsid: 2418-1
+wikidata_id: Q674466
+ipni_surname: Duval
+ipni_forenames: Henri August
+ipni_standard_form: Duval
+ipni_dates: 1777-1814
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

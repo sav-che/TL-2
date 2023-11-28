@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0246
+tl2_volume: vol3
+tl2_page_printed: 229
+tl2_surname: M'Mahon [McMahon]
+tl2_forenames: Bernard
+tl2_name_abbrev: M'Mahon
+tl2_dates: c. 1775-1816
+tl2_page_id: 33355316
+author_lsid: 5948-1
+wikidata_id: Q822624
+ipni_surname: M'Mahon
+ipni_forenames: Bernard
+ipni_standard_form: M'Mahon
+ipni_dates: c.1775-1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Ireland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0866
+tl2_volume: vol5
+tl2_page_printed: 867
+tl2_surname: Stefani
+tl2_forenames: Carlo de [De Stefani]
+tl2_name_abbrev: Stef.
+tl2_dates: 1851-1924
+tl2_page_id: 33334006
+author_lsid: 2159-1
+wikidata_id: Q3659256
+ipni_surname: Stefani
+ipni_forenames: Carlo de
+ipni_standard_form: Stefani
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

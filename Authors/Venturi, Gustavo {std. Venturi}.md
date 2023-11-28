@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0682
+tl2_volume: vol6
+tl2_page_printed: 703
+tl2_surname: Venturi
+tl2_forenames: Gustavo
+tl2_name_abbrev: Venturi
+tl2_dates: 1830-1898
+tl2_page_id: 33212745
+author_lsid: 11130-1
+wikidata_id: Q2351663
+ipni_surname: Venturi
+ipni_forenames: Gustavo
+ipni_standard_form: Venturi
+ipni_dates: 1830-1898
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33212745) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1090
+tl2_volume: vol1
+tl2_page_printed: 873
+tl2_surname: Fraser
+tl2_forenames: John
+tl2_name_abbrev: Fraser
+tl2_dates: 1750-1811
+tl2_page_id: 33121004
+author_lsid: 2885-1
+wikidata_id: Q1337783
+ipni_surname: Fraser
+ipni_forenames: John
+ipni_standard_form: Fraser
+ipni_dates: 1750-1811
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-10-17 04:14:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

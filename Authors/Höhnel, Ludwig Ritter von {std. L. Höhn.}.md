@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0280
+tl2_volume: vol2
+tl2_page_printed: 232
+tl2_surname: Höhnel
+tl2_forenames: Ludwig Ritter von
+tl2_name_abbrev: L. Höhn.
+tl2_dates: 1857-1942
+tl2_page_id: 33068474
+author_lsid: 4002-1
+wikidata_id: Q87967
+ipni_surname: Höhnel
+ipni_forenames: Ludwig von
+ipni_standard_form: L.Höhn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33068474) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0600
+tl2_volume: vol3
+tl2_page_printed: 524
+tl2_surname: Mitchell
+tl2_forenames: Sir Thomas Livingstone
+tl2_name_abbrev: T. Mitch.
+tl2_dates: 1792-1855
+tl2_page_id: 33355611
+author_lsid: 12685-1
+wikidata_id: Q2142133
+ipni_surname: Mitchell
+ipni_forenames: Thomas Livingstone
+ipni_standard_form: T.Mitch.
+ipni_dates: 1792-1855
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33355611) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

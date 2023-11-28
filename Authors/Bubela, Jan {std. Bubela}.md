@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0177
+tl2_volume: suppl3
+tl2_page_printed: 180
+tl2_surname: Bubela
+tl2_forenames: Jan
+tl2_name_abbrev: Bubela
+tl2_dates: 1855-1889
+tl2_page_id: 33266487
+author_lsid: 20014011-2
+wikidata_id: Q36587384
+ipni_surname: Bubela
+ipni_forenames: Johann
+ipni_standard_form: Bubela
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

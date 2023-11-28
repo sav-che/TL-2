@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0940
+tl2_volume: vol2
+tl2_page_printed: 780
+tl2_surname: Lebrun
+tl2_forenames: Jean
+tl2_name_abbrev: Lebrun
+tl2_dates: 1906-x
+tl2_page_id: 33069022
+author_lsid: 5380-1
+wikidata_id: Q13408541
+ipni_surname: Lebrun
+ipni_forenames: Jean Paul Antoine
+ipni_standard_form: Lebrun
+ipni_dates: 1906-1985
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+- Congo, the Democratic Republic of
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33069022) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

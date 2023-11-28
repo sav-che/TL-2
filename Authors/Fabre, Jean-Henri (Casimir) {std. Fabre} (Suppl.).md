@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0003
+tl2_volume: suppl7
+tl2_page_printed: 3
+tl2_surname: Fabre
+tl2_forenames: Jean-Henri [Casimir]
+tl2_name_abbrev: Fabre
+tl2_dates: 1823-1915
+tl2_page_id: 33259507
+author_lsid: 18621-1
+wikidata_id: Q313348
+ipni_surname: Fabre
+ipni_forenames: Jean Henri Casimir
+ipni_standard_form: Fabre
+ipni_dates: 1823-1915
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

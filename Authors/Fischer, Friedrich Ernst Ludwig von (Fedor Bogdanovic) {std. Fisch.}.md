@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1029
+tl2_volume: vol1
+tl2_page_printed: 835
+tl2_surname: Fischer
+tl2_forenames: Friedrich Ernst Ludwig von (Fedor Bogdanovic)
+tl2_name_abbrev: Fisch.
+tl2_dates: 1782-1854
+tl2_page_id: 33120966
+author_lsid: 2744-1
+wikidata_id: Q64109
+ipni_surname: Fischer
+ipni_forenames: Friedrich Ernst Ludwig von (Fedor Bogdanovic)
+ipni_standard_form: Fisch.
+ipni_dates: 1782-1854
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-11-26 00:36:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33120966) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

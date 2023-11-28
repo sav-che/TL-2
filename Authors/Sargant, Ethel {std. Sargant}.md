@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0048
+tl2_volume: vol5
+tl2_page_printed: 50
+tl2_surname: Sargant
+tl2_forenames: Ethel
+tl2_name_abbrev: Sargant
+tl2_dates: 1836-1918
+tl2_page_id: 33333151
+author_lsid: 8916-1
+wikidata_id: Q4408591
+ipni_surname: Sargant
+ipni_forenames: Ethel
+ipni_standard_form: Sargant
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

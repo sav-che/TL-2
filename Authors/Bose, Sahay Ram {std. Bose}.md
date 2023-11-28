@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0417
+tl2_volume: suppl2
+tl2_page_printed: 369
+tl2_surname: Bose
+tl2_forenames: Sahay Ram
+tl2_name_abbrev: Bose
+tl2_dates: 1888-1970
+tl2_page_id: 33265566
+author_lsid: 16376-1
+wikidata_id: Q21506341
+ipni_surname: Bose
+ipni_forenames: S.R.
+ipni_standard_form: Bose
+ipni_dates: 1888-1970
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- India
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33265566) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

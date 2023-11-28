@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0051
+tl2_volume: suppl5
+tl2_page_printed: 43
+tl2_surname: Dancer
+tl2_forenames: Thomas
+tl2_name_abbrev: Dancer
+tl2_dates: ca. 1750-1811
+tl2_page_id: 33259089
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33259089) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

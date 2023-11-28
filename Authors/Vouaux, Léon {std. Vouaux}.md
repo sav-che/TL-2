@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0771
+tl2_volume: vol6
+tl2_page_printed: 786
+tl2_surname: Vouaux
+tl2_forenames: Léon
+tl2_name_abbrev: Vouaux
+tl2_dates: 1870-1914
+tl2_page_id: 33212828
+author_lsid: 28460-1
+wikidata_id: Q21338939
+ipni_surname: Vouaux
+ipni_forenames: Léon
+ipni_standard_form: Vouaux
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33212828) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

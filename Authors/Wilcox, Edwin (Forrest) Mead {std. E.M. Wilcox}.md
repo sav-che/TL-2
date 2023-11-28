@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0264
+tl2_volume: vol7
+tl2_page_printed: 288
+tl2_surname: Wilcox
+tl2_forenames: Edwin [Forrest] Mead
+tl2_name_abbrev: E.M. Wilcox
+tl2_dates: 1876-1931
+tl2_page_id: 33066628
+author_lsid: 13015-1
+wikidata_id: Q21612675
+ipni_surname: Wilcox
+ipni_forenames: Edwin (Forrest) Mead
+ipni_standard_form: Wilcox
+ipni_dates: 1876-1931
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

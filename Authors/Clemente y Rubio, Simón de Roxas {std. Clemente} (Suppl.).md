@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl4_0161
+tl2_volume: suppl4
+tl2_page_printed: 205
+tl2_surname: Clemente y Rubio
+tl2_forenames: Simón de Roxas
+tl2_name_abbrev: Clemente
+tl2_dates: 1777-1827
+tl2_page_id: 33265882
+author_lsid: 12384-1
+wikidata_id: Q2983280
+ipni_surname: Clemente y Rubio
+ipni_forenames: Simón de Roxas (Rojas)
+ipni_standard_form: Clemente
+ipni_dates: 1777-1827
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

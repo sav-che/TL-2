@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0511
+tl2_volume: vol3
+tl2_page_printed: 430
+tl2_surname: Merrill
+tl2_forenames: George Knox
+tl2_name_abbrev: G. Merr.
+tl2_dates: 1864-1927
+tl2_page_id: 33355517
+author_lsid: 23293-1
+wikidata_id: Q18343965
+ipni_surname: Merrill
+ipni_forenames: George Knox
+ipni_standard_form: G.Merr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

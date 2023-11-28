@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0293
+tl2_volume: vol1
+tl2_page_printed: 222
+tl2_surname: Bitter
+tl2_forenames: Friedrich August Georg
+tl2_name_abbrev: Bitter
+tl2_dates: 1873-1927
+tl2_page_id: 33120353
+author_lsid: 814-1
+wikidata_id: Q68945
+ipni_surname: Bitter
+ipni_forenames: Friedrich August Georg
+ipni_standard_form: Bitter
+ipni_dates: 1873-1927
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33120353) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0000
+tl2_volume: suppl5
+tl2_page_printed: 1
+tl2_surname: Dachnowski-Stokes
+tl2_forenames: Alfred Paul
+tl2_name_abbrev: Dachnowski
+tl2_dates: 1875-1949
+tl2_page_id: 33259047
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259047) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

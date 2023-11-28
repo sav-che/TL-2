@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0351
+tl2_volume: suppl4
+tl2_page_printed: 435
+tl2_surname: Cowell
+tl2_forenames: Matthew Henry
+tl2_name_abbrev: Cowell
+tl2_dates: fl. 1830-1840
+tl2_page_id: 33266112
+author_lsid: 13471-1
+wikidata_id: Q36622674
+ipni_surname: Cowell
+ipni_forenames: M.H.
+ipni_standard_form: Cowell
+ipni_dates: fl. 1839
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

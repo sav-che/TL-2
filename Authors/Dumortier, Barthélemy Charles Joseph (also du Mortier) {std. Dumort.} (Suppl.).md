@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl6_0177
+tl2_volume: suppl6
+tl2_page_printed: 163
+tl2_surname: Dumortier
+tl2_forenames: Barthélemy Charles Joseph (also du Mortier)
+tl2_name_abbrev: Dumort.
+tl2_dates: 1797-1878
+tl2_page_id: 33260151
+author_lsid: 18271-1
+wikidata_id: Q316571
+ipni_surname: Dumortier
+ipni_forenames: Barthélemy Charles Joseph
+ipni_standard_form: Dumort.
+ipni_dates: 1797-1878
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-07-14 09:23:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33260151) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

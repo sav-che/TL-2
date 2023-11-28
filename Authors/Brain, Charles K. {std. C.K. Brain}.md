@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0008
+tl2_volume: suppl3
+tl2_page_printed: 5
+tl2_surname: Brain
+tl2_forenames: Charles K.
+tl2_name_abbrev: C.K. Brain
+tl2_dates: fl. 1930-1942
+tl2_page_id: 33266312
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33266312) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

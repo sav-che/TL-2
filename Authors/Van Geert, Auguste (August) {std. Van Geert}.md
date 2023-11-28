@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0651
+tl2_volume: vol6
+tl2_page_printed: 665
+tl2_surname: Van Geert
+tl2_forenames: Auguste [August]
+tl2_name_abbrev: Van Geert
+tl2_dates: 1888-1938
+tl2_page_id: 33212707
+author_lsid: 11058-1
+wikidata_id: Q5711538
+ipni_surname: Van Geert
+ipni_forenames: August(e)
+ipni_standard_form: Van Geert
+ipni_dates: 1888-1938
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

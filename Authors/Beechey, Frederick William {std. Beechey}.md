@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0214
+tl2_volume: vol1
+tl2_page_printed: 164
+tl2_surname: Beechey
+tl2_forenames: Frederick William
+tl2_name_abbrev: Beechey
+tl2_dates: 1796-1856
+tl2_page_id: 33120295
+author_lsid: 14231-1
+wikidata_id: Q510721
+ipni_surname: Beechey
+ipni_forenames: Frederick William
+ipni_standard_form: Beechey
+ipni_dates: 1796-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33120295) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

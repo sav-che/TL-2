@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0142
+tl2_volume: vol5
+tl2_page_printed: 130
+tl2_surname: Schenck
+tl2_forenames: Carl Alwin
+tl2_name_abbrev: C.A. Schenck
+tl2_dates: 1868-1955
+tl2_page_id: 33333269
+author_lsid: 9049-1
+wikidata_id: Q102461
+ipni_surname: Schenck
+ipni_forenames: Carl Alwin
+ipni_standard_form: C.A.Schenck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

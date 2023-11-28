@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0817
+tl2_volume: vol4
+tl2_page_printed: 812
+tl2_surname: Robin
+tl2_forenames: Claude C.
+tl2_name_abbrev: C.C. Robin
+tl2_dates: 1750-?
+tl2_page_id: 33190283
+author_lsid: 8451-1
+wikidata_id: Q21607287
+ipni_surname: Robin
+ipni_forenames: Claude Cesar
+ipni_standard_form: C.C.Robin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

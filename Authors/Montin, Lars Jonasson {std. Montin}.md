@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0650
+tl2_volume: vol3
+tl2_page_printed: 565
+tl2_surname: Montin
+tl2_forenames: Lars Jonasson
+tl2_name_abbrev: Montin
+tl2_dates: 1723-1785
+tl2_page_id: 33355652
+author_lsid: 23573-1
+wikidata_id: Q1623011
+ipni_surname: Montin
+ipni_forenames: Lars Jonasson
+ipni_standard_form: Montin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33355652) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

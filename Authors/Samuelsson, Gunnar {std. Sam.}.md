@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0019
+tl2_volume: vol5
+tl2_page_printed: 23
+tl2_surname: Samuelsson
+tl2_forenames: Gunnar
+tl2_name_abbrev: Sam.
+tl2_dates: 1885-1944
+tl2_page_id: 33333160
+author_lsid: 8869-1
+wikidata_id: Q6090892
+ipni_surname: Samuelsson
+ipni_forenames: Gunnar
+ipni_standard_form: Sam.
+ipni_dates: 1885-1944
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33333160) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0214
+tl2_volume: suppl3
+tl2_page_printed: 212
+tl2_surname: Bugnon
+tl2_forenames: Pierre Frédéric
+tl2_name_abbrev: Bugnon
+tl2_dates: 1886-1957
+tl2_page_id: 33266519
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

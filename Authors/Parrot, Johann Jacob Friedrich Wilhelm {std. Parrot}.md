@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0090
+tl2_volume: vol4
+tl2_page_printed: 78
+tl2_surname: Parrot
+tl2_forenames: Johann Jacob Friedrich Wilhelm
+tl2_name_abbrev: Parrot
+tl2_dates: 1792-1841
+tl2_page_id: 33189549
+author_lsid: 7368-1
+wikidata_id: Q707716
+ipni_surname: Parrot
+ipni_forenames: Johann Jacob Friedrich Wilhelm
+ipni_standard_form: Parrot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33189549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

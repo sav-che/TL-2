@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0393
+tl2_volume: suppl1
+tl2_page_printed: 342
+tl2_surname: Barth
+tl2_forenames: József (Joseph)
+tl2_name_abbrev: Barth
+tl2_dates: 1833-1915
+tl2_page_id: 33265069
+author_lsid: 31379-1
+wikidata_id: Q12349965
+ipni_surname: Barth
+ipni_forenames: József(Joseph)
+ipni_standard_form: Barth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

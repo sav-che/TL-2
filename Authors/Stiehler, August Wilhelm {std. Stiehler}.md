@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0002
+tl2_volume: vol6
+tl2_page_printed: 1
+tl2_surname: Stiehler
+tl2_forenames: August Wilhelm
+tl2_name_abbrev: Stiehler
+tl2_dates: 1797-1878
+tl2_page_id: 33212093
+author_lsid: 10146-1
+wikidata_id: Q2575266
+ipni_surname: Stiehler
+ipni_forenames: August Wilhelm
+ipni_standard_form: Stiehler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

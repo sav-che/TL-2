@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0678
+tl2_volume: vol2
+tl2_page_printed: 564
+tl2_surname: Klein
+tl2_forenames: Jakob Theodor
+tl2_name_abbrev: Klein
+tl2_dates: 1685-1759
+tl2_page_id: 33068806
+author_lsid: 4835-1
+wikidata_id: Q65219
+ipni_surname: Klein
+ipni_forenames: Jacob Theodor
+ipni_standard_form: Klein
+ipni_dates: 1685-1759
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33068806) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

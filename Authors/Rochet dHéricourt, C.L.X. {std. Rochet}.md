@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0832
+tl2_volume: vol4
+tl2_page_printed: 824
+tl2_surname: Rochet d'Héricourt
+tl2_forenames: C.L.X.
+tl2_name_abbrev: Rochet
+tl2_dates: fl. 1846
+tl2_page_id: 33190295
+author_lsid: 8472-1
+wikidata_id: Q36530127
+ipni_surname: Rochet d'Héricourt
+ipni_forenames: C.L.X.
+ipni_standard_form: Rochet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Ethiopia
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

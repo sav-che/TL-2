@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0535
+tl2_volume: vol5
+tl2_page_printed: 555
+tl2_surname: Shear
+tl2_forenames: Cornelius Lott
+tl2_name_abbrev: Shear
+tl2_dates: 1865-1956
+tl2_page_id: 33333694
+author_lsid: 9556-1
+wikidata_id: Q2596205
+ipni_surname: Shear
+ipni_forenames: Cornelius Lott
+ipni_standard_form: Shear
+ipni_dates: 1865-1956
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33333694) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

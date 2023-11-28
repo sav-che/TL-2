@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0295
+tl2_volume: vol2
+tl2_page_printed: 245
+tl2_surname: Hoffmann
+tl2_forenames: Wilhelm
+tl2_name_abbrev: W. Hoffm.
+tl2_dates: 1856-x
+tl2_page_id: 33068487
+author_lsid: 4018-1
+wikidata_id: Q47119017
+ipni_surname: Hoffmann
+ipni_forenames: Wilhelm
+ipni_standard_form: W.Hoffm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

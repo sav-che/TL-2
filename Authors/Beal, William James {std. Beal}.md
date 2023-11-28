@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0001
+tl2_volume: suppl2
+tl2_page_printed: 1
+tl2_surname: Beal
+tl2_forenames: William James
+tl2_name_abbrev: Beal
+tl2_dates: 1833-1924
+tl2_page_id: 33265198
+author_lsid: 577-1
+wikidata_id: Q8013434
+ipni_surname: Beal
+ipni_forenames: William James
+ipni_standard_form: Beal
+ipni_dates: 1833-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

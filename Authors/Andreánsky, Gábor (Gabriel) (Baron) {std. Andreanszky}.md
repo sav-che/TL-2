@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0071
+tl2_volume: vol1
+tl2_page_printed: 49
+tl2_surname: Andreánsky
+tl2_forenames: Gábor (Gabriel) [Baron]
+tl2_name_abbrev: Andreanszky
+tl2_dates: 1895-1967
+tl2_page_id: 33120180
+author_lsid: 12327-1
+wikidata_id: Q278294
+ipni_surname: Andreánszky
+ipni_forenames: Gábor (Gabriel)
+ipni_standard_form: Andr.
+ipni_dates: 1895-1967
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-11-28 08:15:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

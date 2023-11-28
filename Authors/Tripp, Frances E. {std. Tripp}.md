@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0499
+tl2_volume: vol6
+tl2_page_printed: 497
+tl2_surname: Tripp
+tl2_forenames: Frances E.
+tl2_name_abbrev: Tripp
+tl2_dates: 1868-?
+tl2_page_id: 33212539
+author_lsid: 27919-1
+wikidata_id: Q36558217
+ipni_surname: Tripp
+ipni_forenames: Frances E
+ipni_standard_form: Tripp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

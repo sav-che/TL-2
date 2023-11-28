@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0269
+tl2_volume: vol2
+tl2_page_printed: 223
+tl2_surname: Hochstetter
+tl2_forenames: Christian Gottlob Ferdinand (Ritter) von
+tl2_name_abbrev: C.G.F. Hochst.
+tl2_dates: 1829-1884
+tl2_page_id: 33068465
+author_lsid: 3984-1
+wikidata_id: Q64294
+ipni_surname: Hochstetter
+ipni_forenames: Christian Gottlob Ferdinand von
+ipni_standard_form: C.G.F.Hochst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

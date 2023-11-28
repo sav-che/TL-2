@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0140
+tl2_volume: vol5
+tl2_page_printed: 129
+tl2_surname: Schemmann
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Schemmann
+tl2_dates: 1845-ca. 1920
+tl2_page_id: 33333268
+author_lsid: 9047-1
+wikidata_id: Q21607882
+ipni_surname: Schemmann
+ipni_forenames: Wilhelm
+ipni_standard_form: Schemmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33333268) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

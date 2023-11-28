@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0083
+tl2_volume: vol4
+tl2_page_printed: 72
+tl2_surname: Parmentier
+tl2_forenames: Antoine Augustin
+tl2_name_abbrev: A. Parm.
+tl2_dates: 1737-1813
+tl2_page_id: 33189543
+author_lsid: 7356-1
+wikidata_id: Q360312
+ipni_surname: Parmentier
+ipni_forenames: Antoine Auguste
+ipni_standard_form: Parm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

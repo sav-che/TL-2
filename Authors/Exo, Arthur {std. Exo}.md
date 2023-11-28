@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0433
+tl2_volume: suppl6
+tl2_page_printed: 447
+tl2_surname: Exo
+tl2_forenames: Arthur
+tl2_name_abbrev: Exo
+tl2_dates: 1885-x
+tl2_page_id: 33260435
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33260435) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

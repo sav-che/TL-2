@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0242
+tl2_volume: vol1
+tl2_page_printed: 188
+tl2_surname: Berger
+tl2_forenames: Reinholdus
+tl2_name_abbrev: R. Berger
+tl2_dates: 1824-1850
+tl2_page_id: 33120319
+author_lsid: 34325-1
+wikidata_id: Q21505989
+ipni_surname: Berger
+ipni_forenames: Reinholdus
+ipni_standard_form: R.Berger
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33120319) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

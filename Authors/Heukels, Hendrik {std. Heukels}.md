@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0225
+tl2_volume: vol2
+tl2_page_printed: 185
+tl2_surname: Heukels
+tl2_forenames: Hendrik
+tl2_name_abbrev: Heukels
+tl2_dates: 1854-1936
+tl2_page_id: 33068427
+author_lsid: 3912-1
+wikidata_id: Q13724262
+ipni_surname: Heukels
+ipni_forenames: Hendrik
+ipni_standard_form: Heukels
+ipni_dates: 1854-1936
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33068427) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

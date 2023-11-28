@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1032
+tl2_volume: vol1
+tl2_page_printed: 838
+tl2_surname: Fischer
+tl2_forenames: [Emanuel Friedrich] Ludwig
+tl2_name_abbrev: L. Fisch.
+tl2_dates: 1828-1907
+tl2_page_id: 33120969
+author_lsid: 2749-1
+wikidata_id: Q122537
+ipni_surname: Fischer
+ipni_forenames: (Emanuel Friedrich) Ludvig
+ipni_standard_form: L.Fisch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33120969) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

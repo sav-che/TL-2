@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0231
+tl2_volume: suppl8
+tl2_page_printed: 310
+tl2_surname: Gortani
+tl2_forenames: Luigi
+tl2_name_abbrev: Gortani
+tl2_dates: 1850-1908
+tl2_page_id: 33258788
+author_lsid: 3281-1
+wikidata_id: Q21514145
+ipni_surname: Gortani
+ipni_forenames: Luigi
+ipni_standard_form: Gortani
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33258788) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

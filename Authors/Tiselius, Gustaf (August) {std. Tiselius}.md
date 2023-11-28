@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0388
+tl2_volume: vol6
+tl2_page_printed: 368
+tl2_surname: Tiselius
+tl2_forenames: Gustaf [August]
+tl2_name_abbrev: Tiselius
+tl2_dates: 1833-1904
+tl2_page_id: 33212410
+author_lsid: 10688-1
+wikidata_id: Q18246582
+ipni_surname: Tiselius
+ipni_forenames: Gustaf August
+ipni_standard_form: Tiselius
+ipni_dates: 1833-1904
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33212410) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

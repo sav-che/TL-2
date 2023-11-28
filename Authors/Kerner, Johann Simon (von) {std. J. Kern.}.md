@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0625
+tl2_volume: vol2
+tl2_page_printed: 530
+tl2_surname: Kerner
+tl2_forenames: Johann Simon [von]
+tl2_name_abbrev: J. Kern.
+tl2_dates: 1755-1830
+tl2_page_id: 33068772
+author_lsid: 4742-1
+wikidata_id: Q283001
+ipni_surname: Kerner
+ipni_forenames: Johann Simon von
+ipni_standard_form: J.Kern.
+ipni_dates: 1755-1830
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33068772) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

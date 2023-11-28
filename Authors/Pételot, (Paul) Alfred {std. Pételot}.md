@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0210
+tl2_volume: vol4
+tl2_page_printed: 189
+tl2_surname: Pételot
+tl2_forenames: [Paul] Alfred
+tl2_name_abbrev: Pételot
+tl2_dates: 1885-post 1940
+tl2_page_id: 33189660
+author_lsid: 7562-1
+wikidata_id: Q21522869
+ipni_surname: Pételot
+ipni_forenames: (Paul) Alfred
+ipni_standard_form: Pételot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

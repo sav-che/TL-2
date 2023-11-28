@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0226
+tl2_volume: vol4
+tl2_page_printed: 200
+tl2_surname: Petit
+tl2_forenames: Paul Charles Mirbel
+tl2_name_abbrev: P. Petit
+tl2_dates: 1834-1913
+tl2_page_id: 33189671
+author_lsid: 7582-1
+wikidata_id: Q21522896
+ipni_surname: Petit
+ipni_forenames: Paul Charles Mirbel
+ipni_standard_form: P.Petit
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0843
+tl2_volume: vol2
+tl2_page_printed: 718
+tl2_surname: Lademann
+tl2_forenames: Johann Matthias Friedrich
+tl2_name_abbrev: Lademann
+tl2_dates: 1760-1810
+tl2_page_id: 33068960
+author_lsid: 5195-1
+wikidata_id: Q21518281
+ipni_surname: Lademann
+ipni_forenames: Johann Matthias Friedrich
+ipni_standard_form: Lademann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

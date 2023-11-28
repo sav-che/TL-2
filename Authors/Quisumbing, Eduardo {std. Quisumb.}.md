@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0542
+tl2_volume: vol4
+tl2_page_printed: 459
+tl2_surname: Quisumbing
+tl2_forenames: Eduardo
+tl2_name_abbrev: Quisumb.
+tl2_dates: 1895-x
+tl2_page_id: 33189930
+author_lsid: 8060-1
+wikidata_id: Q555616
+ipni_surname: Quisumbing y Argüelles
+ipni_forenames: Eduardo
+ipni_standard_form: Quisumb.
+ipni_dates: 1895-1986
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Philippines
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33189930) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

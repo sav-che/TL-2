@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0339
+tl2_volume: vol5
+tl2_page_printed: 357
+tl2_surname: Schübler
+tl2_forenames: Gustav
+tl2_name_abbrev: Schübl.
+tl2_dates: 1787-1834
+tl2_page_id: 33333496
+author_lsid: 12849-1
+wikidata_id: Q71073
+ipni_surname: Schübler
+ipni_forenames: Gustav
+ipni_standard_form: Schübl.
+ipni_dates: 1787-1834
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33333496) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

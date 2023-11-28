@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0268
+tl2_volume: vol1
+tl2_page_printed: 209
+tl2_surname: Betcke
+tl2_forenames: Ernst Friedrich
+tl2_name_abbrev: Betcke
+tl2_dates: x-1865
+tl2_page_id: 33120340
+author_lsid: 739-1
+wikidata_id: Q21506041
+ipni_surname: Betcke
+ipni_forenames: Ernst Friedrich
+ipni_standard_form: Betcke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

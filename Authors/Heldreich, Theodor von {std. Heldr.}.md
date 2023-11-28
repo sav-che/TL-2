@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0162
+tl2_volume: vol2
+tl2_page_printed: 142
+tl2_surname: Heldreich
+tl2_forenames: Theodor von
+tl2_name_abbrev: Heldr.
+tl2_dates: 1822-1902
+tl2_page_id: 33068384
+author_lsid: 3803-1
+wikidata_id: Q39008
+ipni_surname: Heldreich
+ipni_forenames: Theodor Heinrich Hermann von
+ipni_standard_form: Heldr.
+ipni_dates: 1822-1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+- Greece
+- Italy
+- Turkey
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

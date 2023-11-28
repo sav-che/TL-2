@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0712
+tl2_volume: vol2
+tl2_page_printed: 587
+tl2_surname: Kobus
+tl2_forenames: Jan Derk
+tl2_name_abbrev: Kobus
+tl2_dates: 1858-1910
+tl2_page_id: 33068829
+author_lsid: 4892-1
+wikidata_id: Q21517644
+ipni_surname: Kobus
+ipni_forenames: Jan Derk
+ipni_standard_form: Kobus
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

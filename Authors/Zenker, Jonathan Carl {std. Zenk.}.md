@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol7_0477
+tl2_volume: vol7
+tl2_page_printed: 527
+tl2_surname: Zenker
+tl2_forenames: Jonathan Carl
+tl2_name_abbrev: Zenk.
+tl2_dates: 1799-1837
+tl2_page_id: 33066867
+author_lsid: 12012-1
+wikidata_id: Q3815604
+ipni_surname: Zenker
+ipni_forenames: Jonathan Carl
+ipni_standard_form: Zenker
+ipni_dates: 1799-1837
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-11-06 14:54:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33066867) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

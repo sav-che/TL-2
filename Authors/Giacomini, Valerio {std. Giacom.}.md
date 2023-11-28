@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0154
+tl2_volume: suppl8
+tl2_page_printed: 193
+tl2_surname: Giacomini
+tl2_forenames: Valerio
+tl2_name_abbrev: Giacom.
+tl2_dates: 1914-1981
+tl2_page_id: 33258671
+author_lsid: 3126-1
+wikidata_id: Q4007883
+ipni_surname: Giacomini
+ipni_forenames: Valerio
+ipni_standard_form: Giacom.
+ipni_dates: 1914-1981
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

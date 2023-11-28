@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1164
+tl2_volume: vol1
+tl2_page_printed: 931
+tl2_surname: Genth
+tl2_forenames: Carl Friedrich Ferdinand
+tl2_name_abbrev: Genth
+tl2_dates: 1810-1837
+tl2_page_id: 33121062
+author_lsid: 3081-1
+wikidata_id: Q21339476
+ipni_surname: Genth
+ipni_forenames: Carl Friedrich Ferdinand
+ipni_standard_form: Genth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/page/33121062) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0230
+tl2_volume: suppl7
+tl2_page_printed: 355
+tl2_surname: Fouillade
+tl2_forenames: Amédée
+tl2_name_abbrev: Fouill.
+tl2_dates: 1870-1954
+tl2_page_id: 33259859
+author_lsid: 2854-1
+wikidata_id: Q2844653
+ipni_surname: Fouillade
+ipni_forenames: Amédée
+ipni_standard_form: Fouill.
+ipni_dates: 1870-1954
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33259859) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0296
+tl2_volume: suppl5
+tl2_page_printed: 283
+tl2_surname: Deysson
+tl2_forenames: Pierre Jérome (abbé)
+tl2_name_abbrev: Deysson
+tl2_dates: fl. 1899
+tl2_page_id: 33259329
+author_lsid: 35824-1
+wikidata_id: Q5928586
+ipni_surname: Deysson
+ipni_forenames: J.-P.
+ipni_standard_form: Deysson
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1020
+tl2_volume: vol1
+tl2_page_printed: 830
+tl2_surname: Figari
+tl2_forenames: Antonio Bey
+tl2_name_abbrev: Fig.
+tl2_dates: 1804-1870
+tl2_page_id: 33120961
+author_lsid: 2720-1
+wikidata_id: Q5643533
+ipni_surname: Figari
+ipni_forenames: Antonio Bey
+ipni_standard_form: Fig.
+ipni_dates: 1804-1870
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33120961) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

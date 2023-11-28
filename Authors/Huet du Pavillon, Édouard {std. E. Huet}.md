@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0383
+tl2_volume: vol2
+tl2_page_printed: 359
+tl2_surname: Huet du Pavillon
+tl2_forenames: Édouard
+tl2_name_abbrev: E. Huet
+tl2_dates: 1819-1908
+tl2_page_id: 33068601
+author_lsid: 4207-1
+wikidata_id: Q3579894
+ipni_surname: Huet du Pavillon
+ipni_forenames: Édouard
+ipni_standard_form: É.Huet
+ipni_dates: 1819-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

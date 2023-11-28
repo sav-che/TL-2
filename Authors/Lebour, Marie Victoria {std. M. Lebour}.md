@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0938
+tl2_volume: vol2
+tl2_page_printed: 779
+tl2_surname: Lebour
+tl2_forenames: Marie Victoria
+tl2_name_abbrev: M. Lebour
+tl2_dates: fl. 1925
+tl2_page_id: 33069021
+author_lsid: 5378-1
+wikidata_id: Q21582292
+ipni_surname: Lebour
+ipni_forenames: Marie Victoria
+ipni_standard_form: M.Lebour
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

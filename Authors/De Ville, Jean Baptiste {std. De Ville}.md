@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0815
+tl2_volume: vol1
+tl2_page_printed: 638
+tl2_surname: De Ville
+tl2_forenames: Jean Baptiste
+tl2_name_abbrev: De Ville
+tl2_dates: fl. 1689
+tl2_page_id: 33120769
+author_lsid: 2168-1
+wikidata_id: Q47116182
+ipni_surname: De Ville
+ipni_forenames: Jean Baptiste
+ipni_standard_form: De Ville
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33120769) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

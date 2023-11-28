@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0974
+tl2_volume: vol3
+tl2_page_printed: 819
+tl2_surname: Oliva
+tl2_forenames: Leonardo
+tl2_name_abbrev: Oliva
+tl2_dates: 1805-1873
+tl2_page_id: 33355906
+author_lsid: 7125-1
+wikidata_id: Q21522367
+ipni_surname: de la Trinidad Oliva Alzaga
+ipni_forenames: Francisco Leonardo
+ipni_standard_form: Oliva
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

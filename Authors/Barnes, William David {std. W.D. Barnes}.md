@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0380
+tl2_volume: suppl1
+tl2_page_printed: 332
+tl2_surname: Barnes
+tl2_forenames: William David
+tl2_name_abbrev: W.D. Barnes
+tl2_dates: 1868-1938
+tl2_page_id: 33265059
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

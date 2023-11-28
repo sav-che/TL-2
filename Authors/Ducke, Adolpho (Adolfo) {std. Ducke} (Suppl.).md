@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0140
+tl2_volume: suppl6
+tl2_page_printed: 137
+tl2_surname: Ducke
+tl2_forenames: Adolpho (Adolfo)
+tl2_name_abbrev: Ducke
+tl2_dates: 1876-1959
+tl2_page_id: 33260125
+author_lsid: 2347-1
+wikidata_id: Q2601698
+ipni_surname: Ducke
+ipni_forenames: Adolpho
+ipni_standard_form: Ducke
+ipni_dates: 1876-1959
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2004-04-23 06:33:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33260125) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

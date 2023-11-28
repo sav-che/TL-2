@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0157
+tl2_volume: suppl2
+tl2_page_printed: 139
+tl2_surname: Besse
+tl2_forenames: François Maurice
+tl2_name_abbrev: Besse
+tl2_dates: 1864-1924
+tl2_page_id: 33265336
+author_lsid: 736-1
+wikidata_id: Q21506036
+ipni_surname: Besse
+ipni_forenames: François Maurice
+ipni_standard_form: Besse
+ipni_dates: 1864-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33265336) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

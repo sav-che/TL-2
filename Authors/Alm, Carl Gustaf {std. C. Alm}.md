@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0046
+tl2_volume: vol1
+tl2_page_printed: 37
+tl2_surname: Alm
+tl2_forenames: Carl Gustaf
+tl2_name_abbrev: C. Alm
+tl2_dates: 1888-x
+tl2_page_id: 33120168
+author_lsid: 158-1
+wikidata_id: Q21505100
+ipni_surname: Alm
+ipni_forenames: Carl Gustav
+ipni_standard_form: Alm
+ipni_dates: 1888-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33120168) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

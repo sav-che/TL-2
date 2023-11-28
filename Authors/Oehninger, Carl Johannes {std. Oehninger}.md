@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0956
+tl2_volume: vol3
+tl2_page_printed: 807
+tl2_surname: Oehninger
+tl2_forenames: Carl Johannes
+tl2_name_abbrev: Oehninger
+tl2_dates: fl. 1908
+tl2_page_id: 33355894
+author_lsid: 7088-1
+wikidata_id: Q36528679
+ipni_surname: Oehninger
+ipni_forenames: Carl Johannes
+ipni_standard_form: Oehn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

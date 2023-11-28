@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0554
+tl2_volume: vol3
+tl2_page_printed: 468
+tl2_surname: Michelis
+tl2_forenames: Friedrich Bernard Ferdinand
+tl2_name_abbrev: Michelis
+tl2_dates: 1818-1886
+tl2_page_id: 33355555
+author_lsid: 6439-1
+wikidata_id: Q1461156
+ipni_surname: Michelis
+ipni_forenames: Friedrich Bernard Ferdinand
+ipni_standard_form: Michelis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

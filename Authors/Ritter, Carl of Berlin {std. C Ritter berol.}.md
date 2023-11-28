@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0796
+tl2_volume: vol4
+tl2_page_printed: 801
+tl2_surname: Ritter
+tl2_forenames: Carl of Berlin
+tl2_name_abbrev: C Ritter berol.
+tl2_dates: 1779-1859
+tl2_page_id: 33190272
+author_lsid: 8413-1
+wikidata_id: Q29297
+ipni_surname: Ritter
+ipni_forenames: Carl
+ipni_standard_form: C.Ritter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33190272) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

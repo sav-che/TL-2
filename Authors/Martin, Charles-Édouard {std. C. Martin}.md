@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0374
+tl2_volume: vol3
+tl2_page_printed: 319
+tl2_surname: Martin
+tl2_forenames: Charles-Édouard
+tl2_name_abbrev: C. Martin
+tl2_dates: 1847-1937
+tl2_page_id: 33355406
+author_lsid: 6156-1
+wikidata_id: Q4282501
+ipni_surname: Martin
+ipni_forenames: Charles-Édouard
+ipni_standard_form: C.Martin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33355406) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

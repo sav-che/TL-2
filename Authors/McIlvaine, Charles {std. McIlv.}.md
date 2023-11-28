@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0235
+tl2_volume: vol3
+tl2_page_printed: 223
+tl2_surname: McIlvaine
+tl2_forenames: Charles
+tl2_name_abbrev: McIlv.
+tl2_dates: 1840-1909
+tl2_page_id: 33355310
+author_lsid: 23157-1
+wikidata_id: Q5080838
+ipni_surname: McIlvaine
+ipni_forenames: Charles
+ipni_standard_form: McIlv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33355310) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

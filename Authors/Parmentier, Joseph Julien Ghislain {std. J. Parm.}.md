@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0084
+tl2_volume: vol4
+tl2_page_printed: 72
+tl2_surname: Parmentier
+tl2_forenames: Joseph Julien Ghislain
+tl2_name_abbrev: J. Parm.
+tl2_dates: 1755-1852
+tl2_page_id: 33189543
+author_lsid: 7358-1
+wikidata_id: Q14275001
+ipni_surname: Parmentier
+ipni_forenames: Joseph Julien Ghislain
+ipni_standard_form: J.Parm.
+ipni_dates: 1755-1852
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.3.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

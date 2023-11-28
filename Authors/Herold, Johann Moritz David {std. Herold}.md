@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0205
+tl2_volume: vol2
+tl2_page_printed: 173
+tl2_surname: Herold
+tl2_forenames: Johann Moritz David
+tl2_name_abbrev: Herold
+tl2_dates: 1790-1862
+tl2_page_id: 33068415
+author_lsid: 3881-1
+wikidata_id: Q1695613
+ipni_surname: Herold
+ipni_forenames: Johann Moritz David
+ipni_standard_form: Herold
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33068415) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

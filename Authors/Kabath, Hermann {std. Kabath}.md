@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0564
+tl2_volume: vol2
+tl2_page_printed: 482
+tl2_surname: Kabath
+tl2_forenames: Hermann
+tl2_name_abbrev: Kabath
+tl2_dates: 1816-1888
+tl2_page_id: 33068724
+author_lsid: 4606-1
+wikidata_id: Q18986013
+ipni_surname: Kabath
+ipni_forenames: Hermann
+ipni_standard_form: Kabath
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

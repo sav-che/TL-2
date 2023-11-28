@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0173
+tl2_volume: vol4
+tl2_page_printed: 159
+tl2_surname: Peola
+tl2_forenames: Paolo
+tl2_name_abbrev: Peola
+tl2_dates: 1869-?
+tl2_page_id: 33189630
+author_lsid: 7497-1
+wikidata_id: Q19001484
+ipni_surname: Peola
+ipni_forenames: Paolo
+ipni_standard_form: Peola
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

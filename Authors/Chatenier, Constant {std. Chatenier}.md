@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0058
+tl2_volume: suppl4
+tl2_page_printed: 63
+tl2_surname: Chatenier
+tl2_forenames: Constant
+tl2_name_abbrev: Chatenier
+tl2_dates: 1849-1926
+tl2_page_id: 33265740
+author_lsid: 1547-1
+wikidata_id: Q5784429
+ipni_surname: Chatenier
+ipni_forenames: Constant
+ipni_standard_form: Chatenier
+ipni_dates: 1849-1926
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

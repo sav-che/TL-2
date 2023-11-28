@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0344
+tl2_volume: vol5
+tl2_page_printed: 364
+tl2_surname: Schuette
+tl2_forenames: Joachim Heinrich
+tl2_name_abbrev: J. Schuette
+tl2_dates: 1821-1908
+tl2_page_id: 33333503
+author_lsid: 9284-1
+wikidata_id: Q21608462
+ipni_surname: Schuette
+ipni_forenames: Joachim Heinrich
+ipni_standard_form: Schuette
+ipni_dates: 1821-1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

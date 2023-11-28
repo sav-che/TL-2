@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0103
+tl2_volume: vol3
+tl2_page_printed: 143
+tl2_surname: Loeske
+tl2_forenames: Leopold
+tl2_name_abbrev: Loeske
+tl2_dates: 1865-1935
+tl2_page_id: 33355230
+author_lsid: 22489-1
+wikidata_id: Q15300538
+ipni_surname: Loeske
+ipni_forenames: Leopold
+ipni_standard_form: Loeske
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33355230) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

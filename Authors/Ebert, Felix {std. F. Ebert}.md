@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0264
+tl2_volume: suppl6
+tl2_page_printed: 249
+tl2_surname: Ebert
+tl2_forenames: Felix
+tl2_name_abbrev: F. Ebert
+tl2_dates: fl. 1907
+tl2_page_id: 33260237
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

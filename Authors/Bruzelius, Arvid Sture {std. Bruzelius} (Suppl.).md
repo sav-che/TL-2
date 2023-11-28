@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0168
+tl2_volume: suppl3
+tl2_page_printed: 168
+tl2_surname: Bruzelius
+tl2_forenames: Arvid Sture
+tl2_name_abbrev: Bruzelius
+tl2_dates: 1799-1865
+tl2_page_id: 33266475
+author_lsid: 1234-1
+wikidata_id: Q5588668
+ipni_surname: Bruzelius
+ipni_forenames: Arvid Sture
+ipni_standard_form: Bruzelius
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

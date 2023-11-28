@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0099
+tl2_volume: vol2
+tl2_page_printed: 69
+tl2_surname: Hartung
+tl2_forenames: C. A. F. A. Heinrich
+tl2_name_abbrev: Hartung
+tl2_dates: fl. 1812
+tl2_page_id: 33068311
+author_lsid: 3699-1
+wikidata_id: Q33675353
+ipni_surname: Hartung
+ipni_forenames: C.A.F.A.Heinrich
+ipni_standard_form: Hartung
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

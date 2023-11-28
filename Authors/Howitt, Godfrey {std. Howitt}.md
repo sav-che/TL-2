@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0370
+tl2_volume: vol2
+tl2_page_printed: 351
+tl2_surname: Howitt
+tl2_forenames: Godfrey
+tl2_name_abbrev: Howitt
+tl2_dates: 1800-1873
+tl2_page_id: 33068593
+author_lsid: 4168-1
+wikidata_id: Q14948958
+ipni_surname: Howitt
+ipni_forenames: Godfrey
+ipni_standard_form: Howitt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

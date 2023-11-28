@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0261
+tl2_volume: suppl8
+tl2_page_printed: 370
+tl2_surname: Greguss
+tl2_forenames: Pál [Paul]
+tl2_name_abbrev: Greguss
+tl2_dates: 1889-1984
+tl2_page_id: 33258848
+author_lsid: 19608-1
+wikidata_id: Q1028147
+ipni_surname: Greguss
+ipni_forenames: Pál(Paul)
+ipni_standard_form: Greguss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.2.1.1.2.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0193
+tl2_volume: suppl8
+tl2_page_printed: 249
+tl2_surname: Goddijn
+tl2_forenames: Wouter Adriaan
+tl2_name_abbrev: Goddijn
+tl2_dates: 1884-1960
+tl2_page_id: 33258727
+author_lsid: 3211-1
+wikidata_id: Q21394054
+ipni_surname: Goddijn
+ipni_forenames: Wouter Adriaan
+ipni_standard_form: Goddijn
+ipni_dates: 1884-1960
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33258727) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

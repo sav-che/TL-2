@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0985
+tl2_volume: vol2
+tl2_page_printed: 833
+tl2_surname: Lelièvre
+tl2_forenames: J. F.
+tl2_name_abbrev: Lelièvre
+tl2_dates: fl. 1838
+tl2_page_id: 33069075
+author_lsid: 5581-1
+wikidata_id: Q36593077
+ipni_surname: Le Lièvre
+ipni_forenames: J.F.
+ipni_standard_form: Le Lièvre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0353
+tl2_volume: vol5
+tl2_page_printed: 374
+tl2_surname: Schultz-Schultzenstein
+tl2_forenames: Carl [Karl] Heinrich
+tl2_name_abbrev: Schultz-Sch.
+tl2_dates: 1798-1871
+tl2_page_id: 33333513
+author_lsid: 9293-1
+wikidata_id: Q99616
+ipni_surname: Schultz
+ipni_forenames: Carl(Karl) Heinrich `Schultzenstein'
+ipni_standard_form: Schultz Sch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33333513) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

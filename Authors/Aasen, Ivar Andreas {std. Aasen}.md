@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0002
+tl2_volume: suppl1
+tl2_page_printed: 1
+tl2_surname: Aasen
+tl2_forenames: Ivar Andreas
+tl2_name_abbrev: Aasen
+tl2_dates: 1813-1896
+tl2_page_id: 33264774
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

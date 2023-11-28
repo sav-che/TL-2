@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0746
+tl2_volume: vol1
+tl2_page_printed: 594
+tl2_surname: Dammer
+tl2_forenames: Carl Lebrecht Udo
+tl2_name_abbrev: Dammer
+tl2_dates: 1860-1920
+tl2_page_id: 33120725
+author_lsid: 1975-1
+wikidata_id: Q91064
+ipni_surname: Dammer
+ipni_forenames: Carl Lebrecht Udo
+ipni_standard_form: Dammer
+ipni_dates: 1860-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0503
+tl2_volume: vol1
+tl2_page_printed: 412
+tl2_surname: Burkill
+tl2_forenames: Isaac Henry
+tl2_name_abbrev: Burkill
+tl2_dates: 1870-1965
+tl2_page_id: 33120543
+author_lsid: 1304-1
+wikidata_id: Q4084920
+ipni_surname: Burkill
+ipni_forenames: Isaac Henry
+ipni_standard_form: Burkill
+ipni_dates: 1870-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+- Malaysia
+- Singapore
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2006-07-25 11:33:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

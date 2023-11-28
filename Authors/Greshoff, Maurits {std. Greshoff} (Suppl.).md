@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0264
+tl2_volume: suppl8
+tl2_page_printed: 374
+tl2_surname: Greshoff
+tl2_forenames: Maurits
+tl2_name_abbrev: Greshoff
+tl2_dates: 1862-1909
+tl2_page_id: 33258852
+author_lsid: 3377-1
+wikidata_id: Q2299629
+ipni_surname: Greshoff
+ipni_forenames: Maurits
+ipni_standard_form: Greshoff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

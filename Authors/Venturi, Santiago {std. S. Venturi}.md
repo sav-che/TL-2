@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0683
+tl2_volume: vol6
+tl2_page_printed: 704
+tl2_surname: Venturi
+tl2_forenames: Santiago
+tl2_name_abbrev: S. Venturi
+tl2_dates: fl. 1910
+tl2_page_id: 33212746
+author_lsid: 11131-1
+wikidata_id: Q21611630
+ipni_surname: Venturi
+ipni_forenames: Santiago
+ipni_standard_form: S.Venturi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

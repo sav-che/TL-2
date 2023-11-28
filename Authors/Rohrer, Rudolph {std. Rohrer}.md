@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0878
+tl2_volume: vol4
+tl2_page_printed: 866
+tl2_surname: Rohrer
+tl2_forenames: Rudolph
+tl2_name_abbrev: Rohrer
+tl2_dates: 1805-1839
+tl2_page_id: 33190337
+author_lsid: 8539-1
+wikidata_id: Q21034870
+ipni_surname: Rohrer
+ipni_forenames: Rudolph
+ipni_standard_form: Rohrer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

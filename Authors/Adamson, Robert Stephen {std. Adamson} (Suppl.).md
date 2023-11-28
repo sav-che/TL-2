@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0036
+tl2_volume: suppl1
+tl2_page_printed: 25
+tl2_surname: Adamson
+tl2_forenames: Robert Stephen
+tl2_name_abbrev: Adamson
+tl2_dates: 1885-1965
+tl2_page_id: 33264750
+author_lsid: 68-1
+wikidata_id: Q3436355
+ipni_surname: Adamson
+ipni_forenames: Robert Stephen
+ipni_standard_form: Adamson
+ipni_dates: 1885-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33264750) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

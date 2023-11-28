@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0283
+tl2_volume: vol6
+tl2_page_printed: 245
+tl2_surname: Thenen
+tl2_forenames: Salvator
+tl2_name_abbrev: Thenen
+tl2_dates: fl. 1911
+tl2_page_id: 33212287
+author_lsid: 10551-1
+wikidata_id: Q36684211
+ipni_surname: Thenen
+ipni_forenames: Salvator
+ipni_standard_form: Thenen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

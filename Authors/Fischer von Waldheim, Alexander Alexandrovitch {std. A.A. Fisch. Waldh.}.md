@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1034
+tl2_volume: vol1
+tl2_page_printed: 839
+tl2_surname: Fischer von Waldheim
+tl2_forenames: Alexander Alexandrovitch
+tl2_name_abbrev: A. Fisch. v. Waldh.
+tl2_dates: 1839-1920
+tl2_page_id: 33120970
+author_lsid: 18830-1
+wikidata_id: Q2833396
+ipni_surname: Fischer von Waldheim
+ipni_forenames: Alexandr Alexandrovich (Alexander Alexandrowitz)
+ipni_standard_form: A.A.Fisch.Waldh.
+ipni_dates: 1839-1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

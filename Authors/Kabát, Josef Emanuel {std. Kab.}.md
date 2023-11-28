@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0563
+tl2_volume: vol2
+tl2_page_printed: 482
+tl2_surname: Kabát
+tl2_forenames: Josef Emanuel
+tl2_name_abbrev: Kab.
+tl2_dates: 1849-1925
+tl2_page_id: 33068724
+author_lsid: 4605-1
+wikidata_id: Q21517196
+ipni_surname: Kabát
+ipni_forenames: Josef Emanuel
+ipni_standard_form: Kabát
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

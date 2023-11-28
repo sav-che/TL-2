@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0840
+tl2_volume: vol4
+tl2_page_printed: 829
+tl2_surname: Rodin
+tl2_forenames: Hippolyte
+tl2_name_abbrev: Rodin
+tl2_dates: 1829-1886(?)
+tl2_page_id: 33190300
+author_lsid: 8482-1
+wikidata_id: Q21607300
+ipni_surname: Rodin
+ipni_forenames: Hippolyte
+ipni_standard_form: Rodin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

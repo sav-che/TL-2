@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0039
+tl2_volume: vol5
+tl2_page_printed: 37
+tl2_surname: Sanguinetti
+tl2_forenames: Pietro
+tl2_name_abbrev: Sanguinetti
+tl2_dates: 1802-1868
+tl2_page_id: 33333138
+author_lsid: 8897-1
+wikidata_id: Q21607710
+ipni_surname: Sanguinetti
+ipni_forenames: Pietro
+ipni_standard_form: Sanguin.
+ipni_dates: 1802-1868
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

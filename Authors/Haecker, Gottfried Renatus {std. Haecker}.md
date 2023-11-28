@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0007
+tl2_volume: vol2
+tl2_page_printed: 6
+tl2_surname: Haecker
+tl2_forenames: Gottfried Renatus
+tl2_name_abbrev: Haecker
+tl2_dates: 1789-1864
+tl2_page_id: 33068248
+author_lsid: 3531-1
+wikidata_id: Q21514469
+ipni_surname: Haecker
+ipni_forenames: Gottfried Renatus
+ipni_standard_form: Haecker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0180
+tl2_volume: suppl5
+tl2_page_printed: 167
+tl2_surname: Delachapelle
+tl2_forenames: Pierre-Adrien
+tl2_name_abbrev: Delachapelle
+tl2_dates: 1780-1854
+tl2_page_id: 33259213
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259213) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

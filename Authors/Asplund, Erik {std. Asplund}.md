@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0227
+tl2_volume: suppl1
+tl2_page_printed: 198
+tl2_surname: Asplund
+tl2_forenames: Erik
+tl2_name_abbrev: Asplund
+tl2_dates: 1888-1974
+tl2_page_id: 33264925
+author_lsid: 317-1
+wikidata_id: Q5561443
+ipni_surname: Asplund
+ipni_forenames: Erik
+ipni_standard_form: Aspl.
+ipni_dates: 1888-1974
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33264925) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

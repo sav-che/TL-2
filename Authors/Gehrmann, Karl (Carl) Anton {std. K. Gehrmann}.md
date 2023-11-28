@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0121
+tl2_volume: suppl8
+tl2_page_printed: 167
+tl2_surname: Gehrmann
+tl2_forenames: Karl [Carl] Anton
+tl2_name_abbrev: K. Gehrmann
+tl2_dates: 1885-1925
+tl2_page_id: 33258645
+author_lsid: 3065-1
+wikidata_id: Q18181291
+ipni_surname: Gehrmann
+ipni_forenames: Karl
+ipni_standard_form: Gehrm.
+ipni_dates: 1885-1925
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33258645) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

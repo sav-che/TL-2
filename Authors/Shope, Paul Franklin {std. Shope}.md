@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0554
+tl2_volume: vol5
+tl2_page_printed: 568
+tl2_surname: Shope
+tl2_forenames: Paul Franklin
+tl2_name_abbrev: Shope
+tl2_dates: 1894-x
+tl2_page_id: 33333707
+author_lsid: 26691-1
+wikidata_id: Q21608820
+ipni_surname: Shope
+ipni_forenames: Paul Franklin
+ipni_standard_form: Shope
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

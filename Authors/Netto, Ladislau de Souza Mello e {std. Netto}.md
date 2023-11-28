@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0850
+tl2_volume: vol3
+tl2_page_printed: 729
+tl2_surname: Netto
+tl2_forenames: Ladislau de Souza Mello e
+tl2_name_abbrev: Netto
+tl2_dates: 1837-?
+tl2_page_id: 33355816
+author_lsid: 9931-1
+wikidata_id: Q6469631
+ipni_surname: Netto
+ipni_forenames: Ladislau de Souza Mello
+ipni_standard_form: Netto
+ipni_dates: 1837-1893
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33355816) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0305
+tl2_volume: vol1
+tl2_page_printed: 231
+tl2_surname: Blandow
+tl2_forenames: Otto Christian
+tl2_name_abbrev: Bland.
+tl2_dates: 1778-1810
+tl2_page_id: 33120362
+author_lsid: 16205-1
+wikidata_id: Q12330543
+ipni_surname: Blandow
+ipni_forenames: Otto Christian
+ipni_standard_form: Blandow
+ipni_dates: 1778-1810
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33120362) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

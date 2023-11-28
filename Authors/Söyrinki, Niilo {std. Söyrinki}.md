@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0718
+tl2_volume: vol5
+tl2_page_printed: 720
+tl2_surname: Söyrinki
+tl2_forenames: Niilo
+tl2_name_abbrev: Söyrinki
+tl2_dates: 1907-x
+tl2_page_id: 33333859
+author_lsid: 9863-1
+wikidata_id: Q11884399
+ipni_surname: Söyrinki
+ipni_forenames: Niilo
+ipni_standard_form: Söyrinki
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33333859) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

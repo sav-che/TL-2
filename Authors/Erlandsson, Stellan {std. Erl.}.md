@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0403
+tl2_volume: suppl6
+tl2_page_printed: 397
+tl2_surname: Erlandsson
+tl2_forenames: Stellan
+tl2_name_abbrev: Erl.
+tl2_dates: 1902-x
+tl2_page_id: 33260385
+author_lsid: 33045-1
+wikidata_id: Q21512326
+ipni_surname: Erlandsson
+ipni_forenames: Stellan
+ipni_standard_form: Erl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33260385) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

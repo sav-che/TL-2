@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl7_0126
+tl2_volume: suppl7
+tl2_page_printed: 194
+tl2_surname: Fiori
+tl2_forenames: Adriano
+tl2_name_abbrev: Fiori
+tl2_dates: 1865-1950
+tl2_page_id: 33259698
+author_lsid: 18815-1
+wikidata_id: Q3605723
+ipni_surname: Fiori
+ipni_forenames: Adriano
+ipni_standard_form: Fiori
+ipni_dates: 1865-1950
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-01-03 07:28:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259698) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

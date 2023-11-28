@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0390
+tl2_volume: vol5
+tl2_page_printed: 412
+tl2_surname: Schuster
+tl2_forenames: Johann Constantin [Christian]
+tl2_name_abbrev: J.C. Schust.
+tl2_dates: 1777-1839
+tl2_page_id: 33333551
+author_lsid: 9338-1
+wikidata_id: Q1286311
+ipni_surname: Schuster
+ipni_forenames: Johann Constantin (Christian)
+ipni_standard_form: J.C.Schust.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

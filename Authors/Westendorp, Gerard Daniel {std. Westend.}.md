@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0197
+tl2_volume: vol7
+tl2_page_printed: 207
+tl2_surname: Westendorp
+tl2_forenames: Gerard Daniel
+tl2_name_abbrev: Westend.
+tl2_dates: 1813-1869
+tl2_page_id: 33066547
+author_lsid: 11584-1
+wikidata_id: Q4109572
+ipni_surname: Westendorp
+ipni_forenames: Gérard Daniel
+ipni_standard_form: Westend.
+ipni_dates: 1813-1869
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33066547) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

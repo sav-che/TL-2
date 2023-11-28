@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1190
+tl2_volume: vol1
+tl2_page_printed: 944
+tl2_surname: Gilkey
+tl2_forenames: Helen Margaret
+tl2_name_abbrev: Gilkey
+tl2_dates: 1886-1972
+tl2_page_id: 33121075
+author_lsid: 19337-1
+wikidata_id: Q15122935
+ipni_surname: Gilkey
+ipni_forenames: Helen Margaret
+ipni_standard_form: Gilkey
+ipni_dates: 1886-1972
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33121075) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

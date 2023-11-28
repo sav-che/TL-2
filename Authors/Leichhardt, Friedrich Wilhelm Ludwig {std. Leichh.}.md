@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0976
+tl2_volume: vol2
+tl2_page_printed: 825
+tl2_surname: Leichhardt
+tl2_forenames: Friedrich Wilhelm Ludwig
+tl2_name_abbrev: Leichh.
+tl2_dates: 1813-1848
+tl2_page_id: 33069067
+author_lsid: 5440-1
+wikidata_id: Q57763
+ipni_surname: Leichhardt
+ipni_forenames: Friedrich Wilhelm Ludwig
+ipni_standard_form: Leichh.
+ipni_dates: 1813-1848
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

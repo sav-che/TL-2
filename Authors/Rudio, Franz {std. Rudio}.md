@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1001
+tl2_volume: vol4
+tl2_page_printed: 972
+tl2_surname: Rudio
+tl2_forenames: Franz
+tl2_name_abbrev: Rudio
+tl2_dates: 1811-1877
+tl2_page_id: 33190443
+author_lsid: 8708-1
+wikidata_id: Q21607516
+ipni_surname: Rudio
+ipni_forenames: Franz
+ipni_standard_form: Rudio
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

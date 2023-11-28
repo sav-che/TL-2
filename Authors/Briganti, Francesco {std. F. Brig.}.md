@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0079
+tl2_volume: suppl3
+tl2_page_printed: 75
+tl2_surname: Briganti
+tl2_forenames: Francesco
+tl2_name_abbrev: F. Brig.
+tl2_dates: 1802-1865
+tl2_page_id: 33266382
+author_lsid: 16537-1
+wikidata_id: Q21506481
+ipni_surname: Briganti
+ipni_forenames: Francesco
+ipni_standard_form: F.Brig.
+ipni_dates: 1802-1865
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33266382) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0111
+tl2_volume: suppl6
+tl2_page_printed: 100
+tl2_surname: Drobov [Drobow]
+tl2_forenames: Vasilij Petrovich
+tl2_name_abbrev: Drobow
+tl2_dates: 1885-1956
+tl2_page_id: 33260088
+author_lsid: 2317-1
+wikidata_id: Q6159761
+ipni_surname: Drobow
+ipni_forenames: Vasiliĭ Petrovich
+ipni_standard_form: Drobow
+ipni_dates: 1885-1956
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

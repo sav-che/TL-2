@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0031
+tl2_volume: vol5
+tl2_page_printed: 33
+tl2_surname: Sandi
+tl2_forenames: Alessandro Francesco
+tl2_name_abbrev: Sandi
+tl2_dates: 1794-1849
+tl2_page_id: 33333134
+author_lsid: 8888-1
+wikidata_id: Q21607699
+ipni_surname: Sandi
+ipni_forenames: Alessandro Francesco
+ipni_standard_form: Sandi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

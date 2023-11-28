@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0438
+tl2_volume: vol6
+tl2_page_printed: 409
+tl2_surname: Torssell
+tl2_forenames: Gustaf
+tl2_name_abbrev: Torss.
+tl2_dates: 1811-1849
+tl2_page_id: 33212451
+author_lsid: 10757-1
+wikidata_id: Q21341237
+ipni_surname: Torssell
+ipni_forenames: Gustav
+ipni_standard_form: Torss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

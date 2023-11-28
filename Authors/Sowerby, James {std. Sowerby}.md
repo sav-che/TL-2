@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0760
+tl2_volume: vol5
+tl2_page_printed: 759
+tl2_surname: Sowerby
+tl2_forenames: James
+tl2_name_abbrev: Sowerby
+tl2_dates: 1757-1822
+tl2_page_id: 33333898
+author_lsid: 27043-1
+wikidata_id: Q1235813
+ipni_surname: Sowerby
+ipni_forenames: James
+ipni_standard_form: Sowerby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33333898) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

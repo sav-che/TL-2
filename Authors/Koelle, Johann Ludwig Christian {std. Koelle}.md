@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0727
+tl2_volume: vol2
+tl2_page_printed: 598
+tl2_surname: Koelle
+tl2_forenames: Johann Ludwig Christian
+tl2_name_abbrev: Koelle
+tl2_dates: 1763-1797
+tl2_page_id: 33068840
+author_lsid: 4917-1
+wikidata_id: Q15300587
+ipni_surname: Koelle
+ipni_forenames: Johann Ludwig Christian
+ipni_standard_form: Koelle
+ipni_dates: 1763-1797
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

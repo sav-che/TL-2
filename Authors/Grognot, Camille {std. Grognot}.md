@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_1263
+tl2_volume: vol1
+tl2_page_printed: 1011
+tl2_surname: Grognot
+tl2_forenames: Camille
+tl2_name_abbrev: Grognot
+tl2_dates: 1792-1869
+tl2_page_id: 33121142
+author_lsid: 3406-1
+wikidata_id: Q5742011
+ipni_surname: Grognot
+ipni_forenames: Camille
+ipni_standard_form: Grognot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Cryptogamic
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0633
+tl2_volume: vol5
+tl2_page_printed: 625
+tl2_surname: Skene
+tl2_forenames: Macgregor
+tl2_name_abbrev: Skene
+tl2_dates: 1889-1973
+tl2_page_id: 33333764
+author_lsid: 9715-1
+wikidata_id: Q21609006
+ipni_surname: Skene
+ipni_forenames: Macgregor
+ipni_standard_form: Skene
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

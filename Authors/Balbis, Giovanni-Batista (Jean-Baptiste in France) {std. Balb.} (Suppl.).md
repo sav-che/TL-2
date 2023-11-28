@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_suppl1_0326
+tl2_volume: suppl1
+tl2_page_printed: 287
+tl2_surname: Balbis
+tl2_forenames: Giovanni-Batista [Jean-Baptiste in France]
+tl2_name_abbrev: Balb.
+tl2_dates: 1765-1831
+tl2_page_id: 33265014
+author_lsid: 31247-1
+wikidata_id: Q2634689
+ipni_surname: Balbis
+ipni_forenames: Giovanni-Battista
+ipni_standard_form: Balb.
+ipni_dates: 1765-1831
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+- France
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-01-06 11:21:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265014) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

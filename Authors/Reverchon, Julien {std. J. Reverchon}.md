@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0728
+tl2_volume: vol4
+tl2_page_printed: 747
+tl2_surname: Reverchon
+tl2_forenames: Julien
+tl2_name_abbrev: J. Reverchon
+tl2_dates: 1834-1905
+tl2_page_id: 33190218
+author_lsid: 8318-1
+wikidata_id: Q3189639
+ipni_surname: Reverchon
+ipni_forenames: Julien
+ipni_standard_form: J.Rev.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

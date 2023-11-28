@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1004
+tl2_volume: vol4
+tl2_page_printed: 973
+tl2_surname: Rudolph
+tl2_forenames: Ludwig
+tl2_name_abbrev: L. Rudolph
+tl2_dates: ca. 1813-1896
+tl2_page_id: 33190444
+author_lsid: 8712-1
+wikidata_id: Q21607524
+ipni_surname: Rudolph
+ipni_forenames: Ludwig
+ipni_standard_form: L.Rudolph
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33190444) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

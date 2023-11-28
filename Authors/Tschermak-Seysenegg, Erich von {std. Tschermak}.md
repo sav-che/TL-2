@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0526
+tl2_volume: vol6
+tl2_page_printed: 514
+tl2_surname: Tschermak-Seysenegg
+tl2_forenames: Erich von
+tl2_name_abbrev: Tschermak
+tl2_dates: 1871-1962
+tl2_page_id: 33212556
+author_lsid: 10870-1
+wikidata_id: Q93385
+ipni_surname: Tschermak-Seysenegg
+ipni_forenames: Erich von
+ipni_standard_form: Tscherm.-Seys.
+ipni_dates: 1871-1962
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-01-15 18:16:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33212556) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

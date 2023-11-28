@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0830
+tl2_volume: vol3
+tl2_page_printed: 715
+tl2_surname: Neger
+tl2_forenames: Franz Wilhelm
+tl2_name_abbrev: Neger
+tl2_dates: 1868-1923
+tl2_page_id: 33355802
+author_lsid: 6890-1
+wikidata_id: Q6004541
+ipni_surname: Neger
+ipni_forenames: Franz (Friedrich) Wilhelm
+ipni_standard_form: Neger
+ipni_dates: 1868-1923
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33355802) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

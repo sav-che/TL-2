@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0016
+tl2_volume: vol6
+tl2_page_printed: 15
+tl2_surname: Stokes
+tl2_forenames: Alfred Cheatham
+tl2_name_abbrev: A. Stokes
+tl2_dates: fl. 1893
+tl2_page_id: 33212079
+author_lsid: 10164-1
+wikidata_id: Q25662096
+ipni_surname: Stokes
+ipni_forenames: Alfred Cheatham
+ipni_standard_form: A.Stokes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0064
+tl2_volume: suppl2
+tl2_page_printed: 64
+tl2_surname: Bellermann
+tl2_forenames: Johan Bartholomaeus
+tl2_name_abbrev: Bellermann
+tl2_dates: 1756-1833
+tl2_page_id: 33265261
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

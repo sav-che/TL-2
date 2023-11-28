@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0772
+tl2_volume: vol5
+tl2_page_printed: 772
+tl2_surname: Spallanzani
+tl2_forenames: Lazaro
+tl2_name_abbrev: Spallanzani
+tl2_dates: 1729-1799
+tl2_page_id: 33333911
+author_lsid: 9946-1
+wikidata_id: Q213351
+ipni_surname: Spallanzani
+ipni_forenames: Lazzaro
+ipni_standard_form: Spall.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

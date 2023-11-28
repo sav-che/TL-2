@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0887
+tl2_volume: vol2
+tl2_page_printed: 751
+tl2_surname: Langman
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: Langm.
+tl2_dates: fl. 1841
+tl2_page_id: 33068993
+author_lsid: 5270-1
+wikidata_id: Q36592962
+ipni_surname: Langman
+ipni_forenames: Johann Friedrich
+ipni_standard_form: Langm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

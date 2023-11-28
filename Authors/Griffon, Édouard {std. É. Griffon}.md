@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0275
+tl2_volume: suppl8
+tl2_page_printed: 391
+tl2_surname: Griffon
+tl2_forenames: Édouard
+tl2_name_abbrev: É. Griffon
+tl2_dates: 1869-1912
+tl2_page_id: 33258869
+author_lsid: 19635-1
+wikidata_id: Q21514283
+ipni_surname: Griffon
+ipni_forenames: Édouard
+ipni_standard_form: Griffon
+ipni_dates: 1869-1912
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33258869) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

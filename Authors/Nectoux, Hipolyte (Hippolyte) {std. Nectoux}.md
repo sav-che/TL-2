@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0825
+tl2_volume: vol3
+tl2_page_printed: 704
+tl2_surname: Nectoux
+tl2_forenames: Hipolyte (Hippolyte)
+tl2_name_abbrev: Nectoux
+tl2_dates: 17..-18..
+tl2_page_id: 33355791
+author_lsid: 6884-1
+wikidata_id: Q3136104
+ipni_surname: Nectoux
+ipni_forenames: Hippolyte
+ipni_standard_form: Nectoux
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Egypt
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33355791) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

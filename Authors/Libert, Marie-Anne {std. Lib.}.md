@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0004
+tl2_volume: vol3
+tl2_page_printed: 6
+tl2_surname: Libert
+tl2_forenames: Marie-Anne
+tl2_name_abbrev: Lib.
+tl2_dates: 1782-1865
+tl2_page_id: 33355121
+author_lsid: 5561-1
+wikidata_id: Q470036
+ipni_surname: Libert
+ipni_forenames: Marie-Anne
+ipni_standard_form: Lib.
+ipni_dates: 1782-1865
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

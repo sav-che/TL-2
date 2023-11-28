@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0103
+tl2_volume: suppl4
+tl2_page_printed: 132
+tl2_surname: Choisy ("Pautré dit Choisy")
+tl2_forenames: Maurice [Gustave Benoît]
+tl2_name_abbrev: M. Choisy
+tl2_dates: 1897-1969?
+tl2_page_id: 33265809
+author_lsid: 17209-1
+wikidata_id: Q21338802
+ipni_surname: Choisy
+ipni_forenames: Maurice Gustave Benoit
+ipni_standard_form: M.Choisy
+ipni_dates: 1897-1966
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2017-09-27 10:16:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265809) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

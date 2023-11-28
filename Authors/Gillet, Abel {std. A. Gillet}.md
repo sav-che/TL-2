@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0174
+tl2_volume: suppl8
+tl2_page_printed: 219
+tl2_surname: Gillet
+tl2_forenames: Abel
+tl2_name_abbrev: A. Gillet
+tl2_dates: 1857-1927
+tl2_page_id: 33258697
+author_lsid: 19342-1
+wikidata_id: Q21339920
+ipni_surname: Gillet
+ipni_forenames: Abel
+ipni_standard_form: A.Gillet
+ipni_dates: 1857-1927
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

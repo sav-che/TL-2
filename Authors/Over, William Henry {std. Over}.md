@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_1029
+tl2_volume: vol3
+tl2_page_printed: 865
+tl2_surname: Over
+tl2_forenames: William Henry
+tl2_name_abbrev: Over
+tl2_dates: 1866-?
+tl2_page_id: 33355952
+author_lsid: 7213-1
+wikidata_id: Q6167655
+ipni_surname: Over
+ipni_forenames: William Henry
+ipni_standard_form: Over
+ipni_dates: 1866-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

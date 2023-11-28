@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0077
+tl2_volume: suppl6
+tl2_page_printed: 80
+tl2_surname: Dowell
+tl2_forenames: Philip
+tl2_name_abbrev: Dowell
+tl2_dates: 1864-1936
+tl2_page_id: 33260068
+author_lsid: 2294-1
+wikidata_id: Q18910841
+ipni_surname: Dowell
+ipni_forenames: Philip
+ipni_standard_form: Dowell
+ipni_dates: 1864-1936
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

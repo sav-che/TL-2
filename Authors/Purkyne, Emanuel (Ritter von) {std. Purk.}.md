@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0522
+tl2_volume: vol4
+tl2_page_printed: 445
+tl2_surname: Purkyne
+tl2_forenames: Emanuel [Ritter von]
+tl2_name_abbrev: Purk.
+tl2_dates: 1831-1882
+tl2_page_id: 33189916
+author_lsid: 8031-1
+wikidata_id: Q3500532
+ipni_surname: Purkyně
+ipni_forenames: Emanuel von
+ipni_standard_form: Purk.
+ipni_dates: 1832-1882
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

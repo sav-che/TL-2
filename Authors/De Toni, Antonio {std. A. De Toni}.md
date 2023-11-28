@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0277
+tl2_volume: suppl5
+tl2_page_printed: 240
+tl2_surname: De Toni
+tl2_forenames: Antonio
+tl2_name_abbrev: A. De Toni
+tl2_dates: 1889-1915
+tl2_page_id: 33259286
+author_lsid: 20052277-1
+wikidata_id: Q108803551
+ipni_surname: De Toni
+ipni_forenames: Antonio
+ipni_standard_form: A.De Toni
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

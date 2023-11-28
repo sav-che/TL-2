@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0008
+tl2_volume: suppl6
+tl2_page_printed: 11
+tl2_surname: Dode
+tl2_forenames: Louis-Albert
+tl2_name_abbrev: Dode
+tl2_dates: 1875-1945
+tl2_page_id: 33259999
+author_lsid: 2245-1
+wikidata_id: Q4164115
+ipni_surname: Dode
+ipni_forenames: Louis-Albert
+ipni_standard_form: Dode
+ipni_dates: 1875-1943
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33259999) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0041
+tl2_volume: vol7
+tl2_page_printed: 32
+tl2_surname: Walker
+tl2_forenames: Richard
+tl2_name_abbrev: R. Walker
+tl2_dates: 1791-1870
+tl2_page_id: 33066372
+author_lsid: 11339-1
+wikidata_id: Q21612046
+ipni_surname: Walker
+ipni_forenames: Richard
+ipni_standard_form: R.Walker
+ipni_dates: 1791-1870
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33066372) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

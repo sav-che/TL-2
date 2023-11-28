@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0179
+tl2_volume: suppl2
+tl2_page_printed: 155
+tl2_surname: Biasoletto
+tl2_forenames: Bartolomeo [Amadeo]
+tl2_name_abbrev: Biasol.
+tl2_dates: 1793-1858
+tl2_page_id: 33265352
+author_lsid: 766-1
+wikidata_id: Q658494
+ipni_surname: Biasoletto
+ipni_forenames: Bartolomeo
+ipni_standard_form: Biasol.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33265352) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

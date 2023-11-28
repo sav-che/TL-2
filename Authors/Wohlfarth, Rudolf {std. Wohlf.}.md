@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0367
+tl2_volume: vol7
+tl2_page_printed: 417
+tl2_surname: Wohlfarth
+tl2_forenames: Rudolf
+tl2_name_abbrev: Wohlf.
+tl2_dates: 1830-1900
+tl2_page_id: 33066757
+author_lsid: 11808-1
+wikidata_id: Q21340919
+ipni_surname: Wohlfarth
+ipni_forenames: Rudolf
+ipni_standard_form: Wohlf.
+ipni_dates: 1830-1888
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

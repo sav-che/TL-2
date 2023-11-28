@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0447
+tl2_volume: suppl2
+tl2_page_printed: 393
+tl2_surname: Bouton
+tl2_forenames: Louis
+tl2_name_abbrev: Bouton
+tl2_dates: 1800-1879 (1878?)
+tl2_page_id: 33265590
+author_lsid: 1038-1
+wikidata_id: Q2114760
+ipni_surname: Bouton
+ipni_forenames: Louis
+ipni_standard_form: Bouton
+ipni_dates: 1800-1878
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mauritius
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

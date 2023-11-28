@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0054
+tl2_volume: suppl8
+tl2_page_printed: 75
+tl2_surname: Fuisting
+tl2_forenames: Wilhelm [Guilelmus]
+tl2_name_abbrev: Fuisting
+tl2_dates: 1839-1870
+tl2_page_id: 33258553
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

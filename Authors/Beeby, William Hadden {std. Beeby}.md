@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0031
+tl2_volume: suppl2
+tl2_page_printed: 38
+tl2_surname: Beeby
+tl2_forenames: William Hadden
+tl2_name_abbrev: Beeby
+tl2_dates: 1849-1910
+tl2_page_id: 33265235
+author_lsid: 609-1
+wikidata_id: Q21505869
+ipni_surname: Beeby
+ipni_forenames: William Haddon
+ipni_standard_form: Beeby
+ipni_dates: 1849-1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

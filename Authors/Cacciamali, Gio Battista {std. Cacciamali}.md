@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0284
+tl2_volume: suppl3
+tl2_page_printed: 296
+tl2_surname: Cacciamali
+tl2_forenames: Gio Battista
+tl2_name_abbrev: Cacciamali
+tl2_dates: 1856-1934
+tl2_page_id: 33266603
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

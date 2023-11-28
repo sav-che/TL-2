@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0060
+tl2_volume: suppl1
+tl2_page_printed: 48
+tl2_surname: Ahlner
+tl2_forenames: Sten Gustaf Edward
+tl2_name_abbrev: Ahlner
+tl2_dates: 1905-x
+tl2_page_id: 33264737
+author_lsid: 30694-1
+wikidata_id: Q21388731
+ipni_surname: Ahlner
+ipni_forenames: Sten Gustav Edvard
+ipni_standard_form: Ahlner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

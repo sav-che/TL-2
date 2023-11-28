@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0081
+tl2_volume: vol2
+tl2_page_printed: 54
+tl2_surname: Harmand
+tl2_forenames: (Frère, Abbé) Julien Herbert Auguste Jules
+tl2_name_abbrev: Harm.
+tl2_dates: 1844-1915
+tl2_page_id: 33068296
+author_lsid: 3665-1
+wikidata_id: Q21339306
+ipni_surname: Harmand
+ipni_forenames: Julien Herbert Auguste Jules
+ipni_standard_form: Harm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

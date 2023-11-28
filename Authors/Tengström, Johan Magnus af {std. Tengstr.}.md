@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0249
+tl2_volume: vol6
+tl2_page_printed: 210
+tl2_surname: Tengström
+tl2_forenames: Johan Magnus af
+tl2_name_abbrev: Tengstr.
+tl2_dates: 1793-1856
+tl2_page_id: 33212252
+author_lsid: 10502-1
+wikidata_id: Q11866613
+ipni_surname: Tengström
+ipni_forenames: Johan Magnus af
+ipni_standard_form: Tengstr.
+ipni_dates: 1793-1856
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33212252) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

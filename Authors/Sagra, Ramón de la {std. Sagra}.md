@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol4_1072
+tl2_volume: vol4
+tl2_page_printed: 1055
+tl2_surname: Sagra
+tl2_forenames: Ramón de la
+tl2_name_abbrev: Sagra
+tl2_dates: 1798-1871
+tl2_page_id: 33190526
+author_lsid: 12261-1
+wikidata_id: Q973094
+ipni_surname: Sagra
+ipni_forenames: Ramón de la
+ipni_standard_form: Sagra
+ipni_dates: 1798-1871
+ipni_taxon_scope: 
+- Botany
+- Cryptogamic
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Cuba
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1055](https://www.biodiversitylibrary.org/page/33190526) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

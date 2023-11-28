@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl5_0212
+tl2_volume: suppl5
+tl2_page_printed: 195
+tl2_surname: Demaret
+tl2_forenames: Fernand Mathieu Hubert
+tl2_name_abbrev: Demaret
+tl2_dates: 1911-x
+tl2_page_id: 33259241
+author_lsid: 17919-1
+wikidata_id: Q3069120
+ipni_surname: Demaret
+ipni_forenames: Fernand Mathieu Hubert
+ipni_standard_form: Demaret
+ipni_dates: 1911-2008
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.2.1.4.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2018-07-16 11:21:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33259241) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

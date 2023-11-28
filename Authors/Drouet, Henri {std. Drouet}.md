@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0863
+tl2_volume: vol1
+tl2_page_printed: 681
+tl2_surname: Drouet
+tl2_forenames: Henri
+tl2_name_abbrev: Drouet
+tl2_dates: 1829-x
+tl2_page_id: 33120812
+author_lsid: 2319-1
+wikidata_id: Q10294687
+ipni_surname: Drouet
+ipni_forenames: Henri
+ipni_standard_form: Drouet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

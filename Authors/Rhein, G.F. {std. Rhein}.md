@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0739
+tl2_volume: vol4
+tl2_page_printed: 753
+tl2_surname: Rhein
+tl2_forenames: G.F.
+tl2_name_abbrev: Rhein
+tl2_dates: 1858-?
+tl2_page_id: 33190224
+author_lsid: 8332-1
+wikidata_id: Q21607151
+ipni_surname: Rhein
+ipni_forenames: G.F.
+ipni_standard_form: Rhein
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

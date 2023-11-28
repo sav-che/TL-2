@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol7_0058
+tl2_volume: vol7
+tl2_page_printed: 50
+tl2_surname: Walter
+tl2_forenames: Thomas
+tl2_name_abbrev: Walter
+tl2_dates: 1740-1789
+tl2_page_id: 33066390
+author_lsid: 11367-1
+wikidata_id: Q1366734
+ipni_surname: Walter
+ipni_forenames: Thomas
+ipni_standard_form: Walter
+ipni_dates: 1740-1789
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33066390) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

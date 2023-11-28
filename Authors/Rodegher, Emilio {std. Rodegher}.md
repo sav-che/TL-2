@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0836
+tl2_volume: vol4
+tl2_page_printed: 827
+tl2_surname: Rodegher
+tl2_forenames: Emilio
+tl2_name_abbrev: Rodegher
+tl2_dates: 1856-1922
+tl2_page_id: 33190298
+author_lsid: 8477-1
+wikidata_id: Q21607296
+ipni_surname: Rodegher
+ipni_forenames: Emilio
+ipni_standard_form: Rodegher
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

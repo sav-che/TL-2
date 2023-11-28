@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0448
+tl2_volume: vol2
+tl2_page_printed: 405
+tl2_surname: Jacquin
+tl2_forenames: Joseph Franz, [after 1806] Baron von
+tl2_name_abbrev: J. Jacq.
+tl2_dates: 1766-1839
+tl2_page_id: 33068647
+author_lsid: 4388-1
+wikidata_id: Q78990
+ipni_surname: Jacquin
+ipni_forenames: Joseph Franz von
+ipni_standard_form: J.Jacq.
+ipni_dates: 1766-1839
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

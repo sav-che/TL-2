@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_1030
+tl2_volume: vol3
+tl2_page_printed: 865
+tl2_surname: Overeem [-de Haas]
+tl2_forenames: Casper van
+tl2_name_abbrev: Overeem
+tl2_dates: 1893-1927
+tl2_page_id: 33355952
+author_lsid: 7214-1
+wikidata_id: Q4330668
+ipni_surname: Overeem
+ipni_forenames: Casper van
+ipni_standard_form: Overeem
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

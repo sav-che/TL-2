@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0489
+tl2_volume: vol2
+tl2_page_printed: 436
+tl2_surname: Jenman
+tl2_forenames: George Samuel
+tl2_name_abbrev: Jenm.
+tl2_dates: 1845-1902
+tl2_page_id: 33068678
+author_lsid: 4468-1
+wikidata_id: Q3101893
+ipni_surname: Jenman
+ipni_forenames: George Samuel
+ipni_standard_form: Jenman
+ipni_dates: 1845-1902
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Guyana
+- Jamaica
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

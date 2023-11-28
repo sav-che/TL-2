@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0211
+tl2_volume: vol2
+tl2_page_printed: 176
+tl2_surname: Hervey
+tl2_forenames: Alpheus Baker
+tl2_name_abbrev: A. Herv.
+tl2_dates: 1839-1931
+tl2_page_id: 33068418
+author_lsid: 3890-1
+wikidata_id: Q5670534
+ipni_surname: Hervey
+ipni_forenames: Alpheus Baker
+ipni_standard_form: Herv.
+ipni_dates: 1839-1931
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

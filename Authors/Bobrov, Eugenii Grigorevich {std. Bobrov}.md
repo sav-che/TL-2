@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0296
+tl2_volume: suppl2
+tl2_page_printed: 239
+tl2_surname: Bobrov
+tl2_forenames: Eugenii Grigorevich
+tl2_name_abbrev: Bobrov
+tl2_dates: 1902-1983
+tl2_page_id: 33265436
+author_lsid: 880-1
+wikidata_id: Q4088747
+ipni_surname: Bobrov
+ipni_forenames: Evgeniy Grigorievich
+ipni_standard_form: Bobrov
+ipni_dates: 1902-1983
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-11-24 14:04:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

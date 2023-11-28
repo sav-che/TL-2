@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0339
+tl2_volume: suppl3
+tl2_page_printed: 355
+tl2_surname: Candargy
+tl2_forenames: C.-A. [Antoin]
+tl2_name_abbrev: C.-A. Candargy
+tl2_dates: 1825/26-1900 (or later)
+tl2_page_id: 33266662
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0410
+tl2_volume: vol1
+tl2_page_printed: 311
+tl2_surname: Brébisson
+tl2_forenames: Louis Alphonse de
+tl2_name_abbrev: Bréb.
+tl2_dates: 1798-1872
+tl2_page_id: 33120442
+author_lsid: 1099-1
+wikidata_id: Q3261026
+ipni_surname: Brébisson
+ipni_forenames: Louis Alphonse de
+ipni_standard_form: Bréb.
+ipni_dates: 1798-1872
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33120442) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

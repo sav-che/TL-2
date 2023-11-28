@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0258
+tl2_volume: suppl3
+tl2_page_printed: 268
+tl2_surname: Burt
+tl2_forenames: Edward Angus
+tl2_name_abbrev: Burt
+tl2_dates: 1859-1939
+tl2_page_id: 33266575
+author_lsid: 16749-1
+wikidata_id: Q3048438
+ipni_surname: Burt
+ipni_forenames: Edward Angus
+ipni_standard_form: Burt
+ipni_dates: 1859-1939
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33266575) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

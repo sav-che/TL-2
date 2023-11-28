@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0390
+tl2_volume: suppl4
+tl2_page_printed: 476
+tl2_surname: Crookall
+tl2_forenames: Robert
+tl2_name_abbrev: Crookall
+tl2_dates: 1889/1890-?
+tl2_page_id: 33266153
+author_lsid: 34331-1
+wikidata_id: Q36660544
+ipni_surname: Crookall
+ipni_forenames: Robert
+ipni_standard_form: Crookall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266153) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

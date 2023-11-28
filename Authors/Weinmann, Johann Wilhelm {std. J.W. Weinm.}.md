@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0151
+tl2_volume: vol7
+tl2_page_printed: 159
+tl2_surname: Weinmann
+tl2_forenames: Johann Wilhelm
+tl2_name_abbrev: J.W. Weinm.
+tl2_dates: 1683-1741
+tl2_page_id: 33066499
+author_lsid: 11514-1
+wikidata_id: Q70646
+ipni_surname: Weinmann
+ipni_forenames: Johann Wilhelm
+ipni_standard_form: J.W.Weinm.
+ipni_dates: 1683-1741
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33066499) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

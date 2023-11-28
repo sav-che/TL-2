@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0294
+tl2_volume: suppl5
+tl2_page_printed: 283
+tl2_surname: Déy
+tl2_forenames: Aristide
+tl2_name_abbrev: A. Déy
+tl2_dates: 1807-1889
+tl2_page_id: 33259329
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

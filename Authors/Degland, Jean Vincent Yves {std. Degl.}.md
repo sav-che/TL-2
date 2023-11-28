@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0166
+tl2_volume: suppl5
+tl2_page_printed: 162
+tl2_surname: Degland
+tl2_forenames: Jean Vincent Yves
+tl2_name_abbrev: Degl.
+tl2_dates: 1773-1841
+tl2_page_id: 33259208
+author_lsid: 2081-1
+wikidata_id: Q3170078
+ipni_surname: Degland
+ipni_forenames: Jean Vincent Yves
+ipni_standard_form: Degl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

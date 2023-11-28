@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0175
+tl2_volume: suppl7
+tl2_page_printed: 262
+tl2_surname: Flörke [Floerke]
+tl2_forenames: Heinrich Gustav
+tl2_name_abbrev: Flörke
+tl2_dates: 1764-1835
+tl2_page_id: 33259766
+author_lsid: 2788-1
+wikidata_id: Q4491255
+ipni_surname: Flörke
+ipni_forenames: Heinrich Gustav
+ipni_standard_form: Flörke
+ipni_dates: 1764-1835
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33259766) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

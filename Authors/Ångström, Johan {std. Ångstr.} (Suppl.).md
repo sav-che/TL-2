@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0163
+tl2_volume: suppl1
+tl2_page_printed: 128
+tl2_surname: Ångström
+tl2_forenames: Johan
+tl2_name_abbrev: Ångstr.
+tl2_dates: 1813-1879
+tl2_page_id: 33264855
+author_lsid: 227-1
+wikidata_id: Q1280756
+ipni_surname: Ångström
+ipni_forenames: Johan
+ipni_standard_form: Ångstr.
+ipni_dates: 1813-1879
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33264855) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

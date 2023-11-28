@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0766
+tl2_volume: vol1
+tl2_page_printed: 603
+tl2_surname: Deakin
+tl2_forenames: Richard
+tl2_name_abbrev: Deakin
+tl2_dates: 1809-1873
+tl2_page_id: 33120734
+author_lsid: 17864-1
+wikidata_id: Q18984122
+ipni_surname: Deakin
+ipni_forenames: Richard
+ipni_standard_form: Deakin
+ipni_dates: 1808-1873
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

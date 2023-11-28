@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1193
+tl2_volume: vol1
+tl2_page_printed: 947
+tl2_surname: Gillot
+tl2_forenames: François Xavier
+tl2_name_abbrev: Gillot
+tl2_dates: 1842-1910
+tl2_page_id: 33121078
+author_lsid: 3160-1
+wikidata_id: Q1450859
+ipni_surname: Gillot
+ipni_forenames: François Xavier
+ipni_standard_form: Gillot
+ipni_dates: 1842-1910
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0711
+tl2_volume: vol3
+tl2_page_printed: 603
+tl2_surname: Motelay
+tl2_forenames: Léonce
+tl2_name_abbrev: Motelay
+tl2_dates: 1830-1917
+tl2_page_id: 33355690
+author_lsid: 6702-1
+wikidata_id: Q21521787
+ipni_surname: Motelay
+ipni_forenames: Léonce
+ipni_standard_form: Motelay
+ipni_dates: 1830-1917
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

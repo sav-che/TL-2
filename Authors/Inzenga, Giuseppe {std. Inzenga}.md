@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0414
+tl2_volume: vol2
+tl2_page_printed: 385
+tl2_surname: Inzenga
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Inzenga
+tl2_dates: 1816-1887
+tl2_page_id: 33068627
+author_lsid: 4302-1
+wikidata_id: Q3770752
+ipni_surname: Inzenga
+ipni_forenames: Giuseppe
+ipni_standard_form: Inzenga
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

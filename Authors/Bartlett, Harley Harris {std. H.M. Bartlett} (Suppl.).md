@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0400
+tl2_volume: suppl1
+tl2_page_printed: 344
+tl2_surname: Bartlett
+tl2_forenames: Harley Harris
+tl2_name_abbrev: H.M. Bartlett
+tl2_dates: 1886-1960
+tl2_page_id: 33265071
+author_lsid: 513-1
+wikidata_id: Q5892357
+ipni_surname: Bartlett
+ipni_forenames: Harley Harris
+ipni_standard_form: Bartlett
+ipni_dates: 1886-1960
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

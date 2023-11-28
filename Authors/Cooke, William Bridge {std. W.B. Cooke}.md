@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0677
+tl2_volume: vol1
+tl2_page_printed: 544
+tl2_surname: Cooke
+tl2_forenames: William Bridge
+tl2_name_abbrev: W.B. Cooke
+tl2_dates: 1908-x
+tl2_page_id: 33120675
+author_lsid: 1785-1
+wikidata_id: Q20989023
+ipni_surname: Cooke
+ipni_forenames: William Bridge
+ipni_standard_form: W.B.Cooke
+ipni_dates: 1908-1991
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

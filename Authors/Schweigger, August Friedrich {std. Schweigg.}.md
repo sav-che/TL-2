@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0412
+tl2_volume: vol5
+tl2_page_printed: 428
+tl2_surname: Schweigger
+tl2_forenames: August Friedrich
+tl2_name_abbrev: Schweigg.
+tl2_dates: 1783-1821
+tl2_page_id: 33333567
+author_lsid: 9365-1
+wikidata_id: Q63917
+ipni_surname: Schweigger
+ipni_forenames: August Friedrich
+ipni_standard_form: Schweigg.
+ipni_dates: 1783-1821
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33333567) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

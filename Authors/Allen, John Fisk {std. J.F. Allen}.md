@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0039
+tl2_volume: vol1
+tl2_page_printed: 31
+tl2_surname: Allen
+tl2_forenames: John Fisk
+tl2_name_abbrev: J.F. Allen
+tl2_dates: 1807-1876
+tl2_page_id: 33120162
+author_lsid: 150-1
+wikidata_id: Q21505087
+ipni_surname: Allen
+ipni_forenames: John Fisk
+ipni_standard_form: J.F.Allen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

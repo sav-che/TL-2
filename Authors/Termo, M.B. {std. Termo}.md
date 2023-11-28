@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0260
+tl2_volume: vol6
+tl2_page_printed: 222
+tl2_surname: Termo
+tl2_forenames: M.B.
+tl2_name_abbrev: Termo
+tl2_dates: fl. 1837
+tl2_page_id: 33212264
+author_lsid: 10521-1
+wikidata_id: Q36637345
+ipni_surname: Termo
+ipni_forenames: M.B.
+ipni_standard_form: Termo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33212264) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0206
+tl2_volume: vol2
+tl2_page_printed: 174
+tl2_surname: Herpell
+tl2_forenames: Gustav Jacob
+tl2_name_abbrev: Herp.
+tl2_dates: 1828-1912
+tl2_page_id: 33068416
+author_lsid: 3882-1
+wikidata_id: Q21515743
+ipni_surname: Herpell
+ipni_forenames: Gustav Jacob
+ipni_standard_form: Herp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

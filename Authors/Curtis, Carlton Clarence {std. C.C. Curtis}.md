@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0432
+tl2_volume: suppl4
+tl2_page_printed: 513
+tl2_surname: Curtis
+tl2_forenames: Carlton Clarence
+tl2_name_abbrev: C.C. Curtis
+tl2_dates: 1864-1945
+tl2_page_id: 33266190
+author_lsid: 1929-1
+wikidata_id: Q15830216
+ipni_surname: Curtis
+ipni_forenames: Carlton Clarence
+ipni_standard_form: C.C.Curtis
+ipni_dates: 1864-1945
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33266190) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

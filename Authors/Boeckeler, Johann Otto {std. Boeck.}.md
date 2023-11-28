@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0319
+tl2_volume: vol1
+tl2_page_printed: 246
+tl2_surname: Boeckeler
+tl2_forenames: Johann Otto
+tl2_name_abbrev: Boeck.
+tl2_dates: 1803-1899
+tl2_page_id: 33120377
+author_lsid: 893-1
+wikidata_id: Q10307778
+ipni_surname: Boeckeler
+ipni_forenames: Johann Otto
+ipni_standard_form: Boeckeler
+ipni_dates: 1803-1899
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-10-27 11:16:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33120377) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

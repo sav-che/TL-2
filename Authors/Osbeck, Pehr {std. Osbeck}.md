@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_1011
+tl2_volume: vol3
+tl2_page_printed: 851
+tl2_surname: Osbeck
+tl2_forenames: Pehr
+tl2_name_abbrev: Osbeck
+tl2_dates: 1723-1805
+tl2_page_id: 33355938
+author_lsid: 7178-1
+wikidata_id: Q55069930
+ipni_surname: Osbeck
+ipni_forenames: Pehr
+ipni_standard_form: Osbeck
+ipni_dates: 1723-1805
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33355938) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0329
+tl2_volume: suppl2
+tl2_page_printed: 275
+tl2_surname: Bohnhof
+tl2_forenames: Ernst
+tl2_name_abbrev: Bohnhof
+tl2_dates: fl. 1886-1895
+tl2_page_id: 33265472
+author_lsid: 20011954-2
+wikidata_id: Q36543657
+ipni_surname: Bohnhof
+ipni_forenames: Ernst
+ipni_standard_form: Bohnhof
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

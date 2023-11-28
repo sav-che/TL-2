@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0665
+tl2_volume: vol3
+tl2_page_printed: 576
+tl2_surname: Moreau
+tl2_forenames: Fernand
+tl2_name_abbrev: Moreau
+tl2_dates: 1886-1980
+tl2_page_id: 33355663
+author_lsid: 23618-1
+wikidata_id: Q21392512
+ipni_surname: Moreau
+ipni_forenames: Fernand
+ipni_standard_form: Moreau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33355663) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0364
+tl2_volume: vol2
+tl2_page_printed: 347
+tl2_surname: Howe
+tl2_forenames: Marshall Avery
+tl2_name_abbrev: M. Howe
+tl2_dates: 1867-1936
+tl2_page_id: 33068589
+author_lsid: 4160-1
+wikidata_id: Q2715058
+ipni_surname: Howe
+ipni_forenames: Marshall Avery
+ipni_standard_form: M.Howe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

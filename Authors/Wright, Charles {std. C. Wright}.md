@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0421
+tl2_volume: vol7
+tl2_page_printed: 464
+tl2_surname: Wright
+tl2_forenames: Charles
+tl2_name_abbrev: C. Wright
+tl2_dates: 1811-1885
+tl2_page_id: 33066804
+author_lsid: 13033-1
+wikidata_id: Q721062
+ipni_surname: Wright
+ipni_forenames: Charles(Carlos)
+ipni_standard_form: C.Wright
+ipni_dates: 1811-1885
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33066804) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

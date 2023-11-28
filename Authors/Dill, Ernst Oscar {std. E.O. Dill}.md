@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0339
+tl2_volume: suppl5
+tl2_page_printed: 339
+tl2_surname: Dill
+tl2_forenames: Ernst Oscar
+tl2_name_abbrev: E.O. Dill
+tl2_dates: fl. 1895
+tl2_page_id: 33259385
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33259385) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

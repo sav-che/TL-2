@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0082
+tl2_volume: suppl6
+tl2_page_printed: 83
+tl2_surname: Doyer
+tl2_forenames: Catharina Magdalena
+tl2_name_abbrev: Doyer
+tl2_dates: 1898-1979
+tl2_page_id: 33260071
+author_lsid: 18184-1
+wikidata_id: Q36524100
+ipni_surname: Doyer
+ipni_forenames: Catharina M.
+ipni_standard_form: Doyer
+ipni_dates: fl. 1925
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0781
+tl2_volume: vol3
+tl2_page_printed: 667
+tl2_surname: Murray
+tl2_forenames: Andrew
+tl2_name_abbrev: Andr. Murray
+tl2_dates: 1812-1878
+tl2_page_id: 33355754
+author_lsid: 6806-1
+wikidata_id: Q506448
+ipni_surname: Murray
+ipni_forenames: Andrew
+ipni_standard_form: A.Murray bis
+ipni_dates: 1812-1878
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-09-10 16:56:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33355754) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

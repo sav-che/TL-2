@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1035
+tl2_volume: vol2
+tl2_page_printed: 868
+tl2_surname: Lewis
+tl2_forenames: Frederick
+tl2_name_abbrev: F. Lewis
+tl2_dates: 1857-1930
+tl2_page_id: 33069110
+author_lsid: 5536-1
+wikidata_id: Q21518801
+ipni_surname: Lewis
+ipni_forenames: Frederick
+ipni_standard_form: F.Lewis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

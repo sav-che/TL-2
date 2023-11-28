@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0350
+tl2_volume: suppl5
+tl2_page_printed: 351
+tl2_surname: Dismier
+tl2_forenames: Gabriel
+tl2_name_abbrev: Dism.
+tl2_dates: 1856-1942
+tl2_page_id: 33259397
+author_lsid: 18063-1
+wikidata_id: Q21510441
+ipni_surname: Dismier
+ipni_forenames: Gabriel
+ipni_standard_form: Dism.
+ipni_dates: 1856-1942
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259397) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

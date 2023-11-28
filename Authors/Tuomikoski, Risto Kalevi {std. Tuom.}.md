@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0542
+tl2_volume: vol6
+tl2_page_printed: 536
+tl2_surname: Tuomikoski
+tl2_forenames: Risto Kalevi
+tl2_name_abbrev: Tuom.
+tl2_dates: 1911-x
+tl2_page_id: 33212578
+author_lsid: 27982-1
+wikidata_id: Q11890938
+ipni_surname: Tuomikoski
+ipni_forenames: Risto Kalevi
+ipni_standard_form: Tuom.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

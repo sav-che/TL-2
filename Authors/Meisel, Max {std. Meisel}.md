@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0474
+tl2_volume: vol3
+tl2_page_printed: 404
+tl2_surname: Meisel
+tl2_forenames: Max
+tl2_name_abbrev: Meisel
+tl2_dates: 1892-1969
+tl2_page_id: 33355491
+author_lsid: 6322-1
+wikidata_id: Q21520335
+ipni_surname: Meisel
+ipni_forenames: Max
+ipni_standard_form: Meisel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33355491) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

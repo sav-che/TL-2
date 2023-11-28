@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0885
+tl2_volume: vol3
+tl2_page_printed: 751
+tl2_surname: Nienburg
+tl2_forenames: Karl Ortgies Wilhelm
+tl2_name_abbrev: Nienb.
+tl2_dates: 1882-1932
+tl2_page_id: 33355838
+author_lsid: 35195-1
+wikidata_id: Q21522153
+ipni_surname: Nienburg
+ipni_forenames: Karl Ortgies Wilhelm
+ipni_standard_form: Nienb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33355838) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

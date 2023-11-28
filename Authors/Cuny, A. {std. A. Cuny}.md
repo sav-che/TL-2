@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0427
+tl2_volume: suppl4
+tl2_page_printed: 511
+tl2_surname: Cuny
+tl2_forenames: A.
+tl2_name_abbrev: A. Cuny
+tl2_dates: fl. 1932
+tl2_page_id: 33266188
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

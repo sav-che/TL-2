@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0201
+tl2_volume: vol2
+tl2_page_printed: 170
+tl2_surname: Hering
+tl2_forenames: Constantijn J.
+tl2_name_abbrev: Hering
+tl2_dates: 1800-1880
+tl2_page_id: 33068412
+author_lsid: 3872-1
+wikidata_id: Q76495
+ipni_surname: Hering
+ipni_forenames: Constantijn J.
+ipni_standard_form: Hering
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Suriname
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0105
+tl2_volume: suppl6
+tl2_page_printed: 97
+tl2_surname: Drewitt
+tl2_forenames: Frederic George Dawtrey
+tl2_name_abbrev: Drewitt
+tl2_dates: 1848-1942
+tl2_page_id: 33260085
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33260085) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

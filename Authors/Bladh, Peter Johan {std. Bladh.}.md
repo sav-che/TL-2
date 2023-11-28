@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0298
+tl2_volume: vol1
+tl2_page_printed: 226
+tl2_surname: Bladh
+tl2_forenames: Peter Johan
+tl2_name_abbrev: Bladh.
+tl2_dates: 1746-1816
+tl2_page_id: 33120357
+author_lsid: 833-1
+wikidata_id: Q5578552
+ipni_surname: Bladh
+ipni_forenames: Peter Johan
+ipni_standard_form: Bladh
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- Hong Kong
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33120357) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

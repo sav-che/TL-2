@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0163
+tl2_volume: vol6
+tl2_page_printed: 146
+tl2_surname: Tadulingam
+tl2_forenames: Chinnakavanam
+tl2_name_abbrev: Tadulingam
+tl2_dates: fl. 1932
+tl2_page_id: 33212188
+author_lsid: 12283-1
+wikidata_id: Q5006892
+ipni_surname: Tadulingam
+ipni_forenames: Chinnakavanam
+ipni_standard_form: Tadul.
+ipni_dates: 1878-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33212188) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

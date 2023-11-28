@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0465
+tl2_volume: vol5
+tl2_page_printed: 489
+tl2_surname: Seidel
+tl2_forenames: Carl A.J.
+tl2_name_abbrev: C.A. Seidel
+tl2_dates: 1858-?
+tl2_page_id: 33333628
+author_lsid: 9432-1
+wikidata_id: Q21608624
+ipni_surname: Seidel
+ipni_forenames: Carl A.J.
+ipni_standard_form: C.A.Seidel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

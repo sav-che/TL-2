@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0790
+tl2_volume: vol1
+tl2_page_printed: 616
+tl2_surname: Delgado
+tl2_forenames: Joaquim Filippe Nery
+tl2_name_abbrev: Delgado
+tl2_dates: 1835-1908
+tl2_page_id: 33120747
+author_lsid: 2102-1
+wikidata_id: Q10307166
+ipni_surname: Delgado
+ipni_forenames: Joachim Filippe Nery
+ipni_standard_form: Delgado
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

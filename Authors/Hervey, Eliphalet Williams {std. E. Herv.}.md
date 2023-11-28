@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0212
+tl2_volume: vol2
+tl2_page_printed: 177
+tl2_surname: Hervey
+tl2_forenames: Eliphalet Williams
+tl2_name_abbrev: E. Herv.
+tl2_dates: 1834-1925
+tl2_page_id: 33068419
+author_lsid: 3891-1
+wikidata_id: Q21515758
+ipni_surname: Hervey
+ipni_forenames: Eliphalet Williams
+ipni_standard_form: E.W.Herv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

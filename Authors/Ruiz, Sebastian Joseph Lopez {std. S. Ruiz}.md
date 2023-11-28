@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1019
+tl2_volume: vol4
+tl2_page_printed: 986
+tl2_surname: Ruiz
+tl2_forenames: Sebastian Joseph Lopez
+tl2_name_abbrev: S. Ruiz
+tl2_dates: fl. 1802
+tl2_page_id: 33190457
+author_lsid: 8730-1
+wikidata_id: Q36682217
+ipni_surname: Ruíz
+ipni_forenames: Sebastien Joseph López
+ipni_standard_form: S.Ruíz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

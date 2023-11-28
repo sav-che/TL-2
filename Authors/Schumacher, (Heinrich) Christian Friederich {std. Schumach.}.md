@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0383
+tl2_volume: vol5
+tl2_page_printed: 397
+tl2_surname: Schumacher
+tl2_forenames: [Heinrich] Christian Friederich
+tl2_name_abbrev: Schumach.
+tl2_dates: 1757-1830
+tl2_page_id: 33333536
+author_lsid: 26378-1
+wikidata_id: Q66153
+ipni_surname: Schumacher
+ipni_forenames: Heinrich Christian Friedrich
+ipni_standard_form: Schumach.
+ipni_dates: 1757-1830
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33333536) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

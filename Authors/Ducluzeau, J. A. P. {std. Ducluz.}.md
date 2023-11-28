@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0879
+tl2_volume: vol1
+tl2_page_printed: 690
+tl2_surname: Ducluzeau
+tl2_forenames: J. A. P.
+tl2_name_abbrev: Ducluz.
+tl2_dates: fl. 1805
+tl2_page_id: 33120821
+author_lsid: 2348-1
+wikidata_id: Q15969009
+ipni_surname: Ducluzeau
+ipni_forenames: J.A.P.
+ipni_standard_form: Ducluz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

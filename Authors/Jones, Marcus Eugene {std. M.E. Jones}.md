@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0521
+tl2_volume: vol2
+tl2_page_printed: 456
+tl2_surname: Jones
+tl2_forenames: Marcus Eugene
+tl2_name_abbrev: M.E. Jones
+tl2_dates: 1852-1934
+tl2_page_id: 33068698
+author_lsid: 21057-1
+wikidata_id: Q680696
+ipni_surname: Jones
+ipni_forenames: Marcus Eugene
+ipni_standard_form: M.E.Jones
+ipni_dates: 1852-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33068698) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

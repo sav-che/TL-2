@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0253
+tl2_volume: vol7
+tl2_page_printed: 274
+tl2_surname: Wiggers [Wichers]
+tl2_forenames: Fridrich Hindrich
+tl2_name_abbrev: Wigg.
+tl2_dates: 1746-1811
+tl2_page_id: 33066614
+author_lsid: 11656-1
+wikidata_id: Q77706
+ipni_surname: Wiggers
+ipni_forenames: Friedrich Heinrich (Fridrich Hindrich)
+ipni_standard_form: F.H.Wigg.
+ipni_dates: 1746-1811
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33066614) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

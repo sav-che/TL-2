@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0217
+tl2_volume: suppl4
+tl2_page_printed: 281
+tl2_surname: Colozza
+tl2_forenames: Antonio
+tl2_name_abbrev: Colozza
+tl2_dates: fl. 1898-1900
+tl2_page_id: 33265958
+author_lsid: 13273-1
+wikidata_id: Q18983882
+ipni_surname: Colozza
+ipni_forenames: A.
+ipni_standard_form: Colozza
+ipni_dates: fl. 1908
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33265958) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

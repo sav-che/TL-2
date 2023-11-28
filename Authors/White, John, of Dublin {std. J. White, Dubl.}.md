@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol7_0234
+tl2_volume: vol7
+tl2_page_printed: 253
+tl2_surname: White
+tl2_forenames: John, of Dublin
+tl2_name_abbrev: J. White, Dubl.
+tl2_dates: c. 1760-1837
+tl2_page_id: 33066593
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33066593) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

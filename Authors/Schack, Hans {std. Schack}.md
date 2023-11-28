@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0107
+tl2_volume: vol5
+tl2_page_printed: 101
+tl2_surname: Schack
+tl2_forenames: Hans
+tl2_name_abbrev: Schack
+tl2_dates: 1878-1946
+tl2_page_id: 33333240
+author_lsid: 9001-1
+wikidata_id: Q1583166
+ipni_surname: Schack
+ipni_forenames: Hans Woldemar
+ipni_standard_form: Schack
+ipni_dates: 1878-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33333240) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

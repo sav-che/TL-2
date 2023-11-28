@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0140
+tl2_volume: vol7
+tl2_page_printed: 148
+tl2_surname: Wehrhahn
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Wehrhahn
+tl2_dates: 1857-1926
+tl2_page_id: 33066488
+author_lsid: 11490-1
+wikidata_id: Q18417512
+ipni_surname: Wehrhahn
+ipni_forenames: Wilhelm
+ipni_standard_form: Wehrh.
+ipni_dates: 1857-1926
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

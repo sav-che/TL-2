@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0126
+tl2_volume: vol7
+tl2_page_printed: 130
+tl2_surname: Weber
+tl2_forenames: Joseph
+tl2_name_abbrev: J. Weber
+tl2_dates: 1856-1908
+tl2_page_id: 33066470
+author_lsid: 35139-1
+wikidata_id: Q13103378
+ipni_surname: Weber
+ipni_forenames: Joseph
+ipni_standard_form: J.Weber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33066470) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0114
+tl2_volume: vol6
+tl2_page_printed: 93
+tl2_surname: Sumstine
+tl2_forenames: David [Ross]
+tl2_name_abbrev: Sumstine
+tl2_dates: 1870-1965
+tl2_page_id: 33212135
+author_lsid: 27351-1
+wikidata_id: Q21610042
+ipni_surname: Sumstine
+ipni_forenames: David Ross
+ipni_standard_form: Sumst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33212135) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

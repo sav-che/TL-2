@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0491
+tl2_volume: vol2
+tl2_page_printed: 437
+tl2_surname: Jennings
+tl2_forenames: Alfred Vaughan
+tl2_name_abbrev: A. Jenn.
+tl2_dates: 1864-1903
+tl2_page_id: 33068679
+author_lsid: 4470-1
+wikidata_id: Q21516992
+ipni_surname: Jennings
+ipni_forenames: Alfred Vaughan
+ipni_standard_form: A.Jenn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

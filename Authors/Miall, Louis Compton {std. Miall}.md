@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0542
+tl2_volume: vol3
+tl2_page_printed: 453
+tl2_surname: Miall
+tl2_forenames: Louis Compton
+tl2_name_abbrev: Miall
+tl2_dates: 1842-1921
+tl2_page_id: 33355540
+author_lsid: 6425-1
+wikidata_id: Q18030347
+ipni_surname: Miall
+ipni_forenames: Louis Compton
+ipni_standard_form: Miall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

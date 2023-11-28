@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0963
+tl2_volume: vol1
+tl2_page_printed: 798
+tl2_surname: Eriksson
+tl2_forenames: Jakob
+tl2_name_abbrev: Eriks.
+tl2_dates: 1848-1931
+tl2_page_id: 33120929
+author_lsid: 18534-1
+wikidata_id: Q5716580
+ipni_surname: Eriksson
+ipni_forenames: Jakob
+ipni_standard_form: Erikss.
+ipni_dates: 1848-1931
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2005-10-18 04:55:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

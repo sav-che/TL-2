@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0280
+tl2_volume: vol6
+tl2_page_printed: 239
+tl2_surname: Théis
+tl2_forenames: Alexandre [Étienne Guillaume, baron] de
+tl2_name_abbrev: Théis
+tl2_dates: 1765-1842
+tl2_page_id: 33212281
+author_lsid: 12926-1
+wikidata_id: Q2834212
+ipni_surname: Théis
+ipni_forenames: Alexandre (Étienne Guillaume) de
+ipni_standard_form: Théis
+ipni_dates: 1765-1842
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

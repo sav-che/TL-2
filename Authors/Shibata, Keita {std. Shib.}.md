@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0545
+tl2_volume: vol5
+tl2_page_printed: 563
+tl2_surname: Shibata
+tl2_forenames: Keita
+tl2_name_abbrev: Shib.
+tl2_dates: 1878-1949
+tl2_page_id: 33333702
+author_lsid: 9571-1
+wikidata_id: Q6458446
+ipni_surname: Shibata
+ipni_forenames: Keita
+ipni_standard_form: Shibata
+ipni_dates: 1877-1949
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

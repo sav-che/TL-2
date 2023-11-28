@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0347
+tl2_volume: vol4
+tl2_page_printed: 293
+tl2_surname: Plée
+tl2_forenames: Auguste
+tl2_name_abbrev: A. Plée
+tl2_dates: 1787-1825
+tl2_page_id: 33189764
+author_lsid: 7751-1
+wikidata_id: Q4821066
+ipni_surname: Plée
+ipni_forenames: Auguste
+ipni_standard_form: Plée
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33189764) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

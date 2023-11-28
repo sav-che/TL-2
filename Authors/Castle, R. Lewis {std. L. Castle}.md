@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0420
+tl2_volume: suppl3
+tl2_page_printed: 459
+tl2_surname: Castle
+tl2_forenames: R. Lewis
+tl2_name_abbrev: L. Castle
+tl2_dates: 1854-1922
+tl2_page_id: 33266766
+author_lsid: 20017475-1
+wikidata_id: Q21508014
+ipni_surname: Castle
+ipni_forenames: Lewis
+ipni_standard_form: L.Castle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

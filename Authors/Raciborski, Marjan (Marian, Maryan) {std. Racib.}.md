@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol4_0550
+tl2_volume: vol4
+tl2_page_printed: 529
+tl2_surname: Raciborski
+tl2_forenames: Marjan [Marian, Maryan]
+tl2_name_abbrev: Racib.
+tl2_dates: 1863-1917
+tl2_page_id: 33190000
+author_lsid: 8071-1
+wikidata_id: Q3045640
+ipni_surname: Raciborski
+ipni_forenames: Marjan (Maryan,Marian,Maryjan)
+ipni_standard_form: Racib.
+ipni_dates: 1863-1917
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33190000) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

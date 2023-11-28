@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl5_0068
+tl2_volume: suppl5
+tl2_page_printed: 62
+tl2_surname: Dansereau
+tl2_forenames: Pierre Mackay
+tl2_name_abbrev: Dans.
+tl2_dates: 1911-x
+tl2_page_id: 33259108
+author_lsid: 1993-1
+wikidata_id: Q531618
+ipni_surname: Dansereau
+ipni_forenames: Pierre Mackay
+ipni_standard_form: Dans.
+ipni_dates: 1911-2011
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33259108) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

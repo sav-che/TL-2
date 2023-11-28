@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0697
+tl2_volume: vol5
+tl2_page_printed: 706
+tl2_surname: Smith
+tl2_forenames: Worthington George
+tl2_name_abbrev: W.G. Sm.
+tl2_dates: 1835-1917
+tl2_page_id: 33333845
+author_lsid: 26951-1
+wikidata_id: Q387724
+ipni_surname: Smith
+ipni_forenames: Worthington George
+ipni_standard_form: W.G.Sm.
+ipni_dates: 1835-1917
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33333845) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

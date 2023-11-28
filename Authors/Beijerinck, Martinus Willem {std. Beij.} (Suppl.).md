@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0050
+tl2_volume: suppl2
+tl2_page_printed: 54
+tl2_surname: Beijerinck
+tl2_forenames: Martinus Willem
+tl2_name_abbrev: Beij.
+tl2_dates: 1851-1931
+tl2_page_id: 33265251
+author_lsid: 15885-1
+wikidata_id: Q25539274
+ipni_surname: Beijerinck
+ipni_forenames: Martinus Willem
+ipni_standard_form: Beij.
+ipni_dates: 1861-1931
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

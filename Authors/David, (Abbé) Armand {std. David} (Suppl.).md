@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl5_0101
+tl2_volume: suppl5
+tl2_page_printed: 94
+tl2_surname: David
+tl2_forenames: [Abbé] Armand
+tl2_name_abbrev: David
+tl2_dates: 1826-1900
+tl2_page_id: 33259140
+author_lsid: 2015-1
+wikidata_id: Q346939
+ipni_surname: David
+ipni_forenames: Armand
+ipni_standard_form: David
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- France
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

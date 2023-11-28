@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0086
+tl2_volume: vol7
+tl2_page_printed: 91
+tl2_surname: Warren
+tl2_forenames: John Byrne Leicester, 3rd baron de Tabley
+tl2_name_abbrev: Warren
+tl2_dates: 1835-1895
+tl2_page_id: 33066431
+author_lsid: 11416-1
+wikidata_id: Q6263085
+ipni_surname: Warren
+ipni_forenames: John Byrne Leicester
+ipni_standard_form: Warren
+ipni_dates: 1835-1895
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33066431) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0290
+tl2_volume: suppl4
+tl2_page_printed: 358
+tl2_surname: Cordienne
+tl2_forenames: Alexis-Joseph
+tl2_name_abbrev: Cordienne
+tl2_dates: 1796-1826
+tl2_page_id: 33266035
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33266035) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

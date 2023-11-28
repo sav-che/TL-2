@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0850
+tl2_volume: vol1
+tl2_page_printed: 670
+tl2_surname: Donati
+tl2_forenames: Vitaliano
+tl2_name_abbrev: Donati
+tl2_dates: 1713-1762
+tl2_page_id: 33120801
+author_lsid: 2272-1
+wikidata_id: Q2265720
+ipni_surname: Donati
+ipni_forenames: Vitaliano
+ipni_standard_form: Donati
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

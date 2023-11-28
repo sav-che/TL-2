@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0706
+tl2_volume: vol4
+tl2_page_printed: 727
+tl2_surname: Rendle
+tl2_forenames: Alfred Barton
+tl2_name_abbrev: Rendle
+tl2_dates: 1865-1938
+tl2_page_id: 33190198
+author_lsid: 8287-1
+wikidata_id: Q2615406
+ipni_surname: Rendle
+ipni_forenames: Alfred Barton
+ipni_standard_form: Rendle
+ipni_dates: 1865-1938
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

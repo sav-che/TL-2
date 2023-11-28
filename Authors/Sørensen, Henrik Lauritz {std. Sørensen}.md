@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0715
+tl2_volume: vol5
+tl2_page_printed: 718
+tl2_surname: Sørensen
+tl2_forenames: Henrik Lauritz
+tl2_name_abbrev: Sørensen
+tl2_dates: 1842-1903
+tl2_page_id: 33333857
+author_lsid: 9860-1
+wikidata_id: Q11682437
+ipni_surname: Sørensen
+ipni_forenames: Henrik Lauritz
+ipni_standard_form: Sørensen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33333857) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

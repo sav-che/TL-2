@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0554
+tl2_volume: vol2
+tl2_page_printed: 474
+tl2_surname: Jurányi
+tl2_forenames: Lajos [Ludwig]
+tl2_name_abbrev: Jurányi
+tl2_dates: 1837-1897
+tl2_page_id: 33068716
+author_lsid: 12591-1
+wikidata_id: Q1102236
+ipni_surname: Jurányi
+ipni_forenames: Lajos (Ludwig)
+ipni_standard_form: Jurányi
+ipni_dates: 1837-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0745
+tl2_volume: vol3
+tl2_page_printed: 637
+tl2_surname: Mueller
+tl2_forenames: Joseph M.
+tl2_name_abbrev: Jos. Muell.
+tl2_dates: 1802-1870
+tl2_page_id: 33355724
+author_lsid: 6739-1
+wikidata_id: Q21521836
+ipni_surname: Mueller
+ipni_forenames: Joseph M.
+ipni_standard_form: J.M.Muell.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33355724) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

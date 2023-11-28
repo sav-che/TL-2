@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0337
+tl2_volume: vol5
+tl2_page_printed: 354
+tl2_surname: Schuchardt
+tl2_forenames: [Conrad Gideon] Theodor
+tl2_name_abbrev: Schuchardt
+tl2_dates: 1829-1892
+tl2_page_id: 33333493
+author_lsid: 12848-1
+wikidata_id: Q21608460
+ipni_surname: Schuchardt
+ipni_forenames: (Conrad Gideon) Theodor
+ipni_standard_form: Schuch.
+ipni_dates: 1829-1892
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33333493) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

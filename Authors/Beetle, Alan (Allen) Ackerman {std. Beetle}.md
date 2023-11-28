@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0037
+tl2_volume: suppl2
+tl2_page_printed: 42
+tl2_surname: Beetle
+tl2_forenames: Alan [Allen] Ackerman
+tl2_name_abbrev: Beetle
+tl2_dates: 1913-x
+tl2_page_id: 33265239
+author_lsid: 613-1
+wikidata_id: Q4706055
+ipni_surname: Beetle
+ipni_forenames: Alan Ackerman
+ipni_standard_form: Beetle
+ipni_dates: 1913-2003
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-10-28 20:46:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

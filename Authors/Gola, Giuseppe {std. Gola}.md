@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0210
+tl2_volume: suppl8
+tl2_page_printed: 280
+tl2_surname: Gola
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Gola
+tl2_dates: 1877-1956
+tl2_page_id: 33258758
+author_lsid: 19436-1
+wikidata_id: Q3770705
+ipni_surname: Gola
+ipni_forenames: Giuseppe
+ipni_standard_form: Gola
+ipni_dates: 1877-1956
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33258758) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

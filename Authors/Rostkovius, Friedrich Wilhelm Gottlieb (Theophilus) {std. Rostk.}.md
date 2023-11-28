@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0942
+tl2_volume: vol4
+tl2_page_printed: 910
+tl2_surname: Rostkovius
+tl2_forenames: Friedrich Wilhelm Gottlieb [Theophilus]
+tl2_name_abbrev: Rostk.
+tl2_dates: 1770-1848
+tl2_page_id: 33190381
+author_lsid: 25804-1
+wikidata_id: Q4398437
+ipni_surname: Rostkovius
+ipni_forenames: Friedrich Wilhelm Gottlieb Theophil
+ipni_standard_form: Rostk.
+ipni_dates: 1770-1848
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

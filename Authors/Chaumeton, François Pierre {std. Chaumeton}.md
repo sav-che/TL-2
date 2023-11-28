@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0603
+tl2_volume: vol1
+tl2_page_printed: 489
+tl2_surname: Chaumeton
+tl2_forenames: François Pierre
+tl2_name_abbrev: Chaumeton
+tl2_dates: 1775-1819
+tl2_page_id: 33120620
+author_lsid: 1557-1
+wikidata_id: Q3083641
+ipni_surname: Chaumeton
+ipni_forenames: François Pierre
+ipni_standard_form: Chaumeton
+ipni_dates: 1775-1819
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33120620) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

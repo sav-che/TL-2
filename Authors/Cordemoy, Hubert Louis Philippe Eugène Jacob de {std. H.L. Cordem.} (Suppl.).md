@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0286
+tl2_volume: suppl4
+tl2_page_printed: 357
+tl2_surname: Cordemoy
+tl2_forenames: Hubert Louis Philippe Eugène Jacob de
+tl2_name_abbrev: H.L. Cordem.
+tl2_dates: 1866-1927
+tl2_page_id: 33266034
+author_lsid: 4373-1
+wikidata_id: Q21509049
+ipni_surname: Cordemoy
+ipni_forenames: Hubert Louis Philippe Eugène Jacob de
+ipni_standard_form: H.L.Cordem.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

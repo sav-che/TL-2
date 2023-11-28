@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0857
+tl2_volume: vol4
+tl2_page_printed: 850
+tl2_surname: Rönn
+tl2_forenames: Hans Ludwig Karl
+tl2_name_abbrev: Rönn
+tl2_dates: 1886-?
+tl2_page_id: 33190321
+author_lsid: 8509-1
+wikidata_id: Q21607391
+ipni_surname: Rönn
+ipni_forenames: Hans Ludwig Karl
+ipni_standard_form: Rönn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

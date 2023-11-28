@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0422
+tl2_volume: vol5
+tl2_page_printed: 450
+tl2_surname: Schweykert
+tl2_forenames: J.M.
+tl2_name_abbrev: Schweykert
+tl2_dates: fl. 1791
+tl2_page_id: 33333589
+author_lsid: 9377-1
+wikidata_id: Q21608551
+ipni_surname: Schweykert
+ipni_forenames: Johann Michael
+ipni_standard_form: Schweyk.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

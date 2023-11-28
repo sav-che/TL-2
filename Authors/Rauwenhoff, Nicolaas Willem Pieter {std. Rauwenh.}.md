@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0622
+tl2_volume: vol4
+tl2_page_printed: 593
+tl2_surname: Rauwenhoff
+tl2_forenames: Nicolaas Willem Pieter
+tl2_name_abbrev: Rauwenh.
+tl2_dates: 1826-1909
+tl2_page_id: 33190064
+author_lsid: 8172-1
+wikidata_id: Q17352967
+ipni_surname: Rauwenhoff
+ipni_forenames: Nicolaas Willem Pieter
+ipni_standard_form: Rauwenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0667
+tl2_volume: vol3
+tl2_page_printed: 577
+tl2_surname: Morel
+tl2_forenames: Jean-Marie
+tl2_name_abbrev: J.M. Morel
+tl2_dates: 1728-1810
+tl2_page_id: 33355664
+author_lsid: 6643-1
+wikidata_id: Q1535197
+ipni_surname: Morel
+ipni_forenames: Jean-Marie
+ipni_standard_form: J.M.Morel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

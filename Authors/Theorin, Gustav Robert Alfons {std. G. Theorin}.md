@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0285
+tl2_volume: vol6
+tl2_page_printed: 246
+tl2_surname: Theorin
+tl2_forenames: Gustav Robert Alfons
+tl2_name_abbrev: G. Theorin
+tl2_dates: 1841-1881
+tl2_page_id: 33212288
+author_lsid: 10556-1
+wikidata_id: Q21610562
+ipni_surname: Theorin
+ipni_forenames: Gustav Robert Alfons
+ipni_standard_form: G.Theorin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0243
+tl2_volume: suppl4
+tl2_page_printed: 304
+tl2_surname: Conrad
+tl2_forenames: Walter
+tl2_name_abbrev: W. Conrad
+tl2_dates: 1888-1943
+tl2_page_id: 33265981
+author_lsid: 32800-1
+wikidata_id: Q21508959
+ipni_surname: Conrad
+ipni_forenames: Walter
+ipni_standard_form: W.Conrad
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265981) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

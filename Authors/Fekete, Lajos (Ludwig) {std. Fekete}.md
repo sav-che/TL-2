@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0073
+tl2_volume: suppl7
+tl2_page_printed: 115
+tl2_surname: Fekete
+tl2_forenames: Lajos [Ludwig]
+tl2_name_abbrev: Fekete
+tl2_dates: 1837-1916
+tl2_page_id: 33259619
+author_lsid: 13482-1
+wikidata_id: Q55032016
+ipni_surname: Fekete
+ipni_forenames: Lajos
+ipni_standard_form: Fekete
+ipni_dates: 1837-1916
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

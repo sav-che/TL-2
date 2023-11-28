@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1036
+tl2_volume: vol2
+tl2_page_printed: 869
+tl2_surname: Lewis
+tl2_forenames: Isaac McKinney
+tl2_name_abbrev: L. Lewis
+tl2_dates: 1878-1943
+tl2_page_id: 33069111
+author_lsid: 22288-1
+wikidata_id: Q21518821
+ipni_surname: Lewis
+ipni_forenames: Isaac McKinney
+ipni_standard_form: I.M.Lewis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

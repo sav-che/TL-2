@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0017
+tl2_volume: vol1
+tl2_page_printed: 13
+tl2_surname: Agardh
+tl2_forenames: Carl Adolf
+tl2_name_abbrev: C. Agardh
+tl2_dates: 1785-1859
+tl2_page_id: 33120106
+author_lsid: 30668-1
+wikidata_id: Q345654
+ipni_surname: Agardh
+ipni_forenames: Carl Adolf
+ipni_standard_form: C.Agardh
+ipni_dates: 1785-1859
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33120106) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

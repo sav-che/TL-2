@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0123
+tl2_volume: vol7
+tl2_page_printed: 124
+tl2_surname: Weber
+tl2_forenames: [Frédéric] Albert [Constantin]
+tl2_name_abbrev: F.A.C. Weber
+tl2_dates: 1830-1903
+tl2_page_id: 33066464
+author_lsid: 11462-1
+wikidata_id: Q1349350
+ipni_surname: Weber
+ipni_forenames: Frédéric Albert Constantin
+ipni_standard_form: F.A.C.Weber
+ipni_dates: 1830-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-02-25 10:51:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33066464) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

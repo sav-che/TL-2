@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0920
+tl2_volume: vol5
+tl2_page_printed: 917
+tl2_surname: Stevens
+tl2_forenames: Neil Everett
+tl2_name_abbrev: N. Stevens
+tl2_dates: 1887-1949
+tl2_page_id: 33334056
+author_lsid: 10128-1
+wikidata_id: Q21609841
+ipni_surname: Stevens
+ipni_forenames: Neil Everett
+ipni_standard_form: N.E.Stevens
+ipni_dates: 1887-1949
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

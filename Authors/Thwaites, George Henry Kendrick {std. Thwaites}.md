@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol6_0368
+tl2_volume: vol6
+tl2_page_printed: 341
+tl2_surname: Thwaites
+tl2_forenames: George Henry Kendrick
+tl2_name_abbrev: Thwaites
+tl2_dates: 1812-1882
+tl2_page_id: 33212383
+author_lsid: 10654-1
+wikidata_id: Q2656749
+ipni_surname: Thwaites
+ipni_forenames: George Henry Kendrick
+ipni_standard_form: Thwaites
+ipni_dates: 1812-1882
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Sri Lanka
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33212383) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

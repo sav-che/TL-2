@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0608
+tl2_volume: vol2
+tl2_page_printed: 516
+tl2_surname: Keller
+tl2_forenames: Robert
+tl2_name_abbrev: R. Keller
+tl2_dates: 1854-1939
+tl2_page_id: 33068758
+author_lsid: 21295-1
+wikidata_id: Q6109483
+ipni_surname: Keller
+ipni_forenames: Robert
+ipni_standard_form: R.Keller
+ipni_dates: 1854-1939
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33068758) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

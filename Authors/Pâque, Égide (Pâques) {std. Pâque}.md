@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0066
+tl2_volume: vol4
+tl2_page_printed: 54
+tl2_surname: Pâque
+tl2_forenames: Égide (Pâques)
+tl2_name_abbrev: Pâque
+tl2_dates: 1850-1918
+tl2_page_id: 33189487
+author_lsid: 7327-1
+wikidata_id: Q21522629
+ipni_surname: Pâque
+ipni_forenames: Égide
+ipni_standard_form: Pâque
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33189487) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

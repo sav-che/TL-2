@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0205
+tl2_volume: vol5
+tl2_page_printed: 223
+tl2_surname: Schliephacke
+tl2_forenames: Karl
+tl2_name_abbrev: Schlieph.
+tl2_dates: 1834-1913
+tl2_page_id: 33333362
+author_lsid: 9126-1
+wikidata_id: Q21062903
+ipni_surname: Schliephacke
+ipni_forenames: Karl
+ipni_standard_form: Schlieph.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33333362) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

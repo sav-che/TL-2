@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0753
+tl2_volume: vol4
+tl2_page_printed: 769
+tl2_surname: Richards
+tl2_forenames: Herbert Maule
+tl2_name_abbrev: H. Richards
+tl2_dates: 1871-1928
+tl2_page_id: 33190240
+author_lsid: 8354-1
+wikidata_id: Q21607184
+ipni_surname: Richards
+ipni_forenames: Herbert Maule
+ipni_standard_form: H.Richards
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

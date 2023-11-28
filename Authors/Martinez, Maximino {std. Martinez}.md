@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0383
+tl2_volume: vol3
+tl2_page_printed: 323
+tl2_surname: Martinez
+tl2_forenames: Maximino
+tl2_name_abbrev: Martinez
+tl2_dates: 1888-1964
+tl2_page_id: 33355410
+author_lsid: 6167-1
+wikidata_id: Q4282567
+ipni_surname: Martínez
+ipni_forenames: Maximino
+ipni_standard_form: Martínez
+ipni_dates: 1888-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33355410) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

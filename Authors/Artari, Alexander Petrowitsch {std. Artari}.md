@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0214
+tl2_volume: suppl1
+tl2_page_printed: 173
+tl2_surname: Artari
+tl2_forenames: Alexander Petrowitsch
+tl2_name_abbrev: Artari
+tl2_dates: 1858-1919
+tl2_page_id: 33264900
+author_lsid: 31004-1
+wikidata_id: Q4070146
+ipni_surname: Artari
+ipni_forenames: Alexander Petrovich
+ipni_standard_form: Artari
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

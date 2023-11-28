@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0889
+tl2_volume: vol3
+tl2_page_printed: 753
+tl2_surname: Nieuwland
+tl2_forenames: Julius [Aloysius] Arthur, C. S. C.
+tl2_name_abbrev: Nieuwl.
+tl2_dates: 1878-1936
+tl2_page_id: 33355840
+author_lsid: 6983-1
+wikidata_id: Q88145
+ipni_surname: Nieuwland
+ipni_forenames: Julius (Aloysius) Arthur
+ipni_standard_form: Nieuwl.
+ipni_dates: 1878-1936
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Belgium
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

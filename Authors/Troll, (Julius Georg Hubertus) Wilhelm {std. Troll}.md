@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0509
+tl2_volume: vol6
+tl2_page_printed: 504
+tl2_surname: Troll
+tl2_forenames: [Julius Georg Hubertus] Wilhelm
+tl2_name_abbrev: Troll
+tl2_dates: 1897-1978
+tl2_page_id: 33212546
+author_lsid: 10843-1
+wikidata_id: Q121525
+ipni_surname: Troll
+ipni_forenames: (Julius Georg Hubertus) Wilhelm
+ipni_standard_form: Troll
+ipni_dates: 1897-1978
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33212546) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

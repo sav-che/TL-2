@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0016
+tl2_volume: suppl4
+tl2_page_printed: 24
+tl2_surname: Černjavski
+tl2_forenames: Paule
+tl2_name_abbrev: Černjavski
+tl2_dates: 1892-1969
+tl2_page_id: 33265701
+author_lsid: 1482-1
+wikidata_id: Q21508096
+ipni_surname: Černjavski
+ipni_forenames: Paule
+ipni_standard_form: Černjavski
+ipni_dates: 1892-1969
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

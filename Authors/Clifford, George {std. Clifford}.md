@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0638
+tl2_volume: vol1
+tl2_page_printed: 511
+tl2_surname: Clifford
+tl2_forenames: George
+tl2_name_abbrev: Clifford
+tl2_dates: 1685-1760
+tl2_page_id: 33120642
+author_lsid: 1696-1
+wikidata_id: Q556591
+ipni_surname: Clifford
+ipni_forenames: George
+ipni_standard_form: G.Clifford
+ipni_dates: 1685-1760
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

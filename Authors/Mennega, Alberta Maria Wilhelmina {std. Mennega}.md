@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0493
+tl2_volume: vol3
+tl2_page_printed: 416
+tl2_surname: Mennega
+tl2_forenames: Alberta Maria Wilhelmina
+tl2_name_abbrev: Mennega
+tl2_dates: 1912-x
+tl2_page_id: 33355503
+author_lsid: 6357-1
+wikidata_id: Q2332473
+ipni_surname: Mennega
+ipni_forenames: Alberta Maria Wilhelmina
+ipni_standard_form: Mennega
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

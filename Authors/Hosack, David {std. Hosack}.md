@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0350
+tl2_volume: vol2
+tl2_page_printed: 337
+tl2_surname: Hosack
+tl2_forenames: David
+tl2_name_abbrev: Hosack
+tl2_dates: 1769-1835
+tl2_page_id: 33068579
+author_lsid: 4125-1
+wikidata_id: Q3018093
+ipni_surname: Hosack
+ipni_forenames: David
+ipni_standard_form: Hosack
+ipni_dates: 1769-1835
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33068579) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

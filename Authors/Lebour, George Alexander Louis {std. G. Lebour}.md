@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0937
+tl2_volume: vol2
+tl2_page_printed: 778
+tl2_surname: Lebour
+tl2_forenames: George Alexander Louis
+tl2_name_abbrev: G. Lebour
+tl2_dates: 1847-1918
+tl2_page_id: 33069020
+author_lsid: 5377-1
+wikidata_id: Q21518493
+ipni_surname: Lebour
+ipni_forenames: George Alexander Louis
+ipni_standard_form: G.Lebour
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

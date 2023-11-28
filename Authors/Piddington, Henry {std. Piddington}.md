@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0300
+tl2_volume: vol4
+tl2_page_printed: 257
+tl2_surname: Piddington
+tl2_forenames: Henry
+tl2_name_abbrev: Piddington
+tl2_dates: 1797-1858
+tl2_page_id: 33189728
+author_lsid: 7677-1
+wikidata_id: Q3133011
+ipni_surname: Piddington
+ipni_forenames: Henry
+ipni_standard_form: Pidd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0812
+tl2_volume: vol5
+tl2_page_printed: 815
+tl2_surname: Spring
+tl2_forenames: Anton Friedrich [Antoine Frédéric]
+tl2_name_abbrev: Spring
+tl2_dates: 1814-1872
+tl2_page_id: 33333954
+author_lsid: 9994-1
+wikidata_id: Q3184518
+ipni_surname: Spring
+ipni_forenames: Antoine Frédéric
+ipni_standard_form: Spring
+ipni_dates: 1814-1872
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33333954) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

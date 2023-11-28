@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0317
+tl2_volume: vol3
+tl2_page_printed: 283
+tl2_surname: Manso
+tl2_forenames: Antonio Luiz Patricio da Silva
+tl2_name_abbrev: 
+tl2_dates: 1788-1848
+tl2_page_id: 33355370
+author_lsid: 9647-1
+wikidata_id: Q3369158
+ipni_surname: Silva Manso
+ipni_forenames: António Luiz Patricio da
+ipni_standard_form: Silva Manso
+ipni_dates: 1788-1848
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33355370) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

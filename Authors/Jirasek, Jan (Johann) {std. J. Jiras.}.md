@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0498
+tl2_volume: vol2
+tl2_page_printed: 444
+tl2_surname: Jirasek
+tl2_forenames: Jan [Johann]
+tl2_name_abbrev: J. Jiras.
+tl2_dates: 1754-1797
+tl2_page_id: 33068686
+author_lsid: 4491-1
+wikidata_id: Q21517037
+ipni_surname: Jirasek
+ipni_forenames: Jon (Johann)
+ipni_standard_form: Jirasek
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

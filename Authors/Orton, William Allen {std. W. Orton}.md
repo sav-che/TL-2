@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_1010
+tl2_volume: vol3
+tl2_page_printed: 850
+tl2_surname: Orton
+tl2_forenames: William Allen
+tl2_name_abbrev: W. Orton
+tl2_dates: 1877-1930
+tl2_page_id: 33355937
+author_lsid: 24391-1
+wikidata_id: Q21522441
+ipni_surname: Orton
+ipni_forenames: William Allen
+ipni_standard_form: W.Orton
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0467
+tl2_volume: vol5
+tl2_page_printed: 490
+tl2_surname: Seidel
+tl2_forenames: Johann Heinrich
+tl2_name_abbrev: J. Seidel
+tl2_dates: fl. 1799
+tl2_page_id: 33333629
+author_lsid: 9434-1
+wikidata_id: Q19262873
+ipni_surname: Seidel
+ipni_forenames: Johann Heinrich
+ipni_standard_form: Seidel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

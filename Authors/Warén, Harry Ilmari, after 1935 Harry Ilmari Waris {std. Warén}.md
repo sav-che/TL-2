@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0080
+tl2_volume: vol7
+tl2_page_printed: 70
+tl2_surname: Warén
+tl2_forenames: Harry Ilmari, after 1935 Harry Ilmari Waris
+tl2_name_abbrev: Warén
+tl2_dates: 1893-1973
+tl2_page_id: 33066410
+author_lsid: 12992-1
+wikidata_id: Q11861663
+ipni_surname: Warén
+ipni_forenames: Harry Ilmari
+ipni_standard_form: Warén
+ipni_dates: 1893-1973
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

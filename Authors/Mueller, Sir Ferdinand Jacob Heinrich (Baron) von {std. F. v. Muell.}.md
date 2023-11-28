@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0736
+tl2_volume: vol3
+tl2_page_printed: 615
+tl2_surname: Mueller
+tl2_forenames: Sir Ferdinand Jacob Heinrich (Baron) von
+tl2_name_abbrev: F. v. Muell.
+tl2_dates: 1825-1896
+tl2_page_id: 33355702
+author_lsid: 6732-1
+wikidata_id: Q708002
+ipni_surname: Mueller
+ipni_forenames: Ferdinand Jacob Heinrich von
+ipni_standard_form: F.Muell.
+ipni_dates: 1825-1896
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

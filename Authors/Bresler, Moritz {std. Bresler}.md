@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0420
+tl2_volume: vol1
+tl2_page_printed: 319
+tl2_surname: Bresler
+tl2_forenames: Moritz
+tl2_name_abbrev: Bresler
+tl2_dates: 1802-c. 1851
+tl2_page_id: 33120450
+author_lsid: 13892-1
+wikidata_id: Q21506468
+ipni_surname: Bresler
+ipni_forenames: Moritz
+ipni_standard_form: Bresler
+ipni_dates: 1802-c.1851
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33120450) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

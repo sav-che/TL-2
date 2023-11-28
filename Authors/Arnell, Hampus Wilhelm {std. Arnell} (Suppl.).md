@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0205
+tl2_volume: suppl1
+tl2_page_printed: 161
+tl2_surname: Arnell
+tl2_forenames: Hampus Wilhelm
+tl2_name_abbrev: Arnell
+tl2_dates: 1848-1932
+tl2_page_id: 33264888
+author_lsid: 274-1
+wikidata_id: Q5559534
+ipni_surname: Arnell
+ipni_forenames: Hampus Wilhelm
+ipni_standard_form: Arnell
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

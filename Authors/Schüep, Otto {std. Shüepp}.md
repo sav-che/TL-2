@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0340
+tl2_volume: vol5
+tl2_page_printed: 361
+tl2_surname: Schüep
+tl2_forenames: Otto
+tl2_name_abbrev: Shüepp
+tl2_dates: 1888-x
+tl2_page_id: 33333500
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33333500) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

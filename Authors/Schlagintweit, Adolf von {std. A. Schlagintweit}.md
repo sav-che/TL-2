@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0188
+tl2_volume: vol5
+tl2_page_printed: 187
+tl2_surname: Schlagintweit
+tl2_forenames: Adolf von
+tl2_name_abbrev: A. Schlagintweit
+tl2_dates: 1829-1857
+tl2_page_id: 33333326
+author_lsid: 9110-1
+wikidata_id: Q67442
+ipni_surname: Schlagintweit
+ipni_forenames: Adolf (von)
+ipni_standard_form: A.Schlag.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33333326) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

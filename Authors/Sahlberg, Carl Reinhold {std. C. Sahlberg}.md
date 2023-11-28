@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1073
+tl2_volume: vol4
+tl2_page_printed: 1057
+tl2_surname: Sahlberg
+tl2_forenames: Carl Reinhold
+tl2_name_abbrev: C. Sahlberg
+tl2_dates: 1779-1860
+tl2_page_id: 33190528
+author_lsid: 8812-1
+wikidata_id: Q2361145
+ipni_surname: Sahlberg
+ipni_forenames: Carl Reinhold
+ipni_standard_form: Sahlb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/page/33190528) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

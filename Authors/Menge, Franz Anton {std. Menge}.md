@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0492
+tl2_volume: vol3
+tl2_page_printed: 415
+tl2_surname: Menge
+tl2_forenames: Franz Anton
+tl2_name_abbrev: Menge
+tl2_dates: 1808-1880
+tl2_page_id: 33355502
+author_lsid: 23266-1
+wikidata_id: Q66322
+ipni_surname: Menge
+ipni_forenames: Franz Anton
+ipni_standard_form: Menge
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

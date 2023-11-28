@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0304
+tl2_volume: vol1
+tl2_page_printed: 229
+tl2_surname: Blanco
+tl2_forenames: Francisco Manuel
+tl2_name_abbrev: Blanco
+tl2_dates: 1778-1845
+tl2_page_id: 33120360
+author_lsid: 848-1
+wikidata_id: Q721827
+ipni_surname: Blanco
+ipni_forenames: Francisco Manuel
+ipni_standard_form: Blanco
+ipni_dates: 1778-1845
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Philippines
+- Spain
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33120360) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

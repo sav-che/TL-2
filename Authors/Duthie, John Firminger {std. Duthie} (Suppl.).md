@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0220
+tl2_volume: suppl6
+tl2_page_printed: 209
+tl2_surname: Duthie
+tl2_forenames: John Firminger
+tl2_name_abbrev: Duthie
+tl2_dates: 1845-1922
+tl2_page_id: 33260197
+author_lsid: 2411-1
+wikidata_id: Q11925800
+ipni_surname: Duthie
+ipni_forenames: John Firminger
+ipni_standard_form: Duthie
+ipni_dates: 1845-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33260197) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

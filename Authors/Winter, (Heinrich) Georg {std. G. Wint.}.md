@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0336
+tl2_volume: vol7
+tl2_page_printed: 380
+tl2_surname: Winter
+tl2_forenames: [Heinrich] Georg
+tl2_name_abbrev: G. Wint.
+tl2_dates: 1848-1887
+tl2_page_id: 33066720
+author_lsid: 28843-1
+wikidata_id: Q4111929
+ipni_surname: Winter
+ipni_forenames: Heinrich Georg
+ipni_standard_form: G.Winter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

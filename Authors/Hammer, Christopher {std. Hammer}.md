@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0047
+tl2_volume: vol2
+tl2_page_printed: 36
+tl2_surname: Hammer
+tl2_forenames: Christopher
+tl2_name_abbrev: Hammer
+tl2_dates: 1720-1804
+tl2_page_id: 33068278
+author_lsid: 3602-1
+wikidata_id: Q11963793
+ipni_surname: Hammer
+ipni_forenames: Christopher
+ipni_standard_form: Hammer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

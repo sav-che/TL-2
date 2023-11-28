@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0500
+tl2_volume: vol1
+tl2_page_printed: 411
+tl2_surname: Burgeff
+tl2_forenames: Hans Edmund Nicola
+tl2_name_abbrev: Burgeff
+tl2_dates: 1883-x
+tl2_page_id: 33120542
+author_lsid: 16723-1
+wikidata_id: Q86620
+ipni_surname: Burgeff
+ipni_forenames: Hans Edmund Nicola
+ipni_standard_form: Burgeff
+ipni_dates: 1883-1976
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33120542) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

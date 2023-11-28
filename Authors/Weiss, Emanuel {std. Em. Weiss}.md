@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0156
+tl2_volume: vol7
+tl2_page_printed: 165
+tl2_surname: Weiss
+tl2_forenames: Emanuel
+tl2_name_abbrev: Em. Weiss
+tl2_dates: 1837-1870
+tl2_page_id: 33066505
+author_lsid: 11521-1
+wikidata_id: Q5830335
+ipni_surname: Weiss
+ipni_forenames: Emanuel
+ipni_standard_form: E.Weiss
+ipni_dates: 1837-1870
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33066505) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

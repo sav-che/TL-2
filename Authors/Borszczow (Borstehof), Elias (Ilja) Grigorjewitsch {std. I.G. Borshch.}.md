@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0409
+tl2_volume: suppl2
+tl2_page_printed: 361
+tl2_surname: Borszczow [Borsrzow, Borstehof]
+tl2_forenames: Elias [Elia, Ilja] Grigorjewitsch
+tl2_name_abbrev: I.G. Borshch.
+tl2_dates: 1833-1878
+tl2_page_id: 33265558
+author_lsid: 16364-1
+wikidata_id: Q4094902
+ipni_surname: Borshchow
+ipni_forenames: Iljia Grigorievich
+ipni_standard_form: I.G.Borshch.
+ipni_dates: 1833-1878
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33265558) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

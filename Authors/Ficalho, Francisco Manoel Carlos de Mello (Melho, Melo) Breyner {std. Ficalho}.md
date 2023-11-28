@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0112
+tl2_volume: suppl7
+tl2_page_printed: 172
+tl2_surname: Ficalho
+tl2_forenames: Francisco Manoel Carlos de Mello [Melho, Melo] Breyner
+tl2_name_abbrev: Ficalho
+tl2_dates: 1837-1903
+tl2_page_id: 33259676
+author_lsid: 2709-1
+wikidata_id: Q10284967
+ipni_surname: Ficalho
+ipni_forenames: Franciso Manoel Carlos de Mello de
+ipni_standard_form: Ficalho
+ipni_dates: 1837-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259676) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

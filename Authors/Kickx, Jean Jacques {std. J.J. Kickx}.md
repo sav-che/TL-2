@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0635
+tl2_volume: vol2
+tl2_page_printed: 535
+tl2_surname: Kickx
+tl2_forenames: Jean Jacques
+tl2_name_abbrev: J.J. Kickx
+tl2_dates: 1842-1887
+tl2_page_id: 33068777
+author_lsid: 4769-1
+wikidata_id: Q323003
+ipni_surname: Kickx
+ipni_forenames: Jean Jacques
+ipni_standard_form: J.J.Kickx
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33068777) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

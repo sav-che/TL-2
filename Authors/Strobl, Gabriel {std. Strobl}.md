@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0058
+tl2_volume: vol6
+tl2_page_printed: 46
+tl2_surname: Strobl
+tl2_forenames: Gabriel
+tl2_name_abbrev: Strobl
+tl2_dates: 1846-1925
+tl2_page_id: 33212050
+author_lsid: 10221-1
+wikidata_id: Q872700
+ipni_surname: Strobl
+ipni_forenames: P.Gabriel
+ipni_standard_form: Strobl
+ipni_dates: 1846-1925
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

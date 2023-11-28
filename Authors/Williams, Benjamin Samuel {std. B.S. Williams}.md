@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0284
+tl2_volume: vol7
+tl2_page_printed: 315
+tl2_surname: Williams
+tl2_forenames: Benjamin Samuel
+tl2_name_abbrev: B.S. Williams
+tl2_dates: 1822-1890
+tl2_page_id: 33066655
+author_lsid: 11700-1
+wikidata_id: Q366231
+ipni_surname: Williams
+ipni_forenames: Benjamin Samuel
+ipni_standard_form: B.S.Williams
+ipni_dates: 1824-1890
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33066655) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

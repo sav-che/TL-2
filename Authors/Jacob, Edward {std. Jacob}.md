@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0440
+tl2_volume: vol2
+tl2_page_printed: 401
+tl2_surname: Jacob
+tl2_forenames: Edward
+tl2_name_abbrev: Jacob
+tl2_dates: c. 1710-1788
+tl2_page_id: 33068643
+author_lsid: 4370-1
+wikidata_id: Q5343712
+ipni_surname: Jacob
+ipni_forenames: Edward
+ipni_standard_form: Jacob
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

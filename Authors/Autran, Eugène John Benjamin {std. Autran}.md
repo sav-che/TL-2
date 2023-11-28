@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0114
+tl2_volume: vol1
+tl2_page_printed: 82
+tl2_surname: Autran
+tl2_forenames: Eugène John Benjamin
+tl2_name_abbrev: Autran
+tl2_dates: 1855-1912
+tl2_page_id: 33120213
+author_lsid: 340-1
+wikidata_id: Q21395077
+ipni_surname: Autran
+ipni_forenames: Eugène John Benjamin
+ipni_standard_form: Autran
+ipni_dates: 1855-1912
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

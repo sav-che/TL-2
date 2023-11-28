@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0675
+tl2_volume: vol1
+tl2_page_printed: 536
+tl2_surname: Cooke
+tl2_forenames: Mordecai Cubitt
+tl2_name_abbrev: Cooke
+tl2_dates: 1825-1914
+tl2_page_id: 33120667
+author_lsid: 1783-1
+wikidata_id: Q2351239
+ipni_surname: Cooke
+ipni_forenames: Mordecai Cubitt
+ipni_standard_form: Cooke
+ipni_dates: 1825-1914
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33120667) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

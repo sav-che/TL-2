@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0855
+tl2_volume: vol2
+tl2_page_printed: 725
+tl2_surname: Laharpe (La Harpe)
+tl2_forenames: Jean Jacques Charles de
+tl2_name_abbrev: Laharpe
+tl2_dates: 1802-1877
+tl2_page_id: 33068967
+author_lsid: 5212-1
+wikidata_id: Q5928743
+ipni_surname: Laharpe
+ipni_forenames: Jean Jacques Charles de
+ipni_standard_form: Laharpe
+ipni_dates: 1802-1877
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

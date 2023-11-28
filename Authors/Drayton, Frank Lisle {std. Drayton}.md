@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0094
+tl2_volume: suppl6
+tl2_page_printed: 90
+tl2_surname: Drayton
+tl2_forenames: Frank Lisle
+tl2_name_abbrev: Drayton
+tl2_dates: 1892-?
+tl2_page_id: 33260078
+author_lsid: 18192-1
+wikidata_id: Q21510894
+ipni_surname: Drayton
+ipni_forenames: Frank Lisle
+ipni_standard_form: Drayton
+ipni_dates: 1892-
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

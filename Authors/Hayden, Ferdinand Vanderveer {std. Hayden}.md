@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0128
+tl2_volume: vol2
+tl2_page_printed: 109
+tl2_surname: Hayden
+tl2_forenames: Ferdinand Vanderveer
+tl2_name_abbrev: Hayden
+tl2_dates: 1829-1887
+tl2_page_id: 33068351
+author_lsid: 3745-1
+wikidata_id: Q951629
+ipni_surname: Hayden
+ipni_forenames: Ferdinand Vandeveer
+ipni_standard_form: Hayden
+ipni_dates: 1829-1887
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-03-21 15:14:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33068351) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

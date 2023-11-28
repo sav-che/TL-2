@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0169
+tl2_volume: suppl1
+tl2_page_printed: 133
+tl2_surname: Antommarchi
+tl2_forenames: François [Francesco]
+tl2_name_abbrev: Antommarchi
+tl2_dates: 1780-1838
+tl2_page_id: 33264860
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

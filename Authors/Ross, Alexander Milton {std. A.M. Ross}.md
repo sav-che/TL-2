@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0926
+tl2_volume: vol4
+tl2_page_printed: 899
+tl2_surname: Ross
+tl2_forenames: Alexander Milton
+tl2_name_abbrev: A.M. Ross
+tl2_dates: 1832-1897
+tl2_page_id: 33190370
+author_lsid: 8607-1
+wikidata_id: Q4719663
+ipni_surname: Ross
+ipni_forenames: Alexander Milton
+ipni_standard_form: A.M.Ross
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33190370) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

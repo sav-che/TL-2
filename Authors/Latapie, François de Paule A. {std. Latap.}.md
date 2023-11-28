@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0907
+tl2_volume: vol2
+tl2_page_printed: 763
+tl2_surname: Latapie
+tl2_forenames: François de Paule A.
+tl2_name_abbrev: Latap.
+tl2_dates: 1739-1823
+tl2_page_id: 33069005
+author_lsid: 5306-1
+wikidata_id: Q3083755
+ipni_surname: Latapie
+ipni_forenames: François de Paule A.
+ipni_standard_form: Latap.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

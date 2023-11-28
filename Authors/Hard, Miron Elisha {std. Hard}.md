@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0075
+tl2_volume: vol2
+tl2_page_printed: 51
+tl2_surname: Hard
+tl2_forenames: Miron Elisha
+tl2_name_abbrev: Hard
+tl2_dates: 1849-1914
+tl2_page_id: 33068293
+author_lsid: 3648-1
+wikidata_id: Q21515488
+ipni_surname: Hard
+ipni_forenames: Miron Elisha
+ipni_standard_form: Hard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

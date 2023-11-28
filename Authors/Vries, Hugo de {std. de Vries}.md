@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0773
+tl2_volume: vol6
+tl2_page_printed: 787
+tl2_surname: Vries
+tl2_forenames: Hugo de
+tl2_name_abbrev: de Vries
+tl2_dates: 1848-1935
+tl2_page_id: 33212829
+author_lsid: 11273-1
+wikidata_id: Q160192
+ipni_surname: de Vries
+ipni_forenames: Hugo
+ipni_standard_form: de Vries
+ipni_dates: 1848-1935
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

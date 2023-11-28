@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0813
+tl2_volume: vol1
+tl2_page_printed: 637
+tl2_surname: De Toni
+tl2_forenames: Giovanni Batista
+tl2_name_abbrev: De Toni
+tl2_dates: 1864-1924
+tl2_page_id: 33120768
+author_lsid: 17850-1
+wikidata_id: Q1628506
+ipni_surname: De Toni
+ipni_forenames: Giovanni Batista
+ipni_standard_form: De Toni
+ipni_dates: 1864-1924
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33120768) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

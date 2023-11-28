@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0676
+tl2_volume: vol1
+tl2_page_printed: 543
+tl2_surname: Cooke
+tl2_forenames: Theodore
+tl2_name_abbrev: T. Cooke
+tl2_dates: 1836-1910
+tl2_page_id: 33120674
+author_lsid: 1784-1
+wikidata_id: Q13232734
+ipni_surname: Cooke
+ipni_forenames: Theodore
+ipni_standard_form: T.Cooke
+ipni_dates: 1836-1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+- India
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33120674) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

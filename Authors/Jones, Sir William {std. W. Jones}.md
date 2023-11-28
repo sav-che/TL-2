@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0522
+tl2_volume: vol2
+tl2_page_printed: 457
+tl2_surname: Jones
+tl2_forenames: Sir William
+tl2_name_abbrev: W. Jones
+tl2_dates: 1746-1794
+tl2_page_id: 33068699
+author_lsid: 4543-1
+wikidata_id: Q273969
+ipni_surname: Jones
+ipni_forenames: William
+ipni_standard_form: Jones
+ipni_dates: 1746-1794
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33068699) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

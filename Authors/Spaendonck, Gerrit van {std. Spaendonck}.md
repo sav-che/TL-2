@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0770
+tl2_volume: vol5
+tl2_page_printed: 770
+tl2_surname: Spaendonck
+tl2_forenames: Gerrit van
+tl2_name_abbrev: Spaendonck
+tl2_dates: 1746-1822
+tl2_page_id: 33333909
+author_lsid: 9943-1
+wikidata_id: Q2523019
+ipni_surname: Spaendonck
+ipni_forenames: Gerrit
+ipni_standard_form: Spaend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33333909) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0420
+tl2_volume: vol5
+tl2_page_printed: 448
+tl2_surname: Schwerin
+tl2_forenames: Fritz [Kurt Alexander] Graf von
+tl2_name_abbrev: Schwer.
+tl2_dates: 1856-1934
+tl2_page_id: 33333587
+author_lsid: 9374-1
+wikidata_id: Q109692
+ipni_surname: Schwerin
+ipni_forenames: Fritz Kurt Alexander von
+ipni_standard_form: Schwer.
+ipni_dates: 1856-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

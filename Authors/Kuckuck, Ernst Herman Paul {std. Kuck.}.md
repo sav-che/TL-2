@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0807
+tl2_volume: vol2
+tl2_page_printed: 681
+tl2_surname: Kuckuck
+tl2_forenames: Ernst Herman Paul
+tl2_name_abbrev: Kuck.
+tl2_dates: 1866-1918
+tl2_page_id: 33068923
+author_lsid: 5101-1
+wikidata_id: Q15880587
+ipni_surname: Kuckuck
+ipni_forenames: Ernst Hermann Paul
+ipni_standard_form: Kuck.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

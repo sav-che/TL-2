@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0253
+tl2_volume: vol1
+tl2_page_printed: 199
+tl2_surname: Bernard
+tl2_forenames: Georges Eugène
+tl2_name_abbrev: G. Bernard
+tl2_dates: x-1925
+tl2_page_id: 33120330
+author_lsid: 16009-1
+wikidata_id: Q21506008
+ipni_surname: Bernard
+ipni_forenames: Georges Eugène
+ipni_standard_form: G.E.Bernard
+ipni_dates: 18??-1925
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

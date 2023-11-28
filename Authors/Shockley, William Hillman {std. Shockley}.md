@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0552
+tl2_volume: vol5
+tl2_page_printed: 567
+tl2_surname: Shockley
+tl2_forenames: William Hillman
+tl2_name_abbrev: Shockley
+tl2_dates: 1855-1925
+tl2_page_id: 33333706
+author_lsid: 9588-1
+wikidata_id: Q21608816
+ipni_surname: Shockley
+ipni_forenames: William Hillman
+ipni_standard_form: Shockley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- China
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

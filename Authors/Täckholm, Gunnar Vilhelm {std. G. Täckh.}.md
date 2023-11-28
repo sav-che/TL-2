@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0164
+tl2_volume: vol6
+tl2_page_printed: 147
+tl2_surname: Täckholm
+tl2_forenames: Gunnar Vilhelm
+tl2_name_abbrev: G. Täckh.
+tl2_dates: 1891-1933
+tl2_page_id: 33212189
+author_lsid: 10380-1
+wikidata_id: Q6217824
+ipni_surname: Täckholm
+ipni_forenames: Gunnar Vilhelm
+ipni_standard_form: G.Täckh.
+ipni_dates: 1891-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33212189) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

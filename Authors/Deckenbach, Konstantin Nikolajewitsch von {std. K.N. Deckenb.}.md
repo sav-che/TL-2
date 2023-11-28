@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0152
+tl2_volume: suppl5
+tl2_page_printed: 141
+tl2_surname: Deckenbach
+tl2_forenames: Konstantin Nikolajewitsch von
+tl2_name_abbrev: K.N. Deckenb.
+tl2_dates: ?-1920
+tl2_page_id: 33259187
+author_lsid: 17875-1
+wikidata_id: Q36603921
+ipni_surname: Deckenbach
+ipni_forenames: K.N.
+ipni_standard_form: K.N.Deckenb.
+ipni_dates: fl. 1924
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0548
+tl2_volume: vol3
+tl2_page_printed: 464
+tl2_surname: Michel
+tl2_forenames: Etienne
+tl2_name_abbrev: Michel
+tl2_dates: fl. 1816
+tl2_page_id: 33355551
+author_lsid: 34943-1
+wikidata_id: Q47122590
+ipni_surname: Michel
+ipni_forenames: Étienne
+ipni_standard_form: Michel
+ipni_dates: fl. 1816
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

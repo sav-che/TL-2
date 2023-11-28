@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0419
+tl2_volume: vol4
+tl2_page_printed: 346
+tl2_surname: Porter
+tl2_forenames: Cedric Lambert
+tl2_name_abbrev: C.L. Porter
+tl2_dates: 1905-x
+tl2_page_id: 33189817
+author_lsid: 7863-1
+wikidata_id: Q13420040
+ipni_surname: Porter
+ipni_forenames: Cedric Lambert
+ipni_standard_form: Ced.Porter
+ipni_dates: 1905-2000
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

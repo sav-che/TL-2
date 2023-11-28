@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0348
+tl2_volume: suppl1
+tl2_page_printed: 311
+tl2_surname: Bang
+tl2_forenames: Miguel
+tl2_name_abbrev: Bang
+tl2_dates: 1853-1936
+tl2_page_id: 33265038
+author_lsid: 443-1
+wikidata_id: Q21505621
+ipni_surname: Bang
+ipni_forenames: Miguel
+ipni_standard_form: M.Bang
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

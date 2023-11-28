@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0875
+tl2_volume: vol2
+tl2_page_printed: 743
+tl2_surname: Lamy de la Chapelle
+tl2_forenames: Pierre Marie Édouard
+tl2_name_abbrev: Lamy
+tl2_dates: 1804 (not 1803)-1886
+tl2_page_id: 33068985
+author_lsid: 5244-1
+wikidata_id: Q7192353
+ipni_surname: Lamy de la Chapelle
+ipni_forenames: Pierre Marie Édouard
+ipni_standard_form: Lamy
+ipni_dates: 1804-1886
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33068985) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

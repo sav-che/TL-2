@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0047
+tl2_volume: vol4
+tl2_page_printed: 41
+tl2_surname: Pampuch
+tl2_forenames: Albert
+tl2_name_abbrev: Pampuch
+tl2_dates: fl. 1840
+tl2_page_id: 33189474
+author_lsid: 7300-1
+wikidata_id: Q36507409
+ipni_surname: Pampuch
+ipni_forenames: Wojciech Albert Adrian Józef
+ipni_standard_form: Pampuch
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

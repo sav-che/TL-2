@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0269
+tl2_volume: vol5
+tl2_page_printed: 277
+tl2_surname: Schneider
+tl2_forenames: Oskar
+tl2_name_abbrev: O. Schneid.
+tl2_dates: 1841-1903
+tl2_page_id: 33333416
+author_lsid: 9197-1
+wikidata_id: Q21608223
+ipni_surname: Schneider
+ipni_forenames: Oskar
+ipni_standard_form: O.Schneid.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33333416) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

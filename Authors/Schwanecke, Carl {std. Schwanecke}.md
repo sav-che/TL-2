@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0398
+tl2_volume: vol5
+tl2_page_printed: 420
+tl2_surname: Schwanecke
+tl2_forenames: Carl
+tl2_name_abbrev: Schwanecke
+tl2_dates: 1821-1916
+tl2_page_id: 33333559
+author_lsid: 9350-1
+wikidata_id: Q21608524
+ipni_surname: Schwanecke
+ipni_forenames: Carl
+ipni_standard_form: Schwan.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

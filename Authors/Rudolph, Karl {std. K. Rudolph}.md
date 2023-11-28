@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1003
+tl2_volume: vol4
+tl2_page_printed: 972
+tl2_surname: Rudolph
+tl2_forenames: Karl
+tl2_name_abbrev: K. Rudolph
+tl2_dates: 1881-1937
+tl2_page_id: 33190443
+author_lsid: 8711-1
+wikidata_id: Q1732748
+ipni_surname: Rudolph
+ipni_forenames: Karl
+ipni_standard_form: K.Rudolph
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

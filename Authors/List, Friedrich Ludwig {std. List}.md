@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0068
+tl2_volume: vol3
+tl2_page_printed: 118
+tl2_surname: List
+tl2_forenames: Friedrich Ludwig
+tl2_name_abbrev: List
+tl2_dates: fl. 1837
+tl2_page_id: 33355205
+author_lsid: 5656-1
+wikidata_id: Q36555469
+ipni_surname: List
+ipni_forenames: Friedrich Ludwig
+ipni_standard_form: List
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33355205) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

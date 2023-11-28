@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0124
+tl2_volume: vol6
+tl2_page_printed: 104
+tl2_surname: Suza
+tl2_forenames: Jindrich
+tl2_name_abbrev: Suza
+tl2_dates: 1890-1951
+tl2_page_id: 33212146
+author_lsid: 27386-1
+wikidata_id: Q12024839
+ipni_surname: Suza
+ipni_forenames: Jindřich
+ipni_standard_form: Suza
+ipni_dates: 1890-1951
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33212146) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

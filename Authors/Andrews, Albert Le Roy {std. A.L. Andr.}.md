@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0155
+tl2_volume: suppl1
+tl2_page_printed: 124
+tl2_surname: Andrews
+tl2_forenames: Albert Le Roy
+tl2_name_abbrev: A.L. Andr.
+tl2_dates: 1878-1961
+tl2_page_id: 33264851
+author_lsid: 30891-1
+wikidata_id: Q18590757
+ipni_surname: Andrews
+ipni_forenames: Albert LeRoy
+ipni_standard_form: A.L.Andrews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33264851) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

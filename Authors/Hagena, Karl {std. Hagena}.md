@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0017
+tl2_volume: vol2
+tl2_page_printed: 12
+tl2_surname: Hagena
+tl2_forenames: Karl
+tl2_name_abbrev: Hagena
+tl2_dates: 1806-1882
+tl2_page_id: 33068254
+author_lsid: 3547-1
+wikidata_id: Q21514492
+ipni_surname: Hagena
+ipni_forenames: Karl
+ipni_standard_form: Hagena
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

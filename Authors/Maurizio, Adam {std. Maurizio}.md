@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0435
+tl2_volume: vol3
+tl2_page_printed: 379
+tl2_surname: Maurizio
+tl2_forenames: Adam
+tl2_name_abbrev: Maurizio
+tl2_dates: 1862-1941
+tl2_page_id: 33355466
+author_lsid: 6261-1
+wikidata_id: Q350393
+ipni_surname: Maurizio
+ipni_forenames: Adam M.
+ipni_standard_form: Maurizio
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33355466) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

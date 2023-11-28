@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0754
+tl2_volume: vol4
+tl2_page_printed: 769
+tl2_surname: Richards
+tl2_forenames: Paul Westmacott
+tl2_name_abbrev: P. Richards
+tl2_dates: 1908-x
+tl2_page_id: 33190240
+author_lsid: 8355-1
+wikidata_id: Q3372423
+ipni_surname: Richards
+ipni_forenames: Paul Westmacott
+ipni_standard_form: P.W.Richards
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

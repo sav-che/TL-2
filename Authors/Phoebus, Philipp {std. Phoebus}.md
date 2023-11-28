@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0282
+tl2_volume: vol4
+tl2_page_printed: 246
+tl2_surname: Phoebus
+tl2_forenames: Philipp
+tl2_name_abbrev: Phoebus
+tl2_dates: 1804-1880
+tl2_page_id: 33189717
+author_lsid: 24826-1
+wikidata_id: Q214239
+ipni_surname: Phoebus
+ipni_forenames: Philipp
+ipni_standard_form: Phoebus
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

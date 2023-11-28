@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0750
+tl2_volume: vol2
+tl2_page_printed: 644
+tl2_surname: Konrad
+tl2_forenames: Paul
+tl2_name_abbrev: Konrad
+tl2_dates: 1877-1948
+tl2_page_id: 33068886
+author_lsid: 4953-1
+wikidata_id: Q16354687
+ipni_surname: Konrad
+ipni_forenames: Paul
+ipni_standard_form: Konrad
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33068886) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

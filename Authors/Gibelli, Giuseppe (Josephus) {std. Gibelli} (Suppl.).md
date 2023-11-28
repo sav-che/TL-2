@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl8_0159
+tl2_volume: suppl8
+tl2_page_printed: 199
+tl2_surname: Gibelli
+tl2_forenames: Giuseppe [Josephus]
+tl2_name_abbrev: Gibelli
+tl2_dates: 1831-1898
+tl2_page_id: 33258677
+author_lsid: 3130-1
+wikidata_id: Q5565422
+ipni_surname: Gibelli
+ipni_forenames: Giuseppe
+ipni_standard_form: Gibelli
+ipni_dates: 1831-1898
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33258677) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

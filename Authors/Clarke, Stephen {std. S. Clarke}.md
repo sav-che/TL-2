@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0144
+tl2_volume: suppl4
+tl2_page_printed: 187
+tl2_surname: Clarke
+tl2_forenames: Stephen
+tl2_name_abbrev: S. Clarke
+tl2_dates: fl. 1820-1825
+tl2_page_id: 33265864
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0138
+tl2_volume: vol7
+tl2_page_printed: 146
+tl2_surname: Wehmer
+tl2_forenames: Carl [Friedrich Wilhelm]
+tl2_name_abbrev: Wehmer
+tl2_dates: 1858-1935
+tl2_page_id: 33066486
+author_lsid: 12998-1
+wikidata_id: Q1040980
+ipni_surname: Wehmer
+ipni_forenames: Carl (Friedrich Wilhelm)
+ipni_standard_form: Wehmer
+ipni_dates: 1858-1935
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33066486) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

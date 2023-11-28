@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0744
+tl2_volume: vol5
+tl2_page_printed: 749
+tl2_surname: Soppitt
+tl2_forenames: Henry Thomas
+tl2_name_abbrev: Soppitt
+tl2_dates: 1858-1899
+tl2_page_id: 33333888
+author_lsid: 9900-1
+wikidata_id: Q21609214
+ipni_surname: Soppitt
+ipni_forenames: Henry Thomas
+ipni_standard_form: Soppitt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

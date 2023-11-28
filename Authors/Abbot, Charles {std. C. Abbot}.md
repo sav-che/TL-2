@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0001
+tl2_volume: vol1
+tl2_page_printed: 1
+tl2_surname: Abbot
+tl2_forenames: Charles
+tl2_name_abbrev: C. Abbot
+tl2_dates: 1761-1817
+tl2_page_id: 33120094
+author_lsid: 28-1
+wikidata_id: Q1063507
+ipni_surname: Abbot
+ipni_forenames: Charles
+ipni_standard_form: C.Abbot
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

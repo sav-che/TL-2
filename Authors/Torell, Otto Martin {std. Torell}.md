@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0426
+tl2_volume: vol6
+tl2_page_printed: 394
+tl2_surname: Torell
+tl2_forenames: Otto Martin
+tl2_name_abbrev: Torell
+tl2_dates: 1828-1900
+tl2_page_id: 33212436
+author_lsid: 10741-1
+wikidata_id: Q2039914
+ipni_surname: Torell
+ipni_forenames: Otto Martin
+ipni_standard_form: Torell
+ipni_dates: 1828-1900
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33212436) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

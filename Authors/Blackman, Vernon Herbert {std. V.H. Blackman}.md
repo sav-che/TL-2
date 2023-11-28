@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0230
+tl2_volume: suppl2
+tl2_page_printed: 189
+tl2_surname: Blackman
+tl2_forenames: Vernon Herbert
+tl2_name_abbrev: V.H. Blackman
+tl2_dates: 1872-1967
+tl2_page_id: 33265386
+author_lsid: 32451-1
+wikidata_id: Q18085421
+ipni_surname: Blackman
+ipni_forenames: Vernon Herbert
+ipni_standard_form: V.H.Blackman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265386) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0289
+tl2_volume: suppl8
+tl2_page_printed: 403
+tl2_surname: Grönblad
+tl2_forenames: Rolf [Leo]
+tl2_name_abbrev: Grönblad
+tl2_dates: 1895-1962
+tl2_page_id: 33258881
+author_lsid: 29373-1
+wikidata_id: Q11891146
+ipni_surname: Grönblad
+ipni_forenames: Rolf Leo
+ipni_standard_form: Grönblad
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33258881) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

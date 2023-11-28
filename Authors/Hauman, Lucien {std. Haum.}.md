@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0118
+tl2_volume: vol2
+tl2_page_printed: 101
+tl2_surname: Hauman
+tl2_forenames: Lucien
+tl2_name_abbrev: Haum.
+tl2_dates: 1880-1965
+tl2_page_id: 33068343
+author_lsid: 12532-1
+wikidata_id: Q6697106
+ipni_surname: Hauman
+ipni_forenames: Lucien Leon
+ipni_standard_form: Hauman
+ipni_dates: 1880-1965
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

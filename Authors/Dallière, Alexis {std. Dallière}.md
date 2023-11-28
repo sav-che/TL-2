@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0035
+tl2_volume: suppl5
+tl2_page_printed: 31
+tl2_surname: Dallière
+tl2_forenames: Alexis
+tl2_name_abbrev: Dallière
+tl2_dates: 1823-1901
+tl2_page_id: 33259077
+author_lsid: 13932-1
+wikidata_id: Q16528524
+ipni_surname: Dallière
+ipni_forenames: Alexis
+ipni_standard_form: Dallière
+ipni_dates: 1823-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

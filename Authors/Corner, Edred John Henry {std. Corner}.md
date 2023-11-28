@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl4_0294
+tl2_volume: suppl4
+tl2_page_printed: 362
+tl2_surname: Corner
+tl2_forenames: Edred John Henry
+tl2_name_abbrev: Corner
+tl2_dates: 1906-x
+tl2_page_id: 33266039
+author_lsid: 17439-1
+wikidata_id: Q4233315
+ipni_surname: Corner
+ipni_forenames: Edred John Henry
+ipni_standard_form: Corner
+ipni_dates: 1906-1996
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Singapore
+- United Kingdom
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-01-06 15:53:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33266039) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

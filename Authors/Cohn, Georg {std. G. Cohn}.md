@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0191
+tl2_volume: suppl4
+tl2_page_printed: 258
+tl2_surname: Cohn
+tl2_forenames: Georg
+tl2_name_abbrev: G. Cohn
+tl2_dates: 1873-?
+tl2_page_id: 33265935
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33265935) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

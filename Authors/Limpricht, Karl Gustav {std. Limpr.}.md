@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0026
+tl2_volume: vol3
+tl2_page_printed: 20
+tl2_surname: Limpricht
+tl2_forenames: Karl Gustav
+tl2_name_abbrev: Limpr.
+tl2_dates: 1834-1902
+tl2_page_id: 33355107
+author_lsid: 22351-1
+wikidata_id: Q1374979
+ipni_surname: Limpricht
+ipni_forenames: Karl Gustav
+ipni_standard_form: Limpr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

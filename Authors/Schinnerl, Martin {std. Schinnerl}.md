@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0177
+tl2_volume: vol5
+tl2_page_printed: 174
+tl2_surname: Schinnerl
+tl2_forenames: Martin
+tl2_name_abbrev: Schinnerl
+tl2_dates: 1861-1950
+tl2_page_id: 33333313
+author_lsid: 35153-1
+wikidata_id: Q21607979
+ipni_surname: Schinnerl
+ipni_forenames: Martin
+ipni_standard_form: Schinnerl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0787
+tl2_volume: vol1
+tl2_page_printed: 614
+tl2_surname: Delastre
+tl2_forenames: Charles Jean Louis
+tl2_name_abbrev: Delastre
+tl2_dates: 1792-1859
+tl2_page_id: 33120745
+author_lsid: 2097-1
+wikidata_id: Q2959456
+ipni_surname: Delastre
+ipni_forenames: Charles Jean Louis
+ipni_standard_form: Delastre
+ipni_dates: 1792-1859
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33120745) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

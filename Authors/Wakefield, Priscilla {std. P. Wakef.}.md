@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0029
+tl2_volume: vol7
+tl2_page_printed: 25
+tl2_surname: Wakefield (née Bell)
+tl2_forenames: Priscilla
+tl2_name_abbrev: P. Wakef.
+tl2_dates: 1751-1832
+tl2_page_id: 33066365
+author_lsid: 12987-1
+wikidata_id: Q532982
+ipni_surname: Wakefield
+ipni_forenames: Priscilla
+ipni_standard_form: P.Wakef.
+ipni_dates: 1751-1832
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33066365) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

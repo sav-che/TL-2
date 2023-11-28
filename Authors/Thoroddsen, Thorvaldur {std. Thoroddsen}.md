@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0348
+tl2_volume: vol6
+tl2_page_printed: 295
+tl2_surname: Thoroddsen
+tl2_forenames: Thorvaldur
+tl2_name_abbrev: Thoroddsen
+tl2_dates: 1855-1921
+tl2_page_id: 33212337
+author_lsid: 10632-1
+wikidata_id: Q3480131
+ipni_surname: Thoroddsen
+ipni_forenames: Thorvaldur
+ipni_standard_form: Thoroddsen
+ipni_dates: 1855-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

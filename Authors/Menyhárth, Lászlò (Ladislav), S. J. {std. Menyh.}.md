@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0495
+tl2_volume: vol3
+tl2_page_printed: 416
+tl2_surname: Menyhárth
+tl2_forenames: Lászlò (Ladislav), S. J.
+tl2_name_abbrev: Menyh.
+tl2_dates: 1849-1897
+tl2_page_id: 33355503
+author_lsid: 6360-1
+wikidata_id: Q16059798
+ipni_surname: Menyhárth
+ipni_forenames: László
+ipni_standard_form: Menyh.
+ipni_dates: 1849-1897
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+- Hungary
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2008-02-07 11:28:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0181
+tl2_volume: vol5
+tl2_page_printed: 182
+tl2_surname: Schiønning
+tl2_forenames: Holger Ludvig
+tl2_name_abbrev: Schiønning
+tl2_dates: 1868-1942
+tl2_page_id: 33333321
+author_lsid: 9100-1
+wikidata_id: Q21607983
+ipni_surname: Schiønning
+ipni_forenames: Holger Ludvig
+ipni_standard_form: Schiønning
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

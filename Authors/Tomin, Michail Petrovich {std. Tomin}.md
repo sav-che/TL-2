@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0416
+tl2_volume: vol6
+tl2_page_printed: 388
+tl2_surname: Tomin
+tl2_forenames: Michail Petrovich
+tl2_name_abbrev: Tomin
+tl2_dates: 1883-1967
+tl2_page_id: 33212430
+author_lsid: 27815-1
+wikidata_id: Q18190888
+ipni_surname: Tomin
+ipni_forenames: Mikhail Petrovich
+ipni_standard_form: Tomin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

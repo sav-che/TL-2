@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0239
+tl2_volume: suppl4
+tl2_page_printed: 302
+tl2_surname: Conn
+tl2_forenames: Harold Joel
+tl2_name_abbrev: H.J. Conn
+tl2_dates: 1886-1952
+tl2_page_id: 33265979
+author_lsid: 17375-1
+wikidata_id: Q21508943
+ipni_surname: Conn
+ipni_forenames: Harold Joel
+ipni_standard_form: H.J.Conn
+ipni_dates: 1886-1952
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

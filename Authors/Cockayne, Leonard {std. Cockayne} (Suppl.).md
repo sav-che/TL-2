@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl4_0183
+tl2_volume: suppl4
+tl2_page_printed: 233
+tl2_surname: Cockayne
+tl2_forenames: Leonard
+tl2_name_abbrev: Cockayne
+tl2_dates: 1855-1934
+tl2_page_id: 33265910
+author_lsid: 1711-1
+wikidata_id: Q2268390
+ipni_surname: Cockayne
+ipni_forenames: Leonard C.
+ipni_standard_form: Cockayne
+ipni_dates: 1855-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+- New Zealand
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33265910) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

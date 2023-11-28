@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0561
+tl2_volume: vol4
+tl2_page_printed: 546
+tl2_surname: Räsänen
+tl2_forenames: Veli Johannes Paavo Bartholomeus
+tl2_name_abbrev: Ras.
+tl2_dates: 1888-1953
+tl2_page_id: 33190017
+author_lsid: 8094-1
+wikidata_id: Q11900845
+ipni_surname: Räsänen
+ipni_forenames: Veli Johannes Paavo Bartholomeus
+ipni_standard_form: Räsänen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

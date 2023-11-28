@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0015
+tl2_volume: suppl6
+tl2_page_printed: 19
+tl2_surname: Doebelt
+tl2_forenames: Hugo Karl
+tl2_name_abbrev: Doebelt
+tl2_dates: 1885-x
+tl2_page_id: 33260007
+author_lsid: 20002707-1
+wikidata_id: Q36572113
+ipni_surname: Doebelt
+ipni_forenames: H.
+ipni_standard_form: Doebelt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0605
+tl2_volume: vol6
+tl2_page_printed: 605
+tl2_surname: Uphof
+tl2_forenames: Johannes Cornells Theodoras
+tl2_name_abbrev: Uphof
+tl2_dates: 1886-x
+tl2_page_id: 33212647
+author_lsid: 12956-1
+wikidata_id: Q5933033
+ipni_surname: Uphof
+ipni_forenames: Johannes Cornelius Theodorus(Theodoor)
+ipni_standard_form: Uphof
+ipni_dates: 1886-1969
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33212647) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

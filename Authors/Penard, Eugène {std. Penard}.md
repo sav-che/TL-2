@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0164
+tl2_volume: vol4
+tl2_page_printed: 150
+tl2_surname: Penard
+tl2_forenames: Eugène
+tl2_name_abbrev: Penard
+tl2_dates: 1855-1954
+tl2_page_id: 33189621
+author_lsid: 7483-1
+wikidata_id: Q3060090
+ipni_surname: Penard
+ipni_forenames: Eugène
+ipni_standard_form: Penard
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33189621) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

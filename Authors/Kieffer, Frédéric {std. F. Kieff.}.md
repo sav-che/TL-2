@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0637
+tl2_volume: vol2
+tl2_page_printed: 537
+tl2_surname: Kieffer
+tl2_forenames: Frédéric
+tl2_name_abbrev: F. Kieff.
+tl2_dates: 1827-1927
+tl2_page_id: 33068779
+author_lsid: 4771-1
+wikidata_id: Q21517485
+ipni_surname: Kieffer
+ipni_forenames: Frédéric
+ipni_standard_form: F.Kieff.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

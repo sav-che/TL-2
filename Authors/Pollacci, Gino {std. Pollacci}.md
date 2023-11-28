@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0388
+tl2_volume: vol4
+tl2_page_printed: 329
+tl2_surname: Pollacci
+tl2_forenames: Gino
+tl2_name_abbrev: Pollacci
+tl2_dates: 1872-1963
+tl2_page_id: 33189800
+author_lsid: 24961-1
+wikidata_id: Q15686778
+ipni_surname: Pollacci
+ipni_forenames: Gino
+ipni_standard_form: Pollacci
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

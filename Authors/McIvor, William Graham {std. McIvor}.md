@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0238
+tl2_volume: vol3
+tl2_page_printed: 224
+tl2_surname: McIvor
+tl2_forenames: William Graham
+tl2_name_abbrev: McIvor
+tl2_dates: x-1876
+tl2_page_id: 33355311
+author_lsid: 5932-1
+wikidata_id: Q21520254
+ipni_surname: McIvor
+ipni_forenames: William Graham
+ipni_standard_form: McIvor
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

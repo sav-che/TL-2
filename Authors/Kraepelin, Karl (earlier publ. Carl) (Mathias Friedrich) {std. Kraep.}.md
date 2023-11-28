@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0767
+tl2_volume: vol2
+tl2_page_printed: 660
+tl2_surname: Kraepelin
+tl2_forenames: Karl (earlier publ. Carl) [Mathias Friedrich]
+tl2_name_abbrev: Kraep.
+tl2_dates: 1848-1915
+tl2_page_id: 33068902
+author_lsid: 12631-1
+wikidata_id: Q68239
+ipni_surname: Kraepelin
+ipni_forenames: Karl(Carl) (Matthias Friedrich)
+ipni_standard_form: Kraep.
+ipni_dates: 1848-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0225
+tl2_volume: vol6
+tl2_page_printed: 189
+tl2_surname: Taylor
+tl2_forenames: Joseph
+tl2_name_abbrev: Jos. Tayl.
+tl2_dates: ca. 1762-1844
+tl2_page_id: 33212231
+author_lsid: 10466-1
+wikidata_id: Q21610317
+ipni_surname: Taylor
+ipni_forenames: Joseph
+ipni_standard_form: Jos.Taylor
+ipni_dates: c.1762-1844
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

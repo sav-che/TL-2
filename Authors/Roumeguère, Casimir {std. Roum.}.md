@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0967
+tl2_volume: vol4
+tl2_page_printed: 934
+tl2_surname: Roumeguère
+tl2_forenames: Casimir
+tl2_name_abbrev: Roum.
+tl2_dates: 1828-1892
+tl2_page_id: 33190405
+author_lsid: 25827-1
+wikidata_id: Q5756196
+ipni_surname: Roumeguère
+ipni_forenames: Casimir
+ipni_standard_form: Roum.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Cryptogamic
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33190405) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

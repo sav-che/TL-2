@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0288
+tl2_volume: suppl6
+tl2_page_printed: 261
+tl2_surname: Edwards
+tl2_forenames: Harry Taylor
+tl2_name_abbrev: H.T. Edwards
+tl2_dates: 1877-x
+tl2_page_id: 33260249
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33260249) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

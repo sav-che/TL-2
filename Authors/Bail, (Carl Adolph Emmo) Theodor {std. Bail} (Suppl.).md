@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0304
+tl2_volume: suppl1
+tl2_page_printed: 254
+tl2_surname: Bail
+tl2_forenames: [Carl Adolph Emmo] Theodor
+tl2_name_abbrev: Bail
+tl2_dates: 1833-1922
+tl2_page_id: 33264981
+author_lsid: 389-1
+wikidata_id: Q2417325
+ipni_surname: Bail
+ipni_forenames: Carl Adolf Emmo Theodor
+ipni_standard_form: Bail
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33264981) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,35 @@
+---
+tl2_entry_id: tl2_vol4_0564
+tl2_volume: vol4
+tl2_page_printed: 549
+tl2_surname: Rafinesque [-Schmaltz]
+tl2_forenames: Constantin Samuel
+tl2_name_abbrev: Raf.
+tl2_dates: 1783-1840
+tl2_page_id: 33190020
+author_lsid: 8096-1
+wikidata_id: Q364857
+ipni_surname: Rafinesque
+ipni_forenames: Constantine Samuel
+ipni_standard_form: Raf.
+ipni_dates: 1783-1840
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+- United States
+- Turkey
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-10-16 07:49:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33190020) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

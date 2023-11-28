@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0640
+tl2_volume: vol3
+tl2_page_printed: 554
+tl2_surname: Moloney
+tl2_forenames: Sir Cornelius Alfred
+tl2_name_abbrev: Moloney
+tl2_dates: 1848-1913
+tl2_page_id: 33355641
+author_lsid: 12688-1
+wikidata_id: Q1133716
+ipni_surname: Moloney
+ipni_forenames: Cornelius Alfred
+ipni_standard_form: Moloney
+ipni_dates: 1848-1913
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Nigeria
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

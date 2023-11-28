@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0098
+tl2_volume: vol2
+tl2_page_printed: 69
+tl2_surname: Hartmann
+tl2_forenames: Wilhelm
+tl2_name_abbrev: W. Hartmann
+tl2_dates: fl. 1794
+tl2_page_id: 33068311
+author_lsid: 3697-1
+wikidata_id: Q47118589
+ipni_surname: Hartmann
+ipni_forenames: Wilhelm
+ipni_standard_form: W.Hartmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.4
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

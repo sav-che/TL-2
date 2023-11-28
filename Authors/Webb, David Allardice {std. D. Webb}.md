@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0118
+tl2_volume: vol7
+tl2_page_printed: 117
+tl2_surname: Webb
+tl2_forenames: David Allardice
+tl2_name_abbrev: D. Webb
+tl2_dates: 1912-x
+tl2_page_id: 33066457
+author_lsid: 11453-1
+wikidata_id: Q2313258
+ipni_surname: Webb
+ipni_forenames: David Allardice
+ipni_standard_form: D.A.Webb
+ipni_dates: 1912-1994
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33066457) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

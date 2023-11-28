@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0189
+tl2_volume: vol7
+tl2_page_printed: 200
+tl2_surname: Wessel
+tl2_forenames: A.W.
+tl2_name_abbrev: A.Wessel
+tl2_dates: fl. 1858
+tl2_page_id: 33066540
+author_lsid: 11571-1
+wikidata_id: Q47128732
+ipni_surname: Wessel
+ipni_forenames: A.W.
+ipni_standard_form: A.Wessel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33066540) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

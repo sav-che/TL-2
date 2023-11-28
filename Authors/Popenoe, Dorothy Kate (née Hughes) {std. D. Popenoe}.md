@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0405
+tl2_volume: vol4
+tl2_page_printed: 337
+tl2_surname: Popenoe
+tl2_forenames: Dorothy Kate (née Hughes)
+tl2_name_abbrev: D. Popenoe
+tl2_dates: 1899-1932
+tl2_page_id: 33189808
+author_lsid: 12742-1
+wikidata_id: Q18985687
+ipni_surname: Popenoe
+ipni_forenames: Dorothy Kate
+ipni_standard_form: D.Popenoe
+ipni_dates: 1899-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

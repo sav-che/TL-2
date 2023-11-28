@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0490
+tl2_volume: vol2
+tl2_page_printed: 437
+tl2_surname: Jenner
+tl2_forenames: Edward
+tl2_name_abbrev: Jenner
+tl2_dates: 1803-1872
+tl2_page_id: 33068679
+author_lsid: 4469-1
+wikidata_id: Q18671056
+ipni_surname: Jenner
+ipni_forenames: Edward
+ipni_standard_form: Jenner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

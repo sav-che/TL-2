@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0267
+tl2_volume: vol4
+tl2_page_printed: 232
+tl2_surname: Philibert
+tl2_forenames: J.C.
+tl2_name_abbrev: J. Philib.
+tl2_dates: fl. 1800
+tl2_page_id: 33189703
+author_lsid: 7634-1
+wikidata_id: Q36597025
+ipni_surname: Philibert
+ipni_forenames: J.C.
+ipni_standard_form: Philib.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33189703) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

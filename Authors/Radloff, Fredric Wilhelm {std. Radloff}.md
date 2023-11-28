@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0560
+tl2_volume: vol4
+tl2_page_printed: 546
+tl2_surname: Radloff
+tl2_forenames: Fredric Wilhelm
+tl2_name_abbrev: Radloff
+tl2_dates: 1766-1838
+tl2_page_id: 33190017
+author_lsid: 8090-1
+wikidata_id: Q6060833
+ipni_surname: Radloff
+ipni_forenames: Fredrik Wilhelm
+ipni_standard_form: Radloff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

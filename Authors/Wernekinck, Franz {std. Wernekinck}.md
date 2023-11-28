@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0182
+tl2_volume: vol7
+tl2_page_printed: 193
+tl2_surname: Wernekinck
+tl2_forenames: Franz
+tl2_name_abbrev: Wernekinck
+tl2_dates: 1764-1839
+tl2_page_id: 33066533
+author_lsid: 11562-1
+wikidata_id: Q21612477
+ipni_surname: Wernekinck
+ipni_forenames: Franz
+ipni_standard_form: Wernek.
+ipni_dates: 1764-1839
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

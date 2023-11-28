@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0215
+tl2_volume: vol6
+tl2_page_printed: 182
+tl2_surname: Tausch
+tl2_forenames: Ignaz Friedrich
+tl2_name_abbrev: Tausch
+tl2_dates: 1793-1848
+tl2_page_id: 33212224
+author_lsid: 10453-1
+wikidata_id: Q2332119
+ipni_surname: Tausch
+ipni_forenames: Ignaz Friedrich
+ipni_standard_form: Tausch
+ipni_dates: 1793-1848
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

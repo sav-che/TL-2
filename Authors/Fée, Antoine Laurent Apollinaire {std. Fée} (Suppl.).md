@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0068
+tl2_volume: suppl7
+tl2_page_printed: 104
+tl2_surname: Fée
+tl2_forenames: Antoine Laurent Apollinaire
+tl2_name_abbrev: Fée
+tl2_dates: 1789-1874
+tl2_page_id: 33259608
+author_lsid: 18692-1
+wikidata_id: Q2627241
+ipni_surname: Fée
+ipni_forenames: Antoine Laurent Apollinaire
+ipni_standard_form: Fée
+ipni_dates: 1789-1874
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33259608) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

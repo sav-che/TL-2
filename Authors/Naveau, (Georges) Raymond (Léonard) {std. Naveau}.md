@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0818
+tl2_volume: vol3
+tl2_page_printed: 699
+tl2_surname: Naveau
+tl2_forenames: [Georges] Raymond [Léonard]
+tl2_name_abbrev: Naveau
+tl2_dates: 1889-1932
+tl2_page_id: 33355786
+author_lsid: 6873-1
+wikidata_id: Q21341377
+ipni_surname: Naveau
+ipni_forenames: (Georges) Raymond (Léonard)
+ipni_standard_form: Naveau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33355786) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0115
+tl2_volume: vol7
+tl2_page_printed: 114
+tl2_surname: Weatherby
+tl2_forenames: Charles Alfred
+tl2_name_abbrev: Weath.
+tl2_dates: 1875-1949
+tl2_page_id: 33066454
+author_lsid: 11449-1
+wikidata_id: Q8344897
+ipni_surname: Weatherby
+ipni_forenames: Charles Alfred
+ipni_standard_form: Weath.
+ipni_dates: 1875-1949
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33066454) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

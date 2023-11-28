@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0124
+tl2_volume: suppl4
+tl2_page_printed: 172
+tl2_surname: Cicioni
+tl2_forenames: Giulio
+tl2_name_abbrev: Cicioni
+tl2_dates: fl. 1910
+tl2_page_id: 33265849
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265849) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

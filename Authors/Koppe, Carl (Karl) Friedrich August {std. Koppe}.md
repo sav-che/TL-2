@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0753
+tl2_volume: vol2
+tl2_page_printed: 649
+tl2_surname: Koppe
+tl2_forenames: Carl [Karl] Friedrich August
+tl2_name_abbrev: Koppe
+tl2_dates: 1803-1874
+tl2_page_id: 33068891
+author_lsid: 4958-1
+wikidata_id: Q21517729
+ipni_surname: Koppe
+ipni_forenames: Carl(Karl) Friedrich August
+ipni_standard_form: Koppe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0340
+tl2_volume: suppl1
+tl2_page_printed: 307
+tl2_surname: Balsamo
+tl2_forenames: Francesco
+tl2_name_abbrev: Balsamo
+tl2_dates: 1850-1922
+tl2_page_id: 33265034
+author_lsid: 435-1
+wikidata_id: Q21505607
+ipni_surname: Balsamo
+ipni_forenames: Francesco
+ipni_standard_form: Balsamo
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

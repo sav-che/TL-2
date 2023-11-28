@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0683
+tl2_volume: vol4
+tl2_page_printed: 696
+tl2_surname: Reimers
+tl2_forenames: Hermann
+tl2_name_abbrev: Reimers
+tl2_dates: 1893-1961
+tl2_page_id: 33190167
+author_lsid: 25484-1
+wikidata_id: Q1612440
+ipni_surname: Reimers
+ipni_forenames: Hermann Johann O.
+ipni_standard_form: Reimers
+ipni_dates: 1893-1961
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33190167) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

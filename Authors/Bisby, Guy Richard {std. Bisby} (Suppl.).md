@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0213
+tl2_volume: suppl2
+tl2_page_printed: 174
+tl2_surname: Bisby
+tl2_forenames: Guy Richard
+tl2_name_abbrev: Bisby
+tl2_dates: 1889-1958
+tl2_page_id: 33265371
+author_lsid: 16154-1
+wikidata_id: Q15977605
+ipni_surname: Bisby
+ipni_forenames: Guy Richard
+ipni_standard_form: Bisby
+ipni_dates: 1889-1958
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+- Canada
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265371) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

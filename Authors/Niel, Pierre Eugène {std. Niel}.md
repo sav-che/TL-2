@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0883
+tl2_volume: vol3
+tl2_page_printed: 750
+tl2_surname: Niel
+tl2_forenames: Pierre Eugène
+tl2_name_abbrev: Niel
+tl2_dates: 1836-1905
+tl2_page_id: 33355837
+author_lsid: 6975-1
+wikidata_id: Q21522150
+ipni_surname: Niel
+ipni_forenames: Pierre Eugène
+ipni_standard_form: Niel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

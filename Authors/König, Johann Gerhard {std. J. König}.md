@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0731
+tl2_volume: vol2
+tl2_page_printed: 600
+tl2_surname: König
+tl2_forenames: Johann Gerhard
+tl2_name_abbrev: J. König
+tl2_dates: 1728-1785
+tl2_page_id: 33068842
+author_lsid: 12621-1
+wikidata_id: Q64834
+ipni_surname: Koenig
+ipni_forenames: Johann Gerhard
+ipni_standard_form: J.Koenig
+ipni_dates: 1728-1785
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-11-12 06:38:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33068842) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

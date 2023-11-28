@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0579
+tl2_volume: vol4
+tl2_page_printed: 569
+tl2_surname: Rambert
+tl2_forenames: Eugène
+tl2_name_abbrev: Rambert
+tl2_dates: 1810-1886
+tl2_page_id: 33190040
+author_lsid: 8120-1
+wikidata_id: Q3060130
+ipni_surname: Rambert
+ipni_forenames: Eugène
+ipni_standard_form: Rambert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

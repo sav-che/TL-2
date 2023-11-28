@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_1041
+tl2_volume: vol4
+tl2_page_printed: 1010
+tl2_surname: Rutström
+tl2_forenames: Carl Birger
+tl2_name_abbrev: Rutstr.
+tl2_dates: 1758-1826
+tl2_page_id: 33190481
+author_lsid: 8762-1
+wikidata_id: Q6084610
+ipni_surname: Rutström
+ipni_forenames: Carl Birger
+ipni_standard_form: Rutstr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/page/33190481) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

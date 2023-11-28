@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0328
+tl2_volume: vol4
+tl2_page_printed: 272
+tl2_surname: Piré
+tl2_forenames: Louis Alexandre Henri Joseph
+tl2_name_abbrev: Piré
+tl2_dates: 1827-1887
+tl2_page_id: 33189743
+author_lsid: 24886-1
+wikidata_id: Q6686606
+ipni_surname: Piré
+ipni_forenames: Louis Alexandre Henri Joseph
+ipni_standard_form: Piré
+ipni_dates: 1827-1887
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0792
+tl2_volume: vol2
+tl2_page_printed: 671
+tl2_surname: Krempelhuber
+tl2_forenames: August von
+tl2_name_abbrev: Kremp.
+tl2_dates: 1813-1882
+tl2_page_id: 33068913
+author_lsid: 5057-1
+wikidata_id: Q4820864
+ipni_surname: Krempelhuber
+ipni_forenames: August von
+ipni_standard_form: Kremp.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33068913) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0606
+tl2_volume: vol5
+tl2_page_printed: 609
+tl2_surname: Simon
+tl2_forenames: [Wilhelm Otto] Friedrich
+tl2_name_abbrev: F. Simon
+tl2_dates: 1868-?
+tl2_page_id: 33333748
+author_lsid: 13077-1
+wikidata_id: Q21608917
+ipni_surname: Simon
+ipni_forenames: Friedrich
+ipni_standard_form: F.Simon
+ipni_dates: 1868-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0914
+tl2_volume: vol4
+tl2_page_printed: 888
+tl2_surname: Rosén
+tl2_forenames: Nils (from 1762 knighted Rosén von Rosenstein)
+tl2_name_abbrev: N. Rosén
+tl2_dates: 1706-1773
+tl2_page_id: 33190359
+author_lsid: 8591-1
+wikidata_id: Q1371153
+ipni_surname: Rosén
+ipni_forenames: Nils
+ipni_standard_form: N.Rosén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

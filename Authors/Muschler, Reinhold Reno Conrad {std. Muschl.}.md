@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol3_0787
+tl2_volume: vol3
+tl2_page_printed: 674
+tl2_surname: Muschler
+tl2_forenames: Reinhold Reno Conrad
+tl2_name_abbrev: Muschl.
+tl2_dates: 1883-1957
+tl2_page_id: 33355761
+author_lsid: 6814-1
+wikidata_id: Q71831
+ipni_surname: Muschler
+ipni_forenames: Reinhold  Conrad
+ipni_standard_form: Muschl.
+ipni_dates: 1883-1957
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+- Egypt
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:15.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

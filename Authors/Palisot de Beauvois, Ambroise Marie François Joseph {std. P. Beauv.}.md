@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0025
+tl2_volume: vol4
+tl2_page_printed: 15
+tl2_surname: Palisot de Beauvois
+tl2_forenames: Ambroise Marie François Joseph
+tl2_name_abbrev: P. Beauv.
+tl2_dates: 1752-1820
+tl2_page_id: 33189500
+author_lsid: 7271-1
+wikidata_id: Q458941
+ipni_surname: Palisot de Beauvois
+ipni_forenames: Ambroise Marie François Joseph
+ipni_standard_form: P.Beauv.
+ipni_dates: 1752-1820
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33189500) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

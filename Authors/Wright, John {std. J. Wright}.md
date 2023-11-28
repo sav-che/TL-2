@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0424
+tl2_volume: vol7
+tl2_page_printed: 468
+tl2_surname: Wright
+tl2_forenames: John
+tl2_name_abbrev: J. Wright
+tl2_dates: 1811-1846
+tl2_page_id: 33066808
+author_lsid: 11883-1
+wikidata_id: Q19407879
+ipni_surname: Wright
+ipni_forenames: John
+ipni_standard_form: Wright
+ipni_dates: 1811-1846
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:41.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33066808) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

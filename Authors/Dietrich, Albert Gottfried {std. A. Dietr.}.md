@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0829
+tl2_volume: vol1
+tl2_page_printed: 649
+tl2_surname: Dietrich
+tl2_forenames: Albert Gottfried
+tl2_name_abbrev: A. Dietr.
+tl2_dates: 1795-1856
+tl2_page_id: 33120780
+author_lsid: 2206-1
+wikidata_id: Q67968
+ipni_surname: Dietrich
+ipni_forenames: Albert Gottfried
+ipni_standard_form: A.Dietr.
+ipni_dates: 1795-1856
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

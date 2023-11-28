@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0236
+tl2_volume: suppl4
+tl2_page_printed: 300
+tl2_surname: Conill
+tl2_forenames: Léon Joseph Émile
+tl2_name_abbrev: Conill
+tl2_dates: fl. 1909-1938
+tl2_page_id: 33265977
+author_lsid: 35630-1
+wikidata_id: Q19288701
+ipni_surname: Conill
+ipni_forenames: Joseph Léon Emile
+ipni_standard_form: Conill
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265977) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

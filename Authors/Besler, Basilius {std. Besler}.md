@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0265
+tl2_volume: vol1
+tl2_page_printed: 207
+tl2_surname: Besler
+tl2_forenames: Basilius
+tl2_name_abbrev: Besler
+tl2_dates: 1561-1629
+tl2_page_id: 33120338
+author_lsid: 734-1
+wikidata_id: Q65027
+ipni_surname: Besler
+ipni_forenames: Basilius
+ipni_standard_form: Besler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

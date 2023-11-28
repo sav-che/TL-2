@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0434
+tl2_volume: suppl3
+tl2_page_printed: 473
+tl2_surname: Cave
+tl2_forenames: George H.
+tl2_name_abbrev: G. Cave
+tl2_dates: c. 1870-1965
+tl2_page_id: 33266780
+author_lsid: 1467-1
+wikidata_id: Q21508057
+ipni_surname: Cave
+ipni_forenames: George H.
+ipni_standard_form: Cave
+ipni_dates: 1870-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266780) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

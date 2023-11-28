@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0647
+tl2_volume: vol5
+tl2_page_printed: 645
+tl2_surname: Sloane
+tl2_forenames: Sir Hans
+tl2_name_abbrev: Sloane
+tl2_dates: 1660-1753
+tl2_page_id: 33333784
+author_lsid: 12871-1
+wikidata_id: Q310326
+ipni_surname: Sloane
+ipni_forenames: Hans
+ipni_standard_form: Sloane
+ipni_dates: 1660-1753
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:28.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33333784) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

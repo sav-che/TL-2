@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0305
+tl2_volume: vol4
+tl2_page_printed: 258
+tl2_surname: Pieri
+tl2_forenames: Michele Trivoli
+tl2_name_abbrev: Pieri
+tl2_dates: x-1834
+tl2_page_id: 33189729
+author_lsid: 7686-1
+wikidata_id: Q21522998
+ipni_surname: Pieri
+ipni_forenames: Michele Trivoli
+ipni_standard_form: Pieri
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

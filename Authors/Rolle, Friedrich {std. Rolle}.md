@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0887
+tl2_volume: vol4
+tl2_page_printed: 872
+tl2_surname: Rolle
+tl2_forenames: Friedrich
+tl2_name_abbrev: Rolle
+tl2_dates: 1827-1887
+tl2_page_id: 33190343
+author_lsid: 8554-1
+wikidata_id: Q1347877
+ipni_surname: Rolle
+ipni_forenames: Friedrich
+ipni_standard_form: Rolle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

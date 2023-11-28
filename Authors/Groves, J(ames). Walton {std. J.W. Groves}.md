@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0305
+tl2_volume: suppl8
+tl2_page_printed: 426
+tl2_surname: Groves
+tl2_forenames: J[ames]. Walton
+tl2_name_abbrev: J.W. Groves
+tl2_dates: 1906-1970
+tl2_page_id: 33258904
+author_lsid: 19684-1
+wikidata_id: Q21389009
+ipni_surname: Groves
+ipni_forenames: James Walton
+ipni_standard_form: J.W.Groves
+ipni_dates: 1906-1970
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33258904) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

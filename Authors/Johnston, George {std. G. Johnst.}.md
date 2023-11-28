@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol2_0512
+tl2_volume: vol2
+tl2_page_printed: 450
+tl2_surname: Johnston
+tl2_forenames: George
+tl2_name_abbrev: G. Johnst.
+tl2_dates: 1797-1855
+tl2_page_id: 33068692
+author_lsid: 4518-1
+wikidata_id: Q3101670
+ipni_surname: Johnston
+ipni_forenames: George
+ipni_standard_form: Johnst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0286
+tl2_volume: vol5
+tl2_page_printed: 287
+tl2_surname: Schönheit
+tl2_forenames: Friedrich Christian Heinrich
+tl2_name_abbrev: Schönh.
+tl2_dates: 1789-1870
+tl2_page_id: 33333426
+author_lsid: 12840-1
+wikidata_id: Q1458708
+ipni_surname: Schönheit
+ipni_forenames: Friedrich Christian Heinrich
+ipni_standard_form: Schönh.
+ipni_dates: 1789-1870
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33333426) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0052
+tl2_volume: suppl4
+tl2_page_printed: 57
+tl2_surname: Chase
+tl2_forenames: Mary Agnes (née Merrill)
+tl2_name_abbrev: Chase
+tl2_dates: 1869-1963
+tl2_page_id: 33265734
+author_lsid: 12377-1
+wikidata_id: Q3822242
+ipni_surname: Chase
+ipni_forenames: Mary Agnes
+ipni_standard_form: Chase
+ipni_dates: 1869-1963
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

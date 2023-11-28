@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0116
+tl2_volume: vol5
+tl2_page_printed: 107
+tl2_surname: Schäffer
+tl2_forenames: Julius
+tl2_name_abbrev: Jul. Schäff.
+tl2_dates: 1882-1944
+tl2_page_id: 33333246
+author_lsid: 12819-1
+wikidata_id: Q91915
+ipni_surname: Schäffer
+ipni_forenames: Julius
+ipni_standard_form: Jul.Schäff.
+ipni_dates: 1882-1944
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33333246) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

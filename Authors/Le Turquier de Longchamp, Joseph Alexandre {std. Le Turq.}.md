@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1026
+tl2_volume: vol2
+tl2_page_printed: 860
+tl2_surname: Le Turquier de Longchamp
+tl2_forenames: Joseph Alexandre
+tl2_name_abbrev: Le Turq.
+tl2_dates: 1748-1829
+tl2_page_id: 33069102
+author_lsid: 5523-1
+wikidata_id: Q21518471
+ipni_surname: Le Turquier de Longchamp
+ipni_forenames: Joseph Alexandre
+ipni_standard_form: Le Turq.
+ipni_dates: 1748-1829
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33069102) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

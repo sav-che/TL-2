@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0003
+tl2_volume: vol4
+tl2_page_printed: 2
+tl2_surname: Pacher
+tl2_forenames: David
+tl2_name_abbrev: Pacher
+tl2_dates: 1816-1902
+tl2_page_id: 33189513
+author_lsid: 7232-1
+wikidata_id: Q5800247
+ipni_surname: Pacher
+ipni_forenames: David
+ipni_standard_form: Pacher
+ipni_dates: 1816-1902
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33189513) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

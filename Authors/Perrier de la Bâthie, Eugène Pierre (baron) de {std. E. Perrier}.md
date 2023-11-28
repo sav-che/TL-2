@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0193
+tl2_volume: vol4
+tl2_page_printed: 170
+tl2_surname: Perrier de la Bâthie
+tl2_forenames: Eugène Pierre [baron] de
+tl2_name_abbrev: E. Perrier
+tl2_dates: 1825-1916
+tl2_page_id: 33189641
+author_lsid: 7534-1
+wikidata_id: Q4359577
+ipni_surname: Perrier de la Bâthie
+ipni_forenames: Eugène Pierre
+ipni_standard_form: E.P.Perrier
+ipni_dates: 1825-1916
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-01-26 09:04:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33189641) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0923
+tl2_volume: vol4
+tl2_page_printed: 894
+tl2_surname: Rosenvinge
+tl2_forenames: (Janus) Lauritz (Andreas) Kolderup
+tl2_name_abbrev: Rosenvinge
+tl2_dates: 1858-1939
+tl2_page_id: 33190365
+author_lsid: 8603-1
+wikidata_id: Q4992175
+ipni_surname: Rosenvinge
+ipni_forenames: Janus Lauritz Andreas Kolderup
+ipni_standard_form: Rosenv.
+ipni_dates: 1858-1939
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33190365) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

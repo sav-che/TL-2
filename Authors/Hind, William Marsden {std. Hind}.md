@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0250
+tl2_volume: vol2
+tl2_page_printed: 207
+tl2_surname: Hind
+tl2_forenames: William Marsden
+tl2_name_abbrev: Hind
+tl2_dates: 1815-1894
+tl2_page_id: 33068449
+author_lsid: 3959-1
+wikidata_id: Q21515836
+ipni_surname: Hind
+ipni_forenames: William Marsden
+ipni_standard_form: Hind
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

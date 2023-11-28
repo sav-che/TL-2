@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0386
+tl2_volume: suppl4
+tl2_page_printed: 468
+tl2_surname: Crié
+tl2_forenames: Louis Auguste
+tl2_name_abbrev: Crié
+tl2_dates: 1850-1912
+tl2_page_id: 33266145
+author_lsid: 17520-1
+wikidata_id: Q21509511
+ipni_surname: Crié
+ipni_forenames: Louis Auguste
+ipni_standard_form: Crié
+ipni_dates: 1850-1912
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

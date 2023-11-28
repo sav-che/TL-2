@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0284
+tl2_volume: vol5
+tl2_page_printed: 286
+tl2_surname: Schoenefeld
+tl2_forenames: Wladimir de
+tl2_name_abbrev: Schoenef.
+tl2_dates: 1816-1875
+tl2_page_id: 33333425
+author_lsid: 9215-1
+wikidata_id: Q3569556
+ipni_surname: Schoenefeld
+ipni_forenames: Wladimir de
+ipni_standard_form: Schoenef.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0463
+tl2_volume: vol4
+tl2_page_printed: 384
+tl2_surname: Préaubert
+tl2_forenames: Ernest
+tl2_name_abbrev: Préub.
+tl2_dates: 1852-1933
+tl2_page_id: 33189855
+author_lsid: 7934-1
+wikidata_id: Q21523203
+ipni_surname: Préaubert
+ipni_forenames: Ernest
+ipni_standard_form: Préaub.
+ipni_dates: 1852-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33189855) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0894
+tl2_volume: vol5
+tl2_page_printed: 885
+tl2_surname: Stenström
+tl2_forenames: Karl Otto Edvard
+tl2_name_abbrev: Stenström
+tl2_dates: 1858-1901
+tl2_page_id: 33334024
+author_lsid: 10097-1
+wikidata_id: Q21609777
+ipni_surname: Stenström
+ipni_forenames: Karl Otto Edvard
+ipni_standard_form: Stenstr.
+ipni_dates: 1858-1901
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 885](https://www.biodiversitylibrary.org/page/33334024) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

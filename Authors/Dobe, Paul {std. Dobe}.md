@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0002
+tl2_volume: suppl6
+tl2_page_printed: 1
+tl2_surname: Dobe
+tl2_forenames: Paul
+tl2_name_abbrev: Dobe
+tl2_dates: fl. 1929
+tl2_page_id: 33259989
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

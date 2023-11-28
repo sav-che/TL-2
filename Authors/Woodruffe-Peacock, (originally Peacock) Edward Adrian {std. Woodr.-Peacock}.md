@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0397
+tl2_volume: vol7
+tl2_page_printed: 443
+tl2_surname: Woodruffe-Peacock
+tl2_forenames: [originally Peacock] Edward Adrian
+tl2_name_abbrev: Woodr.-Peacock
+tl2_dates: 1858-1922
+tl2_page_id: 33066783
+author_lsid: 13031-1
+wikidata_id: Q18670638
+ipni_surname: Woodruffe-Peacock
+ipni_forenames: Edward Adrian
+ipni_standard_form: Woodr.-Peac.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

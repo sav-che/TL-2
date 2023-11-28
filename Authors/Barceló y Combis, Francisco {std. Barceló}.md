@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0162
+tl2_volume: vol1
+tl2_page_printed: 120
+tl2_surname: Barceló y Combis
+tl2_forenames: Francisco
+tl2_name_abbrev: Barceló
+tl2_dates: x-1889
+tl2_page_id: 33120251
+author_lsid: 471-1
+wikidata_id: Q21505652
+ipni_surname: Barceló y Combis
+ipni_forenames: Francisco
+ipni_standard_form: Barceló
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33120251) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

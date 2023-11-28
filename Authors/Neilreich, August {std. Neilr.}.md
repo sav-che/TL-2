@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0834
+tl2_volume: vol3
+tl2_page_printed: 719
+tl2_surname: Neilreich
+tl2_forenames: August
+tl2_name_abbrev: Neilr.
+tl2_dates: 1803-1871
+tl2_page_id: 33355806
+author_lsid: 6899-1
+wikidata_id: Q86530
+ipni_surname: Neilreich
+ipni_forenames: August
+ipni_standard_form: Neilr.
+ipni_dates: 1803-1871
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33355806) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0565
+tl2_volume: vol3
+tl2_page_printed: 483
+tl2_surname: Mikan
+tl2_forenames: Joseph Gottfried
+tl2_name_abbrev: J.G. Mikan
+tl2_dates: 1743-1814
+tl2_page_id: 33355570
+author_lsid: 6460-1
+wikidata_id: Q3500567
+ipni_surname: Mikan
+ipni_forenames: Josef Gottfried
+ipni_standard_form: J.G.Mikan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

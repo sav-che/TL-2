@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0724
+tl2_volume: vol5
+tl2_page_printed: 728
+tl2_surname: Solla
+tl2_forenames: Rüdiger Felix [Ruggero Felice]
+tl2_name_abbrev: Solla
+tl2_dates: 1859-?
+tl2_page_id: 33333867
+author_lsid: 9877-1
+wikidata_id: Q21609190
+ipni_surname: Solla
+ipni_forenames: Rüdiger Felix (Ruggero Felice)
+ipni_standard_form: Solla
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Cryptogamic
+ipni_geo_scope: 
+- Austria
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

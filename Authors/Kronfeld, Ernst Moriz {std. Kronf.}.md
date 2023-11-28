@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0801
+tl2_volume: vol2
+tl2_page_printed: 680
+tl2_surname: Kronfeld
+tl2_forenames: Ernst Moriz
+tl2_name_abbrev: Kronf.
+tl2_dates: 1865-1942
+tl2_page_id: 33068922
+author_lsid: 5076-1
+wikidata_id: Q1359544
+ipni_surname: Kronfeld
+ipni_forenames: Ernst Moriz(Mauriz)
+ipni_standard_form: Kronf.
+ipni_dates: 1865-1942
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

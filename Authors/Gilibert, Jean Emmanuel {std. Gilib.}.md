@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_1189
+tl2_volume: vol1
+tl2_page_printed: 942
+tl2_surname: Gilibert
+tl2_forenames: Jean Emmanuel
+tl2_name_abbrev: Gilib.
+tl2_dates: 1741-1814
+tl2_page_id: 33121073
+author_lsid: 19335-1
+wikidata_id: Q2621687
+ipni_surname: Gilibert
+ipni_forenames: Jean-Emmanuel
+ipni_standard_form: Gilib.
+ipni_dates: 1741-1814
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33121073) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

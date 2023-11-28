@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0904
+tl2_volume: vol4
+tl2_page_printed: 881
+tl2_surname: Rosander
+tl2_forenames: [Karl] Henrik Andreas
+tl2_name_abbrev: Rosander
+tl2_dates: 1873-1950
+tl2_page_id: 33190352
+author_lsid: 8580-1
+wikidata_id: Q21607403
+ipni_surname: Rosander
+ipni_forenames: (Karl) Hendrik Andreas
+ipni_standard_form: Rosander
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

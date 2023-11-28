@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0431
+tl2_volume: suppl6
+tl2_page_printed: 444
+tl2_surname: Exell
+tl2_forenames: Arthur Wallis
+tl2_name_abbrev: Exell
+tl2_dates: 1901-1993
+tl2_page_id: 33260432
+author_lsid: 2606-1
+wikidata_id: Q2865378
+ipni_surname: Exell
+ipni_forenames: Arthur Wallis
+ipni_standard_form: Exell
+ipni_dates: 1901-1993
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Angola
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33260432) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

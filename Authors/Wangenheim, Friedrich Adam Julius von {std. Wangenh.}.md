@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0069
+tl2_volume: vol7
+tl2_page_printed: 56
+tl2_surname: Wangenheim
+tl2_forenames: Friedrich Adam Julius von
+tl2_name_abbrev: Wangenh.
+tl2_dates: 1749-1800
+tl2_page_id: 33066396
+author_lsid: 11394-1
+wikidata_id: Q1457992
+ipni_surname: Wangenheim
+ipni_forenames: Friedrich Adam Julius von
+ipni_standard_form: Wangenh.
+ipni_dates: 1749-1800
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Poland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33066396) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

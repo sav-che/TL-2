@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0100
+tl2_volume: vol2
+tl2_page_printed: 69
+tl2_surname: Hartweg
+tl2_forenames: Andreas
+tl2_name_abbrev: A. Hartw.
+tl2_dates: x-1831
+tl2_page_id: 33068311
+author_lsid: 3700-1
+wikidata_id: Q21515541
+ipni_surname: Hartweg
+ipni_forenames: Andreas
+ipni_standard_form: A.Hartw.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

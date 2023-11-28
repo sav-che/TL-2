@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0163
+tl2_volume: vol3
+tl2_page_printed: 186
+tl2_surname: Lüdi
+tl2_forenames: Werner
+tl2_name_abbrev: Lüdi
+tl2_dates: 1888-1968
+tl2_page_id: 33355273
+author_lsid: 5816-1
+wikidata_id: Q1627836
+ipni_surname: Lüdi
+ipni_forenames: Werner
+ipni_standard_form: Lüdi
+ipni_dates: 1888-1968
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

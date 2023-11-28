@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl1_0182
+tl2_volume: suppl1
+tl2_page_printed: 143
+tl2_surname: Arcangeli
+tl2_forenames: Giovanni
+tl2_name_abbrev: Arcang.
+tl2_dates: 1840-1921
+tl2_page_id: 33264870
+author_lsid: 252-1
+wikidata_id: Q1372712
+ipni_surname: Arcangeli
+ipni_forenames: Giovanni
+ipni_standard_form: Arcang.
+ipni_dates: 1840-1921
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33264870) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

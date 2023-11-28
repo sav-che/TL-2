@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0447
+tl2_volume: vol5
+tl2_page_printed: 470
+tl2_surname: Secali y Inda
+tl2_forenames: José
+tl2_name_abbrev: Secall
+tl2_dates: 1853-1918
+tl2_page_id: 33333609
+author_lsid: 12858-1
+wikidata_id: Q21608591
+ipni_surname: Secall y Inda
+ipni_forenames: José
+ipni_standard_form: Secall
+ipni_dates: 1853-1918
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33333609) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

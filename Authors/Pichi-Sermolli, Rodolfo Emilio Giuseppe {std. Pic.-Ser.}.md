@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0293
+tl2_volume: vol4
+tl2_page_printed: 252
+tl2_surname: Pichi-Sermolli
+tl2_forenames: Rodolfo Emilio Giuseppe
+tl2_name_abbrev: Pic.-Ser.
+tl2_dates: 1912-x
+tl2_page_id: 33189723
+author_lsid: 7667-1
+wikidata_id: Q2607627
+ipni_surname: Pichi Sermolli
+ipni_forenames: Rodolfo Emilio Giuseppe
+ipni_standard_form: Pic.Serm.
+ipni_dates: 1912-2005
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.4.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33189723) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

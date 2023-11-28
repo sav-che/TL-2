@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0688
+tl2_volume: vol3
+tl2_page_printed: 594
+tl2_surname: Morris
+tl2_forenames: (Sir) Daniel
+tl2_name_abbrev: D. Morris
+tl2_dates: 1844-1933
+tl2_page_id: 33355681
+author_lsid: 12693-1
+wikidata_id: Q20733957
+ipni_surname: Morris
+ipni_forenames: Daniel
+ipni_standard_form: D.Morris
+ipni_dates: 1844-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

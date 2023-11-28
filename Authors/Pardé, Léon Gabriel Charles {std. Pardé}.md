@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0067
+tl2_volume: vol4
+tl2_page_printed: 55
+tl2_surname: Pardé
+tl2_forenames: Léon Gabriel Charles
+tl2_name_abbrev: Pardé
+tl2_dates: 1865-1943
+tl2_page_id: 33189488
+author_lsid: 7329-1
+wikidata_id: Q21522630
+ipni_surname: Pardé
+ipni_forenames: Léon Gabriel Charles
+ipni_standard_form: Pardé
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33189488) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

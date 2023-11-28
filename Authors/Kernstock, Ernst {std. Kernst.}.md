@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0626
+tl2_volume: vol2
+tl2_page_printed: 531
+tl2_surname: Kernstock
+tl2_forenames: Ernst
+tl2_name_abbrev: Kernst.
+tl2_dates: 1852-1900
+tl2_page_id: 33068773
+author_lsid: 4744-1
+wikidata_id: Q21062274
+ipni_surname: Kernstock
+ipni_forenames: Ernst
+ipni_standard_form: Kernst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

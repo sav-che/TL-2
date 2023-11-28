@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0644
+tl2_volume: vol6
+tl2_page_printed: 661
+tl2_surname: Vandercolme
+tl2_forenames: Édouard
+tl2_name_abbrev: Vandercolme
+tl2_dates: fl. 1870
+tl2_page_id: 33212703
+author_lsid: 11051-1
+wikidata_id: Q47127940
+ipni_surname: Vandercolme
+ipni_forenames: Édouard
+ipni_standard_form: Vanderc.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

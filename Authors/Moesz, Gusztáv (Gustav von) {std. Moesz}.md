@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0621
+tl2_volume: vol3
+tl2_page_printed: 539
+tl2_surname: Moesz
+tl2_forenames: Gusztáv (Gustav von)
+tl2_name_abbrev: Moesz
+tl2_dates: 1873-1946
+tl2_page_id: 33355626
+author_lsid: 23511-1
+wikidata_id: Q1178298
+ipni_surname: Moesz
+ipni_forenames: Gusztáv(Gustáv) von
+ipni_standard_form: Moesz
+ipni_dates: 1873-1946
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33355626) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

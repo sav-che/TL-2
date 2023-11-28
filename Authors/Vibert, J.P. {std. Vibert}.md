@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0702
+tl2_volume: vol6
+tl2_page_printed: 722
+tl2_surname: Vibert
+tl2_forenames: J.P.
+tl2_name_abbrev: Vibert
+tl2_dates: fl. 1824
+tl2_page_id: 33212764
+author_lsid: 11157-1
+wikidata_id: Q3169813
+ipni_surname: Vibert
+ipni_forenames: Jean Pierre
+ipni_standard_form: Vibert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33212764) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0971
+tl2_volume: vol1
+tl2_page_printed: 803
+tl2_surname: Etheridge
+tl2_forenames: Robert Jr.
+tl2_name_abbrev: Etheridge
+tl2_dates: 1847-1920
+tl2_page_id: 33120934
+author_lsid: 2582-1
+wikidata_id: Q7344116
+ipni_surname: Etheridge
+ipni_forenames: Robert
+ipni_standard_form: Ether.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0087
+tl2_volume: suppl4
+tl2_page_printed: 102
+tl2_surname: Child
+tl2_forenames: Marion
+tl2_name_abbrev: Child
+tl2_dates: fl. 1929-1932
+tl2_page_id: 33265779
+author_lsid: 17185-1
+wikidata_id: Q47115478
+ipni_surname: Child
+ipni_forenames: Marion
+ipni_standard_form: Child
+ipni_dates: fl. 1932
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

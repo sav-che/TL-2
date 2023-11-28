@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0501
+tl2_volume: vol1
+tl2_page_printed: 412
+tl2_surname: Burgess
+tl2_forenames: Henry W.
+tl2_name_abbrev: Burgess
+tl2_dates: fl. 1827-1833
+tl2_page_id: 33120543
+author_lsid: 1299-1
+wikidata_id: Q47114847
+ipni_surname: Burgess
+ipni_forenames: Henry W.
+ipni_standard_form: Burgess
+ipni_dates: fl. 1827-1833
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

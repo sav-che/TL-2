@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0000
+tl2_volume: vol5
+tl2_page_printed: 1
+tl2_surname: Saldanha da Gama
+tl2_forenames: José de
+tl2_name_abbrev: Saldanha
+tl2_dates: 1839-1905
+tl2_page_id: 33333182
+author_lsid: 8840-1
+wikidata_id: Q21390159
+ipni_surname: Saldanha da Gama
+ipni_forenames: José de
+ipni_standard_form: Saldanha
+ipni_dates: 1839-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-01-08 12:41:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33333182) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

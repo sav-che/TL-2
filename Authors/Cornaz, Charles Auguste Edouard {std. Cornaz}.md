@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0293
+tl2_volume: suppl4
+tl2_page_printed: 361
+tl2_surname: Cornaz
+tl2_forenames: Charles Auguste Edouard
+tl2_name_abbrev: Cornaz
+tl2_dates: 1825-1911
+tl2_page_id: 33266038
+author_lsid: 1805-1
+wikidata_id: Q21390650
+ipni_surname: Cornaz
+ipni_forenames: Charles Auguste Édouard
+ipni_standard_form: Cornaz
+ipni_dates: 1825-1911
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33266038) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

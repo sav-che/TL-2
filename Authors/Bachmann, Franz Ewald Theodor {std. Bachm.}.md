@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0121
+tl2_volume: vol1
+tl2_page_printed: 86
+tl2_surname: Bachmann
+tl2_forenames: Franz Ewald Theodor
+tl2_name_abbrev: Bachm.
+tl2_dates: 1850-1937
+tl2_page_id: 33120217
+author_lsid: 31151-1
+wikidata_id: Q81723778
+ipni_surname: Bachmann
+ipni_forenames: Franz Ewald Theodor
+ipni_standard_form: Bachm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33120217) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

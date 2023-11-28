@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0097
+tl2_volume: vol2
+tl2_page_printed: 68
+tl2_surname: Hartmann
+tl2_forenames: Max
+tl2_name_abbrev: M. Hartmann
+tl2_dates: 1876-x
+tl2_page_id: 33068310
+author_lsid: 3696-1
+wikidata_id: Q112507
+ipni_surname: Hartmann
+ipni_forenames: Max
+ipni_standard_form: M.Hartmann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33068310) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

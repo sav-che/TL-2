@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0488
+tl2_volume: vol4
+tl2_page_printed: 407
+tl2_surname: Prinz
+tl2_forenames: William Alfred Joseph
+tl2_name_abbrev: Prinz
+tl2_dates: 1857-1910
+tl2_page_id: 33189878
+author_lsid: 7968-1
+wikidata_id: Q1682470
+ipni_surname: Prinz
+ipni_forenames: William Alfred Joseph
+ipni_standard_form: Prinz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

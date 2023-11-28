@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0237
+tl2_volume: suppl1
+tl2_page_printed: 206
+tl2_surname: Aubréville
+tl2_forenames: André
+tl2_name_abbrev: Aubréville
+tl2_dates: 1897-1982
+tl2_page_id: 33264933
+author_lsid: 328-1
+wikidata_id: Q516807
+ipni_surname: Aubréville
+ipni_forenames: André
+ipni_standard_form: Aubrév.
+ipni_dates: 1897-1982
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33264933) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

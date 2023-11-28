@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0954
+tl2_volume: vol1
+tl2_page_printed: 753
+tl2_surname: Endress
+tl2_forenames: Philipp Anton Christoph
+tl2_name_abbrev: Endress
+tl2_dates: 1806-1831
+tl2_page_id: 33120884
+author_lsid: 2536-1
+wikidata_id: Q21512156
+ipni_surname: Endress
+ipni_forenames: Philipp Anton Christoph
+ipni_standard_form: Endress
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

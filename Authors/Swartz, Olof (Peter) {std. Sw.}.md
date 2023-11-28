@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol6_0137
+tl2_volume: vol6
+tl2_page_printed: 116
+tl2_surname: Swartz
+tl2_forenames: Olof [Peter]
+tl2_name_abbrev: Sw.
+tl2_dates: 1760-1818
+tl2_page_id: 33212158
+author_lsid: 27408-1
+wikidata_id: Q632088
+ipni_surname: Swartz
+ipni_forenames: Olof or Olavo (Peter)
+ipni_standard_form: Sw.
+ipni_dates: 1760-1818
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

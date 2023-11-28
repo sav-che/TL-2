@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl1_0447
+tl2_volume: suppl1
+tl2_page_printed: 389
+tl2_surname: Baumgartner
+tl2_forenames: Gottlieb
+tl2_name_abbrev: G. Baumg.
+tl2_dates: fl. 1901
+tl2_page_id: 33265116
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33265116) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

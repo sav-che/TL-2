@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0444
+tl2_volume: vol4
+tl2_page_printed: 365
+tl2_surname: Pouchet
+tl2_forenames: Félix Archimède
+tl2_name_abbrev: F. Pouchet
+tl2_dates: 1800-1872
+tl2_page_id: 33189836
+author_lsid: 7899-1
+wikidata_id: Q3090541
+ipni_surname: Pouchet
+ipni_forenames: Félix Archimède
+ipni_standard_form: Pouchet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1147
+tl2_volume: vol1
+tl2_page_printed: 920
+tl2_surname: Gattenhof
+tl2_forenames: Georg Matthias
+tl2_name_abbrev: Gattenhof
+tl2_dates: 1722-1788
+tl2_page_id: 33121051
+author_lsid: 3046-1
+wikidata_id: Q21513818
+ipni_surname: Gattenhof
+ipni_forenames: Georg Matthias
+ipni_standard_form: Gattenhof
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33121051) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

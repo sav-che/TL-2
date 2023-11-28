@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl4_0091
+tl2_volume: suppl4
+tl2_page_printed: 104
+tl2_surname: Chiovenda
+tl2_forenames: Emilio
+tl2_name_abbrev: Chiov.
+tl2_dates: 1871-1941
+tl2_page_id: 33265781
+author_lsid: 1600-1
+wikidata_id: Q2348823
+ipni_surname: Chiovenda
+ipni_forenames: Emilio
+ipni_standard_form: Chiov.
+ipni_dates: 1871-1941
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-01-03 02:30:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265781) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

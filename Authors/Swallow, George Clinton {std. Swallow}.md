@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0133
+tl2_volume: vol6
+tl2_page_printed: 114
+tl2_surname: Swallow
+tl2_forenames: George Clinton
+tl2_name_abbrev: Swallow
+tl2_dates: 1817-1899
+tl2_page_id: 33212156
+author_lsid: 10332-1
+wikidata_id: Q21610091
+ipni_surname: Swallow
+ipni_forenames: George Clinton
+ipni_standard_form: Swallow
+ipni_dates: 1817-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

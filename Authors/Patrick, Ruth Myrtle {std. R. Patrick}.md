@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0107
+tl2_volume: vol4
+tl2_page_printed: 103
+tl2_surname: Patrick
+tl2_forenames: Ruth Myrtle
+tl2_name_abbrev: R. Patrick
+tl2_dates: 1907-x
+tl2_page_id: 33189574
+author_lsid: 7389-1
+wikidata_id: Q513586
+ipni_surname: Patrick
+ipni_forenames: Ruth Myrtle
+ipni_standard_form: R.M.Patrick
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

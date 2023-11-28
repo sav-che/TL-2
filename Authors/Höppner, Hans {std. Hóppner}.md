@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol2_0282
+tl2_volume: vol2
+tl2_page_printed: 233
+tl2_surname: Höppner
+tl2_forenames: Hans
+tl2_name_abbrev: Hóppner
+tl2_dates: 1873-post 1934
+tl2_page_id: 33068475
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

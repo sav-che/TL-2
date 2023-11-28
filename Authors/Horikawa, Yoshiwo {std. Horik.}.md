@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0343
+tl2_volume: vol2
+tl2_page_printed: 333
+tl2_surname: Horikawa
+tl2_forenames: Yoshiwo
+tl2_name_abbrev: Horik.
+tl2_dates: 1902-1976
+tl2_page_id: 33068575
+author_lsid: 4105-1
+wikidata_id: Q21341049
+ipni_surname: Horikawa
+ipni_forenames: Yoshiwo
+ipni_standard_form: Horik.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Japan
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

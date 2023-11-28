@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0356
+tl2_volume: vol5
+tl2_page_printed: 381
+tl2_surname: Schultze
+tl2_forenames: A.G.R.
+tl2_name_abbrev: A. Schultze
+tl2_dates: fl. 1840
+tl2_page_id: 33333520
+author_lsid: 9299-1
+wikidata_id: Q36510262
+ipni_surname: Schultze
+ipni_forenames: A.G.R.
+ipni_standard_form: A.Schultze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

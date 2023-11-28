@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0171
+tl2_volume: suppl2
+tl2_page_printed: 150
+tl2_surname: Bevis
+tl2_forenames: James Frederick
+tl2_name_abbrev: J.F. Bevis
+tl2_dates: fl. 1909-1911
+tl2_page_id: 33265347
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

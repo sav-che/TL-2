@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0961
+tl2_volume: vol2
+tl2_page_printed: 815
+tl2_surname: Legendre
+tl2_forenames: Charles Valentin Alexandre
+tl2_name_abbrev: Legendre
+tl2_dates: 1841-1935
+tl2_page_id: 33069057
+author_lsid: 5418-1
+wikidata_id: Q21518578
+ipni_surname: Legendre
+ipni_forenames: Charles Valentin Alexandre
+ipni_standard_form: Legendre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

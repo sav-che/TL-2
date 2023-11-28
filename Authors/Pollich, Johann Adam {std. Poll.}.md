@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0391
+tl2_volume: vol4
+tl2_page_printed: 330
+tl2_surname: Pollich
+tl2_forenames: Johann Adam
+tl2_name_abbrev: Poll.
+tl2_dates: 1740-1780
+tl2_page_id: 33189801
+author_lsid: 7818-1
+wikidata_id: Q68935
+ipni_surname: Pollich
+ipni_forenames: Johann Adam
+ipni_standard_form: Pollich
+ipni_dates: 1740-1780
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

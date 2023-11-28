@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0784
+tl2_volume: vol4
+tl2_page_printed: 794
+tl2_surname: Riley
+tl2_forenames: John
+tl2_name_abbrev: J. Riley
+tl2_dates: x-1846
+tl2_page_id: 33190265
+author_lsid: 8398-1
+wikidata_id: Q5933553
+ipni_surname: Riley
+ipni_forenames: John
+ipni_standard_form: Riley
+ipni_dates: c.1796-1846
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:10.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33190265) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

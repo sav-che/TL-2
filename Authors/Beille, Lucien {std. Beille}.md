@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0052
+tl2_volume: suppl2
+tl2_page_printed: 57
+tl2_surname: Beille
+tl2_forenames: Lucien
+tl2_name_abbrev: Beille
+tl2_dates: 1862-1946
+tl2_page_id: 33265254
+author_lsid: 623-1
+wikidata_id: Q19949728
+ipni_surname: Beille
+ipni_forenames: Lucien
+ipni_standard_form: Beille
+ipni_dates: 1862-1946
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265254) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

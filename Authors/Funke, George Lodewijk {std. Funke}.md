@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0061
+tl2_volume: suppl8
+tl2_page_printed: 79
+tl2_surname: Funke
+tl2_forenames: George Lodewijk
+tl2_name_abbrev: Funke
+tl2_dates: 1896-1946
+tl2_page_id: 33258557
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33258557) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

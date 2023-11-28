@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0663
+tl2_volume: vol3
+tl2_page_printed: 575
+tl2_surname: Morandi
+tl2_forenames: Giambattista (Giovanni Battista)
+tl2_name_abbrev: Morandi
+tl2_dates: fl. 1744
+tl2_page_id: 33355662
+author_lsid: 6628-1
+wikidata_id: Q36565554
+ipni_surname: Morandi
+ipni_forenames: Giambattista (Giovanni Battista)
+ipni_standard_form: Morandi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

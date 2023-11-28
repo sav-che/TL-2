@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0314
+tl2_volume: suppl3
+tl2_page_printed: 316
+tl2_surname: Calloni
+tl2_forenames: Silvio
+tl2_name_abbrev: Calloni
+tl2_dates: 1851-1931
+tl2_page_id: 33266623
+author_lsid: 1363-1
+wikidata_id: Q21391113
+ipni_surname: Calloni
+ipni_forenames: Silvio
+ipni_standard_form: Calloni
+ipni_dates: 1850-1931
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

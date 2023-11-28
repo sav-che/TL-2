@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0739
+tl2_volume: vol3
+tl2_page_printed: 626
+tl2_surname: Müller
+tl2_forenames: Heinrich Ludwig Hermann [Hermann Müller von Lippstadt]
+tl2_name_abbrev: H. Müll.
+tl2_dates: 1829-1883
+tl2_page_id: 33355713
+author_lsid: 6735-1
+wikidata_id: Q68738
+ipni_surname: Müller
+ipni_forenames: Heinrich Ludwig Hermann
+ipni_standard_form: H.Müll.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.3
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

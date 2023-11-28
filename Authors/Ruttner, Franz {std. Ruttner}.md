@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1042
+tl2_volume: vol4
+tl2_page_printed: 1011
+tl2_surname: Ruttner
+tl2_forenames: Franz
+tl2_name_abbrev: Ruttner
+tl2_dates: 1882-1961
+tl2_page_id: 33190482
+author_lsid: 8763-1
+wikidata_id: Q105508
+ipni_surname: Ruttner
+ipni_forenames: Franz
+ipni_standard_form: Ruttner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

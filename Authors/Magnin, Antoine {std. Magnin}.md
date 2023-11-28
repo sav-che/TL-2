@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0266
+tl2_volume: vol3
+tl2_page_printed: 242
+tl2_surname: Magnin
+tl2_forenames: Antoine
+tl2_name_abbrev: Magnin
+tl2_dates: 1848-1926
+tl2_page_id: 33355329
+author_lsid: 5981-1
+wikidata_id: Q2854187
+ipni_surname: Magnin
+ipni_forenames: Antoine
+ipni_standard_form: Magnin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33355329) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

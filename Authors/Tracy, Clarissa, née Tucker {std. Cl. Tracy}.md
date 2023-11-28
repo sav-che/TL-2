@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0454
+tl2_volume: vol6
+tl2_page_printed: 424
+tl2_surname: Tracy
+tl2_forenames: Clarissa, née Tucker
+tl2_name_abbrev: Cl. Tracy
+tl2_dates: 1818-1905
+tl2_page_id: 33212466
+author_lsid: 12942-1
+wikidata_id: Q21610922
+ipni_surname: Tracy
+ipni_forenames: Clarissa
+ipni_standard_form: C.Tracy
+ipni_dates: 1818-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2016-02-02 01:45:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0359
+tl2_volume: suppl1
+tl2_page_printed: 321
+tl2_surname: Barbieri
+tl2_forenames: Paolo
+tl2_name_abbrev: Barbieri
+tl2_dates: 1789-1875
+tl2_page_id: 33265048
+author_lsid: 34859-1
+wikidata_id: Q21505649
+ipni_surname: Barbieri
+ipni_forenames: Paolo
+ipni_standard_form: Barbieri
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

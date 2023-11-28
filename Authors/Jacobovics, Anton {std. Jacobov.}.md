@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0441
+tl2_volume: vol2
+tl2_page_printed: 401
+tl2_surname: Jacobovics
+tl2_forenames: Anton
+tl2_name_abbrev: Jacobov.
+tl2_dates: fl. 1835
+tl2_page_id: 33068643
+author_lsid: 4375-1
+wikidata_id: Q36503730
+ipni_surname: Jacobovics
+ipni_forenames: Anton
+ipni_standard_form: Jacobov.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

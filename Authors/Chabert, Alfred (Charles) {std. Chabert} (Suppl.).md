@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0021
+tl2_volume: suppl4
+tl2_page_printed: 30
+tl2_surname: Chabert
+tl2_forenames: Alfred [Charles]
+tl2_name_abbrev: Chabert
+tl2_dates: 1836-1916
+tl2_page_id: 33265707
+author_lsid: 1487-1
+wikidata_id: Q5667427
+ipni_surname: Chabert
+ipni_forenames: Alfred Charles
+ipni_standard_form: Chabert
+ipni_dates: 1836-1916
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

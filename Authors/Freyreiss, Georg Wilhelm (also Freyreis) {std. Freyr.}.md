@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1098
+tl2_volume: vol1
+tl2_page_printed: 877
+tl2_surname: Freyreiss
+tl2_forenames: Georg Wilhelm (also Freyreis)
+tl2_name_abbrev: Freyr.
+tl2_dates: 1789-1825
+tl2_page_id: 33121008
+author_lsid: 2902-1
+wikidata_id: Q3101335
+ipni_surname: Freyreiss
+ipni_forenames: Georg Wilhelm
+ipni_standard_form: Freyr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

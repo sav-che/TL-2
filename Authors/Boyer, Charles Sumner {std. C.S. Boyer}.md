@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl2_0458
+tl2_volume: suppl2
+tl2_page_printed: 403
+tl2_surname: Boyer
+tl2_forenames: Charles Sumner
+tl2_name_abbrev: C.S. Boyer
+tl2_dates: 1856-1928
+tl2_page_id: 33265600
+author_lsid: 32515-1
+wikidata_id: Q15732136
+ipni_surname: Boyer
+ipni_forenames: Charles S.
+ipni_standard_form: C.S.Boyer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

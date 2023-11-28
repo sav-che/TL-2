@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1172
+tl2_volume: vol1
+tl2_page_printed: 934
+tl2_surname: Gérardin de Mirecourt
+tl2_forenames: Sébastien
+tl2_name_abbrev: Gérardin
+tl2_dates: 1751-1816
+tl2_page_id: 33121065
+author_lsid: 3101-1
+wikidata_id: Q3510118
+ipni_surname: Gérardin
+ipni_forenames: Sébastien
+ipni_standard_form: Gérardin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33121065) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

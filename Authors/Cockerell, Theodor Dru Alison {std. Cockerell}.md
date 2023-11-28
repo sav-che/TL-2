@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol1_0646
+tl2_volume: vol1
+tl2_page_printed: 516
+tl2_surname: Cockerell
+tl2_forenames: Theodor Dru Alison
+tl2_name_abbrev: Cockerell
+tl2_dates: 1866-1948
+tl2_page_id: 33120647
+author_lsid: 1712-1
+wikidata_id: Q2506718
+ipni_surname: Cockerell
+ipni_forenames: Theodore Dru Alison
+ipni_standard_form: Cockerell
+ipni_dates: 1866-1948
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33120647) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

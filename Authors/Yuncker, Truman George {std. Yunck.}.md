@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0457
+tl2_volume: vol7
+tl2_page_printed: 495
+tl2_surname: Yuncker
+tl2_forenames: Truman George
+tl2_name_abbrev: Yunck.
+tl2_dates: 1891-1964
+tl2_page_id: 33066835
+author_lsid: 11964-1
+wikidata_id: Q726241
+ipni_surname: Yuncker
+ipni_forenames: Truman George
+ipni_standard_form: Yunck.
+ipni_dates: 1891-1964
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33066835) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

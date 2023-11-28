@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0394
+tl2_volume: suppl6
+tl2_page_printed: 379
+tl2_surname: Entz
+tl2_forenames: Géza
+tl2_name_abbrev: Entz
+tl2_dates: 1875-1943
+tl2_page_id: 33260367
+author_lsid: 18519-1
+wikidata_id: Q989900
+ipni_surname: Entz
+ipni_forenames: Géza
+ipni_standard_form: Entz
+ipni_dates: 1875-1943
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

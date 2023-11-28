@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0325
+tl2_volume: vol7
+tl2_page_printed: 367
+tl2_surname: Winkler
+tl2_forenames: [Karl Gustaf] Adolf
+tl2_name_abbrev: A. Winkl.
+tl2_dates: 1810-1893
+tl2_page_id: 33066707
+author_lsid: 13019-1
+wikidata_id: Q21612828
+ipni_surname: Winkler
+ipni_forenames: (Karl Gustav) Adolf
+ipni_standard_form: A.Winkl.
+ipni_dates: 1810-1893
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33066707) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

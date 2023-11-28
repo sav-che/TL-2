@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0825
+tl2_volume: vol2
+tl2_page_printed: 705
+tl2_surname: Kurr
+tl2_forenames: Johann Gottlob von
+tl2_name_abbrev: Kurr
+tl2_dates: 1798-1870
+tl2_page_id: 33068947
+author_lsid: 5154-1
+wikidata_id: Q15076888
+ipni_surname: Kurr
+ipni_forenames: Johann Gottlob von
+ipni_standard_form: Kurr
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

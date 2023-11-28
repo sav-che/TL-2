@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0165
+tl2_volume: vol3
+tl2_page_printed: 189
+tl2_surname: Lüscher
+tl2_forenames: Hermann
+tl2_name_abbrev: Lüscher
+tl2_dates: 1859-1920
+tl2_page_id: 33355276
+author_lsid: 5821-1
+wikidata_id: Q21519650
+ipni_surname: Lüscher
+ipni_forenames: Hermann
+ipni_standard_form: Lüscher
+ipni_dates: 1859-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2012-01-16 14:22:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33355276) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

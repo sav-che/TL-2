@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl7_0007
+tl2_volume: suppl7
+tl2_page_printed: 10
+tl2_surname: Fægri
+tl2_forenames: Knut
+tl2_name_abbrev: Faegri
+tl2_dates: 1909-2001
+tl2_page_id: 33259514
+author_lsid: 2617-1
+wikidata_id: Q1384033
+ipni_surname: Faegri
+ipni_forenames: Knut
+ipni_standard_form: Faegri
+ipni_dates: 1909-2001
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Norway
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33259514) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0479
+tl2_volume: vol5
+tl2_page_printed: 495
+tl2_surname: Selbstherr
+tl2_forenames: Carl
+tl2_name_abbrev: Selbstherr
+tl2_dates: fl. 1832
+tl2_page_id: 33333634
+author_lsid: 9451-1
+wikidata_id: Q36530691
+ipni_surname: Selbstherr
+ipni_forenames: Carl
+ipni_standard_form: Selbsth.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

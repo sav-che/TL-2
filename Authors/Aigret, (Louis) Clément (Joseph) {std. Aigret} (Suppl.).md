@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0065
+tl2_volume: suppl1
+tl2_page_printed: 52
+tl2_surname: Aigret
+tl2_forenames: [Louis] Clément [Joseph]
+tl2_name_abbrev: Aigret
+tl2_dates: 1856-1921
+tl2_page_id: 33264741
+author_lsid: 105-1
+wikidata_id: Q10319910
+ipni_surname: Aigret
+ipni_forenames: Louis Clément Joseph
+ipni_standard_form: Aigret
+ipni_dates: 1856-1921
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+- Bryophytes
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33264741) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

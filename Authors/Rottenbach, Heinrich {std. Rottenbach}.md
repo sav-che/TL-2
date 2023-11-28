@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0964
+tl2_volume: vol4
+tl2_page_printed: 932
+tl2_surname: Rottenbach
+tl2_forenames: Heinrich
+tl2_name_abbrev: Rottenbach
+tl2_dates: 1835-1917
+tl2_page_id: 33190403
+author_lsid: 8655-1
+wikidata_id: Q21607467
+ipni_surname: Rottenbach
+ipni_forenames: Heinrich
+ipni_standard_form: Rottenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33190403) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

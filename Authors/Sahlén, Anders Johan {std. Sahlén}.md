@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1074
+tl2_volume: vol4
+tl2_page_printed: 1058
+tl2_surname: Sahlén
+tl2_forenames: Anders Johan
+tl2_name_abbrev: Sahlén
+tl2_dates: 1822-1891
+tl2_page_id: 33190529
+author_lsid: 8813-1
+wikidata_id: Q20670030
+ipni_surname: Sahlén
+ipni_forenames: Anders Johan
+ipni_standard_form: Sahlén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1058](https://www.biodiversitylibrary.org/page/33190529) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

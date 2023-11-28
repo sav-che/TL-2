@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0310
+tl2_volume: suppl1
+tl2_page_printed: 265
+tl2_surname: Bailey
+tl2_forenames: John Frederick
+tl2_name_abbrev: J.F. Bailey
+tl2_dates: 1866-1938
+tl2_page_id: 33264992
+author_lsid: 13245-1
+wikidata_id: Q17064297
+ipni_surname: Bailey
+ipni_forenames: John Frederick
+ipni_standard_form: J.F.Bailey
+ipni_dates: 1866-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

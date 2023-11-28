@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0272
+tl2_volume: vol7
+tl2_page_printed: 293
+tl2_surname: Wilhelm
+tl2_forenames: Gottlieb Tobias
+tl2_name_abbrev: G. Wilh.
+tl2_dates: 1758-1811
+tl2_page_id: 33066633
+author_lsid: 11685-1
+wikidata_id: Q55074155
+ipni_surname: Wilhelm
+ipni_forenames: Gottlieb Tobias
+ipni_standard_form: Wilh.
+ipni_dates: 1758-1811
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

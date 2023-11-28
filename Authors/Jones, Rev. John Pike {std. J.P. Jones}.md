@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0520
+tl2_volume: vol2
+tl2_page_printed: 455
+tl2_surname: Jones
+tl2_forenames: Rev. John Pike
+tl2_name_abbrev: J.P. Jones
+tl2_dates: 1790-1857
+tl2_page_id: 33068697
+author_lsid: 4536-1
+wikidata_id: Q18671903
+ipni_surname: Jones
+ipni_forenames: John Pike
+ipni_standard_form: J.P.Jones
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

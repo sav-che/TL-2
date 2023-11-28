@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0484
+tl2_volume: vol1
+tl2_page_printed: 398
+tl2_surname: Buckman
+tl2_forenames: James
+tl2_name_abbrev: Buckman
+tl2_dates: 1814-1884
+tl2_page_id: 33120529
+author_lsid: 1258-1
+wikidata_id: Q6130450
+ipni_surname: Buckman
+ipni_forenames: James
+ipni_standard_form: Buckman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0441
+tl2_volume: suppl4
+tl2_page_printed: 522
+tl2_surname: Cushman
+tl2_forenames: Joseph Augustine
+tl2_name_abbrev: Cushman
+tl2_dates: 1881-1949
+tl2_page_id: 33266199
+author_lsid: 32848-1
+wikidata_id: Q1706544
+ipni_surname: Cushman
+ipni_forenames: Joseph Augustine
+ipni_standard_form: Cushman
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

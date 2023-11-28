@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0592
+tl2_volume: vol4
+tl2_page_printed: 577
+tl2_surname: Range
+tl2_forenames: Paul Theodor
+tl2_name_abbrev: Range
+tl2_dates: 1879-1952
+tl2_page_id: 33190048
+author_lsid: 8136-1
+wikidata_id: Q21337932
+ipni_surname: Range
+ipni_forenames: Paul Theodor
+ipni_standard_form: Range
+ipni_dates: 1879-1952
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

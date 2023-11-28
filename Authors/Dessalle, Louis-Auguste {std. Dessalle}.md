@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0264
+tl2_volume: suppl5
+tl2_page_printed: 232
+tl2_surname: Dessalle
+tl2_forenames: Louis-Auguste
+tl2_name_abbrev: Dessalle
+tl2_dates: 1855-?
+tl2_page_id: 33259278
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0599
+tl2_volume: vol5
+tl2_page_printed: 604
+tl2_surname: Simler
+tl2_forenames: Rudolf Theodor
+tl2_name_abbrev: Simler
+tl2_dates: 1833-1874
+tl2_page_id: 33333743
+author_lsid: 9659-1
+wikidata_id: Q1678050
+ipni_surname: Simler
+ipni_forenames: Rudolf Theodor
+ipni_standard_form: Simler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33333743) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

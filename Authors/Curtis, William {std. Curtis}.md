@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0729
+tl2_volume: vol1
+tl2_page_printed: 575
+tl2_surname: Curtis
+tl2_forenames: William
+tl2_name_abbrev: Curtis
+tl2_dates: 1746-1799
+tl2_page_id: 33120706
+author_lsid: 1927-1
+wikidata_id: Q460867
+ipni_surname: Curtis
+ipni_forenames: William
+ipni_standard_form: Curtis
+ipni_dates: 1746-1799
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33120706) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

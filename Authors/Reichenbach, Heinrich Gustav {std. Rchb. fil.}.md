@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0677
+tl2_volume: vol4
+tl2_page_printed: 689
+tl2_surname: Reichenbach
+tl2_forenames: Heinrich Gustav
+tl2_name_abbrev: Rchb. fil.
+tl2_dates: 1824-1889
+tl2_page_id: 33190160
+author_lsid: 8254-1
+wikidata_id: Q62820
+ipni_surname: Reichenbach
+ipni_forenames: Heinrich Gustav
+ipni_standard_form: Rchb.f.
+ipni_dates: 1824-1889
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33190160) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

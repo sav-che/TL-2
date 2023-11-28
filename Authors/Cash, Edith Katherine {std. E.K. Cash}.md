@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0407
+tl2_volume: suppl3
+tl2_page_printed: 445
+tl2_surname: Cash
+tl2_forenames: Edith Katherine
+tl2_name_abbrev: E.K. Cash
+tl2_dates: 1890-x
+tl2_page_id: 33266752
+author_lsid: 16961-1
+wikidata_id: Q21338891
+ipni_surname: Cash
+ipni_forenames: Edith Katherine
+ipni_standard_form: E.K.Cash
+ipni_dates: 1890-1992
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

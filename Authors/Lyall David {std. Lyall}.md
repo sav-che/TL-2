@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0189
+tl2_volume: vol3
+tl2_page_printed: 199
+tl2_surname: Lyall David
+tl2_forenames: Lyall David
+tl2_name_abbrev: Lyall
+tl2_dates: 1817-1895
+tl2_page_id: 33355286
+author_lsid: 5861-1
+wikidata_id: Q5236843
+ipni_surname: Lyall
+ipni_forenames: David
+ipni_standard_form: Lyall
+ipni_dates: 1817-1895
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0305
+tl2_volume: suppl4
+tl2_page_printed: 383
+tl2_surname: Cortés
+tl2_forenames: Santiago
+tl2_name_abbrev: Cortés
+tl2_dates: 1854-1924
+tl2_page_id: 33266060
+author_lsid: 1816-1
+wikidata_id: Q20014256
+ipni_surname: Cortés
+ipni_forenames: Santiago
+ipni_standard_form: Cortés
+ipni_dates: 1854-1924
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Colombia
+ipni_version: 1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-09-17 22:27:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33266060) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

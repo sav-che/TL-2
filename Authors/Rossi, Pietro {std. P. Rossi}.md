@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0935
+tl2_volume: vol4
+tl2_page_printed: 904
+tl2_surname: Rossi
+tl2_forenames: Pietro
+tl2_name_abbrev: P. Rossi
+tl2_dates: 1738-1804
+tl2_page_id: 33190375
+author_lsid: 8621-1
+wikidata_id: Q499985
+ipni_surname: Rossi
+ipni_forenames: Pietro
+ipni_standard_form: Rossi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

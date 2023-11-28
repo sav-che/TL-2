@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0502
+tl2_volume: vol1
+tl2_page_printed: 412
+tl2_surname: Burgsdorff
+tl2_forenames: Friedrich August Ludwig von
+tl2_name_abbrev: Burgsd.
+tl2_dates: 1747-1802
+tl2_page_id: 33120543
+author_lsid: 1301-1
+wikidata_id: Q108681
+ipni_surname: Burgsdorff
+ipni_forenames: Friedrich August Ludwig von
+ipni_standard_form: Burgsd.
+ipni_dates: 1747-1802
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0728
+tl2_volume: vol1
+tl2_page_printed: 574
+tl2_surname: Curtis
+tl2_forenames: Samuel
+tl2_name_abbrev: S. Curtis
+tl2_dates: 1779-1860
+tl2_page_id: 33120705
+author_lsid: 1926-1
+wikidata_id: Q13107330
+ipni_surname: Curtis
+ipni_forenames: Samuel
+ipni_standard_form: S.Curtis
+ipni_dates: 1779-1860
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33120705) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

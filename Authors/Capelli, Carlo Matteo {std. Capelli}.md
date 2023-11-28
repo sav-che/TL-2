@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0543
+tl2_volume: vol1
+tl2_page_printed: 453
+tl2_surname: Capelli
+tl2_forenames: Carlo Matteo
+tl2_name_abbrev: Capelli
+tl2_dates: 1763-1831
+tl2_page_id: 33120584
+author_lsid: 1387-1
+wikidata_id: Q13426085
+ipni_surname: Capelli
+ipni_forenames: Carlo Matteo
+ipni_standard_form: Capelli
+ipni_dates: 1763-1831
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

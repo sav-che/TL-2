@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1087
+tl2_volume: vol4
+tl2_page_printed: 1078
+tl2_surname: Saint-Moulin
+tl2_forenames: Vincentius Josephus de
+tl2_name_abbrev: Saint-Moulin
+tl2_dates: 1804-1837
+tl2_page_id: 33190549
+author_lsid: 8833-1
+wikidata_id: Q21607623
+ipni_surname: Saint-Moulin
+ipni_forenames: Vincentius Josephus de
+ipni_standard_form: St.-Moul.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

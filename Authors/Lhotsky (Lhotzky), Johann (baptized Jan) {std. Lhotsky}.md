@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol3_0002
+tl2_volume: vol3
+tl2_page_printed: 5
+tl2_surname: Lhotsky [Lhotzky]
+tl2_forenames: Johann [baptized Jan]
+tl2_name_abbrev: Lhotsky
+tl2_dates: 1800-1860's
+tl2_page_id: 33355122
+author_lsid: 5551-1
+wikidata_id: Q9012388
+ipni_surname: Lhotsky
+ipni_forenames: Johann(Jan)
+ipni_standard_form: Lhotsky
+ipni_dates: 1800-1860s
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Australia
+- Brazil
+- Hungary
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33355122) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

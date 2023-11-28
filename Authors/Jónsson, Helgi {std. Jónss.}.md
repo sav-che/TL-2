@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0526
+tl2_volume: vol2
+tl2_page_printed: 460
+tl2_surname: Jónsson
+tl2_forenames: Helgi
+tl2_name_abbrev: Jónss.
+tl2_dates: 1867-1925
+tl2_page_id: 33068702
+author_lsid: 4548-1
+wikidata_id: Q9002441
+ipni_surname: Jónsson
+ipni_forenames: Helgi
+ipni_standard_form: Jónss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Iceland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1166
+tl2_volume: vol1
+tl2_page_printed: 932
+tl2_surname: Georgi
+tl2_forenames: Johann Gottlieb
+tl2_name_abbrev: Georgi
+tl2_dates: 1729-1802
+tl2_page_id: 33121063
+author_lsid: 3093-1
+wikidata_id: Q77432
+ipni_surname: Georgi
+ipni_forenames: Johann Gottlieb
+ipni_standard_form: Georgi
+ipni_dates: 1729-1802
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

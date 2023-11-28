@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0203
+tl2_volume: vol5
+tl2_page_printed: 222
+tl2_surname: Schlickum
+tl2_forenames: Oscar
+tl2_name_abbrev: O. Schlickum
+tl2_dates: 1838-1889
+tl2_page_id: 33333361
+author_lsid: 9124-1
+wikidata_id: Q21608059
+ipni_surname: Schlickum
+ipni_forenames: Oskar
+ipni_standard_form: O.Schlick.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

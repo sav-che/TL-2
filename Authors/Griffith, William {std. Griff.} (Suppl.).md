@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl8_0272
+tl2_volume: suppl8
+tl2_page_printed: 385
+tl2_surname: Griffith
+tl2_forenames: William
+tl2_name_abbrev: Griff.
+tl2_dates: 1810-1845
+tl2_page_id: 33258863
+author_lsid: 3387-1
+wikidata_id: Q11705310
+ipni_surname: Griffith
+ipni_forenames: William
+ipni_standard_form: Griff.
+ipni_dates: 1810-1845
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33258863) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0713
+tl2_volume: vol6
+tl2_page_printed: 730
+tl2_surname: Vierhapper
+tl2_forenames: Friedrich
+tl2_name_abbrev: Vierh. sen.
+tl2_dates: 1844-1903
+tl2_page_id: 33212772
+author_lsid: 11178-1
+wikidata_id: Q11928581
+ipni_surname: Vierhapper
+ipni_forenames: Friedrich
+ipni_standard_form: F.Vierh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,33 @@
+---
+tl2_entry_id: tl2_vol2_0378
+tl2_volume: vol2
+tl2_page_printed: 354
+tl2_surname: Hudson
+tl2_forenames: William
+tl2_name_abbrev: Huds.
+tl2_dates: 1730-1793
+tl2_page_id: 33068596
+author_lsid: 4198-1
+wikidata_id: Q982798
+ipni_surname: Hudson
+ipni_forenames: William
+ipni_standard_form: Huds.
+ipni_dates: 1730-1793
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:33.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

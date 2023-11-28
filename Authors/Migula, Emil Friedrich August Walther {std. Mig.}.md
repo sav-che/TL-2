@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0562
+tl2_volume: vol3
+tl2_page_printed: 474
+tl2_surname: Migula
+tl2_forenames: Emil Friedrich August Walther
+tl2_name_abbrev: Mig.
+tl2_dates: 1863-1938
+tl2_page_id: 33355561
+author_lsid: 23368-1
+wikidata_id: Q73247
+ipni_surname: Migula
+ipni_forenames: Emil Friedrich August Walther
+ipni_standard_form: Mig.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33355561) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

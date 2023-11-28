@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0488
+tl2_volume: vol5
+tl2_page_printed: 499
+tl2_surname: Seiland
+tl2_forenames: Sjur Knutsen
+tl2_name_abbrev: Selland
+tl2_dates: 1867-1920
+tl2_page_id: 33333638
+author_lsid: 9462-1
+wikidata_id: Q21608648
+ipni_surname: Selland
+ipni_forenames: Sjur Knutsen
+ipni_standard_form: Selland
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

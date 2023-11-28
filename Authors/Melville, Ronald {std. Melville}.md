@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0486
+tl2_volume: vol3
+tl2_page_printed: 411
+tl2_surname: Melville
+tl2_forenames: Ronald
+tl2_name_abbrev: Melville
+tl2_dates: 1903-x
+tl2_page_id: 33355498
+author_lsid: 6340-1
+wikidata_id: Q7365114
+ipni_surname: Melville
+ipni_forenames: Ronald
+ipni_standard_form: Melville
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Australia
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

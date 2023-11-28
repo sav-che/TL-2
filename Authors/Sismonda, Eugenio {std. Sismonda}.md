@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0627
+tl2_volume: vol5
+tl2_page_printed: 623
+tl2_surname: Sismonda
+tl2_forenames: Eugenio
+tl2_name_abbrev: Sismonda
+tl2_dates: 1815-1870
+tl2_page_id: 33333762
+author_lsid: 9705-1
+wikidata_id: Q21608993
+ipni_surname: Sismonda
+ipni_forenames: Eugenio
+ipni_standard_form: Sismonda
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

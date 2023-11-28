@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0863
+tl2_volume: vol3
+tl2_page_printed: 737
+tl2_surname: Newman
+tl2_forenames: Edward
+tl2_name_abbrev: Newm.
+tl2_dates: 1801-1876
+tl2_page_id: 33355824
+author_lsid: 6950-1
+wikidata_id: Q1231633
+ipni_surname: Newman
+ipni_forenames: Edward
+ipni_standard_form: Newman
+ipni_dates: 1801-1876
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33355824) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

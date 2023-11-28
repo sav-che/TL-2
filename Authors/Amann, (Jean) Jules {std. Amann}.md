@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0119
+tl2_volume: suppl1
+tl2_page_printed: 93
+tl2_surname: Amann
+tl2_forenames: [Jean] Jules
+tl2_name_abbrev: Amann
+tl2_dates: 1859-1939
+tl2_page_id: 33264820
+author_lsid: 30820-1
+wikidata_id: Q21505154
+ipni_surname: Amann
+ipni_forenames: Jean Jules
+ipni_standard_form: J.J.Amann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

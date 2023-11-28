@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0050
+tl2_volume: vol1
+tl2_page_printed: 38
+tl2_surname: Alston
+tl2_forenames: Arthur Hugh Garfit
+tl2_name_abbrev: Alston
+tl2_dates: 1902-1958
+tl2_page_id: 33120169
+author_lsid: 170-1
+wikidata_id: Q674391
+ipni_surname: Alston
+ipni_forenames: Arthur Hugh Garfit
+ipni_standard_form: Alston
+ipni_dates: 1902-1958
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-14 13:46:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33120169) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

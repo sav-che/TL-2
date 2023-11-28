@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0427
+tl2_volume: vol5
+tl2_page_printed: 452
+tl2_surname: Scoffern
+tl2_forenames: John
+tl2_name_abbrev: Scoffern
+tl2_dates: 1814-1882
+tl2_page_id: 33333591
+author_lsid: 9382-1
+wikidata_id: Q21608557
+ipni_surname: Scoffern
+ipni_forenames: John
+ipni_standard_form: Scoffern
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

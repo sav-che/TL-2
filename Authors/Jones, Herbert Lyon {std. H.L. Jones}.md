@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0519
+tl2_volume: vol2
+tl2_page_printed: 455
+tl2_surname: Jones
+tl2_forenames: Herbert Lyon
+tl2_name_abbrev: H.L. Jones
+tl2_dates: 1866-1898
+tl2_page_id: 33068697
+author_lsid: 4535-1
+wikidata_id: Q21517108
+ipni_surname: Jones
+ipni_forenames: Herbert Lyon
+ipni_standard_form: H.L.Jones
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0034
+tl2_volume: suppl1
+tl2_page_printed: 24
+tl2_surname: Adams
+tl2_forenames: John
+tl2_name_abbrev: J. Adams
+tl2_dates: 1872-1950
+tl2_page_id: 33264751
+author_lsid: 20002779-1
+wikidata_id: Q10307799
+ipni_surname: Adams
+ipni_forenames: John
+ipni_standard_form: J.Adams
+ipni_dates: 1872-1950
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+- Canada
+ipni_version: 1.1.2.2.4.1
+ipni_record_created: 2005-01-07 11:07:31.0
+ipni_record_modified: 2013-05-15 11:45:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33264751) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0379
+tl2_volume: suppl6
+tl2_page_printed: 337
+tl2_surname: Endert
+tl2_forenames: Frederik Hendrik
+tl2_name_abbrev: Endert
+tl2_dates: 1891-1953
+tl2_page_id: 33260325
+author_lsid: 2534-1
+wikidata_id: Q5499274
+ipni_surname: Endert
+ipni_forenames: Frederik Hendrik
+ipni_standard_form: Endert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33260325) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

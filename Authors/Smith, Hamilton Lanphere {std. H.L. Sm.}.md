@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0679
+tl2_volume: vol5
+tl2_page_printed: 674
+tl2_surname: Smith
+tl2_forenames: Hamilton Lanphere
+tl2_name_abbrev: H.L. Sm.
+tl2_dates: 1819-1903
+tl2_page_id: 33333813
+author_lsid: 9796-1
+wikidata_id: Q5645042
+ipni_surname: Smith
+ipni_forenames: Hamilton Lanphere
+ipni_standard_form: H.L.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33333813) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

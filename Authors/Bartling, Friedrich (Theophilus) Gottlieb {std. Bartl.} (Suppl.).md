@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0401
+tl2_volume: suppl1
+tl2_page_printed: 347
+tl2_surname: Bartling
+tl2_forenames: Friedrich [Theophilus] Gottlieb
+tl2_name_abbrev: Bartl.
+tl2_dates: 1798-1875
+tl2_page_id: 33265074
+author_lsid: 514-1
+wikidata_id: Q76340
+ipni_surname: Bartling
+ipni_forenames: Friedrich Gottlieb
+ipni_standard_form: Bartl.
+ipni_dates: 1798-1875
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33265074) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

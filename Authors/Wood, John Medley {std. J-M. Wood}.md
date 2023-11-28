@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0389
+tl2_volume: vol7
+tl2_page_printed: 438
+tl2_surname: Wood
+tl2_forenames: John Medley
+tl2_name_abbrev: J-M. Wood
+tl2_dates: 1827-1915
+tl2_page_id: 33066778
+author_lsid: 11845-1
+wikidata_id: Q1701052
+ipni_surname: Wood
+ipni_forenames: John Medley
+ipni_standard_form: J.M.Wood
+ipni_dates: 1827-1915
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

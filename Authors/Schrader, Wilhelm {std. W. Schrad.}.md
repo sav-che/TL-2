@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0313
+tl2_volume: vol5
+tl2_page_printed: 321
+tl2_surname: Schrader
+tl2_forenames: Wilhelm
+tl2_name_abbrev: W. Schrad.
+tl2_dates: 1818-1895
+tl2_page_id: 33333460
+author_lsid: 9251-1
+wikidata_id: Q21608407
+ipni_surname: Schrader
+ipni_forenames: Wilhelm
+ipni_standard_form: W.Schrad.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

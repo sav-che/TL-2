@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol5_0310
+tl2_volume: vol5
+tl2_page_printed: 316
+tl2_surname: Schrader
+tl2_forenames: Heinrich Adolph
+tl2_name_abbrev: Schrad.
+tl2_dates: 1767-1836
+tl2_page_id: 33333455
+author_lsid: 9250-1
+wikidata_id: Q62591
+ipni_surname: Schrader
+ipni_forenames: Heinrich Adolph
+ipni_standard_form: Schrad.
+ipni_dates: 1767-1836
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33333455) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0128
+tl2_volume: vol6
+tl2_page_printed: 110
+tl2_surname: Svensson
+tl2_forenames: Harry Gustaf
+tl2_name_abbrev: H.G. Svens.
+tl2_dates: 1894-1959
+tl2_page_id: 33212152
+author_lsid: 35144-1
+wikidata_id: Q21610081
+ipni_surname: Svensson
+ipni_forenames: Harry Gustaf
+ipni_standard_form: H.G.Svenss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33212152) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

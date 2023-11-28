@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0965
+tl2_volume: vol2
+tl2_page_printed: 817
+tl2_surname: Legué
+tl2_forenames: Alphonse Marie Léon
+tl2_name_abbrev: Legué
+tl2_dates: 1841-1920
+tl2_page_id: 33069059
+author_lsid: 5425-1
+wikidata_id: Q21518585
+ipni_surname: Legué
+ipni_forenames: Alphonse Marie Léon
+ipni_standard_form: Legué
+ipni_dates: 1841-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-03-08 11:45:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

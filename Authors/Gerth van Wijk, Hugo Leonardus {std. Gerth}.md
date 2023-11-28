@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1176
+tl2_volume: vol1
+tl2_page_printed: 936
+tl2_surname: Gerth van Wijk
+tl2_forenames: Hugo Leonardus
+tl2_name_abbrev: Gerth
+tl2_dates: 1849-1921
+tl2_page_id: 33121067
+author_lsid: 3110-1
+wikidata_id: Q21513942
+ipni_surname: Gerth van Wijk
+ipni_forenames: Hugo Leonardus
+ipni_standard_form: Gerth
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

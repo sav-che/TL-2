@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0891
+tl2_volume: vol2
+tl2_page_printed: 754
+tl2_surname: Lantzius-Béninga
+tl2_forenames: Georg Boyung Scato
+tl2_name_abbrev: Lantz.-Bén.
+tl2_dates: 1815-1871
+tl2_page_id: 33068996
+author_lsid: 5275-1
+wikidata_id: Q21485192
+ipni_surname: Lantzius-Béninga
+ipni_forenames: Georg Boyung Scato
+ipni_standard_form: Lantz.-Bén.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

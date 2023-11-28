@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0374
+tl2_volume: vol4
+tl2_page_printed: 317
+tl2_surname: Pohl
+tl2_forenames: Julius
+tl2_name_abbrev: Jul. Pohl
+tl2_dates: 1861-1939
+tl2_page_id: 33189788
+author_lsid: 7785-1
+wikidata_id: Q21523065
+ipni_surname: Pohl
+ipni_forenames: Julius
+ipni_standard_form: J.Pohl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

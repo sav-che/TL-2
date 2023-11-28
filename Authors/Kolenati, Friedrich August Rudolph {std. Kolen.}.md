@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0746
+tl2_volume: vol2
+tl2_page_printed: 609
+tl2_surname: Kolenati
+tl2_forenames: Friedrich August Rudolph
+tl2_name_abbrev: Kolen.
+tl2_dates: 1812-1864
+tl2_page_id: 33068851
+author_lsid: 4941-1
+wikidata_id: Q79162
+ipni_surname: Kolenati
+ipni_forenames: Friedrich August (Anton) Rudolf
+ipni_standard_form: Kolen.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

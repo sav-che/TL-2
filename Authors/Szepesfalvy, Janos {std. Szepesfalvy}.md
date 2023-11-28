@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0159
+tl2_volume: vol6
+tl2_page_printed: 144
+tl2_surname: Szepesfalvy
+tl2_forenames: Janos
+tl2_name_abbrev: Szepesfalvy
+tl2_dates: 1882-1959
+tl2_page_id: 33212186
+author_lsid: 10369-1
+wikidata_id: Q21610133
+ipni_surname: Szepesfalvy
+ipni_forenames: Janos
+ipni_standard_form: Szep.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

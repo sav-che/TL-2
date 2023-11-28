@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0249
+tl2_volume: vol7
+tl2_page_printed: 267
+tl2_surname: Wierzbicki
+tl2_forenames: Peter [baptised Petrus Paulus Wirzbicki]
+tl2_name_abbrev: Wierzb.
+tl2_dates: 
+tl2_page_id: 33066607
+author_lsid: 11651-1
+wikidata_id: Q6076533
+ipni_surname: Wierzbicki
+ipni_forenames: Piotr Pawlus (Peter(Petrus) Paulus)
+ipni_standard_form: Wierzb.
+ipni_dates: 30 Apr 1794- 5 Feb 1847
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2019-04-25 10:40:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33066607) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

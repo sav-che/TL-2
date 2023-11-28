@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0085
+tl2_volume: suppl1
+tl2_page_printed: 64
+tl2_surname: Alderwerelt van Rosenburgh
+tl2_forenames: Cornelis Rogier Willem Karel
+tl2_name_abbrev: Alderw.
+tl2_dates: 1863-1936
+tl2_page_id: 33264791
+author_lsid: 125-1
+wikidata_id: Q723907
+ipni_surname: Alderwerelt van Rosenburgh
+ipni_forenames: Cornelis Rugier Willem Karel van
+ipni_standard_form: Alderw.
+ipni_dates: 1863-1936
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

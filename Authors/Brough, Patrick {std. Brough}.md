@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0113
+tl2_volume: suppl3
+tl2_page_printed: 131
+tl2_surname: Brough
+tl2_forenames: Patrick
+tl2_name_abbrev: Brough
+tl2_dates: 1885-?
+tl2_page_id: 33266438
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33266438) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

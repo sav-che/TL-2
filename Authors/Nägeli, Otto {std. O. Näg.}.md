@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0800
+tl2_volume: vol3
+tl2_page_printed: 685
+tl2_surname: Nägeli
+tl2_forenames: Otto
+tl2_name_abbrev: O. Näg.
+tl2_dates: 1871-1938
+tl2_page_id: 33355772
+author_lsid: 6833-1
+wikidata_id: Q6054730
+ipni_surname: Nägeli
+ipni_forenames: Otto
+ipni_standard_form: O.Nägeli
+ipni_dates: 1871-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2007-07-06 06:28:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33355772) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

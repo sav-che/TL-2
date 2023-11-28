@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0742
+tl2_volume: vol4
+tl2_page_printed: 755
+tl2_surname: Rhode
+tl2_forenames: Johann Gottlieb
+tl2_name_abbrev: Rhode
+tl2_dates: 1762-1827
+tl2_page_id: 33190226
+author_lsid: 8335-1
+wikidata_id: Q21607154
+ipni_surname: Rhode
+ipni_forenames: Johann Gottlieb
+ipni_standard_form: Rhode
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

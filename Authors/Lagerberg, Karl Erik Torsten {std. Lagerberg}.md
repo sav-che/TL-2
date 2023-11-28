@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0850
+tl2_volume: vol2
+tl2_page_printed: 722
+tl2_surname: Lagerberg
+tl2_forenames: Karl Erik Torsten
+tl2_name_abbrev: Lagerberg
+tl2_dates: 1882-x
+tl2_page_id: 33068964
+author_lsid: 5206-1
+wikidata_id: Q21518303
+ipni_surname: Lagerberg
+ipni_forenames: Karl Erik Torsten
+ipni_standard_form: Lagerb.
+ipni_dates: 1882-1970
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33068964) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

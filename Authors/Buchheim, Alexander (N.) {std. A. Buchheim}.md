@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0189
+tl2_volume: suppl3
+tl2_page_printed: 195
+tl2_surname: Buchheim
+tl2_forenames: Alexander [N.]
+tl2_name_abbrev: A. Buchheim
+tl2_dates: 1886-?
+tl2_page_id: 33266502
+author_lsid: 16659-1
+wikidata_id: Q47114770
+ipni_surname: Buchheim
+ipni_forenames: A.
+ipni_standard_form: A.Buchheim
+ipni_dates: fl. 1924
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

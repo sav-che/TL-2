@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0168
+tl2_volume: vol3
+tl2_page_printed: 190
+tl2_surname: Luetzelburg
+tl2_forenames: Philipp von
+tl2_name_abbrev: Luetzelb.
+tl2_dates: 1880-1948
+tl2_page_id: 33355277
+author_lsid: 5824-1
+wikidata_id: Q4272397
+ipni_surname: Luetzelburg
+ipni_forenames: Philipp von
+ipni_standard_form: Luetzelb.
+ipni_dates: 1880-1948
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Brazil
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

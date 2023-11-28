@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0318
+tl2_volume: vol4
+tl2_page_printed: 267
+tl2_surname: Pilous
+tl2_forenames: Zdnek
+tl2_name_abbrev: Pilous
+tl2_dates: 1912-x
+tl2_page_id: 33189738
+author_lsid: 7706-1
+wikidata_id: Q21523015
+ipni_surname: Pilous
+ipni_forenames: Zdeněk
+ipni_standard_form: Pilous
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

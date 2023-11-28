@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0062
+tl2_volume: suppl1
+tl2_page_printed: 50
+tl2_surname: Ahnfelt
+tl2_forenames: Nils Otto
+tl2_name_abbrev: Ahnfelt
+tl2_dates: 1801-1837
+tl2_page_id: 33264739
+author_lsid: 30705-1
+wikidata_id: Q5544426
+ipni_surname: Ahnfelt
+ipni_forenames: Nicolaus (`Nils') Otto
+ipni_standard_form: Ahnf.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

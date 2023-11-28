@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0685
+tl2_volume: vol5
+tl2_page_printed: 677
+tl2_surname: Smith
+tl2_forenames: Huron Herbert
+tl2_name_abbrev: Hu.H. Sm.
+tl2_dates: 1883-1933
+tl2_page_id: 33333816
+author_lsid: 9801-1
+wikidata_id: Q21609113
+ipni_surname: Smith
+ipni_forenames: Huron Herbert
+ipni_standard_form: Hur.H.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 677](https://www.biodiversitylibrary.org/page/33333816) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

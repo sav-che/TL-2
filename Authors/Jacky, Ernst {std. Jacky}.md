@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0439
+tl2_volume: vol2
+tl2_page_printed: 400
+tl2_surname: Jacky
+tl2_forenames: Ernst
+tl2_name_abbrev: Jacky
+tl2_dates: 1874-?
+tl2_page_id: 33068642
+author_lsid: 4369-1
+wikidata_id: Q21516857
+ipni_surname: Jacky
+ipni_forenames: Ernst(Ernest)
+ipni_standard_form: Jacky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

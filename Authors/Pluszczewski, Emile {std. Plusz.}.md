@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0359
+tl2_volume: vol4
+tl2_page_printed: 304
+tl2_surname: Pluszczewski
+tl2_forenames: Emile
+tl2_name_abbrev: Plusz.
+tl2_dates: 1855-?
+tl2_page_id: 33189775
+author_lsid: 7768-1
+wikidata_id: Q21523056
+ipni_surname: Pluszczewski
+ipni_forenames: Emile
+ipni_standard_form: Pluszcz.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

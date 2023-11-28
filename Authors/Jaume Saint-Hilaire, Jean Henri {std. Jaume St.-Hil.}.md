@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0477
+tl2_volume: vol2
+tl2_page_printed: 429
+tl2_surname: Jaume Saint-Hilaire
+tl2_forenames: Jean Henri
+tl2_name_abbrev: Jaume St.-Hil.
+tl2_dates: 1772-1845
+tl2_page_id: 33068671
+author_lsid: 8828-1
+wikidata_id: Q2596093
+ipni_surname: Saint-Hilaire
+ipni_forenames: Jean Henri Jaume
+ipni_standard_form: J.St.-Hil.
+ipni_dates: 1772-1845
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:59.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33068671) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

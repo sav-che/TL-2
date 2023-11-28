@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0105
+tl2_volume: vol3
+tl2_page_printed: 145
+tl2_surname: Löw
+tl2_forenames: Immanuel
+tl2_name_abbrev: I. Löw
+tl2_dates: 1854-1944
+tl2_page_id: 33355232
+author_lsid: 5712-1
+wikidata_id: Q434073
+ipni_surname: Löw
+ipni_forenames: Immanuel
+ipni_standard_form: I.Löw
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

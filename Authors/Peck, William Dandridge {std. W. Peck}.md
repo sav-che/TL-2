@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0147
+tl2_volume: vol4
+tl2_page_printed: 142
+tl2_surname: Peck
+tl2_forenames: William Dandridge
+tl2_name_abbrev: W. Peck
+tl2_dates: 1763-1822
+tl2_page_id: 33189613
+author_lsid: 7452-1
+wikidata_id: Q3568538
+ipni_surname: Peck
+ipni_forenames: William Dandridge
+ipni_standard_form: W.Peck
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33189613) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

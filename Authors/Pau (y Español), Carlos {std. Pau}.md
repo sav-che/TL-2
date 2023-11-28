@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0115
+tl2_volume: vol4
+tl2_page_printed: 107
+tl2_surname: Pau [y Español]
+tl2_forenames: Carlos
+tl2_name_abbrev: Pau
+tl2_dates: 1857-1937
+tl2_page_id: 33189578
+author_lsid: 7401-1
+wikidata_id: Q2328400
+ipni_surname: Pau
+ipni_forenames: Carlos
+ipni_standard_form: Pau
+ipni_dates: 1857-1937
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

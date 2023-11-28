@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0152
+tl2_volume: vol4
+tl2_page_printed: 145
+tl2_surname: Pehersdorfer
+tl2_forenames: Anna
+tl2_name_abbrev: Pehersd.
+tl2_dates: 1849-1925
+tl2_page_id: 33189616
+author_lsid: 7467-1
+wikidata_id: Q21522762
+ipni_surname: Pehersdorfer
+ipni_forenames: Anna
+ipni_standard_form: Pehersd.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

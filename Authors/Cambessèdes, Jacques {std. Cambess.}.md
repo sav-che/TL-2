@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0530
+tl2_volume: vol1
+tl2_page_printed: 427
+tl2_surname: Cambessèdes
+tl2_forenames: Jacques
+tl2_name_abbrev: Cambess.
+tl2_dates: 1799-1863
+tl2_page_id: 33120558
+author_lsid: 1370-1
+wikidata_id: Q2616946
+ipni_surname: Cambessèdes
+ipni_forenames: Jacques
+ipni_standard_form: Cambess.
+ipni_dates: 1799-1863
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33120558) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

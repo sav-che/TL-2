@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0041
+tl2_volume: vol2
+tl2_page_printed: 33
+tl2_surname: Hamberg
+tl2_forenames: Knut Herman Rudolf
+tl2_name_abbrev: Hamb.
+tl2_dates: 1873-1920
+tl2_page_id: 33068275
+author_lsid: 3593-1
+wikidata_id: Q21514588
+ipni_surname: Hamberg
+ipni_forenames: Knut Hermann Rudolf
+ipni_standard_form: Hamb.
+ipni_dates: 1873-1920
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

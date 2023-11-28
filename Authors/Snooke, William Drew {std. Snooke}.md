@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0705
+tl2_volume: vol5
+tl2_page_printed: 711
+tl2_surname: Snooke
+tl2_forenames: William Drew
+tl2_name_abbrev: Snooke
+tl2_dates: 1787-1857
+tl2_page_id: 33333850
+author_lsid: 9840-1
+wikidata_id: Q21609152
+ipni_surname: Snooke
+ipni_forenames: William Drew
+ipni_standard_form: Snooke
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

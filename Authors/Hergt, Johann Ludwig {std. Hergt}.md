@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0198
+tl2_volume: vol2
+tl2_page_printed: 169
+tl2_surname: Hergt
+tl2_forenames: Johann Ludwig
+tl2_name_abbrev: Hergt
+tl2_dates: fl. 1822
+tl2_page_id: 33068411
+author_lsid: 3870-1
+wikidata_id: Q36591553
+ipni_surname: Hergt
+ipni_forenames: Johann Ludwig
+ipni_standard_form: Hergt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

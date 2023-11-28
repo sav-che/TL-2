@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0920
+tl2_volume: vol4
+tl2_page_printed: 893
+tl2_surname: Rosendahl
+tl2_forenames: Henrik Viktor
+tl2_name_abbrev: H. Rosend.
+tl2_dates: 1855-1918
+tl2_page_id: 33190364
+author_lsid: 8597-1
+wikidata_id: Q6079687
+ipni_surname: Rosendahl
+ipni_forenames: Henrik Viktor
+ipni_standard_form: H.Rosend.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

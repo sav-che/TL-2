@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0002
+tl2_volume: vol7
+tl2_page_printed: 2
+tl2_surname: Wacker
+tl2_forenames: Hermann
+tl2_name_abbrev: Wacker
+tl2_dates: x-1899
+tl2_page_id: 33066304
+author_lsid: 11286-1
+wikidata_id: Q21611932
+ipni_surname: Wacker
+ipni_forenames: Hermann
+ipni_standard_form: Wacker
+ipni_dates: 1829 -1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:06.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33066304) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

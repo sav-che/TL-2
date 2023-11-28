@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0652
+tl2_volume: vol2
+tl2_page_printed: 547
+tl2_surname: Kinney
+tl2_forenames: Abbot
+tl2_name_abbrev: Kinney
+tl2_dates: 1850-1920
+tl2_page_id: 33068789
+author_lsid: 4800-1
+wikidata_id: Q4664207
+ipni_surname: Kinney
+ipni_forenames: Abbot
+ipni_standard_form: Kinney
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

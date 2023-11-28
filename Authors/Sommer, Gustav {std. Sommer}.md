@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0730
+tl2_volume: vol5
+tl2_page_printed: 736
+tl2_surname: Sommer
+tl2_forenames: Gustav
+tl2_name_abbrev: Sommer
+tl2_dates: fl. 1886
+tl2_page_id: 33333875
+author_lsid: 9883-1
+wikidata_id: Q33693934
+ipni_surname: Sommer
+ipni_forenames: Gustav
+ipni_standard_form: Sommer
+ipni_dates: fl. 1886
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:12.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33333875) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_1015
+tl2_volume: vol3
+tl2_page_printed: 853
+tl2_surname: Osten
+tl2_forenames: Cornelius
+tl2_name_abbrev: Osten
+tl2_dates: 1863-1936
+tl2_page_id: 33355940
+author_lsid: 7188-1
+wikidata_id: Q13592594
+ipni_surname: Osten
+ipni_forenames: Cornelius
+ipni_standard_form: Osten
+ipni_dates: 1863-1936
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Uruguay
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

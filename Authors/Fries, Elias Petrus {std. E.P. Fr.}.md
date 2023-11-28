@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1103
+tl2_volume: vol1
+tl2_page_printed: 888
+tl2_surname: Fries
+tl2_forenames: Elias Petrus
+tl2_name_abbrev: E.P. Fr.
+tl2_dates: 1834-1858
+tl2_page_id: 33121019
+author_lsid: 2914-1
+wikidata_id: Q21513545
+ipni_surname: Fries
+ipni_forenames: Elias Petrus
+ipni_standard_form: E.P.Fr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33121019) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

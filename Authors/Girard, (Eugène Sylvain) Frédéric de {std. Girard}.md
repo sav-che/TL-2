@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0182
+tl2_volume: suppl8
+tl2_page_printed: 230
+tl2_surname: Girard
+tl2_forenames: [Eugène Sylvain] Frédéric de
+tl2_name_abbrev: Girard
+tl2_dates: 1809-1850
+tl2_page_id: 33258708
+author_lsid: 3171-1
+wikidata_id: Q5869960
+ipni_surname: Girard
+ipni_forenames: Frédéric de
+ipni_standard_form: Girard
+ipni_dates: 1810-1851
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

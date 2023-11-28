@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0265
+tl2_volume: vol5
+tl2_page_printed: 275
+tl2_surname: Schneider
+tl2_forenames: Joseph [Josef]
+tl2_name_abbrev: Jos. Schneid. Traunst.
+tl2_dates: fl. 1890
+tl2_page_id: 33333414
+author_lsid: 9196-1
+wikidata_id: Q36598817
+ipni_surname: Schneider
+ipni_forenames: Joseph(Josef)
+ipni_standard_form: J.Schneid.bis
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

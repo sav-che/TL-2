@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0532
+tl2_volume: vol4
+tl2_page_printed: 452
+tl2_surname: Quehl
+tl2_forenames: Leopold
+tl2_name_abbrev: Quehl
+tl2_dates: 1849-1922
+tl2_page_id: 33189923
+author_lsid: 8046-1
+wikidata_id: Q965166
+ipni_surname: Quehl
+ipni_forenames: Leopold
+ipni_standard_form: Quehl
+ipni_dates: 1849-1922
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

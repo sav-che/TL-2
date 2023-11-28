@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0299
+tl2_volume: vol1
+tl2_page_printed: 227
+tl2_surname: Blainville
+tl2_forenames: Henri Marie Ducrotay de
+tl2_name_abbrev: Blainville
+tl2_dates: 1777-1850
+tl2_page_id: 33120358
+author_lsid: 32452-1
+wikidata_id: Q44691
+ipni_surname: Blainville
+ipni_forenames: Henri Marie Ducrotay de
+ipni_standard_form: Blainv.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

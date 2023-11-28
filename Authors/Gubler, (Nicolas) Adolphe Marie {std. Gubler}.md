@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0314
+tl2_volume: suppl8
+tl2_page_printed: 434
+tl2_surname: Gubler
+tl2_forenames: [Nicolas] Adolphe Marie
+tl2_name_abbrev: Gubler
+tl2_dates: 1821-1879
+tl2_page_id: 33258912
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33258912) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

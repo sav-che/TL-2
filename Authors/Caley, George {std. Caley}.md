@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0525
+tl2_volume: vol1
+tl2_page_printed: 425
+tl2_surname: Caley
+tl2_forenames: George
+tl2_name_abbrev: Caley
+tl2_dates: 1770?-1829
+tl2_page_id: 33120556
+author_lsid: 1358-1
+wikidata_id: Q955988
+ipni_surname: Caley
+ipni_forenames: George
+ipni_standard_form: Caley
+ipni_dates: 1770-1829
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Saint Vincent and the Grenadines
+- Australia
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:48.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33120556) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

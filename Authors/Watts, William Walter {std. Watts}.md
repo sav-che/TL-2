@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0109
+tl2_volume: vol7
+tl2_page_printed: 109
+tl2_surname: Watts
+tl2_forenames: William Walter
+tl2_name_abbrev: Watts
+tl2_dates: 1856-1920
+tl2_page_id: 33066449
+author_lsid: 11444-1
+wikidata_id: Q3569020
+ipni_surname: Watts
+ipni_forenames: William Walter
+ipni_standard_form: Watts
+ipni_dates: 1856-1920
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:57.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

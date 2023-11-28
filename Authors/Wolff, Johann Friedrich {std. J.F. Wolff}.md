@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0377
+tl2_volume: vol7
+tl2_page_printed: 423
+tl2_surname: Wolff
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: J.F. Wolff
+tl2_dates: 1778-1806
+tl2_page_id: 33066763
+author_lsid: 13529-1
+wikidata_id: Q111396
+ipni_surname: Wolff
+ipni_forenames: Johann Friedrich
+ipni_standard_form: J.F.Wolff
+ipni_dates: 1778-1806
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0940
+tl2_volume: vol4
+tl2_page_printed: 910
+tl2_surname: Roster
+tl2_forenames: Giorgio
+tl2_name_abbrev: Roster
+tl2_dates: x-1968
+tl2_page_id: 33190381
+author_lsid: 8630-1
+wikidata_id: Q21607449
+ipni_surname: Roster
+ipni_forenames: Giorgio
+ipni_standard_form: Roster
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

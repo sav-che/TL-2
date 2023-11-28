@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0251
+tl2_volume: vol5
+tl2_page_printed: 265
+tl2_surname: Schmucker
+tl2_forenames: Theodor
+tl2_name_abbrev: Schmucker
+tl2_dates: 1895-1970
+tl2_page_id: 33333404
+author_lsid: 9179-1
+wikidata_id: Q2418253
+ipni_surname: Schmucker
+ipni_forenames: Theodor
+ipni_standard_form: Schmucker
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

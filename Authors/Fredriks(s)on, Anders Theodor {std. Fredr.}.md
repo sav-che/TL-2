@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0264
+tl2_volume: suppl7
+tl2_page_printed: 396
+tl2_surname: Fredriks[s]on
+tl2_forenames: Anders Theodor
+tl2_name_abbrev: Fredr.
+tl2_dates: 1868-1905
+tl2_page_id: 33259900
+author_lsid: 2891-1
+wikidata_id: Q21513498
+ipni_surname: Fredrickson
+ipni_forenames: Anders Theodor
+ipni_standard_form: Fredr.
+ipni_dates: 1868-1905
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33259900) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

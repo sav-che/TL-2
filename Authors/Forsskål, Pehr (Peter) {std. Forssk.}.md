@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_1068
+tl2_volume: vol1
+tl2_page_printed: 855
+tl2_surname: Forsskål
+tl2_forenames: Pehr (Peter)
+tl2_name_abbrev: Forssk.
+tl2_dates: 1732-1763
+tl2_page_id: 33120986
+author_lsid: 12502-1
+wikidata_id: Q27684
+ipni_surname: Forsskål
+ipni_forenames: Pehr
+ipni_standard_form: Forssk.
+ipni_dates: 1732-1763
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+- Finland
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-04-05 14:13:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

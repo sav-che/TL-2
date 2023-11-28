@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0958
+tl2_volume: vol2
+tl2_page_printed: 814
+tl2_surname: Lefroy
+tl2_forenames: Sir John Henry
+tl2_name_abbrev: Lefr.
+tl2_dates: 1817-1890
+tl2_page_id: 33069056
+author_lsid: 12641-1
+wikidata_id: Q6238868
+ipni_surname: Lefroy
+ipni_forenames: John Henry
+ipni_standard_form: Lefroy
+ipni_dates: 1817-1890
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- Bermuda
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

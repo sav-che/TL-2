@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0505
+tl2_volume: vol1
+tl2_page_printed: 413
+tl2_surname: Burman
+tl2_forenames: Johannes
+tl2_name_abbrev: J. Burm.
+tl2_dates: 1707-1779
+tl2_page_id: 33120544
+author_lsid: 1307-1
+wikidata_id: Q957115
+ipni_surname: Burman
+ipni_forenames: Johannes
+ipni_standard_form: Burm.
+ipni_dates: 1706-1779
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33120544) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

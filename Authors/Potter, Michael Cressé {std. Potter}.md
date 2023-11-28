@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol4_0439
+tl2_volume: vol4
+tl2_page_printed: 364
+tl2_surname: Potter
+tl2_forenames: Michael Cressé
+tl2_name_abbrev: Potter
+tl2_dates: 1858-1948
+tl2_page_id: 33189835
+author_lsid: 7891-1
+wikidata_id: Q21523151
+ipni_surname: Potter
+ipni_forenames: Michael Cressé
+ipni_standard_form: Potter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

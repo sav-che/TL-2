@@ -1,5 +1,32 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+---
+tl2_entry_id: tl2_vol1_0002
+tl2_volume: vol1
+tl2_page_printed: 1
+tl2_surname: Abel
+tl2_forenames: Clarke
+tl2_name_abbrev: C. Abel
+tl2_dates: 1789-1826
+tl2_page_id: 33120094
+author_lsid: 34-1
+wikidata_id: Q158174
+ipni_surname: Abel
+ipni_forenames: Clarke
+ipni_standard_form: C.Abel
+ipni_dates: 1789-1826
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- China
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-06-02 11:09:10.0
+---
+
+
+> [!cite] This entry starts at page 1 of TL-2 Vol. I.
+> Links: [page at BHL](https://www.biodiversitylibrary.org/page/33120094), [author at IPNI](https://www.ipni.org/a/34-1), [author at Wikidata](https://www.wikidata.org/wiki/Q158174) , [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abel, Clarke {std. C. Abel} (Suppl.)|second entry]] for this author
 

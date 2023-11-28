@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0144
+tl2_volume: vol5
+tl2_page_printed: 133
+tl2_surname: Schenckel
+tl2_forenames: J.
+tl2_name_abbrev: Schenckel
+tl2_dates: fl. 1847
+tl2_page_id: 33333272
+author_lsid: 9051-1
+wikidata_id: Q36598704
+ipni_surname: Schenckel
+ipni_forenames: J.
+ipni_standard_form: Schenckel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33333272) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

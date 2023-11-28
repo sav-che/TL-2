@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_1027
+tl2_volume: vol2
+tl2_page_printed: 861
+tl2_surname: Leuba
+tl2_forenames: Fritz
+tl2_name_abbrev: Leuba
+tl2_dates: 1848-1910
+tl2_page_id: 33069103
+author_lsid: 5525-1
+wikidata_id: Q21518729
+ipni_surname: Leuba
+ipni_forenames: Fritz
+ipni_standard_form: Leuba
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

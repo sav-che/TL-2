@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0008
+tl2_volume: suppl4
+tl2_page_printed: 19
+tl2_surname: Celan
+tl2_forenames: Maria [Marie]
+tl2_name_abbrev: Celan
+tl2_dates: fl. 1935-1938
+tl2_page_id: 33265696
+author_lsid: 32662-1
+wikidata_id: Q36621916
+ipni_surname: Celan
+ipni_forenames: Maria (Marie) S.
+ipni_standard_form: Celan
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

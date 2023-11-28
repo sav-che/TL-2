@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0691
+tl2_volume: vol5
+tl2_page_printed: 701
+tl2_surname: Smith
+tl2_forenames: John Jay
+tl2_name_abbrev: J. Jay Sm.
+tl2_dates: 1798-1881
+tl2_page_id: 33333840
+author_lsid: 9807-1
+wikidata_id: Q21609117
+ipni_surname: Smith
+ipni_forenames: John Jay
+ipni_standard_form: J.Jay Sm.
+ipni_dates: 1798-1881
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33333840) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0489
+tl2_volume: vol4
+tl2_page_printed: 407
+tl2_surname: Prior
+tl2_forenames: Richard Chandler Alexander (formerly Alexander)
+tl2_name_abbrev: Prior
+tl2_dates: 1809-1902
+tl2_page_id: 33189878
+author_lsid: 12751-1
+wikidata_id: Q21523277
+ipni_surname: Prior
+ipni_forenames: Richard Chandler Alexander
+ipni_standard_form: Prior
+ipni_dates: 1809-1902
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:46.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

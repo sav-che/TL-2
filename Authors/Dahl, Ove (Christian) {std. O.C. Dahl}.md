@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0013
+tl2_volume: suppl5
+tl2_page_printed: 9
+tl2_surname: Dahl
+tl2_forenames: Ove [Christian]
+tl2_name_abbrev: O.C. Dahl
+tl2_dates: 1862-1940
+tl2_page_id: 33259055
+author_lsid: 1954-1
+wikidata_id: Q5615062
+ipni_surname: Dahl
+ipni_forenames: Ove Christian
+ipni_standard_form: O.C.Dahl
+ipni_dates: 1862-1940
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259055) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

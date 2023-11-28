@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0176
+tl2_volume: vol5
+tl2_page_printed: 174
+tl2_surname: Schinne
+tl2_forenames: Isaac Evert Cornells van
+tl2_name_abbrev: Schinne
+tl2_dates: 1741-1819
+tl2_page_id: 33333313
+author_lsid: 9096-1
+wikidata_id: Q21607976
+ipni_surname: Schinne
+ipni_forenames: Isaac Evert Cornelis van
+ipni_standard_form: Schinne
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

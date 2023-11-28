@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0817
+tl2_volume: vol2
+tl2_page_printed: 691
+tl2_surname: Kummer
+tl2_forenames: Georg
+tl2_name_abbrev: G. Kumm.
+tl2_dates: 1885-1954
+tl2_page_id: 33068933
+author_lsid: 5133-1
+wikidata_id: Q21518172
+ipni_surname: Kummer
+ipni_forenames: Georg
+ipni_standard_form: G.Kumm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33068933) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

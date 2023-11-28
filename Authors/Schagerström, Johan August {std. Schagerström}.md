@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0123
+tl2_volume: vol5
+tl2_page_printed: 115
+tl2_surname: Schagerström
+tl2_forenames: Johan August
+tl2_name_abbrev: Schagerström
+tl2_dates: 1818-1867
+tl2_page_id: 33333254
+author_lsid: 9012-1
+wikidata_id: Q21607857
+ipni_surname: Schagerström
+ipni_forenames: Johan August
+ipni_standard_form: Schag.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33333254) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

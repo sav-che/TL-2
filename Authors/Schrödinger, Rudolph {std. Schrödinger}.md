@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0330
+tl2_volume: vol5
+tl2_page_printed: 338
+tl2_surname: Schrödinger
+tl2_forenames: Rudolph
+tl2_name_abbrev: Schrödinger
+tl2_dates: 1857-1919
+tl2_page_id: 33333477
+author_lsid: 9268-1
+wikidata_id: Q586137
+ipni_surname: Schrödinger
+ipni_forenames: Rudolf
+ipni_standard_form: Schrödinger
+ipni_dates: 1857-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33333477) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

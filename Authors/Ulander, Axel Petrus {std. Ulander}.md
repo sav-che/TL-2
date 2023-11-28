@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0581
+tl2_volume: vol6
+tl2_page_printed: 571
+tl2_surname: Ulander
+tl2_forenames: Axel Petrus
+tl2_name_abbrev: Ulander
+tl2_dates: 1874-?
+tl2_page_id: 33212613
+author_lsid: 10966-1
+wikidata_id: Q21611219
+ipni_surname: Ulander
+ipni_forenames: Axel Petrus
+ipni_standard_form: Ulander
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

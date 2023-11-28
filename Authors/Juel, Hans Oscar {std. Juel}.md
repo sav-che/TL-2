@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0537
+tl2_volume: vol2
+tl2_page_printed: 465
+tl2_surname: Juel
+tl2_forenames: Hans Oscar
+tl2_name_abbrev: Juel
+tl2_dates: 1863-1931
+tl2_page_id: 33068707
+author_lsid: 4568-1
+wikidata_id: Q5893615
+ipni_surname: Juel
+ipni_forenames: Hans Oscar
+ipni_standard_form: Juel
+ipni_dates: 1863-1931
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

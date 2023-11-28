@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0884
+tl2_volume: vol4
+tl2_page_printed: 870
+tl2_surname: Rolfs
+tl2_forenames: Peter Henry
+tl2_name_abbrev: Rolfs
+tl2_dates: 1865-1944
+tl2_page_id: 33190341
+author_lsid: 8551-1
+wikidata_id: Q7174634
+ipni_surname: Rolfs
+ipni_forenames: Peter Henry
+ipni_standard_form: Rolfs
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33190341) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

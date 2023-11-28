@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol4_0880
+tl2_volume: vol4
+tl2_page_printed: 867
+tl2_surname: Roivainen
+tl2_forenames: Heikki
+tl2_name_abbrev: Roivainen
+tl2_dates: 1900-x
+tl2_page_id: 33190338
+author_lsid: 8543-1
+wikidata_id: Q21607347
+ipni_surname: Roivainen
+ipni_forenames: Heikki
+ipni_standard_form: Roiv.
+ipni_dates: 1900-1983
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33190338) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

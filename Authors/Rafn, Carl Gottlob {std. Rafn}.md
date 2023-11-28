@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0565
+tl2_volume: vol4
+tl2_page_printed: 563
+tl2_surname: Rafn
+tl2_forenames: Carl Gottlob
+tl2_name_abbrev: Rafn
+tl2_dates: 1769-1808
+tl2_page_id: 33190034
+author_lsid: 8097-1
+wikidata_id: Q4391034
+ipni_surname: Rafn
+ipni_forenames: Carl Gottlob
+ipni_standard_form: Rafn
+ipni_dates: 1769-1808
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33190034) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

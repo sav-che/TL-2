@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0318
+tl2_volume: vol1
+tl2_page_printed: 246
+tl2_surname: Bodenbender
+tl2_forenames: Wilhelm (Guillermo)
+tl2_name_abbrev: Bodenbender
+tl2_dates: 1857-1941
+tl2_page_id: 33120377
+author_lsid: 890-1
+wikidata_id: Q9001303
+ipni_surname: Bodenbender
+ipni_forenames: Wilhelm
+ipni_standard_form: Bodenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Argentina
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33120377) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl7_0127
+tl2_volume: suppl7
+tl2_page_printed: 197
+tl2_surname: Fiorini-Mazzanti
+tl2_forenames: Elisabetta [Elisabetha] (Contéssa)
+tl2_name_abbrev: Fior.-Mazz.
+tl2_dates: 1799-1879
+tl2_page_id: 33259701
+author_lsid: 18816-1
+wikidata_id: Q1330591
+ipni_surname: Fiorini-Mazzanti
+ipni_forenames: Elisabetta
+ipni_standard_form: Fior.-Mazz.
+ipni_dates: 1799-1879
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:52:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259701) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

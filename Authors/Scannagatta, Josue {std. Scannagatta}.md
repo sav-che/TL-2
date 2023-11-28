@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol5_0102
+tl2_volume: vol5
+tl2_page_printed: 97
+tl2_surname: Scannagatta
+tl2_forenames: Josue
+tl2_name_abbrev: Scannagatta
+tl2_dates: 1773-1823
+tl2_page_id: 33333236
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

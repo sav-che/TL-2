@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0399
+tl2_volume: vol5
+tl2_page_printed: 421
+tl2_surname: Schwann
+tl2_forenames: Theodor
+tl2_name_abbrev: Schwann
+tl2_dates: 1810-1882
+tl2_page_id: 33333560
+author_lsid: 9351-1
+wikidata_id: Q76745
+ipni_surname: Schwann
+ipni_forenames: Theodor
+ipni_standard_form: Schwann
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33333560) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

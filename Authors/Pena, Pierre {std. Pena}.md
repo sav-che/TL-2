@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0162
+tl2_volume: vol4
+tl2_page_printed: 149
+tl2_surname: Pena
+tl2_forenames: Pierre
+tl2_name_abbrev: Pena
+tl2_dates: fl. 1520-1600
+tl2_page_id: 33189620
+author_lsid: 7480-1
+wikidata_id: Q647384
+ipni_surname: Pena
+ipni_forenames: Pierre
+ipni_standard_form: Pena
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0394
+tl2_volume: vol2
+tl2_page_printed: 372
+tl2_surname: Hunt
+tl2_forenames: Willis Roberts
+tl2_name_abbrev: W. Hunt
+tl2_dates: 1893-x
+tl2_page_id: 33068614
+author_lsid: 4235-1
+wikidata_id: Q21516663
+ipni_surname: Hunt
+ipni_forenames: Willis Roberts
+ipni_standard_form: W.R.Hunt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

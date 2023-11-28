@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0982
+tl2_volume: vol4
+tl2_page_printed: 952
+tl2_surname: Rowntree
+tl2_forenames: Lester (Gertrud Ellen Lester)
+tl2_name_abbrev: Rowntree
+tl2_dates: 1879-1979
+tl2_page_id: 33190423
+author_lsid: 8680-1
+wikidata_id: Q16749847
+ipni_surname: Rowntree
+ipni_forenames: Gertrude Ellen Lester
+ipni_standard_form: Rowntree
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

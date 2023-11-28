@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol1_0416
+tl2_volume: vol1
+tl2_page_printed: 315
+tl2_surname: Bremekamp
+tl2_forenames: Cornelis Elisa Bertus
+tl2_name_abbrev: Bremek.
+tl2_dates: 1888-x
+tl2_page_id: 33120446
+author_lsid: 1115-1
+wikidata_id: Q5171231
+ipni_surname: Bremekamp
+ipni_forenames: Cornelis Eliza Bertus
+ipni_standard_form: Bremek.
+ipni_dates: 1888-1984
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+- Indonesia
+- Netherlands
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0285
+tl2_volume: suppl5
+tl2_page_printed: 251
+tl2_surname: Devez
+tl2_forenames: G.
+tl2_name_abbrev: Devez
+tl2_dates: fl. 1922
+tl2_page_id: 33259297
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

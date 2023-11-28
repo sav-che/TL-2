@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0119
+tl2_volume: vol6
+tl2_page_printed: 95
+tl2_surname: Suringar
+tl2_forenames: Gerard Conrad Bernard
+tl2_name_abbrev: G. Suringar
+tl2_dates: 1802-1874
+tl2_page_id: 33212137
+author_lsid: 10305-1
+wikidata_id: Q15445687
+ipni_surname: Suringar
+ipni_forenames: Gerard Conrad Bernard
+ipni_standard_form: G.Suringar
+ipni_dates: 1802-1874
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

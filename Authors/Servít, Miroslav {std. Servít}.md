@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0513
+tl2_volume: vol5
+tl2_page_printed: 524
+tl2_surname: Servít
+tl2_forenames: Miroslav
+tl2_name_abbrev: Servít
+tl2_dates: 1886-1959
+tl2_page_id: 33333663
+author_lsid: 9512-1
+wikidata_id: Q20901815
+ipni_surname: Servít
+ipni_forenames: Miroslav
+ipni_standard_form: Servít
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

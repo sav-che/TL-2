@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0183
+tl2_volume: suppl2
+tl2_page_printed: 158
+tl2_surname: Bidwill
+tl2_forenames: John Carne
+tl2_name_abbrev: Bidwill
+tl2_dates: 1815-1853
+tl2_page_id: 33265355
+author_lsid: 13880-1
+wikidata_id: Q3181203
+ipni_surname: Bidwill
+ipni_forenames: John Carne
+ipni_standard_form: Bidwill
+ipni_dates: 1815-1853
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- New Zealand
+- Australia
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33265355) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

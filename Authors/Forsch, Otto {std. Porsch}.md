@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0413
+tl2_volume: vol4
+tl2_page_printed: 341
+tl2_surname: Forsch
+tl2_forenames: Otto
+tl2_name_abbrev: Porsch
+tl2_dates: 1875-1959
+tl2_page_id: 33189812
+author_lsid: 7858-1
+wikidata_id: Q7109785
+ipni_surname: Porsch
+ipni_forenames: Otto
+ipni_standard_form: Porsch
+ipni_dates: 1875-1959
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33189812) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

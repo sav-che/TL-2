@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0104
+tl2_volume: vol1
+tl2_page_printed: 72
+tl2_surname: Ascherson
+tl2_forenames: Ferdinand Moritz
+tl2_name_abbrev: F. Ascherson
+tl2_dates: 1798-1879
+tl2_page_id: 33120203
+author_lsid: 306-1
+wikidata_id: Q21505375
+ipni_surname: Ascherson
+ipni_forenames: Ferdinand Moritz
+ipni_standard_form: F.Asch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

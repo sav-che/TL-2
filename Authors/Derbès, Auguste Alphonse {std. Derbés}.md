@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_vol1_0802
+tl2_volume: vol1
+tl2_page_printed: 625
+tl2_surname: Derbès
+tl2_forenames: Auguste Alphonse
+tl2_name_abbrev: Derbés
+tl2_dates: 1818-1894
+tl2_page_id: 33120756
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33120756) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

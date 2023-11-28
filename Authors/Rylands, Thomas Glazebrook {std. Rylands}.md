@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_1049
+tl2_volume: vol4
+tl2_page_printed: 1019
+tl2_surname: Rylands
+tl2_forenames: Thomas Glazebrook
+tl2_name_abbrev: Rylands
+tl2_dates: 1818-1900
+tl2_page_id: 33190490
+author_lsid: 8772-1
+wikidata_id: Q21607583
+ipni_surname: Rylands
+ipni_forenames: Thomas Glazebrook
+ipni_standard_form: Rylands
+ipni_dates: 1818-1900
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33190490) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

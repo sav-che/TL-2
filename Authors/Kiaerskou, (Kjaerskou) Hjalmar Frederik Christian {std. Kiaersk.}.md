@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0632
+tl2_volume: vol2
+tl2_page_printed: 533
+tl2_surname: Kiaerskou
+tl2_forenames: (Kjaerskou) Hjalmar Frederik Christian
+tl2_name_abbrev: Kiaersk.
+tl2_dates: 1835-1900
+tl2_page_id: 33068775
+author_lsid: 4767-1
+wikidata_id: Q1621321
+ipni_surname: Kiaerskov
+ipni_forenames: Hjalmar Frederik Christian
+ipni_standard_form: Kiaersk.
+ipni_dates: 1835-1900
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

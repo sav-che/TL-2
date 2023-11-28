@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0811
+tl2_volume: vol1
+tl2_page_printed: 636
+tl2_surname: Detharding
+tl2_forenames: Georg Gustav
+tl2_name_abbrev: Dethard.
+tl2_dates: 1765-1838
+tl2_page_id: 33120767
+author_lsid: 2162-1
+wikidata_id: Q20171567
+ipni_surname: Detharding
+ipni_forenames: Georg Gustav
+ipni_standard_form: Dethard.
+ipni_dates: 1765-1838
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

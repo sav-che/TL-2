@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0744
+tl2_volume: vol4
+tl2_page_printed: 756
+tl2_surname: Ricasoli
+tl2_forenames: Vincenzo, barone
+tl2_name_abbrev: Ricasoli
+tl2_dates: 1814-1891
+tl2_page_id: 33190227
+author_lsid: 8339-1
+wikidata_id: Q4013477
+ipni_surname: Ricasoli
+ipni_forenames: Vincenzo
+ipni_standard_form: Ricasoli
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

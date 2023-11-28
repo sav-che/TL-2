@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl5_0342
+tl2_volume: suppl5
+tl2_page_printed: 340
+tl2_surname: Dillwyn
+tl2_forenames: Lewis Weston
+tl2_name_abbrev: Dillwyn
+tl2_dates: 1778-1855
+tl2_page_id: 33259386
+author_lsid: 2213-1
+wikidata_id: Q438932
+ipni_surname: Dillwyn
+ipni_forenames: Lewis Weston
+ipni_standard_form: Dillwyn
+ipni_dates: 1778-1855
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

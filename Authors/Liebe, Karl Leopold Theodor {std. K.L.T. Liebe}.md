@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0013
+tl2_volume: vol3
+tl2_page_printed: 11
+tl2_surname: Liebe
+tl2_forenames: Karl Leopold Theodor
+tl2_name_abbrev: K.L.T. Liebe
+tl2_dates: 1828-1894
+tl2_page_id: 33355116
+author_lsid: 5574-1
+wikidata_id: Q123167
+ipni_surname: Liebe
+ipni_forenames: Karl Leopold Theodor
+ipni_standard_form: K.L.T.Liebe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

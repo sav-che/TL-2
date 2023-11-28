@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0104
+tl2_volume: suppl7
+tl2_page_printed: 165
+tl2_surname: Ferrière
+tl2_forenames: Émile
+tl2_name_abbrev: Ferrière
+tl2_dates: 1830-1900
+tl2_page_id: 33259669
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

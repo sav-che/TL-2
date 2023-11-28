@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0671
+tl2_volume: vol5
+tl2_page_printed: 669
+tl2_surname: Smith
+tl2_forenames: Christopher Parker
+tl2_name_abbrev: Chr.P. Sm.
+tl2_dates: 1835-1892
+tl2_page_id: 33333808
+author_lsid: 9781-1
+wikidata_id: Q21609076
+ipni_surname: Smith
+ipni_forenames: Christopher Parker
+ipni_standard_form: Chr.P.Sm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

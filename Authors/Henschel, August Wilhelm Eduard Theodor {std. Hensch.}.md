@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0188
+tl2_volume: vol2
+tl2_page_printed: 162
+tl2_surname: Henschel
+tl2_forenames: August Wilhelm Eduard Theodor
+tl2_name_abbrev: Hensch.
+tl2_dates: 1790-1856
+tl2_page_id: 33068404
+author_lsid: 3855-1
+wikidata_id: Q120079
+ipni_surname: Henschel
+ipni_forenames: August Wilhelm Eduard Theodor
+ipni_standard_form: Hensch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

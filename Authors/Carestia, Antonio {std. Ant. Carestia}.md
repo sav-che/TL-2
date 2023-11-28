@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0370
+tl2_volume: suppl3
+tl2_page_printed: 412
+tl2_surname: Carestia
+tl2_forenames: Antonio
+tl2_name_abbrev: Ant. Carestia
+tl2_dates: 1825-1908
+tl2_page_id: 33266719
+author_lsid: 14308-1
+wikidata_id: Q1111111
+ipni_surname: Carestia
+ipni_forenames: Antonio
+ipni_standard_form: Carestia
+ipni_dates: 1825-1908
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

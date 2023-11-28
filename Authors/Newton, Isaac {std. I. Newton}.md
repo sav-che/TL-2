@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0865
+tl2_volume: vol3
+tl2_page_printed: 738
+tl2_surname: Newton
+tl2_forenames: Isaac
+tl2_name_abbrev: I. Newton
+tl2_dates: 1840-1906
+tl2_page_id: 33355825
+author_lsid: 6953-1
+wikidata_id: Q5920600
+ipni_surname: Newton
+ipni_forenames: Isaac
+ipni_standard_form: Newton
+ipni_dates: 1840-1906
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Portugal
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

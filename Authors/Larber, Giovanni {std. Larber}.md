@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0899
+tl2_volume: vol2
+tl2_page_printed: 760
+tl2_surname: Larber
+tl2_forenames: Giovanni
+tl2_name_abbrev: Larber
+tl2_dates: 1785-1845
+tl2_page_id: 33069002
+author_lsid: 5289-1
+wikidata_id: Q21518393
+ipni_surname: Larber
+ipni_forenames: Giovanni
+ipni_standard_form: Larber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

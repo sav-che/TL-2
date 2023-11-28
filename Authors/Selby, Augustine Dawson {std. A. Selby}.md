@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0480
+tl2_volume: vol5
+tl2_page_printed: 496
+tl2_surname: Selby
+tl2_forenames: Augustine Dawson
+tl2_name_abbrev: A. Selby
+tl2_dates: 1859-1924
+tl2_page_id: 33333635
+author_lsid: 9452-1
+wikidata_id: Q21608639
+ipni_surname: Selby
+ipni_forenames: Augustine Dawson
+ipni_standard_form: A.Selby
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

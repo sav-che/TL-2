@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0134
+tl2_volume: vol7
+tl2_page_printed: 142
+tl2_surname: Weed
+tl2_forenames: Clarence Moores
+tl2_name_abbrev: Weed
+tl2_dates: 1864-1947
+tl2_page_id: 33066482
+author_lsid: 11482-1
+wikidata_id: Q21612346
+ipni_surname: Weed
+ipni_forenames: Clarence Moores
+ipni_standard_form: Weed
+ipni_dates: 1864-1943
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:49.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

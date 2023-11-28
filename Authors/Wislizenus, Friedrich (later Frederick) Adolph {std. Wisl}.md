@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0347
+tl2_volume: vol7
+tl2_page_printed: 391
+tl2_surname: Wislizenus
+tl2_forenames: Friedrich [later Frederick] Adolph
+tl2_name_abbrev: Wisl
+tl2_dates: 1810-1889
+tl2_page_id: 33066731
+author_lsid: 13022-1
+wikidata_id: Q1458035
+ipni_surname: Wislizenus
+ipni_forenames: Friedrich(Frederick) Adolph
+ipni_standard_form: Wisl.
+ipni_dates: 1810-1889
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Mexico
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33066731) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

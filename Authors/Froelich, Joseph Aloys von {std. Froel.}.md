@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1111
+tl2_volume: vol1
+tl2_page_printed: 893
+tl2_surname: Froelich
+tl2_forenames: Joseph Aloys von
+tl2_name_abbrev: Froel.
+tl2_dates: 1766-1841
+tl2_page_id: 33121024
+author_lsid: 12506-1
+wikidata_id: Q74682
+ipni_surname: Froelich
+ipni_forenames: Joseph Aloys von
+ipni_standard_form: Froel.
+ipni_dates: 1766-1841
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

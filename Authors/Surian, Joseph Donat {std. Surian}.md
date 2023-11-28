@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0118
+tl2_volume: vol6
+tl2_page_printed: 94
+tl2_surname: Surian
+tl2_forenames: Joseph Donat
+tl2_name_abbrev: Surian
+tl2_dates: x-1691
+tl2_page_id: 33212136
+author_lsid: 35145-1
+wikidata_id: Q1422175
+ipni_surname: Surian
+ipni_forenames: Joseph Donat
+ipni_standard_form: Surian
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

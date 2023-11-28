@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0182
+tl2_volume: vol5
+tl2_page_printed: 182
+tl2_surname: Schiøtz
+tl2_forenames: Ludvig Theodor
+tl2_name_abbrev: Schiötz
+tl2_dates: 1821-1900
+tl2_page_id: 33333321
+author_lsid: 9101-1
+wikidata_id: Q12339165
+ipni_surname: Schiøtz
+ipni_forenames: Ludvig Theodor
+ipni_standard_form: Schiøtz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

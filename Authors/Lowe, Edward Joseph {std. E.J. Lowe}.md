@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0144
+tl2_volume: vol3
+tl2_page_printed: 176
+tl2_surname: Lowe
+tl2_forenames: Edward Joseph
+tl2_name_abbrev: E.J. Lowe
+tl2_dates: 1825-1900
+tl2_page_id: 33355263
+author_lsid: 5784-1
+wikidata_id: Q5343850
+ipni_surname: Lowe
+ipni_forenames: Edward Joseph
+ipni_standard_form: E.J.Lowe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33355263) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

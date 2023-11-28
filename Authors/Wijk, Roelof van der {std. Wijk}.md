@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0259
+tl2_volume: vol7
+tl2_page_printed: 283
+tl2_surname: Wijk
+tl2_forenames: Roelof van der
+tl2_name_abbrev: Wijk
+tl2_dates: 1895-1981
+tl2_page_id: 33066623
+author_lsid: 11662-1
+wikidata_id: Q21339565
+ipni_surname: Wijk
+ipni_forenames: Roelof J.van der
+ipni_standard_form: Wijk
+ipni_dates: 1895-1981
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0606
+tl2_volume: vol4
+tl2_page_printed: 583
+tl2_surname: Ráthay
+tl2_forenames: Emerich
+tl2_name_abbrev: Ráthay
+tl2_dates: 1845-1900
+tl2_page_id: 33190054
+author_lsid: 25359-1
+wikidata_id: Q21606987
+ipni_surname: Ráthay
+ipni_forenames: Emerich
+ipni_standard_form: Ráthay
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33190054) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

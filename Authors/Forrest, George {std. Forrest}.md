@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1066
+tl2_volume: vol1
+tl2_page_printed: 854
+tl2_surname: Forrest
+tl2_forenames: George
+tl2_name_abbrev: Forrest
+tl2_dates: 1873-1932
+tl2_page_id: 33120985
+author_lsid: 2829-1
+wikidata_id: Q204566
+ipni_surname: Forrest
+ipni_forenames: George
+ipni_standard_form: Forrest
+ipni_dates: 1873-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- China
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

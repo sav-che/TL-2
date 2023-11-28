@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0317
+tl2_volume: vol2
+tl2_page_printed: 260
+tl2_surname: Holmberg
+tl2_forenames: Otto Rudolf
+tl2_name_abbrev: Holmb.
+tl2_dates: 1874-1930
+tl2_page_id: 33068502
+author_lsid: 4050-1
+wikidata_id: Q6054738
+ipni_surname: Holmberg
+ipni_forenames: Otto Rudolf
+ipni_standard_form: Holmb.
+ipni_dates: 1874-1930
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.2.1.4.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

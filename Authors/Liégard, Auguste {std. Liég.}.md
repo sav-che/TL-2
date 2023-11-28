@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0017
+tl2_volume: vol3
+tl2_page_printed: 14
+tl2_surname: Liégard
+tl2_forenames: Auguste
+tl2_name_abbrev: Liég.
+tl2_dates: 1801?-1892
+tl2_page_id: 33355113
+author_lsid: 5578-1
+wikidata_id: Q21519067
+ipni_surname: Liégard
+ipni_forenames: Auguste
+ipni_standard_form: Liég.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0401
+tl2_volume: suppl3
+tl2_page_printed: 434
+tl2_surname: Carter
+tl2_forenames: William R.
+tl2_name_abbrev: W. Carter
+tl2_dates: fl. 1921
+tl2_page_id: 33266741
+author_lsid: 13565-1
+wikidata_id: Q36700239
+ipni_surname: Carter
+ipni_forenames: William R.
+ipni_standard_form: W.R.Carter
+ipni_dates: fl. 1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266741) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol1_0357
+tl2_volume: vol1
+tl2_page_printed: 274
+tl2_surname: Bonpland
+tl2_forenames: Aimé Jacques Alexandre (Goujaud)
+tl2_name_abbrev: Bonpl.
+tl2_dates: 1773-1858
+tl2_page_id: 33120405
+author_lsid: 12355-1
+wikidata_id: Q405702
+ipni_surname: Bonpland
+ipni_forenames: Aimé Jacques Alexandre
+ipni_standard_form: Bonpl.
+ipni_dates: 1773-1858
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33120405) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

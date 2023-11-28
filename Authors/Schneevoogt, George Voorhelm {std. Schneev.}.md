@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0255
+tl2_volume: vol5
+tl2_page_printed: 267
+tl2_surname: Schneevoogt
+tl2_forenames: George Voorhelm
+tl2_name_abbrev: Schneev.
+tl2_dates: 1775-1850
+tl2_page_id: 33333406
+author_lsid: 12835-1
+wikidata_id: Q21340911
+ipni_surname: Schneevoogt
+ipni_forenames: George Voorhelm
+ipni_standard_form: Schneev.
+ipni_dates: 1775-1850
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:29.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

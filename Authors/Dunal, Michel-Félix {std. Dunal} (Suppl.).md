@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl6_0179
+tl2_volume: suppl6
+tl2_page_printed: 167
+tl2_surname: Dunal
+tl2_forenames: Michel-Félix
+tl2_name_abbrev: Dunal
+tl2_dates: 1789-1856
+tl2_page_id: 33260155
+author_lsid: 2372-1
+wikidata_id: Q957583
+ipni_surname: Dunal
+ipni_forenames: Michel Félix
+ipni_standard_form: Dunal
+ipni_dates: 1789-1856
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33260155) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

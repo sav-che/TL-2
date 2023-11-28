@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0003
+tl2_volume: vol7
+tl2_page_printed: 3
+tl2_surname: Waddell
+tl2_forenames: Coslett Herbert
+tl2_name_abbrev: Waddell
+tl2_dates: 1858-1919
+tl2_page_id: 33066305
+author_lsid: 11288-1
+wikidata_id: Q2725684
+ipni_surname: Waddell
+ipni_forenames: Coslett Herbert
+ipni_standard_form: Waddell
+ipni_dates: 1858-1919
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ireland
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

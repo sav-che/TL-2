@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0199
+tl2_volume: vol3
+tl2_page_printed: 206
+tl2_surname: Maack [Maak]
+tl2_forenames: Richard (Karlovic)
+tl2_name_abbrev: Maack
+tl2_dates: 1825-1886
+tl2_page_id: 33355293
+author_lsid: 5877-1
+wikidata_id: Q699359
+ipni_surname: Maack
+ipni_forenames: Richard Karlovich
+ipni_standard_form: Maack
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33355293) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

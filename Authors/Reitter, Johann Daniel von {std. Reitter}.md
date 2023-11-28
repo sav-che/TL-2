@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0698
+tl2_volume: vol4
+tl2_page_printed: 712
+tl2_surname: Reitter
+tl2_forenames: Johann Daniel von
+tl2_name_abbrev: Reitter
+tl2_dates: 1759-1811
+tl2_page_id: 33190183
+author_lsid: 8280-1
+wikidata_id: Q21607103
+ipni_surname: Reitter
+ipni_forenames: Johann Daniel von
+ipni_standard_form: Reitter
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33190183) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

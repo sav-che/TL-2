@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol3_0627
+tl2_volume: vol3
+tl2_page_printed: 544
+tl2_surname: Mohr
+tl2_forenames: Daniel Matthias Heinrich
+tl2_name_abbrev: D. Mohr
+tl2_dates: 1780-1808
+tl2_page_id: 33355631
+author_lsid: 6564-1
+wikidata_id: Q72903
+ipni_surname: Mohr
+ipni_forenames: Daniel Matthias Heinrich
+ipni_standard_form: D.Mohr
+ipni_dates: 1780-1808
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33355631) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

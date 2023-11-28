@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1177
+tl2_volume: vol1
+tl2_page_printed: 937
+tl2_surname: Gessner
+tl2_forenames: Johannes
+tl2_name_abbrev: Gessner
+tl2_dates: 1709-1790
+tl2_page_id: 33121068
+author_lsid: 3113-1
+wikidata_id: Q117494
+ipni_surname: Gessner
+ipni_forenames: Johannes
+ipni_standard_form: Gessner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.2.1.1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

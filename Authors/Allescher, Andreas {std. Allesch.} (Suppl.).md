@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0099
+tl2_volume: suppl1
+tl2_page_printed: 75
+tl2_surname: Allescher
+tl2_forenames: Andreas
+tl2_name_abbrev: Allesch.
+tl2_dates: 1828-1903
+tl2_page_id: 33264802
+author_lsid: 30787-1
+wikidata_id: Q108017
+ipni_surname: Allescher
+ipni_forenames: Andreas
+ipni_standard_form: Allesch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33264802) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_0452
+tl2_volume: vol1
+tl2_page_printed: 363
+tl2_surname: Brown
+tl2_forenames: John Ednie
+tl2_name_abbrev: J.E. Brown
+tl2_dates: 1848-1899
+tl2_page_id: 33120494
+author_lsid: 1190-1
+wikidata_id: Q15925279
+ipni_surname: Brown
+ipni_forenames: John Ednie
+ipni_standard_form: J.E.Br.
+ipni_dates: 1848-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33120494) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

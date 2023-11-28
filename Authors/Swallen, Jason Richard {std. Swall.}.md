@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol6_0132
+tl2_volume: vol6
+tl2_page_printed: 112
+tl2_surname: Swallen
+tl2_forenames: Jason Richard
+tl2_name_abbrev: Swall.
+tl2_dates: 1903-x
+tl2_page_id: 33212154
+author_lsid: 10331-1
+wikidata_id: Q2370200
+ipni_surname: Swallen
+ipni_forenames: Jason Richard
+ipni_standard_form: Swallen
+ipni_dates: 1903-1991
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33212154) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

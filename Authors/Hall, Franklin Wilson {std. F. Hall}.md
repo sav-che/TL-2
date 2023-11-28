@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0027
+tl2_volume: vol2
+tl2_page_printed: 18
+tl2_surname: Hall
+tl2_forenames: Franklin Wilson
+tl2_name_abbrev: F. Hall
+tl2_dates: 1852-1888
+tl2_page_id: 33068260
+author_lsid: 3570-1
+wikidata_id: Q21514524
+ipni_surname: Hall
+ipni_forenames: Franklin Wilson
+ipni_standard_form: F.W.Hall
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33068260) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

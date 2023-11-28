@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0119
+tl2_volume: vol4
+tl2_page_printed: 112
+tl2_surname: Paull
+tl2_forenames: Charles Leslie Fairbanks
+tl2_name_abbrev: Paull
+tl2_dates: fl. 1904
+tl2_page_id: 33189583
+author_lsid: 7408-1
+wikidata_id: Q36528990
+ipni_surname: Paull
+ipni_forenames: Charles Leslie Fairbanks
+ipni_standard_form: Paull
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

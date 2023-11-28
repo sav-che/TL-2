@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0998
+tl2_volume: vol4
+tl2_page_printed: 969
+tl2_surname: Rudbeck
+tl2_forenames: Olaus [Olof] Olai
+tl2_name_abbrev: O.O. Rudbeck
+tl2_dates: 1660-1740
+tl2_page_id: 33190440
+author_lsid: 8704-1
+wikidata_id: Q740096
+ipni_surname: Rudbeck
+ipni_forenames: Olaus(Olof) Olai
+ipni_standard_form: O.O.Rudbeck
+ipni_dates: 1660-1740
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:40:03.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33190440) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

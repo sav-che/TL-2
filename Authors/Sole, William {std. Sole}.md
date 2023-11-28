@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0720
+tl2_volume: vol5
+tl2_page_printed: 723
+tl2_surname: Sole
+tl2_forenames: William
+tl2_name_abbrev: Sole
+tl2_dates: 1741-1802
+tl2_page_id: 33333862
+author_lsid: 9872-1
+wikidata_id: Q8018602
+ipni_surname: Sole
+ipni_forenames: William
+ipni_standard_form: Sole
+ipni_dates: 1741-1802
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:37.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33333862) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

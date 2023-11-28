@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0342
+tl2_volume: suppl1
+tl2_page_printed: 309
+tl2_surname: Bamber
+tl2_forenames: Charles James
+tl2_name_abbrev: Bamber
+tl2_dates: 1855-1941
+tl2_page_id: 33265036
+author_lsid: 438-1
+wikidata_id: Q21505610
+ipni_surname: Bamber
+ipni_forenames: Charles
+ipni_standard_form: Bamber
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

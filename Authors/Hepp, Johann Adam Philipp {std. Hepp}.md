@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0193
+tl2_volume: vol2
+tl2_page_printed: 164
+tl2_surname: Hepp
+tl2_forenames: Johann Adam Philipp
+tl2_name_abbrev: Hepp
+tl2_dates: 1797-1867
+tl2_page_id: 33068406
+author_lsid: 20208-1
+wikidata_id: Q2086812
+ipni_surname: Hepp
+ipni_forenames: Johann Adam Philipp
+ipni_standard_form: Hepp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Switzerland
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

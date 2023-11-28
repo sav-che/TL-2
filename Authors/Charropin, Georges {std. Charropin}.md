@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0049
+tl2_volume: suppl4
+tl2_page_printed: 56
+tl2_surname: Charropin
+tl2_forenames: Georges
+tl2_name_abbrev: Charropin
+tl2_dates: fl. 1873
+tl2_page_id: 33265733
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265733) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

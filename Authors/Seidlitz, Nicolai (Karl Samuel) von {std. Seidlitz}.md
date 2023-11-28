@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0473
+tl2_volume: vol5
+tl2_page_printed: 493
+tl2_surname: Seidlitz
+tl2_forenames: Nicolai [Karl Samuel] von
+tl2_name_abbrev: Seidlitz
+tl2_dates: 1831-1907
+tl2_page_id: 33333632
+author_lsid: 9443-1
+wikidata_id: Q4190175
+ipni_surname: Seidlitz
+ipni_forenames: Nicolai Karlovič (Karl Samuel)
+ipni_standard_form: Seidlitz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

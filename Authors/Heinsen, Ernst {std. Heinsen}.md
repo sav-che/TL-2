@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0158
+tl2_volume: vol2
+tl2_page_printed: 140
+tl2_surname: Heinsen
+tl2_forenames: Ernst
+tl2_name_abbrev: Heinsen
+tl2_dates: fl. 1894
+tl2_page_id: 33068382
+author_lsid: 3797-1
+wikidata_id: Q47118714
+ipni_surname: Heinsen
+ipni_forenames: Ernst
+ipni_standard_form: Heinsen
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

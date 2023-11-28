@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0022
+tl2_volume: vol6
+tl2_page_printed: 18
+tl2_surname: Stolle
+tl2_forenames: Emil
+tl2_name_abbrev: Stolle
+tl2_dates: 1868-1940
+tl2_page_id: 33212076
+author_lsid: 27250-1
+wikidata_id: Q21609883
+ipni_surname: Stolle
+ipni_forenames: Emil
+ipni_standard_form: Stolle
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0020
+tl2_volume: vol2
+tl2_page_printed: 14
+tl2_surname: Hahn
+tl2_forenames: Gotthold
+tl2_name_abbrev: G. Hahn
+tl2_dates: fl. 1875-1911
+tl2_page_id: 33068256
+author_lsid: 3555-1
+wikidata_id: Q16027643
+ipni_surname: Hahn
+ipni_forenames: Gotthold
+ipni_standard_form: G.Hahn
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Cryptogamic
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33068256) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

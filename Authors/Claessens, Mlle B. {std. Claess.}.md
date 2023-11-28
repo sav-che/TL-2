@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0132
+tl2_volume: suppl4
+tl2_page_printed: 179
+tl2_surname: Claessens
+tl2_forenames: Mlle B.
+tl2_name_abbrev: Claess.
+tl2_dates: fl. 1934-1935
+tl2_page_id: 33265856
+author_lsid: 17273-1
+wikidata_id: Q36515179
+ipni_surname: Claessens
+ipni_forenames: B.
+ipni_standard_form: Claess.
+ipni_dates: fl. 1934
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

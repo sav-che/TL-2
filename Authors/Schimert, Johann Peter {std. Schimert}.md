@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0168
+tl2_volume: vol5
+tl2_page_printed: 160
+tl2_surname: Schimert
+tl2_forenames: Johann Peter
+tl2_name_abbrev: Schimert
+tl2_dates: fl. 1776
+tl2_page_id: 33333299
+author_lsid: 9087-1
+wikidata_id: Q36598731
+ipni_surname: Schimert
+ipni_forenames: Johann Peter
+ipni_standard_form: Schimert
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

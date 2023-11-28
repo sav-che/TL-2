@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0048
+tl2_volume: suppl5
+tl2_page_printed: 42
+tl2_surname: Dammerman
+tl2_forenames: Karel Willem
+tl2_name_abbrev: Damm.
+tl2_dates: 1885-1951
+tl2_page_id: 33259088
+author_lsid: 1976-1
+wikidata_id: Q2541651
+ipni_surname: Dammerman
+ipni_forenames: Karel Willem
+ipni_standard_form: Damm.
+ipni_dates: 1885-1951
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33259088) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

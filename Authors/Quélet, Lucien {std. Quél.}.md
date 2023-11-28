@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0534
+tl2_volume: vol4
+tl2_page_printed: 453
+tl2_surname: Quélet
+tl2_forenames: Lucien
+tl2_name_abbrev: Quél.
+tl2_dates: 1832-1899
+tl2_page_id: 33189924
+author_lsid: 25180-1
+wikidata_id: Q932451
+ipni_surname: Quélet
+ipni_forenames: Lucien
+ipni_standard_form: Quél.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33189924) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

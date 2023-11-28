@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl1_0051
+tl2_volume: suppl1
+tl2_page_printed: 41
+tl2_surname: Agardh
+tl2_forenames: Jacob Georg
+tl2_name_abbrev: J. Agardh
+tl2_dates: 1813-1901
+tl2_page_id: 33264730
+author_lsid: 30669-1
+wikidata_id: Q520594
+ipni_surname: Agardh
+ipni_forenames: Jakob Georg
+ipni_standard_form: J.Agardh
+ipni_dates: 1813-1901
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33264730) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

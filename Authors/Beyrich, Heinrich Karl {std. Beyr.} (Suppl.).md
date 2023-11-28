@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl2_0176
+tl2_volume: suppl2
+tl2_page_printed: 153
+tl2_surname: Beyrich
+tl2_forenames: Heinrich Karl
+tl2_name_abbrev: Beyr.
+tl2_dates: 1796-1834
+tl2_page_id: 33265350
+author_lsid: 16075-1
+wikidata_id: Q85498
+ipni_surname: Beyrich
+ipni_forenames: Heinrich Karl
+ipni_standard_form: Beyr.
+ipni_dates: 1796-1834
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+- Brazil
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33265350) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

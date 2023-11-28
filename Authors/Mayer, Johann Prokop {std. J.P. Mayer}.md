@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0447
+tl2_volume: vol3
+tl2_page_printed: 388
+tl2_surname: Mayer
+tl2_forenames: Johann Prokop
+tl2_name_abbrev: J.P. Mayer
+tl2_dates: 1737-1804
+tl2_page_id: 33355475
+author_lsid: 6277-1
+wikidata_id: Q87663
+ipni_surname: Mayer
+ipni_forenames: Johann Prokop
+ipni_standard_form: J.P.Mayer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

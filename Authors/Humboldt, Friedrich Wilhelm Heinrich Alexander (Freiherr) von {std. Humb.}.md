@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0391
+tl2_volume: vol2
+tl2_page_printed: 362
+tl2_surname: Humboldt
+tl2_forenames: Friedrich Wilhelm Heinrich Alexander [Freiherr] von
+tl2_name_abbrev: Humb.
+tl2_dates: 1769-1859
+tl2_page_id: 33068604
+author_lsid: 4222-1
+wikidata_id: Q6694
+ipni_surname: Humboldt
+ipni_forenames: Friedrich Wilhelm Heinrich Alexander von
+ipni_standard_form: Humb.
+ipni_dates: 1769-1859
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

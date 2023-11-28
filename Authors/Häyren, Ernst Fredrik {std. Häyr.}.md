@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0012
+tl2_volume: vol2
+tl2_page_printed: 9
+tl2_surname: Häyren
+tl2_forenames: Ernst Fredrik
+tl2_name_abbrev: Häyr.
+tl2_dates: 1878-1957
+tl2_page_id: 33068251
+author_lsid: 3541-1
+wikidata_id: Q17381047
+ipni_surname: Häyrén
+ipni_forenames: Ernst Fredrik
+ipni_standard_form: Häyrén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Algae
+- Mycology
+ipni_geo_scope: 
+- Finland
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

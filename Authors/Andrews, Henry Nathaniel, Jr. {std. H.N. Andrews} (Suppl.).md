@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0159
+tl2_volume: suppl1
+tl2_page_printed: 126
+tl2_surname: Andrews
+tl2_forenames: Henry Nathaniel, Jr.
+tl2_name_abbrev: H.N. Andr.
+tl2_dates: 1910-x
+tl2_page_id: 33264853
+author_lsid: 217-1
+wikidata_id: Q3132977
+ipni_surname: Andrews
+ipni_forenames: Henry Nathaniel
+ipni_standard_form: H.N.Andrews
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33264853) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

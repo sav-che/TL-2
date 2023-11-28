@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0340
+tl2_volume: suppl5
+tl2_page_printed: 340
+tl2_surname: Dillenius
+tl2_forenames: Johann Baptist(a) Joseph
+tl2_name_abbrev: Dill.
+tl2_dates: 1755-1838
+tl2_page_id: 33259386
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

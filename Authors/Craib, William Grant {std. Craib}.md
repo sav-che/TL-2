@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0704
+tl2_volume: vol1
+tl2_page_printed: 562
+tl2_surname: Craib
+tl2_forenames: William Grant
+tl2_name_abbrev: Craib
+tl2_dates: 1882-1933
+tl2_page_id: 33120693
+author_lsid: 1857-1
+wikidata_id: Q4243070
+ipni_surname: Craib
+ipni_forenames: William Grant
+ipni_standard_form: Craib
+ipni_dates: 1882-1933
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33120693) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

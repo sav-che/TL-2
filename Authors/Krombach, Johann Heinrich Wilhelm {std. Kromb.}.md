@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0799
+tl2_volume: vol2
+tl2_page_printed: 678
+tl2_surname: Krombach
+tl2_forenames: Johann Heinrich Wilhelm
+tl2_name_abbrev: Kromb.
+tl2_dates: 1791-1881
+tl2_page_id: 33068920
+author_lsid: 5074-1
+wikidata_id: Q3460050
+ipni_surname: Krombach
+ipni_forenames: Johann Heinrich Wilhelm
+ipni_standard_form: Kromb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Luxembourg
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

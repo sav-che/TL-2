@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0547
+tl2_volume: vol6
+tl2_page_printed: 543
+tl2_surname: Turnbull
+tl2_forenames: Robert
+tl2_name_abbrev: Turnbull
+tl2_dates: c. 1813-1891
+tl2_page_id: 33212585
+author_lsid: 10914-1
+wikidata_id: Q21611060
+ipni_surname: Turnbull
+ipni_forenames: Robert
+ipni_standard_form: Turnbull
+ipni_dates: c.1813-1891
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:34:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

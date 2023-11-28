@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0526
+tl2_volume: vol5
+tl2_page_printed: 548
+tl2_surname: Shafer
+tl2_forenames: John Adolf
+tl2_name_abbrev: Shafer
+tl2_dates: 1863-1918
+tl2_page_id: 33333687
+author_lsid: 9530-1
+wikidata_id: Q615605
+ipni_surname: Shafer
+ipni_forenames: John Adolph
+ipni_standard_form: Shafer
+ipni_dates: 1863-1918
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:08.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

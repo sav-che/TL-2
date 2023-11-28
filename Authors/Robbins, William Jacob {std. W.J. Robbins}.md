@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0809
+tl2_volume: vol4
+tl2_page_printed: 808
+tl2_surname: Robbins
+tl2_forenames: William Jacob
+tl2_name_abbrev: W.J. Robbins
+tl2_dates: 1890-1978
+tl2_page_id: 33190279
+author_lsid: 8436-1
+wikidata_id: Q21607267
+ipni_surname: Robbins
+ipni_forenames: William Jacob
+ipni_standard_form: W.J.Robbins
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

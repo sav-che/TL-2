@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl4_0178
+tl2_volume: suppl4
+tl2_page_printed: 230
+tl2_surname: Cluysenaar
+tl2_forenames: P.-G.
+tl2_name_abbrev: Cluysenaar
+tl2_dates: fl. 1890
+tl2_page_id: 33265907
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

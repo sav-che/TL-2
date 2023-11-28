@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0028
+tl2_volume: vol5
+tl2_page_printed: 31
+tl2_surname: Sanderson
+tl2_forenames: Arthur Rufus
+tl2_name_abbrev: A. Sanderson
+tl2_dates: 1877-1932
+tl2_page_id: 33333132
+author_lsid: 8885-1
+wikidata_id: Q21607695
+ipni_surname: Sanderson
+ipni_forenames: Arthur Rufus
+ipni_standard_form: A.Sand.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33333132) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

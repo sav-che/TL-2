@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0740
+tl2_volume: vol1
+tl2_page_printed: 590
+tl2_surname: Daléchamps (Dalechamp)
+tl2_forenames: Jacques
+tl2_name_abbrev: Daléchamps
+tl2_dates: 1513-1588
+tl2_page_id: 33120721
+author_lsid: 1963-1
+wikidata_id: Q1230960
+ipni_surname: Daléchamps
+ipni_forenames: Jacques
+ipni_standard_form: Daléchamps
+ipni_dates: 1513-1588
+ipni_taxon_scope: 
+- Botany
+- Pre-Linnaean
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0861
+tl2_volume: vol2
+tl2_page_printed: 728
+tl2_surname: Lakowitz
+tl2_forenames: Conrad Waldemar
+tl2_name_abbrev: Lakow.
+tl2_dates: 1859-1945
+tl2_page_id: 33068970
+author_lsid: 5222-1
+wikidata_id: Q21518320
+ipni_surname: Lakowitz
+ipni_forenames: Conrad Waldemar
+ipni_standard_form: Lakow.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

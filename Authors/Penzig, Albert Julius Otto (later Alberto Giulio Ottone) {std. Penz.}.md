@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0172
+tl2_volume: vol4
+tl2_page_printed: 156
+tl2_surname: Penzig
+tl2_forenames: Albert Julius Otto [later Alberto Giulio Ottone]
+tl2_name_abbrev: Penz.
+tl2_dates: 1856-1929
+tl2_page_id: 33189627
+author_lsid: 24712-1
+wikidata_id: Q3887349
+ipni_surname: Penzig
+ipni_forenames: Albert Julius Otto (Albertus Giulio Ottone)
+ipni_standard_form: Penz.
+ipni_dates: 1856-1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33189627) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

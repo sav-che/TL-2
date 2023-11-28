@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0405
+tl2_volume: suppl3
+tl2_page_printed: 444
+tl2_surname: Casares-Gil
+tl2_forenames: Antonio
+tl2_name_abbrev: Cas.-Gil
+tl2_dates: 1872-1929
+tl2_page_id: 33266751
+author_lsid: 1434-1
+wikidata_id: Q13476239
+ipni_surname: Casares-Gil
+ipni_forenames: Antonio
+ipni_standard_form: Casares-Gil
+ipni_dates: 1871-1929
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- Spain
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33266751) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl2_0262
+tl2_volume: suppl2
+tl2_page_printed: 213
+tl2_surname: Bliding
+tl2_forenames: Carl Vilhelm
+tl2_name_abbrev: Bliding
+tl2_dates: 1891-x
+tl2_page_id: 33265410
+author_lsid: 32461-1
+wikidata_id: Q21506192
+ipni_surname: Bliding
+ipni_forenames: Carl Vilhelm
+ipni_standard_form: Bliding
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

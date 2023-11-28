@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0694
+tl2_volume: vol2
+tl2_page_printed: 574
+tl2_surname: Knebel
+tl2_forenames: Gottfried
+tl2_name_abbrev: Knebel
+tl2_dates: 1908-x
+tl2_page_id: 33068816
+author_lsid: 4865-1
+wikidata_id: Q11923755
+ipni_surname: Knebel
+ipni_forenames: Gottfried
+ipni_standard_form: Knebel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

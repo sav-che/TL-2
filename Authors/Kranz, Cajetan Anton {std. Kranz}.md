@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0772
+tl2_volume: vol2
+tl2_page_printed: 662
+tl2_surname: Kranz
+tl2_forenames: Cajetan Anton
+tl2_name_abbrev: Kranz
+tl2_dates: 1839?-1886
+tl2_page_id: 33068904
+author_lsid: 5023-1
+wikidata_id: Q21517888
+ipni_surname: Kranz
+ipni_forenames: Cajetan Anton
+ipni_standard_form: Kranz
+ipni_dates: 1839-1886
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0491
+tl2_volume: vol7
+tl2_page_printed: 540
+tl2_surname: Zimmermann
+tl2_forenames: Hugo
+tl2_name_abbrev: H. Zimmerm.
+tl2_dates: 1862-1933
+tl2_page_id: 33066880
+author_lsid: 12037-1
+wikidata_id: Q21613671
+ipni_surname: Zimmermann
+ipni_forenames: Hugo
+ipni_standard_form: H.Zimm.
+ipni_dates: 1862-1933
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:14.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33066880) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

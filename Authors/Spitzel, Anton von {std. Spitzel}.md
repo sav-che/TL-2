@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0795
+tl2_volume: vol5
+tl2_page_printed: 793
+tl2_surname: Spitzel
+tl2_forenames: Anton von
+tl2_name_abbrev: Spitzel
+tl2_dates: 1807-1853
+tl2_page_id: 33333932
+author_lsid: 9976-1
+wikidata_id: Q5697514
+ipni_surname: Spitzel
+ipni_forenames: Anton von
+ipni_standard_form: Spitzel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

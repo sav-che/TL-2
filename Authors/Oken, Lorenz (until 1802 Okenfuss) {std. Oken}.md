@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0970
+tl2_volume: vol3
+tl2_page_printed: 816
+tl2_surname: Oken
+tl2_forenames: Lorenz (until 1802 Okenfuss)
+tl2_name_abbrev: Oken
+tl2_dates: 1779-1851
+tl2_page_id: 33355903
+author_lsid: 12715-1
+wikidata_id: Q55069834
+ipni_surname: Oken
+ipni_forenames: Lorenz
+ipni_standard_form: Oken
+ipni_dates: 1779-1851
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33355903) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

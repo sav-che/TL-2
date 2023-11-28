@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0113
+tl2_volume: vol2
+tl2_page_printed: 98
+tl2_surname: Hassler
+tl2_forenames: Émile
+tl2_name_abbrev: Hassl.
+tl2_dates: 1861-1937
+tl2_page_id: 33068340
+author_lsid: 3720-1
+wikidata_id: Q116720
+ipni_surname: Hassler
+ipni_forenames: Emil
+ipni_standard_form: Hassl.
+ipni_dates: 1864-1937
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Paraguay
+- Switzerland
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33068340) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

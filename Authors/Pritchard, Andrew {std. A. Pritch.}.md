@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0490
+tl2_volume: vol4
+tl2_page_printed: 408
+tl2_surname: Pritchard
+tl2_forenames: Andrew
+tl2_name_abbrev: A. Pritch.
+tl2_dates: 1804-1882
+tl2_page_id: 33189879
+author_lsid: 7970-1
+wikidata_id: Q4758311
+ipni_surname: Pritchard
+ipni_forenames: Andrew
+ipni_standard_form: A.Pritch.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33189879) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

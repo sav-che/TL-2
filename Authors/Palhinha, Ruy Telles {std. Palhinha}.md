@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0023
+tl2_volume: vol4
+tl2_page_printed: 13
+tl2_surname: Palhinha
+tl2_forenames: Ruy Telles
+tl2_name_abbrev: Palhinha
+tl2_dates: 1871-1957
+tl2_page_id: 33189502
+author_lsid: 7269-1
+wikidata_id: Q2892677
+ipni_surname: Palhinha
+ipni_forenames: Ruy Telles
+ipni_standard_form: Palhinha
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0260
+tl2_volume: suppl8
+tl2_page_printed: 370
+tl2_surname: Gregory
+tl2_forenames: Eliza Standerwick (née Barnes)
+tl2_name_abbrev: E.S. Gregory
+tl2_dates: 1840-1932
+tl2_page_id: 33258848
+author_lsid: 12518-1
+wikidata_id: Q15807852
+ipni_surname: Gregory
+ipni_forenames: Eliza Standerwick
+ipni_standard_form: Greg.
+ipni_dates: 1840-1932
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:42:56.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

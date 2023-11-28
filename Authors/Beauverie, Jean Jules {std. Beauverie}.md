@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0204
+tl2_volume: vol1
+tl2_page_printed: 155
+tl2_surname: Beauverie
+tl2_forenames: Jean Jules
+tl2_name_abbrev: Beauverie
+tl2_dates: 1874-1938
+tl2_page_id: 33120286
+author_lsid: 15848-1
+wikidata_id: Q3170669
+ipni_surname: Beauverie
+ipni_forenames: Jean Jules
+ipni_standard_form: Beauverie
+ipni_dates: 1874-1938
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

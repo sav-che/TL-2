@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0972
+tl2_volume: vol4
+tl2_page_printed: 942
+tl2_surname: Rousseau
+tl2_forenames: Marietta, née Hannon
+tl2_name_abbrev: M. Rousseau
+tl2_dates: 1850-1926
+tl2_page_id: 33190413
+author_lsid: 13085-1
+wikidata_id: Q50324538
+ipni_surname: Rousseau
+ipni_forenames: Marietta Hannon
+ipni_standard_form: M.Rousseau
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33190413) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

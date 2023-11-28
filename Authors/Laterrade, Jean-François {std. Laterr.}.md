@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0908
+tl2_volume: vol2
+tl2_page_printed: 763
+tl2_surname: Laterrade
+tl2_forenames: Jean-François
+tl2_name_abbrev: Laterr.
+tl2_dates: 1784-1858
+tl2_page_id: 33069005
+author_lsid: 5307-1
+wikidata_id: Q10988842
+ipni_surname: Laterrade
+ipni_forenames: Jean François
+ipni_standard_form: Laterr.
+ipni_dates: 1784-1858
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

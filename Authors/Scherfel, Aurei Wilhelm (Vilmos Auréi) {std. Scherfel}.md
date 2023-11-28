@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0149
+tl2_volume: vol5
+tl2_page_printed: 140
+tl2_surname: Scherfel
+tl2_forenames: Aurei Wilhelm (Vilmos Auréi)
+tl2_name_abbrev: Scherfel
+tl2_dates: 1835-1895
+tl2_page_id: 33333279
+author_lsid: 9058-1
+wikidata_id: Q21607891
+ipni_surname: Scherfel
+ipni_forenames: Aurel Wilhelm (Vilmos Aurél)
+ipni_standard_form: Scherfel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

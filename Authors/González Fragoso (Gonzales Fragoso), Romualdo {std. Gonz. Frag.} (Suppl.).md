@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0223
+tl2_volume: suppl8
+tl2_page_printed: 296
+tl2_surname: González Fragoso [Gonzales Fragoso]
+tl2_forenames: Romualdo
+tl2_name_abbrev: Gonz. Frag.
+tl2_dates: 1862-1928
+tl2_page_id: 33258774
+author_lsid: 2865-1
+wikidata_id: Q10364291
+ipni_surname: González Fragoso
+ipni_forenames: Romualdo
+ipni_standard_form: Gonz.Frag.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33258774) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

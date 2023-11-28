@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0660
+tl2_volume: vol4
+tl2_page_printed: 637
+tl2_surname: Regel
+tl2_forenames: [Johann] Albert von
+tl2_name_abbrev: A. Regel
+tl2_dates: 1845-1908
+tl2_page_id: 33190108
+author_lsid: 8235-1
+wikidata_id: Q354083
+ipni_surname: Regel
+ipni_forenames: (Johann) Albert von
+ipni_standard_form: A.Regel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0338
+tl2_volume: vol5
+tl2_page_printed: 355
+tl2_surname: Schübeler
+tl2_forenames: Frederik [Fritz] Christian
+tl2_name_abbrev: Schübeler
+tl2_dates: 1815-1892
+tl2_page_id: 33333494
+author_lsid: 9279-1
+wikidata_id: Q5499313
+ipni_surname: Schübeler
+ipni_forenames: Frederik (Fritz) Christian
+ipni_standard_form: Schübeler
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33333494) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

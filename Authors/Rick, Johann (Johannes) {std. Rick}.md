@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0768
+tl2_volume: vol4
+tl2_page_printed: 780
+tl2_surname: Rick
+tl2_forenames: Johann [Johannes]
+tl2_name_abbrev: Rick
+tl2_dates: 1869-1946
+tl2_page_id: 33190251
+author_lsid: 8373-1
+wikidata_id: Q15740229
+ipni_surname: Rick
+ipni_forenames: Johann (João Evangelista)
+ipni_standard_form: Rick
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

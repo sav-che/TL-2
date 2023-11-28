@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0978
+tl2_volume: vol4
+tl2_page_printed: 945
+tl2_surname: Roux
+tl2_forenames: Nisius
+tl2_name_abbrev: N. Roux
+tl2_dates: 1854-1923
+tl2_page_id: 33190416
+author_lsid: 8673-1
+wikidata_id: Q21607487
+ipni_surname: Roux
+ipni_forenames: Nisius
+ipni_standard_form: N.Roux
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 945](https://www.biodiversitylibrary.org/page/33190416) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

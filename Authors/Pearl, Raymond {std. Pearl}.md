@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0137
+tl2_volume: vol4
+tl2_page_printed: 129
+tl2_surname: Pearl
+tl2_forenames: Raymond
+tl2_name_abbrev: Pearl
+tl2_dates: 1879-1940
+tl2_page_id: 33189600
+author_lsid: 7439-1
+wikidata_id: Q913632
+ipni_surname: Pearl
+ipni_forenames: Raymond
+ipni_standard_form: Pearl
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33189600) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

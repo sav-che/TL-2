@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0379
+tl2_volume: vol4
+tl2_page_printed: 321
+tl2_surname: Poisson
+tl2_forenames: Henri [-Louis]
+tl2_name_abbrev: Poiss.
+tl2_dates: 1877-1963
+tl2_page_id: 33189792
+author_lsid: 7795-1
+wikidata_id: Q5894438
+ipni_surname: Poisson
+ipni_forenames: Henri Louis
+ipni_standard_form: Poiss.
+ipni_dates: 1877-1963
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33189792) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

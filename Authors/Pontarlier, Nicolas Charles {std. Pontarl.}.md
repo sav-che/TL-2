@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0399
+tl2_volume: vol4
+tl2_page_printed: 335
+tl2_surname: Pontarlier
+tl2_forenames: Nicolas Charles
+tl2_name_abbrev: Pontarl.
+tl2_dates: 1812-1889
+tl2_page_id: 33189806
+author_lsid: 7834-1
+wikidata_id: Q21523097
+ipni_surname: Pontarlier
+ipni_forenames: Nicolas Charles
+ipni_standard_form: Pontarl.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

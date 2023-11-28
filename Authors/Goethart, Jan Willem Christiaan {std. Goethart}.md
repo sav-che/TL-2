@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl8_0203
+tl2_volume: suppl8
+tl2_page_printed: 272
+tl2_surname: Goethart
+tl2_forenames: Jan Willem Christiaan
+tl2_name_abbrev: Goethart
+tl2_dates: 1866-1938
+tl2_page_id: 33258750
+author_lsid: 3228-1
+wikidata_id: Q5926034
+ipni_surname: Goethart
+ipni_forenames: Jan Willem Christiaan
+ipni_standard_form: Goethart
+ipni_dates: 1866-1938
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:35:11.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33258750) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

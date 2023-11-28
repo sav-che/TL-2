@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0410
+tl2_volume: vol3
+tl2_page_printed: 363
+tl2_surname: Masters
+tl2_forenames: Maxwell Tylden
+tl2_name_abbrev: Mast.
+tl2_dates: 1833-1907
+tl2_page_id: 33355450
+author_lsid: 6207-1
+wikidata_id: Q787355
+ipni_surname: Masters
+ipni_forenames: Maxwell Tylden
+ipni_standard_form: Mast.
+ipni_dates: 1833-1907
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:29:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33355450) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

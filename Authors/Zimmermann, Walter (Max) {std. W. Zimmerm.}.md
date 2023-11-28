@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0494
+tl2_volume: vol7
+tl2_page_printed: 542
+tl2_surname: Zimmermann
+tl2_forenames: Walter [Max]
+tl2_name_abbrev: W. Zimmerm.
+tl2_dates: 1892-1980
+tl2_page_id: 33066882
+author_lsid: 12040-1
+wikidata_id: Q65811
+ipni_surname: Zimmermann
+ipni_forenames: Walter Max
+ipni_standard_form: W.Zimm.
+ipni_dates: 1892-1980
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:47:45.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33066882) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

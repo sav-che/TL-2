@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0842
+tl2_volume: vol2
+tl2_page_printed: 718
+tl2_surname: Lacroix
+tl2_forenames: Louis-Sosthène Veyron de
+tl2_name_abbrev: Lacr.
+tl2_dates: 1818-1864
+tl2_page_id: 33068960
+author_lsid: 21950-1
+wikidata_id: Q5981451
+ipni_surname: Lacroix
+ipni_forenames: Louis-Sosthène Veyron de
+ipni_standard_form: Lacroix
+ipni_dates: 1818-1864
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:45:31.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

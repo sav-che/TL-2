@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0699
+tl2_volume: vol5
+tl2_page_printed: 708
+tl2_surname: Smuts
+tl2_forenames: Jan Christiaan
+tl2_name_abbrev: Smuts
+tl2_dates: 1870-1950
+tl2_page_id: 33333847
+author_lsid: 9829-1
+wikidata_id: Q214321
+ipni_surname: Smuts
+ipni_forenames: Jan Christiaan
+ipni_standard_form: Smuts
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

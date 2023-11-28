@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_1037
+tl2_volume: vol1
+tl2_page_printed: 841
+tl2_surname: Fitzgerald
+tl2_forenames: Robert Desmond
+tl2_name_abbrev: Fitzg.
+tl2_dates: 1830-1892
+tl2_page_id: 33120972
+author_lsid: 12499-1
+wikidata_id: Q3281581
+ipni_surname: Fitzgerald
+ipni_forenames: Robert Desmond (David)
+ipni_standard_form: Fitzg.
+ipni_dates: 1830-1892
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Australia
+- Ireland
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33120972) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

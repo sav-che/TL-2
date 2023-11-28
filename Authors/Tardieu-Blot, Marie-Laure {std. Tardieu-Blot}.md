@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0194
+tl2_volume: vol6
+tl2_page_printed: 166
+tl2_surname: Tardieu-Blot
+tl2_forenames: Marie-Laure
+tl2_name_abbrev: Tardieu-Blot
+tl2_dates: 1902-x
+tl2_page_id: 33212208
+author_lsid: 12916-1
+wikidata_id: Q5998167
+ipni_surname: Tardieu
+ipni_forenames: Marie Laure
+ipni_standard_form: Tardieu
+ipni_dates: 1902-1998
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-07-03 13:54:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33212208) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

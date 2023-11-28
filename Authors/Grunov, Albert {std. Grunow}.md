@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1272
+tl2_volume: vol1
+tl2_page_printed: 1017
+tl2_surname: Grunov
+tl2_forenames: Albert
+tl2_name_abbrev: Grunov
+tl2_dates: 1826-1914
+tl2_page_id: 33121148
+author_lsid: 29387-1
+wikidata_id: Q15437983
+ipni_surname: Grunow
+ipni_forenames: Albert
+ipni_standard_form: Grunow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Austria
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

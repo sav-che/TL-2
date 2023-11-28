@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl6_0230
+tl2_volume: suppl6
+tl2_page_printed: 223
+tl2_surname: Duvau
+tl2_forenames: Auguste
+tl2_name_abbrev: Duvau
+tl2_dates: 1771-1831
+tl2_page_id: 33260211
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

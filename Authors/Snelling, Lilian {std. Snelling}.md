@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0704
+tl2_volume: vol5
+tl2_page_printed: 711
+tl2_surname: Snelling
+tl2_forenames: Lilian
+tl2_name_abbrev: Snelling
+tl2_dates: 1879-1972
+tl2_page_id: 33333850
+author_lsid: 9837-1
+wikidata_id: Q5668989
+ipni_surname: Snelling
+ipni_forenames: Lilian
+ipni_standard_form: Snelling
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

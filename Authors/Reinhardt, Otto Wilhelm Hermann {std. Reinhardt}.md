@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0692
+tl2_volume: vol4
+tl2_page_printed: 701
+tl2_surname: Reinhardt
+tl2_forenames: Otto Wilhelm Hermann
+tl2_name_abbrev: Reinhardt
+tl2_dates: 1838-1924
+tl2_page_id: 33190172
+author_lsid: 8273-1
+wikidata_id: Q21607095
+ipni_surname: Reinhardt
+ipni_forenames: Otto Wilhelm Hermann
+ipni_standard_form: Reinh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

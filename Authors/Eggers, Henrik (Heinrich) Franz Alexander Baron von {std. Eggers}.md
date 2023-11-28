@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0924
+tl2_volume: vol1
+tl2_page_printed: 726
+tl2_surname: Eggers
+tl2_forenames: Henrik [Heinrich] Franz Alexander Baron von
+tl2_name_abbrev: Eggers
+tl2_dates: 1844-1903
+tl2_page_id: 33120857
+author_lsid: 2474-1
+wikidata_id: Q5627792
+ipni_surname: Eggers
+ipni_forenames: Henrik Franz Alexander von
+ipni_standard_form: Eggers
+ipni_dates: 1844-1903
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Denmark
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

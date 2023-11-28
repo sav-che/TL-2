@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0033
+tl2_volume: vol4
+tl2_page_printed: 29
+tl2_surname: Palmer
+tl2_forenames: Elmore
+tl2_name_abbrev: Elm. Palmer
+tl2_dates: 1839-1910/1911
+tl2_page_id: 33189462
+author_lsid: 7282-1
+wikidata_id: Q21522570
+ipni_surname: Palmer
+ipni_forenames: Elmore
+ipni_standard_form: E.Palmer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33189462) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

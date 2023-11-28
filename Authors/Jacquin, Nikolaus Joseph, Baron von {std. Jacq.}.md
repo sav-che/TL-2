@@ -1,3 +1,34 @@
+---
+tl2_entry_id: tl2_vol2_0449
+tl2_volume: vol2
+tl2_page_printed: 407
+tl2_surname: Jacquin
+tl2_forenames: Nikolaus Joseph, Baron von
+tl2_name_abbrev: Jacq.
+tl2_dates: 1727-1817
+tl2_page_id: 33068649
+author_lsid: 12576-1
+wikidata_id: Q84497
+ipni_surname: Jacquin
+ipni_forenames: Nicolaus(Nicolaas) Joseph von
+ipni_standard_form: Jacq.
+ipni_dates: 1727-1817
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+- Austria
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:30:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33068649) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

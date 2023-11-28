@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0178
+tl2_volume: vol5
+tl2_page_printed: 174
+tl2_surname: Schinz
+tl2_forenames: Christoph Salomon
+tl2_name_abbrev: C.S. Schinz
+tl2_dates: 1764-1847
+tl2_page_id: 33333313
+author_lsid: 9097-1
+wikidata_id: Q21607980
+ipni_surname: Schinz
+ipni_forenames: Christoph Salomon
+ipni_standard_form: C.S.Schinz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

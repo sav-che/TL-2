@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_vol5_0027
+tl2_volume: vol5
+tl2_page_printed: 30
+tl2_surname: Sander
+tl2_forenames: [Henry] Frederick [Conrad] [baptized Heinrich Friedrich Conrad]
+tl2_name_abbrev: Sander
+tl2_dates: 1847-1920
+tl2_page_id: 33333131
+author_lsid: 8884-1
+wikidata_id: Q67113
+ipni_surname: Sander
+ipni_forenames: Henry Frederick Conrad
+ipni_standard_form: Sander
+ipni_dates: 1847-1920
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+- Belgium
+- United States
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:13.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33333131) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

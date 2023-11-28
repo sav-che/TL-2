@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0050
+tl2_volume: vol6
+tl2_page_printed: 42
+tl2_surname: Strauss
+tl2_forenames: Friedrich Karl Joseph, Freiherr von
+tl2_name_abbrev: F. Strauss
+tl2_dates: 1787-1855
+tl2_page_id: 33212046
+author_lsid: 27275-1
+wikidata_id: Q21609941
+ipni_surname: Strauss
+ipni_forenames: Friedrich Karl(Carl) Joseph von
+ipni_standard_form: F.Strauss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

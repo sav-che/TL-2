@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0735
+tl2_volume: vol5
+tl2_page_printed: 741
+tl2_surname: Sonder
+tl2_forenames: Christoph
+tl2_name_abbrev: C. Sond.
+tl2_dates: fl. 1890
+tl2_page_id: 33333880
+author_lsid: 9890-1
+wikidata_id: Q36531105
+ipni_surname: Sonder
+ipni_forenames: Christoph
+ipni_standard_form: C.Sond.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

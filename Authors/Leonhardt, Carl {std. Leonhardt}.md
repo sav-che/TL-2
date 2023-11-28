@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1003
+tl2_volume: vol2
+tl2_page_printed: 846
+tl2_surname: Leonhardt
+tl2_forenames: Carl
+tl2_name_abbrev: Leonhardt
+tl2_dates: 1902-x
+tl2_page_id: 33069088
+author_lsid: 5484-1
+wikidata_id: Q21518677
+ipni_surname: Leonhardt
+ipni_forenames: Carl
+ipni_standard_form: Leonhardt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0719
+tl2_volume: vol6
+tl2_page_printed: 737
+tl2_surname: Vilhelm
+tl2_forenames: Jan
+tl2_name_abbrev: Vilh.
+tl2_dates: 1876-1931
+tl2_page_id: 33212779
+author_lsid: 11191-1
+wikidata_id: Q16735336
+ipni_surname: Vilhelm
+ipni_forenames: Jan
+ipni_standard_form: Vilh.
+ipni_dates: 1876-1931
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:40.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33212779) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

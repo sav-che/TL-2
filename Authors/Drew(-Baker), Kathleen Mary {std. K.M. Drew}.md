@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0103
+tl2_volume: suppl6
+tl2_page_printed: 96
+tl2_surname: Drew[-Baker]
+tl2_forenames: Kathleen Mary
+tl2_name_abbrev: K.M. Drew
+tl2_dates: 1901-1957
+tl2_page_id: 33260084
+author_lsid: 32974-1
+wikidata_id: Q3194082
+ipni_surname: Drew
+ipni_forenames: Kathleen Mary
+ipni_standard_form: K.M.Drew
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33260084) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

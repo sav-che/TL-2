@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl8_0345
+tl2_volume: suppl8
+tl2_page_printed: 478
+tl2_surname: Györffy
+tl2_forenames: István (often abbrev. as J.)
+tl2_name_abbrev: Győrffy
+tl2_dates: 1880-1959
+tl2_page_id: 33258956
+author_lsid: 3512-1
+wikidata_id: Q3155761
+ipni_surname: Györffy
+ipni_forenames: Istvan
+ipni_standard_form: Györffy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33258956) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1161
+tl2_volume: vol1
+tl2_page_printed: 930
+tl2_surname: Geisenheyner
+tl2_forenames: Franz Adolf Louis
+tl2_name_abbrev: Geisenh.
+tl2_dates: 1841-1926
+tl2_page_id: 33121061
+author_lsid: 3073-1
+wikidata_id: Q21513855
+ipni_surname: Geisenheyner
+ipni_forenames: Franz Adolf Ludwig
+ipni_standard_form: Geisenh.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

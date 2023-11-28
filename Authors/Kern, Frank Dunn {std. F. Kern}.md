@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0622
+tl2_volume: vol2
+tl2_page_printed: 524
+tl2_surname: Kern
+tl2_forenames: Frank Dunn
+tl2_name_abbrev: F. Kern
+tl2_dates: 1883-1973
+tl2_page_id: 33068766
+author_lsid: 4738-1
+wikidata_id: Q19960053
+ipni_surname: Kern
+ipni_forenames: Frank Dunn
+ipni_standard_form: F.Kern
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl2_0379
+tl2_volume: suppl2
+tl2_page_printed: 322
+tl2_surname: Booberg
+tl2_forenames: Karl Gunnar
+tl2_name_abbrev: Booberg
+tl2_dates: 1892-1944
+tl2_page_id: 33265519
+author_lsid: 963-1
+wikidata_id: Q21506299
+ipni_surname: Booberg
+ipni_forenames: Karl Gunnar
+ipni_standard_form: Booberg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265519) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

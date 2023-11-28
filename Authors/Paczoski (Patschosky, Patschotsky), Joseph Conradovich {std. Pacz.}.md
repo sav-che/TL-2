@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0006
+tl2_volume: vol4
+tl2_page_printed: 4
+tl2_surname: Paczoski (Patschosky, Patschotsky)
+tl2_forenames: Joseph Conradovich
+tl2_name_abbrev: Pacz.
+tl2_dates: 1864-1941
+tl2_page_id: 33189511
+author_lsid: 7239-1
+wikidata_id: Q566698
+ipni_surname: Paczoski
+ipni_forenames: Józef Konrad
+ipni_standard_form: Pacz.
+ipni_dates: 1864-1942
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Ukraine
+- Poland
+ipni_version: 1.3
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-10-21 11:11:25.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0926
+tl2_volume: vol3
+tl2_page_printed: 777
+tl2_surname: Notcutt
+tl2_forenames: William Lowndes
+tl2_name_abbrev: Notcutt
+tl2_dates: 1819-1868
+tl2_page_id: 33355864
+author_lsid: 7044-1
+wikidata_id: Q6167673
+ipni_surname: Notcutt
+ipni_forenames: William  Lowndes
+ipni_standard_form: Notcutt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

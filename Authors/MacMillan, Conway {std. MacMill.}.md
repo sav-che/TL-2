@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0247
+tl2_volume: vol3
+tl2_page_printed: 230
+tl2_surname: MacMillan
+tl2_forenames: Conway
+tl2_name_abbrev: MacMill.
+tl2_dates: 1867-1929
+tl2_page_id: 33355317
+author_lsid: 22701-1
+wikidata_id: Q4275851
+ipni_surname: MacMillan
+ipni_forenames: Conway
+ipni_standard_form: MacMill.
+ipni_dates: 1867-1929
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:54:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33355317) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0335
+tl2_volume: vol5
+tl2_page_printed: 351
+tl2_surname: Schubert
+tl2_forenames: Gotthilf Heinrich von
+tl2_name_abbrev: Schub.
+tl2_dates: 1780-1860
+tl2_page_id: 33333490
+author_lsid: 9277-1
+wikidata_id: Q66704
+ipni_surname: Schubert
+ipni_forenames: Gotthilf Heinrich von
+ipni_standard_form: Schub.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33333490) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

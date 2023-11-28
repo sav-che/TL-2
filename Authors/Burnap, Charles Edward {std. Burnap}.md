@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0248
+tl2_volume: suppl3
+tl2_page_printed: 254
+tl2_surname: Burnap
+tl2_forenames: Charles Edward
+tl2_name_abbrev: Burnap
+tl2_dates: x-1912
+tl2_page_id: 33266561
+author_lsid: 20034913-1
+wikidata_id: Q88812337
+ipni_surname: Burnap
+ipni_forenames: Charles Edward
+ipni_standard_form: Burnap
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

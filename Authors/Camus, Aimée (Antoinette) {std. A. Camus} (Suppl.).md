@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl3_0333
+tl2_volume: suppl3
+tl2_page_printed: 337
+tl2_surname: Camus
+tl2_forenames: Aimée (Antoinette)
+tl2_name_abbrev: A. Camus
+tl2_dates: 1879-1965
+tl2_page_id: 33266644
+author_lsid: 1381-1
+wikidata_id: Q272128
+ipni_surname: Camus
+ipni_forenames: Aimée Antoinette
+ipni_standard_form: A.Camus
+ipni_dates: 1879-1965
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

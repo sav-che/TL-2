@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_1009
+tl2_volume: vol2
+tl2_page_printed: 848
+tl2_surname: Leske
+tl2_forenames: Nathanael Gottfried
+tl2_name_abbrev: Leske
+tl2_dates: 1751-1786
+tl2_page_id: 33069090
+author_lsid: 5504-1
+wikidata_id: Q71752
+ipni_surname: Leske
+ipni_forenames: Nathanael Gottfried
+ipni_standard_form: Leske
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

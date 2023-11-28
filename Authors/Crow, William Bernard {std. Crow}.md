@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl4_0397
+tl2_volume: suppl4
+tl2_page_printed: 481
+tl2_surname: Crow
+tl2_forenames: William Bernard
+tl2_name_abbrev: Crow
+tl2_dates: 1895-?
+tl2_page_id: 33266158
+author_lsid: 32843-1
+wikidata_id: Q21509566
+ipni_surname: Crow
+ipni_forenames: William Bernard
+ipni_standard_form: Crow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33266158) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

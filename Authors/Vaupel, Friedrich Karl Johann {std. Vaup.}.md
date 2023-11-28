@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0664
+tl2_volume: vol6
+tl2_page_printed: 682
+tl2_surname: Vaupel
+tl2_forenames: Friedrich Karl Johann
+tl2_name_abbrev: Vaup.
+tl2_dates: 1876-1927
+tl2_page_id: 33212724
+author_lsid: 11097-1
+wikidata_id: Q96747
+ipni_surname: Vaupel
+ipni_forenames: Friedrich Karl Johann
+ipni_standard_form: Vaupel
+ipni_dates: 1876-1927
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:55.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33212724) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

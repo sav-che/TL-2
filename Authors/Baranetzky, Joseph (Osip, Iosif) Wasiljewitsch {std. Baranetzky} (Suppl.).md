@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0352
+tl2_volume: suppl1
+tl2_page_printed: 313
+tl2_surname: Baranetzky
+tl2_forenames: Joseph [Osip, Iosif] Wasiljewitsch
+tl2_name_abbrev: Baranetzky
+tl2_dates: 1843-1905
+tl2_page_id: 33265040
+author_lsid: 451-1
+wikidata_id: Q4077675
+ipni_surname: Baranetzky
+ipni_forenames: Josep (Osip) Wasilijewitsch
+ipni_standard_form: Baran.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265040) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

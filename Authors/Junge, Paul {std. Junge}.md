@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0550
+tl2_volume: vol2
+tl2_page_printed: 470
+tl2_surname: Junge
+tl2_forenames: Paul
+tl2_name_abbrev: Junge
+tl2_dates: 1881-1919
+tl2_page_id: 33068712
+author_lsid: 4583-1
+wikidata_id: Q6067204
+ipni_surname: Junge
+ipni_forenames: Paul
+ipni_standard_form: Junge
+ipni_dates: 1881-1919
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_1014
+tl2_volume: vol3
+tl2_page_printed: 853
+tl2_surname: Oskamp
+tl2_forenames: Dirk Leonard
+tl2_name_abbrev: Oskamp
+tl2_dates: 1768-?
+tl2_page_id: 33355940
+author_lsid: 7183-1
+wikidata_id: Q21522455
+ipni_surname: Oskamp
+ipni_forenames: Dirk Leonard
+ipni_standard_form: Oskamp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

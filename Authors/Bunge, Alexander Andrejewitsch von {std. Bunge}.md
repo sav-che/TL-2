@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0495
+tl2_volume: vol1
+tl2_page_printed: 407
+tl2_surname: Bunge
+tl2_forenames: Alexander Andrejewitsch von
+tl2_name_abbrev: Bunge
+tl2_dates: 1803-1890
+tl2_page_id: 33120538
+author_lsid: 12367-1
+wikidata_id: Q65899
+ipni_surname: Bunge
+ipni_forenames: Alexander Andrejewitsch (Aleksandr Andreevic, Aleksandrovic) von
+ipni_standard_form: Bunge
+ipni_dates: 1803-1890
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

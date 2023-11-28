@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl6_0373
+tl2_volume: suppl6
+tl2_page_printed: 333
+tl2_surname: Emerson
+tl2_forenames: Julia Titus
+tl2_name_abbrev: Emers.
+tl2_dates: 1877-1962
+tl2_page_id: 33260321
+author_lsid: 18477-1
+wikidata_id: Q21512038
+ipni_surname: Emerson
+ipni_forenames: Julia Titus
+ipni_standard_form: Emers.
+ipni_dates: 1877-1962
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:30.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33260321) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

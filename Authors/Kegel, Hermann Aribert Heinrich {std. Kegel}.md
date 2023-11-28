@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0602
+tl2_volume: vol2
+tl2_page_printed: 513
+tl2_surname: Kegel
+tl2_forenames: Hermann Aribert Heinrich
+tl2_name_abbrev: Kegel
+tl2_dates: 1819-1856
+tl2_page_id: 33068755
+author_lsid: 4696-1
+wikidata_id: Q21517387
+ipni_surname: Kegel
+ipni_forenames: Hermann Aribert Heinrich
+ipni_standard_form: Kegel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

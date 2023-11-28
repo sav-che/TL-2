@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0932
+tl2_volume: vol4
+tl2_page_printed: 903
+tl2_surname: Rossetti
+tl2_forenames: Corrado
+tl2_name_abbrev: Rossetti
+tl2_dates: 1866-?
+tl2_page_id: 33190374
+author_lsid: 8617-1
+wikidata_id: Q21607432
+ipni_surname: Rossetti
+ipni_forenames: Corrado
+ipni_standard_form: Rossetti
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

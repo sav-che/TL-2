@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0084
+tl2_volume: suppl8
+tl2_page_printed: 113
+tl2_surname: Gammie
+tl2_forenames: George Alexander
+tl2_name_abbrev: Gammie
+tl2_dates: 1839-1935
+tl2_page_id: 33258591
+author_lsid: 3005-1
+wikidata_id: Q21513729
+ipni_surname: Gammie
+ipni_forenames: George Alexander
+ipni_standard_form: Gammie
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33258591) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

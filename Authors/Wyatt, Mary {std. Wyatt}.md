@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0439
+tl2_volume: vol7
+tl2_page_printed: 481
+tl2_surname: Wyatt
+tl2_forenames: Mary
+tl2_name_abbrev: Wyatt
+tl2_dates: x-c. 1850
+tl2_page_id: 33066821
+author_lsid: 35136-1
+wikidata_id: Q21613125
+ipni_surname: Wyatt
+ipni_forenames: Mary
+ipni_standard_form: Wyatt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

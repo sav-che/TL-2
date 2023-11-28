@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0901
+tl2_volume: vol2
+tl2_page_printed: 760
+tl2_surname: Larsen
+tl2_forenames: Esther Louise
+tl2_name_abbrev: Larsen
+tl2_dates: 1901-x
+tl2_page_id: 33069002
+author_lsid: 12639-1
+wikidata_id: Q21518399
+ipni_surname: Larsen
+ipni_forenames: Esther Louise
+ipni_standard_form: Larsen
+ipni_dates: 1901-
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:54.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

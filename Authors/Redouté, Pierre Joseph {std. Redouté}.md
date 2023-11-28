@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0655
+tl2_volume: vol4
+tl2_page_printed: 623
+tl2_surname: Redouté
+tl2_forenames: Pierre Joseph
+tl2_name_abbrev: Redouté
+tl2_dates: 1759-1840
+tl2_page_id: 33190094
+author_lsid: 8222-1
+wikidata_id: Q551638
+ipni_surname: Redouté
+ipni_forenames: Pierre Joseph
+ipni_standard_form: Redouté
+ipni_dates: 1759-1840
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+- Luxembourg
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

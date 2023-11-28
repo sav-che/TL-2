@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0064
+tl2_volume: vol3
+tl2_page_printed: 116
+tl2_surname: Lipschitz
+tl2_forenames: Sergej Julievitsch
+tl2_name_abbrev: Lipsch.
+tl2_dates: 1905-x
+tl2_page_id: 33355203
+author_lsid: 12655-1
+wikidata_id: Q4262962
+ipni_surname: Lipschitz
+ipni_forenames: Sergej Julievitsch
+ipni_standard_form: Lipsch.
+ipni_dates: 1905-1983
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Russian Federation
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:39.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

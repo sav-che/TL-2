@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0178
+tl2_volume: suppl5
+tl2_page_printed: 166
+tl2_surname: Dekker
+tl2_forenames: Johannes
+tl2_name_abbrev: Dekker
+tl2_dates: 1879-x
+tl2_page_id: 33259212
+author_lsid: 17892-1
+wikidata_id: Q21510134
+ipni_surname: Dekker
+ipni_forenames: Johannes
+ipni_standard_form: Dekker
+ipni_dates: 1879-?
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:34.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

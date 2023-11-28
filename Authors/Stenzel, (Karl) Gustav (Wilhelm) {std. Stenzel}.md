@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0897
+tl2_volume: vol5
+tl2_page_printed: 886
+tl2_surname: Stenzel
+tl2_forenames: [Karl] Gustav [Wilhelm]
+tl2_name_abbrev: Stenzel
+tl2_dates: 1826-1905
+tl2_page_id: 33334025
+author_lsid: 12886-1
+wikidata_id: Q21609780
+ipni_surname: Stenzel
+ipni_forenames: Karl Gustav Wilhelm
+ipni_standard_form: Stenzel
+ipni_dates: 1826-1905
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:33:51.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

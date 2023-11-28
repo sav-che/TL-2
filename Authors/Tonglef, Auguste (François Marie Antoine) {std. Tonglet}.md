@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0422
+tl2_volume: vol6
+tl2_page_printed: 392
+tl2_surname: Tonglef
+tl2_forenames: Auguste [François Marie Antoine]
+tl2_name_abbrev: Tonglet
+tl2_dates: 1864-1936
+tl2_page_id: 33212434
+author_lsid: 12939-1
+wikidata_id: Q21610850
+ipni_surname: Tonglet
+ipni_forenames: August (François Marie Antoine)
+ipni_standard_form: Tonglet
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Belgium
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

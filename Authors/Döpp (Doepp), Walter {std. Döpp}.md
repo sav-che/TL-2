@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0021
+tl2_volume: suppl6
+tl2_page_printed: 22
+tl2_surname: Döpp [Doepp]
+tl2_forenames: Walter
+tl2_name_abbrev: Döpp
+tl2_dates: 1901-1963
+tl2_page_id: 33260010
+author_lsid: 34385-1
+wikidata_id: Q16508920
+ipni_surname: Döpp
+ipni_forenames: Walter
+ipni_standard_form: Döpp
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+ipni_geo_scope: 
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

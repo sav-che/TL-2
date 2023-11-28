@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0658
+tl2_volume: vol5
+tl2_page_printed: 658
+tl2_surname: Smielowsky [Smelowsky]
+tl2_forenames: Timotheus
+tl2_name_abbrev: Smielowsky
+tl2_dates: 1769-1815
+tl2_page_id: 33333797
+author_lsid: 9761-1
+wikidata_id: Q4424246
+ipni_surname: Smielowsky
+ipni_forenames: Timotheus
+ipni_standard_form: Smiel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

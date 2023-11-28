@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0124
+tl2_volume: vol2
+tl2_page_printed: 105
+tl2_surname: Haworth
+tl2_forenames: Adrian Hardy
+tl2_name_abbrev: Haw.
+tl2_dates: 1768-1833
+tl2_page_id: 33068347
+author_lsid: 3738-1
+wikidata_id: Q373119
+ipni_surname: Haworth
+ipni_forenames: Adrian Hardy
+ipni_standard_form: Haw.
+ipni_dates: 1768-1833
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

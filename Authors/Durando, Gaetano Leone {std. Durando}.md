@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0904
+tl2_volume: vol1
+tl2_page_printed: 710
+tl2_surname: Durando
+tl2_forenames: Gaetano Leone
+tl2_name_abbrev: Durando
+tl2_dates: 1811-1892
+tl2_page_id: 33120841
+author_lsid: 2403-1
+wikidata_id: Q21511148
+ipni_surname: Durando
+ipni_forenames: Gaetano Leone
+ipni_standard_form: Durando
+ipni_dates: 1811-1892
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Algeria
+- France
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

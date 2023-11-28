@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0332
+tl2_volume: vol7
+tl2_page_printed: 379
+tl2_surname: Winslow
+tl2_forenames: Andreas Peter [Pettersson]
+tl2_name_abbrev: Winslow
+tl2_dates: 1835-1900
+tl2_page_id: 33066719
+author_lsid: 35137-1
+wikidata_id: Q21612832
+ipni_surname: Winslow
+ipni_forenames: Andreas Peter(Petersson)
+ipni_standard_form: Winslow
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

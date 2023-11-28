@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol6_0774
+tl2_volume: vol6
+tl2_page_printed: 792
+tl2_surname: Vriese
+tl2_forenames: Willem Hendrik de
+tl2_name_abbrev: de Vriese
+tl2_dates: 1806-1862
+tl2_page_id: 33212834
+author_lsid: 11274-1
+wikidata_id: Q2101720
+ipni_surname: de Vriese
+ipni_forenames: Willem Hendrik
+ipni_standard_form: de Vriese
+ipni_dates: 1806-1862
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Netherlands
+- Indonesia
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:22.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33212834) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_1005
+tl2_volume: vol3
+tl2_page_printed: 849
+tl2_surname: Ortega
+tl2_forenames: Jesús González
+tl2_name_abbrev: J. Gonz. Ort.
+tl2_dates: 1876-1936
+tl2_page_id: 33355936
+author_lsid: 7171-1
+wikidata_id: Q5930176
+ipni_surname: Ortega
+ipni_forenames: Jesús González
+ipni_standard_form: J.G.Ortega
+ipni_dates: 1876-1936
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:32.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33355936) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

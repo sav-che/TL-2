@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0923
+tl2_volume: vol2
+tl2_page_printed: 772
+tl2_surname: Lavy
+tl2_forenames: Jean
+tl2_name_abbrev: Lavy
+tl2_dates: 1775-1851
+tl2_page_id: 33069014
+author_lsid: 5342-1
+wikidata_id: Q21518442
+ipni_surname: Lavy
+ipni_forenames: Jean
+ipni_standard_form: Lavy
+ipni_dates: 1775-1851
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33069014) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

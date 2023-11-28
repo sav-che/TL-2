@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0705
+tl2_volume: vol1
+tl2_page_printed: 563
+tl2_surname: Cramer
+tl2_forenames: Carl Eduard
+tl2_name_abbrev: C. Cramer
+tl2_dates: 1831-1901
+tl2_page_id: 33120694
+author_lsid: 1860-1
+wikidata_id: Q2624664
+ipni_surname: Cramer
+ipni_forenames: Carl Eduard
+ipni_standard_form: C.E.Cramer
+ipni_dates: 1831-1901
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33120694) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

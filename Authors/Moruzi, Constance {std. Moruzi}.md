@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0702
+tl2_volume: vol3
+tl2_page_printed: 599
+tl2_surname: Moruzi
+tl2_forenames: Constance
+tl2_name_abbrev: Moruzi
+tl2_dates: 1899-x
+tl2_page_id: 33355686
+author_lsid: 6690-1
+wikidata_id: Q21521768
+ipni_surname: Moruzi
+ipni_forenames: Constance
+ipni_standard_form: Moruzi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

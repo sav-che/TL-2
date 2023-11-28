@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0419
+tl2_volume: suppl1
+tl2_page_printed: 368
+tl2_surname: Bastian
+tl2_forenames: Henry Charlton
+tl2_name_abbrev: Bastian
+tl2_dates: 1837-1915
+tl2_page_id: 33265095
+author_lsid: 15763-1
+wikidata_id: Q718511
+ipni_surname: Bastian
+ipni_forenames: Henry Charlton
+ipni_standard_form: Bastian
+ipni_dates: 1837-1915
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:37:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0570
+tl2_volume: vol2
+tl2_page_printed: 485
+tl2_surname: Kalchbrenner
+tl2_forenames: Károly (Karl)
+tl2_name_abbrev: Kalchbr.
+tl2_dates: 1807-1886
+tl2_page_id: 33068727
+author_lsid: 4617-1
+wikidata_id: Q736795
+ipni_surname: Kalchbrenner
+ipni_forenames: Károly (Karl)
+ipni_standard_form: Kalchbr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Mycology
+ipni_geo_scope: 
+- Austria
+- Hungary
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

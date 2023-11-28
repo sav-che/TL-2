@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl8_0140
+tl2_volume: suppl8
+tl2_page_printed: 182
+tl2_surname: Georgia
+tl2_forenames: Ada Eljiva
+tl2_name_abbrev: Georgia
+tl2_dates: 1859-1921
+tl2_page_id: 33258660
+author_lsid: 3094-1
+wikidata_id: Q21513902
+ipni_surname: Georgia
+ipni_forenames: Ada E.
+ipni_standard_form: Georgia
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

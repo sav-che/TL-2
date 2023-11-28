@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0557
+tl2_volume: vol2
+tl2_page_printed: 477
+tl2_surname: Jussieu
+tl2_forenames: Antoine de
+tl2_name_abbrev: Ant. Juss.
+tl2_dates: 1686-1758
+tl2_page_id: 33068719
+author_lsid: 4595-1
+wikidata_id: Q435674
+ipni_surname: Jussieu
+ipni_forenames: Antoine de
+ipni_standard_form: Ant.Juss.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33068719) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

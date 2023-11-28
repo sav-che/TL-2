@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0078
+tl2_volume: vol5
+tl2_page_printed: 79
+tl2_surname: Sauvalle
+tl2_forenames: Francisco Adolfo
+tl2_name_abbrev: Sauvalle
+tl2_dates: 1807-1879
+tl2_page_id: 33333218
+author_lsid: 8965-1
+wikidata_id: Q3081775
+ipni_surname: Sauvalle
+ipni_forenames: Francisco Adolfo
+ipni_standard_form: Sauvalle
+ipni_dates: 1807-1879
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Cuba
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:41:38.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33333218) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

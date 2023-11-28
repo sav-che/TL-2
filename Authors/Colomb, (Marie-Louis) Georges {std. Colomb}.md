@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl4_0215
+tl2_volume: suppl4
+tl2_page_printed: 280
+tl2_surname: Colomb
+tl2_forenames: [Marie-Louis] Georges
+tl2_name_abbrev: Colomb
+tl2_dates: 1856-?
+tl2_page_id: 33265957
+author_lsid: 1748-1
+wikidata_id: Q2966075
+ipni_surname: Colomb
+ipni_forenames: Marie Louis Georges
+ipni_standard_form: Colomb
+ipni_dates: 1856-1945
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-06-28 01:58:50.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33265957) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

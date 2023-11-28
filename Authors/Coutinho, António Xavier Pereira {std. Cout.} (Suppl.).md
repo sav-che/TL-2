@@ -1,3 +1,32 @@
+---
+tl2_entry_id: tl2_suppl4_0344
+tl2_volume: suppl4
+tl2_page_printed: 426
+tl2_surname: Coutinho
+tl2_forenames: António Xavier Pereira
+tl2_name_abbrev: Cout.
+tl2_dates: 1851-1939
+tl2_page_id: 33266103
+author_lsid: 17478-1
+wikidata_id: Q11679890
+ipni_surname: Coutinho
+ipni_forenames: António Xavier Pereira
+ipni_standard_form: Cout.
+ipni_dates: 1851-1939
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Portugal
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-12-02 13:11:35.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

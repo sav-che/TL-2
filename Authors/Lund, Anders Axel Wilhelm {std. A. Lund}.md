@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0174
+tl2_volume: vol3
+tl2_page_printed: 193
+tl2_surname: Lund
+tl2_forenames: Anders Axel Wilhelm
+tl2_name_abbrev: A. Lund
+tl2_dates: 1839-1925
+tl2_page_id: 33355280
+author_lsid: 5834-1
+wikidata_id: Q5965480
+ipni_surname: Lund
+ipni_forenames: Anders Axel Wilhelm
+ipni_standard_form: A.A.W.Lund
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

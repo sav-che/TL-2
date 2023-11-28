@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0880
+tl2_volume: vol5
+tl2_page_printed: 876
+tl2_surname: Steiner
+tl2_forenames: Maximilian
+tl2_name_abbrev: M. Steiner
+tl2_dates: 1904-x
+tl2_page_id: 33334015
+author_lsid: 10081-1
+wikidata_id: Q21512713
+ipni_surname: Steiner
+ipni_forenames: Maximilian
+ipni_standard_form: M.Steiner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33334015) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

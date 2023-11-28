@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0231
+tl2_volume: suppl6
+tl2_page_printed: 223
+tl2_surname: Duvernoy
+tl2_forenames: Charles Jules Arthur
+tl2_name_abbrev: Duvernoy
+tl2_dates: 1876-1922
+tl2_page_id: 33260211
+author_lsid: 18315-1
+wikidata_id: Q47116746
+ipni_surname: Duvernoy
+ipni_forenames: A.
+ipni_standard_form: Duvernoy
+ipni_dates: fl. 1920
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

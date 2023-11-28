@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0191
+tl2_volume: suppl1
+tl2_page_printed: 151
+tl2_surname: Arduino
+tl2_forenames: Luigi
+tl2_name_abbrev: L. Ard.
+tl2_dates: 1759-1834
+tl2_page_id: 33264878
+author_lsid: 257-1
+wikidata_id: Q1876090
+ipni_surname: Arduino
+ipni_forenames: Luigi
+ipni_standard_form: L.Ard.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

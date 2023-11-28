@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0378
+tl2_volume: suppl1
+tl2_page_printed: 331
+tl2_surname: Barnes
+tl2_forenames: Charles Reid
+tl2_name_abbrev: Barnes
+tl2_dates: 1858-1910
+tl2_page_id: 33265058
+author_lsid: 31339-1
+wikidata_id: Q289681
+ipni_surname: Barnes
+ipni_forenames: Charles Reid
+ipni_standard_form: Barnes
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33265058) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl1_0231
+tl2_volume: suppl1
+tl2_page_printed: 200
+tl2_surname: Atkinson
+tl2_forenames: George Francis
+tl2_name_abbrev: Atk.
+tl2_dates: 1854-1918
+tl2_page_id: 33264927
+author_lsid: 31067-1
+wikidata_id: Q2634604
+ipni_surname: Atkinson
+ipni_forenames: George Francis
+ipni_standard_form: G.F.Atk.
+ipni_dates: 1854-1918
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33264927) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

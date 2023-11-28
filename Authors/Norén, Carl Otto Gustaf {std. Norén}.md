@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0918
+tl2_volume: vol3
+tl2_page_printed: 770
+tl2_surname: Norén
+tl2_forenames: Carl Otto Gustaf
+tl2_name_abbrev: Norén
+tl2_dates: 1876-1914
+tl2_page_id: 33355857
+author_lsid: 7031-1
+wikidata_id: Q21522229
+ipni_surname: Norén
+ipni_forenames: Carl Otto Gustav
+ipni_standard_form: Norén
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

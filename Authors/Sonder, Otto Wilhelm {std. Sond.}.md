@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol5_0736
+tl2_volume: vol5
+tl2_page_printed: 741
+tl2_surname: Sonder
+tl2_forenames: Otto Wilhelm
+tl2_name_abbrev: Sond.
+tl2_dates: 1812-1881
+tl2_page_id: 33333880
+author_lsid: 9891-1
+wikidata_id: Q77215
+ipni_surname: Sonder
+ipni_forenames: Otto Wilhelm
+ipni_standard_form: Sond.
+ipni_dates: 1812-1881
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:46:42.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

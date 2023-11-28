@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_1247
+tl2_volume: vol1
+tl2_page_printed: 994
+tl2_surname: Grecescu
+tl2_forenames: Dimitrie
+tl2_name_abbrev: Grecescu
+tl2_dates: 1841-1910
+tl2_page_id: 33121125
+author_lsid: 3360-1
+wikidata_id: Q12726698
+ipni_surname: Grecescu
+ipni_forenames: Dimitrie (Demetrius)
+ipni_standard_form: Grecescu
+ipni_dates: 1841-1910
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Romania
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0812
+tl2_volume: vol3
+tl2_page_printed: 695
+tl2_surname: Naudin
+tl2_forenames: Charles Victor
+tl2_name_abbrev: Naudin
+tl2_dates: 1815-1899
+tl2_page_id: 33355782
+author_lsid: 6867-1
+wikidata_id: Q2245197
+ipni_surname: Naudin
+ipni_forenames: Charles Victor
+ipni_standard_form: Naudin
+ipni_dates: 1815-1899
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:17.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33355782) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

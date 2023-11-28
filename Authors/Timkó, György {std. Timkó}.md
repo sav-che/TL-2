@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0380
+tl2_volume: vol6
+tl2_page_printed: 361
+tl2_surname: Timkó
+tl2_forenames: György
+tl2_name_abbrev: Timkó
+tl2_dates: 1881-1945
+tl2_page_id: 33212403
+author_lsid: 27741-1
+wikidata_id: Q21512726
+ipni_surname: Timkó
+ipni_forenames: György
+ipni_standard_form: Timkó
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Hungary
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

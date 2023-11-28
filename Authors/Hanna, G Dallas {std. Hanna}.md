@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0059
+tl2_volume: vol2
+tl2_page_printed: 45
+tl2_surname: Hanna
+tl2_forenames: G Dallas
+tl2_name_abbrev: Hanna
+tl2_dates: 1887-1970
+tl2_page_id: 33068287
+author_lsid: 3621-1
+wikidata_id: Q3093467
+ipni_surname: Hanna
+ipni_forenames: G Dallas
+ipni_standard_form: Hanna
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

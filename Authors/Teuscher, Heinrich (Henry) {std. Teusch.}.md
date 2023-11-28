@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0269
+tl2_volume: vol6
+tl2_page_printed: 229
+tl2_surname: Teuscher
+tl2_forenames: Heinrich [Henry]
+tl2_name_abbrev: Teusch.
+tl2_dates: 1891-1984
+tl2_page_id: 33212271
+author_lsid: 10535-1
+wikidata_id: Q5729092
+ipni_surname: Teuscher
+ipni_forenames: Heinrich(Henry)
+ipni_standard_form: Teusch.
+ipni_dates: 1891-1984
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:25:47.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33212271) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

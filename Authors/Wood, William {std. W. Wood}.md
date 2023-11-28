@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0392
+tl2_volume: vol7
+tl2_page_printed: 441
+tl2_surname: Wood
+tl2_forenames: William
+tl2_name_abbrev: W. Wood
+tl2_dates: 1745-1808
+tl2_page_id: 33066781
+author_lsid: 11849-1
+wikidata_id: Q526606
+ipni_surname: Wood
+ipni_forenames: William
+ipni_standard_form: Wood
+ipni_dates: 1745-1808
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33066781) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

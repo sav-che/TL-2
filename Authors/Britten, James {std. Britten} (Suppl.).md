@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl3_0088
+tl2_volume: suppl3
+tl2_page_printed: 90
+tl2_surname: Britten
+tl2_forenames: James
+tl2_name_abbrev: Britten
+tl2_dates: 1846-1924
+tl2_page_id: 33266397
+author_lsid: 1156-1
+wikidata_id: Q4096621
+ipni_surname: Britten
+ipni_forenames: James
+ipni_standard_form: Britten
+ipni_dates: 1846-1924
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33266397) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

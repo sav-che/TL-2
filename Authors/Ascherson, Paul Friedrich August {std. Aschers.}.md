@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0105
+tl2_volume: vol1
+tl2_page_printed: 72
+tl2_surname: Ascherson
+tl2_forenames: Paul Friedrich August
+tl2_name_abbrev: Aschers.
+tl2_dates: 1834-1913
+tl2_page_id: 33120203
+author_lsid: 307-1
+wikidata_id: Q61290
+ipni_surname: Ascherson
+ipni_forenames: Paul Friedrich August
+ipni_standard_form: Asch.
+ipni_dates: 1834-1913
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

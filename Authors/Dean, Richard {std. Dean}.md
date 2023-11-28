@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0137
+tl2_volume: suppl5
+tl2_page_printed: 121
+tl2_surname: Dean
+tl2_forenames: Richard
+tl2_name_abbrev: Dean
+tl2_dates: 1830-1905
+tl2_page_id: 33259167
+author_lsid: 2051-1
+wikidata_id: Q21510085
+ipni_surname: Dean
+ipni_forenames: Richard
+ipni_standard_form: Dean
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33259167) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0225
+tl2_volume: suppl1
+tl2_page_printed: 196
+tl2_surname: Askenasy
+tl2_forenames: Eugen
+tl2_name_abbrev: Ask.
+tl2_dates: 1845-1903
+tl2_page_id: 33264923
+author_lsid: 314-1
+wikidata_id: Q1372378
+ipni_surname: Askenasy
+ipni_forenames: Eugen
+ipni_standard_form: Askenasy
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33264923) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

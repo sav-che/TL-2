@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl3_0125
+tl2_volume: suppl3
+tl2_page_printed: 138
+tl2_surname: Brown
+tl2_forenames: Olof Theodor
+tl2_name_abbrev: O.T. Br.
+tl2_dates: 1845-1893
+tl2_page_id: 33266445
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33266445) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

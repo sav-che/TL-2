@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl2_0374
+tl2_volume: suppl2
+tl2_page_printed: 313
+tl2_surname: Bonnet
+tl2_forenames: Charles
+tl2_name_abbrev: Ch. Bonnet
+tl2_dates: 1720-1793
+tl2_page_id: 33265510
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265510) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

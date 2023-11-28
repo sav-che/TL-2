@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol6_0008
+tl2_volume: vol6
+tl2_page_printed: 10
+tl2_surname: Stockmans
+tl2_forenames: François
+tl2_name_abbrev: Stockmans
+tl2_dates: 1904-x
+tl2_page_id: 33212084
+author_lsid: 10152-1
+wikidata_id: Q3085859
+ipni_surname: Stockmans
+ipni_forenames: François
+ipni_standard_form: Stockmans
+ipni_dates: 1904-1986
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:52.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

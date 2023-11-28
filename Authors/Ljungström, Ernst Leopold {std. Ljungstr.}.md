@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0076
+tl2_volume: vol3
+tl2_page_printed: 122
+tl2_surname: Ljungström
+tl2_forenames: Ernst Leopold
+tl2_name_abbrev: Ljungstr.
+tl2_dates: 1854-1943
+tl2_page_id: 33355209
+author_lsid: 5670-1
+wikidata_id: Q21519385
+ipni_surname: Ljungström
+ipni_forenames: Ernst Leopold
+ipni_standard_form: Ljungstr.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

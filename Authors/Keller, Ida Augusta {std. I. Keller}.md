@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0607
+tl2_volume: vol2
+tl2_page_printed: 515
+tl2_surname: Keller
+tl2_forenames: Ida Augusta
+tl2_name_abbrev: I. Keller
+tl2_dates: 1866-1932
+tl2_page_id: 33068757
+author_lsid: 4706-1
+wikidata_id: Q18631896
+ipni_surname: Keller
+ipni_forenames: Ida Augusta
+ipni_standard_form: I.Keller
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33068757) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

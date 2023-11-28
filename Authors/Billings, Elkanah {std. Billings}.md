@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0283
+tl2_volume: vol1
+tl2_page_printed: 215
+tl2_surname: Billings
+tl2_forenames: Elkanah
+tl2_name_abbrev: Billings
+tl2_dates: 1820-1876
+tl2_page_id: 33120346
+author_lsid: 792-1
+wikidata_id: Q1331443
+ipni_surname: Billings
+ipni_forenames: Elkanagh
+ipni_standard_form: Billings
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+- Fossils
+ipni_geo_scope: 
+- Canada
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

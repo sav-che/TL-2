@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0520
+tl2_volume: vol6
+tl2_page_printed: 511
+tl2_surname: Truan y Luard
+tl2_forenames: Alfredo
+tl2_name_abbrev: Truan
+tl2_dates: 1837-1890
+tl2_page_id: 33212553
+author_lsid: 10858-1
+wikidata_id: Q21610977
+ipni_surname: Truan y Luard
+ipni_forenames: Alfredo
+ipni_standard_form: Truan
+ipni_dates: 1837-1890
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:39:05.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

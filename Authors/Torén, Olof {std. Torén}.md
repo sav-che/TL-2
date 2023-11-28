@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0427
+tl2_volume: vol6
+tl2_page_printed: 394
+tl2_surname: Torén
+tl2_forenames: Olof
+tl2_name_abbrev: Torén
+tl2_dates: 1718-1753
+tl2_page_id: 33212436
+author_lsid: 10742-1
+wikidata_id: Q1493160
+ipni_surname: Torén
+ipni_forenames: Olof
+ipni_standard_form: Torén
+ipni_dates: 1718-1753
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33212436) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

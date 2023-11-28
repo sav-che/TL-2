@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0357
+tl2_volume: vol5
+tl2_page_printed: 381
+tl2_surname: Schultze
+tl2_forenames: Christian Friedrich
+tl2_name_abbrev: C. Schultze
+tl2_dates: 1730-1755
+tl2_page_id: 33333520
+author_lsid: 9300-1
+wikidata_id: Q21608477
+ipni_surname: Schultze
+ipni_forenames: Christian Friedrich
+ipni_standard_form: C.Schultze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

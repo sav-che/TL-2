@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl3_0013
+tl2_volume: suppl3
+tl2_page_printed: 10
+tl2_surname: Brandegee
+tl2_forenames: Townsend Stith
+tl2_name_abbrev: Brandegee
+tl2_dates: 1843-1925
+tl2_page_id: 33266317
+author_lsid: 1071-1
+wikidata_id: Q1002345
+ipni_surname: Brandegee
+ipni_forenames: Townshend Stith
+ipni_standard_form: Brandegee
+ipni_dates: 1843-1925
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

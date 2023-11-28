@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0378
+tl2_volume: vol5
+tl2_page_printed: 395
+tl2_surname: Schulze
+tl2_forenames: Walther
+tl2_name_abbrev: Wa. Schulze
+tl2_dates: 1875-?
+tl2_page_id: 33333534
+author_lsid: 9325-1
+wikidata_id: Q21608497
+ipni_surname: Schulze
+ipni_forenames: Walther
+ipni_standard_form: Walt.Schulze
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

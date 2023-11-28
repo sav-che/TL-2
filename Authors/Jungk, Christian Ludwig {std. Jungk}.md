@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0553
+tl2_volume: vol2
+tl2_page_printed: 473
+tl2_surname: Jungk
+tl2_forenames: Christian Ludwig
+tl2_name_abbrev: Jungk
+tl2_dates: fl. 1807
+tl2_page_id: 33068715
+author_lsid: 4587-1
+wikidata_id: Q36525772
+ipni_surname: Jungk
+ipni_forenames: Christian Ludwig
+ipni_standard_form: Jungk
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33068715) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

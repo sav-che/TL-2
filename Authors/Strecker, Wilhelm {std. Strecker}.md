@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0053
+tl2_volume: vol6
+tl2_page_printed: 44
+tl2_surname: Strecker
+tl2_forenames: Wilhelm
+tl2_name_abbrev: Strecker
+tl2_dates: 1858-1934
+tl2_page_id: 33212048
+author_lsid: 10210-1
+wikidata_id: Q2575289
+ipni_surname: Strecker
+ipni_forenames: Wilhelm
+ipni_standard_form: Strecker
+ipni_dates: 1858-1934
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:48:27.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33212048) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

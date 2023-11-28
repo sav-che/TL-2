@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0275
+tl2_volume: vol4
+tl2_page_printed: 242
+tl2_surname: Phillips
+tl2_forenames: John
+tl2_name_abbrev: J. Phillips
+tl2_dates: 1800-1874
+tl2_page_id: 33189713
+author_lsid: 7643-1
+wikidata_id: Q1701428
+ipni_surname: Phillips
+ipni_forenames: John
+ipni_standard_form: J.Phillips
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+- Algae
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33189713) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

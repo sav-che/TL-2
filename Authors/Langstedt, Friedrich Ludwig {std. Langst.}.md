@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0889
+tl2_volume: vol2
+tl2_page_printed: 753
+tl2_surname: Langstedt
+tl2_forenames: Friedrich Ludwig
+tl2_name_abbrev: Langst.
+tl2_dates: 1750-1804
+tl2_page_id: 33068995
+author_lsid: 5272-1
+wikidata_id: Q3087749
+ipni_surname: Langstedt
+ipni_forenames: Friedrich Ludwig
+ipni_standard_form: Langst.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

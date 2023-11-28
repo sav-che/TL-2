@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0981
+tl2_volume: vol4
+tl2_page_printed: 952
+tl2_surname: Rowlee
+tl2_forenames: Willard Winfield
+tl2_name_abbrev: Rowlee
+tl2_dates: 1861-1923
+tl2_page_id: 33190423
+author_lsid: 8677-1
+wikidata_id: Q6167518
+ipni_surname: Rowlee
+ipni_forenames: Willard Winfield
+ipni_standard_form: Rowlee
+ipni_dates: 1861-1923
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:38:36.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

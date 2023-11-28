@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0544
+tl2_volume: vol5
+tl2_page_printed: 562
+tl2_surname: Sherrin
+tl2_forenames: William Robert
+tl2_name_abbrev: Sherrin
+tl2_dates: 1871-1955
+tl2_page_id: 33333701
+author_lsid: 9567-1
+wikidata_id: Q21608793
+ipni_surname: Sherrin
+ipni_forenames: William Robert
+ipni_standard_form: Sherrin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33333701) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

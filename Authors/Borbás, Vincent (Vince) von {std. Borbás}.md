@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0363
+tl2_volume: vol1
+tl2_page_printed: 278
+tl2_surname: Borbás
+tl2_forenames: Vincent [Vince] von
+tl2_name_abbrev: Borbás
+tl2_dates: 1844-1905
+tl2_page_id: 33120409
+author_lsid: 977-1
+wikidata_id: Q584241
+ipni_surname: Borbás
+ipni_forenames: Vincze (Vincent, Vince) von
+ipni_standard_form: Borbás
+ipni_dates: 1844-1905
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

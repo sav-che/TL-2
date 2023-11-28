@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol7_0199
+tl2_volume: vol7
+tl2_page_printed: 210
+tl2_surname: Westerdijk
+tl2_forenames: Johanna
+tl2_name_abbrev: Westerd.
+tl2_dates: 1883-1961
+tl2_page_id: 33066550
+author_lsid: 11585-1
+wikidata_id: Q2912854
+ipni_surname: Westerdijk
+ipni_forenames: Johanna
+ipni_standard_form: Westerd.
+ipni_dates: 1883-1961
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- Netherlands
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:44.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33066550) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

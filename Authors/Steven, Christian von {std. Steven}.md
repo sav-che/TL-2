@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0917
+tl2_volume: vol5
+tl2_page_printed: 911
+tl2_surname: Steven
+tl2_forenames: Christian von
+tl2_name_abbrev: Steven
+tl2_dates: 1781-1863
+tl2_page_id: 33334050
+author_lsid: 10125-1
+wikidata_id: Q967040
+ipni_surname: Steven
+ipni_forenames: Christian von
+ipni_standard_form: Steven
+ipni_dates: 1781-1863
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:27:58.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33334050) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

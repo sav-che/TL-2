@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl1_0454
+tl2_volume: suppl1
+tl2_page_printed: 393
+tl2_surname: Baxter
+tl2_forenames: Edgar Martin
+tl2_name_abbrev: E.M. Baxter
+tl2_dates: 1903-1967
+tl2_page_id: 33265120
+author_lsid: 563-1
+wikidata_id: Q5817706
+ipni_surname: Baxter
+ipni_forenames: Edgar Martin
+ipni_standard_form: E.M.Baxter
+ipni_dates: 1903-1967
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

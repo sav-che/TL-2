@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl8_0133
+tl2_volume: suppl8
+tl2_page_printed: 176
+tl2_surname: Genlis
+tl2_forenames: (Caroline) Stéphanie Félicité (née du Crest ...) (Comtesse de)
+tl2_name_abbrev: Genlis
+tl2_dates: 1746-1830/1831
+tl2_page_id: 33258654
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33258654) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

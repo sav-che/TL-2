@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol6_0743
+tl2_volume: vol6
+tl2_page_printed: 763
+tl2_surname: Vöchting
+tl2_forenames: Hermann
+tl2_name_abbrev: Vöcht.
+tl2_dates: 1847-1917
+tl2_page_id: 33212805
+author_lsid: 11231-1
+wikidata_id: Q87162
+ipni_surname: Vöchting
+ipni_forenames: Hermann
+ipni_standard_form: Vöcht.
+ipni_dates: 1847-1917
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

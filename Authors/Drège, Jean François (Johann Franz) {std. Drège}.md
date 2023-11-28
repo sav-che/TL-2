@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol1_0861
+tl2_volume: vol1
+tl2_page_printed: 680
+tl2_surname: Drège
+tl2_forenames: Jean François (Johann Franz)
+tl2_name_abbrev: Drège
+tl2_dates: 1794-1881
+tl2_page_id: 33120811
+author_lsid: 18196-1
+wikidata_id: Q6215799
+ipni_surname: Drège
+ipni_forenames: Jean François (Johann Franz)
+ipni_standard_form: Drège
+ipni_dates: 1794-1881
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+- Algae
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33120811) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

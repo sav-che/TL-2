@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0315
+tl2_volume: vol5
+tl2_page_printed: 322
+tl2_surname: Schramm
+tl2_forenames: [Johannes] Augustin
+tl2_name_abbrev: Aug. Schramm
+tl2_dates: 1773-1849
+tl2_page_id: 33333461
+author_lsid: 12841-1
+wikidata_id: Q21608418
+ipni_surname: Schramm
+ipni_forenames: Johannes Augustin
+ipni_standard_form: J.A.Schramm
+ipni_dates: 1773-1849
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:07.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

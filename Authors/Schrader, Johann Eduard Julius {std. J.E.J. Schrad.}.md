@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0312
+tl2_volume: vol5
+tl2_page_printed: 321
+tl2_surname: Schrader
+tl2_forenames: Johann Eduard Julius
+tl2_name_abbrev: J.E.J. Schrad.
+tl2_dates: 1809-1898
+tl2_page_id: 33333460
+author_lsid: 9249-1
+wikidata_id: Q21608403
+ipni_surname: Schrader
+ipni_forenames: Johann Eduard Julius
+ipni_standard_form: J.E.J.Schrad.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

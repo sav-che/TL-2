@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0264
+tl2_volume: vol5
+tl2_page_printed: 274
+tl2_surname: Schneider
+tl2_forenames: Gustav
+tl2_name_abbrev: Gus. Schneid.
+tl2_dates: x-ca. 1908
+tl2_page_id: 33333413
+author_lsid: 9195-1
+wikidata_id: Q5889391
+ipni_surname: Schneider
+ipni_forenames: Gustav
+ipni_standard_form: Gus.Schneid.
+ipni_dates: 1834-1900
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33333413) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

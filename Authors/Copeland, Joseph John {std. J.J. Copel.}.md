@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0278
+tl2_volume: suppl4
+tl2_page_printed: 349
+tl2_surname: Copeland
+tl2_forenames: Joseph John
+tl2_name_abbrev: J.J. Copel.
+tl2_dates: 1907-x
+tl2_page_id: 33266026
+author_lsid: 32805-1
+wikidata_id: Q21509028
+ipni_surname: Copeland
+ipni_forenames: Joseph J.
+ipni_standard_form: J.J.Copel.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33266026) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

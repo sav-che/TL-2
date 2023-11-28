@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl5_0160
+tl2_volume: suppl5
+tl2_page_printed: 147
+tl2_surname: Deflers
+tl2_forenames: Albert
+tl2_name_abbrev: Deflers
+tl2_dates: 1841-1921
+tl2_page_id: 33259193
+author_lsid: 17881-1
+wikidata_id: Q5687736
+ipni_surname: Deflers
+ipni_forenames: Albert
+ipni_standard_form: Deflers
+ipni_dates: 1841-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:36:21.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33259193) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

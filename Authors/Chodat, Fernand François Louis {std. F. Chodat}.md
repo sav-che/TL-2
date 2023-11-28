@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl4_0100
+tl2_volume: suppl4
+tl2_page_printed: 113
+tl2_surname: Chodat
+tl2_forenames: Fernand François Louis
+tl2_name_abbrev: F. Chodat
+tl2_dates: 1900-1974
+tl2_page_id: 33265790
+author_lsid: 32729-1
+wikidata_id: Q21508480
+ipni_surname: Chodat
+ipni_forenames: Fernand François Louis
+ipni_standard_form: F.Chodat
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.2.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265790) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

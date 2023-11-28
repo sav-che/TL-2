@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0649
+tl2_volume: vol5
+tl2_page_printed: 648
+tl2_surname: Sloff
+tl2_forenames: Jan G.
+tl2_name_abbrev: Sloff
+tl2_dates: 1892-1979
+tl2_page_id: 33333787
+author_lsid: 9748-1
+wikidata_id: Q21609036
+ipni_surname: Sloff
+ipni_forenames: Jan G.
+ipni_standard_form: Sloff
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

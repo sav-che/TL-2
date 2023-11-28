@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0237
+tl2_volume: vol2
+tl2_page_printed: 195
+tl2_surname: Higley
+tl2_forenames: William Kerr
+tl2_name_abbrev: Higl.
+tl2_dates: 1860-1908
+tl2_page_id: 33068437
+author_lsid: 3935-1
+wikidata_id: Q21515799
+ipni_surname: Higley
+ipni_forenames: William Kerr
+ipni_standard_form: Higley
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

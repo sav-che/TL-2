@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0548
+tl2_volume: vol4
+tl2_page_printed: 473
+tl2_surname: Rabinowitsch
+tl2_forenames: Lydia
+tl2_name_abbrev: Rabinowitsch
+tl2_dates: 1871-1935
+tl2_page_id: 33189944
+author_lsid: 8069-1
+wikidata_id: Q111057
+ipni_surname: Rabinowitsch
+ipni_forenames: Lydia
+ipni_standard_form: Rabin.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

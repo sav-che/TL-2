@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0777
+tl2_volume: vol5
+tl2_page_printed: 775
+tl2_surname: Sparrow
+tl2_forenames: Frederick Kroeber, Jr.
+tl2_name_abbrev: Sparrow
+tl2_dates: 1903-1977
+tl2_page_id: 33333914
+author_lsid: 12877-1
+wikidata_id: Q18631853
+ipni_surname: Sparrow
+ipni_forenames: Frederick Kroeber
+ipni_standard_form: Sparrow
+ipni_dates: 1903-1977
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:44:18.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33333914) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

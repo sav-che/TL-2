@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol5_0005
+tl2_volume: vol5
+tl2_page_printed: 7
+tl2_surname: Salm-Reifferscheid-Dyck
+tl2_forenames: Joseph Maria ...
+tl2_name_abbrev: Salm-Dyck
+tl2_dates: 1773-1861
+tl2_page_id: 33333176
+author_lsid: 8846-1
+wikidata_id: Q62938
+ipni_surname: Salm-Reifferscheid-Dyck
+ipni_forenames: Joseph Franz Maria Anton Hubert Ignatz Fürst zu
+ipni_standard_form: Salm-Dyck
+ipni_dates: 1773-1861
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2.1.1.2.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-12-19 15:41:04.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33333176) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

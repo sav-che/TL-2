@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0515
+tl2_volume: vol2
+tl2_page_printed: 452
+tl2_surname: Johnstone
+tl2_forenames: William Grosart
+tl2_name_abbrev: Johnstone
+tl2_dates: died c. 1860
+tl2_page_id: 33068694
+author_lsid: 4525-1
+wikidata_id: Q36701522
+ipni_surname: Johnstone
+ipni_forenames: William Grosart
+ipni_standard_form: Johnstone
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

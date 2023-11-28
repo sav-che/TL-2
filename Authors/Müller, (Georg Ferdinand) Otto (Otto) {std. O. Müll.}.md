@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol3_0752
+tl2_volume: vol3
+tl2_page_printed: 649
+tl2_surname: Müller
+tl2_forenames: [Georg Ferdinand] Otto [Otto]
+tl2_name_abbrev: O. Müll.
+tl2_dates: 1837-1917
+tl2_page_id: 33355736
+author_lsid: 6747-1
+wikidata_id: Q21516275
+ipni_surname: Müller
+ipni_forenames: Otto
+ipni_standard_form: O.Müll.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- Germany
+ipni_version: 1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

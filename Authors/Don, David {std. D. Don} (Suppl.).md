@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_suppl6_0042
+tl2_volume: suppl6
+tl2_page_printed: 48
+tl2_surname: Don
+tl2_forenames: David
+tl2_name_abbrev: D. Don
+tl2_dates: 1799-1841
+tl2_page_id: 33260036
+author_lsid: 18136-1
+wikidata_id: Q1174244
+ipni_surname: Don
+ipni_forenames: David
+ipni_standard_form: D.Don
+ipni_dates: 1799-1841
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33260036) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

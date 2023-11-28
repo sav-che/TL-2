@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1207
+tl2_volume: vol1
+tl2_page_printed: 954
+tl2_surname: Gmelin
+tl2_forenames: Carl [Karl] Christian
+tl2_name_abbrev: C.C. Gmelin
+tl2_dates: 1762-1837
+tl2_page_id: 33121085
+author_lsid: 3202-1
+wikidata_id: Q84525
+ipni_surname: Gmelin
+ipni_forenames: Carl (Karl) Christian
+ipni_standard_form: C.C.Gmel.
+ipni_dates: 1762-1837
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

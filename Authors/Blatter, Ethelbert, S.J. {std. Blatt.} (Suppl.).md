@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_suppl2_0251
+tl2_volume: suppl2
+tl2_page_printed: 207
+tl2_surname: Blatter
+tl2_forenames: Ethelbert, S.J.
+tl2_name_abbrev: Blatt.
+tl2_dates: 1877-1934
+tl2_page_id: 33265404
+author_lsid: 16210-1
+wikidata_id: Q3059270
+ipni_surname: Blatter
+ipni_forenames: Ethelbert
+ipni_standard_form: Blatt.
+ipni_dates: 1877-1934
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-12-14 13:48:01.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

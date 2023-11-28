@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_1007
+tl2_volume: vol4
+tl2_page_printed: 975
+tl2_surname: Rübel
+tl2_forenames: (Rübel-Blass) Eduard August
+tl2_name_abbrev: Rübel
+tl2_dates: 1876-1960
+tl2_page_id: 33190446
+author_lsid: 8716-1
+wikidata_id: Q125724
+ipni_surname: Rübel
+ipni_forenames: Eduard August
+ipni_standard_form: Rübel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 975](https://www.biodiversitylibrary.org/page/33190446) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

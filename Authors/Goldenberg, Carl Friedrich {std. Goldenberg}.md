@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1221
+tl2_volume: vol1
+tl2_page_printed: 968
+tl2_surname: Goldenberg
+tl2_forenames: Carl Friedrich
+tl2_name_abbrev: Goldenberg
+tl2_dates: 1798-1881
+tl2_page_id: 33121099
+author_lsid: 3236-1
+wikidata_id: Q20746031
+ipni_surname: Goldenberg
+ipni_forenames: Carl Friedrich
+ipni_standard_form: Goldenb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Fossils
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

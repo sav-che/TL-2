@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0072
+tl2_volume: vol2
+tl2_page_printed: 50
+tl2_surname: Happe
+tl2_forenames: Andreas Friederich
+tl2_name_abbrev: Happe
+tl2_dates: 1733-1802
+tl2_page_id: 33068292
+author_lsid: 3642-1
+wikidata_id: Q21515482
+ipni_surname: Happe
+ipni_forenames: Andreas Friederich
+ipni_standard_form: Happe
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

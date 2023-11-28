@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0577
+tl2_volume: vol4
+tl2_page_printed: 569
+tl2_surname: Rama Rao
+tl2_forenames: Rao Sahib Muttada
+tl2_name_abbrev: Rama Rao
+tl2_dates: 1865-?
+tl2_page_id: 33190040
+author_lsid: 8116-1
+wikidata_id: Q21606909
+ipni_surname: Rama Rao
+ipni_forenames: Muttada
+ipni_standard_form: Rama Rao
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- India
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

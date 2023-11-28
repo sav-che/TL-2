@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0765
+tl2_volume: vol1
+tl2_page_printed: 603
+tl2_surname: Day
+tl2_forenames: Mary Anna
+tl2_name_abbrev: Day
+tl2_dates: 1852-1924
+tl2_page_id: 33120734
+author_lsid: 2045-1
+wikidata_id: Q21509971
+ipni_surname: Day
+ipni_forenames: Mary Anna
+ipni_standard_form: Day
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United States
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0856
+tl2_volume: vol2
+tl2_page_printed: 725
+tl2_surname: Lahm
+tl2_forenames: Johann Gottlieb Franz-Xaver
+tl2_name_abbrev: J. Lahm
+tl2_dates: 1811-1888
+tl2_page_id: 33068967
+author_lsid: 21975-1
+wikidata_id: Q21339682
+ipni_surname: Lahm
+ipni_forenames: Johann Gottlieb Franz-Xaver
+ipni_standard_form: J.Lahm
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

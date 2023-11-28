@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0097
+tl2_volume: vol5
+tl2_page_printed: 94
+tl2_surname: Say
+tl2_forenames: Thomas
+tl2_name_abbrev: Say
+tl2_dates: 1787-1834
+tl2_page_id: 33333233
+author_lsid: 8988-1
+wikidata_id: Q546079
+ipni_surname: Say
+ipni_forenames: Thomas
+ipni_standard_form: Say
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0914
+tl2_volume: vol2
+tl2_page_printed: 767
+tl2_surname: Laurer
+tl2_forenames: Johann Friedrich
+tl2_name_abbrev: Laurer
+tl2_dates: 1798-1873
+tl2_page_id: 33069009
+author_lsid: 5328-1
+wikidata_id: Q21341241
+ipni_surname: Laurer
+ipni_forenames: Johann Friedrich
+ipni_standard_form: Laurer
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+- Bryophytes
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

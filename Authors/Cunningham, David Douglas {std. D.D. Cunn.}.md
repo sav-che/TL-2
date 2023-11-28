@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0723
+tl2_volume: vol1
+tl2_page_printed: 572
+tl2_surname: Cunningham
+tl2_forenames: David Douglas
+tl2_name_abbrev: D.D. Cunn.
+tl2_dates: 1843-1914
+tl2_page_id: 33120703
+author_lsid: 17581-1
+wikidata_id: Q3017793
+ipni_surname: Cunningham
+ipni_forenames: David Douglas
+ipni_standard_form: D.D.Cunn.
+ipni_dates: 1843-1914
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Algae
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33120703) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

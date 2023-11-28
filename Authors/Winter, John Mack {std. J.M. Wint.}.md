@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0337
+tl2_volume: vol7
+tl2_page_printed: 383
+tl2_surname: Winter
+tl2_forenames: John Mack
+tl2_name_abbrev: J.M. Wint.
+tl2_dates: 1899-1964
+tl2_page_id: 33066723
+author_lsid: 11774-1
+wikidata_id: Q21612839
+ipni_surname: Winter
+ipni_forenames: John Mack
+ipni_standard_form: J.M.Winter
+ipni_dates: 1899-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:26:24.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33066723) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

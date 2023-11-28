@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0609
+tl2_volume: vol1
+tl2_page_printed: 492
+tl2_surname: Chesney
+tl2_forenames: Francis Rawdon
+tl2_name_abbrev: Chesney
+tl2_dates: 1789-1872
+tl2_page_id: 33120623
+author_lsid: 34742-1
+wikidata_id: Q708134
+ipni_surname: Chesney
+ipni_forenames: Francis Rawdon
+ipni_standard_form: Chesney
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

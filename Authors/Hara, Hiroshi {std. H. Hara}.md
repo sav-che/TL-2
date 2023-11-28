@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0073
+tl2_volume: vol2
+tl2_page_printed: 50
+tl2_surname: Hara
+tl2_forenames: Hiroshi
+tl2_name_abbrev: H. Hara
+tl2_dates: 1911-x
+tl2_page_id: 33068292
+author_lsid: 3643-1
+wikidata_id: Q247149
+ipni_surname: Hara
+ipni_forenames: Hiroshi
+ipni_standard_form: H.Hara
+ipni_dates: 1911-1986
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:31:19.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

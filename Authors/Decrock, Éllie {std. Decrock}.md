@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl5_0156
+tl2_volume: suppl5
+tl2_page_printed: 142
+tl2_surname: Decrock
+tl2_forenames: Éllie
+tl2_name_abbrev: Decrock
+tl2_dates: fl. 1896-1938
+tl2_page_id: 33259188
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

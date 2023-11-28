@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol7_0317
+tl2_volume: vol7
+tl2_page_printed: 359
+tl2_surname: Wimmer
+tl2_forenames: [Christian] Friedrich [Heinrich]
+tl2_name_abbrev: Wimm.
+tl2_dates: 1803-1868
+tl2_page_id: 33066699
+author_lsid: 11751-1
+wikidata_id: Q87538
+ipni_surname: Wimmer
+ipni_forenames: Christian Friedrich Heinrich
+ipni_standard_form: Wimm.
+ipni_dates: 1803-1868
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Mycology
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:28:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33066699) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

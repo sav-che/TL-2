@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_suppl1_0020
+tl2_volume: suppl1
+tl2_page_printed: 13
+tl2_surname: Acerbi
+tl2_forenames: Giuseppe
+tl2_name_abbrev: Acerbi
+tl2_dates: 1773-1846
+tl2_page_id: 33264762
+author_lsid: 20016134-2
+wikidata_id: Q55007624
+ipni_surname: Acerbi
+ipni_forenames: Giuseppe
+ipni_standard_form: Acerbi
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Italy
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33264762) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

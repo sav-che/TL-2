@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol4_0315
+tl2_volume: vol4
+tl2_page_printed: 266
+tl2_surname: Pillans
+tl2_forenames: Neville Stuart
+tl2_name_abbrev: Pillans
+tl2_dates: 1884-1964
+tl2_page_id: 33189737
+author_lsid: 7703-1
+wikidata_id: Q3338889
+ipni_surname: Pillans
+ipni_forenames: Neville Stuart
+ipni_standard_form: Pillans
+ipni_dates: 1884-1964
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- South Africa
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:43:53.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33189737) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

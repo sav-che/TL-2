@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0112
+tl2_volume: vol2
+tl2_page_printed: 95
+tl2_surname: Hasskarl
+tl2_forenames: Justus Karl
+tl2_name_abbrev: Hassk.
+tl2_dates: 1811-1894
+tl2_page_id: 33068337
+author_lsid: 3719-1
+wikidata_id: Q68616
+ipni_surname: Hasskarl
+ipni_forenames: Justus Carl
+ipni_standard_form: Hassk.
+ipni_dates: 1811-1894
+ipni_taxon_scope: 
+- Botany
+- Pteridophytes
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope: 
+- Indonesia
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:51:09.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33068337) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

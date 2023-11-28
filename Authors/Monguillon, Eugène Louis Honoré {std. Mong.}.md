@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol3_0642
+tl2_volume: vol3
+tl2_page_printed: 555
+tl2_surname: Monguillon
+tl2_forenames: Eugène Louis Honoré
+tl2_name_abbrev: Mong.
+tl2_dates: 1865-1940
+tl2_page_id: 33355642
+author_lsid: 23551-1
+wikidata_id: Q21339487
+ipni_surname: Monguillon
+ipni_forenames: Eugène Louis Honoré
+ipni_standard_form: Mong.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33355642) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

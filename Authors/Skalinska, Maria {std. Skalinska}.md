@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0630
+tl2_volume: vol5
+tl2_page_printed: 624
+tl2_surname: Skalinska
+tl2_forenames: Maria
+tl2_name_abbrev: Skalinska
+tl2_dates: 1890-1977
+tl2_page_id: 33333763
+author_lsid: 9711-1
+wikidata_id: Q15991170
+ipni_surname: Skalińska
+ipni_forenames: Maria
+ipni_standard_form: Skalińska
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

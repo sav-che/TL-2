@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0848
+tl2_volume: vol2
+tl2_page_printed: 719
+tl2_surname: Lagarde
+tl2_forenames: Joannes Joseph
+tl2_name_abbrev: Lagarde
+tl2_dates: 1866-?
+tl2_page_id: 33068961
+author_lsid: 5203-1
+wikidata_id: Q21518301
+ipni_surname: Lagarde
+ipni_forenames: Joannes Joseph
+ipni_standard_form: Lagarde
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

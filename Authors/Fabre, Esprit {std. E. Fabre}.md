@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0002
+tl2_volume: suppl7
+tl2_page_printed: 3
+tl2_surname: Fabre
+tl2_forenames: Esprit
+tl2_name_abbrev: E. Fabre
+tl2_dates: 1791-1866
+tl2_page_id: 33259507
+author_lsid: 2611-1
+wikidata_id: Q47117000
+ipni_surname: Fabre
+ipni_forenames: Esprit
+ipni_standard_form: E.Fabre
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

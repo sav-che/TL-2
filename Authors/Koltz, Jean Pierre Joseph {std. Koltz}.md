@@ -1,3 +1,31 @@
+---
+tl2_entry_id: tl2_vol2_0748
+tl2_volume: vol2
+tl2_page_printed: 610
+tl2_surname: Koltz
+tl2_forenames: Jean Pierre Joseph
+tl2_name_abbrev: Koltz
+tl2_dates: 1827-1907
+tl2_page_id: 33068852
+author_lsid: 4946-1
+wikidata_id: Q16439583
+ipni_surname: Koltz
+ipni_forenames: Jean Pierre Joseph
+ipni_standard_form: Koltz
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+- Bryophytes
+ipni_geo_scope: 
+- Luxembourg
+- Belgium
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

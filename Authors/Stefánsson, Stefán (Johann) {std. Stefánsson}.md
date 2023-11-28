@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0868
+tl2_volume: vol5
+tl2_page_printed: 868
+tl2_surname: Stefánsson
+tl2_forenames: Stefán [Johann]
+tl2_name_abbrev: Stefánsson
+tl2_dates: 1863-1921
+tl2_page_id: 33334007
+author_lsid: 10067-1
+wikidata_id: Q9345362
+ipni_surname: Stefánsson
+ipni_forenames: Stefán (Johann)
+ipni_standard_form: Stefánsson
+ipni_dates: 1863-1921
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33334007) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

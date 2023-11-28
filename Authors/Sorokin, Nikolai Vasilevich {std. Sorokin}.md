@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0748
+tl2_volume: vol5
+tl2_page_printed: 752
+tl2_surname: Sorokin
+tl2_forenames: Nikolai Vasilevich
+tl2_name_abbrev: Sorokin
+tl2_dates: 1846-1909
+tl2_page_id: 33333891
+author_lsid: 9908-1
+wikidata_id: Q4429212
+ipni_surname: Sorokin
+ipni_forenames: Nicolai Vasilevitch(Vasilevich)
+ipni_standard_form: Sorokin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Mycology
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

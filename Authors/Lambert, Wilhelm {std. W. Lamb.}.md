@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0867
+tl2_volume: vol2
+tl2_page_printed: 738
+tl2_surname: Lambert
+tl2_forenames: Wilhelm
+tl2_name_abbrev: W. Lamb.
+tl2_dates: 1827-1860
+tl2_page_id: 33068980
+author_lsid: 5233-1
+wikidata_id: Q21518332
+ipni_surname: Lambert
+ipni_forenames: Wilhelm
+ipni_standard_form: W.Lamb.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

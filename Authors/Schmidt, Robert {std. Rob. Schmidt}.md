@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0244
+tl2_volume: vol5
+tl2_page_printed: 260
+tl2_surname: Schmidt
+tl2_forenames: Robert
+tl2_name_abbrev: Rob. Schmidt
+tl2_dates: 1826-1890
+tl2_page_id: 33333399
+author_lsid: 9169-1
+wikidata_id: Q21608173
+ipni_surname: Schmidt
+ipni_forenames: Robert
+ipni_standard_form: R.Schmidt
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33333399) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol1_1222
+tl2_volume: vol1
+tl2_page_printed: 969
+tl2_surname: Goldfuss
+tl2_forenames: Georg August
+tl2_name_abbrev: Goldfuss
+tl2_dates: 1782-1848
+tl2_page_id: 33121100
+author_lsid: 3237-1
+wikidata_id: Q60622
+ipni_surname: Goldfuss
+ipni_forenames: Georg August
+ipni_standard_form: Goldfuss
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33121100) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

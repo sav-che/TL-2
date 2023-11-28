@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol2_0285
+tl2_volume: vol2
+tl2_page_printed: 235
+tl2_surname: Hofberg
+tl2_forenames: Johan Herrman
+tl2_name_abbrev: Hofberg
+tl2_dates: 1823-1880
+tl2_page_id: 33068477
+author_lsid: 4008-1
+wikidata_id: Q21515909
+ipni_surname: Hofberg
+ipni_forenames: Kohan Herrman
+ipni_standard_form: Hofberg
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

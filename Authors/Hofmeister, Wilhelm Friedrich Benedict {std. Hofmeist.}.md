@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol2_0302
+tl2_volume: vol2
+tl2_page_printed: 250
+tl2_surname: Hofmeister
+tl2_forenames: Wilhelm Friedrich Benedict
+tl2_name_abbrev: Hofmeist.
+tl2_dates: 1824-1877
+tl2_page_id: 33068492
+author_lsid: 4030-1
+wikidata_id: Q215935
+ipni_surname: Hofmeister
+ipni_forenames: Wilhelm Friedrich Benedict
+ipni_standard_form: Hofmeist.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33068492) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol4_0824
+tl2_volume: vol4
+tl2_page_printed: 818
+tl2_surname: Robolsky
+tl2_forenames: H.
+tl2_name_abbrev: Robolsky
+tl2_dates: 1796-1849
+tl2_page_id: 33190289
+author_lsid: 8461-1
+wikidata_id: Q21607292
+ipni_surname: Robolsky
+ipni_forenames: H.
+ipni_standard_form: Robolsky
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

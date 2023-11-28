@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol7_0247
+tl2_volume: vol7
+tl2_page_printed: 263
+tl2_surname: Wiegmann
+tl2_forenames: Arend [Joachim] Friedrich
+tl2_name_abbrev: Wiegmann
+tl2_dates: 1770-1853
+tl2_page_id: 33066603
+author_lsid: 13012-1
+wikidata_id: Q90016
+ipni_surname: Wiegmann
+ipni_forenames: Arend (Joachim) Friedrich
+ipni_standard_form: Wiegmann
+ipni_dates: 1770-1853
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:50:16.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33066603) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

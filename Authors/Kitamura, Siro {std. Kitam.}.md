@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol2_0667
+tl2_volume: vol2
+tl2_page_printed: 556
+tl2_surname: Kitamura
+tl2_forenames: Siro
+tl2_name_abbrev: Kitam.
+tl2_dates: 1906-x
+tl2_page_id: 33068798
+author_lsid: 4820-1
+wikidata_id: Q4222439
+ipni_surname: Kitamura
+ipni_forenames: Siro
+ipni_standard_form: Kitam.
+ipni_dates: 1906-2002
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Afghanistan
+- Japan
+ipni_version: 1.2.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:53:20.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33068798) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

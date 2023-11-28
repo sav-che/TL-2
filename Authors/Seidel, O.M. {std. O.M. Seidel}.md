@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0469
+tl2_volume: vol5
+tl2_page_printed: 491
+tl2_surname: Seidel
+tl2_forenames: O.M.
+tl2_name_abbrev: O.M. Seidel
+tl2_dates: 1841-1917
+tl2_page_id: 33333630
+author_lsid: 9436-1
+wikidata_id: Q21608628
+ipni_surname: Seidel
+ipni_forenames: O.M.
+ipni_standard_form: O.M.Seidel
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

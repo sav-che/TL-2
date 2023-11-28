@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0485
+tl2_volume: vol5
+tl2_page_printed: 498
+tl2_surname: Seligmann
+tl2_forenames: Johann Michael
+tl2_name_abbrev: Seligmann
+tl2_dates: 1720-1762
+tl2_page_id: 33333637
+author_lsid: 9457-1
+wikidata_id: Q6216132
+ipni_surname: Seligmann
+ipni_forenames: Johann Michael
+ipni_standard_form: Seligm.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

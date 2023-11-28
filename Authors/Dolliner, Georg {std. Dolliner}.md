@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl6_0035
+tl2_volume: suppl6
+tl2_page_printed: 32
+tl2_surname: Dolliner
+tl2_forenames: Georg
+tl2_name_abbrev: Dolliner
+tl2_dates: 1794-1872
+tl2_page_id: 33260020
+author_lsid: 2259-1
+wikidata_id: Q12793122
+ipni_surname: Dolliner
+ipni_forenames: Georg
+ipni_standard_form: Dolliner
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.2
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

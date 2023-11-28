@@ -1,3 +1,26 @@
+---
+tl2_entry_id: tl2_suppl7_0179
+tl2_volume: suppl7
+tl2_page_printed: 271
+tl2_surname: Flot
+tl2_forenames: Léon Alfred Victor
+tl2_name_abbrev: Flot
+tl2_dates: 1857-x
+tl2_page_id: 33259775
+author_lsid: 
+wikidata_id: 
+ipni_surname: 
+ipni_forenames: 
+ipni_standard_form: 
+ipni_dates: 
+ipni_taxon_scope: 
+ipni_geo_scope: 
+ipni_version: 
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

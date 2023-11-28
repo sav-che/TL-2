@@ -1,3 +1,30 @@
+---
+tl2_entry_id: tl2_vol4_0882
+tl2_volume: vol4
+tl2_page_printed: 868
+tl2_surname: Rolander
+tl2_forenames: Daniel
+tl2_name_abbrev: Rolander
+tl2_dates: 1725-1793
+tl2_page_id: 33190339
+author_lsid: 8548-1
+wikidata_id: Q1162358
+ipni_surname: Rolander
+ipni_forenames: Daniel
+ipni_standard_form: Rol.
+ipni_dates: 1725-1793
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+- Suriname
+- Sweden
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:49:43.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

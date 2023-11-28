@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0852
+tl2_volume: vol1
+tl2_page_printed: 672
+tl2_surname: Donkin
+tl2_forenames: Arthur Scott
+tl2_name_abbrev: Donkin
+tl2_dates: fl. 1858-1873
+tl2_page_id: 33120803
+author_lsid: 2274-1
+wikidata_id: Q36501058
+ipni_surname: Donkin
+ipni_forenames: Arthur Scott
+ipni_standard_form: Donkin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Algae
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1.1.1.2.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33120803) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

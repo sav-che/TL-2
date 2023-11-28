@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol3_0028
+tl2_volume: vol3
+tl2_page_printed: 22
+tl2_surname: Linczevski
+tl2_forenames: Igorj Alexandrovicz
+tl2_name_abbrev: Linczevski
+tl2_dates: 1908-x
+tl2_page_id: 33355105
+author_lsid: 5598-1
+wikidata_id: Q276908
+ipni_surname: Linczevski
+ipni_forenames: Igor Alexandrovich
+ipni_standard_form: Lincz.
+ipni_dates: 1908-1997
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.2.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-09-04 09:25:02.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33355105) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

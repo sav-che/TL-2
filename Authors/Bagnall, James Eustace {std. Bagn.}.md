@@ -1,3 +1,29 @@
+---
+tl2_entry_id: tl2_vol1_0130
+tl2_volume: vol1
+tl2_page_printed: 91
+tl2_surname: Bagnall
+tl2_forenames: James Eustace
+tl2_name_abbrev: Bagn.
+tl2_dates: 1830-1918
+tl2_page_id: 33120222
+author_lsid: 31179-1
+wikidata_id: Q9010691
+ipni_surname: Bagnall
+ipni_forenames: James Eustace
+ipni_standard_form: Bagn.
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Bryophytes
+ipni_geo_scope: 
+- United Kingdom
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33120222) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

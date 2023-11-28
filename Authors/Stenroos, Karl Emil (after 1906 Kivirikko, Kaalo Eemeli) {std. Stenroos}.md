@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_vol5_0893
+tl2_volume: vol5
+tl2_page_printed: 884
+tl2_surname: Stenroos
+tl2_forenames: Karl Emil (after 1906 Kivirikko, Kaalo Eemeli)
+tl2_name_abbrev: Stenroos
+tl2_dates: 1870-1947
+tl2_page_id: 33334023
+author_lsid: 10096-1
+wikidata_id: Q17381689
+ipni_surname: Stenroos
+ipni_forenames: Karl Emil
+ipni_standard_form: Stenroos
+ipni_dates: 1870-1947
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1.1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2013-05-15 11:32:23.0
+---
+
+
 > [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33334023) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

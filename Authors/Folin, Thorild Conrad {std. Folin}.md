@@ -1,3 +1,28 @@
+---
+tl2_entry_id: tl2_suppl7_0193
+tl2_volume: suppl7
+tl2_page_printed: 292
+tl2_surname: Folin
+tl2_forenames: Thorild Conrad
+tl2_name_abbrev: Folin
+tl2_dates: 1881-fl. 1942
+tl2_page_id: 33259796
+author_lsid: 2805-1
+wikidata_id: Q36687607
+ipni_surname: Folin
+ipni_forenames: Th.
+ipni_standard_form: Folin
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 

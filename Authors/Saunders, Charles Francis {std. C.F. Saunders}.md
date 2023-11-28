@@ -1,3 +1,28 @@
+---
+tl2_entry_id: nn1
+tl2_volume: vol5
+tl2_page_printed: 65
+tl2_surname: Saunders
+tl2_forenames: Charles Francis
+tl2_name_abbrev: C.F. Saunders
+tl2_dates: 1859-1941
+tl2_page_id: 33333204
+author_lsid: 8951-1
+wikidata_id: Q21607775
+ipni_surname: Saunders
+ipni_forenames: Charles Francis
+ipni_standard_form: C.F.Saunders
+ipni_dates: 
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
+ipni_geo_scope: 
+ipni_version: 1.1
+ipni_record_created: 
+ipni_record_modified:
+---
+
+
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
